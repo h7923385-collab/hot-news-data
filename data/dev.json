@@ -2,11 +2,19 @@
   "data": [
     {
       "title": "More Accessible Focus Indicators with Compose",
-      "hot": "❤️ 17 💬 0",
+      "hot": "❤️ 18 💬 0",
       "desc": "Last summer, I wrote a blog post about focus management with Compose. Ever since, I’ve had drafts of...",
       "source": "dev",
       "tag": "android,  a11y",
       "url": "https://dev.to/eevajonnapanula/more-accessible-focus-indicators-with-compose-1ca4"
+    },
+    {
+      "title": "Stop Using Your Clipboard to Share Context",
+      "hot": "❤️ 10 💬 0",
+      "desc": "We're all learning how to code with agents. If you're \"in the bubble\" it can feel like everyone is...",
+      "source": "dev",
+      "tag": "ai,  agents",
+      "url": "https://dev.to/thisisryanswift/stop-using-your-clipboard-to-share-context-3941"
     },
     {
       "title": "Forking Paseo: Mobile vibe coding for me",
@@ -41,12 +49,12 @@
       "url": "https://dev.to/arunkant/why-im-building-saas-in-2026-55hn"
     },
     {
-      "title": "Everyone's Talking About Gemini. The Real Story at Google Cloud NEXT '26 Was GKE Agent Sandbox.",
-      "hot": "❤️ 11 💬 4",
-      "desc": "Google Cloud NEXT '26 had one clear headline: the Gemini Enterprise Agent Platform. A full-stack...",
+      "title": "Mapbox GL JS adds support for PMTiles vector sources",
+      "hot": "❤️ 4 💬 1",
+      "desc": "Mapbox GL JS v3.21.0 added support for vector sources using the PMTiles protocol — another option in...",
       "source": "dev",
-      "tag": "cloudnextchallenge,  googlecloud",
-      "url": "https://dev.to/sreejit_caab72e273a4faa1f/everyones-talking-about-gemini-the-real-story-at-google-cloud-next-26-was-gke-agent-sandbox-19g2"
+      "tag": "spatialdata,  pmtiles",
+      "url": "https://dev.to/mapbox/mapbox-gl-js-adds-support-for-pmtiles-vector-and-raster-sources-141b"
     },
     {
       "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
@@ -105,6 +113,14 @@
       "url": "https://dev.to/ben/meme-monday-98e"
     },
     {
+      "title": "Cold Starts Are Dead",
+      "hot": "❤️ 31 💬 8",
+      "desc": "It never fails. Every time I talk about serverless, someone pushes back with the cold start argument....",
+      "source": "dev",
+      "tag": "serverless,  aws",
+      "url": "https://dev.to/aws/cold-starts-are-dead-5fod"
+    },
+    {
       "title": "Platform-Neutral AI Tools Are the Safer Long-Term Bet",
       "hot": "❤️ 0 💬 0",
       "desc": "AI tool lock-in lives in your context and intent layer, not just the API. Why platform-neutral tooling protects what you",
@@ -113,20 +129,20 @@
       "url": "https://dev.to/mrlarson2007_62/platform-neutral-ai-tools-are-the-safer-long-term-bet-42i1"
     },
     {
-      "title": "Cold Starts Are Dead",
-      "hot": "❤️ 30 💬 8",
-      "desc": "It never fails. Every time I talk about serverless, someone pushes back with the cold start argument....",
-      "source": "dev",
-      "tag": "serverless,  aws",
-      "url": "https://dev.to/aws/cold-starts-are-dead-5fod"
-    },
-    {
       "title": "I built a shell script that sets up your entire AI coding agent workspace in 2 minutes",
       "hot": "❤️ 0 💬 0",
       "desc": "Stop repeating yourself to Claude Code and Codex. One script generates CLAUDE.md, AGENTS.md, security rules, testing str",
       "source": "dev",
       "tag": "ai,  productivity",
       "url": "https://dev.to/shad_tech/i-built-a-shell-script-that-sets-up-your-entire-ai-coding-agent-workspace-in-2-minutes-13ep"
+    },
+    {
+      "title": "Everyone's Talking About Gemini. The Real Story at Google Cloud NEXT '26 Was GKE Agent Sandbox.",
+      "hot": "❤️ 12 💬 4",
+      "desc": "Google Cloud NEXT '26 had one clear headline: the Gemini Enterprise Agent Platform. A full-stack...",
+      "source": "dev",
+      "tag": "cloudnextchallenge,  googlecloud",
+      "url": "https://dev.to/sreejit_caab72e273a4faa1f/everyones-talking-about-gemini-the-real-story-at-google-cloud-next-26-was-gke-agent-sandbox-19g2"
     },
     {
       "title": "Boring code is an organizational tell",
@@ -143,23 +159,7 @@
       "source": "dev",
       "tag": "ai,  discuss",
       "url": "https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo"
-    },
-    {
-      "title": "ML acceleration guide: TPUs vs GPUs",
-      "hot": "❤️ 25 💬 0",
-      "desc": "There’s a lot of hype around GPUs and NVIDIA, but how much do you know about TPUs?      Article...",
-      "source": "dev",
-      "tag": "tpu,  gpu",
-      "url": "https://dev.to/gde/ml-acceleration-guide-tpus-vs-gpus-16oh"
-    },
-    {
-      "title": "How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)",
-      "hot": "❤️ 0 💬 0",
-      "desc": "I built Ghost-hunter, an AI agent that investigates cloud bill spikes the way a senior on-call...",
-      "source": "dev",
-      "tag": "aws,  devops",
-      "url": "https://dev.to/nash_matrixgard/how-i-built-an-ai-agent-that-investigates-cloud-bill-spikes-architecture-inside-113p"
     }
   ],
-  "updatedAt": "2026-04-30T19:53:50.025Z"
+  "updatedAt": "2026-04-30T20:46:03.106Z"
 }
