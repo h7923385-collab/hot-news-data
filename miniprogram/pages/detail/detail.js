@@ -1,4 +1,3 @@
-// 加载详细数据
 var HOT_DETAIL = require('../../data-detail.js')
 
 var SOURCE_NAMES = {
@@ -17,7 +16,8 @@ Page({
     source: '',
     sourceName: '',
     tag: '热点',
-    time: ''
+    time: '',
+    dataNote: ''
   },
 
   onLoad(options) {
@@ -27,26 +27,23 @@ Page({
     var source = decodeURIComponent(options.source || '热点')
     var sourceName = SOURCE_NAMES[source] || source
 
-    // 尝试从详细数据中匹配
     var fullDesc = desc
     var tag = '热点'
     if (HOT_DETAIL && HOT_DETAIL[source]) {
       for (var i = 0; i < HOT_DETAIL[source].length; i++) {
         var item = HOT_DETAIL[source][i]
         if (item.title === title) {
-          if (item.desc) fullDesc = item.desc
+          if (item.desc && item.desc.length > (desc || '').length) fullDesc = item.desc
           if (item.tag) tag = item.tag
           break
         }
       }
     }
 
-    // 如果描述太短，补充默认内容
-    if (!fullDesc || fullDesc.length < 20) {
-      fullDesc = title + '。' + (fullDesc || '') + '。更多相关信息正在持续更新中，请关注后续报道。'
+    if (!fullDesc || fullDesc.length < 10) {
+      fullDesc = title + '。更多详情持续更新中。'
     }
 
-    // 生成时间
     var now = new Date()
     var timeStr = now.getFullYear() + '-' + String(now.getMonth()+1).padStart(2,'0') + '-' + String(now.getDate()).padStart(2,'0') + ' ' + String(now.getHours()).padStart(2,'0') + ':' + String(now.getMinutes()).padStart(2,'0')
 
@@ -57,12 +54,13 @@ Page({
       source: source,
       sourceName: sourceName,
       tag: tag,
-      time: timeStr
+      time: timeStr,
+      dataNote: source === 'tech' ? '数据来源：Hacker News（实时）' : '数据来源：综合资讯（持续更新）'
     })
   },
 
   copyContent: function() {
-    var text = this.data.title + ' - 热度' + this.data.hot + '\n' + this.data.fullDesc + '\nvia 今日热点小程序'
+    var text = this.data.title + '\n热度: ' + this.data.hot + '\n\n' + this.data.fullDesc + '\n\n来自 今日热点小程序'
     wx.setClipboardData({
       data: text,
       success: function() { wx.showToast({ title: '复制成功', icon: 'success' }) }
@@ -70,9 +68,6 @@ Page({
   },
 
   onShareAppMessage: function() {
-    return {
-      title: this.data.title,
-      desc: this.data.fullDesc.substring(0, 60)
-    }
+    return { title: this.data.title, desc: this.data.fullDesc.substring(0, 60) }
   }
 })
