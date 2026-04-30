@@ -95,125 +95,7 @@
   letter-spacing: 0.5rpx;
 }
 
-/* 热度条 */
-.heat-bars {
-  display: flex;
-  flex-direction: column;
-  gap: 20rpx;
-}
-
-.heat-item {
-  display: flex;
-  align-items: center;
-  gap: 16rpx;
-}
-
-.heat-label {
-  font-size: 24rpx;
-  color: #666;
-  width: 120rpx;
-  flex-shrink: 0;
-}
-
-.heat-bar-track {
-  flex: 1;
-  height: 16rpx;
-  background: #f0f0f0;
-  border-radius: 8rpx;
-  overflow: hidden;
-}
-
-.heat-bar-fill {
-  height: 100%;
-  background: linear-gradient(90deg, #e94560, #ff6b6b);
-  border-radius: 8rpx;
-  transition: width 0.5s;
-}
-
-.heat-bar-fill.trend {
-  background: linear-gradient(90deg, #667eea, #764ba2);
-}
-
-.heat-bar-fill.level {
-  background: linear-gradient(90deg, #f093fb, #f5576c);
-}
-
-.heat-value {
-  font-size: 24rpx;
-  color: #e94560;
-  font-weight: 600;
-  width: 100rpx;
-  text-align: right;
-  flex-shrink: 0;
-}
-
-/* 评论 */
-.comments {
-  display: flex;
-  flex-direction: column;
-  gap: 24rpx;
-}
-
-.comment-item {
-  display: flex;
-  gap: 16rpx;
-  padding-bottom: 20rpx;
-  border-bottom: 1rpx solid #f5f5f5;
-}
-
-.comment-item:last-child {
-  border-bottom: none;
-  padding-bottom: 0;
-}
-
-.comment-avatar {
-  width: 64rpx;
-  height: 64rpx;
-  border-radius: 50%;
-  background: #f0f0f0;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 32rpx;
-  flex-shrink: 0;
-}
-
-.comment-body {
-  flex: 1;
-  min-width: 0;
-}
-
-.comment-name {
-  font-size: 24rpx;
-  color: #999;
-  margin-bottom: 8rpx;
-  display: block;
-}
-
-.comment-text {
-  font-size: 26rpx;
-  color: #333;
-  line-height: 1.6;
-  display: block;
-  margin-bottom: 8rpx;
-}
-
-.comment-footer {
-  display: flex;
-  align-items: center;
-  gap: 20rpx;
-}
-
-.comment-likes {
-  font-size: 22rpx;
-  color: #999;
-}
-
-.comment-time {
-  font-size: 20rpx;
-  color: #ccc;
-}
-
+/* 分享按钮 */
 /* 底部 */
 .update-footer {
   text-align: center;
@@ -223,4 +105,34 @@
   display: flex;
   justify-content: center;
   gap: 20rpx;
+}
+
+/* 分享按钮 */
+.share-actions {
+  display: flex;
+  gap: 20rpx;
+}
+
+.share-btn, .copy-btn {
+  flex: 1;
+  height: 88rpx;
+  line-height: 88rpx;
+  text-align: center;
+  border-radius: 44rpx;
+  font-size: 28rpx;
+  border: none;
+}
+
+.share-btn {
+  background: #e94560;
+  color: #fff;
+}
+
+.copy-btn {
+  background: #f5f5f5;
+  color: #333;
+}
+
+.share-btn:active, .copy-btn:active {
+  opacity: 0.8;
 }
