@@ -1,15 +1,6 @@
 // 加载详细数据
 var HOT_DETAIL = require('../../data-detail.js')
 
-// 模拟评论数据
-var COMMENTS_DATA = {
-  '默认': [
-    { avatar: '😊', name: '热心网友小明', text: '这个热点挺有意思，值得关注一下！', likes: 128, time: '2小时前' },
-    { avatar: '🤔', name: '深度思考者', text: '分析得很到位，希望能看到更多后续报道。', likes: 86, time: '3小时前' },
-    { avatar: '🔥', name: '吃瓜群众', text: '前排围观，坐等后续发展 👀', likes: 234, time: '4小时前' }
-  ]
-}
-
 var SOURCE_NAMES = {
   weibo: '🔥 微博热搜',
   baidu: '🦴 百度热搜',
@@ -26,8 +17,7 @@ Page({
     source: '',
     sourceName: '',
     tag: '热点',
-    time: '',
-    comments: []
+    time: ''
   },
 
   onLoad(options) {
@@ -60,13 +50,6 @@ Page({
     var now = new Date()
     var timeStr = now.getFullYear() + '-' + String(now.getMonth()+1).padStart(2,'0') + '-' + String(now.getDate()).padStart(2,'0') + ' ' + String(now.getHours()).padStart(2,'0') + ':' + String(now.getMinutes()).padStart(2,'0')
 
-    // 获取评论
-    var comments = COMMENTS_DATA['默认'] || []
-    // 给每个评论随机点赞数
-    for (var j = 0; j < comments.length; j++) {
-      comments[j].likes = Math.floor(Math.random() * 500) + 50
-    }
-
     this.setData({
       title: title,
       hot: hot,
@@ -74,8 +57,7 @@ Page({
       source: source,
       sourceName: sourceName,
       tag: tag,
-      time: timeStr,
-      comments: comments
+      time: timeStr
     })
   },
 
@@ -85,11 +67,6 @@ Page({
       data: text,
       success: function() { wx.showToast({ title: '复制成功', icon: 'success' }) }
     })
-  },
-
-  goToRelated: function(e) {
-    var title = e.currentTarget.dataset.title
-    wx.showToast({ title: '加载中', icon: 'none' })
   },
 
   onShareAppMessage: function() {
