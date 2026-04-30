@@ -1,46 +1,101 @@
+// 加载详细数据
+var HOT_DETAIL = require('../../data-detail.js')
+
+// 模拟评论数据
+var COMMENTS_DATA = {
+  '默认': [
+    { avatar: '😊', name: '热心网友小明', text: '这个热点挺有意思，值得关注一下！', likes: 128, time: '2小时前' },
+    { avatar: '🤔', name: '深度思考者', text: '分析得很到位，希望能看到更多后续报道。', likes: 86, time: '3小时前' },
+    { avatar: '🔥', name: '吃瓜群众', text: '前排围观，坐等后续发展 👀', likes: 234, time: '4小时前' }
+  ]
+}
+
+var SOURCE_NAMES = {
+  weibo: '🔥 微博热搜',
+  baidu: '🦴 百度热搜',
+  zhihu: '💡 知乎热榜',
+  douyin: '🎵 抖音热榜',
+  tech: '🚀 科技热点'
+}
+
 Page({
   data: {
     title: '',
     hot: '',
-    desc: '',
+    fullDesc: '',
     source: '',
+    sourceName: '',
+    tag: '热点',
     time: '',
-    relatedList: []
+    comments: []
   },
 
   onLoad(options) {
-    const now = new Date()
-    const timeStr = `${now.getFullYear()}-${String(now.getMonth()+1).padStart(2,'0')}-${String(now.getDate()).padStart(2,'0')} ${String(now.getHours()).padStart(2,'0')}:${String(now.getMinutes()).padStart(2,'0')}`
+    var title = decodeURIComponent(options.title || '')
+    var hot = decodeURIComponent(options.hot || '')
+    var desc = decodeURIComponent(options.desc || '')
+    var source = decodeURIComponent(options.source || '热点')
+    var sourceName = SOURCE_NAMES[source] || source
+
+    // 尝试从详细数据中匹配
+    var fullDesc = desc
+    var tag = '热点'
+    if (HOT_DETAIL && HOT_DETAIL[source]) {
+      for (var i = 0; i < HOT_DETAIL[source].length; i++) {
+        var item = HOT_DETAIL[source][i]
+        if (item.title === title) {
+          if (item.desc) fullDesc = item.desc
+          if (item.tag) tag = item.tag
+          break
+        }
+      }
+    }
+
+    // 如果描述太短，补充默认内容
+    if (!fullDesc || fullDesc.length < 20) {
+      fullDesc = title + '。' + (fullDesc || '') + '。更多相关信息正在持续更新中，请关注后续报道。'
+    }
+
+    // 生成时间
+    var now = new Date()
+    var timeStr = now.getFullYear() + '-' + String(now.getMonth()+1).padStart(2,'0') + '-' + String(now.getDate()).padStart(2,'0') + ' ' + String(now.getHours()).padStart(2,'0') + ':' + String(now.getMinutes()).padStart(2,'0')
+
+    // 获取评论
+    var comments = COMMENTS_DATA['默认'] || []
+    // 给每个评论随机点赞数
+    for (var j = 0; j < comments.length; j++) {
+      comments[j].likes = Math.floor(Math.random() * 500) + 50
+    }
 
     this.setData({
-      title: decodeURIComponent(options.title || ''),
-      hot: decodeURIComponent(options.hot || ''),
-      desc: decodeURIComponent(options.desc || '暂无详细描述'),
-      source: decodeURIComponent(options.source || '热点'),
-      time: timeStr
-    })
-    this.generateRelated()
-  },
-
-  generateRelated() {
-    this.setData({
-      relatedList: [
-        { title: '今日热门话题TOP10', hot: '🔥 3256万' },
-        { title: '网友热议：你关注了吗？', hot: '🔥 2189万' },
-        { title: '更多相关资讯持续更新', hot: '🔥 1543万' }
-      ]
+      title: title,
+      hot: hot,
+      fullDesc: fullDesc,
+      source: source,
+      sourceName: sourceName,
+      tag: tag,
+      time: timeStr,
+      comments: comments
     })
   },
 
-  copyContent() {
-    const { title, hot } = this.data
+  copyContent: function() {
+    var text = this.data.title + ' - 热度' + this.data.hot + '\n' + this.data.fullDesc + '\nvia 今日热点小程序'
     wx.setClipboardData({
-      data: `${title} - 热度${hot}\nvia 今日热点小程序`,
-      success: () => wx.showToast({ title: '复制成功', icon: 'success' })
+      data: text,
+      success: function() { wx.showToast({ title: '复制成功', icon: 'success' }) }
     })
   },
 
-  onShareAppMessage() {
-    return { title: this.data.title, desc: this.data.desc }
+  goToRelated: function(e) {
+    var title = e.currentTarget.dataset.title
+    wx.showToast({ title: '加载中', icon: 'none' })
+  },
+
+  onShareAppMessage: function() {
+    return {
+      title: this.data.title,
+      desc: this.data.fullDesc.substring(0, 60)
+    }
   }
 })
