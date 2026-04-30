@@ -1,41 +1,81 @@
 <view class="container">
-  <!-- 头部 -->
-  <view class="header">
-    <view class="source-badge">{{source}}</view>
-    <text class="title">{{title}}</text>
-    <view class="meta">
-      <text class="hot">🔥 {{hot}}</text>
-      <text class="time">{{time}}</text>
+  <!-- 顶部信息区 -->
+  <view class="hero-card">
+    <view class="tag-badge">{{tag}}</view>
+    <text class="hero-title">{{title}}</text>
+    <view class="hero-meta">
+      <text class="source-label">{{sourceName}}</text>
+      <text class="meta-divider">|</text>
+      <text class="hot-label">🔥 {{hot}}</text>
     </view>
   </view>
 
-  <!-- 内容 -->
-  <view class="content-card">
-    <text class="label">热点概述</text>
-    <text class="desc">{{desc}}</text>
-  </view>
-
-  <!-- 相关热点 -->
-  <view class="related" wx:if="{{relatedList.length > 0}}">
-    <text class="section-title">📌 相关热点</text>
-    <view 
-      class="related-item" 
-      wx:for="{{relatedList}}" 
-      wx:key="index"
-      bindtap="goToDetail"
-      data-title="{{item.title}}">
-      <text class="related-title">{{item.title}}</text>
-      <text class="related-hot">{{item.hot}}</text>
+  <!-- 详细内容 -->
+  <view class="section">
+    <view class="section-header">
+      <text class="section-icon">📝</text>
+      <text class="section-title">详细内容</text>
+    </view>
+    <view class="content-body">
+      <text class="content-text">{{fullDesc}}</text>
     </view>
   </view>
 
-  <!-- 操作按钮 -->
-  <view class="actions">
-    <button class="action-btn share-btn" open-type="share">
-      <text>📤 分享给好友</text>
-    </button>
-    <button class="action-btn copy-btn" bindtap="copyContent">
-      <text>📋 复制链接</text>
-    </button>
+  <!-- 热度趋势 -->
+  <view class="section">
+    <view class="section-header">
+      <text class="section-icon">📊</text>
+      <text class="section-title">热度分析</text>
+    </view>
+    <view class="heat-bars">
+      <view class="heat-item">
+        <text class="heat-label">当前热度</text>
+        <view class="heat-bar-track">
+          <view class="heat-bar-fill" style="width: 92%;"></view>
+        </view>
+        <text class="heat-value">{{hot}}</text>
+      </view>
+      <view class="heat-item">
+        <text class="heat-label">讨论趋势</text>
+        <view class="heat-bar-track">
+          <view class="heat-bar-fill trend" style="width: 78%;"></view>
+        </view>
+        <text class="heat-value">上升中</text>
+      </view>
+      <view class="heat-item">
+        <text class="heat-label">热度等级</text>
+        <view class="heat-bar-track">
+          <view class="heat-bar-fill level" style="width: 85%;"></view>
+        </view>
+        <text class="heat-value">爆款</text>
+      </view>
+    </view>
+  </view>
+
+  <!-- 网友热评 -->
+  <view class="section">
+    <view class="section-header">
+      <text class="section-icon">💬</text>
+      <text class="section-title">网友热评</text>
+    </view>
+    <view class="comments">
+      <view class="comment-item" wx:for="{{comments}}" wx:key="index">
+        <view class="comment-avatar">{{item.avatar}}</view>
+        <view class="comment-body">
+          <text class="comment-name">{{item.name}}</text>
+          <text class="comment-text">{{item.text}}</text>
+          <view class="comment-footer">
+            <text class="comment-likes">👍 {{item.likes}}</text>
+            <text class="comment-time">{{item.time}}</text>
+          </view>
+        </view>
+      </view>
+    </view>
+  </view>
+
+  <!-- 更新时间 -->
+  <view class="update-footer">
+    <text>更新时间: {{time}}</text>
+    <text>来源: {{source}}</text>
   </view>
 </view>
