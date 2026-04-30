@@ -1,11 +1,10 @@
 var HOT_DETAIL = require('../../data-detail.js')
 
 var SOURCE_NAMES = {
-  weibo: '🔥 微博热搜',
-  baidu: '🦴 百度热搜',
-  zhihu: '💡 知乎热榜',
-  douyin: '🎵 抖音热榜',
-  tech: '🚀 科技热点'
+  tech: '🚀 全球科技',
+  dev: '💻 开发者资讯',
+  space: '🛰️ 航天探索',
+  github: '⭐ 开源趋势'
 }
 
 Page({
