@@ -1,0 +1,37 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/detail/detail",
+    "pages/favorites/favorites"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#1a1a2e",
+    "navigationBarTitleText": "今日热点",
+    "navigationBarTextStyle": "white",
+    "backgroundColor": "#f5f5f5"
+  },
+  "tabBar": {
+    "color": "#999999",
+    "selectedColor": "#e94560",
+    "backgroundColor": "#ffffff",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "images/hot.png",
+        "selectedIconPath": "images/hot_active.png",
+        "text": "热点"
+      },
+      {
+        "pagePath": "pages/favorites/favorites",
+       iconPath": "images/fav.png",
+        "selectedIconPath": "images/fav_active.png",
+        "text": "收藏"
+      }
+    ]
+  },
+  "usingComponents": {
+    "hot-card": "/components/hot-card/hot-card"
+  },
+  "sitemapLocation": "sitemap.json"
+}

@@ -1,0 +1,41 @@
+<view class="container">
+  <!-- 头部 -->
+  <view class="header">
+    <view class="source-badge">{{source}}</view>
+    <text class="title">{{title}}</text>
+    <view class="meta">
+      <text class="hot">🔥 {{hot}}</text>
+      <text class="time">{{time}}</text>
+    </view>
+  </view>
+
+  <!-- 内容 -->
+  <view class="content-card">
+    <text class="label">热点概述</text>
+    <text class="desc">{{desc}}</text>
+  </view>
+
+  <!-- 相关热点 -->
+  <view class="related" wx:if="{{relatedList.length > 0}}">
+    <text class="section-title">📌 相关热点</text>
+    <view 
+      class="related-item" 
+      wx:for="{{relatedList}}" 
+      wx:key="index"
+      bindtap="goToDetail"
+      data-title="{{item.title}}">
+      <text class="related-title">{{item.title}}</text>
+      <text class="related-hot">{{item.hot}}</text>
+    </view>
+  </view>
+
+  <!-- 操作按钮 -->
+  <view class="actions">
+    <button class="action-btn share-btn" open-type="share">
+      <text>📤 分享给好友</text>
+    </button>
+    <button class="action-btn copy-btn" bindtap="copyContent">
+      <text>📋 复制链接</text>
+    </button>
+  </view>
+</view>

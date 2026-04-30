@@ -1,0 +1,146 @@
+.container {
+  padding: 30rpx;
+  background: #f5f5f5;
+  min-height: 100vh;
+}
+
+/* 头部 */
+.header {
+  background: #fff;
+  border-radius: 20rpx;
+  padding: 32rpx;
+  box-shadow: 0 2rpx 12rpx rgba(0,0,0,0.06);
+  margin-bottom: 20rpx;
+}
+
+.source-badge {
+  display: inline-block;
+  background: #e94560;
+  color: #fff;
+  font-size: 22rpx;
+  padding: 6rpx 20rpx;
+  border-radius: 20rpx;
+  margin-bottom: 16rpx;
+}
+
+.title {
+  font-size: 36rpx;
+  font-weight: 700;
+  color: #1a1a2e;
+  line-height: 1.5;
+  display: block;
+  margin-bottom: 16rpx;
+}
+
+.meta {
+  display: flex;
+  align-items: center;
+  font-size: 24rpx;
+  color: #999;
+}
+
+.hot {
+  color: #e94560;
+  font-weight: 600;
+  margin-right: 20rpx;
+}
+
+/* 内容卡片 */
+.content-card {
+  background: #fff;
+  border-radius: 20rpx;
+  padding: 32rpx;
+  margin-bottom: 20rpx;
+  box-shadow: 0 2rpx 12rpx rgba(0,0,0,0.06);
+}
+
+.label {
+  display: block;
+  font-size: 26rpx;
+  color: #999;
+  margin-bottom: 16rpx;
+}
+
+.desc {
+  display: block;
+  font-size: 30rpx;
+  color: #333;
+  line-height: 1.8;
+}
+
+/* 相关热点 */
+.related {
+  background: #fff;
+  border-radius: 20rpx;
+  padding: 32rpx;
+  margin-bottom: 20rpx;
+  box-shadow: 0 2rpx 12rpx rgba(0,0,0,0.06);
+}
+
+.section-title {
+  display: block;
+  font-size: 30rpx;
+  font-weight: 600;
+  color: #1a1a2e;
+  margin-bottom: 20rpx;
+}
+
+.related-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20rpx 0;
+  border-bottom: 1px solid #f5f5f5;
+}
+
+.related-item:last-child {
+  border-bottom: none;
+}
+
+.related-title {
+  font-size: 26rpx;
+  color: #333;
+  flex: 1;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  margin-right: 20rpx;
+}
+
+.related-hot {
+  font-size: 24rpx;
+  color: #e94560;
+  flex-shrink: 0;
+}
+
+/* 操作按钮 */
+.actions {
+  display: flex;
+  gap: 20rpx;
+  margin-top: 20rpx;
+}
+
+.action-btn {
+  flex: 1;
+  height: 88rpx;
+  line-height: 88rpx;
+  text-align: center;
+  border-radius: 44rpx;
+  font-size: 28rpx;
+  border: none;
+}
+
+.share-btn {
+  background: #e94560;
+  color: #fff;
+}
+
+.copy-btn {
+  background: #fff;
+  color: #333;
+  box-shadow: 0 2rpx 8rpx rgba(0,0,0,0.08);
+}
+
+.action-btn:active {
+  opacity: 0.8;
+}

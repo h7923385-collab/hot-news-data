@@ -1,0 +1,9 @@
+{
+  "name": "hot-news-miniapp",
+  "version": "1.0.0",
+  "description": "🔥 热点推送小程序 - 零成本版",
+  "scripts": {
+    "fetch": "node scripts/fetch-hot-news.js"
+  },
+  "private": true
+}

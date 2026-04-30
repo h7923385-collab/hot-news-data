@@ -1,0 +1,39 @@
+<view class="container">
+  <!-- 头部 -->
+  <view class="header">
+    <text class="title">我的收藏</text>
+    <text class="count">共 {{favorites.length}} 条</text>
+  </view>
+
+  <!-- 收藏列表 -->
+  <view class="list" wx:if="{{favorites.length > 0}}">
+    <view 
+      class="fav-item" 
+      wx:for="{{favorites}}" 
+      wx:key="index"
+      bindtap="goToDetail" 
+      data-item="{{item}}">
+      
+      <view class="content">
+        <view class="source-tag">{{item.source || '热点'}}</view>
+        <view class="title">{{item.title}}</view>
+        <view class="meta">
+          <text class="hot">🔥 {{item.hot}}</text>
+          <text class="date">{{formatDate(item.savedAt)}}</text>
+        </view>
+      </view>
+
+      <view class="remove-btn" bindtap="removeFavorite" data-index="{{index}}" catchtap>
+        <text>🗑️</text>
+      </view>
+    </view>
+  </view>
+
+  <!-- 空状态 -->
+  <view class="empty" wx:else>
+    <text class="empty-icon">📭</text>
+    <text class="empty-text">还没有收藏的热点</text>
+    <text class="empty-hint">去热点页点击🤍收藏吧</text>
+    <button class="go-btn" bindtap="goToHome">去看看热点</button>
+  </view>
+</view>

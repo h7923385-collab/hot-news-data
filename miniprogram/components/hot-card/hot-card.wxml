@@ -1,0 +1,15 @@
+<view class="card" bindtap="onTap">
+  <view class="rank-circle {{rank <= 3 ? 'top' : ''}}">
+    {{rank}}
+  </view>
+  <view class="card-content">
+    <text class="card-title">{{title}}</text>
+    <view class="card-footer">
+      <text class="card-hot" wx:if="{{hot}}">🔥 {{hot}}</text>
+      <text class="card-source">{{source}}</text>
+    </view>
+  </view>
+  <view class="card-action">
+    <slot name="action"></slot>
+  </view>
+</view>
