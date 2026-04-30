@@ -6,7 +6,7 @@
   ],
   "window": {
     "navigationBarBackgroundColor": "#1a1a2e",
-    "navigationBarTitleText": "今日热点",
+    "navigationBarTitleText": "热点速递",
     "navigationBarTextStyle": "white",
     "backgroundColor": "#f5f5f5"
   },
@@ -33,5 +33,6 @@
   "usingComponents": {
     "hot-card": "/components/hot-card/hot-card"
   },
-  "sitemapLocation": "sitemap.json"
+  "sitemapLocation": "sitemap.json",
+  "lazyCodeLoading": "requiredComponents"
 }
