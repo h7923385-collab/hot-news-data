@@ -4,8 +4,8 @@ const app = getApp()
 // 🎯 唯一需要你改的地方！
 // 把下面的 USERNAME 和 REPO 换成你自己的
 // ========================================
-const GITHUB_USERNAME = 'YOUR_GITHUB_USERNAME'
-const GITHUB_REPO = 'YOUR_GITHUB_REPO'
+const GITHUB_USERNAME = 'h7923385-collab'
+const GITHUB_REPO = 'hot-news-data'
 
 // 自动生成 CDN 地址（用 jsDelivr 全球加速，完全免费）
 const CDN_BASE = `https://cdn.jsdelivr.net/gh/${GITHUB_USERNAME}/${GITHUB_REPO}@latest/data`
