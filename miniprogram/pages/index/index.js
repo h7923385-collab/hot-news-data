@@ -8,7 +8,7 @@ const GITHUB_USERNAME = 'h7923385-collab'
 const GITHUB_REPO = 'hot-news-data'
 
 // 自动生成 CDN 地址（用 jsDelivr 全球加速，完全免费）
-const CDN_BASE = `https://cdn.jsdelivr.net/gh/${GITHUB_USERNAME}/${GITHUB_REPO}@latest/data`
+const CDN_BASE = `https://cdn.jsdelivr.net/gh/${GITHUB_USERNAME}/${GITHUB_REPO}@main/data`
 
 Page({
   data: {
