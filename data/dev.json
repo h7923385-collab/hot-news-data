@@ -73,20 +73,20 @@
       "url": "https://dev.to/yrizos/leadership-micro-katas-363f"
     },
     {
-      "title": "Why Web3 Exists and Why Solana Matters",
-      "hot": "❤️ 40 💬 2",
-      "desc": "You trust middlemen every single day. You probably don't even think about it.  Your bank holds your...",
-      "source": "dev",
-      "tag": "100daysofsolana,  learning",
-      "url": "https://dev.to/100daysofsolana/why-web3-exists-and-why-solana-matters-296h"
-    },
-    {
       "title": "Fine-Tuning Gemma 4 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕",
       "hot": "❤️ 51 💬 4",
       "desc": "Google has just announced the release of Gemma 4! This new generation of open models brings...",
       "source": "dev",
       "tag": "gemma,  machinelearning",
       "url": "https://dev.to/googleai/fine-tuning-gemma-4-with-cloud-run-jobs-serverless-gpus-nvidia-rtx-6000-pro-for-pet-breed-45ib"
+    },
+    {
+      "title": "Why Web3 Exists and Why Solana Matters",
+      "hot": "❤️ 40 💬 2",
+      "desc": "You trust middlemen every single day. You probably don't even think about it.  Your bank holds your...",
+      "source": "dev",
+      "tag": "100daysofsolana,  learning",
+      "url": "https://dev.to/100daysofsolana/why-web3-exists-and-why-solana-matters-296h"
     },
     {
       "title": "How I used Gemini CLI to orchestrate a complex RAG migration",
@@ -114,7 +114,7 @@
     },
     {
       "title": "Cold Starts Are Dead",
-      "hot": "❤️ 27 💬 7",
+      "hot": "❤️ 30 💬 8",
       "desc": "It never fails. Every time I talk about serverless, someone pushes back with the cold start argument....",
       "source": "dev",
       "tag": "serverless,  aws",
@@ -129,22 +129,6 @@
       "url": "https://dev.to/shad_tech/i-built-a-shell-script-that-sets-up-your-entire-ai-coding-agent-workspace-in-2-minutes-13ep"
     },
     {
-      "title": "Automation is a trade-off",
-      "hot": "❤️ 44 💬 4",
-      "desc": "A couple of years ago I wrote a post about abstractions. I’m revisiting it here with AI-assisted...",
-      "source": "dev",
-      "tag": "ai,  webdev",
-      "url": "https://dev.to/suesmith/automation-is-a-trade-off-2fh8"
-    },
-    {
-      "title": "My Incredible Google Cloud Next 26 Experience as a GDE",
-      "hot": "❤️ 44 💬 0",
-      "desc": "Hello friends! I landed back in the UK this evening, after spending the last few days in Vegas for...",
-      "source": "dev",
-      "tag": "googlecloud,  googlecloudnext",
-      "url": "https://dev.to/gde/my-incredible-google-cloud-next-26-experience-as-a-gde-17mo"
-    },
-    {
       "title": "Boring code is an organizational tell",
       "hot": "❤️ 0 💬 0",
       "desc": "If boring code is good, why is it so rare? Clever code is not the result of clever engineers. It's...",
@@ -153,13 +137,29 @@
       "url": "https://dev.to/simme/boring-code-is-an-organizational-tell-4gca"
     },
     {
-      "title": "Sleep, Sort, Repeat: Testing Kotlin Coroutines with Virtual Time",
-      "hot": "❤️ 24 💬 0",
-      "desc": "How long do you think this test takes to run?    @Test fun `sleep sort should sort a list...",
+      "title": "Are We Using AI at the Wrong Scale?",
+      "hot": "❤️ 55 💬 16",
+      "desc": "We open our IDE and let a model running somewhere in the cloud read our entire codebase to add a null...",
       "source": "dev",
-      "tag": "kotlin,  java",
-      "url": "https://dev.to/tibtof/sleep-sort-repeat-testing-kotlin-coroutines-with-virtual-time-25pl"
+      "tag": "ai,  discuss",
+      "url": "https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo"
+    },
+    {
+      "title": "ML acceleration guide: TPUs vs GPUs",
+      "hot": "❤️ 25 💬 0",
+      "desc": "There’s a lot of hype around GPUs and NVIDIA, but how much do you know about TPUs?      Article...",
+      "source": "dev",
+      "tag": "tpu,  gpu",
+      "url": "https://dev.to/gde/ml-acceleration-guide-tpus-vs-gpus-16oh"
+    },
+    {
+      "title": "How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)",
+      "hot": "❤️ 0 💬 0",
+      "desc": "I built Ghost-hunter, an AI agent that investigates cloud bill spikes the way a senior on-call...",
+      "source": "dev",
+      "tag": "aws,  devops",
+      "url": "https://dev.to/nash_matrixgard/how-i-built-an-ai-agent-that-investigates-cloud-bill-spikes-architecture-inside-113p"
     }
   ],
-  "updatedAt": "2026-04-30T16:54:54.494Z"
+  "updatedAt": "2026-04-30T18:00:59.082Z"
 }
