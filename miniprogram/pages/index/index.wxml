@@ -1,29 +1,24 @@
 <!-- 顶部分类导航 -->
 <scroll-view class="category-bar" scroll-x enable-flex>
   <view 
-    class="category-item {{currentCategory === 'weibo' ? 'active' : ''}}"
-    bindtap="switchCategory" data-category="weibo">
-    🔥 微博热搜
-  </view>
-  <view 
-    class="category-item {{currentCategory === 'baidu' ? 'active' : ''}}"
-    bindtap="switchCategory" data-category="baidu">
-    🦴 百度热搜
-  </view>
-  <view 
-    class="category-item {{currentCategory === 'zhihu' ? 'active' : ''}}"
-    bindtap="switchCategory" data-category="zhihu">
-    💡 知乎热榜
-  </view>
-  <view 
-    class="category-item {{currentCategory === 'douyin' ? 'active' : ''}}"
-    bindtap="switchCategory" data-category="douyin">
-    🎵 抖音热榜
-  </view>
-  <view 
     class="category-item {{currentCategory === 'tech' ? 'active' : ''}}"
     bindtap="switchCategory" data-category="tech">
-    🚀 科技热点
+    🚀 全球科技
+  </view>
+  <view 
+    class="category-item {{currentCategory === 'dev' ? 'active' : ''}}"
+    bindtap="switchCategory" data-category="dev">
+    💻 开发者资讯
+  </view>
+  <view 
+    class="category-item {{currentCategory === 'space' ? 'active' : ''}}"
+    bindtap="switchCategory" data-category="space">
+    🛰️ 航天探索
+  </view>
+  <view 
+    class="category-item {{currentCategory === 'github' ? 'active' : ''}}"
+    bindtap="switchCategory" data-category="github">
+    ⭐ 开源趋势
   </view>
 </scroll-view>
 
