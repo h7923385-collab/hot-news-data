@@ -21,55 +21,15 @@
     </view>
   </view>
 
-  <!-- 热度趋势 -->
+  <!-- 复制分享 -->
   <view class="section">
     <view class="section-header">
-      <text class="section-icon">📊</text>
-      <text class="section-title">热度分析</text>
+      <text class="section-icon">🔗</text>
+      <text class="section-title">分享</text>
     </view>
-    <view class="heat-bars">
-      <view class="heat-item">
-        <text class="heat-label">当前热度</text>
-        <view class="heat-bar-track">
-          <view class="heat-bar-fill" style="width: 92%;"></view>
-        </view>
-        <text class="heat-value">{{hot}}</text>
-      </view>
-      <view class="heat-item">
-        <text class="heat-label">讨论趋势</text>
-        <view class="heat-bar-track">
-          <view class="heat-bar-fill trend" style="width: 78%;"></view>
-        </view>
-        <text class="heat-value">上升中</text>
-      </view>
-      <view class="heat-item">
-        <text class="heat-label">热度等级</text>
-        <view class="heat-bar-track">
-          <view class="heat-bar-fill level" style="width: 85%;"></view>
-        </view>
-        <text class="heat-value">爆款</text>
-      </view>
-    </view>
-  </view>
-
-  <!-- 网友热评 -->
-  <view class="section">
-    <view class="section-header">
-      <text class="section-icon">💬</text>
-      <text class="section-title">网友热评</text>
-    </view>
-    <view class="comments">
-      <view class="comment-item" wx:for="{{comments}}" wx:key="index">
-        <view class="comment-avatar">{{item.avatar}}</view>
-        <view class="comment-body">
-          <text class="comment-name">{{item.name}}</text>
-          <text class="comment-text">{{item.text}}</text>
-          <view class="comment-footer">
-            <text class="comment-likes">👍 {{item.likes}}</text>
-            <text class="comment-time">{{item.time}}</text>
-          </view>
-        </view>
-      </view>
+    <view class="share-actions">
+      <button class="share-btn" open-type="share">📤 分享给好友</button>
+      <button class="copy-btn" bindtap="copyContent">📋 复制内容</button>
     </view>
   </view>
 
