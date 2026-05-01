@@ -1,11 +1,27 @@
 {
   "data": [
     {
+      "title": "Auto Polo",
+      "hot": "3.0m",
+      "desc": "en.wikipedia.org",
+      "source": "tech",
+      "tag": "⬆️ 31 points",
+      "url": "https://en.wikipedia.org/wiki/Auto_polo"
+    },
+    {
+      "title": "Grok 4.3",
+      "hot": "3.0m",
+      "desc": "docs.x.ai",
+      "source": "tech",
+      "tag": "⬆️ 24 points",
+      "url": "https://docs.x.ai/developers/models/grok-4.3"
+    },
+    {
       "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
       "hot": "3.0m",
       "desc": "thereader.mitpress.mit.edu",
       "source": "tech",
-      "tag": "⬆️ 556 points",
+      "tag": "⬆️ 589 points",
       "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/"
     },
     {
@@ -13,143 +29,127 @@
       "hot": "3.0m",
       "desc": "tcd.ie",
       "source": "tech",
-      "tag": "⬆️ 37 points",
+      "tag": "⬆️ 58 points",
       "url": "https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/"
     },
     {
-      "title": "Opus 4.7 knows the real Kelsey",
-      "hot": "3.0m",
-      "desc": "theargumentmag.com",
-      "source": "tech",
-      "tag": "⬆️ 315 points",
-      "url": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously"
-    },
-    {
       "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "openwall.com",
       "source": "tech",
-      "tag": "⬆️ 465 points",
+      "tag": "⬆️ 496 points",
       "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10"
+    },
+    {
+      "title": "If I Could Make My Own GitHub",
+      "hot": "2.9m",
+      "desc": "matduggan.com",
+      "source": "tech",
+      "tag": "⬆️ 23 points",
+      "url": "https://matduggan.com/if-i-could-make-my-own-github/"
+    },
+    {
+      "title": "Opus 4.7 knows the real Kelsey",
+      "hot": "2.9m",
+      "desc": "theargumentmag.com",
+      "source": "tech",
+      "tag": "⬆️ 342 points",
+      "url": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously"
     },
     {
       "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
       "hot": "2.9m",
       "desc": "semgrep.dev",
       "source": "tech",
-      "tag": "⬆️ 386 points",
+      "tag": "⬆️ 394 points",
       "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/"
-    },
-    {
-      "title": "Roboticist-Turned-Teacher Built a Life-Size Replica of Eniac",
-      "hot": "2.9m",
-      "desc": "spectrum.ieee.org",
-      "source": "tech",
-      "tag": "⬆️ 24 points",
-      "url": "https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica"
-    },
-    {
-      "title": "Maladaptive Frugality",
-      "hot": "2.9m",
-      "desc": "herbertlui.net",
-      "source": "tech",
-      "tag": "⬆️ 83 points",
-      "url": "https://herbertlui.net/maladaptive-frugality/"
-    },
-    {
-      "title": "Apple Says Mac Studio and Mac Mini Will Be in Short Supply for Months",
-      "hot": "2.9m",
-      "desc": "macrumors.com",
-      "source": "tech",
-      "tag": "⬆️ 43 points",
-      "url": "https://www.macrumors.com/2026/04/30/mac-studio-mac-mini-constrained-months/"
     },
     {
       "title": "Softmax, can you derive the Jacobian? And should you care?",
       "hot": "2.9m",
       "desc": "idlemachines.co.uk",
       "source": "tech",
-      "tag": "⬆️ 20 points",
+      "tag": "⬆️ 37 points",
       "url": "https://idlemachines.co.uk/essays/softmax"
-    },
-    {
-      "title": "Can I disable all data collection from my vehicle?",
-      "hot": "2.9m",
-      "desc": "rivian.com",
-      "source": "tech",
-      "tag": "⬆️ 604 points",
-      "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle"
     },
     {
       "title": "CPanel and WHM Authentication Bypass – CVE-2026-41940",
       "hot": "2.9m",
       "desc": "labs.watchtowr.com",
       "source": "tech",
-      "tag": "⬆️ 88 points",
+      "tag": "⬆️ 102 points",
       "url": "https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/"
     },
     {
-      "title": "I built a Game Boy emulator in F#",
-      "hot": "2.8m",
-      "desc": "nickkossolapov.github.io",
+      "title": "Roboticist-Turned-Teacher Built a Life-Size Replica of Eniac",
+      "hot": "2.9m",
+      "desc": "spectrum.ieee.org",
       "source": "tech",
-      "tag": "⬆️ 262 points",
-      "url": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/"
+      "tag": "⬆️ 28 points",
+      "url": "https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica"
     },
     {
       "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
       "hot": "2.8m",
       "desc": "twitter.com",
       "source": "tech",
-      "tag": "⬆️ 1109 points",
+      "tag": "⬆️ 1150 points",
       "url": "https://twitter.com/theo/status/2049645973350363168"
+    },
+    {
+      "title": "Can I disable all data collection from my vehicle?",
+      "hot": "2.8m",
+      "desc": "rivian.com",
+      "source": "tech",
+      "tag": "⬆️ 625 points",
+      "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle"
+    },
+    {
+      "title": "I built a Game Boy emulator in F#",
+      "hot": "2.8m",
+      "desc": "nickkossolapov.github.io",
+      "source": "tech",
+      "tag": "⬆️ 275 points",
+      "url": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/"
     },
     {
       "title": "How an oil refinery works",
       "hot": "2.8m",
       "desc": "construction-physics.com",
       "source": "tech",
-      "tag": "⬆️ 403 points",
+      "tag": "⬆️ 414 points",
       "url": "https://www.construction-physics.com/p/how-an-oil-refinery-works"
     },
     {
-      "title": "It’s Toasted",
+      "title": "Maladaptive Frugality",
       "hot": "2.8m",
-      "desc": "yadin.com",
+      "desc": "herbertlui.net",
       "source": "tech",
-      "tag": "⬆️ 20 points",
-      "url": "https://yadin.com/notes/toasted/"
+      "tag": "⬆️ 97 points",
+      "url": "https://herbertlui.net/maladaptive-frugality/"
     },
     {
-      "title": "OpenWarp",
+      "title": "Canonical/Ubuntu have been under DDoS for more than 15h",
       "hot": "2.8m",
-      "desc": "openwarp.zerx.dev",
+      "desc": "status.canonical.com",
       "source": "tech",
-      "tag": "⬆️ 79 points",
-      "url": "https://openwarp.zerx.dev"
+      "tag": "⬆️ 34 points",
+      "url": "https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQEHpOd8VQ40ZQs-KD81fboQXeGZB94okNHdHBGlCv58Sw=="
     },
     {
       "title": "Using a 1978 terminal in 2026 (DEC VT-100)",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "nikhiljha.com",
       "source": "tech",
-      "tag": "⬆️ 18 points",
+      "tag": "⬆️ 32 points",
       "url": "https://nikhiljha.com/posts/vt100/"
-    },
-    {
-      "title": "New mechanical panoramic film camera from Jeff Bridges",
-      "hot": "2.7m",
-      "desc": "wideluxx.com",
-      "source": "tech",
-      "tag": "⬆️ 128 points",
-      "url": "https://wideluxx.com"
     },
     {
       "title": "You can beat the binary search",
       "hot": "2.7m",
       "desc": "lemire.me",
       "source": "tech",
-      "tag": "⬆️ 303 points",
+      "tag": "⬆️ 315 points",
       "url": "https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/"
     },
     {
@@ -157,9 +157,9 @@
       "hot": "2.7m",
       "desc": "phulin.me",
       "source": "tech",
-      "tag": "⬆️ 183 points",
+      "tag": "⬆️ 196 points",
       "url": "https://phulin.me/blog/simtower"
     }
   ],
-  "updatedAt": "2026-05-01T07:39:31.735Z"
+  "updatedAt": "2026-05-01T09:23:11.025Z"
 }
