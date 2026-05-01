@@ -9,20 +9,20 @@
       "url": "https://dev.to/devteam/announcing-the-winners-of-the-dev-weekend-challenge-earth-day-edition-1n4"
     },
     {
-      "title": "Gaffa @ Major League Hacking's Global Hack Week",
-      "hot": "❤️ 10 💬 1",
-      "desc": "Every month, Major League Hacking (MLH) hosts a Global Hack Week, a free event where developers can...",
-      "source": "dev",
-      "tag": "hackathon,  data",
-      "url": "https://dev.to/james_gaffa/gaffa-major-league-hackings-global-hack-week-m9b"
-    },
-    {
       "title": "I Don't Like Tailwind. Sorry Not Sorry",
       "hot": "❤️ 6 💬 0",
       "desc": "An opinionated defence of hand-crafted CSS in a utility-class world     There. I said it. Call me a...",
       "source": "dev",
       "tag": "css,  webdev",
       "url": "https://dev.to/freshcaffeine/i-dont-like-tailwind-sorry-not-sorry-50b5"
+    },
+    {
+      "title": "Gaffa @ Major League Hacking's Global Hack Week",
+      "hot": "❤️ 11 💬 1",
+      "desc": "Every month, Major League Hacking (MLH) hosts a Global Hack Week, a free event where developers can...",
+      "source": "dev",
+      "tag": "hackathon,  data",
+      "url": "https://dev.to/james_gaffa/gaffa-major-league-hackings-global-hack-week-m9b"
     },
     {
       "title": "Getting Started with ChromeOS Flex",
@@ -33,22 +33,6 @@
       "url": "https://dev.to/gde/getting-started-with-chromeos-flex-58jn"
     },
     {
-      "title": "Stop Using Your Clipboard to Share Context",
-      "hot": "❤️ 36 💬 1",
-      "desc": "We're all learning how to code with agents. If you're \"in the bubble\" it can feel like everyone is...",
-      "source": "dev",
-      "tag": "ai,  agents",
-      "url": "https://dev.to/thisisryanswift/stop-using-your-clipboard-to-share-context-3941"
-    },
-    {
-      "title": "More Accessible Focus Indicators with Compose",
-      "hot": "❤️ 32 💬 1",
-      "desc": "Last summer, I wrote a blog post about focus management with Compose. Ever since, I’ve had drafts of...",
-      "source": "dev",
-      "tag": "android,  a11y",
-      "url": "https://dev.to/eevajonnapanula/more-accessible-focus-indicators-with-compose-1ca4"
-    },
-    {
       "title": "How Making a Fountain Pen Made Me a Better Developer",
       "hot": "❤️ 0 💬 0",
       "desc": "Any type of process can benefit from task optimisation (reducing cost, improving consistency, and...",
@@ -57,20 +41,28 @@
       "url": "https://dev.to/simplifycomplexity/how-making-a-fountain-pen-made-me-a-better-developer-22e0"
     },
     {
-      "title": "Using Gemini with OpenClaw: Setup Guide + Real Use Cases",
-      "hot": "❤️ 9 💬 1",
-      "desc": "OpenClaw supports a wide range of LLM providers, and choosing the right one shapes how your agents...",
-      "source": "dev",
-      "tag": "openclaw,  gemini",
-      "url": "https://dev.to/matthewrevell/using-gemini-with-openclaw-setup-guide-real-use-cases-2i48"
-    },
-    {
       "title": "I Rebuilt Karpathy's NanoChat in JAX. Here's What XLA Gets Right and What It Gets Dead Wrong.",
       "hot": "❤️ 7 💬 0",
       "desc": "AI GDE TPU Sprint 2026 · Google TPU Research Cloud     Quick summary: We ported Andrej Karpathy's...",
       "source": "dev",
       "tag": "machinelearning,  python",
       "url": "https://dev.to/gde/i-rebuilt-karpathys-nanochat-in-jax-heres-what-xla-gets-right-and-what-it-gets-dead-wrong-4641"
+    },
+    {
+      "title": "Using Gemini with OpenClaw: Setup Guide + Real Use Cases",
+      "hot": "❤️ 14 💬 1",
+      "desc": "OpenClaw supports a wide range of LLM providers, and choosing the right one shapes how your agents...",
+      "source": "dev",
+      "tag": "openclaw,  gemini",
+      "url": "https://dev.to/matthewrevell/using-gemini-with-openclaw-setup-guide-real-use-cases-2i48"
+    },
+    {
+      "title": "What was your win this week?",
+      "hot": "❤️ 5 💬 0",
+      "desc": "👋👋👋👋 Looking back on your week — what was something you're proud of?  All wins count — big or small...",
+      "source": "dev",
+      "tag": "discuss,  weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-ig5"
     },
     {
       "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
@@ -137,6 +129,22 @@
       "url": "https://dev.to/thisisryanswift/forking-paseo-mobile-vibe-coding-for-me-48pa"
     },
     {
+      "title": "Stop Using Your Clipboard to Share Context",
+      "hot": "❤️ 36 💬 4",
+      "desc": "We're all learning how to code with agents. If you're \"in the bubble\" it can feel like everyone is...",
+      "source": "dev",
+      "tag": "ai,  agents",
+      "url": "https://dev.to/thisisryanswift/stop-using-your-clipboard-to-share-context-3941"
+    },
+    {
+      "title": "More Accessible Focus Indicators with Compose",
+      "hot": "❤️ 33 💬 1",
+      "desc": "Last summer, I wrote a blog post about focus management with Compose. Ever since, I’ve had drafts of...",
+      "source": "dev",
+      "tag": "android,  a11y",
+      "url": "https://dev.to/eevajonnapanula/more-accessible-focus-indicators-with-compose-1ca4"
+    },
+    {
       "title": "How I Used AI to Fix Our E2E Test Architecture",
       "hot": "❤️ 37 💬 8",
       "desc": "I joined a project with an existing Playwright E2E test suite, 38 spec files, ~165 tests, around...",
@@ -151,15 +159,7 @@
       "source": "dev",
       "tag": "ai,  llm",
       "url": "https://dev.to/mrlarson2007_62/platform-neutral-ai-tools-are-the-safer-long-term-bet-42i1"
-    },
-    {
-      "title": "Agents are building their own UIs now. Here's when that's worth doing.",
-      "hot": "❤️ 30 💬 2",
-      "desc": "This is a submission for the Google Cloud NEXT Writing Challenge  During the developer keynote at...",
-      "source": "dev",
-      "tag": "devchallenge,  googlecloud",
-      "url": "https://dev.to/gde/agents-are-building-their-own-uis-now-heres-when-thats-worth-doing-o9d"
     }
   ],
-  "updatedAt": "2026-05-01T18:51:39.556Z"
+  "updatedAt": "2026-05-01T19:57:55.134Z"
 }
