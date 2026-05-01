@@ -9,6 +9,22 @@
       "url": "https://dev.to/devteam/announcing-the-winners-of-the-dev-weekend-challenge-earth-day-edition-1n4"
     },
     {
+      "title": "I Don't Like Tailwind. Sorry Not Sorry",
+      "hot": "❤️ 5 💬 0",
+      "desc": "An opinionated defence of hand-crafted CSS in a utility-class world     There. I said it. Call me a...",
+      "source": "dev",
+      "tag": "css,  webdev",
+      "url": "https://dev.to/freshcaffeine/i-dont-like-tailwind-sorry-not-sorry-50b5"
+    },
+    {
+      "title": "Getting Started with ChromeOS Flex",
+      "hot": "❤️ 5 💬 0",
+      "desc": "This article covers the installation and configuration for installing ChromeOS Flex on standard PC...",
+      "source": "dev",
+      "tag": "penguins,  chromeosflex",
+      "url": "https://dev.to/gde/getting-started-with-chromeos-flex-58jn"
+    },
+    {
       "title": "Stop Using Your Clipboard to Share Context",
       "hot": "❤️ 36 💬 1",
       "desc": "We're all learning how to code with agents. If you're \"in the bubble\" it can feel like everyone is...",
@@ -23,6 +39,14 @@
       "source": "dev",
       "tag": "android,  a11y",
       "url": "https://dev.to/eevajonnapanula/more-accessible-focus-indicators-with-compose-1ca4"
+    },
+    {
+      "title": "How Making a Fountain Pen Made Me a Better Developer",
+      "hot": "❤️ 0 💬 0",
+      "desc": "Any type of process can benefit from task optimisation (reducing cost, improving consistency, and...",
+      "source": "dev",
+      "tag": "learning,  productivity",
+      "url": "https://dev.to/simplifycomplexity/how-making-a-fountain-pen-made-me-a-better-developer-22e0"
     },
     {
       "title": "Using Gemini with OpenClaw: Setup Guide + Real Use Cases",
@@ -49,6 +73,14 @@
       "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8"
     },
     {
+      "title": "Slash commands: no more meaningless commits",
+      "hot": "❤️ 1 💬 0",
+      "desc": "One of the things I've been using the most since I started with Claude Code is slash commands. And...",
+      "source": "dev",
+      "tag": "claudecode,  opencode",
+      "url": "https://dev.to/guilherme44/slash-commands-no-more-meaningless-commits-38ae"
+    },
+    {
       "title": "Extending a Video with Angular, Veo 3.1 Lite, Firebase Cloud Functions, and Firebase Cloud Storage",
       "hot": "❤️ 7 💬 0",
       "desc": "Google released the Veo 3.1 Lite model for AI video generation in the Gemini API, Gemini in Vertex...",
@@ -63,6 +95,14 @@
       "source": "dev",
       "tag": "backend,  architecture",
       "url": "https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8"
+    },
+    {
+      "title": "Stop Crashing Node.js: How to Process 10GB Files with 15MB of RAM",
+      "hot": "❤️ 0 💬 0",
+      "desc": "We've all been there. You write a simple script to process a JSON or CSV file. It works perfectly on...",
+      "source": "dev",
+      "tag": "node,  typescript",
+      "url": "https://dev.to/pujansrt/stop-crashing-nodejs-how-to-process-10gb-files-with-15mb-of-ram-2gb5"
     },
     {
       "title": "Mapbox GL JS adds support for PMTiles vector sources",
@@ -119,47 +159,7 @@
       "source": "dev",
       "tag": "cloudnextchallenge,  googlecloud",
       "url": "https://dev.to/sreejit_caab72e273a4faa1f/everyones-talking-about-gemini-the-real-story-at-google-cloud-next-26-was-gke-agent-sandbox-19g2"
-    },
-    {
-      "title": "vLLM on Google Cloud TPU: A Model Size vs Chip Cheat Sheet (With Interactive Tool)",
-      "hot": "❤️ 41 💬 1",
-      "desc": "Picking a Cloud TPU slice for vLLM inference involves three decisions that most tutorials skip...",
-      "source": "dev",
-      "tag": "tpu,  googlecloud",
-      "url": "https://dev.to/1grace/vllm-on-google-cloud-tpu-a-model-size-vs-chip-cheat-sheet-with-interactive-tool-2c3k"
-    },
-    {
-      "title": "I built a shell script that sets up your entire AI coding agent workspace in 2 minutes",
-      "hot": "❤️ 0 💬 0",
-      "desc": "Stop repeating yourself to Claude Code and Codex. One script generates CLAUDE.md, AGENTS.md, security rules, testing str",
-      "source": "dev",
-      "tag": "ai,  productivity",
-      "url": "https://dev.to/shad_tech/i-built-a-shell-script-that-sets-up-your-entire-ai-coding-agent-workspace-in-2-minutes-13ep"
-    },
-    {
-      "title": "Boring code is an organizational tell",
-      "hot": "❤️ 0 💬 0",
-      "desc": "If boring code is good, why is it so rare? Clever code is not the result of clever engineers. It's...",
-      "source": "dev",
-      "tag": "ai,  leadership",
-      "url": "https://dev.to/simme/boring-code-is-an-organizational-tell-4gca"
-    },
-    {
-      "title": "Are We Using AI at the Wrong Scale?",
-      "hot": "❤️ 61 💬 17",
-      "desc": "We open our IDE and let a model running somewhere in the cloud read our entire codebase to add a null...",
-      "source": "dev",
-      "tag": "ai,  discuss",
-      "url": "https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo"
-    },
-    {
-      "title": "ML acceleration guide: TPUs vs GPUs",
-      "hot": "❤️ 25 💬 0",
-      "desc": "There’s a lot of hype around GPUs and NVIDIA, but how much do you know about TPUs?      Article...",
-      "source": "dev",
-      "tag": "tpu,  gpu",
-      "url": "https://dev.to/gde/ml-acceleration-guide-tpus-vs-gpus-16oh"
     }
   ],
-  "updatedAt": "2026-05-01T16:31:16.035Z"
+  "updatedAt": "2026-05-01T17:44:55.303Z"
 }
