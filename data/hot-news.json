@@ -1,328 +1,166 @@
 {
-  "updatedAt": "2026-05-02T21:06:33.342Z",
+  "updatedAt": "2026-05-02T22:02:52.397Z",
   "source": "live",
-  "dev": [
-    {
-      "title": "Announcing the Winners of the DEV Weekend Challenge: Earth Day Edition 🌍",
-      "hot": "❤️ 88 💬 39",
-      "desc": "The time has come! We are thrilled to announce the winners of our second DEV Weekend Challenge: Earth...",
-      "source": "dev",
-      "tag": "devchallenge,  weekendchallenge",
-      "url": "https://dev.to/devteam/announcing-the-winners-of-the-dev-weekend-challenge-earth-day-edition-1n4"
-    },
-    {
-      "title": "Gemini 3.1: Native TTS for Easier, More Powerful Summary Reading",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Background   In the previous practical session, we used Gemini 3.1 Flash Live to achieve...",
-      "source": "dev",
-      "tag": "ai,  api",
-      "url": "https://dev.to/gde/gemini-31-native-tts-for-easier-more-powerful-summary-reading-2ep9"
-    },
-    {
-      "title": "GCP in Action: Migrating a LINE Bot from AI Studio to Vertex AI to Solve 429 Errors",
-      "hot": "❤️ 5 💬 0",
-      "desc": "Background   Recently, the LINE business card assistant robot (linebot-namecard-python)...",
-      "source": "dev",
-      "tag": "ai,  googlecloud",
-      "url": "https://dev.to/gde/gcp-in-action-migrating-a-line-bot-from-ai-studio-to-vertex-ai-to-solve-429-errors-47jo"
-    },
-    {
-      "title": "GCP in Action: Building a Persistent AI Assistant with GCE, Hermes Agent, and Telegram",
-      "hot": "❤️ 7 💬 0",
-      "desc": "Background   After solving the LINE Bot's Vertex AI migration, I started thinking: Could...",
-      "source": "dev",
-      "tag": "agents,  ai",
-      "url": "https://dev.to/gde/gcp-in-action-building-a-persistent-ai-assistant-with-gce-hermes-agent-and-telegram-1mlg"
-    },
-    {
-      "title": "Building Dynamic Audio with Emotion & Pace: Gemini 3.1 Flash TTS, Angular & Firebase Cloud Functions [GDE]",
-      "hot": "❤️ 5 💬 0",
-      "desc": "Google released the Gemini 3.1 Flash TTS Preview model for AI audio generation in the Gemini API,...",
-      "source": "dev",
-      "tag": "firebase,  angular",
-      "url": "https://dev.to/gde/building-dynamic-audio-with-emotion-pace-gemini-31-flash-tts-angular-firebase-cloud-functions-15f8"
-    },
-    {
-      "title": "Porting Libraries to Crystal with AI",
-      "hot": "❤️ 0 💬 0",
-      "desc": "This post was originally written in Japanese and translated into English by the author using ChatGPT....",
-      "source": "dev",
-      "tag": "crystal",
-      "url": "https://dev.to/kojix2/porting-libraries-to-crystal-with-ai-1kl"
-    },
-    {
-      "title": "I Am Starting Over in Public",
-      "hot": "❤️ 7 💬 4",
-      "desc": "I have a computer science degree with a specialization in AI and Data Science. And I still didn't...",
-      "source": "dev",
-      "tag": "ai,  webdev",
-      "url": "https://dev.to/mohan-01/i-am-starting-over-in-public-25n1"
-    },
-    {
-      "title": "How Making a Fountain Pen Made Me a Better Developer",
-      "hot": "❤️ 0 💬 0",
-      "desc": "Any type of process can benefit from task optimisation (reducing cost, improving consistency, and...",
-      "source": "dev",
-      "tag": "learning,  productivity",
-      "url": "https://dev.to/simplifycomplexity/how-making-a-fountain-pen-made-me-a-better-developer-22e0"
-    },
-    {
-      "title": "[Google Cloud Next '26 Recap #1] Hands-On with the Agentic Hack Zone",
-      "hot": "❤️ 6 💬 0",
-      "desc": "I recently attended Google Cloud Next '26 in Las Vegas. In this post, I'd like to share my experience...",
-      "source": "dev",
-      "tag": "googlecloud,  gemini",
-      "url": "https://dev.to/gde/google-cloud-next-26-recap-hands-on-with-the-agentic-hack-zone-12p9"
-    },
-    {
-      "title": "Gaffa @ Major League Hacking's Global Hack Week",
-      "hot": "❤️ 12 💬 1",
-      "desc": "Every month, Major League Hacking (MLH) hosts a Global Hack Week, a free event where developers can...",
-      "source": "dev",
-      "tag": "hackathon,  data",
-      "url": "https://dev.to/james_gaffa/gaffa-major-league-hackings-global-hack-week-m9b"
-    },
-    {
-      "title": "Getting Started with ChromeOS Flex",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article covers the installation and configuration for installing ChromeOS Flex on standard PC...",
-      "source": "dev",
-      "tag": "penguins,  chromeosflex",
-      "url": "https://dev.to/gde/getting-started-with-chromeos-flex-58jn"
-    },
-    {
-      "title": "Migrating Azure Devops Activity to GitHub 🔄️",
-      "hot": "❤️ 0 💬 0",
-      "desc": "GitHub isn’t just a place to store code anymore. For many developers, it’s a living portfolio, a...",
-      "source": "dev",
-      "tag": "azure,  github",
-      "url": "https://dev.to/raamyy/migrating-azure-devops-activity-to-github-37ci"
-    },
-    {
-      "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
-      "hot": "❤️ 0 💬 0",
-      "desc": "A few months ago, my experience with AI assistance was limited to tab completions in Cursor. The kind...",
-      "source": "dev",
-      "tag": "ai,  agents",
-      "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8"
-    },
-    {
-      "title": "Using Gemini with OpenClaw: Setup Guide + Real Use Cases",
-      "hot": "❤️ 15 💬 1",
-      "desc": "OpenClaw supports a wide range of LLM providers, and choosing the right one shapes how your agents...",
-      "source": "dev",
-      "tag": "openclaw,  gemini",
-      "url": "https://dev.to/matthewrevell/using-gemini-with-openclaw-setup-guide-real-use-cases-2i48"
-    },
-    {
-      "title": "Service-to-Service Calls vs Event-Driven Flows: When to Use Which",
-      "hot": "❤️ 0 💬 0",
-      "desc": "This post breaks down the difference between direct service calls, jobs and workers, and event-driven flows in plain ter",
-      "source": "dev",
-      "tag": "backend,  architecture",
-      "url": "https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8"
-    },
-    {
-      "title": "Mapbox GL JS adds support for PMTiles vector sources",
-      "hot": "❤️ 18 💬 1",
-      "desc": "Mapbox GL JS v3.21.0 added support for vector sources using the PMTiles protocol — another option in...",
-      "source": "dev",
-      "tag": "spatialdata,  pmtiles",
-      "url": "https://dev.to/mapbox/mapbox-gl-js-adds-support-for-pmtiles-vector-and-raster-sources-141b"
-    },
-    {
-      "title": "What was your win this week?",
-      "hot": "❤️ 14 💬 12",
-      "desc": "👋👋👋👋 Looking back on your week — what was something you're proud of?  All wins count — big or small...",
-      "source": "dev",
-      "tag": "discuss,  weeklyretro",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-ig5"
-    },
-    {
-      "title": "I Don't Like Tailwind. Sorry Not Sorry",
-      "hot": "❤️ 24 💬 8",
-      "desc": "An opinionated defence of hand-crafted CSS in a utility-class world     There. I said it. Call me a...",
-      "source": "dev",
-      "tag": "css,  webdev",
-      "url": "https://dev.to/freshcaffeine/i-dont-like-tailwind-sorry-not-sorry-50b5"
-    },
-    {
-      "title": "Leadership Micro Katas",
-      "hot": "❤️ 4 💬 0",
-      "desc": "About twenty years ago, I broke production. I was a young developer, the rollback was slow, and for a...",
-      "source": "dev",
-      "tag": "leadership,  learning",
-      "url": "https://dev.to/yrizos/leadership-micro-katas-363f"
-    },
-    {
-      "title": "Stop Using Your Clipboard to Share Context",
-      "hot": "❤️ 40 💬 5",
-      "desc": "We're all learning how to code with agents. If you're \"in the bubble\" it can feel like everyone is...",
-      "source": "dev",
-      "tag": "ai,  agents",
-      "url": "https://dev.to/thisisryanswift/stop-using-your-clipboard-to-share-context-3941"
-    }
-  ],
   "tech": [
-    {
-      "title": "Dav2d",
-      "hot": "3.0m",
-      "desc": "code.videolan.org",
-      "source": "tech",
-      "tag": "⬆️ 212 points",
-      "url": "https://code.videolan.org/videolan/dav2d"
-    },
     {
       "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
       "hot": "3.0m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 62 points",
+      "tag": "⬆️ 281 points",
       "url": "https://github.com/microsoft/vscode/pull/310226"
     },
     {
-      "title": "Do_not_track",
+      "title": "Dav2d",
       "hot": "3.0m",
+      "desc": "code.videolan.org",
+      "source": "tech",
+      "tag": "⬆️ 249 points",
+      "url": "https://code.videolan.org/videolan/dav2d"
+    },
+    {
+      "title": "Six Years Perfecting Maps on WatchOS",
+      "hot": "3.0m",
+      "desc": "david-smith.org",
+      "source": "tech",
+      "tag": "⬆️ 35 points",
+      "url": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/"
+    },
+    {
+      "title": "This Month in Ladybird - April 2026",
+      "hot": "3.0m",
+      "desc": "ladybird.org",
+      "source": "tech",
+      "tag": "⬆️ 36 points",
+      "url": "https://ladybird.org/newsletter/2026-04-30/"
+    },
+    {
+      "title": "Do_not_track",
+      "hot": "2.9m",
       "desc": "donottrack.sh",
       "source": "tech",
-      "tag": "⬆️ 82 points",
+      "tag": "⬆️ 119 points",
       "url": "https://donottrack.sh/"
     },
     {
+      "title": "The agent harness belongs outside the sandbox",
+      "hot": "2.9m",
+      "desc": "mendral.com",
+      "source": "tech",
+      "tag": "⬆️ 10 points",
+      "url": "https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox"
+    },
+    {
       "title": "Inventions for battery reuse and recycling increase seven-fold in last decade",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "epo.org",
       "source": "tech",
-      "tag": "⬆️ 113 points",
+      "tag": "⬆️ 122 points",
       "url": "https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade"
     },
     {
-      "title": "NetHack 5.0.0",
+      "title": "Neanderthals ran 'fat factories' 125,000 years ago",
       "hot": "2.9m",
-      "desc": "nethack.org",
+      "desc": "universiteitleiden.nl",
       "source": "tech",
-      "tag": "⬆️ 271 points",
-      "url": "https://nethack.org/v500/release.html"
+      "tag": "⬆️ 25 points",
+      "url": "https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago"
     },
     {
       "title": "Little Magazines Are Back",
       "hot": "2.9m",
       "desc": "wsjfreeexpression.substack.com",
       "source": "tech",
-      "tag": "⬆️ 31 points",
+      "tag": "⬆️ 48 points",
       "url": "https://wsjfreeexpression.substack.com/p/little-magazines-are-back"
     },
     {
-      "title": "Flue is a TypeScript framework for building the next generation of agents",
+      "title": "NetHack 5.0.0",
       "hot": "2.9m",
-      "desc": "flueframework.com",
+      "desc": "nethack.org",
       "source": "tech",
-      "tag": "⬆️ 60 points",
-      "url": "https://flueframework.com/"
+      "tag": "⬆️ 299 points",
+      "url": "https://nethack.org/v500/release.html"
     },
     {
       "title": "California to begin ticketing driverless cars that violate traffic laws",
       "hot": "2.9m",
       "desc": "bbc.com",
       "source": "tech",
-      "tag": "⬆️ 139 points",
+      "tag": "⬆️ 174 points",
       "url": "https://www.bbc.com/news/articles/clypjx3rg2go"
     },
     {
       "title": "Why does it take so long to release black fan versions?",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "noctua.at",
       "source": "tech",
-      "tag": "⬆️ 655 points",
+      "tag": "⬆️ 668 points",
       "url": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions"
     },
     {
+      "title": "How fast is a macOS VM, and how small could it be?",
+      "hot": "2.8m",
+      "desc": "eclecticlight.co",
+      "source": "tech",
+      "tag": "⬆️ 212 points",
+      "url": "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/"
+    },
+    {
       "title": "Barman – Backup and Recovery Manager for PostgreSQL",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 124 points",
+      "tag": "⬆️ 128 points",
       "url": "https://github.com/EnterpriseDB/barman"
     },
     {
-      "title": "How fast is a macOS VM, and how small could it be?",
-      "hot": "2.9m",
-      "desc": "eclecticlight.co",
+      "title": "Show HN: State of the Art of Coding Models, According to Hacker News Commenters",
+      "hot": "2.8m",
+      "desc": "hnup.date",
       "source": "tech",
-      "tag": "⬆️ 205 points",
-      "url": "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/"
+      "tag": "⬆️ 5 points",
+      "url": "https://hnup.date/hn-sota"
+    },
+    {
+      "title": "Flue is a TypeScript framework for building the next generation of agents",
+      "hot": "2.8m",
+      "desc": "flueframework.com",
+      "source": "tech",
+      "tag": "⬆️ 67 points",
+      "url": "https://flueframework.com/"
     },
     {
       "title": "Roblox shares plummet 18% as child safety measures weigh on bookings",
       "hot": "2.8m",
       "desc": "cnbc.com",
       "source": "tech",
-      "tag": "⬆️ 124 points",
+      "tag": "⬆️ 144 points",
       "url": "https://www.cnbc.com/2026/05/01/roblox-rblx-stock-child-safety-earnings.html"
     },
     {
+      "title": "A Physics Engine with Incremental Rollback for Multiplayer Games",
+      "hot": "2.7m",
+      "desc": "easel.games",
+      "source": "tech",
+      "tag": "⬆️ 8 points",
+      "url": "https://easel.games/blog/2026-rollback-physics"
+    },
+    {
       "title": "Welcome to Hell Developer",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "noahclements.com",
       "source": "tech",
-      "tag": "⬆️ 30 points",
+      "tag": "⬆️ 36 points",
       "url": "https://noahclements.com/Wahoo-Bolt-Hidden-Debug-Mode/"
     },
     {
-      "title": "Uber wants to turn its drivers into a sensor grid for self-driving companies",
-      "hot": "2.8m",
-      "desc": "techcrunch.com",
-      "source": "tech",
-      "tag": "⬆️ 102 points",
-      "url": "https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/"
-    },
-    {
       "title": "Refusal in Language Models Is Mediated by a Single Direction",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "arxiv.org",
       "source": "tech",
-      "tag": "⬆️ 71 points",
+      "tag": "⬆️ 79 points",
       "url": "https://arxiv.org/abs/2406.11717"
-    },
-    {
-      "title": "Why IPv6 is so complicated",
-      "hot": "2.8m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 67 points",
-      "url": "https://github.com/becarpenter/book6/blob/main/01.%20Introduction%20and%20Foreword/Why%20IPv6%20is%20so%20complicated.md"
-    },
-    {
-      "title": "The USB Situation",
-      "hot": "2.8m",
-      "desc": "randsinrepose.com",
-      "source": "tech",
-      "tag": "⬆️ 65 points",
-      "url": "https://randsinrepose.com/archives/the-usb-situation/"
-    },
-    {
-      "title": "Unsigned Sizes: A Five Year Mistake",
-      "hot": "2.7m",
-      "desc": "c3-lang.org",
-      "source": "tech",
-      "tag": "⬆️ 48 points",
-      "url": "https://c3-lang.org/blog/unsigned-sizes-a-five-year-mistake/"
-    },
-    {
-      "title": "Why are there both TMP and TEMP environment variables? (2015)",
-      "hot": "2.7m",
-      "desc": "devblogs.microsoft.com",
-      "source": "tech",
-      "tag": "⬆️ 178 points",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213"
-    },
-    {
-      "title": "Open Design: Use Your Coding Agent as a Design Engine",
-      "hot": "2.7m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 148 points",
-      "url": "https://github.com/nexu-io/open-design"
     }
   ],
   "space": [
@@ -450,8 +288,8 @@
   "github": [
     {
       "title": "nexu-io/open-design: 🎨 Local-first, open-source alternative to Anthropic's Clau",
-      "hot": "⭐ 15.6k",
-      "desc": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile",
+      "hot": "⭐ 15.7k",
+      "desc": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop �� mobil",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/nexu-io/open-design"
@@ -514,7 +352,7 @@
     },
     {
       "title": "b-nnett/codex-plusplus: Codex++ tweak system for the Codex desktop app",
-      "hot": "⭐ 831",
+      "hot": "⭐ 834",
       "desc": "Codex++ tweak system for the Codex desktop app",
       "source": "github",
       "tag": "TypeScript",
@@ -530,7 +368,7 @@
     },
     {
       "title": "t8y2/dbx: lightweight, cross-platform database client. Supports MySQL, PostgreSQ",
-      "hot": "⭐ 706",
+      "hot": "⭐ 707",
       "desc": "lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.",
       "source": "github",
       "tag": "Vue",
@@ -538,7 +376,7 @@
     },
     {
       "title": "mattpocock/dictionary-of-ai-coding: AI coding jargon, explained in plain English",
-      "hot": "⭐ 645",
+      "hot": "⭐ 653",
       "desc": "AI coding jargon, explained in plain English.",
       "source": "github",
       "tag": "TypeScript",
@@ -554,7 +392,7 @@
     },
     {
       "title": "Fokkyp/SoftwareCopyright-Skill: 中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 ",
-      "hot": "⭐ 626",
+      "hot": "⭐ 627",
       "desc": "中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
       "source": "github",
       "tag": "Python",
@@ -562,11 +400,173 @@
     },
     {
       "title": "wrongly-cuddly-obsession/NTSB_FOIA_MU5735: ",
-      "hot": "⭐ 603",
+      "hot": "⭐ 612",
       "desc": "wrongly-cuddly-obsession/NTSB_FOIA_MU5735",
       "source": "github",
       "tag": "GitHub",
       "url": "https://github.com/wrongly-cuddly-obsession/NTSB_FOIA_MU5735"
+    }
+  ],
+  "dev": [
+    {
+      "title": "Announcing the Winners of the DEV Weekend Challenge: Earth Day Edition 🌍",
+      "hot": "❤️ 89 💬 39",
+      "desc": "The time has come! We are thrilled to announce the winners of our second DEV Weekend Challenge: Earth...",
+      "source": "dev",
+      "tag": "devchallenge,  weekendchallenge",
+      "url": "https://dev.to/devteam/announcing-the-winners-of-the-dev-weekend-challenge-earth-day-edition-1n4"
+    },
+    {
+      "title": "Gemini 3.1: Native TTS for Easier, More Powerful Summary Reading",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Background   In the previous practical session, we used Gemini 3.1 Flash Live to achieve...",
+      "source": "dev",
+      "tag": "ai,  api",
+      "url": "https://dev.to/gde/gemini-31-native-tts-for-easier-more-powerful-summary-reading-2ep9"
+    },
+    {
+      "title": "GCP in Action: Migrating a LINE Bot from AI Studio to Vertex AI to Solve 429 Errors",
+      "hot": "❤️ 5 💬 0",
+      "desc": "Background   Recently, the LINE business card assistant robot (linebot-namecard-python)...",
+      "source": "dev",
+      "tag": "ai,  googlecloud",
+      "url": "https://dev.to/gde/gcp-in-action-migrating-a-line-bot-from-ai-studio-to-vertex-ai-to-solve-429-errors-47jo"
+    },
+    {
+      "title": "GCP in Action: Building a Persistent AI Assistant with GCE, Hermes Agent, and Telegram",
+      "hot": "❤️ 7 💬 0",
+      "desc": "Background   After solving the LINE Bot's Vertex AI migration, I started thinking: Could...",
+      "source": "dev",
+      "tag": "agents,  ai",
+      "url": "https://dev.to/gde/gcp-in-action-building-a-persistent-ai-assistant-with-gce-hermes-agent-and-telegram-1mlg"
+    },
+    {
+      "title": "Building Dynamic Audio with Emotion & Pace: Gemini 3.1 Flash TTS, Angular & Firebase Cloud Functions [GDE]",
+      "hot": "❤️ 5 💬 0",
+      "desc": "Google released the Gemini 3.1 Flash TTS Preview model for AI audio generation in the Gemini API,...",
+      "source": "dev",
+      "tag": "firebase,  angular",
+      "url": "https://dev.to/gde/building-dynamic-audio-with-emotion-pace-gemini-31-flash-tts-angular-firebase-cloud-functions-15f8"
+    },
+    {
+      "title": "I Am Starting Over in Public",
+      "hot": "❤️ 7 💬 4",
+      "desc": "I have a computer science degree with a specialization in AI and Data Science. And I still didn't...",
+      "source": "dev",
+      "tag": "ai,  webdev",
+      "url": "https://dev.to/mohan-01/i-am-starting-over-in-public-25n1"
+    },
+    {
+      "title": "How Making a Fountain Pen Made Me a Better Developer",
+      "hot": "❤️ 0 💬 0",
+      "desc": "Any type of process can benefit from task optimisation (reducing cost, improving consistency, and...",
+      "source": "dev",
+      "tag": "learning,  productivity",
+      "url": "https://dev.to/simplifycomplexity/how-making-a-fountain-pen-made-me-a-better-developer-22e0"
+    },
+    {
+      "title": "[Google Cloud Next '26 Recap #1] Hands-On with the Agentic Hack Zone",
+      "hot": "❤️ 6 💬 0",
+      "desc": "I recently attended Google Cloud Next '26 in Las Vegas. In this post, I'd like to share my experience...",
+      "source": "dev",
+      "tag": "googlecloud,  gemini",
+      "url": "https://dev.to/gde/google-cloud-next-26-recap-hands-on-with-the-agentic-hack-zone-12p9"
+    },
+    {
+      "title": "Gaffa @ Major League Hacking's Global Hack Week",
+      "hot": "❤️ 12 💬 1",
+      "desc": "Every month, Major League Hacking (MLH) hosts a Global Hack Week, a free event where developers can...",
+      "source": "dev",
+      "tag": "hackathon,  data",
+      "url": "https://dev.to/james_gaffa/gaffa-major-league-hackings-global-hack-week-m9b"
+    },
+    {
+      "title": "Porting Libraries to Crystal with AI",
+      "hot": "❤️ 2 💬 0",
+      "desc": "This post was originally written in Japanese and translated into English by the author using ChatGPT....",
+      "source": "dev",
+      "tag": "crystal",
+      "url": "https://dev.to/kojix2/porting-libraries-to-crystal-with-ai-1kl"
+    },
+    {
+      "title": "Getting Started with ChromeOS Flex",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article covers the installation and configuration for installing ChromeOS Flex on standard PC...",
+      "source": "dev",
+      "tag": "penguins,  chromeosflex",
+      "url": "https://dev.to/gde/getting-started-with-chromeos-flex-58jn"
+    },
+    {
+      "title": "Migrating Azure Devops Activity to GitHub 🔄️",
+      "hot": "❤️ 0 💬 0",
+      "desc": "GitHub isn’t just a place to store code anymore. For many developers, it’s a living portfolio, a...",
+      "source": "dev",
+      "tag": "azure,  github",
+      "url": "https://dev.to/raamyy/migrating-azure-devops-activity-to-github-37ci"
+    },
+    {
+      "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
+      "hot": "❤️ 0 💬 0",
+      "desc": "A few months ago, my experience with AI assistance was limited to tab completions in Cursor. The kind...",
+      "source": "dev",
+      "tag": "ai,  agents",
+      "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8"
+    },
+    {
+      "title": "Using Gemini with OpenClaw: Setup Guide + Real Use Cases",
+      "hot": "❤️ 15 💬 1",
+      "desc": "OpenClaw supports a wide range of LLM providers, and choosing the right one shapes how your agents...",
+      "source": "dev",
+      "tag": "openclaw,  gemini",
+      "url": "https://dev.to/matthewrevell/using-gemini-with-openclaw-setup-guide-real-use-cases-2i48"
+    },
+    {
+      "title": "Service-to-Service Calls vs Event-Driven Flows: When to Use Which",
+      "hot": "❤️ 0 💬 0",
+      "desc": "This post breaks down the difference between direct service calls, jobs and workers, and event-driven flows in plain ter",
+      "source": "dev",
+      "tag": "backend,  architecture",
+      "url": "https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8"
+    },
+    {
+      "title": "Mapbox GL JS adds support for PMTiles vector sources",
+      "hot": "❤️ 18 💬 1",
+      "desc": "Mapbox GL JS v3.21.0 added support for vector sources using the PMTiles protocol — another option in...",
+      "source": "dev",
+      "tag": "spatialdata,  pmtiles",
+      "url": "https://dev.to/mapbox/mapbox-gl-js-adds-support-for-pmtiles-vector-and-raster-sources-141b"
+    },
+    {
+      "title": "What was your win this week?",
+      "hot": "❤️ 15 💬 12",
+      "desc": "👋👋👋👋 Looking back on your week — what was something you're proud of?  All wins count — big or small...",
+      "source": "dev",
+      "tag": "discuss,  weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-ig5"
+    },
+    {
+      "title": "I Don't Like Tailwind. Sorry Not Sorry",
+      "hot": "❤️ 24 💬 9",
+      "desc": "An opinionated defence of hand-crafted CSS in a utility-class world     There. I said it. Call me a...",
+      "source": "dev",
+      "tag": "css,  webdev",
+      "url": "https://dev.to/freshcaffeine/i-dont-like-tailwind-sorry-not-sorry-50b5"
+    },
+    {
+      "title": "Leadership Micro Katas",
+      "hot": "❤️ 4 💬 0",
+      "desc": "About twenty years ago, I broke production. I was a young developer, the rollback was slow, and for a...",
+      "source": "dev",
+      "tag": "leadership,  learning",
+      "url": "https://dev.to/yrizos/leadership-micro-katas-363f"
+    },
+    {
+      "title": "Stop Using Your Clipboard to Share Context",
+      "hot": "❤️ 40 💬 5",
+      "desc": "We're all learning how to code with agents. If you're \"in the bubble\" it can feel like everyone is...",
+      "source": "dev",
+      "tag": "ai,  agents",
+      "url": "https://dev.to/thisisryanswift/stop-using-your-clipboard-to-share-context-3941"
     }
   ]
 }
