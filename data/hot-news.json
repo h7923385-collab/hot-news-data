@@ -1,207 +1,53 @@
 {
-  "updatedAt": "2026-05-02T08:15:24.358Z",
+  "updatedAt": "2026-05-02T09:36:50.655Z",
   "source": "live",
-  "dev": [
-    {
-      "title": "Announcing the Winners of the DEV Weekend Challenge: Earth Day Edition 🌍",
-      "hot": "❤️ 83 💬 36",
-      "desc": "The time has come! We are thrilled to announce the winners of our second DEV Weekend Challenge: Earth...",
-      "source": "dev",
-      "tag": "devchallenge,  weekendchallenge",
-      "url": "https://dev.to/devteam/announcing-the-winners-of-the-dev-weekend-challenge-earth-day-edition-1n4"
-    },
-    {
-      "title": "What was your win this week?",
-      "hot": "❤️ 11 💬 7",
-      "desc": "👋👋👋👋 Looking back on your week — what was something you're proud of?  All wins count — big or small...",
-      "source": "dev",
-      "tag": "discuss,  weeklyretro",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-ig5"
-    },
-    {
-      "title": "I Am Starting Over in Public",
-      "hot": "❤️ 5 💬 2",
-      "desc": "I have a computer science degree with a specialization in AI and Data Science. And I still didn't...",
-      "source": "dev",
-      "tag": "ai,  webdev",
-      "url": "https://dev.to/mohan-01/i-am-starting-over-in-public-25n1"
-    },
-    {
-      "title": "I Don't Like Tailwind. Sorry Not Sorry",
-      "hot": "❤️ 11 💬 4",
-      "desc": "An opinionated defence of hand-crafted CSS in a utility-class world     There. I said it. Call me a...",
-      "source": "dev",
-      "tag": "css,  webdev",
-      "url": "https://dev.to/freshcaffeine/i-dont-like-tailwind-sorry-not-sorry-50b5"
-    },
-    {
-      "title": "How Making a Fountain Pen Made Me a Better Developer",
-      "hot": "❤️ 0 💬 0",
-      "desc": "Any type of process can benefit from task optimisation (reducing cost, improving consistency, and...",
-      "source": "dev",
-      "tag": "learning,  productivity",
-      "url": "https://dev.to/simplifycomplexity/how-making-a-fountain-pen-made-me-a-better-developer-22e0"
-    },
-    {
-      "title": "Gaffa @ Major League Hacking's Global Hack Week",
-      "hot": "❤️ 12 💬 1",
-      "desc": "Every month, Major League Hacking (MLH) hosts a Global Hack Week, a free event where developers can...",
-      "source": "dev",
-      "tag": "hackathon,  data",
-      "url": "https://dev.to/james_gaffa/gaffa-major-league-hackings-global-hack-week-m9b"
-    },
-    {
-      "title": "Getting Started with ChromeOS Flex",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article covers the installation and configuration for installing ChromeOS Flex on standard PC...",
-      "source": "dev",
-      "tag": "penguins,  chromeosflex",
-      "url": "https://dev.to/gde/getting-started-with-chromeos-flex-58jn"
-    },
-    {
-      "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
-      "hot": "❤️ 0 💬 0",
-      "desc": "A few months ago, my experience with AI assistance was limited to tab completions in Cursor. The kind...",
-      "source": "dev",
-      "tag": "ai,  agents",
-      "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8"
-    },
-    {
-      "title": "Using Gemini with OpenClaw: Setup Guide + Real Use Cases",
-      "hot": "❤️ 15 💬 1",
-      "desc": "OpenClaw supports a wide range of LLM providers, and choosing the right one shapes how your agents...",
-      "source": "dev",
-      "tag": "openclaw,  gemini",
-      "url": "https://dev.to/matthewrevell/using-gemini-with-openclaw-setup-guide-real-use-cases-2i48"
-    },
-    {
-      "title": "Slash commands: no more meaningless commits",
-      "hot": "❤️ 1 💬 0",
-      "desc": "One of the things I've been using the most since I started with Claude Code is slash commands. And...",
-      "source": "dev",
-      "tag": "claudecode,  opencode",
-      "url": "https://dev.to/guilherme44/slash-commands-no-more-meaningless-commits-38ae"
-    },
-    {
-      "title": "Extending a Video with Angular, Veo 3.1 Lite, Firebase Cloud Functions, and Firebase Cloud Storage",
-      "hot": "❤️ 8 💬 1",
-      "desc": "Google released the Veo 3.1 Lite model for AI video generation in the Gemini API, Gemini in Vertex...",
-      "source": "dev",
-      "tag": "ai,  angular",
-      "url": "https://dev.to/railsstudent/extending-a-video-with-angular-veo-31-lite-firebase-cloud-functions-and-firebase-cloud-storage-n30"
-    },
-    {
-      "title": "Service-to-Service Calls vs Event-Driven Flows: When to Use Which",
-      "hot": "❤️ 0 💬 0",
-      "desc": "This post breaks down the difference between direct service calls, jobs and workers, and event-driven flows in plain ter",
-      "source": "dev",
-      "tag": "backend,  architecture",
-      "url": "https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8"
-    },
-    {
-      "title": "Stop Crashing Node.js: How to Process 10GB Files with 15MB of RAM",
-      "hot": "❤️ 0 💬 0",
-      "desc": "We've all been there. You write a simple script to process a JSON or CSV file. It works perfectly on...",
-      "source": "dev",
-      "tag": "node,  typescript",
-      "url": "https://dev.to/pujansrt/stop-crashing-nodejs-how-to-process-10gb-files-with-15mb-of-ram-2gb5"
-    },
-    {
-      "title": "Mapbox GL JS adds support for PMTiles vector sources",
-      "hot": "❤️ 18 💬 1",
-      "desc": "Mapbox GL JS v3.21.0 added support for vector sources using the PMTiles protocol — another option in...",
-      "source": "dev",
-      "tag": "spatialdata,  pmtiles",
-      "url": "https://dev.to/mapbox/mapbox-gl-js-adds-support-for-pmtiles-vector-and-raster-sources-141b"
-    },
-    {
-      "title": "Leadership Micro Katas",
-      "hot": "❤️ 4 💬 0",
-      "desc": "About twenty years ago, I broke production. I was a young developer, the rollback was slow, and for a...",
-      "source": "dev",
-      "tag": "leadership,  learning",
-      "url": "https://dev.to/yrizos/leadership-micro-katas-363f"
-    },
-    {
-      "title": "Forking Paseo: Mobile vibe coding for me",
-      "hot": "❤️ 31 💬 1",
-      "desc": "TLDR - I wanted to upgrade my coding-from-my-phone workflow. I found Paseo, forked it, and used AI...",
-      "source": "dev",
-      "tag": "ai,  agents",
-      "url": "https://dev.to/thisisryanswift/forking-paseo-mobile-vibe-coding-for-me-48pa"
-    },
-    {
-      "title": "Stop Using Your Clipboard to Share Context",
-      "hot": "❤️ 38 💬 4",
-      "desc": "We're all learning how to code with agents. If you're \"in the bubble\" it can feel like everyone is...",
-      "source": "dev",
-      "tag": "ai,  agents",
-      "url": "https://dev.to/thisisryanswift/stop-using-your-clipboard-to-share-context-3941"
-    },
-    {
-      "title": "More Accessible Focus Indicators with Compose",
-      "hot": "❤️ 35 💬 2",
-      "desc": "Last summer, I wrote a blog post about focus management with Compose. Ever since, I’ve had drafts of...",
-      "source": "dev",
-      "tag": "android,  a11y",
-      "url": "https://dev.to/eevajonnapanula/more-accessible-focus-indicators-with-compose-1ca4"
-    },
-    {
-      "title": "How I Used AI to Fix Our E2E Test Architecture",
-      "hot": "❤️ 37 💬 8",
-      "desc": "I joined a project with an existing Playwright E2E test suite, 38 spec files, ~165 tests, around...",
-      "source": "dev",
-      "tag": "testing,  e2e",
-      "url": "https://dev.to/debs_obrien/how-i-used-ai-to-fix-our-e2e-test-architecture-444a"
-    },
-    {
-      "title": "Platform-Neutral AI Tools Are the Safer Long-Term Bet",
-      "hot": "❤️ 0 💬 0",
-      "desc": "AI tool lock-in lives in your context and intent layer, not just the API. Why platform-neutral tooling protects what you",
-      "source": "dev",
-      "tag": "ai,  llm",
-      "url": "https://dev.to/mrlarson2007_62/platform-neutral-ai-tools-are-the-safer-long-term-bet-42i1"
-    }
-  ],
   "tech": [
     {
       "title": "Why does it take so long to release black fan versions?",
       "hot": "3.0m",
       "desc": "noctua.at",
       "source": "tech",
-      "tag": "⬆️ 141 points",
+      "tag": "⬆️ 222 points",
       "url": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions"
     },
     {
-      "title": "Job Postings for Software Engineers Are Rapidly Rising",
+      "title": "Show HN: Browser-based light pollution simulator using real photometric data",
       "hot": "3.0m",
-      "desc": "citadelsecurities.com",
+      "desc": "iesna.eu",
       "source": "tech",
-      "tag": "⬆️ 186 points",
-      "url": "https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/"
+      "tag": "⬆️ 5 points",
+      "url": "https://iesna.eu/?wasm=skyglow_demo"
     },
     {
       "title": "Ti-84 Evo",
       "hot": "3.0m",
       "desc": "education.ti.com",
       "source": "tech",
-      "tag": "⬆️ 428 points",
+      "tag": "⬆️ 454 points",
       "url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo"
     },
     {
-      "title": "Ask.com has closed",
+      "title": "SKILL.make: Makefile Styled Skill File",
       "hot": "3.0m",
-      "desc": "ask.com",
+      "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 232 points",
-      "url": "https://www.ask.com/"
+      "tag": "⬆️ 9 points",
+      "url": "https://github.com/Teaonly/SKILL.make"
+    },
+    {
+      "title": "A Gopher Meets a Crab",
+      "hot": "2.9m",
+      "desc": "miren.dev",
+      "source": "tech",
+      "tag": "⬆️ 32 points",
+      "url": "https://miren.dev/blog/gopher-meets-crab"
     },
     {
       "title": "Artemis II Photo Timeline",
       "hot": "2.9m",
       "desc": "artemistimeline.com",
       "source": "tech",
-      "tag": "⬆️ 178 points",
+      "tag": "⬆️ 201 points",
       "url": "https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003"
     },
     {
@@ -209,56 +55,72 @@
       "hot": "2.9m",
       "desc": "newyorker.com",
       "source": "tech",
-      "tag": "⬆️ 321 points",
+      "tag": "⬆️ 337 points",
       "url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we"
     },
     {
-      "title": "A Gopher Meets a Crab",
+      "title": "Ask.com has closed",
       "hot": "2.9m",
-      "desc": "miren.dev",
+      "desc": "ask.com",
       "source": "tech",
-      "tag": "⬆️ 17 points",
-      "url": "https://miren.dev/blog/gopher-meets-crab"
-    },
-    {
-      "title": "To Restore an Island Paradise, Add Fungi",
-      "hot": "2.9m",
-      "desc": "e360.yale.edu",
-      "source": "tech",
-      "tag": "⬆️ 54 points",
-      "url": "https://e360.yale.edu/digest/atoll-islands-sea-level-rise-fungi"
-    },
-    {
-      "title": "LFM2-24B-A2B: Scaling Up the LFM2 Architecture",
-      "hot": "2.9m",
-      "desc": "liquid.ai",
-      "source": "tech",
-      "tag": "⬆️ 31 points",
-      "url": "https://www.liquid.ai/blog/lfm2-24b-a2b"
+      "tag": "⬆️ 259 points",
+      "url": "https://www.ask.com/"
     },
     {
       "title": "The USB Situation",
       "hot": "2.9m",
       "desc": "randsinrepose.com",
       "source": "tech",
-      "tag": "⬆️ 6 points",
+      "tag": "⬆️ 19 points",
       "url": "https://randsinrepose.com/archives/the-usb-situation/"
+    },
+    {
+      "title": "To Restore an Island Paradise, Add Fungi",
+      "hot": "2.9m",
+      "desc": "e360.yale.edu",
+      "source": "tech",
+      "tag": "⬆️ 62 points",
+      "url": "https://e360.yale.edu/digest/atoll-islands-sea-level-rise-fungi"
     },
     {
       "title": "K3k: Kubernetes in Kubernetes",
       "hot": "2.9m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 36 points",
+      "tag": "⬆️ 50 points",
       "url": "https://github.com/rancher/k3k"
+    },
+    {
+      "title": "LFM2-24B-A2B: Scaling Up the LFM2 Architecture",
+      "hot": "2.8m",
+      "desc": "liquid.ai",
+      "source": "tech",
+      "tag": "⬆️ 36 points",
+      "url": "https://www.liquid.ai/blog/lfm2-24b-a2b"
+    },
+    {
+      "title": "Bitmap and tilemap generation from a single example",
+      "hot": "2.8m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 7 points",
+      "url": "https://github.com/mxgmn/WaveFunctionCollapse"
     },
     {
       "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
       "hot": "2.8m",
       "desc": "news.ycombinator.com",
       "source": "tech",
-      "tag": "⬆️ 154 points",
+      "tag": "⬆️ 159 points",
       "url": "https://news.ycombinator.com/item?id=47975676"
+    },
+    {
+      "title": "Lib0xc: A set of C standard library-adjacent APIs for safer systems programming",
+      "hot": "2.8m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 149 points",
+      "url": "https://github.com/microsoft/lib0xc"
     },
     {
       "title": "CollectWise (YC F24) Is Hiring",
@@ -269,60 +131,36 @@
       "url": "https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer"
     },
     {
-      "title": "Lib0xc: A set of C standard library-adjacent APIs for safer systems programming",
+      "title": "Show HN: Stop playing my matchstick puzzles, start building your own in seconds",
       "hot": "2.8m",
-      "desc": "github.com",
+      "desc": "mathstick.github.io",
       "source": "tech",
-      "tag": "⬆️ 141 points",
-      "url": "https://github.com/microsoft/lib0xc"
-    },
-    {
-      "title": "Eka’s robotic claw feels like we're approaching a ChatGPT moment",
-      "hot": "2.8m",
-      "desc": "wired.com",
-      "source": "tech",
-      "tag": "⬆️ 134 points",
-      "url": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/"
-    },
-    {
-      "title": "Ask HN: Who is hiring? (May 2026)",
-      "hot": "2.8m",
-      "desc": "news.ycombinator.com",
-      "source": "tech",
-      "tag": "⬆️ 255 points",
-      "url": "https://news.ycombinator.com/item?id=47975571"
+      "tag": "⬆️ 12 points",
+      "url": "https://mathstick.github.io"
     },
     {
       "title": "A Report on Burnout in Open Source Software Communities (2025) [pdf]",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "mirandaheath.website",
       "source": "tech",
-      "tag": "⬆️ 67 points",
+      "tag": "⬆️ 76 points",
       "url": "https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf"
     },
     {
-      "title": "Direct electrochemical black coffee quality appraisal using cyclic voltammetry",
+      "title": "Ask HN: Who is hiring? (May 2026)",
       "hot": "2.7m",
-      "desc": "nature.com",
+      "desc": "news.ycombinator.com",
       "source": "tech",
-      "tag": "⬆️ 47 points",
-      "url": "https://www.nature.com/articles/s41467-026-71526-5"
+      "tag": "⬆️ 258 points",
+      "url": "https://news.ycombinator.com/item?id=47975571"
     },
     {
       "title": "The smelly baby problem",
       "hot": "2.7m",
       "desc": "worksinprogress.news",
       "source": "tech",
-      "tag": "⬆️ 170 points",
+      "tag": "⬆️ 183 points",
       "url": "https://www.worksinprogress.news/p/how-disposable-diapers-conquered"
-    },
-    {
-      "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
-      "hot": "2.7m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 491 points",
-      "url": "https://github.com/darrylmorley/whatcable"
     }
   ],
   "space": [
@@ -447,10 +285,172 @@
       "url": "https://spacepolicyonline.com/news/house-appropriations-subcommittee-clears-nasa-bill-on-party-line-vote/"
     }
   ],
+  "dev": [
+    {
+      "title": "Announcing the Winners of the DEV Weekend Challenge: Earth Day Edition 🌍",
+      "hot": "❤️ 84 💬 37",
+      "desc": "The time has come! We are thrilled to announce the winners of our second DEV Weekend Challenge: Earth...",
+      "source": "dev",
+      "tag": "devchallenge,  weekendchallenge",
+      "url": "https://dev.to/devteam/announcing-the-winners-of-the-dev-weekend-challenge-earth-day-edition-1n4"
+    },
+    {
+      "title": "What was your win this week?",
+      "hot": "❤️ 11 💬 7",
+      "desc": "👋👋👋👋 Looking back on your week — what was something you're proud of?  All wins count — big or small...",
+      "source": "dev",
+      "tag": "discuss,  weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-ig5"
+    },
+    {
+      "title": "I Don't Like Tailwind. Sorry Not Sorry",
+      "hot": "❤️ 12 💬 5",
+      "desc": "An opinionated defence of hand-crafted CSS in a utility-class world     There. I said it. Call me a...",
+      "source": "dev",
+      "tag": "css,  webdev",
+      "url": "https://dev.to/freshcaffeine/i-dont-like-tailwind-sorry-not-sorry-50b5"
+    },
+    {
+      "title": "How Making a Fountain Pen Made Me a Better Developer",
+      "hot": "❤️ 0 💬 0",
+      "desc": "Any type of process can benefit from task optimisation (reducing cost, improving consistency, and...",
+      "source": "dev",
+      "tag": "learning,  productivity",
+      "url": "https://dev.to/simplifycomplexity/how-making-a-fountain-pen-made-me-a-better-developer-22e0"
+    },
+    {
+      "title": "I Am Starting Over in Public",
+      "hot": "❤️ 6 💬 2",
+      "desc": "I have a computer science degree with a specialization in AI and Data Science. And I still didn't...",
+      "source": "dev",
+      "tag": "ai,  webdev",
+      "url": "https://dev.to/mohan-01/i-am-starting-over-in-public-25n1"
+    },
+    {
+      "title": "Gaffa @ Major League Hacking's Global Hack Week",
+      "hot": "❤️ 12 💬 1",
+      "desc": "Every month, Major League Hacking (MLH) hosts a Global Hack Week, a free event where developers can...",
+      "source": "dev",
+      "tag": "hackathon,  data",
+      "url": "https://dev.to/james_gaffa/gaffa-major-league-hackings-global-hack-week-m9b"
+    },
+    {
+      "title": "Getting Started with ChromeOS Flex",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article covers the installation and configuration for installing ChromeOS Flex on standard PC...",
+      "source": "dev",
+      "tag": "penguins,  chromeosflex",
+      "url": "https://dev.to/gde/getting-started-with-chromeos-flex-58jn"
+    },
+    {
+      "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
+      "hot": "❤️ 0 💬 0",
+      "desc": "A few months ago, my experience with AI assistance was limited to tab completions in Cursor. The kind...",
+      "source": "dev",
+      "tag": "ai,  agents",
+      "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8"
+    },
+    {
+      "title": "Using Gemini with OpenClaw: Setup Guide + Real Use Cases",
+      "hot": "❤️ 15 💬 1",
+      "desc": "OpenClaw supports a wide range of LLM providers, and choosing the right one shapes how your agents...",
+      "source": "dev",
+      "tag": "openclaw,  gemini",
+      "url": "https://dev.to/matthewrevell/using-gemini-with-openclaw-setup-guide-real-use-cases-2i48"
+    },
+    {
+      "title": "Slash commands: no more meaningless commits",
+      "hot": "❤️ 1 💬 0",
+      "desc": "One of the things I've been using the most since I started with Claude Code is slash commands. And...",
+      "source": "dev",
+      "tag": "claudecode,  opencode",
+      "url": "https://dev.to/guilherme44/slash-commands-no-more-meaningless-commits-38ae"
+    },
+    {
+      "title": "Extending a Video with Angular, Veo 3.1 Lite, Firebase Cloud Functions, and Firebase Cloud Storage",
+      "hot": "❤️ 8 💬 1",
+      "desc": "Google released the Veo 3.1 Lite model for AI video generation in the Gemini API, Gemini in Vertex...",
+      "source": "dev",
+      "tag": "ai,  angular",
+      "url": "https://dev.to/railsstudent/extending-a-video-with-angular-veo-31-lite-firebase-cloud-functions-and-firebase-cloud-storage-n30"
+    },
+    {
+      "title": "Service-to-Service Calls vs Event-Driven Flows: When to Use Which",
+      "hot": "❤️ 0 💬 0",
+      "desc": "This post breaks down the difference between direct service calls, jobs and workers, and event-driven flows in plain ter",
+      "source": "dev",
+      "tag": "backend,  architecture",
+      "url": "https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8"
+    },
+    {
+      "title": "Stop Crashing Node.js: How to Process 10GB Files with 15MB of RAM",
+      "hot": "❤️ 0 💬 0",
+      "desc": "We've all been there. You write a simple script to process a JSON or CSV file. It works perfectly on...",
+      "source": "dev",
+      "tag": "node,  typescript",
+      "url": "https://dev.to/pujansrt/stop-crashing-nodejs-how-to-process-10gb-files-with-15mb-of-ram-2gb5"
+    },
+    {
+      "title": "Mapbox GL JS adds support for PMTiles vector sources",
+      "hot": "❤️ 18 💬 1",
+      "desc": "Mapbox GL JS v3.21.0 added support for vector sources using the PMTiles protocol — another option in...",
+      "source": "dev",
+      "tag": "spatialdata,  pmtiles",
+      "url": "https://dev.to/mapbox/mapbox-gl-js-adds-support-for-pmtiles-vector-and-raster-sources-141b"
+    },
+    {
+      "title": "Leadership Micro Katas",
+      "hot": "❤️ 4 💬 0",
+      "desc": "About twenty years ago, I broke production. I was a young developer, the rollback was slow, and for a...",
+      "source": "dev",
+      "tag": "leadership,  learning",
+      "url": "https://dev.to/yrizos/leadership-micro-katas-363f"
+    },
+    {
+      "title": "Forking Paseo: Mobile vibe coding for me",
+      "hot": "❤️ 31 💬 1",
+      "desc": "TLDR - I wanted to upgrade my coding-from-my-phone workflow. I found Paseo, forked it, and used AI...",
+      "source": "dev",
+      "tag": "ai,  agents",
+      "url": "https://dev.to/thisisryanswift/forking-paseo-mobile-vibe-coding-for-me-48pa"
+    },
+    {
+      "title": "Stop Using Your Clipboard to Share Context",
+      "hot": "❤️ 38 💬 4",
+      "desc": "We're all learning how to code with agents. If you're \"in the bubble\" it can feel like everyone is...",
+      "source": "dev",
+      "tag": "ai,  agents",
+      "url": "https://dev.to/thisisryanswift/stop-using-your-clipboard-to-share-context-3941"
+    },
+    {
+      "title": "More Accessible Focus Indicators with Compose",
+      "hot": "❤️ 35 💬 2",
+      "desc": "Last summer, I wrote a blog post about focus management with Compose. Ever since, I’ve had drafts of...",
+      "source": "dev",
+      "tag": "android,  a11y",
+      "url": "https://dev.to/eevajonnapanula/more-accessible-focus-indicators-with-compose-1ca4"
+    },
+    {
+      "title": "How I Used AI to Fix Our E2E Test Architecture",
+      "hot": "❤️ 37 💬 8",
+      "desc": "I joined a project with an existing Playwright E2E test suite, 38 spec files, ~165 tests, around...",
+      "source": "dev",
+      "tag": "testing,  e2e",
+      "url": "https://dev.to/debs_obrien/how-i-used-ai-to-fix-our-e2e-test-architecture-444a"
+    },
+    {
+      "title": "Platform-Neutral AI Tools Are the Safer Long-Term Bet",
+      "hot": "❤️ 0 💬 0",
+      "desc": "AI tool lock-in lives in your context and intent layer, not just the API. Why platform-neutral tooling protects what you",
+      "source": "dev",
+      "tag": "ai,  llm",
+      "url": "https://dev.to/mrlarson2007_62/platform-neutral-ai-tools-are-the-safer-long-term-bet-42i1"
+    }
+  ],
   "github": [
     {
       "title": "nexu-io/open-design: 🎨 Local-first, open-source alternative to Anthropic's Clau",
-      "hot": "⭐ 13.0k",
+      "hot": "⭐ 13.2k",
       "desc": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile",
       "source": "github",
       "tag": "TypeScript",
@@ -458,7 +458,7 @@
     },
     {
       "title": "freestylefly/awesome-gpt-image-2: Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，370+ ",
-      "hot": "⭐ 3.1k",
+      "hot": "⭐ 3.2k",
       "desc": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，370+ 个案例逆向工程，20+ 套工业级模板，持续更新中",
       "source": "github",
       "tag": "GitHub",
@@ -498,7 +498,7 @@
     },
     {
       "title": "darrylmorley/whatcable: macOS menu bar app that tells you, in plain English, wha",
-      "hot": "⭐ 961",
+      "hot": "⭐ 1.0k",
       "desc": "macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do",
       "source": "github",
       "tag": "Swift",
@@ -506,7 +506,7 @@
     },
     {
       "title": "DanOps-1/Gpt-Agreement-Payment: ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉",
-      "hot": "⭐ 889",
+      "hot": "⭐ 894",
       "desc": "ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-",
       "source": "github",
       "tag": "Python",
@@ -514,7 +514,7 @@
     },
     {
       "title": "b-nnett/codex-plusplus: Codex++ tweak system for the Codex desktop app",
-      "hot": "⭐ 793",
+      "hot": "⭐ 801",
       "desc": "Codex++ tweak system for the Codex desktop app",
       "source": "github",
       "tag": "TypeScript",
@@ -522,7 +522,7 @@
     },
     {
       "title": "GENEXIS-AI/chromex: A Codex-powered Chrome side-panel assistant for page context",
-      "hot": "⭐ 743",
+      "hot": "⭐ 745",
       "desc": "A Codex-powered Chrome side-panel assistant for page context, tabs, voice, and image workflows.",
       "source": "github",
       "tag": "TypeScript",
@@ -530,7 +530,7 @@
     },
     {
       "title": "t8y2/dbx: Open-source, lightweight, cross-platform database client. Supports MyS",
-      "hot": "⭐ 643",
+      "hot": "⭐ 653",
       "desc": "Open-source, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server.",
       "source": "github",
       "tag": "Vue",
@@ -538,23 +538,23 @@
     },
     {
       "title": "ka-pi-ba-la/AIbijia: 分享便宜靠谱Token，抹平信息差",
-      "hot": "⭐ 615",
+      "hot": "⭐ 621",
       "desc": "分享便宜靠谱Token，抹平信息差",
       "source": "github",
       "tag": "GitHub",
       "url": "https://github.com/ka-pi-ba-la/AIbijia"
     },
     {
-      "title": "Fokkyp/SoftwareCopyright-Skill: 中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 ",
-      "hot": "⭐ 563",
-      "desc": "中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
+      "title": "Fokkyp/SoftwareCopyright-Skill: 中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅��本地项目，自动生成全套",
+      "hot": "⭐ 579",
+      "desc": "中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅��本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/Fokkyp/SoftwareCopyright-Skill"
     },
     {
       "title": "deepseek-ai/awesome-deepseek-agent: ",
-      "hot": "⭐ 560",
+      "hot": "⭐ 562",
       "desc": "deepseek-ai/awesome-deepseek-agent",
       "source": "github",
       "tag": "GitHub",
@@ -562,7 +562,7 @@
     },
     {
       "title": "Kianmhz/GooseRelayVPN: Socks5 VPN that tunnels raw TCP through Google Apps Scrip",
-      "hot": "⭐ 528",
+      "hot": "⭐ 532",
       "desc": "Socks5 VPN that tunnels raw TCP through Google Apps Script to your VPS exit server (AES‑256‑GCM, domain‑fronted).",
       "source": "github",
       "tag": "Go",
