@@ -2,11 +2,43 @@
   "data": [
     {
       "title": "Announcing the Winners of the DEV Weekend Challenge: Earth Day Edition 🌍",
-      "hot": "❤️ 93 💬 44",
+      "hot": "❤️ 93 💬 45",
       "desc": "The time has come! We are thrilled to announce the winners of our second DEV Weekend Challenge: Earth...",
       "source": "dev",
       "tag": "devchallenge,  weekendchallenge",
       "url": "https://dev.to/devteam/announcing-the-winners-of-the-dev-weekend-challenge-earth-day-edition-1n4"
+    },
+    {
+      "title": "I Accidentally Wrote a Filesystem Driver. For a Browser. 🤔",
+      "hot": "❤️ 4 💬 4",
+      "desc": "Staring at a bug report that makes no sense.   Data gone. No error. No warning. No stack...",
+      "source": "dev",
+      "tag": "api,  javascript",
+      "url": "https://dev.to/edmundsparrow/i-accidentally-wrote-a-filesystem-driver-for-a-browser-53cd"
+    },
+    {
+      "title": "Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖",
+      "hot": "❤️ 0 💬 0",
+      "desc": "I have been meaning to upgrade my personal site to Astro 6 for a while. The release notes sat in my...",
+      "source": "dev",
+      "tag": "ai,  devjournal",
+      "url": "https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c"
+    },
+    {
+      "title": "Introducing pytest-style fixtures into Ruby for smarter browser testing",
+      "hot": "❤️ 0 💬 0",
+      "desc": "Why I built another Ruby test runner inspired by Playwright Test   Ruby already has great...",
+      "source": "dev",
+      "tag": "rspec,  playwright",
+      "url": "https://dev.to/yusukeiwaki/introducing-pytest-style-fixtures-into-ruby-for-smarter-browser-testing-lbi"
+    },
+    {
+      "title": "Turning Repository Knowledge Into Usable Agent Context",
+      "hot": "❤️ 0 💬 0",
+      "desc": "AI coding agents are getting better at writing code, but they still struggle with one thing that...",
+      "source": "dev",
+      "tag": "ai,  programming",
+      "url": "https://dev.to/airscript/turning-repository-knowledge-into-usable-agent-context-4pe4"
     },
     {
       "title": "Gemini 3.1: Native TTS for Easier, More Powerful Summary Reading",
@@ -23,6 +55,46 @@
       "source": "dev",
       "tag": "ai,  googlecloud",
       "url": "https://dev.to/gde/gcp-in-action-migrating-a-line-bot-from-ai-studio-to-vertex-ai-to-solve-429-errors-47jo"
+    },
+    {
+      "title": "BWAI'2026 @ VTU, Belagavi",
+      "hot": "❤️ 14 💬 0",
+      "desc": "#BuildwithAI       Hello Developer, That's a wrap at BWAI'2026 @ VTU, Belagavi.   The Build...",
+      "source": "dev",
+      "tag": "ai,  beginners",
+      "url": "https://dev.to/gdg/bwai2026-vtu-belagavi-1p7n"
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Functions, and Gemini CLI",
+      "hot": "❤️ 5 💬 0",
+      "desc": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "source": "dev",
+      "tag": "multiagentsystems,  gemini",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-functions-and-gemini-cli-5di0"
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure App Service, and Gemini CLI",
+      "hot": "❤️ 5 💬 0",
+      "desc": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "source": "dev",
+      "tag": "gemini,  a2aprotocol",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-app-service-and-gemini-cli-g8"
+    },
+    {
+      "title": "We're Shipping More Code Than Ever. We Understand Less of It.",
+      "hot": "❤️ 0 💬 0",
+      "desc": "A few weeks ago I watched a junior push four commits to the same pull request, each one a fresh...",
+      "source": "dev",
+      "tag": "ai,  softwareengineering",
+      "url": "https://dev.to/fbritoferreira/were-shipping-more-code-than-ever-we-understand-less-of-it-93n"
+    },
+    {
+      "title": "Agent-as-a-Tool: A New Era of AI Orchestration",
+      "hot": "❤️ 7 💬 0",
+      "desc": "Abstract   As Large Language Model (LLM) agents increasingly integrate numerous external...",
+      "source": "dev",
+      "tag": "ai,  agents",
+      "url": "https://dev.to/gde/agent-as-a-tool-a-new-era-of-ai-orchestration-n94"
     },
     {
       "title": "How Making a Fountain Pen Made Me a Better Developer",
@@ -87,79 +159,7 @@
       "source": "dev",
       "tag": "backend,  architecture",
       "url": "https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8"
-    },
-    {
-      "title": "Mapbox GL JS adds support for PMTiles vector sources",
-      "hot": "❤️ 18 💬 1",
-      "desc": "Mapbox GL JS v3.21.0 added support for vector sources using the PMTiles protocol — another option in...",
-      "source": "dev",
-      "tag": "spatialdata,  pmtiles",
-      "url": "https://dev.to/mapbox/mapbox-gl-js-adds-support-for-pmtiles-vector-and-raster-sources-141b"
-    },
-    {
-      "title": "I Don't Like Tailwind. Sorry Not Sorry",
-      "hot": "❤️ 33 💬 11",
-      "desc": "An opinionated defence of hand-crafted CSS in a utility-class world     There. I said it. Call me a...",
-      "source": "dev",
-      "tag": "css,  webdev",
-      "url": "https://dev.to/freshcaffeine/i-dont-like-tailwind-sorry-not-sorry-50b5"
-    },
-    {
-      "title": "Leadership Micro Katas",
-      "hot": "❤️ 4 💬 0",
-      "desc": "About twenty years ago, I broke production. I was a young developer, the rollback was slow, and for a...",
-      "source": "dev",
-      "tag": "leadership,  learning",
-      "url": "https://dev.to/yrizos/leadership-micro-katas-363f"
-    },
-    {
-      "title": "Platform-Neutral AI Tools Are the Safer Long-Term Bet",
-      "hot": "❤️ 0 💬 0",
-      "desc": "AI tool lock-in lives in your context and intent layer, not just the API. Why platform-neutral tooling protects what you",
-      "source": "dev",
-      "tag": "ai,  llm",
-      "url": "https://dev.to/mrlarson2007_62/platform-neutral-ai-tools-are-the-safer-long-term-bet-42i1"
-    },
-    {
-      "title": "Agents are building their own UIs now. Here's when that's worth doing.",
-      "hot": "❤️ 30 💬 2",
-      "desc": "This is a submission for the Google Cloud NEXT Writing Challenge  During the developer keynote at...",
-      "source": "dev",
-      "tag": "devchallenge,  googlecloud",
-      "url": "https://dev.to/gde/agents-are-building-their-own-uis-now-heres-when-thats-worth-doing-o9d"
-    },
-    {
-      "title": "I Am Starting Over in Public",
-      "hot": "❤️ 8 💬 4",
-      "desc": "I have a computer science degree with a specialization in AI and Data Science. And I still didn't...",
-      "source": "dev",
-      "tag": "ai,  webdev",
-      "url": "https://dev.to/mohan-01/i-am-starting-over-in-public-25n1"
-    },
-    {
-      "title": "I Rebuilt Karpathy's NanoChat in JAX. Here's What XLA Gets Right and What It Gets Dead Wrong.",
-      "hot": "❤️ 8 💬 1",
-      "desc": "AI GDE TPU Sprint 2026 · Google TPU Research Cloud     Quick summary: We ported Andrej Karpathy's...",
-      "source": "dev",
-      "tag": "machinelearning,  python",
-      "url": "https://dev.to/gde/i-rebuilt-karpathys-nanochat-in-jax-heres-what-xla-gets-right-and-what-it-gets-dead-wrong-4641"
-    },
-    {
-      "title": "I built a shell script that sets up your entire AI coding agent workspace in 2 minutes",
-      "hot": "❤️ 0 💬 0",
-      "desc": "Stop repeating yourself to Claude Code and Codex. One script generates CLAUDE.md, AGENTS.md, security rules, testing str",
-      "source": "dev",
-      "tag": "ai,  productivity",
-      "url": "https://dev.to/shad_tech/i-built-a-shell-script-that-sets-up-your-entire-ai-coding-agent-workspace-in-2-minutes-13ep"
-    },
-    {
-      "title": "Getting Started with ChromeOS Flex",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article covers the installation and configuration for installing ChromeOS Flex on standard PC...",
-      "source": "dev",
-      "tag": "penguins,  chromeosflex",
-      "url": "https://dev.to/gde/getting-started-with-chromeos-flex-58jn"
     }
   ],
-  "updatedAt": "2026-05-03T17:12:08.983Z"
+  "updatedAt": "2026-05-03T18:07:07.224Z"
 }

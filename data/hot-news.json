@@ -1,183 +1,29 @@
 {
-  "updatedAt": "2026-05-03T17:12:08.983Z",
+  "updatedAt": "2026-05-03T18:07:07.224Z",
   "source": "live",
-  "dev": [
-    {
-      "title": "Announcing the Winners of the DEV Weekend Challenge: Earth Day Edition 🌍",
-      "hot": "❤️ 93 💬 44",
-      "desc": "The time has come! We are thrilled to announce the winners of our second DEV Weekend Challenge: Earth...",
-      "source": "dev",
-      "tag": "devchallenge,  weekendchallenge",
-      "url": "https://dev.to/devteam/announcing-the-winners-of-the-dev-weekend-challenge-earth-day-edition-1n4"
-    },
-    {
-      "title": "Gemini 3.1: Native TTS for Easier, More Powerful Summary Reading",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Background   In the previous practical session, we used Gemini 3.1 Flash Live to achieve...",
-      "source": "dev",
-      "tag": "ai,  api",
-      "url": "https://dev.to/gde/gemini-31-native-tts-for-easier-more-powerful-summary-reading-2ep9"
-    },
-    {
-      "title": "GCP in Action: Migrating a LINE Bot from AI Studio to Vertex AI to Solve 429 Errors",
-      "hot": "❤️ 5 💬 0",
-      "desc": "Background   Recently, the LINE business card assistant robot (linebot-namecard-python)...",
-      "source": "dev",
-      "tag": "ai,  googlecloud",
-      "url": "https://dev.to/gde/gcp-in-action-migrating-a-line-bot-from-ai-studio-to-vertex-ai-to-solve-429-errors-47jo"
-    },
-    {
-      "title": "How Making a Fountain Pen Made Me a Better Developer",
-      "hot": "❤️ 0 💬 0",
-      "desc": "Any type of process can benefit from task optimisation (reducing cost, improving consistency, and...",
-      "source": "dev",
-      "tag": "learning,  productivity",
-      "url": "https://dev.to/simplifycomplexity/how-making-a-fountain-pen-made-me-a-better-developer-22e0"
-    },
-    {
-      "title": "GCP in Action: Building a Persistent AI Assistant with GCE, Hermes Agent, and Telegram",
-      "hot": "❤️ 8 💬 0",
-      "desc": "Background   After solving the LINE Bot's Vertex AI migration, I started thinking: Could...",
-      "source": "dev",
-      "tag": "agents,  ai",
-      "url": "https://dev.to/gde/gcp-in-action-building-a-persistent-ai-assistant-with-gce-hermes-agent-and-telegram-1mlg"
-    },
-    {
-      "title": "Porting Libraries to Crystal with AI",
-      "hot": "❤️ 2 💬 0",
-      "desc": "This post was originally written in Japanese and translated into English by the author using ChatGPT....",
-      "source": "dev",
-      "tag": "crystal",
-      "url": "https://dev.to/kojix2/porting-libraries-to-crystal-with-ai-1kl"
-    },
-    {
-      "title": "Building Dynamic Audio with Emotion & Pace: Gemini 3.1 Flash TTS, Angular & Firebase Cloud Functions [GDE]",
-      "hot": "❤️ 6 💬 1",
-      "desc": "Google released the Gemini 3.1 Flash TTS Preview model for AI audio generation in the Gemini API,...",
-      "source": "dev",
-      "tag": "firebase,  angular",
-      "url": "https://dev.to/gde/building-dynamic-audio-with-emotion-pace-gemini-31-flash-tts-angular-firebase-cloud-functions-15f8"
-    },
-    {
-      "title": "Migrating Azure Devops Activity to GitHub 🔄️",
-      "hot": "❤️ 0 💬 0",
-      "desc": "GitHub isn’t just a place to store code anymore. For many developers, it’s a living portfolio, a...",
-      "source": "dev",
-      "tag": "azure,  github",
-      "url": "https://dev.to/raamyy/migrating-azure-devops-activity-to-github-37ci"
-    },
-    {
-      "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
-      "hot": "❤️ 0 💬 0",
-      "desc": "A few months ago, my experience with AI assistance was limited to tab completions in Cursor. The kind...",
-      "source": "dev",
-      "tag": "ai,  agents",
-      "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8"
-    },
-    {
-      "title": "Using Gemini with OpenClaw: Setup Guide + Real Use Cases",
-      "hot": "❤️ 15 💬 1",
-      "desc": "OpenClaw supports a wide range of LLM providers, and choosing the right one shapes how your agents...",
-      "source": "dev",
-      "tag": "openclaw,  gemini",
-      "url": "https://dev.to/matthewrevell/using-gemini-with-openclaw-setup-guide-real-use-cases-2i48"
-    },
-    {
-      "title": "Service-to-Service Calls vs Event-Driven Flows: When to Use Which",
-      "hot": "❤️ 0 💬 0",
-      "desc": "This post breaks down the difference between direct service calls, jobs and workers, and event-driven flows in plain ter",
-      "source": "dev",
-      "tag": "backend,  architecture",
-      "url": "https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8"
-    },
-    {
-      "title": "Mapbox GL JS adds support for PMTiles vector sources",
-      "hot": "❤️ 18 💬 1",
-      "desc": "Mapbox GL JS v3.21.0 added support for vector sources using the PMTiles protocol — another option in...",
-      "source": "dev",
-      "tag": "spatialdata,  pmtiles",
-      "url": "https://dev.to/mapbox/mapbox-gl-js-adds-support-for-pmtiles-vector-and-raster-sources-141b"
-    },
-    {
-      "title": "I Don't Like Tailwind. Sorry Not Sorry",
-      "hot": "❤️ 33 💬 11",
-      "desc": "An opinionated defence of hand-crafted CSS in a utility-class world     There. I said it. Call me a...",
-      "source": "dev",
-      "tag": "css,  webdev",
-      "url": "https://dev.to/freshcaffeine/i-dont-like-tailwind-sorry-not-sorry-50b5"
-    },
-    {
-      "title": "Leadership Micro Katas",
-      "hot": "❤️ 4 💬 0",
-      "desc": "About twenty years ago, I broke production. I was a young developer, the rollback was slow, and for a...",
-      "source": "dev",
-      "tag": "leadership,  learning",
-      "url": "https://dev.to/yrizos/leadership-micro-katas-363f"
-    },
-    {
-      "title": "Platform-Neutral AI Tools Are the Safer Long-Term Bet",
-      "hot": "❤️ 0 💬 0",
-      "desc": "AI tool lock-in lives in your context and intent layer, not just the API. Why platform-neutral tooling protects what you",
-      "source": "dev",
-      "tag": "ai,  llm",
-      "url": "https://dev.to/mrlarson2007_62/platform-neutral-ai-tools-are-the-safer-long-term-bet-42i1"
-    },
-    {
-      "title": "Agents are building their own UIs now. Here's when that's worth doing.",
-      "hot": "❤️ 30 💬 2",
-      "desc": "This is a submission for the Google Cloud NEXT Writing Challenge  During the developer keynote at...",
-      "source": "dev",
-      "tag": "devchallenge,  googlecloud",
-      "url": "https://dev.to/gde/agents-are-building-their-own-uis-now-heres-when-thats-worth-doing-o9d"
-    },
-    {
-      "title": "I Am Starting Over in Public",
-      "hot": "❤️ 8 💬 4",
-      "desc": "I have a computer science degree with a specialization in AI and Data Science. And I still didn't...",
-      "source": "dev",
-      "tag": "ai,  webdev",
-      "url": "https://dev.to/mohan-01/i-am-starting-over-in-public-25n1"
-    },
-    {
-      "title": "I Rebuilt Karpathy's NanoChat in JAX. Here's What XLA Gets Right and What It Gets Dead Wrong.",
-      "hot": "❤️ 8 💬 1",
-      "desc": "AI GDE TPU Sprint 2026 · Google TPU Research Cloud     Quick summary: We ported Andrej Karpathy's...",
-      "source": "dev",
-      "tag": "machinelearning,  python",
-      "url": "https://dev.to/gde/i-rebuilt-karpathys-nanochat-in-jax-heres-what-xla-gets-right-and-what-it-gets-dead-wrong-4641"
-    },
-    {
-      "title": "I built a shell script that sets up your entire AI coding agent workspace in 2 minutes",
-      "hot": "❤️ 0 💬 0",
-      "desc": "Stop repeating yourself to Claude Code and Codex. One script generates CLAUDE.md, AGENTS.md, security rules, testing str",
-      "source": "dev",
-      "tag": "ai,  productivity",
-      "url": "https://dev.to/shad_tech/i-built-a-shell-script-that-sets-up-your-entire-ai-coding-agent-workspace-in-2-minutes-13ep"
-    },
-    {
-      "title": "Getting Started with ChromeOS Flex",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article covers the installation and configuration for installing ChromeOS Flex on standard PC...",
-      "source": "dev",
-      "tag": "penguins,  chromeosflex",
-      "url": "https://dev.to/gde/getting-started-with-chromeos-flex-58jn"
-    }
-  ],
   "tech": [
     {
       "title": "What Chromium versions are major browsers are on?",
       "hot": "3.0m",
       "desc": "chromium-drift.pages.dev",
       "source": "tech",
-      "tag": "⬆️ 11 points",
+      "tag": "⬆️ 56 points",
       "url": "https://chromium-drift.pages.dev/"
+    },
+    {
+      "title": "Southwest Headquarters Tour",
+      "hot": "3.0m",
+      "desc": "katherinemichel.github.io",
+      "source": "tech",
+      "tag": "⬆️ 33 points",
+      "url": "https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html"
     },
     {
       "title": "Mercedes-Benz commits to bringing back physical buttons",
       "hot": "3.0m",
       "desc": "drive.com.au",
       "source": "tech",
-      "tag": "⬆️ 277 points",
+      "tag": "⬆️ 347 points",
       "url": "https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/"
     },
     {
@@ -185,15 +31,15 @@
       "hot": "3.0m",
       "desc": "newsroom.porsche.com",
       "source": "tech",
-      "tag": "⬆️ 46 points",
+      "tag": "⬆️ 71 points",
       "url": "https://newsroom.porsche.com/en_US/2026/motorsport/porsche-will-contest-laguna-seca-in-historic-colors-of-the-apple-computer-livery.html"
     },
     {
       "title": "Alert-Driven Monitoring",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "simpleobservability.com",
       "source": "tech",
-      "tag": "⬆️ 43 points",
+      "tag": "⬆️ 58 points",
       "url": "https://simpleobservability.com/docs/alert-driven-monitoring"
     },
     {
@@ -201,7 +47,7 @@
       "hot": "2.9m",
       "desc": "hpcwire.com",
       "source": "tech",
-      "tag": "⬆️ 30 points",
+      "tag": "⬆️ 41 points",
       "url": "https://www.hpcwire.com/2026/02/05/what-is-z-angle-memory-and-why-is-intel-developing-it/"
     },
     {
@@ -209,7 +55,7 @@
       "hot": "2.9m",
       "desc": "christophermeiklejohn.com",
       "source": "tech",
-      "tag": "⬆️ 75 points",
+      "tag": "⬆️ 119 points",
       "url": "https://christophermeiklejohn.com/ai/personal/phish/flow/agents/2026/05/03/rift.html"
     },
     {
@@ -217,39 +63,47 @@
       "hot": "2.9m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 122 points",
+      "tag": "⬆️ 127 points",
       "url": "https://github.com/bring-shrubbery/ml-sharp-web"
-    },
-    {
-      "title": "Group averages obscure how an individual's brain controls behavior: study",
-      "hot": "2.9m",
-      "desc": "med.stanford.edu",
-      "source": "tech",
-      "tag": "⬆️ 85 points",
-      "url": "https://med.stanford.edu/news/all-news/2026/04/brain-scans-individual-versus-group.html"
-    },
-    {
-      "title": "A couple million lines of Haskell: Production engineering at Mercury",
-      "hot": "2.9m",
-      "desc": "blog.haskell.org",
-      "source": "tech",
-      "tag": "⬆️ 357 points",
-      "url": "https://blog.haskell.org/a-couple-million-lines-of-haskell/"
     },
     {
       "title": "Coffee doesn't just wake you up–a biological pathway illuminates health effects",
       "hot": "2.9m",
       "desc": "sciencex.com",
       "source": "tech",
-      "tag": "⬆️ 27 points",
+      "tag": "⬆️ 57 points",
       "url": "https://sciencex.com/news/2026-04-coffee-doesnt-key-biological-pathway.html"
     },
     {
-      "title": "Embedded Rust or C Firmware? Lessons from an Industrial Microcontroller Use Case",
+      "title": "Metal Gear Solid 2's Source Code Has Been Leaked on 4Chan",
       "hot": "2.9m",
+      "desc": "thegamer.com",
+      "source": "tech",
+      "tag": "⬆️ 39 points",
+      "url": "https://www.thegamer.com/mgs2-hd-edition-source-code-massive-leak/"
+    },
+    {
+      "title": "Group averages obscure how an individual's brain controls behavior: study",
+      "hot": "2.9m",
+      "desc": "med.stanford.edu",
+      "source": "tech",
+      "tag": "⬆️ 91 points",
+      "url": "https://med.stanford.edu/news/all-news/2026/04/brain-scans-individual-versus-group.html"
+    },
+    {
+      "title": "A couple million lines of Haskell: Production engineering at Mercury",
+      "hot": "2.8m",
+      "desc": "blog.haskell.org",
+      "source": "tech",
+      "tag": "⬆️ 363 points",
+      "url": "https://blog.haskell.org/a-couple-million-lines-of-haskell/"
+    },
+    {
+      "title": "Embedded Rust or C Firmware? Lessons from an Industrial Microcontroller Use Case",
+      "hot": "2.8m",
       "desc": "arxiv.org",
       "source": "tech",
-      "tag": "⬆️ 119 points",
+      "tag": "⬆️ 132 points",
       "url": "https://arxiv.org/abs/2604.25679"
     },
     {
@@ -257,23 +111,23 @@
       "hot": "2.8m",
       "desc": "ladybird.org",
       "source": "tech",
-      "tag": "⬆️ 453 points",
+      "tag": "⬆️ 458 points",
       "url": "https://ladybird.org/newsletter/2026-04-30/"
     },
     {
-      "title": "Haskell: Debugging",
+      "title": "The Oscars Just Banned AI from Winning Acting and Writing Awards",
       "hot": "2.8m",
-      "desc": "wiki.haskell.org",
+      "desc": "gizmodo.com",
       "source": "tech",
-      "tag": "⬆️ 21 points",
-      "url": "https://wiki.haskell.org/Debugging"
+      "tag": "⬆️ 11 points",
+      "url": "https://gizmodo.com/the-oscars-just-banned-ai-from-winning-acting-and-writing-awards-2000753740"
     },
     {
       "title": "Six Years Perfecting Maps on WatchOS",
       "hot": "2.8m",
       "desc": "david-smith.org",
       "source": "tech",
-      "tag": "⬆️ 401 points",
+      "tag": "⬆️ 407 points",
       "url": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/"
     },
     {
@@ -281,48 +135,32 @@
       "hot": "2.8m",
       "desc": "code.videolan.org",
       "source": "tech",
-      "tag": "⬆️ 564 points",
+      "tag": "⬆️ 567 points",
       "url": "https://code.videolan.org/videolan/dav2d"
     },
     {
-      "title": "Uncle Bob: It's Over",
-      "hot": "2.8m",
-      "desc": "old.reddit.com",
+      "title": "Haskell: Debugging",
+      "hot": "2.7m",
+      "desc": "wiki.haskell.org",
       "source": "tech",
-      "tag": "⬆️ 26 points",
-      "url": "https://old.reddit.com/r/vibecoding/comments/1srfqm0/uncle_bob_its_over/"
+      "tag": "⬆️ 23 points",
+      "url": "https://wiki.haskell.org/Debugging"
     },
     {
       "title": "Do_not_track",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "donottrack.sh",
       "source": "tech",
-      "tag": "⬆️ 451 points",
+      "tag": "⬆️ 461 points",
       "url": "https://donottrack.sh/"
-    },
-    {
-      "title": "The Hiddn Financial Bubble in AI Infrastructure [pdf]",
-      "hot": "2.7m",
-      "desc": "financial-ai-bubble.pagey.site",
-      "source": "tech",
-      "tag": "⬆️ 5 points",
-      "url": "https://financial-ai-bubble.pagey.site/The-Hidden-Financial-Bubble-in-AI-Infrastructure.pdf"
     },
     {
       "title": "Windows quality update: Progress we've made since March",
       "hot": "2.7m",
       "desc": "blogs.windows.com",
       "source": "tech",
-      "tag": "⬆️ 130 points",
+      "tag": "⬆️ 137 points",
       "url": "https://blogs.windows.com/windows-insider/2026/05/01/windows-quality-update-progress-weve-made-since-march/"
-    },
-    {
-      "title": "Breaking Up with WordPress After Two Decades",
-      "hot": "2.7m",
-      "desc": "yusufaytas.com",
-      "source": "tech",
-      "tag": "⬆️ 45 points",
-      "url": "https://yusufaytas.com/breaking-up-with-wordpress-after-two-decades"
     }
   ],
   "space": [
@@ -447,10 +285,172 @@
       "url": "https://www.esa.int/ESA_Multimedia/Images/2026/05/Earth_from_Space_Netherlands_in_bloom"
     }
   ],
+  "dev": [
+    {
+      "title": "Announcing the Winners of the DEV Weekend Challenge: Earth Day Edition 🌍",
+      "hot": "❤️ 93 💬 45",
+      "desc": "The time has come! We are thrilled to announce the winners of our second DEV Weekend Challenge: Earth...",
+      "source": "dev",
+      "tag": "devchallenge,  weekendchallenge",
+      "url": "https://dev.to/devteam/announcing-the-winners-of-the-dev-weekend-challenge-earth-day-edition-1n4"
+    },
+    {
+      "title": "I Accidentally Wrote a Filesystem Driver. For a Browser. 🤔",
+      "hot": "❤️ 4 💬 4",
+      "desc": "Staring at a bug report that makes no sense.   Data gone. No error. No warning. No stack...",
+      "source": "dev",
+      "tag": "api,  javascript",
+      "url": "https://dev.to/edmundsparrow/i-accidentally-wrote-a-filesystem-driver-for-a-browser-53cd"
+    },
+    {
+      "title": "Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖",
+      "hot": "❤️ 0 💬 0",
+      "desc": "I have been meaning to upgrade my personal site to Astro 6 for a while. The release notes sat in my...",
+      "source": "dev",
+      "tag": "ai,  devjournal",
+      "url": "https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c"
+    },
+    {
+      "title": "Introducing pytest-style fixtures into Ruby for smarter browser testing",
+      "hot": "❤️ 0 💬 0",
+      "desc": "Why I built another Ruby test runner inspired by Playwright Test   Ruby already has great...",
+      "source": "dev",
+      "tag": "rspec,  playwright",
+      "url": "https://dev.to/yusukeiwaki/introducing-pytest-style-fixtures-into-ruby-for-smarter-browser-testing-lbi"
+    },
+    {
+      "title": "Turning Repository Knowledge Into Usable Agent Context",
+      "hot": "❤️ 0 💬 0",
+      "desc": "AI coding agents are getting better at writing code, but they still struggle with one thing that...",
+      "source": "dev",
+      "tag": "ai,  programming",
+      "url": "https://dev.to/airscript/turning-repository-knowledge-into-usable-agent-context-4pe4"
+    },
+    {
+      "title": "Gemini 3.1: Native TTS for Easier, More Powerful Summary Reading",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Background   In the previous practical session, we used Gemini 3.1 Flash Live to achieve...",
+      "source": "dev",
+      "tag": "ai,  api",
+      "url": "https://dev.to/gde/gemini-31-native-tts-for-easier-more-powerful-summary-reading-2ep9"
+    },
+    {
+      "title": "GCP in Action: Migrating a LINE Bot from AI Studio to Vertex AI to Solve 429 Errors",
+      "hot": "❤️ 5 💬 0",
+      "desc": "Background   Recently, the LINE business card assistant robot (linebot-namecard-python)...",
+      "source": "dev",
+      "tag": "ai,  googlecloud",
+      "url": "https://dev.to/gde/gcp-in-action-migrating-a-line-bot-from-ai-studio-to-vertex-ai-to-solve-429-errors-47jo"
+    },
+    {
+      "title": "BWAI'2026 @ VTU, Belagavi",
+      "hot": "❤️ 14 💬 0",
+      "desc": "#BuildwithAI       Hello Developer, That's a wrap at BWAI'2026 @ VTU, Belagavi.   The Build...",
+      "source": "dev",
+      "tag": "ai,  beginners",
+      "url": "https://dev.to/gdg/bwai2026-vtu-belagavi-1p7n"
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Functions, and Gemini CLI",
+      "hot": "❤️ 5 💬 0",
+      "desc": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "source": "dev",
+      "tag": "multiagentsystems,  gemini",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-functions-and-gemini-cli-5di0"
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure App Service, and Gemini CLI",
+      "hot": "❤️ 5 💬 0",
+      "desc": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "source": "dev",
+      "tag": "gemini,  a2aprotocol",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-app-service-and-gemini-cli-g8"
+    },
+    {
+      "title": "We're Shipping More Code Than Ever. We Understand Less of It.",
+      "hot": "❤️ 0 💬 0",
+      "desc": "A few weeks ago I watched a junior push four commits to the same pull request, each one a fresh...",
+      "source": "dev",
+      "tag": "ai,  softwareengineering",
+      "url": "https://dev.to/fbritoferreira/were-shipping-more-code-than-ever-we-understand-less-of-it-93n"
+    },
+    {
+      "title": "Agent-as-a-Tool: A New Era of AI Orchestration",
+      "hot": "❤️ 7 💬 0",
+      "desc": "Abstract   As Large Language Model (LLM) agents increasingly integrate numerous external...",
+      "source": "dev",
+      "tag": "ai,  agents",
+      "url": "https://dev.to/gde/agent-as-a-tool-a-new-era-of-ai-orchestration-n94"
+    },
+    {
+      "title": "How Making a Fountain Pen Made Me a Better Developer",
+      "hot": "❤️ 0 💬 0",
+      "desc": "Any type of process can benefit from task optimisation (reducing cost, improving consistency, and...",
+      "source": "dev",
+      "tag": "learning,  productivity",
+      "url": "https://dev.to/simplifycomplexity/how-making-a-fountain-pen-made-me-a-better-developer-22e0"
+    },
+    {
+      "title": "GCP in Action: Building a Persistent AI Assistant with GCE, Hermes Agent, and Telegram",
+      "hot": "❤️ 8 💬 0",
+      "desc": "Background   After solving the LINE Bot's Vertex AI migration, I started thinking: Could...",
+      "source": "dev",
+      "tag": "agents,  ai",
+      "url": "https://dev.to/gde/gcp-in-action-building-a-persistent-ai-assistant-with-gce-hermes-agent-and-telegram-1mlg"
+    },
+    {
+      "title": "Porting Libraries to Crystal with AI",
+      "hot": "❤️ 2 💬 0",
+      "desc": "This post was originally written in Japanese and translated into English by the author using ChatGPT....",
+      "source": "dev",
+      "tag": "crystal",
+      "url": "https://dev.to/kojix2/porting-libraries-to-crystal-with-ai-1kl"
+    },
+    {
+      "title": "Building Dynamic Audio with Emotion & Pace: Gemini 3.1 Flash TTS, Angular & Firebase Cloud Functions [GDE]",
+      "hot": "❤️ 6 💬 1",
+      "desc": "Google released the Gemini 3.1 Flash TTS Preview model for AI audio generation in the Gemini API,...",
+      "source": "dev",
+      "tag": "firebase,  angular",
+      "url": "https://dev.to/gde/building-dynamic-audio-with-emotion-pace-gemini-31-flash-tts-angular-firebase-cloud-functions-15f8"
+    },
+    {
+      "title": "Migrating Azure Devops Activity to GitHub 🔄️",
+      "hot": "❤️ 0 💬 0",
+      "desc": "GitHub isn’t just a place to store code anymore. For many developers, it’s a living portfolio, a...",
+      "source": "dev",
+      "tag": "azure,  github",
+      "url": "https://dev.to/raamyy/migrating-azure-devops-activity-to-github-37ci"
+    },
+    {
+      "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
+      "hot": "❤️ 0 💬 0",
+      "desc": "A few months ago, my experience with AI assistance was limited to tab completions in Cursor. The kind...",
+      "source": "dev",
+      "tag": "ai,  agents",
+      "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8"
+    },
+    {
+      "title": "Using Gemini with OpenClaw: Setup Guide + Real Use Cases",
+      "hot": "❤️ 15 💬 1",
+      "desc": "OpenClaw supports a wide range of LLM providers, and choosing the right one shapes how your agents...",
+      "source": "dev",
+      "tag": "openclaw,  gemini",
+      "url": "https://dev.to/matthewrevell/using-gemini-with-openclaw-setup-guide-real-use-cases-2i48"
+    },
+    {
+      "title": "Service-to-Service Calls vs Event-Driven Flows: When to Use Which",
+      "hot": "❤️ 0 💬 0",
+      "desc": "This post breaks down the difference between direct service calls, jobs and workers, and event-driven flows in plain ter",
+      "source": "dev",
+      "tag": "backend,  architecture",
+      "url": "https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8"
+    }
+  ],
   "github": [
     {
       "title": "nexu-io/open-design: 🎨 Local-first, open-source alternative to Anthropic's Clau",
-      "hot": "⭐ 18.5k",
+      "hot": "⭐ 18.6k",
       "desc": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile",
       "source": "github",
       "tag": "TypeScript",
@@ -498,7 +498,7 @@
     },
     {
       "title": "DanOps-1/Gpt-Agreement-Payment: ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉",
-      "hot": "⭐ 957",
+      "hot": "⭐ 959",
       "desc": "ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-",
       "source": "github",
       "tag": "Python",
@@ -514,7 +514,7 @@
     },
     {
       "title": "mattpocock/dictionary-of-ai-coding: AI coding jargon, explained in plain English",
-      "hot": "⭐ 818",
+      "hot": "⭐ 822",
       "desc": "AI coding jargon, explained in plain English.",
       "source": "github",
       "tag": "TypeScript",
@@ -522,7 +522,7 @@
     },
     {
       "title": "wrongly-cuddly-obsession/NTSB_FOIA_MU5735: ",
-      "hot": "⭐ 789",
+      "hot": "⭐ 793",
       "desc": "wrongly-cuddly-obsession/NTSB_FOIA_MU5735",
       "source": "github",
       "tag": "GitHub",
@@ -530,7 +530,7 @@
     },
     {
       "title": "t8y2/dbx: 15MB，lightweight, cross-platform database client. Supports MySQL, Post",
-      "hot": "⭐ 767",
+      "hot": "⭐ 770",
       "desc": "15MB，lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.",
       "source": "github",
       "tag": "Vue",
@@ -538,7 +538,7 @@
     },
     {
       "title": "GENEXIS-AI/chromex: A Codex-powered Chrome side-panel assistant for page context",
-      "hot": "⭐ 765",
+      "hot": "⭐ 767",
       "desc": "A Codex-powered Chrome side-panel assistant for page context, tabs, voice, and image workflows.",
       "source": "github",
       "tag": "TypeScript",
@@ -554,7 +554,7 @@
     },
     {
       "title": "Fokkyp/SoftwareCopyright-Skill: 中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 ",
-      "hot": "⭐ 664",
+      "hot": "⭐ 665",
       "desc": "中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
       "source": "github",
       "tag": "Python",
@@ -562,7 +562,7 @@
     },
     {
       "title": "deepseek-ai/awesome-deepseek-agent: ",
-      "hot": "⭐ 634",
+      "hot": "⭐ 635",
       "desc": "deepseek-ai/awesome-deepseek-agent",
       "source": "github",
       "tag": "GitHub",
