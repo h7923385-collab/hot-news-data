@@ -2,19 +2,11 @@
   "data": [
     {
       "title": "Announcing the Winners of the DEV Weekend Challenge: Earth Day Edition 🌍",
-      "hot": "❤️ 94 💬 46",
+      "hot": "❤️ 95 💬 46",
       "desc": "The time has come! We are thrilled to announce the winners of our second DEV Weekend Challenge: Earth...",
       "source": "dev",
       "tag": "devchallenge,  weekendchallenge",
       "url": "https://dev.to/devteam/announcing-the-winners-of-the-dev-weekend-challenge-earth-day-edition-1n4"
-    },
-    {
-      "title": "Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖",
-      "hot": "❤️ 1 💬 1",
-      "desc": "I have been meaning to upgrade my personal site to Astro 6 for a while. The release notes sat in my...",
-      "source": "dev",
-      "tag": "ai,  devjournal",
-      "url": "https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c"
     },
     {
       "title": "Introducing pytest-style fixtures into Ruby for smarter browser testing",
@@ -41,14 +33,6 @@
       "url": "https://dev.to/gde/gcp-in-action-migrating-a-line-bot-from-ai-studio-to-vertex-ai-to-solve-429-errors-47jo"
     },
     {
-      "title": "Turning Repository Knowledge Into Usable Agent Context",
-      "hot": "❤️ 0 💬 0",
-      "desc": "AI coding agents are getting better at writing code, but they still struggle with one thing that...",
-      "source": "dev",
-      "tag": "ai,  programming",
-      "url": "https://dev.to/airscript/turning-repository-knowledge-into-usable-agent-context-4pe4"
-    },
-    {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Functions, and Gemini CLI",
       "hot": "❤️ 5 💬 0",
       "desc": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
@@ -58,7 +42,7 @@
     },
     {
       "title": "I Accidentally Wrote a Filesystem Driver. For a Browser. 🤔",
-      "hot": "❤️ 4 💬 4",
+      "hot": "❤️ 6 💬 4",
       "desc": "Staring at a bug report that makes no sense.   Data gone. No error. No warning. No stack...",
       "source": "dev",
       "tag": "api,  javascript",
@@ -71,14 +55,6 @@
       "source": "dev",
       "tag": "gemini,  a2aprotocol",
       "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-app-service-and-gemini-cli-g8"
-    },
-    {
-      "title": "BWAI'2026 @ VTU, Belagavi",
-      "hot": "❤️ 19 💬 0",
-      "desc": "#BuildwithAI       Hello Developer, That's a wrap at BWAI'2026 @ VTU, Belagavi.   The Build...",
-      "source": "dev",
-      "tag": "ai,  beginners",
-      "url": "https://dev.to/gdg/bwai2026-vtu-belagavi-1p7n"
     },
     {
       "title": "We're Shipping More Code Than Ever. We Understand Less of It.",
@@ -95,6 +71,14 @@
       "source": "dev",
       "tag": "ai,  agents",
       "url": "https://dev.to/gde/agent-as-a-tool-a-new-era-of-ai-orchestration-n94"
+    },
+    {
+      "title": "Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖",
+      "hot": "❤️ 2 💬 1",
+      "desc": "I have been meaning to upgrade my personal site to Astro 6 for a while. The release notes sat in my...",
+      "source": "dev",
+      "tag": "ai,  devjournal",
+      "url": "https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c"
     },
     {
       "title": "How Making a Fountain Pen Made Me a Better Developer",
@@ -119,6 +103,30 @@
       "source": "dev",
       "tag": "crystal",
       "url": "https://dev.to/kojix2/porting-libraries-to-crystal-with-ai-1kl"
+    },
+    {
+      "title": "Write Code That's Easy to Delete: The Art of Impermanent Software",
+      "hot": "❤️ 29 💬 14",
+      "desc": "We obsess over making code last. Maybe we should obsess over making it leave gracefully.     There's...",
+      "source": "dev",
+      "tag": "programming,  webdev",
+      "url": "https://dev.to/adamthedeveloper/write-code-thats-easy-to-delete-the-art-of-impermanent-software-19l1"
+    },
+    {
+      "title": "BWAI'2026 @ VTU, Belagavi",
+      "hot": "❤️ 19 💬 0",
+      "desc": "#BuildwithAI       Hello Developer, That's a wrap at BWAI'2026 @ VTU, Belagavi.   The Build...",
+      "source": "dev",
+      "tag": "ai,  beginners",
+      "url": "https://dev.to/gdg/bwai2026-vtu-belagavi-1p7n"
+    },
+    {
+      "title": "Turning Repository Knowledge Into Usable Agent Context",
+      "hot": "❤️ 1 💬 0",
+      "desc": "AI coding agents are getting better at writing code, but they still struggle with one thing that...",
+      "source": "dev",
+      "tag": "ai,  programming",
+      "url": "https://dev.to/airscript/turning-repository-knowledge-into-usable-agent-context-4pe4"
     },
     {
       "title": "Building Dynamic Audio with Emotion & Pace: Gemini 3.1 Flash TTS, Angular & Firebase Cloud Functions [GDE]",
@@ -151,15 +159,7 @@
       "source": "dev",
       "tag": "backend,  architecture",
       "url": "https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8"
-    },
-    {
-      "title": "Mapbox GL JS adds support for PMTiles vector sources",
-      "hot": "❤️ 18 💬 1",
-      "desc": "Mapbox GL JS v3.21.0 added support for vector sources using the PMTiles protocol — another option in...",
-      "source": "dev",
-      "tag": "spatialdata,  pmtiles",
-      "url": "https://dev.to/mapbox/mapbox-gl-js-adds-support-for-pmtiles-vector-and-raster-sources-141b"
     }
   ],
-  "updatedAt": "2026-05-04T04:13:52.945Z"
+  "updatedAt": "2026-05-04T07:29:35.731Z"
 }
