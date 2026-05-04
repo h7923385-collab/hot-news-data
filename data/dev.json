@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "I Love Tailwind. Sorry Not Sorry",
-      "hot": "❤️ 45 💬 29",
+      "hot": "❤️ 48 💬 33",
       "desc": "I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...",
       "source": "dev",
       "tag": "css,  tailwindcss",
@@ -18,7 +18,7 @@
     },
     {
       "title": "A LinkedIn Recruiter Sent Me Malware Disguised as a \"Pre-Interview Code Review\"",
-      "hot": "❤️ 0 💬 0",
+      "hot": "❤️ 19 💬 1",
       "desc": "A recruiter pitched me a remote engineering role and asked me to review their codebase before the technical interview. T",
       "source": "dev",
       "tag": "security,  webdev",
@@ -26,7 +26,7 @@
     },
     {
       "title": "[Google Cloud Next '26 Recap #3] Anthropic's Vision for \"After Software\"",
-      "hot": "❤️ 5 💬 0",
+      "hot": "❤️ 13 💬 1",
       "desc": "This is the third post in my Google Cloud Next '26 (Las Vegas) recap series.  You can find the...",
       "source": "dev",
       "tag": "googlecloud,  googlecloudnext",
@@ -34,7 +34,7 @@
     },
     {
       "title": "AI Isn't Stupid. Your Setup Is. 🛠️",
-      "hot": "❤️ 43 💬 21",
+      "hot": "❤️ 45 💬 22",
       "desc": "The bare-minimum AI coding workflow—pick the right model, plan first, write AGENTS.md for agents not humans, and cross-c",
       "source": "dev",
       "tag": "ai,  agents",
@@ -42,15 +42,23 @@
     },
     {
       "title": "OpenAI Codex is free right now. That's the trap.",
-      "hot": "❤️ 1 💬 1",
+      "hot": "❤️ 11 💬 1",
       "desc": "We all understand that free services from a company that is spending billions on computing power...",
       "source": "dev",
       "tag": "discuss,  programming",
       "url": "https://dev.to/adioof/openai-codex-is-free-right-now-thats-the-trap-2pp5"
     },
     {
+      "title": "I Built a Mobile App in 3 Days. The Hard Part Was Keeping It Connected.",
+      "hot": "❤️ 34 💬 1",
+      "desc": "I have been building web apps for 12 years. In that time I never wrote a single line of mobile code....",
+      "source": "dev",
+      "tag": "ai,  mobile",
+      "url": "https://dev.to/juandastic/i-built-a-mobile-app-in-3-days-the-hard-part-was-keeping-it-connected-2fda"
+    },
+    {
       "title": "Meme Monday",
-      "hot": "❤️ 15 💬 15",
+      "hot": "❤️ 33 💬 16",
       "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
       "source": "dev",
       "tag": "discuss,  watercooler",
@@ -65,52 +73,36 @@
       "url": "https://dev.to/vystartasv/managing-150-ai-agent-skills-at-scale-what-broke-what-i-built-1e73"
     },
     {
-      "title": "I Built a Mobile App in 3 Days. The Hard Part Was Keeping It Connected.",
-      "hot": "❤️ 15 💬 1",
-      "desc": "I have been building web apps for 12 years. In that time I never wrote a single line of mobile code....",
+      "title": "How to Build a Custom AI Quality Gate on Cloud Run (From Zero to Production)",
+      "hot": "❤️ 11 💬 2",
+      "desc": "In my previous article about treating architecture documentation as a first-class asset, I had a...",
       "source": "dev",
-      "tag": "ai,  mobile",
-      "url": "https://dev.to/juandastic/i-built-a-mobile-app-in-3-days-the-hard-part-was-keeping-it-connected-2fda"
-    },
-    {
-      "title": "Introducing pytest-style fixtures into Ruby for smarter browser testing",
-      "hot": "❤️ 0 💬 0",
-      "desc": "Why I built another Ruby test runner inspired by Playwright Test   Ruby already has great...",
-      "source": "dev",
-      "tag": "rspec,  playwright",
-      "url": "https://dev.to/yusukeiwaki/introducing-pytest-style-fixtures-into-ruby-for-smarter-browser-testing-lbi"
+      "tag": "architecture,  googlecloud",
+      "url": "https://dev.to/gdg/how-to-build-a-custom-ai-quality-gate-on-cloud-run-from-zero-to-production-1odp"
     },
     {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
-      "hot": "❤️ 5 💬 0",
+      "hot": "❤️ 23 💬 0",
       "desc": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
       "source": "dev",
       "tag": "a2aprotocol,  microsoftfabric",
       "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7"
     },
     {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Functions, and Gemini CLI",
-      "hot": "❤️ 5 💬 0",
-      "desc": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "title": "Introducing pytest-style fixtures into Ruby for smarter browser testing",
+      "hot": "❤️ 18 💬 0",
+      "desc": "Why I built another Ruby test runner inspired by Playwright Test   Ruby already has great...",
       "source": "dev",
-      "tag": "multiagentsystems,  gemini",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-functions-and-gemini-cli-5di0"
+      "tag": "rspec,  playwright",
+      "url": "https://dev.to/yusukeiwaki/introducing-pytest-style-fixtures-into-ruby-for-smarter-browser-testing-lbi"
     },
     {
-      "title": "We're Shipping More Code Than Ever. We Understand Less of It.",
-      "hot": "❤️ 0 💬 0",
-      "desc": "A few weeks ago I watched a junior push four commits to the same pull request, each one a fresh...",
+      "title": "Write Code That's Easy to Delete: The Art of Impermanent Software",
+      "hot": "❤️ 70 💬 37",
+      "desc": "We obsess over making code last. Maybe we should obsess over making it leave gracefully.     There's...",
       "source": "dev",
-      "tag": "ai,  softwareengineering",
-      "url": "https://dev.to/fbritoferreira/were-shipping-more-code-than-ever-we-understand-less-of-it-93n"
-    },
-    {
-      "title": "Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖",
-      "hot": "❤️ 2 💬 1",
-      "desc": "I have been meaning to upgrade my personal site to Astro 6 for a while. The release notes sat in my...",
-      "source": "dev",
-      "tag": "ai,  devjournal",
-      "url": "https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c"
+      "tag": "programming,  webdev",
+      "url": "https://dev.to/adamthedeveloper/write-code-thats-easy-to-delete-the-art-of-impermanent-software-19l1"
     },
     {
       "title": "Porting Libraries to Crystal with AI",
@@ -121,45 +113,53 @@
       "url": "https://dev.to/kojix2/porting-libraries-to-crystal-with-ai-1kl"
     },
     {
-      "title": "Write Code That's Easy to Delete: The Art of Impermanent Software",
-      "hot": "❤️ 60 💬 33",
-      "desc": "We obsess over making code last. Maybe we should obsess over making it leave gracefully.     There's...",
-      "source": "dev",
-      "tag": "programming,  webdev",
-      "url": "https://dev.to/adamthedeveloper/write-code-thats-easy-to-delete-the-art-of-impermanent-software-19l1"
-    },
-    {
-      "title": "BWAI'2026 @ VTU, Belagavi",
-      "hot": "❤️ 21 💬 0",
-      "desc": "#BuildwithAI       Hello Developer, That's a wrap at BWAI'2026 @ VTU, Belagavi.   The Build...",
-      "source": "dev",
-      "tag": "ai,  beginners",
-      "url": "https://dev.to/gdg/bwai2026-vtu-belagavi-1p7n"
-    },
-    {
-      "title": "Turning Repository Knowledge Into Usable Agent Context",
-      "hot": "❤️ 1 💬 0",
-      "desc": "AI coding agents are getting better at writing code, but they still struggle with one thing that...",
-      "source": "dev",
-      "tag": "ai,  programming",
-      "url": "https://dev.to/airscript/turning-repository-knowledge-into-usable-agent-context-4pe4"
-    },
-    {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure App Service, and Gemini CLI",
-      "hot": "❤️ 5 💬 0",
-      "desc": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "source": "dev",
-      "tag": "gemini,  a2aprotocol",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-app-service-and-gemini-cli-g8"
-    },
-    {
       "title": "Building Dynamic Audio with Emotion & Pace: Gemini 3.1 Flash TTS, Angular & Firebase Cloud Functions [GDE]",
       "hot": "❤️ 6 💬 1",
       "desc": "Google released the Gemini 3.1 Flash TTS Preview model for AI audio generation in the Gemini API,...",
       "source": "dev",
       "tag": "firebase,  angular",
       "url": "https://dev.to/gde/building-dynamic-audio-with-emotion-pace-gemini-31-flash-tts-angular-firebase-cloud-functions-15f8"
+    },
+    {
+      "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
+      "hot": "❤️ 0 💬 0",
+      "desc": "A few months ago, my experience with AI assistance was limited to tab completions in Cursor. The kind...",
+      "source": "dev",
+      "tag": "ai,  agents",
+      "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8"
+    },
+    {
+      "title": "Using Gemini with OpenClaw: Setup Guide + Real Use Cases",
+      "hot": "❤️ 15 💬 1",
+      "desc": "OpenClaw supports a wide range of LLM providers, and choosing the right one shapes how your agents...",
+      "source": "dev",
+      "tag": "openclaw,  gemini",
+      "url": "https://dev.to/matthewrevell/using-gemini-with-openclaw-setup-guide-real-use-cases-2i48"
+    },
+    {
+      "title": "Service-to-Service Calls vs Event-Driven Flows: When to Use Which",
+      "hot": "❤️ 0 💬 0",
+      "desc": "This post breaks down the difference between direct service calls, jobs and workers, and event-driven flows in plain ter",
+      "source": "dev",
+      "tag": "backend,  architecture",
+      "url": "https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8"
+    },
+    {
+      "title": "I Accidentally Wrote a Filesystem Driver. For a Browser. 🤔",
+      "hot": "❤️ 26 💬 4",
+      "desc": "Staring at a bug report that makes no sense.   Data gone. No error. No warning. No stack...",
+      "source": "dev",
+      "tag": "api,  javascript",
+      "url": "https://dev.to/edmundsparrow/i-accidentally-wrote-a-filesystem-driver-for-a-browser-53cd"
+    },
+    {
+      "title": "Leadership Micro Katas",
+      "hot": "❤️ 4 💬 0",
+      "desc": "About twenty years ago, I broke production. I was a young developer, the rollback was slow, and for a...",
+      "source": "dev",
+      "tag": "leadership,  learning",
+      "url": "https://dev.to/yrizos/leadership-micro-katas-363f"
     }
   ],
-  "updatedAt": "2026-05-04T17:09:04.816Z"
+  "updatedAt": "2026-05-04T19:00:38.476Z"
 }
