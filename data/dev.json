@@ -2,11 +2,19 @@
   "data": [
     {
       "title": "I Love Tailwind. Sorry Not Sorry",
-      "hot": "❤️ 87 💬 88",
+      "hot": "❤️ 87 💬 90",
       "desc": "I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...",
       "source": "dev",
       "tag": "css,  tailwindcss",
       "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh"
+    },
+    {
+      "title": "What Even Is AI? (I Took a Break & Had to Relearn Everything)",
+      "hot": "❤️ 30 💬 2",
+      "desc": "I just came back from maternity leave. And honestly? I felt like I'd missed a decade in six months. I...",
+      "source": "dev",
+      "tag": "ai,  beginners",
+      "url": "https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj"
     },
     {
       "title": "Am I a Developer or Just a Prompt Engineer?",
@@ -25,28 +33,44 @@
       "url": "https://dev.to/googleai/multimodal-rag-with-the-gemini-api-file-search-tool-a-developer-guide-5878"
     },
     {
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "hot": "❤️ 17 💬 2",
+      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+      "source": "dev",
+      "tag": "top7,  discuss",
+      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1136"
+    },
+    {
       "title": "The Next Casualty of the GenAI Revolution",
-      "hot": "❤️ 39 💬 0",
+      "hot": "❤️ 39 💬 1",
       "desc": "I was at an event this morning where someone said something that really resonated with me. \"The new...",
       "source": "dev",
       "tag": "ai,  cloud",
       "url": "https://dev.to/aws/the-next-casualty-of-the-genai-revolution-3in7"
     },
     {
-      "title": "What Even Is AI? (I Took a Break & Had to Relearn Everything)",
-      "hot": "❤️ 24 💬 1",
-      "desc": "I just came back from maternity leave. And honestly? I felt like I'd missed a decade in six months. I...",
+      "title": "Copilot Squad",
+      "hot": "❤️ 3 💬 0",
+      "desc": "There are two sections to this. In the first section, I discuss what squad is, why it might be useful...",
       "source": "dev",
-      "tag": "ai,  beginners",
-      "url": "https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj"
+      "tag": "githubcopilot",
+      "url": "https://dev.to/ruarfff/copilot-squad-4nda"
     },
     {
-      "title": "MCP Development with Amazon Lightsail Instances",
-      "hot": "❤️ 9 💬 0",
-      "desc": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
+      "title": "Wormhole4j v0.3.0: Supports Multi-threaded Concurrency",
+      "hot": "❤️ 0 💬 0",
+      "desc": "Introduction   Wormhole4j is a Java implementation of the Wormhole index, an ordered...",
       "source": "dev",
-      "tag": "python,  mcpserver",
-      "url": "https://dev.to/gde/mcp-development-with-amazon-lightsail-instances-34gp"
+      "tag": "java,  map",
+      "url": "https://dev.to/komamitsu/wormhole4j-v030-supports-multi-threaded-concurrency-2fjb"
+    },
+    {
+      "title": "7 Coder Words: I built a PWA Word Puzzle for Coders and Nerds",
+      "hot": "❤️ 2 💬 0",
+      "desc": "7 CODER W🙂RDS is a word puzzle game for people interested in computer science in general. You are...",
+      "source": "dev",
+      "tag": "gamedev,  webdev",
+      "url": "https://dev.to/petarov/7-coder-words-i-built-a-pwa-word-puzzle-for-coders-and-nerds-3oh5"
     },
     {
       "title": "What is your WPM (Words per Minute)? #2",
@@ -55,6 +79,14 @@
       "source": "dev",
       "tag": "discuss,  watercooler",
       "url": "https://dev.to/francistrdev/what-is-your-wpm-words-per-minute-2-5019"
+    },
+    {
+      "title": "MCP Development with Amazon Lightsail Instances",
+      "hot": "❤️ 9 💬 0",
+      "desc": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
+      "source": "dev",
+      "tag": "python,  mcpserver",
+      "url": "https://dev.to/gde/mcp-development-with-amazon-lightsail-instances-34gp"
     },
     {
       "title": "Your Prompts are Legacy Code Now: The Google Cloud Next '26 Developer Breakdown",
@@ -82,7 +114,7 @@
     },
     {
       "title": "Write Code That's Easy to Delete: The Art of Impermanent Software",
-      "hot": "❤️ 93 💬 47",
+      "hot": "❤️ 93 💬 48",
       "desc": "We obsess over making code last. Maybe we should obsess over making it leave gracefully.     There's...",
       "source": "dev",
       "tag": "programming,  webdev",
@@ -105,61 +137,29 @@
       "url": "https://dev.to/gdg/build-a-streaming-gemini-chat-in-angular-with-signals-then-ship-it-on-cloud-run-1llc"
     },
     {
-      "title": "Top JavaScript/TypeScript Gen AI Frameworks for 2026: A Hands-On Comparison\" description",
-      "hot": "❤️ 9 💬 0",
-      "desc": "Introduction   The Generative AI tooling ecosystem has exploded over the past two years....",
+      "title": "Getting Started with the Cluster Inventory API on OCM (Part 1: ClusterProfile)",
+      "hot": "❤️ 0 💬 0",
+      "desc": "This is Part 1 of a two-part series. Part 2 (coming soon): Connecting to spoke clusters from a...",
       "source": "dev",
-      "tag": "ai,  genkit",
-      "url": "https://dev.to/gde/top-javascripttypescript-gen-ai-frameworks-for-2026-a-hands-on-comparisondescription-1g7"
+      "tag": "kubernetes,  ocm",
+      "url": "https://dev.to/kahirokunn/build-an-open-cluster-management-hub-spoke-environment-and-enable-cluster-inventory-api-kk6"
     },
     {
-      "title": "Top Gen AI Frameworks for Java in 2026: A Hands-On Comparison",
-      "hot": "❤️ 10 💬 0",
-      "desc": "Introduction   Java has always been a serious language for production systems, and in 2026,...",
+      "title": "Landscape of ODE Solvers in R: A Practical Overview",
+      "hot": "❤️ 0 💬 0",
+      "desc": "An overview of ODE solvers in R, highlighting their capabilities, performance, and practical considerations.",
       "source": "dev",
-      "tag": "ai,  genkit",
-      "url": "https://dev.to/gde/top-gen-ai-frameworks-for-java-in-2026-a-hands-on-comparison-3e29"
+      "tag": "rstats,  modeling",
+      "url": "https://dev.to/metelkin/landscape-of-ode-solvers-in-r-a-practical-overview-4cc7"
     },
     {
-      "title": "OpenAI Codex is free right now. That's the trap.",
-      "hot": "❤️ 34 💬 1",
-      "desc": "We all understand that free services from a company that is spending billions on computing power...",
+      "title": "What Platform Teams Can Expect From Crossplane v2.2",
+      "hot": "❤️ 0 💬 0",
+      "desc": "A developer submits a ticket to request a database. Three days later, the platform team responds, but...",
       "source": "dev",
-      "tag": "discuss,  programming",
-      "url": "https://dev.to/adioof/openai-codex-is-free-right-now-thats-the-trap-2pp5"
-    },
-    {
-      "title": "Porting Libraries to Crystal with AI",
-      "hot": "❤️ 2 💬 0",
-      "desc": "This post was originally written in Japanese and translated into English by the author using ChatGPT....",
-      "source": "dev",
-      "tag": "crystal",
-      "url": "https://dev.to/kojix2/porting-libraries-to-crystal-with-ai-1kl"
-    },
-    {
-      "title": "[Google Cloud Next '26 Recap #3] Anthropic's Vision for \"After Software\"",
-      "hot": "❤️ 46 💬 1",
-      "desc": "This is the third post in my Google Cloud Next '26 (Las Vegas) recap series.  You can find the...",
-      "source": "dev",
-      "tag": "googlecloud,  googlecloudnext",
-      "url": "https://dev.to/gde/google-cloud-next-26-recap-3-anthropics-vision-for-after-software-2cj6"
-    },
-    {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
-      "hot": "❤️ 49 💬 1",
-      "desc": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "source": "dev",
-      "tag": "a2aprotocol,  microsoftfabric",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7"
-    },
-    {
-      "title": "Announcing the Winners of the DEV Weekend Challenge: Earth Day Edition 🌍",
-      "hot": "❤️ 119 💬 51",
-      "desc": "The time has come! We are thrilled to announce the winners of our second DEV Weekend Challenge: Earth...",
-      "source": "dev",
-      "tag": "devchallenge,  weekendchallenge",
-      "url": "https://dev.to/devteam/announcing-the-winners-of-the-dev-weekend-challenge-earth-day-edition-1n4"
+      "tag": "crossplane,  kubernetes",
+      "url": "https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1"
     }
   ],
-  "updatedAt": "2026-05-05T20:01:33.298Z"
+  "updatedAt": "2026-05-05T21:31:37.717Z"
 }
