@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "I Love Tailwind. Sorry Not Sorry",
-      "hot": "❤️ 86 💬 83",
+      "hot": "❤️ 87 💬 88",
       "desc": "I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...",
       "source": "dev",
       "tag": "css,  tailwindcss",
@@ -10,35 +10,91 @@
     },
     {
       "title": "Am I a Developer or Just a Prompt Engineer?",
-      "hot": "❤️ 36 💬 20",
+      "hot": "❤️ 38 💬 20",
       "desc": "Three years ago, if you asked me \"what do you do?\" I had an answer I'm a software developer. I write...",
       "source": "dev",
       "tag": "ai,  career",
       "url": "https://dev.to/harsh2644/am-i-a-developer-or-just-a-prompt-engineer-4ece"
     },
     {
-      "title": "The Next Casualty of the GenAI Revolution",
-      "hot": "❤️ 12 💬 0",
-      "desc": "I was at an event this morning where someone said something that really resonated with me. \"The new...",
-      "source": "dev",
-      "tag": "ai,  cloud",
-      "url": "https://dev.to/aws/the-next-casualty-of-the-genai-revolution-3in7"
-    },
-    {
       "title": "Multimodal RAG with the Gemini API File Search Tool: A Developer Guide",
-      "hot": "❤️ 11 💬 0",
+      "hot": "❤️ 58 💬 0",
       "desc": "The File Search tool in the Gemini API now supports multimodal retrieval by adding support for Gemini...",
       "source": "dev",
       "tag": "api,  gemini",
       "url": "https://dev.to/googleai/multimodal-rag-with-the-gemini-api-file-search-tool-a-developer-guide-5878"
     },
     {
-      "title": "VR Coding for the AI Coding Era - Monitoring 5 AI Agents at Once",
-      "hot": "❤️ 16 💬 2",
-      "desc": "TL;DR     AI coding creates dead time. While one agent is thinking, building, or testing,...",
+      "title": "The Next Casualty of the GenAI Revolution",
+      "hot": "❤️ 39 💬 0",
+      "desc": "I was at an event this morning where someone said something that really resonated with me. \"The new...",
       "source": "dev",
-      "tag": "ai,  vr",
-      "url": "https://dev.to/samchon/vr-coding-for-the-ai-coding-era-watching-5-ai-agents-at-once-53gj"
+      "tag": "ai,  cloud",
+      "url": "https://dev.to/aws/the-next-casualty-of-the-genai-revolution-3in7"
+    },
+    {
+      "title": "What Even Is AI? (I Took a Break & Had to Relearn Everything)",
+      "hot": "❤️ 24 💬 1",
+      "desc": "I just came back from maternity leave. And honestly? I felt like I'd missed a decade in six months. I...",
+      "source": "dev",
+      "tag": "ai,  beginners",
+      "url": "https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj"
+    },
+    {
+      "title": "MCP Development with Amazon Lightsail Instances",
+      "hot": "❤️ 9 💬 0",
+      "desc": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
+      "source": "dev",
+      "tag": "python,  mcpserver",
+      "url": "https://dev.to/gde/mcp-development-with-amazon-lightsail-instances-34gp"
+    },
+    {
+      "title": "What is your WPM (Words per Minute)? #2",
+      "hot": "❤️ 19 💬 2",
+      "desc": "Cover Video is from DC's Legends of Tomorrow on Guitar   I am curious, What is your WPM?  The...",
+      "source": "dev",
+      "tag": "discuss,  watercooler",
+      "url": "https://dev.to/francistrdev/what-is-your-wpm-words-per-minute-2-5019"
+    },
+    {
+      "title": "Your Prompts are Legacy Code Now: The Google Cloud Next '26 Developer Breakdown",
+      "hot": "❤️ 13 💬 0",
+      "desc": "The era of \"chatting with an LLM\" is officially legacy.  I've attended the Google Cloud Next ‘26...",
+      "source": "dev",
+      "tag": "googlecloudnext,  agenticai",
+      "url": "https://dev.to/gde/your-prompts-are-legacy-code-now-the-google-cloud-next-26-developer-breakdown-hc3"
+    },
+    {
+      "title": "ADK Agents with Amazon Bedrock Models",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article provides a step by step deployment guide for using Amazon Bedrock models with ADK...",
+      "source": "dev",
+      "tag": "gemini,  amazonbedrock",
+      "url": "https://dev.to/gde/adk-agents-with-amazon-bedrock-models-2fgc"
+    },
+    {
+      "title": "[Google Cloud Next '26 Recap #4] Live Report from the Two Keynotes",
+      "hot": "❤️ 9 💬 0",
+      "desc": "This is the fourth post in my Google Cloud Next '26 (Las Vegas) recap series.  You can find the...",
+      "source": "dev",
+      "tag": "googlecloud,  gemini",
+      "url": "https://dev.to/gde/google-cloud-next-26-recap-4-live-report-from-the-two-keynotes-34nb"
+    },
+    {
+      "title": "Write Code That's Easy to Delete: The Art of Impermanent Software",
+      "hot": "❤️ 93 💬 47",
+      "desc": "We obsess over making code last. Maybe we should obsess over making it leave gracefully.     There's...",
+      "source": "dev",
+      "tag": "programming,  webdev",
+      "url": "https://dev.to/adamthedeveloper/write-code-thats-easy-to-delete-the-art-of-impermanent-software-19l1"
+    },
+    {
+      "title": "Building a Cross Language MCP Server with Rust, Python ADK, and Gemini CLI",
+      "hot": "❤️ 5 💬 0",
+      "desc": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build ADK Agent...",
+      "source": "dev",
+      "tag": "rust,  mcpserver",
+      "url": "https://dev.to/gde/building-a-cross-language-mcp-server-with-rust-python-adk-and-gemini-cli-g5h"
     },
     {
       "title": "Build a Streaming Gemini Chat in Angular with Signals — Then Ship It on Cloud Run",
@@ -49,12 +105,20 @@
       "url": "https://dev.to/gdg/build-a-streaming-gemini-chat-in-angular-with-signals-then-ship-it-on-cloud-run-1llc"
     },
     {
-      "title": "Write Code That's Easy to Delete: The Art of Impermanent Software",
-      "hot": "❤️ 91 💬 47",
-      "desc": "We obsess over making code last. Maybe we should obsess over making it leave gracefully.     There's...",
+      "title": "Top JavaScript/TypeScript Gen AI Frameworks for 2026: A Hands-On Comparison\" description",
+      "hot": "❤️ 9 💬 0",
+      "desc": "Introduction   The Generative AI tooling ecosystem has exploded over the past two years....",
       "source": "dev",
-      "tag": "programming,  webdev",
-      "url": "https://dev.to/adamthedeveloper/write-code-thats-easy-to-delete-the-art-of-impermanent-software-19l1"
+      "tag": "ai,  genkit",
+      "url": "https://dev.to/gde/top-javascripttypescript-gen-ai-frameworks-for-2026-a-hands-on-comparisondescription-1g7"
+    },
+    {
+      "title": "Top Gen AI Frameworks for Java in 2026: A Hands-On Comparison",
+      "hot": "❤️ 10 💬 0",
+      "desc": "Introduction   Java has always been a serious language for production systems, and in 2026,...",
+      "source": "dev",
+      "tag": "ai,  genkit",
+      "url": "https://dev.to/gde/top-gen-ai-frameworks-for-java-in-2026-a-hands-on-comparison-3e29"
     },
     {
       "title": "OpenAI Codex is free right now. That's the trap.",
@@ -95,71 +159,7 @@
       "source": "dev",
       "tag": "devchallenge,  weekendchallenge",
       "url": "https://dev.to/devteam/announcing-the-winners-of-the-dev-weekend-challenge-earth-day-edition-1n4"
-    },
-    {
-      "title": "A LinkedIn Recruiter Sent Me Malware Disguised as a \"Pre-Interview Code Review\"",
-      "hot": "❤️ 52 💬 8",
-      "desc": "A recruiter pitched me a remote engineering role and asked me to review their codebase before the technical interview. T",
-      "source": "dev",
-      "tag": "security,  webdev",
-      "url": "https://dev.to/vladimirnovick/a-linkedin-recruiter-sent-me-malware-disguised-as-a-pre-interview-code-review-2k3j"
-    },
-    {
-      "title": "I Built a Mobile App in 3 Days. The Hard Part Was Keeping It Connected.",
-      "hot": "❤️ 38 💬 4",
-      "desc": "I have been building web apps for 12 years. In that time I never wrote a single line of mobile code....",
-      "source": "dev",
-      "tag": "ai,  mobile",
-      "url": "https://dev.to/juandastic/i-built-a-mobile-app-in-3-days-the-hard-part-was-keeping-it-connected-2fda"
-    },
-    {
-      "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
-      "hot": "❤️ 0 💬 0",
-      "desc": "A few months ago, my experience with AI assistance was limited to tab completions in Cursor. The kind...",
-      "source": "dev",
-      "tag": "ai,  agents",
-      "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8"
-    },
-    {
-      "title": "AI Isn't Stupid. Your Setup Is. 🛠️",
-      "hot": "❤️ 51 💬 22",
-      "desc": "The bare-minimum AI coding workflow—pick the right model, plan first, write AGENTS.md for agents not humans, and cross-c",
-      "source": "dev",
-      "tag": "ai,  agents",
-      "url": "https://dev.to/anchildress1/ai-isnt-stupid-your-setup-is-16cn"
-    },
-    {
-      "title": "Service-to-Service Calls vs Event-Driven Flows: When to Use Which",
-      "hot": "❤️ 0 💬 0",
-      "desc": "This post breaks down the difference between direct service calls, jobs and workers, and event-driven flows in plain ter",
-      "source": "dev",
-      "tag": "backend,  architecture",
-      "url": "https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8"
-    },
-    {
-      "title": "I Accidentally Wrote a Filesystem Driver. For a Browser. 🤔",
-      "hot": "❤️ 27 💬 4",
-      "desc": "Staring at a bug report that makes no sense.   Data gone. No error. No warning. No stack...",
-      "source": "dev",
-      "tag": "api,  javascript",
-      "url": "https://dev.to/edmundsparrow/i-accidentally-wrote-a-filesystem-driver-for-a-browser-53cd"
-    },
-    {
-      "title": "How to Build a Custom AI Quality Gate on Cloud Run (From Zero to Production)",
-      "hot": "❤️ 36 💬 4",
-      "desc": "In my previous article about treating architecture documentation as a first-class asset, I had a...",
-      "source": "dev",
-      "tag": "architecture,  googlecloud",
-      "url": "https://dev.to/gdg/how-to-build-a-custom-ai-quality-gate-on-cloud-run-from-zero-to-production-1odp"
-    },
-    {
-      "title": "Managing 150+ AI Agent Skills at Scale — What Broke, What I Built",
-      "hot": "❤️ 29 💬 2",
-      "desc": "By Vilius Vystartas | May 2026  I run a lot of AI agents. Not chatbots — autonomous agents. Cron jobs...",
-      "source": "dev",
-      "tag": "ai,  python",
-      "url": "https://dev.to/vystartasv/managing-150-ai-agent-skills-at-scale-what-broke-what-i-built-1e73"
     }
   ],
-  "updatedAt": "2026-05-05T18:50:36.950Z"
+  "updatedAt": "2026-05-05T20:01:33.298Z"
 }
