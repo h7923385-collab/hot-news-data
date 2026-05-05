@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "I Love Tailwind. Sorry Not Sorry",
-      "hot": "❤️ 87 💬 90",
+      "hot": "❤️ 87 💬 92",
       "desc": "I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...",
       "source": "dev",
       "tag": "css,  tailwindcss",
@@ -10,7 +10,7 @@
     },
     {
       "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 22 💬 2",
+      "hot": "❤️ 23 💬 4",
       "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
       "source": "dev",
       "tag": "top7,  discuss",
@@ -18,7 +18,7 @@
     },
     {
       "title": "What Even Is AI? (I Took a Break & Had to Relearn Everything)",
-      "hot": "❤️ 30 💬 3",
+      "hot": "❤️ 35 💬 3",
       "desc": "I just came back from maternity leave. And honestly? I felt like I'd missed a decade in six months. I...",
       "source": "dev",
       "tag": "ai,  beginners",
@@ -31,14 +31,6 @@
       "source": "dev",
       "tag": "ai,  career",
       "url": "https://dev.to/harsh2644/am-i-a-developer-or-just-a-prompt-engineer-4ece"
-    },
-    {
-      "title": "Multimodal RAG with the Gemini API File Search Tool: A Developer Guide",
-      "hot": "❤️ 58 💬 0",
-      "desc": "The File Search tool in the Gemini API now supports multimodal retrieval by adding support for Gemini...",
-      "source": "dev",
-      "tag": "api,  gemini",
-      "url": "https://dev.to/googleai/multimodal-rag-with-the-gemini-api-file-search-tool-a-developer-guide-5878"
     },
     {
       "title": "The Next Casualty of the GenAI Revolution",
@@ -89,20 +81,20 @@
       "url": "https://dev.to/gde/mcp-development-with-amazon-lightsail-instances-34gp"
     },
     {
+      "title": "Multimodal RAG with the Gemini API File Search Tool: A Developer Guide",
+      "hot": "❤️ 59 💬 0",
+      "desc": "The File Search tool in the Gemini API now supports multimodal retrieval by adding support for Gemini...",
+      "source": "dev",
+      "tag": "api,  gemini",
+      "url": "https://dev.to/googleai/multimodal-rag-with-the-gemini-api-file-search-tool-a-developer-guide-5878"
+    },
+    {
       "title": "Your Prompts are Legacy Code Now: The Google Cloud Next '26 Developer Breakdown",
       "hot": "❤️ 14 💬 0",
       "desc": "The era of \"chatting with an LLM\" is officially legacy.  I've attended the Google Cloud Next ‘26...",
       "source": "dev",
       "tag": "googlecloudnext,  agenticai",
       "url": "https://dev.to/gde/your-prompts-are-legacy-code-now-the-google-cloud-next-26-developer-breakdown-hc3"
-    },
-    {
-      "title": "ADK Agents with Amazon Bedrock Models",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article provides a step by step deployment guide for using Amazon Bedrock models with ADK...",
-      "source": "dev",
-      "tag": "gemini,  amazonbedrock",
-      "url": "https://dev.to/gde/adk-agents-with-amazon-bedrock-models-2fgc"
     },
     {
       "title": "[Google Cloud Next '26 Recap #4] Live Report from the Two Keynotes",
@@ -114,7 +106,7 @@
     },
     {
       "title": "Write Code That's Easy to Delete: The Art of Impermanent Software",
-      "hot": "❤️ 94 💬 48",
+      "hot": "❤️ 95 💬 48",
       "desc": "We obsess over making code last. Maybe we should obsess over making it leave gracefully.     There's...",
       "source": "dev",
       "tag": "programming,  webdev",
@@ -127,6 +119,14 @@
       "source": "dev",
       "tag": "rust,  mcpserver",
       "url": "https://dev.to/gde/building-a-cross-language-mcp-server-with-rust-python-adk-and-gemini-cli-g5h"
+    },
+    {
+      "title": "ADK Agents with Amazon Bedrock Models",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article provides a step by step deployment guide for using Amazon Bedrock models with ADK...",
+      "source": "dev",
+      "tag": "gemini,  amazonbedrock",
+      "url": "https://dev.to/gde/adk-agents-with-amazon-bedrock-models-2fgc"
     },
     {
       "title": "Build a Streaming Gemini Chat in Angular with Signals — Then Ship It on Cloud Run",
@@ -161,5 +161,5 @@
       "url": "https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1"
     }
   ],
-  "updatedAt": "2026-05-05T22:42:24.731Z"
+  "updatedAt": "2026-05-05T23:36:56.341Z"
 }
