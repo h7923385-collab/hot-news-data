@@ -1,132 +1,181 @@
 {
-  "updatedAt": "2026-05-05T17:00:32.816Z",
+  "updatedAt": "2026-05-05T18:50:36.950Z",
   "source": "live",
+  "tech": [
+    {
+      "title": "IBM didn't want Microsoft to use the Tab key to move between dialog fields",
+      "hot": "3.0m",
+      "desc": "devblogs.microsoft.com",
+      "source": "tech",
+      "tag": "⬆️ 156 points",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298"
+    },
+    {
+      "title": "Clarification on the Notepad++ Trademark Issue",
+      "hot": "3.0m",
+      "desc": "notepad-plus-plus.org",
+      "source": "tech",
+      "tag": "⬆️ 69 points",
+      "url": "https://notepad-plus-plus.org/news/clarify-npp-trademark-infringement/"
+    },
+    {
+      "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
+      "hot": "3.0m",
+      "desc": "blog.google",
+      "source": "tech",
+      "tag": "⬆️ 172 points",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/"
+    },
+    {
+      "title": "Three Inverse Laws of AI",
+      "hot": "3.0m",
+      "desc": "susam.net",
+      "source": "tech",
+      "tag": "⬆️ 235 points",
+      "url": "https://susam.net/inverse-laws-of-robotics.html"
+    },
+    {
+      "title": "Computer Use Is 45x More Expensive Than Structured APIs",
+      "hot": "2.9m",
+      "desc": "reflex.dev",
+      "source": "tech",
+      "tag": "⬆️ 105 points",
+      "url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/"
+    },
+    {
+      "title": "EEVblog: The 555 Timer is 55 years old",
+      "hot": "2.9m",
+      "desc": "youtube.com",
+      "source": "tech",
+      "tag": "⬆️ 113 points",
+      "url": "https://www.youtube.com/watch?v=6JhK8iCQuqI"
+    },
+    {
+      "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
+      "hot": "2.9m",
+      "desc": "arxiv.org",
+      "source": "tech",
+      "tag": "⬆️ 32 points",
+      "url": "https://arxiv.org/abs/2604.26752"
+    },
+    {
+      "title": "I'm Scared About Biological Computing",
+      "hot": "2.9m",
+      "desc": "kuber.studio",
+      "source": "tech",
+      "tag": "⬆️ 54 points",
+      "url": "https://kuber.studio/blog/Reflections/I%27m-Scared-About-Biological-Computing"
+    },
+    {
+      "title": "UK: Two millionth electric car registered as market rebounds strongly",
+      "hot": "2.9m",
+      "desc": "smmt.co.uk",
+      "source": "tech",
+      "tag": "⬆️ 125 points",
+      "url": "https://www.smmt.co.uk/two-millionth-electric-car-registered-as-market-rebounds-strongly-from-tax-changes/"
+    },
+    {
+      "title": "Proliferate (YC S25) Is Hiring- 200k for junior engineers",
+      "hot": "2.9m",
+      "desc": "ycombinator.com",
+      "source": "tech",
+      "tag": "⬆️ 1 points",
+      "url": "https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer"
+    },
+    {
+      "title": "California farmers to destroy 420k peach trees following Del Monte bankruptcy",
+      "hot": "2.9m",
+      "desc": "sfgate.com",
+      "source": "tech",
+      "tag": "⬆️ 38 points",
+      "url": "https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php"
+    },
+    {
+      "title": "Should I Run Plain Docker Compose in Production in 2026?",
+      "hot": "2.8m",
+      "desc": "distr.sh",
+      "source": "tech",
+      "tag": "⬆️ 273 points",
+      "url": "https://distr.sh/blog/running-docker-in-production/"
+    },
+    {
+      "title": "Quantum Key Distribution (QKD) and Quantum Cryptography (QC)",
+      "hot": "2.8m",
+      "desc": "nsa.gov",
+      "source": "tech",
+      "tag": "⬆️ 19 points",
+      "url": "https://www.nsa.gov/Cybersecurity/Quantum-Key-Distribution-QKD-and-Quantum-Cryptography-QC/"
+    },
+    {
+      "title": "Async Rust never left the MVP state",
+      "hot": "2.8m",
+      "desc": "tweedegolf.nl",
+      "source": "tech",
+      "tag": "⬆️ 390 points",
+      "url": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state"
+    },
+    {
+      "title": "Collaborative Editing in CodeMirror",
+      "hot": "2.8m",
+      "desc": "marijnhaverbeke.nl",
+      "source": "tech",
+      "tag": "⬆️ 32 points",
+      "url": "https://marijnhaverbeke.nl/blog/collaborative-editing-cm.html"
+    },
+    {
+      "title": "iOS 27 is adding a 'Create a Pass' button to Apple Wallet",
+      "hot": "2.8m",
+      "desc": "walletwallet.alen.ro",
+      "source": "tech",
+      "tag": "⬆️ 309 points",
+      "url": "https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/"
+    },
+    {
+      "title": "Docker 29 has changed its default image store for new installs",
+      "hot": "2.8m",
+      "desc": "docs.docker.com",
+      "source": "tech",
+      "tag": "⬆️ 95 points",
+      "url": "https://docs.docker.com/engine/storage/containerd"
+    },
+    {
+      "title": "Show HN: Airbyte Agents – context for agents across multiple data sources",
+      "hot": "2.7m",
+      "desc": "news.ycombinator.com",
+      "source": "tech",
+      "tag": "⬆️ 48 points",
+      "url": "https://news.ycombinator.com/item?id=48023496"
+    },
+    {
+      "title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
+      "hot": "2.7m",
+      "desc": "paletteinspiration.com",
+      "source": "tech",
+      "tag": "⬆️ 3 points",
+      "url": "https://paletteinspiration.com/"
+    },
+    {
+      "title": "Comparing the Z80 and 6502 to Their Relatives",
+      "hot": "2.7m",
+      "desc": "bumbershootsoft.wordpress.com",
+      "source": "tech",
+      "tag": "⬆️ 79 points",
+      "url": "https://bumbershootsoft.wordpress.com/2026/05/02/comparing-the-z80-and-6502-to-their-relatives/"
+    }
+  ],
   "space": [
     {
-      "title": "NASA Astronaut to Answer Questions from Students in Florida",
-      "hot": "5/5",
-      "desc": "Students in Florida will hear from NASA astronaut Chris Williams as he answers prerecorded science, technology, engineering, and mathematics (STEM) qu",
+      "title": "暂无 space 数据",
+      "hot": "",
+      "desc": "数据加载中，请稍后刷新",
       "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/general/nasa-astronaut-to-answer-questions-from-students-in-florida/"
-    },
-    {
-      "title": "Building on America’s 65-Year Legacy of Human Spaceflight",
-      "hot": "5/5",
-      "desc": "On the morning of May 5, 1961, the Mercury-Redstone 3 launch vehicle lifted into the sky from Cape Canaveral, Florida, carrying astronaut Alan B. Shep",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/image-article/building-on-americas-65-year-legacy-of-human-spaceflight/"
-    },
-    {
-      "title": "NASA’S Juno Misson Captures Jupiter Moon Thebe",
-      "hot": "5/5",
-      "desc": "Description NASA’s Juno spacecraft captured this view of Thebe, the second largest of Jupiter’s inner moons, during a close pass on May 1, 2026. The s",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/photojournal/nasas-juno-misson-captures-jupiter-moon-thebe/"
-    },
-    {
-      "title": "New NASA HEAT Coloring Book Blends Art, Science, and Cultural Perspectives",
-      "hot": "5/5",
-      "desc": "A new Sun-centered and science-focused coloring book produced by NASA in partnership with the University of Alaska Fairbanks (UAF) is now available fo",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/learning-resources/science-activation/new-nasa-heat-coloring-book-blends-art-science-and-cultural-perspectives/"
-    },
-    {
-      "title": "NASA Volunteers Double Known Population of Brown Dwarfs",
-      "hot": "5/5",
-      "desc": "A new paper from NASA’s Backyard Worlds: Planet 9 project announces that volunteers have essentially doubled the number of known brown dwarfs, with ov",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/get-involved/citizen-science/nasa-volunteers-double-known-population-of-brown-dwarfs/"
-    },
-    {
-      "title": "Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
-      "hot": "5/5",
-      "desc": "The Starlink 17-29 mission is the 44th dedicated flight supporting the broadband internet constellation so far in 2026. Liftoff from pad 4E at Vandenb",
-      "source": "space",
-      "tag": "Spaceflight Now",
-      "url": "https://spaceflightnow.com/2026/05/05/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-7/"
-    },
-    {
-      "title": "Ahuachapán and Its Restive Neighbors",
-      "hot": "5/5",
-      "desc": "From a geothermal hotspot to the one-time “Lighthouse of the Pacific,” the heat is on beneath the volcanic landscape of western El Salvador.",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/earth/earth-observatory/ahuachapan-and-its-restive-neighbors/"
-    },
-    {
-      "title": "Lockheed Martin announces collaboration with Firefly Aerospace and Seagate for off-shore launches",
-      "hot": "5/4",
-      "desc": "The announcement comes ahead of Firefly Aerospace’s first quarter earnings call for investors. A timeline for the first ocean-based Alpha rocket launc",
-      "source": "space",
-      "tag": "Spaceflight Now",
-      "url": "https://spaceflightnow.com/2026/05/04/lockheed-martin-announces-collaboration-with-firefly-aerospace-and-seagate-for-off-shore-launches/"
-    },
-    {
-      "title": "NASA Welcomes Ireland as Newest Artemis Accords Signatory",
-      "hot": "5/4",
-      "desc": "Ireland signed the Artemis Accords Monday during a signing ceremony hosted by NASA, becoming the latest nation to commit to the responsible exploratio",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/missions/artemis/nasa-welcomes-ireland-as-newest-artemis-accords-signatory/"
-    },
-    {
-      "title": "NASA Fosters Development of Lunar Resource-Seeking Technologies",
-      "hot": "5/4",
-      "desc": "To support long-duration missions to the Moon and Mars, NASA and industry are developing technologies that can extract resources such as hydrogen and ",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/technology/nasa-fosters-development-of-lunar-resource-seeking-technologies/"
-    },
-    {
-      "title": "Launch Preview: three launches — a calm before the storm?",
-      "hot": "5/4",
-      "desc": "Two Falcon 9 launches and a Chang Zheng 7 make up the launch roster for…\r\nThe post Launch Preview: three launches — a calm before the storm? appeared ",
-      "source": "space",
-      "tag": "NASASpaceflight",
-      "url": "https://www.nasaspaceflight.com/2026/05/launch-preview-050426/"
-    },
-    {
-      "title": "NASA Welcomes Malta as Newest Artemis Accords Signatory",
-      "hot": "5/4",
-      "desc": "The Republic of Malta became the 65th signatory to the Artemis Accords on Monday during a ceremony in the town of Kalkara with NASA and U.S. Departmen",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/missions/artemis/nasa-welcomes-malta-as-newest-artemis-accords-signatory/"
-    },
-    {
-      "title": "Breaking Barriers at 3rd Annual Findings from the Field Symposium",
-      "hot": "5/4",
-      "desc": "This year’s Findings from the Field Student Research Symposium welcomed 106 students, grades four through eight, 29 educators, and 15 Subject Matter E",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/learning-resources/science-activation/breaking-barriers-at-3rd-annual-findings-from-the-field-symposium/"
-    },
-    {
-      "title": "Blue Origin Moon Lander Completes Testing at NASA Vacuum Chamber",
-      "hot": "5/4",
-      "desc": "Also known as Endurance, MK1 is an uncrewed cargo lander funded by Blue Origin as a commercial demonstration mission to advance Human Landing System c",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/missions/artemis/blue-origin-moon-lander-completes-testing-at-nasa-vacuum-chamber/"
-    },
-    {
-      "title": "Blue Origin Moon Lander Completes Testing at NASA Vacuum Chamber",
-      "hot": "5/4",
-      "desc": "Also known as Endurance, MK1 is an uncrewed cargo lander funded by Blue Origin as a commercial demonstration mission to advance Human Landing System c",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/general/blue-origin-moon-lander-completes-testing-at-nasa-vacuum-chamber/"
+      "tag": "loading"
     }
   ],
   "dev": [
     {
       "title": "I Love Tailwind. Sorry Not Sorry",
-      "hot": "❤️ 86 💬 80",
+      "hot": "❤️ 86 💬 83",
       "desc": "I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...",
       "source": "dev",
       "tag": "css,  tailwindcss",
@@ -134,7 +183,7 @@
     },
     {
       "title": "Am I a Developer or Just a Prompt Engineer?",
-      "hot": "❤️ 35 💬 20",
+      "hot": "❤️ 36 💬 20",
       "desc": "Three years ago, if you asked me \"what do you do?\" I had an answer I'm a software developer. I write...",
       "source": "dev",
       "tag": "ai,  career",
@@ -149,12 +198,12 @@
       "url": "https://dev.to/aws/the-next-casualty-of-the-genai-revolution-3in7"
     },
     {
-      "title": "A LinkedIn Recruiter Sent Me Malware Disguised as a \"Pre-Interview Code Review\"",
-      "hot": "❤️ 52 💬 8",
-      "desc": "A recruiter pitched me a remote engineering role and asked me to review their codebase before the technical interview. T",
+      "title": "Multimodal RAG with the Gemini API File Search Tool: A Developer Guide",
+      "hot": "❤️ 11 💬 0",
+      "desc": "The File Search tool in the Gemini API now supports multimodal retrieval by adding support for Gemini...",
       "source": "dev",
-      "tag": "security,  webdev",
-      "url": "https://dev.to/vladimirnovick/a-linkedin-recruiter-sent-me-malware-disguised-as-a-pre-interview-code-review-2k3j"
+      "tag": "api,  gemini",
+      "url": "https://dev.to/googleai/multimodal-rag-with-the-gemini-api-file-search-tool-a-developer-guide-5878"
     },
     {
       "title": "VR Coding for the AI Coding Era - Monitoring 5 AI Agents at Once",
@@ -173,16 +222,8 @@
       "url": "https://dev.to/gdg/build-a-streaming-gemini-chat-in-angular-with-signals-then-ship-it-on-cloud-run-1llc"
     },
     {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
-      "hot": "❤️ 49 💬 1",
-      "desc": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "source": "dev",
-      "tag": "a2aprotocol,  microsoftfabric",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7"
-    },
-    {
       "title": "Write Code That's Easy to Delete: The Art of Impermanent Software",
-      "hot": "❤️ 90 💬 47",
+      "hot": "❤️ 91 💬 47",
       "desc": "We obsess over making code last. Maybe we should obsess over making it leave gracefully.     There's...",
       "source": "dev",
       "tag": "programming,  webdev",
@@ -213,12 +254,28 @@
       "url": "https://dev.to/gde/google-cloud-next-26-recap-3-anthropics-vision-for-after-software-2cj6"
     },
     {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
+      "hot": "❤️ 49 💬 1",
+      "desc": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "source": "dev",
+      "tag": "a2aprotocol,  microsoftfabric",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7"
+    },
+    {
       "title": "Announcing the Winners of the DEV Weekend Challenge: Earth Day Edition 🌍",
       "hot": "❤️ 119 💬 51",
       "desc": "The time has come! We are thrilled to announce the winners of our second DEV Weekend Challenge: Earth...",
       "source": "dev",
       "tag": "devchallenge,  weekendchallenge",
       "url": "https://dev.to/devteam/announcing-the-winners-of-the-dev-weekend-challenge-earth-day-edition-1n4"
+    },
+    {
+      "title": "A LinkedIn Recruiter Sent Me Malware Disguised as a \"Pre-Interview Code Review\"",
+      "hot": "❤️ 52 💬 8",
+      "desc": "A recruiter pitched me a remote engineering role and asked me to review their codebase before the technical interview. T",
+      "source": "dev",
+      "tag": "security,  webdev",
+      "url": "https://dev.to/vladimirnovick/a-linkedin-recruiter-sent-me-malware-disguised-as-a-pre-interview-code-review-2k3j"
     },
     {
       "title": "I Built a Mobile App in 3 Days. The Hard Part Was Keeping It Connected.",
@@ -239,7 +296,7 @@
     {
       "title": "AI Isn't Stupid. Your Setup Is. 🛠️",
       "hot": "❤️ 51 💬 22",
-      "desc": "The bare-minimum AI coding workflow���pick the right model, plan first, write AGENTS.md for agents not humans, and cross",
+      "desc": "The bare-minimum AI coding workflow—pick the right model, plan first, write AGENTS.md for agents not humans, and cross-c",
       "source": "dev",
       "tag": "ai,  agents",
       "url": "https://dev.to/anchildress1/ai-isnt-stupid-your-setup-is-16cn"
@@ -275,20 +332,12 @@
       "source": "dev",
       "tag": "ai,  python",
       "url": "https://dev.to/vystartasv/managing-150-ai-agent-skills-at-scale-what-broke-what-i-built-1e73"
-    },
-    {
-      "title": "Leadership Micro Katas",
-      "hot": "❤️ 4 💬 0",
-      "desc": "About twenty years ago, I broke production. I was a young developer, the rollback was slow, and for a...",
-      "source": "dev",
-      "tag": "leadership,  learning",
-      "url": "https://dev.to/yrizos/leadership-micro-katas-363f"
     }
   ],
   "github": [
     {
       "title": "nexu-io/open-design: 🎨 Local-first, open-source alternative to Anthropic's Clau",
-      "hot": "⭐ 26.9k",
+      "hot": "⭐ 27.1k",
       "desc": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile",
       "source": "github",
       "tag": "TypeScript",
@@ -335,24 +384,24 @@
       "url": "https://github.com/mattpocock/dictionary-of-ai-coding"
     },
     {
-      "title": "wrongly-cuddly-obsession/NTSB_FOIA_MU5735: ",
-      "hot": "⭐ 931",
-      "desc": "wrongly-cuddly-obsession/NTSB_FOIA_MU5735",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/wrongly-cuddly-obsession/NTSB_FOIA_MU5735"
-    },
-    {
       "title": "vercel-labs/deepsec: Deepsec is a security harness for finding vulnerabilities i",
-      "hot": "⭐ 918",
+      "hot": "⭐ 966",
       "desc": "Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/vercel-labs/deepsec"
     },
     {
+      "title": "wrongly-cuddly-obsession/NTSB_FOIA_MU5735: ",
+      "hot": "⭐ 936",
+      "desc": "wrongly-cuddly-obsession/NTSB_FOIA_MU5735",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/wrongly-cuddly-obsession/NTSB_FOIA_MU5735"
+    },
+    {
       "title": "b-nnett/codex-plusplus: Codex++ tweak system for the Codex desktop app",
-      "hot": "⭐ 916",
+      "hot": "⭐ 917",
       "desc": "Codex++ tweak system for the Codex desktop app",
       "source": "github",
       "tag": "TypeScript",
@@ -360,7 +409,7 @@
     },
     {
       "title": "t8y2/dbx: 15MB，lightweight, cross-platform database client. Supports MySQL, Post",
-      "hot": "⭐ 896",
+      "hot": "⭐ 906",
       "desc": "15MB，lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.",
       "source": "github",
       "tag": "Vue",
@@ -376,7 +425,7 @@
     },
     {
       "title": "vibeforge1111/keep-codex-fast: A backup-first Codex skill for keeping local Code",
-      "hot": "⭐ 721",
+      "hot": "⭐ 722",
       "desc": "A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.",
       "source": "github",
       "tag": "Python",
@@ -392,7 +441,7 @@
     },
     {
       "title": "EvanBacon/serve-sim: The `npx serve` of Apple Simulators.",
-      "hot": "⭐ 638",
+      "hot": "⭐ 642",
       "desc": "The `npx serve` of Apple Simulators.",
       "source": "github",
       "tag": "TypeScript",
@@ -400,165 +449,11 @@
     },
     {
       "title": "tddworks/baguette: Headless iOS Simulator manager/farm + host-side input injecti",
-      "hot": "⭐ 614",
+      "hot": "⭐ 618",
       "desc": "Headless iOS Simulator manager/farm + host-side input injection for iOS 26 — taps, swipes, multi-finger gestures, and 60 fps streaming",
       "source": "github",
       "tag": "Swift",
       "url": "https://github.com/tddworks/baguette"
-    }
-  ],
-  "tech": [
-    {
-      "title": "Three Inverse Laws of AI",
-      "hot": "3.0m",
-      "desc": "susam.net",
-      "source": "tech",
-      "tag": "⬆️ 117 points",
-      "url": "https://susam.net/inverse-laws-of-robotics.html"
-    },
-    {
-      "title": "UK: Two millionth electric car registered as market rebounds strongly",
-      "hot": "3.0m",
-      "desc": "smmt.co.uk",
-      "source": "tech",
-      "tag": "⬆️ 46 points",
-      "url": "https://www.smmt.co.uk/two-millionth-electric-car-registered-as-market-rebounds-strongly-from-tax-changes/"
-    },
-    {
-      "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
-      "hot": "3.0m",
-      "desc": "blog.google",
-      "source": "tech",
-      "tag": "⬆️ 32 points",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/"
-    },
-    {
-      "title": "EEVblog: The 555 Timer is 55 years old",
-      "hot": "3.0m",
-      "desc": "youtube.com",
-      "source": "tech",
-      "tag": "⬆️ 36 points",
-      "url": "https://www.youtube.com/watch?v=6JhK8iCQuqI"
-    },
-    {
-      "title": "Agents for financial services and insurance",
-      "hot": "2.9m",
-      "desc": "anthropic.com",
-      "source": "tech",
-      "tag": "⬆️ 84 points",
-      "url": "https://www.anthropic.com/news/finance-agents"
-    },
-    {
-      "title": "Async Rust never left the MVP state",
-      "hot": "2.9m",
-      "desc": "tweedegolf.nl",
-      "source": "tech",
-      "tag": "⬆️ 352 points",
-      "url": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state"
-    },
-    {
-      "title": "Should I Run Plain Docker Compose in Production in 2026?",
-      "hot": "2.9m",
-      "desc": "distr.sh",
-      "source": "tech",
-      "tag": "⬆️ 237 points",
-      "url": "https://distr.sh/blog/running-docker-in-production/"
-    },
-    {
-      "title": "iOS 27 is adding a 'Create a Pass' button to Apple Wallet",
-      "hot": "2.9m",
-      "desc": "walletwallet.alen.ro",
-      "source": "tech",
-      "tag": "⬆️ 267 points",
-      "url": "https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/"
-    },
-    {
-      "title": "AI Product Graveyard",
-      "hot": "2.9m",
-      "desc": "tooldirectory.ai",
-      "source": "tech",
-      "tag": "⬆️ 189 points",
-      "url": "https://tooldirectory.ai/ai-graveyard"
-    },
-    {
-      "title": "Docker 29 has changed its default image store for new installs",
-      "hot": "2.9m",
-      "desc": "docs.docker.com",
-      "source": "tech",
-      "tag": "⬆️ 75 points",
-      "url": "https://docs.docker.com/engine/storage/containerd"
-    },
-    {
-      "title": "Show HN: Airbyte Agents – context for agents across multiple data sources",
-      "hot": "2.9m",
-      "desc": "news.ycombinator.com",
-      "source": "tech",
-      "tag": "⬆️ 34 points",
-      "url": "https://news.ycombinator.com/item?id=48023496"
-    },
-    {
-      "title": "Simple Meta-Harness on Islo.dev",
-      "hot": "2.8m",
-      "desc": "zozo123.github.io",
-      "source": "tech",
-      "tag": "⬆️ 28 points",
-      "url": "https://zozo123.github.io/meta-harness-on-islo-page/"
-    },
-    {
-      "title": "Empty Screenings – Finds AMC movie screenings with few or no tickets sold",
-      "hot": "2.8m",
-      "desc": "walzr.com",
-      "source": "tech",
-      "tag": "⬆️ 267 points",
-      "url": "https://walzr.com/empty-screenings"
-    },
-    {
-      "title": "Incident with Actions",
-      "hot": "2.8m",
-      "desc": "githubstatus.com",
-      "source": "tech",
-      "tag": "⬆️ 103 points",
-      "url": "https://www.githubstatus.com/incidents/1j40g94rn22j"
-    },
-    {
-      "title": "Comparing the Z80 and 6502 to Their Relatives",
-      "hot": "2.8m",
-      "desc": "bumbershootsoft.wordpress.com",
-      "source": "tech",
-      "tag": "⬆️ 48 points",
-      "url": "https://bumbershootsoft.wordpress.com/2026/05/02/comparing-the-z80-and-6502-to-their-relatives/"
-    },
-    {
-      "title": "When everyone has AI and the company still learns nothing",
-      "hot": "2.8m",
-      "desc": "robert-glaser.de",
-      "source": "tech",
-      "tag": "⬆️ 185 points",
-      "url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/"
-    },
-    {
-      "title": "AI didn't delete your database, you did",
-      "hot": "2.8m",
-      "desc": "idiallo.com",
-      "source": "tech",
-      "tag": "⬆️ 330 points",
-      "url": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did"
-    },
-    {
-      "title": "The first photo published in a newspaper",
-      "hot": "2.7m",
-      "desc": "phsne.org",
-      "source": "tech",
-      "tag": "⬆️ 28 points",
-      "url": "https://phsne.org/the-first-photograph-published-in-a-newspaper-1848/"
-    },
-    {
-      "title": "New Landing Page for Awesome PaaS",
-      "hot": "2.7m",
-      "desc": "debarshibasak.github.io",
-      "source": "tech",
-      "tag": "⬆️ 6 points",
-      "url": "https://debarshibasak.github.io/awesome-paas/"
     }
   ]
 }
