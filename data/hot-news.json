@@ -1,168 +1,6 @@
 {
-  "updatedAt": "2026-05-05T10:57:09.454Z",
+  "updatedAt": "2026-05-05T11:58:54.597Z",
   "source": "live",
-  "tech": [
-    {
-      "title": "Async Rust never left the MVP state",
-      "hot": "3.0m",
-      "desc": "tweedegolf.nl",
-      "source": "tech",
-      "tag": "⬆️ 169 points",
-      "url": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state"
-    },
-    {
-      "title": "Should I Run Plain Docker Compose in Production in 2026?",
-      "hot": "3.0m",
-      "desc": "distr.sh",
-      "source": "tech",
-      "tag": "⬆️ 45 points",
-      "url": "https://distr.sh/blog/running-docker-in-production/"
-    },
-    {
-      "title": "Bun is being ported from Zig to Rust",
-      "hot": "3.0m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 535 points",
-      "url": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5"
-    },
-    {
-      "title": "Empty Screenings – Finds AMC movie screenings with few or no tickets sold",
-      "hot": "3.0m",
-      "desc": "walzr.com",
-      "source": "tech",
-      "tag": "⬆️ 161 points",
-      "url": "https://walzr.com/empty-screenings"
-    },
-    {
-      "title": "Lessons for Agentic Coding: What should we do when code is cheap?",
-      "hot": "2.9m",
-      "desc": "dbreunig.com",
-      "source": "tech",
-      "tag": "⬆️ 72 points",
-      "url": "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html"
-    },
-    {
-      "title": "Hand Drawn QR Codes",
-      "hot": "2.9m",
-      "desc": "sethmlarson.dev",
-      "source": "tech",
-      "tag": "⬆️ 122 points",
-      "url": "https://sethmlarson.dev/hand-drawn-qr-codes"
-    },
-    {
-      "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-      "hot": "2.9m",
-      "desc": "thatprivacyguy.com",
-      "source": "tech",
-      "tag": "⬆️ 281 points",
-      "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/"
-    },
-    {
-      "title": "How OpenAI delivers low-latency voice AI at scale",
-      "hot": "2.9m",
-      "desc": "openai.com",
-      "source": "tech",
-      "tag": "⬆️ 410 points",
-      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/"
-    },
-    {
-      "title": "When everyone has AI and the company still learns nothing",
-      "hot": "2.9m",
-      "desc": "robert-glaser.de",
-      "source": "tech",
-      "tag": "⬆️ 9 points",
-      "url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/"
-    },
-    {
-      "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
-      "hot": "2.9m",
-      "desc": "dragonsreach.it",
-      "source": "tech",
-      "tag": "⬆️ 112 points",
-      "url": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/"
-    },
-    {
-      "title": "Train Your Own LLM from Scratch",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 268 points",
-      "url": "https://github.com/angelos-p/llm-from-scratch"
-    },
-    {
-      "title": "Farewell to a Giant of Botany",
-      "hot": "2.8m",
-      "desc": "nautil.us",
-      "source": "tech",
-      "tag": "⬆️ 33 points",
-      "url": "https://nautil.us/farewell-to-a-giant-of-botany-1280409"
-    },
-    {
-      "title": "Agent Skills",
-      "hot": "2.8m",
-      "desc": "addyosmani.com",
-      "source": "tech",
-      "tag": "⬆️ 264 points",
-      "url": "https://addyosmani.com/blog/agent-skills/"
-    },
-    {
-      "title": "Why I Created phpc.tv",
-      "hot": "2.8m",
-      "desc": "afilina.com",
-      "source": "tech",
-      "tag": "⬆️ 23 points",
-      "url": "https://afilina.com/why-phpc-tv"
-    },
-    {
-      "title": "Mouse Pointer as a Mere Mortal",
-      "hot": "2.8m",
-      "desc": "unsung.aresluna.org",
-      "source": "tech",
-      "tag": "⬆️ 29 points",
-      "url": "https://unsung.aresluna.org/mouse-pointer-as-a-mere-mortal/"
-    },
-    {
-      "title": "Gap between national food production and food-based dietary guidance (2025)",
-      "hot": "2.8m",
-      "desc": "nature.com",
-      "source": "tech",
-      "tag": "⬆️ 64 points",
-      "url": "https://www.nature.com/articles/s43016-025-01173-4"
-    },
-    {
-      "title": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
-      "hot": "2.8m",
-      "desc": "nber.org",
-      "source": "tech",
-      "tag": "⬆️ 297 points",
-      "url": "https://www.nber.org/papers/w35117"
-    },
-    {
-      "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
-      "hot": "2.7m",
-      "desc": "strix.ai",
-      "source": "tech",
-      "tag": "⬆️ 198 points",
-      "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup"
-    },
-    {
-      "title": "The Frog for Whom the Bell Tolls",
-      "hot": "2.7m",
-      "desc": "sethmlarson.dev",
-      "source": "tech",
-      "tag": "⬆️ 13 points",
-      "url": "https://sethmlarson.dev/the-frog-for-whom-the-bell-tolls"
-    },
-    {
-      "title": "pgxbackup: Continuity Support for pgBackRest",
-      "hot": "2.7m",
-      "desc": "thebuild.com",
-      "source": "tech",
-      "tag": "⬆️ 56 points",
-      "url": "https://thebuild.com/blog/2026/05/01/pgxbackup-continuity-support-for-pgbackrest/"
-    }
-  ],
   "space": [
     {
       "title": "Ahuachapán and Its Restive Neighbors",
@@ -288,7 +126,7 @@
   "github": [
     {
       "title": "nexu-io/open-design: 🎨 Local-first, open-source alternative to Anthropic's Clau",
-      "hot": "⭐ 25.8k",
+      "hot": "⭐ 26.0k",
       "desc": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile",
       "source": "github",
       "tag": "TypeScript",
@@ -335,24 +173,24 @@
       "url": "https://github.com/mattpocock/dictionary-of-ai-coding"
     },
     {
-      "title": "b-nnett/codex-plusplus: Codex++ tweak system for the Codex desktop app",
-      "hot": "⭐ 909",
-      "desc": "Codex++ tweak system for the Codex desktop app",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/b-nnett/codex-plusplus"
-    },
-    {
       "title": "wrongly-cuddly-obsession/NTSB_FOIA_MU5735: ",
-      "hot": "⭐ 908",
+      "hot": "⭐ 914",
       "desc": "wrongly-cuddly-obsession/NTSB_FOIA_MU5735",
       "source": "github",
       "tag": "GitHub",
       "url": "https://github.com/wrongly-cuddly-obsession/NTSB_FOIA_MU5735"
     },
     {
+      "title": "b-nnett/codex-plusplus: Codex++ tweak system for the Codex desktop app",
+      "hot": "⭐ 910",
+      "desc": "Codex++ tweak system for the Codex desktop app",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/b-nnett/codex-plusplus"
+    },
+    {
       "title": "t8y2/dbx: 15MB，lightweight, cross-platform database client. Supports MySQL, Post",
-      "hot": "⭐ 868",
+      "hot": "⭐ 873",
       "desc": "15MB，lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.",
       "source": "github",
       "tag": "Vue",
@@ -360,35 +198,35 @@
     },
     {
       "title": "GENEXIS-AI/chromex: A Codex-powered Chrome side-panel assistant for page context",
-      "hot": "⭐ 827",
+      "hot": "⭐ 828",
       "desc": "A Codex-powered Chrome side-panel assistant for page context, tabs, voice, and image workflows.",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/GENEXIS-AI/chromex"
     },
     {
-      "title": "Fokkyp/SoftwareCopyright-Skill: 中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 ",
-      "hot": "⭐ 704",
-      "desc": "中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
+      "title": "vercel-labs/deepsec: Deepsec is a security harness for finding vulnerabilities i",
+      "hot": "⭐ 728",
+      "desc": "Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/vercel-labs/deepsec"
+    },
+    {
+      "title": "Fokkyp/SoftwareCopyright-Skill: 中国软件���作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全",
+      "hot": "⭐ 705",
+      "desc": "中国软件���作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/Fokkyp/SoftwareCopyright-Skill"
     },
     {
       "title": "vibeforge1111/keep-codex-fast: A backup-first Codex skill for keeping local Code",
-      "hot": "⭐ 690",
+      "hot": "⭐ 694",
       "desc": "A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/vibeforge1111/keep-codex-fast"
-    },
-    {
-      "title": "vercel-labs/deepsec: Deepsec is a security harness for finding vulnerabilities i",
-      "hot": "⭐ 690",
-      "desc": "Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/vercel-labs/deepsec"
     },
     {
       "title": "EvanBacon/serve-sim: The `npx serve` of Apple Simulators.",
@@ -400,7 +238,7 @@
     },
     {
       "title": "tddworks/baguette: Headless iOS Simulator manager/farm + host-side input injecti",
-      "hot": "⭐ 574",
+      "hot": "⭐ 579",
       "desc": "Headless iOS Simulator manager/farm + host-side input injection for iOS 26 — taps, swipes, multi-finger gestures, and 60 fps streaming",
       "source": "github",
       "tag": "Swift",
@@ -410,19 +248,11 @@
   "dev": [
     {
       "title": "I Love Tailwind. Sorry Not Sorry",
-      "hot": "❤️ 74 💬 66",
+      "hot": "❤️ 76 💬 68",
       "desc": "I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...",
       "source": "dev",
       "tag": "css,  tailwindcss",
       "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh"
-    },
-    {
-      "title": "Build a Streaming Gemini Chat in Angular with Signals — Then Ship It on Cloud Run",
-      "hot": "❤️ 17 💬 1",
-      "desc": "If you have built a chat UI for a large language model in the last two years, you probably reached...",
-      "source": "dev",
-      "tag": "angular,  gemini",
-      "url": "https://dev.to/gdg/build-a-streaming-gemini-chat-in-angular-with-signals-then-ship-it-on-cloud-run-1llc"
     },
     {
       "title": "A LinkedIn Recruiter Sent Me Malware Disguised as a \"Pre-Interview Code Review\"",
@@ -458,11 +288,19 @@
     },
     {
       "title": "Write Code That's Easy to Delete: The Art of Impermanent Software",
-      "hot": "❤️ 86 💬 44",
+      "hot": "❤️ 87 💬 46",
       "desc": "We obsess over making code last. Maybe we should obsess over making it leave gracefully.     There's...",
       "source": "dev",
       "tag": "programming,  webdev",
       "url": "https://dev.to/adamthedeveloper/write-code-thats-easy-to-delete-the-art-of-impermanent-software-19l1"
+    },
+    {
+      "title": "Build a Streaming Gemini Chat in Angular with Signals — Then Ship It on Cloud Run",
+      "hot": "❤️ 18 💬 1",
+      "desc": "If you have built a chat UI for a large language model in the last two years, you probably reached...",
+      "source": "dev",
+      "tag": "angular,  gemini",
+      "url": "https://dev.to/gdg/build-a-streaming-gemini-chat-in-angular-with-signals-then-ship-it-on-cloud-run-1llc"
     },
     {
       "title": "Meme Monday",
@@ -546,7 +384,7 @@
     },
     {
       "title": "How to Build a Custom AI Quality Gate on Cloud Run (From Zero to Production)",
-      "hot": "❤️ 34 💬 4",
+      "hot": "❤️ 36 💬 4",
       "desc": "In my previous article about treating architecture documentation as a first-class asset, I had a...",
       "source": "dev",
       "tag": "architecture,  googlecloud",
@@ -567,6 +405,168 @@
       "source": "dev",
       "tag": "rspec,  playwright",
       "url": "https://dev.to/yusukeiwaki/introducing-pytest-style-fixtures-into-ruby-for-smarter-browser-testing-lbi"
+    }
+  ],
+  "tech": [
+    {
+      "title": "Async Rust never left the MVP state",
+      "hot": "3.0m",
+      "desc": "tweedegolf.nl",
+      "source": "tech",
+      "tag": "⬆️ 219 points",
+      "url": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state"
+    },
+    {
+      "title": "Should I Run Plain Docker Compose in Production in 2026?",
+      "hot": "3.0m",
+      "desc": "distr.sh",
+      "source": "tech",
+      "tag": "⬆️ 79 points",
+      "url": "https://distr.sh/blog/running-docker-in-production/"
+    },
+    {
+      "title": "When everyone has AI and the company still learns nothing",
+      "hot": "3.0m",
+      "desc": "robert-glaser.de",
+      "source": "tech",
+      "tag": "⬆️ 47 points",
+      "url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/"
+    },
+    {
+      "title": "Bun is being ported from Zig to Rust",
+      "hot": "3.0m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 569 points",
+      "url": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5"
+    },
+    {
+      "title": "Empty Screenings – Finds AMC movie screenings with few or no tickets sold",
+      "hot": "2.9m",
+      "desc": "walzr.com",
+      "source": "tech",
+      "tag": "⬆️ 176 points",
+      "url": "https://walzr.com/empty-screenings"
+    },
+    {
+      "title": "Lessons for Agentic Coding: What should we do when code is cheap?",
+      "hot": "2.9m",
+      "desc": "dbreunig.com",
+      "source": "tech",
+      "tag": "⬆️ 95 points",
+      "url": "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html"
+    },
+    {
+      "title": "Hand Drawn QR Codes (2025)",
+      "hot": "2.9m",
+      "desc": "sethmlarson.dev",
+      "source": "tech",
+      "tag": "⬆️ 137 points",
+      "url": "https://sethmlarson.dev/hand-drawn-qr-codes"
+    },
+    {
+      "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+      "hot": "2.9m",
+      "desc": "thatprivacyguy.com",
+      "source": "tech",
+      "tag": "⬆️ 352 points",
+      "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/"
+    },
+    {
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "hot": "2.9m",
+      "desc": "openai.com",
+      "source": "tech",
+      "tag": "⬆️ 420 points",
+      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/"
+    },
+    {
+      "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
+      "hot": "2.9m",
+      "desc": "dragonsreach.it",
+      "source": "tech",
+      "tag": "⬆️ 120 points",
+      "url": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/"
+    },
+    {
+      "title": "Farewell to a Giant of Botany",
+      "hot": "2.9m",
+      "desc": "nautil.us",
+      "source": "tech",
+      "tag": "⬆️ 42 points",
+      "url": "https://nautil.us/farewell-to-a-giant-of-botany-1280409"
+    },
+    {
+      "title": "Train Your Own LLM from Scratch",
+      "hot": "2.8m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 290 points",
+      "url": "https://github.com/angelos-p/llm-from-scratch"
+    },
+    {
+      "title": "Agent Skills",
+      "hot": "2.8m",
+      "desc": "addyosmani.com",
+      "source": "tech",
+      "tag": "⬆️ 278 points",
+      "url": "https://addyosmani.com/blog/agent-skills/"
+    },
+    {
+      "title": "How Many Children Learned Mathematics from Kiselev's Textbooks?",
+      "hot": "2.8m",
+      "desc": "valeman.medium.com",
+      "source": "tech",
+      "tag": "⬆️ 27 points",
+      "url": "https://valeman.medium.com/how-many-children-learned-mathematics-from-kiselevs-textbooks-ff4efceade0d"
+    },
+    {
+      "title": "The Frog for Whom the Bell Tolls",
+      "hot": "2.8m",
+      "desc": "sethmlarson.dev",
+      "source": "tech",
+      "tag": "⬆️ 20 points",
+      "url": "https://sethmlarson.dev/the-frog-for-whom-the-bell-tolls"
+    },
+    {
+      "title": "Why I Created phpc.tv",
+      "hot": "2.8m",
+      "desc": "afilina.com",
+      "source": "tech",
+      "tag": "⬆️ 29 points",
+      "url": "https://afilina.com/why-phpc-tv"
+    },
+    {
+      "title": "Show HN: Got tired of paying $100/mo for SEO tools, so I built an alternative",
+      "hot": "2.8m",
+      "desc": "idiotproofseo.com",
+      "source": "tech",
+      "tag": "⬆️ 7 points",
+      "url": "https://idiotproofseo.com/"
+    },
+    {
+      "title": "Mouse Pointer as a Mere Mortal",
+      "hot": "2.7m",
+      "desc": "unsung.aresluna.org",
+      "source": "tech",
+      "tag": "⬆️ 36 points",
+      "url": "https://unsung.aresluna.org/mouse-pointer-as-a-mere-mortal/"
+    },
+    {
+      "title": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
+      "hot": "2.7m",
+      "desc": "nber.org",
+      "source": "tech",
+      "tag": "⬆️ 306 points",
+      "url": "https://www.nber.org/papers/w35117"
+    },
+    {
+      "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
+      "hot": "2.7m",
+      "desc": "strix.ai",
+      "source": "tech",
+      "tag": "⬆️ 200 points",
+      "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup"
     }
   ]
 }
