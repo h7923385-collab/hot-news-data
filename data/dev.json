@@ -1,28 +1,44 @@
 {
   "data": [
     {
-      "title": "I Love Tailwind. Sorry Not Sorry",
-      "hot": "❤️ 120 💬 107",
-      "desc": "I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...",
-      "source": "dev",
-      "tag": "css,  tailwindcss",
-      "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh"
-    },
-    {
       "title": "I Didn’t Stop Building. I Just Left My Laptop.",
-      "hot": "❤️ 27 💬 3",
+      "hot": "❤️ 29 💬 4",
       "desc": "Hey there again guys! It’s been almost two months since my last post. And in the back of my head,...",
       "source": "dev",
       "tag": "career,  learning",
       "url": "https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da"
     },
     {
+      "title": "I Love Tailwind. Sorry Not Sorry",
+      "hot": "❤️ 120 💬 108",
+      "desc": "I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...",
+      "source": "dev",
+      "tag": "css,  tailwindcss",
+      "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh"
+    },
+    {
       "title": "What Even Is AI? (I Took a Break & Had to Relearn Everything)",
-      "hot": "❤️ 39 💬 5",
+      "hot": "❤️ 41 💬 6",
       "desc": "I just came back from maternity leave. And honestly? I felt like I'd missed a decade in six months. I...",
       "source": "dev",
       "tag": "ai,  beginners",
       "url": "https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj"
+    },
+    {
+      "title": "Build Your Own AI Butler - A Scheduled Agent That Runs Itself!",
+      "hot": "❤️ 20 💬 1",
+      "desc": "I want an AI agent that works for me. I want it to search up the latest news, and I want it to...",
+      "source": "dev",
+      "tag": "aws,  ai",
+      "url": "https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk"
+    },
+    {
+      "title": "AI vs Non-AI: Building the Same Project Twice",
+      "hot": "❤️ 10 💬 0",
+      "desc": "When I was implementing my weather station system, I asked myself: what if I built it again but this...",
+      "source": "dev",
+      "tag": "ai,  softwareengineering",
+      "url": "https://dev.to/nandofm/ai-vs-non-ai-building-the-same-project-twice-4073"
     },
     {
       "title": "OpenAI and Anthropic are Friendster and MySpace, if Subquadratic proves to be true.",
@@ -31,14 +47,6 @@
       "source": "dev",
       "tag": "ai,  discuss",
       "url": "https://dev.to/jon_at_backboardio/openai-and-anthropic-are-friendster-and-myspace-if-subquadratic-proves-to-be-true-nb6"
-    },
-    {
-      "title": "Copilot Squad",
-      "hot": "❤️ 3 💬 0",
-      "desc": "There are two sections to this. In the first section, I discuss what squad is, why it might be useful...",
-      "source": "dev",
-      "tag": "githubcopilot",
-      "url": "https://dev.to/ruarfff/copilot-squad-4nda"
     },
     {
       "title": "7 Coder Words: I built a PWA Word Puzzle for Coders and Nerds",
@@ -73,6 +81,14 @@
       "url": "https://dev.to/gde/building-a-cross-language-mcp-server-with-rust-python-adk-and-gemini-cli-g5h"
     },
     {
+      "title": "Am I a Developer or Just a Prompt Engineer?",
+      "hot": "❤️ 75 💬 49",
+      "desc": "Three years ago, if you asked me \"what do you do?\" I had an answer I'm a software developer. I write...",
+      "source": "dev",
+      "tag": "ai,  career",
+      "url": "https://dev.to/harsh2644/am-i-a-developer-or-just-a-prompt-engineer-4ece"
+    },
+    {
       "title": "Build a Streaming Gemini Chat in Angular with Signals — Then Ship It on Cloud Run",
       "hot": "❤️ 33 💬 1",
       "desc": "If you have built a chat UI for a large language model in the last two years, you probably reached...",
@@ -89,16 +105,8 @@
       "url": "https://dev.to/komamitsu/wormhole4j-v030-supports-multi-threaded-concurrency-2fjb"
     },
     {
-      "title": "Am I a Developer or Just a Prompt Engineer?",
-      "hot": "❤️ 73 💬 43",
-      "desc": "Three years ago, if you asked me \"what do you do?\" I had an answer I'm a software developer. I write...",
-      "source": "dev",
-      "tag": "ai,  career",
-      "url": "https://dev.to/harsh2644/am-i-a-developer-or-just-a-prompt-engineer-4ece"
-    },
-    {
       "title": "Stop Using Python for Your Gen AI Apps, Use Go and Genkit Instead",
-      "hot": "❤️ 12 💬 3",
+      "hot": "❤️ 18 💬 3",
       "desc": "Introduction   For the last few years, every Gen AI tutorial, framework, and \"hello world\"...",
       "source": "dev",
       "tag": "ai,  programming",
@@ -114,11 +122,19 @@
     },
     {
       "title": "A Developer's Guide to Understanding Agent Skills: Implementing Progressive Disclosure in Google Apps Script",
-      "hot": "❤️ 12 💬 0",
+      "hot": "❤️ 13 💬 0",
       "desc": "Motivation for Writing   As an active user of AI development tools, I have seamlessly...",
       "source": "dev",
       "tag": "ai,  agents",
       "url": "https://dev.to/gde/a-developers-guide-to-understanding-agent-skills-implementing-progressive-disclosure-in-google-164f"
+    },
+    {
+      "title": "AI Isn't Stupid. Your Setup Is. 🛠️",
+      "hot": "❤️ 90 💬 45",
+      "desc": "The bare-minimum AI coding workflow—pick the right model, plan first, write AGENTS.md for agents not humans, and cross-c",
+      "source": "dev",
+      "tag": "ai,  agents",
+      "url": "https://dev.to/anchildress1/ai-isnt-stupid-your-setup-is-16cn"
     },
     {
       "title": "What is your WPM (Words per Minute)? #2",
@@ -127,14 +143,6 @@
       "source": "dev",
       "tag": "discuss,  watercooler",
       "url": "https://dev.to/francistrdev/what-is-your-wpm-words-per-minute-2-5019"
-    },
-    {
-      "title": "AI Isn't Stupid. Your Setup Is. 🛠️",
-      "hot": "❤️ 87 💬 45",
-      "desc": "The bare-minimum AI coding workflow—pick the right model, plan first, write AGENTS.md for agents not humans, and cross-c",
-      "source": "dev",
-      "tag": "ai,  agents",
-      "url": "https://dev.to/anchildress1/ai-isnt-stupid-your-setup-is-16cn"
     },
     {
       "title": "Multimodal RAG with the Gemini API File Search Tool: A Developer Guide",
@@ -151,15 +159,7 @@
       "source": "dev",
       "tag": "googlecloudnext,  agenticai",
       "url": "https://dev.to/gde/your-prompts-are-legacy-code-now-the-google-cloud-next-26-developer-breakdown-hc3"
-    },
-    {
-      "title": "ADK Agents with Amazon Bedrock Models",
-      "hot": "❤️ 8 💬 0",
-      "desc": "This article provides a step by step deployment guide for using Amazon Bedrock models with ADK...",
-      "source": "dev",
-      "tag": "gemini,  amazonbedrock",
-      "url": "https://dev.to/gde/adk-agents-with-amazon-bedrock-models-2fgc"
     }
   ],
-  "updatedAt": "2026-05-06T17:18:28.513Z"
+  "updatedAt": "2026-05-06T19:07:57.112Z"
 }
