@@ -1,24 +1,24 @@
 {
   "data": [
     {
-      "title": "I Didn’t Stop Building. I Just Left My Laptop.",
-      "hot": "❤️ 29 💬 4",
-      "desc": "Hey there again guys! It’s been almost two months since my last post. And in the back of my head,...",
-      "source": "dev",
-      "tag": "career,  learning",
-      "url": "https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da"
-    },
-    {
       "title": "I Love Tailwind. Sorry Not Sorry",
-      "hot": "❤️ 120 💬 108",
+      "hot": "❤️ 120 💬 111",
       "desc": "I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...",
       "source": "dev",
       "tag": "css,  tailwindcss",
       "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh"
     },
     {
+      "title": "AI vs Non-AI: Building the Same Project Twice",
+      "hot": "❤️ 13 💬 4",
+      "desc": "When I was implementing my weather station system, I asked myself: what if I built it again but this...",
+      "source": "dev",
+      "tag": "ai,  softwareengineering",
+      "url": "https://dev.to/nandofm/ai-vs-non-ai-building-the-same-project-twice-4073"
+    },
+    {
       "title": "What Even Is AI? (I Took a Break & Had to Relearn Everything)",
-      "hot": "❤️ 41 💬 6",
+      "hot": "❤️ 42 💬 6",
       "desc": "I just came back from maternity leave. And honestly? I felt like I'd missed a decade in six months. I...",
       "source": "dev",
       "tag": "ai,  beginners",
@@ -33,12 +33,20 @@
       "url": "https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk"
     },
     {
-      "title": "AI vs Non-AI: Building the Same Project Twice",
-      "hot": "❤️ 10 💬 0",
-      "desc": "When I was implementing my weather station system, I asked myself: what if I built it again but this...",
+      "title": "I Didn’t Stop Building. I Just Left My Laptop.",
+      "hot": "❤️ 35 💬 4",
+      "desc": "Hey there again guys! It’s been almost two months since my last post. And in the back of my head,...",
       "source": "dev",
-      "tag": "ai,  softwareengineering",
-      "url": "https://dev.to/nandofm/ai-vs-non-ai-building-the-same-project-twice-4073"
+      "tag": "career,  learning",
+      "url": "https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da"
+    },
+    {
+      "title": "I Programmed an AI in 6502 Assembly - It Worked",
+      "hot": "❤️ 5 💬 0",
+      "desc": "In 1975 the 6502 processed 8-bit values through memory and control flow. A Claude Code skill now uses...",
+      "source": "dev",
+      "tag": "ai,  webdev",
+      "url": "https://dev.to/newellpaul/i-programmed-an-ai-in-6502-assembly-it-worked-gpi"
     },
     {
       "title": "OpenAI and Anthropic are Friendster and MySpace, if Subquadratic proves to be true.",
@@ -47,6 +55,46 @@
       "source": "dev",
       "tag": "ai,  discuss",
       "url": "https://dev.to/jon_at_backboardio/openai-and-anthropic-are-friendster-and-myspace-if-subquadratic-proves-to-be-true-nb6"
+    },
+    {
+      "title": "Not Open Source Not Interested",
+      "hot": "❤️ 5 💬 0",
+      "desc": "commentary on why I'm only interested in finding/using software when it is Open Source",
+      "source": "dev",
+      "tag": "discuss,  opensource",
+      "url": "https://dev.to/geraldew/not-open-source-not-interested-52hf"
+    },
+    {
+      "title": "A much faster mgsub",
+      "hot": "❤️ 5 💬 0",
+      "desc": "Celebrating a new release of the 1154th most download R package!",
+      "source": "dev",
+      "tag": "opensource,  performance",
+      "url": "https://dev.to/pofigster/a-much-faster-mgsub-46f"
+    },
+    {
+      "title": "Stop Shipping Vulnerabilities by Default: An Intro to Docker Hardened Images",
+      "hot": "❤️ 2 💬 0",
+      "desc": "Docker Hardened Images are changing how teams think about container security — not as an...",
+      "source": "dev",
+      "tag": "devops,  docker",
+      "url": "https://dev.to/gelopfalcon/stop-shipping-vulnerabilities-by-default-an-intro-to-docker-hardened-images-d0c"
+    },
+    {
+      "title": "Terminal as a Dev Environment in the Age of Agents",
+      "hot": "❤️ 0 💬 0",
+      "desc": "When the IDE Stopped Being the Center of Development   At some point, I realized something...",
+      "source": "dev",
+      "tag": "ai,  terminal",
+      "url": "https://dev.to/jonfir/terminal-as-a-dev-environment-in-the-age-of-agents-f2e"
+    },
+    {
+      "title": "AgentCore Harness runs your agent. ShapeV2 controls what it's allowed to do",
+      "hot": "❤️ 1 💬 0",
+      "desc": "AWS just shipped AgentCore Harness in public preview. It solves the infrastructure problem every team...",
+      "source": "dev",
+      "tag": "ai,  aws",
+      "url": "https://dev.to/vidanov/agentcore-harness-runs-your-agent-shapev2-controls-what-its-allowed-to-do-32ab"
     },
     {
       "title": "7 Coder Words: I built a PWA Word Puzzle for Coders and Nerds",
@@ -82,7 +130,7 @@
     },
     {
       "title": "Am I a Developer or Just a Prompt Engineer?",
-      "hot": "❤️ 75 💬 49",
+      "hot": "❤️ 76 💬 56",
       "desc": "Three years ago, if you asked me \"what do you do?\" I had an answer I'm a software developer. I write...",
       "source": "dev",
       "tag": "ai,  career",
@@ -111,55 +159,7 @@
       "source": "dev",
       "tag": "ai,  programming",
       "url": "https://dev.to/gde/stop-using-python-for-your-gen-ai-apps-use-go-and-genkit-instead-401p"
-    },
-    {
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 36 💬 6",
-      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
-      "source": "dev",
-      "tag": "top7,  discuss",
-      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1136"
-    },
-    {
-      "title": "A Developer's Guide to Understanding Agent Skills: Implementing Progressive Disclosure in Google Apps Script",
-      "hot": "❤️ 13 💬 0",
-      "desc": "Motivation for Writing   As an active user of AI development tools, I have seamlessly...",
-      "source": "dev",
-      "tag": "ai,  agents",
-      "url": "https://dev.to/gde/a-developers-guide-to-understanding-agent-skills-implementing-progressive-disclosure-in-google-164f"
-    },
-    {
-      "title": "AI Isn't Stupid. Your Setup Is. 🛠️",
-      "hot": "❤️ 90 💬 45",
-      "desc": "The bare-minimum AI coding workflow—pick the right model, plan first, write AGENTS.md for agents not humans, and cross-c",
-      "source": "dev",
-      "tag": "ai,  agents",
-      "url": "https://dev.to/anchildress1/ai-isnt-stupid-your-setup-is-16cn"
-    },
-    {
-      "title": "What is your WPM (Words per Minute)? #2",
-      "hot": "❤️ 22 💬 4",
-      "desc": "Cover Video is from DC's Legends of Tomorrow on Guitar   I am curious, What is your WPM?  The...",
-      "source": "dev",
-      "tag": "discuss,  watercooler",
-      "url": "https://dev.to/francistrdev/what-is-your-wpm-words-per-minute-2-5019"
-    },
-    {
-      "title": "Multimodal RAG with the Gemini API File Search Tool: A Developer Guide",
-      "hot": "❤️ 65 💬 0",
-      "desc": "The File Search tool in the Gemini API now supports multimodal retrieval by adding support for Gemini...",
-      "source": "dev",
-      "tag": "api,  gemini",
-      "url": "https://dev.to/googleai/multimodal-rag-with-the-gemini-api-file-search-tool-a-developer-guide-5878"
-    },
-    {
-      "title": "Your Prompts are Legacy Code Now: The Google Cloud Next '26 Developer Breakdown",
-      "hot": "❤️ 16 💬 0",
-      "desc": "The era of \"chatting with an LLM\" is officially legacy.  I've attended the Google Cloud Next ‘26...",
-      "source": "dev",
-      "tag": "googlecloudnext,  agenticai",
-      "url": "https://dev.to/gde/your-prompts-are-legacy-code-now-the-google-cloud-next-26-developer-breakdown-hc3"
     }
   ],
-  "updatedAt": "2026-05-06T19:07:57.112Z"
+  "updatedAt": "2026-05-06T20:50:07.133Z"
 }
