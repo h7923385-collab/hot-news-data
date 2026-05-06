@@ -1,20 +1,20 @@
 {
   "data": [
     {
-      "title": "I Didn’t Stop Building. I Just Left My Laptop.",
-      "hot": "❤️ 26 💬 2",
-      "desc": "Hey there again guys! It’s been almost two months since my last post. And in the back of my head,...",
-      "source": "dev",
-      "tag": "career,  learning",
-      "url": "https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da"
-    },
-    {
       "title": "I Love Tailwind. Sorry Not Sorry",
-      "hot": "❤️ 116 💬 106",
+      "hot": "❤️ 120 💬 107",
       "desc": "I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...",
       "source": "dev",
       "tag": "css,  tailwindcss",
       "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh"
+    },
+    {
+      "title": "I Didn’t Stop Building. I Just Left My Laptop.",
+      "hot": "❤️ 27 💬 3",
+      "desc": "Hey there again guys! It’s been almost two months since my last post. And in the back of my head,...",
+      "source": "dev",
+      "tag": "career,  learning",
+      "url": "https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da"
     },
     {
       "title": "What Even Is AI? (I Took a Break & Had to Relearn Everything)",
@@ -25,20 +25,12 @@
       "url": "https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj"
     },
     {
-      "title": "Stop Using Python for Your Gen AI Apps, Use Go and Genkit Instead",
-      "hot": "❤️ 10 💬 1",
-      "desc": "Introduction   For the last few years, every Gen AI tutorial, framework, and \"hello world\"...",
+      "title": "OpenAI and Anthropic are Friendster and MySpace, if Subquadratic proves to be true.",
+      "hot": "❤️ 6 💬 0",
+      "desc": "If you've ever shipped an LLM-powered feature that needed to reason over a real codebase, a real...",
       "source": "dev",
-      "tag": "ai,  programming",
-      "url": "https://dev.to/gde/stop-using-python-for-your-gen-ai-apps-use-go-and-genkit-instead-401p"
-    },
-    {
-      "title": "The Next Casualty of the GenAI Revolution",
-      "hot": "❤️ 39 💬 5",
-      "desc": "I was at an event this morning where someone said something that really resonated with me. \"The new...",
-      "source": "dev",
-      "tag": "ai,  cloud",
-      "url": "https://dev.to/aws/the-next-casualty-of-the-genai-revolution-3in7"
+      "tag": "ai,  discuss",
+      "url": "https://dev.to/jon_at_backboardio/openai-and-anthropic-are-friendster-and-myspace-if-subquadratic-proves-to-be-true-nb6"
     },
     {
       "title": "Copilot Squad",
@@ -98,11 +90,19 @@
     },
     {
       "title": "Am I a Developer or Just a Prompt Engineer?",
-      "hot": "❤️ 71 💬 41",
+      "hot": "❤️ 73 💬 43",
       "desc": "Three years ago, if you asked me \"what do you do?\" I had an answer I'm a software developer. I write...",
       "source": "dev",
       "tag": "ai,  career",
       "url": "https://dev.to/harsh2644/am-i-a-developer-or-just-a-prompt-engineer-4ece"
+    },
+    {
+      "title": "Stop Using Python for Your Gen AI Apps, Use Go and Genkit Instead",
+      "hot": "❤️ 12 💬 3",
+      "desc": "Introduction   For the last few years, every Gen AI tutorial, framework, and \"hello world\"...",
+      "source": "dev",
+      "tag": "ai,  programming",
+      "url": "https://dev.to/gde/stop-using-python-for-your-gen-ai-apps-use-go-and-genkit-instead-401p"
     },
     {
       "title": "Top 7 Featured DEV Posts of the Week",
@@ -114,7 +114,7 @@
     },
     {
       "title": "A Developer's Guide to Understanding Agent Skills: Implementing Progressive Disclosure in Google Apps Script",
-      "hot": "❤️ 11 💬 0",
+      "hot": "❤️ 12 💬 0",
       "desc": "Motivation for Writing   As an active user of AI development tools, I have seamlessly...",
       "source": "dev",
       "tag": "ai,  agents",
@@ -129,8 +129,16 @@
       "url": "https://dev.to/francistrdev/what-is-your-wpm-words-per-minute-2-5019"
     },
     {
+      "title": "AI Isn't Stupid. Your Setup Is. 🛠️",
+      "hot": "❤️ 87 💬 45",
+      "desc": "The bare-minimum AI coding workflow—pick the right model, plan first, write AGENTS.md for agents not humans, and cross-c",
+      "source": "dev",
+      "tag": "ai,  agents",
+      "url": "https://dev.to/anchildress1/ai-isnt-stupid-your-setup-is-16cn"
+    },
+    {
       "title": "Multimodal RAG with the Gemini API File Search Tool: A Developer Guide",
-      "hot": "❤️ 63 💬 0",
+      "hot": "❤️ 65 💬 0",
       "desc": "The File Search tool in the Gemini API now supports multimodal retrieval by adding support for Gemini...",
       "source": "dev",
       "tag": "api,  gemini",
@@ -145,14 +153,6 @@
       "url": "https://dev.to/gde/your-prompts-are-legacy-code-now-the-google-cloud-next-26-developer-breakdown-hc3"
     },
     {
-      "title": "AI Isn't Stupid. Your Setup Is. 🛠️",
-      "hot": "❤️ 85 💬 44",
-      "desc": "The bare-minimum AI coding workflow—pick the right model, plan first, write AGENTS.md for agents not humans, and cross-c",
-      "source": "dev",
-      "tag": "ai,  agents",
-      "url": "https://dev.to/anchildress1/ai-isnt-stupid-your-setup-is-16cn"
-    },
-    {
       "title": "ADK Agents with Amazon Bedrock Models",
       "hot": "❤️ 8 💬 0",
       "desc": "This article provides a step by step deployment guide for using Amazon Bedrock models with ADK...",
@@ -161,5 +161,5 @@
       "url": "https://dev.to/gde/adk-agents-with-amazon-bedrock-models-2fgc"
     }
   ],
-  "updatedAt": "2026-05-06T15:39:34.674Z"
+  "updatedAt": "2026-05-06T17:18:28.513Z"
 }
