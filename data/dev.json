@@ -2,19 +2,11 @@
   "data": [
     {
       "title": "I Love Tailwind. Sorry Not Sorry",
-      "hot": "❤️ 89 💬 92",
+      "hot": "❤️ 102 💬 96",
       "desc": "I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...",
       "source": "dev",
       "tag": "css,  tailwindcss",
       "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh"
-    },
-    {
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 28 💬 4",
-      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
-      "source": "dev",
-      "tag": "top7,  discuss",
-      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1136"
     },
     {
       "title": "What Even Is AI? (I Took a Break & Had to Relearn Everything)",
@@ -25,20 +17,20 @@
       "url": "https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj"
     },
     {
-      "title": "Am I a Developer or Just a Prompt Engineer?",
-      "hot": "❤️ 38 💬 20",
-      "desc": "Three years ago, if you asked me \"what do you do?\" I had an answer I'm a software developer. I write...",
-      "source": "dev",
-      "tag": "ai,  career",
-      "url": "https://dev.to/harsh2644/am-i-a-developer-or-just-a-prompt-engineer-4ece"
-    },
-    {
       "title": "The Next Casualty of the GenAI Revolution",
       "hot": "❤️ 39 💬 1",
       "desc": "I was at an event this morning where someone said something that really resonated with me. \"The new...",
       "source": "dev",
       "tag": "ai,  cloud",
       "url": "https://dev.to/aws/the-next-casualty-of-the-genai-revolution-3in7"
+    },
+    {
+      "title": "Am I a Developer or Just a Prompt Engineer?",
+      "hot": "❤️ 41 💬 22",
+      "desc": "Three years ago, if you asked me \"what do you do?\" I had an answer I'm a software developer. I write...",
+      "source": "dev",
+      "tag": "ai,  career",
+      "url": "https://dev.to/harsh2644/am-i-a-developer-or-just-a-prompt-engineer-4ece"
     },
     {
       "title": "Copilot Squad",
@@ -49,6 +41,14 @@
       "url": "https://dev.to/ruarfff/copilot-squad-4nda"
     },
     {
+      "title": "Write Code That's Easy to Delete: The Art of Impermanent Software",
+      "hot": "❤️ 98 💬 49",
+      "desc": "We obsess over making code last. Maybe we should obsess over making it leave gracefully.     There's...",
+      "source": "dev",
+      "tag": "programming,  webdev",
+      "url": "https://dev.to/adamthedeveloper/write-code-thats-easy-to-delete-the-art-of-impermanent-software-19l1"
+    },
+    {
       "title": "7 Coder Words: I built a PWA Word Puzzle for Coders and Nerds",
       "hot": "❤️ 2 💬 0",
       "desc": "7 CODER W🙂RDS is a word puzzle game for people interested in computer science in general. You are...",
@@ -57,12 +57,12 @@
       "url": "https://dev.to/petarov/7-coder-words-i-built-a-pwa-word-puzzle-for-coders-and-nerds-3oh5"
     },
     {
-      "title": "MCP Development with Amazon Lightsail Instances",
-      "hot": "❤️ 9 💬 0",
-      "desc": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "hot": "❤️ 34 💬 5",
+      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
       "source": "dev",
-      "tag": "python,  mcpserver",
-      "url": "https://dev.to/gde/mcp-development-with-amazon-lightsail-instances-34gp"
+      "tag": "top7,  discuss",
+      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1136"
     },
     {
       "title": "Multimodal RAG with the Gemini API File Search Tool: A Developer Guide",
@@ -97,20 +97,12 @@
       "url": "https://dev.to/gde/google-cloud-next-26-recap-4-live-report-from-the-two-keynotes-34nb"
     },
     {
-      "title": "What is your WPM (Words per Minute)? #2",
-      "hot": "❤️ 19 💬 3",
-      "desc": "Cover Video is from DC's Legends of Tomorrow on Guitar   I am curious, What is your WPM?  The...",
+      "title": "MCP Development with Amazon Lightsail Instances",
+      "hot": "❤️ 9 💬 1",
+      "desc": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
       "source": "dev",
-      "tag": "discuss,  watercooler",
-      "url": "https://dev.to/francistrdev/what-is-your-wpm-words-per-minute-2-5019"
-    },
-    {
-      "title": "Write Code That's Easy to Delete: The Art of Impermanent Software",
-      "hot": "❤️ 95 💬 48",
-      "desc": "We obsess over making code last. Maybe we should obsess over making it leave gracefully.     There's...",
-      "source": "dev",
-      "tag": "programming,  webdev",
-      "url": "https://dev.to/adamthedeveloper/write-code-thats-easy-to-delete-the-art-of-impermanent-software-19l1"
+      "tag": "python,  mcpserver",
+      "url": "https://dev.to/gde/mcp-development-with-amazon-lightsail-instances-34gp"
     },
     {
       "title": "Building a Cross Language MCP Server with Rust, Python ADK, and Gemini CLI",
@@ -121,20 +113,28 @@
       "url": "https://dev.to/gde/building-a-cross-language-mcp-server-with-rust-python-adk-and-gemini-cli-g5h"
     },
     {
-      "title": "ADK Agents with Amazon Bedrock Models",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article provides a step by step deployment guide for using Amazon Bedrock models with ADK...",
-      "source": "dev",
-      "tag": "gemini,  amazonbedrock",
-      "url": "https://dev.to/gde/adk-agents-with-amazon-bedrock-models-2fgc"
-    },
-    {
       "title": "Build a Streaming Gemini Chat in Angular with Signals — Then Ship It on Cloud Run",
       "hot": "❤️ 33 💬 1",
       "desc": "If you have built a chat UI for a large language model in the last two years, you probably reached...",
       "source": "dev",
       "tag": "angular,  gemini",
       "url": "https://dev.to/gdg/build-a-streaming-gemini-chat-in-angular-with-signals-then-ship-it-on-cloud-run-1llc"
+    },
+    {
+      "title": "What is your WPM (Words per Minute)? #2",
+      "hot": "❤️ 21 💬 3",
+      "desc": "Cover Video is from DC's Legends of Tomorrow on Guitar   I am curious, What is your WPM?  The...",
+      "source": "dev",
+      "tag": "discuss,  watercooler",
+      "url": "https://dev.to/francistrdev/what-is-your-wpm-words-per-minute-2-5019"
+    },
+    {
+      "title": "ADK Agents with Amazon Bedrock Models",
+      "hot": "❤️ 8 💬 0",
+      "desc": "This article provides a step by step deployment guide for using Amazon Bedrock models with ADK...",
+      "source": "dev",
+      "tag": "gemini,  amazonbedrock",
+      "url": "https://dev.to/gde/adk-agents-with-amazon-bedrock-models-2fgc"
     },
     {
       "title": "Getting Started with the Cluster Inventory API on OCM (Part 1: ClusterProfile)",
@@ -161,5 +161,5 @@
       "url": "https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1"
     }
   ],
-  "updatedAt": "2026-05-06T01:21:02.845Z"
+  "updatedAt": "2026-05-06T04:47:22.261Z"
 }
