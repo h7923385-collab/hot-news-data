@@ -1,6 +1,38 @@
 {
   "data": [
     {
+      "title": "Build Your Own AI Butler - A Scheduled Agent That Runs Itself!",
+      "hot": "❤️ 30 💬 1",
+      "desc": "I want an AI agent that works for me. I want it to search up the latest news, and I want it to...",
+      "source": "dev",
+      "tag": "aws,  ai",
+      "url": "https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk"
+    },
+    {
+      "title": "Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!",
+      "hot": "❤️ 15 💬 1",
+      "desc": "Local AI is having a moment, and we want you to be part of it!  Running through May 24, the Gemma 4...",
+      "source": "dev",
+      "tag": "devchallenge,  gemmachallenge",
+      "url": "https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in"
+    },
+    {
+      "title": "I Didn’t Stop Building. I Just Left My Laptop.",
+      "hot": "❤️ 43 💬 5",
+      "desc": "Hey there again guys! It’s been almost two months since my last post. And in the back of my head,...",
+      "source": "dev",
+      "tag": "career,  learning",
+      "url": "https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da"
+    },
+    {
+      "title": "I Programmed an AI in 6502 Assembly - It Worked",
+      "hot": "❤️ 10 💬 1",
+      "desc": "In 1975 the 6502 processed 8-bit values through memory and control flow. A Claude Code skill now uses...",
+      "source": "dev",
+      "tag": "ai,  webdev",
+      "url": "https://dev.to/newellpaul/i-programmed-an-ai-in-6502-assembly-it-worked-gpi"
+    },
+    {
       "title": "I Love Tailwind. Sorry Not Sorry",
       "hot": "❤️ 120 💬 111",
       "desc": "I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...",
@@ -9,44 +41,12 @@
       "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh"
     },
     {
-      "title": "Build Your Own AI Butler - A Scheduled Agent That Runs Itself!",
-      "hot": "❤️ 20 💬 1",
-      "desc": "I want an AI agent that works for me. I want it to search up the latest news, and I want it to...",
-      "source": "dev",
-      "tag": "aws,  ai",
-      "url": "https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk"
-    },
-    {
       "title": "AI vs Non-AI: Building the Same Project Twice",
       "hot": "❤️ 13 💬 4",
       "desc": "When I was implementing my weather station system, I asked myself: what if I built it again but this...",
       "source": "dev",
       "tag": "ai,  softwareengineering",
       "url": "https://dev.to/nandofm/ai-vs-non-ai-building-the-same-project-twice-4073"
-    },
-    {
-      "title": "What Even Is AI? (I Took a Break & Had to Relearn Everything)",
-      "hot": "❤️ 42 💬 6",
-      "desc": "I just came back from maternity leave. And honestly? I felt like I'd missed a decade in six months. I...",
-      "source": "dev",
-      "tag": "ai,  beginners",
-      "url": "https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj"
-    },
-    {
-      "title": "I Didn’t Stop Building. I Just Left My Laptop.",
-      "hot": "❤️ 36 💬 4",
-      "desc": "Hey there again guys! It’s been almost two months since my last post. And in the back of my head,...",
-      "source": "dev",
-      "tag": "career,  learning",
-      "url": "https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da"
-    },
-    {
-      "title": "I Programmed an AI in 6502 Assembly - It Worked",
-      "hot": "❤️ 5 💬 0",
-      "desc": "In 1975 the 6502 processed 8-bit values through memory and control flow. A Claude Code skill now uses...",
-      "source": "dev",
-      "tag": "ai,  webdev",
-      "url": "https://dev.to/newellpaul/i-programmed-an-ai-in-6502-assembly-it-worked-gpi"
     },
     {
       "title": "OpenAI and Anthropic are Friendster and MySpace, if Subquadratic proves to be true.",
@@ -94,7 +94,7 @@
       "desc": "AWS just shipped AgentCore Harness in public preview. It solves the infrastructure problem every team...",
       "source": "dev",
       "tag": "ai,  aws",
-      "url": "https://dev.to/vidanov/agentcore-harness-runs-your-agent-shapev2-controls-what-its-allowed-to-do-32ab"
+      "url": "https://dev.to/aws-builders/agentcore-harness-runs-your-agent-shapev2-controls-what-its-allowed-to-do-32ab"
     },
     {
       "title": "7 Coder Words: I built a PWA Word Puzzle for Coders and Nerds",
@@ -121,20 +121,20 @@
       "url": "https://dev.to/gde/mcp-development-with-amazon-lightsail-instances-34gp"
     },
     {
+      "title": "Am I a Developer or Just a Prompt Engineer?",
+      "hot": "❤️ 82 💬 57",
+      "desc": "Three years ago, if you asked me \"what do you do?\" I had an answer I'm a software developer. I write...",
+      "source": "dev",
+      "tag": "ai,  career",
+      "url": "https://dev.to/harsh2644/am-i-a-developer-or-just-a-prompt-engineer-4ece"
+    },
+    {
       "title": "Building a Cross Language MCP Server with Rust, Python ADK, and Gemini CLI",
       "hot": "❤️ 5 💬 0",
       "desc": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build ADK Agent...",
       "source": "dev",
       "tag": "rust,  mcpserver",
       "url": "https://dev.to/gde/building-a-cross-language-mcp-server-with-rust-python-adk-and-gemini-cli-g5h"
-    },
-    {
-      "title": "Am I a Developer or Just a Prompt Engineer?",
-      "hot": "❤️ 77 💬 57",
-      "desc": "Three years ago, if you asked me \"what do you do?\" I had an answer I'm a software developer. I write...",
-      "source": "dev",
-      "tag": "ai,  career",
-      "url": "https://dev.to/harsh2644/am-i-a-developer-or-just-a-prompt-engineer-4ece"
     },
     {
       "title": "Build a Streaming Gemini Chat in Angular with Signals — Then Ship It on Cloud Run",
@@ -161,5 +161,5 @@
       "url": "https://dev.to/gde/stop-using-python-for-your-gen-ai-apps-use-go-and-genkit-instead-401p"
     }
   ],
-  "updatedAt": "2026-05-06T22:36:39.087Z"
+  "updatedAt": "2026-05-06T23:38:20.230Z"
 }
