@@ -1,13 +1,175 @@
 {
-  "updatedAt": "2026-05-07T07:35:38.008Z",
+  "updatedAt": "2026-05-07T10:11:25.246Z",
   "source": "live",
+  "dev": [
+    {
+      "title": "Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!",
+      "hot": "❤️ 54 💬 9",
+      "desc": "Local AI is having a moment, and we want you to be part of it!  Running through May 24, the Gemma 4...",
+      "source": "dev",
+      "tag": "devchallenge,  gemmachallenge",
+      "url": "https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in"
+    },
+    {
+      "title": "I Love Tailwind. Sorry Not Sorry",
+      "hot": "❤️ 130 💬 113",
+      "desc": "I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...",
+      "source": "dev",
+      "tag": "css,  tailwindcss",
+      "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh"
+    },
+    {
+      "title": "Build Your Own AI Butler - A Scheduled Agent That Runs Itself!",
+      "hot": "❤️ 33 💬 2",
+      "desc": "I want an AI agent that works for me. I want it to search up the latest news, and I want it to...",
+      "source": "dev",
+      "tag": "aws,  ai",
+      "url": "https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk"
+    },
+    {
+      "title": "I Didn’t Stop Building. I Just Left My Laptop.",
+      "hot": "❤️ 52 💬 13",
+      "desc": "Hey there again guys! It’s been almost two months since my last post. And in the back of my head,...",
+      "source": "dev",
+      "tag": "career,  learning",
+      "url": "https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da"
+    },
+    {
+      "title": "I Programmed an AI in 6502 Assembly - It Worked",
+      "hot": "❤️ 23 💬 1",
+      "desc": "In 1975 the 6502 processed 8-bit values through memory and control flow. A Claude Code skill now uses...",
+      "source": "dev",
+      "tag": "ai,  webdev",
+      "url": "https://dev.to/newellpaul/i-programmed-an-ai-in-6502-assembly-it-worked-gpi"
+    },
+    {
+      "title": "A much faster mgsub",
+      "hot": "❤️ 5 💬 0",
+      "desc": "Celebrating a new release of the 1154th most download R package!",
+      "source": "dev",
+      "tag": "opensource,  performance",
+      "url": "https://dev.to/pofigster/a-much-faster-mgsub-46f"
+    },
+    {
+      "title": "AI vs Non-AI: Building the Same Project Twice",
+      "hot": "❤️ 15 💬 5",
+      "desc": "When I was implementing my weather station system, I asked myself: what if I built it again but this...",
+      "source": "dev",
+      "tag": "ai,  softwareengineering",
+      "url": "https://dev.to/nandofm/ai-vs-non-ai-building-the-same-project-twice-4073"
+    },
+    {
+      "title": "AgentCore Harness runs your agent. ShapeV2 controls what it's allowed to do",
+      "hot": "❤️ 1 💬 0",
+      "desc": "AWS just shipped AgentCore Harness in public preview. It solves the infrastructure problem every team...",
+      "source": "dev",
+      "tag": "ai,  aws",
+      "url": "https://dev.to/aws-builders/agentcore-harness-runs-your-agent-shapev2-controls-what-its-allowed-to-do-32ab"
+    },
+    {
+      "title": "Stop Shipping Vulnerabilities by Default: An Intro to Docker Hardened Images",
+      "hot": "❤️ 2 💬 0",
+      "desc": "Docker Hardened Images are changing how teams think about container security — not as an...",
+      "source": "dev",
+      "tag": "devops,  docker",
+      "url": "https://dev.to/gelopfalcon/stop-shipping-vulnerabilities-by-default-an-intro-to-docker-hardened-images-d0c"
+    },
+    {
+      "title": "Am I a Developer or Just a Prompt Engineer?",
+      "hot": "❤️ 95 💬 68",
+      "desc": "Three years ago, if you asked me \"what do you do?\" I had an answer I'm a software developer. I write...",
+      "source": "dev",
+      "tag": "ai,  career",
+      "url": "https://dev.to/harsh2644/am-i-a-developer-or-just-a-prompt-engineer-4ece"
+    },
+    {
+      "title": "Automating Cloudflare WARP Based on WiFi SSID (Linux Guide)",
+      "hot": "❤️ 5 💬 0",
+      "desc": "If you frequently switch between trusted and untrusted networks, manually toggling your VPN becomes...",
+      "source": "dev",
+      "tag": "linux,  automation",
+      "url": "https://dev.to/highcenburg/automating-cloudflare-warp-based-on-wifi-ssid-linux-guide-3jca"
+    },
+    {
+      "title": "Not Open Source Not Interested",
+      "hot": "❤️ 6 💬 0",
+      "desc": "commentary on why I'm only interested in finding/using software when it is Open Source",
+      "source": "dev",
+      "tag": "discuss,  opensource",
+      "url": "https://dev.to/geraldew/not-open-source-not-interested-52hf"
+    },
+    {
+      "title": "MCP Development with Amazon Lightsail Instances",
+      "hot": "❤️ 10 💬 1",
+      "desc": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
+      "source": "dev",
+      "tag": "python,  mcpserver",
+      "url": "https://dev.to/gde/mcp-development-with-amazon-lightsail-instances-34gp"
+    },
+    {
+      "title": "Building a Cross Language MCP Server with Rust, Python ADK, and Gemini CLI",
+      "hot": "❤️ 5 💬 0",
+      "desc": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build ADK Agent...",
+      "source": "dev",
+      "tag": "rust,  mcpserver",
+      "url": "https://dev.to/gde/building-a-cross-language-mcp-server-with-rust-python-adk-and-gemini-cli-g5h"
+    },
+    {
+      "title": "Build a Streaming Gemini Chat in Angular with Signals — Then Ship It on Cloud Run",
+      "hot": "❤️ 33 💬 1",
+      "desc": "If you have built a chat UI for a large language model in the last two years, you probably reached...",
+      "source": "dev",
+      "tag": "angular,  gemini",
+      "url": "https://dev.to/gdg/build-a-streaming-gemini-chat-in-angular-with-signals-then-ship-it-on-cloud-run-1llc"
+    },
+    {
+      "title": "Wormhole4j v0.3.0: Supports Multi-threaded Concurrency",
+      "hot": "❤️ 0 💬 0",
+      "desc": "Introduction   Wormhole4j is a Java implementation of the Wormhole index, an ordered...",
+      "source": "dev",
+      "tag": "java,  map",
+      "url": "https://dev.to/komamitsu/wormhole4j-v030-supports-multi-threaded-concurrency-2fjb"
+    },
+    {
+      "title": "Terminal as a Dev Environment in the Age of Agents",
+      "hot": "❤️ 1 💬 0",
+      "desc": "When the IDE Stopped Being the Center of Development   At some point, I realized something...",
+      "source": "dev",
+      "tag": "ai,  terminal",
+      "url": "https://dev.to/jonfir/terminal-as-a-dev-environment-in-the-age-of-agents-f2e"
+    },
+    {
+      "title": "OpenAI and Anthropic are Friendster and MySpace, if Subquadratic proves to be true.",
+      "hot": "❤️ 7 💬 0",
+      "desc": "If you've ever shipped an LLM-powered feature that needed to reason over a real codebase, a real...",
+      "source": "dev",
+      "tag": "ai,  discuss",
+      "url": "https://dev.to/jon_at_backboardio/openai-and-anthropic-are-friendster-and-myspace-if-subquadratic-proves-to-be-true-nb6"
+    },
+    {
+      "title": "Stop Using Python for Your Gen AI Apps, Use Go and Genkit Instead",
+      "hot": "❤️ 18 💬 3",
+      "desc": "Introduction   For the last few years, every Gen AI tutorial, framework, and \"hello world\"...",
+      "source": "dev",
+      "tag": "ai,  programming",
+      "url": "https://dev.to/gde/stop-using-python-for-your-gen-ai-apps-use-go-and-genkit-instead-401p"
+    },
+    {
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "hot": "❤️ 36 💬 6",
+      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+      "source": "dev",
+      "tag": "top7,  discuss",
+      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1136"
+    }
+  ],
   "tech": [
     {
       "title": "Valve releases Steam Controller CAD files under Creative Commons license",
       "hot": "3.0m",
       "desc": "digitalfoundry.net",
       "source": "tech",
-      "tag": "⬆️ 1328 points",
+      "tag": "⬆️ 1440 points",
       "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license"
     },
     {
@@ -15,7 +177,7 @@
       "hot": "3.0m",
       "desc": "nooneshappy.com",
       "source": "tech",
-      "tag": "⬆️ 1030 points",
+      "tag": "⬆️ 1173 points",
       "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/"
     },
     {
@@ -23,147 +185,179 @@
       "hot": "3.0m",
       "desc": "permacomputing.net",
       "source": "tech",
-      "tag": "⬆️ 105 points",
+      "tag": "⬆️ 143 points",
       "url": "https://permacomputing.net/principles/"
     },
     {
-      "title": "Diskless Linux boot using ZFS, iSCSI and PXE",
+      "title": "SQLite Is a Library of Congress Recommended Storage Format",
       "hot": "3.0m",
+      "desc": "sqlite.org",
+      "source": "tech",
+      "tag": "⬆️ 253 points",
+      "url": "https://sqlite.org/locrsf.html"
+    },
+    {
+      "title": "Show HN: Social Network for Corporate Cringe",
+      "hot": "2.9m",
+      "desc": "cringeout.com",
+      "source": "tech",
+      "tag": "⬆️ 16 points",
+      "url": "https://CringeOut.com"
+    },
+    {
+      "title": "Diskless Linux boot using ZFS, iSCSI and PXE",
+      "hot": "2.9m",
       "desc": "aniket.foo",
       "source": "tech",
-      "tag": "⬆️ 66 points",
+      "tag": "⬆️ 95 points",
       "url": "https://aniket.foo/posts/20260505-netboot/"
     },
     {
-      "title": "SQLite Is a Library of Congress Recommended Storage Format",
+      "title": "Boris Cherny: TI-83 Plus Basic Programming Tutorial (2004)",
       "hot": "2.9m",
-      "desc": "sqlite.org",
+      "desc": "ticalc.org",
       "source": "tech",
-      "tag": "⬆️ 176 points",
-      "url": "https://sqlite.org/locrsf.html"
+      "tag": "⬆️ 12 points",
+      "url": "https://www.ticalc.org/programming/columns/83plus-bas/cherny/"
     },
     {
       "title": "Vibe coding and agentic engineering are getting closer than I'd like",
       "hot": "2.9m",
       "desc": "simonwillison.net",
       "source": "tech",
-      "tag": "⬆️ 561 points",
+      "tag": "⬆️ 608 points",
       "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/"
+    },
+    {
+      "title": "Photoshop's challenges with focus, pt. 2",
+      "hot": "2.9m",
+      "desc": "unsung.aresluna.org",
+      "source": "tech",
+      "tag": "⬆️ 35 points",
+      "url": "https://unsung.aresluna.org/photoshops-challenges-with-focus-pt-2/"
     },
     {
       "title": "Chevrolet Performance eCrate package (400v/200hp)",
       "hot": "2.9m",
       "desc": "chevrolet.com",
       "source": "tech",
-      "tag": "⬆️ 21 points",
+      "tag": "⬆️ 46 points",
       "url": "https://www.chevrolet.com/performance-parts/crate-engines/ecrate"
     },
     {
-      "title": "ProgramBench: Can Language Models Rebuild Programs from Scratch?",
-      "hot": "2.9m",
-      "desc": "arxiv.org",
-      "source": "tech",
-      "tag": "⬆️ 27 points",
-      "url": "https://arxiv.org/abs/2605.03546"
-    },
-    {
-      "title": "RSS Feeds Send Me More Traffic Than Google",
+      "title": "RSS feeds send me more traffic than Google",
       "hot": "2.9m",
       "desc": "shkspr.mobi",
       "source": "tech",
-      "tag": "⬆️ 66 points",
+      "tag": "⬆️ 115 points",
       "url": "https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/"
     },
     {
-      "title": "The Vatican's Website in Latin",
-      "hot": "2.9m",
-      "desc": "vatican.va",
+      "title": "ProgramBench: Can Language Models Rebuild Programs from Scratch?",
+      "hot": "2.8m",
+      "desc": "arxiv.org",
       "source": "tech",
-      "tag": "⬆️ 128 points",
-      "url": "https://www.vatican.va/latin/latin_index.html"
+      "tag": "⬆️ 49 points",
+      "url": "https://arxiv.org/abs/2605.03546"
     },
     {
-      "title": "From Supabase to Clerk to Better Auth",
-      "hot": "2.9m",
-      "desc": "blog.val.town",
+      "title": "Making LLM Training Faster with Unsloth and NVIDIA",
+      "hot": "2.8m",
+      "desc": "unsloth.ai",
       "source": "tech",
-      "tag": "⬆️ 246 points",
-      "url": "https://blog.val.town/better-auth"
+      "tag": "⬆️ 40 points",
+      "url": "https://unsloth.ai/blog/nvidia-collab"
+    },
+    {
+      "title": "SingleRide: Longest route on NYC Subway without visiting the same station twice",
+      "hot": "2.8m",
+      "desc": "singleride.nyc",
+      "source": "tech",
+      "tag": "⬆️ 14 points",
+      "url": "https://singleride.nyc/"
+    },
+    {
+      "title": "Show HN: Agent-skills-eval – Test whether Agent Skills improve outputs",
+      "hot": "2.8m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 20 points",
+      "url": "https://github.com/darkrishabh/agent-skills-eval"
+    },
+    {
+      "title": "ZAYA1-8B: An 8B Moe Model with 760M Active Params Matching DeepSeek-R1 on Math",
+      "hot": "2.8m",
+      "desc": "firethering.com",
+      "source": "tech",
+      "tag": "⬆️ 4 points",
+      "url": "https://firethering.com/zaya1-8b-open-source-math-coding-model/"
+    },
+    {
+      "title": "Show HN: Trust – Coding Rust like it's 1989",
+      "hot": "2.8m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 20 points",
+      "url": "https://github.com/wojtczyk/trust"
     },
     {
       "title": "Google Cloud fraud defense, the next evolution of reCAPTCHA",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "cloud.google.com",
       "source": "tech",
-      "tag": "⬆️ 285 points",
+      "tag": "⬆️ 308 points",
       "url": "https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/"
     },
     {
-      "title": "The Mathematical Dance Inside Plant Cells",
-      "hot": "2.8m",
-      "desc": "quantamagazine.org",
+      "title": "From Supabase to Clerk to Better Auth",
+      "hot": "2.7m",
+      "desc": "blog.val.town",
       "source": "tech",
-      "tag": "⬆️ 28 points",
-      "url": "https://www.quantamagazine.org/the-hidden-mathematical-dance-inside-plant-cells-20260504/"
+      "tag": "⬆️ 259 points",
+      "url": "https://blog.val.town/better-auth"
     },
     {
-      "title": "Programming Still Sucks",
-      "hot": "2.8m",
-      "desc": "stvn.sh",
-      "source": "tech",
-      "tag": "⬆️ 311 points",
-      "url": "https://www.stvn.sh/writing/programming-still-sucks-fqffhyp"
-    },
-    {
-      "title": "What I Learned Making an App for My Family",
-      "hot": "2.8m",
+      "title": "What I learned making an app for my family",
+      "hot": "2.7m",
       "desc": "mendelgreenberg.com",
       "source": "tech",
-      "tag": "⬆️ 36 points",
+      "tag": "⬆️ 56 points",
       "url": "https://mendelgreenberg.com/posts/ourcar/"
-    },
-    {
-      "title": "Pen pal programs endure in a digital age",
-      "hot": "2.8m",
-      "desc": "apnews.com",
-      "source": "tech",
-      "tag": "⬆️ 37 points",
-      "url": "https://apnews.com/article/pen-pals-letters-comeback-bc87e1b9c229665bafd368e19751d6ca"
-    },
-    {
-      "title": "Show HN: Hallucinopedia",
-      "hot": "2.8m",
-      "desc": "halupedia.com",
-      "source": "tech",
-      "tag": "⬆️ 205 points",
-      "url": "http://halupedia.com/"
-    },
-    {
-      "title": "Building the TD4 4-Bit CPU",
-      "hot": "2.7m",
-      "desc": "jayakody2000lk.blogspot.com",
-      "source": "tech",
-      "tag": "⬆️ 12 points",
-      "url": "https://jayakody2000lk.blogspot.com/2026/05/building-td4-4-bit-cpu.html"
-    },
-    {
-      "title": "Community firmware for the Xteink X4 e-paper reader",
-      "hot": "2.7m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 89 points",
-      "url": "https://github.com/crosspoint-reader/crosspoint-reader"
-    },
-    {
-      "title": "Show HN: Tilde.run – Agent sandbox with a transactional, versioned filesystem",
-      "hot": "2.7m",
-      "desc": "tilde.run",
-      "source": "tech",
-      "tag": "⬆️ 156 points",
-      "url": "https://tilde.run/"
     }
   ],
   "space": [
+    {
+      "title": "Cornell Students Aid NASA with Drone Safety in Sky",
+      "hot": "5/7",
+      "desc": "A team of Cornell University students are turning heads within industry and the federal government with the results of their research into creating a ",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/aeronautics/usrc-cornell-drone-safety/"
+    },
+    {
+      "title": "Extended Reality at ESA opens new pathways for space exploration",
+      "hot": "5/7",
+      "desc": "The European Space Agency (ESA) is using Extended Reality (XR) to support training, enhance operations, improve simulation environments, and to bring ",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Extended_Reality_at_ESA_opens_new_pathways_for_space_exploration"
+    },
+    {
+      "title": "A beacon of light in swirls of dust",
+      "hot": "5/7",
+      "desc": "This latest Picture of the Month from the NASA/ESA/CSA James Webb Space Telescope features Messier 77 (M77), a barred spiral galaxy famous among astro",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/A_beacon_of_light_in_swirls_of_dust"
+    },
+    {
+      "title": "Sensitive and sturdy",
+      "hot": "5/7",
+      "desc": "From the ESA Blogs.",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/05/Sensitive_and_sturdy"
+    },
     {
       "title": "A Sea of Spinning Clouds",
       "hot": "5/7",
@@ -229,14 +423,6 @@
       "url": "https://www.nasa.gov/image-article/unlocking-the-mystery-of-x-ray-dots/"
     },
     {
-      "title": "New NASA Technology Mimics Extreme Cold of the Lunar Night",
-      "hot": "5/6",
-      "desc": "As NASA looks to explore the Moon, Mars, and beyond, researchers must develop materials capable of withstanding the extreme temperatures found in spac",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/general/nasa-technology-mimics-extreme-lunar-night/"
-    },
-    {
       "title": "NASA’s Roman Poised to Transform Hunt for Elusive Neutron Stars",
       "hot": "5/6",
       "desc": "Astronomers have long known that neutron stars, the crushed cores left behind after massive stars explode, should be scattered throughout the Milky Wa",
@@ -245,206 +431,20 @@
       "url": "https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-poised-to-transform-hunt-for-elusive-neutron-stars/"
     },
     {
+      "title": "New NASA Technology Mimics Extreme Cold of the Lunar Night",
+      "hot": "5/6",
+      "desc": "As NASA looks to explore the Moon, Mars, and beyond, researchers must develop materials capable of withstanding the extreme temperatures found in spac",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/general/nasa-technology-mimics-extreme-lunar-night/"
+    },
+    {
       "title": "Putting the ‘super’ into a supersite for Earth observation",
       "hot": "5/6",
       "desc": "In the far northern reaches of Finnish Lapland, an ambitious new chapter in Earth observation is unfolding. The European Space Agency, together with t",
       "source": "space",
       "tag": "ESA",
       "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Putting_the_super_into_a_supersite_for_Earth_observation"
-    },
-    {
-      "title": "Webb & Hubble find massive star clusters emerge faster",
-      "hot": "5/6",
-      "desc": "Astronomers using the NASA/ESA/CSA James Webb Space Telescope together with the NASA/ESA Hubble Space Telescope have looked deeply at thousands of you",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_find_massive_star_clusters_emerge_faster"
-    },
-    {
-      "title": "ESA and DON’T NOD team up on a journey to the planet Persephone in Aphelion",
-      "hot": "5/6",
-      "desc": "The European Space Agency (ESA) has partnered with French video game studio DON’T NOD Entertainment on the development of Aphelion, a narrative scienc",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_and_DON_T_NOD_team_up_on_a_journey_to_the_planet_Persephone_in_Aphelion"
-    },
-    {
-      "title": "Melting Snow Off Shivelyuch",
-      "hot": "5/6",
-      "desc": "Near-constant activity continues on the volcano in Russia.",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/earth/earth-observatory/melting-snow-off-shivelyuch/"
-    },
-    {
-      "title": "NASA eClips and GLOBE Educators Strengthen a Regional STEM Ecosystem in Coastal Virginia",
-      "hot": "5/5",
-      "desc": "Thirty-eight science educators representing seven school districts across Virginia’s Tidewater region joined forces with community organizations, such",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/learning-resources/science-activation/nasa-eclips-and-globe-educators-strengthen-a-regional-stem-ecosystem-in-coastal-virginia/"
-    }
-  ],
-  "dev": [
-    {
-      "title": "I Didn’t Stop Building. I Just Left My Laptop.",
-      "hot": "❤️ 45 💬 12",
-      "desc": "Hey there again guys! It’s been almost two months since my last post. And in the back of my head,...",
-      "source": "dev",
-      "tag": "career,  learning",
-      "url": "https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da"
-    },
-    {
-      "title": "Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!",
-      "hot": "❤️ 46 💬 8",
-      "desc": "Local AI is having a moment, and we want you to be part of it!  Running through May 24, the Gemma 4...",
-      "source": "dev",
-      "tag": "devchallenge,  gemmachallenge",
-      "url": "https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in"
-    },
-    {
-      "title": "I Love Tailwind. Sorry Not Sorry",
-      "hot": "❤️ 128 💬 112",
-      "desc": "I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...",
-      "source": "dev",
-      "tag": "css,  tailwindcss",
-      "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh"
-    },
-    {
-      "title": "Build Your Own AI Butler - A Scheduled Agent That Runs Itself!",
-      "hot": "❤️ 32 💬 1",
-      "desc": "I want an AI agent that works for me. I want it to search up the latest news, and I want it to...",
-      "source": "dev",
-      "tag": "aws,  ai",
-      "url": "https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk"
-    },
-    {
-      "title": "I Programmed an AI in 6502 Assembly - It Worked",
-      "hot": "❤️ 18 💬 1",
-      "desc": "In 1975 the 6502 processed 8-bit values through memory and control flow. A Claude Code skill now uses...",
-      "source": "dev",
-      "tag": "ai,  webdev",
-      "url": "https://dev.to/newellpaul/i-programmed-an-ai-in-6502-assembly-it-worked-gpi"
-    },
-    {
-      "title": "A much faster mgsub",
-      "hot": "❤️ 5 💬 0",
-      "desc": "Celebrating a new release of the 1154th most download R package!",
-      "source": "dev",
-      "tag": "opensource,  performance",
-      "url": "https://dev.to/pofigster/a-much-faster-mgsub-46f"
-    },
-    {
-      "title": "AI vs Non-AI: Building the Same Project Twice",
-      "hot": "❤️ 14 💬 4",
-      "desc": "When I was implementing my weather station system, I asked myself: what if I built it again but this...",
-      "source": "dev",
-      "tag": "ai,  softwareengineering",
-      "url": "https://dev.to/nandofm/ai-vs-non-ai-building-the-same-project-twice-4073"
-    },
-    {
-      "title": "AgentCore Harness runs your agent. ShapeV2 controls what it's allowed to do",
-      "hot": "❤️ 1 💬 0",
-      "desc": "AWS just shipped AgentCore Harness in public preview. It solves the infrastructure problem every team...",
-      "source": "dev",
-      "tag": "ai,  aws",
-      "url": "https://dev.to/aws-builders/agentcore-harness-runs-your-agent-shapev2-controls-what-its-allowed-to-do-32ab"
-    },
-    {
-      "title": "Stop Shipping Vulnerabilities by Default: An Intro to Docker Hardened Images",
-      "hot": "❤️ 2 💬 0",
-      "desc": "Docker Hardened Images are changing how teams think about container security — not as an...",
-      "source": "dev",
-      "tag": "devops,  docker",
-      "url": "https://dev.to/gelopfalcon/stop-shipping-vulnerabilities-by-default-an-intro-to-docker-hardened-images-d0c"
-    },
-    {
-      "title": "OpenAI and Anthropic are Friendster and MySpace, if Subquadratic proves to be true.",
-      "hot": "❤️ 6 💬 0",
-      "desc": "If you've ever shipped an LLM-powered feature that needed to reason over a real codebase, a real...",
-      "source": "dev",
-      "tag": "ai,  discuss",
-      "url": "https://dev.to/jon_at_backboardio/openai-and-anthropic-are-friendster-and-myspace-if-subquadratic-proves-to-be-true-nb6"
-    },
-    {
-      "title": "Am I a Developer or Just a Prompt Engineer?",
-      "hot": "❤️ 95 💬 64",
-      "desc": "Three years ago, if you asked me \"what do you do?\" I had an answer I'm a software developer. I write...",
-      "source": "dev",
-      "tag": "ai,  career",
-      "url": "https://dev.to/harsh2644/am-i-a-developer-or-just-a-prompt-engineer-4ece"
-    },
-    {
-      "title": "Automating Cloudflare WARP Based on WiFi SSID (Linux Guide)",
-      "hot": "❤️ 5 💬 0",
-      "desc": "If you frequently switch between trusted and untrusted networks, manually toggling your VPN becomes...",
-      "source": "dev",
-      "tag": "linux,  automation",
-      "url": "https://dev.to/highcenburg/automating-cloudflare-warp-based-on-wifi-ssid-linux-guide-3jca"
-    },
-    {
-      "title": "Not Open Source Not Interested",
-      "hot": "❤️ 6 💬 0",
-      "desc": "commentary on why I'm only interested in finding/using software when it is Open Source",
-      "source": "dev",
-      "tag": "discuss,  opensource",
-      "url": "https://dev.to/geraldew/not-open-source-not-interested-52hf"
-    },
-    {
-      "title": "MCP Development with Amazon Lightsail Instances",
-      "hot": "❤️ 10 💬 1",
-      "desc": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
-      "source": "dev",
-      "tag": "python,  mcpserver",
-      "url": "https://dev.to/gde/mcp-development-with-amazon-lightsail-instances-34gp"
-    },
-    {
-      "title": "Building a Cross Language MCP Server with Rust, Python ADK, and Gemini CLI",
-      "hot": "❤️ 5 💬 0",
-      "desc": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build ADK Agent...",
-      "source": "dev",
-      "tag": "rust,  mcpserver",
-      "url": "https://dev.to/gde/building-a-cross-language-mcp-server-with-rust-python-adk-and-gemini-cli-g5h"
-    },
-    {
-      "title": "Build a Streaming Gemini Chat in Angular with Signals — Then Ship It on Cloud Run",
-      "hot": "❤️ 33 💬 1",
-      "desc": "If you have built a chat UI for a large language model in the last two years, you probably reached...",
-      "source": "dev",
-      "tag": "angular,  gemini",
-      "url": "https://dev.to/gdg/build-a-streaming-gemini-chat-in-angular-with-signals-then-ship-it-on-cloud-run-1llc"
-    },
-    {
-      "title": "Wormhole4j v0.3.0: Supports Multi-threaded Concurrency",
-      "hot": "❤️ 0 💬 0",
-      "desc": "Introduction   Wormhole4j is a Java implementation of the Wormhole index, an ordered...",
-      "source": "dev",
-      "tag": "java,  map",
-      "url": "https://dev.to/komamitsu/wormhole4j-v030-supports-multi-threaded-concurrency-2fjb"
-    },
-    {
-      "title": "Terminal as a Dev Environment in the Age of Agents",
-      "hot": "❤️ 1 💬 0",
-      "desc": "When the IDE Stopped Being the Center of Development   At some point, I realized something...",
-      "source": "dev",
-      "tag": "ai,  terminal",
-      "url": "https://dev.to/jonfir/terminal-as-a-dev-environment-in-the-age-of-agents-f2e"
-    },
-    {
-      "title": "Stop Using Python for Your Gen AI Apps, Use Go and Genkit Instead",
-      "hot": "❤️ 18 💬 3",
-      "desc": "Introduction   For the last few years, every Gen AI tutorial, framework, and \"hello world\"...",
-      "source": "dev",
-      "tag": "ai,  programming",
-      "url": "https://dev.to/gde/stop-using-python-for-your-gen-ai-apps-use-go-and-genkit-instead-401p"
-    },
-    {
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 36 💬 6",
-      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
-      "source": "dev",
-      "tag": "top7,  discuss",
-      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1136"
     }
   ],
   "github": [
@@ -482,7 +482,7 @@
     },
     {
       "title": "wrongly-cuddly-obsession/NTSB_FOIA_MU5735: ",
-      "hot": "⭐ 982",
+      "hot": "⭐ 987",
       "desc": "wrongly-cuddly-obsession/NTSB_FOIA_MU5735",
       "source": "github",
       "tag": "GitHub",
@@ -490,7 +490,7 @@
     },
     {
       "title": "crafter-station/petdex: Public gallery of animated Codex pets",
-      "hot": "⭐ 837",
+      "hot": "⭐ 873",
       "desc": "Public gallery of animated Codex pets",
       "source": "github",
       "tag": "TypeScript",
@@ -498,7 +498,7 @@
     },
     {
       "title": "XBuilderLAB/cheat-on-content: Content is already a cheat-code race—whoever crack",
-      "hot": "⭐ 837",
+      "hot": "⭐ 869",
       "desc": "Content is already a cheat-code race—whoever cracks the patterns first wins the traffic. Your auto-evolving ops expert that learns YOUR account, not t",
       "source": "github",
       "tag": "Python",
@@ -506,7 +506,7 @@
     },
     {
       "title": "vibeforge1111/keep-codex-fast: A backup-first Codex skill for keeping local Code",
-      "hot": "⭐ 830",
+      "hot": "⭐ 839",
       "desc": "A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.",
       "source": "github",
       "tag": "Python",
@@ -514,31 +514,31 @@
     },
     {
       "title": "jherrodthomas/automotive-skills-suite: 100+ installable Claude skills covering E",
-      "hot": "⭐ 783",
+      "hot": "⭐ 810",
       "desc": "100+ installable Claude skills covering Engineering areas such as, ISO 26262 functional safety, ISO/SAE 21434 cybersecurity, ISO 21448 SOTIF, AIAG-VDA",
       "source": "github",
       "tag": "GitHub",
       "url": "https://github.com/jherrodthomas/automotive-skills-suite"
     },
     {
-      "title": "tddworks/baguette: Headless iOS Simulator manager/farm + host-side input injecti",
-      "hot": "⭐ 703",
-      "desc": "Headless iOS Simulator manager/farm + host-side input injection for iOS 26 — taps, swipes, multi-finger gestures, and 60 fps streaming",
-      "source": "github",
-      "tag": "Swift",
-      "url": "https://github.com/tddworks/baguette"
-    },
-    {
       "title": "yaojingang/yao-open-prompts: Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
-      "hot": "⭐ 682",
+      "hot": "⭐ 776",
       "desc": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/yaojingang/yao-open-prompts"
     },
     {
+      "title": "tddworks/baguette: Headless iOS Simulator manager/farm + host-side input injecti",
+      "hot": "⭐ 712",
+      "desc": "Headless iOS Simulator manager/farm + host-side input injection for iOS 26 — taps, swipes, multi-finger gestures, and 60 fps streaming",
+      "source": "github",
+      "tag": "Swift",
+      "url": "https://github.com/tddworks/baguette"
+    },
+    {
       "title": "Kappaemme-git/codex-startup-pressure-test-skill: ",
-      "hot": "⭐ 628",
+      "hot": "⭐ 645",
       "desc": "Kappaemme-git/codex-startup-pressure-test-skill",
       "source": "github",
       "tag": "JavaScript",
@@ -546,11 +546,19 @@
     },
     {
       "title": "raiyanyahya/how-to-train-your-gpt: Build a modern LLM from scratch. Every line c",
-      "hot": "⭐ 603",
+      "hot": "⭐ 620",
       "desc": "Build a modern LLM from scratch. Every line commented. Explained like we are five.",
       "source": "github",
       "tag": "Jupyter Notebook",
       "url": "https://github.com/raiyanyahya/how-to-train-your-gpt"
+    },
+    {
+      "title": "techjarves/OpenClaude-Portable: Run Claude Code from a USB drive on any PC — no ",
+      "hot": "⭐ 532",
+      "desc": "Run Claude Code from a USB drive on any PC — no installation required.",
+      "source": "github",
+      "tag": "HTML",
+      "url": "https://github.com/techjarves/OpenClaude-Portable"
     },
     {
       "title": "Tommy-yw/RunbookHermes: Hermes-native AIOps agent for evidence-driven incident r",
@@ -559,14 +567,6 @@
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/Tommy-yw/RunbookHermes"
-    },
-    {
-      "title": "techjarves/OpenClaude-Portable: Run Claude Code from a USB drive on any PC — no ",
-      "hot": "⭐ 527",
-      "desc": "Run Claude Code from a USB drive on any PC — no installation required.",
-      "source": "github",
-      "tag": "HTML",
-      "url": "https://github.com/techjarves/OpenClaude-Portable"
     }
   ]
 }
