@@ -1,30 +1,29 @@
 {
-  "updatedAt": "2026-05-07T22:47:14.801Z",
+  "updatedAt": "2026-05-07T23:40:24.701Z",
   "source": "live",
-  "space": [
-    {
-      "title": "暂无 space 数据",
-      "hot": "",
-      "desc": "数据加载中，请稍后刷新",
-      "source": "space",
-      "tag": "loading"
-    }
-  ],
   "tech": [
     {
       "title": "Dirtyfrag: Universal Linux LPE",
       "hot": "3.0m",
       "desc": "openwall.com",
       "source": "tech",
-      "tag": "⬆️ 282 points",
+      "tag": "⬆️ 326 points",
       "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8"
+    },
+    {
+      "title": "Canvas (Instructure) LMS Down in Ongoing Ransomware Attack",
+      "hot": "3.0m",
+      "desc": "theverge.com",
+      "source": "tech",
+      "tag": "⬆️ 53 points",
+      "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach"
     },
     {
       "title": "The Burning Man MOOP Map",
       "hot": "3.0m",
       "desc": "not-ship.com",
       "source": "tech",
-      "tag": "⬆️ 495 points",
+      "tag": "⬆️ 506 points",
       "url": "https://www.not-ship.com/burning-man-moop/"
     },
     {
@@ -32,15 +31,15 @@
       "hot": "3.0m",
       "desc": "bsuh.bearblog.dev",
       "source": "tech",
-      "tag": "⬆️ 250 points",
+      "tag": "⬆️ 281 points",
       "url": "https://bsuh.bearblog.dev/agents-need-control-flow/"
     },
     {
       "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "deepmind.google",
       "source": "tech",
-      "tag": "⬆️ 230 points",
+      "tag": "⬆️ 235 points",
       "url": "https://deepmind.google/blog/alphaevolve-impact/"
     },
     {
@@ -48,23 +47,23 @@
       "hot": "2.9m",
       "desc": "anthropic.com",
       "source": "tech",
-      "tag": "⬆️ 144 points",
+      "tag": "⬆️ 162 points",
       "url": "https://www.anthropic.com/research/natural-language-autoencoders"
     },
     {
-      "title": "Canvas (Instructure) LMS Down in Ongoing Ransomware Attack",
+      "title": "Building for the Future",
       "hot": "2.9m",
-      "desc": "theverge.com",
+      "desc": "blog.cloudflare.com",
       "source": "tech",
-      "tag": "⬆️ 10 points",
-      "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach"
+      "tag": "⬆️ 179 points",
+      "url": "https://blog.cloudflare.com/building-for-the-future/"
     },
     {
       "title": "AI slop is killing online communities",
       "hot": "2.9m",
       "desc": "rmoff.net",
       "source": "tech",
-      "tag": "⬆️ 326 points",
+      "tag": "⬆️ 374 points",
       "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/"
     },
     {
@@ -72,110 +71,224 @@
       "hot": "2.9m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 241 points",
+      "tag": "⬆️ 253 points",
       "url": "https://github.com/antirez/ds4"
     },
     {
-      "title": "Colored Shadow Penumbra",
+      "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
       "hot": "2.9m",
-      "desc": "chosker.github.io",
+      "desc": "citizen.co.za",
       "source": "tech",
       "tag": "⬆️ 29 points",
-      "url": "https://chosker.github.io/blog/colored-shadow-penumbra"
+      "url": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/"
     },
     {
       "title": "I want to live like Costco people",
       "hot": "2.9m",
       "desc": "tastecooking.com",
       "source": "tech",
-      "tag": "⬆️ 170 points",
+      "tag": "⬆️ 190 points",
       "url": "https://tastecooking.com/i-want-to-live-like-costco-people/"
     },
     {
-      "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
-      "hot": "2.9m",
-      "desc": "old.reddit.com",
+      "title": "OpenClaw Had a Rough Week",
+      "hot": "2.8m",
+      "desc": "openclaw.ai",
       "source": "tech",
-      "tag": "⬆️ 395 points",
-      "url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/"
+      "tag": "⬆️ 16 points",
+      "url": "https://openclaw.ai/blog/openclaw-rough-week"
+    },
+    {
+      "title": "Maybe you shouldn't install new software for a bit",
+      "hot": "2.8m",
+      "desc": "xeiaso.net",
+      "source": "tech",
+      "tag": "⬆️ 9 points",
+      "url": "https://xeiaso.net/blog/2026/abstain-from-install/"
     },
     {
       "title": "Rolling the Root Key",
       "hot": "2.8m",
       "desc": "blog.apnic.net",
       "source": "tech",
-      "tag": "⬆️ 5 points",
+      "tag": "⬆️ 9 points",
       "url": "https://blog.apnic.net/2026/05/05/rolling-the-root-key/"
+    },
+    {
+      "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
+      "hot": "2.8m",
+      "desc": "old.reddit.com",
+      "source": "tech",
+      "tag": "⬆️ 420 points",
+      "url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/"
+    },
+    {
+      "title": "Colored Shadow Penumbra",
+      "hot": "2.8m",
+      "desc": "chosker.github.io",
+      "source": "tech",
+      "tag": "⬆️ 30 points",
+      "url": "https://chosker.github.io/blog/colored-shadow-penumbra"
     },
     {
       "title": "Principles for agent-native CLIs",
       "hot": "2.8m",
       "desc": "twitter.com",
       "source": "tech",
-      "tag": "⬆️ 44 points",
+      "tag": "⬆️ 49 points",
       "url": "https://twitter.com/trevin/status/2051316002730991795"
     },
     {
-      "title": "Easy Random Trees",
-      "hot": "2.8m",
-      "desc": "blog.wilsonb.com",
-      "source": "tech",
-      "tag": "⬆️ 11 points",
-      "url": "https://blog.wilsonb.com/posts/2026-02-27-easy-random-trees.html"
-    },
-    {
       "title": "PySimpleGUI 6",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 83 points",
+      "tag": "⬆️ 84 points",
       "url": "https://github.com/PySimpleGUI/PySimpleGUI"
     },
     {
-      "title": "Creating for a niche",
-      "hot": "2.8m",
-      "desc": "davesnider.com",
+      "title": "Easy Random Trees",
+      "hot": "2.7m",
+      "desc": "blog.wilsonb.com",
       "source": "tech",
       "tag": "⬆️ 17 points",
+      "url": "https://blog.wilsonb.com/posts/2026-02-27-easy-random-trees.html"
+    },
+    {
+      "title": "Creating for a niche",
+      "hot": "2.7m",
+      "desc": "davesnider.com",
+      "source": "tech",
+      "tag": "⬆️ 21 points",
       "url": "https://www.davesnider.com/posts/working-in-a-niche"
+    }
+  ],
+  "space": [
+    {
+      "title": "Rocket Lab announces five-launch Neutron deal as it continues aiming for late 2026 debut",
+      "hot": "5/7",
+      "desc": "The company pivoted to a Neutron rocket launch debut no earlier than the fourth quarter of 2026 following a first stage tank test failure earlier this",
+      "source": "space",
+      "tag": "Spaceflight Now",
+      "url": "https://spaceflightnow.com/2026/05/07/rocket-lab-announces-five-launch-neutron-deal-as-it-continues-aiming-for-late-2026-debut/"
     },
     {
-      "title": "The Self-Cancelling Subscription",
-      "hot": "2.8m",
-      "desc": "predr.ag",
-      "source": "tech",
-      "tag": "⬆️ 132 points",
-      "url": "https://predr.ag/blog/the-self-cancelling-subscription/"
+      "title": "China prepares cargo, crew, and deep space missions, as commercial sector steps towards reusability",
+      "hot": "5/7",
+      "desc": "China is preparing to launch both cargo and crew missions to its Tiangong space station,…\nThe post China prepares cargo, crew, and deep space missions",
+      "source": "space",
+      "tag": "NASASpaceflight",
+      "url": "https://www.nasaspaceflight.com/2026/05/china-cargo-crew-reusability/"
     },
     {
-      "title": "RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust",
-      "hot": "2.7m",
-      "desc": "ratex.lites.dev",
-      "source": "tech",
-      "tag": "⬆️ 151 points",
-      "url": "https://ratex.lites.dev/"
+      "title": "NASA Welcomes Paraguay as 67th Artemis Accords Signatory",
+      "hot": "5/7",
+      "desc": "The Republic of Paraguay signed the Artemis Accords on Thursday during a ceremony in Asunción, becoming the latest nation to commit to the shared prin",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-paraguay-as-67th-artemis-accords-signatory/"
     },
     {
-      "title": "Child marriages plunged when girls stayed in school in Nigeria",
-      "hot": "2.7m",
-      "desc": "nature.com",
-      "source": "tech",
-      "tag": "⬆️ 318 points",
-      "url": "https://www.nature.com/articles/d41586-026-00720-8"
+      "title": "NASA Sends Mars Helicopter Blades Beyond Mach 1",
+      "hot": "5/7",
+      "desc": "Description Engineer Fernando Mier-Hicks inspects a test stand used to investigate the performance of next-generation Mars helicopter rotor blades at ",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/photojournal/nasa-sends-mars-helicopter-blades-beyond-mach-1/"
     },
     {
-      "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
-      "hot": "2.7m",
-      "desc": "citizen.co.za",
-      "source": "tech",
-      "tag": "⬆️ 12 points",
-      "url": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/"
+      "title": "NASA’s Next-Gen Mars Helicopter Rotors Are Moving Fast",
+      "hot": "5/7",
+      "desc": "Description Engineer Jaakko Karras inspects a next-generation Mars helicopter rotor blade prior to supersonic speed testing in the 25-Foot Space Simul",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/photojournal/nasas-next-gen-mars-helicopter-rotors-are-moving-fast/"
+    },
+    {
+      "title": "NASA Pushes Next-Gen Mars Helicopter Rotor Blades Past Mach 1",
+      "hot": "5/7",
+      "desc": "The rotor blades that will carry NASA’s next-generation helicopters to new Martian heights broke the sound barrier during March tests at NASA’s Jet Pr",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-pushes-next-gen-mars-helicopter-rotor-blades-past-mach-1/"
+    },
+    {
+      "title": "Industry Moon Lander Training Cabin Lands at NASA for Artemis",
+      "hot": "5/7",
+      "desc": "A full-scale mock-up of a crew cabin for a future industry lunar lander for NASA’s Artemis program now is operational for training and testing. The ag",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/industry-moon-lander-training-cabin-lands-at-nasa-for-artemis/"
+    },
+    {
+      "title": "A Light in the Dark",
+      "hot": "5/7",
+      "desc": "A thin sliver of Earth’s edge is brightly illuminated against the vast darkness of space in this April 3, 2026, image taken during the Artemis II miss",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/image-article/a-light-in-the-dark/"
+    },
+    {
+      "title": "NASA-Supported Small Spacecraft Launches to Study Solar Particles",
+      "hot": "5/7",
+      "desc": "Through NASA, a university-designed small spacecraft is paving the way to studying particles, known as neutrinos, that move through the universe at ne",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/directorates/stmd/nasa-supported-small-spacecraft-launches-to-study-solar-particles/"
+    },
+    {
+      "title": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit",
+      "hot": "5/7",
+      "desc": "A team of researchers demonstrated NASA and IBM’s open-source Prithvi Geospatial artificial intelligence foundation model aboard two in-orbit platform",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/science-research/ai-foundation-model-in-orbit/"
+    },
+    {
+      "title": "NASA’s Simulated Mars Mission Marks 200 Days Inside Habitat",
+      "hot": "5/7",
+      "desc": "The four crew members of NASA’s Mars simulation recently marked 200 days into their 378-day Red Planet mission on May 7. Currently, the crew is in a s",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/humans-in-space/nasas-simulated-mars-mission-marks-200-days-inside-habitat/"
+    },
+    {
+      "title": "Former NASA chief takes helm of national security space firm",
+      "hot": "5/7",
+      "desc": "\"The spacecraft can also be refueled, and it can refuel others.\"",
+      "source": "space",
+      "tag": "Arstechnica",
+      "url": "https://arstechnica.com/space/2026/05/former-nasa-chief-takes-helm-of-national-security-space-firm/"
+    },
+    {
+      "title": "Cornell Students Aid NASA with Drone Safety in Sky",
+      "hot": "5/7",
+      "desc": "A team of Cornell University students are turning heads within industry and the federal government with the results of their research into creating a ",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/aeronautics/usrc-cornell-drone-safety/"
+    },
+    {
+      "title": "Extended Reality at ESA opens new pathways for space exploration",
+      "hot": "5/7",
+      "desc": "The European Space Agency (ESA) is using Extended Reality (XR) to support training, enhance operations, improve simulation environments, and to bring ",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Extended_Reality_at_ESA_opens_new_pathways_for_space_exploration"
+    },
+    {
+      "title": "A beacon of light in swirls of dust",
+      "hot": "5/7",
+      "desc": "This latest Picture of the Month from the NASA/ESA/CSA James Webb Space Telescope features Messier 77 (M77), a barred spiral galaxy famous among astro",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/A_beacon_of_light_in_swirls_of_dust"
     }
   ],
   "dev": [
     {
       "title": "Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!",
-      "hot": "❤️ 161 💬 18",
+      "hot": "❤️ 165 💬 19",
       "desc": "Local AI is having a moment, and we want you to be part of it!  Running through May 24, the Gemma 4...",
       "source": "dev",
       "tag": "devchallenge,  gemmachallenge",
@@ -183,7 +296,7 @@
     },
     {
       "title": "Congrats to the Google Cloud NEXT '26 Writing Challenge Winners!",
-      "hot": "❤️ 33 💬 9",
+      "hot": "❤️ 33 💬 10",
       "desc": "The results are in! We are thrilled to announce the winners of the Google Cloud NEXT '26 Writing...",
       "source": "dev",
       "tag": "devchallenge,  cloudnextchallenge",
@@ -191,7 +304,7 @@
     },
     {
       "title": "I Didn’t Stop Building. I Just Left My Laptop.",
-      "hot": "❤️ 64 💬 19",
+      "hot": "❤️ 64 💬 22",
       "desc": "Hey there again guys! It’s been almost two months since my last post. And in the back of my head,...",
       "source": "dev",
       "tag": "career,  learning",
@@ -199,7 +312,7 @@
     },
     {
       "title": "Congrats to the OpenClaw Challenge Winners!",
-      "hot": "❤️ 21 💬 3",
+      "hot": "❤️ 21 💬 4",
       "desc": "The results are in! We are thrilled to announce the winners of the OpenClaw Challenge.  Over the past...",
       "source": "dev",
       "tag": "devchallenge,  openclawchallenge",
@@ -230,22 +343,6 @@
       "url": "https://dev.to/tahosin/i-replaced-my-500-gpu-with-a-75-raspberry-pi-how-gemma-4-makes-computer-vision-10x-cheaper-1gbo"
     },
     {
-      "title": "[GCP Practice][BwAI] AI-Powered Development: Quickly Deploy a LINE Bot Cloud Backup Tool with Gemini CLI",
-      "hot": "❤️ 16 💬 0",
-      "desc": "Background   In the upcoming Build With AI 2026 workshop, we're bringing a very practical...",
-      "source": "dev",
-      "tag": "ai,  gemini",
-      "url": "https://dev.to/gde/gcp-practicebwai-ai-powered-development-quickly-deploy-a-line-bot-cloud-backup-tool-with-4ghi"
-    },
-    {
-      "title": "Building Capabilities for a Multi-Agent System with Google ADK, MCP, and Cloud Run",
-      "hot": "❤️ 5 💬 0",
-      "desc": "My team's mission is to accelerate the developer journey from writing code to running secure AI...",
-      "source": "dev",
-      "tag": "ai,  googlecloud",
-      "url": "https://dev.to/googleai/building-capabilities-for-a-multi-agent-system-with-google-adk-mcp-and-cloud-run-ab9"
-    },
-    {
       "title": "Deploying a Multi-Agent System with Terraform and Cloud Run",
       "hot": "❤️ 5 💬 0",
       "desc": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal: a...",
@@ -260,6 +357,14 @@
       "source": "dev",
       "tag": "ai,  googlecloud",
       "url": "https://dev.to/googleai/local-testing-of-a-multi-agent-system-with-memory-37mm"
+    },
+    {
+      "title": "Building Capabilities for a Multi-Agent System with Google ADK, MCP, and Cloud Run",
+      "hot": "❤️ 5 💬 0",
+      "desc": "My team's mission is to accelerate the developer journey from writing code to running secure AI...",
+      "source": "dev",
+      "tag": "ai,  googlecloud",
+      "url": "https://dev.to/googleai/building-capabilities-for-a-multi-agent-system-with-google-adk-mcp-and-cloud-run-ab9"
     },
     {
       "title": "Building ADK Agents with Phi Models on Azure Foundry",
@@ -292,6 +397,14 @@
       "source": "dev",
       "tag": "typescript,  ai",
       "url": "https://dev.to/thegdsks/i-built-a-200-line-ai-router-in-typescript-my-monthly-bill-dropped-41-23ok"
+    },
+    {
+      "title": "[GCP Practice][BwAI] AI-Powered Development: Quickly Deploy a LINE Bot Cloud Backup Tool with Gemini CLI",
+      "hot": "❤️ 17 💬 0",
+      "desc": "Background   In the upcoming Build With AI 2026 workshop, we're bringing a very practical...",
+      "source": "dev",
+      "tag": "ai,  gemini",
+      "url": "https://dev.to/gde/gcp-practicebwai-ai-powered-development-quickly-deploy-a-line-bot-cloud-backup-tool-with-4ghi"
     },
     {
       "title": "MCP Development with Amazon Lambda Managed Instances",
@@ -345,7 +458,7 @@
     },
     {
       "title": "vercel-labs/deepsec: Deepsec is a security harness for finding vulnerabilities i",
-      "hot": "⭐ 1.6k",
+      "hot": "⭐ 1.7k",
       "desc": "Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents",
       "source": "github",
       "tag": "TypeScript",
@@ -376,6 +489,14 @@
       "url": "https://github.com/yaojingang/yao-open-prompts"
     },
     {
+      "title": "XBuilderLAB/cheat-on-content: Content is already a cheat-code race—whoever crack",
+      "hot": "⭐ 999",
+      "desc": "Content is already a cheat-code race—whoever cracks the patterns first wins the traffic. Your auto-evolving ops expert that learns YOUR account, not t",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/XBuilderLAB/cheat-on-content"
+    },
+    {
       "title": "wrongly-cuddly-obsession/NTSB_FOIA_MU5735: ",
       "hot": "⭐ 994",
       "desc": "wrongly-cuddly-obsession/NTSB_FOIA_MU5735",
@@ -384,32 +505,24 @@
       "url": "https://github.com/wrongly-cuddly-obsession/NTSB_FOIA_MU5735"
     },
     {
-      "title": "XBuilderLAB/cheat-on-content: Content is already a cheat-code race—whoever crack",
-      "hot": "⭐ 994",
-      "desc": "Content is already a cheat-code race—whoever cracks the patterns first wins the traffic. Your auto-evolving ops expert that learns YOUR account, not t",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/XBuilderLAB/cheat-on-content"
-    },
-    {
-      "title": "crafter-station/petdex: Public gallery of animated Codex pets",
-      "hot": "⭐ 951",
-      "desc": "Public gallery of animated Codex pets",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/crafter-station/petdex"
-    },
-    {
       "title": "strukto-ai/mirage: A Unified Virtual Filesystem For AI Agents",
-      "hot": "⭐ 939",
+      "hot": "⭐ 955",
       "desc": "A Unified Virtual Filesystem For AI Agents",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/strukto-ai/mirage"
     },
     {
+      "title": "crafter-station/petdex: Public gallery of animated Codex pets",
+      "hot": "⭐ 952",
+      "desc": "Public gallery of animated Codex pets",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/crafter-station/petdex"
+    },
+    {
       "title": "jherrodthomas/automotive-skills-suite: 100+ installable Claude skills covering E",
-      "hot": "⭐ 909",
+      "hot": "⭐ 913",
       "desc": "100+ installable Claude skills covering Engineering areas such as, ISO 26262 functional safety, ISO/SAE 21434 cybersecurity, ISO 21448 SOTIF, AIAG-VDA",
       "source": "github",
       "tag": "GitHub",
@@ -433,7 +546,7 @@
     },
     {
       "title": "Kappaemme-git/codex-startup-pressure-test-skill: ",
-      "hot": "⭐ 701",
+      "hot": "⭐ 705",
       "desc": "Kappaemme-git/codex-startup-pressure-test-skill",
       "source": "github",
       "tag": "JavaScript",
@@ -441,7 +554,7 @@
     },
     {
       "title": "raiyanyahya/how-to-train-your-gpt: Build a modern LLM from scratch. Every line c",
-      "hot": "⭐ 676",
+      "hot": "⭐ 683",
       "desc": "Build a modern LLM from scratch. Every line commented. Explained like we are five.",
       "source": "github",
       "tag": "Jupyter Notebook",
@@ -449,7 +562,7 @@
     },
     {
       "title": "lightseekorg/tokenspeed: TokenSpeed is a speed-of-light LLM inference engine.",
-      "hot": "⭐ 624",
+      "hot": "⭐ 633",
       "desc": "TokenSpeed is a speed-of-light LLM inference engine.",
       "source": "github",
       "tag": "Python",
