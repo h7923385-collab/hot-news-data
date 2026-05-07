@@ -1,13 +1,21 @@
 {
-  "updatedAt": "2026-05-07T19:09:36.253Z",
+  "updatedAt": "2026-05-07T20:44:53.352Z",
   "source": "live",
   "tech": [
     {
-      "title": "The map that keeps Burning Man honest",
+      "title": "Dirtyfrag: Universal Linux LPE",
+      "hot": "3.0m",
+      "desc": "openwall.com",
+      "source": "tech",
+      "tag": "⬆️ 92 points",
+      "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8"
+    },
+    {
+      "title": "The Burning Man MOOP Map",
       "hot": "3.0m",
       "desc": "not-ship.com",
       "source": "tech",
-      "tag": "⬆️ 388 points",
+      "tag": "⬆️ 457 points",
       "url": "https://www.not-ship.com/burning-man-moop/"
     },
     {
@@ -15,79 +23,103 @@
       "hot": "3.0m",
       "desc": "bsuh.bearblog.dev",
       "source": "tech",
-      "tag": "⬆️ 104 points",
+      "tag": "⬆️ 181 points",
       "url": "https://bsuh.bearblog.dev/agents-need-control-flow/"
     },
     {
-      "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+      "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
       "hot": "3.0m",
+      "desc": "anthropic.com",
+      "source": "tech",
+      "tag": "⬆️ 90 points",
+      "url": "https://www.anthropic.com/research/natural-language-autoencoders"
+    },
+    {
+      "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+      "hot": "2.9m",
       "desc": "deepmind.google",
       "source": "tech",
-      "tag": "⬆️ 176 points",
+      "tag": "⬆️ 205 points",
       "url": "https://deepmind.google/blog/alphaevolve-impact/"
     },
     {
       "title": "DeepSeek 4 Flash local inference engine for Metal",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 131 points",
+      "tag": "⬆️ 182 points",
       "url": "https://github.com/antirez/ds4"
     },
     {
-      "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+      "title": "Colored Shadow Penumbra",
       "hot": "2.9m",
-      "desc": "anthropic.com",
+      "desc": "chosker.github.io",
       "source": "tech",
-      "tag": "⬆️ 29 points",
-      "url": "https://www.anthropic.com/research/natural-language-autoencoders"
-    },
-    {
-      "title": "Child marriages plunged when girls stayed in school in Nigeria",
-      "hot": "2.9m",
-      "desc": "nature.com",
-      "source": "tech",
-      "tag": "⬆️ 256 points",
-      "url": "https://www.nature.com/articles/d41586-026-00720-8"
-    },
-    {
-      "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
-      "hot": "2.9m",
-      "desc": "old.reddit.com",
-      "source": "tech",
-      "tag": "⬆️ 224 points",
-      "url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/"
-    },
-    {
-      "title": "PySimpleGUI 6",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 55 points",
-      "url": "https://github.com/PySimpleGUI/PySimpleGUI"
-    },
-    {
-      "title": "Principles for agent-native CLIs",
-      "hot": "2.9m",
-      "desc": "twitter.com",
-      "source": "tech",
-      "tag": "⬆️ 11 points",
-      "url": "https://twitter.com/trevin/status/2051316002730991795"
+      "tag": "⬆️ 17 points",
+      "url": "https://chosker.github.io/blog/colored-shadow-penumbra"
     },
     {
       "title": "I want to live like Costco people",
       "hot": "2.9m",
       "desc": "tastecooking.com",
       "source": "tech",
-      "tag": "⬆️ 70 points",
+      "tag": "⬆️ 121 points",
       "url": "https://tastecooking.com/i-want-to-live-like-costco-people/"
     },
     {
-      "title": "OpenBSD Stories: The closest thing to cute kittens (OpenBSD/zaurus)",
+      "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
       "hot": "2.9m",
+      "desc": "old.reddit.com",
+      "source": "tech",
+      "tag": "⬆️ 315 points",
+      "url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/"
+    },
+    {
+      "title": "Child marriages plunged when girls stayed in school in Nigeria",
+      "hot": "2.9m",
+      "desc": "nature.com",
+      "source": "tech",
+      "tag": "⬆️ 293 points",
+      "url": "https://www.nature.com/articles/d41586-026-00720-8"
+    },
+    {
+      "title": "PySimpleGUI 6",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 69 points",
+      "url": "https://github.com/PySimpleGUI/PySimpleGUI"
+    },
+    {
+      "title": "Building for the Future",
+      "hot": "2.8m",
+      "desc": "blog.cloudflare.com",
+      "source": "tech",
+      "tag": "⬆️ 26 points",
+      "url": "https://blog.cloudflare.com/building-for-the-future/"
+    },
+    {
+      "title": "Principles for agent-native CLIs",
+      "hot": "2.8m",
+      "desc": "twitter.com",
+      "source": "tech",
+      "tag": "⬆️ 29 points",
+      "url": "https://twitter.com/trevin/status/2051316002730991795"
+    },
+    {
+      "title": "The Self-Cancelling Subscription",
+      "hot": "2.8m",
+      "desc": "predr.ag",
+      "source": "tech",
+      "tag": "⬆️ 122 points",
+      "url": "https://predr.ag/blog/the-self-cancelling-subscription/"
+    },
+    {
+      "title": "OpenBSD Stories: The closest thing to cute kittens (OpenBSD/zaurus)",
+      "hot": "2.8m",
       "desc": "miod.online.fr",
       "source": "tech",
-      "tag": "⬆️ 35 points",
+      "tag": "⬆️ 50 points",
       "url": "http://miod.online.fr/software/openbsd/stories/zaurus1.html"
     },
     {
@@ -95,237 +127,59 @@
       "hot": "2.8m",
       "desc": "ratex.lites.dev",
       "source": "tech",
-      "tag": "⬆️ 125 points",
+      "tag": "⬆️ 139 points",
       "url": "https://ratex.lites.dev/"
-    },
-    {
-      "title": "The Self-Cancelling Subscription",
-      "hot": "2.8m",
-      "desc": "predr.ag",
-      "source": "tech",
-      "tag": "⬆️ 105 points",
-      "url": "https://predr.ag/blog/the-self-cancelling-subscription/"
-    },
-    {
-      "title": "Printing Blogs",
-      "hot": "2.8m",
-      "desc": "fi-le.net",
-      "source": "tech",
-      "tag": "⬆️ 18 points",
-      "url": "https://fi-le.net/print/"
-    },
-    {
-      "title": "MPEG-2 Transport Stream Packaging for Media over QUIC Transport",
-      "hot": "2.8m",
-      "desc": "ietf.org",
-      "source": "tech",
-      "tag": "⬆️ 39 points",
-      "url": "https://www.ietf.org/archive/id/draft-gregoire-moq-msfts-00.html"
-    },
-    {
-      "title": "SQLite Is a Library of Congress Recommended Storage Format",
-      "hot": "2.8m",
-      "desc": "sqlite.org",
-      "source": "tech",
-      "tag": "⬆️ 560 points",
-      "url": "https://sqlite.org/locrsf.html"
     },
     {
       "title": "Motherboard sales 'collapse' amid unprecedented shortages fueled by AI",
       "hot": "2.8m",
       "desc": "tomshardware.com",
       "source": "tech",
-      "tag": "⬆️ 153 points",
+      "tag": "⬆️ 191 points",
       "url": "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers"
     },
     {
-      "title": "Show HN: Stage CLI – an easier way of reading your AI generated changes locally",
+      "title": "MPEG-2 Transport Stream Packaging for Media over QUIC Transport",
       "hot": "2.7m",
-      "desc": "github.com",
+      "desc": "ietf.org",
       "source": "tech",
-      "tag": "⬆️ 13 points",
-      "url": "https://github.com/ReviewStage/stage-cli"
+      "tag": "⬆️ 48 points",
+      "url": "https://www.ietf.org/archive/id/draft-gregoire-moq-msfts-00.html"
     },
     {
-      "title": "How Cloudflare responded to the “Copy Fail” Linux vulnerability",
+      "title": "OurCar: What I learned making an app for my family",
       "hot": "2.7m",
-      "desc": "blog.cloudflare.com",
+      "desc": "mendelgreenberg.com",
       "source": "tech",
-      "tag": "⬆️ 61 points",
-      "url": "https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/"
+      "tag": "⬆️ 81 points",
+      "url": "https://mendelgreenberg.com/posts/ourcar/"
     },
     {
-      "title": "GovernGPT (YC W24) Is Hiring Engineers to Build Thinking Systems in Montreal",
+      "title": "The Deletion Test – The Phoenix Architecture",
       "hot": "2.7m",
-      "desc": "ycombinator.com",
+      "desc": "aicoding.leaflet.pub",
       "source": "tech",
-      "tag": "⬆️ 1 points",
-      "url": "https://www.ycombinator.com/companies/governgpt/jobs/hRyltS0-backend-engineer-thinking-systems"
-    }
-  ],
-  "dev": [
-    {
-      "title": "Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!",
-      "hot": "❤️ 131 💬 15",
-      "desc": "Local AI is having a moment, and we want you to be part of it!  Running through May 24, the Gemma 4...",
-      "source": "dev",
-      "tag": "devchallenge,  gemmachallenge",
-      "url": "https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in"
-    },
-    {
-      "title": "Congrats to the Google Cloud NEXT '26 Writing Challenge Winners!",
-      "hot": "❤️ 23 💬 3",
-      "desc": "The results are in! We are thrilled to announce the winners of the Google Cloud NEXT '26 Writing...",
-      "source": "dev",
-      "tag": "devchallenge,  cloudnextchallenge",
-      "url": "https://dev.to/devteam/congrats-to-the-google-cloud-next-26-writing-challenge-winners-5990"
-    },
-    {
-      "title": "I Didn’t Stop Building. I Just Left My Laptop.",
-      "hot": "❤️ 63 💬 16",
-      "desc": "Hey there again guys! It’s been almost two months since my last post. And in the back of my head,...",
-      "source": "dev",
-      "tag": "career,  learning",
-      "url": "https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da"
-    },
-    {
-      "title": "I Love Tailwind. Sorry Not Sorry",
-      "hot": "❤️ 137 💬 119",
-      "desc": "I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...",
-      "source": "dev",
-      "tag": "css,  tailwindcss",
-      "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh"
-    },
-    {
-      "title": "[GCP Practice][BwAI] AI-Powered Development: Quickly Deploy a LINE Bot Cloud Backup Tool with Gemini CLI",
-      "hot": "❤️ 16 💬 0",
-      "desc": "Background   In the upcoming Build With AI 2026 workshop, we're bringing a very practical...",
-      "source": "dev",
-      "tag": "ai,  gemini",
-      "url": "https://dev.to/gde/gcp-practicebwai-ai-powered-development-quickly-deploy-a-line-bot-cloud-backup-tool-with-4ghi"
-    },
-    {
-      "title": "How a Hackathon Will Teach a New Developer What a Year of Tutorials Can't",
-      "hot": "❤️ 9 💬 0",
-      "desc": "TL;DR- A hackathon compresses what would take months of solo learning into a single weekend....",
-      "source": "dev",
-      "tag": "career,  careerdevelopment",
-      "url": "https://dev.to/mlh/how-a-hackathon-will-teach-a-new-developer-what-a-year-of-tutorials-cant-4fn8"
-    },
-    {
-      "title": "Building ADK Agents with Phi Models on Azure Foundry",
-      "hot": "❤️ 21 💬 0",
-      "desc": "This article provides a step by step deployment guide for using Azure foundry models with ADK Agents....",
-      "source": "dev",
-      "tag": "microsoftphi4,  agents",
-      "url": "https://dev.to/gde/building-adk-agents-with-phi-models-on-azure-foundry-25a2"
-    },
-    {
-      "title": "AI vs Non-AI: Building the Same Project Twice",
-      "hot": "❤️ 34 💬 7",
-      "desc": "When I was implementing my weather station system, I asked myself: what if I built it again but this...",
-      "source": "dev",
-      "tag": "ai,  softwareengineering",
-      "url": "https://dev.to/nandofm/ai-vs-non-ai-building-the-same-project-twice-4073"
-    },
-    {
-      "title": "I built a 200 line AI router in TypeScript. My monthly bill dropped 41%.",
-      "hot": "❤️ 17 💬 2",
-      "desc": "I track my own AI spend across three projects. In March, the line item that grew fastest was not...",
-      "source": "dev",
-      "tag": "typescript,  ai",
-      "url": "https://dev.to/thegdsks/i-built-a-200-line-ai-router-in-typescript-my-monthly-bill-dropped-41-23ok"
-    },
-    {
-      "title": "MCP Development with Amazon Lambda Managed Instances",
-      "hot": "❤️ 21 💬 0",
-      "desc": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
-      "source": "dev",
-      "tag": "agenticai,  mcps",
-      "url": "https://dev.to/gde/mcp-development-with-amazon-lambda-managed-instances-24cj"
-    },
-    {
-      "title": "A much faster mgsub",
-      "hot": "❤️ 29 💬 0",
-      "desc": "Celebrating a new release of the 1154th most download R package!",
-      "source": "dev",
-      "tag": "opensource,  performance",
-      "url": "https://dev.to/pofigster/a-much-faster-mgsub-46f"
-    },
-    {
-      "title": "Amazon Bedrock AgentCore Harness runs your agent. ShapeV2 controls what it's allowed to do",
-      "hot": "❤️ 31 💬 0",
-      "desc": "Amazon Web Services (AWS) just shipped Amazon Bedrock AgentCore harness harness in public preview. It...",
-      "source": "dev",
-      "tag": "ai,  aws",
-      "url": "https://dev.to/aws-builders/agentcore-harness-runs-your-agent-shapev2-controls-what-its-allowed-to-do-32ab"
-    },
-    {
-      "title": "Building a Cross Language MCP Server with Rust, Python ADK, and Gemini CLI",
-      "hot": "❤️ 5 💬 0",
-      "desc": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build ADK Agent...",
-      "source": "dev",
-      "tag": "rust,  mcpserver",
-      "url": "https://dev.to/gde/building-a-cross-language-mcp-server-with-rust-python-adk-and-gemini-cli-g5h"
-    },
-    {
-      "title": "Build a Streaming Gemini Chat in Angular with Signals — Then Ship It on Cloud Run",
-      "hot": "❤️ 33 💬 1",
-      "desc": "If you have built a chat UI for a large language model in the last two years, you probably reached...",
-      "source": "dev",
-      "tag": "angular,  gemini",
-      "url": "https://dev.to/gdg/build-a-streaming-gemini-chat-in-angular-with-signals-then-ship-it-on-cloud-run-1llc"
-    },
-    {
-      "title": "Build Your Own AI Butler - A Scheduled Agent That Runs Itself!",
-      "hot": "❤️ 40 💬 6",
-      "desc": "I want an AI agent that works for me. I want it to search up the latest news, and I want it to...",
-      "source": "dev",
-      "tag": "aws,  ai",
-      "url": "https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk"
-    },
-    {
-      "title": "Stop Shipping Vulnerabilities by Default: An Intro to Docker Hardened Images",
-      "hot": "❤️ 32 💬 0",
-      "desc": "Docker Hardened Images are changing how teams think about container security — not as an...",
-      "source": "dev",
-      "tag": "devops,  docker",
-      "url": "https://dev.to/gelopfalcon/stop-shipping-vulnerabilities-by-default-an-intro-to-docker-hardened-images-d0c"
-    },
-    {
-      "title": "OpenAI and Anthropic are Friendster and MySpace, if Subquadratic proves to be true.",
-      "hot": "❤️ 26 💬 0",
-      "desc": "If you've ever shipped an LLM-powered feature that needed to reason over a real codebase, a real...",
-      "source": "dev",
-      "tag": "ai,  discuss",
-      "url": "https://dev.to/jon_at_backboardio/openai-and-anthropic-are-friendster-and-myspace-if-subquadratic-proves-to-be-true-nb6"
-    },
-    {
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 36 💬 6",
-      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
-      "source": "dev",
-      "tag": "top7,  discuss",
-      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1136"
-    },
-    {
-      "title": "Getting Started with the Cluster Inventory API on OCM (Part 1: ClusterProfile)",
-      "hot": "❤️ 0 💬 0",
-      "desc": "This is Part 1 of a two-part series. Part 2 (coming soon): Connecting to spoke clusters from a...",
-      "source": "dev",
-      "tag": "kubernetes,  ocm",
-      "url": "https://dev.to/kahirokunn/build-an-open-cluster-management-hub-spoke-environment-and-enable-cluster-inventory-api-kk6"
-    },
-    {
-      "title": "Landscape of ODE Solvers in R: A Practical Overview",
-      "hot": "❤️ 0 💬 0",
-      "desc": "An overview of ODE solvers in R, highlighting their capabilities, performance, and practical considerations.",
-      "source": "dev",
-      "tag": "rstats,  modeling",
-      "url": "https://dev.to/metelkin/landscape-of-ode-solvers-in-r-a-practical-overview-4cc7"
+      "tag": "⬆️ 4 points",
+      "url": "https://aicoding.leaflet.pub/3md5ftetaes2e"
     }
   ],
   "space": [
+    {
+      "title": "NASA Sends Mars Helicopter Blades Beyond Mach 1",
+      "hot": "5/7",
+      "desc": "Description Engineer Fernando Mier-Hicks inspects a test stand used to investigate the performance of next-generation Mars helicopter rotor blades at ",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/photojournal/nasa-sends-mars-helicopter-blades-beyond-mach-1/"
+    },
+    {
+      "title": "NASA’s Next-Gen Mars Helicopter Rotors Are Moving Fast",
+      "hot": "5/7",
+      "desc": "Description Engineer Jaakko Karras inspects a next-generation Mars helicopter rotor blade prior to supersonic speed testing in the 25-Foot Space Simul",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/photojournal/nasas-next-gen-mars-helicopter-rotors-are-moving-fast/"
+    },
     {
       "title": "NASA Pushes Next-Gen Mars Helicopter Rotor Blades Past Mach 1",
       "hot": "5/7",
@@ -429,22 +283,168 @@
       "source": "space",
       "tag": "NASA",
       "url": "https://www.nasa.gov/general/ames-science-stars-of-the-month-may-2026/"
+    }
+  ],
+  "dev": [
+    {
+      "title": "Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!",
+      "hot": "❤️ 147 💬 17",
+      "desc": "Local AI is having a moment, and we want you to be part of it!  Running through May 24, the Gemma 4...",
+      "source": "dev",
+      "tag": "devchallenge,  gemmachallenge",
+      "url": "https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in"
     },
     {
-      "title": "NASA’s Dryden Aeronautical Test Range Supports Flight, Space Missions",
-      "hot": "5/6",
-      "desc": "NASA advances aeronautics and space technologies through experimental aircraft and flight research at the agency’s Armstrong Flight Research Center in",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasas-dryden-aeronautical-test-range-supports-flight-space-missions/"
+      "title": "Congrats to the Google Cloud NEXT '26 Writing Challenge Winners!",
+      "hot": "❤️ 28 💬 8",
+      "desc": "The results are in! We are thrilled to announce the winners of the Google Cloud NEXT '26 Writing...",
+      "source": "dev",
+      "tag": "devchallenge,  cloudnextchallenge",
+      "url": "https://dev.to/devteam/congrats-to-the-google-cloud-next-26-writing-challenge-winners-5990"
     },
     {
-      "title": "test article",
-      "hot": "5/6",
-      "desc": "this is a test page",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/missions/pandora-missions/test-article-2/"
+      "title": "I Didn’t Stop Building. I Just Left My Laptop.",
+      "hot": "❤️ 64 💬 16",
+      "desc": "Hey there again guys! It’s been almost two months since my last post. And in the back of my head,...",
+      "source": "dev",
+      "tag": "career,  learning",
+      "url": "https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da"
+    },
+    {
+      "title": "I Love Tailwind. Sorry Not Sorry",
+      "hot": "❤️ 139 💬 119",
+      "desc": "I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...",
+      "source": "dev",
+      "tag": "css,  tailwindcss",
+      "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh"
+    },
+    {
+      "title": "I Replaced My $500 GPU with a $75 Raspberry Pi: How Gemma 4 Makes Computer Vision 10x Cheaper",
+      "hot": "❤️ 9 💬 0",
+      "desc": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4           I Replaced My $500 GPU...",
+      "source": "dev",
+      "tag": "gemma,  gemmachallenge",
+      "url": "https://dev.to/tahosin/i-replaced-my-500-gpu-with-a-75-raspberry-pi-how-gemma-4-makes-computer-vision-10x-cheaper-1gbo"
+    },
+    {
+      "title": "[GCP Practice][BwAI] AI-Powered Development: Quickly Deploy a LINE Bot Cloud Backup Tool with Gemini CLI",
+      "hot": "❤️ 16 💬 0",
+      "desc": "Background   In the upcoming Build With AI 2026 workshop, we're bringing a very practical...",
+      "source": "dev",
+      "tag": "ai,  gemini",
+      "url": "https://dev.to/gde/gcp-practicebwai-ai-powered-development-quickly-deploy-a-line-bot-cloud-backup-tool-with-4ghi"
+    },
+    {
+      "title": "How a Hackathon Will Teach a New Developer What a Year of Tutorials Can't",
+      "hot": "❤️ 9 💬 0",
+      "desc": "TL;DR- A hackathon compresses what would take months of solo learning into a single weekend....",
+      "source": "dev",
+      "tag": "career,  careerdevelopment",
+      "url": "https://dev.to/mlh/how-a-hackathon-will-teach-a-new-developer-what-a-year-of-tutorials-cant-4fn8"
+    },
+    {
+      "title": "How to Authorize AI Agents Using Token Exchange Open Standards",
+      "hot": "❤️ 5 💬 0",
+      "desc": "Your agents have too much access   You have a coding agent. It needs to call an API, so you...",
+      "source": "dev",
+      "tag": "agents,  ai",
+      "url": "https://dev.to/kimmaida/how-to-authorize-ai-agents-using-token-exchange-open-standards-288d"
+    },
+    {
+      "title": "Building ADK Agents with Phi Models on Azure Foundry",
+      "hot": "❤️ 21 💬 0",
+      "desc": "This article provides a step by step deployment guide for using Azure foundry models with ADK Agents....",
+      "source": "dev",
+      "tag": "microsoftphi4,  agents",
+      "url": "https://dev.to/gde/building-adk-agents-with-phi-models-on-azure-foundry-25a2"
+    },
+    {
+      "title": "I built a 200 line AI router in TypeScript. My monthly bill dropped 41%.",
+      "hot": "❤️ 18 💬 2",
+      "desc": "I track my own AI spend across three projects. In March, the line item that grew fastest was not...",
+      "source": "dev",
+      "tag": "typescript,  ai",
+      "url": "https://dev.to/thegdsks/i-built-a-200-line-ai-router-in-typescript-my-monthly-bill-dropped-41-23ok"
+    },
+    {
+      "title": "MCP Development with Amazon Lambda Managed Instances",
+      "hot": "❤️ 22 💬 0",
+      "desc": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
+      "source": "dev",
+      "tag": "agenticai,  mcps",
+      "url": "https://dev.to/gde/mcp-development-with-amazon-lambda-managed-instances-24cj"
+    },
+    {
+      "title": "A much faster mgsub",
+      "hot": "❤️ 29 💬 0",
+      "desc": "Celebrating a new release of the 1154th most download R package!",
+      "source": "dev",
+      "tag": "opensource,  performance",
+      "url": "https://dev.to/pofigster/a-much-faster-mgsub-46f"
+    },
+    {
+      "title": "Amazon Bedrock AgentCore Harness runs your agent. ShapeV2 controls what it's allowed to do",
+      "hot": "❤️ 31 💬 0",
+      "desc": "Amazon Web Services (AWS) just shipped Amazon Bedrock AgentCore harness harness in public preview. It...",
+      "source": "dev",
+      "tag": "ai,  aws",
+      "url": "https://dev.to/aws-builders/agentcore-harness-runs-your-agent-shapev2-controls-what-its-allowed-to-do-32ab"
+    },
+    {
+      "title": "Building a Cross Language MCP Server with Rust, Python ADK, and Gemini CLI",
+      "hot": "❤️ 5 💬 0",
+      "desc": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build ADK Agent...",
+      "source": "dev",
+      "tag": "rust,  mcpserver",
+      "url": "https://dev.to/gde/building-a-cross-language-mcp-server-with-rust-python-adk-and-gemini-cli-g5h"
+    },
+    {
+      "title": "Build a Streaming Gemini Chat in Angular with Signals — Then Ship It on Cloud Run",
+      "hot": "❤️ 33 💬 1",
+      "desc": "If you have built a chat UI for a large language model in the last two years, you probably reached...",
+      "source": "dev",
+      "tag": "angular,  gemini",
+      "url": "https://dev.to/gdg/build-a-streaming-gemini-chat-in-angular-with-signals-then-ship-it-on-cloud-run-1llc"
+    },
+    {
+      "title": "Build Your Own AI Butler - A Scheduled Agent That Runs Itself!",
+      "hot": "❤️ 41 💬 7",
+      "desc": "I want an AI agent that works for me. I want it to search up the latest news, and I want it to...",
+      "source": "dev",
+      "tag": "aws,  ai",
+      "url": "https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk"
+    },
+    {
+      "title": "Stop Shipping Vulnerabilities by Default: An Intro to Docker Hardened Images",
+      "hot": "❤️ 32 💬 0",
+      "desc": "Docker Hardened Images are changing how teams think about container security — not as an...",
+      "source": "dev",
+      "tag": "devops,  docker",
+      "url": "https://dev.to/gelopfalcon/stop-shipping-vulnerabilities-by-default-an-intro-to-docker-hardened-images-d0c"
+    },
+    {
+      "title": "OpenAI and Anthropic are Friendster and MySpace, if Subquadratic proves to be true.",
+      "hot": "❤️ 26 💬 0",
+      "desc": "If you've ever shipped an LLM-powered feature that needed to reason over a real codebase, a real...",
+      "source": "dev",
+      "tag": "ai,  discuss",
+      "url": "https://dev.to/jon_at_backboardio/openai-and-anthropic-are-friendster-and-myspace-if-subquadratic-proves-to-be-true-nb6"
+    },
+    {
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "hot": "❤️ 36 💬 6",
+      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+      "source": "dev",
+      "tag": "top7,  discuss",
+      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1136"
+    },
+    {
+      "title": "I Programmed an AI in 6502 Assembly - It Worked",
+      "hot": "❤️ 48 💬 3",
+      "desc": "In 1975 the 6502 processed 8-bit values through memory and control flow. A Claude Code skill now uses...",
+      "source": "dev",
+      "tag": "ai,  webdev",
+      "url": "https://dev.to/newellpaul/i-programmed-an-ai-in-6502-assembly-it-worked-gpi"
     }
   ],
   "github": [
@@ -498,7 +498,7 @@
     },
     {
       "title": "XBuilderLAB/cheat-on-content: Content is already a cheat-code race—whoever crack",
-      "hot": "⭐ 987",
+      "hot": "⭐ 991",
       "desc": "Content is already a cheat-code race—whoever cracks the patterns first wins the traffic. Your auto-evolving ops expert that learns YOUR account, not t",
       "source": "github",
       "tag": "Python",
@@ -506,7 +506,7 @@
     },
     {
       "title": "crafter-station/petdex: Public gallery of animated Codex pets",
-      "hot": "⭐ 946",
+      "hot": "⭐ 947",
       "desc": "Public gallery of animated Codex pets",
       "source": "github",
       "tag": "TypeScript",
@@ -514,7 +514,7 @@
     },
     {
       "title": "jherrodthomas/automotive-skills-suite: 100+ installable Claude skills covering E",
-      "hot": "⭐ 893",
+      "hot": "⭐ 904",
       "desc": "100+ installable Claude skills covering Engineering areas such as, ISO 26262 functional safety, ISO/SAE 21434 cybersecurity, ISO 21448 SOTIF, AIAG-VDA",
       "source": "github",
       "tag": "GitHub",
@@ -522,7 +522,7 @@
     },
     {
       "title": "strukto-ai/mirage: A Unified Virtual Filesystem For AI Agents",
-      "hot": "⭐ 863",
+      "hot": "⭐ 894",
       "desc": "A Unified Virtual Filesystem For AI Agents",
       "source": "github",
       "tag": "TypeScript",
@@ -530,7 +530,7 @@
     },
     {
       "title": "vibeforge1111/keep-codex-fast: A backup-first Codex skill for keeping local Code",
-      "hot": "⭐ 859",
+      "hot": "⭐ 862",
       "desc": "A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.",
       "source": "github",
       "tag": "Python",
@@ -538,7 +538,7 @@
     },
     {
       "title": "tddworks/baguette: Headless iOS Simulator manager/farm + host-side input injecti",
-      "hot": "⭐ 730",
+      "hot": "⭐ 732",
       "desc": "Headless iOS Simulator manager/farm + host-side input injection for iOS 26 — taps, swipes, multi-finger gestures, and 60 fps streaming",
       "source": "github",
       "tag": "Swift",
@@ -546,7 +546,7 @@
     },
     {
       "title": "Kappaemme-git/codex-startup-pressure-test-skill: ",
-      "hot": "⭐ 693",
+      "hot": "⭐ 696",
       "desc": "Kappaemme-git/codex-startup-pressure-test-skill",
       "source": "github",
       "tag": "JavaScript",
@@ -554,7 +554,7 @@
     },
     {
       "title": "raiyanyahya/how-to-train-your-gpt: Build a modern LLM from scratch. Every line c",
-      "hot": "⭐ 655",
+      "hot": "⭐ 662",
       "desc": "Build a modern LLM from scratch. Every line commented. Explained like we are five.",
       "source": "github",
       "tag": "Jupyter Notebook",
@@ -562,7 +562,7 @@
     },
     {
       "title": "lightseekorg/tokenspeed: TokenSpeed is a speed-of-light LLM inference engine.",
-      "hot": "⭐ 606",
+      "hot": "⭐ 614",
       "desc": "TokenSpeed is a speed-of-light LLM inference engine.",
       "source": "github",
       "tag": "Python",
