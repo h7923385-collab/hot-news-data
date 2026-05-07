@@ -2,11 +2,19 @@
   "data": [
     {
       "title": "Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!",
-      "hot": "❤️ 106 💬 15",
+      "hot": "❤️ 131 💬 15",
       "desc": "Local AI is having a moment, and we want you to be part of it!  Running through May 24, the Gemma 4...",
       "source": "dev",
       "tag": "devchallenge,  gemmachallenge",
       "url": "https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in"
+    },
+    {
+      "title": "Congrats to the Google Cloud NEXT '26 Writing Challenge Winners!",
+      "hot": "❤️ 23 💬 3",
+      "desc": "The results are in! We are thrilled to announce the winners of the Google Cloud NEXT '26 Writing...",
+      "source": "dev",
+      "tag": "devchallenge,  cloudnextchallenge",
+      "url": "https://dev.to/devteam/congrats-to-the-google-cloud-next-26-writing-challenge-winners-5990"
     },
     {
       "title": "I Didn’t Stop Building. I Just Left My Laptop.",
@@ -17,28 +25,12 @@
       "url": "https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da"
     },
     {
-      "title": "Build Your Own AI Butler - A Scheduled Agent That Runs Itself!",
-      "hot": "❤️ 40 💬 4",
-      "desc": "I want an AI agent that works for me. I want it to search up the latest news, and I want it to...",
-      "source": "dev",
-      "tag": "aws,  ai",
-      "url": "https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk"
-    },
-    {
       "title": "I Love Tailwind. Sorry Not Sorry",
-      "hot": "❤️ 136 💬 118",
+      "hot": "❤️ 137 💬 119",
       "desc": "I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...",
       "source": "dev",
       "tag": "css,  tailwindcss",
       "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh"
-    },
-    {
-      "title": "I built a 200 line AI router in TypeScript. My monthly bill dropped 41%.",
-      "hot": "❤️ 16 💬 2",
-      "desc": "I track my own AI spend across three projects. In March, the line item that grew fastest was not...",
-      "source": "dev",
-      "tag": "typescript,  ai",
-      "url": "https://dev.to/thegdsks/i-built-a-200-line-ai-router-in-typescript-my-monthly-bill-dropped-41-23ok"
     },
     {
       "title": "[GCP Practice][BwAI] AI-Powered Development: Quickly Deploy a LINE Bot Cloud Backup Tool with Gemini CLI",
@@ -49,6 +41,14 @@
       "url": "https://dev.to/gde/gcp-practicebwai-ai-powered-development-quickly-deploy-a-line-bot-cloud-backup-tool-with-4ghi"
     },
     {
+      "title": "How a Hackathon Will Teach a New Developer What a Year of Tutorials Can't",
+      "hot": "❤️ 9 💬 0",
+      "desc": "TL;DR- A hackathon compresses what would take months of solo learning into a single weekend....",
+      "source": "dev",
+      "tag": "career,  careerdevelopment",
+      "url": "https://dev.to/mlh/how-a-hackathon-will-teach-a-new-developer-what-a-year-of-tutorials-cant-4fn8"
+    },
+    {
       "title": "Building ADK Agents with Phi Models on Azure Foundry",
       "hot": "❤️ 21 💬 0",
       "desc": "This article provides a step by step deployment guide for using Azure foundry models with ADK Agents....",
@@ -57,20 +57,20 @@
       "url": "https://dev.to/gde/building-adk-agents-with-phi-models-on-azure-foundry-25a2"
     },
     {
-      "title": "How a Hackathon Will Teach a New Developer What a Year of Tutorials Can't",
-      "hot": "❤️ 5 💬 0",
-      "desc": "TL;DR- A hackathon compresses what would take months of solo learning into a single weekend....",
-      "source": "dev",
-      "tag": "career,  careerdevelopment",
-      "url": "https://dev.to/mlh/how-a-hackathon-will-teach-a-new-developer-what-a-year-of-tutorials-cant-4fn8"
-    },
-    {
       "title": "AI vs Non-AI: Building the Same Project Twice",
-      "hot": "❤️ 34 💬 6",
+      "hot": "❤️ 34 💬 7",
       "desc": "When I was implementing my weather station system, I asked myself: what if I built it again but this...",
       "source": "dev",
       "tag": "ai,  softwareengineering",
       "url": "https://dev.to/nandofm/ai-vs-non-ai-building-the-same-project-twice-4073"
+    },
+    {
+      "title": "I built a 200 line AI router in TypeScript. My monthly bill dropped 41%.",
+      "hot": "❤️ 17 💬 2",
+      "desc": "I track my own AI spend across three projects. In March, the line item that grew fastest was not...",
+      "source": "dev",
+      "tag": "typescript,  ai",
+      "url": "https://dev.to/thegdsks/i-built-a-200-line-ai-router-in-typescript-my-monthly-bill-dropped-41-23ok"
     },
     {
       "title": "MCP Development with Amazon Lambda Managed Instances",
@@ -113,6 +113,14 @@
       "url": "https://dev.to/gdg/build-a-streaming-gemini-chat-in-angular-with-signals-then-ship-it-on-cloud-run-1llc"
     },
     {
+      "title": "Build Your Own AI Butler - A Scheduled Agent That Runs Itself!",
+      "hot": "❤️ 40 💬 6",
+      "desc": "I want an AI agent that works for me. I want it to search up the latest news, and I want it to...",
+      "source": "dev",
+      "tag": "aws,  ai",
+      "url": "https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk"
+    },
+    {
       "title": "Stop Shipping Vulnerabilities by Default: An Intro to Docker Hardened Images",
       "hot": "❤️ 32 💬 0",
       "desc": "Docker Hardened Images are changing how teams think about container security — not as an...",
@@ -137,14 +145,6 @@
       "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1136"
     },
     {
-      "title": "What Even Is AI? (I Took a Break & Had to Relearn Everything)",
-      "hot": "❤️ 52 💬 7",
-      "desc": "I just came back from maternity leave. And honestly? I felt like I'd missed a decade in six months. I...",
-      "source": "dev",
-      "tag": "ai,  beginners",
-      "url": "https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj"
-    },
-    {
       "title": "Getting Started with the Cluster Inventory API on OCM (Part 1: ClusterProfile)",
       "hot": "❤️ 0 💬 0",
       "desc": "This is Part 1 of a two-part series. Part 2 (coming soon): Connecting to spoke clusters from a...",
@@ -161,5 +161,5 @@
       "url": "https://dev.to/metelkin/landscape-of-ode-solvers-in-r-a-practical-overview-4cc7"
     }
   ],
-  "updatedAt": "2026-05-07T17:12:18.036Z"
+  "updatedAt": "2026-05-07T19:09:36.253Z"
 }
