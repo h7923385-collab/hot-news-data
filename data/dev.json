@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "Congrats to the OpenClaw Challenge Winners!",
-      "hot": "❤️ 64 💬 18",
+      "hot": "❤️ 64 💬 20",
       "desc": "The results are in! We are thrilled to announce the winners of the OpenClaw Challenge.  Over the past...",
       "source": "dev",
       "tag": "devchallenge,  openclawchallenge",
@@ -10,7 +10,7 @@
     },
     {
       "title": "Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!",
-      "hot": "❤️ 259 💬 35",
+      "hot": "❤️ 264 💬 37",
       "desc": "Local AI is having a moment, and we want you to be part of it!  Running through May 24, the Gemma 4...",
       "source": "dev",
       "tag": "devchallenge,  gemmachallenge",
@@ -18,7 +18,7 @@
     },
     {
       "title": "I Didn’t Stop Building. I Just Left My Laptop.",
-      "hot": "❤️ 85 💬 31",
+      "hot": "❤️ 85 💬 32",
       "desc": "Hey there again guys! It’s been almost two months since my last post. And in the back of my head,...",
       "source": "dev",
       "tag": "career,  learning",
@@ -26,7 +26,7 @@
     },
     {
       "title": "What was your win this week??",
-      "hot": "❤️ 20 💬 8",
+      "hot": "❤️ 23 💬 14",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "discuss,  weeklyretro",
@@ -34,7 +34,7 @@
     },
     {
       "title": "The Local Model That Doesn't Sleep: Gemma 4 + MTP as a Marathon Engine",
-      "hot": "❤️ 8 💬 3",
+      "hot": "❤️ 9 💬 3",
       "desc": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4  I set the agent running just...",
       "source": "dev",
       "tag": "ai,  gemma",
@@ -42,7 +42,7 @@
     },
     {
       "title": "I Replaced My $500 GPU with a $75 Raspberry Pi: How Gemma 4 Makes Computer Vision 10x Cheaper",
-      "hot": "❤️ 39 💬 6",
+      "hot": "❤️ 40 💬 6",
       "desc": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4           I Replaced My $500 GPU...",
       "source": "dev",
       "tag": "computervision,  devchallenge",
@@ -113,28 +113,12 @@
       "url": "https://dev.to/googleai/building-capabilities-for-a-multi-agent-system-with-google-adk-mcp-and-cloud-run-ab9"
     },
     {
-      "title": "How to Authorize AI Agents Using Token Exchange Open Standards",
-      "hot": "❤️ 7 💬 6",
-      "desc": "Your agents have too much access   You have a coding agent. It needs to call an API, so you...",
-      "source": "dev",
-      "tag": "agents,  ai",
-      "url": "https://dev.to/kimmaida/how-to-authorize-ai-agents-using-token-exchange-open-standards-288d"
-    },
-    {
       "title": "Deploying a Multi-Agent System with Terraform and Cloud Run",
-      "hot": "❤️ 7 💬 0",
+      "hot": "❤️ 9 💬 0",
       "desc": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal: a...",
       "source": "dev",
       "tag": "googlecloud,  terraform",
       "url": "https://dev.to/googleai/deploying-a-multi-agent-system-with-terraform-and-cloud-run-2a9c"
-    },
-    {
-      "title": "Building a Cross Language MCP Server with Rust, Python ADK, and Gemini CLI",
-      "hot": "❤️ 5 💬 0",
-      "desc": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build ADK Agent...",
-      "source": "dev",
-      "tag": "rust,  mcpserver",
-      "url": "https://dev.to/gde/building-a-cross-language-mcp-server-with-rust-python-adk-and-gemini-cli-g5h"
     },
     {
       "title": "Build Your Own AI Butler - A Scheduled Agent That Runs Itself!",
@@ -145,21 +129,37 @@
       "url": "https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk"
     },
     {
-      "title": "CSS - The single coolest API technique you can imagine.",
-      "hot": "❤️ 8 💬 0",
-      "desc": "To simply call Kizu's Cyclic Space Toggles an upgrade to my Space Toggle technique is like calling...",
-      "source": "dev",
-      "tag": "css,  api",
-      "url": "https://dev.to/janeori/css-the-single-coolest-api-technique-you-can-imagine-4ma8"
-    },
-    {
       "title": "Congrats to the Google Cloud NEXT '26 Writing Challenge Winners!",
-      "hot": "❤️ 44 💬 15",
+      "hot": "❤️ 48 💬 15",
       "desc": "The results are in! We are thrilled to announce the winners of the Google Cloud NEXT '26 Writing...",
       "source": "dev",
       "tag": "devchallenge,  cloudnextchallenge",
       "url": "https://dev.to/devteam/congrats-to-the-google-cloud-next-26-writing-challenge-winners-5990"
+    },
+    {
+      "title": "Gemma-4-26B on v6e-4 TPU Benchmarks",
+      "hot": "❤️ 6 💬 1",
+      "desc": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4  model:...",
+      "source": "dev",
+      "tag": "devchallenge,  gemmachallenge",
+      "url": "https://dev.to/gde/gemma-4-26b-on-v6e-4-tpu-benchmarks-3cah"
+    },
+    {
+      "title": "Local Testing of a Multi-Agent System with Memory",
+      "hot": "❤️ 18 💬 1",
+      "desc": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal: a...",
+      "source": "dev",
+      "tag": "ai,  googlecloud",
+      "url": "https://dev.to/googleai/local-testing-of-a-multi-agent-system-with-memory-37mm"
+    },
+    {
+      "title": "Architect A Personalized Multi-Agent System with Long-Term Memory",
+      "hot": "❤️ 19 💬 1",
+      "desc": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal —...",
+      "source": "dev",
+      "tag": "ai,  googlecloud",
+      "url": "https://dev.to/googleai/architect-a-personalized-multi-agent-system-with-long-term-memory-3o15"
     }
   ],
-  "updatedAt": "2026-05-08T17:05:27.804Z"
+  "updatedAt": "2026-05-08T18:49:09.793Z"
 }
