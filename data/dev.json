@@ -1,8 +1,16 @@
 {
   "data": [
     {
+      "title": "Congrats to the OpenClaw Challenge Winners!",
+      "hot": "❤️ 64 💬 17",
+      "desc": "The results are in! We are thrilled to announce the winners of the OpenClaw Challenge.  Over the past...",
+      "source": "dev",
+      "tag": "devchallenge,  openclawchallenge",
+      "url": "https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha"
+    },
+    {
       "title": "Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!",
-      "hot": "❤️ 252 💬 33",
+      "hot": "❤️ 256 💬 35",
       "desc": "Local AI is having a moment, and we want you to be part of it!  Running through May 24, the Gemma 4...",
       "source": "dev",
       "tag": "devchallenge,  gemmachallenge",
@@ -17,20 +25,36 @@
       "url": "https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da"
     },
     {
-      "title": "Congrats to the OpenClaw Challenge Winners!",
-      "hot": "❤️ 64 💬 17",
-      "desc": "The results are in! We are thrilled to announce the winners of the OpenClaw Challenge.  Over the past...",
+      "title": "What was your win this week??",
+      "hot": "❤️ 11 💬 4",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
-      "tag": "devchallenge,  openclawchallenge",
-      "url": "https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha"
+      "tag": "discuss,  weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-96l"
+    },
+    {
+      "title": "The Local Model That Doesn't Sleep: Gemma 4 + MTP as a Marathon Engine",
+      "hot": "❤️ 8 💬 3",
+      "desc": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4  I set the agent running just...",
+      "source": "dev",
+      "tag": "ai,  gemma",
+      "url": "https://dev.to/ertugrul_demir/the-local-model-that-doesnt-sleep-gemma-4-mtp-as-a-marathon-engine-4c9"
     },
     {
       "title": "I Replaced My $500 GPU with a $75 Raspberry Pi: How Gemma 4 Makes Computer Vision 10x Cheaper",
-      "hot": "❤️ 30 💬 6",
+      "hot": "❤️ 39 💬 6",
       "desc": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4           I Replaced My $500 GPU...",
       "source": "dev",
       "tag": "computervision,  devchallenge",
       "url": "https://dev.to/tahosin/i-replaced-my-500-gpu-with-a-75-raspberry-pi-how-gemma-4-makes-computer-vision-10x-cheaper-1gbo"
+    },
+    {
+      "title": "I built a Ruby gem so I don't have to squint at hash dumps anymore",
+      "hot": "❤️ 4 💬 0",
+      "desc": "Stop squinting at hash dumps. typed_print turns Ruby hashes into clean, aligned tables. Zero dependencies. Markdown supp",
+      "source": "dev",
+      "tag": "ruby,  cli",
+      "url": "https://dev.to/eayurt/i-built-a-ruby-gem-so-i-dont-have-to-squint-at-hash-dumps-anymore-2hha"
     },
     {
       "title": "Building ADK Agents with Phi Models on Azure Foundry",
@@ -39,6 +63,14 @@
       "source": "dev",
       "tag": "microsoftphi4,  agents",
       "url": "https://dev.to/gde/building-adk-agents-with-phi-models-on-azure-foundry-25a2"
+    },
+    {
+      "title": "Building ADK Agents with Azure Cloud Shell",
+      "hot": "❤️ 5 💬 0",
+      "desc": "This article covers installing and Running Gemini CLI cross-cloud. The Azure Cloud Shell provides a...",
+      "source": "dev",
+      "tag": "phimodel,  azurefoundry",
+      "url": "https://dev.to/gde/building-adk-agents-with-azure-cloud-shell-3bd1"
     },
     {
       "title": "How a Hackathon Will Teach a New Developer What a Year of Tutorials Can't",
@@ -57,12 +89,12 @@
       "url": "https://dev.to/gde/mcp-development-with-amazon-lambda-managed-instances-24cj"
     },
     {
-      "title": "Architect A Personalized Multi-Agent System with Long-Term Memory",
-      "hot": "❤️ 19 💬 1",
-      "desc": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal —...",
+      "title": "[Google Cloud Next '26 Recap #5] How I Prepared for the Trip — and How It Actually Played Out",
+      "hot": "❤️ 5 💬 0",
+      "desc": "This is the fifth and final post in my Google Cloud Next '26 (Las Vegas) recap series.  You can find...",
       "source": "dev",
-      "tag": "ai,  googlecloud",
-      "url": "https://dev.to/googleai/architect-a-personalized-multi-agent-system-with-long-term-memory-3o15"
+      "tag": "googlecloud,  googlecloudnext",
+      "url": "https://dev.to/gde/google-cloud-next-26-recap-5-how-i-prepared-for-the-trip-and-how-it-actually-played-out-19ao"
     },
     {
       "title": "A much faster mgsub",
@@ -105,6 +137,14 @@
       "url": "https://dev.to/gde/building-a-cross-language-mcp-server-with-rust-python-adk-and-gemini-cli-g5h"
     },
     {
+      "title": "Build Your Own AI Butler - A Scheduled Agent That Runs Itself!",
+      "hot": "❤️ 54 💬 8",
+      "desc": "I want an AI agent that works for me. I want it to search up the latest news, and I want it to...",
+      "source": "dev",
+      "tag": "aws,  ai",
+      "url": "https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk"
+    },
+    {
       "title": "CSS - The single coolest API technique you can imagine.",
       "hot": "❤️ 8 💬 0",
       "desc": "To simply call Kizu's Cyclic Space Toggles an upgrade to my Space Toggle technique is like calling...",
@@ -113,53 +153,13 @@
       "url": "https://dev.to/janeori/css-the-single-coolest-api-technique-you-can-imagine-4ma8"
     },
     {
-      "title": "Build Your Own AI Butler - A Scheduled Agent That Runs Itself!",
-      "hot": "❤️ 49 💬 8",
-      "desc": "I want an AI agent that works for me. I want it to search up the latest news, and I want it to...",
-      "source": "dev",
-      "tag": "aws,  ai",
-      "url": "https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk"
-    },
-    {
       "title": "Congrats to the Google Cloud NEXT '26 Writing Challenge Winners!",
-      "hot": "❤️ 39 💬 14",
+      "hot": "❤️ 43 💬 15",
       "desc": "The results are in! We are thrilled to announce the winners of the Google Cloud NEXT '26 Writing...",
       "source": "dev",
       "tag": "devchallenge,  cloudnextchallenge",
       "url": "https://dev.to/devteam/congrats-to-the-google-cloud-next-26-writing-challenge-winners-5990"
-    },
-    {
-      "title": "Local Testing of a Multi-Agent System with Memory",
-      "hot": "❤️ 18 💬 1",
-      "desc": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal: a...",
-      "source": "dev",
-      "tag": "ai,  googlecloud",
-      "url": "https://dev.to/googleai/local-testing-of-a-multi-agent-system-with-memory-37mm"
-    },
-    {
-      "title": "Stop Shipping Vulnerabilities by Default: An Intro to Docker Hardened Images",
-      "hot": "❤️ 32 💬 0",
-      "desc": "Docker Hardened Images are changing how teams think about container security — not as an...",
-      "source": "dev",
-      "tag": "devops,  docker",
-      "url": "https://dev.to/gelopfalcon/stop-shipping-vulnerabilities-by-default-an-intro-to-docker-hardened-images-d0c"
-    },
-    {
-      "title": "I Programmed an AI in 6502 Assembly - It Worked",
-      "hot": "❤️ 52 💬 5",
-      "desc": "In 1975 the 6502 processed 8-bit values through memory and control flow. A Claude Code skill now uses...",
-      "source": "dev",
-      "tag": "ai,  webdev",
-      "url": "https://dev.to/newellpaul/i-programmed-an-ai-in-6502-assembly-it-worked-gpi"
-    },
-    {
-      "title": "Am I a Developer or Just a Prompt Engineer?",
-      "hot": "❤️ 124 💬 95",
-      "desc": "Three years ago, if you asked me \"what do you do?\" I had an answer I'm a software developer. I write...",
-      "source": "dev",
-      "tag": "ai,  career",
-      "url": "https://dev.to/harsh2644/am-i-a-developer-or-just-a-prompt-engineer-4ece"
     }
   ],
-  "updatedAt": "2026-05-08T14:27:52.425Z"
+  "updatedAt": "2026-05-08T15:57:23.840Z"
 }

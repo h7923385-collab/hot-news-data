@@ -1,172 +1,18 @@
 {
-  "updatedAt": "2026-05-08T14:27:52.425Z",
+  "updatedAt": "2026-05-08T15:57:23.840Z",
   "source": "live",
-  "tech": [
-    {
-      "title": "Poland is now among the 20 largest economies. How it happened",
-      "hot": "3.0m",
-      "desc": "apnews.com",
-      "source": "tech",
-      "tag": "⬆️ 303 points",
-      "url": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa"
-    },
-    {
-      "title": "An Introduction to Meshtastic",
-      "hot": "3.0m",
-      "desc": "meshtastic.org",
-      "source": "tech",
-      "tag": "⬆️ 111 points",
-      "url": "https://meshtastic.org/docs/introduction/"
-    },
-    {
-      "title": "Canvas is down as ShinyHunters threatens to leak schools’ data",
-      "hot": "3.0m",
-      "desc": "theverge.com",
-      "source": "tech",
-      "tag": "⬆️ 799 points",
-      "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach"
-    },
-    {
-      "title": "Cloudflare to cut about 20% workforce",
-      "hot": "3.0m",
-      "desc": "reuters.com",
-      "source": "tech",
-      "tag": "⬆️ 998 points",
-      "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/"
-    },
-    {
-      "title": "Maybe you shouldn't install new software for a bit",
-      "hot": "2.9m",
-      "desc": "xeiaso.net",
-      "source": "tech",
-      "tag": "⬆️ 671 points",
-      "url": "https://xeiaso.net/blog/2026/abstain-from-install/"
-    },
-    {
-      "title": "GeoJSON",
-      "hot": "2.9m",
-      "desc": "geojson.org",
-      "source": "tech",
-      "tag": "⬆️ 59 points",
-      "url": "https://geojson.org/"
-    },
-    {
-      "title": "ClojureScript Gets Async/Await",
-      "hot": "2.9m",
-      "desc": "clojurescript.org",
-      "source": "tech",
-      "tag": "⬆️ 164 points",
-      "url": "https://clojurescript.org/news/2026-05-07-release"
-    },
-    {
-      "title": "Dirtyfrag: Universal Linux LPE",
-      "hot": "2.9m",
-      "desc": "openwall.com",
-      "source": "tech",
-      "tag": "⬆️ 709 points",
-      "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8"
-    },
-    {
-      "title": "Rumors of my death are slightly exaggerated",
-      "hot": "2.9m",
-      "desc": "news.ycombinator.com",
-      "source": "tech",
-      "tag": "⬆️ 586 points",
-      "url": "https://news.ycombinator.com/item?id=48037336"
-    },
-    {
-      "title": "Dithering with CSS",
-      "hot": "2.9m",
-      "desc": "ikesau.co",
-      "source": "tech",
-      "tag": "⬆️ 71 points",
-      "url": "https://ikesau.co/blog/dithering-with-css/"
-    },
-    {
-      "title": "The map that keeps Burning Man honest",
-      "hot": "2.9m",
-      "desc": "not-ship.com",
-      "source": "tech",
-      "tag": "⬆️ 692 points",
-      "url": "https://www.not-ship.com/burning-man-moop/"
-    },
-    {
-      "title": "Hackers breach JDownloader's website to serve malware-laced downloads",
-      "hot": "2.8m",
-      "desc": "neowin.net",
-      "source": "tech",
-      "tag": "⬆️ 47 points",
-      "url": "https://www.neowin.net/news/if-you-downloaded-this-popular-software-recently-you-might-have-installed-malware/"
-    },
-    {
-      "title": "Pinocchio is weirder than you remembered",
-      "hot": "2.8m",
-      "desc": "storica.club",
-      "source": "tech",
-      "tag": "⬆️ 223 points",
-      "url": "https://storica.club/blog/pinocchio-in-italian/"
-    },
-    {
-      "title": "Tesla is recalling its cheaper Cybertruck because the wheels might fall off",
-      "hot": "2.8m",
-      "desc": "theverge.com",
-      "source": "tech",
-      "tag": "⬆️ 9 points",
-      "url": "https://www.theverge.com/transportation/926741/tesla-cybertruck-cheaper-recall"
-    },
-    {
-      "title": "Podman rootless containers and the Copy Fail exploit",
-      "hot": "2.8m",
-      "desc": "garrido.io",
-      "source": "tech",
-      "tag": "⬆️ 12 points",
-      "url": "https://garrido.io/notes/podman-rootless-containers-copy-fail/"
-    },
-    {
-      "title": "Nintendo announces price increases for Nintendo Switch 2",
-      "hot": "2.8m",
-      "desc": "nintendo.co.jp",
-      "source": "tech",
-      "tag": "⬆️ 164 points",
-      "url": "https://www.nintendo.co.jp/corporate/release/en/2026/260508.html"
-    },
-    {
-      "title": "UFO Release 1: Presidential Unsealing and Reporting System for UAP Encounters",
-      "hot": "2.8m",
-      "desc": "war.gov",
-      "source": "tech",
-      "tag": "⬆️ 34 points",
-      "url": "https://www.war.gov/UFO/#release"
-    },
-    {
-      "title": "Agents need control flow, not more prompts",
-      "hot": "2.7m",
-      "desc": "bsuh.bearblog.dev",
-      "source": "tech",
-      "tag": "⬆️ 524 points",
-      "url": "https://bsuh.bearblog.dev/agents-need-control-flow/"
-    },
-    {
-      "title": "A polynomial autoencoder beats PCA on transformer embeddings",
-      "hot": "2.7m",
-      "desc": "ivanpleshkov.dev",
-      "source": "tech",
-      "tag": "⬆️ 70 points",
-      "url": "https://ivanpleshkov.dev/blog/polynomial-autoencoder/"
-    },
-    {
-      "title": "QBE – Compiler Back End",
-      "hot": "2.7m",
-      "desc": "c9x.me",
-      "source": "tech",
-      "tag": "⬆️ 31 points",
-      "url": "https://c9x.me/compile/"
-    }
-  ],
   "dev": [
     {
+      "title": "Congrats to the OpenClaw Challenge Winners!",
+      "hot": "❤️ 64 💬 17",
+      "desc": "The results are in! We are thrilled to announce the winners of the OpenClaw Challenge.  Over the past...",
+      "source": "dev",
+      "tag": "devchallenge,  openclawchallenge",
+      "url": "https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha"
+    },
+    {
       "title": "Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!",
-      "hot": "❤️ 252 💬 33",
+      "hot": "❤️ 256 💬 35",
       "desc": "Local AI is having a moment, and we want you to be part of it!  Running through May 24, the Gemma 4...",
       "source": "dev",
       "tag": "devchallenge,  gemmachallenge",
@@ -181,20 +27,36 @@
       "url": "https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da"
     },
     {
-      "title": "Congrats to the OpenClaw Challenge Winners!",
-      "hot": "❤️ 64 💬 17",
-      "desc": "The results are in! We are thrilled to announce the winners of the OpenClaw Challenge.  Over the past...",
+      "title": "What was your win this week??",
+      "hot": "❤️ 11 💬 4",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
-      "tag": "devchallenge,  openclawchallenge",
-      "url": "https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha"
+      "tag": "discuss,  weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-96l"
+    },
+    {
+      "title": "The Local Model That Doesn't Sleep: Gemma 4 + MTP as a Marathon Engine",
+      "hot": "❤️ 8 💬 3",
+      "desc": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4  I set the agent running just...",
+      "source": "dev",
+      "tag": "ai,  gemma",
+      "url": "https://dev.to/ertugrul_demir/the-local-model-that-doesnt-sleep-gemma-4-mtp-as-a-marathon-engine-4c9"
     },
     {
       "title": "I Replaced My $500 GPU with a $75 Raspberry Pi: How Gemma 4 Makes Computer Vision 10x Cheaper",
-      "hot": "❤️ 30 💬 6",
+      "hot": "❤️ 39 💬 6",
       "desc": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4           I Replaced My $500 GPU...",
       "source": "dev",
       "tag": "computervision,  devchallenge",
       "url": "https://dev.to/tahosin/i-replaced-my-500-gpu-with-a-75-raspberry-pi-how-gemma-4-makes-computer-vision-10x-cheaper-1gbo"
+    },
+    {
+      "title": "I built a Ruby gem so I don't have to squint at hash dumps anymore",
+      "hot": "❤️ 4 💬 0",
+      "desc": "Stop squinting at hash dumps. typed_print turns Ruby hashes into clean, aligned tables. Zero dependencies. Markdown supp",
+      "source": "dev",
+      "tag": "ruby,  cli",
+      "url": "https://dev.to/eayurt/i-built-a-ruby-gem-so-i-dont-have-to-squint-at-hash-dumps-anymore-2hha"
     },
     {
       "title": "Building ADK Agents with Phi Models on Azure Foundry",
@@ -203,6 +65,14 @@
       "source": "dev",
       "tag": "microsoftphi4,  agents",
       "url": "https://dev.to/gde/building-adk-agents-with-phi-models-on-azure-foundry-25a2"
+    },
+    {
+      "title": "Building ADK Agents with Azure Cloud Shell",
+      "hot": "❤️ 5 💬 0",
+      "desc": "This article covers installing and Running Gemini CLI cross-cloud. The Azure Cloud Shell provides a...",
+      "source": "dev",
+      "tag": "phimodel,  azurefoundry",
+      "url": "https://dev.to/gde/building-adk-agents-with-azure-cloud-shell-3bd1"
     },
     {
       "title": "How a Hackathon Will Teach a New Developer What a Year of Tutorials Can't",
@@ -221,12 +91,12 @@
       "url": "https://dev.to/gde/mcp-development-with-amazon-lambda-managed-instances-24cj"
     },
     {
-      "title": "Architect A Personalized Multi-Agent System with Long-Term Memory",
-      "hot": "❤️ 19 💬 1",
-      "desc": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal —...",
+      "title": "[Google Cloud Next '26 Recap #5] How I Prepared for the Trip — and How It Actually Played Out",
+      "hot": "❤️ 5 💬 0",
+      "desc": "This is the fifth and final post in my Google Cloud Next '26 (Las Vegas) recap series.  You can find...",
       "source": "dev",
-      "tag": "ai,  googlecloud",
-      "url": "https://dev.to/googleai/architect-a-personalized-multi-agent-system-with-long-term-memory-3o15"
+      "tag": "googlecloud,  googlecloudnext",
+      "url": "https://dev.to/gde/google-cloud-next-26-recap-5-how-i-prepared-for-the-trip-and-how-it-actually-played-out-19ao"
     },
     {
       "title": "A much faster mgsub",
@@ -269,6 +139,14 @@
       "url": "https://dev.to/gde/building-a-cross-language-mcp-server-with-rust-python-adk-and-gemini-cli-g5h"
     },
     {
+      "title": "Build Your Own AI Butler - A Scheduled Agent That Runs Itself!",
+      "hot": "❤️ 54 💬 8",
+      "desc": "I want an AI agent that works for me. I want it to search up the latest news, and I want it to...",
+      "source": "dev",
+      "tag": "aws,  ai",
+      "url": "https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk"
+    },
+    {
       "title": "CSS - The single coolest API technique you can imagine.",
       "hot": "❤️ 8 💬 0",
       "desc": "To simply call Kizu's Cyclic Space Toggles an upgrade to my Space Toggle technique is like calling...",
@@ -277,55 +155,185 @@
       "url": "https://dev.to/janeori/css-the-single-coolest-api-technique-you-can-imagine-4ma8"
     },
     {
-      "title": "Build Your Own AI Butler - A Scheduled Agent That Runs Itself!",
-      "hot": "❤️ 49 💬 8",
-      "desc": "I want an AI agent that works for me. I want it to search up the latest news, and I want it to...",
-      "source": "dev",
-      "tag": "aws,  ai",
-      "url": "https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk"
-    },
-    {
       "title": "Congrats to the Google Cloud NEXT '26 Writing Challenge Winners!",
-      "hot": "❤️ 39 💬 14",
+      "hot": "❤️ 43 💬 15",
       "desc": "The results are in! We are thrilled to announce the winners of the Google Cloud NEXT '26 Writing...",
       "source": "dev",
       "tag": "devchallenge,  cloudnextchallenge",
       "url": "https://dev.to/devteam/congrats-to-the-google-cloud-next-26-writing-challenge-winners-5990"
+    }
+  ],
+  "tech": [
+    {
+      "title": "Poland is now among the 20 largest economies. How it happened",
+      "hot": "3.0m",
+      "desc": "apnews.com",
+      "source": "tech",
+      "tag": "⬆️ 519 points",
+      "url": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa"
     },
     {
-      "title": "Local Testing of a Multi-Agent System with Memory",
-      "hot": "❤️ 18 💬 1",
-      "desc": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal: a...",
-      "source": "dev",
-      "tag": "ai,  googlecloud",
-      "url": "https://dev.to/googleai/local-testing-of-a-multi-agent-system-with-memory-37mm"
+      "title": "Serving a Website on a Raspberry Pi Zero Running in RAM",
+      "hot": "3.0m",
+      "desc": "btxx.org",
+      "source": "tech",
+      "tag": "⬆️ 27 points",
+      "url": "https://btxx.org/posts/memory/"
     },
     {
-      "title": "Stop Shipping Vulnerabilities by Default: An Intro to Docker Hardened Images",
-      "hot": "❤️ 32 💬 0",
-      "desc": "Docker Hardened Images are changing how teams think about container security — not as an...",
-      "source": "dev",
-      "tag": "devops,  docker",
-      "url": "https://dev.to/gelopfalcon/stop-shipping-vulnerabilities-by-default-an-intro-to-docker-hardened-images-d0c"
+      "title": "An Introduction to Meshtastic",
+      "hot": "3.0m",
+      "desc": "meshtastic.org",
+      "source": "tech",
+      "tag": "⬆️ 184 points",
+      "url": "https://meshtastic.org/docs/introduction/"
     },
     {
-      "title": "I Programmed an AI in 6502 Assembly - It Worked",
-      "hot": "❤️ 52 💬 5",
-      "desc": "In 1975 the 6502 processed 8-bit values through memory and control flow. A Claude Code skill now uses...",
-      "source": "dev",
-      "tag": "ai,  webdev",
-      "url": "https://dev.to/newellpaul/i-programmed-an-ai-in-6502-assembly-it-worked-gpi"
+      "title": "PC Engine CPU",
+      "hot": "3.0m",
+      "desc": "jsgroth.dev",
+      "source": "tech",
+      "tag": "⬆️ 42 points",
+      "url": "https://jsgroth.dev/blog/posts/pc-engine-cpu/"
     },
     {
-      "title": "Am I a Developer or Just a Prompt Engineer?",
-      "hot": "❤️ 124 💬 95",
-      "desc": "Three years ago, if you asked me \"what do you do?\" I had an answer I'm a software developer. I write...",
-      "source": "dev",
-      "tag": "ai,  career",
-      "url": "https://dev.to/harsh2644/am-i-a-developer-or-just-a-prompt-engineer-4ece"
+      "title": "Google Cloud Fraud Defence is just WEI repackaged",
+      "hot": "2.9m",
+      "desc": "privatecaptcha.com",
+      "source": "tech",
+      "tag": "⬆️ 44 points",
+      "url": "https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/"
+    },
+    {
+      "title": "Podman rootless containers and the Copy Fail exploit",
+      "hot": "2.9m",
+      "desc": "garrido.io",
+      "source": "tech",
+      "tag": "⬆️ 36 points",
+      "url": "https://garrido.io/notes/podman-rootless-containers-copy-fail/"
+    },
+    {
+      "title": "Show HN: Git for AI Agents",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 19 points",
+      "url": "https://github.com/regent-vcs/re_gent"
+    },
+    {
+      "title": "Cloudflare to cut about 20% workforce",
+      "hot": "2.9m",
+      "desc": "reuters.com",
+      "source": "tech",
+      "tag": "⬆️ 1092 points",
+      "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/"
+    },
+    {
+      "title": "Canvas is down as ShinyHunters threatens to leak schools’ data",
+      "hot": "2.9m",
+      "desc": "theverge.com",
+      "source": "tech",
+      "tag": "⬆️ 846 points",
+      "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach"
+    },
+    {
+      "title": "GeoJSON",
+      "hot": "2.9m",
+      "desc": "geojson.org",
+      "source": "tech",
+      "tag": "⬆️ 91 points",
+      "url": "https://geojson.org/"
+    },
+    {
+      "title": "Maybe you shouldn't install new software for a bit",
+      "hot": "2.9m",
+      "desc": "xeiaso.net",
+      "source": "tech",
+      "tag": "⬆️ 713 points",
+      "url": "https://xeiaso.net/blog/2026/abstain-from-install/"
+    },
+    {
+      "title": "ClojureScript Gets Async/Await",
+      "hot": "2.8m",
+      "desc": "clojurescript.org",
+      "source": "tech",
+      "tag": "⬆️ 211 points",
+      "url": "https://clojurescript.org/news/2026-05-07-release"
+    },
+    {
+      "title": "Dirtyfrag: Universal Linux LPE",
+      "hot": "2.8m",
+      "desc": "openwall.com",
+      "source": "tech",
+      "tag": "⬆️ 731 points",
+      "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8"
+    },
+    {
+      "title": "Rumors of my death are slightly exaggerated",
+      "hot": "2.8m",
+      "desc": "news.ycombinator.com",
+      "source": "tech",
+      "tag": "⬆️ 765 points",
+      "url": "https://news.ycombinator.com/item?id=48037336"
+    },
+    {
+      "title": "Dithering with CSS",
+      "hot": "2.8m",
+      "desc": "ikesau.co",
+      "source": "tech",
+      "tag": "⬆️ 86 points",
+      "url": "https://ikesau.co/blog/dithering-with-css/"
+    },
+    {
+      "title": "The map that keeps Burning Man honest",
+      "hot": "2.8m",
+      "desc": "not-ship.com",
+      "source": "tech",
+      "tag": "⬆️ 712 points",
+      "url": "https://www.not-ship.com/burning-man-moop/"
+    },
+    {
+      "title": "Pinocchio is weirder than you remembered",
+      "hot": "2.8m",
+      "desc": "storica.club",
+      "source": "tech",
+      "tag": "⬆️ 245 points",
+      "url": "https://storica.club/blog/pinocchio-in-italian/"
+    },
+    {
+      "title": "Tesla is recalling its cheaper Cybertruck because the wheels might fall off",
+      "hot": "2.7m",
+      "desc": "theverge.com",
+      "source": "tech",
+      "tag": "⬆️ 124 points",
+      "url": "https://www.theverge.com/transportation/926741/tesla-cybertruck-cheaper-recall"
+    },
+    {
+      "title": "Hackers breach JDownloader's website to serve malware-laced downloads",
+      "hot": "2.7m",
+      "desc": "neowin.net",
+      "source": "tech",
+      "tag": "⬆️ 70 points",
+      "url": "https://www.neowin.net/news/if-you-downloaded-this-popular-software-recently-you-might-have-installed-malware/"
+    },
+    {
+      "title": "Agents need control flow, not more prompts",
+      "hot": "2.7m",
+      "desc": "bsuh.bearblog.dev",
+      "source": "tech",
+      "tag": "⬆️ 544 points",
+      "url": "https://bsuh.bearblog.dev/agents-need-control-flow/"
     }
   ],
   "space": [
+    {
+      "title": "Glowing Views from the Space Station",
+      "hot": "5/8",
+      "desc": "NASA astronaut Chris Williams captured the Milky Way rising above Earth’s atmospheric glow on April 13, 2026, while aboard a SpaceX Dragon docked to t",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/image-article/glowing-views-from-the-space-station/"
+    },
     {
       "title": "NASA Names Brian Hughes to Launch Operations Role",
       "hot": "5/8",
@@ -437,20 +445,12 @@
       "source": "space",
       "tag": "NASA",
       "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-pushes-next-gen-mars-helicopter-rotor-blades-past-mach-1/"
-    },
-    {
-      "title": "Industry Moon Lander Training Cabin Lands at NASA for Artemis",
-      "hot": "5/7",
-      "desc": "A full-scale mock-up of a crew cabin for a future industry lunar lander for NASA’s Artemis program now is operational for training and testing. The ag",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/industry-moon-lander-training-cabin-lands-at-nasa-for-artemis/"
     }
   ],
   "github": [
     {
       "title": "V4bel/dirtyfrag: ",
-      "hot": "⭐ 2.4k",
+      "hot": "⭐ 2.5k",
       "desc": "V4bel/dirtyfrag",
       "source": "github",
       "tag": "C",
@@ -466,7 +466,7 @@
     },
     {
       "title": "antirez/ds4: DeepSeek 4 Flash local inference engine for Metal",
-      "hot": "⭐ 1.9k",
+      "hot": "⭐ 2.0k",
       "desc": "DeepSeek 4 Flash local inference engine for Metal",
       "source": "github",
       "tag": "C",
@@ -522,7 +522,7 @@
     },
     {
       "title": "jherrodthomas/automotive-skills-suite: 100+ installable Claude skills covering E",
-      "hot": "⭐ 973",
+      "hot": "⭐ 980",
       "desc": "100+ installable Claude skills covering Engineering areas such as, ISO 26262 functional safety, ISO/SAE 21434 cybersecurity, ISO 21448 SOTIF, AIAG-VDA",
       "source": "github",
       "tag": "GitHub",
@@ -530,7 +530,7 @@
     },
     {
       "title": "vibeforge1111/keep-codex-fast: A backup-first Codex skill for keeping local Code",
-      "hot": "⭐ 906",
+      "hot": "⭐ 909",
       "desc": "A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.",
       "source": "github",
       "tag": "Python",
@@ -538,7 +538,7 @@
     },
     {
       "title": "tddworks/baguette: Headless iOS Simulator manager/farm + host-side input injecti",
-      "hot": "⭐ 757",
+      "hot": "⭐ 758",
       "desc": "Headless iOS Simulator manager/farm + host-side input injection for iOS 26 — taps, swipes, multi-finger gestures, and 60 fps streaming",
       "source": "github",
       "tag": "Swift",
@@ -546,7 +546,7 @@
     },
     {
       "title": "lightseekorg/tokenspeed: TokenSpeed is a speed-of-light LLM inference engine.",
-      "hot": "⭐ 740",
+      "hot": "⭐ 745",
       "desc": "TokenSpeed is a speed-of-light LLM inference engine.",
       "source": "github",
       "tag": "Python",
@@ -554,19 +554,19 @@
     },
     {
       "title": "raiyanyahya/how-to-train-your-gpt: Build a modern LLM from scratch. Every line c",
-      "hot": "⭐ 737",
+      "hot": "⭐ 742",
       "desc": "Build a modern LLM from scratch. Every line commented. Explained like we are five.",
       "source": "github",
       "tag": "Jupyter Notebook",
       "url": "https://github.com/raiyanyahya/how-to-train-your-gpt"
     },
     {
-      "title": "Kappaemme-git/codex-startup-pressure-test-skill: ",
-      "hot": "⭐ 722",
-      "desc": "Kappaemme-git/codex-startup-pressure-test-skill",
+      "title": "MayersScott/rkn-block-checker: Diagnose RKN/TSPU internet blocks layer by layer ",
+      "hot": "⭐ 729",
+      "desc": "Diagnose RKN/TSPU internet blocks layer by layer (DNS, TCP, TLS, HTTP)",
       "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/Kappaemme-git/codex-startup-pressure-test-skill"
+      "tag": "Python",
+      "url": "https://github.com/MayersScott/rkn-block-checker"
     }
   ]
 }
