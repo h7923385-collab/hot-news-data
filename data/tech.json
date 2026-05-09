@@ -1,35 +1,51 @@
 {
   "data": [
     {
+      "title": "Internet Archive Switzerland",
+      "hot": "3.0m",
+      "desc": "internetarchive.ch",
+      "source": "tech",
+      "tag": "⬆️ 35 points",
+      "url": "https://internetarchive.ch/"
+    },
+    {
       "title": "A recent experience with ChatGPT 5.5 Pro",
       "hot": "3.0m",
       "desc": "gowers.wordpress.com",
       "source": "tech",
-      "tag": "⬆️ 359 points",
+      "tag": "⬆️ 399 points",
       "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/"
+    },
+    {
+      "title": "Forking the Web",
+      "hot": "3.0m",
+      "desc": "dillo-browser.org",
+      "source": "tech",
+      "tag": "⬆️ 13 points",
+      "url": "https://dillo-browser.org/lab/web-fork/"
     },
     {
       "title": "Google broke reCAPTCHA for de-googled Android users",
       "hot": "3.0m",
       "desc": "reclaimthenet.org",
       "source": "tech",
-      "tag": "⬆️ 1106 points",
+      "tag": "⬆️ 1149 points",
       "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users"
     },
     {
       "title": "Using Claude Code: The unreasonable effectiveness of HTML",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "twitter.com",
       "source": "tech",
-      "tag": "⬆️ 182 points",
+      "tag": "⬆️ 207 points",
       "url": "https://twitter.com/trq212/status/2052809885763747935"
     },
     {
       "title": "OpenAI’s WebRTC problem",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "moq.dev",
       "source": "tech",
-      "tag": "⬆️ 342 points",
+      "tag": "⬆️ 354 points",
       "url": "https://moq.dev/blog/webrtc-is-the-problem/"
     },
     {
@@ -37,129 +53,113 @@
       "hot": "2.9m",
       "desc": "flow.byu.edu",
       "source": "tech",
-      "tag": "⬆️ 16 points",
+      "tag": "⬆️ 21 points",
       "url": "https://flow.byu.edu/posts/julia-c++"
-    },
-    {
-      "title": "Mythical Man Month",
-      "hot": "2.9m",
-      "desc": "martinfowler.com",
-      "source": "tech",
-      "tag": "⬆️ 185 points",
-      "url": "https://martinfowler.com/bliki/MythicalManMonth.html"
-    },
-    {
-      "title": "What causes lightning? The answer keeps getting more interesting",
-      "hot": "2.9m",
-      "desc": "quantamagazine.org",
-      "source": "tech",
-      "tag": "⬆️ 76 points",
-      "url": "https://www.quantamagazine.org/what-causes-lightning-the-answer-keeps-getting-more-interesting-20260506/"
-    },
-    {
-      "title": "David Attenborough's 100th Birthday",
-      "hot": "2.9m",
-      "desc": "bbc.com",
-      "source": "tech",
-      "tag": "⬆️ 673 points",
-      "url": "https://www.bbc.com/news/articles/cp3pww9g0p5o"
     },
     {
       "title": "America's carpet capital: an empire and its toxic legacy",
       "hot": "2.9m",
       "desc": "apnews.com",
       "source": "tech",
-      "tag": "⬆️ 29 points",
+      "tag": "⬆️ 44 points",
       "url": "https://apnews.com/projects/pfas-forever-stained/"
     },
     {
-      "title": "AI is breaking two vulnerability cultures",
+      "title": "David Attenborough's 100th Birthday",
       "hot": "2.9m",
-      "desc": "jefftk.com",
+      "desc": "bbc.com",
       "source": "tech",
-      "tag": "⬆️ 348 points",
-      "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures"
+      "tag": "⬆️ 702 points",
+      "url": "https://www.bbc.com/news/articles/cp3pww9g0p5o"
+    },
+    {
+      "title": "Mythical Man Month",
+      "hot": "2.9m",
+      "desc": "martinfowler.com",
+      "source": "tech",
+      "tag": "⬆️ 194 points",
+      "url": "https://martinfowler.com/bliki/MythicalManMonth.html"
+    },
+    {
+      "title": "Reviving the IBM Selectric Composer Fonts (2023)",
+      "hot": "2.9m",
+      "desc": "kutilek.de",
+      "source": "tech",
+      "tag": "⬆️ 11 points",
+      "url": "https://www.kutilek.de/selectric/"
+    },
+    {
+      "title": "Killswitch: Per-function short-circuit mitigation primitive",
+      "hot": "2.8m",
+      "desc": "lwn.net",
+      "source": "tech",
+      "tag": "⬆️ 15 points",
+      "url": "https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/"
+    },
+    {
+      "title": "LLMs Corrupt Your Documents When You Delegate",
+      "hot": "2.8m",
+      "desc": "arxiv.org",
+      "source": "tech",
+      "tag": "⬆️ 14 points",
+      "url": "https://arxiv.org/abs/2604.15597"
+    },
+    {
+      "title": "What causes lightning? The answer keeps getting more interesting",
+      "hot": "2.8m",
+      "desc": "quantamagazine.org",
+      "source": "tech",
+      "tag": "⬆️ 86 points",
+      "url": "https://www.quantamagazine.org/what-causes-lightning-the-answer-keeps-getting-more-interesting-20260506/"
     },
     {
       "title": "Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/AC/ax/be/bn)",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "wiisfi.com",
       "source": "tech",
-      "tag": "⬆️ 261 points",
+      "tag": "⬆️ 276 points",
       "url": "https://www.wiisfi.com/"
+    },
+    {
+      "title": "AI is breaking two vulnerability cultures",
+      "hot": "2.8m",
+      "desc": "jefftk.com",
+      "source": "tech",
+      "tag": "⬆️ 355 points",
+      "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures"
     },
     {
       "title": "AWS North Virginia data center outage – resolved",
       "hot": "2.8m",
       "desc": "cnbc.com",
       "source": "tech",
-      "tag": "⬆️ 228 points",
+      "tag": "⬆️ 231 points",
       "url": "https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html"
     },
     {
       "title": "Cartoon Network Flash Games",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "webdesignmuseum.org",
       "source": "tech",
-      "tag": "⬆️ 349 points",
+      "tag": "⬆️ 357 points",
       "url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games"
     },
     {
       "title": "The React2Shell Story",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "lachlan.nz",
       "source": "tech",
-      "tag": "⬆️ 155 points",
+      "tag": "⬆️ 162 points",
       "url": "https://lachlan.nz/blog/the-react2shell-story/"
     },
     {
       "title": "An Introduction to Meshtastic",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "meshtastic.org",
       "source": "tech",
-      "tag": "⬆️ 459 points",
+      "tag": "⬆️ 463 points",
       "url": "https://meshtastic.org/docs/introduction/"
-    },
-    {
-      "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
-      "hot": "2.8m",
-      "desc": "ze3tar.github.io",
-      "source": "tech",
-      "tag": "⬆️ 189 points",
-      "url": "https://ze3tar.github.io/post-zcrx.html"
-    },
-    {
-      "title": "Teaching Claude Why",
-      "hot": "2.8m",
-      "desc": "anthropic.com",
-      "source": "tech",
-      "tag": "⬆️ 175 points",
-      "url": "https://www.anthropic.com/research/teaching-claude-why"
-    },
-    {
-      "title": "Can LLMs model real-world systems in TLA+?",
-      "hot": "2.7m",
-      "desc": "sigops.org",
-      "source": "tech",
-      "tag": "⬆️ 92 points",
-      "url": "https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/"
-    },
-    {
-      "title": "Serving a website on a Raspberry Pi Zero running in RAM",
-      "hot": "2.7m",
-      "desc": "btxx.org",
-      "source": "tech",
-      "tag": "⬆️ 227 points",
-      "url": "https://btxx.org/posts/memory/"
-    },
-    {
-      "title": "Light without electricity? Glowing algae could make it possible",
-      "hot": "2.7m",
-      "desc": "colorado.edu",
-      "source": "tech",
-      "tag": "⬆️ 78 points",
-      "url": "https://www.colorado.edu/today/2026/05/06/light-without-electricity-glowing-algae-could-make-it-possible"
     }
   ],
-  "updatedAt": "2026-05-09T11:41:32.526Z"
+  "updatedAt": "2026-05-09T12:44:06.214Z"
 }
