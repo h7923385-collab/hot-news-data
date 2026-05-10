@@ -1,27 +1,19 @@
 {
   "data": [
     {
-      "title": "Rotten Dot Com",
+      "title": "Idempotency Is Easy Until the Second Request Is Different",
       "hot": "3.0m",
-      "desc": "theparisreview.org",
+      "desc": "blog.dochia.dev",
       "source": "tech",
-      "tag": "⬆️ 28 points",
-      "url": "https://www.theparisreview.org/blog/2026/05/06/rotten-dot-com/"
-    },
-    {
-      "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
-      "hot": "3.0m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 268 points",
-      "url": "https://github.com/imtomt/ymawky"
+      "tag": "⬆️ 42 points",
+      "url": "https://blog.dochia.dev/blog/idempotency/"
     },
     {
       "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
       "hot": "3.0m",
       "desc": "twitter.com",
       "source": "tech",
-      "tag": "⬆️ 542 points",
+      "tag": "⬆️ 578 points",
       "url": "https://twitter.com/jarredsumner/status/2053047748191232310"
     },
     {
@@ -29,39 +21,55 @@
       "hot": "3.0m",
       "desc": "amusingplanet.com",
       "source": "tech",
-      "tag": "⬆️ 112 points",
+      "tag": "⬆️ 135 points",
       "url": "https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html"
     },
     {
-      "title": "Gemini API File Search is now multimodal",
-      "hot": "2.9m",
-      "desc": "blog.google",
+      "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
+      "hot": "3.0m",
+      "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 85 points",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/"
+      "tag": "⬆️ 292 points",
+      "url": "https://github.com/imtomt/ymawky"
     },
     {
-      "title": "Casio S100X Japanese Lacquer Edition (JP Page Only)",
+      "title": "LLMorphism: When humans come to see themselves as language models",
       "hot": "2.9m",
-      "desc": "casio.com",
+      "desc": "arxiv.org",
       "source": "tech",
-      "tag": "⬆️ 123 points",
-      "url": "https://www.casio.com/jp/basic-calculators/premium/en-s100x-jc1-u/"
+      "tag": "⬆️ 16 points",
+      "url": "https://arxiv.org/abs/2605.05419"
     },
     {
       "title": "We see something that works, and then we understand it",
       "hot": "2.9m",
       "desc": "lemire.me",
       "source": "tech",
-      "tag": "⬆️ 83 points",
+      "tag": "⬆️ 103 points",
       "url": "https://lemire.me/blog/2025/12/04/we-see-something-that-works-and-then-we-understand-it/"
+    },
+    {
+      "title": "Casio S100X Japanese Lacquer Edition (JP Page Only)",
+      "hot": "2.9m",
+      "desc": "casio.com",
+      "source": "tech",
+      "tag": "⬆️ 143 points",
+      "url": "https://www.casio.com/jp/basic-calculators/premium/en-s100x-jc1-u/"
+    },
+    {
+      "title": "Gemini API File Search is now multimodal",
+      "hot": "2.9m",
+      "desc": "blog.google",
+      "source": "tech",
+      "tag": "⬆️ 99 points",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/"
     },
     {
       "title": "Internet Archive Switzerland",
       "hot": "2.9m",
       "desc": "blog.archive.org",
       "source": "tech",
-      "tag": "⬆️ 606 points",
+      "tag": "⬆️ 614 points",
       "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/"
     },
     {
@@ -69,7 +77,7 @@
       "hot": "2.9m",
       "desc": "chrismorgan.info",
       "source": "tech",
-      "tag": "⬆️ 397 points",
+      "tag": "⬆️ 421 points",
       "url": "https://chrismorgan.info/no-query-strings"
     },
     {
@@ -77,89 +85,81 @@
       "hot": "2.9m",
       "desc": "lists.debian.org",
       "source": "tech",
-      "tag": "⬆️ 125 points",
+      "tag": "⬆️ 159 points",
       "url": "https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html"
     },
     {
-      "title": "Idempotency Is Easy Until the Second Request Is Different",
-      "hot": "2.9m",
-      "desc": "blog.dochia.dev",
+      "title": "Task Paralysis and AI",
+      "hot": "2.8m",
+      "desc": "g5t.de",
       "source": "tech",
-      "tag": "⬆️ 5 points",
-      "url": "https://blog.dochia.dev/blog/idempotency/"
+      "tag": "⬆️ 13 points",
+      "url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html"
+    },
+    {
+      "title": "Gen Z Resentment Toward AI Grows as Adoption Stagnates and Workplace Fears Mount",
+      "hot": "2.8m",
+      "desc": "waltonfamilyfoundation.org",
+      "source": "tech",
+      "tag": "⬆️ 27 points",
+      "url": "https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount"
     },
     {
       "title": "Local privilege escalation via execve()",
       "hot": "2.8m",
       "desc": "freebsd.org",
       "source": "tech",
-      "tag": "⬆️ 145 points",
+      "tag": "⬆️ 154 points",
       "url": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc"
-    },
-    {
-      "title": "Scouting's Real Crisis Is Not Marketing. It Is Decades of Neglect.",
-      "hot": "2.8m",
-      "desc": "untendedfire.org",
-      "source": "tech",
-      "tag": "⬆️ 14 points",
-      "url": "https://www.untendedfire.org/2026/05/09/scoutings-real-crisis-is-not-marketing-it-is-decades-of-neglect/"
     },
     {
       "title": "Zed Editor Theme-Builder",
       "hot": "2.8m",
       "desc": "zed.dev",
       "source": "tech",
-      "tag": "⬆️ 217 points",
+      "tag": "⬆️ 225 points",
       "url": "https://zed.dev/theme-builder"
     },
     {
-      "title": "I'm writing a history of Visual Basic, Chapter 1 is up",
+      "title": "Scouting's Real Crisis Is Not Marketing. It Is Decades of Neglect.",
       "hot": "2.8m",
-      "desc": "evilgeniuslabs.ca",
+      "desc": "untendedfire.org",
       "source": "tech",
-      "tag": "⬆️ 104 points",
-      "url": "https://evilgeniuslabs.ca/blog/visual-basic-history-chapter-1-launch"
-    },
-    {
-      "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
-      "hot": "2.8m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 163 points",
-      "url": "https://github.com/nooga/let-go"
+      "tag": "⬆️ 20 points",
+      "url": "https://www.untendedfire.org/2026/05/09/scoutings-real-crisis-is-not-marketing-it-is-decades-of-neglect/"
     },
     {
       "title": "A recent experience with ChatGPT 5.5 Pro",
       "hot": "2.8m",
       "desc": "gowers.wordpress.com",
       "source": "tech",
-      "tag": "⬆️ 630 points",
+      "tag": "⬆️ 636 points",
       "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/"
     },
     {
-      "title": "Making your own programming language is easier than you think (but also harder)",
+      "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
       "hot": "2.7m",
-      "desc": "lisyarus.github.io",
+      "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 96 points",
-      "url": "https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html"
+      "tag": "⬆️ 177 points",
+      "url": "https://github.com/nooga/let-go"
     },
     {
       "title": "Distributing Mac software is increasing my cortisol levels",
       "hot": "2.7m",
       "desc": "blog.kronis.dev",
       "source": "tech",
-      "tag": "⬆️ 287 points",
+      "tag": "⬆️ 303 points",
       "url": "https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels"
     },
     {
-      "title": "LLMs corrupt your documents when you delegate",
+      "title": "I'm writing a history of Visual Basic, Chapter 1 is up",
       "hot": "2.7m",
-      "desc": "arxiv.org",
+      "desc": "evilgeniuslabs.ca",
       "source": "tech",
-      "tag": "⬆️ 406 points",
-      "url": "https://arxiv.org/abs/2604.15597"
+      "tag": "⬆️ 112 points",
+      "url": "https://evilgeniuslabs.ca/blog/visual-basic-history-chapter-1-launch"
     }
   ],
-  "updatedAt": "2026-05-10T09:10:32.911Z"
+  "updatedAt": "2026-05-10T10:42:03.461Z"
 }
