@@ -1,199 +1,85 @@
 {
-  "updatedAt": "2026-05-10T00:08:10.353Z",
+  "updatedAt": "2026-05-10T04:29:11.468Z",
   "source": "live",
-  "dev": [
-    {
-      "title": "What was your win this week??",
-      "hot": "❤️ 49 💬 46",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "discuss,  weeklyretro",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-96l"
-    },
-    {
-      "title": "I Didn’t Stop Building. I Just Left My Laptop.",
-      "hot": "❤️ 104 💬 38",
-      "desc": "Hey there again guys! It’s been almost two months since my last post. And in the back of my head,...",
-      "source": "dev",
-      "tag": "career,  learning",
-      "url": "https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da"
-    },
-    {
-      "title": "Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!",
-      "hot": "❤️ 318 💬 46",
-      "desc": "Local AI is having a moment, and we want you to be part of it!  Running through May 24, the Gemma 4...",
-      "source": "dev",
-      "tag": "devchallenge,  gemmachallenge",
-      "url": "https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in"
-    },
-    {
-      "title": "Congrats to the OpenClaw Challenge Winners!",
-      "hot": "❤️ 74 💬 24",
-      "desc": "The results are in! We are thrilled to announce the winners of the OpenClaw Challenge.  Over the past...",
-      "source": "dev",
-      "tag": "devchallenge,  openclawchallenge",
-      "url": "https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha"
-    },
-    {
-      "title": "I shipped a video player to npm — twice. What I learned about scoped CSS, \"use client\", and Nuxt modules.",
-      "hot": "❤️ 0 💬 0",
-      "desc": "A small, HLS-capable video player for React and Vue, with zero global CSS side-effects. The build-in-public story behind",
-      "source": "dev",
-      "tag": "react,  vue",
-      "url": "https://dev.to/imfahad/i-shipped-a-video-player-to-npm-twice-what-i-learned-about-scoped-css-use-client-and-nuxt-2dfl"
-    },
-    {
-      "title": "How a Hackathon Will Teach a New Developer What a Year of Tutorials Can't",
-      "hot": "❤️ 23 💬 2",
-      "desc": "TL;DR- A hackathon compresses what would take months of solo learning into a single weekend....",
-      "source": "dev",
-      "tag": "career,  careerdevelopment",
-      "url": "https://dev.to/mlh/how-a-hackathon-will-teach-a-new-developer-what-a-year-of-tutorials-cant-4fn8"
-    },
-    {
-      "title": "I built a Ruby gem so I don't have to squint at hash dumps anymore",
-      "hot": "❤️ 5 💬 3",
-      "desc": "Stop squinting at hash dumps. typed_print turns Ruby hashes into clean, aligned tables. Zero dependencies. Markdown supp",
-      "source": "dev",
-      "tag": "ruby,  cli",
-      "url": "https://dev.to/eayurt/i-built-a-ruby-gem-so-i-dont-have-to-squint-at-hash-dumps-anymore-2hha"
-    },
-    {
-      "title": "How CLAUDE.md actually works",
-      "hot": "❤️ 4 💬 0",
-      "desc": "Most engineers write CLAUDE.md like a README. They put their stack, a few preferences, maybe a note...",
-      "source": "dev",
-      "tag": "claude,  ai",
-      "url": "https://dev.to/travelingwilbur/how-claudemd-actually-works-3l1e"
-    },
-    {
-      "title": "What Reddit Can Teach Us About Women’s Watch Preferences (Python + NLP Project)",
-      "hot": "❤️ 4 💬 0",
-      "desc": "Most “what watch should I buy?” discussions online skew heavily male. A friend wanted to launch a...",
-      "source": "dev",
-      "tag": "python,  nlp",
-      "url": "https://dev.to/elizabeththomas7/what-reddit-can-teach-us-about-womens-watch-preferences-python-nlp-project-46k3"
-    },
-    {
-      "title": "Reusable Spring Boot 4 Error Handler",
-      "hot": "❤️ 0 💬 2",
-      "desc": "Reusable Spring Boot 4 auto-configuration that turns exceptions into structured RFC 9457 Problem Details responses and p",
-      "source": "dev",
-      "tag": "springboot,  errorhandler",
-      "url": "https://dev.to/adzubla/reusable-spring-boot-4-error-handler-10kp"
-    },
-    {
-      "title": "Build the Environment, Not the Agent",
-      "hot": "❤️ 0 💬 0",
-      "desc": "If you are building agents, the most important decision you make is where to put the work that keeps...",
-      "source": "dev",
-      "tag": "ai,  agents",
-      "url": "https://dev.to/saravanan_ramupillai/build-the-environment-not-the-agent-3f05"
-    },
-    {
-      "title": "Speed, caching, and the 40x cost wall",
-      "hot": "❤️ 2 💬 0",
-      "desc": "Notes from this week on the RapidNative agent stack. Why we love Cerebras, why the cost still bites, and the split-agent",
-      "source": "dev",
-      "tag": "ai,  llm",
-      "url": "https://dev.to/sanketsahu/speed-caching-and-the-40x-cost-wall-2gn0"
-    },
-    {
-      "title": "gitui: a tiny TUI for your pull requests",
-      "hot": "❤️ 0 💬 0",
-      "desc": "If you spend most of your day in the terminal — especially nowadays with Claude Code and other...",
-      "source": "dev",
-      "tag": "github,  cli",
-      "url": "https://dev.to/thalesbruno/gitui-a-tiny-tui-for-your-pull-requests-3me0"
-    },
-    {
-      "title": "Congrats to the Google Cloud NEXT '26 Writing Challenge Winners!",
-      "hot": "❤️ 48 💬 15",
-      "desc": "The results are in! We are thrilled to announce the winners of the Google Cloud NEXT '26 Writing...",
-      "source": "dev",
-      "tag": "devchallenge,  cloudnextchallenge",
-      "url": "https://dev.to/devteam/congrats-to-the-google-cloud-next-26-writing-challenge-winners-5990"
-    },
-    {
-      "title": "Building ADK Agents with Azure Cloud Shell",
-      "hot": "❤️ 5 💬 2",
-      "desc": "This article covers installing and Running Gemini CLI cross-cloud. The Azure Cloud Shell provides a...",
-      "source": "dev",
-      "tag": "phimodel,  azurefoundry",
-      "url": "https://dev.to/gde/building-adk-agents-with-azure-cloud-shell-3bd1"
-    },
-    {
-      "title": "Gemma-4-26B on v6e-4 TPU Benchmarks",
-      "hot": "❤️ 6 💬 1",
-      "desc": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4  model:...",
-      "source": "dev",
-      "tag": "devchallenge,  gemmachallenge",
-      "url": "https://dev.to/gde/gemma-4-26b-on-v6e-4-tpu-benchmarks-3cah"
-    },
-    {
-      "title": "Computers and upgrades",
-      "hot": "❤️ 1 💬 0",
-      "desc": "My first computer was a Desktop with AMD Sempron processor which used to run at 1.6GHz. It was...",
-      "source": "dev",
-      "tag": "watercooler",
-      "url": "https://dev.to/unsungnovelty/computers-and-upgrades-3n7f"
-    },
-    {
-      "title": "Architect A Personalized Multi-Agent System with Long-Term Memory",
-      "hot": "❤️ 24 💬 1",
-      "desc": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal —...",
-      "source": "dev",
-      "tag": "ai,  googlecloud",
-      "url": "https://dev.to/googleai/architect-a-personalized-multi-agent-system-with-long-term-memory-3o15"
-    },
-    {
-      "title": "Local Testing of a Multi-Agent System with Memory",
-      "hot": "❤️ 23 💬 1",
-      "desc": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal: a...",
-      "source": "dev",
-      "tag": "ai,  googlecloud",
-      "url": "https://dev.to/googleai/local-testing-of-a-multi-agent-system-with-memory-37mm"
-    },
-    {
-      "title": "Stop Shipping Vulnerabilities by Default: An Intro to Docker Hardened Images",
-      "hot": "❤️ 32 💬 0",
-      "desc": "Docker Hardened Images are changing how teams think about container security — not as an...",
-      "source": "dev",
-      "tag": "devops,  docker",
-      "url": "https://dev.to/gelopfalcon/stop-shipping-vulnerabilities-by-default-an-intro-to-docker-hardened-images-d0c"
-    }
-  ],
   "tech": [
+    {
+      "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
+      "hot": "3.0m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 76 points",
+      "url": "https://github.com/imtomt/ymawky"
+    },
     {
       "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
       "hot": "3.0m",
       "desc": "twitter.com",
       "source": "tech",
-      "tag": "⬆️ 362 points",
+      "tag": "⬆️ 465 points",
       "url": "https://twitter.com/jarredsumner/status/2053047748191232310"
     },
     {
-      "title": "Internet Archive Switzerland",
+      "title": "Gemini API File Search is now multimodal",
       "hot": "3.0m",
+      "desc": "blog.google",
+      "source": "tech",
+      "tag": "⬆️ 18 points",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/"
+    },
+    {
+      "title": "Casio S100X Japanese Lacquer Edition (JP Page Only)",
+      "hot": "3.0m",
+      "desc": "casio.com",
+      "source": "tech",
+      "tag": "⬆️ 40 points",
+      "url": "https://www.casio.com/jp/basic-calculators/premium/en-s100x-jc1-u/"
+    },
+    {
+      "title": "Internet Archive Switzerland",
+      "hot": "2.9m",
       "desc": "blog.archive.org",
       "source": "tech",
-      "tag": "⬆️ 511 points",
+      "tag": "⬆️ 565 points",
       "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/"
     },
     {
+      "title": "I’ve banned query strings",
+      "hot": "2.9m",
+      "desc": "chrismorgan.info",
+      "source": "tech",
+      "tag": "⬆️ 311 points",
+      "url": "https://chrismorgan.info/no-query-strings"
+    },
+    {
+      "title": "I'm writing a history of Visual Basic, Chapter 1 is up",
+      "hot": "2.9m",
+      "desc": "evilgeniuslabs.ca",
+      "source": "tech",
+      "tag": "⬆️ 56 points",
+      "url": "https://evilgeniuslabs.ca/blog/visual-basic-history-chapter-1-launch"
+    },
+    {
       "title": "The Serial TTL connector we deserve",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "kohlschuetter.github.io",
       "source": "tech",
-      "tag": "⬆️ 19 points",
+      "tag": "⬆️ 68 points",
       "url": "https://kohlschuetter.github.io/blog/posts/2026/05/07/serial-ttl-connector/"
     },
     {
-      "title": "Rust but Lisp",
-      "hot": "3.0m",
+      "title": "Local privilege escalation via execve()",
+      "hot": "2.9m",
+      "desc": "freebsd.org",
+      "source": "tech",
+      "tag": "⬆️ 111 points",
+      "url": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc"
+    },
+    {
+      "title": "Show HN: Rust but Lisp",
+      "hot": "2.9m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 39 points",
+      "tag": "⬆️ 101 points",
       "url": "https://github.com/ThatXliner/rust-but-lisp"
     },
     {
@@ -201,128 +87,80 @@
       "hot": "2.9m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 71 points",
+      "tag": "⬆️ 120 points",
       "url": "https://github.com/nooga/let-go"
     },
     {
       "title": "Zed Editor Theme-Builder",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "zed.dev",
       "source": "tech",
-      "tag": "⬆️ 138 points",
+      "tag": "⬆️ 173 points",
       "url": "https://zed.dev/theme-builder"
     },
     {
-      "title": "I’ve banned query strings",
-      "hot": "2.9m",
-      "desc": "chrismorgan.info",
-      "source": "tech",
-      "tag": "⬆️ 236 points",
-      "url": "https://chrismorgan.info/no-query-strings"
-    },
-    {
       "title": "Making your own programming language is easier than you think (but also harder)",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "lisyarus.github.io",
       "source": "tech",
-      "tag": "⬆️ 29 points",
+      "tag": "⬆️ 69 points",
       "url": "https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html"
     },
     {
-      "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
-      "hot": "2.9m",
-      "desc": "copahost.com",
+      "title": "The first microcomputer: The transfluxor-powered Arma Micro Computer from 1962",
+      "hot": "2.8m",
+      "desc": "righto.com",
       "source": "tech",
-      "tag": "⬆️ 98 points",
-      "url": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/"
-    },
-    {
-      "title": "Production engineering when trading billions of dollars a day [video]",
-      "hot": "2.9m",
-      "desc": "youtube.com",
-      "source": "tech",
-      "tag": "⬆️ 76 points",
-      "url": "https://www.youtube.com/watch?v=zR9PpXWsKFQ"
+      "tag": "⬆️ 40 points",
+      "url": "https://www.righto.com/2024/02/the-first-microcomputer-transfluxor.html"
     },
     {
       "title": "Distributing Mac software is increasing my cortisol levels",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "blog.kronis.dev",
       "source": "tech",
-      "tag": "⬆️ 175 points",
+      "tag": "⬆️ 233 points",
       "url": "https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels"
+    },
+    {
+      "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
+      "hot": "2.8m",
+      "desc": "copahost.com",
+      "source": "tech",
+      "tag": "⬆️ 114 points",
+      "url": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/"
     },
     {
       "title": "LLMs corrupt your documents when you delegate",
       "hot": "2.8m",
       "desc": "arxiv.org",
       "source": "tech",
-      "tag": "⬆️ 337 points",
+      "tag": "⬆️ 375 points",
       "url": "https://arxiv.org/abs/2604.15597"
     },
     {
       "title": "A recent experience with ChatGPT 5.5 Pro",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "gowers.wordpress.com",
       "source": "tech",
-      "tag": "⬆️ 587 points",
+      "tag": "⬆️ 616 points",
       "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/"
     },
     {
-      "title": "I caught the car",
-      "hot": "2.8m",
-      "desc": "undecidability.net",
-      "source": "tech",
-      "tag": "⬆️ 32 points",
-      "url": "https://undecidability.net/senior/"
-    },
-    {
-      "title": "Meta's embrace of A.I. is making its employees miserable",
-      "hot": "2.8m",
-      "desc": "nytimes.com",
-      "source": "tech",
-      "tag": "⬆️ 230 points",
-      "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html"
-    },
-    {
-      "title": "The hypocrisy of cyberlibertarianism",
-      "hot": "2.8m",
-      "desc": "matduggan.com",
-      "source": "tech",
-      "tag": "⬆️ 244 points",
-      "url": "https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/"
-    },
-    {
-      "title": "France Moves to Break Encrypted Messaging",
-      "hot": "2.8m",
-      "desc": "reclaimthenet.org",
+      "title": "Surfel-based global illumination on the web",
+      "hot": "2.7m",
+      "desc": "juretriglav.si",
       "source": "tech",
       "tag": "⬆️ 31 points",
-      "url": "https://reclaimthenet.org/france-moves-to-break-encrypted-messaging"
+      "url": "https://juretriglav.si/surfel-based-global-illumination-on-the-web/"
     },
     {
-      "title": "The first microcomputer: The transfluxor-powered Arma Micro Computer from 1962",
+      "title": "Production engineering when trading billions of dollars a day [video]",
       "hot": "2.7m",
-      "desc": "righto.com",
+      "desc": "youtube.com",
       "source": "tech",
-      "tag": "⬆️ 6 points",
-      "url": "https://www.righto.com/2024/02/the-first-microcomputer-transfluxor.html"
-    },
-    {
-      "title": "Getting arrested in Japan",
-      "hot": "2.7m",
-      "desc": "sundaicity.com",
-      "source": "tech",
-      "tag": "⬆️ 108 points",
-      "url": "https://sundaicity.com/blogs/getting-arrested-in-japan"
-    },
-    {
-      "title": "Using Claude Code: The unreasonable effectiveness of HTML",
-      "hot": "2.7m",
-      "desc": "twitter.com",
-      "source": "tech",
-      "tag": "⬆️ 405 points",
-      "url": "https://twitter.com/trq212/status/2052809885763747935"
+      "tag": "⬆️ 105 points",
+      "url": "https://www.youtube.com/watch?v=zR9PpXWsKFQ"
     }
   ],
   "space": [
@@ -450,7 +288,7 @@
   "github": [
     {
       "title": "antirez/ds4: DeepSeek 4 Flash local inference engine for Metal",
-      "hot": "⭐ 4.4k",
+      "hot": "⭐ 4.8k",
       "desc": "DeepSeek 4 Flash local inference engine for Metal",
       "source": "github",
       "tag": "C",
@@ -458,11 +296,19 @@
     },
     {
       "title": "V4bel/dirtyfrag: ",
-      "hot": "⭐ 3.6k",
+      "hot": "⭐ 3.7k",
       "desc": "V4bel/dirtyfrag",
       "source": "github",
       "tag": "C",
       "url": "https://github.com/V4bel/dirtyfrag"
+    },
+    {
+      "title": "vercel-labs/zero-native: Build desktop + mobile apps with Zig and web UI",
+      "hot": "⭐ 1.7k",
+      "desc": "Build desktop + mobile apps with Zig and web UI",
+      "source": "github",
+      "tag": "Zig",
+      "url": "https://github.com/vercel-labs/zero-native"
     },
     {
       "title": "aattaran/deepclaude: Use Claude Code's autonomous agent loop with DeepSeek V4 Pr",
@@ -474,19 +320,11 @@
     },
     {
       "title": "strukto-ai/mirage: A Unified Virtual Filesystem For AI Agents",
-      "hot": "⭐ 1.6k",
+      "hot": "⭐ 1.7k",
       "desc": "A Unified Virtual Filesystem For AI Agents",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/strukto-ai/mirage"
-    },
-    {
-      "title": "vercel-labs/zero-native: Build desktop + mobile apps with Zig and web UI",
-      "hot": "⭐ 1.6k",
-      "desc": "Build desktop + mobile apps with Zig and web UI",
-      "source": "github",
-      "tag": "Zig",
-      "url": "https://github.com/vercel-labs/zero-native"
     },
     {
       "title": "yaojingang/yao-open-prompts: Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
@@ -498,7 +336,7 @@
     },
     {
       "title": "XBuilderLAB/cheat-on-content: You're reading this. The skill predicted it. A wor",
-      "hot": "⭐ 1.4k",
+      "hot": "⭐ 1.5k",
       "desc": "You're reading this. The skill predicted it. A workflow that turns every post into a calibrated experiment—score, blind-predict, retro, evolve. The fu",
       "source": "github",
       "tag": "Shell",
@@ -506,7 +344,7 @@
     },
     {
       "title": "MayersScott/rkn-block-checker: Diagnose RKN/TSPU internet blocks layer by layer ",
-      "hot": "⭐ 961",
+      "hot": "⭐ 986",
       "desc": "Diagnose RKN/TSPU internet blocks layer by layer (DNS, TCP, TLS, HTTP)",
       "source": "github",
       "tag": "Python",
@@ -514,7 +352,7 @@
     },
     {
       "title": "lightseekorg/tokenspeed: TokenSpeed is a speed-of-light LLM inference engine.",
-      "hot": "⭐ 856",
+      "hot": "⭐ 865",
       "desc": "TokenSpeed is a speed-of-light LLM inference engine.",
       "source": "github",
       "tag": "Python",
@@ -522,7 +360,7 @@
     },
     {
       "title": "raiyanyahya/how-to-train-your-gpt: Build a modern LLM from scratch. Every line c",
-      "hot": "⭐ 786",
+      "hot": "⭐ 803",
       "desc": "Build a modern LLM from scratch. Every line commented. Explained like we are five.",
       "source": "github",
       "tag": "Jupyter Notebook",
@@ -538,7 +376,7 @@
     },
     {
       "title": "zarazhangrui/beautiful-html-templates: A library of HTML slide templates designe",
-      "hot": "⭐ 599",
+      "hot": "⭐ 626",
       "desc": "A library of HTML slide templates designed so any coding agent can pick the right one and produce a beautiful deck on the user's behalf, automatically",
       "source": "github",
       "tag": "HTML",
@@ -546,7 +384,7 @@
     },
     {
       "title": "nikzad-avasam/youtube-dl: 🎬 You tube Downloader to your github repository .",
-      "hot": "⭐ 565",
+      "hot": "⭐ 569",
       "desc": "🎬 You tube Downloader to your github repository .",
       "source": "github",
       "tag": "GitHub",
@@ -554,8 +392,8 @@
     },
     {
       "title": "WenyuChiou/awesome-agentic-ai-zh: AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三",
-      "hot": "⭐ 531",
-      "desc": "AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁��／简中／English）。歡迎社群一起貢獻、優化內容。",
+      "hot": "⭐ 559",
+      "desc": "AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中���简中／English）。歡迎社群一起貢獻、優化內容。",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
@@ -567,6 +405,168 @@
       "source": "github",
       "tag": "GitHub",
       "url": "https://github.com/jherrodthomas/robotics-skills-suite"
+    }
+  ],
+  "dev": [
+    {
+      "title": "What was your win this week??",
+      "hot": "❤️ 50 💬 47",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "discuss,  weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-96l"
+    },
+    {
+      "title": "I Didn’t Stop Building. I Just Left My Laptop.",
+      "hot": "❤️ 104 💬 38",
+      "desc": "Hey there again guys! It’s been almost two months since my last post. And in the back of my head,...",
+      "source": "dev",
+      "tag": "career,  learning",
+      "url": "https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da"
+    },
+    {
+      "title": "Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!",
+      "hot": "❤️ 325 💬 46",
+      "desc": "Local AI is having a moment, and we want you to be part of it!  Running through May 24, the Gemma 4...",
+      "source": "dev",
+      "tag": "devchallenge,  gemmachallenge",
+      "url": "https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in"
+    },
+    {
+      "title": "Congrats to the OpenClaw Challenge Winners!",
+      "hot": "❤️ 74 💬 24",
+      "desc": "The results are in! We are thrilled to announce the winners of the OpenClaw Challenge.  Over the past...",
+      "source": "dev",
+      "tag": "devchallenge,  openclawchallenge",
+      "url": "https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha"
+    },
+    {
+      "title": "I shipped a video player to npm — twice. What I learned about scoped CSS, \"use client\", and Nuxt modules.",
+      "hot": "❤️ 0 💬 0",
+      "desc": "A small, HLS-capable video player for React and Vue, with zero global CSS side-effects. The build-in-public story behind",
+      "source": "dev",
+      "tag": "react,  vue",
+      "url": "https://dev.to/imfahad/i-shipped-a-video-player-to-npm-twice-what-i-learned-about-scoped-css-use-client-and-nuxt-2dfl"
+    },
+    {
+      "title": "I built a Ruby gem so I don't have to squint at hash dumps anymore",
+      "hot": "❤️ 5 💬 3",
+      "desc": "Stop squinting at hash dumps. typed_print turns Ruby hashes into clean, aligned tables. Zero dependencies. Markdown supp",
+      "source": "dev",
+      "tag": "ruby,  cli",
+      "url": "https://dev.to/eayurt/i-built-a-ruby-gem-so-i-dont-have-to-squint-at-hash-dumps-anymore-2hha"
+    },
+    {
+      "title": "How CLAUDE.md actually works",
+      "hot": "❤️ 4 💬 0",
+      "desc": "Most engineers write CLAUDE.md like a README. They put their stack, a few preferences, maybe a note...",
+      "source": "dev",
+      "tag": "claude,  ai",
+      "url": "https://dev.to/travelingwilbur/how-claudemd-actually-works-3l1e"
+    },
+    {
+      "title": "What Reddit Can Teach Us About Women’s Watch Preferences (Python + NLP Project)",
+      "hot": "❤️ 4 💬 0",
+      "desc": "Most “what watch should I buy?” discussions online skew heavily male. A friend wanted to launch a...",
+      "source": "dev",
+      "tag": "python,  nlp",
+      "url": "https://dev.to/elizabeththomas7/what-reddit-can-teach-us-about-womens-watch-preferences-python-nlp-project-46k3"
+    },
+    {
+      "title": "Reusable Spring Boot 4 Error Handler",
+      "hot": "❤️ 0 💬 2",
+      "desc": "Reusable Spring Boot 4 auto-configuration that turns exceptions into structured RFC 9457 Problem Details responses and p",
+      "source": "dev",
+      "tag": "springboot,  errorhandler",
+      "url": "https://dev.to/adzubla/reusable-spring-boot-4-error-handler-10kp"
+    },
+    {
+      "title": "Build the Environment, Not the Agent",
+      "hot": "❤️ 0 💬 0",
+      "desc": "If you are building agents, the most important decision you make is where to put the work that keeps...",
+      "source": "dev",
+      "tag": "ai,  agents",
+      "url": "https://dev.to/saravanan_ramupillai/build-the-environment-not-the-agent-3f05"
+    },
+    {
+      "title": "Speed, caching, and the 40x cost wall",
+      "hot": "❤️ 2 💬 0",
+      "desc": "Notes from this week on the RapidNative agent stack. Why we love Cerebras, why the cost still bites, and the split-agent",
+      "source": "dev",
+      "tag": "ai,  llm",
+      "url": "https://dev.to/sanketsahu/speed-caching-and-the-40x-cost-wall-2gn0"
+    },
+    {
+      "title": "gitui: a tiny TUI for your pull requests",
+      "hot": "❤️ 0 💬 0",
+      "desc": "If you spend most of your day in the terminal — especially nowadays with Claude Code and other...",
+      "source": "dev",
+      "tag": "github,  cli",
+      "url": "https://dev.to/thalesbruno/gitui-a-tiny-tui-for-your-pull-requests-3me0"
+    },
+    {
+      "title": "Building ADK Agents with Azure Cloud Shell",
+      "hot": "❤️ 5 💬 2",
+      "desc": "This article covers installing and Running Gemini CLI cross-cloud. The Azure Cloud Shell provides a...",
+      "source": "dev",
+      "tag": "phimodel,  azurefoundry",
+      "url": "https://dev.to/gde/building-adk-agents-with-azure-cloud-shell-3bd1"
+    },
+    {
+      "title": "Gemma-4-26B on v6e-4 TPU Benchmarks",
+      "hot": "❤️ 6 💬 1",
+      "desc": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4  model:...",
+      "source": "dev",
+      "tag": "devchallenge,  gemmachallenge",
+      "url": "https://dev.to/gde/gemma-4-26b-on-v6e-4-tpu-benchmarks-3cah"
+    },
+    {
+      "title": "Computers and upgrades",
+      "hot": "❤️ 1 💬 0",
+      "desc": "My first computer was a Desktop with AMD Sempron processor which used to run at 1.6GHz. It was...",
+      "source": "dev",
+      "tag": "watercooler",
+      "url": "https://dev.to/unsungnovelty/computers-and-upgrades-3n7f"
+    },
+    {
+      "title": "Local Testing of a Multi-Agent System with Memory",
+      "hot": "❤️ 23 💬 1",
+      "desc": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal: a...",
+      "source": "dev",
+      "tag": "ai,  googlecloud",
+      "url": "https://dev.to/googleai/local-testing-of-a-multi-agent-system-with-memory-37mm"
+    },
+    {
+      "title": "Architect A Personalized Multi-Agent System with Long-Term Memory",
+      "hot": "❤️ 24 💬 1",
+      "desc": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal —...",
+      "source": "dev",
+      "tag": "ai,  googlecloud",
+      "url": "https://dev.to/googleai/architect-a-personalized-multi-agent-system-with-long-term-memory-3o15"
+    },
+    {
+      "title": "Stop Shipping Vulnerabilities by Default: An Intro to Docker Hardened Images",
+      "hot": "❤️ 32 💬 0",
+      "desc": "Docker Hardened Images are changing how teams think about container security — not as an...",
+      "source": "dev",
+      "tag": "devops,  docker",
+      "url": "https://dev.to/gelopfalcon/stop-shipping-vulnerabilities-by-default-an-intro-to-docker-hardened-images-d0c"
+    },
+    {
+      "title": "Deploying a Multi-Agent System with Terraform and Cloud Run",
+      "hot": "❤️ 21 💬 0",
+      "desc": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal: a...",
+      "source": "dev",
+      "tag": "googlecloud,  terraform",
+      "url": "https://dev.to/googleai/deploying-a-multi-agent-system-with-terraform-and-cloud-run-2a9c"
+    },
+    {
+      "title": "The Local Model That Doesn't Sleep: Gemma 4 + MTP as a Marathon Engine",
+      "hot": "❤️ 11 💬 4",
+      "desc": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4  I set the agent running just...",
+      "source": "dev",
+      "tag": "ai,  gemma",
+      "url": "https://dev.to/ertugrul_demir/the-local-model-that-doesnt-sleep-gemma-4-mtp-as-a-marathon-engine-4c9"
     }
   ]
 }
