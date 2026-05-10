@@ -1,11 +1,27 @@
 {
   "data": [
     {
+      "title": "Space Cadet Pinball on Linux",
+      "hot": "3.0m",
+      "desc": "brennan.io",
+      "source": "tech",
+      "tag": "⬆️ 64 points",
+      "url": "https://brennan.io/2026/05/09/pinball-and-escrow/"
+    },
+    {
+      "title": "I returned to AWS, and was reminded why I left",
+      "hot": "3.0m",
+      "desc": "fourlightyears.blogspot.com",
+      "source": "tech",
+      "tag": "⬆️ 41 points",
+      "url": "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html"
+    },
+    {
       "title": "Idempotency Is Easy Until the Second Request Is Different",
       "hot": "3.0m",
       "desc": "blog.dochia.dev",
       "source": "tech",
-      "tag": "⬆️ 78 points",
+      "tag": "⬆️ 125 points",
       "url": "https://blog.dochia.dev/blog/idempotency/"
     },
     {
@@ -13,23 +29,15 @@
       "hot": "3.0m",
       "desc": "twitter.com",
       "source": "tech",
-      "tag": "⬆️ 592 points",
+      "tag": "⬆️ 608 points",
       "url": "https://twitter.com/jarredsumner/status/2053047748191232310"
     },
     {
-      "title": "Space Cadet Pinball on Linux",
-      "hot": "3.0m",
-      "desc": "brennan.io",
-      "source": "tech",
-      "tag": "⬆️ 5 points",
-      "url": "https://brennan.io/2026/05/09/pinball-and-escrow/"
-    },
-    {
       "title": "The One Dollar Counterfeiter",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "amusingplanet.com",
       "source": "tech",
-      "tag": "⬆️ 164 points",
+      "tag": "⬆️ 187 points",
       "url": "https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html"
     },
     {
@@ -37,71 +45,87 @@
       "hot": "2.9m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 299 points",
+      "tag": "⬆️ 317 points",
       "url": "https://github.com/imtomt/ymawky"
+    },
+    {
+      "title": "9 Mothers (YC P26) Is Hiring",
+      "hot": "2.9m",
+      "desc": "jobs.ashbyhq.com",
+      "source": "tech",
+      "tag": "⬆️ 1 points",
+      "url": "https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q"
     },
     {
       "title": "Casio S100X Japanese Lacquer Edition (JP Page Only)",
       "hot": "2.9m",
       "desc": "casio.com",
       "source": "tech",
-      "tag": "⬆️ 159 points",
+      "tag": "⬆️ 180 points",
       "url": "https://www.casio.com/jp/basic-calculators/premium/en-s100x-jc1-u/"
-    },
-    {
-      "title": "We see something that works, and then we understand it",
-      "hot": "2.9m",
-      "desc": "lemire.me",
-      "source": "tech",
-      "tag": "⬆️ 117 points",
-      "url": "https://lemire.me/blog/2025/12/04/we-see-something-that-works-and-then-we-understand-it/"
-    },
-    {
-      "title": "Gemini API File Search is now multimodal",
-      "hot": "2.9m",
-      "desc": "blog.google",
-      "source": "tech",
-      "tag": "⬆️ 106 points",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/"
     },
     {
       "title": "Internet Archive Switzerland",
       "hot": "2.9m",
       "desc": "blog.archive.org",
       "source": "tech",
-      "tag": "⬆️ 624 points",
+      "tag": "⬆️ 632 points",
       "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/"
     },
     {
-      "title": "I’ve banned query strings",
+      "title": "Gemini API File Search is now multimodal",
       "hot": "2.9m",
-      "desc": "chrismorgan.info",
+      "desc": "blog.google",
       "source": "tech",
-      "tag": "⬆️ 432 points",
-      "url": "https://chrismorgan.info/no-query-strings"
+      "tag": "⬆️ 118 points",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/"
     },
     {
       "title": "Task Paralysis and AI",
       "hot": "2.9m",
       "desc": "g5t.de",
       "source": "tech",
-      "tag": "⬆️ 30 points",
+      "tag": "⬆️ 44 points",
       "url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html"
     },
     {
-      "title": "FreeBSD – A Lesson in Poor Defaults",
+      "title": "We see something that works, and then we understand it",
       "hot": "2.8m",
-      "desc": "vez.mrsk.me",
+      "desc": "lemire.me",
       "source": "tech",
-      "tag": "⬆️ 7 points",
-      "url": "https://vez.mrsk.me/freebsd-defaults"
+      "tag": "⬆️ 126 points",
+      "url": "https://lemire.me/blog/2025/12/04/we-see-something-that-works-and-then-we-understand-it/"
+    },
+    {
+      "title": "I’ve banned query strings",
+      "hot": "2.8m",
+      "desc": "chrismorgan.info",
+      "source": "tech",
+      "tag": "⬆️ 450 points",
+      "url": "https://chrismorgan.info/no-query-strings"
+    },
+    {
+      "title": "Replacing a 3 GB SQLite db with a 10 MB FST (finite state transducer) binary",
+      "hot": "2.8m",
+      "desc": "til.andrew-quinn.me",
+      "source": "tech",
+      "tag": "⬆️ 44 points",
+      "url": "https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-database-with-a-7-mb-fst-finite-state-trandsucer-binary/"
+    },
+    {
+      "title": "Think Linear Algebra (2023)",
+      "hot": "2.8m",
+      "desc": "allendowney.github.io",
+      "source": "tech",
+      "tag": "⬆️ 12 points",
+      "url": "https://allendowney.github.io/ThinkLinearAlgebra/index.html"
     },
     {
       "title": "Debian must ship reproducible packages",
       "hot": "2.8m",
       "desc": "lists.debian.org",
       "source": "tech",
-      "tag": "⬆️ 187 points",
+      "tag": "⬆️ 220 points",
       "url": "https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html"
     },
     {
@@ -109,57 +133,33 @@
       "hot": "2.8m",
       "desc": "freebsd.org",
       "source": "tech",
-      "tag": "⬆️ 162 points",
+      "tag": "⬆️ 173 points",
       "url": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc"
     },
     {
       "title": "Zed Editor Theme-Builder",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "zed.dev",
       "source": "tech",
-      "tag": "⬆️ 231 points",
+      "tag": "⬆️ 243 points",
       "url": "https://zed.dev/theme-builder"
     },
     {
-      "title": "A recent experience with ChatGPT 5.5 Pro",
-      "hot": "2.8m",
-      "desc": "gowers.wordpress.com",
-      "source": "tech",
-      "tag": "⬆️ 641 points",
-      "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/"
-    },
-    {
       "title": "Distributing Mac software is increasing my cortisol levels",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "blog.kronis.dev",
       "source": "tech",
-      "tag": "⬆️ 312 points",
+      "tag": "⬆️ 327 points",
       "url": "https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels"
     },
     {
-      "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
+      "title": "A recent experience with ChatGPT 5.5 Pro",
       "hot": "2.7m",
-      "desc": "github.com",
+      "desc": "gowers.wordpress.com",
       "source": "tech",
-      "tag": "⬆️ 183 points",
-      "url": "https://github.com/nooga/let-go"
-    },
-    {
-      "title": "Scouting's Real Crisis Is Not Marketing. It Is Decades of Neglect.",
-      "hot": "2.7m",
-      "desc": "untendedfire.org",
-      "source": "tech",
-      "tag": "⬆️ 21 points",
-      "url": "https://www.untendedfire.org/2026/05/09/scoutings-real-crisis-is-not-marketing-it-is-decades-of-neglect/"
-    },
-    {
-      "title": "LLMs corrupt your documents when you delegate",
-      "hot": "2.7m",
-      "desc": "arxiv.org",
-      "source": "tech",
-      "tag": "⬆️ 422 points",
-      "url": "https://arxiv.org/abs/2604.15597"
+      "tag": "⬆️ 648 points",
+      "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/"
     }
   ],
-  "updatedAt": "2026-05-10T11:38:44.018Z"
+  "updatedAt": "2026-05-10T12:44:50.257Z"
 }
