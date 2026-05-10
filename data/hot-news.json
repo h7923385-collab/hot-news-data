@@ -1,304 +1,158 @@
 {
-  "updatedAt": "2026-05-10T18:12:03.428Z",
+  "updatedAt": "2026-05-10T19:37:24.419Z",
   "source": "live",
-  "dev": [
-    {
-      "title": "Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!",
-      "hot": "❤️ 335 💬 47",
-      "desc": "Local AI is having a moment, and we want you to be part of it!  Running through May 24, the Gemma 4...",
-      "source": "dev",
-      "tag": "devchallenge,  gemmachallenge",
-      "url": "https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in"
-    },
-    {
-      "title": "Congrats to the OpenClaw Challenge Winners!",
-      "hot": "❤️ 86 💬 27",
-      "desc": "The results are in! We are thrilled to announce the winners of the OpenClaw Challenge.  Over the past...",
-      "source": "dev",
-      "tag": "devchallenge,  openclawchallenge",
-      "url": "https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha"
-    },
-    {
-      "title": "What was your win this week??",
-      "hot": "❤️ 55 💬 67",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "discuss,  weeklyretro",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-96l"
-    },
-    {
-      "title": "What Reddit Can Teach Us About Women’s Watch Preferences (Python + NLP Project)",
-      "hot": "❤️ 4 💬 0",
-      "desc": "Most “what watch should I buy?” discussions online skew heavily male. A friend wanted to launch a...",
-      "source": "dev",
-      "tag": "python,  nlp",
-      "url": "https://dev.to/elizabeththomas7/what-reddit-can-teach-us-about-womens-watch-preferences-python-nlp-project-46k3"
-    },
-    {
-      "title": "I Didn’t Stop Building. I Just Left My Laptop.",
-      "hot": "❤️ 112 💬 47",
-      "desc": "Hey there again guys! It’s been almost two months since my last post. And in the back of my head,...",
-      "source": "dev",
-      "tag": "career,  learning",
-      "url": "https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da"
-    },
-    {
-      "title": "Reusable Spring Boot 4 Error Handler",
-      "hot": "❤️ 0 💬 2",
-      "desc": "Reusable Spring Boot 4 auto-configuration that turns exceptions into structured RFC 9457 Problem Details responses and p",
-      "source": "dev",
-      "tag": "springboot,  errorhandler",
-      "url": "https://dev.to/adzubla/reusable-spring-boot-4-error-handler-10kp"
-    },
-    {
-      "title": "Build the Environment, Not the Agent",
-      "hot": "❤️ 0 💬 0",
-      "desc": "If you are building agents, the most important decision you make is where to put the work that keeps...",
-      "source": "dev",
-      "tag": "ai,  agents",
-      "url": "https://dev.to/saravanan_ramupillai/build-the-environment-not-the-agent-3f05"
-    },
-    {
-      "title": "Speed, caching, and the 40x cost wall",
-      "hot": "❤️ 2 💬 0",
-      "desc": "Notes from this week on the RapidNative agent stack. Why we love Cerebras, why the cost still bites, and the split-agent",
-      "source": "dev",
-      "tag": "ai,  llm",
-      "url": "https://dev.to/sanketsahu/speed-caching-and-the-40x-cost-wall-2gn0"
-    },
-    {
-      "title": "gitui: a tiny TUI for your pull requests",
-      "hot": "❤️ 0 💬 0",
-      "desc": "If you spend most of your day in the terminal — especially nowadays with Claude Code and other...",
-      "source": "dev",
-      "tag": "github,  cli",
-      "url": "https://dev.to/thalesbruno/gitui-a-tiny-tui-for-your-pull-requests-3me0"
-    },
-    {
-      "title": "Building ADK Agents with Azure Cloud Shell",
-      "hot": "❤️ 5 💬 2",
-      "desc": "This article covers installing and Running Gemini CLI cross-cloud. The Azure Cloud Shell provides a...",
-      "source": "dev",
-      "tag": "phimodel,  azurefoundry",
-      "url": "https://dev.to/gde/building-adk-agents-with-azure-cloud-shell-3bd1"
-    },
-    {
-      "title": "Computers and upgrades",
-      "hot": "❤️ 1 💬 0",
-      "desc": "My first computer was a Desktop with AMD Sempron processor which used to run at 1.6GHz. It was...",
-      "source": "dev",
-      "tag": "watercooler",
-      "url": "https://dev.to/unsungnovelty/computers-and-upgrades-3n7f"
-    },
-    {
-      "title": "Local Testing of a Multi-Agent System with Memory",
-      "hot": "❤️ 23 💬 1",
-      "desc": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal: a...",
-      "source": "dev",
-      "tag": "ai,  googlecloud",
-      "url": "https://dev.to/googleai/local-testing-of-a-multi-agent-system-with-memory-37mm"
-    },
-    {
-      "title": "Stop Shipping Vulnerabilities by Default: An Intro to Docker Hardened Images",
-      "hot": "❤️ 32 💬 0",
-      "desc": "Docker Hardened Images are changing how teams think about container security — not as an...",
-      "source": "dev",
-      "tag": "devops,  docker",
-      "url": "https://dev.to/gelopfalcon/stop-shipping-vulnerabilities-by-default-an-intro-to-docker-hardened-images-d0c"
-    },
-    {
-      "title": "Deploying a Multi-Agent System with Terraform and Cloud Run",
-      "hot": "❤️ 21 💬 0",
-      "desc": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal: a...",
-      "source": "dev",
-      "tag": "googlecloud,  terraform",
-      "url": "https://dev.to/googleai/deploying-a-multi-agent-system-with-terraform-and-cloud-run-2a9c"
-    },
-    {
-      "title": "The Local Model That Doesn't Sleep: Gemma 4 + MTP as a Marathon Engine",
-      "hot": "❤️ 11 💬 4",
-      "desc": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4  I set the agent running just...",
-      "source": "dev",
-      "tag": "ai,  gemma",
-      "url": "https://dev.to/ertugrul_demir/the-local-model-that-doesnt-sleep-gemma-4-mtp-as-a-marathon-engine-4c9"
-    },
-    {
-      "title": "Getting Started with the Cluster Inventory API on OCM (Part 1: ClusterProfile)",
-      "hot": "❤️ 0 💬 0",
-      "desc": "This is Part 1 of a two-part series. Part 2 (coming soon): Connecting to spoke clusters from a...",
-      "source": "dev",
-      "tag": "kubernetes,  ocm",
-      "url": "https://dev.to/kahirokunn/build-an-open-cluster-management-hub-spoke-environment-and-enable-cluster-inventory-api-kk6"
-    },
-    {
-      "title": "Landscape of ODE Solvers in R: A Practical Overview",
-      "hot": "❤️ 0 💬 0",
-      "desc": "An overview of ODE solvers in R, highlighting their capabilities, performance, and practical considerations.",
-      "source": "dev",
-      "tag": "rstats,  modeling",
-      "url": "https://dev.to/metelkin/landscape-of-ode-solvers-in-r-a-practical-overview-4cc7"
-    },
-    {
-      "title": "What Platform Teams Can Expect From Crossplane v2.2",
-      "hot": "❤️ 0 💬 0",
-      "desc": "A developer submits a ticket to request a database. Three days later, the platform team responds, but...",
-      "source": "dev",
-      "tag": "crossplane,  kubernetes",
-      "url": "https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1"
-    },
-    {
-      "title": "CSS - The single coolest API technique you can imagine.",
-      "hot": "❤️ 8 💬 0",
-      "desc": "To simply call Kizu's Cyclic Space Toggles an upgrade to my Space Toggle technique is like calling...",
-      "source": "dev",
-      "tag": "css,  api",
-      "url": "https://dev.to/janeori/css-the-single-coolest-api-technique-you-can-imagine-4ma8"
-    },
-    {
-      "title": "I built a Ruby gem so I don't have to squint at hash dumps anymore",
-      "hot": "❤️ 5 💬 6",
-      "desc": "Stop squinting at hash dumps. typed_print turns Ruby hashes into clean, aligned tables. Zero dependencies. Markdown supp",
-      "source": "dev",
-      "tag": "ruby,  cli",
-      "url": "https://dev.to/eayurt/i-built-a-ruby-gem-so-i-dont-have-to-squint-at-hash-dumps-anymore-2hha"
-    }
-  ],
   "tech": [
     {
       "title": "Hardware Attestation as Monopoly Enabler",
       "hot": "3.0m",
       "desc": "grapheneos.social",
       "source": "tech",
-      "tag": "⬆️ 28 points",
+      "tag": "⬆️ 299 points",
       "url": "https://grapheneos.social/@GrapheneOS/116550899908879585"
     },
     {
-      "title": "Tracesofhumanity.org by Joanna Rutkowska",
+      "title": "Incident Report: CVE-2024-YIKES",
       "hot": "3.0m",
-      "desc": "tracesofhumanity.org",
-      "source": "tech",
-      "tag": "⬆️ 27 points",
-      "url": "https://tracesofhumanity.org/hello-world/"
-    },
-    {
-      "title": "Walking Slower? Why Your Ears, Not Your Knees, Might Be the Problem",
-      "hot": "3.0m",
-      "desc": "wsj.com",
-      "source": "tech",
-      "tag": "⬆️ 36 points",
-      "url": "https://www.wsj.com/health/wellness/hearing-loss-walking-speed-iphone-study-c53c482a"
-    },
-    {
-      "title": "I returned to AWS, and was reminded why I left",
-      "hot": "3.0m",
-      "desc": "fourlightyears.blogspot.com",
-      "source": "tech",
-      "tag": "⬆️ 452 points",
-      "url": "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html"
-    },
-    {
-      "title": "Incident CVE-2024-Yikes",
-      "hot": "2.9m",
       "desc": "nesbitt.io",
       "source": "tech",
-      "tag": "⬆️ 4 points",
+      "tag": "⬆️ 132 points",
       "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html"
     },
     {
-      "title": "What's a Mathematician to Do?",
+      "title": "Traces Of Humanity",
+      "hot": "3.0m",
+      "desc": "tracesofhumanity.org",
+      "source": "tech",
+      "tag": "⬆️ 68 points",
+      "url": "https://tracesofhumanity.org/hello-world/"
+    },
+    {
+      "title": "Lakebase architecture delivers faster Postgres writes",
+      "hot": "3.0m",
+      "desc": "databricks.com",
+      "source": "tech",
+      "tag": "⬆️ 54 points",
+      "url": "https://www.databricks.com/blog/how-lakebase-architecture-delivers-5x-faster-postgres-writes"
+    },
+    {
+      "title": "I returned to AWS and was reminded why I left",
+      "hot": "2.9m",
+      "desc": "fourlightyears.blogspot.com",
+      "source": "tech",
+      "tag": "⬆️ 502 points",
+      "url": "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html"
+    },
+    {
+      "title": "Walking slower? Your ears, not your knees, might be the problem",
+      "hot": "2.9m",
+      "desc": "wsj.com",
+      "source": "tech",
+      "tag": "⬆️ 53 points",
+      "url": "https://www.wsj.com/health/wellness/hearing-loss-walking-speed-iphone-study-c53c482a"
+    },
+    {
+      "title": "Stop MitM on the first SSH connection, on any VPS or cloud provider",
+      "hot": "2.9m",
+      "desc": "joachimschipper.nl",
+      "source": "tech",
+      "tag": "⬆️ 17 points",
+      "url": "https://www.joachimschipper.nl/Stop%20MITM%20on%20the%20first%20SSH%20connection,%20on%20any%20VPS%20or%20cloud%20provider.html"
+    },
+    {
+      "title": "What's a mathematician to do? (2010)",
       "hot": "2.9m",
       "desc": "mathoverflow.net",
       "source": "tech",
-      "tag": "⬆️ 104 points",
+      "tag": "⬆️ 116 points",
       "url": "https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do"
     },
     {
-      "title": "Space Cadet Pinball on Linux",
+      "title": "The Locals Don't Know",
       "hot": "2.9m",
-      "desc": "brennan.io",
+      "desc": "quarter--mile.com",
       "source": "tech",
-      "tag": "⬆️ 242 points",
-      "url": "https://brennan.io/2026/05/09/pinball-and-escrow/"
+      "tag": "⬆️ 34 points",
+      "url": "https://www.quarter--mile.com/The-Locals-Dont-Know"
     },
     {
-      "title": "Shunting-Yard Animation",
+      "title": "Louis Rossmann offers to pay legal fees for a threatened OrcaSlicer developer",
       "hot": "2.9m",
-      "desc": "somethingorotherwhatever.com",
+      "desc": "tomshardware.com",
       "source": "tech",
-      "tag": "⬆️ 24 points",
-      "url": "https://somethingorotherwhatever.com/shunting-yard-animation/"
+      "tag": "⬆️ 293 points",
+      "url": "https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer"
     },
     {
-      "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
-      "hot": "2.9m",
-      "desc": "twitter.com",
-      "source": "tech",
-      "tag": "⬆️ 673 points",
-      "url": "https://twitter.com/jarredsumner/status/2053047748191232310"
-    },
-    {
-      "title": "Idempotency Is Easy Until the Second Request Is Different",
+      "title": "Idempotency is easy until the second request is different",
       "hot": "2.9m",
       "desc": "blog.dochia.dev",
       "source": "tech",
-      "tag": "⬆️ 229 points",
+      "tag": "⬆️ 235 points",
       "url": "https://blog.dochia.dev/blog/idempotency/"
     },
     {
-      "title": "5x perf increase on writes with FPW disabled in Postgres",
-      "hot": "2.9m",
-      "desc": "databricks.com",
+      "title": "Space Cadet Pinball on Linux",
+      "hot": "2.8m",
+      "desc": "brennan.io",
       "source": "tech",
-      "tag": "⬆️ 20 points",
-      "url": "https://www.databricks.com/blog/how-lakebase-architecture-delivers-5x-faster-postgres-writes"
+      "tag": "⬆️ 262 points",
+      "url": "https://brennan.io/2026/05/09/pinball-and-escrow/"
+    },
+    {
+      "title": "Spain became one of Europe’s cheapest power markets",
+      "hot": "2.8m",
+      "desc": "janrosenow.substack.com",
+      "source": "tech",
+      "tag": "⬆️ 65 points",
+      "url": "https://janrosenow.substack.com/p/spain-just-became-one-of-europes"
     },
     {
       "title": "The One Dollar Counterfeiter",
       "hot": "2.8m",
       "desc": "amusingplanet.com",
       "source": "tech",
-      "tag": "⬆️ 269 points",
+      "tag": "⬆️ 288 points",
       "url": "https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html"
-    },
-    {
-      "title": "Think Linear Algebra (2023)",
-      "hot": "2.8m",
-      "desc": "allendowney.github.io",
-      "source": "tech",
-      "tag": "⬆️ 99 points",
-      "url": "https://allendowney.github.io/ThinkLinearAlgebra/index.html"
-    },
-    {
-      "title": "Spain just became one of Europe's cheapest power markets. Here is how",
-      "hot": "2.8m",
-      "desc": "janrosenow.substack.com",
-      "source": "tech",
-      "tag": "⬆️ 28 points",
-      "url": "https://janrosenow.substack.com/p/spain-just-became-one-of-europes"
-    },
-    {
-      "title": "Academic Research Skills for Claude Code",
-      "hot": "2.8m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 56 points",
-      "url": "https://github.com/Imbad0202/academic-research-skills"
-    },
-    {
-      "title": "The River Otter's Remarkable Comeback",
-      "hot": "2.8m",
-      "desc": "rewildingmag.com",
-      "source": "tech",
-      "tag": "⬆️ 59 points",
-      "url": "https://www.rewildingmag.com/the-river-otters-remarkable-comeback/"
     },
     {
       "title": "Show HN: An index of indie web/blog indexes",
       "hot": "2.8m",
       "desc": "theindex.fyi",
       "source": "tech",
-      "tag": "⬆️ 29 points",
+      "tag": "⬆️ 42 points",
       "url": "https://theindex.fyi"
+    },
+    {
+      "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
+      "hot": "2.8m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 363 points",
+      "url": "https://github.com/imtomt/ymawky"
+    },
+    {
+      "title": "Think Linear Algebra (2023)",
+      "hot": "2.8m",
+      "desc": "allendowney.github.io",
+      "source": "tech",
+      "tag": "⬆️ 117 points",
+      "url": "https://allendowney.github.io/ThinkLinearAlgebra/index.html"
+    },
+    {
+      "title": "Shunting-Yard Animation",
+      "hot": "2.7m",
+      "desc": "somethingorotherwhatever.com",
+      "source": "tech",
+      "tag": "⬆️ 30 points",
+      "url": "https://somethingorotherwhatever.com/shunting-yard-animation/"
+    },
+    {
+      "title": "Task Paralysis and AI",
+      "hot": "2.7m",
+      "desc": "g5t.de",
+      "source": "tech",
+      "tag": "⬆️ 133 points",
+      "url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html"
     },
     {
       "title": "9 Mothers (YC P26) Is Hiring",
@@ -307,22 +161,6 @@
       "source": "tech",
       "tag": "⬆️ 1 points",
       "url": "https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q"
-    },
-    {
-      "title": "The Locals Don't Know",
-      "hot": "2.7m",
-      "desc": "quarter--mile.com",
-      "source": "tech",
-      "tag": "⬆️ 4 points",
-      "url": "https://www.quarter--mile.com/The-Locals-Dont-Know"
-    },
-    {
-      "title": "Stop MitM on the first SSH connection, on any VPS or cloud provider",
-      "hot": "2.7m",
-      "desc": "joachimschipper.nl",
-      "source": "tech",
-      "tag": "⬆️ 3 points",
-      "url": "https://www.joachimschipper.nl/Stop%20MITM%20on%20the%20first%20SSH%20connection,%20on%20any%20VPS%20or%20cloud%20provider.html"
     }
   ],
   "space": [
@@ -447,6 +285,168 @@
       "url": "https://science.nasa.gov/earth/earth-observatory/tracy-arms-post-tsunami-landscape/"
     }
   ],
+  "dev": [
+    {
+      "title": "Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!",
+      "hot": "❤️ 348 💬 49",
+      "desc": "Local AI is having a moment, and we want you to be part of it!  Running through May 24, the Gemma 4...",
+      "source": "dev",
+      "tag": "devchallenge,  gemmachallenge",
+      "url": "https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in"
+    },
+    {
+      "title": "Congrats to the OpenClaw Challenge Winners!",
+      "hot": "❤️ 87 💬 27",
+      "desc": "The results are in! We are thrilled to announce the winners of the OpenClaw Challenge.  Over the past...",
+      "source": "dev",
+      "tag": "devchallenge,  openclawchallenge",
+      "url": "https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha"
+    },
+    {
+      "title": "What was your win this week??",
+      "hot": "❤️ 55 💬 68",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "discuss,  weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-96l"
+    },
+    {
+      "title": "I Grounded Gemma 4 in 118,000 Real Stars — Here's What It Can Do",
+      "hot": "❤️ 0 💬 0",
+      "desc": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4           What I Built   StarLens...",
+      "source": "dev",
+      "tag": "devchallenge,  gemmachallenge",
+      "url": "https://dev.to/imjoseangel/starlens-gemma-4-as-your-personal-planetarium-guide-36a4"
+    },
+    {
+      "title": "I Built a Chrome Extension to Sync AI Studio System Instructions. Here's Why chrome.storage.sync Couldn't Do It",
+      "hot": "❤️ 0 💬 0",
+      "desc": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4  I use Google AI Studio on three...",
+      "source": "dev",
+      "tag": "ai,  javascript",
+      "url": "https://dev.to/codewithahsan/i-built-a-chrome-extension-to-sync-ai-studio-system-instructions-heres-why-chromestoragesync-2llm"
+    },
+    {
+      "title": "Code with Claude Extended SF: Heck yeah and then wait, what?",
+      "hot": "❤️ 7 💬 1",
+      "desc": "Heck yeah   I won a golden ticket to Code with Claude Extended (CCE) in San Francisco on May...",
+      "source": "dev",
+      "tag": "ai,  claude",
+      "url": "https://dev.to/earlgreyhot1701d/code-with-claude-extended-sf-heck-yeah-and-wait-what-5dbd"
+    },
+    {
+      "title": "What Reddit Can Teach Us About Women’s Watch Preferences (Python + NLP Project)",
+      "hot": "❤️ 4 💬 0",
+      "desc": "Most “what watch should I buy?” discussions online skew heavily male. A friend wanted to launch a...",
+      "source": "dev",
+      "tag": "python,  nlp",
+      "url": "https://dev.to/elizabeththomas7/what-reddit-can-teach-us-about-womens-watch-preferences-python-nlp-project-46k3"
+    },
+    {
+      "title": "TaskDev - a task runner for AI coding agents (MCP)",
+      "hot": "❤️ 0 💬 0",
+      "desc": "One place for your dev tasks. One place for your logs. And your AI agent sees them too.  Like most...",
+      "source": "dev",
+      "tag": "vscode,  extensions",
+      "url": "https://dev.to/tolbxela/taskdev-a-task-runner-for-ai-coding-agents-mcp-3kg1"
+    },
+    {
+      "title": "I Didn’t Stop Building. I Just Left My Laptop.",
+      "hot": "❤️ 112 💬 47",
+      "desc": "Hey there again guys! It’s been almost two months since my last post. And in the back of my head,...",
+      "source": "dev",
+      "tag": "career,  learning",
+      "url": "https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da"
+    },
+    {
+      "title": "Reusable Spring Boot 4 Error Handler",
+      "hot": "❤️ 0 💬 2",
+      "desc": "Reusable Spring Boot 4 auto-configuration that turns exceptions into structured RFC 9457 Problem Details responses and p",
+      "source": "dev",
+      "tag": "springboot,  errorhandler",
+      "url": "https://dev.to/adzubla/reusable-spring-boot-4-error-handler-10kp"
+    },
+    {
+      "title": "Build the Environment, Not the Agent",
+      "hot": "❤️ 0 💬 0",
+      "desc": "If you are building agents, the most important decision you make is where to put the work that keeps...",
+      "source": "dev",
+      "tag": "ai,  agents",
+      "url": "https://dev.to/saravanan_ramupillai/build-the-environment-not-the-agent-3f05"
+    },
+    {
+      "title": "Speed, caching, and the 40x cost wall",
+      "hot": "❤️ 2 💬 0",
+      "desc": "Notes from this week on the RapidNative agent stack. Why we love Cerebras, why the cost still bites, and the split-agent",
+      "source": "dev",
+      "tag": "ai,  llm",
+      "url": "https://dev.to/sanketsahu/speed-caching-and-the-40x-cost-wall-2gn0"
+    },
+    {
+      "title": "gitui: a tiny TUI for your pull requests",
+      "hot": "❤️ 0 💬 0",
+      "desc": "If you spend most of your day in the terminal — especially nowadays with Claude Code and other...",
+      "source": "dev",
+      "tag": "github,  cli",
+      "url": "https://dev.to/thalesbruno/gitui-a-tiny-tui-for-your-pull-requests-3me0"
+    },
+    {
+      "title": "Building ADK Agents with Azure Cloud Shell",
+      "hot": "❤️ 5 💬 2",
+      "desc": "This article covers installing and Running Gemini CLI cross-cloud. The Azure Cloud Shell provides a...",
+      "source": "dev",
+      "tag": "phimodel,  azurefoundry",
+      "url": "https://dev.to/gde/building-adk-agents-with-azure-cloud-shell-3bd1"
+    },
+    {
+      "title": "Computers and upgrades",
+      "hot": "❤️ 1 💬 0",
+      "desc": "My first computer was a Desktop with AMD Sempron processor which used to run at 1.6GHz. It was...",
+      "source": "dev",
+      "tag": "watercooler",
+      "url": "https://dev.to/unsungnovelty/computers-and-upgrades-3n7f"
+    },
+    {
+      "title": "Local Testing of a Multi-Agent System with Memory",
+      "hot": "❤️ 23 💬 1",
+      "desc": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal: a...",
+      "source": "dev",
+      "tag": "ai,  googlecloud",
+      "url": "https://dev.to/googleai/local-testing-of-a-multi-agent-system-with-memory-37mm"
+    },
+    {
+      "title": "Stop Shipping Vulnerabilities by Default: An Intro to Docker Hardened Images",
+      "hot": "❤️ 32 💬 0",
+      "desc": "Docker Hardened Images are changing how teams think about container security — not as an...",
+      "source": "dev",
+      "tag": "devops,  docker",
+      "url": "https://dev.to/gelopfalcon/stop-shipping-vulnerabilities-by-default-an-intro-to-docker-hardened-images-d0c"
+    },
+    {
+      "title": "Deploying a Multi-Agent System with Terraform and Cloud Run",
+      "hot": "❤️ 21 💬 0",
+      "desc": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal: a...",
+      "source": "dev",
+      "tag": "googlecloud,  terraform",
+      "url": "https://dev.to/googleai/deploying-a-multi-agent-system-with-terraform-and-cloud-run-2a9c"
+    },
+    {
+      "title": "The Local Model That Doesn't Sleep: Gemma 4 + MTP as a Marathon Engine",
+      "hot": "❤️ 11 💬 4",
+      "desc": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4  I set the agent running just...",
+      "source": "dev",
+      "tag": "ai,  gemma",
+      "url": "https://dev.to/ertugrul_demir/the-local-model-that-doesnt-sleep-gemma-4-mtp-as-a-marathon-engine-4c9"
+    },
+    {
+      "title": "Getting Started with the Cluster Inventory API on OCM (Part 1: ClusterProfile)",
+      "hot": "❤️ 0 💬 0",
+      "desc": "This is Part 1 of a two-part series. Part 2 (coming soon): Connecting to spoke clusters from a...",
+      "source": "dev",
+      "tag": "kubernetes,  ocm",
+      "url": "https://dev.to/kahirokunn/build-an-open-cluster-management-hub-spoke-environment-and-enable-cluster-inventory-api-kk6"
+    }
+  ],
   "github": [
     {
       "title": "antirez/ds4: DeepSeek 4 Flash local inference engine for Metal",
@@ -474,7 +474,7 @@
     },
     {
       "title": "strukto-ai/mirage: A Unified Virtual Filesystem For AI Agents",
-      "hot": "⭐ 1.7k",
+      "hot": "⭐ 1.8k",
       "desc": "A Unified Virtual Filesystem For AI Agents",
       "source": "github",
       "tag": "TypeScript",
@@ -506,7 +506,7 @@
     },
     {
       "title": "MayersScott/rkn-block-checker: Diagnose RKN/TSPU internet blocks layer by layer ",
-      "hot": "⭐ 1.0k",
+      "hot": "⭐ 1.1k",
       "desc": "Diagnose RKN/TSPU internet blocks layer by layer (DNS, TCP, TLS, HTTP)",
       "source": "github",
       "tag": "Python",
@@ -514,7 +514,7 @@
     },
     {
       "title": "raiyanyahya/how-to-train-your-gpt: Build a modern LLM from scratch. Every line c",
-      "hot": "⭐ 898",
+      "hot": "⭐ 902",
       "desc": "Build a modern LLM from scratch. Every line commented. Explained like we are five.",
       "source": "github",
       "tag": "Jupyter Notebook",
@@ -522,7 +522,7 @@
     },
     {
       "title": "lightseekorg/tokenspeed: TokenSpeed is a speed-of-light LLM inference engine.",
-      "hot": "⭐ 888",
+      "hot": "⭐ 891",
       "desc": "TokenSpeed is a speed-of-light LLM inference engine.",
       "source": "github",
       "tag": "Python",
@@ -538,7 +538,7 @@
     },
     {
       "title": "WenyuChiou/awesome-agentic-ai-zh: AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三",
-      "hot": "⭐ 716",
+      "hot": "⭐ 718",
       "desc": "AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。",
       "source": "github",
       "tag": "Python",
@@ -546,7 +546,7 @@
     },
     {
       "title": "zarazhangrui/beautiful-html-templates: A library of HTML slide templates designe",
-      "hot": "⭐ 714",
+      "hot": "⭐ 716",
       "desc": "A library of HTML slide templates designed so any coding agent can pick the right one and produce a beautiful deck on the user's behalf, automatically",
       "source": "github",
       "tag": "HTML",
@@ -554,7 +554,7 @@
     },
     {
       "title": "BigPizzaV3/CodexPlusPlus: 一个CodexApp的增强工具",
-      "hot": "⭐ 650",
+      "hot": "⭐ 655",
       "desc": "一个CodexApp的增强工具",
       "source": "github",
       "tag": "Python",
@@ -562,7 +562,7 @@
     },
     {
       "title": "nikzad-avasam/youtube-dl: ⚠️ اگه این ریپازیتوری کار نکرد از نسخه ۲ استفاده کنید ",
-      "hot": "⭐ 630",
+      "hot": "⭐ 634",
       "desc": "⚠️ اگه این ریپازیتوری کار نکرد از نسخه ۲ استفاده کنید لینک پایین هست ",
       "source": "github",
       "tag": "GitHub",
