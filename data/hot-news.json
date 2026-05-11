@@ -1,45 +1,53 @@
 {
-  "updatedAt": "2026-05-11T19:14:48.911Z",
+  "updatedAt": "2026-05-11T20:57:31.372Z",
   "source": "live",
   "tech": [
     {
-      "title": "CUDA-oxide: Nvidia's official Rust to CUDA compiler",
+      "title": "Library for fast mapping of Java records to native memory",
       "hot": "3.0m",
-      "desc": "nvlabs.github.io",
+      "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 243 points",
-      "url": "https://nvlabs.github.io/cuda-oxide/index.html"
+      "tag": "⬆️ 41 points",
+      "url": "https://github.com/mamba-studio/TypedMemory"
     },
     {
       "title": "Nullsoft, 1997-2004 (2004)",
       "hot": "3.0m",
       "desc": "slate.com",
       "source": "tech",
-      "tag": "⬆️ 123 points",
+      "tag": "⬆️ 165 points",
       "url": "https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html"
+    },
+    {
+      "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
+      "hot": "3.0m",
+      "desc": "stemcell.ucla.edu",
+      "source": "tech",
+      "tag": "⬆️ 41 points",
+      "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage"
     },
     {
       "title": "Ratty – A terminal emulator with inline 3D graphics",
       "hot": "3.0m",
       "desc": "ratty-term.org",
       "source": "tech",
-      "tag": "⬆️ 505 points",
+      "tag": "⬆️ 557 points",
       "url": "https://ratty-term.org/"
     },
     {
-      "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
-      "hot": "3.0m",
-      "desc": "cocoawithlove.com",
+      "title": "Counting Fast in Erlang with:counters and:atomics",
+      "hot": "2.9m",
+      "desc": "andrealeopardi.com",
       "source": "tech",
-      "tag": "⬆️ 165 points",
-      "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html"
+      "tag": "⬆️ 41 points",
+      "url": "https://andrealeopardi.com/posts/erlang-counters-and-atomics/"
     },
     {
       "title": "Gmail registration now requires scanning a QR code and sending a text message",
       "hot": "2.9m",
       "desc": "discuss.privacyguides.net",
       "source": "tech",
-      "tag": "⬆️ 398 points",
+      "tag": "⬆️ 478 points",
       "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082"
     },
     {
@@ -47,55 +55,79 @@
       "hot": "2.9m",
       "desc": "interfaze.ai",
       "source": "tech",
-      "tag": "⬆️ 39 points",
+      "tag": "⬆️ 71 points",
       "url": "https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale"
     },
     {
-      "title": "Can Someone Please Explain Whether Cloudflare Blackmailed Canonical?",
+      "title": "CUDA-oxide: Nvidia's official Rust to CUDA compiler",
       "hot": "2.9m",
-      "desc": "flyingpenguin.com",
+      "desc": "nvlabs.github.io",
       "source": "tech",
-      "tag": "⬆️ 75 points",
-      "url": "https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical/"
+      "tag": "⬆️ 308 points",
+      "url": "https://nvlabs.github.io/cuda-oxide/index.html"
     },
     {
-      "title": "Show HN: TikTok but for Scientific Papers",
+      "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
       "hot": "2.9m",
-      "desc": "andreaturchet.github.io",
+      "desc": "cocoawithlove.com",
       "source": "tech",
-      "tag": "⬆️ 57 points",
-      "url": "https://andreaturchet.github.io/website/index.html"
-    },
-    {
-      "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
-      "hot": "2.9m",
-      "desc": "bild.ai",
-      "source": "tech",
-      "tag": "⬆️ 1 points",
-      "url": "https://bild.ai/jobs"
+      "tag": "⬆️ 187 points",
+      "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html"
     },
     {
       "title": "AMÁLIA and the future of European Portuguese LLMs",
       "hot": "2.9m",
       "desc": "duarteocarmo.com",
       "source": "tech",
-      "tag": "⬆️ 83 points",
+      "tag": "⬆️ 98 points",
       "url": "https://duarteocarmo.com/blog/amalia-and-the-future-of-european-portuguese-llms"
     },
     {
-      "title": "I'm going back to writing code by hand",
+      "title": "Can Someone Please Explain Whether Cloudflare Blackmailed Canonical?",
       "hot": "2.9m",
-      "desc": "blog.k10s.dev",
+      "desc": "flyingpenguin.com",
       "source": "tech",
-      "tag": "⬆️ 842 points",
-      "url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/"
+      "tag": "⬆️ 135 points",
+      "url": "https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical/"
+    },
+    {
+      "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
+      "hot": "2.8m",
+      "desc": "bild.ai",
+      "source": "tech",
+      "tag": "⬆️ 1 points",
+      "url": "https://bild.ai/jobs"
+    },
+    {
+      "title": "590k buyers paid $59M for Trump's gold phone, but not one has shipped",
+      "hot": "2.8m",
+      "desc": "finance.yahoo.com",
+      "source": "tech",
+      "tag": "⬆️ 42 points",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/590-000-buyers-paid-59-223500998.html"
+    },
+    {
+      "title": "Linux Terminal Memory Usage",
+      "hot": "2.8m",
+      "desc": "gilesorr.com",
+      "source": "tech",
+      "tag": "⬆️ 13 points",
+      "url": "https://gilesorr.com/blog/linux-terminal-memory-usage.html"
+    },
+    {
+      "title": "The Boston library where you still can borrow a giant puppet",
+      "hot": "2.8m",
+      "desc": "binj.news",
+      "source": "tech",
+      "tag": "⬆️ 27 points",
+      "url": "https://binj.news/2026/05/06/the-boston-library-where-you-still-can-borrow-a-giant-puppet/"
     },
     {
       "title": "Venom and Hot Peppers Offer a Key to Killing Resistant Bacteria",
       "hot": "2.8m",
       "desc": "wired.com",
       "source": "tech",
-      "tag": "⬆️ 132 points",
+      "tag": "⬆️ 148 points",
       "url": "https://www.wired.com/story/mexican-science-transforms-scorpion-venom-and-habanero-chile-into-antibiotics-against-resistant-bacteria/"
     },
     {
@@ -103,67 +135,51 @@
       "hot": "2.8m",
       "desc": "imtomt.github.io",
       "source": "tech",
-      "tag": "⬆️ 71 points",
+      "tag": "⬆️ 83 points",
       "url": "https://imtomt.github.io/ymawky/"
     },
     {
-      "title": "The Boston Library Where You Still Can Borrow a Giant Puppet",
-      "hot": "2.8m",
-      "desc": "binj.news",
-      "source": "tech",
-      "tag": "⬆️ 10 points",
-      "url": "https://binj.news/2026/05/06/the-boston-library-where-you-still-can-borrow-a-giant-puppet/"
-    },
-    {
-      "title": "Holding Community Space",
-      "hot": "2.8m",
-      "desc": "supernuclear.substack.com",
-      "source": "tech",
-      "tag": "⬆️ 19 points",
-      "url": "https://supernuclear.substack.com/p/building-a-space-people-never-want"
-    },
-    {
       "title": "Software engineering may no longer be a lifetime career",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "seangoedecke.com",
       "source": "tech",
-      "tag": "⬆️ 192 points",
+      "tag": "⬆️ 271 points",
       "url": "https://www.seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/"
     },
     {
-      "title": "Running local models on an M4 with 24GB memory",
-      "hot": "2.8m",
-      "desc": "jola.dev",
-      "source": "tech",
-      "tag": "⬆️ 510 points",
-      "url": "https://jola.dev/posts/running-local-models-on-m4"
-    },
-    {
-      "title": "Microsoft Israel chief leaves amid ethical controversy",
+      "title": "From Buffon's Needle to Buffon's Noodle",
       "hot": "2.7m",
-      "desc": "en.globes.co.il",
+      "desc": "mbmccoy.dev",
       "source": "tech",
-      "tag": "⬆️ 75 points",
-      "url": "https://en.globes.co.il/en/article-microsoft-israel-chief-leaves-amid-ethical-controversy-1001542602"
+      "tag": "⬆️ 18 points",
+      "url": "https://mbmccoy.dev/posts/buffons-noodle/"
     },
     {
       "title": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
       "hot": "2.7m",
       "desc": "openculture.com",
       "source": "tech",
-      "tag": "⬆️ 307 points",
+      "tag": "⬆️ 325 points",
       "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html"
-    },
-    {
-      "title": "Hardware Attestation as Monopoly Enabler",
-      "hot": "2.7m",
-      "desc": "grapheneos.social",
-      "source": "tech",
-      "tag": "⬆️ 2015 points",
-      "url": "https://grapheneos.social/@GrapheneOS/116550899908879585"
     }
   ],
   "space": [
+    {
+      "title": "Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office",
+      "hot": "5/11",
+      "desc": "The NROL-72 mission will be the 13th to date supporting what the NRO calls its “proliferated architecture” satellite constellation. Liftoff of SpaceX’",
+      "source": "space",
+      "tag": "Spaceflight Now",
+      "url": "https://spaceflightnow.com/2026/05/11/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office/"
+    },
+    {
+      "title": "NASA Invites Media to Annual Lunabotics Robotics Competition",
+      "hot": "5/11",
+      "desc": "NASA will hold its 2026 Lunabotics Challenge Tuesday, May 19, to Thursday, May 21, at the Astronauts Memorial Foundation’s Center for Space Education ",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-annual-lunabotics-robotics-competition/"
+    },
     {
       "title": "Joint Earth Observation Mission Quality Assessment Framework – Optical Guidelines Documents Released",
       "hot": "5/11",
@@ -267,190 +283,12 @@
       "source": "space",
       "tag": "NASA",
       "url": "https://www.nasa.gov/image-article/glowing-views-from-the-space-station/"
-    },
-    {
-      "title": "NASA Names Brian Hughes to Launch Operations Role",
-      "hot": "5/8",
-      "desc": "NASA announced Friday that Brian Hughes will return to the agency as senior director of launch operations, based at the agency’s Kennedy Space Center ",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/news-release/nasa-names-brian-hughes-to-launch-operations-role/"
-    },
-    {
-      "title": "NASA Fuel Cell Tests Pave Way for Energy Storage on Moon",
-      "hot": "5/8",
-      "desc": "With a small blue crane, four researchers hoist a cylindrical fuel cell, which looks like a stack of flattened silver and gold soda cans bundled toget",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/general/nasa-regenerative-fuel-cell-testing/"
-    }
-  ],
-  "dev": [
-    {
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 38 💬 11",
-      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
-      "source": "dev",
-      "tag": "top7,  discuss",
-      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4nik"
-    },
-    {
-      "title": "Does AI Behave Like a Toxic Ex?",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Is AI that toxic ex you just can’t forget about and can’t move on from?  For every task you get...",
-      "source": "dev",
-      "tag": "ai,  webdev",
-      "url": "https://dev.to/konark_13/does-ai-behave-like-a-toxic-ex-498n"
-    },
-    {
-      "title": "Congrats to the OpenClaw Challenge Winners!",
-      "hot": "❤️ 101 💬 27",
-      "desc": "The results are in! We are thrilled to announce the winners of the OpenClaw Challenge.  Over the past...",
-      "source": "dev",
-      "tag": "devchallenge,  openclawchallenge",
-      "url": "https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha"
-    },
-    {
-      "title": "Meme Monday",
-      "hot": "❤️ 26 💬 16",
-      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
-      "source": "dev",
-      "tag": "discuss,  watercooler",
-      "url": "https://dev.to/ben/meme-monday-55e2"
-    },
-    {
-      "title": "What was your win this week??",
-      "hot": "❤️ 62 💬 81",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "discuss,  weeklyretro",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-96l"
-    },
-    {
-      "title": "MCP Configuration for Google Workspace with Gemini CLI",
-      "hot": "❤️ 5 💬 0",
-      "desc": "This article covers the MCP setup and configuration for using Google Workspace and underlying Gemini...",
-      "source": "dev",
-      "tag": "googleworkspace,  oauth2",
-      "url": "https://dev.to/gde/mcp-configuration-for-google-workspace-with-gemini-cli-3nd2"
-    },
-    {
-      "title": "Building Team A: An AI System for Turning Volunteer Chaos into Structured Engineering Work",
-      "hot": "❤️ 0 💬 0",
-      "desc": "How an AI-driven workflow system helps volunteer engineering teams reduce onboarding friction by turning informal reques",
-      "source": "dev",
-      "tag": "productivity,  ai",
-      "url": "https://dev.to/miry/building-team-a-an-ai-system-for-turning-volunteer-chaos-into-structured-engineering-work-mgo"
-    },
-    {
-      "title": "I Built a One-Command macOS Terminal Setup — Ghostty + Zsh + 30 Modern CLI Tools",
-      "hot": "❤️ 0 💬 0",
-      "desc": "Stop wasting hours configuring your terminal. dev-accelerator sets up Ghostty, Zsh, Starship, and 30+ modern CLI tools w",
-      "source": "dev",
-      "tag": "terminal,  macos",
-      "url": "https://dev.to/satyamsoni2211/i-built-a-one-command-macos-terminal-setup-ghostty-zsh-30-modern-cli-tools-43f5"
-    },
-    {
-      "title": "I Built a Chrome Extension to Sync AI Studio System Instructions. Here's Why chrome.storage.sync Couldn't Do It",
-      "hot": "❤️ 1 💬 2",
-      "desc": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4  I use Google AI Studio on three...",
-      "source": "dev",
-      "tag": "ai,  javascript",
-      "url": "https://dev.to/codewithahsan/i-built-a-chrome-extension-to-sync-ai-studio-system-instructions-heres-why-chromestoragesync-2llm"
-    },
-    {
-      "title": "Playwright is Powerful, But Managing It at Scale? That's Another Story",
-      "hot": "❤️ 0 💬 0",
-      "desc": "Part 1: Why we built ITG Playwright Studio - A web-based control plane for managing Playwright tests at scale",
-      "source": "dev",
-      "tag": "playwright,  testing",
-      "url": "https://dev.to/prakashm88/playwright-is-powerful-but-managing-it-at-scale-thats-another-story-2g37"
-    },
-    {
-      "title": "Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!",
-      "hot": "❤️ 378 💬 57",
-      "desc": "Local AI is having a moment, and we want you to be part of it!  Running through May 24, the Gemma 4...",
-      "source": "dev",
-      "tag": "devchallenge,  gemmachallenge",
-      "url": "https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in"
-    },
-    {
-      "title": "I Didn’t Stop Building. I Just Left My Laptop.",
-      "hot": "❤️ 120 💬 51",
-      "desc": "Hey there again guys! It’s been almost two months since my last post. And in the back of my head,...",
-      "source": "dev",
-      "tag": "career,  learning",
-      "url": "https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da"
-    },
-    {
-      "title": "Reusable Spring Boot 4 Error Handler",
-      "hot": "❤️ 0 💬 2",
-      "desc": "Reusable Spring Boot 4 auto-configuration that turns exceptions into structured RFC 9457 Problem Details responses and p",
-      "source": "dev",
-      "tag": "springboot,  errorhandler",
-      "url": "https://dev.to/adzubla/reusable-spring-boot-4-error-handler-10kp"
-    },
-    {
-      "title": "Speed, caching, and the 40x cost wall",
-      "hot": "❤️ 2 💬 0",
-      "desc": "Notes from this week on the RapidNative agent stack. Why we love Cerebras, why the cost still bites, and the split-agent",
-      "source": "dev",
-      "tag": "ai,  llm",
-      "url": "https://dev.to/sanketsahu/speed-caching-and-the-40x-cost-wall-2gn0"
-    },
-    {
-      "title": "Computers and upgrades",
-      "hot": "❤️ 1 💬 0",
-      "desc": "My first computer was a Desktop with AMD Sempron processor which used to run at 1.6GHz. It was...",
-      "source": "dev",
-      "tag": "watercooler",
-      "url": "https://dev.to/unsungnovelty/computers-and-upgrades-3n7f"
-    },
-    {
-      "title": "5 types of engineers I met as a Technical Writer",
-      "hot": "❤️ 87 💬 44",
-      "desc": "Being a Technical Writer in an engineering world can be tough. We work closely with engineers, but...",
-      "source": "dev",
-      "tag": "watercooler,  technicalwriting",
-      "url": "https://dev.to/klaudiagrz/5-types-of-engineers-i-met-as-a-technical-writer-1gak"
-    },
-    {
-      "title": "Getting Started with the Cluster Inventory API on OCM (Part 1: ClusterProfile)",
-      "hot": "❤️ 0 💬 0",
-      "desc": "This is Part 1 of a two-part series. Part 2 (coming soon): Connecting to spoke clusters from a...",
-      "source": "dev",
-      "tag": "kubernetes,  ocm",
-      "url": "https://dev.to/kahirokunn/build-an-open-cluster-management-hub-spoke-environment-and-enable-cluster-inventory-api-kk6"
-    },
-    {
-      "title": "Landscape of ODE Solvers in R: A Practical Overview",
-      "hot": "❤️ 0 💬 0",
-      "desc": "An overview of ODE solvers in R, highlighting their capabilities, performance, and practical considerations.",
-      "source": "dev",
-      "tag": "rstats,  modeling",
-      "url": "https://dev.to/metelkin/landscape-of-ode-solvers-in-r-a-practical-overview-4cc7"
-    },
-    {
-      "title": "What Platform Teams Can Expect From Crossplane v2.2",
-      "hot": "❤️ 0 💬 0",
-      "desc": "A developer submits a ticket to request a database. Three days later, the platform team responds, but...",
-      "source": "dev",
-      "tag": "crossplane,  kubernetes",
-      "url": "https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1"
-    },
-    {
-      "title": "CSS - The single coolest API technique you can imagine.",
-      "hot": "❤️ 8 💬 0",
-      "desc": "To simply call Kizu's Cyclic Space Toggles an upgrade to my Space Toggle technique is like calling...",
-      "source": "dev",
-      "tag": "css,  api",
-      "url": "https://dev.to/janeori/css-the-single-coolest-api-technique-you-can-imagine-4ma8"
     }
   ],
   "github": [
     {
       "title": "antirez/ds4: DeepSeek 4 Flash local inference engine for Metal",
-      "hot": "⭐ 7.2k",
+      "hot": "⭐ 7.3k",
       "desc": "DeepSeek 4 Flash local inference engine for Metal",
       "source": "github",
       "tag": "C",
@@ -506,7 +344,7 @@
     },
     {
       "title": "BigPizzaV3/CodexPlusPlus: 一个CodexApp的增强工具",
-      "hot": "⭐ 998",
+      "hot": "⭐ 1.0k",
       "desc": "一个CodexApp的增强工具",
       "source": "github",
       "tag": "Python",
@@ -522,7 +360,7 @@
     },
     {
       "title": "zarazhangrui/beautiful-html-templates: A library of HTML slide templates designe",
-      "hot": "⭐ 854",
+      "hot": "⭐ 855",
       "desc": "A library of HTML slide templates designed so any coding agent can pick the right one and produce a beautiful deck on the user's behalf, automatically",
       "source": "github",
       "tag": "HTML",
@@ -562,11 +400,173 @@
     },
     {
       "title": "kitft/natural_language_autoencoders: ",
-      "hot": "⭐ 500",
+      "hot": "⭐ 503",
       "desc": "kitft/natural_language_autoencoders",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/kitft/natural_language_autoencoders"
+    }
+  ],
+  "dev": [
+    {
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "hot": "❤️ 39 💬 12",
+      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+      "source": "dev",
+      "tag": "top7,  discuss",
+      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4nik"
+    },
+    {
+      "title": "Does AI Behave Like a Toxic Ex?",
+      "hot": "❤️ 15 💬 0",
+      "desc": "Is AI that toxic ex you just can’t forget about and can’t move on from?  For every task you get...",
+      "source": "dev",
+      "tag": "ai,  webdev",
+      "url": "https://dev.to/konark_13/does-ai-behave-like-a-toxic-ex-498n"
+    },
+    {
+      "title": "Congrats to the OpenClaw Challenge Winners!",
+      "hot": "❤️ 102 💬 27",
+      "desc": "The results are in! We are thrilled to announce the winners of the OpenClaw Challenge.  Over the past...",
+      "source": "dev",
+      "tag": "devchallenge,  openclawchallenge",
+      "url": "https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha"
+    },
+    {
+      "title": "Meme Monday",
+      "hot": "❤️ 26 💬 16",
+      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
+      "source": "dev",
+      "tag": "discuss,  watercooler",
+      "url": "https://dev.to/ben/meme-monday-55e2"
+    },
+    {
+      "title": "What was your win this week??",
+      "hot": "❤️ 63 💬 82",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "discuss,  weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-96l"
+    },
+    {
+      "title": "MCP Configuration for Google Workspace with Gemini CLI",
+      "hot": "❤️ 5 💬 0",
+      "desc": "This article covers the MCP setup and configuration for using Google Workspace and underlying Gemini...",
+      "source": "dev",
+      "tag": "googleworkspace,  oauth2",
+      "url": "https://dev.to/gde/mcp-configuration-for-google-workspace-with-gemini-cli-3nd2"
+    },
+    {
+      "title": "Building Team A: An AI System for Turning Volunteer Chaos into Structured Engineering Work",
+      "hot": "❤️ 0 💬 0",
+      "desc": "How an AI-driven workflow system helps volunteer engineering teams reduce onboarding friction by turning informal reques",
+      "source": "dev",
+      "tag": "productivity,  ai",
+      "url": "https://dev.to/miry/building-team-a-an-ai-system-for-turning-volunteer-chaos-into-structured-engineering-work-mgo"
+    },
+    {
+      "title": "I Built a One-Command macOS Terminal Setup — Ghostty + Zsh + 30 Modern CLI Tools",
+      "hot": "❤️ 0 💬 0",
+      "desc": "Stop wasting hours configuring your terminal. dev-accelerator sets up Ghostty, Zsh, Starship, and 30+ modern CLI tools w",
+      "source": "dev",
+      "tag": "terminal,  macos",
+      "url": "https://dev.to/satyamsoni2211/i-built-a-one-command-macos-terminal-setup-ghostty-zsh-30-modern-cli-tools-43f5"
+    },
+    {
+      "title": "I Built a Chrome Extension to Sync AI Studio System Instructions. Here's Why chrome.storage.sync Couldn't Do It",
+      "hot": "❤️ 1 💬 2",
+      "desc": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4  I use Google AI Studio on three...",
+      "source": "dev",
+      "tag": "ai,  javascript",
+      "url": "https://dev.to/codewithahsan/i-built-a-chrome-extension-to-sync-ai-studio-system-instructions-heres-why-chromestoragesync-2llm"
+    },
+    {
+      "title": "Playwright is Powerful, But Managing It at Scale? That's Another Story",
+      "hot": "❤️ 0 💬 0",
+      "desc": "Part 1: Why we built ITG Playwright Studio - A web-based control plane for managing Playwright tests at scale",
+      "source": "dev",
+      "tag": "playwright,  testing",
+      "url": "https://dev.to/prakashm88/playwright-is-powerful-but-managing-it-at-scale-thats-another-story-2g37"
+    },
+    {
+      "title": "Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!",
+      "hot": "❤️ 380 💬 57",
+      "desc": "Local AI is having a moment, and we want you to be part of it!  Running through May 24, the Gemma 4...",
+      "source": "dev",
+      "tag": "devchallenge,  gemmachallenge",
+      "url": "https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in"
+    },
+    {
+      "title": "I Didn’t Stop Building. I Just Left My Laptop.",
+      "hot": "❤️ 120 💬 51",
+      "desc": "Hey there again guys! It’s been almost two months since my last post. And in the back of my head,...",
+      "source": "dev",
+      "tag": "career,  learning",
+      "url": "https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da"
+    },
+    {
+      "title": "5 types of engineers I met as a Technical Writer",
+      "hot": "❤️ 88 💬 48",
+      "desc": "Being a Technical Writer in an engineering world can be tough. We work closely with engineers, but...",
+      "source": "dev",
+      "tag": "watercooler,  technicalwriting",
+      "url": "https://dev.to/klaudiagrz/5-types-of-engineers-i-met-as-a-technical-writer-1gak"
+    },
+    {
+      "title": "Speed, caching, and the 40x cost wall",
+      "hot": "❤️ 2 💬 0",
+      "desc": "Notes from this week on the RapidNative agent stack. Why we love Cerebras, why the cost still bites, and the split-agent",
+      "source": "dev",
+      "tag": "ai,  llm",
+      "url": "https://dev.to/sanketsahu/speed-caching-and-the-40x-cost-wall-2gn0"
+    },
+    {
+      "title": "Computers and upgrades",
+      "hot": "❤️ 1 💬 0",
+      "desc": "My first computer was a Desktop with AMD Sempron processor which used to run at 1.6GHz. It was...",
+      "source": "dev",
+      "tag": "watercooler",
+      "url": "https://dev.to/unsungnovelty/computers-and-upgrades-3n7f"
+    },
+    {
+      "title": "Getting Started with the Cluster Inventory API on OCM (Part 1: ClusterProfile)",
+      "hot": "❤️ 0 💬 0",
+      "desc": "This is Part 1 of a two-part series. Part 2 (coming soon): Connecting to spoke clusters from a...",
+      "source": "dev",
+      "tag": "kubernetes,  ocm",
+      "url": "https://dev.to/kahirokunn/build-an-open-cluster-management-hub-spoke-environment-and-enable-cluster-inventory-api-kk6"
+    },
+    {
+      "title": "Landscape of ODE Solvers in R: A Practical Overview",
+      "hot": "❤️ 0 💬 0",
+      "desc": "An overview of ODE solvers in R, highlighting their capabilities, performance, and practical considerations.",
+      "source": "dev",
+      "tag": "rstats,  modeling",
+      "url": "https://dev.to/metelkin/landscape-of-ode-solvers-in-r-a-practical-overview-4cc7"
+    },
+    {
+      "title": "What Platform Teams Can Expect From Crossplane v2.2",
+      "hot": "❤️ 0 💬 0",
+      "desc": "A developer submits a ticket to request a database. Three days later, the platform team responds, but...",
+      "source": "dev",
+      "tag": "crossplane,  kubernetes",
+      "url": "https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1"
+    },
+    {
+      "title": "CSS - The single coolest API technique you can imagine.",
+      "hot": "❤️ 8 💬 0",
+      "desc": "To simply call Kizu's Cyclic Space Toggles an upgrade to my Space Toggle technique is like calling...",
+      "source": "dev",
+      "tag": "css,  api",
+      "url": "https://dev.to/janeori/css-the-single-coolest-api-technique-you-can-imagine-4ma8"
+    },
+    {
+      "title": "I Grounded Gemma 4 in 118,000 Real Stars — Here's What It Can Do",
+      "hot": "❤️ 11 💬 2",
+      "desc": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4           What I Built   StarLens...",
+      "source": "dev",
+      "tag": "devchallenge,  gemmachallenge",
+      "url": "https://dev.to/imjoseangel/starlens-gemma-4-as-your-personal-planetarium-guide-36a4"
     }
   ]
 }
