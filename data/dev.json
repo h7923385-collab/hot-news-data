@@ -2,19 +2,19 @@
   "data": [
     {
       "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 33 💬 9",
+      "hot": "❤️ 38 💬 11",
       "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
       "source": "dev",
       "tag": "top7,  discuss",
       "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4nik"
     },
     {
-      "title": "Meme Monday",
-      "hot": "❤️ 25 💬 16",
-      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
+      "title": "Does AI Behave Like a Toxic Ex?",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Is AI that toxic ex you just can’t forget about and can’t move on from?  For every task you get...",
       "source": "dev",
-      "tag": "discuss,  watercooler",
-      "url": "https://dev.to/ben/meme-monday-55e2"
+      "tag": "ai,  webdev",
+      "url": "https://dev.to/konark_13/does-ai-behave-like-a-toxic-ex-498n"
     },
     {
       "title": "Congrats to the OpenClaw Challenge Winners!",
@@ -25,12 +25,44 @@
       "url": "https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha"
     },
     {
+      "title": "Meme Monday",
+      "hot": "❤️ 26 💬 16",
+      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
+      "source": "dev",
+      "tag": "discuss,  watercooler",
+      "url": "https://dev.to/ben/meme-monday-55e2"
+    },
+    {
       "title": "What was your win this week??",
-      "hot": "❤️ 61 💬 80",
+      "hot": "❤️ 62 💬 81",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "discuss,  weeklyretro",
       "url": "https://dev.to/devteam/what-was-your-win-this-week-96l"
+    },
+    {
+      "title": "MCP Configuration for Google Workspace with Gemini CLI",
+      "hot": "❤️ 5 💬 0",
+      "desc": "This article covers the MCP setup and configuration for using Google Workspace and underlying Gemini...",
+      "source": "dev",
+      "tag": "googleworkspace,  oauth2",
+      "url": "https://dev.to/gde/mcp-configuration-for-google-workspace-with-gemini-cli-3nd2"
+    },
+    {
+      "title": "Building Team A: An AI System for Turning Volunteer Chaos into Structured Engineering Work",
+      "hot": "❤️ 0 💬 0",
+      "desc": "How an AI-driven workflow system helps volunteer engineering teams reduce onboarding friction by turning informal reques",
+      "source": "dev",
+      "tag": "productivity,  ai",
+      "url": "https://dev.to/miry/building-team-a-an-ai-system-for-turning-volunteer-chaos-into-structured-engineering-work-mgo"
+    },
+    {
+      "title": "I Built a One-Command macOS Terminal Setup — Ghostty + Zsh + 30 Modern CLI Tools",
+      "hot": "❤️ 0 💬 0",
+      "desc": "Stop wasting hours configuring your terminal. dev-accelerator sets up Ghostty, Zsh, Starship, and 30+ modern CLI tools w",
+      "source": "dev",
+      "tag": "terminal,  macos",
+      "url": "https://dev.to/satyamsoni2211/i-built-a-one-command-macos-terminal-setup-ghostty-zsh-30-modern-cli-tools-43f5"
     },
     {
       "title": "I Built a Chrome Extension to Sync AI Studio System Instructions. Here's Why chrome.storage.sync Couldn't Do It",
@@ -41,8 +73,16 @@
       "url": "https://dev.to/codewithahsan/i-built-a-chrome-extension-to-sync-ai-studio-system-instructions-heres-why-chromestoragesync-2llm"
     },
     {
+      "title": "Playwright is Powerful, But Managing It at Scale? That's Another Story",
+      "hot": "❤️ 0 💬 0",
+      "desc": "Part 1: Why we built ITG Playwright Studio - A web-based control plane for managing Playwright tests at scale",
+      "source": "dev",
+      "tag": "playwright,  testing",
+      "url": "https://dev.to/prakashm88/playwright-is-powerful-but-managing-it-at-scale-thats-another-story-2g37"
+    },
+    {
       "title": "Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!",
-      "hot": "❤️ 375 💬 57",
+      "hot": "❤️ 378 💬 57",
       "desc": "Local AI is having a moment, and we want you to be part of it!  Running through May 24, the Gemma 4...",
       "source": "dev",
       "tag": "devchallenge,  gemmachallenge",
@@ -50,7 +90,7 @@
     },
     {
       "title": "I Didn’t Stop Building. I Just Left My Laptop.",
-      "hot": "❤️ 120 💬 50",
+      "hot": "❤️ 120 💬 51",
       "desc": "Hey there again guys! It’s been almost two months since my last post. And in the back of my head,...",
       "source": "dev",
       "tag": "career,  learning",
@@ -73,14 +113,6 @@
       "url": "https://dev.to/sanketsahu/speed-caching-and-the-40x-cost-wall-2gn0"
     },
     {
-      "title": "Building ADK Agents with Azure Cloud Shell",
-      "hot": "❤️ 5 💬 2",
-      "desc": "This article covers installing and Running Gemini CLI cross-cloud. The Azure Cloud Shell provides a...",
-      "source": "dev",
-      "tag": "phimodel,  azurefoundry",
-      "url": "https://dev.to/gde/building-adk-agents-with-azure-cloud-shell-3bd1"
-    },
-    {
       "title": "Computers and upgrades",
       "hot": "❤️ 1 💬 0",
       "desc": "My first computer was a Desktop with AMD Sempron processor which used to run at 1.6GHz. It was...",
@@ -90,7 +122,7 @@
     },
     {
       "title": "5 types of engineers I met as a Technical Writer",
-      "hot": "❤️ 85 💬 42",
+      "hot": "❤️ 87 💬 44",
       "desc": "Being a Technical Writer in an engineering world can be tough. We work closely with engineers, but...",
       "source": "dev",
       "tag": "watercooler,  technicalwriting",
@@ -127,39 +159,7 @@
       "source": "dev",
       "tag": "css,  api",
       "url": "https://dev.to/janeori/css-the-single-coolest-api-technique-you-can-imagine-4ma8"
-    },
-    {
-      "title": "I Grounded Gemma 4 in 118,000 Real Stars — Here's What It Can Do",
-      "hot": "❤️ 7 💬 2",
-      "desc": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4           What I Built   StarLens...",
-      "source": "dev",
-      "tag": "devchallenge,  gemmachallenge",
-      "url": "https://dev.to/imjoseangel/starlens-gemma-4-as-your-personal-planetarium-guide-36a4"
-    },
-    {
-      "title": "I Love Tailwind. Sorry Not Sorry",
-      "hot": "❤️ 166 💬 131",
-      "desc": "I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...",
-      "source": "dev",
-      "tag": "css,  tailwindcss",
-      "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh"
-    },
-    {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
-      "hot": "❤️ 49 💬 1",
-      "desc": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "source": "dev",
-      "tag": "a2aprotocol,  microsoftfabric",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7"
-    },
-    {
-      "title": "Code with Claude Extended SF: Heck yeah and then wait, what?",
-      "hot": "❤️ 7 💬 2",
-      "desc": "Heck yeah   I won a golden ticket to Code with Claude Extended (CCE) in San Francisco on May...",
-      "source": "dev",
-      "tag": "ai,  claude",
-      "url": "https://dev.to/earlgreyhot1701d/code-with-claude-extended-sf-heck-yeah-and-wait-what-5dbd"
     }
   ],
-  "updatedAt": "2026-05-11T17:06:58.910Z"
+  "updatedAt": "2026-05-11T19:14:48.911Z"
 }
