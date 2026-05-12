@@ -1,10 +1,42 @@
 {
-  "updatedAt": "2026-05-12T21:59:15.298Z",
+  "updatedAt": "2026-05-12T22:59:18.092Z",
   "source": "live",
   "dev": [
     {
+      "title": "My fully offline AI-assisted Linux development machine",
+      "hot": "❤️ 22 💬 9",
+      "desc": "My Arch Linux, Niri, and local AI coding setup on the ASUS ROG Flow Z13",
+      "source": "dev",
+      "tag": "linux,  archlinux",
+      "url": "https://dev.to/deepu105/my-fully-offline-ai-assisted-linux-development-machine-3lnl"
+    },
+    {
+      "title": "The Tech Giants Cannot Continue Like This: Why We Need an Opt-In Model and \"Pay-per-Citation\" by Law",
+      "hot": "❤️ 1 💬 0",
+      "desc": "A call for fair compensation, explicit consent, and data removal in the era of LLMs.",
+      "source": "dev",
+      "tag": "tech,  opensource",
+      "url": "https://dev.to/jcarlosweb/the-tech-giants-cannot-continue-like-this-why-we-need-an-opt-in-model-and-pay-per-citation-by-law-4jgl"
+    },
+    {
+      "title": "Compile-time vs runtime: where MCP security actually lives",
+      "hot": "❤️ 1 💬 1",
+      "desc": "If you run a Model Context Protocol (MCP) server in production, you've probably noticed that \"MCP security\" doesn't mean",
+      "source": "dev",
+      "tag": "mcp,  security",
+      "url": "https://dev.to/kcrazy/compile-time-vs-runtime-where-mcp-security-actually-lives-1g6l"
+    },
+    {
+      "title": "Gemini API File Search: Enhanced Multimodal Capabilities with Embedding 2, Including Open-Source LINE Bot Implementation",
+      "hot": "❤️ 8 💬 1",
+      "desc": "(Image source: Google Blog - Gemini API File Search is now multimodal: build efficient, verifiable...",
+      "source": "dev",
+      "tag": "api,  gemini",
+      "url": "https://dev.to/gde/gemini-api-file-search-enhanced-multimodal-capabilities-with-embedding-2-including-open-source-g72"
+    },
+    {
       "title": "Does AI Behave Like a Toxic Ex?",
-      "hot": "❤️ 49 💬 22",
+      "hot": "❤️ 55 💬 22",
       "desc": "Is AI that toxic ex you just can’t forget about and can’t move on from?  For every task you get...",
       "source": "dev",
       "tag": "ai,  webdev",
@@ -17,6 +49,14 @@
       "source": "dev",
       "tag": "discuss,  motivation",
       "url": "https://dev.to/jarvisscript/what-are-your-goals-for-the-week-178-bkp"
+    },
+    {
+      "title": "Is Brain Float (bf16) Worth it?",
+      "hot": "❤️ 7 💬 0",
+      "desc": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4  After some basic benchamarking -...",
+      "source": "dev",
+      "tag": "ai,  devchallenge",
+      "url": "https://dev.to/gde/is-brain-float-worth-it-1lim"
     },
     {
       "title": "Top 7 Featured DEV Posts of the Week",
@@ -121,46 +161,6 @@
       "source": "dev",
       "tag": "rstats,  modeling",
       "url": "https://dev.to/metelkin/landscape-of-ode-solvers-in-r-a-practical-overview-4cc7"
-    },
-    {
-      "title": "What Platform Teams Can Expect From Crossplane v2.2",
-      "hot": "❤️ 0 💬 0",
-      "desc": "A developer submits a ticket to request a database. Three days later, the platform team responds, but...",
-      "source": "dev",
-      "tag": "crossplane,  kubernetes",
-      "url": "https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1"
-    },
-    {
-      "title": "CSS - The single coolest API technique you can imagine.",
-      "hot": "❤️ 8 💬 0",
-      "desc": "To simply call Kizu's Cyclic Space Toggles an upgrade to my Space Toggle technique is like calling...",
-      "source": "dev",
-      "tag": "css,  api",
-      "url": "https://dev.to/janeori/css-the-single-coolest-api-technique-you-can-imagine-4ma8"
-    },
-    {
-      "title": "I Grounded Gemma 4 in 118,000 Real Stars — Here's What It Can Do",
-      "hot": "❤️ 16 💬 2",
-      "desc": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4           What I Built   StarLens...",
-      "source": "dev",
-      "tag": "devchallenge,  gemmachallenge",
-      "url": "https://dev.to/imjoseangel/starlens-gemma-4-as-your-personal-planetarium-guide-36a4"
-    },
-    {
-      "title": "What was your win this week??",
-      "hot": "❤️ 72 💬 101",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "discuss,  weeklyretro",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-96l"
-    },
-    {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
-      "hot": "❤️ 49 💬 1",
-      "desc": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "source": "dev",
-      "tag": "a2aprotocol,  microsoftfabric",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7"
     }
   ],
   "tech": [
@@ -169,7 +169,7 @@
       "hot": "3.0m",
       "desc": "googlebook.google",
       "source": "tech",
-      "tag": "⬆️ 447 points",
+      "tag": "⬆️ 497 points",
       "url": "https://googlebook.google/"
     },
     {
@@ -177,7 +177,7 @@
       "hot": "3.0m",
       "desc": "typesetinthefuture.com",
       "source": "tech",
-      "tag": "⬆️ 96 points",
+      "tag": "⬆️ 138 points",
       "url": "https://typesetinthefuture.com/2016/02/18/futuristic/"
     },
     {
@@ -185,7 +185,7 @@
       "hot": "3.0m",
       "desc": "lists.thekelleys.org.uk",
       "source": "tech",
-      "tag": "⬆️ 164 points",
+      "tag": "⬆️ 189 points",
       "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html"
     },
     {
@@ -193,7 +193,7 @@
       "hot": "3.0m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 174 points",
+      "tag": "⬆️ 212 points",
       "url": "https://github.com/cactus-compute/needle"
     },
     {
@@ -201,56 +201,80 @@
       "hot": "2.9m",
       "desc": "nair.sh",
       "source": "tech",
-      "tag": "⬆️ 266 points",
+      "tag": "⬆️ 302 points",
       "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise"
+    },
+    {
+      "title": "Restore full BambuNetwork support for Bambu Lab printers",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 13 points",
+      "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab"
     },
     {
       "title": "Quack: The DuckDB Client-Server Protocol",
       "hot": "2.9m",
       "desc": "duckdb.org",
       "source": "tech",
-      "tag": "⬆️ 111 points",
+      "tag": "⬆️ 138 points",
       "url": "https://duckdb.org/2026/05/12/quack-remote-protocol"
-    },
-    {
-      "title": "Rendering the Sky, Sunsets, and Planets",
-      "hot": "2.9m",
-      "desc": "blog.maximeheckel.com",
-      "source": "tech",
-      "tag": "⬆️ 364 points",
-      "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/"
     },
     {
       "title": "The Future of Obsidian Plugins",
       "hot": "2.9m",
       "desc": "obsidian.md",
       "source": "tech",
-      "tag": "⬆️ 243 points",
+      "tag": "⬆️ 268 points",
       "url": "https://obsidian.md/blog/future-of-plugins/"
+    },
+    {
+      "title": "Rendering the Sky, Sunsets, and Planets",
+      "hot": "2.9m",
+      "desc": "blog.maximeheckel.com",
+      "source": "tech",
+      "tag": "⬆️ 381 points",
+      "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/"
     },
     {
       "title": "Reimagining the mouse pointer for the AI era",
       "hot": "2.9m",
       "desc": "deepmind.google",
       "source": "tech",
-      "tag": "⬆️ 85 points",
+      "tag": "⬆️ 99 points",
       "url": "https://deepmind.google/blog/ai-pointer/"
-    },
-    {
-      "title": "Beyond Semantic Similarity",
-      "hot": "2.9m",
-      "desc": "arxiv.org",
-      "source": "tech",
-      "tag": "⬆️ 20 points",
-      "url": "https://arxiv.org/abs/2605.05242"
     },
     {
       "title": "Learning Software Architecture",
       "hot": "2.9m",
       "desc": "matklad.github.io",
       "source": "tech",
-      "tag": "⬆️ 491 points",
+      "tag": "⬆️ 500 points",
       "url": "https://matklad.github.io/2026/05/12/software-architecture.html"
+    },
+    {
+      "title": "Is this why science advances one funeral at a time?",
+      "hot": "2.8m",
+      "desc": "nautil.us",
+      "source": "tech",
+      "tag": "⬆️ 20 points",
+      "url": "https://nautil.us/is-this-why-science-advances-one-funeral-at-a-time-1280650"
+    },
+    {
+      "title": "Beyond Semantic Similarity",
+      "hot": "2.8m",
+      "desc": "arxiv.org",
+      "source": "tech",
+      "tag": "⬆️ 26 points",
+      "url": "https://arxiv.org/abs/2605.05242"
+    },
+    {
+      "title": "Bambu Lab is abusing the open source social contract",
+      "hot": "2.8m",
+      "desc": "jeffgeerling.com",
+      "source": "tech",
+      "tag": "⬆️ 1002 points",
+      "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/"
     },
     {
       "title": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
@@ -265,64 +289,40 @@
       "hot": "2.8m",
       "desc": "xbow.com",
       "source": "tech",
-      "tag": "⬆️ 47 points",
+      "tag": "⬆️ 48 points",
       "url": "https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim"
-    },
-    {
-      "title": "Bambu Lab is abusing the open source social contract",
-      "hot": "2.8m",
-      "desc": "jeffgeerling.com",
-      "source": "tech",
-      "tag": "⬆️ 956 points",
-      "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/"
-    },
-    {
-      "title": "Is this why science advances one funeral at a time?",
-      "hot": "2.8m",
-      "desc": "nautil.us",
-      "source": "tech",
-      "tag": "⬆️ 11 points",
-      "url": "https://nautil.us/is-this-why-science-advances-one-funeral-at-a-time-1280650"
     },
     {
       "title": "Show HN: Statewright – Visual state machines that make AI agents reliable",
       "hot": "2.8m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 45 points",
+      "tag": "⬆️ 53 points",
       "url": "https://github.com/statewright/statewright"
     },
     {
-      "title": "Riding the D in Los Angeles: city hopes new subway stations will be game changer",
-      "hot": "2.8m",
-      "desc": "theguardian.com",
-      "source": "tech",
-      "tag": "⬆️ 25 points",
-      "url": "https://www.theguardian.com/us-news/2026/may/09/los-angeles-subway-public-transportation"
-    },
-    {
-      "title": "Screenshots of Old Desktop OSes",
+      "title": "Lanzaboote – NixOS Secure Boot",
       "hot": "2.7m",
-      "desc": "typewritten.org",
+      "desc": "x86.lol",
       "source": "tech",
-      "tag": "⬆️ 623 points",
-      "url": "http://www.typewritten.org/Media/"
+      "tag": "⬆️ 8 points",
+      "url": "https://x86.lol/generic/2022/11/26/lanzaboote.html"
     },
     {
       "title": "Show HN: Agentic interface for mainframes and COBOL",
       "hot": "2.7m",
       "desc": "hypercubic.ai",
       "source": "tech",
-      "tag": "⬆️ 40 points",
+      "tag": "⬆️ 41 points",
       "url": "https://www.hypercubic.ai/hopper"
     },
     {
-      "title": "When life gives you lemons, write better error messages",
+      "title": "Riding the D in Los Angeles: city hopes new subway stations will be game changer",
       "hot": "2.7m",
-      "desc": "wix-ux.com",
+      "desc": "theguardian.com",
       "source": "tech",
-      "tag": "⬆️ 85 points",
-      "url": "https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f"
+      "tag": "⬆️ 36 points",
+      "url": "https://www.theguardian.com/us-news/2026/may/09/los-angeles-subway-public-transportation"
     }
   ],
   "space": [
@@ -450,7 +450,7 @@
   "github": [
     {
       "title": "antirez/ds4: DeepSeek 4 Flash local inference engine for Metal and CUDA",
-      "hot": "⭐ 8.0k",
+      "hot": "⭐ 8.1k",
       "desc": "DeepSeek 4 Flash local inference engine for Metal and CUDA",
       "source": "github",
       "tag": "C",
@@ -522,7 +522,7 @@
     },
     {
       "title": "lightseekorg/tokenspeed: TokenSpeed is a speed-of-light LLM inference engine.",
-      "hot": "⭐ 972",
+      "hot": "⭐ 974",
       "desc": "TokenSpeed is a speed-of-light LLM inference engine.",
       "source": "github",
       "tag": "Python",
@@ -530,7 +530,7 @@
     },
     {
       "title": "FULU-Foundation/OrcaSlicer-bambulab: ",
-      "hot": "⭐ 675",
+      "hot": "⭐ 829",
       "desc": "FULU-Foundation/OrcaSlicer-bambulab",
       "source": "github",
       "tag": "C++",
@@ -546,7 +546,7 @@
     },
     {
       "title": "haydenbleasel/files-sdk: A unified storage SDK for object and blob backends. One",
-      "hot": "⭐ 553",
+      "hot": "⭐ 560",
       "desc": "A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O.",
       "source": "github",
       "tag": "TypeScript",
@@ -554,7 +554,7 @@
     },
     {
       "title": "kitft/natural_language_autoencoders: ",
-      "hot": "⭐ 533",
+      "hot": "⭐ 537",
       "desc": "kitft/natural_language_autoencoders",
       "source": "github",
       "tag": "Python",
