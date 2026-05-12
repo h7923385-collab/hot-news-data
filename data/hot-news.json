@@ -1,37 +1,54 @@
 {
-  "updatedAt": "2026-05-12T10:19:14.295Z",
+  "updatedAt": "2026-05-12T12:22:04.916Z",
   "source": "live",
+  "space": [
+    {
+      "title": "暂无 space 数据",
+      "hot": "",
+      "desc": "数据加载中，请稍后刷新",
+      "source": "space",
+      "tag": "loading"
+    }
+  ],
   "tech": [
     {
       "title": "Learning Software Architecture",
       "hot": "3.0m",
       "desc": "matklad.github.io",
       "source": "tech",
-      "tag": "⬆️ 37 points",
+      "tag": "⬆️ 157 points",
       "url": "https://matklad.github.io/2026/05/12/software-architecture.html"
-    },
-    {
-      "title": "Postmortem: TanStack NPM supply-chain compromise",
-      "hot": "3.0m",
-      "desc": "tanstack.com",
-      "source": "tech",
-      "tag": "⬆️ 861 points",
-      "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem"
     },
     {
       "title": "Screenshots of Old Desktop OSes",
       "hot": "3.0m",
       "desc": "typewritten.org",
       "source": "tech",
-      "tag": "⬆️ 191 points",
+      "tag": "⬆️ 284 points",
       "url": "http://www.typewritten.org/Media/"
     },
     {
-      "title": "They Live (1988) inspired Adblocker",
+      "title": "Postmortem: TanStack NPM supply-chain compromise",
       "hot": "3.0m",
+      "desc": "tanstack.com",
+      "source": "tech",
+      "tag": "⬆️ 899 points",
+      "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem"
+    },
+    {
+      "title": "EU to crack down on TikTok, Instagram's 'addictive design' targeting kids",
+      "hot": "3.0m",
+      "desc": "cnbc.com",
+      "source": "tech",
+      "tag": "⬆️ 70 points",
+      "url": "https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html"
+    },
+    {
+      "title": "They Live (1988) inspired Adblocker",
+      "hot": "2.9m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 243 points",
+      "tag": "⬆️ 321 points",
       "url": "https://github.com/davmlaw/they_live_adblocker"
     },
     {
@@ -39,256 +56,126 @@
       "hot": "2.9m",
       "desc": "medium.com",
       "source": "tech",
-      "tag": "⬆️ 510 points",
+      "tag": "⬆️ 575 points",
       "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055"
     },
     {
-      "title": "Rtwatch: Watch videos with friends using WebRTC",
+      "title": "Text Blaze (YC W21) Is Hiring for a No-AI Summer Internship",
       "hot": "2.9m",
-      "desc": "github.com",
+      "desc": "ycombinator.com",
       "source": "tech",
-      "tag": "⬆️ 28 points",
-      "url": "https://github.com/pion/rtwatch"
-    },
-    {
-      "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
-      "hot": "2.9m",
-      "desc": "stemcell.ucla.edu",
-      "source": "tech",
-      "tag": "⬆️ 347 points",
-      "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage"
-    },
-    {
-      "title": "Claude Platform on AWS",
-      "hot": "2.9m",
-      "desc": "claude.com",
-      "source": "tech",
-      "tag": "⬆️ 144 points",
-      "url": "https://claude.com/blog/claude-platform-on-aws"
-    },
-    {
-      "title": "Extremely Low Frequencies",
-      "hot": "2.9m",
-      "desc": "computer.rip",
-      "source": "tech",
-      "tag": "⬆️ 79 points",
-      "url": "https://computer.rip/2026-05-09-extremely-low-frequencies.html"
+      "tag": "⬆️ 1 points",
+      "url": "https://www.ycombinator.com/companies/text-blaze/jobs/P4CCN62-the-blaze-no-ai-summer-internship"
     },
     {
       "title": "Toxicity on Social Media – The Noisy Room",
       "hot": "2.9m",
       "desc": "thenoisyroom.com",
       "source": "tech",
-      "tag": "⬆️ 15 points",
+      "tag": "⬆️ 90 points",
       "url": "https://thenoisyroom.com"
     },
     {
-      "title": "Software Internals Book Club",
+      "title": "Coursera and Udemy are now one company",
       "hot": "2.9m",
-      "desc": "eatonphil.com",
+      "desc": "blog.coursera.org",
       "source": "tech",
-      "tag": "⬆️ 103 points",
-      "url": "https://eatonphil.com/bookclub.html"
+      "tag": "⬆️ 45 points",
+      "url": "https://blog.coursera.org/coursera-and-udemy-are-now-one-company-creating-the-worlds-most-comprehensive-skills-platform/"
+    },
+    {
+      "title": "Docker images are MB; a full game engine compiles to 35MB WASM",
+      "hot": "2.9m",
+      "desc": "bogomolov.work",
+      "source": "tech",
+      "tag": "⬆️ 16 points",
+      "url": "https://bogomolov.work/blog/posts/wasm-vs-docker/"
+    },
+    {
+      "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
+      "hot": "2.9m",
+      "desc": "stemcell.ucla.edu",
+      "source": "tech",
+      "tag": "⬆️ 374 points",
+      "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage"
+    },
+    {
+      "title": "A HN post with negative points – how?",
+      "hot": "2.8m",
+      "desc": "news.ycombinator.com",
+      "source": "tech",
+      "tag": "⬆️ 21 points",
+      "url": "https://news.ycombinator.com/item?id=48104663"
+    },
+    {
+      "title": "Music has scales / raagas. What about storytelling in movies and prestige shows?",
+      "hot": "2.8m",
+      "desc": "arc.quanten.co",
+      "source": "tech",
+      "tag": "⬆️ 23 points",
+      "url": "https://arc.quanten.co/archetype"
+    },
+    {
+      "title": "Rtwatch: Watch videos with friends using WebRTC",
+      "hot": "2.8m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 41 points",
+      "url": "https://github.com/pion/rtwatch"
+    },
+    {
+      "title": "Optimize for change not application performance",
+      "hot": "2.8m",
+      "desc": "echooff.dev",
+      "source": "tech",
+      "tag": "⬆️ 18 points",
+      "url": "https://www.echooff.dev/blog/developer-experience-is-a-performance-feature"
+    },
+    {
+      "title": "Extremely Low Frequencies",
+      "hot": "2.8m",
+      "desc": "computer.rip",
+      "source": "tech",
+      "tag": "⬆️ 106 points",
+      "url": "https://computer.rip/2026-05-09-extremely-low-frequencies.html"
+    },
+    {
+      "title": "Claude Platform on AWS",
+      "hot": "2.8m",
+      "desc": "claude.com",
+      "source": "tech",
+      "tag": "⬆️ 158 points",
+      "url": "https://claude.com/blog/claude-platform-on-aws"
     },
     {
       "title": "Google says criminal hackers used AI to find a major software flaw",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "nytimes.com",
       "source": "tech",
-      "tag": "⬆️ 188 points",
+      "tag": "⬆️ 202 points",
       "url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html"
     },
     {
       "title": "I let AI build a tool to help me figure out what was waking me up at night",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "martin.sh",
       "source": "tech",
-      "tag": "⬆️ 182 points",
+      "tag": "⬆️ 202 points",
       "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/"
     },
     {
-      "title": "Remembering Planet Source Code: Sharing Code Before GitHub Made It Easy",
-      "hot": "2.8m",
-      "desc": "pietschsoft.com",
-      "source": "tech",
-      "tag": "⬆️ 15 points",
-      "url": "https://www.pietschsoft.com/post/2026/05/05/remembering-planet-source-code-sharing-code-before-github-made-it-easy"
-    },
-    {
-      "title": "I hate soldering",
-      "hot": "2.8m",
-      "desc": "user8.bearblog.dev",
-      "source": "tech",
-      "tag": "⬆️ 115 points",
-      "url": "https://user8.bearblog.dev/rant/"
-    },
-    {
-      "title": "Nullsoft, 1997-2004 (2004)",
-      "hot": "2.8m",
-      "desc": "slate.com",
-      "source": "tech",
-      "tag": "⬆️ 281 points",
-      "url": "https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html"
-    },
-    {
-      "title": "Show HN: A modern Music Player Daemon based on Rockbox firmware",
-      "hot": "2.8m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 81 points",
-      "url": "https://github.com/tsirysndr/rockbox-zig"
-    },
-    {
-      "title": "Library for fast mapping of Java records to native memory",
+      "title": "Software Internals Book Club",
       "hot": "2.7m",
-      "desc": "github.com",
+      "desc": "eatonphil.com",
       "source": "tech",
-      "tag": "⬆️ 146 points",
-      "url": "https://github.com/mamba-studio/TypedMemory"
-    },
-    {
-      "title": "Boriel BASIC",
-      "hot": "2.7m",
-      "desc": "zxbasic.readthedocs.io",
-      "source": "tech",
-      "tag": "⬆️ 36 points",
-      "url": "https://zxbasic.readthedocs.io/en/docs/"
-    },
-    {
-      "title": "Interaction Models",
-      "hot": "2.7m",
-      "desc": "thinkingmachines.ai",
-      "source": "tech",
-      "tag": "⬆️ 220 points",
-      "url": "https://thinkingmachines.ai/blog/interaction-models/"
-    }
-  ],
-  "space": [
-    {
-      "title": "Smile's journey from launch to orbit",
-      "hot": "5/12",
-      "desc": "Our next space science mission is about to begin its space adventure.",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/04/Smile_s_journey_from_launch_to_orbit"
-    },
-    {
-      "title": "Australia’s Cloudy Beauty",
-      "hot": "5/12",
-      "desc": "Valley fog gathered in the Victorian Alps while an arch-shaped cloud drifted across Port Phillip Bay.",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/earth/earth-observatory/australias-cloudy-beauty/"
-    },
-    {
-      "title": "Curiosity Blog, Sols 4886-4892: Ingenuity and Perseverance, Curiosity Style",
-      "hot": "5/12",
-      "desc": "Written by Michelle Minitti, MAHLI Deputy Principal Investigator Earth planning date: Friday, May 8, 2026 While we know the monikers Ingenuity and Per",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4886-4892-ingenuity-and-perseverance-curiosity-style/"
-    },
-    {
-      "title": "NASA’s Curiosity Takes Close Look at Rock That Got Stuck on Drill",
-      "hot": "5/12",
-      "desc": "Description NASA’s Curiosity Mars rover used its Mast Camera, or Mastcam, to capture this view of a rock nicknamed “Atacama” on May 6, 2026, the 4,877",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/photojournal/nasas-curiosity-takes-close-look-at-rock-that-got-stuck-on-drill/"
-    },
-    {
-      "title": "May 2026 Satellite Puzzler",
-      "hot": "5/11",
-      "desc": "Your challenge is to tell us the location of the satellite image and why it is interesting.",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/earth/earth-observatory/may-2026-satellite-puzzler/"
-    },
-    {
-      "title": "Launch Preview: SpaceX and Chinese missions fill busy launch manifest",
-      "hot": "5/11",
-      "desc": "The week of May 11 brings nine launches across the United States and China, spanning…\nThe post Launch Preview: SpaceX and Chinese missions fill busy l",
-      "source": "space",
-      "tag": "NASASpaceflight",
-      "url": "https://www.nasaspaceflight.com/2026/05/launch-preview-051126/"
-    },
-    {
-      "title": "Nicholas Houghton: Engineering Crew Safety for NASA’s Artemis Missions",
-      "hot": "5/11",
-      "desc": "Nicholas Houghton always dreamed of working at NASA and one day becoming an astronaut. Today, he helps design systems that keep crews safe during miss",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/centers-and-facilities/johnson/nicholas-houghton-engineering-crew-safety-for-artemis-ii/"
-    },
-    {
-      "title": "Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office",
-      "hot": "5/11",
-      "desc": "The NROL-72 mission will be the 13th to date supporting what the NRO calls its “proliferated architecture” satellite constellation. Liftoff of SpaceX’",
-      "source": "space",
-      "tag": "Spaceflight Now",
-      "url": "https://spaceflightnow.com/2026/05/11/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office/"
-    },
-    {
-      "title": "NASA Invites Media to Annual Lunabotics Robotics Competition",
-      "hot": "5/11",
-      "desc": "NASA will hold its 2026 Lunabotics Challenge Tuesday, May 19, to Thursday, May 21, at the Astronauts Memorial Foundation’s Center for Space Education ",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-annual-lunabotics-robotics-competition/"
-    },
-    {
-      "title": "Joint Earth Observation Mission Quality Assessment Framework – Optical Guidelines Documents Released",
-      "hot": "5/11",
-      "desc": "The Optical Guidelines document provides standardized, transparent, and repeatable process for assessing the quality of optical data from commercial E",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/science-research/earth-science/joint-earth-observation-mission-quality-assessment-framework-optical-guidelines-documents-released/"
-    },
-    {
-      "title": "Hubble Survey Sets Up Roman’s Future Look Near Milky Way’s Center",
-      "hot": "5/11",
-      "desc": "The Milky Way’s galactic bulge, the bulbous region that surrounds the galactic center, contains a dense collection of stars, planets, and other free-f",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/missions/roman-space-telescope/hubble-survey-sets-up-romans-future-look-near-milky-ways-center/"
-    },
-    {
-      "title": "NASA Astronaut Jessica Meir",
-      "hot": "5/11",
-      "desc": "NASA Astronaut Jessica Meir sits for a portrait at NASA’s Johnson Space Center in Houston on Sept. 23, 2025. This photo was chosen as one of the 2025 ",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/image-article/nasa-astronaut-jessica-meir-2/"
-    },
-    {
-      "title": "With Skyroot at the head of the class, India's private space industry seeks to take off",
-      "hot": "5/11",
-      "desc": "\"We wanted to get to an orbital launch vehicle in a few years.\"",
-      "source": "space",
-      "tag": "Arstechnica",
-      "url": "https://arstechnica.com/space/2026/05/with-skyroot-at-the-head-of-the-class-indias-private-space-industry-seeks-to-take-off/"
-    },
-    {
-      "title": "What’s Happening in Space Policy May 9-16, 2026",
-      "hot": "5/10",
-      "desc": "Here is SpacePolicyOnline.com’s list of space policy events for the week of May 9-16, 2026 and any insight we can offer about them. The House and Sena",
-      "source": "space",
-      "tag": "SpacePolicyOnline.com",
-      "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-9-16-2026/"
-    },
-    {
-      "title": "Rescue mission for NASA’s $500 million space telescope passes key testing milestone",
-      "hot": "5/8",
-      "desc": "Katalyst Space Technologies’ Link spacecraft is set to head to orbit in June 2026 onboard Northrop Grumman’s Pegasus XL air-launched rocket. NASA awar",
-      "source": "space",
-      "tag": "Spaceflight Now",
-      "url": "https://spaceflightnow.com/2026/05/08/rescue-mission-for-nasas-500-million-space-telescope-passes-key-testing-milestone/"
+      "tag": "⬆️ 116 points",
+      "url": "https://eatonphil.com/bookclub.html"
     }
   ],
   "dev": [
     {
       "title": "Does AI Behave Like a Toxic Ex?",
-      "hot": "❤️ 40 💬 17",
+      "hot": "❤️ 42 💬 19",
       "desc": "Is AI that toxic ex you just can’t forget about and can’t move on from?  For every task you get...",
       "source": "dev",
       "tag": "ai,  webdev",
@@ -304,7 +191,7 @@
     },
     {
       "title": "What was your win this week??",
-      "hot": "❤️ 67 💬 91",
+      "hot": "❤️ 68 💬 91",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "discuss,  weeklyretro",
@@ -312,7 +199,7 @@
     },
     {
       "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 43 💬 15",
+      "hot": "❤️ 46 💬 15",
       "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
       "source": "dev",
       "tag": "top7,  discuss",
@@ -343,14 +230,6 @@
       "url": "https://dev.to/satyamsoni2211/i-built-a-one-command-macos-terminal-setup-ghostty-zsh-30-modern-cli-tools-43f5"
     },
     {
-      "title": "5 types of engineers I met as a Technical Writer",
-      "hot": "❤️ 94 💬 52",
-      "desc": "Being a Technical Writer in an engineering world can be tough. We work closely with engineers, but...",
-      "source": "dev",
-      "tag": "watercooler,  technicalwriting",
-      "url": "https://dev.to/klaudiagrz/5-types-of-engineers-i-met-as-a-technical-writer-1gak"
-    },
-    {
       "title": "Playwright is Powerful, But Managing It at Scale? That's Another Story",
       "hot": "❤️ 0 💬 1",
       "desc": "Part 1: Why we built ITG Playwright Studio - A web-based control plane for managing Playwright tests at scale",
@@ -376,7 +255,7 @@
     },
     {
       "title": "Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!",
-      "hot": "❤️ 391 💬 59",
+      "hot": "❤️ 392 💬 60",
       "desc": "Local AI is having a moment, and we want you to be part of it!  Running through May 24, the Gemma 4...",
       "source": "dev",
       "tag": "devchallenge,  gemmachallenge",
@@ -408,7 +287,7 @@
     },
     {
       "title": "Congrats to the OpenClaw Challenge Winners!",
-      "hot": "❤️ 103 💬 28",
+      "hot": "❤️ 105 💬 28",
       "desc": "The results are in! We are thrilled to announce the winners of the OpenClaw Challenge.  Over the past...",
       "source": "dev",
       "tag": "devchallenge,  openclawchallenge",
@@ -445,6 +324,14 @@
       "source": "dev",
       "tag": "css,  api",
       "url": "https://dev.to/janeori/css-the-single-coolest-api-technique-you-can-imagine-4ma8"
+    },
+    {
+      "title": "I Grounded Gemma 4 in 118,000 Real Stars — Here's What It Can Do",
+      "hot": "❤️ 16 💬 2",
+      "desc": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4           What I Built   StarLens...",
+      "source": "dev",
+      "tag": "devchallenge,  gemmachallenge",
+      "url": "https://dev.to/imjoseangel/starlens-gemma-4-as-your-personal-planetarium-guide-36a4"
     }
   ],
   "github": [
@@ -506,7 +393,7 @@
     },
     {
       "title": "BigPizzaV3/CodexPlusPlus: An enhanced tool for CodexApp, striving to make Codex ",
-      "hot": "⭐ 1.3k",
+      "hot": "⭐ 1.4k",
       "desc": "An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服",
       "source": "github",
       "tag": "Python",
@@ -514,7 +401,7 @@
     },
     {
       "title": "zarazhangrui/beautiful-html-templates: A library of HTML slide templates designe",
-      "hot": "⭐ 967",
+      "hot": "⭐ 983",
       "desc": "A library of HTML slide templates designed so any coding agent can pick the right one and produce a beautiful deck on the user's behalf, automatically",
       "source": "github",
       "tag": "HTML",
@@ -522,7 +409,7 @@
     },
     {
       "title": "lightseekorg/tokenspeed: TokenSpeed is a speed-of-light LLM inference engine.",
-      "hot": "⭐ 959",
+      "hot": "⭐ 963",
       "desc": "TokenSpeed is a speed-of-light LLM inference engine.",
       "source": "github",
       "tag": "Python",
@@ -530,7 +417,7 @@
     },
     {
       "title": "pixel-point/media-downloader: Beautiful native macOS video downloader. Download ",
-      "hot": "⭐ 549",
+      "hot": "⭐ 559",
       "desc": "Beautiful native macOS video downloader. Download and trim in one app.",
       "source": "github",
       "tag": "Swift",
@@ -553,20 +440,20 @@
       "url": "https://github.com/thakur-works/Velocity-Executor"
     },
     {
-      "title": "zzzhhh1/Sing-Flare-Auto: 本项目提供了一个基于 Docker 容器的轻量级、高隐匿性科学上网节点部署方案。通过集成 sing-box 和",
-      "hot": "⭐ 521",
-      "desc": "本项目提供了一个基于 Docker 容器的轻量级、高隐匿性科学上网节点部署方案。通过集成 sing-box 和 cloudflared，你可以轻松地在各类云平台（如 Koyeb、Render 等）或个人 VPS 上一键构建安全隧道。下方是详细的视频教程链接：",
-      "source": "github",
-      "tag": "Dockerfile",
-      "url": "https://github.com/zzzhhh1/Sing-Flare-Auto"
-    },
-    {
       "title": "kitft/natural_language_autoencoders: ",
-      "hot": "⭐ 519",
+      "hot": "⭐ 522",
       "desc": "kitft/natural_language_autoencoders",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/kitft/natural_language_autoencoders"
+    },
+    {
+      "title": "zzzhhh1/Sing-Flare-Auto: 本项目提供了一个基于 Docker 容器的轻量级、高隐匿性科学上网节点部署方案。通过集成 sing-box 和",
+      "hot": "⭐ 522",
+      "desc": "本项目提供了一个基于 Docker 容器的轻量级、高隐匿性科学上网节点部署方案。通过集成 sing-box 和 cloudflared，你可以轻松地在各类云平台（如 Koyeb、Render 等）或个人 VPS 上一键构建安全隧道。下方是详细的视频教程链接：",
+      "source": "github",
+      "tag": "Dockerfile",
+      "url": "https://github.com/zzzhhh1/Sing-Flare-Auto"
     }
   ]
 }
