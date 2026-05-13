@@ -10,19 +10,59 @@
     },
     {
       "title": "Lambda Just Got a File System. I Put AI Agents on It.",
-      "hot": "❤️ 13 💬 1",
+      "hot": "❤️ 19 💬 2",
       "desc": "You've written this code before. An S3 event fires, your Lambda function wakes up, and the first...",
       "source": "dev",
       "tag": "serverless,  aws",
       "url": "https://dev.to/aws/lambda-just-got-a-file-system-i-put-ai-agents-on-it-1ej8"
     },
     {
-      "title": "Does AI Behave Like a Toxic Ex?",
-      "hot": "❤️ 65 💬 43",
-      "desc": "Is AI that toxic ex you just can’t forget about and can’t move on from?  For every task you get...",
+      "title": "onclick is great, actually",
+      "hot": "❤️ 8 💬 0",
+      "desc": "A few thoughts on `onclick` and how my opinion on it has changed.",
       "source": "dev",
-      "tag": "ai,  webdev",
-      "url": "https://dev.to/konark_13/does-ai-behave-like-a-toxic-ex-498n"
+      "tag": "javascript,  html",
+      "url": "https://dev.to/darkwiiplayer/onclick-is-great-actually-1l3p"
+    },
+    {
+      "title": "Hacking perfectly square AI videos with Veo 3.1 and NanoBanana 2",
+      "hot": "❤️ 23 💬 2",
+      "desc": "If you’ve been playing around with AI video generation lately, you already know the struggle: the...",
+      "source": "dev",
+      "tag": "python,  ai",
+      "url": "https://dev.to/googleai/hacking-perfectly-square-ai-videos-with-veo-31-and-nanobanana-2-5cpn"
+    },
+    {
+      "title": "Untimely feedback as a root cause of tech debt",
+      "hot": "❤️ 2 💬 0",
+      "desc": "Have you ever worked on a brand new codebase with talented engineers, only to find out a year later...",
+      "source": "dev",
+      "tag": "techdebt,  feedback",
+      "url": "https://dev.to/katafrakt/untimely-feedback-as-a-root-cause-of-tech-debt-2ipd"
+    },
+    {
+      "title": "Local-First AI Done Right: How Gemma 4 E2B and 'Thinking Mode' Powered DiagramFlowAI",
+      "hot": "❤️ 31 💬 1",
+      "desc": "What I Built   DiagramFlowAI is a local-first desktop application (macOS, Windows, and...",
+      "source": "dev",
+      "tag": "devchallenge,  gemmachallenge",
+      "url": "https://dev.to/gde/local-first-ai-done-right-how-gemma-4-e2b-and-thinking-mode-powered-diagramflowai-3bop"
+    },
+    {
+      "title": "Deploying a Rust MCP Server to Amazon EKS",
+      "hot": "❤️ 7 💬 0",
+      "desc": "The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...",
+      "source": "dev",
+      "tag": "awseks,  aws",
+      "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-eks-183g"
+    },
+    {
+      "title": "SQL Execution Order: Write Queries That Think Like the Database",
+      "hot": "❤️ 0 💬 0",
+      "desc": "Most SQL bugs aren't logic errors. They're sequence errors — the result of writing a query in one...",
+      "source": "dev",
+      "tag": "beginners,  sql",
+      "url": "https://dev.to/kalkwst/sql-execution-order-write-queries-that-think-like-the-database-13lf"
     },
     {
       "title": "Gemini API File Search: Enhanced Multimodal Capabilities with Embedding 2, Including Open-Source LINE Bot Implementation",
@@ -34,7 +74,7 @@
     },
     {
       "title": "My fully offline AI-assisted Linux development machine",
-      "hot": "❤️ 30 💬 18",
+      "hot": "❤️ 31 💬 18",
       "desc": "My Arch Linux, Niri, and local AI coding setup on the ASUS ROG Flow Z13",
       "source": "dev",
       "tag": "linux,  archlinux",
@@ -47,6 +87,14 @@
       "source": "dev",
       "tag": "mcp,  security",
       "url": "https://dev.to/kcrazy/compile-time-vs-runtime-where-mcp-security-actually-lives-1g6l"
+    },
+    {
+      "title": "GPT-5.5 Instant: The New ChatGPT Default Model Complete Guide 2026",
+      "hot": "❤️ 0 💬 0",
+      "desc": "GPT-5.5 Instant is the new ChatGPT default model with 52.5% fewer hallucinations, Gmail integration, memory sources, and",
+      "source": "dev",
+      "tag": "gpt55instant,  chatgptnewdefaultmodel202",
+      "url": "https://dev.to/akaranjkar08/gpt-55-instant-the-new-chatgpt-default-model-complete-guide-2026-1l4"
     },
     {
       "title": "The Tech Giants Cannot Continue Like This: Why We Need an Opt-In Model and \"Pay-per-Citation\" by Law",
@@ -111,55 +159,7 @@
       "source": "dev",
       "tag": "ai,  llm",
       "url": "https://dev.to/sanketsahu/speed-caching-and-the-40x-cost-wall-2gn0"
-    },
-    {
-      "title": "Computers and upgrades",
-      "hot": "❤️ 1 💬 0",
-      "desc": "My first computer was a Desktop with AMD Sempron processor which used to run at 1.6GHz. It was...",
-      "source": "dev",
-      "tag": "watercooler",
-      "url": "https://dev.to/unsungnovelty/computers-and-upgrades-3n7f"
-    },
-    {
-      "title": "I Didn’t Stop Building. I Just Left My Laptop.",
-      "hot": "❤️ 120 💬 54",
-      "desc": "Hey there again guys! It’s been almost two months since my last post. And in the back of my head,...",
-      "source": "dev",
-      "tag": "career,  learning",
-      "url": "https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da"
-    },
-    {
-      "title": "What are your goals for the week? #178",
-      "hot": "❤️ 20 💬 12",
-      "desc": "Still learning my new camera. Getting better at remembering where stuff is on it. Next week is son's...",
-      "source": "dev",
-      "tag": "discuss,  motivation",
-      "url": "https://dev.to/jarvisscript/what-are-your-goals-for-the-week-178-bkp"
-    },
-    {
-      "title": "Congrats to the OpenClaw Challenge Winners!",
-      "hot": "❤️ 108 💬 29",
-      "desc": "The results are in! We are thrilled to announce the winners of the OpenClaw Challenge.  Over the past...",
-      "source": "dev",
-      "tag": "devchallenge,  openclawchallenge",
-      "url": "https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha"
-    },
-    {
-      "title": "Getting Started with the Cluster Inventory API on OCM (Part 1: ClusterProfile)",
-      "hot": "❤️ 0 💬 0",
-      "desc": "This is Part 1 of a two-part series. Part 2 (coming soon): Connecting to spoke clusters from a...",
-      "source": "dev",
-      "tag": "kubernetes,  ocm",
-      "url": "https://dev.to/kahirokunn/build-an-open-cluster-management-hub-spoke-environment-and-enable-cluster-inventory-api-kk6"
-    },
-    {
-      "title": "Landscape of ODE Solvers in R: A Practical Overview",
-      "hot": "❤️ 0 💬 0",
-      "desc": "An overview of ODE solvers in R, highlighting their capabilities, performance, and practical considerations.",
-      "source": "dev",
-      "tag": "rstats,  modeling",
-      "url": "https://dev.to/metelkin/landscape-of-ode-solvers-in-r-a-practical-overview-4cc7"
     }
   ],
-  "updatedAt": "2026-05-13T18:20:56.220Z"
+  "updatedAt": "2026-05-13T20:14:55.332Z"
 }
