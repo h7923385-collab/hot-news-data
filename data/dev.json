@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "Two DEV Users. Two Countries. One Weird Little Avatar Project.",
-      "hot": "❤️ 40 💬 9",
+      "hot": "❤️ 40 💬 10",
       "desc": "We Gave Our DEV Avatar Project a V2… and It Escalated Quickly   A few months ago,...",
       "source": "dev",
       "tag": "webdev,  nextjs",
@@ -10,7 +10,7 @@
     },
     {
       "title": "Lambda Just Got a File System. I Put AI Agents on It.",
-      "hot": "❤️ 19 💬 3",
+      "hot": "❤️ 19 💬 7",
       "desc": "You've written this code before. An S3 event fires, your Lambda function wakes up, and the first...",
       "source": "dev",
       "tag": "serverless,  aws",
@@ -18,23 +18,15 @@
     },
     {
       "title": "onclick is great, actually",
-      "hot": "❤️ 8 💬 0",
+      "hot": "❤️ 8 💬 1",
       "desc": "A few thoughts on `onclick` and how my opinion on it has changed.",
       "source": "dev",
       "tag": "javascript,  html",
       "url": "https://dev.to/darkwiiplayer/onclick-is-great-actually-1l3p"
     },
     {
-      "title": "Hacking perfectly square AI videos with Veo 3.1 and NanoBanana 2",
-      "hot": "❤️ 23 💬 2",
-      "desc": "If you’ve been playing around with AI video generation lately, you already know the struggle: the...",
-      "source": "dev",
-      "tag": "python,  ai",
-      "url": "https://dev.to/googleai/hacking-perfectly-square-ai-videos-with-veo-31-and-nanobanana-2-5cpn"
-    },
-    {
       "title": "Untimely feedback as a root cause of tech debt",
-      "hot": "❤️ 2 💬 0",
+      "hot": "❤️ 2 💬 1",
       "desc": "Have you ever worked on a brand new codebase with talented engineers, only to find out a year later...",
       "source": "dev",
       "tag": "techdebt,  feedback",
@@ -42,7 +34,7 @@
     },
     {
       "title": "Local-First AI Done Right: How Gemma 4 E2B and 'Thinking Mode' Powered DiagramFlowAI",
-      "hot": "❤️ 31 💬 1",
+      "hot": "❤️ 31 💬 2",
       "desc": "What I Built   DiagramFlowAI is a local-first desktop application (macOS, Windows, and...",
       "source": "dev",
       "tag": "devchallenge,  gemmachallenge",
@@ -50,19 +42,11 @@
     },
     {
       "title": "Deploying a Rust MCP Server to Amazon EKS",
-      "hot": "❤️ 7 💬 0",
+      "hot": "❤️ 7 💬 1",
       "desc": "The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...",
       "source": "dev",
       "tag": "awseks,  aws",
       "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-eks-183g"
-    },
-    {
-      "title": "SQL Execution Order: Write Queries That Think Like the Database",
-      "hot": "❤️ 0 💬 0",
-      "desc": "Most SQL bugs aren't logic errors. They're sequence errors — the result of writing a query in one...",
-      "source": "dev",
-      "tag": "beginners,  sql",
-      "url": "https://dev.to/kalkwst/sql-execution-order-write-queries-that-think-like-the-database-13lf"
     },
     {
       "title": "Gemini API File Search: Enhanced Multimodal Capabilities with Embedding 2, Including Open-Source LINE Bot Implementation",
@@ -73,12 +57,12 @@
       "url": "https://dev.to/gde/gemini-api-file-search-enhanced-multimodal-capabilities-with-embedding-2-including-open-source-g72"
     },
     {
-      "title": "My fully offline AI-assisted Linux development machine",
-      "hot": "❤️ 31 💬 18",
-      "desc": "My Arch Linux, Niri, and local AI coding setup on the ASUS ROG Flow Z13",
+      "title": "SQL Execution Order: Write Queries That Think Like the Database",
+      "hot": "❤️ 0 💬 1",
+      "desc": "Most SQL bugs aren't logic errors. They're sequence errors — the result of writing a query in one...",
       "source": "dev",
-      "tag": "linux,  archlinux",
-      "url": "https://dev.to/deepu105/my-fully-offline-ai-assisted-linux-development-machine-3lnl"
+      "tag": "beginners,  sql",
+      "url": "https://dev.to/kalkwst/sql-execution-order-write-queries-that-think-like-the-database-13lf"
     },
     {
       "title": "Compile-time vs runtime: where MCP security actually lives",
@@ -153,13 +137,29 @@
       "url": "https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in"
     },
     {
+      "title": "Hacking perfectly square AI videos with Veo 3.1 and NanoBanana 2",
+      "hot": "❤️ 23 💬 3",
+      "desc": "If you’ve been playing around with AI video generation lately, you already know the struggle: the...",
+      "source": "dev",
+      "tag": "python,  ai",
+      "url": "https://dev.to/googleai/hacking-perfectly-square-ai-videos-with-veo-31-and-nanobanana-2-5cpn"
+    },
+    {
       "title": "Speed, caching, and the 40x cost wall",
       "hot": "❤️ 2 💬 0",
       "desc": "Notes from this week on the RapidNative agent stack. Why we love Cerebras, why the cost still bites, and the split-agent",
       "source": "dev",
       "tag": "ai,  llm",
       "url": "https://dev.to/sanketsahu/speed-caching-and-the-40x-cost-wall-2gn0"
+    },
+    {
+      "title": "Computers and upgrades",
+      "hot": "❤️ 1 💬 0",
+      "desc": "My first computer was a Desktop with AMD Sempron processor which used to run at 1.6GHz. It was...",
+      "source": "dev",
+      "tag": "watercooler",
+      "url": "https://dev.to/unsungnovelty/computers-and-upgrades-3n7f"
     }
   ],
-  "updatedAt": "2026-05-13T21:49:16.732Z"
+  "updatedAt": "2026-05-13T22:53:36.667Z"
 }
