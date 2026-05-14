@@ -1,13 +1,175 @@
 {
-  "updatedAt": "2026-05-14T05:36:49.007Z",
+  "updatedAt": "2026-05-14T08:21:34.165Z",
   "source": "live",
+  "dev": [
+    {
+      "title": "Two DEV Users. Two Countries. One Weird Little Avatar Project.",
+      "hot": "❤️ 48 💬 13",
+      "desc": "We Gave Our DEV Avatar Project a V2… and It Escalated Quickly   A few months ago,...",
+      "source": "dev",
+      "tag": "webdev,  nextjs",
+      "url": "https://dev.to/itsugo/two-dev-users-two-countries-one-weird-little-avatar-project-3gd3"
+    },
+    {
+      "title": "onclick is great, actually",
+      "hot": "❤️ 11 💬 1",
+      "desc": "A few thoughts on `onclick` and how my opinion on it has changed.",
+      "source": "dev",
+      "tag": "javascript,  html",
+      "url": "https://dev.to/darkwiiplayer/onclick-is-great-actually-1l3p"
+    },
+    {
+      "title": "Lambda Just Got a File System. I Put AI Agents on It.",
+      "hot": "❤️ 30 💬 9",
+      "desc": "You've written this code before. An S3 event fires, your Lambda function wakes up, and the first...",
+      "source": "dev",
+      "tag": "serverless,  aws",
+      "url": "https://dev.to/aws/lambda-just-got-a-file-system-i-put-ai-agents-on-it-1ej8"
+    },
+    {
+      "title": "Untimely feedback as a root cause of tech debt",
+      "hot": "❤️ 2 💬 2",
+      "desc": "Have you ever worked on a brand new codebase with talented engineers, only to find out a year later...",
+      "source": "dev",
+      "tag": "techdebt,  feedback",
+      "url": "https://dev.to/katafrakt/untimely-feedback-as-a-root-cause-of-tech-debt-2ipd"
+    },
+    {
+      "title": "Gemini API File Search: Enhanced Multimodal Capabilities with Embedding 2, Including Open-Source LINE Bot Implementation",
+      "hot": "❤️ 9 💬 2",
+      "desc": "(Image source: Google Blog - Gemini API File Search is now multimodal: build efficient, verifiable...",
+      "source": "dev",
+      "tag": "api,  gemini",
+      "url": "https://dev.to/gde/gemini-api-file-search-enhanced-multimodal-capabilities-with-embedding-2-including-open-source-g72"
+    },
+    {
+      "title": "SQL Execution Order: Write Queries That Think Like the Database",
+      "hot": "❤️ 0 💬 2",
+      "desc": "Most SQL bugs aren't logic errors. They're sequence errors — the result of writing a query in one...",
+      "source": "dev",
+      "tag": "beginners,  sql",
+      "url": "https://dev.to/kalkwst/sql-execution-order-write-queries-that-think-like-the-database-13lf"
+    },
+    {
+      "title": "Deploying a Rust MCP Server to Amazon EKS",
+      "hot": "❤️ 8 💬 1",
+      "desc": "The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...",
+      "source": "dev",
+      "tag": "awseks,  aws",
+      "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-eks-183g"
+    },
+    {
+      "title": "Compile-time vs runtime: where MCP security actually lives",
+      "hot": "❤️ 1 💬 2",
+      "desc": "If you run a Model Context Protocol (MCP) server in production, you've probably noticed that \"MCP security\" doesn't mean",
+      "source": "dev",
+      "tag": "mcp,  security",
+      "url": "https://dev.to/kcrazy/compile-time-vs-runtime-where-mcp-security-actually-lives-1g6l"
+    },
+    {
+      "title": "GPT-5.5 Instant: The New ChatGPT Default Model Complete Guide 2026",
+      "hot": "❤️ 0 💬 0",
+      "desc": "GPT-5.5 Instant is the new ChatGPT default model with 52.5% fewer hallucinations, Gmail integration, memory sources, and",
+      "source": "dev",
+      "tag": "gpt55instant,  chatgptnewdefaultmodel202",
+      "url": "https://dev.to/akaranjkar08/gpt-55-instant-the-new-chatgpt-default-model-complete-guide-2026-1l4"
+    },
+    {
+      "title": "The Tech Giants Cannot Continue Like This: Why We Need an Opt-In Model and \"Pay-per-Citation\" by Law",
+      "hot": "❤️ 1 💬 1",
+      "desc": "A call for fair compensation, explicit consent, and data removal in the era of LLMs.",
+      "source": "dev",
+      "tag": "tech,  opensource",
+      "url": "https://dev.to/jcarlosweb/the-tech-giants-cannot-continue-like-this-why-we-need-an-opt-in-model-and-pay-per-citation-by-law-4jgl"
+    },
+    {
+      "title": "The Hidden Cost of \"It Works\": Why Quick Fixes Kill Long-Term Speed",
+      "hot": "❤️ 33 💬 28",
+      "desc": "It was a Thursday afternoon when the Teams message came in.  A bug in production. A date formatting...",
+      "source": "dev",
+      "tag": "webdev,  productivity",
+      "url": "https://dev.to/gavincettolo/the-hidden-cost-of-it-works-why-quick-fixes-kill-long-term-speed-1gi5"
+    },
+    {
+      "title": "I Built a One-Command macOS Terminal Setup — Ghostty + Zsh + 30 Modern CLI Tools",
+      "hot": "❤️ 0 💬 1",
+      "desc": "Stop wasting hours configuring your terminal. dev-accelerator sets up Ghostty, Zsh, Starship, and 30+ modern CLI tools w",
+      "source": "dev",
+      "tag": "terminal,  macos",
+      "url": "https://dev.to/satyamsoni2211/i-built-a-one-command-macos-terminal-setup-ghostty-zsh-30-modern-cli-tools-43f5"
+    },
+    {
+      "title": "Building Team A: An AI System for Turning Volunteer Chaos into Structured Engineering Work",
+      "hot": "❤️ 0 💬 1",
+      "desc": "How an AI-driven workflow system helps volunteer engineering teams reduce onboarding friction by turning informal reques",
+      "source": "dev",
+      "tag": "productivity,  ai",
+      "url": "https://dev.to/miry/building-team-a-an-ai-system-for-turning-volunteer-chaos-into-structured-engineering-work-mgo"
+    },
+    {
+      "title": "Playwright is Powerful, But Managing It at Scale? That's Another Story",
+      "hot": "❤️ 0 💬 1",
+      "desc": "Part 1: Why we built ITG Playwright Studio - A web-based control plane for managing Playwright tests at scale",
+      "source": "dev",
+      "tag": "playwright,  testing",
+      "url": "https://dev.to/prakashm88/playwright-is-powerful-but-managing-it-at-scale-thats-another-story-2g37"
+    },
+    {
+      "title": "I Built a Chrome Extension to Sync AI Studio System Instructions. Here's Why chrome.storage.sync Couldn't Do It",
+      "hot": "❤️ 1 💬 2",
+      "desc": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4  I use Google AI Studio on three...",
+      "source": "dev",
+      "tag": "ai,  javascript",
+      "url": "https://dev.to/codewithahsan/i-built-a-chrome-extension-to-sync-ai-studio-system-instructions-heres-why-chromestoragesync-2llm"
+    },
+    {
+      "title": "MCP Configuration for Google Workspace with Gemini CLI",
+      "hot": "❤️ 5 💬 1",
+      "desc": "This article covers the MCP setup and configuration for using Google Workspace and underlying Gemini...",
+      "source": "dev",
+      "tag": "googleworkspace,  oauth2",
+      "url": "https://dev.to/gde/mcp-configuration-for-google-workspace-with-gemini-cli-3nd2"
+    },
+    {
+      "title": "Hacking perfectly square AI videos with Veo 3.1 and NanoBanana 2",
+      "hot": "❤️ 23 💬 3",
+      "desc": "If you’ve been playing around with AI video generation lately, you already know the struggle: the...",
+      "source": "dev",
+      "tag": "python,  ai",
+      "url": "https://dev.to/googleai/hacking-perfectly-square-ai-videos-with-veo-31-and-nanobanana-2-5cpn"
+    },
+    {
+      "title": "Local-First AI Done Right: How Gemma 4 E2B and 'Thinking Mode' Powered DiagramFlowAI",
+      "hot": "❤️ 33 💬 7",
+      "desc": "What I Built   DiagramFlowAI is a local-first desktop application (macOS, Windows, and...",
+      "source": "dev",
+      "tag": "devchallenge,  gemmachallenge",
+      "url": "https://dev.to/gde/local-first-ai-done-right-how-gemma-4-e2b-and-thinking-mode-powered-diagramflowai-3bop"
+    },
+    {
+      "title": "Speed, caching, and the 40x cost wall",
+      "hot": "❤️ 2 💬 0",
+      "desc": "Notes from this week on the RapidNative agent stack. Why we love Cerebras, why the cost still bites, and the split-agent",
+      "source": "dev",
+      "tag": "ai,  llm",
+      "url": "https://dev.to/sanketsahu/speed-caching-and-the-40x-cost-wall-2gn0"
+    },
+    {
+      "title": "Computers and upgrades",
+      "hot": "❤️ 1 💬 0",
+      "desc": "My first computer was a Desktop with AMD Sempron processor which used to run at 1.6GHz. It was...",
+      "source": "dev",
+      "tag": "watercooler",
+      "url": "https://dev.to/unsungnovelty/computers-and-upgrades-3n7f"
+    }
+  ],
   "tech": [
     {
       "title": "Claude for Small Business",
       "hot": "3.0m",
       "desc": "anthropic.com",
       "source": "tech",
-      "tag": "⬆️ 90 points",
+      "tag": "⬆️ 198 points",
       "url": "https://www.anthropic.com/news/claude-for-small-business"
     },
     {
@@ -15,7 +177,7 @@
       "hot": "3.0m",
       "desc": "scorch2000.com",
       "source": "tech",
-      "tag": "⬆️ 188 points",
+      "tag": "⬆️ 230 points",
       "url": "http://www.scorch2000.com/web/"
     },
     {
@@ -23,23 +185,15 @@
       "hot": "3.0m",
       "desc": "xda-developers.com",
       "source": "tech",
-      "tag": "⬆️ 621 points",
+      "tag": "⬆️ 692 points",
       "url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/"
     },
     {
-      "title": "Cisco workforce reductions",
-      "hot": "3.0m",
-      "desc": "blogs.cisco.com",
-      "source": "tech",
-      "tag": "⬆️ 115 points",
-      "url": "https://blogs.cisco.com/news/our-path-forward"
-    },
-    {
       "title": "Arena AI Model ELO History",
-      "hot": "2.9m",
+      "hot": "3.0m",
       "desc": "mayerwin.github.io",
       "source": "tech",
-      "tag": "⬆️ 15 points",
+      "tag": "⬆️ 54 points",
       "url": "https://mayerwin.github.io/AI-Arena-History/"
     },
     {
@@ -47,47 +201,71 @@
       "hot": "2.9m",
       "desc": "fredchan.org",
       "source": "tech",
-      "tag": "⬆️ 541 points",
+      "tag": "⬆️ 552 points",
       "url": "https://fredchan.org/blog/locality-domains-guide/"
     },
     {
-      "title": "A History of IDEs at Google",
+      "title": "Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7",
       "hot": "2.9m",
-      "desc": "laurent.le-brun.eu",
+      "desc": "classic7.lol",
       "source": "tech",
-      "tag": "⬆️ 329 points",
-      "url": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google"
+      "tag": "⬆️ 4 points",
+      "url": "https://classic7.lol/"
+    },
+    {
+      "title": "Cisco workforce reductions",
+      "hot": "2.9m",
+      "desc": "blogs.cisco.com",
+      "source": "tech",
+      "tag": "⬆️ 187 points",
+      "url": "https://blogs.cisco.com/news/our-path-forward"
     },
     {
       "title": "MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble",
       "hot": "2.9m",
       "desc": "jdhodges.com",
       "source": "tech",
-      "tag": "⬆️ 160 points",
+      "tag": "⬆️ 202 points",
       "url": "https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/"
     },
     {
-      "title": "The Emacsification of Software",
+      "title": "What the Hell Was Going on with Cigarette Ads in the 70s?",
       "hot": "2.9m",
+      "desc": "tohippo.com",
+      "source": "tech",
+      "tag": "⬆️ 4 points",
+      "url": "https://tohippo.com/what-the-hell-was-going-on-with-cigarette-ads-in-the-70s/"
+    },
+    {
+      "title": "A History of IDEs at Google",
+      "hot": "2.9m",
+      "desc": "laurent.le-brun.eu",
+      "source": "tech",
+      "tag": "⬆️ 359 points",
+      "url": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google"
+    },
+    {
+      "title": "Extraordinary Ordinals",
+      "hot": "2.9m",
+      "desc": "text.marvinborner.de",
+      "source": "tech",
+      "tag": "⬆️ 18 points",
+      "url": "https://text.marvinborner.de/2026-04-09-17.html"
+    },
+    {
+      "title": "The Emacsification of Software",
+      "hot": "2.8m",
       "desc": "sockpuppet.org",
       "source": "tech",
-      "tag": "⬆️ 250 points",
+      "tag": "⬆️ 285 points",
       "url": "https://sockpuppet.org/blog/2026/05/12/emacsification/"
     },
     {
-      "title": "Chess puzzle I found in my dad's old book",
-      "hot": "2.9m",
-      "desc": "ardoedo.it",
-      "source": "tech",
-      "tag": "⬆️ 135 points",
-      "url": "https://ardoedo.it/kempelen/"
-    },
-    {
       "title": "Show HN: Nibble",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 26 points",
+      "tag": "⬆️ 50 points",
       "url": "https://github.com/glouw/nibble"
     },
     {
@@ -95,47 +273,47 @@
       "hot": "2.8m",
       "desc": "arstechnica.com",
       "source": "tech",
-      "tag": "⬆️ 371 points",
+      "tag": "⬆️ 406 points",
       "url": "https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/"
-    },
-    {
-      "title": "Microsoft BitLocker – YellowKey zero-day exploit",
-      "hot": "2.8m",
-      "desc": "tomshardware.com",
-      "source": "tech",
-      "tag": "⬆️ 77 points",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor"
-    },
-    {
-      "title": "delta time",
-      "hot": "2.8m",
-      "desc": "deltatime.life",
-      "source": "tech",
-      "tag": "⬆️ 16 points",
-      "url": "https://www.deltatime.life/"
     },
     {
       "title": "Avoiding and reducing microplastic false positives from dry glove contact",
       "hot": "2.8m",
       "desc": "pubs.rsc.org",
       "source": "tech",
-      "tag": "⬆️ 17 points",
+      "tag": "⬆️ 40 points",
       "url": "https://pubs.rsc.org/en/content/articlelanding/2026/ay/d5ay01801c"
     },
     {
-      "title": "'A Four-Eyed World' Review: The Story of Spectacles",
+      "title": "delta time",
       "hot": "2.8m",
-      "desc": "wsj.com",
+      "desc": "deltatime.life",
       "source": "tech",
-      "tag": "⬆️ 5 points",
-      "url": "https://www.wsj.com/arts-culture/books/a-four-eyed-world-review-the-story-of-spectacles-504334ac"
+      "tag": "⬆️ 42 points",
+      "url": "https://www.deltatime.life/"
+    },
+    {
+      "title": "Chess puzzle I found in my dad's old book",
+      "hot": "2.8m",
+      "desc": "ardoedo.it",
+      "source": "tech",
+      "tag": "⬆️ 151 points",
+      "url": "https://ardoedo.it/kempelen/"
+    },
+    {
+      "title": "The US is winning the AI race where it matters most: commercialization",
+      "hot": "2.7m",
+      "desc": "avkcode.github.io",
+      "source": "tech",
+      "tag": "⬆️ 196 points",
+      "url": "https://avkcode.github.io/blog/us-winning-ai-race.html"
     },
     {
       "title": "Princeton mandates proctoring for in-person exams, upending 133 year precedent",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "dailyprincetonian.com",
       "source": "tech",
-      "tag": "⬆️ 296 points",
+      "tag": "⬆️ 321 points",
       "url": "https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent"
     },
     {
@@ -143,24 +321,8 @@
       "hot": "2.7m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 171 points",
+      "tag": "⬆️ 181 points",
       "url": "https://github.com/nooga/xsofy"
-    },
-    {
-      "title": "The US is winning the AI race where it matters most: commercialization",
-      "hot": "2.7m",
-      "desc": "avkcode.github.io",
-      "source": "tech",
-      "tag": "⬆️ 182 points",
-      "url": "https://avkcode.github.io/blog/us-winning-ai-race.html"
-    },
-    {
-      "title": "Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with zero migration",
-      "hot": "2.7m",
-      "desc": "tryardent.com",
-      "source": "tech",
-      "tag": "⬆️ 80 points",
-      "url": "https://www.tryardent.com/"
     }
   ],
   "space": [
@@ -296,7 +458,7 @@
     },
     {
       "title": "vercel-labs/zero-native: Build desktop + mobile apps with Zig and web UI",
-      "hot": "⭐ 3.3k",
+      "hot": "⭐ 3.4k",
       "desc": "Build desktop + mobile apps with Zig and web UI",
       "source": "github",
       "tag": "Zig",
@@ -312,7 +474,7 @@
     },
     {
       "title": "huangserva/3DCellForge: AI-powered interactive 3D model generation, inspection, ",
-      "hot": "⭐ 1.8k",
+      "hot": "⭐ 1.9k",
       "desc": "AI-powered interactive 3D model generation, inspection, and presentation studio.",
       "source": "github",
       "tag": "JavaScript",
@@ -320,7 +482,7 @@
     },
     {
       "title": "Nightmare-Eclipse/YellowKey: YellowKey Bitlocker Bypass Vulnerability",
-      "hot": "⭐ 1.1k",
+      "hot": "⭐ 1.2k",
       "desc": "YellowKey Bitlocker Bypass Vulnerability",
       "source": "github",
       "tag": "GitHub",
@@ -328,7 +490,7 @@
     },
     {
       "title": "ywnd1144/Gopay_plus_automatic: ",
-      "hot": "⭐ 732",
+      "hot": "⭐ 737",
       "desc": "ywnd1144/Gopay_plus_automatic",
       "source": "github",
       "tag": "Python",
@@ -336,7 +498,7 @@
     },
     {
       "title": "HermannBjorgvin/Clawdmeter: ESP32 desk dashboard that shows Claude Code usage",
-      "hot": "⭐ 708",
+      "hot": "⭐ 731",
       "desc": "ESP32 desk dashboard that shows Claude Code usage",
       "source": "github",
       "tag": "C",
@@ -344,7 +506,7 @@
     },
     {
       "title": "haydenbleasel/files-sdk: A unified storage SDK for object and blob backends. One",
-      "hot": "⭐ 650",
+      "hot": "⭐ 655",
       "desc": "A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O.",
       "source": "github",
       "tag": "TypeScript",
@@ -352,11 +514,19 @@
     },
     {
       "title": "TencentARC/Pixal3D: [SIGGRAPH 2026] Pixal3D: Pixel-Aligned 3D Generation from Im",
-      "hot": "⭐ 549",
+      "hot": "⭐ 565",
       "desc": "[SIGGRAPH 2026] Pixal3D: Pixel-Aligned 3D Generation from Images",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/TencentARC/Pixal3D"
+    },
+    {
+      "title": "cclank/cell-architecture-studio: Interactive 3D cell architecture gallery built ",
+      "hot": "⭐ 542",
+      "desc": "Interactive 3D cell architecture gallery built with React and Three.js",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/cclank/cell-architecture-studio"
     },
     {
       "title": "thakur-works/DarkGPT: Darkgpt mod free #chatgpt",
@@ -368,7 +538,7 @@
     },
     {
       "title": "patchfighterway90/cs2-external-overlay: The cs2 external helper tool is a softwa",
-      "hot": "⭐ 533",
+      "hot": "⭐ 534",
       "desc": "The cs2 external helper tool is a software utility designed for gamers and developers. It provides a set of features to enhance the gaming experience,",
       "source": "github",
       "tag": "Python",
@@ -383,190 +553,20 @@
       "url": "https://github.com/thakur-works/Velocity-Executor"
     },
     {
-      "title": "cclank/cell-architecture-studio: Interactive 3D cell architecture gallery built ",
-      "hot": "⭐ 527",
-      "desc": "Interactive 3D cell architecture gallery built with React and Three.js",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/cclank/cell-architecture-studio"
-    },
-    {
-      "title": "alchaincyf/huashu-md-html: md/html 双向流水线 · 三个能力一站式：万物→md / md→精美html / html→md。封",
-      "hot": "⭐ 519",
-      "desc": "md/html 双向流水线 · 三个能力一站式：万物→md / md→精美html / html→md。封装 markitdown + Pandoc + html-to-markdown + trafilatura。4 套反 AI slop 主题。Claude Code skill.",
-      "source": "github",
-      "tag": "CSS",
-      "url": "https://github.com/alchaincyf/huashu-md-html"
-    },
-    {
       "title": "simonlin1212/a-stock-data: A 股全栈数据工具包 — 6层架构 · 15个端点 · 7个数据源 | AI Skill for Chin",
-      "hot": "⭐ 509",
+      "hot": "⭐ 526",
       "desc": "A 股全栈数据工具包 — 6层架构 · 15个端点 · 7个数据源 | AI Skill for China A-Share Market Data",
       "source": "github",
       "tag": "GitHub",
       "url": "https://github.com/simonlin1212/a-stock-data"
-    }
-  ],
-  "dev": [
-    {
-      "title": "Two DEV Users. Two Countries. One Weird Little Avatar Project.",
-      "hot": "❤️ 48 💬 12",
-      "desc": "We Gave Our DEV Avatar Project a V2… and It Escalated Quickly   A few months ago,...",
-      "source": "dev",
-      "tag": "webdev,  nextjs",
-      "url": "https://dev.to/itsugo/two-dev-users-two-countries-one-weird-little-avatar-project-3gd3"
     },
     {
-      "title": "onclick is great, actually",
-      "hot": "❤️ 10 💬 1",
-      "desc": "A few thoughts on `onclick` and how my opinion on it has changed.",
-      "source": "dev",
-      "tag": "javascript,  html",
-      "url": "https://dev.to/darkwiiplayer/onclick-is-great-actually-1l3p"
-    },
-    {
-      "title": "Lambda Just Got a File System. I Put AI Agents on It.",
-      "hot": "❤️ 30 💬 8",
-      "desc": "You've written this code before. An S3 event fires, your Lambda function wakes up, and the first...",
-      "source": "dev",
-      "tag": "serverless,  aws",
-      "url": "https://dev.to/aws/lambda-just-got-a-file-system-i-put-ai-agents-on-it-1ej8"
-    },
-    {
-      "title": "Untimely feedback as a root cause of tech debt",
-      "hot": "❤️ 2 💬 2",
-      "desc": "Have you ever worked on a brand new codebase with talented engineers, only to find out a year later...",
-      "source": "dev",
-      "tag": "techdebt,  feedback",
-      "url": "https://dev.to/katafrakt/untimely-feedback-as-a-root-cause-of-tech-debt-2ipd"
-    },
-    {
-      "title": "Gemini API File Search: Enhanced Multimodal Capabilities with Embedding 2, Including Open-Source LINE Bot Implementation",
-      "hot": "❤️ 9 💬 2",
-      "desc": "(Image source: Google Blog - Gemini API File Search is now multimodal: build efficient, verifiable...",
-      "source": "dev",
-      "tag": "api,  gemini",
-      "url": "https://dev.to/gde/gemini-api-file-search-enhanced-multimodal-capabilities-with-embedding-2-including-open-source-g72"
-    },
-    {
-      "title": "SQL Execution Order: Write Queries That Think Like the Database",
-      "hot": "❤️ 0 💬 1",
-      "desc": "Most SQL bugs aren't logic errors. They're sequence errors — the result of writing a query in one...",
-      "source": "dev",
-      "tag": "beginners,  sql",
-      "url": "https://dev.to/kalkwst/sql-execution-order-write-queries-that-think-like-the-database-13lf"
-    },
-    {
-      "title": "Deploying a Rust MCP Server to Amazon EKS",
-      "hot": "❤️ 8 💬 1",
-      "desc": "The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...",
-      "source": "dev",
-      "tag": "awseks,  aws",
-      "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-eks-183g"
-    },
-    {
-      "title": "Compile-time vs runtime: where MCP security actually lives",
-      "hot": "❤️ 1 💬 2",
-      "desc": "If you run a Model Context Protocol (MCP) server in production, you've probably noticed that \"MCP security\" doesn't mean",
-      "source": "dev",
-      "tag": "mcp,  security",
-      "url": "https://dev.to/kcrazy/compile-time-vs-runtime-where-mcp-security-actually-lives-1g6l"
-    },
-    {
-      "title": "GPT-5.5 Instant: The New ChatGPT Default Model Complete Guide 2026",
-      "hot": "❤️ 0 💬 0",
-      "desc": "GPT-5.5 Instant is the new ChatGPT default model with 52.5% fewer hallucinations, Gmail integration, memory sources, and",
-      "source": "dev",
-      "tag": "gpt55instant,  chatgptnewdefaultmodel202",
-      "url": "https://dev.to/akaranjkar08/gpt-55-instant-the-new-chatgpt-default-model-complete-guide-2026-1l4"
-    },
-    {
-      "title": "The Tech Giants Cannot Continue Like This: Why We Need an Opt-In Model and \"Pay-per-Citation\" by Law",
-      "hot": "❤️ 1 💬 1",
-      "desc": "A call for fair compensation, explicit consent, and data removal in the era of LLMs.",
-      "source": "dev",
-      "tag": "tech,  opensource",
-      "url": "https://dev.to/jcarlosweb/the-tech-giants-cannot-continue-like-this-why-we-need-an-opt-in-model-and-pay-per-citation-by-law-4jgl"
-    },
-    {
-      "title": "The Hidden Cost of \"It Works\": Why Quick Fixes Kill Long-Term Speed",
-      "hot": "❤️ 33 💬 28",
-      "desc": "It was a Thursday afternoon when the Teams message came in.  A bug in production. A date formatting...",
-      "source": "dev",
-      "tag": "webdev,  productivity",
-      "url": "https://dev.to/gavincettolo/the-hidden-cost-of-it-works-why-quick-fixes-kill-long-term-speed-1gi5"
-    },
-    {
-      "title": "I Built a One-Command macOS Terminal Setup — Ghostty + Zsh + 30 Modern CLI Tools",
-      "hot": "❤️ 0 💬 1",
-      "desc": "Stop wasting hours configuring your terminal. dev-accelerator sets up Ghostty, Zsh, Starship, and 30+ modern CLI tools w",
-      "source": "dev",
-      "tag": "terminal,  macos",
-      "url": "https://dev.to/satyamsoni2211/i-built-a-one-command-macos-terminal-setup-ghostty-zsh-30-modern-cli-tools-43f5"
-    },
-    {
-      "title": "Building Team A: An AI System for Turning Volunteer Chaos into Structured Engineering Work",
-      "hot": "❤️ 0 💬 1",
-      "desc": "How an AI-driven workflow system helps volunteer engineering teams reduce onboarding friction by turning informal reques",
-      "source": "dev",
-      "tag": "productivity,  ai",
-      "url": "https://dev.to/miry/building-team-a-an-ai-system-for-turning-volunteer-chaos-into-structured-engineering-work-mgo"
-    },
-    {
-      "title": "Playwright is Powerful, But Managing It at Scale? That's Another Story",
-      "hot": "❤️ 0 💬 1",
-      "desc": "Part 1: Why we built ITG Playwright Studio - A web-based control plane for managing Playwright tests at scale",
-      "source": "dev",
-      "tag": "playwright,  testing",
-      "url": "https://dev.to/prakashm88/playwright-is-powerful-but-managing-it-at-scale-thats-another-story-2g37"
-    },
-    {
-      "title": "I Built a Chrome Extension to Sync AI Studio System Instructions. Here's Why chrome.storage.sync Couldn't Do It",
-      "hot": "❤️ 1 💬 2",
-      "desc": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4  I use Google AI Studio on three...",
-      "source": "dev",
-      "tag": "ai,  javascript",
-      "url": "https://dev.to/codewithahsan/i-built-a-chrome-extension-to-sync-ai-studio-system-instructions-heres-why-chromestoragesync-2llm"
-    },
-    {
-      "title": "MCP Configuration for Google Workspace with Gemini CLI",
-      "hot": "❤️ 5 💬 1",
-      "desc": "This article covers the MCP setup and configuration for using Google Workspace and underlying Gemini...",
-      "source": "dev",
-      "tag": "googleworkspace,  oauth2",
-      "url": "https://dev.to/gde/mcp-configuration-for-google-workspace-with-gemini-cli-3nd2"
-    },
-    {
-      "title": "Hacking perfectly square AI videos with Veo 3.1 and NanoBanana 2",
-      "hot": "❤️ 23 💬 3",
-      "desc": "If you’ve been playing around with AI video generation lately, you already know the struggle: the...",
-      "source": "dev",
-      "tag": "python,  ai",
-      "url": "https://dev.to/googleai/hacking-perfectly-square-ai-videos-with-veo-31-and-nanobanana-2-5cpn"
-    },
-    {
-      "title": "Local-First AI Done Right: How Gemma 4 E2B and 'Thinking Mode' Powered DiagramFlowAI",
-      "hot": "❤️ 33 💬 4",
-      "desc": "What I Built   DiagramFlowAI is a local-first desktop application (macOS, Windows, and...",
-      "source": "dev",
-      "tag": "devchallenge,  gemmachallenge",
-      "url": "https://dev.to/gde/local-first-ai-done-right-how-gemma-4-e2b-and-thinking-mode-powered-diagramflowai-3bop"
-    },
-    {
-      "title": "Speed, caching, and the 40x cost wall",
-      "hot": "❤️ 2 💬 0",
-      "desc": "Notes from this week on the RapidNative agent stack. Why we love Cerebras, why the cost still bites, and the split-agent",
-      "source": "dev",
-      "tag": "ai,  llm",
-      "url": "https://dev.to/sanketsahu/speed-caching-and-the-40x-cost-wall-2gn0"
-    },
-    {
-      "title": "Computers and upgrades",
-      "hot": "❤️ 1 💬 0",
-      "desc": "My first computer was a Desktop with AMD Sempron processor which used to run at 1.6GHz. It was...",
-      "source": "dev",
-      "tag": "watercooler",
-      "url": "https://dev.to/unsungnovelty/computers-and-upgrades-3n7f"
+      "title": "alchaincyf/huashu-md-html: md/html 双向流水线 · 三个能力一站式：万物→md / md→精美html / html→md。封",
+      "hot": "⭐ 523",
+      "desc": "md/html 双向流水线 · 三个能力一站式：万物→md / md→精美html / html→md。封装 markitdown + Pandoc + html-to-markdown + trafilatura。4 套反 AI slop 主题。Claude Code skill.",
+      "source": "github",
+      "tag": "CSS",
+      "url": "https://github.com/alchaincyf/huashu-md-html"
     }
   ]
 }
