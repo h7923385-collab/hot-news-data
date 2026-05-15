@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "My GitHub Graveyard has 27 dead projects. Here is the brutal truth about why.",
-      "hot": "❤️ 57 💬 44",
+      "hot": "❤️ 59 💬 45",
       "desc": "I recently opened my GitHub account and filtered by private repositories. I actually counted them:...",
       "source": "dev",
       "tag": "webdev,  beginners",
@@ -10,7 +10,7 @@
     },
     {
       "title": "Two DEV Users. Two Countries. One Weird Little Avatar Project.",
-      "hot": "❤️ 55 💬 14",
+      "hot": "❤️ 56 💬 14",
       "desc": "We Gave Our DEV Avatar Project a V2… and It Escalated Quickly   A few months ago,...",
       "source": "dev",
       "tag": "webdev,  nextjs",
@@ -18,7 +18,7 @@
     },
     {
       "title": "Old PC vs New AI: Can a 2015 Desktop Actually Run Gemma 4? (2B vs 4B Benchmark)",
-      "hot": "❤️ 20 💬 18",
+      "hot": "❤️ 22 💬 18",
       "desc": "Running modern AI models locally on older hardware sounds almost impossible. But with smaller models...",
       "source": "dev",
       "tag": "devchallenge,  gemmachallenge",
@@ -34,7 +34,7 @@
     },
     {
       "title": "Vibe Coding, Demystified",
-      "hot": "❤️ 4 💬 0",
+      "hot": "❤️ 9 💬 0",
       "desc": "TL;DR -Vibe coding is the practice of building real software by talking to an AI, in plain...",
       "source": "dev",
       "tag": "vibecoding,  learning",
@@ -47,14 +47,6 @@
       "source": "dev",
       "tag": "ai,  genkit",
       "url": "https://dev.to/gde/vercel-ai-sdk-middleware-vs-genkit-middleware-a-hands-on-comparison-41hg"
-    },
-    {
-      "title": "Lambda Just Got a File System. I Put AI Agents on It.",
-      "hot": "❤️ 34 💬 11",
-      "desc": "You've written this code before. An S3 event fires, your Lambda function wakes up, and the first...",
-      "source": "dev",
-      "tag": "serverless,  aws",
-      "url": "https://dev.to/aws/lambda-just-got-a-file-system-i-put-ai-agents-on-it-1ej8"
     },
     {
       "title": "Your bundle is 4000x bigger than Quake. The 9-step audit that fixes it.",
@@ -81,20 +73,20 @@
       "url": "https://dev.to/apostopher/i-built-a-quiz-app-with-my-8-year-old-to-fix-homework-and-accidentally-a-family-ritual-1c1b"
     },
     {
-      "title": "Agent Factory Recap: How Gemma 4 Taught Itself Physics",
-      "hot": "❤️ 10 💬 0",
-      "desc": "In this episode of The Agent Factory, Vlad Kolesnikov and I sat down with Omar Sanseviero from the...",
-      "source": "dev",
-      "tag": "ai,  gemma",
-      "url": "https://dev.to/googleai/agent-factory-recap-how-gemma-4-taught-itself-physics-17e6"
-    },
-    {
       "title": "Genkit Middleware: Intercept, Extend and Harden your Gen AI Pipelines",
       "hot": "❤️ 7 💬 1",
       "desc": "Introduction   If you have been building anything non-trivial with Genkit, you have probably...",
       "source": "dev",
       "tag": "ai,  genkit",
       "url": "https://dev.to/gde/genkit-middleware-intercept-extend-and-harden-your-gen-ai-pipelines-4k03"
+    },
+    {
+      "title": "Agent Factory Recap: How Gemma 4 Taught Itself Physics",
+      "hot": "❤️ 11 💬 1",
+      "desc": "In this episode of The Agent Factory, Vlad Kolesnikov and I sat down with Omar Sanseviero from the...",
+      "source": "dev",
+      "tag": "ai,  gemma",
+      "url": "https://dev.to/googleai/agent-factory-recap-how-gemma-4-taught-itself-physics-17e6"
     },
     {
       "title": "onclick is great, actually",
@@ -159,7 +151,15 @@
       "source": "dev",
       "tag": "beginners,  sql",
       "url": "https://dev.to/kalkwst/sql-execution-order-write-queries-that-think-like-the-database-13lf"
+    },
+    {
+      "title": "Gemma4 Speculative Decoding with n-gram",
+      "hot": "❤️ 11 💬 0",
+      "desc": "Using the MCP Toolset for benchmarking- the 26B MOE Gemma4 model was updated with ngram speculative...",
+      "source": "dev",
+      "tag": "devchallenge,  gemmachallenge",
+      "url": "https://dev.to/gde/gemma4-speculative-decoding-with-n-gram-1c9b"
     }
   ],
-  "updatedAt": "2026-05-14T23:43:02.552Z"
+  "updatedAt": "2026-05-15T01:47:39.984Z"
 }
