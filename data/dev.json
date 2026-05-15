@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "My GitHub Graveyard has 27 dead projects. Here is the brutal truth about why.",
-      "hot": "❤️ 59 💬 45",
+      "hot": "❤️ 68 💬 47",
       "desc": "I recently opened my GitHub account and filtered by private repositories. I actually counted them:...",
       "source": "dev",
       "tag": "webdev,  beginners",
@@ -33,20 +33,20 @@
       "url": "https://dev.to/tkuenneth/building-a-custom-launcher-for-chromeos-4fb7"
     },
     {
-      "title": "Vibe Coding, Demystified",
-      "hot": "❤️ 9 💬 0",
-      "desc": "TL;DR -Vibe coding is the practice of building real software by talking to an AI, in plain...",
-      "source": "dev",
-      "tag": "vibecoding,  learning",
-      "url": "https://dev.to/mlh/vibe-coding-demystified-169b"
-    },
-    {
       "title": "Vercel AI SDK Middleware vs Genkit Middleware: a Hands-On Comparison",
       "hot": "❤️ 6 💬 2",
       "desc": "Introduction   Two of the most popular Gen AI frameworks in JavaScript/TypeScript, Vercel AI...",
       "source": "dev",
       "tag": "ai,  genkit",
       "url": "https://dev.to/gde/vercel-ai-sdk-middleware-vs-genkit-middleware-a-hands-on-comparison-41hg"
+    },
+    {
+      "title": "Vibe Coding, Demystified",
+      "hot": "❤️ 9 💬 0",
+      "desc": "TL;DR -Vibe coding is the practice of building real software by talking to an AI, in plain...",
+      "source": "dev",
+      "tag": "vibecoding,  learning",
+      "url": "https://dev.to/mlh/vibe-coding-demystified-169b"
     },
     {
       "title": "Your bundle is 4000x bigger than Quake. The 9-step audit that fixes it.",
@@ -65,28 +65,12 @@
       "url": "https://dev.to/gde/gemmabridge-ai-bridging-the-inclusion-gap-for-neurodiverse-learners-48ba"
     },
     {
-      "title": "I built a quiz app with my 8-year-old to fix homework — and accidentally a family ritual",
-      "hot": "❤️ 0 💬 0",
-      "desc": "How a year 3 NAPLAN cram session turned into a tool that grandparents now use to send quizzes over WhatsApp.",
-      "source": "dev",
-      "tag": "sideprojects,  webdev",
-      "url": "https://dev.to/apostopher/i-built-a-quiz-app-with-my-8-year-old-to-fix-homework-and-accidentally-a-family-ritual-1c1b"
-    },
-    {
       "title": "Genkit Middleware: Intercept, Extend and Harden your Gen AI Pipelines",
       "hot": "❤️ 7 💬 1",
       "desc": "Introduction   If you have been building anything non-trivial with Genkit, you have probably...",
       "source": "dev",
       "tag": "ai,  genkit",
       "url": "https://dev.to/gde/genkit-middleware-intercept-extend-and-harden-your-gen-ai-pipelines-4k03"
-    },
-    {
-      "title": "Agent Factory Recap: How Gemma 4 Taught Itself Physics",
-      "hot": "❤️ 11 💬 1",
-      "desc": "In this episode of The Agent Factory, Vlad Kolesnikov and I sat down with Omar Sanseviero from the...",
-      "source": "dev",
-      "tag": "ai,  gemma",
-      "url": "https://dev.to/googleai/agent-factory-recap-how-gemma-4-taught-itself-physics-17e6"
     },
     {
       "title": "onclick is great, actually",
@@ -97,20 +81,28 @@
       "url": "https://dev.to/darkwiiplayer/onclick-is-great-actually-1l3p"
     },
     {
-      "title": "Untimely feedback as a root cause of tech debt",
-      "hot": "❤️ 2 💬 3",
-      "desc": "Have you ever worked on a brand new codebase with talented engineers, only to find out a year later...",
-      "source": "dev",
-      "tag": "techdebt,  feedback",
-      "url": "https://dev.to/katafrakt/untimely-feedback-as-a-root-cause-of-tech-debt-2ipd"
-    },
-    {
       "title": "Gemini API File Search: Enhanced Multimodal Capabilities with Embedding 2, Including Open-Source LINE Bot Implementation",
       "hot": "❤️ 9 💬 2",
       "desc": "(Image source: Google Blog - Gemini API File Search is now multimodal: build efficient, verifiable...",
       "source": "dev",
       "tag": "api,  gemini",
       "url": "https://dev.to/gde/gemini-api-file-search-enhanced-multimodal-capabilities-with-embedding-2-including-open-source-g72"
+    },
+    {
+      "title": "I built a quiz app with my 8-year-old to fix homework — and accidentally a family ritual",
+      "hot": "❤️ 1 💬 1",
+      "desc": "How a year 3 NAPLAN cram session turned into a tool that grandparents now use to send quizzes over WhatsApp.",
+      "source": "dev",
+      "tag": "sideprojects,  webdev",
+      "url": "https://dev.to/apostopher/i-built-a-quiz-app-with-my-8-year-old-to-fix-homework-and-accidentally-a-family-ritual-1c1b"
+    },
+    {
+      "title": "Agent Factory Recap: How Gemma 4 Taught Itself Physics",
+      "hot": "❤️ 13 💬 1",
+      "desc": "In this episode of The Agent Factory, Vlad Kolesnikov and I sat down with Omar Sanseviero from the...",
+      "source": "dev",
+      "tag": "ai,  gemma",
+      "url": "https://dev.to/googleai/agent-factory-recap-how-gemma-4-taught-itself-physics-17e6"
     },
     {
       "title": "How AI is changing my job as a Staff Engineer: Tracer bullets",
@@ -159,7 +151,15 @@
       "source": "dev",
       "tag": "devchallenge,  gemmachallenge",
       "url": "https://dev.to/gde/gemma4-speculative-decoding-with-n-gram-1c9b"
+    },
+    {
+      "title": "Deploying a Rust MCP Server to Amazon EKS",
+      "hot": "❤️ 8 💬 1",
+      "desc": "The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...",
+      "source": "dev",
+      "tag": "awseks,  aws",
+      "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-eks-183g"
     }
   ],
-  "updatedAt": "2026-05-15T01:47:39.984Z"
+  "updatedAt": "2026-05-15T05:42:38.292Z"
 }
