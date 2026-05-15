@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "What was your win this week?!",
-      "hot": "❤️ 30 💬 11",
+      "hot": "❤️ 31 💬 12",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "discuss,  weeklyretro",
@@ -15,6 +15,14 @@
       "source": "dev",
       "tag": "ai,  gemini",
       "url": "https://dev.to/googleai/building-sweets-vault-a-multimodal-gemini-agent-with-physical-hardware-integration-1nmh"
+    },
+    {
+      "title": "You don't 3D print a house. You print your tools.",
+      "hot": "❤️ 7 💬 1",
+      "desc": "Vibe coding is to engineering what 3D printing is to making, and that's exactly why it...",
+      "source": "dev",
+      "tag": "ai,  vibecoding",
+      "url": "https://dev.to/aletheia/you-dont-3d-print-a-house-you-print-your-tools-2h00"
     },
     {
       "title": "GemmaFin - Breaking the Cycle of Debt with Conversational AI",
@@ -33,12 +41,12 @@
       "url": "https://dev.to/gde/through-the-blue-frames-ux-from-google-glass-to-gemini-51e0"
     },
     {
-      "title": "You don't 3D print a house. You print your tools.",
-      "hot": "❤️ 2 💬 1",
-      "desc": "Vibe coding is to engineering what 3D printing is to making, and that's exactly why it...",
+      "title": "Circuits: Bit-Banging, SPI, and CPLD",
+      "hot": "❤️ 13 💬 2",
+      "desc": "TLDR: A small exploration of the use case of hardware over software.      \"Bit-banging\"...",
       "source": "dev",
-      "tag": "ai,  vibecoding",
-      "url": "https://dev.to/aletheia/you-dont-3d-print-a-house-you-print-your-tools-2h00"
+      "tag": "esp32,  learning",
+      "url": "https://dev.to/annavi11arrea1/circuits-bit-banging-spi-and-cpld-3b5o"
     },
     {
       "title": "Bypassing User Isolation on Android with a Screen Reader",
@@ -49,20 +57,20 @@
       "url": "https://dev.to/gdg/bypassing-user-isolation-on-android-with-a-screen-reader-3k72"
     },
     {
-      "title": "Circuits: Bit-Banging, SPI, and CPLD",
-      "hot": "❤️ 13 💬 1",
-      "desc": "TLDR: A small exploration of the use case of hardware over software.      \"Bit-banging\"...",
-      "source": "dev",
-      "tag": "esp32,  learning",
-      "url": "https://dev.to/annavi11arrea1/circuits-bit-banging-spi-and-cpld-3b5o"
-    },
-    {
       "title": "Join the Hermes Agent Challenge: $1,000 in Prizes!",
       "hot": "❤️ 44 💬 2",
       "desc": "If you've been watching the space, Hermes Agent probably needs no introduction. For everyone else,...",
       "source": "dev",
       "tag": "hermesagentchallenge,  devchallenge",
       "url": "https://dev.to/devteam/join-the-hermes-agent-challenge-1000-in-prizes-13cd"
+    },
+    {
+      "title": "Deploying a Rust MCP Server to Azure ACI",
+      "hot": "❤️ 5 💬 0",
+      "desc": "The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...",
+      "source": "dev",
+      "tag": "mcpserver,  gemini",
+      "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-azure-aci-15nb"
     },
     {
       "title": "Gemini 3.1 Flash-Lite is now generally available on Gemini Enterprise Agent Platform",
@@ -79,14 +87,6 @@
       "source": "dev",
       "tag": "agents,  mcpserver",
       "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-azure-functions-3agg"
-    },
-    {
-      "title": "Deploying a Rust MCP Server to Azure ACI",
-      "hot": "❤️ 5 💬 0",
-      "desc": "The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...",
-      "source": "dev",
-      "tag": "mcpserver,  gemini",
-      "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-azure-aci-15nb"
     },
     {
       "title": "Building Simple Tabs with Vanilla JavaScript",
@@ -161,5 +161,5 @@
       "url": "https://dev.to/joshsaintjacque/code-got-cheaper-our-rituals-didnt-notice-491"
     }
   ],
-  "updatedAt": "2026-05-15T20:36:40.108Z"
+  "updatedAt": "2026-05-15T21:44:52.389Z"
 }
