@@ -1,330 +1,6 @@
 {
-  "updatedAt": "2026-05-17T01:44:38.424Z",
+  "updatedAt": "2026-05-17T05:36:38.255Z",
   "source": "live",
-  "dev": [
-    {
-      "title": "What was your win this week?!",
-      "hot": "❤️ 34 💬 22",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "discuss,  weeklyretro",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-110l"
-    },
-    {
-      "title": "Through the Blue Frames: UX From Google Glass to Gemini",
-      "hot": "❤️ 6 💬 0",
-      "desc": "It's a busy few weeks for me. Three weeks ago I attended a GDE Summit and Google Cloud Next. Two...",
-      "source": "dev",
-      "tag": "androidxr,  googleglass",
-      "url": "https://dev.to/gde/through-the-blue-frames-ux-from-google-glass-to-gemini-51e0"
-    },
-    {
-      "title": "My GitHub Graveyard has 27 dead projects. Here is the brutal truth about why.",
-      "hot": "❤️ 89 💬 66",
-      "desc": "I recently opened my GitHub account and filtered by private repositories. I actually counted them:...",
-      "source": "dev",
-      "tag": "webdev,  beginners",
-      "url": "https://dev.to/tahosin/my-github-graveyard-has-27-dead-projects-here-is-the-brutal-truth-about-why-52d9"
-    },
-    {
-      "title": "Gemini 3.1 Flash-Lite is now generally available on Gemini Enterprise Agent Platform",
-      "hot": "❤️ 16 💬 0",
-      "desc": "Today, we're thrilled to announce that Gemini 3.1 Flash-Lite, our fastest and most cost-efficient...",
-      "source": "dev",
-      "tag": "ai,  machinelearning",
-      "url": "https://dev.to/googleai/gemini-31-flash-lite-is-now-generally-available-on-gemini-enterprise-agent-platform-2pcg"
-    },
-    {
-      "title": "Deploying a Rust MCP Server to Azure ACI",
-      "hot": "❤️ 5 💬 0",
-      "desc": "The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...",
-      "source": "dev",
-      "tag": "mcpserver,  gemini",
-      "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-azure-aci-15nb"
-    },
-    {
-      "title": "Deploying a Rust MCP Server to Azure Functions",
-      "hot": "❤️ 5 💬 0",
-      "desc": "The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...",
-      "source": "dev",
-      "tag": "agents,  mcpserver",
-      "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-azure-functions-3agg"
-    },
-    {
-      "title": "The Loading Screen",
-      "hot": "❤️ 7 💬 0",
-      "desc": "BUILD WITH AI [Antigravity]  Building “The Loading Screen”: A Real-Time Interactive Experience with...",
-      "source": "dev",
-      "tag": "ai,  gamedev",
-      "url": "https://dev.to/gde/the-loading-screen-1ka8"
-    },
-    {
-      "title": "Some Notes on OMO Orchestrator Claude Alternatives",
-      "hot": "❤️ 0 💬 0",
-      "desc": "I'm a big fan of my current agentic coding stack:    OpenCode for harnessing basics, skills, and...",
-      "source": "dev",
-      "tag": "engineering,  agents",
-      "url": "https://dev.to/tythos/some-notes-on-omo-orchestrator-claude-alternatives-1a7c"
-    },
-    {
-      "title": "Building a Local-First Hotel Receptionist with Gemma 4, GGUF, and llama.cpp",
-      "hot": "❤️ 1 💬 0",
-      "desc": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4           Why I Built This   I...",
-      "source": "dev",
-      "tag": "devchallenge,  gemmachallenge",
-      "url": "https://dev.to/chuanman2707/building-a-local-first-hotel-receptionist-with-gemma-4-gguf-and-llamacpp-51a4"
-    },
-    {
-      "title": "Genkit Middleware: Intercept, Extend and Harden your Gen AI Pipelines",
-      "hot": "❤️ 7 💬 1",
-      "desc": "Introduction   If you have been building anything non-trivial with Genkit, you have probably...",
-      "source": "dev",
-      "tag": "ai,  genkit",
-      "url": "https://dev.to/gde/genkit-middleware-intercept-extend-and-harden-your-gen-ai-pipelines-4k03"
-    },
-    {
-      "title": "onclick is great, actually",
-      "hot": "❤️ 15 💬 2",
-      "desc": "A few thoughts on `onclick` and how my opinion on it has changed.",
-      "source": "dev",
-      "tag": "javascript,  html",
-      "url": "https://dev.to/darkwiiplayer/onclick-is-great-actually-1l3p"
-    },
-    {
-      "title": "Two DEV Users. Two Countries. One Weird Little Avatar Project.",
-      "hot": "❤️ 77 💬 16",
-      "desc": "We Gave Our DEV Avatar Project a V2… and It Escalated Quickly   A few months ago,...",
-      "source": "dev",
-      "tag": "webdev,  nextjs",
-      "url": "https://dev.to/itsugo/two-dev-users-two-countries-one-weird-little-avatar-project-3gd3"
-    },
-    {
-      "title": "Unity begone",
-      "hot": "❤️ 7 💬 2",
-      "desc": "Here is a challenge.  Search for \"web gaming portal\" on Google or any other search engine of your...",
-      "source": "dev",
-      "tag": "gamedev,  unity3d",
-      "url": "https://dev.to/sarthakganguly/unity-begone-56kc"
-    },
-    {
-      "title": "Bypassing User Isolation on Android with a Screen Reader",
-      "hot": "❤️ 16 💬 0",
-      "desc": "A single missing check in Android lets one user's screen reader leak another user's private...",
-      "source": "dev",
-      "tag": "android,  cybersecurity",
-      "url": "https://dev.to/gdg/bypassing-user-isolation-on-android-with-a-screen-reader-3k72"
-    },
-    {
-      "title": "Giving AI agents knowledge they were never trained on",
-      "hot": "❤️ 2 💬 2",
-      "desc": "I love coding my own stuff, and my clients typically have lots of internal specifications and...",
-      "source": "dev",
-      "tag": "mcp,  ai",
-      "url": "https://dev.to/jgauffin/giving-ai-agents-knowledge-they-were-never-trained-on-5fd7"
-    },
-    {
-      "title": "Stop hand-writing IconData — introducing `icon_font_extractor`",
-      "hot": "❤️ 0 💬 0",
-      "desc": "If you've ever dropped a custom icon font into a Flutter app and then spent the next hour copying...",
-      "source": "dev",
-      "tag": "flutter,  tooling",
-      "url": "https://dev.to/devtronic/stop-hand-writing-icondata-introducing-iconfontextractor-4go2"
-    },
-    {
-      "title": "Adding native-feeling haptics to Angular web apps with ng-haptics",
-      "hot": "❤️ 0 💬 0",
-      "desc": "Adding native-feeling haptics to Angular web apps with ng-haptics   I wanted Angular web...",
-      "source": "dev",
-      "tag": "angular,  haptics",
-      "url": "https://dev.to/xaconi_94/adding-native-feeling-haptics-to-angular-web-apps-with-ng-haptics-3j3l"
-    },
-    {
-      "title": "vLLM Gemma4 26B Tuning on v6e-4",
-      "hot": "❤️ 9 💬 0",
-      "desc": "✦ The successful benchmark run on TPU v6e-4 used the following \"Balanced Production\" flags. These...",
-      "source": "dev",
-      "tag": "gemmachallenge,  gemma",
-      "url": "https://dev.to/gde/vllm-gemma4-26b-tuning-on-v6e-4-79o"
-    },
-    {
-      "title": "Deploying a Rust MCP Server to Amazon Lambda with Gemini CLI",
-      "hot": "❤️ 5 💬 0",
-      "desc": "The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...",
-      "source": "dev",
-      "tag": "rust,  agents",
-      "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-lambda-with-gemini-cli-41hd"
-    },
-    {
-      "title": "Old PC vs New AI: Can a 2015 Desktop Actually Run Gemma 4? (2B vs 4B Benchmark)",
-      "hot": "❤️ 24 💬 22",
-      "desc": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4  Running modern AI models locally...",
-      "source": "dev",
-      "tag": "devchallenge,  gemmachallenge",
-      "url": "https://dev.to/gramli/old-pc-vs-new-ai-can-a-2015-desktop-actually-run-gemma-4-2b-vs-4b-benchmark-2eg6"
-    }
-  ],
-  "tech": [
-    {
-      "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
-      "hot": "3.0m",
-      "desc": "crates.io",
-      "source": "tech",
-      "tag": "⬆️ 152 points",
-      "url": "https://crates.io/crates/zerostack/1.0.0"
-    },
-    {
-      "title": "A nicer voltmeter clock",
-      "hot": "3.0m",
-      "desc": "lcamtuf.substack.com",
-      "source": "tech",
-      "tag": "⬆️ 56 points",
-      "url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock"
-    },
-    {
-      "title": "MCP Hello Page",
-      "hot": "3.0m",
-      "desc": "hybridlogic.co.uk",
-      "source": "tech",
-      "tag": "⬆️ 47 points",
-      "url": "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page"
-    },
-    {
-      "title": "A molecule with half-Möbius topology",
-      "hot": "3.0m",
-      "desc": "science.org",
-      "source": "tech",
-      "tag": "⬆️ 65 points",
-      "url": "https://www.science.org/doi/10.1126/science.aea3321"
-    },
-    {
-      "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
-      "hot": "2.9m",
-      "desc": "nvlabs.github.io",
-      "source": "tech",
-      "tag": "⬆️ 297 points",
-      "url": "https://nvlabs.github.io/Sana/WM/"
-    },
-    {
-      "title": "Moving away from Tailwind, and learning to structure my CSS",
-      "hot": "2.9m",
-      "desc": "jvns.ca",
-      "source": "tech",
-      "tag": "⬆️ 431 points",
-      "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/"
-    },
-    {
-      "title": "The Third Hard Problem",
-      "hot": "2.9m",
-      "desc": "mmapped.blog",
-      "source": "tech",
-      "tag": "⬆️ 26 points",
-      "url": "https://mmapped.blog/posts/48-the-third-hard-problem"
-    },
-    {
-      "title": "Fisker went bankrupt and owners built an open source car company from the ashes",
-      "hot": "2.9m",
-      "desc": "electrek.co",
-      "source": "tech",
-      "tag": "⬆️ 39 points",
-      "url": "https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/"
-    },
-    {
-      "title": "Halt and Catch Fire",
-      "hot": "2.9m",
-      "desc": "unstack.io",
-      "source": "tech",
-      "tag": "⬆️ 81 points",
-      "url": "https://unstack.io/halt-and-catch-fire"
-    },
-    {
-      "title": "Accelerando (2005)",
-      "hot": "2.9m",
-      "desc": "antipope.org",
-      "source": "tech",
-      "tag": "⬆️ 240 points",
-      "url": "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html"
-    },
-    {
-      "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
-      "hot": "2.9m",
-      "desc": "openai.com",
-      "source": "tech",
-      "tag": "⬆️ 59 points",
-      "url": "https://openai.com/index/malta-chatgpt-plus-partnership/"
-    },
-    {
-      "title": "Content-defined chunking added to Bazel",
-      "hot": "2.8m",
-      "desc": "buildbuddy.io",
-      "source": "tech",
-      "tag": "⬆️ 24 points",
-      "url": "https://www.buildbuddy.io/blog/content-defined-chunking/"
-    },
-    {
-      "title": "Frontier AI has broken the open CTF format",
-      "hot": "2.8m",
-      "desc": "kabir.au",
-      "source": "tech",
-      "tag": "⬆️ 338 points",
-      "url": "https://kabir.au/blog/the-ctf-scene-is-dead"
-    },
-    {
-      "title": "Stochastic Parrots: Frequently Unasked Questions",
-      "hot": "2.8m",
-      "desc": "medium.com",
-      "source": "tech",
-      "tag": "⬆️ 18 points",
-      "url": "https://medium.com/@emilymenonbender/stochastic-parrots-frequently-unasked-questions-49c2e7d22d11"
-    },
-    {
-      "title": "δ-mem: Efficient Online Memory for Large Language Models",
-      "hot": "2.8m",
-      "desc": "arxiv.org",
-      "source": "tech",
-      "tag": "⬆️ 193 points",
-      "url": "https://arxiv.org/abs/2605.12357"
-    },
-    {
-      "title": "We've made the world too complicated",
-      "hot": "2.8m",
-      "desc": "user8.bearblog.dev",
-      "source": "tech",
-      "tag": "⬆️ 190 points",
-      "url": "https://user8.bearblog.dev/the-world-is-too-complicated/"
-    },
-    {
-      "title": "3D Gaussian Splatting in a Weekend",
-      "hot": "2.8m",
-      "desc": "bfeldman.me",
-      "source": "tech",
-      "tag": "⬆️ 49 points",
-      "url": "https://bfeldman.me/3dgs-weekend/"
-    },
-    {
-      "title": "Unknowable Math Can Help Hide Secrets",
-      "hot": "2.7m",
-      "desc": "quantamagazine.org",
-      "source": "tech",
-      "tag": "⬆️ 3 points",
-      "url": "https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/"
-    },
-    {
-      "title": "Fame! A Misunderstanding: A new translation of Albert Camus's complete notebooks",
-      "hot": "2.7m",
-      "desc": "lareviewofbooks.org",
-      "source": "tech",
-      "tag": "⬆️ 43 points",
-      "url": "https://lareviewofbooks.org/article/albert-camus-complete-notebooks-ryan-bloom-existentialism-absurd/"
-    },
-    {
-      "title": "Kioxia and Dell cram 10 PB into slim 2RU server",
-      "hot": "2.7m",
-      "desc": "blocksandfiles.com",
-      "source": "tech",
-      "tag": "⬆️ 109 points",
-      "url": "https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574"
-    }
-  ],
   "space": [
     {
       "title": "NASA Science, Cargo Launch on 34th SpaceX Resupply Mission to Station",
@@ -447,6 +123,330 @@
       "url": "https://spacepolicyonline.com/news/nasa-shares-early-planning-for-artemis-iii/"
     }
   ],
+  "dev": [
+    {
+      "title": "What was your win this week?!",
+      "hot": "❤️ 35 💬 23",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "discuss,  weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-110l"
+    },
+    {
+      "title": "My GitHub Graveyard has 27 dead projects. Here is the brutal truth about why.",
+      "hot": "❤️ 93 💬 69",
+      "desc": "I recently opened my GitHub account and filtered by private repositories. I actually counted them:...",
+      "source": "dev",
+      "tag": "webdev,  beginners",
+      "url": "https://dev.to/tahosin/my-github-graveyard-has-27-dead-projects-here-is-the-brutal-truth-about-why-52d9"
+    },
+    {
+      "title": "The Loading Screen",
+      "hot": "❤️ 7 💬 0",
+      "desc": "BUILD WITH AI [Antigravity]  Building “The Loading Screen”: A Real-Time Interactive Experience with...",
+      "source": "dev",
+      "tag": "ai,  gamedev",
+      "url": "https://dev.to/gde/the-loading-screen-1ka8"
+    },
+    {
+      "title": "Some Notes on OMO Orchestrator Claude Alternatives",
+      "hot": "❤️ 0 💬 0",
+      "desc": "I'm a big fan of my current agentic coding stack:    OpenCode for harnessing basics, skills, and...",
+      "source": "dev",
+      "tag": "engineering,  agents",
+      "url": "https://dev.to/tythos/some-notes-on-omo-orchestrator-claude-alternatives-1a7c"
+    },
+    {
+      "title": "Building a Local-First Hotel Receptionist with Gemma 4, GGUF, and llama.cpp",
+      "hot": "❤️ 1 💬 0",
+      "desc": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4           Why I Built This   I...",
+      "source": "dev",
+      "tag": "devchallenge,  gemmachallenge",
+      "url": "https://dev.to/chuanman2707/building-a-local-first-hotel-receptionist-with-gemma-4-gguf-and-llamacpp-51a4"
+    },
+    {
+      "title": "Genkit Middleware: Intercept, Extend and Harden your Gen AI Pipelines",
+      "hot": "❤️ 7 💬 1",
+      "desc": "Introduction   If you have been building anything non-trivial with Genkit, you have probably...",
+      "source": "dev",
+      "tag": "ai,  genkit",
+      "url": "https://dev.to/gde/genkit-middleware-intercept-extend-and-harden-your-gen-ai-pipelines-4k03"
+    },
+    {
+      "title": "onclick is great, actually",
+      "hot": "❤️ 15 💬 2",
+      "desc": "A few thoughts on `onclick` and how my opinion on it has changed.",
+      "source": "dev",
+      "tag": "javascript,  html",
+      "url": "https://dev.to/darkwiiplayer/onclick-is-great-actually-1l3p"
+    },
+    {
+      "title": "Two DEV Users. Two Countries. One Weird Little Avatar Project.",
+      "hot": "❤️ 77 💬 16",
+      "desc": "We Gave Our DEV Avatar Project a V2… and It Escalated Quickly   A few months ago,...",
+      "source": "dev",
+      "tag": "webdev,  nextjs",
+      "url": "https://dev.to/itsugo/two-dev-users-two-countries-one-weird-little-avatar-project-3gd3"
+    },
+    {
+      "title": "Unity begone",
+      "hot": "❤️ 7 💬 2",
+      "desc": "Here is a challenge.  Search for \"web gaming portal\" on Google or any other search engine of your...",
+      "source": "dev",
+      "tag": "gamedev,  unity3d",
+      "url": "https://dev.to/sarthakganguly/unity-begone-56kc"
+    },
+    {
+      "title": "Bypassing User Isolation on Android with a Screen Reader",
+      "hot": "❤️ 16 💬 0",
+      "desc": "A single missing check in Android lets one user's screen reader leak another user's private...",
+      "source": "dev",
+      "tag": "android,  cybersecurity",
+      "url": "https://dev.to/gdg/bypassing-user-isolation-on-android-with-a-screen-reader-3k72"
+    },
+    {
+      "title": "Giving AI agents knowledge they were never trained on",
+      "hot": "❤️ 2 💬 2",
+      "desc": "I love coding my own stuff, and my clients typically have lots of internal specifications and...",
+      "source": "dev",
+      "tag": "mcp,  ai",
+      "url": "https://dev.to/jgauffin/giving-ai-agents-knowledge-they-were-never-trained-on-5fd7"
+    },
+    {
+      "title": "Stop hand-writing IconData — introducing `icon_font_extractor`",
+      "hot": "❤️ 0 💬 0",
+      "desc": "If you've ever dropped a custom icon font into a Flutter app and then spent the next hour copying...",
+      "source": "dev",
+      "tag": "flutter,  tooling",
+      "url": "https://dev.to/devtronic/stop-hand-writing-icondata-introducing-iconfontextractor-4go2"
+    },
+    {
+      "title": "Adding native-feeling haptics to Angular web apps with ng-haptics",
+      "hot": "❤️ 0 💬 0",
+      "desc": "Adding native-feeling haptics to Angular web apps with ng-haptics   I wanted Angular web...",
+      "source": "dev",
+      "tag": "angular,  haptics",
+      "url": "https://dev.to/xaconi_94/adding-native-feeling-haptics-to-angular-web-apps-with-ng-haptics-3j3l"
+    },
+    {
+      "title": "vLLM Gemma4 26B Tuning on v6e-4",
+      "hot": "❤️ 9 💬 0",
+      "desc": "✦ The successful benchmark run on TPU v6e-4 used the following \"Balanced Production\" flags. These...",
+      "source": "dev",
+      "tag": "gemmachallenge,  gemma",
+      "url": "https://dev.to/gde/vllm-gemma4-26b-tuning-on-v6e-4-79o"
+    },
+    {
+      "title": "Deploying a Rust MCP Server to Amazon Lambda with Gemini CLI",
+      "hot": "❤️ 5 💬 0",
+      "desc": "The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...",
+      "source": "dev",
+      "tag": "rust,  agents",
+      "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-lambda-with-gemini-cli-41hd"
+    },
+    {
+      "title": "Old PC vs New AI: Can a 2015 Desktop Actually Run Gemma 4? (2B vs 4B Benchmark)",
+      "hot": "❤️ 24 💬 22",
+      "desc": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4  Running modern AI models locally...",
+      "source": "dev",
+      "tag": "devchallenge,  gemmachallenge",
+      "url": "https://dev.to/gramli/old-pc-vs-new-ai-can-a-2015-desktop-actually-run-gemma-4-2b-vs-4b-benchmark-2eg6"
+    },
+    {
+      "title": "How AI is changing my job as a Staff Engineer: Tracer bullets",
+      "hot": "❤️ 1 💬 1",
+      "desc": "AI is rapidly changing software engineering, and with any kind of technological evolution, we need to...",
+      "source": "dev",
+      "tag": "ai,  productivity",
+      "url": "https://dev.to/vinibrsl/how-ai-is-changing-my-job-as-a-staff-engineer-tracer-bullets-4nck"
+    },
+    {
+      "title": "Google Cloud x NVIDIA Meet Up - 5/20/26 @ 5:30pm, Mountain View, CA",
+      "hot": "❤️ 16 💬 2",
+      "desc": "​​Register: https://luma.com/GoogleNVIDIA  Join Google Cloud and NVIDIA in Mountain View, CA for an...",
+      "source": "dev",
+      "tag": "cloud,  eventsinyourcity",
+      "url": "https://dev.to/googleai/google-cloud-x-nvidia-meet-up-52026-530pm-mountain-view-ca-9ea"
+    },
+    {
+      "title": "SQL Execution Order: Write Queries That Think Like the Database",
+      "hot": "❤️ 0 💬 2",
+      "desc": "Most SQL bugs aren't logic errors. They're sequence errors — the result of writing a query in one...",
+      "source": "dev",
+      "tag": "beginners,  sql",
+      "url": "https://dev.to/kalkwst/sql-execution-order-write-queries-that-think-like-the-database-13lf"
+    },
+    {
+      "title": "Gemma4 Speculative Decoding with n-gram",
+      "hot": "❤️ 11 💬 0",
+      "desc": "Using the MCP Toolset for benchmarking- the 26B MOE Gemma4 model was updated with ngram speculative...",
+      "source": "dev",
+      "tag": "devchallenge,  gemmachallenge",
+      "url": "https://dev.to/gde/gemma4-speculative-decoding-with-n-gram-1c9b"
+    }
+  ],
+  "tech": [
+    {
+      "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+      "hot": "3.0m",
+      "desc": "crates.io",
+      "source": "tech",
+      "tag": "⬆️ 266 points",
+      "url": "https://crates.io/crates/zerostack/1.0.0"
+    },
+    {
+      "title": "Hosting a website on an 8-bit microcontroller",
+      "hot": "3.0m",
+      "desc": "maurycyz.com",
+      "source": "tech",
+      "tag": "⬆️ 74 points",
+      "url": "https://maurycyz.com/projects/mcusite/"
+    },
+    {
+      "title": "A nicer voltmeter clock",
+      "hot": "3.0m",
+      "desc": "lcamtuf.substack.com",
+      "source": "tech",
+      "tag": "⬆️ 113 points",
+      "url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock"
+    },
+    {
+      "title": "Colossus: The Forbin Project",
+      "hot": "3.0m",
+      "desc": "en.wikipedia.org",
+      "source": "tech",
+      "tag": "⬆️ 41 points",
+      "url": "https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project"
+    },
+    {
+      "title": "C++26 Shipped a SIMD Library Nobody Asked For",
+      "hot": "2.9m",
+      "desc": "lucisqr.substack.com",
+      "source": "tech",
+      "tag": "⬆️ 64 points",
+      "url": "https://lucisqr.substack.com/p/c26-shipped-a-simd-library-nobody"
+    },
+    {
+      "title": "Unknowable Math Can Help Hide Secrets",
+      "hot": "2.9m",
+      "desc": "quantamagazine.org",
+      "source": "tech",
+      "tag": "⬆️ 37 points",
+      "url": "https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/"
+    },
+    {
+      "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
+      "hot": "2.9m",
+      "desc": "openai.com",
+      "source": "tech",
+      "tag": "⬆️ 130 points",
+      "url": "https://openai.com/index/malta-chatgpt-plus-partnership/"
+    },
+    {
+      "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+      "hot": "2.9m",
+      "desc": "nvlabs.github.io",
+      "source": "tech",
+      "tag": "⬆️ 320 points",
+      "url": "https://nvlabs.github.io/Sana/WM/"
+    },
+    {
+      "title": "Moving away from Tailwind, and learning to structure my CSS",
+      "hot": "2.9m",
+      "desc": "jvns.ca",
+      "source": "tech",
+      "tag": "⬆️ 479 points",
+      "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/"
+    },
+    {
+      "title": "Self-Distillation Enables Continual Learning [pdf]",
+      "hot": "2.9m",
+      "desc": "arxiv.org",
+      "source": "tech",
+      "tag": "⬆️ 25 points",
+      "url": "https://arxiv.org/abs/2601.19897"
+    },
+    {
+      "title": "MCP Hello Page",
+      "hot": "2.9m",
+      "desc": "hybridlogic.co.uk",
+      "source": "tech",
+      "tag": "⬆️ 72 points",
+      "url": "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page"
+    },
+    {
+      "title": "A molecule with half-Möbius topology",
+      "hot": "2.8m",
+      "desc": "science.org",
+      "source": "tech",
+      "tag": "⬆️ 80 points",
+      "url": "https://www.science.org/doi/10.1126/science.aea3321"
+    },
+    {
+      "title": "Illusions of Understanding in the Sciences",
+      "hot": "2.8m",
+      "desc": "link.springer.com",
+      "source": "tech",
+      "tag": "⬆️ 10 points",
+      "url": "https://link.springer.com/article/10.1007/s42113-026-00271-1"
+    },
+    {
+      "title": "The Third Hard Problem",
+      "hot": "2.8m",
+      "desc": "mmapped.blog",
+      "source": "tech",
+      "tag": "⬆️ 49 points",
+      "url": "https://mmapped.blog/posts/48-the-third-hard-problem"
+    },
+    {
+      "title": "Accelerando (2005)",
+      "hot": "2.8m",
+      "desc": "antipope.org",
+      "source": "tech",
+      "tag": "⬆️ 268 points",
+      "url": "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html"
+    },
+    {
+      "title": "We've made the world too complicated",
+      "hot": "2.8m",
+      "desc": "user8.bearblog.dev",
+      "source": "tech",
+      "tag": "⬆️ 237 points",
+      "url": "https://user8.bearblog.dev/the-world-is-too-complicated/"
+    },
+    {
+      "title": "Frontier AI has broken the open CTF format",
+      "hot": "2.8m",
+      "desc": "kabir.au",
+      "source": "tech",
+      "tag": "⬆️ 354 points",
+      "url": "https://kabir.au/blog/the-ctf-scene-is-dead"
+    },
+    {
+      "title": "Halt and Catch Fire",
+      "hot": "2.7m",
+      "desc": "unstack.io",
+      "source": "tech",
+      "tag": "⬆️ 111 points",
+      "url": "https://unstack.io/halt-and-catch-fire"
+    },
+    {
+      "title": "δ-mem: Efficient Online Memory for Large Language Models",
+      "hot": "2.7m",
+      "desc": "arxiv.org",
+      "source": "tech",
+      "tag": "⬆️ 201 points",
+      "url": "https://arxiv.org/abs/2605.12357"
+    },
+    {
+      "title": "Fisker went bankrupt and owners built an open source car company from the ashes",
+      "hot": "2.7m",
+      "desc": "electrek.co",
+      "source": "tech",
+      "tag": "⬆️ 100 points",
+      "url": "https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/"
+    }
+  ],
   "github": [
     {
       "title": "FULU-Foundation/OrcaSlicer-bambulab: ",
@@ -489,6 +489,14 @@
       "url": "https://github.com/yetone/native-feel-skill"
     },
     {
+      "title": "vercel-labs/zero: The programming language for agents",
+      "hot": "⭐ 1.1k",
+      "desc": "The programming language for agents",
+      "source": "github",
+      "tag": "C",
+      "url": "https://github.com/vercel-labs/zero"
+    },
+    {
       "title": "HermannBjorgvin/Clawdmeter: ESP32 desk dashboard that shows Claude Code usage",
       "hot": "⭐ 1.1k",
       "desc": "ESP32 desk dashboard that shows Claude Code usage",
@@ -497,16 +505,8 @@
       "url": "https://github.com/HermannBjorgvin/Clawdmeter"
     },
     {
-      "title": "vercel-labs/zero: The programming language for agents",
-      "hot": "⭐ 1.0k",
-      "desc": "The programming language for agents",
-      "source": "github",
-      "tag": "C",
-      "url": "https://github.com/vercel-labs/zero"
-    },
-    {
       "title": "simonlin1212/a-stock-data: A 股全栈数据工具包 — 6层架构 · 15个端点 · 7个数据源 | AI Skill for Chin",
-      "hot": "⭐ 992",
+      "hot": "⭐ 1.0k",
       "desc": "A 股全栈数据工具包 — 6层架构 · 15个端点 · 7个数据源 | AI Skill for China A-Share Market Data",
       "source": "github",
       "tag": "GitHub",
@@ -514,7 +514,7 @@
     },
     {
       "title": "ywnd1144/Gopay_plus_automatic: ",
-      "hot": "⭐ 902",
+      "hot": "⭐ 907",
       "desc": "ywnd1144/Gopay_plus_automatic",
       "source": "github",
       "tag": "Python",
@@ -522,7 +522,7 @@
     },
     {
       "title": "TencentARC/Pixal3D: [SIGGRAPH 2026] Pixal3D: Pixel-Aligned 3D Generation from Im",
-      "hot": "⭐ 799",
+      "hot": "⭐ 816",
       "desc": "[SIGGRAPH 2026] Pixal3D: Pixel-Aligned 3D Generation from Images",
       "source": "github",
       "tag": "Python",
@@ -530,7 +530,7 @@
     },
     {
       "title": "DepthFirstDisclosures/Nginx-Rift: exploit for CVE-2026-42945",
-      "hot": "⭐ 646",
+      "hot": "⭐ 649",
       "desc": "exploit for CVE-2026-42945",
       "source": "github",
       "tag": "Python",
@@ -538,7 +538,7 @@
     },
     {
       "title": "cclank/cell-architecture-studio: Interactive 3D cell architecture gallery built ",
-      "hot": "⭐ 620",
+      "hot": "⭐ 623",
       "desc": "Interactive 3D cell architecture gallery built with React and Three.js",
       "source": "github",
       "tag": "TypeScript",
@@ -546,7 +546,7 @@
     },
     {
       "title": "DenisSergeevitch/agents-best-practices: Provider-neutral Agent Skill for Codex, ",
-      "hot": "⭐ 578",
+      "hot": "⭐ 594",
       "desc": "Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.",
       "source": "github",
       "tag": "GitHub",
@@ -554,7 +554,7 @@
     },
     {
       "title": "chrisbanes/skills: Skills for Kotlin, Jetpack Compose, and Android development",
-      "hot": "⭐ 574",
+      "hot": "⭐ 578",
       "desc": "Skills for Kotlin, Jetpack Compose, and Android development",
       "source": "github",
       "tag": "GitHub",
@@ -562,7 +562,7 @@
     },
     {
       "title": "lillian039/ELF: ",
-      "hot": "⭐ 572",
+      "hot": "⭐ 577",
       "desc": "lillian039/ELF",
       "source": "github",
       "tag": "Python",
