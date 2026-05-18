@@ -1,331 +1,185 @@
 {
-  "updatedAt": "2026-05-18T10:02:10.817Z",
+  "updatedAt": "2026-05-18T14:03:32.081Z",
   "source": "live",
-  "dev": [
-    {
-      "title": "I Ran AI Models Directly in the Browser and Measured What It Did to Core Web Vitals",
-      "hot": "❤️ 11 💬 1",
-      "desc": "Everyone is shipping AI features. Sentiment analysis on user input, speech recognition without...",
-      "source": "dev",
-      "tag": "webdev,  ai",
-      "url": "https://dev.to/mspk97/i-ran-ai-models-directly-in-the-browser-and-measured-what-it-did-to-core-web-vitals-4adj"
-    },
-    {
-      "title": "The Loading Screen",
-      "hot": "❤️ 7 💬 0",
-      "desc": "BUILD WITH AI [Antigravity]  Building “The Loading Screen”: A Real-Time Interactive Experience with...",
-      "source": "dev",
-      "tag": "ai,  gamedev",
-      "url": "https://dev.to/gde/the-loading-screen-1ka8"
-    },
-    {
-      "title": "Some Notes on OMO Orchestrator Claude Alternatives",
-      "hot": "❤️ 0 💬 0",
-      "desc": "I'm a big fan of my current agentic coding stack:    OpenCode for harnessing basics, skills, and...",
-      "source": "dev",
-      "tag": "engineering,  agents",
-      "url": "https://dev.to/tythos/some-notes-on-omo-orchestrator-claude-alternatives-1a7c"
-    },
-    {
-      "title": "Building a Local-First Hotel Receptionist with Gemma 4, GGUF, and llama.cpp",
-      "hot": "❤️ 1 💬 0",
-      "desc": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4           Why I Built This   I...",
-      "source": "dev",
-      "tag": "devchallenge,  gemmachallenge",
-      "url": "https://dev.to/chuanman2707/building-a-local-first-hotel-receptionist-with-gemma-4-gguf-and-llamacpp-51a4"
-    },
-    {
-      "title": "Genkit Middleware: Intercept, Extend and Harden your Gen AI Pipelines",
-      "hot": "❤️ 7 💬 1",
-      "desc": "Introduction   If you have been building anything non-trivial with Genkit, you have probably...",
-      "source": "dev",
-      "tag": "ai,  genkit",
-      "url": "https://dev.to/gde/genkit-middleware-intercept-extend-and-harden-your-gen-ai-pipelines-4k03"
-    },
-    {
-      "title": "Unity begone",
-      "hot": "❤️ 7 💬 2",
-      "desc": "Here is a challenge.  Search for \"web gaming portal\" on Google or any other search engine of your...",
-      "source": "dev",
-      "tag": "gamedev,  unity3d",
-      "url": "https://dev.to/sarthakganguly/unity-begone-56kc"
-    },
-    {
-      "title": "What was your win this week?!",
-      "hot": "❤️ 41 💬 26",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "discuss,  weeklyretro",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-110l"
-    },
-    {
-      "title": "Giving AI agents knowledge they were never trained on",
-      "hot": "❤️ 2 💬 2",
-      "desc": "I love coding my own stuff, and my clients typically have lots of internal specifications and...",
-      "source": "dev",
-      "tag": "mcp,  ai",
-      "url": "https://dev.to/jgauffin/giving-ai-agents-knowledge-they-were-never-trained-on-5fd7"
-    },
-    {
-      "title": "vLLM Gemma4 26B Tuning on v6e-4",
-      "hot": "❤️ 9 💬 0",
-      "desc": "✦ The successful benchmark run on TPU v6e-4 used the following \"Balanced Production\" flags. These...",
-      "source": "dev",
-      "tag": "gemmachallenge,  gemma",
-      "url": "https://dev.to/gde/vllm-gemma4-26b-tuning-on-v6e-4-79o"
-    },
-    {
-      "title": "Deploying a Rust MCP Server to Amazon Lambda with Gemini CLI",
-      "hot": "❤️ 5 💬 0",
-      "desc": "The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...",
-      "source": "dev",
-      "tag": "rust,  agents",
-      "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-lambda-with-gemini-cli-41hd"
-    },
-    {
-      "title": "How AI is changing my job as a Staff Engineer: Tracer bullets",
-      "hot": "❤️ 1 💬 1",
-      "desc": "AI is rapidly changing software engineering, and with any kind of technological evolution, we need to...",
-      "source": "dev",
-      "tag": "ai,  productivity",
-      "url": "https://dev.to/vinibrsl/how-ai-is-changing-my-job-as-a-staff-engineer-tracer-bullets-4nck"
-    },
-    {
-      "title": "Google Cloud x NVIDIA Meet Up - 5/20/26 @ 5:30pm, Mountain View, CA",
-      "hot": "❤️ 16 💬 2",
-      "desc": "​​Register: https://luma.com/GoogleNVIDIA  Join Google Cloud and NVIDIA in Mountain View, CA for an...",
-      "source": "dev",
-      "tag": "cloud,  eventsinyourcity",
-      "url": "https://dev.to/googleai/google-cloud-x-nvidia-meet-up-52026-530pm-mountain-view-ca-9ea"
-    },
-    {
-      "title": "SQL Execution Order: Write Queries That Think Like the Database",
-      "hot": "❤️ 0 💬 2",
-      "desc": "Most SQL bugs aren't logic errors. They're sequence errors — the result of writing a query in one...",
-      "source": "dev",
-      "tag": "beginners,  sql",
-      "url": "https://dev.to/kalkwst/sql-execution-order-write-queries-that-think-like-the-database-13lf"
-    },
-    {
-      "title": "Deploying a Rust MCP Server to Amazon EKS",
-      "hot": "❤️ 8 💬 1",
-      "desc": "The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...",
-      "source": "dev",
-      "tag": "awseks,  aws",
-      "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-eks-183g"
-    },
-    {
-      "title": "GPT-5.5 Instant: The New ChatGPT Default Model Complete Guide 2026",
-      "hot": "❤️ 0 💬 0",
-      "desc": "GPT-5.5 Instant is the new ChatGPT default model with 52.5% fewer hallucinations, Gmail integration, memory sources, and",
-      "source": "dev",
-      "tag": "gpt55instant,  chatgptnewdefaultmodel202",
-      "url": "https://dev.to/akaranjkar08/gpt-55-instant-the-new-chatgpt-default-model-complete-guide-2026-1l4"
-    },
-    {
-      "title": "I Built a One-Command macOS Terminal Setup — Ghostty + Zsh + 30 Modern CLI Tools",
-      "hot": "❤️ 0 💬 1",
-      "desc": "Stop wasting hours configuring your terminal. dev-accelerator sets up Ghostty, Zsh, Starship, and 30+ modern CLI tools w",
-      "source": "dev",
-      "tag": "terminal,  macos",
-      "url": "https://dev.to/satyamsoni2211/i-built-a-one-command-macos-terminal-setup-ghostty-zsh-30-modern-cli-tools-43f5"
-    },
-    {
-      "title": "I Built a Chrome Extension to Sync AI Studio System Instructions. Here's Why chrome.storage.sync Couldn't Do It",
-      "hot": "❤️ 1 💬 2",
-      "desc": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4  I use Google AI Studio on three...",
-      "source": "dev",
-      "tag": "ai,  javascript",
-      "url": "https://dev.to/codewithahsan/i-built-a-chrome-extension-to-sync-ai-studio-system-instructions-heres-why-chromestoragesync-2llm"
-    },
-    {
-      "title": "GemmaFin - Breaking the Cycle of Debt with Conversational AI",
-      "hot": "❤️ 12 💬 0",
-      "desc": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4  Note: This project is aimed at...",
-      "source": "dev",
-      "tag": "devchallenge,  gemmachallenge",
-      "url": "https://dev.to/gde/gemmafin-breaking-the-cycle-of-debt-with-conversational-ai-4l7n"
-    },
-    {
-      "title": "Through the Blue Frames: UX From Google Glass to Gemini",
-      "hot": "❤️ 10 💬 0",
-      "desc": "It's a busy few weeks for me. Three weeks ago I attended a GDE Summit and Google Cloud Next. Two...",
-      "source": "dev",
-      "tag": "androidxr,  googleglass",
-      "url": "https://dev.to/gde/through-the-blue-frames-ux-from-google-glass-to-gemini-51e0"
-    },
-    {
-      "title": "My GitHub Graveyard has 27 dead projects. Here is the brutal truth about why.",
-      "hot": "❤️ 131 💬 91",
-      "desc": "I recently opened my GitHub account and filtered by private repositories. I actually counted them:...",
-      "source": "dev",
-      "tag": "webdev,  beginners",
-      "url": "https://dev.to/tahosin/my-github-graveyard-has-27-dead-projects-here-is-the-brutal-truth-about-why-52d9"
-    }
-  ],
   "tech": [
+    {
+      "title": "I automated opt-outs for 500 data broker sites (open source)",
+      "hot": "3.0m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 220 points",
+      "url": "https://github.com/stephenlthorn/auto-identity-remove"
+    },
+    {
+      "title": "Show HN: Files.md – open-source alternative to Obsidian",
+      "hot": "3.0m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 13 points",
+      "url": "https://github.com/zakirullin/files.md"
+    },
     {
       "title": "The foundations of a provably secure operating system (PSOS) (1979) [pdf]",
       "hot": "3.0m",
       "desc": "csl.sri.com",
       "source": "tech",
-      "tag": "⬆️ 3 points",
+      "tag": "⬆️ 72 points",
       "url": "http://www.csl.sri.com/users/neumann/psos.pdf"
     },
     {
-      "title": "GenCAD",
+      "title": "Benedict Evans: AI eats the world (Spring 26) [pdf]",
       "hot": "3.0m",
-      "desc": "gencad.github.io",
+      "desc": "static1.squarespace.com",
       "source": "tech",
-      "tag": "⬆️ 321 points",
-      "url": "https://gencad.github.io/"
+      "tag": "⬆️ 61 points",
+      "url": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf"
     },
     {
-      "title": "Crystals found inside wreckage from the first nuclear bomb test",
-      "hot": "3.0m",
-      "desc": "scientificamerican.com",
+      "title": "Linux security mailing list 'almost unmanageable'",
+      "hot": "2.9m",
+      "desc": "theregister.com",
       "source": "tech",
-      "tag": "⬆️ 75 points",
-      "url": "https://www.scientificamerican.com/article/strange-crystals-found-inside-wreckage-from-the-first-nuclear-bomb-test/"
+      "tag": "⬆️ 73 points",
+      "url": "https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633"
     },
     {
-      "title": "It is time to give up the dualism introduced by the debate on consciousness",
-      "hot": "3.0m",
-      "desc": "noemamag.com",
-      "source": "tech",
-      "tag": "⬆️ 83 points",
-      "url": "https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/"
-    },
-    {
-      "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
+      "title": "Writing Z80 assembly, 4 decades later:-)",
       "hot": "2.9m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 368 points",
+      "tag": "⬆️ 38 points",
+      "url": "https://github.com/ttsiodras/3D-on-a-ZX-Spectrum-48K/"
+    },
+    {
+      "title": "Math Jokes in Alice in Wonderland",
+      "hot": "2.9m",
+      "desc": "storica.club",
+      "source": "tech",
+      "tag": "⬆️ 51 points",
+      "url": "https://storica.club/blog/alice-is-math-jokes/"
+    },
+    {
+      "title": "GenCAD",
+      "hot": "2.9m",
+      "desc": "gencad.github.io",
+      "source": "tech",
+      "tag": "⬆️ 381 points",
+      "url": "https://gencad.github.io/"
+    },
+    {
+      "title": "'We mould trees to grow into the shape of chairs'",
+      "hot": "2.9m",
+      "desc": "bbc.co.uk",
+      "source": "tech",
+      "tag": "⬆️ 33 points",
+      "url": "https://www.bbc.co.uk/news/articles/cvg0yy3gp71o"
+    },
+    {
+      "title": "It is time to give up the dualism introduced by the debate on consciousness",
+      "hot": "2.9m",
+      "desc": "noemamag.com",
+      "source": "tech",
+      "tag": "⬆️ 179 points",
+      "url": "https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/"
+    },
+    {
+      "title": "Enough with the AI FOMO, go slow-mo, says Domo CDO",
+      "hot": "2.9m",
+      "desc": "theregister.com",
+      "source": "tech",
+      "tag": "⬆️ 45 points",
+      "url": "https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840"
+    },
+    {
+      "title": "Utah lawmakers form united front in push to ban prediction markets",
+      "hot": "2.8m",
+      "desc": "theguardian.com",
+      "source": "tech",
+      "tag": "⬆️ 60 points",
+      "url": "https://www.theguardian.com/us-news/2026/may/18/you-can-bet-on-it-utah-lawmakers-form-united-front-in-push-to-ban-prediction-markets"
+    },
+    {
+      "title": "Crystals found inside wreckage from the first nuclear bomb test",
+      "hot": "2.8m",
+      "desc": "scientificamerican.com",
+      "source": "tech",
+      "tag": "⬆️ 128 points",
+      "url": "https://www.scientificamerican.com/article/strange-crystals-found-inside-wreckage-from-the-first-nuclear-bomb-test/"
+    },
+    {
+      "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
+      "hot": "2.8m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 404 points",
       "url": "https://github.com/tech4bot/rk3562deb"
     },
     {
       "title": "Ask an Astronaut: 333 hours of Q&A footage with astronauts",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "askanastronaut.issinrealtime.org",
       "source": "tech",
-      "tag": "⬆️ 148 points",
+      "tag": "⬆️ 171 points",
       "url": "https://askanastronaut.issinrealtime.org/"
     },
     {
-      "title": "Germany goes from labour shortages to hiring freezes",
-      "hot": "2.9m",
-      "desc": "ft.com",
+      "title": "Hershey Bets on Agentic AI to Rethink $2B in Marketing Spend",
+      "hot": "2.8m",
+      "desc": "adweek.com",
       "source": "tech",
-      "tag": "⬆️ 12 points",
-      "url": "https://www.ft.com/content/2a6c1cb9-6c11-41c8-a8ea-a367b8799126"
+      "tag": "⬆️ 15 points",
+      "url": "https://www.adweek.com/brand-marketing/exclusive-hershey-bets-on-ai-agents-to-fix-its-2-billion-marketing-blind-spot/"
     },
     {
       "title": "Jank now has its own custom IR",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "jank-lang.org",
       "source": "tech",
-      "tag": "⬆️ 143 points",
+      "tag": "⬆️ 180 points",
       "url": "https://jank-lang.org/blog/2026-05-08-optimization/"
     },
     {
       "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
-      "hot": "2.9m",
+      "hot": "2.7m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 328 points",
+      "tag": "⬆️ 384 points",
       "url": "https://github.com/MinishLab/semble"
     },
     {
-      "title": "Profunctor Equipment in Haskell",
-      "hot": "2.9m",
-      "desc": "bartoszmilewski.com",
+      "title": "The Aperiodic Table",
+      "hot": "2.7m",
+      "desc": "blog.jgc.org",
       "source": "tech",
-      "tag": "⬆️ 21 points",
-      "url": "https://bartoszmilewski.com/2026/05/16/profunctor-equipment-in-haskell/"
+      "tag": "⬆️ 4 points",
+      "url": "https://blog.jgc.org/2026/05/the-aperiodic-table.html"
     },
     {
-      "title": "WriteUp: 16 Bytes of x86 that turn Matrix rain into sound",
-      "hot": "2.9m",
-      "desc": "hellmood.111mb.de",
-      "source": "tech",
-      "tag": "⬆️ 139 points",
-      "url": "https://hellmood.111mb.de//wake_up_16b_writeup.html"
-    },
-    {
-      "title": "Prolog Coding Horror",
-      "hot": "2.8m",
-      "desc": "metalevel.at",
-      "source": "tech",
-      "tag": "⬆️ 142 points",
-      "url": "https://www.metalevel.at/prolog/horror"
-    },
-    {
-      "title": "kharp – k version 3 Language Interpreter in C#",
-      "hot": "2.8m",
+      "title": "Graphing Scientific Calculator Based on the ESP32",
+      "hot": "2.7m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 21 points",
-      "url": "https://github.com/ERufian/ksharp"
-    },
-    {
-      "title": "A Good Lemma Is Worth a Thousand Theorems (2007)",
-      "hot": "2.8m",
-      "desc": "sites.math.rutgers.edu",
-      "source": "tech",
-      "tag": "⬆️ 61 points",
-      "url": "https://sites.math.rutgers.edu/~zeilberg/Opinion82.html"
-    },
-    {
-      "title": "Magical Realism: “Northern Exposure” 25 Years Later (2015)",
-      "hot": "2.8m",
-      "desc": "rogerebert.com",
-      "source": "tech",
-      "tag": "⬆️ 117 points",
-      "url": "https://www.rogerebert.com/streaming/magical-realism-nothern-exposure-25-years-later"
-    },
-    {
-      "title": "Tesla Solar Roof is on life support as it pivot to panels",
-      "hot": "2.8m",
-      "desc": "electrek.co",
-      "source": "tech",
-      "tag": "⬆️ 258 points",
-      "url": "https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/"
-    },
-    {
-      "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
-      "hot": "2.8m",
-      "desc": "idahonews.com",
-      "source": "tech",
-      "tag": "⬆️ 194 points",
-      "url": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base"
-    },
-    {
-      "title": "The SGI Buyer's Guide (2003)",
-      "hot": "2.7m",
-      "desc": "hardware.majix.org",
-      "source": "tech",
-      "tag": "⬆️ 30 points",
-      "url": "https://hardware.majix.org/computers/sgi/buyers-guide.shtml"
-    },
-    {
-      "title": "The 30-Hour Shift That Turned a San Jose Robot Lab into a Global Spectacle",
-      "hot": "2.7m",
-      "desc": "beeble.com",
-      "source": "tech",
-      "tag": "⬆️ 3 points",
-      "url": "https://beeble.com/en/blog/the-30-hour-shift-that-turned-a-san-jose-robot-lab-into-a-global-spectacle"
-    },
-    {
-      "title": "Build a Radio Wave Detector with Balls of Aluminum Foil",
-      "hot": "2.7m",
-      "desc": "wired.com",
-      "source": "tech",
-      "tag": "⬆️ 13 points",
-      "url": "https://www.wired.com/story/build-a-radio-wave-detector-with-balls-of-aluminum-foil/"
+      "tag": "⬆️ 27 points",
+      "url": "https://github.com/El-EnderJ/NeoCalculator"
     }
   ],
   "space": [
+    {
+      "title": "Did Artemis II break through? Registrations at Space Camp double afterward.",
+      "hot": "5/18",
+      "desc": "Isaacman's $25 million donation leads to impressive new facilities.",
+      "source": "space",
+      "tag": "Arstechnica",
+      "url": "https://arstechnica.com/space/2026/05/did-artemis-ii-break-through-registrations-at-space-camp-double-afterward/"
+    },
+    {
+      "title": "The US space enterprise is desperately waiting for Starship—will it finally deliver?",
+      "hot": "5/18",
+      "desc": "\"This is such a wild ride. The highs are high. The lows are low.\"",
+      "source": "space",
+      "tag": "Arstechnica",
+      "url": "https://arstechnica.com/space/2026/05/the-us-space-enterprise-is-desperately-waiting-for-starship-will-it-finally-deliver/"
+    },
     {
       "title": "Landing sideways",
       "hot": "5/18",
@@ -429,22 +283,168 @@
       "source": "space",
       "tag": "European Spaceflight",
       "url": "https://europeanspaceflight.com/ohb-space-uk-to-begin-work-on-esa-envision-venus-explorer-mission/"
+    }
+  ],
+  "dev": [
+    {
+      "title": "Meme Monday",
+      "hot": "❤️ 4 💬 6",
+      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
+      "source": "dev",
+      "tag": "discuss,  jokes",
+      "url": "https://dev.to/ben/meme-monday-47g6"
     },
     {
-      "title": "A Lyrid meteor from orbit",
-      "hot": "5/15",
-      "desc": "The Expedition 74 crew on the International Space Station turned into meteor chasers as Earth passed through a cloud of dust and small debris left beh",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/05/A_Lyrid_meteor_from_orbit"
+      "title": "I Ran AI Models Directly in the Browser and Measured What It Did to Core Web Vitals",
+      "hot": "❤️ 11 💬 1",
+      "desc": "Everyone is shipping AI features. Sentiment analysis on user input, speech recognition without...",
+      "source": "dev",
+      "tag": "webdev,  ai",
+      "url": "https://dev.to/mspk97/i-ran-ai-models-directly-in-the-browser-and-measured-what-it-did-to-core-web-vitals-4adj"
     },
     {
-      "title": "Picturing Earth in a New Light",
-      "hot": "5/15",
-      "desc": "A recent analysis revealed where artificial light at night has intensified, as well as where it has diminished.",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/earth/earth-observatory/picturing-earth-in-a-new-light/"
+      "title": "Some Notes on OMO Orchestrator Claude Alternatives",
+      "hot": "❤️ 0 💬 0",
+      "desc": "I'm a big fan of my current agentic coding stack:    OpenCode for harnessing basics, skills, and...",
+      "source": "dev",
+      "tag": "engineering,  agents",
+      "url": "https://dev.to/tythos/some-notes-on-omo-orchestrator-claude-alternatives-1a7c"
+    },
+    {
+      "title": "Building a Local-First Hotel Receptionist with Gemma 4, GGUF, and llama.cpp",
+      "hot": "❤️ 1 💬 0",
+      "desc": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4           Why I Built This   I...",
+      "source": "dev",
+      "tag": "devchallenge,  gemmachallenge",
+      "url": "https://dev.to/chuanman2707/building-a-local-first-hotel-receptionist-with-gemma-4-gguf-and-llamacpp-51a4"
+    },
+    {
+      "title": "Genkit Middleware: Intercept, Extend and Harden your Gen AI Pipelines",
+      "hot": "❤️ 7 💬 1",
+      "desc": "Introduction   If you have been building anything non-trivial with Genkit, you have probably...",
+      "source": "dev",
+      "tag": "ai,  genkit",
+      "url": "https://dev.to/gde/genkit-middleware-intercept-extend-and-harden-your-gen-ai-pipelines-4k03"
+    },
+    {
+      "title": "Unity begone",
+      "hot": "❤️ 7 💬 2",
+      "desc": "Here is a challenge.  Search for \"web gaming portal\" on Google or any other search engine of your...",
+      "source": "dev",
+      "tag": "gamedev,  unity3d",
+      "url": "https://dev.to/sarthakganguly/unity-begone-56kc"
+    },
+    {
+      "title": "What was your win this week?!",
+      "hot": "❤️ 45 💬 26",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "discuss,  weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-110l"
+    },
+    {
+      "title": "Giving AI agents knowledge they were never trained on",
+      "hot": "❤️ 2 💬 2",
+      "desc": "I love coding my own stuff, and my clients typically have lots of internal specifications and...",
+      "source": "dev",
+      "tag": "mcp,  ai",
+      "url": "https://dev.to/jgauffin/giving-ai-agents-knowledge-they-were-never-trained-on-5fd7"
+    },
+    {
+      "title": "vLLM Gemma4 26B Tuning on v6e-4",
+      "hot": "❤️ 9 💬 0",
+      "desc": "✦ The successful benchmark run on TPU v6e-4 used the following \"Balanced Production\" flags. These...",
+      "source": "dev",
+      "tag": "gemmachallenge,  gemma",
+      "url": "https://dev.to/gde/vllm-gemma4-26b-tuning-on-v6e-4-79o"
+    },
+    {
+      "title": "Deploying a Rust MCP Server to Amazon Lambda with Gemini CLI",
+      "hot": "❤️ 5 💬 0",
+      "desc": "The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...",
+      "source": "dev",
+      "tag": "rust,  agents",
+      "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-lambda-with-gemini-cli-41hd"
+    },
+    {
+      "title": "How AI is changing my job as a Staff Engineer: Tracer bullets",
+      "hot": "❤️ 1 💬 1",
+      "desc": "AI is rapidly changing software engineering, and with any kind of technological evolution, we need to...",
+      "source": "dev",
+      "tag": "ai,  productivity",
+      "url": "https://dev.to/vinibrsl/how-ai-is-changing-my-job-as-a-staff-engineer-tracer-bullets-4nck"
+    },
+    {
+      "title": "Google Cloud x NVIDIA Meet Up - 5/20/26 @ 5:30pm, Mountain View, CA",
+      "hot": "❤️ 16 💬 2",
+      "desc": "​​Register: https://luma.com/GoogleNVIDIA  Join Google Cloud and NVIDIA in Mountain View, CA for an...",
+      "source": "dev",
+      "tag": "cloud,  eventsinyourcity",
+      "url": "https://dev.to/googleai/google-cloud-x-nvidia-meet-up-52026-530pm-mountain-view-ca-9ea"
+    },
+    {
+      "title": "SQL Execution Order: Write Queries That Think Like the Database",
+      "hot": "❤️ 0 💬 2",
+      "desc": "Most SQL bugs aren't logic errors. They're sequence errors — the result of writing a query in one...",
+      "source": "dev",
+      "tag": "beginners,  sql",
+      "url": "https://dev.to/kalkwst/sql-execution-order-write-queries-that-think-like-the-database-13lf"
+    },
+    {
+      "title": "Deploying a Rust MCP Server to Amazon EKS",
+      "hot": "❤️ 8 💬 1",
+      "desc": "The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...",
+      "source": "dev",
+      "tag": "awseks,  aws",
+      "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-eks-183g"
+    },
+    {
+      "title": "GPT-5.5 Instant: The New ChatGPT Default Model Complete Guide 2026",
+      "hot": "❤️ 0 💬 0",
+      "desc": "GPT-5.5 Instant is the new ChatGPT default model with 52.5% fewer hallucinations, Gmail integration, memory sources, and",
+      "source": "dev",
+      "tag": "gpt55instant,  chatgptnewdefaultmodel202",
+      "url": "https://dev.to/akaranjkar08/gpt-55-instant-the-new-chatgpt-default-model-complete-guide-2026-1l4"
+    },
+    {
+      "title": "I Built a One-Command macOS Terminal Setup — Ghostty + Zsh + 30 Modern CLI Tools",
+      "hot": "❤️ 0 💬 1",
+      "desc": "Stop wasting hours configuring your terminal. dev-accelerator sets up Ghostty, Zsh, Starship, and 30+ modern CLI tools w",
+      "source": "dev",
+      "tag": "terminal,  macos",
+      "url": "https://dev.to/satyamsoni2211/i-built-a-one-command-macos-terminal-setup-ghostty-zsh-30-modern-cli-tools-43f5"
+    },
+    {
+      "title": "I Built a Chrome Extension to Sync AI Studio System Instructions. Here's Why chrome.storage.sync Couldn't Do It",
+      "hot": "❤️ 1 💬 2",
+      "desc": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4  I use Google AI Studio on three...",
+      "source": "dev",
+      "tag": "ai,  javascript",
+      "url": "https://dev.to/codewithahsan/i-built-a-chrome-extension-to-sync-ai-studio-system-instructions-heres-why-chromestoragesync-2llm"
+    },
+    {
+      "title": "GemmaFin - Breaking the Cycle of Debt with Conversational AI",
+      "hot": "❤️ 12 💬 0",
+      "desc": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4  Note: This project is aimed at...",
+      "source": "dev",
+      "tag": "devchallenge,  gemmachallenge",
+      "url": "https://dev.to/gde/gemmafin-breaking-the-cycle-of-debt-with-conversational-ai-4l7n"
+    },
+    {
+      "title": "Through the Blue Frames: UX From Google Glass to Gemini",
+      "hot": "❤️ 10 💬 0",
+      "desc": "It's a busy few weeks for me. Three weeks ago I attended a GDE Summit and Google Cloud Next. Two...",
+      "source": "dev",
+      "tag": "androidxr,  googleglass",
+      "url": "https://dev.to/gde/through-the-blue-frames-ux-from-google-glass-to-gemini-51e0"
+    },
+    {
+      "title": "My GitHub Graveyard has 27 dead projects. Here is the brutal truth about why.",
+      "hot": "❤️ 134 💬 92",
+      "desc": "I recently opened my GitHub account and filtered by private repositories. I actually counted them:...",
+      "source": "dev",
+      "tag": "webdev,  beginners",
+      "url": "https://dev.to/tahosin/my-github-graveyard-has-27-dead-projects-here-is-the-brutal-truth-about-why-52d9"
     }
   ],
   "github": [
@@ -458,7 +458,7 @@
     },
     {
       "title": "Nightmare-Eclipse/YellowKey: YellowKey Bitlocker Bypass Vulnerability",
-      "hot": "⭐ 3.2k",
+      "hot": "⭐ 3.3k",
       "desc": "YellowKey Bitlocker Bypass Vulnerability",
       "source": "github",
       "tag": "GitHub",
@@ -466,7 +466,7 @@
     },
     {
       "title": "nexu-io/html-anything: ✨ The agentic HTML editor — your local AI agent writes th",
-      "hot": "⭐ 3.0k",
+      "hot": "⭐ 3.1k",
       "desc": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prot",
       "source": "github",
       "tag": "HTML",
@@ -474,7 +474,7 @@
     },
     {
       "title": "vercel-labs/zero: The programming language for agents",
-      "hot": "⭐ 2.0k",
+      "hot": "⭐ 2.1k",
       "desc": "The programming language for agents",
       "source": "github",
       "tag": "C",
@@ -506,7 +506,7 @@
     },
     {
       "title": "ywnd1144/Gopay_plus_automatic: ",
-      "hot": "⭐ 926",
+      "hot": "⭐ 925",
       "desc": "ywnd1144/Gopay_plus_automatic",
       "source": "github",
       "tag": "Python",
@@ -514,7 +514,7 @@
     },
     {
       "title": "facebookresearch/vggt-omega: [CVPR 2026 Oral] VGGT Omega",
-      "hot": "⭐ 880",
+      "hot": "⭐ 919",
       "desc": "[CVPR 2026 Oral] VGGT Omega",
       "source": "github",
       "tag": "Python",
@@ -522,51 +522,51 @@
     },
     {
       "title": "DenisSergeevitch/agents-best-practices: Provider-neutral Agent Skill for Codex, ",
-      "hot": "⭐ 766",
+      "hot": "⭐ 789",
       "desc": "Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.",
       "source": "github",
       "tag": "GitHub",
       "url": "https://github.com/DenisSergeevitch/agents-best-practices"
     },
     {
-      "title": "DepthFirstDisclosures/Nginx-Rift: exploit for CVE-2026-42945",
-      "hot": "⭐ 693",
-      "desc": "exploit for CVE-2026-42945",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/DepthFirstDisclosures/Nginx-Rift"
-    },
-    {
       "title": "Kappaemme-git/codex-complexity-optimizer: Codex skill for safe codebase complexi",
-      "hot": "⭐ 692",
+      "hot": "⭐ 715",
       "desc": "Codex skill for safe codebase complexity analysis and performance optimization reports",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/Kappaemme-git/codex-complexity-optimizer"
     },
     {
-      "title": "yaassin12/DeepSeek-V4-Pro-App: DeepSeek V4 Pro: Advanced AI desktop app. Feature",
-      "hot": "⭐ 618",
-      "desc": "DeepSeek V4 Pro: Advanced AI desktop app. Features: 1.6T MoE architecture, 1M token context window, Engram memory. Pro coding agent, Think Mode (High/",
+      "title": "DepthFirstDisclosures/Nginx-Rift: exploit for CVE-2026-42945",
+      "hot": "⭐ 697",
+      "desc": "exploit for CVE-2026-42945",
       "source": "github",
-      "tag": "C++",
-      "url": "https://github.com/yaassin12/DeepSeek-V4-Pro-App"
+      "tag": "Python",
+      "url": "https://github.com/DepthFirstDisclosures/Nginx-Rift"
+    },
+    {
+      "title": "gi-dellav/zerostack: Minimalistic coding agent written in Rust, optimized for me",
+      "hot": "⭐ 649",
+      "desc": "Minimalistic coding agent written in Rust, optimized for memory footprint and performance",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/gi-dellav/zerostack"
+    },
+    {
+      "title": "boona13/mykonos-island-voxels: A browser-based isometric island builder with the",
+      "hot": "⭐ 621",
+      "desc": "A browser-based isometric island builder with the soft, sun-bleached look of Mykonos. Vanilla ES modules, no bundler, mobile-friendly.",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/boona13/mykonos-island-voxels"
     },
     {
       "title": "lillian039/ELF: ",
-      "hot": "⭐ 617",
+      "hot": "⭐ 620",
       "desc": "lillian039/ELF",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/lillian039/ELF"
-    },
-    {
-      "title": "chrisbanes/skills: Skills for Kotlin, Jetpack Compose, and Android development",
-      "hot": "⭐ 616",
-      "desc": "Skills for Kotlin, Jetpack Compose, and Android development",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/chrisbanes/skills"
     }
   ]
 }
