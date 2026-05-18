@@ -1,6 +1,14 @@
 {
   "data": [
     {
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "hot": "❤️ 10 💬 1",
+      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+      "source": "dev",
+      "tag": "top7,  discuss",
+      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1obd"
+    },
+    {
       "title": "Meme Monday",
       "hot": "❤️ 13 💬 11",
       "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
@@ -15,6 +23,22 @@
       "source": "dev",
       "tag": "webdev,  ai",
       "url": "https://dev.to/mspk97/i-ran-ai-models-directly-in-the-browser-and-measured-what-it-did-to-core-web-vitals-4adj"
+    },
+    {
+      "title": "Deploying a Rust A2A Agent to Google Cloud Run",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Leveraging the Gemini CLI and the underlying Gemini LLM to build A2A Agent Applications with the Rust...",
+      "source": "dev",
+      "tag": "rust,  gemini",
+      "url": "https://dev.to/gde/deploying-a-rust-a2a-agent-to-google-cloud-run-30jd"
+    },
+    {
+      "title": "Agent Development Kit for Google Apps Script",
+      "hot": "❤️ 7 💬 0",
+      "desc": "Abstract   Google's Agent Development Kit (ADK) revolutionizes autonomous AI agents, yet...",
+      "source": "dev",
+      "tag": "ai,  gemini",
+      "url": "https://dev.to/gde/agent-development-kit-for-google-apps-script-38ho"
     },
     {
       "title": "Some Notes on OMO Orchestrator Claude Alternatives",
@@ -41,12 +65,12 @@
       "url": "https://dev.to/gde/genkit-middleware-intercept-extend-and-harden-your-gen-ai-pipelines-4k03"
     },
     {
-      "title": "Unity begone",
-      "hot": "❤️ 7 💬 2",
-      "desc": "Here is a challenge.  Search for \"web gaming portal\" on Google or any other search engine of your...",
+      "title": "Build a Socratic Study Buddy with Gemma 4: A Beginner’s Guide to Running AI Locally",
+      "hot": "❤️ 11 💬 0",
+      "desc": "The landscape of AI has shifted from \"bigger is better\" to \"smarter is better.\" We are entering the...",
       "source": "dev",
-      "tag": "gamedev,  unity3d",
-      "url": "https://dev.to/sarthakganguly/unity-begone-56kc"
+      "tag": "gemma,  handson",
+      "url": "https://dev.to/gde/build-a-socratic-study-buddy-with-gemma-4-a-beginners-guide-to-running-ai-locally-505a"
     },
     {
       "title": "What was your win this week?!",
@@ -55,6 +79,14 @@
       "source": "dev",
       "tag": "discuss,  weeklyretro",
       "url": "https://dev.to/devteam/what-was-your-win-this-week-110l"
+    },
+    {
+      "title": "Unity begone",
+      "hot": "❤️ 7 💬 2",
+      "desc": "Here is a challenge.  Search for \"web gaming portal\" on Google or any other search engine of your...",
+      "source": "dev",
+      "tag": "gamedev,  unity3d",
+      "url": "https://dev.to/sarthakganguly/unity-begone-56kc"
     },
     {
       "title": "Giving AI agents knowledge they were never trained on",
@@ -127,39 +159,7 @@
       "source": "dev",
       "tag": "terminal,  macos",
       "url": "https://dev.to/satyamsoni2211/i-built-a-one-command-macos-terminal-setup-ghostty-zsh-30-modern-cli-tools-43f5"
-    },
-    {
-      "title": "I Built a Chrome Extension to Sync AI Studio System Instructions. Here's Why chrome.storage.sync Couldn't Do It",
-      "hot": "❤️ 1 💬 2",
-      "desc": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4  I use Google AI Studio on three...",
-      "source": "dev",
-      "tag": "ai,  javascript",
-      "url": "https://dev.to/codewithahsan/i-built-a-chrome-extension-to-sync-ai-studio-system-instructions-heres-why-chromestoragesync-2llm"
-    },
-    {
-      "title": "GemmaFin - Breaking the Cycle of Debt with Conversational AI",
-      "hot": "❤️ 12 💬 0",
-      "desc": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4  Note: This project is aimed at...",
-      "source": "dev",
-      "tag": "devchallenge,  gemmachallenge",
-      "url": "https://dev.to/gde/gemmafin-breaking-the-cycle-of-debt-with-conversational-ai-4l7n"
-    },
-    {
-      "title": "My GitHub Graveyard has 27 dead projects. Here is the brutal truth about why.",
-      "hot": "❤️ 136 💬 92",
-      "desc": "I recently opened my GitHub account and filtered by private repositories. I actually counted them:...",
-      "source": "dev",
-      "tag": "webdev,  beginners",
-      "url": "https://dev.to/tahosin/my-github-graveyard-has-27-dead-projects-here-is-the-brutal-truth-about-why-52d9"
-    },
-    {
-      "title": "Through the Blue Frames: UX From Google Glass to Gemini",
-      "hot": "❤️ 10 💬 0",
-      "desc": "It's a busy few weeks for me. Three weeks ago I attended a GDE Summit and Google Cloud Next. Two...",
-      "source": "dev",
-      "tag": "androidxr,  googleglass",
-      "url": "https://dev.to/gde/through-the-blue-frames-ux-from-google-glass-to-gemini-51e0"
     }
   ],
-  "updatedAt": "2026-05-18T19:09:08.548Z"
+  "updatedAt": "2026-05-18T20:50:05.326Z"
 }
