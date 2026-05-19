@@ -1,46 +1,184 @@
 {
-  "updatedAt": "2026-05-19T05:54:54.802Z",
+  "updatedAt": "2026-05-19T08:52:27.134Z",
   "source": "live",
+  "tech": [
+    {
+      "title": "The last six months in LLMs in five minutes",
+      "hot": "3.0m",
+      "desc": "simonwillison.net",
+      "source": "tech",
+      "tag": "⬆️ 384 points",
+      "url": "https://simonwillison.net/2026/May/19/5-minute-llms/"
+    },
+    {
+      "title": "Turn your Android phone into a ham radio transceiver",
+      "hot": "3.0m",
+      "desc": "kv4p.com",
+      "source": "tech",
+      "tag": "⬆️ 81 points",
+      "url": "https://www.kv4p.com/"
+    },
+    {
+      "title": "My domain got abused on GitHub Pages",
+      "hot": "3.0m",
+      "desc": "meertens.dev",
+      "source": "tech",
+      "tag": "⬆️ 25 points",
+      "url": "https://meertens.dev/blog/github-enables-domain-abuse/"
+    },
+    {
+      "title": "Click (2016)",
+      "hot": "3.0m",
+      "desc": "clickclickclick.click",
+      "source": "tech",
+      "tag": "⬆️ 293 points",
+      "url": "https://clickclickclick.click/"
+    },
+    {
+      "title": "Peter Neumann has died",
+      "hot": "2.9m",
+      "desc": "tuhs.org",
+      "source": "tech",
+      "tag": "⬆️ 82 points",
+      "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html"
+    },
+    {
+      "title": "Polypad",
+      "hot": "2.9m",
+      "desc": "polypad.amplify.com",
+      "source": "tech",
+      "tag": "⬆️ 39 points",
+      "url": "https://polypad.amplify.com/"
+    },
+    {
+      "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
+      "hot": "2.9m",
+      "desc": "safedep.io",
+      "source": "tech",
+      "tag": "⬆️ 52 points",
+      "url": "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/"
+    },
+    {
+      "title": "Anthropic acquires Stainless",
+      "hot": "2.9m",
+      "desc": "anthropic.com",
+      "source": "tech",
+      "tag": "⬆️ 444 points",
+      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless"
+    },
+    {
+      "title": "Cursor Introduces Composer 2.5",
+      "hot": "2.9m",
+      "desc": "cursor.com",
+      "source": "tech",
+      "tag": "⬆️ 137 points",
+      "url": "https://cursor.com/blog/composer-2-5"
+    },
+    {
+      "title": "The lasting influence of Netscape Time",
+      "hot": "2.9m",
+      "desc": "thehistoryoftheweb.com",
+      "source": "tech",
+      "tag": "⬆️ 16 points",
+      "url": "https://thehistoryoftheweb.com/the-lasting-influence-of-netscape-time/"
+    },
+    {
+      "title": "PyTorch Landscape",
+      "hot": "2.9m",
+      "desc": "pytorch.landscape2.io",
+      "source": "tech",
+      "tag": "⬆️ 32 points",
+      "url": "https://pytorch.landscape2.io"
+    },
+    {
+      "title": "Pope Leo XIV’s first encyclical Magnifica humanitas to be published May 25",
+      "hot": "2.8m",
+      "desc": "vaticannews.va",
+      "source": "tech",
+      "tag": "⬆️ 214 points",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html"
+    },
+    {
+      "title": "Regex Chess: A 2-ply minimax chess engine in 84,688 regular expressions",
+      "hot": "2.8m",
+      "desc": "nicholas.carlini.com",
+      "source": "tech",
+      "tag": "⬆️ 115 points",
+      "url": "https://nicholas.carlini.com/writing/2025/regex-chess.html"
+    },
+    {
+      "title": "1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries",
+      "hot": "2.8m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 139 points",
+      "url": "https://github.com/2b2tplace/1m_release"
+    },
+    {
+      "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
+      "hot": "2.8m",
+      "desc": "hyperpolyglot.org",
+      "source": "tech",
+      "tag": "⬆️ 157 points",
+      "url": "https://hyperpolyglot.org/lisp"
+    },
+    {
+      "title": "Make ZIP files smaller with ZIP Shrinker",
+      "hot": "2.8m",
+      "desc": "evanhahn.com",
+      "source": "tech",
+      "tag": "⬆️ 18 points",
+      "url": "https://evanhahn.com/make-zip-files-smaller-with-zip-shrinker/"
+    },
+    {
+      "title": "Show HN: Hsrs – Type-Safe Haskell Bindings Generator for Rust",
+      "hot": "2.8m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 25 points",
+      "url": "https://github.com/harmont-dev/hsrs"
+    },
+    {
+      "title": "We let AIs run radio stations",
+      "hot": "2.7m",
+      "desc": "andonlabs.com",
+      "source": "tech",
+      "tag": "⬆️ 248 points",
+      "url": "https://andonlabs.com/blog/andon-fm"
+    },
+    {
+      "title": "Show HN: Number Gacha, a gacha game distilled to its essence",
+      "hot": "2.7m",
+      "desc": "isabisabel.com",
+      "source": "tech",
+      "tag": "⬆️ 146 points",
+      "url": "https://isabisabel.com/gacha/"
+    },
+    {
+      "title": "When can the C++ compiler devirtualize a call?",
+      "hot": "2.7m",
+      "desc": "quuxplusone.github.io",
+      "source": "tech",
+      "tag": "⬆️ 57 points",
+      "url": "https://quuxplusone.github.io/blog/2021/02/15/devirtualization/"
+    }
+  ],
   "dev": [
     {
       "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 24 💬 7",
+      "hot": "❤️ 27 💬 9",
       "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
       "source": "dev",
       "tag": "top7,  discuss",
       "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1obd"
     },
     {
-      "title": "I Ran AI Models Directly in the Browser and Measured What It Did to Core Web Vitals",
-      "hot": "❤️ 11 💬 1",
-      "desc": "Everyone is shipping AI features. Sentiment analysis on user input, speech recognition without...",
-      "source": "dev",
-      "tag": "webdev,  ai",
-      "url": "https://dev.to/mspk97/i-ran-ai-models-directly-in-the-browser-and-measured-what-it-did-to-core-web-vitals-4adj"
-    },
-    {
       "title": "Meme Monday",
-      "hot": "❤️ 13 💬 11",
+      "hot": "❤️ 13 💬 12",
       "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
       "source": "dev",
       "tag": "discuss,  jokes",
       "url": "https://dev.to/ben/meme-monday-47g6"
-    },
-    {
-      "title": "Agent Development Kit for Google Apps Script",
-      "hot": "❤️ 7 💬 0",
-      "desc": "Abstract   Google's Agent Development Kit (ADK) revolutionizes autonomous AI agents, yet...",
-      "source": "dev",
-      "tag": "ai,  gemini",
-      "url": "https://dev.to/gde/agent-development-kit-for-google-apps-script-38ho"
-    },
-    {
-      "title": "Deploying a Rust A2A Agent to Google Cloud Run",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Leveraging the Gemini CLI and the underlying Gemini LLM to build A2A Agent Applications with the Rust...",
-      "source": "dev",
-      "tag": "rust,  gemini",
-      "url": "https://dev.to/gde/deploying-a-rust-a2a-agent-to-google-cloud-run-30jd"
     },
     {
       "title": "Some Notes on OMO Orchestrator Claude Alternatives",
@@ -65,6 +203,22 @@
       "source": "dev",
       "tag": "ai,  genkit",
       "url": "https://dev.to/gde/genkit-middleware-intercept-extend-and-harden-your-gen-ai-pipelines-4k03"
+    },
+    {
+      "title": "Agent Development Kit for Google Apps Script",
+      "hot": "❤️ 7 💬 1",
+      "desc": "Abstract   Google's Agent Development Kit (ADK) revolutionizes autonomous AI agents, yet...",
+      "source": "dev",
+      "tag": "ai,  gemini",
+      "url": "https://dev.to/gde/agent-development-kit-for-google-apps-script-38ho"
+    },
+    {
+      "title": "Deploying a Rust A2A Agent to Google Cloud Run",
+      "hot": "❤️ 6 💬 1",
+      "desc": "Leveraging the Gemini CLI and the underlying Gemini LLM to build A2A Agent Applications with the Rust...",
+      "source": "dev",
+      "tag": "rust,  gemini",
+      "url": "https://dev.to/gde/deploying-a-rust-a2a-agent-to-google-cloud-run-30jd"
     },
     {
       "title": "Build a Socratic Study Buddy with Gemma 4: A Beginner’s Guide to Running AI Locally",
@@ -147,6 +301,14 @@
       "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-eks-183g"
     },
     {
+      "title": "I Ran AI Models Directly in the Browser and Measured What It Did to Core Web Vitals",
+      "hot": "❤️ 11 💬 2",
+      "desc": "Everyone is shipping AI features. Sentiment analysis on user input, speech recognition without...",
+      "source": "dev",
+      "tag": "webdev,  ai",
+      "url": "https://dev.to/mspk97/i-ran-ai-models-directly-in-the-browser-and-measured-what-it-did-to-core-web-vitals-4adj"
+    },
+    {
       "title": "GPT-5.5 Instant: The New ChatGPT Default Model Complete Guide 2026",
       "hot": "❤️ 0 💬 0",
       "desc": "GPT-5.5 Instant is the new ChatGPT default model with 52.5% fewer hallucinations, Gmail integration, memory sources, and",
@@ -163,169 +325,15 @@
       "url": "https://dev.to/satyamsoni2211/i-built-a-one-command-macos-terminal-setup-ghostty-zsh-30-modern-cli-tools-43f5"
     }
   ],
-  "tech": [
-    {
-      "title": "The last six months in LLMs in five minutes",
-      "hot": "3.0m",
-      "desc": "simonwillison.net",
-      "source": "tech",
-      "tag": "⬆️ 178 points",
-      "url": "https://simonwillison.net/2026/May/19/5-minute-llms/"
-    },
-    {
-      "title": "Click (2016)",
-      "hot": "3.0m",
-      "desc": "clickclickclick.click",
-      "source": "tech",
-      "tag": "⬆️ 256 points",
-      "url": "https://clickclickclick.click/"
-    },
-    {
-      "title": "Anyone on the Internet Can Ring Your Doorbell",
-      "hot": "3.0m",
-      "desc": "abgeo.dev",
-      "source": "tech",
-      "tag": "⬆️ 62 points",
-      "url": "https://www.abgeo.dev/blog/anyone-can-ring-your-doorbell"
-    },
-    {
-      "title": "Codex-maxxing",
-      "hot": "3.0m",
-      "desc": "jxnl.co",
-      "source": "tech",
-      "tag": "⬆️ 21 points",
-      "url": "https://jxnl.co/writing/2026/05/10/codex-maxxing/"
-    },
-    {
-      "title": "PyTorch Landscape",
-      "hot": "2.9m",
-      "desc": "pytorch.landscape2.io",
-      "source": "tech",
-      "tag": "⬆️ 13 points",
-      "url": "https://pytorch.landscape2.io"
-    },
-    {
-      "title": "Regex Chess: A 2-ply minimax chess engine in 84,688 regular expressions",
-      "hot": "2.9m",
-      "desc": "nicholas.carlini.com",
-      "source": "tech",
-      "tag": "⬆️ 79 points",
-      "url": "https://nicholas.carlini.com/writing/2025/regex-chess.html"
-    },
-    {
-      "title": "War game exposed U.S. vulnerability to low-tech warfare",
-      "hot": "2.9m",
-      "desc": "nsarchive.gwu.edu",
-      "source": "tech",
-      "tag": "⬆️ 40 points",
-      "url": "https://nsarchive.gwu.edu/news/2024-11-01/rigged-war-game-exposed-us-vulnerability-low-tech-warfare"
-    },
-    {
-      "title": "Anthropic acquires Stainless",
-      "hot": "2.9m",
-      "desc": "anthropic.com",
-      "source": "tech",
-      "tag": "⬆️ 410 points",
-      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless"
-    },
-    {
-      "title": "Turn your Android phone into a ham radio transceiver",
-      "hot": "2.9m",
-      "desc": "kv4p.com",
-      "source": "tech",
-      "tag": "⬆️ 22 points",
-      "url": "https://www.kv4p.com/"
-    },
-    {
-      "title": "Cursor Introduces Composer 2.5",
-      "hot": "2.9m",
-      "desc": "cursor.com",
-      "source": "tech",
-      "tag": "⬆️ 93 points",
-      "url": "https://cursor.com/blog/composer-2-5"
-    },
-    {
-      "title": "Pope Leo XIV’s first encyclical Magnifica humanitas to be published May 25",
-      "hot": "2.9m",
-      "desc": "vaticannews.va",
-      "source": "tech",
-      "tag": "⬆️ 173 points",
-      "url": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html"
-    },
-    {
-      "title": "1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries",
-      "hot": "2.8m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 127 points",
-      "url": "https://github.com/2b2tplace/1m_release"
-    },
-    {
-      "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
-      "hot": "2.8m",
-      "desc": "archestra.ai",
-      "source": "tech",
-      "tag": "⬆️ 452 points",
-      "url": "https://archestra.ai/blog/only-responsible-ai"
-    },
-    {
-      "title": "Peter Salus has died",
-      "hot": "2.8m",
-      "desc": "tuhs.org",
-      "source": "tech",
-      "tag": "⬆️ 100 points",
-      "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html"
-    },
-    {
-      "title": "The quiet renovation at Bitwarden",
-      "hot": "2.8m",
-      "desc": "blog.ppb1701.com",
-      "source": "tech",
-      "tag": "⬆️ 604 points",
-      "url": "https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden"
-    },
-    {
-      "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
-      "hot": "2.8m",
-      "desc": "hyperpolyglot.org",
-      "source": "tech",
-      "tag": "⬆️ 148 points",
-      "url": "https://hyperpolyglot.org/lisp"
-    },
-    {
-      "title": "We let AIs run radio stations",
-      "hot": "2.8m",
-      "desc": "andonlabs.com",
-      "source": "tech",
-      "tag": "⬆️ 220 points",
-      "url": "https://andonlabs.com/blog/andon-fm"
-    },
-    {
-      "title": "Show HN: Number Gacha, a gacha game distilled to its essence",
-      "hot": "2.7m",
-      "desc": "isabisabel.com",
-      "source": "tech",
-      "tag": "⬆️ 109 points",
-      "url": "https://isabisabel.com/gacha/"
-    },
-    {
-      "title": "When can the C++ compiler devirtualize a call?",
-      "hot": "2.7m",
-      "desc": "quuxplusone.github.io",
-      "source": "tech",
-      "tag": "⬆️ 42 points",
-      "url": "https://quuxplusone.github.io/blog/2021/02/15/devirtualization/"
-    },
-    {
-      "title": "Project Glasswing: what Mythos showed us",
-      "hot": "2.7m",
-      "desc": "blog.cloudflare.com",
-      "source": "tech",
-      "tag": "⬆️ 313 points",
-      "url": "https://blog.cloudflare.com/cyber-frontier-models/"
-    }
-  ],
   "space": [
+    {
+      "title": "Smile launch highlights",
+      "hot": "5/19",
+      "desc": "ESA’s Smile satellite launched aboard a Vega-C rocket from Europe’s Spaceport in French Guiana. The rocket lifted off on at 04:52 BST / 05:52 CEST (00",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/05/Smile_launch_highlights"
+    },
     {
       "title": "Smile lifts off on quest to reveal Earth’s invisible shield against the solar wind",
       "hot": "5/19",
@@ -361,7 +369,7 @@
     {
       "title": "Vega C set to launch SMILE to study Earth’s magnetosphere",
       "hot": "5/18",
-      "desc": "The European Space Agency’s (ESA) latest science mission, Solar Wind Magnetosphere Ionosphere Link Explorer (SMILE),…\nThe post Vega C set to launch SM",
+      "desc": "The European Space Agency’s (ESA) latest science mission, Solar Wind Magnetosphere Ionosphere Link Explorer (SMILE),…\r\nThe post Vega C set to launch S",
       "source": "space",
       "tag": "NASASpaceflight",
       "url": "https://www.nasaspaceflight.com/2026/05/esa-smile-launch/"
@@ -385,7 +393,7 @@
     {
       "title": "Super Heavy Block 3 the Booster of the Future",
       "hot": "5/18",
-      "desc": "The first stage of Starship, the Super Heavy booster, has already undergone many changes during…\nThe post Super Heavy Block 3 the Booster of the Futur",
+      "desc": "The first stage of Starship, the Super Heavy booster, has already undergone many changes during…\r\nThe post Super Heavy Block 3 the Booster of the Futu",
       "source": "space",
       "tag": "NASASpaceflight",
       "url": "https://www.nasaspaceflight.com/2026/05/super-heavy-block-3-booster-future/"
@@ -437,20 +445,12 @@
       "source": "space",
       "tag": "Arstechnica",
       "url": "https://arstechnica.com/space/2026/05/the-us-space-enterprise-is-desperately-waiting-for-starship-will-it-finally-deliver/"
-    },
-    {
-      "title": "Inspector Smile, chapter 3: the countdown begins",
-      "hot": "5/18",
-      "desc": "From the ESA Blogs.",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/05/Inspector_Smile_chapter_3_the_countdown_begins"
     }
   ],
   "github": [
     {
       "title": "Nightmare-Eclipse/YellowKey: YellowKey Bitlocker Bypass Vulnerability",
-      "hot": "⭐ 3.4k",
+      "hot": "⭐ 3.5k",
       "desc": "YellowKey Bitlocker Bypass Vulnerability",
       "source": "github",
       "tag": "GitHub",
@@ -474,7 +474,7 @@
     },
     {
       "title": "facebookresearch/vggt-omega: [CVPR 2026 Oral] VGGT Omega",
-      "hot": "⭐ 1.0k",
+      "hot": "⭐ 1.1k",
       "desc": "[CVPR 2026 Oral] VGGT Omega",
       "source": "github",
       "tag": "Python",
@@ -482,7 +482,7 @@
     },
     {
       "title": "ywnd1144/Gopay_plus_automatic: ",
-      "hot": "⭐ 941",
+      "hot": "⭐ 945",
       "desc": "ywnd1144/Gopay_plus_automatic",
       "source": "github",
       "tag": "Python",
@@ -490,11 +490,19 @@
     },
     {
       "title": "DenisSergeevitch/agents-best-practices: Provider-neutral Agent Skill for Codex, ",
-      "hot": "⭐ 821",
+      "hot": "⭐ 828",
       "desc": "Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.",
       "source": "github",
       "tag": "GitHub",
       "url": "https://github.com/DenisSergeevitch/agents-best-practices"
+    },
+    {
+      "title": "DuskMosquito/Lossless-Scaling-Desktop-2026: ⭐️ Lossless Scaling Desktop 2026 | S",
+      "hot": "⭐ 777",
+      "desc": "⭐️ Lossless Scaling Desktop 2026 | Setup Installer v1.0 | Patch Activator Keygen | License Key Pre-Activated | Full Version Latest Build Pro | Optimiz",
+      "source": "github",
+      "tag": "C",
+      "url": "https://github.com/DuskMosquito/Lossless-Scaling-Desktop-2026"
     },
     {
       "title": "TriangleFalcon/KMS-Tools-Portable-2026-Last-Version: ⭐️ KMS-Tools-Portable | Act",
@@ -505,16 +513,8 @@
       "url": "https://github.com/TriangleFalcon/KMS-Tools-Portable-2026-Last-Version"
     },
     {
-      "title": "DuskMosquito/Lossless-Scaling-Desktop-2026: ⭐️ Lossless Scaling Desktop 2026 | S",
-      "hot": "⭐ 776",
-      "desc": "⭐️ Lossless Scaling Desktop 2026 | Setup Installer v1.0 | Patch Activator Keygen | License Key Pre-Activated | Full Version Latest Build Pro | Optimiz",
-      "source": "github",
-      "tag": "C",
-      "url": "https://github.com/DuskMosquito/Lossless-Scaling-Desktop-2026"
-    },
-    {
       "title": "Kappaemme-git/codex-complexity-optimizer: Codex skill for safe codebase complexi",
-      "hot": "⭐ 761",
+      "hot": "⭐ 768",
       "desc": "Codex skill for safe codebase complexity analysis and performance optimization reports",
       "source": "github",
       "tag": "Python",
@@ -522,7 +522,7 @@
     },
     {
       "title": "gi-dellav/zerostack: Minimalistic coding agent written in Rust, optimized for me",
-      "hot": "⭐ 756",
+      "hot": "⭐ 766",
       "desc": "Minimalistic coding agent written in Rust, optimized for memory footprint and performance",
       "source": "github",
       "tag": "Rust",
@@ -530,7 +530,7 @@
     },
     {
       "title": "DepthFirstDisclosures/Nginx-Rift: exploit for CVE-2026-42945",
-      "hot": "⭐ 720",
+      "hot": "⭐ 724",
       "desc": "exploit for CVE-2026-42945",
       "source": "github",
       "tag": "Python",
@@ -538,7 +538,7 @@
     },
     {
       "title": "yaassin12/DeepSeek-V4-Pro-App: DeepSeek V4 Pro: Advanced AI desktop app. Feature",
-      "hot": "⭐ 649",
+      "hot": "⭐ 655",
       "desc": "DeepSeek V4 Pro: Advanced AI desktop app. Features: 1.6T MoE architecture, 1M token context window, Engram memory. Pro coding agent, Think Mode (High/",
       "source": "github",
       "tag": "C++",
@@ -546,7 +546,7 @@
     },
     {
       "title": "boona13/mykonos-island-voxels: A browser-based isometric island builder with the",
-      "hot": "⭐ 645",
+      "hot": "⭐ 648",
       "desc": "A browser-based isometric island builder with the soft, sun-bleached look of Mykonos. Vanilla ES modules, no bundler, mobile-friendly.",
       "source": "github",
       "tag": "JavaScript",
@@ -554,7 +554,7 @@
     },
     {
       "title": "mark9-droid/TomodachiPC: Tomodachi Life Living The Dream PC: Ultimate Mii manage",
-      "hot": "⭐ 634",
+      "hot": "⭐ 638",
       "desc": "Tomodachi Life Living The Dream PC: Ultimate Mii manager and life simulator. Virtual island community, custom apartment editor, food preferences datab",
       "source": "github",
       "tag": "C++",
@@ -562,7 +562,7 @@
     },
     {
       "title": "chrisbanes/skills: Skills for Kotlin, Jetpack Compose, and Android development",
-      "hot": "⭐ 630",
+      "hot": "⭐ 632",
       "desc": "Skills for Kotlin, Jetpack Compose, and Android development",
       "source": "github",
       "tag": "GitHub",
