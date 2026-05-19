@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "Demystifying AI Agents with Turtle & Gemma",
-      "hot": "❤️ 36 💬 3",
+      "hot": "❤️ 41 💬 4",
       "desc": "🐢 Speaking into Canvas   If you're anything like me, your very first taste of \"programming\"...",
       "source": "dev",
       "tag": "turtle,  gemma",
@@ -15,6 +15,22 @@
       "source": "dev",
       "tag": "showdev,  webdev",
       "url": "https://dev.to/valeriavg/great-little-software-rackula-1pa1"
+    },
+    {
+      "title": "I built a free debugger because Next.js 16 'use cache' was completely invisible during development",
+      "hot": "❤️ 11 💬 4",
+      "desc": "I spent an afternoon debugging a component that kept re-fetching on every single request.  It had...",
+      "source": "dev",
+      "tag": "nextjs,  webdev",
+      "url": "https://dev.to/shubhradev/i-built-a-free-debugger-because-nextjs-16-use-cache-was-completely-invisible-during-development-4a8"
+    },
+    {
+      "title": "Building a Rust A2A Agent",
+      "hot": "❤️ 5 💬 0",
+      "desc": "Leveraging the Gemini CLI and the underlying Gemini LLM to build A2A Agent Applications with the Rust...",
+      "source": "dev",
+      "tag": "agents,  a2aprotocol",
+      "url": "https://dev.to/gde/building-a-rust-a2a-agent-4626"
     },
     {
       "title": "Gemini 3.5 Flash Developer Guide",
@@ -55,6 +71,14 @@
       "source": "dev",
       "tag": "top7,  discuss",
       "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1obd"
+    },
+    {
+      "title": "Google Cloud & Claude Code workshop - 5/29 in SF, CA.",
+      "hot": "❤️ 9 💬 0",
+      "desc": "Hey developers!   Want to learn best practices for integrating Claude into your Google Cloud...",
+      "source": "dev",
+      "tag": "ai,  developers",
+      "url": "https://dev.to/googleai/google-cloud-claude-code-workshop-529-in-sf-ca-4k87"
     },
     {
       "title": "Some Notes on OMO Orchestrator Claude Alternatives",
@@ -129,37 +153,13 @@
       "url": "https://dev.to/googleai/google-cloud-x-nvidia-meet-up-52026-530pm-mountain-view-ca-9ea"
     },
     {
-      "title": "SQL Execution Order: Write Queries That Think Like the Database",
-      "hot": "❤️ 0 💬 2",
-      "desc": "Most SQL bugs aren't logic errors. They're sequence errors — the result of writing a query in one...",
-      "source": "dev",
-      "tag": "beginners,  sql",
-      "url": "https://dev.to/kalkwst/sql-execution-order-write-queries-that-think-like-the-database-13lf"
-    },
-    {
       "title": "Deploying a Rust MCP Server to Amazon EKS",
       "hot": "❤️ 8 💬 1",
       "desc": "The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...",
       "source": "dev",
       "tag": "awseks,  aws",
       "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-eks-183g"
-    },
-    {
-      "title": "GPT-5.5 Instant: The New ChatGPT Default Model Complete Guide 2026",
-      "hot": "❤️ 0 💬 0",
-      "desc": "GPT-5.5 Instant is the new ChatGPT default model with 52.5% fewer hallucinations, Gmail integration, memory sources, and",
-      "source": "dev",
-      "tag": "gpt55instant,  chatgptnewdefaultmodel202",
-      "url": "https://dev.to/akaranjkar08/gpt-55-instant-the-new-chatgpt-default-model-complete-guide-2026-1l4"
-    },
-    {
-      "title": "I Built a One-Command macOS Terminal Setup — Ghostty + Zsh + 30 Modern CLI Tools",
-      "hot": "❤️ 0 💬 1",
-      "desc": "Stop wasting hours configuring your terminal. dev-accelerator sets up Ghostty, Zsh, Starship, and 30+ modern CLI tools w",
-      "source": "dev",
-      "tag": "terminal,  macos",
-      "url": "https://dev.to/satyamsoni2211/i-built-a-one-command-macos-terminal-setup-ghostty-zsh-30-modern-cli-tools-43f5"
     }
   ],
-  "updatedAt": "2026-05-19T20:56:07.009Z"
+  "updatedAt": "2026-05-19T22:05:16.277Z"
 }
