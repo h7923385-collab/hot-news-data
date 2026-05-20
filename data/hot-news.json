@@ -1,169 +1,47 @@
 {
-  "updatedAt": "2026-05-20T17:35:52.321Z",
+  "updatedAt": "2026-05-20T19:57:27.830Z",
   "source": "live",
-  "tech": [
-    {
-      "title": "SBCL: the ultimate assembly code breadboard (2014)",
-      "hot": "3.0m",
-      "desc": "pvk.ca",
-      "source": "tech",
-      "tag": "⬆️ 54 points",
-      "url": "https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/"
-    },
-    {
-      "title": "Qwen3.7-Max: The Agent Frontier",
-      "hot": "3.0m",
-      "desc": "qwen.ai",
-      "source": "tech",
-      "tag": "⬆️ 406 points",
-      "url": "https://qwen.ai/blog?id=qwen3.7"
-    },
-    {
-      "title": "Incident Report: May 19, 2026 – GCP Account Suspension",
-      "hot": "3.0m",
-      "desc": "blog.railway.com",
-      "source": "tech",
-      "tag": "⬆️ 40 points",
-      "url": "https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage"
-    },
-    {
-      "title": "Saying Goodbye to Asm.js",
-      "hot": "3.0m",
-      "desc": "spidermonkey.dev",
-      "source": "tech",
-      "tag": "⬆️ 191 points",
-      "url": "https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html"
-    },
-    {
-      "title": "Apparently Google hates us now",
-      "hot": "2.9m",
-      "desc": "twitter.com",
-      "source": "tech",
-      "tag": "⬆️ 140 points",
-      "url": "https://twitter.com/pokemoncentral/status/2057123807404638250"
-    },
-    {
-      "title": "Meta blocks human rights accounts from reaching audiences in Saudi Arabia, UAE",
-      "hot": "2.9m",
-      "desc": "alqst.org",
-      "source": "tech",
-      "tag": "⬆️ 700 points",
-      "url": "https://www.alqst.org/ar/posts/1190"
-    },
-    {
-      "title": "Map of Metal",
-      "hot": "2.9m",
-      "desc": "mapofmetal.com",
-      "source": "tech",
-      "tag": "⬆️ 281 points",
-      "url": "https://mapofmetal.com/"
-    },
-    {
-      "title": "Formal Verification Gates for AI Coding Loops",
-      "hot": "2.9m",
-      "desc": "reubenbrooks.dev",
-      "source": "tech",
-      "tag": "⬆️ 38 points",
-      "url": "https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/"
-    },
-    {
-      "title": "Google's AI is being manipulated. The search giant is quietly fighting back",
-      "hot": "2.9m",
-      "desc": "bbc.com",
-      "source": "tech",
-      "tag": "⬆️ 144 points",
-      "url": "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results"
-    },
-    {
-      "title": "Victory: Tennessee man jailed 37 days for Trump meme wins $835,000 settlement",
-      "hot": "2.9m",
-      "desc": "fire.org",
-      "source": "tech",
-      "tag": "⬆️ 377 points",
-      "url": "https://www.fire.org/news/victory-tennessee-man-jailed-37-days-trump-meme-wins-835000-settlement-after-first-amendment"
-    },
-    {
-      "title": "Testing distributed systems with AI agents",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 39 points",
-      "url": "https://github.com/shenli/distributed-system-testing"
-    },
-    {
-      "title": "Everything in C is undefined behavior",
-      "hot": "2.8m",
-      "desc": "blog.habets.se",
-      "source": "tech",
-      "tag": "⬆️ 402 points",
-      "url": "https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html"
-    },
-    {
-      "title": "After Town Bans Flock, Councilmember Crashes Out, Proposes Internet, Phone Ban",
-      "hot": "2.8m",
-      "desc": "404media.co",
-      "source": "tech",
-      "tag": "⬆️ 34 points",
-      "url": "https://www.404media.co/after-town-bans-flock-councilmember-crashes-out-proposes-internet-and-phone-ban/"
-    },
-    {
-      "title": "How fast is N tokens per second really?",
-      "hot": "2.8m",
-      "desc": "mikeveerman.github.io",
-      "source": "tech",
-      "tag": "⬆️ 11 points",
-      "url": "https://mikeveerman.github.io/tokenspeed/"
-    },
-    {
-      "title": "Ask HN: Shouldn't Google need to give a public statement about Railway incident?",
-      "hot": "2.8m",
-      "desc": "news.ycombinator.com",
-      "source": "tech",
-      "tag": "⬆️ 23 points",
-      "url": "https://news.ycombinator.com/item?id=48210590"
-    },
-    {
-      "title": "When Fast Fourier Transform Meets Transformer for Image Restoration (2024)",
-      "hot": "2.8m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 51 points",
-      "url": "https://github.com/deng-ai-lab/SFHformer"
-    },
-    {
-      "title": "Gemini 3.5 Flash",
-      "hot": "2.8m",
-      "desc": "blog.google",
-      "source": "tech",
-      "tag": "⬆️ 916 points",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/"
-    },
-    {
-      "title": "Stable Audio 3",
-      "hot": "2.7m",
-      "desc": "arxiv.org",
-      "source": "tech",
-      "tag": "⬆️ 36 points",
-      "url": "https://arxiv.org/abs/2605.17991"
-    },
-    {
-      "title": "FiveThirtyEight articles on the Internet Archive",
-      "hot": "2.7m",
-      "desc": "fivethirtyeightindex.com",
-      "source": "tech",
-      "tag": "⬆️ 336 points",
-      "url": "https://fivethirtyeightindex.com/"
-    },
-    {
-      "title": "Handling the great code forge fragmentation",
-      "hot": "2.7m",
-      "desc": "alexselimov.com",
-      "source": "tech",
-      "tag": "⬆️ 9 points",
-      "url": "https://www.alexselimov.com/posts/forge_fragmentation/"
-    }
-  ],
   "space": [
+    {
+      "title": "La NASA informará sobre su estrategia y misiones para la Base Lunar",
+      "hot": "5/20",
+      "desc": "Read this news release in English here. La NASA ofrecerá una conferencia de prensa el martes 26 de mayo a las 2 p.m. EDT (hora del este) para comparti",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/news-release/la-nasa-informara-sobre-su-estrategia-y-misiones-para-la-base-lunar/"
+    },
+    {
+      "title": "U.S. ‘more prepared’ for next WRC",
+      "hot": "5/20",
+      "desc": "\nWhite House officials say they will go into a major international conference next year better prepared than ever to defend key radio-frequency spectr",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/u-s-more-prepared-for-next-wrc/"
+    },
+    {
+      "title": "NASA TechLeap Prize: Robotically Manipulated Payload Challenge",
+      "hot": "5/20",
+      "desc": "The Robotically Manipulated Payload Challenge — the fifth in the NASA TechLeap Prize series — is a competition to advance persistent infrastructure fo",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-techleap-prize-robotically-manipulated-payload-challenge/"
+    },
+    {
+      "title": "Psyche Spacecraft Completes Mars Flyby",
+      "hot": "5/20",
+      "desc": "NASA’s Psyche spacecraft completed its close approach of Mars on May 15, coming within 2,864 miles (4,609 kilometers) of the planet’s surface. During ",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/image-article/psyche-spacecraft-completes-mars-flyby/"
+    },
+    {
+      "title": "NASA-developed AI Could Help Track Harmful Algae",
+      "hot": "5/20",
+      "desc": "NASA scientists have developed an artificial intelligence tool to take on a longstanding challenge in ocean waters. In a study recently published in A",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/science-research/earth-science/nasa-developed-ai-could-help-track-harmful-algae/"
+    },
     {
       "title": "NASA to Provide Update on Moon Base Strategy, Missions",
       "hot": "5/20",
@@ -237,58 +115,180 @@
       "url": "https://spacenews.com/report-finds-u-s-space-supply-chains-rely-heavily-on-chinese-manufacturing/"
     },
     {
-      "title": "Greenlight for next two ESA Scout missions",
-      "hot": "5/20",
-      "desc": "The European Space Agency is expanding its growing fleet of Earth-observing science Scout missions with the selection of two new satellites: Hibidis a",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Greenlight_for_next_two_ESA_Scout_missions"
-    },
-    {
       "title": "The cardinality wall: The hidden data bottleneck for LEO constellations",
       "hot": "5/20",
       "desc": "\nThe satellite industry is entering an era defined by scale. Thousands of spacecraft are operating simultaneously in low Earth orbit (LEO), powering e",
       "source": "space",
       "tag": "SpaceNews",
       "url": "https://spacenews.com/the-cardinality-wall-the-hidden-data-bottleneck-for-leo-constellations/"
+    }
+  ],
+  "tech": [
+    {
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "hot": "3.0m",
+      "desc": "openai.com",
+      "source": "tech",
+      "tag": "⬆️ 139 points",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/"
     },
     {
-      "title": "NASA’s Fermi Glimpses Power Source of Supercharged Supernovae",
-      "hot": "5/20",
-      "desc": "An international team studying data from NASA’s Fermi Gamma-ray Space Telescope concludes the mission detected a rare, unusually luminous supernova. T",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/missions/fermi/nasas-fermi-glimpses-power-source-of-supercharged-supernovae/"
+      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
+      "hot": "3.0m",
+      "desc": "bleepingcomputer.com",
+      "source": "tech",
+      "tag": "⬆️ 87 points",
+      "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/"
     },
     {
-      "title": "Isaacman expects Chinese crewed mission around the moon in 2027",
-      "hot": "5/20",
-      "desc": "\nThe head of NASA says he expects China to perform a crewed flight around the moon in 2027, ratcheting up perceptions of a space race between China an",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/isaacman-expects-chinese-crewed-mission-around-the-moon-in-2027/"
+      "title": "How fast is N tokens per second really?",
+      "hot": "3.0m",
+      "desc": "mikeveerman.github.io",
+      "source": "tech",
+      "tag": "⬆️ 164 points",
+      "url": "https://mikeveerman.github.io/tokenspeed/"
     },
     {
-      "title": "Fire Chars Santa Rosa Island",
-      "hot": "5/20",
-      "desc": "The blaze spread across the southern side of the second-largest island in California’s Channel Islands National Park.",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/earth/earth-observatory/fire-chars-santa-rosa-island/"
+      "title": "Flipper One Tech Specs",
+      "hot": "3.0m",
+      "desc": "docs.flipper.net",
+      "source": "tech",
+      "tag": "⬆️ 42 points",
+      "url": "https://docs.flipper.net/one/general/tech-specs"
     },
     {
-      "title": "Isaacman: Chinese Taikonauts Likely to Fly Around Moon in 2027",
-      "hot": "5/20",
-      "desc": "NASA Administrator Jared Isaacman asserted today that next year Chinese taikonauts “likely” will fly around the Moon and the United States no longer w",
-      "source": "space",
-      "tag": "SpacePolicyOnline.com",
-      "url": "https://spacepolicyonline.com/news/isaacman-chinese-taikonauts-likely-to-fly-around-moon-in-2027/"
+      "title": "Why is Inkwell stuck in review",
+      "hot": "2.9m",
+      "desc": "manton.org",
+      "source": "tech",
+      "tag": "⬆️ 39 points",
+      "url": "https://www.manton.org/2026/05/19/why-is-inkwell-stuck-in.html"
+    },
+    {
+      "title": "Qwen3.7-Max: The Agent Frontier",
+      "hot": "2.9m",
+      "desc": "qwen.ai",
+      "source": "tech",
+      "tag": "⬆️ 498 points",
+      "url": "https://qwen.ai/blog?id=qwen3.7"
+    },
+    {
+      "title": "Sharla Boehm, the programmer whose code underpins the Internet",
+      "hot": "2.9m",
+      "desc": "scientificamerican.com",
+      "source": "tech",
+      "tag": "⬆️ 39 points",
+      "url": "https://www.scientificamerican.com/article/the-programmer-whose-code-underpins-the-internet/"
+    },
+    {
+      "title": "SBCL: the ultimate assembly code breadboard (2014)",
+      "hot": "2.9m",
+      "desc": "pvk.ca",
+      "source": "tech",
+      "tag": "⬆️ 85 points",
+      "url": "https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/"
+    },
+    {
+      "title": "Incident Report: May 19, 2026 – GCP Account Suspension",
+      "hot": "2.9m",
+      "desc": "blog.railway.com",
+      "source": "tech",
+      "tag": "⬆️ 304 points",
+      "url": "https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage"
+    },
+    {
+      "title": "Saying Goodbye to Asm.js",
+      "hot": "2.9m",
+      "desc": "spidermonkey.dev",
+      "source": "tech",
+      "tag": "⬆️ 243 points",
+      "url": "https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html"
+    },
+    {
+      "title": "Map of Metal",
+      "hot": "2.9m",
+      "desc": "mapofmetal.com",
+      "source": "tech",
+      "tag": "⬆️ 341 points",
+      "url": "https://mapofmetal.com/"
+    },
+    {
+      "title": "Qian Xuesen: The missile genius America lost and China gained (2025)",
+      "hot": "2.8m",
+      "desc": "usni.org",
+      "source": "tech",
+      "tag": "⬆️ 22 points",
+      "url": "https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained"
+    },
+    {
+      "title": "Google's AI is being manipulated. The search giant is quietly fighting back",
+      "hot": "2.8m",
+      "desc": "bbc.com",
+      "source": "tech",
+      "tag": "⬆️ 197 points",
+      "url": "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results"
+    },
+    {
+      "title": "Tracking Starbucks' 'widely recyclable' cups: none ended up at recycling",
+      "hot": "2.8m",
+      "desc": "beyondplastics.org",
+      "source": "tech",
+      "tag": "⬆️ 87 points",
+      "url": "https://www.beyondplastics.org/press-releases/starbucks-cups-recyclable-report"
+    },
+    {
+      "title": "Apparently Google hates us now",
+      "hot": "2.8m",
+      "desc": "twitter.com",
+      "source": "tech",
+      "tag": "⬆️ 306 points",
+      "url": "https://twitter.com/pokemoncentral/status/2057123807404638250"
+    },
+    {
+      "title": "Meta blocks human rights accounts from reaching audiences in Saudi Arabia, UAE",
+      "hot": "2.8m",
+      "desc": "alqst.org",
+      "source": "tech",
+      "tag": "⬆️ 807 points",
+      "url": "https://www.alqst.org/ar/posts/1190"
+    },
+    {
+      "title": "Node.js 26.0.0 (Now with Temporal)",
+      "hot": "2.8m",
+      "desc": "nodejs.org",
+      "source": "tech",
+      "tag": "⬆️ 40 points",
+      "url": "https://nodejs.org/en/blog/release/v26.0.0"
+    },
+    {
+      "title": "Everything in C is undefined behavior",
+      "hot": "2.7m",
+      "desc": "blog.habets.se",
+      "source": "tech",
+      "tag": "⬆️ 442 points",
+      "url": "https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html"
+    },
+    {
+      "title": "LoRA and Weight Decay (2023)",
+      "hot": "2.7m",
+      "desc": "irhum.github.io",
+      "source": "tech",
+      "tag": "⬆️ 7 points",
+      "url": "https://irhum.github.io/blog/lorawd/"
+    },
+    {
+      "title": "Formal Verification Gates for AI Coding Loops",
+      "hot": "2.7m",
+      "desc": "reubenbrooks.dev",
+      "source": "tech",
+      "tag": "⬆️ 66 points",
+      "url": "https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/"
     }
   ],
   "dev": [
     {
       "title": "Google I/O 2026 - Day 1 - Live from the Front Row",
-      "hot": "❤️ 8 💬 1",
+      "hot": "❤️ 13 💬 1",
       "desc": "This is a submission for the Google I/O Writing Challenge  I had barely caught up from my email...",
       "source": "dev",
       "tag": "devchallenge,  googleiochallenge",
@@ -296,7 +296,7 @@
     },
     {
       "title": "I decided to build a Kubernetes alternative. Yes, I know I'm crazy",
-      "hot": "❤️ 8 💬 4",
+      "hot": "❤️ 16 💬 6",
       "desc": "Using Kubernetes is a love-hate relationship.  Love, because before it, deploying to production was...",
       "source": "dev",
       "tag": "opensource,  kubernetes",
@@ -304,11 +304,19 @@
     },
     {
       "title": "Found a Coordinated GitHub Follow Botnet Hiding in My Followers?",
-      "hot": "❤️ 12 💬 6",
+      "hot": "❤️ 14 💬 6",
       "desc": "Eight accounts, six years of creation dates, following counts within a range of 25. Here's how following-list overlap an",
       "source": "dev",
       "tag": "security,  github",
       "url": "https://dev.to/gnomeman4201/i-found-a-coordinated-github-follow-botnet-hiding-in-my-followers-kgl"
+    },
+    {
+      "title": "My 6-year-old asks 400 questions a day. So I built him a Gemma 4 AI tutor.",
+      "hot": "❤️ 0 💬 0",
+      "desc": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4   My 6-year-old asks me four...",
+      "source": "dev",
+      "tag": "devchallenge,  gemma",
+      "url": "https://dev.to/sann3/my-6-year-old-asks-400-questions-a-day-so-i-built-him-a-gemma-4-ai-tutor-1e13"
     },
     {
       "title": "Great Little Software: Rackula",
@@ -335,6 +343,22 @@
       "url": "https://dev.to/gde/building-a-rust-a2a-agent-4626"
     },
     {
+      "title": "Drow.js: A Practical Look at the Tiny Web Components Library",
+      "hot": "❤️ 0 💬 0",
+      "desc": "Drow.js: A Practical Look at the Tiny Web Components Library   If you've built a Web...",
+      "source": "dev",
+      "tag": "frontend,  javascript",
+      "url": "https://dev.to/johnfacey/drowjs-a-practical-look-at-the-tiny-web-components-library-3mb9"
+    },
+    {
+      "title": "Your Story: Local Gemma 4 Interactive Fiction That Remembers Your Choices",
+      "hot": "❤️ 0 💬 0",
+      "desc": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4           What I Built   Your...",
+      "source": "dev",
+      "tag": "devchallenge,  gemmachallenge",
+      "url": "https://dev.to/1412601/your-story-local-gemma-4-interactive-fiction-that-remembers-your-choices-43d5"
+    },
+    {
       "title": "Gemini 3.5 Flash Developer Guide",
       "hot": "❤️ 40 💬 2",
       "desc": "Gemini 3.5 Flash is generally available (GA), stable, and ready for scaled production use. As our...",
@@ -343,12 +367,12 @@
       "url": "https://dev.to/googleai/gemini-35-flash-developer-guide-1i46"
     },
     {
-      "title": "Tune in and Join the Google I/O 2026 Writing Challenge: $1,000 in Prizes!!",
-      "hot": "❤️ 83 💬 4",
-      "desc": "Google I/O 2026 is here! Join us today and tomorrow (May 19 &amp; 20) as we livestream Google's...",
+      "title": "Scaling Intelligence Workshop: Google NYC, Thursday, May 28th 🚀",
+      "hot": "❤️ 7 💬 0",
+      "desc": "Do I just post about cool events? Maybe? But that's good, right? Now here's another!   Scaling...",
       "source": "dev",
-      "tag": "googleiochallenge,  devchallenge",
-      "url": "https://dev.to/devteam/tune-in-and-join-the-google-io-2026-writing-challenge-1000-in-prizes-4apl"
+      "tag": "ai,  eventsinyourcity",
+      "url": "https://dev.to/googleai/scaling-intelligence-workshop-google-nyc-thursday-may-28th-5cpk"
     },
     {
       "title": "Terminal Superpowers You Should Be Using in 2026",
@@ -357,6 +381,14 @@
       "source": "dev",
       "tag": "productivity,  cli",
       "url": "https://dev.to/aws/terminal-superpowers-you-should-be-using-in-2026-38b4"
+    },
+    {
+      "title": "3 takeaways from the IO '26 developer keynote",
+      "hot": "❤️ 5 💬 0",
+      "desc": "My top 3 takeaways from the IO 26’ developer keynote, in no particular order:    Gemini 3.5 Flash GA...",
+      "source": "dev",
+      "tag": "antigravity,  gemini",
+      "url": "https://dev.to/googleai/3-takeaways-from-the-io-26-developer-keynote-11b2"
     },
     {
       "title": "Understanding Correlation in PHP: Pearson vs Spearman vs Kendall Tau",
@@ -413,38 +445,6 @@
       "source": "dev",
       "tag": "nextjs,  webdev",
       "url": "https://dev.to/shubhradev/i-built-a-free-debugger-because-nextjs-16-use-cache-was-completely-invisible-during-development-4a8"
-    },
-    {
-      "title": "vLLM Gemma4 26B Tuning on v6e-4",
-      "hot": "❤️ 9 💬 0",
-      "desc": "✦ The successful benchmark run on TPU v6e-4 used the following \"Balanced Production\" flags. These...",
-      "source": "dev",
-      "tag": "gemmachallenge,  gemma",
-      "url": "https://dev.to/gde/vllm-gemma4-26b-tuning-on-v6e-4-79o"
-    },
-    {
-      "title": "Deploying a Rust MCP Server to Amazon Lambda with Gemini CLI",
-      "hot": "❤️ 5 💬 0",
-      "desc": "The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...",
-      "source": "dev",
-      "tag": "rust,  agents",
-      "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-lambda-with-gemini-cli-41hd"
-    },
-    {
-      "title": "How AI is changing my job as a Staff Engineer: Tracer bullets",
-      "hot": "❤️ 1 💬 1",
-      "desc": "AI is rapidly changing software engineering, and with any kind of technological evolution, we need to...",
-      "source": "dev",
-      "tag": "ai,  productivity",
-      "url": "https://dev.to/vinibrsl/how-ai-is-changing-my-job-as-a-staff-engineer-tracer-bullets-4nck"
-    },
-    {
-      "title": "Google Cloud x NVIDIA Meet Up - 5/20/26 @ 5:30pm, Mountain View, CA",
-      "hot": "❤️ 16 💬 2",
-      "desc": "​​Register: https://luma.com/GoogleNVIDIA  Join Google Cloud and NVIDIA in Mountain View, CA for an...",
-      "source": "dev",
-      "tag": "cloud,  eventsinyourcity",
-      "url": "https://dev.to/googleai/google-cloud-x-nvidia-meet-up-52026-530pm-mountain-view-ca-9ea"
     }
   ],
   "github": [
@@ -458,7 +458,7 @@
     },
     {
       "title": "yetone/native-feel-skill: An Agent Skill for designing cross-platform desktop ap",
-      "hot": "⭐ 1.3k",
+      "hot": "⭐ 1.4k",
       "desc": "An Agent Skill for designing cross-platform desktop apps that feel native — distilled from Raycast's 2.0 deep-dive and reverse engineering of Raycast ",
       "source": "github",
       "tag": "GitHub",
@@ -474,7 +474,7 @@
     },
     {
       "title": "FoundZiGu/GuJumpgate: ",
-      "hot": "⭐ 905",
+      "hot": "⭐ 919",
       "desc": "FoundZiGu/GuJumpgate",
       "source": "github",
       "tag": "JavaScript",
@@ -482,7 +482,7 @@
     },
     {
       "title": "DenisSergeevitch/agents-best-practices: Provider-neutral Agent Skill for Codex, ",
-      "hot": "⭐ 889",
+      "hot": "⭐ 896",
       "desc": "Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.",
       "source": "github",
       "tag": "GitHub",
@@ -490,7 +490,7 @@
     },
     {
       "title": "thananon/9arm-skills: ",
-      "hot": "⭐ 809",
+      "hot": "⭐ 831",
       "desc": "thananon/9arm-skills",
       "source": "github",
       "tag": "Shell",
@@ -498,7 +498,7 @@
     },
     {
       "title": "Doorman11991/smallcode: AI coding agent optimized for small LLMs. 87% benchmark ",
-      "hot": "⭐ 799",
+      "hot": "⭐ 813",
       "desc": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
       "source": "github",
       "tag": "JavaScript",
@@ -514,7 +514,7 @@
     },
     {
       "title": "feder-cr/invisible_playwright: Stealth Firefox that passes every bot detection t",
-      "hot": "⭐ 678",
+      "hot": "⭐ 691",
       "desc": "Stealth Firefox that passes every bot detection test. Drop-in Playwright replacement.",
       "source": "github",
       "tag": "Python",
@@ -530,7 +530,7 @@
     },
     {
       "title": "Nightmare-Eclipse/MiniPlasma: CVE-2020-17103 was apparently not patched or the p",
-      "hot": "⭐ 645",
+      "hot": "⭐ 648",
       "desc": "CVE-2020-17103 was apparently not patched or the patch was reversed, regardless this the PoC for an LPE in cldflt.sys",
       "source": "github",
       "tag": "C#",
@@ -545,20 +545,20 @@
       "url": "https://github.com/Juwluuu/Subnautica-2-Release"
     },
     {
+      "title": "pedrodg28/yuzu-emu: Yuzu Emulator Switch Nintendo Pokemon Scarlet Violet, Mario ",
+      "hot": "⭐ 642",
+      "desc": "Yuzu Emulator Switch Nintendo Pokemon Scarlet Violet, Mario Kart 8 Deluxe, firmware 18.1.0, prod.keys, shader stutter fix, FPS++ mod, save file import",
+      "source": "github",
+      "tag": "C++",
+      "url": "https://github.com/pedrodg28/yuzu-emu"
+    },
+    {
       "title": "DARKHOLEUM/VoidStrap-For-Roblox: VoidStrap: Roblox bootstrapper, launcher utilit",
       "hot": "⭐ 639",
       "desc": "VoidStrap: Roblox bootstrapper, launcher utility. FFlag Editor, FastFlags, FPS Unlocker, memory trimmer, CPU watcher. UI customization, Aero theme, An",
       "source": "github",
       "tag": "C#",
       "url": "https://github.com/DARKHOLEUM/VoidStrap-For-Roblox"
-    },
-    {
-      "title": "pedrodg28/yuzu-emu: Yuzu Emulator Switch Nintendo Pokemon Scarlet Violet, Mario ",
-      "hot": "⭐ 636",
-      "desc": "Yuzu Emulator Switch Nintendo Pokemon Scarlet Violet, Mario Kart 8 Deluxe, firmware 18.1.0, prod.keys, shader stutter fix, FPS++ mod, save file import",
-      "source": "github",
-      "tag": "C++",
-      "url": "https://github.com/pedrodg28/yuzu-emu"
     },
     {
       "title": "0xdeadbeefnetwork/ssh-keysign-pwn: Steal SSH host private keys and /etc/shadow v",
