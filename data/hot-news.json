@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-05-21T08:50:03.605Z",
+  "updatedAt": "2026-05-21T11:58:45.868Z",
   "source": "live",
   "dev": [
     {
       "title": "Google I/O 2026 - Day 1 - Live from the Front Row",
-      "hot": "❤️ 19 💬 2",
+      "hot": "❤️ 23 💬 4",
       "desc": "This is a submission for the Google I/O Writing Challenge  I had barely caught up from my email...",
       "source": "dev",
       "tag": "devchallenge,  googleiochallenge",
@@ -12,7 +12,7 @@
     },
     {
       "title": "I decided to build a Kubernetes alternative. Yes, I know I'm crazy",
-      "hot": "❤️ 23 💬 12",
+      "hot": "❤️ 24 💬 13",
       "desc": "Using Kubernetes is a love-hate relationship.  Love, because before it, deploying to production was...",
       "source": "dev",
       "tag": "opensource,  kubernetes",
@@ -25,14 +25,6 @@
       "source": "dev",
       "tag": "showdev,  webdev",
       "url": "https://dev.to/valeriavg/great-little-software-rackula-1pa1"
-    },
-    {
-      "title": "Google I/O 2026: From Consumer to Builder",
-      "hot": "❤️ 17 💬 2",
-      "desc": "I often tune in to Google I/O. But this year felt different.  In the past, I watched as a consumer. I...",
-      "source": "dev",
-      "tag": "ai,  buildinpublic",
-      "url": "https://dev.to/michellebuchiokonicha/google-io-2026-from-consumer-to-builder-dom"
     },
     {
       "title": "My 6-year-old asks 400 questions a day. So I built him a Gemma 4 AI tutor.",
@@ -65,6 +57,14 @@
       "source": "dev",
       "tag": "frontend,  javascript",
       "url": "https://dev.to/johnfacey/drowjs-a-practical-look-at-the-tiny-web-components-library-3mb9"
+    },
+    {
+      "title": "Google I/O 2026: From Consumer to Builder",
+      "hot": "❤️ 19 💬 2",
+      "desc": "I often tune in to Google I/O. But this year felt different.  In the past, I watched as a consumer. I...",
+      "source": "dev",
+      "tag": "ai,  buildinpublic",
+      "url": "https://dev.to/michellebuchiokonicha/google-io-2026-from-consumer-to-builder-dom"
     },
     {
       "title": "Found a Coordinated GitHub Follow Botnet Hiding in My Followers?",
@@ -131,14 +131,6 @@
       "url": "https://dev.to/gde/genkit-middleware-intercept-extend-and-harden-your-gen-ai-pipelines-4k03"
     },
     {
-      "title": "I built a free debugger because Next.js 16 'use cache' was completely invisible during development",
-      "hot": "❤️ 15 💬 8",
-      "desc": "I spent an afternoon debugging a component that kept re-fetching on every single request.  It had...",
-      "source": "dev",
-      "tag": "nextjs,  webdev",
-      "url": "https://dev.to/shubhradev/i-built-a-free-debugger-because-nextjs-16-use-cache-was-completely-invisible-during-development-4a8"
-    },
-    {
       "title": "Giving AI agents knowledge they were never trained on",
       "hot": "❤️ 2 💬 2",
       "desc": "I love coding my own stuff, and my clients typically have lots of internal specifications and...",
@@ -161,293 +153,195 @@
       "source": "dev",
       "tag": "rust,  agents",
       "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-lambda-with-gemini-cli-41hd"
+    },
+    {
+      "title": "How AI is changing my job as a Staff Engineer: Tracer bullets",
+      "hot": "❤️ 1 💬 1",
+      "desc": "AI is rapidly changing software engineering, and with any kind of technological evolution, we need to...",
+      "source": "dev",
+      "tag": "ai,  productivity",
+      "url": "https://dev.to/vinibrsl/how-ai-is-changing-my-job-as-a-staff-engineer-tracer-bullets-4nck"
     }
   ],
   "tech": [
+    {
+      "title": "Flipper One – we need your help",
+      "hot": "3.0m",
+      "desc": "blog.flipper.net",
+      "source": "tech",
+      "tag": "⬆️ 67 points",
+      "url": "https://blog.flipper.net/flipper-one-we-need-your-help/"
+    },
+    {
+      "title": "Python 3.15: features that didn't make the headlines",
+      "hot": "3.0m",
+      "desc": "blog.changs.co.uk",
+      "source": "tech",
+      "tag": "⬆️ 30 points",
+      "url": "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html"
+    },
+    {
+      "title": "Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK",
+      "hot": "3.0m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 73 points",
+      "url": "https://github.com/helvesec/rmux"
+    },
     {
       "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
       "hot": "3.0m",
       "desc": "openai.com",
       "source": "tech",
-      "tag": "⬆️ 1111 points",
+      "tag": "⬆️ 1222 points",
       "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/"
     },
     {
       "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "bleepingcomputer.com",
       "source": "tech",
-      "tag": "⬆️ 804 points",
+      "tag": "⬆️ 893 points",
       "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/"
     },
     {
-      "title": "Haskell Foundation 2026 Update",
-      "hot": "3.0m",
-      "desc": "discourse.haskell.org",
+      "title": "A Girl Who Couldn't Draw Home",
+      "hot": "2.9m",
+      "desc": "gailweiner.com",
       "source": "tech",
-      "tag": "⬆️ 106 points",
-      "url": "https://discourse.haskell.org/t/haskell-foundation-2026-update/14136"
+      "tag": "⬆️ 8 points",
+      "url": "https://www.gailweiner.com/post/the-girl-who-couldn-t-draw-home"
     },
     {
-      "title": "Vivaldi 8.0",
-      "hot": "3.0m",
-      "desc": "vivaldi.com",
+      "title": "Google officially announces that ads will be included in AI Mode search results",
+      "hot": "2.9m",
+      "desc": "blog.google",
       "source": "tech",
-      "tag": "⬆️ 76 points",
-      "url": "https://vivaldi.com/blog/vivaldi-on-desktop-8-0/"
+      "tag": "⬆️ 144 points",
+      "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/"
+    },
+    {
+      "title": "Fender escalates legal campaign against S-style guitars",
+      "hot": "2.9m",
+      "desc": "guitarworld.com",
+      "source": "tech",
+      "tag": "⬆️ 13 points",
+      "url": "https://www.guitarworld.com/gear/electric-guitars/fender-cease-and-desist-lsl-instruments"
     },
     {
       "title": "Show HN: I reverse engineered Apple's video wallpapers",
       "hot": "2.9m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 260 points",
+      "tag": "⬆️ 321 points",
       "url": "https://github.com/kageroumado/phosphene"
     },
     {
-      "title": "New features in GCC 16: Improved error messages and SARIF output",
+      "title": "Haskell Foundation 2026 Update",
       "hot": "2.9m",
-      "desc": "developers.redhat.com",
+      "desc": "discourse.haskell.org",
       "source": "tech",
-      "tag": "⬆️ 66 points",
-      "url": "https://developers.redhat.com/articles/2026/04/28/gcc-16-improved-error-messages-sarif-output"
-    },
-    {
-      "title": "DOS Zone",
-      "hot": "2.9m",
-      "desc": "dos.zone",
-      "source": "tech",
-      "tag": "⬆️ 243 points",
-      "url": "https://dos.zone/"
-    },
-    {
-      "title": "Typewise (YC S22) Is Hiring an AI Growth Engineer (Zurich or Remote)",
-      "hot": "2.9m",
-      "desc": "ycombinator.com",
-      "source": "tech",
-      "tag": "⬆️ 1 points",
-      "url": "https://www.ycombinator.com/companies/typewise/jobs/HmCzfBK-ai-growth-engineer"
+      "tag": "⬆️ 132 points",
+      "url": "https://discourse.haskell.org/t/haskell-foundation-2026-update/14136"
     },
     {
       "title": "The Letter S, by Donald Knuth (1980) [pdf]",
       "hot": "2.9m",
       "desc": "gwern.net",
       "source": "tech",
-      "tag": "⬆️ 152 points",
+      "tag": "⬆️ 198 points",
       "url": "https://gwern.net/doc/design/typography/1980-knuth.pdf"
     },
     {
+      "title": "New features in GCC 16: Improved error messages and SARIF output",
+      "hot": "2.8m",
+      "desc": "developers.redhat.com",
+      "source": "tech",
+      "tag": "⬆️ 101 points",
+      "url": "https://developers.redhat.com/articles/2026/04/28/gcc-16-improved-error-messages-sarif-output"
+    },
+    {
       "title": "Flipper One Tech Specs",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "docs.flipper.net",
       "source": "tech",
-      "tag": "⬆️ 361 points",
+      "tag": "⬆️ 414 points",
       "url": "https://docs.flipper.net/one/general/tech-specs"
     },
     {
+      "title": "Typewise (YC S22) Is Hiring an AI Growth Engineer (Zurich or Remote)",
+      "hot": "2.8m",
+      "desc": "ycombinator.com",
+      "source": "tech",
+      "tag": "⬆️ 1 points",
+      "url": "https://www.ycombinator.com/companies/typewise/jobs/HmCzfBK-ai-growth-engineer"
+    },
+    {
+      "title": "DOS Zone",
+      "hot": "2.8m",
+      "desc": "dos.zone",
+      "source": "tech",
+      "tag": "⬆️ 271 points",
+      "url": "https://dos.zone/"
+    },
+    {
       "title": "Anthropic is expanding to Colossus2. Will use GB200",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "twitter.com",
       "source": "tech",
-      "tag": "⬆️ 180 points",
+      "tag": "⬆️ 224 points",
       "url": "https://twitter.com/nottombrown/status/2057194829986300375"
     },
     {
-      "title": "Simulating Infinity in Conway's Game of Life with Modern C++",
+      "title": "No Slop Grenade",
       "hot": "2.8m",
-      "desc": "ryanjk5.github.io",
+      "desc": "noslopgrenade.com",
       "source": "tech",
-      "tag": "⬆️ 27 points",
-      "url": "https://ryanjk5.github.io/posts/GOLDE/"
-    },
-    {
-      "title": "How fast is N tokens per second really?",
-      "hot": "2.8m",
-      "desc": "mikeveerman.github.io",
-      "source": "tech",
-      "tag": "⬆️ 402 points",
-      "url": "https://mikeveerman.github.io/tokenspeed/"
-    },
-    {
-      "title": "Archaeologists find Egyptian mummy buried with the 'Iliad'",
-      "hot": "2.8m",
-      "desc": "openculture.com",
-      "source": "tech",
-      "tag": "⬆️ 127 points",
-      "url": "https://www.openculture.com/2026/05/archaeologists-discover-ancient-egyptian-mummy-buried-with-pages-from-homers-iliad.html"
-    },
-    {
-      "title": "What is a Demand Coop",
-      "hot": "2.8m",
-      "desc": "cahootzcoops.com",
-      "source": "tech",
-      "tag": "⬆️ 55 points",
-      "url": "https://cahootzcoops.com/blog/what-is-a-demand-coop"
+      "tag": "⬆️ 54 points",
+      "url": "https://noslopgrenade.com/"
     },
     {
       "title": "All the bugs they found",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "andreapivetta.com",
       "source": "tech",
-      "tag": "⬆️ 15 points",
+      "tag": "⬆️ 43 points",
       "url": "https://andreapivetta.com/posts/all-the-bugs-they-found.html"
     },
     {
-      "title": "OpenAI Is Preparing to File for an IPO Soon",
-      "hot": "2.8m",
-      "desc": "wsj.com",
-      "source": "tech",
-      "tag": "⬆️ 80 points",
-      "url": "https://www.wsj.com/tech/ai/openai-is-preparing-to-file-for-an-ipo-very-soon-0ec95af5"
-    },
-    {
-      "title": "Reviving old scanners with an in-browser Linux VM bridged to WebUSB over USB/IP",
+      "title": "How fast is N tokens per second really?",
       "hot": "2.7m",
-      "desc": "yes-we-scan.app",
+      "desc": "mikeveerman.github.io",
       "source": "tech",
-      "tag": "⬆️ 72 points",
-      "url": "https://yes-we-scan.app/details"
+      "tag": "⬆️ 430 points",
+      "url": "https://mikeveerman.github.io/tokenspeed/"
     },
     {
-      "title": "Saying goodbye to asm.js",
+      "title": "Vivaldi 8.0",
       "hot": "2.7m",
-      "desc": "spidermonkey.dev",
+      "desc": "vivaldi.com",
       "source": "tech",
-      "tag": "⬆️ 371 points",
-      "url": "https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html"
-    },
-    {
-      "title": "Show HN: I made a tactical map-based WWII submarine simulator (public beta)",
-      "hot": "2.7m",
-      "desc": "silentshark.app",
-      "source": "tech",
-      "tag": "⬆️ 32 points",
-      "url": "https://silentshark.app/alpha/"
-    }
-  ],
-  "github": [
-    {
-      "title": "vercel-labs/zerolang: The programming language for agents",
-      "hot": "⭐ 4.1k",
-      "desc": "The programming language for agents",
-      "source": "github",
-      "tag": "C",
-      "url": "https://github.com/vercel-labs/zerolang"
-    },
-    {
-      "title": "facebookresearch/vggt-omega: [CVPR 2026 Oral] VGGT Omega",
-      "hot": "⭐ 1.4k",
-      "desc": "[CVPR 2026 Oral] VGGT Omega",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/facebookresearch/vggt-omega"
-    },
-    {
-      "title": "yetone/native-feel-skill: An Agent Skill for designing cross-platform desktop ap",
-      "hot": "⭐ 1.4k",
-      "desc": "An Agent Skill for designing cross-platform desktop apps that feel native — distilled from Raycast's 2.0 deep-dive and reverse engineering of Raycast ",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/yetone/native-feel-skill"
-    },
-    {
-      "title": "FoundZiGu/GuJumpgate: ",
-      "hot": "⭐ 1.2k",
-      "desc": "FoundZiGu/GuJumpgate",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/FoundZiGu/GuJumpgate"
-    },
-    {
-      "title": "thananon/9arm-skills: ",
-      "hot": "⭐ 1.0k",
-      "desc": "thananon/9arm-skills",
-      "source": "github",
-      "tag": "Shell",
-      "url": "https://github.com/thananon/9arm-skills"
-    },
-    {
-      "title": "DenisSergeevitch/agents-best-practices: Provider-neutral Agent Skill for Codex, ",
-      "hot": "⭐ 921",
-      "desc": "Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/DenisSergeevitch/agents-best-practices"
-    },
-    {
-      "title": "Doorman11991/smallcode: AI coding agent optimized for small LLMs. 87% benchmark ",
-      "hot": "⭐ 917",
-      "desc": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/Doorman11991/smallcode"
-    },
-    {
-      "title": "Kappaemme-git/codex-complexity-optimizer: Codex skill for safe codebase complexi",
-      "hot": "⭐ 808",
-      "desc": "Codex skill for safe codebase complexity analysis and performance optimization reports",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/Kappaemme-git/codex-complexity-optimizer"
-    },
-    {
-      "title": "boona13/mykonos-island-voxels: A browser-based isometric island builder with the",
-      "hot": "⭐ 682",
-      "desc": "A browser-based isometric island builder with the soft, sun-bleached look of Mykonos. Vanilla ES modules, no bundler, mobile-friendly.",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/boona13/mykonos-island-voxels"
-    },
-    {
-      "title": "Juwluuu/Subnautica-2-Release: Subnautica 2: Early Access release, Have Multiplay",
-      "hot": "⭐ 669",
-      "desc": "Subnautica 2: Early Access release, Have Multiplayer 4-player co-op multiplayer, Planet Zazura exploration, DNA BioMod system, Tadpole modular submers",
-      "source": "github",
-      "tag": "C++",
-      "url": "https://github.com/Juwluuu/Subnautica-2-Release"
-    },
-    {
-      "title": "Nightmare-Eclipse/MiniPlasma: CVE-2020-17103 was apparently not patched or the p",
-      "hot": "⭐ 665",
-      "desc": "CVE-2020-17103 was apparently not patched or the patch was reversed, regardless this the PoC for an LPE in cldflt.sys",
-      "source": "github",
-      "tag": "C#",
-      "url": "https://github.com/Nightmare-Eclipse/MiniPlasma"
-    },
-    {
-      "title": "DARKHOLEUM/VoidStrap-For-Roblox: VoidStrap: Roblox bootstrapper, launcher utilit",
-      "hot": "⭐ 662",
-      "desc": "VoidStrap: Roblox bootstrapper, launcher utility. FFlag Editor, FastFlags, FPS Unlocker, memory trimmer, CPU watcher. UI customization, Aero theme, An",
-      "source": "github",
-      "tag": "C#",
-      "url": "https://github.com/DARKHOLEUM/VoidStrap-For-Roblox"
-    },
-    {
-      "title": "cat9999aaa/thinshell: thinshell",
-      "hot": "⭐ 647",
-      "desc": "thinshell",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/cat9999aaa/thinshell"
-    },
-    {
-      "title": "xw7872081123/wallpaper-engine-steam: Free Wallpaper Engine Steam: download PC wi",
-      "hot": "⭐ 646",
-      "desc": "Free Wallpaper Engine Steam: download PC windows 11, steam workshop downloader bypass, high CPU RAM usage fix, android apk mobile sync. 4k anime live ",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/xw7872081123/wallpaper-engine-steam"
-    },
-    {
-      "title": "0xdeadbeefnetwork/ssh-keysign-pwn: Steal SSH host private keys and /etc/shadow v",
-      "hot": "⭐ 644",
-      "desc": "Steal SSH host private keys and /etc/shadow via the ptrace_may_access mm-NULL bypass + pidfd_getfd. Pre-31e62c2ebbfd kernels.",
-      "source": "github",
-      "tag": "C",
-      "url": "https://github.com/0xdeadbeefnetwork/ssh-keysign-pwn"
+      "tag": "⬆️ 176 points",
+      "url": "https://vivaldi.com/blog/vivaldi-on-desktop-8-0/"
     }
   ],
   "space": [
+    {
+      "title": "Lunar Robots: NASA Spotlights Moon Base at 2026 FIRST Robotics Competition",
+      "hot": "5/21",
+      "desc": "Robotics will play a critical role in NASA’s ambitious plan to establish a long-term presence on the Moon, presenting opportunities for the next gener",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/centers-and-facilities/johnson/lunar-robots-nasa-spotlights-moon-base-at-2026-first-robotics-competition/"
+    },
+    {
+      "title": "CEO Series: Open Cosmos’ Rafel Jorda Siquier on finding a niche in space.",
+      "hot": "5/21",
+      "desc": "\nIn this episode of Space Minds, Mike Gruss talks with Open Cosmos’ CEO Rafel Jorda Siquier about combining Earth observation, connectivity and IoT in",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/ceo-series-open-cosmos-rafel-jorda-siquier-on-finding-a-niche-in-space/"
+    },
     {
       "title": "Stay space chemical compliant in the EU",
       "hot": "5/21",
@@ -551,22 +445,128 @@
       "source": "space",
       "tag": "NASA",
       "url": "https://www.nasa.gov/news-release/nasa-to-provide-update-on-moon-base-strategy-missions/"
+    }
+  ],
+  "github": [
+    {
+      "title": "vercel-labs/zerolang: The programming language for agents",
+      "hot": "⭐ 4.1k",
+      "desc": "The programming language for agents",
+      "source": "github",
+      "tag": "C",
+      "url": "https://github.com/vercel-labs/zerolang"
     },
     {
-      "title": "NASA Releases Technology Priorities to Energize Space Industry",
-      "hot": "5/20",
-      "desc": "NASA released the 2026 Civil Space Shortfall Ranking list on Wednesday, which integrates more than 400 responses from stakeholders including industry ",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/technology/nasa-releases-technology-priorities-to-energize-space-industry/"
+      "title": "facebookresearch/vggt-omega: [CVPR 2026 Oral] VGGT Omega",
+      "hot": "⭐ 1.4k",
+      "desc": "[CVPR 2026 Oral] VGGT Omega",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/facebookresearch/vggt-omega"
     },
     {
-      "title": "Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral",
-      "hot": "5/20",
-      "desc": "The Starlink 10-31 mission will be the 58th Falcon 9 launch so far in 2026. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled dur",
-      "source": "space",
-      "tag": "Spaceflight Now",
-      "url": "https://spaceflightnow.com/2026/05/20/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-13/"
+      "title": "yetone/native-feel-skill: An Agent Skill for designing cross-platform desktop ap",
+      "hot": "⭐ 1.4k",
+      "desc": "An Agent Skill for designing cross-platform desktop apps that feel native — distilled from Raycast's 2.0 deep-dive and reverse engineering of Raycast ",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/yetone/native-feel-skill"
+    },
+    {
+      "title": "FoundZiGu/GuJumpgate: ",
+      "hot": "⭐ 1.2k",
+      "desc": "FoundZiGu/GuJumpgate",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/FoundZiGu/GuJumpgate"
+    },
+    {
+      "title": "thananon/9arm-skills: ",
+      "hot": "⭐ 1.1k",
+      "desc": "thananon/9arm-skills",
+      "source": "github",
+      "tag": "Shell",
+      "url": "https://github.com/thananon/9arm-skills"
+    },
+    {
+      "title": "Doorman11991/smallcode: AI coding agent optimized for small LLMs. 87% benchmark ",
+      "hot": "⭐ 965",
+      "desc": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/Doorman11991/smallcode"
+    },
+    {
+      "title": "DenisSergeevitch/agents-best-practices: Provider-neutral Agent Skill for Codex, ",
+      "hot": "⭐ 927",
+      "desc": "Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/DenisSergeevitch/agents-best-practices"
+    },
+    {
+      "title": "Kappaemme-git/codex-complexity-optimizer: Codex skill for safe codebase complexi",
+      "hot": "⭐ 809",
+      "desc": "Codex skill for safe codebase complexity analysis and performance optimization reports",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/Kappaemme-git/codex-complexity-optimizer"
+    },
+    {
+      "title": "boona13/mykonos-island-voxels: A browser-based isometric island builder with the",
+      "hot": "⭐ 683",
+      "desc": "A browser-based isometric island builder with the soft, sun-bleached look of Mykonos. Vanilla ES modules, no bundler, mobile-friendly.",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/boona13/mykonos-island-voxels"
+    },
+    {
+      "title": "Juwluuu/Subnautica-2-Release: Subnautica 2: Early Access release, Have Multiplay",
+      "hot": "⭐ 669",
+      "desc": "Subnautica 2: Early Access release, Have Multiplayer 4-player co-op multiplayer, Planet Zazura exploration, DNA BioMod system, Tadpole modular submers",
+      "source": "github",
+      "tag": "C++",
+      "url": "https://github.com/Juwluuu/Subnautica-2-Release"
+    },
+    {
+      "title": "Nightmare-Eclipse/MiniPlasma: CVE-2020-17103 was apparently not patched or the p",
+      "hot": "⭐ 669",
+      "desc": "CVE-2020-17103 was apparently not patched or the patch was reversed, regardless this the PoC for an LPE in cldflt.sys",
+      "source": "github",
+      "tag": "C#",
+      "url": "https://github.com/Nightmare-Eclipse/MiniPlasma"
+    },
+    {
+      "title": "DARKHOLEUM/VoidStrap-For-Roblox: VoidStrap: Roblox bootstrapper, launcher utilit",
+      "hot": "⭐ 662",
+      "desc": "VoidStrap: Roblox bootstrapper, launcher utility. FFlag Editor, FastFlags, FPS Unlocker, memory trimmer, CPU watcher. UI customization, Aero theme, An",
+      "source": "github",
+      "tag": "C#",
+      "url": "https://github.com/DARKHOLEUM/VoidStrap-For-Roblox"
+    },
+    {
+      "title": "xw7872081123/wallpaper-engine-steam: Free Wallpaper Engine Steam: download PC wi",
+      "hot": "⭐ 662",
+      "desc": "Free Wallpaper Engine Steam: download PC windows 11, steam workshop downloader bypass, high CPU RAM usage fix, android apk mobile sync. 4k anime live ",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/xw7872081123/wallpaper-engine-steam"
+    },
+    {
+      "title": "0xdeadbeefnetwork/ssh-keysign-pwn: Steal SSH host private keys and /etc/shadow v",
+      "hot": "⭐ 649",
+      "desc": "Steal SSH host private keys and /etc/shadow via the ptrace_may_access mm-NULL bypass + pidfd_getfd. Pre-31e62c2ebbfd kernels.",
+      "source": "github",
+      "tag": "C",
+      "url": "https://github.com/0xdeadbeefnetwork/ssh-keysign-pwn"
+    },
+    {
+      "title": "arnabchoudhury404/hydra-launcher: hydralauncher: Hydra Launcher download free PC",
+      "hot": "⭐ 648",
+      "desc": "hydralauncher: Hydra Launcher download free PC library  fontes links baixar , hydralauncher github,  trusted sources url list, steam verde download, h",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/arnabchoudhury404/hydra-launcher"
     }
   ]
 }
