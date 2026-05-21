@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "Google I/O 2026 - Day 1 - Live from the Front Row",
-      "hot": "❤️ 16 💬 2",
+      "hot": "❤️ 19 💬 2",
       "desc": "This is a submission for the Google I/O Writing Challenge  I had barely caught up from my email...",
       "source": "dev",
       "tag": "devchallenge,  googleiochallenge",
@@ -10,19 +10,11 @@
     },
     {
       "title": "I decided to build a Kubernetes alternative. Yes, I know I'm crazy",
-      "hot": "❤️ 23 💬 9",
+      "hot": "❤️ 23 💬 12",
       "desc": "Using Kubernetes is a love-hate relationship.  Love, because before it, deploying to production was...",
       "source": "dev",
       "tag": "opensource,  kubernetes",
       "url": "https://dev.to/denerfernandes/i-decided-to-build-a-kubernetes-alternative-yes-i-know-im-crazy-21b5"
-    },
-    {
-      "title": "Google I/O 2026: From Consumer to Builder",
-      "hot": "❤️ 15 💬 2",
-      "desc": "I tune in to Google I/O every year (since 2024). But this year felt different.  In the past, I...",
-      "source": "dev",
-      "tag": "ai,  buildinpublic",
-      "url": "https://dev.to/michellebuchiokonicha/google-io-2026-from-consumer-to-builder-dom"
     },
     {
       "title": "Great Little Software: Rackula",
@@ -33,12 +25,12 @@
       "url": "https://dev.to/valeriavg/great-little-software-rackula-1pa1"
     },
     {
-      "title": "Demystifying AI Agents with Turtle & Gemma",
-      "hot": "❤️ 47 💬 14",
-      "desc": "🐢 Speaking into Canvas   If you're anything like me, your very first taste of \"programming\"...",
+      "title": "Google I/O 2026: From Consumer to Builder",
+      "hot": "❤️ 17 💬 2",
+      "desc": "I often tune in to Google I/O. But this year felt different.  In the past, I watched as a consumer. I...",
       "source": "dev",
-      "tag": "turtle,  gemma",
-      "url": "https://dev.to/googleai/demystifying-ai-agents-with-turtle-gemma-4ajj"
+      "tag": "ai,  buildinpublic",
+      "url": "https://dev.to/michellebuchiokonicha/google-io-2026-from-consumer-to-builder-dom"
     },
     {
       "title": "My 6-year-old asks 400 questions a day. So I built him a Gemma 4 AI tutor.",
@@ -137,6 +129,14 @@
       "url": "https://dev.to/gde/genkit-middleware-intercept-extend-and-harden-your-gen-ai-pipelines-4k03"
     },
     {
+      "title": "I built a free debugger because Next.js 16 'use cache' was completely invisible during development",
+      "hot": "❤️ 15 💬 8",
+      "desc": "I spent an afternoon debugging a component that kept re-fetching on every single request.  It had...",
+      "source": "dev",
+      "tag": "nextjs,  webdev",
+      "url": "https://dev.to/shubhradev/i-built-a-free-debugger-because-nextjs-16-use-cache-was-completely-invisible-during-development-4a8"
+    },
+    {
       "title": "Giving AI agents knowledge they were never trained on",
       "hot": "❤️ 2 💬 2",
       "desc": "I love coding my own stuff, and my clients typically have lots of internal specifications and...",
@@ -145,21 +145,21 @@
       "url": "https://dev.to/jgauffin/giving-ai-agents-knowledge-they-were-never-trained-on-5fd7"
     },
     {
-      "title": "I built a free debugger because Next.js 16 'use cache' was completely invisible during development",
-      "hot": "❤️ 13 💬 8",
-      "desc": "I spent an afternoon debugging a component that kept re-fetching on every single request.  It had...",
-      "source": "dev",
-      "tag": "nextjs,  webdev",
-      "url": "https://dev.to/shubhradev/i-built-a-free-debugger-because-nextjs-16-use-cache-was-completely-invisible-during-development-4a8"
-    },
-    {
       "title": "vLLM Gemma4 26B Tuning on v6e-4",
       "hot": "❤️ 9 💬 0",
       "desc": "✦ The successful benchmark run on TPU v6e-4 used the following \"Balanced Production\" flags. These...",
       "source": "dev",
       "tag": "gemmachallenge,  gemma",
       "url": "https://dev.to/gde/vllm-gemma4-26b-tuning-on-v6e-4-79o"
+    },
+    {
+      "title": "Deploying a Rust MCP Server to Amazon Lambda with Gemini CLI",
+      "hot": "❤️ 5 💬 0",
+      "desc": "The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...",
+      "source": "dev",
+      "tag": "rust,  agents",
+      "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-lambda-with-gemini-cli-41hd"
     }
   ],
-  "updatedAt": "2026-05-21T05:44:18.466Z"
+  "updatedAt": "2026-05-21T08:50:03.605Z"
 }
