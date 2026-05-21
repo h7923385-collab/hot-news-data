@@ -9,12 +9,36 @@
       "url": "https://dev.to/gde/google-io-2026-day-1-live-from-the-front-row-52ji"
     },
     {
-      "title": "I decided to build a Kubernetes alternative. Yes, I know I'm crazy",
-      "hot": "❤️ 27 💬 13",
-      "desc": "Using Kubernetes is a love-hate relationship.  Love, because before it, deploying to production was...",
+      "title": "From Years to Hours",
+      "hot": "❤️ 16 💬 0",
+      "desc": "It's not a brag for me to say \"I've been visualizing infrastructure since 2018\" - it's the actual...",
       "source": "dev",
-      "tag": "opensource,  kubernetes",
-      "url": "https://dev.to/denerfernandes/i-decided-to-build-a-kubernetes-alternative-yes-i-know-im-crazy-21b5"
+      "tag": "ai,  stripe",
+      "url": "https://dev.to/annaspies/from-years-to-hours-joe"
+    },
+    {
+      "title": "Accessibility - This looks like a job for a developer advocate!",
+      "hot": "❤️ 0 💬 0",
+      "desc": "At the beginning of last year, I started a new role as an accessibility-focused frontend engineer....",
+      "source": "dev",
+      "tag": "a11y,  devrel",
+      "url": "https://dev.to/andyhaskell/accessibility-this-looks-like-a-job-for-a-developer-advocate-2a12"
+    },
+    {
+      "title": "From Code to Cloud: 3 Labs for Deploying Your AI Agent",
+      "hot": "❤️ 20 💬 0",
+      "desc": "You've built a powerful AI agent. It works on your local machine, it's intelligent, and it's ready to...",
+      "source": "dev",
+      "tag": "agents,  cloud",
+      "url": "https://dev.to/googleai/from-code-to-cloud-3-labs-for-deploying-your-ai-agent-4dcn"
+    },
+    {
+      "title": "Shipping Your Machine: Building a Container in 50 Lines of Code (Part 1)",
+      "hot": "❤️ 7 💬 1",
+      "desc": "The \"Works on My Machine\" Problem   We've all been there. You spend days writing a new...",
+      "source": "dev",
+      "tag": "docker,  go",
+      "url": "https://dev.to/yechielk/shipping-your-machine-building-a-container-in-60-lines-of-code-part-1-14ma"
     },
     {
       "title": "Great Little Software: Rackula",
@@ -25,28 +49,28 @@
       "url": "https://dev.to/valeriavg/great-little-software-rackula-1pa1"
     },
     {
-      "title": "My 6-year-old asks 400 questions a day. So I built him a Gemma 4 AI tutor.",
-      "hot": "❤️ 3 💬 0",
-      "desc": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4   My 6-year-old asks me four...",
+      "title": "Building a Production Company Website on AWS — Project Overview",
+      "hot": "❤️ 12 💬 0",
+      "desc": "What We Built   This series documents the end-to-end process of designing, building, and...",
       "source": "dev",
-      "tag": "devchallenge,  gemma",
-      "url": "https://dev.to/sann3/my-6-year-old-asks-400-questions-a-day-so-i-built-him-a-gemma-4-ai-tutor-1e13"
-    },
-    {
-      "title": "Your Story: Local Gemma 4 Interactive Fiction That Remembers Your Choices",
-      "hot": "❤️ 8 💬 0",
-      "desc": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4           What I Built   Your...",
-      "source": "dev",
-      "tag": "devchallenge,  gemmachallenge",
-      "url": "https://dev.to/1412601/your-story-local-gemma-4-interactive-fiction-that-remembers-your-choices-43d5"
+      "tag": "aws,  webdev",
+      "url": "https://dev.to/josh_blair/building-a-production-company-website-on-aws-project-overview-2dhm"
     },
     {
       "title": "Found a Coordinated GitHub Follow Botnet Hiding in My Followers?",
-      "hot": "❤️ 15 💬 8",
+      "hot": "❤️ 29 💬 9",
       "desc": "Eight accounts, six years of creation dates, following counts within a range of 25. Here's how following-list overlap an",
       "source": "dev",
       "tag": "security,  github",
       "url": "https://dev.to/gnomeman4201/i-found-a-coordinated-github-follow-botnet-hiding-in-my-followers-kgl"
+    },
+    {
+      "title": "jnigen and swiftgen in 2026 - some lessons learned",
+      "hot": "❤️ 0 💬 0",
+      "desc": "Package jni 1.0.0 was recently published. It's a good opportunity to share some of my lessons from...",
+      "source": "dev",
+      "tag": "flutter,  dart",
+      "url": "https://dev.to/orestesgaolin/jnigen-and-swiftgen-in-2026-some-lessons-learned-16ni"
     },
     {
       "title": "Building a Rust A2A Agent",
@@ -66,19 +90,27 @@
     },
     {
       "title": "Google I/O 2026: From Consumer to Builder",
-      "hot": "❤️ 19 💬 2",
+      "hot": "❤️ 31 💬 2",
       "desc": "I often tune in to Google I/O. But this year felt different.  In the past, I watched as a consumer. I...",
       "source": "dev",
       "tag": "ai,  buildinpublic",
       "url": "https://dev.to/michellebuchiokonicha/google-io-2026-from-consumer-to-builder-dom"
     },
     {
-      "title": "Scaling Intelligence Workshop: Google NYC, Thursday, May 28th 🚀",
-      "hot": "❤️ 7 💬 0",
-      "desc": "Do I just post about cool events? Maybe? But that's good, right? Now here's another!   Scaling...",
+      "title": "Getting Started with Antigravity CLI",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article covers the initial setup and configuration for the Antigravity CLI on a stock Linux...",
       "source": "dev",
-      "tag": "ai,  eventsinyourcity",
-      "url": "https://dev.to/googleai/scaling-intelligence-workshop-google-nyc-thursday-may-28th-5cpk"
+      "tag": "googleio,  gemini",
+      "url": "https://dev.to/gde/getting-started-with-antigravity-cli-183g"
+    },
+    {
+      "title": "Dual Parameter Thermal FEA Design Optimization with FEATool Multiphysics",
+      "hot": "❤️ 0 💬 0",
+      "desc": "The following post shows how to define and solve a two parameter thermal FEA design and optimization...",
+      "source": "dev",
+      "tag": "fea,  heattransfer",
+      "url": "https://dev.to/precise-simulation/dual-parameter-thermal-fea-design-optimization-with-featool-multiphysics-m67"
     },
     {
       "title": "3 takeaways from the IO '26 developer keynote",
@@ -87,14 +119,6 @@
       "source": "dev",
       "tag": "antigravity,  gemini",
       "url": "https://dev.to/googleai/3-takeaways-from-the-io-26-developer-keynote-11b2"
-    },
-    {
-      "title": "Understanding Correlation in PHP: Pearson vs Spearman vs Kendall Tau",
-      "hot": "❤️ 5 💬 0",
-      "desc": "Correlation helps you understand whether two variables move together and how strongly they are...",
-      "source": "dev",
-      "tag": "php,  statistics",
-      "url": "https://dev.to/robertobutti/understanding-correlation-in-php-pearson-vs-spearman-vs-kendall-tau-28m1"
     },
     {
       "title": "Google Cloud & Claude Code workshop - 5/29 in SF, CA.",
@@ -129,37 +153,13 @@
       "url": "https://dev.to/gde/genkit-middleware-intercept-extend-and-harden-your-gen-ai-pipelines-4k03"
     },
     {
-      "title": "Giving AI agents knowledge they were never trained on",
-      "hot": "❤️ 2 💬 2",
-      "desc": "I love coding my own stuff, and my clients typically have lots of internal specifications and...",
+      "title": "I decided to build a Kubernetes alternative. Yes, I know I'm crazy",
+      "hot": "❤️ 28 💬 13",
+      "desc": "Using Kubernetes is a love-hate relationship.  Love, because before it, deploying to production was...",
       "source": "dev",
-      "tag": "mcp,  ai",
-      "url": "https://dev.to/jgauffin/giving-ai-agents-knowledge-they-were-never-trained-on-5fd7"
-    },
-    {
-      "title": "vLLM Gemma4 26B Tuning on v6e-4",
-      "hot": "❤️ 9 💬 0",
-      "desc": "✦ The successful benchmark run on TPU v6e-4 used the following \"Balanced Production\" flags. These...",
-      "source": "dev",
-      "tag": "gemmachallenge,  gemma",
-      "url": "https://dev.to/gde/vllm-gemma4-26b-tuning-on-v6e-4-79o"
-    },
-    {
-      "title": "Deploying a Rust MCP Server to Amazon Lambda with Gemini CLI",
-      "hot": "❤️ 5 💬 0",
-      "desc": "The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...",
-      "source": "dev",
-      "tag": "rust,  agents",
-      "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-lambda-with-gemini-cli-41hd"
-    },
-    {
-      "title": "How AI is changing my job as a Staff Engineer: Tracer bullets",
-      "hot": "❤️ 1 💬 1",
-      "desc": "AI is rapidly changing software engineering, and with any kind of technological evolution, we need to...",
-      "source": "dev",
-      "tag": "ai,  productivity",
-      "url": "https://dev.to/vinibrsl/how-ai-is-changing-my-job-as-a-staff-engineer-tracer-bullets-4nck"
+      "tag": "opensource,  kubernetes",
+      "url": "https://dev.to/denerfernandes/i-decided-to-build-a-kubernetes-alternative-yes-i-know-im-crazy-21b5"
     }
   ],
-  "updatedAt": "2026-05-21T14:58:54.425Z"
+  "updatedAt": "2026-05-21T17:29:49.714Z"
 }
