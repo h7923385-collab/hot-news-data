@@ -1,330 +1,6 @@
 {
-  "updatedAt": "2026-05-23T11:50:51.682Z",
+  "updatedAt": "2026-05-23T12:50:58.381Z",
   "source": "live",
-  "dev": [
-    {
-      "title": "What was your win this week!?",
-      "hot": "❤️ 35 💬 33",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "discuss,  weeklyretro",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-2ohc"
-    },
-    {
-      "title": "Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!",
-      "hot": "❤️ 167 💬 44",
-      "desc": "We're thrilled to announce our newest challenge with GitHub!  Running through June 7, the GitHub...",
-      "source": "dev",
-      "tag": "githubchallenge,  devchallenge",
-      "url": "https://dev.to/devteam/join-the-github-finish-up-a-thon-challenge-3000-prize-pool-f41"
-    },
-    {
-      "title": "How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV",
-      "hot": "❤️ 58 💬 15",
-      "desc": "Big improvements incoming 👋  Finding the right balance for a feed algorithm is historically really...",
-      "source": "dev",
-      "tag": "gemini,  ai",
-      "url": "https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f"
-    },
-    {
-      "title": "Google Antigravity 1.0 to 2.0/IDE Quick Migration Guide",
-      "hot": "❤️ 16 💬 1",
-      "desc": "Like many Google Antigravity users, I was very excited about the Antigravity 2.0 announcement at...",
-      "source": "dev",
-      "tag": "ai,  webdev",
-      "url": "https://dev.to/gde/google-antigravity-10-to-20ide-quick-migration-guide-35p5"
-    },
-    {
-      "title": "I built a version manager for llama.cpp using nothing but vibe coding.",
-      "hot": "❤️ 9 💬 0",
-      "desc": "Hey everyone,  I wanted to share a little side project I cooked up over the last week. So, long story...",
-      "source": "dev",
-      "tag": "ai,  llm",
-      "url": "https://dev.to/osirissgfx/i-built-a-version-manager-for-llamacpp-using-nothing-but-vibe-coding-475e"
-    },
-    {
-      "title": "AI Agent Failure Modes Beyond Hallucination",
-      "hot": "❤️ 17 💬 8",
-      "desc": "AI can make mistakes, models hallucinate, models make stuff up - those are well-known complaints. Yet...",
-      "source": "dev",
-      "tag": "ai,  agents",
-      "url": "https://dev.to/maximsaplin/ai-agent-failure-modes-beyond-hallucination-208g"
-    },
-    {
-      "title": "Mocking Server Side HTTP in Playwright with mockttp",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Mock outgoing HTTP from your server in Playwright tests by running a per-worker mockttp forward proxy.",
-      "source": "dev",
-      "tag": "playwright,  testing",
-      "url": "https://dev.to/playwright/mocking-server-side-http-in-playwright-with-mockttp-58jo"
-    },
-    {
-      "title": "The subtle impact of AI (& IT) on jobs",
-      "hot": "❤️ 15 💬 1",
-      "desc": "If you are very fortunate you might find a career that excites you. That has certainly been the case...",
-      "source": "dev",
-      "tag": "ai",
-      "url": "https://dev.to/tracygjg/the-subtle-impact-of-ai-it-on-jobs-i55"
-    },
-    {
-      "title": "The Most Concerning AI Risk of 2026",
-      "hot": "❤️ 44 💬 1",
-      "desc": "7000+ dev developers shared their thoughts about AI in the recent State of Web Dev AI survey. ",
-      "source": "dev",
-      "tag": "ai,  javascript",
-      "url": "https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d"
-    },
-    {
-      "title": "Validating Gemma 4 for Industrial IoT: A Governance Pattern",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4           What I Built           ...",
-      "source": "dev",
-      "tag": "devchallenge,  gemmachallenge",
-      "url": "https://dev.to/gohchunlin/validating-gemma-4-for-industrial-iot-a-governance-pattern-3d6k"
-    },
-    {
-      "title": "Configuration as Code: The Missing GitOps Layer in Multi-Tenant SaaS",
-      "hot": "❤️ 0 💬 1",
-      "desc": "About storing application configs in code rather than database",
-      "source": "dev",
-      "tag": "configs,  mindset",
-      "url": "https://dev.to/sbimochan/configuration-as-code-the-missing-gitops-layer-in-multi-tenant-saas-1kph"
-    },
-    {
-      "title": "Building Real-Time Apps in Node.js with Rivalis: WebSockets, Rooms, Actors, and a Binary Wire",
-      "hot": "❤️ 0 💬 0",
-      "desc": "If you have ever tried to build a multiplayer game, a collaborative editor, or a chat server in...",
-      "source": "dev",
-      "tag": "websocket,  multiplayer",
-      "url": "https://dev.to/kalevski/building-real-time-apps-in-nodejs-with-rivalis-websockets-rooms-actors-and-a-binary-wire-ii9"
-    },
-    {
-      "title": "From Years to Hours",
-      "hot": "❤️ 41 💬 5",
-      "desc": "It's not a brag for me to say \"I've been visualizing infrastructure since 2018\" - it's the actual...",
-      "source": "dev",
-      "tag": "ai,  stripe",
-      "url": "https://dev.to/annaspies/from-years-to-hours-joe"
-    },
-    {
-      "title": "Hosting a Docker runner for processing GitLab CI/CD pipelines",
-      "hot": "❤️ 9 💬 0",
-      "desc": "GitLab allows you to host your own runners to process CI/CD jobs. You can either configure your own...",
-      "source": "dev",
-      "tag": "gitlab,  cicd",
-      "url": "https://dev.to/urmajesty516/hosting-a-docker-runner-for-processing-gitlab-cicd-pipelines-58bk"
-    },
-    {
-      "title": "Dual Parameter Thermal FEA Design Optimization with FEATool Multiphysics",
-      "hot": "❤️ 18 💬 0",
-      "desc": "The following post shows how to define and solve a two parameter thermal FEA design and optimization...",
-      "source": "dev",
-      "tag": "fea,  heattransfer",
-      "url": "https://dev.to/precise-simulation/dual-parameter-thermal-fea-design-optimization-with-featool-multiphysics-m67"
-    },
-    {
-      "title": "The $1000 Operating System: Rearchitecting the Dev Team Inside Antigravity 2.0",
-      "hot": "❤️ 37 💬 1",
-      "desc": "This is a submission for the Google I/O Writing Challenge  Earlier this week, a software system built...",
-      "source": "dev",
-      "tag": "devchallenge,  googleiochallenge",
-      "url": "https://dev.to/gde/the-1000-operating-system-rearchitecting-the-dev-team-inside-antigravity-20-1j14"
-    },
-    {
-      "title": "From Code to Cloud: 3 Labs for Deploying Your AI Agent",
-      "hot": "❤️ 40 💬 1",
-      "desc": "You've built a powerful AI agent. It works on your local machine, it's intelligent, and it's ready to...",
-      "source": "dev",
-      "tag": "agents,  cloud",
-      "url": "https://dev.to/googleai/from-code-to-cloud-3-labs-for-deploying-your-ai-agent-4dcn"
-    },
-    {
-      "title": "Local MCP Development with Python and Antigravity CLI",
-      "hot": "❤️ 5 💬 0",
-      "desc": "This article re-visits and updates an existing deployment originally built with Gemini CLI and...",
-      "source": "dev",
-      "tag": "mcpserver,  python",
-      "url": "https://dev.to/gde/local-mcp-development-with-python-and-antigravity-cli-3ojg"
-    },
-    {
-      "title": "Google I/O 2026: From Consumer to Builder",
-      "hot": "❤️ 31 💬 2",
-      "desc": "I often tune in to Google I/O. But this year felt different.  In the past, I watched as a consumer. I...",
-      "source": "dev",
-      "tag": "ai,  buildinpublic",
-      "url": "https://dev.to/michellebuchiokonicha/google-io-2026-from-consumer-to-builder-dom"
-    },
-    {
-      "title": "Google I/O 2026 - Day 1 - Live from the Front Row",
-      "hot": "❤️ 30 💬 4",
-      "desc": "This is a submission for the Google I/O Writing Challenge  I had barely caught up from my email...",
-      "source": "dev",
-      "tag": "devchallenge,  googleiochallenge",
-      "url": "https://dev.to/gde/google-io-2026-day-1-live-from-the-front-row-52ji"
-    }
-  ],
-  "tech": [
-    {
-      "title": "Shipping a laptop to a refugee camp in Uganda",
-      "hot": "3.0m",
-      "desc": "notesbylex.com",
-      "source": "tech",
-      "tag": "⬆️ 512 points",
-      "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda"
-    },
-    {
-      "title": "Rubish: A Unix shell written in pure Ruby",
-      "hot": "3.0m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 61 points",
-      "url": "https://github.com/amatsuda/rubish"
-    },
-    {
-      "title": "Why Japanese companies do so many different things",
-      "hot": "3.0m",
-      "desc": "davidoks.blog",
-      "source": "tech",
-      "tag": "⬆️ 709 points",
-      "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many"
-    },
-    {
-      "title": "BambuStudio has been violating PrusaSlicer AGPL license since their fork",
-      "hot": "3.0m",
-      "desc": "xcancel.com",
-      "source": "tech",
-      "tag": "⬆️ 119 points",
-      "url": "https://xcancel.com/josefprusa/status/2054602354851254330"
-    },
-    {
-      "title": "US tech firms share Dutch regulator officials' names with Senate",
-      "hot": "2.9m",
-      "desc": "dutchnews.nl",
-      "source": "tech",
-      "tag": "⬆️ 37 points",
-      "url": "https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/"
-    },
-    {
-      "title": "The quadratic sandwich",
-      "hot": "2.9m",
-      "desc": "fedemagnani.github.io",
-      "source": "tech",
-      "tag": "⬆️ 64 points",
-      "url": "https://fedemagnani.github.io/math/2026/04/08/the-quadratic-sandwich.html"
-    },
-    {
-      "title": "Microsoft starts canceling Claude Code licenses",
-      "hot": "2.9m",
-      "desc": "theverge.com",
-      "source": "tech",
-      "tag": "⬆️ 303 points",
-      "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad"
-    },
-    {
-      "title": "Project Glasswing: An Initial Update",
-      "hot": "2.9m",
-      "desc": "anthropic.com",
-      "source": "tech",
-      "tag": "⬆️ 448 points",
-      "url": "https://www.anthropic.com/research/glasswing-initial-update"
-    },
-    {
-      "title": "Yeunjoo Choi from Igalia on Chromium",
-      "hot": "2.9m",
-      "desc": "theconsensus.dev",
-      "source": "tech",
-      "tag": "⬆️ 25 points",
-      "url": "https://theconsensus.dev/p/2026/05/20/yeunjoo-choi-from-igalia-on-chromium.html"
-    },
-    {
-      "title": "Blood Pumping Mechanism of the Hoof (2020)",
-      "hot": "2.9m",
-      "desc": "horses.extension.org",
-      "source": "tech",
-      "tag": "⬆️ 98 points",
-      "url": "https://horses.extension.org/blood-pumping-mechanism-of-the-hoof/"
-    },
-    {
-      "title": "Sleep research led to a new sleep apnea drug",
-      "hot": "2.9m",
-      "desc": "temertymedicine.utoronto.ca",
-      "source": "tech",
-      "tag": "⬆️ 175 points",
-      "url": "https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug"
-    },
-    {
-      "title": "CISA tries to contain data leak",
-      "hot": "2.8m",
-      "desc": "krebsonsecurity.com",
-      "source": "tech",
-      "tag": "⬆️ 220 points",
-      "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/"
-    },
-    {
-      "title": "Fast Factorial Algorithms",
-      "hot": "2.8m",
-      "desc": "luschny.de",
-      "source": "tech",
-      "tag": "⬆️ 5 points",
-      "url": "http://www.luschny.de/math/factorial/FastFactorialFunctions.htm"
-    },
-    {
-      "title": "What is the history of the ERROR_ARENA_TRASHED error code?",
-      "hot": "2.8m",
-      "desc": "devblogs.microsoft.com",
-      "source": "tech",
-      "tag": "⬆️ 38 points",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260519-00/?p=112339"
-    },
-    {
-      "title": "Deno 2.8",
-      "hot": "2.8m",
-      "desc": "deno.com",
-      "source": "tech",
-      "tag": "⬆️ 373 points",
-      "url": "https://deno.com/blog/v2.8"
-    },
-    {
-      "title": "A Wayland Compositor in Minecraft",
-      "hot": "2.8m",
-      "desc": "modrinth.com",
-      "source": "tech",
-      "tag": "⬆️ 226 points",
-      "url": "https://modrinth.com/mod/waylandcraft"
-    },
-    {
-      "title": "Experience: We found a baby on the subway – now he's our 26-year-old son",
-      "hot": "2.8m",
-      "desc": "theguardian.com",
-      "source": "tech",
-      "tag": "⬆️ 112 points",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/may/22/experience-found-baby-subway-now-26-year-old-son"
-    },
-    {
-      "title": "Neutron scattering explains why gluten-free pasta falls apart (2025)",
-      "hot": "2.7m",
-      "desc": "phys.org",
-      "source": "tech",
-      "tag": "⬆️ 76 points",
-      "url": "https://phys.org/news/2025-09-science-spaghetti-neutron-gluten-free.html"
-    },
-    {
-      "title": "Improving C# Memory Safety",
-      "hot": "2.7m",
-      "desc": "devblogs.microsoft.com",
-      "source": "tech",
-      "tag": "⬆️ 10 points",
-      "url": "https://devblogs.microsoft.com/dotnet/improving-csharp-memory-safety/"
-    },
-    {
-      "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
-      "hot": "2.7m",
-      "desc": "modelrift.com",
-      "source": "tech",
-      "tag": "⬆️ 390 points",
-      "url": "https://modelrift.com/blog/openscad-llm-benchmark/"
-    }
-  ],
   "space": [
     {
       "title": "SpaceX Launches New Starship V3 For First Time",
@@ -447,10 +123,334 @@
       "url": "https://arstechnica.com/space/2026/05/to-achieve-major-goals-nasa-seeks-to-streamline-its-organization/"
     }
   ],
+  "tech": [
+    {
+      "title": "80386 Microcode Disassembled",
+      "hot": "3.0m",
+      "desc": "reenigne.org",
+      "source": "tech",
+      "tag": "⬆️ 33 points",
+      "url": "https://www.reenigne.org/blog/80386-microcode-disassembled/"
+    },
+    {
+      "title": "I Miss Terry Pratchett",
+      "hot": "3.0m",
+      "desc": "mahl.me",
+      "source": "tech",
+      "tag": "⬆️ 14 points",
+      "url": "https://www.mahl.me/blog/the-spell-that-wouldnt-leave/"
+    },
+    {
+      "title": "Making Deep Learning Go Brrrr from First Principles",
+      "hot": "3.0m",
+      "desc": "horace.io",
+      "source": "tech",
+      "tag": "⬆️ 17 points",
+      "url": "https://horace.io/brrr_intro.html"
+    },
+    {
+      "title": "US tech firms share Dutch regulator officials' names with Senate",
+      "hot": "3.0m",
+      "desc": "dutchnews.nl",
+      "source": "tech",
+      "tag": "⬆️ 85 points",
+      "url": "https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/"
+    },
+    {
+      "title": "Shipping a laptop to a refugee camp in Uganda",
+      "hot": "2.9m",
+      "desc": "notesbylex.com",
+      "source": "tech",
+      "tag": "⬆️ 540 points",
+      "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda"
+    },
+    {
+      "title": "Rubish: A Unix shell written in pure Ruby",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 74 points",
+      "url": "https://github.com/amatsuda/rubish"
+    },
+    {
+      "title": "Why Japanese companies do so many different things",
+      "hot": "2.9m",
+      "desc": "davidoks.blog",
+      "source": "tech",
+      "tag": "⬆️ 733 points",
+      "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many"
+    },
+    {
+      "title": "BambuStudio has been violating PrusaSlicer AGPL license since their fork",
+      "hot": "2.9m",
+      "desc": "xcancel.com",
+      "source": "tech",
+      "tag": "⬆️ 153 points",
+      "url": "https://xcancel.com/josefprusa/status/2054602354851254330"
+    },
+    {
+      "title": "The quadratic sandwich",
+      "hot": "2.9m",
+      "desc": "fedemagnani.github.io",
+      "source": "tech",
+      "tag": "⬆️ 74 points",
+      "url": "https://fedemagnani.github.io/math/2026/04/08/the-quadratic-sandwich.html"
+    },
+    {
+      "title": "Improving C# Memory Safety",
+      "hot": "2.9m",
+      "desc": "devblogs.microsoft.com",
+      "source": "tech",
+      "tag": "⬆️ 29 points",
+      "url": "https://devblogs.microsoft.com/dotnet/improving-csharp-memory-safety/"
+    },
+    {
+      "title": "Microsoft starts canceling Claude Code licenses",
+      "hot": "2.9m",
+      "desc": "theverge.com",
+      "source": "tech",
+      "tag": "⬆️ 327 points",
+      "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad"
+    },
+    {
+      "title": "DHS Quits Granting Green Cards–Almost",
+      "hot": "2.8m",
+      "desc": "cato.org",
+      "source": "tech",
+      "tag": "⬆️ 31 points",
+      "url": "https://www.cato.org/blog/dhs-quits-granting-green-cards-almost-entirely"
+    },
+    {
+      "title": "ArcBrush – Node-based 2D image editor",
+      "hot": "2.8m",
+      "desc": "arcbrush.com",
+      "source": "tech",
+      "tag": "⬆️ 28 points",
+      "url": "https://arcbrush.com/"
+    },
+    {
+      "title": "Yeunjoo Choi from Igalia on Chromium",
+      "hot": "2.8m",
+      "desc": "theconsensus.dev",
+      "source": "tech",
+      "tag": "⬆️ 37 points",
+      "url": "https://theconsensus.dev/p/2026/05/20/yeunjoo-choi-from-igalia-on-chromium.html"
+    },
+    {
+      "title": "Project Glasswing: An Initial Update",
+      "hot": "2.8m",
+      "desc": "anthropic.com",
+      "source": "tech",
+      "tag": "⬆️ 464 points",
+      "url": "https://www.anthropic.com/research/glasswing-initial-update"
+    },
+    {
+      "title": "Blood Pumping Mechanism of the Hoof (2020)",
+      "hot": "2.8m",
+      "desc": "horses.extension.org",
+      "source": "tech",
+      "tag": "⬆️ 99 points",
+      "url": "https://horses.extension.org/blood-pumping-mechanism-of-the-hoof/"
+    },
+    {
+      "title": "Sleep research led to a new sleep apnea drug",
+      "hot": "2.8m",
+      "desc": "temertymedicine.utoronto.ca",
+      "source": "tech",
+      "tag": "⬆️ 185 points",
+      "url": "https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug"
+    },
+    {
+      "title": "A 1955 Los Alamos computer experiment changed our understanding of chaos",
+      "hot": "2.7m",
+      "desc": "lanl.gov",
+      "source": "tech",
+      "tag": "⬆️ 5 points",
+      "url": "https://www.lanl.gov/media/publications/1663/science-of-unpredictability"
+    },
+    {
+      "title": "Fast Factorial Algorithms",
+      "hot": "2.7m",
+      "desc": "luschny.de",
+      "source": "tech",
+      "tag": "⬆️ 10 points",
+      "url": "http://www.luschny.de/math/factorial/FastFactorialFunctions.htm"
+    },
+    {
+      "title": "CISA tries to contain data leak",
+      "hot": "2.7m",
+      "desc": "krebsonsecurity.com",
+      "source": "tech",
+      "tag": "⬆️ 225 points",
+      "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/"
+    }
+  ],
+  "dev": [
+    {
+      "title": "What was your win this week!?",
+      "hot": "❤️ 38 💬 34",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "discuss,  weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-2ohc"
+    },
+    {
+      "title": "Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!",
+      "hot": "❤️ 169 💬 45",
+      "desc": "We're thrilled to announce our newest challenge with GitHub!  Running through June 7, the GitHub...",
+      "source": "dev",
+      "tag": "githubchallenge,  devchallenge",
+      "url": "https://dev.to/devteam/join-the-github-finish-up-a-thon-challenge-3000-prize-pool-f41"
+    },
+    {
+      "title": "How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV",
+      "hot": "❤️ 59 💬 15",
+      "desc": "Big improvements incoming 👋  Finding the right balance for a feed algorithm is historically really...",
+      "source": "dev",
+      "tag": "gemini,  ai",
+      "url": "https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f"
+    },
+    {
+      "title": "Google Antigravity 1.0 to 2.0/IDE Quick Migration Guide",
+      "hot": "❤️ 16 💬 1",
+      "desc": "Like many Google Antigravity users, I was very excited about the Antigravity 2.0 announcement at...",
+      "source": "dev",
+      "tag": "ai,  webdev",
+      "url": "https://dev.to/gde/google-antigravity-10-to-20ide-quick-migration-guide-35p5"
+    },
+    {
+      "title": "I built a version manager for llama.cpp using nothing but vibe coding.",
+      "hot": "❤️ 9 💬 0",
+      "desc": "Hey everyone,  I wanted to share a little side project I cooked up over the last week. So, long story...",
+      "source": "dev",
+      "tag": "ai,  llm",
+      "url": "https://dev.to/osirissgfx/i-built-a-version-manager-for-llamacpp-using-nothing-but-vibe-coding-475e"
+    },
+    {
+      "title": "AI Agent Failure Modes Beyond Hallucination",
+      "hot": "❤️ 17 💬 8",
+      "desc": "AI can make mistakes, models hallucinate, models make stuff up - those are well-known complaints. Yet...",
+      "source": "dev",
+      "tag": "ai,  agents",
+      "url": "https://dev.to/maximsaplin/ai-agent-failure-modes-beyond-hallucination-208g"
+    },
+    {
+      "title": "Mocking Server Side HTTP in Playwright with mockttp",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Mock outgoing HTTP from your server in Playwright tests by running a per-worker mockttp forward proxy.",
+      "source": "dev",
+      "tag": "playwright,  testing",
+      "url": "https://dev.to/playwright/mocking-server-side-http-in-playwright-with-mockttp-58jo"
+    },
+    {
+      "title": "The subtle impact of AI (& IT) on jobs",
+      "hot": "❤️ 15 💬 1",
+      "desc": "If you are very fortunate you might find a career that excites you. That has certainly been the case...",
+      "source": "dev",
+      "tag": "ai",
+      "url": "https://dev.to/tracygjg/the-subtle-impact-of-ai-it-on-jobs-i55"
+    },
+    {
+      "title": "The Most Concerning AI Risk of 2026",
+      "hot": "❤️ 44 💬 1",
+      "desc": "7000+ dev developers shared their thoughts about AI in the recent State of Web Dev AI survey. ",
+      "source": "dev",
+      "tag": "ai,  javascript",
+      "url": "https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d"
+    },
+    {
+      "title": "Validating Gemma 4 for Industrial IoT: A Governance Pattern",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4           What I Built           ...",
+      "source": "dev",
+      "tag": "devchallenge,  gemmachallenge",
+      "url": "https://dev.to/gohchunlin/validating-gemma-4-for-industrial-iot-a-governance-pattern-3d6k"
+    },
+    {
+      "title": "Configuration as Code: The Missing GitOps Layer in Multi-Tenant SaaS",
+      "hot": "❤️ 0 💬 1",
+      "desc": "About storing application configs in code rather than database",
+      "source": "dev",
+      "tag": "configs,  mindset",
+      "url": "https://dev.to/sbimochan/configuration-as-code-the-missing-gitops-layer-in-multi-tenant-saas-1kph"
+    },
+    {
+      "title": "Building Real-Time Apps in Node.js with Rivalis: WebSockets, Rooms, Actors, and a Binary Wire",
+      "hot": "❤️ 0 💬 0",
+      "desc": "If you have ever tried to build a multiplayer game, a collaborative editor, or a chat server in...",
+      "source": "dev",
+      "tag": "websocket,  multiplayer",
+      "url": "https://dev.to/kalevski/building-real-time-apps-in-nodejs-with-rivalis-websockets-rooms-actors-and-a-binary-wire-ii9"
+    },
+    {
+      "title": "Hosting a Docker runner for processing GitLab CI/CD pipelines",
+      "hot": "❤️ 9 💬 0",
+      "desc": "GitLab allows you to host your own runners to process CI/CD jobs. You can either configure your own...",
+      "source": "dev",
+      "tag": "gitlab,  cicd",
+      "url": "https://dev.to/urmajesty516/hosting-a-docker-runner-for-processing-gitlab-cicd-pipelines-58bk"
+    },
+    {
+      "title": "Dual Parameter Thermal FEA Design Optimization with FEATool Multiphysics",
+      "hot": "❤️ 18 💬 0",
+      "desc": "The following post shows how to define and solve a two parameter thermal FEA design and optimization...",
+      "source": "dev",
+      "tag": "fea,  heattransfer",
+      "url": "https://dev.to/precise-simulation/dual-parameter-thermal-fea-design-optimization-with-featool-multiphysics-m67"
+    },
+    {
+      "title": "The $1000 Operating System: Rearchitecting the Dev Team Inside Antigravity 2.0",
+      "hot": "❤️ 37 💬 1",
+      "desc": "This is a submission for the Google I/O Writing Challenge  Earlier this week, a software system built...",
+      "source": "dev",
+      "tag": "devchallenge,  googleiochallenge",
+      "url": "https://dev.to/gde/the-1000-operating-system-rearchitecting-the-dev-team-inside-antigravity-20-1j14"
+    },
+    {
+      "title": "Local MCP Development with Python and Antigravity CLI",
+      "hot": "❤️ 5 💬 0",
+      "desc": "This article re-visits and updates an existing deployment originally built with Gemini CLI and...",
+      "source": "dev",
+      "tag": "mcpserver,  python",
+      "url": "https://dev.to/gde/local-mcp-development-with-python-and-antigravity-cli-3ojg"
+    },
+    {
+      "title": "Google I/O 2026: From Consumer to Builder",
+      "hot": "❤️ 31 💬 2",
+      "desc": "I often tune in to Google I/O. But this year felt different.  In the past, I watched as a consumer. I...",
+      "source": "dev",
+      "tag": "ai,  buildinpublic",
+      "url": "https://dev.to/michellebuchiokonicha/google-io-2026-from-consumer-to-builder-dom"
+    },
+    {
+      "title": "Google I/O 2026 - Day 1 - Live from the Front Row",
+      "hot": "❤️ 30 💬 4",
+      "desc": "This is a submission for the Google I/O Writing Challenge  I had barely caught up from my email...",
+      "source": "dev",
+      "tag": "devchallenge,  googleiochallenge",
+      "url": "https://dev.to/gde/google-io-2026-day-1-live-from-the-front-row-52ji"
+    },
+    {
+      "title": "Accessibility - This looks like a job for a developer advocate!",
+      "hot": "❤️ 43 💬 1",
+      "desc": "At the beginning of last year, I started a new role as an accessibility-focused frontend engineer....",
+      "source": "dev",
+      "tag": "a11y,  devrel",
+      "url": "https://dev.to/andyhaskell/accessibility-this-looks-like-a-job-for-a-developer-advocate-2a12"
+    },
+    {
+      "title": "jnigen and swiftgen in 2026 - some lessons learned",
+      "hot": "❤️ 43 💬 1",
+      "desc": "Package jni 1.0.0 was recently published. It's a good opportunity to share some of my lessons from...",
+      "source": "dev",
+      "tag": "flutter,  dart",
+      "url": "https://dev.to/orestesgaolin/jnigen-and-swiftgen-in-2026-some-lessons-learned-16ni"
+    }
+  ],
   "github": [
     {
       "title": "FoundZiGu/GuJumpgate: ",
-      "hot": "⭐ 1.9k",
+      "hot": "⭐ 2.0k",
       "desc": "FoundZiGu/GuJumpgate",
       "source": "github",
       "tag": "JavaScript",
@@ -458,7 +458,7 @@
     },
     {
       "title": "thananon/9arm-skills: ",
-      "hot": "⭐ 1.7k",
+      "hot": "⭐ 1.8k",
       "desc": "thananon/9arm-skills",
       "source": "github",
       "tag": "Shell",
@@ -482,31 +482,31 @@
     },
     {
       "title": "sapientinc/HRM-Text: HRM-Text is a 1B text generation model based on the HRM arc",
-      "hot": "⭐ 661",
+      "hot": "⭐ 662",
       "desc": "HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and latent space reasoning.",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/sapientinc/HRM-Text"
     },
     {
-      "title": "kageroumado/phosphene: A video wallpaper engine for macOS Tahoe",
-      "hot": "⭐ 610",
-      "desc": "A video wallpaper engine for macOS Tahoe",
-      "source": "github",
-      "tag": "Swift",
-      "url": "https://github.com/kageroumado/phosphene"
-    },
-    {
       "title": "perplexityai/bumblebee: Read-only developer endpoint scanner for on-disk package",
-      "hot": "⭐ 601",
+      "hot": "⭐ 650",
       "desc": "Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-cha",
       "source": "github",
       "tag": "Go",
       "url": "https://github.com/perplexityai/bumblebee"
     },
     {
+      "title": "kageroumado/phosphene: A video wallpaper engine for macOS Tahoe",
+      "hot": "⭐ 613",
+      "desc": "A video wallpaper engine for macOS Tahoe",
+      "source": "github",
+      "tag": "Swift",
+      "url": "https://github.com/kageroumado/phosphene"
+    },
+    {
       "title": "lynote-ai/humanize-text: Free open-source AI text humanizer to convert AI-genera",
-      "hot": "⭐ 502",
+      "hot": "⭐ 510",
       "desc": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI d",
       "source": "github",
       "tag": "Python",
@@ -514,7 +514,7 @@
     },
     {
       "title": "WUBING2023/PaperSpine: PaperSpine is a motivation-driven Codex skill for learnin",
-      "hot": "⭐ 482",
+      "hot": "⭐ 486",
       "desc": "PaperSpine is a motivation-driven Codex skill for learning from strong academic papers, building a paper’s central argument, and rewriting manuscripts",
       "source": "github",
       "tag": "Python",
@@ -522,7 +522,7 @@
     },
     {
       "title": "LiuMengxuan04/shushu-internship-tool: 把岗位描述变项目，把项目变简历，把简历变面试。",
-      "hot": "⭐ 457",
+      "hot": "⭐ 458",
       "desc": "把岗位描述变项目，把项目变简历，把简历变面试。",
       "source": "github",
       "tag": "Python",
@@ -546,7 +546,7 @@
     },
     {
       "title": "evilsocket/audit: An 8-stage vulnerability-discovery agent.",
-      "hot": "⭐ 440",
+      "hot": "⭐ 441",
       "desc": "An 8-stage vulnerability-discovery agent.",
       "source": "github",
       "tag": "Python",
@@ -554,7 +554,7 @@
     },
     {
       "title": "basketikun/infinite-canvas: 面向AI创作的开源无限画布工作台，集成 AI 生图、参考图编辑��画布编排、对话助手、提示词库和素材管理",
-      "hot": "⭐ 437",
+      "hot": "⭐ 438",
       "desc": "面向AI创作的开源无限画布工作台，集成 AI 生图、参考图编辑��画布编排、对话助手、提示词库和素材管理等功能。",
       "source": "github",
       "tag": "TypeScript",
@@ -562,7 +562,7 @@
     },
     {
       "title": "AbhishekK130804/Claude-Mythos-AI-Anthropic-App: Claude pro free Mythos design Op",
-      "hot": "⭐ 434",
+      "hot": "⭐ 433",
       "desc": "Claude pro free Mythos design Opus Cowork  Sonnet AI Anthropic App: download free PC android apk iOS, Anthropic Claude API key setup, Claude roleplay ",
       "source": "github",
       "tag": "C#",
