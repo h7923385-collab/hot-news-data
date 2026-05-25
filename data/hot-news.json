@@ -1,328 +1,166 @@
 {
-  "updatedAt": "2026-05-25T13:53:20.044Z",
+  "updatedAt": "2026-05-25T16:13:07.472Z",
   "source": "live",
-  "dev": [
-    {
-      "title": "Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!",
-      "hot": "❤️ 223 💬 54",
-      "desc": "We're thrilled to announce our newest challenge with GitHub!  Running through June 7, the GitHub...",
-      "source": "dev",
-      "tag": "githubchallenge,  devchallenge",
-      "url": "https://dev.to/devteam/join-the-github-finish-up-a-thon-challenge-3000-prize-pool-f41"
-    },
-    {
-      "title": "Meme Monday",
-      "hot": "❤️ 3 💬 5",
-      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
-      "source": "dev",
-      "tag": "jokes,  discuss",
-      "url": "https://dev.to/ben/meme-monday-194f"
-    },
-    {
-      "title": "What was your win this week!?",
-      "hot": "❤️ 68 💬 79",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "discuss,  weeklyretro",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-2ohc"
-    },
-    {
-      "title": "Mocking Server Side HTTP in Playwright with mockttp",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Mock outgoing HTTP from your server in Playwright tests by running a per-worker mockttp forward proxy.",
-      "source": "dev",
-      "tag": "playwright,  testing",
-      "url": "https://dev.to/playwright/mocking-server-side-http-in-playwright-with-mockttp-58jo"
-    },
-    {
-      "title": "The subtle impact of AI (& IT) on jobs",
-      "hot": "❤️ 15 💬 2",
-      "desc": "If you are very fortunate you might find a career that excites you. That has certainly been the case...",
-      "source": "dev",
-      "tag": "ai",
-      "url": "https://dev.to/tracygjg/the-subtle-impact-of-ai-it-on-jobs-i55"
-    },
-    {
-      "title": "How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV",
-      "hot": "❤️ 76 💬 21",
-      "desc": "Big improvements incoming 👋  Finding the right balance for a feed algorithm is historically really...",
-      "source": "dev",
-      "tag": "gemini,  ai",
-      "url": "https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f"
-    },
-    {
-      "title": "Validating Gemma 4 for Industrial IoT: A Governance Pattern",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4           What I Built           ...",
-      "source": "dev",
-      "tag": "devchallenge,  gemmachallenge",
-      "url": "https://dev.to/gohchunlin/validating-gemma-4-for-industrial-iot-a-governance-pattern-3d6k"
-    },
-    {
-      "title": "Building Real-Time Apps in Node.js with Rivalis: WebSockets, Rooms, Actors, and a Binary Wire",
-      "hot": "❤️ 0 💬 0",
-      "desc": "If you have ever tried to build a multiplayer game, a collaborative editor, or a chat server in...",
-      "source": "dev",
-      "tag": "websocket,  multiplayer",
-      "url": "https://dev.to/kalevski/building-real-time-apps-in-nodejs-with-rivalis-websockets-rooms-actors-and-a-binary-wire-ii9"
-    },
-    {
-      "title": "Hosting a Docker runner for processing GitLab CI/CD pipelines",
-      "hot": "❤️ 9 💬 0",
-      "desc": "GitLab allows you to host your own runners to process CI/CD jobs. You can either configure your own...",
-      "source": "dev",
-      "tag": "gitlab,  cicd",
-      "url": "https://dev.to/urmajesty516/hosting-a-docker-runner-for-processing-gitlab-cicd-pipelines-58bk"
-    },
-    {
-      "title": "Dual Parameter Thermal FEA Design Optimization with FEATool Multiphysics",
-      "hot": "❤️ 18 💬 0",
-      "desc": "The following post shows how to define and solve a two parameter thermal FEA design and optimization...",
-      "source": "dev",
-      "tag": "fea,  heattransfer",
-      "url": "https://dev.to/precise-simulation/dual-parameter-thermal-fea-design-optimization-with-featool-multiphysics-m67"
-    },
-    {
-      "title": "Google I/O 2026: From Consumer to Builder",
-      "hot": "❤️ 31 💬 2",
-      "desc": "I often tune in to Google I/O. But this year felt different.  In the past, I watched as a consumer. I...",
-      "source": "dev",
-      "tag": "ai,  buildinpublic",
-      "url": "https://dev.to/michellebuchiokonicha/google-io-2026-from-consumer-to-builder-dom"
-    },
-    {
-      "title": "jnigen and swiftgen in 2026 - some lessons learned",
-      "hot": "❤️ 43 💬 1",
-      "desc": "Package jni 1.0.0 was recently published. It's a good opportunity to share some of my lessons from...",
-      "source": "dev",
-      "tag": "flutter,  dart",
-      "url": "https://dev.to/orestesgaolin/jnigen-and-swiftgen-in-2026-some-lessons-learned-16ni"
-    },
-    {
-      "title": "The Most Concerning AI Risk of 2026",
-      "hot": "❤️ 57 💬 18",
-      "desc": "7000+ dev developers shared their thoughts about AI in the recent State of Web Dev AI survey. ",
-      "source": "dev",
-      "tag": "ai,  javascript",
-      "url": "https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d"
-    },
-    {
-      "title": "GizmoGuard - Spy Bot (Powered by Gemma4)",
-      "hot": "❤️ 25 💬 0",
-      "desc": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4           Table of...",
-      "source": "dev",
-      "tag": "devchallenge,  gemmachallenge",
-      "url": "https://dev.to/sasiperi/gizmo-guard-safeguard-bot-powered-by-gemma4-200"
-    },
-    {
-      "title": "Giving AI agents knowledge they were never trained on",
-      "hot": "❤️ 2 💬 2",
-      "desc": "I love coding my own stuff, and my clients typically have lots of internal specifications and...",
-      "source": "dev",
-      "tag": "mcp,  ai",
-      "url": "https://dev.to/jgauffin/giving-ai-agents-knowledge-they-were-never-trained-on-5fd7"
-    },
-    {
-      "title": "vLLM Gemma4 26B Tuning on v6e-4",
-      "hot": "❤️ 9 💬 0",
-      "desc": "✦ The successful benchmark run on TPU v6e-4 used the following \"Balanced Production\" flags. These...",
-      "source": "dev",
-      "tag": "gemmachallenge,  gemma",
-      "url": "https://dev.to/gde/vllm-gemma4-26b-tuning-on-v6e-4-79o"
-    },
-    {
-      "title": "Deploying a Rust MCP Server to Amazon Lambda with Gemini CLI",
-      "hot": "❤️ 5 💬 0",
-      "desc": "The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...",
-      "source": "dev",
-      "tag": "rust,  agents",
-      "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-lambda-with-gemini-cli-41hd"
-    },
-    {
-      "title": "How AI is changing my job as a Staff Engineer: Tracer bullets",
-      "hot": "❤️ 1 💬 1",
-      "desc": "AI is rapidly changing software engineering, and with any kind of technological evolution, we need to...",
-      "source": "dev",
-      "tag": "ai,  productivity",
-      "url": "https://dev.to/vinibrsl/how-ai-is-changing-my-job-as-a-staff-engineer-tracer-bullets-4nck"
-    },
-    {
-      "title": "Google Cloud x NVIDIA Meet Up - 5/20/26 @ 5:30pm, Mountain View, CA",
-      "hot": "❤️ 16 💬 2",
-      "desc": "​​Register: https://luma.com/GoogleNVIDIA  Join Google Cloud and NVIDIA in Mountain View, CA for an...",
-      "source": "dev",
-      "tag": "cloud,  eventsinyourcity",
-      "url": "https://dev.to/googleai/google-cloud-x-nvidia-meet-up-52026-530pm-mountain-view-ca-9ea"
-    },
-    {
-      "title": "From Years to Hours",
-      "hot": "❤️ 47 💬 8",
-      "desc": "It's not a brag for me to say \"I've been visualizing infrastructure since 2018\" - it's the actual...",
-      "source": "dev",
-      "tag": "ai,  stripe",
-      "url": "https://dev.to/annaspies/from-years-to-hours-joe"
-    }
-  ],
   "tech": [
-    {
-      "title": "Search engines alternatives now that Google isn't Google anymore",
-      "hot": "3.0m",
-      "desc": "techcrunch.com",
-      "source": "tech",
-      "tag": "⬆️ 171 points",
-      "url": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/"
-    },
     {
       "title": "Magnifica Humanitas (Encyclical Letter)",
       "hot": "3.0m",
       "desc": "vatican.va",
       "source": "tech",
-      "tag": "⬆️ 311 points",
+      "tag": "⬆️ 532 points",
       "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html"
     },
     {
-      "title": "Leave Me Behind",
+      "title": "C extensions, portability, and alternative compilers",
       "hot": "3.0m",
+      "desc": "lemon.rip",
+      "source": "tech",
+      "tag": "⬆️ 45 points",
+      "url": "https://lemon.rip/w/6-c-extensions-compilers/"
+    },
+    {
+      "title": "Pope Leo XIV says AI must serve humanity, not the powerful few",
+      "hot": "3.0m",
+      "desc": "religionnews.com",
+      "source": "tech",
+      "tag": "⬆️ 285 points",
+      "url": "https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/"
+    },
+    {
+      "title": "Launch HN: Chert (YC P26) – Twilio for iMessage",
+      "hot": "3.0m",
+      "desc": "trychert.com",
+      "source": "tech",
+      "tag": "⬆️ 11 points",
+      "url": "https://www.trychert.com"
+    },
+    {
+      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+      "hot": "2.9m",
+      "desc": "krebsonsecurity.com",
+      "source": "tech",
+      "tag": "⬆️ 109 points",
+      "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/"
+    },
+    {
+      "title": "2026 HIPAA Security Rule Update",
+      "hot": "2.9m",
+      "desc": "medcurity.com",
+      "source": "tech",
+      "tag": "⬆️ 49 points",
+      "url": "https://medcurity.com/hipaa-security-rule-2026-update/"
+    },
+    {
+      "title": "Leave Me Behind",
+      "hot": "2.9m",
       "desc": "androidessence.com",
       "source": "tech",
-      "tag": "⬆️ 85 points",
+      "tag": "⬆️ 210 points",
       "url": "http://androidessence.com/leave-me-behind/"
     },
     {
       "title": "IBM Spins Off the First Pure-Play Quantum Chip Foundry",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "futurumgroup.com",
       "source": "tech",
-      "tag": "⬆️ 46 points",
+      "tag": "⬆️ 75 points",
       "url": "https://futurumgroup.com/insights/2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon/"
     },
     {
-      "title": "Pope Leo XIV says AI must serve humanity, not the powerful few",
+      "title": "Hive (YC S14) is hiring sr back-end developers (CA/US remote OK)",
       "hot": "2.9m",
-      "desc": "religionnews.com",
+      "desc": "jobs.ashbyhq.com",
       "source": "tech",
-      "tag": "⬆️ 28 points",
-      "url": "https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/"
+      "tag": "⬆️ 1 points",
+      "url": "https://jobs.ashbyhq.com/hive.co/538c47f9-d008-49b7-b0d4-583d9294a481"
+    },
+    {
+      "title": "Pope Leo: opaque AI run by few firms risks \"New Forms of Dehumanization\"",
+      "hot": "2.9m",
+      "desc": "variety.com",
+      "source": "tech",
+      "tag": "⬆️ 132 points",
+      "url": "https://variety.com/2026/biz/global/pope-leo-ai-encyclical-algorithms-threaten-dehumanisation-1236758186/"
+    },
+    {
+      "title": "Microsoft pulls plug on plans for 244-acre data center in Caledonia",
+      "hot": "2.9m",
+      "desc": "tmj4.com",
+      "source": "tech",
+      "tag": "⬆️ 59 points",
+      "url": "https://www.tmj4.com/news/racine-county/microsoft-pulls-plug-on-plans-for-244-acre-data-center-in-caledonia-after-community-pushback"
     },
     {
       "title": "Didgeridoo playing as alternative treatment for obstructive sleep apnoea (2006)",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "pmc.ncbi.nlm.nih.gov",
       "source": "tech",
-      "tag": "⬆️ 199 points",
+      "tag": "⬆️ 238 points",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/"
     },
     {
       "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "audiomass.co",
       "source": "tech",
-      "tag": "⬆️ 429 points",
+      "tag": "⬆️ 448 points",
       "url": "https://audiomass.co/?multitrack=1"
-    },
-    {
-      "title": "Show HN: Geomatic – a command-driven geometry studio enabled with autodiff",
-      "hot": "2.9m",
-      "desc": "tinyvolt.com",
-      "source": "tech",
-      "tag": "⬆️ 37 points",
-      "url": "https://www.tinyvolt.com/geomatic"
-    },
-    {
-      "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
-      "hot": "2.9m",
-      "desc": "esengine.github.io",
-      "source": "tech",
-      "tag": "⬆️ 614 points",
-      "url": "https://esengine.github.io/DeepSeek-Reasonix/"
-    },
-    {
-      "title": "AI errno(2) values",
-      "hot": "2.9m",
-      "desc": "netmeister.org",
-      "source": "tech",
-      "tag": "⬆️ 40 points",
-      "url": "https://www.netmeister.org/blog/ai-errno.html"
-    },
-    {
-      "title": "Migrating from Go to Rust",
-      "hot": "2.9m",
-      "desc": "corrode.dev",
-      "source": "tech",
-      "tag": "⬆️ 342 points",
-      "url": "https://corrode.dev/learn/migration-guides/go-to-rust/"
     },
     {
       "title": "The physicists who convinced Fermilab to send Brazil's emails",
       "hot": "2.8m",
       "desc": "buttondown.com",
       "source": "tech",
-      "tag": "⬆️ 8 points",
+      "tag": "⬆️ 25 points",
       "url": "https://buttondown.com/blog/brazil-fermilab-email"
     },
     {
-      "title": "Bytecode VMs in surprising places (2024)",
+      "title": "Gnutella: A Protocol Outliving the World That Created It",
       "hot": "2.8m",
+      "desc": "rickcarlino.com",
+      "source": "tech",
+      "tag": "⬆️ 54 points",
+      "url": "https://rickcarlino.com/notes/p2p/gnutella-explanation.html"
+    },
+    {
+      "title": "Show HN: Geomatic – a command-driven geometry studio enabled with autodiff",
+      "hot": "2.8m",
+      "desc": "tinyvolt.com",
+      "source": "tech",
+      "tag": "⬆️ 48 points",
+      "url": "https://www.tinyvolt.com/geomatic"
+    },
+    {
+      "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+      "hot": "2.8m",
+      "desc": "esengine.github.io",
+      "source": "tech",
+      "tag": "⬆️ 628 points",
+      "url": "https://esengine.github.io/DeepSeek-Reasonix/"
+    },
+    {
+      "title": "AI errno(2) values",
+      "hot": "2.7m",
+      "desc": "netmeister.org",
+      "source": "tech",
+      "tag": "⬆️ 71 points",
+      "url": "https://www.netmeister.org/blog/ai-errno.html"
+    },
+    {
+      "title": "Migrating from Go to Rust",
+      "hot": "2.7m",
+      "desc": "corrode.dev",
+      "source": "tech",
+      "tag": "⬆️ 383 points",
+      "url": "https://corrode.dev/learn/migration-guides/go-to-rust/"
+    },
+    {
+      "title": "Bytecode VMs in surprising places (2024)",
+      "hot": "2.7m",
       "desc": "dubroy.com",
       "source": "tech",
-      "tag": "⬆️ 64 points",
+      "tag": "⬆️ 89 points",
       "url": "https://dubroy.com/blog/bytecode-vms-in-surprising-places/"
-    },
-    {
-      "title": "you_can::turn_off_the_borrow_checker",
-      "hot": "2.8m",
-      "desc": "docs.rs",
-      "source": "tech",
-      "tag": "⬆️ 39 points",
-      "url": "https://docs.rs/you-can/latest/you_can/attr.turn_off_the_borrow_checker.html"
-    },
-    {
-      "title": "White Rabbit – sub-nanosecond synchronization for large distributed systems",
-      "hot": "2.8m",
-      "desc": "ohwr.org",
-      "source": "tech",
-      "tag": "⬆️ 138 points",
-      "url": "https://ohwr.org/projects/white-rabbit/"
-    },
-    {
-      "title": "Rising seas will swallow New Orleans. People need to start relocating now",
-      "hot": "2.8m",
-      "desc": "cnn.com",
-      "source": "tech",
-      "tag": "⬆️ 49 points",
-      "url": "https://www.cnn.com/2026/05/25/climate/new-orleans-sea-level-rise-relocation"
-    },
-    {
-      "title": "Notes about reading messages with the Python email packages",
-      "hot": "2.8m",
-      "desc": "utcc.utoronto.ca",
-      "source": "tech",
-      "tag": "⬆️ 33 points",
-      "url": "https://utcc.utoronto.ca/~cks/space/blog/python/EmailPackagesNotes"
-    },
-    {
-      "title": "Jira Is Turing-Complete",
-      "hot": "2.7m",
-      "desc": "seriot.ch",
-      "source": "tech",
-      "tag": "⬆️ 227 points",
-      "url": "https://seriot.ch/computation/jira.html"
-    },
-    {
-      "title": "I spent 50 hours drawing a line graph",
-      "hot": "2.7m",
-      "desc": "dougmacdowell.com",
-      "source": "tech",
-      "tag": "⬆️ 580 points",
-      "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html"
-    },
-    {
-      "title": "A fundamental principle of aeronautical engineering has been overturned",
-      "hot": "2.7m",
-      "desc": "wired.com",
-      "source": "tech",
-      "tag": "⬆️ 194 points",
-      "url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/"
     }
   ],
   "space": [
@@ -458,7 +296,7 @@
     },
     {
       "title": "perplexityai/bumblebee: Read-only developer endpoint scanner for on-disk package",
-      "hot": "⭐ 2.4k",
+      "hot": "⭐ 2.5k",
       "desc": "Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-cha",
       "source": "github",
       "tag": "Go",
@@ -481,24 +319,24 @@
       "url": "https://github.com/Doorman11991/smallcode"
     },
     {
-      "title": "lynote-ai/humanize-text: Free open-source AI text humanizer to convert AI-genera",
-      "hot": "⭐ 751",
-      "desc": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI d",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/lynote-ai/humanize-text"
-    },
-    {
       "title": "open-gsd/get-shit-done-redux: Getting Shit Done, the Aftermath",
-      "hot": "⭐ 733",
+      "hot": "⭐ 759",
       "desc": "Getting Shit Done, the Aftermath",
       "source": "github",
       "tag": "JavaScript",
       "url": "https://github.com/open-gsd/get-shit-done-redux"
     },
     {
+      "title": "lynote-ai/humanize-text: Free open-source AI text humanizer to convert AI-genera",
+      "hot": "⭐ 756",
+      "desc": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI d",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/lynote-ai/humanize-text"
+    },
+    {
       "title": "sapientinc/HRM-Text: HRM-Text is a 1B text generation model based on the HRM arc",
-      "hot": "⭐ 729",
+      "hot": "⭐ 732",
       "desc": "HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and latent space reasoning.",
       "source": "github",
       "tag": "Python",
@@ -514,7 +352,7 @@
     },
     {
       "title": "Tong89/smartNode: ",
-      "hot": "⭐ 606",
+      "hot": "⭐ 618",
       "desc": "Tong89/smartNode",
       "source": "github",
       "tag": "Python",
@@ -522,7 +360,7 @@
     },
     {
       "title": "0xSero/codex-shim: Local Responses-API shim that exposes Factory BYOK models (an",
-      "hot": "⭐ 543",
+      "hot": "⭐ 560",
       "desc": "Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop.",
       "source": "github",
       "tag": "Python",
@@ -530,31 +368,31 @@
     },
     {
       "title": "basketikun/infinite-canvas: 面向AI创作的开源无限画布工作台，集成 AI 生图、参考图编辑、画布编排、对话助手、提示词库和素材管理等",
-      "hot": "⭐ 503",
+      "hot": "⭐ 506",
       "desc": "面向AI创作的开源无限画布工作台，集成 AI 生图、参考图编辑、画布编排、对话助手、提示词库和素材管理等功能。",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/basketikun/infinite-canvas"
     },
     {
-      "title": "evilsocket/audit: An 8-stage vulnerability-discovery agent.",
-      "hot": "⭐ 476",
-      "desc": "An 8-stage vulnerability-discovery agent.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/evilsocket/audit"
-    },
-    {
       "title": "run-liyi/wechatpay: 微信账单分析工具 - 基于Electron的可视化账单分析应用",
-      "hot": "⭐ 473",
+      "hot": "⭐ 484",
       "desc": "微信账单分析工具 - 基于Electron的可视化账单分析应用",
       "source": "github",
       "tag": "JavaScript",
       "url": "https://github.com/run-liyi/wechatpay"
     },
     {
+      "title": "evilsocket/audit: An 8-stage vulnerability-discovery agent.",
+      "hot": "⭐ 478",
+      "desc": "An 8-stage vulnerability-discovery agent.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/evilsocket/audit"
+    },
+    {
       "title": "paradigmxyz/centaur: Multiplayer, self-hosted, secure agents.",
-      "hot": "⭐ 472",
+      "hot": "⭐ 473",
       "desc": "Multiplayer, self-hosted, secure agents.",
       "source": "github",
       "tag": "Python",
@@ -567,6 +405,168 @@
       "source": "github",
       "tag": "GitHub",
       "url": "https://github.com/Jawaz-Keyzor/FL-Studio-2026-Producer-Edition-Unlock"
+    }
+  ],
+  "dev": [
+    {
+      "title": "Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!",
+      "hot": "❤️ 227 💬 55",
+      "desc": "We're thrilled to announce our newest challenge with GitHub!  Running through June 7, the GitHub...",
+      "source": "dev",
+      "tag": "githubchallenge,  devchallenge",
+      "url": "https://dev.to/devteam/join-the-github-finish-up-a-thon-challenge-3000-prize-pool-f41"
+    },
+    {
+      "title": "What was your win this week!?",
+      "hot": "❤️ 75 💬 85",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "discuss,  weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-2ohc"
+    },
+    {
+      "title": "Meme Monday",
+      "hot": "❤️ 7 💬 9",
+      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
+      "source": "dev",
+      "tag": "jokes,  discuss",
+      "url": "https://dev.to/ben/meme-monday-194f"
+    },
+    {
+      "title": "Mocking Server Side HTTP in Playwright with mockttp",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Mock outgoing HTTP from your server in Playwright tests by running a per-worker mockttp forward proxy.",
+      "source": "dev",
+      "tag": "playwright,  testing",
+      "url": "https://dev.to/playwright/mocking-server-side-http-in-playwright-with-mockttp-58jo"
+    },
+    {
+      "title": "The subtle impact of AI (& IT) on jobs",
+      "hot": "❤️ 15 💬 2",
+      "desc": "If you are very fortunate you might find a career that excites you. That has certainly been the case...",
+      "source": "dev",
+      "tag": "ai",
+      "url": "https://dev.to/tracygjg/the-subtle-impact-of-ai-it-on-jobs-i55"
+    },
+    {
+      "title": "How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV",
+      "hot": "❤️ 78 💬 23",
+      "desc": "Big improvements incoming 👋  Finding the right balance for a feed algorithm is historically really...",
+      "source": "dev",
+      "tag": "gemini,  ai",
+      "url": "https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f"
+    },
+    {
+      "title": "Validating Gemma 4 for Industrial IoT: A Governance Pattern",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4           What I Built           ...",
+      "source": "dev",
+      "tag": "devchallenge,  gemmachallenge",
+      "url": "https://dev.to/gohchunlin/validating-gemma-4-for-industrial-iot-a-governance-pattern-3d6k"
+    },
+    {
+      "title": "Building Real-Time Apps in Node.js with Rivalis: WebSockets, Rooms, Actors, and a Binary Wire",
+      "hot": "❤️ 0 💬 0",
+      "desc": "If you have ever tried to build a multiplayer game, a collaborative editor, or a chat server in...",
+      "source": "dev",
+      "tag": "websocket,  multiplayer",
+      "url": "https://dev.to/kalevski/building-real-time-apps-in-nodejs-with-rivalis-websockets-rooms-actors-and-a-binary-wire-ii9"
+    },
+    {
+      "title": "Hosting a Docker runner for processing GitLab CI/CD pipelines",
+      "hot": "❤️ 9 💬 0",
+      "desc": "GitLab allows you to host your own runners to process CI/CD jobs. You can either configure your own...",
+      "source": "dev",
+      "tag": "gitlab,  cicd",
+      "url": "https://dev.to/urmajesty516/hosting-a-docker-runner-for-processing-gitlab-cicd-pipelines-58bk"
+    },
+    {
+      "title": "Dual Parameter Thermal FEA Design Optimization with FEATool Multiphysics",
+      "hot": "❤️ 18 💬 0",
+      "desc": "The following post shows how to define and solve a two parameter thermal FEA design and optimization...",
+      "source": "dev",
+      "tag": "fea,  heattransfer",
+      "url": "https://dev.to/precise-simulation/dual-parameter-thermal-fea-design-optimization-with-featool-multiphysics-m67"
+    },
+    {
+      "title": "Google I/O 2026: From Consumer to Builder",
+      "hot": "❤️ 31 💬 2",
+      "desc": "I often tune in to Google I/O. But this year felt different.  In the past, I watched as a consumer. I...",
+      "source": "dev",
+      "tag": "ai,  buildinpublic",
+      "url": "https://dev.to/michellebuchiokonicha/google-io-2026-from-consumer-to-builder-dom"
+    },
+    {
+      "title": "jnigen and swiftgen in 2026 - some lessons learned",
+      "hot": "❤️ 43 💬 1",
+      "desc": "Package jni 1.0.0 was recently published. It's a good opportunity to share some of my lessons from...",
+      "source": "dev",
+      "tag": "flutter,  dart",
+      "url": "https://dev.to/orestesgaolin/jnigen-and-swiftgen-in-2026-some-lessons-learned-16ni"
+    },
+    {
+      "title": "GizmoGuard - Spy Bot (Powered by Gemma4)",
+      "hot": "❤️ 25 💬 0",
+      "desc": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4           Table of...",
+      "source": "dev",
+      "tag": "devchallenge,  gemmachallenge",
+      "url": "https://dev.to/sasiperi/gizmo-guard-safeguard-bot-powered-by-gemma4-200"
+    },
+    {
+      "title": "The Most Concerning AI Risk of 2026",
+      "hot": "❤️ 60 💬 20",
+      "desc": "7000+ dev developers shared their thoughts about AI in the recent State of Web Dev AI survey. ",
+      "source": "dev",
+      "tag": "ai,  javascript",
+      "url": "https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d"
+    },
+    {
+      "title": "Giving AI agents knowledge they were never trained on",
+      "hot": "❤️ 2 💬 2",
+      "desc": "I love coding my own stuff, and my clients typically have lots of internal specifications and...",
+      "source": "dev",
+      "tag": "mcp,  ai",
+      "url": "https://dev.to/jgauffin/giving-ai-agents-knowledge-they-were-never-trained-on-5fd7"
+    },
+    {
+      "title": "vLLM Gemma4 26B Tuning on v6e-4",
+      "hot": "❤️ 9 💬 0",
+      "desc": "✦ The successful benchmark run on TPU v6e-4 used the following \"Balanced Production\" flags. These...",
+      "source": "dev",
+      "tag": "gemmachallenge,  gemma",
+      "url": "https://dev.to/gde/vllm-gemma4-26b-tuning-on-v6e-4-79o"
+    },
+    {
+      "title": "Deploying a Rust MCP Server to Amazon Lambda with Gemini CLI",
+      "hot": "❤️ 5 💬 0",
+      "desc": "The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...",
+      "source": "dev",
+      "tag": "rust,  agents",
+      "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-lambda-with-gemini-cli-41hd"
+    },
+    {
+      "title": "How AI is changing my job as a Staff Engineer: Tracer bullets",
+      "hot": "❤️ 1 💬 1",
+      "desc": "AI is rapidly changing software engineering, and with any kind of technological evolution, we need to...",
+      "source": "dev",
+      "tag": "ai,  productivity",
+      "url": "https://dev.to/vinibrsl/how-ai-is-changing-my-job-as-a-staff-engineer-tracer-bullets-4nck"
+    },
+    {
+      "title": "Google Cloud x NVIDIA Meet Up - 5/20/26 @ 5:30pm, Mountain View, CA",
+      "hot": "❤️ 16 💬 2",
+      "desc": "​​Register: https://luma.com/GoogleNVIDIA  Join Google Cloud and NVIDIA in Mountain View, CA for an...",
+      "source": "dev",
+      "tag": "cloud,  eventsinyourcity",
+      "url": "https://dev.to/googleai/google-cloud-x-nvidia-meet-up-52026-530pm-mountain-view-ca-9ea"
+    },
+    {
+      "title": "Deploying a Rust MCP Server to Amazon EKS",
+      "hot": "❤️ 8 💬 1",
+      "desc": "The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...",
+      "source": "dev",
+      "tag": "awseks,  aws",
+      "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-eks-183g"
     }
   ]
 }
