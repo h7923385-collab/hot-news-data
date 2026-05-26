@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "Why does AI forget what you said (and how to fix it)",
-      "hot": "❤️ 19 💬 9",
+      "hot": "❤️ 19 💬 11",
       "desc": "I received following comment on my hallucinations blog post.                       Comment on Why...",
       "source": "dev",
       "tag": "ai,  beginners",
@@ -10,19 +10,11 @@
     },
     {
       "title": "What was your win this week!?",
-      "hot": "❤️ 76 💬 89",
+      "hot": "❤️ 77 💬 91",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "discuss,  weeklyretro",
       "url": "https://dev.to/devteam/what-was-your-win-this-week-2ohc"
-    },
-    {
-      "title": "Mocking Server Side HTTP in Playwright with mockttp",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Mock outgoing HTTP from your server in Playwright tests by running a per-worker mockttp forward proxy.",
-      "source": "dev",
-      "tag": "playwright,  testing",
-      "url": "https://dev.to/playwright/mocking-server-side-http-in-playwright-with-mockttp-58jo"
     },
     {
       "title": "The subtle impact of AI (& IT) on jobs",
@@ -33,8 +25,16 @@
       "url": "https://dev.to/tracygjg/the-subtle-impact-of-ai-it-on-jobs-i55"
     },
     {
+      "title": "Mocking Server Side HTTP in Playwright with mockttp",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Mock outgoing HTTP from your server in Playwright tests by running a per-worker mockttp forward proxy.",
+      "source": "dev",
+      "tag": "playwright,  testing",
+      "url": "https://dev.to/playwright/mocking-server-side-http-in-playwright-with-mockttp-58jo"
+    },
+    {
       "title": "How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV",
-      "hot": "❤️ 78 💬 23",
+      "hot": "❤️ 79 💬 23",
       "desc": "Big improvements incoming 👋  Finding the right balance for a feed algorithm is historically really...",
       "source": "dev",
       "tag": "gemini,  ai",
@@ -42,7 +42,7 @@
     },
     {
       "title": "Meme Monday",
-      "hot": "❤️ 13 💬 11",
+      "hot": "❤️ 13 💬 12",
       "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
       "source": "dev",
       "tag": "jokes,  discuss",
@@ -82,7 +82,7 @@
     },
     {
       "title": "Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!",
-      "hot": "❤️ 235 💬 60",
+      "hot": "❤️ 239 💬 60",
       "desc": "We're thrilled to announce our newest challenge with GitHub!  Running through June 7, the GitHub...",
       "source": "dev",
       "tag": "githubchallenge,  devchallenge",
@@ -121,14 +121,6 @@
       "url": "https://dev.to/sasiperi/gizmo-guard-safeguard-bot-powered-by-gemma4-200"
     },
     {
-      "title": "Giving AI agents knowledge they were never trained on",
-      "hot": "❤️ 2 💬 2",
-      "desc": "I love coding my own stuff, and my clients typically have lots of internal specifications and...",
-      "source": "dev",
-      "tag": "mcp,  ai",
-      "url": "https://dev.to/jgauffin/giving-ai-agents-knowledge-they-were-never-trained-on-5fd7"
-    },
-    {
       "title": "vLLM Gemma4 26B Tuning on v6e-4",
       "hot": "❤️ 9 💬 0",
       "desc": "✦ The successful benchmark run on TPU v6e-4 used the following \"Balanced Production\" flags. These...",
@@ -159,7 +151,15 @@
       "source": "dev",
       "tag": "cloud,  eventsinyourcity",
       "url": "https://dev.to/googleai/google-cloud-x-nvidia-meet-up-52026-530pm-mountain-view-ca-9ea"
+    },
+    {
+      "title": "Deploying a Rust MCP Server to Amazon EKS",
+      "hot": "❤️ 8 💬 1",
+      "desc": "The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...",
+      "source": "dev",
+      "tag": "awseks,  aws",
+      "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-eks-183g"
     }
   ],
-  "updatedAt": "2026-05-26T01:49:45.452Z"
+  "updatedAt": "2026-05-26T05:55:10.841Z"
 }
