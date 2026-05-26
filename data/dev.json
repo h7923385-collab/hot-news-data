@@ -2,15 +2,23 @@
   "data": [
     {
       "title": "Why does AI forget what you said (and how to fix it)",
-      "hot": "❤️ 28 💬 26",
+      "hot": "❤️ 30 💬 29",
       "desc": "I received following comment on my hallucinations blog post.                       Comment on Why...",
       "source": "dev",
       "tag": "ai,  beginners",
       "url": "https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6"
     },
     {
+      "title": "Github Copilot helped us cut down 50-75% time in our e-commerce business",
+      "hot": "❤️ 1 💬 0",
+      "desc": "This is a submission for the GitHub Finish-Up-A-Thon Challenge           What I Built   A couple of...",
+      "source": "dev",
+      "tag": "devchallenge,  githubchallenge",
+      "url": "https://dev.to/heyitsmarcucu/github-copilot-helped-us-cut-down-50-75-time-in-our-e-commerce-business-10l5"
+    },
+    {
       "title": "Vibe Code All Google APIs: The Zero-Trust Autonomous Agent for Google Apps Script",
-      "hot": "❤️ 6 💬 0",
+      "hot": "❤️ 7 💬 0",
       "desc": "Abstract   Integrating autonomous AI agents into enterprise architectures exposes critical...",
       "source": "dev",
       "tag": "ai,  gemini",
@@ -25,12 +33,44 @@
       "url": "https://dev.to/tracygjg/the-subtle-impact-of-ai-it-on-jobs-i55"
     },
     {
+      "title": "In Defense of Manual Memory Management",
+      "hot": "❤️ 0 💬 0",
+      "desc": "Why Manual Memory Management Still Matters ?   It is now easier than ever to write software...",
+      "source": "dev",
+      "tag": "programming,  zig",
+      "url": "https://dev.to/dayvster/in-defense-of-manual-memory-management-3jpo"
+    },
+    {
+      "title": "The Quiet AI War Inside Your Browser",
+      "hot": "❤️ 0 💬 0",
+      "desc": "Google shipped the Prompt API in Chrome 148 on May 5, 2026. Mozilla objected. Apple's WebKit team...",
+      "source": "dev",
+      "tag": "ai,  frontend",
+      "url": "https://dev.to/obetomuniz/the-quiet-ai-war-inside-your-browser-22hd"
+    },
+    {
       "title": "How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV",
       "hot": "❤️ 80 💬 23",
       "desc": "Big improvements incoming 👋  Finding the right balance for a feed algorithm is historically really...",
       "source": "dev",
       "tag": "gemini,  ai",
       "url": "https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f"
+    },
+    {
+      "title": "A practitioner's guide to getting more value out of AI coding: agent quality & token optimization",
+      "hot": "❤️ 2 💬 0",
+      "desc": "A practitioner's guide to getting more value out of AI coding agents — drawn from a GitHub workshop on agent quality and",
+      "source": "dev",
+      "tag": "agents,  ai",
+      "url": "https://dev.to/webmaxru/a-practitioners-guide-to-getting-more-value-out-of-ai-coding-agent-quality-token-optimization-3n7j"
+    },
+    {
+      "title": "AI Agent Governance vs IAM vs DLP vs API Gateways: What Each One Actually Covers",
+      "hot": "❤️ 0 💬 0",
+      "desc": "IAM, DLP, and API gateways are necessary parts of an organization's security stack. None of them...",
+      "source": "dev",
+      "tag": "ai,  security",
+      "url": "https://dev.to/jwilliamsr/ai-agent-governance-vs-iam-vs-dlp-vs-api-gateways-what-each-one-actually-covers-50i"
     },
     {
       "title": "Meme Monday",
@@ -98,68 +138,28 @@
     },
     {
       "title": "What was your win this week!?",
-      "hot": "❤️ 79 💬 96",
+      "hot": "❤️ 80 💬 96",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "discuss,  weeklyretro",
       "url": "https://dev.to/devteam/what-was-your-win-this-week-2ohc"
     },
     {
-      "title": "vLLM Gemma4 26B Tuning on v6e-4",
-      "hot": "❤️ 9 💬 0",
-      "desc": "✦ The successful benchmark run on TPU v6e-4 used the following \"Balanced Production\" flags. These...",
+      "title": "OIC: From a Working Toast Watcher to a General \"Watch It for Me\" Agent",
+      "hot": "❤️ 1 💬 0",
+      "desc": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4           What I Learned Trying...",
       "source": "dev",
-      "tag": "gemmachallenge,  gemma",
-      "url": "https://dev.to/gde/vllm-gemma4-26b-tuning-on-v6e-4-79o"
+      "tag": "devchallenge,  gemmachallenge",
+      "url": "https://dev.to/straightly/oic-from-a-working-toast-watcher-to-a-general-watch-it-for-me-agent-2njm"
     },
     {
-      "title": "Deploying a Rust MCP Server to Amazon Lambda with Gemini CLI",
-      "hot": "❤️ 5 💬 0",
-      "desc": "The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...",
-      "source": "dev",
-      "tag": "rust,  agents",
-      "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-lambda-with-gemini-cli-41hd"
-    },
-    {
-      "title": "How AI is changing my job as a Staff Engineer: Tracer bullets",
-      "hot": "❤️ 1 💬 1",
-      "desc": "AI is rapidly changing software engineering, and with any kind of technological evolution, we need to...",
-      "source": "dev",
-      "tag": "ai,  productivity",
-      "url": "https://dev.to/vinibrsl/how-ai-is-changing-my-job-as-a-staff-engineer-tracer-bullets-4nck"
-    },
-    {
-      "title": "Google Cloud x NVIDIA Meet Up - 5/20/26 @ 5:30pm, Mountain View, CA",
-      "hot": "❤️ 16 💬 2",
-      "desc": "​​Register: https://luma.com/GoogleNVIDIA  Join Google Cloud and NVIDIA in Mountain View, CA for an...",
-      "source": "dev",
-      "tag": "cloud,  eventsinyourcity",
-      "url": "https://dev.to/googleai/google-cloud-x-nvidia-meet-up-52026-530pm-mountain-view-ca-9ea"
-    },
-    {
-      "title": "Deploying a Rust MCP Server to Amazon EKS",
-      "hot": "❤️ 8 💬 1",
-      "desc": "The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...",
-      "source": "dev",
-      "tag": "awseks,  aws",
-      "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-eks-183g"
-    },
-    {
-      "title": "Configuration as Code: The Missing GitOps Layer in Multi-Tenant SaaS",
+      "title": "AI Agents in CI/CD: Give Them Context, Not Production Authority",
       "hot": "❤️ 0 💬 1",
-      "desc": "About storing application configs in code rather than database",
+      "desc": "AI coding agents are showing up in CI/CD pipelines more often. They can review code, run tests,...",
       "source": "dev",
-      "tag": "configs,  mindset",
-      "url": "https://dev.to/sbimochan/configuration-as-code-the-missing-gitops-layer-in-multi-tenant-saas-1kph"
-    },
-    {
-      "title": "Google Antigravity 1.0 to 2.0/IDE Quick Migration Guide",
-      "hot": "❤️ 20 💬 4",
-      "desc": "Like many Google Antigravity users, I was very excited about the Antigravity 2.0 announcement at...",
-      "source": "dev",
-      "tag": "ai,  webdev",
-      "url": "https://dev.to/gde/google-antigravity-10-to-20ide-quick-migration-guide-35p5"
+      "tag": "security,  ai",
+      "url": "https://dev.to/grigorkh/ai-agents-in-cicd-give-them-context-not-production-authority-3fh2"
     }
   ],
-  "updatedAt": "2026-05-26T16:14:06.182Z"
+  "updatedAt": "2026-05-26T18:39:52.692Z"
 }
