@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 43 💬 13",
+      "hot": "❤️ 48 💬 15",
       "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
       "source": "dev",
       "tag": "top7,  discuss",
@@ -10,7 +10,7 @@
     },
     {
       "title": "An LLM API call, in 4 GIFs",
-      "hot": "❤️ 15 💬 5",
+      "hot": "❤️ 25 💬 12",
       "desc": "This is the first post of series Building TinyAgent where we are going to build a small agent from...",
       "source": "dev",
       "tag": "llm,  javascript",
@@ -18,7 +18,7 @@
     },
     {
       "title": "Why does AI forget what you said (and how to fix it)",
-      "hot": "❤️ 36 💬 31",
+      "hot": "❤️ 39 💬 36",
       "desc": "I received following comment on my hallucinations blog post.                       Comment on Why...",
       "source": "dev",
       "tag": "ai,  beginners",
@@ -26,7 +26,7 @@
     },
     {
       "title": "Can Google Antigravity 2.0 Pass the \"Napkin Challenge\"? 📝🚀",
-      "hot": "❤️ 10 💬 1",
+      "hot": "❤️ 10 💬 2",
       "desc": "🚀 From Napkin Sketch to data-driven real-estate advisor Agent in Under 40 Minutes? 🚀  Can a...",
       "source": "dev",
       "tag": "antigravity,  napkinchallenge",
@@ -81,36 +81,12 @@
       "url": "https://dev.to/jwilliamsr/ai-agent-governance-vs-iam-vs-dlp-vs-api-gateways-what-each-one-actually-covers-50i"
     },
     {
-      "title": "Dual Parameter Thermal FEA Design Optimization with FEATool Multiphysics",
-      "hot": "❤️ 18 💬 0",
-      "desc": "The following post shows how to define and solve a two parameter thermal FEA design and optimization...",
-      "source": "dev",
-      "tag": "fea,  heattransfer",
-      "url": "https://dev.to/precise-simulation/dual-parameter-thermal-fea-design-optimization-with-featool-multiphysics-m67"
-    },
-    {
       "title": "Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!",
-      "hot": "❤️ 257 💬 65",
+      "hot": "❤️ 261 💬 66",
       "desc": "We're thrilled to announce our newest challenge with GitHub!  Running through June 7, the GitHub...",
       "source": "dev",
       "tag": "githubchallenge,  devchallenge",
       "url": "https://dev.to/devteam/join-the-github-finish-up-a-thon-challenge-3000-prize-pool-f41"
-    },
-    {
-      "title": "Google I/O 2026: From Consumer to Builder",
-      "hot": "❤️ 31 💬 2",
-      "desc": "I often tune in to Google I/O. But this year felt different.  In the past, I watched as a consumer. I...",
-      "source": "dev",
-      "tag": "ai,  buildinpublic",
-      "url": "https://dev.to/michellebuchiokonicha/google-io-2026-from-consumer-to-builder-dom"
-    },
-    {
-      "title": "jnigen and swiftgen in 2026 - some lessons learned",
-      "hot": "❤️ 43 💬 1",
-      "desc": "Package jni 1.0.0 was recently published. It's a good opportunity to share some of my lessons from...",
-      "source": "dev",
-      "tag": "flutter,  dart",
-      "url": "https://dev.to/orestesgaolin/jnigen-and-swiftgen-in-2026-some-lessons-learned-16ni"
     },
     {
       "title": "Configuring MCP Servers and Skills for Antigravity CLI and IDE",
@@ -122,7 +98,7 @@
     },
     {
       "title": "What was your win this week!?",
-      "hot": "❤️ 83 💬 107",
+      "hot": "❤️ 83 💬 109",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "discuss,  weeklyretro",
@@ -130,7 +106,7 @@
     },
     {
       "title": "Meme Monday",
-      "hot": "❤️ 14 💬 15",
+      "hot": "❤️ 14 💬 16",
       "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
       "source": "dev",
       "tag": "jokes,  discuss",
@@ -159,7 +135,31 @@
       "source": "dev",
       "tag": "javascript,  node",
       "url": "https://dev.to/sulthonzh/i-turned-npm-outdated-into-a-ci-gate-heres-how-h0o"
+    },
+    {
+      "title": "How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV",
+      "hot": "❤️ 87 💬 24",
+      "desc": "Big improvements incoming 👋  Finding the right balance for a feed algorithm is historically really...",
+      "source": "dev",
+      "tag": "gemini,  ai",
+      "url": "https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f"
+    },
+    {
+      "title": "vLLM Gemma4 26B Tuning on v6e-4",
+      "hot": "❤️ 9 💬 0",
+      "desc": "✦ The successful benchmark run on TPU v6e-4 used the following \"Balanced Production\" flags. These...",
+      "source": "dev",
+      "tag": "gemmachallenge,  gemma",
+      "url": "https://dev.to/gde/vllm-gemma4-26b-tuning-on-v6e-4-79o"
+    },
+    {
+      "title": "Deploying a Rust MCP Server to Amazon Lambda with Gemini CLI",
+      "hot": "❤️ 5 💬 0",
+      "desc": "The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...",
+      "source": "dev",
+      "tag": "rust,  agents",
+      "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-lambda-with-gemini-cli-41hd"
     }
   ],
-  "updatedAt": "2026-05-27T06:14:10.773Z"
+  "updatedAt": "2026-05-27T10:33:45.727Z"
 }
