@@ -10,7 +10,7 @@
     },
     {
       "title": "An LLM API call, in 4 GIFs",
-      "hot": "❤️ 28 💬 13",
+      "hot": "❤️ 28 💬 15",
       "desc": "This is the first post of series Building TinyAgent where we are going to build a small agent from...",
       "source": "dev",
       "tag": "llm,  javascript",
@@ -33,12 +33,20 @@
       "url": "https://dev.to/gde/gcp-upgrading-a-line-bot-with-vertex-ai-adk-tools-for-smart-business-cards-and-backup-search-3dpe"
     },
     {
-      "title": "Using Google's New AI Command-Line Assistant: Antigravity CLI (agy) and YOLO's No-Confirmation Mode",
-      "hot": "❤️ 7 💬 0",
-      "desc": "Background   With generative AI entering daily development, the AI assistant in the...",
+      "title": "Accessibility question: is nesting interactive elements bad?",
+      "hot": "❤️ 5 💬 1",
+      "desc": "Is it confusing to have links inside labels? Does it break in some screenreaders?",
       "source": "dev",
-      "tag": "ai,  cli",
-      "url": "https://dev.to/gde/using-googles-new-ai-command-line-assistant-antigravity-cli-agy-and-yolos-no-confirmation-mode-10d"
+      "tag": "a11y,  html",
+      "url": "https://dev.to/codepo8/accessibility-question-is-nesting-interactive-elements-bad-4oof"
+    },
+    {
+      "title": "I love MJML — I just didn't want a whole templating engine for two tiny things",
+      "hot": "❤️ 0 💬 0",
+      "desc": "I love MJML.  Responsive HTML email is one of the genuinely miserable corners of frontend — nested...",
+      "source": "dev",
+      "tag": "mjml,  i18n",
+      "url": "https://dev.to/kralik12/i-love-mjml-i-just-didnt-want-a-whole-templating-engine-for-two-tiny-things-5a10"
     },
     {
       "title": "I Built a Tiny Chrome Extension to Save My Mouse Wheel (Auto Scroll)",
@@ -49,12 +57,36 @@
       "url": "https://dev.to/codebunny20/i-built-a-tiny-chrome-extension-to-save-my-mouse-wheel-auto-scroll-1f8e"
     },
     {
+      "title": "Advent of Code 2015 days 3-8 in Clojure",
+      "hot": "❤️ 0 💬 0",
+      "desc": "Yeah, I'm starting to think my initial comment about taking until the heat death of the universe to...",
+      "source": "dev",
+      "tag": "clojure,  adventofcode",
+      "url": "https://dev.to/andyn/advent-of-code-2015-days-3-8-in-clojure-3c94"
+    },
+    {
       "title": "Polish Blog About Wikipedia",
       "hot": "❤️ 0 💬 0",
       "desc": "Introducing a new Polish education project about Wikipedia",
       "source": "dev",
       "tag": "wikipedia,  seo",
       "url": "https://dev.to/jcubic/polish-blog-about-wikipedia-49g3"
+    },
+    {
+      "title": "I built 'Ask Your Life' — a personal Coral agent that answers questions about your money & deadlines with SQL",
+      "hot": "❤️ 0 💬 0",
+      "desc": "\"Here are the personal admin risks that can cost me money, time, or access this week — with the...",
+      "source": "dev",
+      "tag": "ai,  sql",
+      "url": "https://dev.to/sahil9001/i-built-ask-your-life-a-personal-coral-agent-that-answers-questions-about-your-money--52a8"
+    },
+    {
+      "title": "Using Google's New AI Command-Line Assistant: Antigravity CLI (agy) and YOLO's No-Confirmation Mode",
+      "hot": "❤️ 7 💬 0",
+      "desc": "Background   With generative AI entering daily development, the AI assistant in the...",
+      "source": "dev",
+      "tag": "ai,  cli",
+      "url": "https://dev.to/gde/using-googles-new-ai-command-line-assistant-antigravity-cli-agy-and-yolos-no-confirmation-mode-10d"
     },
     {
       "title": "Why does AI forget what you said (and how to fix it)",
@@ -65,12 +97,28 @@
       "url": "https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6"
     },
     {
+      "title": "An AI Agent Wiped a Production Database in 9 Seconds. What Engineers Must Design Before Shipping.",
+      "hot": "❤️ 0 💬 0",
+      "desc": "April 25, 2026. 9 seconds.  That's all it took for a Cursor AI agent to delete the entire production...",
+      "source": "dev",
+      "tag": "llm,  agents",
+      "url": "https://dev.to/ksr007/an-ai-agent-wiped-a-production-database-in-9-seconds-what-engineers-must-design-before-shipping-5cp4"
+    },
+    {
       "title": "Can Google Antigravity 2.0 Pass the \"Napkin Challenge\"? 📝🚀",
       "hot": "❤️ 38 💬 2",
       "desc": "🚀 From Napkin Sketch to data-driven real-estate advisor Agent in Under 40 Minutes? 🚀  Can a...",
       "source": "dev",
       "tag": "antigravity,  napkinchallenge",
       "url": "https://dev.to/googleai/can-google-antigravity-20-pass-the-napkin-challenge-2ai2"
+    },
+    {
+      "title": "Vibe Coding Meets Spec-Driven Development: The Best of Both Worlds",
+      "hot": "❤️ 0 💬 0",
+      "desc": "Stop choosing between speed and structure, you don't have to.               The Tension...",
+      "source": "dev",
+      "tag": "ai,  vibecoding",
+      "url": "https://dev.to/ctahirih/vibe-coding-meets-spec-driven-development-the-best-of-both-worlds-3p0c"
     },
     {
       "title": "Revisiting Benchmarking- Building a Rust A2A Agent",
@@ -105,61 +153,13 @@
       "url": "https://dev.to/gde/azure-cloud-shell-with-antigravity-cli-mn6"
     },
     {
-      "title": "The Quiet AI War Inside Your Browser",
-      "hot": "❤️ 24 💬 0",
-      "desc": "Google shipped the Prompt API in Chrome 148 on May 5, 2026. Mozilla objected. Apple's WebKit team...",
+      "title": "Making a New Native App for a Jailbroken iPhone 6",
+      "hot": "❤️ 0 💬 0",
+      "desc": "Build and install a native UIKit app directly on a jailbroken iPhone 6 running iOS 12, using Theos, clang, and Cydia-com",
       "source": "dev",
-      "tag": "ai,  frontend",
-      "url": "https://dev.to/obetomuniz/the-quiet-ai-war-inside-your-browser-22hd"
-    },
-    {
-      "title": "In Defense of Manual Memory Management",
-      "hot": "❤️ 28 💬 1",
-      "desc": "Why Manual Memory Management Still Matters ?   It is now easier than ever to write software...",
-      "source": "dev",
-      "tag": "programming,  zig",
-      "url": "https://dev.to/dayvster/in-defense-of-manual-memory-management-3jpo"
-    },
-    {
-      "title": "Github Copilot helped us cut down 50-75% time in our e-commerce business",
-      "hot": "❤️ 35 💬 0",
-      "desc": "This is a submission for the GitHub Finish-Up-A-Thon Challenge           What I Built   A couple of...",
-      "source": "dev",
-      "tag": "devchallenge,  githubchallenge",
-      "url": "https://dev.to/heyitsmarcucu/github-copilot-helped-us-cut-down-50-75-time-in-our-e-commerce-business-10l5"
-    },
-    {
-      "title": "Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!",
-      "hot": "❤️ 345 💬 69",
-      "desc": "We're thrilled to announce our newest challenge with GitHub!  Running through June 7, the GitHub...",
-      "source": "dev",
-      "tag": "githubchallenge,  devchallenge",
-      "url": "https://dev.to/devteam/join-the-github-finish-up-a-thon-challenge-3000-prize-pool-f41"
-    },
-    {
-      "title": "AI Agent Governance vs IAM vs DLP vs API Gateways: What Each One Actually Covers",
-      "hot": "❤️ 24 💬 0",
-      "desc": "IAM, DLP, and API gateways are necessary parts of an organization's security stack. None of them...",
-      "source": "dev",
-      "tag": "ai,  security",
-      "url": "https://dev.to/jwilliamsr/ai-agent-governance-vs-iam-vs-dlp-vs-api-gateways-what-each-one-actually-covers-50i"
-    },
-    {
-      "title": "A practitioner's guide to getting more value out of AI coding: agent quality & token optimization",
-      "hot": "❤️ 26 💬 0",
-      "desc": "A practitioner's guide to getting more value out of AI coding agents — drawn from a GitHub workshop on agent quality and",
-      "source": "dev",
-      "tag": "agents,  ai",
-      "url": "https://dev.to/webmaxru/a-practitioners-guide-to-getting-more-value-out-of-ai-coding-agent-quality-token-optimization-3n7j"
-    },
-    {
-      "title": "What was your win this week!?",
-      "hot": "❤️ 84 💬 111",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "discuss,  weeklyretro",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-2ohc"
+      "tag": "iphone,  ios",
+      "url": "https://dev.to/aeroreyna/making-a-new-native-app-for-a-jailbroken-iphone-6-16o5"
     }
   ],
-  "updatedAt": "2026-05-27T19:53:53.891Z"
+  "updatedAt": "2026-05-27T21:30:35.051Z"
 }
