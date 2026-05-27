@@ -1,132 +1,456 @@
 {
-  "updatedAt": "2026-05-27T14:15:58.735Z",
+  "updatedAt": "2026-05-27T17:37:39.085Z",
   "source": "live",
+  "tech": [
+    {
+      "title": "I'm Tired of Talking to AI",
+      "hot": "3.0m",
+      "desc": "orchidfiles.com",
+      "source": "tech",
+      "tag": "⬆️ 1657 points",
+      "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/"
+    },
+    {
+      "title": "Tech CEOs are apparently suffering from AI psychosis",
+      "hot": "3.0m",
+      "desc": "techcrunch.com",
+      "source": "tech",
+      "tag": "⬆️ 170 points",
+      "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/"
+    },
+    {
+      "title": "I think Anthropic and OpenAI have found product-market fit",
+      "hot": "3.0m",
+      "desc": "simonwillison.net",
+      "source": "tech",
+      "tag": "⬆️ 37 points",
+      "url": "https://simonwillison.net/2026/May/27/product-market-fit/"
+    },
+    {
+      "title": "PostHog will train AI models with your data (opted-in by default)",
+      "hot": "3.0m",
+      "desc": "posthog.com",
+      "source": "tech",
+      "tag": "⬆️ 108 points",
+      "url": "https://posthog.com/blog/training-ai-models"
+    },
+    {
+      "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+      "hot": "2.9m",
+      "desc": "pcgamer.com",
+      "source": "tech",
+      "tag": "⬆️ 119 points",
+      "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/"
+    },
+    {
+      "title": "Last.fm is now independent",
+      "hot": "2.9m",
+      "desc": "support.last.fm",
+      "source": "tech",
+      "tag": "⬆️ 267 points",
+      "url": "https://support.last.fm/t/last-fm-is-now-independent/118591"
+    },
+    {
+      "title": "Reflex (YC W23) Is Hiring SWEs, Growth, and GTM Roles",
+      "hot": "2.9m",
+      "desc": "ycombinator.com",
+      "source": "tech",
+      "tag": "⬆️ 1 points",
+      "url": "https://www.ycombinator.com/companies/reflex/jobs"
+    },
+    {
+      "title": "Mini Micro Fantasy Computer",
+      "hot": "2.9m",
+      "desc": "miniscript.org",
+      "source": "tech",
+      "tag": "⬆️ 187 points",
+      "url": "https://miniscript.org/MiniMicro/index.html#about"
+    },
+    {
+      "title": "Theseus: Translating Win32 to WASM",
+      "hot": "2.9m",
+      "desc": "neugierig.org",
+      "source": "tech",
+      "tag": "⬆️ 34 points",
+      "url": "https://neugierig.org/software/blog/2026/05/theseus-wasm.html"
+    },
+    {
+      "title": "Matrix Multiplications on GPUs Run Faster When Given \"Predictable\" Data (2024)",
+      "hot": "2.9m",
+      "desc": "thonking.ai",
+      "source": "tech",
+      "tag": "⬆️ 104 points",
+      "url": "https://www.thonking.ai/p/strangely-matrix-multiplications"
+    },
+    {
+      "title": "A Comma and a Question Mark, Redux: Quick Terminal Helpers Using Pi",
+      "hot": "2.9m",
+      "desc": "z3ugma.github.io",
+      "source": "tech",
+      "tag": "⬆️ 11 points",
+      "url": "https://z3ugma.github.io/2026/05/25/a-comma-and-a-question-mark/"
+    },
+    {
+      "title": "All of human cooking compressed into 2 megabytes",
+      "hot": "2.8m",
+      "desc": "arxiv.org",
+      "source": "tech",
+      "tag": "⬆️ 259 points",
+      "url": "https://arxiv.org/abs/2605.22391"
+    },
+    {
+      "title": "Incident with Pull Requests, Issues, Git Operations and API Requests",
+      "hot": "2.8m",
+      "desc": "githubstatus.com",
+      "source": "tech",
+      "tag": "⬆️ 197 points",
+      "url": "https://www.githubstatus.com/incidents/xy1tt3hs572m"
+    },
+    {
+      "title": "XLIDE: VBA without excel",
+      "hot": "2.8m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 48 points",
+      "url": "https://github.com/WilliamSmithEdward/xlide_vscode"
+    },
+    {
+      "title": "Phloto for My Photo Flow",
+      "hot": "2.8m",
+      "desc": "cceckman.com",
+      "source": "tech",
+      "tag": "⬆️ 27 points",
+      "url": "https://cceckman.com/writing/phloto/"
+    },
+    {
+      "title": "My new obsession: A horse-racing board game of pure luck",
+      "hot": "2.8m",
+      "desc": "alexanderbjoy.com",
+      "source": "tech",
+      "tag": "⬆️ 29 points",
+      "url": "https://alexanderbjoy.com/horse-race-board-game/"
+    },
+    {
+      "title": "The Melancholy of Slaying Monsters",
+      "hot": "2.8m",
+      "desc": "thereader.mitpress.mit.edu",
+      "source": "tech",
+      "tag": "⬆️ 237 points",
+      "url": "https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/"
+    },
+    {
+      "title": "Cloudflare Flagship",
+      "hot": "2.7m",
+      "desc": "developers.cloudflare.com",
+      "source": "tech",
+      "tag": "⬆️ 318 points",
+      "url": "https://developers.cloudflare.com/flagship/"
+    },
+    {
+      "title": "Raft Consensus with a Minority of Nodes",
+      "hot": "2.7m",
+      "desc": "padhye.org",
+      "source": "tech",
+      "tag": "⬆️ 100 points",
+      "url": "https://padhye.org/raft-minority/"
+    },
+    {
+      "title": "Private Equity Bought America's Essential Services",
+      "hot": "2.7m",
+      "desc": "rubbishtalk.com",
+      "source": "tech",
+      "tag": "⬆️ 315 points",
+      "url": "https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/"
+    }
+  ],
   "space": [
     {
-      "title": "National Institutes of Health Nutrition Education Challenge",
+      "title": "Mars to Titan: the next rallying call?",
       "hot": "5/27",
-      "desc": "NASA’s Center of Excellence for Collaborative Innovation (CoECI) assists in the use of crowdsourcing across the federal government. CoECI’s NASA Tourn",
+      "desc": "\nWhere will humans go after Mars? Is Mars the end of the line or is it a steppingstone to somewhere else? If we “moon-to-Mars,” do we then “Mars-to-so",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/mars-to-titan-the-next-rallying-call/"
+    },
+    {
+      "title": "European space industry warns EU Space Act could slow competitiveness",
+      "hot": "5/27",
+      "desc": "\nAMSTERDAM – European industry representatives and legal experts are worried that the EU Space Act is too slow, too rigid and too bureaucratic. Speaki",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/european-space-industry-warns-eu-space-act-could-slow-competitiveness/"
+    },
+    {
+      "title": "La NASA anunciará la tripulación de Artemis III e informará sobre el progreso de la misión",
+      "hot": "5/27",
+      "desc": "La NASA informará sobre los avances de la misión Artemis III de la agencia y anunciará los astronautas asignados a este vuelo de prueba durante un eve",
       "source": "space",
       "tag": "NASA",
-      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/national-institutes-of-health-nutrition-education-challenge/"
+      "url": "https://www.nasa.gov/news-release/la-nasa-anunciara-la-tripulacion-de-artemis-iii-e-informara-sobre-el-progreso-de-la-mision/"
     },
     {
-      "title": "Europe’s satellite spectrum proposal clouds SpaceX and Viasat plans",
+      "title": "As geopolitics reshape space, SpinLaunch sees an opening",
       "hot": "5/27",
-      "desc": "\nEurope has proposed reserving two-thirds of 2 gigahertz mobile satellite spectrum up for renewal next year for European operators, complicating Space",
+      "desc": "\nSpinLaunch CEO Massimiliano “Massi” Ladovaz paints an ambitious picture of a rapidly shifting space industry driven as much by geopolitics and sovere",
       "source": "space",
       "tag": "SpaceNews",
-      "url": "https://spacenews.com/europes-satellite-spectrum-proposal-clouds-spacex-and-viasat-plans/"
+      "url": "https://spacenews.com/as-geopolitics-reshape-space-spinlaunch-sees-an-opening/"
     },
     {
-      "title": "NASA’s 2026 Lunabotics: Winning Student Teams Engineering Lunar Future",
+      "title": "Kongsberg NanoAvionics sets sights on building and supporting sovereign constellations",
       "hot": "5/27",
-      "desc": "Resilient. Efficient. Autonomous. These are qualities NASA demands of its hardware, especially as the agency accelerates plans for a permanent Moon Ba",
+      "desc": "\nNanoAvionics, founded in 2014, was known for producing individual satellites and small constellations until April, when the company won a 122.5-milli",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/kongsberg-nanoavionics-sets-sights-on-building-and-supporting-sovereign-constellations/"
+    },
+    {
+      "title": "Students Build Moon Robots for NASA’s 2026 Lunabotics Challenge",
+      "hot": "5/27",
+      "desc": "Katherine Rauscher of Michigan Technological University prepares her team’s prototype lunar robot for its turn during the finals for NASA’s 2026 Lunab",
       "source": "space",
       "tag": "NASA",
-      "url": "https://www.nasa.gov/centers-and-facilities/kennedy/nasas-2026-lunabotics-winning-student-teams-engineering-lunar-future/"
+      "url": "https://www.nasa.gov/image-article/students-build-moon-robots-for-nasas-2026-lunabotics-challenge/"
     },
     {
-      "title": "Artemis 2 captured the world’s attention. It should change how we think about supply chains.",
+      "title": "NASA-European Sea Level Mission Homes in on El Niño",
       "hot": "5/27",
-      "desc": "\nThe Artemis 2 mission has captured global attention for obvious reasons. It signals a return to the moon, reflects geopolitical ambition and showcase",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/artemis-2-captured-the-worlds-attention-it-should-change-how-we-think-about-supply-chains/"
-    },
-    {
-      "title": "Hubble Spies Faint Irregular Galaxy",
-      "hot": "5/27",
-      "desc": "This NASA Hubble Space Telescope image features the dwarf irregular galaxy ESO 490-017, roughly 12,000 light-years in diameter and some 23 million lig",
+      "desc": "Sea level data from a satellite launched by NASA and European partners shows that a swell of warm water hundreds of miles wide has arrived in the Paci",
       "source": "space",
       "tag": "NASA",
-      "url": "https://science.nasa.gov/missions/hubble/hubble-spies-faint-irregular-galaxy/"
+      "url": "https://www.nasa.gov/missions/jason-cs-sentinel-6/sentinel-6-michael-freilich/nasa-european-sea-level-mission-homes-in-on-el-nino/"
     },
     {
-      "title": "World’s smallest deployable operational optical ground station proves capability in successful trials",
+      "title": "Former Ukraine official calls for stricter restrictions on Russian use of Starlink",
       "hot": "5/27",
-      "desc": "\nOxford, UK – 27 May 2026 Archangel Lightworks, the laser communications company, has successfully completed field trials of the TERRA-M, the world’s ",
+      "desc": "\nAMSTERDAM – A former senior Ukrainian defense official called on SpaceX to tighten controls on Starlink terminals that she said are reaching Russian ",
       "source": "space",
       "tag": "SpaceNews",
-      "url": "https://spacenews.com/worlds-smallest-deployable-operational-optical-ground-station-proves-capability-in-successful-trials/"
+      "url": "https://spacenews.com/former-ukraine-official-calls-for-stricter-restrictions-on-russian-use-of-starlink/"
     },
     {
-      "title": "European space industry watching SpaceX IPO plans",
+      "title": "Webinar 6/17: Discover, Access, and Task Commercial Data with NASA’s Satellite Data Explorer",
       "hot": "5/27",
-      "desc": "\nSpace companies and investors in Europe are closely watching SpaceX’s plans to go public, an event that could spur new investment in other companies.",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/european-space-industry-watching-spacex-ipo-plans/"
-    },
-    {
-      "title": "SITAEL Accelerates Growth in Space: New Missions, Industrial Capacity and a Trajectory Towards 2031",
-      "hot": "5/27",
-      "desc": "SITAEL announces a growth plan targeting €200 million in revenues by 2031, currently supported by over €150 million in backlog and nine launches plann",
-      "source": "space",
-      "tag": "European Spaceflight",
-      "url": "https://europeanspaceflight.com/sitael-accelerates-growth-in-space-new-missions-industrial-capacity-and-a-trajectory-towards-2031/"
-    },
-    {
-      "title": "Nations opt for a mix of sovereign, bilateral, federated and commercial space capabilities",
-      "hot": "5/27",
-      "desc": "\nAMSTERDAM – European nations are adopting a mix of sovereign, bilateral, federated and dual-use commercial technologies to enhance military readiness",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/nations-opt-for-a-mix-of-sovereign-bilateral-federated-and-commercial-space-capabilities/"
-    },
-    {
-      "title": "Ever Restless Mount Dukono Erupts",
-      "hot": "5/27",
-      "desc": "The volcano on Indonesia’s Halmahera Island routinely ejects ash, volcanic gases, and volcanic bombs.",
+      "desc": "Learn how to use the Satellite Data Explorer to search, access, and task commercial Earth Observation data.",
       "source": "space",
       "tag": "NASA",
-      "url": "https://science.nasa.gov/earth/earth-observatory/ever-restless-mount-dukono-erupts/"
+      "url": "https://science.nasa.gov/science-research/earth-science/webinar-6-17-discover-access-and-task-commercial-data-with-nasas-satellite-data-explorer/"
     },
     {
-      "title": "NASA Awards Initial Moon Base Rover and Lander Contracts",
+      "title": "Sitael Accelerates Growth in Space:New Missions, Industrial Capacity and a Trajectory Towards 2031",
       "hot": "5/27",
-      "desc": "Pressing forward with plans to build a Moon Base as part of the Artemis program, today NASA announced awards of several service contracts to build and",
-      "source": "space",
-      "tag": "SpacePolicyOnline.com",
-      "url": "https://spacepolicyonline.com/news/nasa-awards-initial-moon-base-rover-and-lander-contracts/"
-    },
-    {
-      "title": "NASA outlines nearly $1 billion investment into initial Moon Base missions",
-      "hot": "5/27",
-      "desc": "NASA’s vision for a sprawling Moon Base will cover “hundreds of square miles” to cover the multitudes of various sites that the agency wants to explor",
-      "source": "space",
-      "tag": "Spaceflight Now",
-      "url": "https://spaceflightnow.com/2026/05/27/nasa-outlines-nearly-1-billion-investment-into-initial-moon-base-missions/"
-    },
-    {
-      "title": "Following Starship V3 debut, SpaceX prepares for follow up",
-      "hot": "5/27",
-      "desc": "Starship Version 3 flew for the first time this week in a mission of several…\r\nThe post Following Starship V3 debut, SpaceX prepares for follow up app",
-      "source": "space",
-      "tag": "NASASpaceflight",
-      "url": "https://www.nasaspaceflight.com/2026/05/starship-flight-12-v3-follow/"
-    },
-    {
-      "title": "SpaceX wins $2.29 billion Space Force contract for military data network",
-      "hot": "5/26",
-      "desc": "\nThe contract is for the development of the U.S. Space Force’s Space Data Network backbone\nThe post SpaceX wins $2.29 billion Space Force contract for",
+      "desc": "\n• SITAEL announces a growth plan targeting €200 million in revenues by 2031, currently supported by over €150 million in backlog and nine launches pl",
       "source": "space",
       "tag": "SpaceNews",
-      "url": "https://spacenews.com/spacex-wins-2-29-billion-space-force-contract-for-military-data-network/"
+      "url": "https://spacenews.com/sitael-accelerates-growth-in-spacenew-missions-industrial-capacity-and-a-trajectory-towards-2031/"
     },
     {
-      "title": "NASA selects four companies for initial moon base awards",
-      "hot": "5/26",
-      "desc": "NASA announced May 26 the first contracts associated with its plans to develop a lunar base, picking four companies to develop and deliver landers and",
+      "title": "Schaeffler AG joins forces with Spire to build sovereign European satellites",
+      "hot": "5/27",
+      "desc": "\nAMSTERDAM – Spire Global revealed another element of its campaign to rapidly scale satellite production in German: strategic cooperation with Schaeff",
       "source": "space",
       "tag": "SpaceNews",
-      "url": "https://spacenews.com/nasa-selects-four-companies-for-initial-moon-base-awards/"
+      "url": "https://spacenews.com/schaeffler-ag-joins-forces-with-spire-to-build-sovereign-european-satellites/"
+    },
+    {
+      "title": "Starcloud’s path to 88,000 computing satellites",
+      "hot": "5/27",
+      "desc": "\nIn November, Starcloud sent a small satellite called Starcloud-1 into orbit via a SpaceX launch. The 60-kilogram spacecraft was the first to carry a ",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/starclouds-path-to-88000-computing-satellites/"
+    },
+    {
+      "title": "Webb reveals black hole that formed before its galaxy",
+      "hot": "5/27",
+      "desc": "Using the unprecedented imaging and spectroscopic power of the NASA/ESA/CSA James Webb Space Telescope, researchers have mapped the motion and composi",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_black_hole_that_formed_before_its_galaxy"
+    },
+    {
+      "title": "NASA’s Webb Reveals Black Hole That Formed Before Its Galaxy",
+      "hot": "5/27",
+      "desc": "Which comes first, the galaxy or the black hole? We don’t know, but scientists have long thought it could be the galaxy: Large stars within an existin",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/missions/webb/nasas-webb-reveals-black-hole-that-formed-before-its-galaxy/"
+    },
+    {
+      "title": "Spire expands European manufacturing with Munich plant",
+      "hot": "5/27",
+      "desc": "\nAMSTERDAM – Spire Global has established a facility in Munich to develop and manufacture as many as 100 small satellites annually. With manufacturing",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/spire-expands-european-manufacturing-with-munich-plant/"
+    }
+  ],
+  "dev": [
+    {
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "hot": "❤️ 52 💬 20",
+      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+      "source": "dev",
+      "tag": "top7,  discuss",
+      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-45na"
+    },
+    {
+      "title": "An LLM API call, in 4 GIFs",
+      "hot": "❤️ 27 💬 13",
+      "desc": "This is the first post of series Building TinyAgent where we are going to build a small agent from...",
+      "source": "dev",
+      "tag": "llm,  javascript",
+      "url": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1"
+    },
+    {
+      "title": "Reviving a 12K+ Star Abandoned Library: toastr-next v3 🍞",
+      "hot": "❤️ 20 💬 10",
+      "desc": "This is a submission for the GitHub Finish-Up-A-Thon Challenge              What I...",
+      "source": "dev",
+      "tag": "devchallenge,  githubchallenge",
+      "url": "https://dev.to/divyesh5981/reviving-a-12k-star-abandoned-library-toastr-next-v3-25mf"
+    },
+    {
+      "title": "Polish Blog About Wikipedia",
+      "hot": "❤️ 0 💬 0",
+      "desc": "Introducing a new Polish education project about Wikipedia",
+      "source": "dev",
+      "tag": "wikipedia,  seo",
+      "url": "https://dev.to/jcubic/polish-blog-about-wikipedia-49g3"
+    },
+    {
+      "title": "I Built a Tiny Chrome Extension to Save My Mouse Wheel (Auto Scroll)",
+      "hot": "❤️ 5 💬 0",
+      "desc": "I hate endlessly scrolling through long docs, articles, or social feeds just to keep up with content,...",
+      "source": "dev",
+      "tag": "webdev,  learning",
+      "url": "https://dev.to/codebunny20/i-built-a-tiny-chrome-extension-to-save-my-mouse-wheel-auto-scroll-1f8e"
+    },
+    {
+      "title": "Revisiting Benchmarking- Building a Rust A2A Agent",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This is a submission for the GitHub Finish-Up-A-Thon Challenge           Cross Language A2A Agent...",
+      "source": "dev",
+      "tag": "devchallenge,  githubchallenge",
+      "url": "https://dev.to/gde/revisiting-benchmarking-building-a-rust-a2a-agent-5bl2"
+    },
+    {
+      "title": "Pokemon Battle Simulator Napkin Challenge!",
+      "hot": "❤️ 12 💬 0",
+      "desc": "▄▀▀▄        Antigravity CLI 1.0.2  ▀▀▀▀▀▀       xbill9@gmail.com (Google AI Ultra) ▀▀▀▀▀▀▀▀     ...",
+      "source": "dev",
+      "tag": "napkinchallenge,  antigravity",
+      "url": "https://dev.to/gde/pokemon-battle-simulator-napkin-challenge-38db"
+    },
+    {
+      "title": "Can Google Antigravity 2.0 Pass the \"Napkin Challenge\"? 📝🚀",
+      "hot": "❤️ 38 💬 2",
+      "desc": "🚀 From Napkin Sketch to data-driven real-estate advisor Agent in Under 40 Minutes? 🚀  Can a...",
+      "source": "dev",
+      "tag": "antigravity,  napkinchallenge",
+      "url": "https://dev.to/googleai/can-google-antigravity-20-pass-the-napkin-challenge-2ai2"
+    },
+    {
+      "title": "Why does AI forget what you said (and how to fix it)",
+      "hot": "❤️ 44 💬 39",
+      "desc": "I received following comment on my hallucinations blog post.                       Comment on Why...",
+      "source": "dev",
+      "tag": "ai,  beginners",
+      "url": "https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6"
+    },
+    {
+      "title": "The Quiet AI War Inside Your Browser",
+      "hot": "❤️ 24 💬 0",
+      "desc": "Google shipped the Prompt API in Chrome 148 on May 5, 2026. Mozilla objected. Apple's WebKit team...",
+      "source": "dev",
+      "tag": "ai,  frontend",
+      "url": "https://dev.to/obetomuniz/the-quiet-ai-war-inside-your-browser-22hd"
+    },
+    {
+      "title": "Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!",
+      "hot": "❤️ 262 💬 69",
+      "desc": "We're thrilled to announce our newest challenge with GitHub!  Running through June 7, the GitHub...",
+      "source": "dev",
+      "tag": "githubchallenge,  devchallenge",
+      "url": "https://dev.to/devteam/join-the-github-finish-up-a-thon-challenge-3000-prize-pool-f41"
+    },
+    {
+      "title": "In Defense of Manual Memory Management",
+      "hot": "❤️ 28 💬 1",
+      "desc": "Why Manual Memory Management Still Matters ?   It is now easier than ever to write software...",
+      "source": "dev",
+      "tag": "programming,  zig",
+      "url": "https://dev.to/dayvster/in-defense-of-manual-memory-management-3jpo"
+    },
+    {
+      "title": "Github Copilot helped us cut down 50-75% time in our e-commerce business",
+      "hot": "❤️ 35 💬 0",
+      "desc": "This is a submission for the GitHub Finish-Up-A-Thon Challenge           What I Built   A couple of...",
+      "source": "dev",
+      "tag": "devchallenge,  githubchallenge",
+      "url": "https://dev.to/heyitsmarcucu/github-copilot-helped-us-cut-down-50-75-time-in-our-e-commerce-business-10l5"
+    },
+    {
+      "title": "AI Agent Governance vs IAM vs DLP vs API Gateways: What Each One Actually Covers",
+      "hot": "❤️ 24 💬 0",
+      "desc": "IAM, DLP, and API gateways are necessary parts of an organization's security stack. None of them...",
+      "source": "dev",
+      "tag": "ai,  security",
+      "url": "https://dev.to/jwilliamsr/ai-agent-governance-vs-iam-vs-dlp-vs-api-gateways-what-each-one-actually-covers-50i"
+    },
+    {
+      "title": "A practitioner's guide to getting more value out of AI coding: agent quality & token optimization",
+      "hot": "❤️ 26 💬 0",
+      "desc": "A practitioner's guide to getting more value out of AI coding agents — drawn from a GitHub workshop on agent quality and",
+      "source": "dev",
+      "tag": "agents,  ai",
+      "url": "https://dev.to/webmaxru/a-practitioners-guide-to-getting-more-value-out-of-ai-coding-agent-quality-token-optimization-3n7j"
+    },
+    {
+      "title": "Configuring MCP Servers and Skills for Antigravity CLI and IDE",
+      "hot": "❤️ 8 💬 0",
+      "desc": "Introduction   We had a few big announcements from Google I/O 2026 in the AI space. One was...",
+      "source": "dev",
+      "tag": "agentskills,  antigravitycli",
+      "url": "https://dev.to/gde/configuring-mcp-servers-and-skills-for-antigravity-cli-and-ide-2bh0"
+    },
+    {
+      "title": "What was your win this week!?",
+      "hot": "❤️ 84 💬 111",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "discuss,  weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-2ohc"
+    },
+    {
+      "title": "How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV",
+      "hot": "❤️ 92 💬 24",
+      "desc": "Big improvements incoming 👋  Finding the right balance for a feed algorithm is historically really...",
+      "source": "dev",
+      "tag": "gemini,  ai",
+      "url": "https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f"
+    },
+    {
+      "title": "Vibe Code All Google APIs: The Zero-Trust Autonomous Agent for Google Apps Script",
+      "hot": "❤️ 36 💬 0",
+      "desc": "Abstract   Integrating autonomous AI agents into enterprise architectures exposes critical...",
+      "source": "dev",
+      "tag": "ai,  gemini",
+      "url": "https://dev.to/gde/vibe-code-all-google-apis-the-zero-trust-autonomous-agent-for-google-apps-script-jcl"
+    },
+    {
+      "title": "OIC: From a Working Toast Watcher to a General \"Watch It for Me\" Agent",
+      "hot": "❤️ 1 💬 0",
+      "desc": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4           What I Learned Trying...",
+      "source": "dev",
+      "tag": "devchallenge,  gemmachallenge",
+      "url": "https://dev.to/straightly/oic-from-a-working-toast-watcher-to-a-general-watch-it-for-me-agent-2njm"
     }
   ],
   "github": [
     {
       "title": "perplexityai/bumblebee: Read-only developer endpoint scanner for on-disk package",
-      "hot": "⭐ 3.4k",
+      "hot": "⭐ 3.5k",
       "desc": "Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-cha",
       "source": "github",
       "tag": "Go",
@@ -150,7 +474,7 @@
     },
     {
       "title": "open-gsd/get-shit-done-redux: Getting Shit Done, the Aftermath",
-      "hot": "⭐ 1.2k",
+      "hot": "⭐ 1.3k",
       "desc": "Getting Shit Done, the Aftermath",
       "source": "github",
       "tag": "JavaScript",
@@ -158,7 +482,7 @@
     },
     {
       "title": "run-liyi/wechatpay: 微信账单分析工具 - 基于Electron的可视化账单分析应用",
-      "hot": "⭐ 936",
+      "hot": "⭐ 978",
       "desc": "微信账单分析工具 - 基于Electron的可视化账单分析应用",
       "source": "github",
       "tag": "JavaScript",
@@ -166,7 +490,7 @@
     },
     {
       "title": "MoonshotAI/kimi-code: The Starting Point for Next-Gen Agents",
-      "hot": "⭐ 821",
+      "hot": "⭐ 853",
       "desc": "The Starting Point for Next-Gen Agents",
       "source": "github",
       "tag": "TypeScript",
@@ -174,7 +498,7 @@
     },
     {
       "title": "kageroumado/phosphene: A video wallpaper engine for macOS Tahoe",
-      "hot": "⭐ 687",
+      "hot": "⭐ 688",
       "desc": "A video wallpaper engine for macOS Tahoe",
       "source": "github",
       "tag": "Swift",
@@ -182,31 +506,31 @@
     },
     {
       "title": "0xSero/codex-shim: Local Responses-API shim that exposes Factory BYOK models (an",
-      "hot": "⭐ 651",
+      "hot": "⭐ 654",
       "desc": "Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop.",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/0xSero/codex-shim"
     },
     {
-      "title": "zhaoyue4810/pianke: ",
-      "hot": "⭐ 475",
-      "desc": "zhaoyue4810/pianke",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/zhaoyue4810/pianke"
-    },
-    {
       "title": "study8677/awesome-architecture: 🗺️ Think like a software architect, not just a ",
-      "hot": "⭐ 467",
+      "hot": "⭐ 535",
       "desc": "🗺️ Think like a software architect, not just a coder — 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a languag",
       "source": "github",
       "tag": "Vue",
       "url": "https://github.com/study8677/awesome-architecture"
     },
     {
+      "title": "zhaoyue4810/pianke: ",
+      "hot": "⭐ 494",
+      "desc": "zhaoyue4810/pianke",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/zhaoyue4810/pianke"
+    },
+    {
       "title": "Unclecheng-li/poc-lab: Recent CVE PoC & reproduction scripts. Focused on high-se",
-      "hot": "⭐ 388",
+      "hot": "⭐ 390",
       "desc": "Recent CVE PoC & reproduction scripts. Focused on high-severity vulnerabilities across Linux kernel, Windows, macOS and more.",
       "source": "github",
       "tag": "C",
@@ -214,359 +538,35 @@
     },
     {
       "title": "KNG7-P/Se7en-Pro: ",
-      "hot": "⭐ 386",
+      "hot": "⭐ 388",
       "desc": "KNG7-P/Se7en-Pro",
       "source": "github",
       "tag": "C#",
       "url": "https://github.com/KNG7-P/Se7en-Pro"
     },
     {
-      "title": "nv-tlabs/PiD: PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion",
-      "hot": "⭐ 358",
-      "desc": "PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/nv-tlabs/PiD"
-    },
-    {
       "title": "XingYu-Zhong/DeepSeek-GUI: AI agent workspace for DeepSeek models, with Code and",
-      "hot": "⭐ 354",
+      "hot": "⭐ 374",
       "desc": "AI agent workspace for DeepSeek models, with Code and Claw modes built into your application.",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/XingYu-Zhong/DeepSeek-GUI"
     },
     {
+      "title": "nv-tlabs/PiD: PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion",
+      "hot": "⭐ 366",
+      "desc": "PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/nv-tlabs/PiD"
+    },
+    {
       "title": "ShinyaTomitsuka/arbitrage-trading-bot: polymarket trading bot polymarket trading",
-      "hot": "⭐ 339",
+      "hot": "⭐ 340",
       "desc": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket t",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/ShinyaTomitsuka/arbitrage-trading-bot"
-    }
-  ],
-  "dev": [
-    {
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 49 💬 18",
-      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
-      "source": "dev",
-      "tag": "top7,  discuss",
-      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-45na"
-    },
-    {
-      "title": "An LLM API call, in 4 GIFs",
-      "hot": "❤️ 27 💬 13",
-      "desc": "This is the first post of series Building TinyAgent where we are going to build a small agent from...",
-      "source": "dev",
-      "tag": "llm,  javascript",
-      "url": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1"
-    },
-    {
-      "title": "Why does AI forget what you said (and how to fix it)",
-      "hot": "❤️ 43 💬 37",
-      "desc": "I received following comment on my hallucinations blog post.                       Comment on Why...",
-      "source": "dev",
-      "tag": "ai,  beginners",
-      "url": "https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6"
-    },
-    {
-      "title": "The Quiet AI War Inside Your Browser",
-      "hot": "❤️ 0 💬 0",
-      "desc": "Google shipped the Prompt API in Chrome 148 on May 5, 2026. Mozilla objected. Apple's WebKit team...",
-      "source": "dev",
-      "tag": "ai,  frontend",
-      "url": "https://dev.to/obetomuniz/the-quiet-ai-war-inside-your-browser-22hd"
-    },
-    {
-      "title": "Can Google Antigravity 2.0 Pass the \"Napkin Challenge\"? 📝🚀",
-      "hot": "❤️ 12 💬 2",
-      "desc": "🚀 From Napkin Sketch to data-driven real-estate advisor Agent in Under 40 Minutes? 🚀  Can a...",
-      "source": "dev",
-      "tag": "antigravity,  napkinchallenge",
-      "url": "https://dev.to/googleai/can-google-antigravity-20-pass-the-napkin-challenge-2ai2"
-    },
-    {
-      "title": "Github Copilot helped us cut down 50-75% time in our e-commerce business",
-      "hot": "❤️ 2 💬 0",
-      "desc": "This is a submission for the GitHub Finish-Up-A-Thon Challenge           What I Built   A couple of...",
-      "source": "dev",
-      "tag": "devchallenge,  githubchallenge",
-      "url": "https://dev.to/heyitsmarcucu/github-copilot-helped-us-cut-down-50-75-time-in-our-e-commerce-business-10l5"
-    },
-    {
-      "title": "Vibe Code All Google APIs: The Zero-Trust Autonomous Agent for Google Apps Script",
-      "hot": "❤️ 8 💬 0",
-      "desc": "Abstract   Integrating autonomous AI agents into enterprise architectures exposes critical...",
-      "source": "dev",
-      "tag": "ai,  gemini",
-      "url": "https://dev.to/gde/vibe-code-all-google-apis-the-zero-trust-autonomous-agent-for-google-apps-script-jcl"
-    },
-    {
-      "title": "A practitioner's guide to getting more value out of AI coding: agent quality & token optimization",
-      "hot": "❤️ 2 💬 0",
-      "desc": "A practitioner's guide to getting more value out of AI coding agents — drawn from a GitHub workshop on agent quality and",
-      "source": "dev",
-      "tag": "agents,  ai",
-      "url": "https://dev.to/webmaxru/a-practitioners-guide-to-getting-more-value-out-of-ai-coding-agent-quality-token-optimization-3n7j"
-    },
-    {
-      "title": "AI Agent Governance vs IAM vs DLP vs API Gateways: What Each One Actually Covers",
-      "hot": "❤️ 0 💬 0",
-      "desc": "IAM, DLP, and API gateways are necessary parts of an organization's security stack. None of them...",
-      "source": "dev",
-      "tag": "ai,  security",
-      "url": "https://dev.to/jwilliamsr/ai-agent-governance-vs-iam-vs-dlp-vs-api-gateways-what-each-one-actually-covers-50i"
-    },
-    {
-      "title": "Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!",
-      "hot": "❤️ 261 💬 69",
-      "desc": "We're thrilled to announce our newest challenge with GitHub!  Running through June 7, the GitHub...",
-      "source": "dev",
-      "tag": "githubchallenge,  devchallenge",
-      "url": "https://dev.to/devteam/join-the-github-finish-up-a-thon-challenge-3000-prize-pool-f41"
-    },
-    {
-      "title": "Configuring MCP Servers and Skills for Antigravity CLI and IDE",
-      "hot": "❤️ 8 💬 0",
-      "desc": "Introduction   We had a few big announcements from Google I/O 2026 in the AI space. One was...",
-      "source": "dev",
-      "tag": "agentskills,  antigravitycli",
-      "url": "https://dev.to/gde/configuring-mcp-servers-and-skills-for-antigravity-cli-and-ide-2bh0"
-    },
-    {
-      "title": "In Defense of Manual Memory Management",
-      "hot": "❤️ 0 💬 1",
-      "desc": "Why Manual Memory Management Still Matters ?   It is now easier than ever to write software...",
-      "source": "dev",
-      "tag": "programming,  zig",
-      "url": "https://dev.to/dayvster/in-defense-of-manual-memory-management-3jpo"
-    },
-    {
-      "title": "What was your win this week!?",
-      "hot": "❤️ 84 💬 110",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "discuss,  weeklyretro",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-2ohc"
-    },
-    {
-      "title": "How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV",
-      "hot": "❤️ 92 💬 24",
-      "desc": "Big improvements incoming 👋  Finding the right balance for a feed algorithm is historically really...",
-      "source": "dev",
-      "tag": "gemini,  ai",
-      "url": "https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f"
-    },
-    {
-      "title": "Meme Monday",
-      "hot": "❤️ 14 💬 16",
-      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
-      "source": "dev",
-      "tag": "jokes,  discuss",
-      "url": "https://dev.to/ben/meme-monday-194f"
-    },
-    {
-      "title": "OIC: From a Working Toast Watcher to a General \"Watch It for Me\" Agent",
-      "hot": "❤️ 1 💬 0",
-      "desc": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4           What I Learned Trying...",
-      "source": "dev",
-      "tag": "devchallenge,  gemmachallenge",
-      "url": "https://dev.to/straightly/oic-from-a-working-toast-watcher-to-a-general-watch-it-for-me-agent-2njm"
-    },
-    {
-      "title": "I Turned npm outdated into a CI Gate — Here's How",
-      "hot": "❤️ 0 💬 0",
-      "desc": "You run npm outdated and see a list of stale packages. But your CI doesn't care. It passes anyway....",
-      "source": "dev",
-      "tag": "javascript,  node",
-      "url": "https://dev.to/sulthonzh/i-turned-npm-outdated-into-a-ci-gate-heres-how-h0o"
-    },
-    {
-      "title": "vLLM Gemma4 26B Tuning on v6e-4",
-      "hot": "❤️ 9 💬 0",
-      "desc": "✦ The successful benchmark run on TPU v6e-4 used the following \"Balanced Production\" flags. These...",
-      "source": "dev",
-      "tag": "gemmachallenge,  gemma",
-      "url": "https://dev.to/gde/vllm-gemma4-26b-tuning-on-v6e-4-79o"
-    },
-    {
-      "title": "Deploying a Rust MCP Server to Amazon Lambda with Gemini CLI",
-      "hot": "❤️ 5 💬 0",
-      "desc": "The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...",
-      "source": "dev",
-      "tag": "rust,  agents",
-      "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-lambda-with-gemini-cli-41hd"
-    },
-    {
-      "title": "How AI is changing my job as a Staff Engineer: Tracer bullets",
-      "hot": "❤️ 1 💬 1",
-      "desc": "AI is rapidly changing software engineering, and with any kind of technological evolution, we need to...",
-      "source": "dev",
-      "tag": "ai,  productivity",
-      "url": "https://dev.to/vinibrsl/how-ai-is-changing-my-job-as-a-staff-engineer-tracer-bullets-4nck"
-    }
-  ],
-  "tech": [
-    {
-      "title": "I'm Tired of Talking to AI",
-      "hot": "3.0m",
-      "desc": "orchidfiles.com",
-      "source": "tech",
-      "tag": "⬆️ 815 points",
-      "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/"
-    },
-    {
-      "title": "Mini Micro Fantasy Computer",
-      "hot": "3.0m",
-      "desc": "miniscript.org",
-      "source": "tech",
-      "tag": "⬆️ 119 points",
-      "url": "https://miniscript.org/MiniMicro/index.html#about"
-    },
-    {
-      "title": "Why AI Agents Cannot Change Software Systems",
-      "hot": "3.0m",
-      "desc": "phroneses.com",
-      "source": "tech",
-      "tag": "⬆️ 18 points",
-      "url": "https://phroneses.com/articles/build/notes/agents-cannot-maintain-systems.html"
-    },
-    {
-      "title": "XLIDE: VBA without excel",
-      "hot": "3.0m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 24 points",
-      "url": "https://github.com/WilliamSmithEdward/xlide_vscode"
-    },
-    {
-      "title": "Private Equity Bought America's Essential Services",
-      "hot": "2.9m",
-      "desc": "rubbishtalk.com",
-      "source": "tech",
-      "tag": "⬆️ 172 points",
-      "url": "https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/"
-    },
-    {
-      "title": "All of human cooking compressed into 2 megabytes",
-      "hot": "2.9m",
-      "desc": "arxiv.org",
-      "source": "tech",
-      "tag": "⬆️ 131 points",
-      "url": "https://arxiv.org/abs/2605.22391"
-    },
-    {
-      "title": "Thunderbolt vs. USB-C: what the connector hides",
-      "hot": "2.9m",
-      "desc": "whatcable.uk",
-      "source": "tech",
-      "tag": "⬆️ 12 points",
-      "url": "https://www.whatcable.uk/blog/thunderbolt-vs-usb-c"
-    },
-    {
-      "title": "Matrix Multiplications on GPUs Run Faster When Given \"Predictable\" Data",
-      "hot": "2.9m",
-      "desc": "thonking.ai",
-      "source": "tech",
-      "tag": "⬆️ 32 points",
-      "url": "https://www.thonking.ai/p/strangely-matrix-multiplications"
-    },
-    {
-      "title": "Incident with Pull Requests, Issues, Git Operations and API Requests",
-      "hot": "2.9m",
-      "desc": "githubstatus.com",
-      "source": "tech",
-      "tag": "⬆️ 132 points",
-      "url": "https://www.githubstatus.com/incidents/xy1tt3hs572m"
-    },
-    {
-      "title": "Italy region: +200% tax on datacenters built in green/agricultural areas",
-      "hot": "2.9m",
-      "desc": "en.ilsole24ore.com",
-      "source": "tech",
-      "tag": "⬆️ 22 points",
-      "url": "https://en.ilsole24ore.com/art/lombardy-introduces-increased-charges-of-up-to-200-per-cent-for-data-centre-construction-in-green-and-agricultural-areas-AI6Jp4ID"
-    },
-    {
-      "title": "The Melancholy of Slaying Monsters",
-      "hot": "2.9m",
-      "desc": "thereader.mitpress.mit.edu",
-      "source": "tech",
-      "tag": "⬆️ 174 points",
-      "url": "https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/"
-    },
-    {
-      "title": "Raft Consensus with a Minority of Nodes",
-      "hot": "2.8m",
-      "desc": "padhye.org",
-      "source": "tech",
-      "tag": "⬆️ 76 points",
-      "url": "https://padhye.org/raft-minority/"
-    },
-    {
-      "title": "Cloudflare Flagship",
-      "hot": "2.8m",
-      "desc": "developers.cloudflare.com",
-      "source": "tech",
-      "tag": "⬆️ 279 points",
-      "url": "https://developers.cloudflare.com/flagship/"
-    },
-    {
-      "title": "What Is a Direct Attach Copper (DAC) Cable",
-      "hot": "2.8m",
-      "desc": "servethehome.com",
-      "source": "tech",
-      "tag": "⬆️ 54 points",
-      "url": "https://www.servethehome.com/what-is-a-direct-attach-copper-dac-cable/"
-    },
-    {
-      "title": "BadHost – CVE-2026-48710: Starlette Host-Header Auth Bypass",
-      "hot": "2.8m",
-      "desc": "badhost.org",
-      "source": "tech",
-      "tag": "⬆️ 97 points",
-      "url": "https://badhost.org/"
-    },
-    {
-      "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
-      "hot": "2.8m",
-      "desc": "arps18.github.io",
-      "source": "tech",
-      "tag": "⬆️ 160 points",
-      "url": "https://arps18.github.io/posts/claude-code-mastery/"
-    },
-    {
-      "title": "That Methyl Methacrylate Tank",
-      "hot": "2.8m",
-      "desc": "science.org",
-      "source": "tech",
-      "tag": "⬆️ 366 points",
-      "url": "https://www.science.org/content/blog-post/methyl-methacrylate-tank"
-    },
-    {
-      "title": "Go: Support for Generic Methods",
-      "hot": "2.7m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 60 points",
-      "url": "https://github.com/golang/go/issues/77273"
-    },
-    {
-      "title": "The worst job interview I ever had",
-      "hot": "2.7m",
-      "desc": "oliverio.dev",
-      "source": "tech",
-      "tag": "⬆️ 451 points",
-      "url": "https://www.oliverio.dev/blog/the-worst-job-interview-i-had"
-    },
-    {
-      "title": "We are Poles, so, of course, we print in Latin",
-      "hot": "2.7m",
-      "desc": "ustc.ac.uk",
-      "source": "tech",
-      "tag": "⬆️ 64 points",
-      "url": "https://www.ustc.ac.uk/news/we-are-poles-so-of-course-we-print-in-latin"
     }
   ]
 }
