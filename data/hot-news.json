@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-27T23:05:49.865Z",
+  "updatedAt": "2026-05-28T01:19:58.788Z",
   "source": "live",
   "dev": [
     {
@@ -165,11 +165,19 @@
   ],
   "tech": [
     {
+      "title": "Can we have the day off?",
+      "hot": "3.0m",
+      "desc": "mlsu.io",
+      "source": "tech",
+      "tag": "⬆️ 144 points",
+      "url": "https://mlsu.io/posts/day-off/"
+    },
+    {
       "title": "YouTube to automatically label AI-generated videos",
       "hot": "3.0m",
       "desc": "blog.youtube",
       "source": "tech",
-      "tag": "⬆️ 379 points",
+      "tag": "⬆️ 520 points",
       "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/"
     },
     {
@@ -177,7 +185,7 @@
       "hot": "3.0m",
       "desc": "simonwillison.net",
       "source": "tech",
-      "tag": "⬆️ 550 points",
+      "tag": "⬆️ 635 points",
       "url": "https://simonwillison.net/2026/May/27/product-market-fit/"
     },
     {
@@ -185,15 +193,15 @@
       "hot": "3.0m",
       "desc": "jacquescorbytuech.com",
       "source": "tech",
-      "tag": "⬆️ 124 points",
+      "tag": "⬆️ 167 points",
       "url": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications"
     },
     {
       "title": "SimCity 3k in 4k (2025)",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "thran.uk",
       "source": "tech",
-      "tag": "⬆️ 236 points",
+      "tag": "⬆️ 276 points",
       "url": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html"
     },
     {
@@ -201,8 +209,40 @@
       "hot": "2.9m",
       "desc": "sverre.me",
       "source": "tech",
-      "tag": "⬆️ 69 points",
+      "tag": "⬆️ 98 points",
       "url": "https://sverre.me/blog/rust-on-kindle/"
+    },
+    {
+      "title": "A New Typst Template for Pandoc",
+      "hot": "2.9m",
+      "desc": "imaginarytext.ca",
+      "source": "tech",
+      "tag": "⬆️ 25 points",
+      "url": "https://imaginarytext.ca/posts/2025/typst-templates-for-pandoc/"
+    },
+    {
+      "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+      "hot": "2.9m",
+      "desc": "pcgamer.com",
+      "source": "tech",
+      "tag": "⬆️ 658 points",
+      "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/"
+    },
+    {
+      "title": "FBI Arrests CIA Official with $40M in Gold Bars in His Home",
+      "hot": "2.9m",
+      "desc": "nytimes.com",
+      "source": "tech",
+      "tag": "⬆️ 50 points",
+      "url": "https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html"
+    },
+    {
+      "title": "Interleaved Deltas",
+      "hot": "2.9m",
+      "desc": "mmapped.blog",
+      "source": "tech",
+      "tag": "⬆️ 27 points",
+      "url": "https://mmapped.blog/posts/51-interleaved-deltas"
     },
     {
       "title": "Pelica (YC P25) Is Hiring",
@@ -213,138 +253,82 @@
       "url": "https://www.ycombinator.com/companies/pelica/jobs/MDeC49o-machine-learning-engineer"
     },
     {
-      "title": "Internet Traffic in Iran Increasing",
-      "hot": "2.9m",
+      "title": "I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)",
+      "hot": "2.8m",
+      "desc": "jonaharagon.com",
+      "source": "tech",
+      "tag": "⬆️ 55 points",
+      "url": "https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/"
+    },
+    {
+      "title": "Internet traffic in Iran increasing",
+      "hot": "2.8m",
       "desc": "radar.cloudflare.com",
       "source": "tech",
-      "tag": "⬆️ 6 points",
+      "tag": "⬆️ 62 points",
       "url": "https://radar.cloudflare.com/traffic/ir?dateRange=28d"
     },
     {
-      "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-      "hot": "2.9m",
-      "desc": "pcgamer.com",
-      "source": "tech",
-      "tag": "⬆️ 589 points",
-      "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/"
-    },
-    {
       "title": "On Labubu and the Hyperreal",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "2earth.github.io",
       "source": "tech",
-      "tag": "⬆️ 52 points",
+      "tag": "⬆️ 64 points",
       "url": "https://2earth.github.io/website/20260525.html"
-    },
-    {
-      "title": "Interleaved Deltas",
-      "hot": "2.9m",
-      "desc": "mmapped.blog",
-      "source": "tech",
-      "tag": "⬆️ 13 points",
-      "url": "https://mmapped.blog/posts/51-interleaved-deltas"
-    },
-    {
-      "title": "Warm up your MacBook",
-      "hot": "2.9m",
-      "desc": "z3ugma.github.io",
-      "source": "tech",
-      "tag": "⬆️ 21 points",
-      "url": "https://z3ugma.github.io/2019/11/18/warm-up-your-macbook/"
-    },
-    {
-      "title": "Last.fm is now independent",
-      "hot": "2.8m",
-      "desc": "support.last.fm",
-      "source": "tech",
-      "tag": "⬆️ 576 points",
-      "url": "https://support.last.fm/t/last-fm-is-now-independent/118591"
-    },
-    {
-      "title": "Canada to order military plane fleet from Sweden in shift from US suppliers",
-      "hot": "2.8m",
-      "desc": "theguardian.com",
-      "source": "tech",
-      "tag": "⬆️ 339 points",
-      "url": "https://www.theguardian.com/world/2026/may/27/canada-sweden-saab-globaleye-aircraft"
-    },
-    {
-      "title": "Incident with Pull Requests, Issues, Git Operations and API Requests",
-      "hot": "2.8m",
-      "desc": "githubstatus.com",
-      "source": "tech",
-      "tag": "⬆️ 241 points",
-      "url": "https://www.githubstatus.com/incidents/xy1tt3hs572m"
     },
     {
       "title": "Go: Support for Generic Methods",
       "hot": "2.8m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 161 points",
+      "tag": "⬆️ 186 points",
       "url": "https://github.com/golang/go/issues/77273"
     },
     {
-      "title": "Mini Micro Fantasy Computer",
+      "title": "Incident with Pull Requests, Issues, Git Operations and API Requests",
       "hot": "2.8m",
-      "desc": "miniscript.org",
+      "desc": "githubstatus.com",
       "source": "tech",
-      "tag": "⬆️ 226 points",
-      "url": "https://miniscript.org/MiniMicro/index.html#about"
+      "tag": "⬆️ 258 points",
+      "url": "https://www.githubstatus.com/incidents/xy1tt3hs572m"
     },
     {
-      "title": "Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS",
+      "title": "Canada to order military plane fleet from Sweden in shift from US suppliers",
       "hot": "2.8m",
-      "desc": "brennan.day",
+      "desc": "theguardian.com",
       "source": "tech",
-      "tag": "⬆️ 68 points",
-      "url": "https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/"
+      "tag": "⬆️ 399 points",
+      "url": "https://www.theguardian.com/world/2026/may/27/canada-sweden-saab-globaleye-aircraft"
+    },
+    {
+      "title": "Last.fm is now independent",
+      "hot": "2.7m",
+      "desc": "support.last.fm",
+      "source": "tech",
+      "tag": "⬆️ 618 points",
+      "url": "https://support.last.fm/t/last-fm-is-now-independent/118591"
     },
     {
       "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
       "hot": "2.7m",
       "desc": "arps18.github.io",
       "source": "tech",
-      "tag": "⬆️ 341 points",
+      "tag": "⬆️ 368 points",
       "url": "https://arps18.github.io/posts/claude-code-mastery/"
     },
     {
-      "title": "Tech CEOs are apparently suffering from AI psychosis",
+      "title": "Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS",
       "hot": "2.7m",
-      "desc": "techcrunch.com",
+      "desc": "brennan.day",
       "source": "tech",
-      "tag": "⬆️ 500 points",
-      "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/"
-    },
-    {
-      "title": "Freediving, Embodiment and Humanity – Joanna Rutkowska",
-      "hot": "2.7m",
-      "desc": "tracesofhumanity.org",
-      "source": "tech",
-      "tag": "⬆️ 19 points",
-      "url": "https://tracesofhumanity.org/freediving-embodiment-and-humanity/"
+      "tag": "⬆️ 88 points",
+      "url": "https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/"
     }
   ],
   "github": [
     {
-      "title": "perplexityai/bumblebee: Read-only developer endpoint scanner for on-disk package",
-      "hot": "⭐ 3.6k",
-      "desc": "Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-cha",
-      "source": "github",
-      "tag": "Go",
-      "url": "https://github.com/perplexityai/bumblebee"
-    },
-    {
-      "title": "thananon/9arm-skills: ",
-      "hot": "⭐ 2.4k",
-      "desc": "thananon/9arm-skills",
-      "source": "github",
-      "tag": "Shell",
-      "url": "https://github.com/thananon/9arm-skills"
-    },
-    {
       "title": "Tong89/smartNode: ",
-      "hot": "⭐ 1.5k",
+      "hot": "⭐ 1.6k",
       "desc": "Tong89/smartNode",
       "source": "github",
       "tag": "Python",
@@ -360,7 +344,7 @@
     },
     {
       "title": "run-liyi/wechatpay: 微信账单分析工具 - 基于Electron的可视化账单分析应用",
-      "hot": "⭐ 1.0k",
+      "hot": "⭐ 1.1k",
       "desc": "微信账单分析工具 - 基于Electron的可视化账单分析应用",
       "source": "github",
       "tag": "JavaScript",
@@ -368,23 +352,15 @@
     },
     {
       "title": "MoonshotAI/kimi-code: The Starting Point for Next-Gen Agents",
-      "hot": "⭐ 873",
+      "hot": "⭐ 889",
       "desc": "The Starting Point for Next-Gen Agents",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/MoonshotAI/kimi-code"
     },
     {
-      "title": "kageroumado/phosphene: A video wallpaper engine for macOS Tahoe",
-      "hot": "⭐ 688",
-      "desc": "A video wallpaper engine for macOS Tahoe",
-      "source": "github",
-      "tag": "Swift",
-      "url": "https://github.com/kageroumado/phosphene"
-    },
-    {
       "title": "0xSero/codex-shim: Local Responses-API shim that exposes Factory BYOK models (an",
-      "hot": "⭐ 655",
+      "hot": "⭐ 659",
       "desc": "Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop.",
       "source": "github",
       "tag": "Python",
@@ -392,7 +368,7 @@
     },
     {
       "title": "study8677/awesome-architecture: 🗺️ Think like a software architect, not just a ",
-      "hot": "⭐ 554",
+      "hot": "⭐ 567",
       "desc": "🗺️ Think like a software architect, not just a coder — 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a languag",
       "source": "github",
       "tag": "Vue",
@@ -400,7 +376,7 @@
     },
     {
       "title": "zhaoyue4810/pianke: ",
-      "hot": "⭐ 499",
+      "hot": "⭐ 502",
       "desc": "zhaoyue4810/pianke",
       "source": "github",
       "tag": "Python",
@@ -408,27 +384,11 @@
     },
     {
       "title": "XingYu-Zhong/DeepSeek-GUI: AI agent workspace for DeepSeek models, with Code and",
-      "hot": "⭐ 403",
+      "hot": "⭐ 418",
       "desc": "AI agent workspace for DeepSeek models, with Code and Claw modes built into your application.",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/XingYu-Zhong/DeepSeek-GUI"
-    },
-    {
-      "title": "KNG7-P/Se7en-Pro: ",
-      "hot": "⭐ 392",
-      "desc": "KNG7-P/Se7en-Pro",
-      "source": "github",
-      "tag": "C#",
-      "url": "https://github.com/KNG7-P/Se7en-Pro"
-    },
-    {
-      "title": "Unclecheng-li/poc-lab: Recent CVE PoC & reproduction scripts. Focused on high-se",
-      "hot": "⭐ 390",
-      "desc": "Recent CVE PoC & reproduction scripts. Focused on high-severity vulnerabilities across Linux kernel, Windows, macOS and more.",
-      "source": "github",
-      "tag": "C",
-      "url": "https://github.com/Unclecheng-li/poc-lab"
     },
     {
       "title": "nv-tlabs/PiD: PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion",
@@ -439,12 +399,52 @@
       "url": "https://github.com/nv-tlabs/PiD"
     },
     {
+      "title": "UditAkhourii/adhd: ADHD — a skill for coding agents. Tree-of-thought with prunin",
+      "hot": "⭐ 351",
+      "desc": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude Agent SDK. Fans out parallel divergent thoughts under different co",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/UditAkhourii/adhd"
+    },
+    {
       "title": "ShinyaTomitsuka/arbitrage-trading-bot: polymarket trading bot polymarket trading",
       "hot": "⭐ 340",
       "desc": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket t",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/ShinyaTomitsuka/arbitrage-trading-bot"
+    },
+    {
+      "title": "akitaonrails/ai-memory: Solution for long term memory for agent coding CLIs and ",
+      "hot": "⭐ 332",
+      "desc": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/akitaonrails/ai-memory"
+    },
+    {
+      "title": "VILA-Lab/FigMirror: An Automated AI Agent Tool for Plotting Your Data in Any Pap",
+      "hot": "⭐ 330",
+      "desc": "An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/VILA-Lab/FigMirror"
+    },
+    {
+      "title": "jianshuo/ccglass: See what your coding agent (Claude Code, Codex, Kimi) sends to",
+      "hot": "⭐ 314",
+      "desc": "See what your coding agent (Claude Code, Codex, Kimi) sends to the model — local proxy + web dashboard",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/jianshuo/ccglass"
+    },
+    {
+      "title": "yui540/comimi: Open-source comic reader library for JS/TS",
+      "hot": "⭐ 312",
+      "desc": "Open-source comic reader library for JS/TS",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/yui540/comimi"
     }
   ],
   "space": [
