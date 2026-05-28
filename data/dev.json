@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "How Are Developers Actually Using AI At Work?",
-      "hot": "❤️ 70 💬 88",
+      "hot": "❤️ 79 💬 105",
       "desc": "JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...",
       "source": "dev",
       "tag": "discuss,  ai",
@@ -10,7 +10,7 @@
     },
     {
       "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 55 💬 24",
+      "hot": "❤️ 61 💬 24",
       "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
       "source": "dev",
       "tag": "top7,  discuss",
@@ -18,7 +18,7 @@
     },
     {
       "title": "An LLM API call, in 4 GIFs",
-      "hot": "❤️ 32 💬 19",
+      "hot": "❤️ 33 💬 19",
       "desc": "This is the first post of series Building TinyAgent where we are going to build a small agent from...",
       "source": "dev",
       "tag": "llm,  javascript",
@@ -26,35 +26,11 @@
     },
     {
       "title": "Accessibility question: is nesting interactive elements bad?",
-      "hot": "❤️ 10 💬 4",
+      "hot": "❤️ 10 💬 5",
       "desc": "Is it confusing to have links inside labels? Does it break in some screenreaders?",
       "source": "dev",
       "tag": "a11y,  html",
       "url": "https://dev.to/codepo8/accessibility-question-is-nesting-interactive-elements-bad-4oof"
-    },
-    {
-      "title": "I built 'Ask Your Life' — a personal Coral agent that answers questions about your money & deadlines with SQL",
-      "hot": "❤️ 0 💬 0",
-      "desc": "\"Here are the personal admin risks that can cost me money, time, or access this week — with the...",
-      "source": "dev",
-      "tag": "ai,  sql",
-      "url": "https://dev.to/sahil9001/i-built-ask-your-life-a-personal-coral-agent-that-answers-questions-about-your-money--52a8"
-    },
-    {
-      "title": "Using Google's New AI Command-Line Assistant: Antigravity CLI (agy) and YOLO's No-Confirmation Mode",
-      "hot": "❤️ 7 💬 0",
-      "desc": "Background   With generative AI entering daily development, the AI assistant in the...",
-      "source": "dev",
-      "tag": "ai,  cli",
-      "url": "https://dev.to/gde/using-googles-new-ai-command-line-assistant-antigravity-cli-agy-and-yolos-no-confirmation-mode-10d"
-    },
-    {
-      "title": "GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search",
-      "hot": "❤️ 8 💬 0",
-      "desc": "Preface   In the previous article, we successfully upgraded the LINE business card...",
-      "source": "dev",
-      "tag": "ai,  gemini",
-      "url": "https://dev.to/gde/gcp-upgrading-a-line-bot-with-vertex-ai-adk-tools-for-smart-business-cards-and-backup-search-3dpe"
     },
     {
       "title": "Reviving a 12K+ Star Abandoned Library: toastr-next v3 🍞",
@@ -63,6 +39,14 @@
       "source": "dev",
       "tag": "devchallenge,  githubchallenge",
       "url": "https://dev.to/divyesh5981/reviving-a-12k-star-abandoned-library-toastr-next-v3-25mf"
+    },
+    {
+      "title": "GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search",
+      "hot": "❤️ 8 💬 0",
+      "desc": "Preface   In the previous article, we successfully upgraded the LINE business card...",
+      "source": "dev",
+      "tag": "ai,  gemini",
+      "url": "https://dev.to/gde/gcp-upgrading-a-line-bot-with-vertex-ai-adk-tools-for-smart-business-cards-and-backup-search-3dpe"
     },
     {
       "title": "I Built a Tiny Chrome Extension to Save My Mouse Wheel (Auto Scroll)",
@@ -82,11 +66,19 @@
     },
     {
       "title": "Why does AI forget what you said (and how to fix it)",
-      "hot": "❤️ 47 💬 44",
+      "hot": "❤️ 48 💬 44",
       "desc": "I received following comment on my hallucinations blog post.                       Comment on Why...",
       "source": "dev",
       "tag": "ai,  beginners",
       "url": "https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6"
+    },
+    {
+      "title": "I built 'Ask Your Life' — a personal Coral agent that answers questions about your money & deadlines with SQL",
+      "hot": "❤️ 1 💬 1",
+      "desc": "\"Here are the personal admin risks that can cost me money, time, or access this week — with the...",
+      "source": "dev",
+      "tag": "ai,  sql",
+      "url": "https://dev.to/sahil9001/i-built-ask-your-life-a-personal-coral-agent-that-answers-questions-about-your-money--52a8"
     },
     {
       "title": "Advent of Code 2015 days 3-8 in Clojure",
@@ -145,21 +137,29 @@
       "url": "https://dev.to/gde/azure-cloud-shell-with-antigravity-cli-mn6"
     },
     {
-      "title": "Making a New Native App for a Jailbroken iPhone 6",
-      "hot": "❤️ 0 💬 0",
-      "desc": "Build and install a native UIKit app directly on a jailbroken iPhone 6 running iOS 12, using Theos, clang, and Cydia-com",
-      "source": "dev",
-      "tag": "iphone,  ios",
-      "url": "https://dev.to/aeroreyna/making-a-new-native-app-for-a-jailbroken-iphone-6-16o5"
-    },
-    {
       "title": "In Defense of Manual Memory Management",
       "hot": "❤️ 28 💬 1",
       "desc": "Why Manual Memory Management Still Matters ?   It is now easier than ever to write software...",
       "source": "dev",
       "tag": "programming,  zig",
       "url": "https://dev.to/dayvster/in-defense-of-manual-memory-management-3jpo"
+    },
+    {
+      "title": "Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!",
+      "hot": "❤️ 521 💬 70",
+      "desc": "We're thrilled to announce our newest challenge with GitHub!  Running through June 7, the GitHub...",
+      "source": "dev",
+      "tag": "githubchallenge,  devchallenge",
+      "url": "https://dev.to/devteam/join-the-github-finish-up-a-thon-challenge-3000-prize-pool-f41"
+    },
+    {
+      "title": "Github Copilot helped us cut down 50-75% time in our e-commerce business",
+      "hot": "❤️ 35 💬 0",
+      "desc": "This is a submission for the GitHub Finish-Up-A-Thon Challenge           What I Built   A couple of...",
+      "source": "dev",
+      "tag": "devchallenge,  githubchallenge",
+      "url": "https://dev.to/heyitsmarcucu/github-copilot-helped-us-cut-down-50-75-time-in-our-e-commerce-business-10l5"
     }
   ],
-  "updatedAt": "2026-05-28T09:37:44.887Z"
+  "updatedAt": "2026-05-28T12:57:58.365Z"
 }
