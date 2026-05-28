@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "How Are Developers Actually Using AI At Work?",
-      "hot": "❤️ 86 💬 114",
+      "hot": "❤️ 92 💬 117",
       "desc": "JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...",
       "source": "dev",
       "tag": "discuss,  ai",
@@ -10,7 +10,7 @@
     },
     {
       "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 62 💬 24",
+      "hot": "❤️ 67 💬 24",
       "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
       "source": "dev",
       "tag": "top7,  discuss",
@@ -18,19 +18,19 @@
     },
     {
       "title": "An LLM API call, in 4 GIFs",
-      "hot": "❤️ 35 💬 19",
+      "hot": "❤️ 40 💬 19",
       "desc": "This is the first post of series Building TinyAgent where we are going to build a small agent from...",
       "source": "dev",
       "tag": "llm,  javascript",
       "url": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1"
     },
     {
-      "title": "How I built a supersonic AI riddling duel in under 20 Minutes (with zero manual coding)",
-      "hot": "❤️ 3 💬 0",
-      "desc": "Can an AI developer agent build complex full-stack logic without constant hand-holding?   To test...",
+      "title": "How a 500 MB Buffer Killed Our Archival Job — And Why Streaming Fixed It",
+      "hot": "❤️ 4 💬 0",
+      "desc": "The job that kept dying   We run a nightly archival job that exports a few large Postgres...",
       "source": "dev",
-      "tag": "antigravity,  gemini",
-      "url": "https://dev.to/googleai/how-i-built-a-supersonic-ai-riddling-duel-in-under-20-minutes-with-zero-manual-coding-16ah"
+      "tag": "Dev.to",
+      "url": "https://dev.to/harishteens/how-a-500-mb-buffer-killed-our-archival-job-and-why-streaming-fixed-it-4iek"
     },
     {
       "title": "Copilot helped me deploy my passion project to the App Store",
@@ -42,11 +42,27 @@
     },
     {
       "title": "In 2026, you can just prompt your way to a working Android app. 🤯",
-      "hot": "❤️ 3 💬 0",
+      "hot": "❤️ 13 💬 1",
       "desc": "If you’ve been doing Android development for a while, you know the drill. You start a new project,...",
       "source": "dev",
       "tag": "android,  ai",
       "url": "https://dev.to/googleai/in-2026-you-can-just-prompt-your-way-to-a-working-android-app-31i9"
+    },
+    {
+      "title": "How I built a supersonic AI riddling duel in under 20 Minutes (with zero manual coding)",
+      "hot": "❤️ 14 💬 0",
+      "desc": "Can an AI developer agent build complex full-stack logic without constant hand-holding?   To test...",
+      "source": "dev",
+      "tag": "antigravity,  gemini",
+      "url": "https://dev.to/googleai/how-i-built-a-supersonic-ai-riddling-duel-in-under-20-minutes-with-zero-manual-coding-16ah"
+    },
+    {
+      "title": "Building an SEO crawler in TypeScript: what I learned",
+      "hot": "❤️ 3 💬 0",
+      "desc": "I have been working on a project called SEOCore, which is an SEO crawler and audit CLI built with...",
+      "source": "dev",
+      "tag": "programming,  typescript",
+      "url": "https://dev.to/codepurse/building-an-seo-crawler-in-typescript-what-i-learned-1doo"
     },
     {
       "title": "Accessibility question: is nesting interactive elements bad?",
@@ -65,6 +81,14 @@
       "url": "https://dev.to/divyesh5981/reviving-a-12k-star-abandoned-library-toastr-next-v3-25mf"
     },
     {
+      "title": "How I Found a Fake Job Assessment Repo Hiding Malware Inside SVG Files",
+      "hot": "❤️ 0 💬 0",
+      "desc": "Like a lot of developers in this market, I’ve been taking freelance assessments and Discord job leads...",
+      "source": "dev",
+      "tag": "webdev,  security",
+      "url": "https://dev.to/arsen1c/how-i-found-a-fake-job-assessment-repo-hiding-malware-inside-svg-files-13oi"
+    },
+    {
       "title": "GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search",
       "hot": "❤️ 8 💬 0",
       "desc": "Preface   In the previous article, we successfully upgraded the LINE business card...",
@@ -74,7 +98,7 @@
     },
     {
       "title": "Why does AI forget what you said (and how to fix it)",
-      "hot": "❤️ 51 💬 47",
+      "hot": "❤️ 57 💬 47",
       "desc": "I received following comment on my hallucinations blog post.                       Comment on Why...",
       "source": "dev",
       "tag": "ai,  beginners",
@@ -87,6 +111,22 @@
       "source": "dev",
       "tag": "mjml,  i18n",
       "url": "https://dev.to/kralik12/i-love-mjml-i-just-didnt-want-a-whole-templating-engine-for-two-tiny-things-5a10"
+    },
+    {
+      "title": "Build Your First Claude Skill: An Gmail-to-GDrive Receipt Filer in 20 Minutes",
+      "hot": "❤️ 8 💬 0",
+      "desc": "A hands-on tutorial for developers who want to extend Claude with a reusable, file-based skill that...",
+      "source": "dev",
+      "tag": "ai,  claude",
+      "url": "https://dev.to/devpato/build-your-first-claude-skill-an-gmail-to-gdrive-receipt-filer-in-20-minutes-2fn7"
+    },
+    {
+      "title": "Claude Code Slash Commands You Should Know (I wasn't either)",
+      "hot": "❤️ 8 💬 0",
+      "desc": "Here are some Claude Code slash commands you may not know (I didn't know these.)",
+      "source": "dev",
+      "tag": "ai,  claude",
+      "url": "https://dev.to/lizziepika/claude-code-slash-commands-you-should-know-i-wasnt-either-1hnf"
     },
     {
       "title": "I built 'Ask Your Life' — a personal Coral agent that answers questions about your money & deadlines with SQL",
@@ -113,53 +153,13 @@
       "url": "https://dev.to/gde/cross-language-a2a-agent-benchmarking-with-antigravity-cli-hn1"
     },
     {
-      "title": "An AI Agent Wiped a Production Database in 9 Seconds. What Engineers Must Design Before Shipping.",
+      "title": "Broken Software",
       "hot": "❤️ 0 💬 0",
-      "desc": "April 25, 2026. 9 seconds.  That's all it took for a Cursor AI agent to delete the entire production...",
+      "desc": "Series of posts about broken software. Short stories.  Today, Firefox.  Turns out to be that closing...",
       "source": "dev",
-      "tag": "llm,  agents",
-      "url": "https://dev.to/ksr007/an-ai-agent-wiped-a-production-database-in-9-seconds-what-engineers-must-design-before-shipping-5cp4"
-    },
-    {
-      "title": "Vibe Coding Meets Spec-Driven Development: The Best of Both Worlds",
-      "hot": "❤️ 0 💬 0",
-      "desc": "Stop choosing between speed and structure, you don't have to.               The Tension...",
-      "source": "dev",
-      "tag": "ai,  vibecoding",
-      "url": "https://dev.to/ctahirih/vibe-coding-meets-spec-driven-development-the-best-of-both-worlds-3p0c"
-    },
-    {
-      "title": "Revisiting Benchmarking- Building a Rust A2A Agent",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This is a submission for the GitHub Finish-Up-A-Thon Challenge           Cross Language A2A Agent...",
-      "source": "dev",
-      "tag": "devchallenge,  githubchallenge",
-      "url": "https://dev.to/gde/revisiting-benchmarking-building-a-rust-a2a-agent-5bl2"
-    },
-    {
-      "title": "AWS Cloud Shell with Antigravity CLI",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article covers the initial setup and configuration for the Antigravity CLI on the AWS Cloud...",
-      "source": "dev",
-      "tag": "aws,  cli",
-      "url": "https://dev.to/gde/aws-cloud-shell-with-antigravity-cli-e3a"
-    },
-    {
-      "title": "Azure Cloud Shell with Antigravity CLI",
-      "hot": "❤️ 5 💬 0",
-      "desc": "This article covers the initial setup and configuration for the Antigravity CLI on the Azure Cloud...",
-      "source": "dev",
-      "tag": "cli,  azurecloudshell",
-      "url": "https://dev.to/gde/azure-cloud-shell-with-antigravity-cli-mn6"
-    },
-    {
-      "title": "In Defense of Manual Memory Management",
-      "hot": "❤️ 28 💬 1",
-      "desc": "Why Manual Memory Management Still Matters ?   It is now easier than ever to write software...",
-      "source": "dev",
-      "tag": "programming,  zig",
-      "url": "https://dev.to/dayvster/in-defense-of-manual-memory-management-3jpo"
+      "tag": "bugs,  software",
+      "url": "https://dev.to/alex27/broken-software-b54"
     }
   ],
-  "updatedAt": "2026-05-28T16:50:17.775Z"
+  "updatedAt": "2026-05-28T19:30:42.333Z"
 }
