@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "How Are Developers Actually Using AI At Work?",
-      "hot": "❤️ 79 💬 105",
+      "hot": "❤️ 86 💬 114",
       "desc": "JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...",
       "source": "dev",
       "tag": "discuss,  ai",
@@ -10,7 +10,7 @@
     },
     {
       "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 61 💬 24",
+      "hot": "❤️ 62 💬 24",
       "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
       "source": "dev",
       "tag": "top7,  discuss",
@@ -18,11 +18,35 @@
     },
     {
       "title": "An LLM API call, in 4 GIFs",
-      "hot": "❤️ 33 💬 19",
+      "hot": "❤️ 35 💬 19",
       "desc": "This is the first post of series Building TinyAgent where we are going to build a small agent from...",
       "source": "dev",
       "tag": "llm,  javascript",
       "url": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1"
+    },
+    {
+      "title": "How I built a supersonic AI riddling duel in under 20 Minutes (with zero manual coding)",
+      "hot": "❤️ 3 💬 0",
+      "desc": "Can an AI developer agent build complex full-stack logic without constant hand-holding?   To test...",
+      "source": "dev",
+      "tag": "antigravity,  gemini",
+      "url": "https://dev.to/googleai/how-i-built-a-supersonic-ai-riddling-duel-in-under-20-minutes-with-zero-manual-coding-16ah"
+    },
+    {
+      "title": "Copilot helped me deploy my passion project to the App Store",
+      "hot": "❤️ 1 💬 1",
+      "desc": "What I Built   I’ve always had a love-hate relationship with technology. In college, I...",
+      "source": "dev",
+      "tag": "devchallenge,  githubchallenge",
+      "url": "https://dev.to/haritad/copilot-helped-me-deploy-my-passion-project-to-the-app-store-21m6"
+    },
+    {
+      "title": "In 2026, you can just prompt your way to a working Android app. 🤯",
+      "hot": "❤️ 3 💬 0",
+      "desc": "If you’ve been doing Android development for a while, you know the drill. You start a new project,...",
+      "source": "dev",
+      "tag": "android,  ai",
+      "url": "https://dev.to/googleai/in-2026-you-can-just-prompt-your-way-to-a-working-android-app-31i9"
     },
     {
       "title": "Accessibility question: is nesting interactive elements bad?",
@@ -49,12 +73,12 @@
       "url": "https://dev.to/gde/gcp-upgrading-a-line-bot-with-vertex-ai-adk-tools-for-smart-business-cards-and-backup-search-3dpe"
     },
     {
-      "title": "I Built a Tiny Chrome Extension to Save My Mouse Wheel (Auto Scroll)",
-      "hot": "❤️ 5 💬 0",
-      "desc": "I hate endlessly scrolling through long docs, articles, or social feeds just to keep up with content,...",
+      "title": "Why does AI forget what you said (and how to fix it)",
+      "hot": "❤️ 51 💬 47",
+      "desc": "I received following comment on my hallucinations blog post.                       Comment on Why...",
       "source": "dev",
-      "tag": "webdev,  learning",
-      "url": "https://dev.to/codebunny20/i-built-a-tiny-chrome-extension-to-save-my-mouse-wheel-auto-scroll-1f8e"
+      "tag": "ai,  beginners",
+      "url": "https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6"
     },
     {
       "title": "I love MJML — I just didn't want a whole templating engine for two tiny things",
@@ -63,14 +87,6 @@
       "source": "dev",
       "tag": "mjml,  i18n",
       "url": "https://dev.to/kralik12/i-love-mjml-i-just-didnt-want-a-whole-templating-engine-for-two-tiny-things-5a10"
-    },
-    {
-      "title": "Why does AI forget what you said (and how to fix it)",
-      "hot": "❤️ 48 💬 44",
-      "desc": "I received following comment on my hallucinations blog post.                       Comment on Why...",
-      "source": "dev",
-      "tag": "ai,  beginners",
-      "url": "https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6"
     },
     {
       "title": "I built 'Ask Your Life' — a personal Coral agent that answers questions about your money & deadlines with SQL",
@@ -87,6 +103,14 @@
       "source": "dev",
       "tag": "clojure,  adventofcode",
       "url": "https://dev.to/andyn/advent-of-code-2015-days-3-8-in-clojure-3c94"
+    },
+    {
+      "title": "Cross Language A2A Agent Benchmarking with Antigravity CLI",
+      "hot": "❤️ 5 💬 0",
+      "desc": "Building a Benchmarking Agent with A2A and MCP   This tutorial aims to build and test...",
+      "source": "dev",
+      "tag": "mcps,  googleadk",
+      "url": "https://dev.to/gde/cross-language-a2a-agent-benchmarking-with-antigravity-cli-hn1"
     },
     {
       "title": "An AI Agent Wiped a Production Database in 9 Seconds. What Engineers Must Design Before Shipping.",
@@ -113,14 +137,6 @@
       "url": "https://dev.to/gde/revisiting-benchmarking-building-a-rust-a2a-agent-5bl2"
     },
     {
-      "title": "Polish Blog About Wikipedia",
-      "hot": "❤️ 0 💬 1",
-      "desc": "Introducing a new Polish education project about Wikipedia",
-      "source": "dev",
-      "tag": "wikipedia,  seo",
-      "url": "https://dev.to/jcubic/polish-blog-about-wikipedia-49g3"
-    },
-    {
       "title": "AWS Cloud Shell with Antigravity CLI",
       "hot": "❤️ 6 💬 0",
       "desc": "This article covers the initial setup and configuration for the Antigravity CLI on the AWS Cloud...",
@@ -143,23 +159,7 @@
       "source": "dev",
       "tag": "programming,  zig",
       "url": "https://dev.to/dayvster/in-defense-of-manual-memory-management-3jpo"
-    },
-    {
-      "title": "Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!",
-      "hot": "❤️ 521 💬 70",
-      "desc": "We're thrilled to announce our newest challenge with GitHub!  Running through June 7, the GitHub...",
-      "source": "dev",
-      "tag": "githubchallenge,  devchallenge",
-      "url": "https://dev.to/devteam/join-the-github-finish-up-a-thon-challenge-3000-prize-pool-f41"
-    },
-    {
-      "title": "Github Copilot helped us cut down 50-75% time in our e-commerce business",
-      "hot": "❤️ 35 💬 0",
-      "desc": "This is a submission for the GitHub Finish-Up-A-Thon Challenge           What I Built   A couple of...",
-      "source": "dev",
-      "tag": "devchallenge,  githubchallenge",
-      "url": "https://dev.to/heyitsmarcucu/github-copilot-helped-us-cut-down-50-75-time-in-our-e-commerce-business-10l5"
     }
   ],
-  "updatedAt": "2026-05-28T12:57:58.365Z"
+  "updatedAt": "2026-05-28T16:50:17.775Z"
 }
