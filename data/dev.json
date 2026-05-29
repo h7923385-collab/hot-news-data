@@ -1,44 +1,68 @@
 {
   "data": [
     {
+      "title": "What was your win this week?",
+      "hot": "❤️ 20 💬 8",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "discuss,  weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-i1"
+    },
+    {
       "title": "How Are Developers Actually Using AI At Work?",
-      "hot": "❤️ 106 💬 138",
+      "hot": "❤️ 112 💬 151",
       "desc": "JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...",
       "source": "dev",
       "tag": "discuss,  ai",
       "url": "https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c"
     },
     {
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 68 💬 25",
-      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
-      "source": "dev",
-      "tag": "top7,  discuss",
-      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-45na"
-    },
-    {
       "title": "I Spent 10x Longer Debugging AI Code Than Writing It",
-      "hot": "❤️ 31 💬 62",
+      "hot": "❤️ 32 💬 70",
       "desc": "AI wrote the code in 30 seconds  Three lines A simple function I prompted it generated I copied It...",
       "source": "dev",
       "tag": "ai,  programming",
       "url": "https://dev.to/harsh2644/i-spent-10x-longer-debugging-ai-code-than-writing-it-15h4"
     },
     {
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "hot": "❤️ 69 💬 25",
+      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+      "source": "dev",
+      "tag": "top7,  discuss",
+      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-45na"
+    },
+    {
+      "title": "The Kubernetes Overkill: Why I Built a \"K8s Killer\" for Small Environments",
+      "hot": "❤️ 7 💬 1",
+      "desc": "Let’s be honest: Kubernetes is the undisputed king of orchestration. But if you are running a small...",
+      "source": "dev",
+      "tag": "Dev.to",
+      "url": "https://dev.to/gde/the-kubernetes-overkill-why-i-built-a-k8s-killer-for-small-environments-m9k"
+    },
+    {
       "title": "Copilot helped me deploy my passion project to the App Store",
-      "hot": "❤️ 7 💬 3",
+      "hot": "❤️ 7 💬 4",
       "desc": "What I Built   I’ve always had a love-hate relationship with technology. In college, I...",
       "source": "dev",
       "tag": "devchallenge,  githubchallenge",
       "url": "https://dev.to/haritad/copilot-helped-me-deploy-my-passion-project-to-the-app-store-21m6"
     },
     {
-      "title": "Accessibility question: is nesting interactive elements bad?",
-      "hot": "❤️ 10 💬 5",
-      "desc": "Is it confusing to have links inside labels? Does it break in some screenreaders?",
+      "title": "Gemma 4 Deployment with NVIDIA L4, MCP, Cloud Run, and Antigravity CLI",
+      "hot": "❤️ 5 💬 0",
+      "desc": "This article provides a step by step deployment guide for Gemma 4 to a Google Cloud Run hosted GPU...",
       "source": "dev",
-      "tag": "a11y,  html",
-      "url": "https://dev.to/codepo8/accessibility-question-is-nesting-interactive-elements-bad-4oof"
+      "tag": "googlecloudrun,  antigravitycli",
+      "url": "https://dev.to/gde/gemma-4-deployment-with-nvidia-l4-mcp-cloud-run-and-antigravity-cli-19h"
+    },
+    {
+      "title": "An LLM API call, in 4 GIFs",
+      "hot": "❤️ 51 💬 28",
+      "desc": "This is the first post of series Building TinyAgent where we are going to build a small agent from...",
+      "source": "dev",
+      "tag": "llm,  javascript",
+      "url": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1"
     },
     {
       "title": "How a 500 MB Buffer Killed Our Archival Job — And Why Streaming Fixed It",
@@ -49,24 +73,8 @@
       "url": "https://dev.to/harishteens/how-a-500-mb-buffer-killed-our-archival-job-and-why-streaming-fixed-it-4iek"
     },
     {
-      "title": "An LLM API call, in 4 GIFs",
-      "hot": "❤️ 48 💬 25",
-      "desc": "This is the first post of series Building TinyAgent where we are going to build a small agent from...",
-      "source": "dev",
-      "tag": "llm,  javascript",
-      "url": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1"
-    },
-    {
-      "title": "Why does AI forget what you said (and how to fix it)",
-      "hot": "❤️ 58 💬 50",
-      "desc": "I received following comment on my hallucinations blog post.                       Comment on Why...",
-      "source": "dev",
-      "tag": "ai,  beginners",
-      "url": "https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6"
-    },
-    {
       "title": "Winner Announcement Delayed for the Gemma 4 Challenge",
-      "hot": "❤️ 27 💬 9",
+      "hot": "❤️ 28 💬 10",
       "desc": "Hey all, we have a quick update for everyone who participated in the Gemma 4 Challenge.  We were...",
       "source": "dev",
       "tag": "devchallenge,  gemmachallenge",
@@ -82,11 +90,19 @@
     },
     {
       "title": "In 2026, you can just prompt your way to a working Android app. 🤯",
-      "hot": "❤️ 15 💬 6",
+      "hot": "❤️ 15 💬 7",
       "desc": "If you’ve been doing Android development for a while, you know the drill. You start a new project,...",
       "source": "dev",
       "tag": "android,  ai",
       "url": "https://dev.to/googleai/in-2026-you-can-just-prompt-your-way-to-a-working-android-app-31i9"
+    },
+    {
+      "title": "Local Gemma 4 Deployment with MCP and Antigravity CLI",
+      "hot": "❤️ 5 💬 0",
+      "desc": "This article provides a step by step deployment guide for Gemma 4 to a 13th Gen Intel i7–1360P...",
+      "source": "dev",
+      "tag": "ollama,  gemma4",
+      "url": "https://dev.to/gde/local-gemma-4-deployment-with-mcp-and-antigravity-cli-hk8"
     },
     {
       "title": "How I built a supersonic AI riddling duel in under 20 Minutes (with zero manual coding)",
@@ -137,29 +153,13 @@
       "url": "https://dev.to/alex27/broken-software-b54"
     },
     {
-      "title": "An AI Agent Wiped a Production Database in 9 Seconds. What Engineers Must Design Before Shipping.",
-      "hot": "❤️ 0 💬 0",
-      "desc": "April 25, 2026. 9 seconds.  That's all it took for a Cursor AI agent to delete the entire production...",
-      "source": "dev",
-      "tag": "llm,  agents",
-      "url": "https://dev.to/ksr007/an-ai-agent-wiped-a-production-database-in-9-seconds-what-engineers-must-design-before-shipping-5cp4"
-    },
-    {
       "title": "Revisiting Benchmarking- Building a Rust A2A Agent",
       "hot": "❤️ 6 💬 0",
       "desc": "This is a submission for the GitHub Finish-Up-A-Thon Challenge           Cross Language A2A Agent...",
       "source": "dev",
       "tag": "devchallenge,  githubchallenge",
       "url": "https://dev.to/gde/revisiting-benchmarking-building-a-rust-a2a-agent-5bl2"
-    },
-    {
-      "title": "AWS Cloud Shell with Antigravity CLI",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article covers the initial setup and configuration for the Antigravity CLI on the AWS Cloud...",
-      "source": "dev",
-      "tag": "aws,  cli",
-      "url": "https://dev.to/gde/aws-cloud-shell-with-antigravity-cli-e3a"
     }
   ],
-  "updatedAt": "2026-05-29T12:14:18.296Z"
+  "updatedAt": "2026-05-29T16:11:28.904Z"
 }
