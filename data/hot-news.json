@@ -1,207 +1,61 @@
 {
-  "updatedAt": "2026-05-30T19:59:56.308Z",
+  "updatedAt": "2026-05-30T20:57:05.174Z",
   "source": "live",
-  "dev": [
-    {
-      "title": "How Are Developers Actually Using AI At Work?",
-      "hot": "❤️ 140 💬 167",
-      "desc": "JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...",
-      "source": "dev",
-      "tag": "discuss,  ai",
-      "url": "https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c"
-    },
-    {
-      "title": "What was your win this week?",
-      "hot": "❤️ 44 💬 36",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "discuss,  weeklyretro",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-i1"
-    },
-    {
-      "title": "I Made My AI Models Argue, Then Let Hermes Be the Judge",
-      "hot": "❤️ 10 💬 4",
-      "desc": "A $0 multi-model decision agent: three LLMs debate, Hermes judges, and it learns who to trust.",
-      "source": "dev",
-      "tag": "hermesagentchallenge,  devchallenge",
-      "url": "https://dev.to/arqamwd/i-made-my-ai-models-argue-then-let-hermes-be-the-judge-5e6c"
-    },
-    {
-      "title": "An LLM API call, in 4 GIFs",
-      "hot": "❤️ 74 💬 44",
-      "desc": "This is the first post of series Building TinyAgent where we are going to build a small agent from...",
-      "source": "dev",
-      "tag": "llm,  javascript",
-      "url": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1"
-    },
-    {
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 73 💬 27",
-      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
-      "source": "dev",
-      "tag": "top7,  discuss",
-      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-45na"
-    },
-    {
-      "title": "How Model Distillation Actually Works (and What the 'China Distilled Our Model' Headlines Really Mean)",
-      "hot": "❤️ 4 💬 0",
-      "desc": "A practical, no-hype explainer of knowledge distillation in LLMs — the actual mechanics, why distilling from a closed AP",
-      "source": "dev",
-      "tag": "machinelearning,  ai",
-      "url": "https://dev.to/p0rt/how-model-distillation-actually-works-and-what-the-china-distilled-our-model-headlines-really-3o0o"
-    },
-    {
-      "title": "Gemma 4 Deployment with NVIDIA L4, MCP, Cloud Run, and Antigravity CLI",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article provides a step by step deployment guide for Gemma 4 to a Google Cloud Run hosted GPU...",
-      "source": "dev",
-      "tag": "googlecloudrun,  antigravitycli",
-      "url": "https://dev.to/gde/gemma-4-deployment-with-nvidia-l4-mcp-cloud-run-and-antigravity-cli-19h"
-    },
-    {
-      "title": "I was wrong about Electron",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Why I moved Paseo from Tauri to Electron",
-      "source": "dev",
-      "tag": "electron,  tauri",
-      "url": "https://dev.to/moboudra/i-was-wrong-about-electron-1e9g"
-    },
-    {
-      "title": "Anyone Can Make Software Now. But When Does A Side Project Become Production Ready?",
-      "hot": "❤️ 0 💬 0",
-      "desc": "Agentic coding has brought AI crashing into the software industry, but just because you can make a project quickly, that",
-      "source": "dev",
-      "tag": "webdev,  ai",
-      "url": "https://dev.to/viktor_koves/anyone-can-make-software-now-but-when-does-a-side-project-become-production-ready-37n1"
-    },
-    {
-      "title": "VS Code Prompt Files - Custom Slash Commands for GitHub Copilot",
-      "hot": "❤️ 1 💬 1",
-      "desc": "Prompt files turn repeated GitHub Copilot chat requests into slash commands. You write the...",
-      "source": "dev",
-      "tag": "ai,  githubcopilot",
-      "url": "https://dev.to/petermilovcik/vs-code-prompt-files-custom-slash-commands-for-github-copilot-1m4f"
-    },
-    {
-      "title": "DevRelCon NYC 2026: Where Developer Relations, DevX, & Developer Marketing Come Together",
-      "hot": "❤️ 20 💬 2",
-      "desc": "TL;DR -DevRelCon NYC returns to Industry City in Brooklyn on July 22–23, 2026. It's the flagship...",
-      "source": "dev",
-      "tag": "devrel,  career",
-      "url": "https://dev.to/mlh/devrelcon-nyc-2026-where-developer-relations-devx-developer-marketing-come-together-5468"
-    },
-    {
-      "title": "🦄 Modernizing Wild Rydes with modern technologies",
-      "hot": "❤️ 0 💬 0",
-      "desc": "How I rebuilt the classic AWS Wild Rydes serverless app with Terraform, GitHub Actions, S3 + CloudFront, OIDC, and a mod",
-      "source": "dev",
-      "tag": "aws,  terraform",
-      "url": "https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p"
-    },
-    {
-      "title": "I love MJML — I just didn't want a whole templating engine for two tiny things",
-      "hot": "❤️ 0 💬 1",
-      "desc": "I love MJML.  Responsive HTML email is one of the genuinely miserable corners of frontend — nested...",
-      "source": "dev",
-      "tag": "mjml,  i18n",
-      "url": "https://dev.to/kralik12/i-love-mjml-i-just-didnt-want-a-whole-templating-engine-for-two-tiny-things-5a10"
-    },
-    {
-      "title": "The Stylelint Rule That Was Silently Rewriting Our SCSS Colors",
-      "hot": "❤️ 0 💬 0",
-      "desc": "How color-function-notation silently rewrote rgba() to rgb() across our codebase — and three ways to fix it.",
-      "source": "dev",
-      "tag": "angular,  scss",
-      "url": "https://dev.to/shanky1992/the-stylelint-rule-that-was-silently-rewriting-our-scss-colors-15pb"
-    },
-    {
-      "title": "The Software Developer's Guide to AEO",
-      "hot": "❤️ 0 💬 0",
-      "desc": "When I was writing code full-time five years ago, I Googled error messages, opened five tabs, and...",
-      "source": "dev",
-      "tag": "ai,  contentwriting",
-      "url": "https://dev.to/karllhughes/the-software-developers-guide-to-aeo-1h5h"
-    },
-    {
-      "title": "Building an SEO crawler in TypeScript: what I learned",
-      "hot": "❤️ 4 💬 1",
-      "desc": "I have been working on a project called SEOCore, which is an SEO crawler and audit CLI built with...",
-      "source": "dev",
-      "tag": "programming,  typescript",
-      "url": "https://dev.to/codepurse/building-an-seo-crawler-in-typescript-what-i-learned-1doo"
-    },
-    {
-      "title": "Cross Language A2A Agent Benchmarking with Antigravity CLI",
-      "hot": "❤️ 5 💬 0",
-      "desc": "Building a Benchmarking Agent with A2A and MCP   This tutorial aims to build and test...",
-      "source": "dev",
-      "tag": "mcps,  googleadk",
-      "url": "https://dev.to/gde/cross-language-a2a-agent-benchmarking-with-antigravity-cli-hn1"
-    },
-    {
-      "title": "Broken Software",
-      "hot": "❤️ 0 💬 0",
-      "desc": "Series of posts about broken software. Short stories.  Today, Firefox.  Turns out to be that closing...",
-      "source": "dev",
-      "tag": "bugs,  software",
-      "url": "https://dev.to/alex27/broken-software-b54"
-    },
-    {
-      "title": "Revisiting Benchmarking- Building a Rust A2A Agent",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This is a submission for the GitHub Finish-Up-A-Thon Challenge           Cross Language A2A Agent...",
-      "source": "dev",
-      "tag": "devchallenge,  githubchallenge",
-      "url": "https://dev.to/gde/revisiting-benchmarking-building-a-rust-a2a-agent-5bl2"
-    },
-    {
-      "title": "AWS Cloud Shell with Antigravity CLI",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article covers the initial setup and configuration for the Antigravity CLI on the AWS Cloud...",
-      "source": "dev",
-      "tag": "aws,  cli",
-      "url": "https://dev.to/gde/aws-cloud-shell-with-antigravity-cli-e3a"
-    }
-  ],
   "tech": [
-    {
-      "title": "Ernst & Young published cybersecurity report full of hallucinations",
-      "hot": "3.0m",
-      "desc": "gptzero.me",
-      "source": "tech",
-      "tag": "⬆️ 104 points",
-      "url": "https://gptzero.me/investigations/ey"
-    },
     {
       "title": "OpenRouter raises $113M Series B",
       "hot": "3.0m",
       "desc": "openrouter.ai",
       "source": "tech",
-      "tag": "⬆️ 195 points",
+      "tag": "⬆️ 242 points",
       "url": "https://openrouter.ai/announcements/series-b"
     },
     {
-      "title": "Hormuz crisis side effect: a sharp rise in container shipping rates",
+      "title": "I found a seashell in the middle of the desert",
       "hot": "3.0m",
-      "desc": "lloydslist.com",
+      "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 63 points",
-      "url": "https://www.lloydslist.com/LL1157327/Hormuz-crisis-side-effect-a-sharp-rise-in-container-shipping-rates"
+      "tag": "⬆️ 65 points",
+      "url": "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert"
     },
     {
       "title": "Zig ELF Linker Improvements Devlog",
       "hot": "3.0m",
       "desc": "ziglang.org",
       "source": "tech",
-      "tag": "⬆️ 94 points",
+      "tag": "⬆️ 126 points",
       "url": "https://ziglang.org/devlog/2026/#2026-05-30"
     },
     {
-      "title": "Voxel Space",
+      "title": "Show HN: 500 years of Joseon court omens as an observability dashboard",
+      "hot": "3.0m",
+      "desc": "ajin.im",
+      "source": "tech",
+      "tag": "⬆️ 42 points",
+      "url": "https://ajin.im/is/building/omen.ops/"
+    },
+    {
+      "title": "Hormuz crisis side effect: a sharp rise in container shipping rates",
+      "hot": "2.9m",
+      "desc": "lloydslist.com",
+      "source": "tech",
+      "tag": "⬆️ 101 points",
+      "url": "https://www.lloydslist.com/LL1157327/Hormuz-crisis-side-effect-a-sharp-rise-in-container-shipping-rates"
+    },
+    {
+      "title": "Jef Raskin, the Visionary Behind the Mac (2013)",
+      "hot": "2.9m",
+      "desc": "lowendmac.com",
+      "source": "tech",
+      "tag": "⬆️ 17 points",
+      "url": "https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/"
+    },
+    {
+      "title": "Voxel Space (2017)",
       "hot": "2.9m",
       "desc": "s-macke.github.io",
       "source": "tech",
-      "tag": "⬆️ 193 points",
+      "tag": "⬆️ 216 points",
       "url": "https://s-macke.github.io/VoxelSpace/"
     },
     {
@@ -209,23 +63,23 @@
       "hot": "2.9m",
       "desc": "righto.com",
       "source": "tech",
-      "tag": "⬆️ 46 points",
+      "tag": "⬆️ 57 points",
       "url": "https://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html"
     },
     {
-      "title": "Let's talk about EU Sovereignty (2025)",
+      "title": "Parallel Reconstruction of Lawful TLS Wiretapping",
       "hot": "2.9m",
-      "desc": "musings.martyn.berlin",
+      "desc": "remyhax.xyz",
       "source": "tech",
-      "tag": "⬆️ 33 points",
-      "url": "https://musings.martyn.berlin/lets-talk-about-eu-sovereignty"
+      "tag": "⬆️ 10 points",
+      "url": "https://remyhax.xyz/posts/reproducing-lawful-tls-wiretapping/"
     },
     {
       "title": "Openrsync: An implementation of rsync, by the OpenBSD team",
       "hot": "2.9m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 254 points",
+      "tag": "⬆️ 267 points",
       "url": "https://github.com/kristapsdz/openrsync"
     },
     {
@@ -233,96 +87,80 @@
       "hot": "2.9m",
       "desc": "pandoc-templates.org",
       "source": "tech",
-      "tag": "⬆️ 317 points",
+      "tag": "⬆️ 325 points",
       "url": "https://pandoc-templates.org/"
     },
     {
       "title": "Werner Herzog in conversation with Paul Cronin (2014)",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "fsgworkinprogress.com",
       "source": "tech",
-      "tag": "⬆️ 47 points",
+      "tag": "⬆️ 53 points",
       "url": "https://fsgworkinprogress.com/2014/09/26/insignificant-bullets-evil-poachers-and-l-a-culture/"
     },
     {
-      "title": "Show HN: 500 years of Joseon court omens as an observability dashboard",
-      "hot": "2.9m",
-      "desc": "ajin.im",
-      "source": "tech",
-      "tag": "⬆️ 6 points",
-      "url": "https://ajin.im/is/building/omen.ops/"
-    },
-    {
-      "title": "Jef Raskin, the Visionary Behind the Mac",
+      "title": "EY Canada published a cybersecurity report and most citations were hallucinated",
       "hot": "2.8m",
-      "desc": "lowendmac.com",
+      "desc": "gptzero.me",
       "source": "tech",
-      "tag": "⬆️ 4 points",
-      "url": "https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/"
-    },
-    {
-      "title": "Navier-Stokes fluid simulation explained with Godot game engine",
-      "hot": "2.8m",
-      "desc": "myzopotamia.dev",
-      "source": "tech",
-      "tag": "⬆️ 137 points",
-      "url": "https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot"
+      "tag": "⬆️ 200 points",
+      "url": "https://gptzero.me/investigations/ey"
     },
     {
       "title": "It Takes Two Neurons to Ride a Bicycle",
       "hot": "2.8m",
       "desc": "fermatslibrary.com",
       "source": "tech",
-      "tag": "⬆️ 68 points",
+      "tag": "⬆️ 77 points",
       "url": "https://fermatslibrary.com/s/it-takes-two-neurons-to-ride-a-bicycle#email-newsletter"
+    },
+    {
+      "title": "Navier-Stokes fluid simulation explained with Godot game engine",
+      "hot": "2.8m",
+      "desc": "myzopotamia.dev",
+      "source": "tech",
+      "tag": "⬆️ 145 points",
+      "url": "https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot"
+    },
+    {
+      "title": "An OS in pure Rust with its own TCP/IP and TLS 1.3 stack, fetching the live web",
+      "hot": "2.8m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 6 points",
+      "url": "https://github.com/rfi-irfos/rusty-penguin"
     },
     {
       "title": "Downdetector and Speedtest sold to Accenture for $1.2B",
       "hot": "2.8m",
       "desc": "theverge.com",
       "source": "tech",
-      "tag": "⬆️ 130 points",
+      "tag": "⬆️ 154 points",
       "url": "https://www.theverge.com/tech/889234/downdetector-ookla-speedtest-sold-accenture"
     },
     {
-      "title": "I found a seashell in the middle of the desert",
-      "hot": "2.8m",
-      "desc": "github.com",
+      "title": "We are constantly broadcasting emotional data",
+      "hot": "2.7m",
+      "desc": "tonyrice.me",
+      "source": "tech",
+      "tag": "⬆️ 12 points",
+      "url": "https://www.tonyrice.me/emotional-intelligence/"
+    },
+    {
+      "title": "A disappearing Service Processor (2025)",
+      "hot": "2.7m",
+      "desc": "oxide.computer",
       "source": "tech",
       "tag": "⬆️ 4 points",
-      "url": "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert"
+      "url": "https://oxide.computer/blog/cosmo-sp"
     },
     {
       "title": "IXI's autofocusing lenses are almost ready to replace multifocal glasses",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "engadget.com",
       "source": "tech",
-      "tag": "⬆️ 123 points",
+      "tag": "⬆️ 126 points",
       "url": "https://www.engadget.com/wearables/ixis-autofocusing-lenses-multifocal-glasses-ces-2026-212608427.html"
-    },
-    {
-      "title": "Searching for Birds",
-      "hot": "2.7m",
-      "desc": "searchingforbirds.visualcinnamon.com",
-      "source": "tech",
-      "tag": "⬆️ 14 points",
-      "url": "https://SearchingForBirds.VisualCinnamon.com/"
-    },
-    {
-      "title": "Zig: Build System Reworked",
-      "hot": "2.7m",
-      "desc": "ziglang.org",
-      "source": "tech",
-      "tag": "⬆️ 296 points",
-      "url": "https://ziglang.org/devlog/2026/#2026-05-26"
-    },
-    {
-      "title": "What Happened to the Locusts?",
-      "hot": "2.7m",
-      "desc": "explosion-scratch.github.io",
-      "source": "tech",
-      "tag": "⬆️ 169 points",
-      "url": "https://explosion-scratch.github.io/locusts/"
     }
   ],
   "space": [
@@ -447,6 +285,168 @@
       "url": "https://arstechnica.com/space/2026/05/heres-why-the-failure-of-blue-origins-new-glenn-rocket-is-so-catastrophic/"
     }
   ],
+  "dev": [
+    {
+      "title": "How Are Developers Actually Using AI At Work?",
+      "hot": "❤️ 140 💬 168",
+      "desc": "JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...",
+      "source": "dev",
+      "tag": "discuss,  ai",
+      "url": "https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c"
+    },
+    {
+      "title": "What was your win this week?",
+      "hot": "❤️ 44 💬 36",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "discuss,  weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-i1"
+    },
+    {
+      "title": "I Made My AI Models Argue, Then Let Hermes Be the Judge",
+      "hot": "❤️ 11 💬 5",
+      "desc": "A $0 multi-model decision agent: three LLMs debate, Hermes judges, and it learns who to trust.",
+      "source": "dev",
+      "tag": "hermesagentchallenge,  devchallenge",
+      "url": "https://dev.to/arqamwd/i-made-my-ai-models-argue-then-let-hermes-be-the-judge-5e6c"
+    },
+    {
+      "title": "An LLM API call, in 4 GIFs",
+      "hot": "❤️ 75 💬 44",
+      "desc": "This is the first post of series Building TinyAgent where we are going to build a small agent from...",
+      "source": "dev",
+      "tag": "llm,  javascript",
+      "url": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1"
+    },
+    {
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "hot": "❤️ 73 💬 27",
+      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+      "source": "dev",
+      "tag": "top7,  discuss",
+      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-45na"
+    },
+    {
+      "title": "Gemma 4 Deployment with NVIDIA L4, MCP, Cloud Run, and Antigravity CLI",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article provides a step by step deployment guide for Gemma 4 to a Google Cloud Run hosted GPU...",
+      "source": "dev",
+      "tag": "googlecloudrun,  antigravitycli",
+      "url": "https://dev.to/gde/gemma-4-deployment-with-nvidia-l4-mcp-cloud-run-and-antigravity-cli-19h"
+    },
+    {
+      "title": "I was wrong about Electron",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Why I moved Paseo from Tauri to Electron",
+      "source": "dev",
+      "tag": "electron,  tauri",
+      "url": "https://dev.to/moboudra/i-was-wrong-about-electron-1e9g"
+    },
+    {
+      "title": "Anyone Can Make Software Now. But When Does A Side Project Become Production Ready?",
+      "hot": "❤️ 0 💬 0",
+      "desc": "Agentic coding has brought AI crashing into the software industry, but just because you can make a project quickly, that",
+      "source": "dev",
+      "tag": "webdev,  ai",
+      "url": "https://dev.to/viktor_koves/anyone-can-make-software-now-but-when-does-a-side-project-become-production-ready-37n1"
+    },
+    {
+      "title": "VS Code Prompt Files - Custom Slash Commands for GitHub Copilot",
+      "hot": "❤️ 1 💬 1",
+      "desc": "Prompt files turn repeated GitHub Copilot chat requests into slash commands. You write the...",
+      "source": "dev",
+      "tag": "ai,  githubcopilot",
+      "url": "https://dev.to/petermilovcik/vs-code-prompt-files-custom-slash-commands-for-github-copilot-1m4f"
+    },
+    {
+      "title": "DevRelCon NYC 2026: Where Developer Relations, DevX, & Developer Marketing Come Together",
+      "hot": "❤️ 20 💬 2",
+      "desc": "TL;DR -DevRelCon NYC returns to Industry City in Brooklyn on July 22–23, 2026. It's the flagship...",
+      "source": "dev",
+      "tag": "devrel,  career",
+      "url": "https://dev.to/mlh/devrelcon-nyc-2026-where-developer-relations-devx-developer-marketing-come-together-5468"
+    },
+    {
+      "title": "🦄 Modernizing Wild Rydes with modern technologies",
+      "hot": "❤️ 0 💬 0",
+      "desc": "How I rebuilt the classic AWS Wild Rydes serverless app with Terraform, GitHub Actions, S3 + CloudFront, OIDC, and a mod",
+      "source": "dev",
+      "tag": "aws,  terraform",
+      "url": "https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p"
+    },
+    {
+      "title": "I love MJML — I just didn't want a whole templating engine for two tiny things",
+      "hot": "❤️ 0 💬 1",
+      "desc": "I love MJML.  Responsive HTML email is one of the genuinely miserable corners of frontend — nested...",
+      "source": "dev",
+      "tag": "mjml,  i18n",
+      "url": "https://dev.to/kralik12/i-love-mjml-i-just-didnt-want-a-whole-templating-engine-for-two-tiny-things-5a10"
+    },
+    {
+      "title": "The Stylelint Rule That Was Silently Rewriting Our SCSS Colors",
+      "hot": "❤️ 0 💬 0",
+      "desc": "How color-function-notation silently rewrote rgba() to rgb() across our codebase — and three ways to fix it.",
+      "source": "dev",
+      "tag": "angular,  scss",
+      "url": "https://dev.to/shanky1992/the-stylelint-rule-that-was-silently-rewriting-our-scss-colors-15pb"
+    },
+    {
+      "title": "The Software Developer's Guide to AEO",
+      "hot": "❤️ 0 💬 0",
+      "desc": "When I was writing code full-time five years ago, I Googled error messages, opened five tabs, and...",
+      "source": "dev",
+      "tag": "ai,  contentwriting",
+      "url": "https://dev.to/karllhughes/the-software-developers-guide-to-aeo-1h5h"
+    },
+    {
+      "title": "Building an SEO crawler in TypeScript: what I learned",
+      "hot": "❤️ 4 💬 1",
+      "desc": "I have been working on a project called SEOCore, which is an SEO crawler and audit CLI built with...",
+      "source": "dev",
+      "tag": "programming,  typescript",
+      "url": "https://dev.to/codepurse/building-an-seo-crawler-in-typescript-what-i-learned-1doo"
+    },
+    {
+      "title": "Cross Language A2A Agent Benchmarking with Antigravity CLI",
+      "hot": "❤️ 5 💬 0",
+      "desc": "Building a Benchmarking Agent with A2A and MCP   This tutorial aims to build and test...",
+      "source": "dev",
+      "tag": "mcps,  googleadk",
+      "url": "https://dev.to/gde/cross-language-a2a-agent-benchmarking-with-antigravity-cli-hn1"
+    },
+    {
+      "title": "Broken Software",
+      "hot": "❤️ 0 💬 0",
+      "desc": "Series of posts about broken software. Short stories.  Today, Firefox.  Turns out to be that closing...",
+      "source": "dev",
+      "tag": "bugs,  software",
+      "url": "https://dev.to/alex27/broken-software-b54"
+    },
+    {
+      "title": "Revisiting Benchmarking- Building a Rust A2A Agent",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This is a submission for the GitHub Finish-Up-A-Thon Challenge           Cross Language A2A Agent...",
+      "source": "dev",
+      "tag": "devchallenge,  githubchallenge",
+      "url": "https://dev.to/gde/revisiting-benchmarking-building-a-rust-a2a-agent-5bl2"
+    },
+    {
+      "title": "AWS Cloud Shell with Antigravity CLI",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article covers the initial setup and configuration for the Antigravity CLI on the AWS Cloud...",
+      "source": "dev",
+      "tag": "aws,  cli",
+      "url": "https://dev.to/gde/aws-cloud-shell-with-antigravity-cli-e3a"
+    },
+    {
+      "title": "Azure Cloud Shell with Antigravity CLI",
+      "hot": "❤️ 5 💬 0",
+      "desc": "This article covers the initial setup and configuration for the Antigravity CLI on the Azure Cloud...",
+      "source": "dev",
+      "tag": "cli,  azurecloudshell",
+      "url": "https://dev.to/gde/azure-cloud-shell-with-antigravity-cli-mn6"
+    }
+  ],
   "github": [
     {
       "title": "op7418/guizang-social-card-skill: 🪧 Claude Code / Codex skill — generate Xiaoho",
@@ -466,7 +466,7 @@
     },
     {
       "title": "study8677/awesome-architecture: 🗺️ Think like a software architect, not just a ",
-      "hot": "⭐ 912",
+      "hot": "⭐ 914",
       "desc": "🗺️ Think like a software architect, not just a coder — 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a languag",
       "source": "github",
       "tag": "Vue",
@@ -474,7 +474,7 @@
     },
     {
       "title": "UditAkhourii/adhd: ADHD — a skill for coding agents. Tree-of-thought with prunin",
-      "hot": "⭐ 578",
+      "hot": "⭐ 584",
       "desc": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under diff",
       "source": "github",
       "tag": "TypeScript",
@@ -482,7 +482,7 @@
     },
     {
       "title": "withkynam/vibecode-pro-max-kit: Your AI forgets. This remembers. Spec-driven cod",
-      "hot": "⭐ 574",
+      "hot": "⭐ 580",
       "desc": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12",
       "source": "github",
       "tag": "JavaScript",
@@ -490,7 +490,7 @@
     },
     {
       "title": "Michaelliv/pi-dynamic-workflows: ",
-      "hot": "⭐ 559",
+      "hot": "⭐ 562",
       "desc": "Michaelliv/pi-dynamic-workflows",
       "source": "github",
       "tag": "TypeScript",
@@ -498,7 +498,7 @@
     },
     {
       "title": "MatinSenPai/SenPaiScanner: A light-weight scanner for Cloudflare IPs, written in",
-      "hot": "⭐ 511",
+      "hot": "⭐ 540",
       "desc": "A light-weight scanner for Cloudflare IPs, written in Golang",
       "source": "github",
       "tag": "Go",
@@ -514,7 +514,7 @@
     },
     {
       "title": "2aronS/Duel-Agents: CLI, SDK, and IDE plugins for Duel Agents",
-      "hot": "⭐ 451",
+      "hot": "⭐ 453",
       "desc": "CLI, SDK, and IDE plugins for Duel Agents",
       "source": "github",
       "tag": "TypeScript",
@@ -530,7 +530,7 @@
     },
     {
       "title": "Sophomoresty/gemini-web2api: Convert Google Gemini web into OpenAI-compatible AP",
-      "hot": "⭐ 423",
+      "hot": "⭐ 429",
       "desc": "Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
       "source": "github",
       "tag": "Python",
@@ -538,7 +538,7 @@
     },
     {
       "title": "Mclisterjoeh2o/yellowkey-bitlocker: yellowkey  bitlocker github vulnerability  b",
-      "hot": "⭐ 409",
+      "hot": "⭐ 411",
       "desc": "yellowkey  bitlocker github vulnerability  bypass  cve-2026-45585 windows 11 security zero day exploit winre recovery mode poc nightmare eclipse chaot",
       "source": "github",
       "tag": "TypeScript",
@@ -553,20 +553,20 @@
       "url": "https://github.com/FlashML-org/flashlib"
     },
     {
+      "title": "ytnrvdf/wha-spell-simulator: A fan-made browser-based Witch Hat Atelier spell si",
+      "hot": "⭐ 400",
+      "desc": "A fan-made browser-based Witch Hat Atelier spell simulator.",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/ytnrvdf/wha-spell-simulator"
+    },
+    {
       "title": "ace-trump-tech/DeltaForce-OBS-Locker: 三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云",
       "hot": "⭐ 397",
       "desc": "三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。动加载。DeltaForce OBS Lockhead Plugin – Smart aim assist via OBS injection, suppo",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/ace-trump-tech/DeltaForce-OBS-Locker"
-    },
-    {
-      "title": "ytnrvdf/wha-spell-simulator: A fan-made browser-based Witch Hat Atelier spell si",
-      "hot": "⭐ 395",
-      "desc": "A fan-made browser-based Witch Hat Atelier spell simulator.",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/ytnrvdf/wha-spell-simulator"
     }
   ]
 }
