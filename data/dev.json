@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "What was your win this week?",
-      "hot": "❤️ 41 💬 31",
+      "hot": "❤️ 43 💬 32",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "discuss,  weeklyretro",
@@ -10,7 +10,7 @@
     },
     {
       "title": "How Are Developers Actually Using AI At Work?",
-      "hot": "❤️ 130 💬 164",
+      "hot": "❤️ 137 💬 166",
       "desc": "JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...",
       "source": "dev",
       "tag": "discuss,  ai",
@@ -18,7 +18,7 @@
     },
     {
       "title": "An LLM API call, in 4 GIFs",
-      "hot": "❤️ 64 💬 38",
+      "hot": "❤️ 67 💬 39",
       "desc": "This is the first post of series Building TinyAgent where we are going to build a small agent from...",
       "source": "dev",
       "tag": "llm,  javascript",
@@ -41,28 +41,12 @@
       "url": "https://dev.to/p0rt/how-model-distillation-actually-works-and-what-the-china-distilled-our-model-headlines-really-3o0o"
     },
     {
-      "title": "The Kubernetes Overkill: Why I Built a \"K8s Killer\" for Small Environments",
-      "hot": "❤️ 7 💬 3",
-      "desc": "Let’s be honest: Kubernetes is the undisputed king of orchestration. But if you are running a small...",
-      "source": "dev",
-      "tag": "architecture,  devops",
-      "url": "https://dev.to/gde/the-kubernetes-overkill-why-i-built-a-k8s-killer-for-small-environments-m9k"
-    },
-    {
       "title": "Gemma 4 Deployment with NVIDIA L4, MCP, Cloud Run, and Antigravity CLI",
       "hot": "❤️ 6 💬 0",
       "desc": "This article provides a step by step deployment guide for Gemma 4 to a Google Cloud Run hosted GPU...",
       "source": "dev",
       "tag": "googlecloudrun,  antigravitycli",
       "url": "https://dev.to/gde/gemma-4-deployment-with-nvidia-l4-mcp-cloud-run-and-antigravity-cli-19h"
-    },
-    {
-      "title": "How a 500 MB Buffer Killed Our Archival Job — And Why Streaming Fixed It",
-      "hot": "❤️ 5 💬 1",
-      "desc": "The job that kept dying   We run a nightly archival job that exports a few large Postgres...",
-      "source": "dev",
-      "tag": "dataengineering,  go",
-      "url": "https://dev.to/harishteens/how-a-500-mb-buffer-killed-our-archival-job-and-why-streaming-fixed-it-4iek"
     },
     {
       "title": "I was wrong about Electron",
@@ -159,7 +143,23 @@
       "source": "dev",
       "tag": "bugs,  software",
       "url": "https://dev.to/alex27/broken-software-b54"
+    },
+    {
+      "title": "Revisiting Benchmarking- Building a Rust A2A Agent",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This is a submission for the GitHub Finish-Up-A-Thon Challenge           Cross Language A2A Agent...",
+      "source": "dev",
+      "tag": "devchallenge,  githubchallenge",
+      "url": "https://dev.to/gde/revisiting-benchmarking-building-a-rust-a2a-agent-5bl2"
+    },
+    {
+      "title": "AWS Cloud Shell with Antigravity CLI",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article covers the initial setup and configuration for the Antigravity CLI on the AWS Cloud...",
+      "source": "dev",
+      "tag": "aws,  cli",
+      "url": "https://dev.to/gde/aws-cloud-shell-with-antigravity-cli-e3a"
     }
   ],
-  "updatedAt": "2026-05-30T11:59:14.234Z"
+  "updatedAt": "2026-05-30T13:24:51.514Z"
 }
