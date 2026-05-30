@@ -1,21 +1,13 @@
 {
-  "updatedAt": "2026-05-30T21:53:12.264Z",
+  "updatedAt": "2026-05-30T22:43:25.628Z",
   "source": "live",
   "tech": [
-    {
-      "title": "OpenRouter raises $113M Series B",
-      "hot": "3.0m",
-      "desc": "openrouter.ai",
-      "source": "tech",
-      "tag": "⬆️ 298 points",
-      "url": "https://openrouter.ai/announcements/series-b"
-    },
     {
       "title": "Domain expertise has always been the real moat",
       "hot": "3.0m",
       "desc": "brethorsting.com",
       "source": "tech",
-      "tag": "⬆️ 56 points",
+      "tag": "⬆️ 114 points",
       "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/"
     },
     {
@@ -23,7 +15,7 @@
       "hot": "3.0m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 113 points",
+      "tag": "⬆️ 135 points",
       "url": "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert"
     },
     {
@@ -31,15 +23,23 @@
       "hot": "3.0m",
       "desc": "newsroom.accenture.com",
       "source": "tech",
-      "tag": "⬆️ 180 points",
+      "tag": "⬆️ 195 points",
       "url": "https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises"
+    },
+    {
+      "title": "wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack",
+      "hot": "3.0m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 25 points",
+      "url": "https://github.com/wolfSSL/wolfCOSE"
     },
     {
       "title": "Zig ELF Linker Improvements Devlog",
       "hot": "2.9m",
       "desc": "ziglang.org",
       "source": "tech",
-      "tag": "⬆️ 140 points",
+      "tag": "⬆️ 144 points",
       "url": "https://ziglang.org/devlog/2026/#2026-05-30"
     },
     {
@@ -47,126 +47,248 @@
       "hot": "2.9m",
       "desc": "lowendmac.com",
       "source": "tech",
-      "tag": "⬆️ 31 points",
+      "tag": "⬆️ 38 points",
       "url": "https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/"
     },
     {
-      "title": "Show HN: 500 years of Joseon court omens as an observability dashboard",
+      "title": "OpenRouter raises $113M Series B",
       "hot": "2.9m",
-      "desc": "ajin.im",
+      "desc": "openrouter.ai",
       "source": "tech",
-      "tag": "⬆️ 53 points",
-      "url": "https://ajin.im/is/building/omen.ops/"
+      "tag": "⬆️ 321 points",
+      "url": "https://openrouter.ai/announcements/series-b"
     },
     {
       "title": "Voxel Space (2017)",
       "hot": "2.9m",
       "desc": "s-macke.github.io",
       "source": "tech",
-      "tag": "⬆️ 228 points",
+      "tag": "⬆️ 237 points",
       "url": "https://s-macke.github.io/VoxelSpace/"
-    },
-    {
-      "title": "Microcode inside the Intel 8087 floating-point chip: register exchange",
-      "hot": "2.9m",
-      "desc": "righto.com",
-      "source": "tech",
-      "tag": "⬆️ 66 points",
-      "url": "https://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html"
-    },
-    {
-      "title": "Dusklight – GC Twilight Princess Decompiled",
-      "hot": "2.9m",
-      "desc": "twilitrealm.dev",
-      "source": "tech",
-      "tag": "⬆️ 22 points",
-      "url": "https://twilitrealm.dev/"
     },
     {
       "title": "Parallel Reconstruction of Lawful TLS Wiretapping",
       "hot": "2.9m",
       "desc": "remyhax.xyz",
       "source": "tech",
-      "tag": "⬆️ 22 points",
+      "tag": "⬆️ 34 points",
       "url": "https://remyhax.xyz/posts/reproducing-lawful-tls-wiretapping/"
+    },
+    {
+      "title": "Show HN: 500 years of Joseon court omens as an observability dashboard",
+      "hot": "2.9m",
+      "desc": "ajin.im",
+      "source": "tech",
+      "tag": "⬆️ 60 points",
+      "url": "https://ajin.im/is/building/omen.ops/"
+    },
+    {
+      "title": "Dusklight – GC Twilight Princess Decompiled",
+      "hot": "2.9m",
+      "desc": "twilitrealm.dev",
+      "source": "tech",
+      "tag": "⬆️ 37 points",
+      "url": "https://twilitrealm.dev/"
+    },
+    {
+      "title": "Microcode inside the Intel 8087 floating-point chip: register exchange",
+      "hot": "2.8m",
+      "desc": "righto.com",
+      "source": "tech",
+      "tag": "⬆️ 74 points",
+      "url": "https://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html"
     },
     {
       "title": "Openrsync: An implementation of rsync, by the OpenBSD team",
       "hot": "2.8m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 280 points",
+      "tag": "⬆️ 293 points",
       "url": "https://github.com/kristapsdz/openrsync"
     },
     {
-      "title": "wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack",
+      "title": "Design Engineering Magazine",
       "hot": "2.8m",
-      "desc": "github.com",
+      "desc": "interfaces.dev",
       "source": "tech",
-      "tag": "⬆️ 10 points",
-      "url": "https://github.com/wolfSSL/wolfCOSE"
+      "tag": "⬆️ 22 points",
+      "url": "https://interfaces.dev/"
+    },
+    {
+      "title": "Show HN: Open Envelope – an open schema for defining AI agent teams",
+      "hot": "2.8m",
+      "desc": "openenvelope.org",
+      "source": "tech",
+      "tag": "⬆️ 9 points",
+      "url": "https://openenvelope.org/docs/schema/"
     },
     {
       "title": "Pandoc Templates",
       "hot": "2.8m",
       "desc": "pandoc-templates.org",
       "source": "tech",
-      "tag": "⬆️ 335 points",
+      "tag": "⬆️ 346 points",
       "url": "https://pandoc-templates.org/"
-    },
-    {
-      "title": "Hormuz crisis side effect: a sharp rise in container shipping rates",
-      "hot": "2.8m",
-      "desc": "lloydslist.com",
-      "source": "tech",
-      "tag": "⬆️ 127 points",
-      "url": "https://www.lloydslist.com/LL1157327/Hormuz-crisis-side-effect-a-sharp-rise-in-container-shipping-rates"
     },
     {
       "title": "Werner Herzog in conversation with Paul Cronin (2014)",
       "hot": "2.8m",
       "desc": "fsgworkinprogress.com",
       "source": "tech",
-      "tag": "⬆️ 60 points",
+      "tag": "⬆️ 63 points",
       "url": "https://fsgworkinprogress.com/2014/09/26/insignificant-bullets-evil-poachers-and-l-a-culture/"
-    },
-    {
-      "title": "Kore: Binary File Format Optimized for Modern Data Systems (Open Source)",
-      "hot": "2.8m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 7 points",
-      "url": "https://github.com/arunkatherashala/Kore"
     },
     {
       "title": "Zig: Build System Reworked",
       "hot": "2.7m",
       "desc": "ziglang.org",
       "source": "tech",
-      "tag": "⬆️ 305 points",
+      "tag": "⬆️ 309 points",
       "url": "https://ziglang.org/devlog/2026/#2026-05-26"
     },
     {
-      "title": "It Takes Two Neurons to Ride a Bicycle",
+      "title": "Tsplat – Run Gaussian splatting in your terminal",
       "hot": "2.7m",
-      "desc": "fermatslibrary.com",
+      "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 83 points",
-      "url": "https://fermatslibrary.com/s/it-takes-two-neurons-to-ride-a-bicycle#email-newsletter"
+      "tag": "⬆️ 8 points",
+      "url": "https://github.com/darshanmakwana412/tsplat"
     },
     {
       "title": "Navier-Stokes fluid simulation explained with Godot game engine",
       "hot": "2.7m",
       "desc": "myzopotamia.dev",
       "source": "tech",
-      "tag": "⬆️ 157 points",
+      "tag": "⬆️ 164 points",
       "url": "https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot"
+    }
+  ],
+  "space": [
+    {
+      "title": "Blue Origin gets national security launch task order hours before New Glenn explosion",
+      "hot": "5/30",
+      "desc": "\nU.S. Space Force, National Reconnaissance Office ‘remain committed partners with Blue Origin’\nThe post Blue Origin gets national security launch task",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/blue-origin-gets-national-security-launch-task-order-hours-before-new-glenn-explosion/"
+    },
+    {
+      "title": "Live coverage: SpaceX to launch 50th Starlink mission of 2026",
+      "hot": "5/30",
+      "desc": "The Starlink 17-41 mission is SpaceX’s 10th and final launch of May. Liftoff of the Falcon 9 rocket from pad 4E at Vandenberg Space Force Base is sche",
+      "source": "space",
+      "tag": "Spaceflight Now",
+      "url": "https://spaceflightnow.com/2026/05/30/live-coverage-spacex-to-launch-50th-starlink-mission-of-2026/"
+    },
+    {
+      "title": "Repercussions of New Glenn’s Explosion Still Coming Into Focus",
+      "hot": "5/29",
+      "desc": "The repercussions of last night’s explosion of Blue Origin’s New Glenn rocket during a pre-launch test will take some time to assess. Among the key qu",
+      "source": "space",
+      "tag": "SpacePolicyOnline.com",
+      "url": "https://spacepolicyonline.com/news/repercussions-of-new-glenns-explosion-still-coming-into-focus/"
+    },
+    {
+      "title": "Live coverage: ULA to launch 29 Amazon Leo satellites on Atlas 5 rocket from Cape Canaveral",
+      "hot": "5/29",
+      "desc": "The Leo Atlas 07 mission is the second to last flight that Amazon booked on a United Launch Alliance Atlas 5 rocket. Liftoff from pad 41 at Cape Canav",
+      "source": "space",
+      "tag": "Spaceflight Now",
+      "url": "https://spaceflightnow.com/2026/05/29/live-coverage-ula-to-launch-29-amazon-leo-satellites-on-atlas-5-rocket-from-cape-canaveral-2/"
+    },
+    {
+      "title": "NASA Awards Contract for Johnson Space Center Infrastructure",
+      "hot": "5/29",
+      "desc": "NASA has selected seven companies to provide construction, revitalization, and infrastructure improvements at the agency’s Johnson Space Center in Hou",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/news-release/nasa-awards-contract-for-johnson-space-center-infrastructure/"
+    },
+    {
+      "title": "NASA Hosts SpaceX Crew-11 Astronauts for Public Event at Headquarters",
+      "hot": "5/29",
+      "desc": "NASA will host a public event featuring three crew members from the agency’s SpaceX Crew-11 mission at 11 a.m. EDT Monday, June 1. The event, which ta",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/news-release/nasa-hosts-spacex-crew-11-astronauts-for-public-event-at-headquarters/"
+    },
+    {
+      "title": "China’s Shenzhou-21 Crew Returns to Earth",
+      "hot": "5/29",
+      "desc": "China’s three-man Shenzhou-21 (SZ-21) crew returned to Earth today after 210 days aboard the Tiangong space station. They landed not in the SZ-21 spac",
+      "source": "space",
+      "tag": "SpacePolicyOnline.com",
+      "url": "https://spacepolicyonline.com/news/chinas-shenzhou-21-crew-returns-to-earth/"
+    },
+    {
+      "title": "Space Force awards SpaceX $4.16 billion to build satellite network for airborne target tracking",
+      "hot": "5/29",
+      "desc": "\nThe low-orbit satellite constellation is intended to track aircraft, cruise missiles and other airborne threats\nThe post Space Force awards SpaceX $4",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/space-force-awards-spacex-4-16-billion-to-build-satellite-network-for-airborne-target-tracking/"
+    },
+    {
+      "title": "NASA’s Roman Space Telescope Primary Mirror Gets Last Look",
+      "hot": "5/29",
+      "desc": "Engineers at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, have completed their final inspection of a key element for the agency’s Nancy ",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescope-primary-mirror-gets-last-look/"
+    },
+    {
+      "title": "Hubble Spies Faint Irregular Galaxy",
+      "hot": "5/29",
+      "desc": "This NASA Hubble Space Telescope image released on May 27, 2026, features the dwarf irregular galaxy ESO 490-017, roughly 12,000 light-years in diamet",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/image-article/hubble-spies-faint-irregular-galaxy/"
+    },
+    {
+      "title": "This Month at ESA: May 2026",
+      "hot": "5/29",
+      "desc": "What did space deliver for Europe this month? From asteroid flybys to Mars landing tests, new discoveries from Webb and Hubble, and ESA astronaut Soph",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/05/This_Month_at_ESA_May_2026"
+    },
+    {
+      "title": "Space Force’s commercial gatekeeper offers a playbook for startups seeking defense business",
+      "hot": "5/29",
+      "desc": "\nCOMSO chief Col. Tim Trimailo says transparency, patience and a clear military value proposition matter as much as technical innovation\nThe post Spac",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/space-forces-commercial-gatekeeper-offers-a-playbook-for-startups-seeking-defense-business/"
+    },
+    {
+      "title": "Bellatrix and TelePIX plan 2028 air-breathing VLEO imaging demonstration",
+      "hot": "5/29",
+      "desc": "\nSouth Korean optical payload developer TelePIX and Indian propulsion specialist Bellatrix Aerospace have teamed up on a very low Earth orbit geospati",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/bellatrix-and-telepix-plan-2028-air-breathing-vleo-imaging-demonstration/"
+    },
+    {
+      "title": "Week in images: 25-29 May 2026",
+      "hot": "5/29",
+      "desc": "Week in images: 25-29 May 2026",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_25-29_May_2026"
+    },
+    {
+      "title": "ESA and EDF strengthen their partnership for energy efficiency at Europe’s Spaceport",
+      "hot": "5/29",
+      "desc": "From the ESA Blogs.",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/Enabling_Support/Space_Transportation/ESA_and_EDF_strengthen_their_partnership_for_energy_efficiency_at_Europe_s_Spaceport"
     }
   ],
   "dev": [
     {
       "title": "How Are Developers Actually Using AI At Work?",
-      "hot": "❤️ 140 💬 175",
+      "hot": "❤️ 141 💬 178",
       "desc": "JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...",
       "source": "dev",
       "tag": "discuss,  ai",
@@ -187,14 +309,6 @@
       "source": "dev",
       "tag": "hermesagentchallenge,  devchallenge",
       "url": "https://dev.to/arqamwd/i-made-my-ai-models-argue-then-let-hermes-be-the-judge-5e6c"
-    },
-    {
-      "title": "An LLM API call, in 4 GIFs",
-      "hot": "❤️ 75 💬 44",
-      "desc": "This is the first post of series Building TinyAgent where we are going to build a small agent from...",
-      "source": "dev",
-      "tag": "llm,  javascript",
-      "url": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1"
     },
     {
       "title": "Top 7 Featured DEV Posts of the Week",
@@ -323,128 +437,14 @@
       "source": "dev",
       "tag": "cli,  azurecloudshell",
       "url": "https://dev.to/gde/azure-cloud-shell-with-antigravity-cli-mn6"
-    }
-  ],
-  "space": [
-    {
-      "title": "Blue Origin gets national security launch task order hours before New Glenn explosion",
-      "hot": "5/30",
-      "desc": "\nU.S. Space Force, National Reconnaissance Office ‘remain committed partners with Blue Origin’\nThe post Blue Origin gets national security launch task",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/blue-origin-gets-national-security-launch-task-order-hours-before-new-glenn-explosion/"
     },
     {
-      "title": "Live coverage: SpaceX to launch 50th Starlink mission of 2026",
-      "hot": "5/30",
-      "desc": "The Starlink 17-41 mission is SpaceX’s 10th and final launch of May. Liftoff of the Falcon 9 rocket from pad 4E at Vandenberg Space Force Base is sche",
-      "source": "space",
-      "tag": "Spaceflight Now",
-      "url": "https://spaceflightnow.com/2026/05/30/live-coverage-spacex-to-launch-50th-starlink-mission-of-2026/"
-    },
-    {
-      "title": "Repercussions of New Glenn’s Explosion Still Coming Into Focus",
-      "hot": "5/29",
-      "desc": "The repercussions of last night’s explosion of Blue Origin’s New Glenn rocket during a pre-launch test will take some time to assess. Among the key qu",
-      "source": "space",
-      "tag": "SpacePolicyOnline.com",
-      "url": "https://spacepolicyonline.com/news/repercussions-of-new-glenns-explosion-still-coming-into-focus/"
-    },
-    {
-      "title": "Live coverage: ULA to launch 29 Amazon Leo satellites on Atlas 5 rocket from Cape Canaveral",
-      "hot": "5/29",
-      "desc": "The Leo Atlas 07 mission is the second to last flight that Amazon booked on a United Launch Alliance Atlas 5 rocket. Liftoff from pad 41 at Cape Canav",
-      "source": "space",
-      "tag": "Spaceflight Now",
-      "url": "https://spaceflightnow.com/2026/05/29/live-coverage-ula-to-launch-29-amazon-leo-satellites-on-atlas-5-rocket-from-cape-canaveral-2/"
-    },
-    {
-      "title": "NASA Awards Contract for Johnson Space Center Infrastructure",
-      "hot": "5/29",
-      "desc": "NASA has selected seven companies to provide construction, revitalization, and infrastructure improvements at the agency’s Johnson Space Center in Hou",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/news-release/nasa-awards-contract-for-johnson-space-center-infrastructure/"
-    },
-    {
-      "title": "NASA Hosts SpaceX Crew-11 Astronauts for Public Event at Headquarters",
-      "hot": "5/29",
-      "desc": "NASA will host a public event featuring three crew members from the agency’s SpaceX Crew-11 mission at 11 a.m. EDT Monday, June 1. The event, which ta",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/news-release/nasa-hosts-spacex-crew-11-astronauts-for-public-event-at-headquarters/"
-    },
-    {
-      "title": "China’s Shenzhou-21 Crew Returns to Earth",
-      "hot": "5/29",
-      "desc": "China’s three-man Shenzhou-21 (SZ-21) crew returned to Earth today after 210 days aboard the Tiangong space station. They landed not in the SZ-21 spac",
-      "source": "space",
-      "tag": "SpacePolicyOnline.com",
-      "url": "https://spacepolicyonline.com/news/chinas-shenzhou-21-crew-returns-to-earth/"
-    },
-    {
-      "title": "Space Force awards SpaceX $4.16 billion to build satellite network for airborne target tracking",
-      "hot": "5/29",
-      "desc": "\nThe low-orbit satellite constellation is intended to track aircraft, cruise missiles and other airborne threats\nThe post Space Force awards SpaceX $4",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/space-force-awards-spacex-4-16-billion-to-build-satellite-network-for-airborne-target-tracking/"
-    },
-    {
-      "title": "NASA’s Roman Space Telescope Primary Mirror Gets Last Look",
-      "hot": "5/29",
-      "desc": "Engineers at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, have completed their final inspection of a key element for the agency’s Nancy ",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescope-primary-mirror-gets-last-look/"
-    },
-    {
-      "title": "Hubble Spies Faint Irregular Galaxy",
-      "hot": "5/29",
-      "desc": "This NASA Hubble Space Telescope image released on May 27, 2026, features the dwarf irregular galaxy ESO 490-017, roughly 12,000 light-years in diamet",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/image-article/hubble-spies-faint-irregular-galaxy/"
-    },
-    {
-      "title": "This Month at ESA: May 2026",
-      "hot": "5/29",
-      "desc": "What did space deliver for Europe this month? From asteroid flybys to Mars landing tests, new discoveries from Webb and Hubble, and ESA astronaut Soph",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/05/This_Month_at_ESA_May_2026"
-    },
-    {
-      "title": "Space Force’s commercial gatekeeper offers a playbook for startups seeking defense business",
-      "hot": "5/29",
-      "desc": "\nCOMSO chief Col. Tim Trimailo says transparency, patience and a clear military value proposition matter as much as technical innovation\nThe post Spac",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/space-forces-commercial-gatekeeper-offers-a-playbook-for-startups-seeking-defense-business/"
-    },
-    {
-      "title": "Bellatrix and TelePIX plan 2028 air-breathing VLEO imaging demonstration",
-      "hot": "5/29",
-      "desc": "\nSouth Korean optical payload developer TelePIX and Indian propulsion specialist Bellatrix Aerospace have teamed up on a very low Earth orbit geospati",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/bellatrix-and-telepix-plan-2028-air-breathing-vleo-imaging-demonstration/"
-    },
-    {
-      "title": "Week in images: 25-29 May 2026",
-      "hot": "5/29",
-      "desc": "Week in images: 25-29 May 2026",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_25-29_May_2026"
-    },
-    {
-      "title": "ESA and EDF strengthen their partnership for energy efficiency at Europe’s Spaceport",
-      "hot": "5/29",
-      "desc": "From the ESA Blogs.",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/Enabling_Support/Space_Transportation/ESA_and_EDF_strengthen_their_partnership_for_energy_efficiency_at_Europe_s_Spaceport"
+      "title": "An LLM API call, in 4 GIFs",
+      "hot": "❤️ 76 💬 45",
+      "desc": "This is the first post of series Building TinyAgent where we are going to build a small agent from...",
+      "source": "dev",
+      "tag": "llm,  javascript",
+      "url": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1"
     }
   ],
   "github": [
@@ -466,7 +466,7 @@
     },
     {
       "title": "study8677/awesome-architecture: 🗺️ Think like a software architect, not just a ",
-      "hot": "⭐ 915",
+      "hot": "⭐ 917",
       "desc": "🗺️ Think like a software architect, not just a coder — 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a languag",
       "source": "github",
       "tag": "Vue",
@@ -474,7 +474,7 @@
     },
     {
       "title": "UditAkhourii/adhd: ADHD — a skill for coding agents. Tree-of-thought with prunin",
-      "hot": "⭐ 587",
+      "hot": "⭐ 593",
       "desc": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under diff",
       "source": "github",
       "tag": "TypeScript",
@@ -482,27 +482,27 @@
     },
     {
       "title": "withkynam/vibecode-pro-max-kit: Your AI forgets. This remembers. Spec-driven cod",
-      "hot": "⭐ 581",
+      "hot": "⭐ 585",
       "desc": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12",
       "source": "github",
       "tag": "JavaScript",
       "url": "https://github.com/withkynam/vibecode-pro-max-kit"
     },
     {
-      "title": "Michaelliv/pi-dynamic-workflows: ",
-      "hot": "⭐ 564",
-      "desc": "Michaelliv/pi-dynamic-workflows",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/Michaelliv/pi-dynamic-workflows"
-    },
-    {
       "title": "MatinSenPai/SenPaiScanner: A light-weight scanner for Cloudflare IPs, written in",
-      "hot": "⭐ 561",
+      "hot": "⭐ 579",
       "desc": "A light-weight scanner for Cloudflare IPs, written in Golang",
       "source": "github",
       "tag": "Go",
       "url": "https://github.com/MatinSenPai/SenPaiScanner"
+    },
+    {
+      "title": "Michaelliv/pi-dynamic-workflows: ",
+      "hot": "⭐ 566",
+      "desc": "Michaelliv/pi-dynamic-workflows",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/Michaelliv/pi-dynamic-workflows"
     },
     {
       "title": "baoweise-bot/aimili-vpngate: aimili-vpngate是一个借助vpngate.net让Linux用干净ip出站的代理工具。",
@@ -514,7 +514,7 @@
     },
     {
       "title": "2aronS/Duel-Agents: CLI, SDK, and IDE plugins for Duel Agents",
-      "hot": "⭐ 454",
+      "hot": "⭐ 456",
       "desc": "CLI, SDK, and IDE plugins for Duel Agents",
       "source": "github",
       "tag": "TypeScript",
@@ -522,7 +522,7 @@
     },
     {
       "title": "Sophomoresty/gemini-web2api: Convert Google Gemini web into OpenAI-compatible AP",
-      "hot": "⭐ 442",
+      "hot": "⭐ 456",
       "desc": "Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
       "source": "github",
       "tag": "Python",
@@ -545,6 +545,14 @@
       "url": "https://github.com/Mclisterjoeh2o/yellowkey-bitlocker"
     },
     {
+      "title": "ytnrvdf/wha-spell-simulator: A fan-made browser-based Witch Hat Atelier spell si",
+      "hot": "⭐ 405",
+      "desc": "A fan-made browser-based Witch Hat Atelier spell simulator.",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/ytnrvdf/wha-spell-simulator"
+    },
+    {
       "title": "FlashML-org/flashlib: Fast and memory-efficient classical machine learning opera",
       "hot": "⭐ 404",
       "desc": "Fast and memory-efficient classical machine learning operators",
@@ -553,16 +561,8 @@
       "url": "https://github.com/FlashML-org/flashlib"
     },
     {
-      "title": "ytnrvdf/wha-spell-simulator: A fan-made browser-based Witch Hat Atelier spell si",
-      "hot": "⭐ 402",
-      "desc": "A fan-made browser-based Witch Hat Atelier spell simulator.",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/ytnrvdf/wha-spell-simulator"
-    },
-    {
       "title": "ace-trump-tech/DeltaForce-OBS-Locker: 三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云",
-      "hot": "⭐ 399",
+      "hot": "⭐ 398",
       "desc": "三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。动加载。DeltaForce OBS Lockhead Plugin – Smart aim assist via OBS injection, suppo",
       "source": "github",
       "tag": "Python",
