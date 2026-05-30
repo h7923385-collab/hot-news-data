@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "What was your win this week?",
-      "hot": "❤️ 39 💬 28",
+      "hot": "❤️ 39 💬 29",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "discuss,  weeklyretro",
@@ -10,7 +10,7 @@
     },
     {
       "title": "How Are Developers Actually Using AI At Work?",
-      "hot": "❤️ 127 💬 161",
+      "hot": "❤️ 130 💬 164",
       "desc": "JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...",
       "source": "dev",
       "tag": "discuss,  ai",
@@ -18,7 +18,7 @@
     },
     {
       "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 73 💬 25",
+      "hot": "❤️ 73 💬 27",
       "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
       "source": "dev",
       "tag": "top7,  discuss",
@@ -26,19 +26,11 @@
     },
     {
       "title": "An LLM API call, in 4 GIFs",
-      "hot": "❤️ 63 💬 32",
+      "hot": "❤️ 63 💬 34",
       "desc": "This is the first post of series Building TinyAgent where we are going to build a small agent from...",
       "source": "dev",
       "tag": "llm,  javascript",
       "url": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1"
-    },
-    {
-      "title": "DevRelCon NYC 2026: Where Developer Relations, DevX, & Developer Marketing Come Together",
-      "hot": "❤️ 18 💬 1",
-      "desc": "TL;DR -DevRelCon NYC returns to Industry City in Brooklyn on July 22–23, 2026. It's the flagship...",
-      "source": "dev",
-      "tag": "devrel,  career",
-      "url": "https://dev.to/mlh/devrelcon-nyc-2026-where-developer-relations-devx-developer-marketing-come-together-5468"
     },
     {
       "title": "How Model Distillation Actually Works (and What the 'China Distilled Our Model' Headlines Really Mean)",
@@ -58,19 +50,11 @@
     },
     {
       "title": "The Kubernetes Overkill: Why I Built a \"K8s Killer\" for Small Environments",
-      "hot": "❤️ 7 💬 1",
+      "hot": "❤️ 7 💬 2",
       "desc": "Let’s be honest: Kubernetes is the undisputed king of orchestration. But if you are running a small...",
       "source": "dev",
       "tag": "architecture,  devops",
       "url": "https://dev.to/gde/the-kubernetes-overkill-why-i-built-a-k8s-killer-for-small-environments-m9k"
-    },
-    {
-      "title": "Every Great Cup Starts with the Right Question — I Built the Community Behind the Answer with Hermes Agent",
-      "hot": "❤️ 5 💬 0",
-      "desc": "This is a submission for the Hermes Agent Challenge: Build With Hermes Agent           What I...",
-      "source": "dev",
-      "tag": "hermesagentchallenge,  devchallenge",
-      "url": "https://dev.to/yuens1002/every-great-cup-starts-with-the-right-question-i-built-the-community-behind-the-answer-with-o04"
     },
     {
       "title": "How a 500 MB Buffer Killed Our Archival Job — And Why Streaming Fixed It",
@@ -79,6 +63,14 @@
       "source": "dev",
       "tag": "dataengineering,  go",
       "url": "https://dev.to/harishteens/how-a-500-mb-buffer-killed-our-archival-job-and-why-streaming-fixed-it-4iek"
+    },
+    {
+      "title": "I was wrong about Electron",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Why I moved Paseo from Tauri to Electron",
+      "source": "dev",
+      "tag": "electron,  tauri",
+      "url": "https://dev.to/moboudra/i-was-wrong-about-electron-1e9g"
     },
     {
       "title": "Anyone Can Make Software Now. But When Does A Side Project Become Production Ready?",
@@ -90,19 +82,19 @@
     },
     {
       "title": "VS Code Prompt Files - Custom Slash Commands for GitHub Copilot",
-      "hot": "❤️ 1 💬 0",
+      "hot": "❤️ 1 💬 1",
       "desc": "Prompt files turn repeated GitHub Copilot chat requests into slash commands. You write the...",
       "source": "dev",
       "tag": "ai,  githubcopilot",
       "url": "https://dev.to/petermilovcik/vs-code-prompt-files-custom-slash-commands-for-github-copilot-1m4f"
     },
     {
-      "title": "I was wrong about Electron",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Why I moved Paseo from Tauri to Electron",
+      "title": "DevRelCon NYC 2026: Where Developer Relations, DevX, & Developer Marketing Come Together",
+      "hot": "❤️ 18 💬 2",
+      "desc": "TL;DR -DevRelCon NYC returns to Industry City in Brooklyn on July 22–23, 2026. It's the flagship...",
       "source": "dev",
-      "tag": "electron,  tauri",
-      "url": "https://dev.to/moboudra/i-was-wrong-about-electron-1e9g"
+      "tag": "devrel,  career",
+      "url": "https://dev.to/mlh/devrelcon-nyc-2026-where-developer-relations-devx-developer-marketing-come-together-5468"
     },
     {
       "title": "🦄 Modernizing Wild Rydes with modern technologies",
@@ -129,14 +121,6 @@
       "url": "https://dev.to/shanky1992/the-stylelint-rule-that-was-silently-rewriting-our-scss-colors-15pb"
     },
     {
-      "title": "How I built a supersonic AI riddling duel in under 20 Minutes (with zero manual coding)",
-      "hot": "❤️ 14 💬 0",
-      "desc": "Can an AI developer agent build complex full-stack logic without constant hand-holding?   To test...",
-      "source": "dev",
-      "tag": "antigravity,  gemini",
-      "url": "https://dev.to/googleai/how-i-built-a-supersonic-ai-riddling-duel-in-under-20-minutes-with-zero-manual-coding-16ah"
-    },
-    {
       "title": "The Software Developer's Guide to AEO",
       "hot": "❤️ 0 💬 0",
       "desc": "When I was writing code full-time five years ago, I Googled error messages, opened five tabs, and...",
@@ -153,13 +137,29 @@
       "url": "https://dev.to/codepurse/building-an-seo-crawler-in-typescript-what-i-learned-1doo"
     },
     {
-      "title": "I built 'Ask Your Life' — a personal Coral agent that answers questions about your money & deadlines with SQL",
-      "hot": "❤️ 1 💬 1",
-      "desc": "\"Here are the personal admin risks that can cost me money, time, or access this week — with the...",
+      "title": "Cross Language A2A Agent Benchmarking with Antigravity CLI",
+      "hot": "❤️ 5 💬 0",
+      "desc": "Building a Benchmarking Agent with A2A and MCP   This tutorial aims to build and test...",
       "source": "dev",
-      "tag": "ai,  sql",
-      "url": "https://dev.to/sahil9001/i-built-ask-your-life-a-personal-coral-agent-that-answers-questions-about-your-money--52a8"
+      "tag": "mcps,  googleadk",
+      "url": "https://dev.to/gde/cross-language-a2a-agent-benchmarking-with-antigravity-cli-hn1"
+    },
+    {
+      "title": "Broken Software",
+      "hot": "❤️ 0 💬 0",
+      "desc": "Series of posts about broken software. Short stories.  Today, Firefox.  Turns out to be that closing...",
+      "source": "dev",
+      "tag": "bugs,  software",
+      "url": "https://dev.to/alex27/broken-software-b54"
+    },
+    {
+      "title": "I Spent 10x Longer Debugging AI Code Than Writing It",
+      "hot": "❤️ 36 💬 80",
+      "desc": "AI wrote the code in 30 seconds  Three lines A simple function I prompted it generated I copied It...",
+      "source": "dev",
+      "tag": "ai,  programming",
+      "url": "https://dev.to/harsh2644/i-spent-10x-longer-debugging-ai-code-than-writing-it-15h4"
     }
   ],
-  "updatedAt": "2026-05-30T06:11:54.020Z"
+  "updatedAt": "2026-05-30T08:42:15.804Z"
 }

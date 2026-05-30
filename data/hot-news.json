@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-05-30T06:11:54.020Z",
+  "updatedAt": "2026-05-30T08:42:15.804Z",
   "source": "live",
   "dev": [
     {
       "title": "What was your win this week?",
-      "hot": "❤️ 39 💬 28",
+      "hot": "❤️ 39 💬 29",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "discuss,  weeklyretro",
@@ -12,7 +12,7 @@
     },
     {
       "title": "How Are Developers Actually Using AI At Work?",
-      "hot": "❤️ 127 💬 161",
+      "hot": "❤️ 130 💬 164",
       "desc": "JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...",
       "source": "dev",
       "tag": "discuss,  ai",
@@ -20,7 +20,7 @@
     },
     {
       "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 73 💬 25",
+      "hot": "❤️ 73 💬 27",
       "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
       "source": "dev",
       "tag": "top7,  discuss",
@@ -28,19 +28,11 @@
     },
     {
       "title": "An LLM API call, in 4 GIFs",
-      "hot": "❤️ 63 💬 32",
+      "hot": "❤️ 63 💬 34",
       "desc": "This is the first post of series Building TinyAgent where we are going to build a small agent from...",
       "source": "dev",
       "tag": "llm,  javascript",
       "url": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1"
-    },
-    {
-      "title": "DevRelCon NYC 2026: Where Developer Relations, DevX, & Developer Marketing Come Together",
-      "hot": "❤️ 18 💬 1",
-      "desc": "TL;DR -DevRelCon NYC returns to Industry City in Brooklyn on July 22–23, 2026. It's the flagship...",
-      "source": "dev",
-      "tag": "devrel,  career",
-      "url": "https://dev.to/mlh/devrelcon-nyc-2026-where-developer-relations-devx-developer-marketing-come-together-5468"
     },
     {
       "title": "How Model Distillation Actually Works (and What the 'China Distilled Our Model' Headlines Really Mean)",
@@ -60,19 +52,11 @@
     },
     {
       "title": "The Kubernetes Overkill: Why I Built a \"K8s Killer\" for Small Environments",
-      "hot": "❤️ 7 💬 1",
+      "hot": "❤️ 7 💬 2",
       "desc": "Let’s be honest: Kubernetes is the undisputed king of orchestration. But if you are running a small...",
       "source": "dev",
       "tag": "architecture,  devops",
       "url": "https://dev.to/gde/the-kubernetes-overkill-why-i-built-a-k8s-killer-for-small-environments-m9k"
-    },
-    {
-      "title": "Every Great Cup Starts with the Right Question — I Built the Community Behind the Answer with Hermes Agent",
-      "hot": "❤️ 5 💬 0",
-      "desc": "This is a submission for the Hermes Agent Challenge: Build With Hermes Agent           What I...",
-      "source": "dev",
-      "tag": "hermesagentchallenge,  devchallenge",
-      "url": "https://dev.to/yuens1002/every-great-cup-starts-with-the-right-question-i-built-the-community-behind-the-answer-with-o04"
     },
     {
       "title": "How a 500 MB Buffer Killed Our Archival Job — And Why Streaming Fixed It",
@@ -81,6 +65,14 @@
       "source": "dev",
       "tag": "dataengineering,  go",
       "url": "https://dev.to/harishteens/how-a-500-mb-buffer-killed-our-archival-job-and-why-streaming-fixed-it-4iek"
+    },
+    {
+      "title": "I was wrong about Electron",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Why I moved Paseo from Tauri to Electron",
+      "source": "dev",
+      "tag": "electron,  tauri",
+      "url": "https://dev.to/moboudra/i-was-wrong-about-electron-1e9g"
     },
     {
       "title": "Anyone Can Make Software Now. But When Does A Side Project Become Production Ready?",
@@ -92,19 +84,19 @@
     },
     {
       "title": "VS Code Prompt Files - Custom Slash Commands for GitHub Copilot",
-      "hot": "❤️ 1 💬 0",
+      "hot": "❤️ 1 💬 1",
       "desc": "Prompt files turn repeated GitHub Copilot chat requests into slash commands. You write the...",
       "source": "dev",
       "tag": "ai,  githubcopilot",
       "url": "https://dev.to/petermilovcik/vs-code-prompt-files-custom-slash-commands-for-github-copilot-1m4f"
     },
     {
-      "title": "I was wrong about Electron",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Why I moved Paseo from Tauri to Electron",
+      "title": "DevRelCon NYC 2026: Where Developer Relations, DevX, & Developer Marketing Come Together",
+      "hot": "❤️ 18 💬 2",
+      "desc": "TL;DR -DevRelCon NYC returns to Industry City in Brooklyn on July 22–23, 2026. It's the flagship...",
       "source": "dev",
-      "tag": "electron,  tauri",
-      "url": "https://dev.to/moboudra/i-was-wrong-about-electron-1e9g"
+      "tag": "devrel,  career",
+      "url": "https://dev.to/mlh/devrelcon-nyc-2026-where-developer-relations-devx-developer-marketing-come-together-5468"
     },
     {
       "title": "🦄 Modernizing Wild Rydes with modern technologies",
@@ -131,14 +123,6 @@
       "url": "https://dev.to/shanky1992/the-stylelint-rule-that-was-silently-rewriting-our-scss-colors-15pb"
     },
     {
-      "title": "How I built a supersonic AI riddling duel in under 20 Minutes (with zero manual coding)",
-      "hot": "❤️ 14 💬 0",
-      "desc": "Can an AI developer agent build complex full-stack logic without constant hand-holding?   To test...",
-      "source": "dev",
-      "tag": "antigravity,  gemini",
-      "url": "https://dev.to/googleai/how-i-built-a-supersonic-ai-riddling-duel-in-under-20-minutes-with-zero-manual-coding-16ah"
-    },
-    {
       "title": "The Software Developer's Guide to AEO",
       "hot": "❤️ 0 💬 0",
       "desc": "When I was writing code full-time five years ago, I Googled error messages, opened five tabs, and...",
@@ -155,12 +139,28 @@
       "url": "https://dev.to/codepurse/building-an-seo-crawler-in-typescript-what-i-learned-1doo"
     },
     {
-      "title": "I built 'Ask Your Life' — a personal Coral agent that answers questions about your money & deadlines with SQL",
-      "hot": "❤️ 1 💬 1",
-      "desc": "\"Here are the personal admin risks that can cost me money, time, or access this week — with the...",
+      "title": "Cross Language A2A Agent Benchmarking with Antigravity CLI",
+      "hot": "❤️ 5 💬 0",
+      "desc": "Building a Benchmarking Agent with A2A and MCP   This tutorial aims to build and test...",
       "source": "dev",
-      "tag": "ai,  sql",
-      "url": "https://dev.to/sahil9001/i-built-ask-your-life-a-personal-coral-agent-that-answers-questions-about-your-money--52a8"
+      "tag": "mcps,  googleadk",
+      "url": "https://dev.to/gde/cross-language-a2a-agent-benchmarking-with-antigravity-cli-hn1"
+    },
+    {
+      "title": "Broken Software",
+      "hot": "❤️ 0 💬 0",
+      "desc": "Series of posts about broken software. Short stories.  Today, Firefox.  Turns out to be that closing...",
+      "source": "dev",
+      "tag": "bugs,  software",
+      "url": "https://dev.to/alex27/broken-software-b54"
+    },
+    {
+      "title": "I Spent 10x Longer Debugging AI Code Than Writing It",
+      "hot": "❤️ 36 💬 80",
+      "desc": "AI wrote the code in 30 seconds  Three lines A simple function I prompted it generated I copied It...",
+      "source": "dev",
+      "tag": "ai,  programming",
+      "url": "https://dev.to/harsh2644/i-spent-10x-longer-debugging-ai-code-than-writing-it-15h4"
     }
   ],
   "tech": [
@@ -169,167 +169,289 @@
       "hot": "3.0m",
       "desc": "obeli.sk",
       "source": "tech",
-      "tag": "⬆️ 461 points",
+      "tag": "⬆️ 513 points",
       "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/"
     },
     {
-      "title": "Perry Compiles TypeScript directly to executables using SWC and LLVM",
+      "title": "Algebraic Effects for the Rest of Us",
       "hot": "3.0m",
-      "desc": "perryts.com",
+      "desc": "overreacted.io",
       "source": "tech",
-      "tag": "⬆️ 39 points",
-      "url": "https://www.perryts.com/"
+      "tag": "⬆️ 33 points",
+      "url": "https://overreacted.io/algebraic-effects-for-the-rest-of-us/"
     },
     {
       "title": "Snowboard Kids 2 is 100% Decompiled",
       "hot": "3.0m",
       "desc": "blog.chrislewis.au",
       "source": "tech",
-      "tag": "⬆️ 144 points",
+      "tag": "⬆️ 184 points",
       "url": "https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/"
     },
     {
-      "title": "Math-to-Manim",
+      "title": "Perry Compiles TypeScript directly to executables using SWC and LLVM",
       "hot": "3.0m",
-      "desc": "github.com",
+      "desc": "perryts.com",
       "source": "tech",
-      "tag": "⬆️ 31 points",
-      "url": "https://github.com/HarleyCoops/Math-To-Manim"
-    },
-    {
-      "title": "Naphtha shortages in Japan",
-      "hot": "2.9m",
-      "desc": "nippon.com",
-      "source": "tech",
-      "tag": "⬆️ 81 points",
-      "url": "https://www.nippon.com/en/japan-data/h02783/"
+      "tag": "⬆️ 86 points",
+      "url": "https://www.perryts.com/"
     },
     {
       "title": "Notes from the Mistral AI Now Summit",
       "hot": "2.9m",
       "desc": "koenvangilst.nl",
       "source": "tech",
-      "tag": "⬆️ 333 points",
+      "tag": "⬆️ 362 points",
       "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit"
     },
     {
-      "title": "MCP is dead?",
+      "title": "What It Takes to Preserve Floppy Disks",
       "hot": "2.9m",
-      "desc": "quandri.io",
+      "desc": "spectrum.ieee.org",
       "source": "tech",
-      "tag": "⬆️ 153 points",
-      "url": "https://www.quandri.io/engineering-blog/mcp-is-dead"
+      "tag": "⬆️ 42 points",
+      "url": "https://spectrum.ieee.org/floppy-disk-data-preservation-archives"
     },
     {
       "title": "Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer",
       "hot": "2.9m",
       "desc": "blog.prusa3d.com",
       "source": "tech",
-      "tag": "⬆️ 120 points",
+      "tag": "⬆️ 147 points",
       "url": "https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/"
     },
     {
-      "title": "It's hard to justify buying a Framework 12",
+      "title": "MCP is dead?",
       "hot": "2.9m",
-      "desc": "jeffgeerling.com",
+      "desc": "quandri.io",
       "source": "tech",
-      "tag": "⬆️ 265 points",
-      "url": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/"
+      "tag": "⬆️ 214 points",
+      "url": "https://www.quandri.io/engineering-blog/mcp-is-dead"
+    },
+    {
+      "title": "A new register allocator for ZJIT",
+      "hot": "2.9m",
+      "desc": "railsatscale.com",
+      "source": "tech",
+      "tag": "⬆️ 32 points",
+      "url": "https://railsatscale.com/2026-05-27-a-new-register-allocator-for-zjit/"
+    },
+    {
+      "title": "Naphtha shortages in Japan",
+      "hot": "2.9m",
+      "desc": "nippon.com",
+      "source": "tech",
+      "tag": "⬆️ 106 points",
+      "url": "https://www.nippon.com/en/japan-data/h02783/"
     },
     {
       "title": "Shift will clean homes for free to train future robots",
       "hot": "2.9m",
       "desc": "theverge.com",
       "source": "tech",
-      "tag": "⬆️ 111 points",
+      "tag": "⬆️ 135 points",
       "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning"
     },
     {
       "title": "The dead economy theory",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "owenmcgrann.com",
       "source": "tech",
-      "tag": "⬆️ 885 points",
+      "tag": "⬆️ 962 points",
       "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory"
     },
     {
-      "title": "What It Takes to Preserve Floppy Disks",
+      "title": "It's hard to justify buying a Framework 12",
       "hot": "2.8m",
-      "desc": "spectrum.ieee.org",
+      "desc": "jeffgeerling.com",
       "source": "tech",
-      "tag": "⬆️ 16 points",
-      "url": "https://spectrum.ieee.org/floppy-disk-data-preservation-archives"
-    },
-    {
-      "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
-      "hot": "2.8m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 124 points",
-      "url": "https://github.com/jmaczan/tiny-vllm"
+      "tag": "⬆️ 286 points",
+      "url": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/"
     },
     {
       "title": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM",
       "hot": "2.8m",
       "desc": "latimes.com",
       "source": "tech",
-      "tag": "⬆️ 542 points",
+      "tag": "⬆️ 584 points",
       "url": "https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions"
     },
     {
-      "title": "WH proposes rules giving political appointees final approval on research grants",
+      "title": "Danish pension fund excludes SpaceX citing governance and valuation",
       "hot": "2.8m",
-      "desc": "scientificamerican.com",
+      "desc": "reuters.com",
       "source": "tech",
-      "tag": "⬆️ 126 points",
-      "url": "https://www.scientificamerican.com/article/white-house-proposes-new-rules-giving-political-appointees-final-say-on-research-grants/"
-    },
-    {
-      "title": "Show HN: Open-source private home security camera system (end-to-end encryption)",
-      "hot": "2.8m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 39 points",
-      "url": "https://github.com/secluso/core"
+      "tag": "⬆️ 13 points",
+      "url": "https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/"
     },
     {
       "title": "The Last Technical Interview",
       "hot": "2.8m",
       "desc": "steve-yegge.medium.com",
       "source": "tech",
-      "tag": "⬆️ 82 points",
+      "tag": "⬆️ 109 points",
       "url": "https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564"
     },
     {
-      "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
-      "hot": "2.7m",
-      "desc": "liquid.ai",
+      "title": "OpenRCT2 v0.5.1 \"Swamp Castle\" released Last version to support Windows 7",
+      "hot": "2.8m",
+      "desc": "openrct2.io",
       "source": "tech",
-      "tag": "⬆️ 172 points",
-      "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b"
+      "tag": "⬆️ 7 points",
+      "url": "https://openrct2.io/blog/2026/05/openrct2-v0.5.1-released"
     },
     {
-      "title": "Bijou64: A variable-length integer encoding",
+      "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
       "hot": "2.7m",
-      "desc": "inkandswitch.com",
+      "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 217 points",
-      "url": "https://www.inkandswitch.com/tangents/bijou64/"
+      "tag": "⬆️ 141 points",
+      "url": "https://github.com/jmaczan/tiny-vllm"
     },
     {
-      "title": "What Is a Dickover?",
+      "title": "Ho-scale slot car racing in the Santa Cruz Mountains",
       "hot": "2.7m",
-      "desc": "daringfireball.net",
+      "desc": "stewartraceway.org",
       "source": "tech",
-      "tag": "⬆️ 244 points",
-      "url": "https://daringfireball.net/2026/05/what_is_a_dickover"
+      "tag": "⬆️ 6 points",
+      "url": "https://stewartraceway.org/"
+    },
+    {
+      "title": "Show HN: Open-source private home security camera system (end-to-end encryption)",
+      "hot": "2.7m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 57 points",
+      "url": "https://github.com/secluso/core"
+    }
+  ],
+  "github": [
+    {
+      "title": "op7418/guizang-social-card-skill: 🪧 Claude Code / Codex skill — generate Xiaoho",
+      "hot": "⭐ 1.2k",
+      "desc": "🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, ",
+      "source": "github",
+      "tag": "HTML",
+      "url": "https://github.com/op7418/guizang-social-card-skill"
+    },
+    {
+      "title": "helloianneo/ian-xiaohei-illustrations: 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 ",
+      "hot": "⭐ 958",
+      "desc": "中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/helloianneo/ian-xiaohei-illustrations"
+    },
+    {
+      "title": "study8677/awesome-architecture: 🗺️ Think like a software architect, not just a ",
+      "hot": "⭐ 852",
+      "desc": "🗺️ Think like a software architect, not just a coder — 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a languag",
+      "source": "github",
+      "tag": "Vue",
+      "url": "https://github.com/study8677/awesome-architecture"
+    },
+    {
+      "title": "withkynam/vibecode-pro-max-kit: Your AI forgets. This remembers. Spec-driven cod",
+      "hot": "⭐ 534",
+      "desc": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/withkynam/vibecode-pro-max-kit"
+    },
+    {
+      "title": "UditAkhourii/adhd: ADHD — a skill for coding agents. Tree-of-thought with prunin",
+      "hot": "⭐ 527",
+      "desc": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under diff",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/UditAkhourii/adhd"
+    },
+    {
+      "title": "Michaelliv/pi-dynamic-workflows: ",
+      "hot": "⭐ 469",
+      "desc": "Michaelliv/pi-dynamic-workflows",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/Michaelliv/pi-dynamic-workflows"
+    },
+    {
+      "title": "baoweise-bot/aimili-vpngate: aimili-vpngate是一个借助vpngate.net让Linux用干净ip出站的代理工具。",
+      "hot": "⭐ 464",
+      "desc": "aimili-vpngate是一个借助vpngate.net让Linux用干净ip出站的代理工具。",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/baoweise-bot/aimili-vpngate"
+    },
+    {
+      "title": "harrietteehisqu7759383/kms-pico-latest-april-2026: A secure, educational toolkit",
+      "hot": "⭐ 449",
+      "desc": "A secure, educational toolkit for understanding KMS activation, designed for lab environments.",
+      "source": "github",
+      "tag": "C#",
+      "url": "https://github.com/harrietteehisqu7759383/kms-pico-latest-april-2026"
+    },
+    {
+      "title": "MatinSenPai/SenPaiScanner: A light-weight scanner for Cloudflare IPs, written in",
+      "hot": "⭐ 414",
+      "desc": "A light-weight scanner for Cloudflare IPs, written in Golang",
+      "source": "github",
+      "tag": "Go",
+      "url": "https://github.com/MatinSenPai/SenPaiScanner"
+    },
+    {
+      "title": "2aronS/Duel-Agents: CLI, SDK, and IDE plugins for Duel Agents",
+      "hot": "⭐ 406",
+      "desc": "CLI, SDK, and IDE plugins for Duel Agents",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/2aronS/Duel-Agents"
+    },
+    {
+      "title": "Sophomoresty/gemini-web2api: Convert Google Gemini web into OpenAI-compatible AP",
+      "hot": "⭐ 406",
+      "desc": "Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/Sophomoresty/gemini-web2api"
+    },
+    {
+      "title": "alfiyahkamilah1239298/WallpaperDownloader-26: A comprehensive community toolkit ",
+      "hot": "⭐ 400",
+      "desc": "A comprehensive community toolkit for organizing, creating, and managing dynamic wallpaper projects and assets, enhancing your Wallpaper Engine experi",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/alfiyahkamilah1239298/WallpaperDownloader-26"
+    },
+    {
+      "title": "FlashML-org/flashlib: Fast and memory-efficient classical machine learning opera",
+      "hot": "⭐ 399",
+      "desc": "Fast and memory-efficient classical machine learning operators",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/FlashML-org/flashlib"
+    },
+    {
+      "title": "Mclisterjoeh2o/yellowkey-bitlocker: yellowkey  bitlocker github vulnerability  b",
+      "hot": "⭐ 373",
+      "desc": "yellowkey  bitlocker github vulnerability  bypass  cve-2026-45585 windows 11 security zero day exploit winre recovery mode poc nightmare eclipse chaot",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/Mclisterjoeh2o/yellowkey-bitlocker"
+    },
+    {
+      "title": "Novaquant-labs/hyperliquid-trading-bot: hyperliquid trading bot, perp trading bo",
+      "hot": "⭐ 368",
+      "desc": "hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable tradi",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/Novaquant-labs/hyperliquid-trading-bot"
     }
   ],
   "space": [
     {
-      "title": "Repercussions of New Glenn’s Explosion Still Coming Into Focus",
+      "title": "Repercussions of New Glenn���s Explosion Still Coming Into Focus",
       "hot": "5/29",
-      "desc": "The repercussions of last night’s explosion of Blue Origin’s New Glenn rocket during a pre-launch test will take some time to assess. Among the key qu",
+      "desc": "The repercussions of last night���s explosion of Blue Origin���s New Glenn rocket during a pre-launch test will take some time to assess. Among the ke",
       "source": "space",
       "tag": "SpacePolicyOnline.com",
       "url": "https://spacepolicyonline.com/news/repercussions-of-new-glenns-explosion-still-coming-into-focus/"
@@ -345,7 +467,7 @@
     {
       "title": "NASA Awards Contract for Johnson Space Center Infrastructure",
       "hot": "5/29",
-      "desc": "NASA has selected seven companies to provide construction, revitalization, and infrastructure improvements at the agency’s Johnson Space Center in Hou",
+      "desc": "NASA has selected seven companies to provide construction, revitalization, and infrastructure improvements at the agency���s Johnson Space Center in H",
       "source": "space",
       "tag": "NASA",
       "url": "https://www.nasa.gov/news-release/nasa-awards-contract-for-johnson-space-center-infrastructure/"
@@ -353,15 +475,15 @@
     {
       "title": "NASA Hosts SpaceX Crew-11 Astronauts for Public Event at Headquarters",
       "hot": "5/29",
-      "desc": "NASA will host a public event featuring three crew members from the agency’s SpaceX Crew-11 mission at 11 a.m. EDT Monday, June 1. The event, which ta",
+      "desc": "NASA will host a public event featuring three crew members from the agency���s SpaceX Crew-11 mission at 11 a.m. EDT Monday, June 1. The event, which ",
       "source": "space",
       "tag": "NASA",
       "url": "https://www.nasa.gov/news-release/nasa-hosts-spacex-crew-11-astronauts-for-public-event-at-headquarters/"
     },
     {
-      "title": "China’s Shenzhou-21 Crew Returns to Earth",
+      "title": "China���s Shenzhou-21 Crew Returns to Earth",
       "hot": "5/29",
-      "desc": "China’s three-man Shenzhou-21 (SZ-21) crew returned to Earth today after 210 days aboard the Tiangong space station. They landed not in the SZ-21 spac",
+      "desc": "China���s three-man Shenzhou-21 (SZ-21) crew returned to Earth today after 210 days aboard the Tiangong space station. They landed not in the SZ-21 sp",
       "source": "space",
       "tag": "SpacePolicyOnline.com",
       "url": "https://spacepolicyonline.com/news/chinas-shenzhou-21-crew-returns-to-earth/"
@@ -375,9 +497,9 @@
       "url": "https://spacenews.com/space-force-awards-spacex-4-16-billion-to-build-satellite-network-for-airborne-target-tracking/"
     },
     {
-      "title": "NASA’s Roman Space Telescope Primary Mirror Gets Last Look",
+      "title": "NASA���s Roman Space Telescope Primary Mirror Gets Last Look",
       "hot": "5/29",
-      "desc": "Engineers at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, have completed their final inspection of a key element for the agency’s Nancy ",
+      "desc": "Engineers at NASA���s Goddard Space Flight Center in Greenbelt, Maryland, have completed their final inspection of a key element for the agency���s Na",
       "source": "space",
       "tag": "NASA",
       "url": "https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescope-primary-mirror-gets-last-look/"
@@ -385,7 +507,7 @@
     {
       "title": "Hubble Spies Faint Irregular Galaxy",
       "hot": "5/29",
-      "desc": "This NASA Hubble Space Telescope image released on May 27, 2026, features the dwarf irregular galaxy ESO 490-017, roughly 12,000 light-years in diamet",
+      "desc": "This NASA��Hubble Space Telescope image released on May 27, 2026, features the dwarf irregular galaxy ESO 490-017, roughly 12,000 light-years in diame",
       "source": "space",
       "tag": "NASA",
       "url": "https://www.nasa.gov/image-article/hubble-spies-faint-irregular-galaxy/"
@@ -399,7 +521,7 @@
       "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/05/This_Month_at_ESA_May_2026"
     },
     {
-      "title": "Space Force’s commercial gatekeeper offers a playbook for startups seeking defense business",
+      "title": "Space Force���s commercial gatekeeper offers a playbook for startups seeking defense business",
       "hot": "5/29",
       "desc": "\nCOMSO chief Col. Tim Trimailo says transparency, patience and a clear military value proposition matter as much as technical innovation\nThe post Spac",
       "source": "space",
@@ -423,7 +545,7 @@
       "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_25-29_May_2026"
     },
     {
-      "title": "ESA and EDF strengthen their partnership for energy efficiency at Europe’s Spaceport",
+      "title": "ESA and EDF strengthen their partnership for energy efficiency at Europe���s Spaceport",
       "hot": "5/29",
       "desc": "From the ESA Blogs.",
       "source": "space",
@@ -445,128 +567,6 @@
       "source": "space",
       "tag": "Arstechnica",
       "url": "https://arstechnica.com/features/2026/05/heres-why-the-failure-of-blue-origins-new-glenn-rocket-is-so-catastrophic/"
-    }
-  ],
-  "github": [
-    {
-      "title": "op7418/guizang-social-card-skill: 🪧 Claude Code / Codex skill — generate Xiaoho",
-      "hot": "⭐ 1.2k",
-      "desc": "🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, ",
-      "source": "github",
-      "tag": "HTML",
-      "url": "https://github.com/op7418/guizang-social-card-skill"
-    },
-    {
-      "title": "helloianneo/ian-xiaohei-illustrations: 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 ",
-      "hot": "⭐ 904",
-      "desc": "中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/helloianneo/ian-xiaohei-illustrations"
-    },
-    {
-      "title": "study8677/awesome-architecture: 🗺️ Think like a software architect, not just a ",
-      "hot": "⭐ 833",
-      "desc": "🗺️ Think like a software architect, not just a coder — 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a languag",
-      "source": "github",
-      "tag": "Vue",
-      "url": "https://github.com/study8677/awesome-architecture"
-    },
-    {
-      "title": "withkynam/vibecode-pro-max-kit: Your AI forgets. This remembers. Spec-driven cod",
-      "hot": "⭐ 522",
-      "desc": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/withkynam/vibecode-pro-max-kit"
-    },
-    {
-      "title": "UditAkhourii/adhd: ADHD — a skill for coding agents. Tree-of-thought with prunin",
-      "hot": "⭐ 522",
-      "desc": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude Agent SDK. Fans out parallel divergent thoughts under different co",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/UditAkhourii/adhd"
-    },
-    {
-      "title": "Michaelliv/pi-dynamic-workflows: ",
-      "hot": "⭐ 460",
-      "desc": "Michaelliv/pi-dynamic-workflows",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/Michaelliv/pi-dynamic-workflows"
-    },
-    {
-      "title": "baoweise-bot/aimili-vpngate: aimili-vpngate是一个借助vpngate.net让Linux用干净ip出站的代理工具。",
-      "hot": "⭐ 452",
-      "desc": "aimili-vpngate是一个借助vpngate.net让Linux用干净ip出站的代理工具。",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/baoweise-bot/aimili-vpngate"
-    },
-    {
-      "title": "harrietteehisqu7759383/kms-pico-latest-april-2026: A secure, educational toolkit",
-      "hot": "⭐ 449",
-      "desc": "A secure, educational toolkit for understanding KMS activation, designed for lab environments.",
-      "source": "github",
-      "tag": "C#",
-      "url": "https://github.com/harrietteehisqu7759383/kms-pico-latest-april-2026"
-    },
-    {
-      "title": "Sophomoresty/gemini-web2api: Convert Google Gemini web into OpenAI-compatible AP",
-      "hot": "⭐ 406",
-      "desc": "Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/Sophomoresty/gemini-web2api"
-    },
-    {
-      "title": "alfiyahkamilah1239298/WallpaperDownloader-26: A comprehensive community toolkit ",
-      "hot": "⭐ 400",
-      "desc": "A comprehensive community toolkit for organizing, creating, and managing dynamic wallpaper projects and assets, enhancing your Wallpaper Engine experi",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/alfiyahkamilah1239298/WallpaperDownloader-26"
-    },
-    {
-      "title": "FlashML-org/flashlib: Fast and memory-efficient classical machine learning opera",
-      "hot": "⭐ 397",
-      "desc": "Fast and memory-efficient classical machine learning operators",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/FlashML-org/flashlib"
-    },
-    {
-      "title": "2aronS/Duel-Agents: CLI, SDK, and IDE plugins for Duel Agents",
-      "hot": "⭐ 389",
-      "desc": "CLI, SDK, and IDE plugins for Duel Agents",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/2aronS/Duel-Agents"
-    },
-    {
-      "title": "MatinSenPai/SenPaiScanner: A light-weight scanner for Cloudflare IPs, written in",
-      "hot": "⭐ 381",
-      "desc": "A light-weight scanner for Cloudflare IPs, written in Golang",
-      "source": "github",
-      "tag": "Go",
-      "url": "https://github.com/MatinSenPai/SenPaiScanner"
-    },
-    {
-      "title": "Novaquant-labs/hyperliquid-trading-bot: hyperliquid trading bot, perp trading bo",
-      "hot": "⭐ 367",
-      "desc": "hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable tradi",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/Novaquant-labs/hyperliquid-trading-bot"
-    },
-    {
-      "title": "SigmaTradeLabs/aster-bot: asterDEX trading bot, perp trading, asterDEX auto trad",
-      "hot": "⭐ 365",
-      "desc": "asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, pe",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/SigmaTradeLabs/aster-bot"
     }
   ]
 }
