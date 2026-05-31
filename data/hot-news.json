@@ -1,175 +1,13 @@
 {
-  "updatedAt": "2026-05-31T20:02:28.172Z",
+  "updatedAt": "2026-05-31T21:28:57.331Z",
   "source": "live",
-  "dev": [
-    {
-      "title": "I Made My AI Models Argue, Then Let Hermes Be the Judge",
-      "hot": "❤️ 20 💬 15",
-      "desc": "A $0 multi-model decision agent: three LLMs debate, Hermes judges, and it learns who to trust.",
-      "source": "dev",
-      "tag": "hermesagentchallenge,  devchallenge",
-      "url": "https://dev.to/arqamwd/i-made-my-ai-models-argue-then-let-hermes-be-the-judge-5e6c"
-    },
-    {
-      "title": "What was your win this week?",
-      "hot": "❤️ 47 💬 42",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "discuss,  weeklyretro",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-i1"
-    },
-    {
-      "title": "Gemma 4 Deployment with NVIDIA L4, MCP, Cloud Run, and Antigravity CLI",
-      "hot": "❤️ 5 💬 0",
-      "desc": "This article provides a step by step deployment guide for Gemma 4 to a Google Cloud Run hosted GPU...",
-      "source": "dev",
-      "tag": "googlecloudrun,  antigravitycli",
-      "url": "https://dev.to/gde/gemma-4-deployment-with-nvidia-l4-mcp-cloud-run-and-antigravity-cli-19h"
-    },
-    {
-      "title": "DevRelCon NYC 2026: Where Developer Relations, DevX, & Developer Marketing Come Together",
-      "hot": "❤️ 20 💬 2",
-      "desc": "TL;DR -DevRelCon NYC returns to Industry City in Brooklyn on July 22–23, 2026. It's the flagship...",
-      "source": "dev",
-      "tag": "devrel,  career",
-      "url": "https://dev.to/mlh/devrelcon-nyc-2026-where-developer-relations-devx-developer-marketing-come-together-5468"
-    },
-    {
-      "title": "How Are Developers Actually Using AI At Work?",
-      "hot": "❤️ 148 💬 189",
-      "desc": "JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...",
-      "source": "dev",
-      "tag": "discuss,  ai",
-      "url": "https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c"
-    },
-    {
-      "title": "🦄 Modernizing Wild Rydes with modern technologies",
-      "hot": "❤️ 0 💬 0",
-      "desc": "How I rebuilt the classic AWS Wild Rydes serverless app with Terraform, GitHub Actions, S3 + CloudFront, OIDC, and a mod",
-      "source": "dev",
-      "tag": "aws,  terraform",
-      "url": "https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p"
-    },
-    {
-      "title": "I love MJML — I just didn't want a whole templating engine for two tiny things",
-      "hot": "❤️ 0 💬 1",
-      "desc": "I love MJML.  Responsive HTML email is one of the genuinely miserable corners of frontend — nested...",
-      "source": "dev",
-      "tag": "mjml,  i18n",
-      "url": "https://dev.to/kralik12/i-love-mjml-i-just-didnt-want-a-whole-templating-engine-for-two-tiny-things-5a10"
-    },
-    {
-      "title": "The Software Developer's Guide to AEO",
-      "hot": "❤️ 0 💬 0",
-      "desc": "When I was writing code full-time five years ago, I Googled error messages, opened five tabs, and...",
-      "source": "dev",
-      "tag": "ai,  contentwriting",
-      "url": "https://dev.to/karllhughes/the-software-developers-guide-to-aeo-1h5h"
-    },
-    {
-      "title": "Broken Software",
-      "hot": "❤️ 0 💬 0",
-      "desc": "Series of posts about broken software. Short stories.  Today, Firefox.  Turns out to be that closing...",
-      "source": "dev",
-      "tag": "bugs,  software",
-      "url": "https://dev.to/alex27/broken-software-b54"
-    },
-    {
-      "title": "Revisiting Benchmarking- Building a Rust A2A Agent",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This is a submission for the GitHub Finish-Up-A-Thon Challenge           Cross Language A2A Agent...",
-      "source": "dev",
-      "tag": "devchallenge,  githubchallenge",
-      "url": "https://dev.to/gde/revisiting-benchmarking-building-a-rust-a2a-agent-5bl2"
-    },
-    {
-      "title": "AWS Cloud Shell with Antigravity CLI",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article covers the initial setup and configuration for the Antigravity CLI on the AWS Cloud...",
-      "source": "dev",
-      "tag": "aws,  cli",
-      "url": "https://dev.to/gde/aws-cloud-shell-with-antigravity-cli-e3a"
-    },
-    {
-      "title": "Azure Cloud Shell with Antigravity CLI",
-      "hot": "❤️ 5 💬 0",
-      "desc": "This article covers the initial setup and configuration for the Antigravity CLI on the Azure Cloud...",
-      "source": "dev",
-      "tag": "cli,  azurecloudshell",
-      "url": "https://dev.to/gde/azure-cloud-shell-with-antigravity-cli-mn6"
-    },
-    {
-      "title": "An LLM API call, in 4 GIFs",
-      "hot": "❤️ 79 💬 55",
-      "desc": "This is the first post of series Building TinyAgent where we are going to build a small agent from...",
-      "source": "dev",
-      "tag": "llm,  javascript",
-      "url": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1"
-    },
-    {
-      "title": "The Kubernetes Overkill: Why I Built a \"K8s Killer\" for Small Environments",
-      "hot": "❤️ 8 💬 3",
-      "desc": "Let’s be honest: Kubernetes is the undisputed king of orchestration. But if you are running a small...",
-      "source": "dev",
-      "tag": "architecture,  devops",
-      "url": "https://dev.to/gde/the-kubernetes-overkill-why-i-built-a-k8s-killer-for-small-environments-m9k"
-    },
-    {
-      "title": "Every Great Cup Starts with the Right Question — I Built the Community Behind the Answer with Hermes Agent",
-      "hot": "❤️ 5 💬 1",
-      "desc": "This is a submission for the Hermes Agent Challenge: Build With Hermes Agent           What I...",
-      "source": "dev",
-      "tag": "hermesagentchallenge,  devchallenge",
-      "url": "https://dev.to/yuens1002/every-great-cup-starts-with-the-right-question-i-built-the-community-behind-the-answer-with-o04"
-    },
-    {
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 79 💬 28",
-      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
-      "source": "dev",
-      "tag": "top7,  discuss",
-      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-45na"
-    },
-    {
-      "title": "Accessibility question: is nesting interactive elements bad?",
-      "hot": "❤️ 10 💬 6",
-      "desc": "Is it confusing to have links inside labels? Does it break in some screenreaders?",
-      "source": "dev",
-      "tag": "a11y,  html",
-      "url": "https://dev.to/codepo8/accessibility-question-is-nesting-interactive-elements-bad-4oof"
-    },
-    {
-      "title": "I was wrong about Electron",
-      "hot": "❤️ 7 💬 1",
-      "desc": "Why I moved Paseo from Tauri to Electron",
-      "source": "dev",
-      "tag": "electron,  tauri",
-      "url": "https://dev.to/moboudra/i-was-wrong-about-electron-1e9g"
-    },
-    {
-      "title": "Github Copilot helped us cut down 50-75% time in our e-commerce business",
-      "hot": "❤️ 35 💬 0",
-      "desc": "This is a submission for the GitHub Finish-Up-A-Thon Challenge           What I Built   A couple of...",
-      "source": "dev",
-      "tag": "devchallenge,  githubchallenge",
-      "url": "https://dev.to/heyitsmarcucu/github-copilot-helped-us-cut-down-50-75-time-in-our-e-commerce-business-10l5"
-    },
-    {
-      "title": "GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search",
-      "hot": "❤️ 9 💬 0",
-      "desc": "Preface   In the previous article, we successfully upgraded the LINE business card...",
-      "source": "dev",
-      "tag": "ai,  gemini",
-      "url": "https://dev.to/gde/gcp-upgrading-a-line-bot-with-vertex-ai-adk-tools-for-smart-business-cards-and-backup-search-3dpe"
-    }
-  ],
   "tech": [
     {
       "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
       "hot": "3.0m",
       "desc": "hacktivis.me",
       "source": "tech",
-      "tag": "⬆️ 321 points",
+      "tag": "⬆️ 404 points",
       "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting"
     },
     {
@@ -177,15 +15,15 @@
       "hot": "3.0m",
       "desc": "prismml.com",
       "source": "tech",
-      "tag": "⬆️ 169 points",
+      "tag": "⬆️ 216 points",
       "url": "https://prismml.com/news/bonsai-image-4b"
     },
     {
-      "title": "Creatine raise brain energy levels and slow Alzheimer's cognitive decline by 30%",
+      "title": "Creatine raises brain energy levels and slows cognitive decline: study",
       "hot": "3.0m",
       "desc": "thesciverse.org",
       "source": "tech",
-      "tag": "⬆️ 303 points",
+      "tag": "⬆️ 361 points",
       "url": "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/"
     },
     {
@@ -193,136 +31,136 @@
       "hot": "3.0m",
       "desc": "jbkempf.com",
       "source": "tech",
-      "tag": "⬆️ 344 points",
+      "tag": "⬆️ 369 points",
       "url": "https://jbkempf.com/blog/2026/dav2d/"
-    },
-    {
-      "title": "The Speed of Prototyping in the Age of AI",
-      "hot": "2.9m",
-      "desc": "darylcecile.net",
-      "source": "tech",
-      "tag": "⬆️ 57 points",
-      "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai"
     },
     {
       "title": "Codex just found a \"workaround\" of not having sudo on my PC",
       "hot": "2.9m",
       "desc": "twitter.com",
       "source": "tech",
-      "tag": "⬆️ 84 points",
+      "tag": "⬆️ 202 points",
       "url": "https://twitter.com/i/status/2060746160558543217"
     },
     {
-      "title": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
+      "title": "The Speed of Prototyping in the Age of AI",
       "hot": "2.9m",
-      "desc": "simpleflying.com",
+      "desc": "darylcecile.net",
       "source": "tech",
-      "tag": "⬆️ 152 points",
-      "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/"
-    },
-    {
-      "title": "Restartable Sequences",
-      "hot": "2.9m",
-      "desc": "justine.lol",
-      "source": "tech",
-      "tag": "⬆️ 120 points",
-      "url": "https://justine.lol/rseq/"
-    },
-    {
-      "title": "Re: [PATCH] OOM_pardon, a.k.a. don't kill my xlock",
-      "hot": "2.9m",
-      "desc": "lwn.net",
-      "source": "tech",
-      "tag": "⬆️ 26 points",
-      "url": "https://lwn.net/Articles/104185/"
+      "tag": "⬆️ 78 points",
+      "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai"
     },
     {
       "title": "Show HN: Streambed – Stream Postgres to Iceberg on S3, Supports Postgres Wire",
       "hot": "2.9m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 11 points",
+      "tag": "⬆️ 31 points",
       "url": "https://github.com/viggy28/streambed"
+    },
+    {
+      "title": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
+      "hot": "2.9m",
+      "desc": "simpleflying.com",
+      "source": "tech",
+      "tag": "⬆️ 188 points",
+      "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/"
     },
     {
       "title": "Linux/M68k",
       "hot": "2.9m",
       "desc": "linux-m68k.org",
       "source": "tech",
-      "tag": "⬆️ 18 points",
+      "tag": "⬆️ 37 points",
       "url": "http://www.linux-m68k.org/"
+    },
+    {
+      "title": "Restartable Sequences",
+      "hot": "2.9m",
+      "desc": "justine.lol",
+      "source": "tech",
+      "tag": "⬆️ 149 points",
+      "url": "https://justine.lol/rseq/"
+    },
+    {
+      "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions",
+      "hot": "2.9m",
+      "desc": "techcrunch.com",
+      "source": "tech",
+      "tag": "⬆️ 59 points",
+      "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/"
+    },
+    {
+      "title": "Re: [PATCH] OOM_pardon, a.k.a. don't kill my xlock (2004)",
+      "hot": "2.8m",
+      "desc": "lwn.net",
+      "source": "tech",
+      "tag": "⬆️ 43 points",
+      "url": "https://lwn.net/Articles/104185/"
+    },
+    {
+      "title": "'Backrooms' Stuns with $81M Debut",
+      "hot": "2.8m",
+      "desc": "variety.com",
+      "source": "tech",
+      "tag": "⬆️ 78 points",
+      "url": "https://variety.com/2026/film/box-office/backrooms-box-office-record-opening-weekend-obsession-jumps-star-wars-crumbles-1236763355/"
     },
     {
       "title": "London's Free Roof Terraces",
       "hot": "2.8m",
       "desc": "diamondgeezer.blogspot.com",
       "source": "tech",
-      "tag": "⬆️ 231 points",
+      "tag": "⬆️ 245 points",
       "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html"
+    },
+    {
+      "title": "Odysseus – self-hosted AI workspace",
+      "hot": "2.8m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 72 points",
+      "url": "https://github.com/pewdiepie-archdaemon/odysseus"
     },
     {
       "title": "The Website Specification",
       "hot": "2.8m",
       "desc": "specification.website",
       "source": "tech",
-      "tag": "⬆️ 383 points",
+      "tag": "⬆️ 401 points",
       "url": "https://specification.website/"
     },
     {
-      "title": "Having your insulin pump die while you're on vacation",
+      "title": "The Four Programming Questions from My 1994 Microsoft Internship Interview (2023)",
       "hot": "2.8m",
-      "desc": "blog.lauramichet.com",
+      "desc": "computerenhance.com",
       "source": "tech",
-      "tag": "⬆️ 89 points",
-      "url": "https://blog.lauramichet.com/what-its-like-to-have-the-machine-that-keeps-you-alive-die-while-youre-on-vacation/"
-    },
-    {
-      "title": "Steam Deck sells out in North America within 24 hours of price hike",
-      "hot": "2.8m",
-      "desc": "arstechnica.com",
-      "source": "tech",
-      "tag": "⬆️ 19 points",
-      "url": "https://arstechnica.com/gaming/2026/05/despite-price-hike-steam-deck-is-already-sold-out-in-north-america/"
-    },
-    {
-      "title": "Deflock hits 100k ALPRs Mapped in USA",
-      "hot": "2.8m",
-      "desc": "deflock.org",
-      "source": "tech",
-      "tag": "⬆️ 79 points",
-      "url": "https://deflock.org/"
-    },
-    {
-      "title": "Daily pill can double survival time for deadliest cancer, trial shows",
-      "hot": "2.8m",
-      "desc": "theguardian.com",
-      "source": "tech",
-      "tag": "⬆️ 107 points",
-      "url": "https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial"
-    },
-    {
-      "title": "Backpressure is all you need",
-      "hot": "2.7m",
-      "desc": "lucasfcosta.com",
-      "source": "tech",
-      "tag": "⬆️ 87 points",
-      "url": "https://www.lucasfcosta.com/blog/backpressure-is-all-you-need"
-    },
-    {
-      "title": "FROST: Fingerprinting Remotely using OPFS-based SSD Timing [pdf]",
-      "hot": "2.7m",
-      "desc": "hannesweissteiner.com",
-      "source": "tech",
-      "tag": "⬆️ 29 points",
-      "url": "https://hannesweissteiner.com/pdfs/frost.pdf"
+      "tag": "⬆️ 6 points",
+      "url": "https://www.computerenhance.com/p/the-four-programming-questions-from"
     },
     {
       "title": "Websites have a new way to spy on visitors: analyzing their SSD activity",
       "hot": "2.7m",
       "desc": "arstechnica.com",
       "source": "tech",
-      "tag": "⬆️ 38 points",
+      "tag": "⬆️ 65 points",
       "url": "https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/"
+    },
+    {
+      "title": "Having your insulin pump die while you're on vacation",
+      "hot": "2.7m",
+      "desc": "blog.lauramichet.com",
+      "source": "tech",
+      "tag": "⬆️ 99 points",
+      "url": "https://blog.lauramichet.com/what-its-like-to-have-the-machine-that-keeps-you-alive-die-while-youre-on-vacation/"
+    },
+    {
+      "title": "Backpressure is all you need",
+      "hot": "2.7m",
+      "desc": "lucasfcosta.com",
+      "source": "tech",
+      "tag": "⬆️ 105 points",
+      "url": "https://www.lucasfcosta.com/blog/backpressure-is-all-you-need"
     }
   ],
   "space": [
@@ -450,7 +288,7 @@
   "github": [
     {
       "title": "pewdiepie-archdaemon/odysseus: Self-hosted AI workspace. ",
-      "hot": "⭐ 4.5k",
+      "hot": "⭐ 5.8k",
       "desc": "Self-hosted AI workspace. ",
       "source": "github",
       "tag": "JavaScript",
@@ -474,7 +312,7 @@
     },
     {
       "title": "AprilNEA/OpenLogi: ⚡️A native, local-first alternative to Logitech Options+, wri",
-      "hot": "⭐ 1.3k",
+      "hot": "⭐ 1.4k",
       "desc": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry",
       "source": "github",
       "tag": "Rust",
@@ -482,7 +320,7 @@
     },
     {
       "title": "Sophomoresty/gemini-web2api: Convert Google Gemini web into OpenAI-compatible AP",
-      "hot": "⭐ 855",
+      "hot": "⭐ 866",
       "desc": "Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
       "source": "github",
       "tag": "Python",
@@ -490,7 +328,7 @@
     },
     {
       "title": "MatinSenPai/SenPaiScanner: A light-weight scanner for Cloudflare IPs, written in",
-      "hot": "⭐ 783",
+      "hot": "⭐ 788",
       "desc": "A light-weight scanner for Cloudflare IPs, written in Golang",
       "source": "github",
       "tag": "Go",
@@ -498,7 +336,7 @@
     },
     {
       "title": "GordenSun/GordenPPTSkill: AI-friendly PPT builder skill: 17 hand-polished Chines",
-      "hot": "⭐ 734",
+      "hot": "⭐ 740",
       "desc": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template,",
       "source": "github",
       "tag": "Python",
@@ -506,7 +344,7 @@
     },
     {
       "title": "withkynam/vibecode-pro-max-kit: Your AI forgets. This remembers. Spec-driven cod",
-      "hot": "⭐ 662",
+      "hot": "⭐ 664",
       "desc": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12",
       "source": "github",
       "tag": "JavaScript",
@@ -514,7 +352,7 @@
     },
     {
       "title": "UditAkhourii/adhd: ADHD — a skill for coding agents. Tree-of-thought with prunin",
-      "hot": "⭐ 651",
+      "hot": "⭐ 652",
       "desc": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under diff",
       "source": "github",
       "tag": "TypeScript",
@@ -522,7 +360,7 @@
     },
     {
       "title": "baoweise-bot/aimili-vpngate: aimili-vpngate是一个借助vpngate.net让Linux用干净ip出站的代理工具。",
-      "hot": "⭐ 642",
+      "hot": "⭐ 645",
       "desc": "aimili-vpngate是一个借助vpngate.net让Linux用干净ip出站的代理工具。",
       "source": "github",
       "tag": "Python",
@@ -530,7 +368,7 @@
     },
     {
       "title": "Michaelliv/pi-dynamic-workflows: ",
-      "hot": "⭐ 628",
+      "hot": "⭐ 629",
       "desc": "Michaelliv/pi-dynamic-workflows",
       "source": "github",
       "tag": "TypeScript",
@@ -538,23 +376,23 @@
     },
     {
       "title": "2aronS/Duel-Agents: CLI, SDK, and IDE plugins for Duel Agents",
-      "hot": "⭐ 564",
+      "hot": "⭐ 569",
       "desc": "CLI, SDK, and IDE plugins for Duel Agents",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/2aronS/Duel-Agents"
     },
     {
-      "title": "ace-trump-tech/DeltaForce-OBS-Locker: 三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云",
+      "title": "ace-trump-tech/DeltaForce-OBS-Locker: 三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助���支持QQ音乐/网",
       "hot": "⭐ 483",
-      "desc": "三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。动加载。DeltaForce OBS Lockhead Plugin – Smart aim assist via OBS injection, suppo",
+      "desc": "三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助���支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。动加载。DeltaForce OBS Lockhead Plugin – Smart aim assist via OBS injection, sup",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/ace-trump-tech/DeltaForce-OBS-Locker"
     },
     {
       "title": "nv-tlabs/Gamma-World: Implementation of Gamma-World: Generative Multi-Agent Worl",
-      "hot": "⭐ 456",
+      "hot": "⭐ 457",
       "desc": "Implementation of Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players",
       "source": "github",
       "tag": "GitHub",
@@ -562,11 +400,173 @@
     },
     {
       "title": "ytnrvdf/wha-spell-simulator: A fan-made browser-based Witch Hat Atelier spell si",
-      "hot": "⭐ 447",
+      "hot": "⭐ 449",
       "desc": "A fan-made browser-based Witch Hat Atelier spell simulator.",
       "source": "github",
       "tag": "JavaScript",
       "url": "https://github.com/ytnrvdf/wha-spell-simulator"
+    }
+  ],
+  "dev": [
+    {
+      "title": "What was your win this week?",
+      "hot": "❤️ 47 💬 42",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "discuss,  weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-i1"
+    },
+    {
+      "title": "Gemma 4 Deployment with NVIDIA L4, MCP, Cloud Run, and Antigravity CLI",
+      "hot": "❤️ 5 💬 0",
+      "desc": "This article provides a step by step deployment guide for Gemma 4 to a Google Cloud Run hosted GPU...",
+      "source": "dev",
+      "tag": "googlecloudrun,  antigravitycli",
+      "url": "https://dev.to/gde/gemma-4-deployment-with-nvidia-l4-mcp-cloud-run-and-antigravity-cli-19h"
+    },
+    {
+      "title": "DevRelCon NYC 2026: Where Developer Relations, DevX, & Developer Marketing Come Together",
+      "hot": "❤️ 20 💬 2",
+      "desc": "TL;DR -DevRelCon NYC returns to Industry City in Brooklyn on July 22–23, 2026. It's the flagship...",
+      "source": "dev",
+      "tag": "devrel,  career",
+      "url": "https://dev.to/mlh/devrelcon-nyc-2026-where-developer-relations-devx-developer-marketing-come-together-5468"
+    },
+    {
+      "title": "I Made My AI Models Argue, Then Let Hermes Be the Judge",
+      "hot": "❤️ 20 💬 16",
+      "desc": "A $0 multi-model decision agent: three LLMs debate, Hermes judges, and it learns who to trust.",
+      "source": "dev",
+      "tag": "hermesagentchallenge,  devchallenge",
+      "url": "https://dev.to/arqamwd/i-made-my-ai-models-argue-then-let-hermes-be-the-judge-5e6c"
+    },
+    {
+      "title": "How Are Developers Actually Using AI At Work?",
+      "hot": "❤️ 150 💬 191",
+      "desc": "JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...",
+      "source": "dev",
+      "tag": "discuss,  ai",
+      "url": "https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c"
+    },
+    {
+      "title": "🦄 Modernizing Wild Rydes with modern technologies",
+      "hot": "❤️ 0 💬 0",
+      "desc": "How I rebuilt the classic AWS Wild Rydes serverless app with Terraform, GitHub Actions, S3 + CloudFront, OIDC, and a mod",
+      "source": "dev",
+      "tag": "aws,  terraform",
+      "url": "https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p"
+    },
+    {
+      "title": "I love MJML — I just didn't want a whole templating engine for two tiny things",
+      "hot": "❤️ 0 💬 1",
+      "desc": "I love MJML.  Responsive HTML email is one of the genuinely miserable corners of frontend — nested...",
+      "source": "dev",
+      "tag": "mjml,  i18n",
+      "url": "https://dev.to/kralik12/i-love-mjml-i-just-didnt-want-a-whole-templating-engine-for-two-tiny-things-5a10"
+    },
+    {
+      "title": "The Software Developer's Guide to AEO",
+      "hot": "❤️ 0 💬 0",
+      "desc": "When I was writing code full-time five years ago, I Googled error messages, opened five tabs, and...",
+      "source": "dev",
+      "tag": "ai,  contentwriting",
+      "url": "https://dev.to/karllhughes/the-software-developers-guide-to-aeo-1h5h"
+    },
+    {
+      "title": "Broken Software",
+      "hot": "❤️ 0 💬 0",
+      "desc": "Series of posts about broken software. Short stories.  Today, Firefox.  Turns out to be that closing...",
+      "source": "dev",
+      "tag": "bugs,  software",
+      "url": "https://dev.to/alex27/broken-software-b54"
+    },
+    {
+      "title": "Revisiting Benchmarking- Building a Rust A2A Agent",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This is a submission for the GitHub Finish-Up-A-Thon Challenge           Cross Language A2A Agent...",
+      "source": "dev",
+      "tag": "devchallenge,  githubchallenge",
+      "url": "https://dev.to/gde/revisiting-benchmarking-building-a-rust-a2a-agent-5bl2"
+    },
+    {
+      "title": "AWS Cloud Shell with Antigravity CLI",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article covers the initial setup and configuration for the Antigravity CLI on the AWS Cloud...",
+      "source": "dev",
+      "tag": "aws,  cli",
+      "url": "https://dev.to/gde/aws-cloud-shell-with-antigravity-cli-e3a"
+    },
+    {
+      "title": "Azure Cloud Shell with Antigravity CLI",
+      "hot": "❤️ 5 💬 0",
+      "desc": "This article covers the initial setup and configuration for the Antigravity CLI on the Azure Cloud...",
+      "source": "dev",
+      "tag": "cli,  azurecloudshell",
+      "url": "https://dev.to/gde/azure-cloud-shell-with-antigravity-cli-mn6"
+    },
+    {
+      "title": "An LLM API call, in 4 GIFs",
+      "hot": "❤️ 80 💬 55",
+      "desc": "This is the first post of series Building TinyAgent where we are going to build a small agent from...",
+      "source": "dev",
+      "tag": "llm,  javascript",
+      "url": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1"
+    },
+    {
+      "title": "The Kubernetes Overkill: Why I Built a \"K8s Killer\" for Small Environments",
+      "hot": "❤️ 8 💬 3",
+      "desc": "Let’s be honest: Kubernetes is the undisputed king of orchestration. But if you are running a small...",
+      "source": "dev",
+      "tag": "architecture,  devops",
+      "url": "https://dev.to/gde/the-kubernetes-overkill-why-i-built-a-k8s-killer-for-small-environments-m9k"
+    },
+    {
+      "title": "Every Great Cup Starts with the Right Question — I Built the Community Behind the Answer with Hermes Agent",
+      "hot": "❤️ 5 💬 1",
+      "desc": "This is a submission for the Hermes Agent Challenge: Build With Hermes Agent           What I...",
+      "source": "dev",
+      "tag": "hermesagentchallenge,  devchallenge",
+      "url": "https://dev.to/yuens1002/every-great-cup-starts-with-the-right-question-i-built-the-community-behind-the-answer-with-o04"
+    },
+    {
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "hot": "❤️ 79 💬 28",
+      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+      "source": "dev",
+      "tag": "top7,  discuss",
+      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-45na"
+    },
+    {
+      "title": "Accessibility question: is nesting interactive elements bad?",
+      "hot": "❤️ 10 💬 6",
+      "desc": "Is it confusing to have links inside labels? Does it break in some screenreaders?",
+      "source": "dev",
+      "tag": "a11y,  html",
+      "url": "https://dev.to/codepo8/accessibility-question-is-nesting-interactive-elements-bad-4oof"
+    },
+    {
+      "title": "I was wrong about Electron",
+      "hot": "❤️ 7 💬 1",
+      "desc": "Why I moved Paseo from Tauri to Electron",
+      "source": "dev",
+      "tag": "electron,  tauri",
+      "url": "https://dev.to/moboudra/i-was-wrong-about-electron-1e9g"
+    },
+    {
+      "title": "Github Copilot helped us cut down 50-75% time in our e-commerce business",
+      "hot": "❤️ 35 💬 0",
+      "desc": "This is a submission for the GitHub Finish-Up-A-Thon Challenge           What I Built   A couple of...",
+      "source": "dev",
+      "tag": "devchallenge,  githubchallenge",
+      "url": "https://dev.to/heyitsmarcucu/github-copilot-helped-us-cut-down-50-75-time-in-our-e-commerce-business-10l5"
+    },
+    {
+      "title": "GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search",
+      "hot": "❤️ 9 💬 0",
+      "desc": "Preface   In the previous article, we successfully upgraded the LINE business card...",
+      "source": "dev",
+      "tag": "ai,  gemini",
+      "url": "https://dev.to/gde/gcp-upgrading-a-line-bot-with-vertex-ai-adk-tools-for-smart-business-cards-and-backup-search-3dpe"
     }
   ]
 }
