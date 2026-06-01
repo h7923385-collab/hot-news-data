@@ -2,19 +2,27 @@
   "data": [
     {
       "title": "What was your win this week?",
-      "hot": "❤️ 47 💬 42",
+      "hot": "❤️ 47 💬 43",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "discuss,  weeklyretro",
       "url": "https://dev.to/devteam/what-was-your-win-this-week-i1"
     },
     {
-      "title": "Gemma 4 Deployment with NVIDIA L4, MCP, Cloud Run, and Antigravity CLI",
-      "hot": "❤️ 5 💬 0",
-      "desc": "This article provides a step by step deployment guide for Gemma 4 to a Google Cloud Run hosted GPU...",
+      "title": "I Made My AI Models Argue, Then Let Hermes Be the Judge",
+      "hot": "❤️ 27 💬 19",
+      "desc": "A $0 multi-model decision agent: three LLMs debate, Hermes judges, and it learns who to trust.",
       "source": "dev",
-      "tag": "googlecloudrun,  antigravitycli",
-      "url": "https://dev.to/gde/gemma-4-deployment-with-nvidia-l4-mcp-cloud-run-and-antigravity-cli-19h"
+      "tag": "hermesagentchallenge,  devchallenge",
+      "url": "https://dev.to/arqamwd/i-made-my-ai-models-argue-then-let-hermes-be-the-judge-5e6c"
+    },
+    {
+      "title": "How Are Developers Actually Using AI At Work?",
+      "hot": "❤️ 157 💬 198",
+      "desc": "JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...",
+      "source": "dev",
+      "tag": "discuss,  ai",
+      "url": "https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c"
     },
     {
       "title": "DevRelCon NYC 2026: Where Developer Relations, DevX, & Developer Marketing Come Together",
@@ -23,22 +31,6 @@
       "source": "dev",
       "tag": "devrel,  career",
       "url": "https://dev.to/mlh/devrelcon-nyc-2026-where-developer-relations-devx-developer-marketing-come-together-5468"
-    },
-    {
-      "title": "I Made My AI Models Argue, Then Let Hermes Be the Judge",
-      "hot": "❤️ 20 💬 17",
-      "desc": "A $0 multi-model decision agent: three LLMs debate, Hermes judges, and it learns who to trust.",
-      "source": "dev",
-      "tag": "hermesagentchallenge,  devchallenge",
-      "url": "https://dev.to/arqamwd/i-made-my-ai-models-argue-then-let-hermes-be-the-judge-5e6c"
-    },
-    {
-      "title": "How Are Developers Actually Using AI At Work?",
-      "hot": "❤️ 151 💬 192",
-      "desc": "JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...",
-      "source": "dev",
-      "tag": "discuss,  ai",
-      "url": "https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c"
     },
     {
       "title": "🦄 Modernizing Wild Rydes with modern technologies",
@@ -137,14 +129,6 @@
       "url": "https://dev.to/codepo8/accessibility-question-is-nesting-interactive-elements-bad-4oof"
     },
     {
-      "title": "I was wrong about Electron",
-      "hot": "❤️ 7 💬 1",
-      "desc": "Why I moved Paseo from Tauri to Electron",
-      "source": "dev",
-      "tag": "electron,  tauri",
-      "url": "https://dev.to/moboudra/i-was-wrong-about-electron-1e9g"
-    },
-    {
       "title": "Github Copilot helped us cut down 50-75% time in our e-commerce business",
       "hot": "❤️ 35 💬 0",
       "desc": "This is a submission for the GitHub Finish-Up-A-Thon Challenge           What I Built   A couple of...",
@@ -159,7 +143,23 @@
       "source": "dev",
       "tag": "ai,  gemini",
       "url": "https://dev.to/gde/gcp-upgrading-a-line-bot-with-vertex-ai-adk-tools-for-smart-business-cards-and-backup-search-3dpe"
+    },
+    {
+      "title": "Local Gemma 4 Deployment with MCP and Antigravity CLI",
+      "hot": "❤️ 5 💬 6",
+      "desc": "This article provides a step by step deployment guide for Gemma 4 to a 13th Gen Intel i7–1360P...",
+      "source": "dev",
+      "tag": "ollama,  gemma4",
+      "url": "https://dev.to/gde/local-gemma-4-deployment-with-mcp-and-antigravity-cli-hk8"
+    },
+    {
+      "title": "Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!",
+      "hot": "❤️ 662 💬 85",
+      "desc": "We're thrilled to announce our newest challenge with GitHub!  Running through June 7, the GitHub...",
+      "source": "dev",
+      "tag": "githubchallenge,  devchallenge",
+      "url": "https://dev.to/devteam/join-the-github-finish-up-a-thon-challenge-3000-prize-pool-f41"
     }
   ],
-  "updatedAt": "2026-06-01T02:06:51.402Z"
+  "updatedAt": "2026-06-01T07:26:08.074Z"
 }
