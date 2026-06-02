@@ -1,22 +1,14 @@
 {
-  "updatedAt": "2026-06-02T02:08:00.288Z",
+  "updatedAt": "2026-06-02T07:00:50.972Z",
   "source": "live",
   "dev": [
     {
-      "title": "The Ultimate Cloud Run Guide 2026",
-      "hot": "❤️ 11 💬 0",
-      "desc": "At Cloud Next '26, my teammate Wietse and I gave a talk called the Ultimate Guide to Cloud Run. We...",
+      "title": "Strategies for running AI workloads on GKE without committed quota",
+      "hot": "❤️ 5 💬 0",
+      "desc": "Learn different strategies to use hard-to-get hardware accelerators with Google Kubernetes Engine (GKE).",
       "source": "dev",
-      "tag": "cloud,  google",
-      "url": "https://dev.to/googleai/the-ultimate-cloud-run-guide-2026-54f8"
-    },
-    {
-      "title": "Meme Monday",
-      "hot": "❤️ 18 💬 20",
-      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
-      "source": "dev",
-      "tag": "discuss,  jokes",
-      "url": "https://dev.to/ben/meme-monday-25la"
+      "tag": "kubernetes,  ai",
+      "url": "https://dev.to/googlecloud/strategies-for-running-ai-workloads-on-gke-without-committed-quota-484l"
     },
     {
       "title": "What was your win this week?",
@@ -27,24 +19,32 @@
       "url": "https://dev.to/devteam/what-was-your-win-this-week-i1"
     },
     {
+      "title": "Meme Monday",
+      "hot": "❤️ 21 💬 20",
+      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
+      "source": "dev",
+      "tag": "discuss,  jokes",
+      "url": "https://dev.to/ben/meme-monday-25la"
+    },
+    {
+      "title": "The Ultimate Cloud Run Guide 2026",
+      "hot": "❤️ 18 💬 0",
+      "desc": "At Cloud Next '26, my teammate Wietse and I gave a talk called the Ultimate Guide to Cloud Run. We...",
+      "source": "dev",
+      "tag": "cloud,  google",
+      "url": "https://dev.to/googleai/the-ultimate-cloud-run-guide-2026-54f8"
+    },
+    {
       "title": "Morning Security Report with Antigravity Agent",
-      "hot": "❤️ 4 💬 1",
+      "hot": "❤️ 10 💬 1",
       "desc": "The latest Antigravity updates announced at Google Next brought a lot of interesting features. I am...",
       "source": "dev",
       "tag": "productivity,  programming",
       "url": "https://dev.to/gdg/morning-security-report-with-antigravity-agent-3592"
     },
     {
-      "title": "I Made My AI Models Argue, Then Let Hermes Be the Judge",
-      "hot": "❤️ 27 💬 22",
-      "desc": "A $0 multi-model decision agent: three LLMs debate, Hermes judges, and it learns who to trust.",
-      "source": "dev",
-      "tag": "hermesagentchallenge,  devchallenge",
-      "url": "https://dev.to/arqamwd/i-made-my-ai-models-argue-then-let-hermes-be-the-judge-5e6c"
-    },
-    {
       "title": "How Are Developers Actually Using AI At Work?",
-      "hot": "❤️ 160 💬 220",
+      "hot": "❤️ 161 💬 220",
       "desc": "JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...",
       "source": "dev",
       "tag": "discuss,  ai",
@@ -75,14 +75,6 @@
       "url": "https://dev.to/alex27/broken-software-b54"
     },
     {
-      "title": "AWS Cloud Shell with Antigravity CLI",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article covers the initial setup and configuration for the Antigravity CLI on the AWS Cloud...",
-      "source": "dev",
-      "tag": "aws,  cli",
-      "url": "https://dev.to/gde/aws-cloud-shell-with-antigravity-cli-e3a"
-    },
-    {
       "title": "Azure Cloud Shell with Antigravity CLI",
       "hot": "❤️ 5 💬 0",
       "desc": "This article covers the initial setup and configuration for the Antigravity CLI on the Azure Cloud...",
@@ -107,12 +99,36 @@
       "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-45na"
     },
     {
+      "title": "Mix and Match: Running Kiro on Google Cloud Shell",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article provides a step by step deployment guide for using Amazon Kiro CLI on the Google Cloud...",
+      "source": "dev",
+      "tag": "kiro,  aws",
+      "url": "https://dev.to/gde/mix-and-match-running-kiro-on-google-cloud-shell-5hco"
+    },
+    {
+      "title": "Untrusted Code, Trusted Cluster Scaling Secure AI Agent Workspaces with GKE Agent Sandbox",
+      "hot": "❤️ 7 💬 0",
+      "desc": "How gVisor-powered sandbox isolates AI-generated code at the kernel level and why it changes...",
+      "source": "dev",
+      "tag": "ai,  googlecloud",
+      "url": "https://dev.to/gde/untrusted-code-trusted-cluster-scaling-secure-ai-agent-workspaces-with-gke-agent-sandbox-1mk1"
+    },
+    {
       "title": "GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search",
       "hot": "❤️ 9 💬 0",
       "desc": "Preface   In the previous article, we successfully upgraded the LINE business card...",
       "source": "dev",
       "tag": "ai,  gemini",
       "url": "https://dev.to/gde/gcp-upgrading-a-line-bot-with-vertex-ai-adk-tools-for-smart-business-cards-and-backup-search-3dpe"
+    },
+    {
+      "title": "I Made My AI Models Argue, Then Let Hermes Be the Judge",
+      "hot": "❤️ 28 💬 22",
+      "desc": "A $0 multi-model decision agent: three LLMs debate, Hermes judges, and it learns who to trust.",
+      "source": "dev",
+      "tag": "hermesagentchallenge,  devchallenge",
+      "url": "https://dev.to/arqamwd/i-made-my-ai-models-argue-then-let-hermes-be-the-judge-5e6c"
     },
     {
       "title": "Local Gemma 4 Deployment with MCP and Antigravity CLI",
@@ -124,7 +140,7 @@
     },
     {
       "title": "Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!",
-      "hot": "❤️ 678 💬 87",
+      "hot": "❤️ 682 💬 88",
       "desc": "We're thrilled to announce our newest challenge with GitHub!  Running through June 7, the GitHub...",
       "source": "dev",
       "tag": "githubchallenge,  devchallenge",
@@ -145,22 +161,6 @@
       "source": "dev",
       "tag": "ai,  workplace",
       "url": "https://dev.to/fm/ai-fatigue-is-very-real-and-people-are-fighting-back-4m1l"
-    },
-    {
-      "title": "Why does AI forget what you said (and how to fix it)",
-      "hot": "❤️ 67 💬 56",
-      "desc": "I received following comment on my hallucinations blog post.                       Comment on Why...",
-      "source": "dev",
-      "tag": "ai,  beginners",
-      "url": "https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6"
-    },
-    {
-      "title": "Making a New Native App for a Jailbroken iPhone 6",
-      "hot": "❤️ 0 💬 0",
-      "desc": "Build and install a native UIKit app directly on a jailbroken iPhone 6 running iOS 12, using Theos, clang, and Cydia-com",
-      "source": "dev",
-      "tag": "iphone,  ios",
-      "url": "https://dev.to/aeroreyna/making-a-new-native-app-for-a-jailbroken-iphone-6-16o5"
     }
   ],
   "tech": [
@@ -169,15 +169,23 @@
       "hot": "3.0m",
       "desc": "0xsid.com",
       "source": "tech",
-      "tag": "⬆️ 1345 points",
+      "tag": "⬆️ 1620 points",
       "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco"
+    },
+    {
+      "title": "macOS needs its grid back",
+      "hot": "3.0m",
+      "desc": "blog.hopefullyuseful.com",
+      "source": "tech",
+      "tag": "⬆️ 189 points",
+      "url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/"
     },
     {
       "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
       "hot": "3.0m",
       "desc": "economist.com",
       "source": "tech",
-      "tag": "⬆️ 79 points",
+      "tag": "⬆️ 271 points",
       "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai"
     },
     {
@@ -185,269 +193,147 @@
       "hot": "3.0m",
       "desc": "openai.com",
       "source": "tech",
-      "tag": "⬆️ 135 points",
+      "tag": "⬆️ 230 points",
       "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/"
-    },
-    {
-      "title": "Debug Project",
-      "hot": "3.0m",
-      "desc": "debug.com",
-      "source": "tech",
-      "tag": "⬆️ 154 points",
-      "url": "https://debug.com/"
-    },
-    {
-      "title": "macOS Needs Its Grid Back",
-      "hot": "2.9m",
-      "desc": "blog.hopefullyuseful.com",
-      "source": "tech",
-      "tag": "⬆️ 18 points",
-      "url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/"
-    },
-    {
-      "title": "What's gonna happen to software engineers?",
-      "hot": "2.9m",
-      "desc": "yakko.dev",
-      "source": "tech",
-      "tag": "⬆️ 32 points",
-      "url": "https://yakko.dev/blog/whats-gonna-happen-to-software-developers"
-    },
-    {
-      "title": "Crystal Nights (2008)",
-      "hot": "2.9m",
-      "desc": "gregegan.net",
-      "source": "tech",
-      "tag": "⬆️ 7 points",
-      "url": "https://www.gregegan.net/MISC/CRYSTAL/Crystal.html"
     },
     {
       "title": "Chipotlai Max",
       "hot": "2.9m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 38 points",
+      "tag": "⬆️ 172 points",
       "url": "https://github.com/cyberpapiii/chipotlai-max"
+    },
+    {
+      "title": "How is Groq raising more money?",
+      "hot": "2.9m",
+      "desc": "zach.be",
+      "source": "tech",
+      "tag": "⬆️ 84 points",
+      "url": "https://www.zach.be/p/how-the-hell-is-groq-raising-more"
+    },
+    {
+      "title": "Debug Project",
+      "hot": "2.9m",
+      "desc": "debug.com",
+      "source": "tech",
+      "tag": "⬆️ 196 points",
+      "url": "https://debug.com/"
     },
     {
       "title": "AI Agent Guidelines for CS336 at Stanford",
       "hot": "2.9m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 325 points",
+      "tag": "⬆️ 381 points",
       "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md"
     },
     {
-      "title": "A new way to build chips: Sequentially stacking silicon to extend Moore's Law",
+      "title": "Squillions: How Money Laundering Won",
       "hot": "2.9m",
-      "desc": "matse.illinois.edu",
+      "desc": "lrb.co.uk",
       "source": "tech",
-      "tag": "⬆️ 20 points",
-      "url": "https://matse.illinois.edu/news/85775"
+      "tag": "⬆️ 64 points",
+      "url": "https://www.lrb.co.uk/the-paper/v48/n09/john-lanchester/squillions"
+    },
+    {
+      "title": "Fooling around with encrypted reasoning blobs",
+      "hot": "2.9m",
+      "desc": "blog.cryptographyengineering.com",
+      "source": "tech",
+      "tag": "⬆️ 57 points",
+      "url": "https://blog.cryptographyengineering.com/2026/05/29/fooling-around-with-encrypted-reasoning-blobs/"
+    },
+    {
+      "title": "strace-ui, Bonsai_term, and the TUI renaissance",
+      "hot": "2.9m",
+      "desc": "blog.janestreet.com",
+      "source": "tech",
+      "tag": "⬆️ 14 points",
+      "url": "https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/"
     },
     {
       "title": "CS336: Language Modeling from Scratch",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "cs336.stanford.edu",
       "source": "tech",
-      "tag": "⬆️ 361 points",
+      "tag": "⬆️ 429 points",
       "url": "https://cs336.stanford.edu/"
+    },
+    {
+      "title": "KL Zero: KL divergence intuition game",
+      "hot": "2.8m",
+      "desc": "klzero.sarna.dev",
+      "source": "tech",
+      "tag": "⬆️ 23 points",
+      "url": "https://klzero.sarna.dev"
     },
     {
       "title": "Should you normalize RGB values by 255 or 256?",
       "hot": "2.8m",
       "desc": "30fps.net",
       "source": "tech",
-      "tag": "⬆️ 193 points",
+      "tag": "⬆️ 245 points",
       "url": "https://30fps.net/pages/255-vs-256-division/"
     },
     {
-      "title": "GrapheneOS Speech Services version 2 released",
+      "title": "Crystal Nights (2008)",
       "hot": "2.8m",
-      "desc": "discuss.grapheneos.org",
+      "desc": "gregegan.net",
       "source": "tech",
-      "tag": "⬆️ 99 points",
-      "url": "https://discuss.grapheneos.org/d/36001-grapheneos-speech-services-version-2-released"
+      "tag": "⬆️ 36 points",
+      "url": "https://www.gregegan.net/MISC/CRYSTAL/Crystal.html"
     },
     {
-      "title": "Squillions: How Money Laundering Won",
+      "title": "Launch HN: Expanse (YC P26) – Unlock Wasted GPU Capacity",
       "hot": "2.8m",
-      "desc": "lrb.co.uk",
+      "desc": "news.ycombinator.com",
       "source": "tech",
-      "tag": "⬆️ 10 points",
-      "url": "https://www.lrb.co.uk/the-paper/v48/n09/john-lanchester/squillions"
-    },
-    {
-      "title": "What appear to be biochemical processes may be a natural feature of geology",
-      "hot": "2.8m",
-      "desc": "quantamagazine.org",
-      "source": "tech",
-      "tag": "⬆️ 195 points",
-      "url": "https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/"
+      "tag": "⬆️ 77 points",
+      "url": "https://news.ycombinator.com/item?id=48356312"
     },
     {
       "title": "Microsoft builds MacBook Pro rival with NVIDIA-powered Surface Laptop Ultra",
       "hot": "2.8m",
       "desc": "windowslatest.com",
       "source": "tech",
-      "tag": "⬆️ 147 points",
+      "tag": "⬆️ 194 points",
       "url": "https://www.windowslatest.com/2026/06/01/microsoft-builds-its-ultimate-macbook-pro-rival-with-the-nvidia-powered-surface-laptop-ultra/"
-    },
-    {
-      "title": "Constant Q Transform – A Visual Guide",
-      "hot": "2.8m",
-      "desc": "brendanjameslynskey.github.io",
-      "source": "tech",
-      "tag": "⬆️ 7 points",
-      "url": "https://brendanjameslynskey.github.io/ConstantQ-Transform/"
     },
     {
       "title": "Nvidia RTX Spark",
       "hot": "2.7m",
       "desc": "nvidia.com",
       "source": "tech",
-      "tag": "⬆️ 330 points",
+      "tag": "⬆️ 383 points",
       "url": "https://www.nvidia.com/en-us/products/rtx-spark/"
     },
     {
-      "title": "Age verification for social media, the beginning of the end for a free internet?",
+      "title": "What appear to be biochemical processes may be a natural feature of geology",
       "hot": "2.7m",
-      "desc": "mullvad.net",
+      "desc": "quantamagazine.org",
       "source": "tech",
-      "tag": "⬆️ 92 points",
-      "url": "https://mullvad.net/en/blog/age-verification-for-social-media-the-beginning-of-the-end-for-a-free-internet"
+      "tag": "⬆️ 220 points",
+      "url": "https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/"
     },
     {
-      "title": "Ask HN: Who is hiring? (June 2026)",
+      "title": "A new way to build chips: Sequentially stacking silicon to extend Moore's Law",
       "hot": "2.7m",
-      "desc": "news.ycombinator.com",
+      "desc": "matse.illinois.edu",
       "source": "tech",
-      "tag": "⬆️ 162 points",
-      "url": "https://news.ycombinator.com/item?id=48357725"
-    }
-  ],
-  "github": [
-    {
-      "title": "pewdiepie-archdaemon/odysseus: Self-hosted AI workspace. ",
-      "hot": "⭐ 21.4k",
-      "desc": "Self-hosted AI workspace. ",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/pewdiepie-archdaemon/odysseus"
-    },
-    {
-      "title": "op7418/guizang-social-card-skill: 🪧 Claude Code / Codex skill — generate Xiaoho",
-      "hot": "⭐ 2.4k",
-      "desc": "🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, ",
-      "source": "github",
-      "tag": "HTML",
-      "url": "https://github.com/op7418/guizang-social-card-skill"
-    },
-    {
-      "title": "helloianneo/ian-xiaohei-illustrations: 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 ",
-      "hot": "⭐ 1.6k",
-      "desc": "中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/helloianneo/ian-xiaohei-illustrations"
-    },
-    {
-      "title": "GordenSun/GordenPPTSkill: AI-friendly PPT builder skill: 17 hand-polished Chines",
-      "hot": "⭐ 1.4k",
-      "desc": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template,",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/GordenSun/GordenPPTSkill"
-    },
-    {
-      "title": "Sophomoresty/gemini-web2api: Convert Google Gemini web into OpenAI-compatible AP",
-      "hot": "⭐ 1.1k",
-      "desc": "Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/Sophomoresty/gemini-web2api"
-    },
-    {
-      "title": "MatinSenPai/SenPaiScanner: A light-weight scanner for Cloudflare IPs, written in",
-      "hot": "⭐ 857",
-      "desc": "A light-weight scanner for Cloudflare IPs, written in Golang",
-      "source": "github",
-      "tag": "Go",
-      "url": "https://github.com/MatinSenPai/SenPaiScanner"
-    },
-    {
-      "title": "Michaelliv/pi-dynamic-workflows: ",
-      "hot": "⭐ 703",
-      "desc": "Michaelliv/pi-dynamic-workflows",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/Michaelliv/pi-dynamic-workflows"
-    },
-    {
-      "title": "withkynam/vibecode-pro-max-kit: Your AI forgets. This remembers. Spec-driven cod",
-      "hot": "⭐ 700",
-      "desc": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/withkynam/vibecode-pro-max-kit"
-    },
-    {
-      "title": "asz798838958/aBaiAutoplus: 多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
-      "hot": "⭐ 661",
-      "desc": "多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/asz798838958/aBaiAutoplus"
-    },
-    {
-      "title": "2aronS/Duel-Agents: CLI, SDK, and IDE plugins for Duel Agents",
-      "hot": "⭐ 640",
-      "desc": "CLI, SDK, and IDE plugins for Duel Agents",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/2aronS/Duel-Agents"
-    },
-    {
-      "title": "ace-trump-tech/DeltaForce-OBS-Locker: 三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云",
-      "hot": "⭐ 569",
-      "desc": "三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。动加载。DeltaForce OBS Lockhead Plugin – Smart aim assist via OBS injection, suppo",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/ace-trump-tech/DeltaForce-OBS-Locker"
-    },
-    {
-      "title": "BlackCandleLab/polymarket-trading-bot: polymarket trading bot, polymarket tradin",
-      "hot": "⭐ 454",
-      "desc": "polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polyma",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/BlackCandleLab/polymarket-trading-bot"
-    },
-    {
-      "title": "liyue-aigc/female-portrait-director: A modular Codex Skill for directing and exp",
-      "hot": "⭐ 427",
-      "desc": "A modular Codex Skill for directing and expanding detailed AI female portrait prompts.",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/liyue-aigc/female-portrait-director"
-    },
-    {
-      "title": "FlashML-org/flashlib: Fast and memory-efficient classical machine learning opera",
-      "hot": "⭐ 426",
-      "desc": "Fast and memory-efficient classical machine learning operators",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/FlashML-org/flashlib"
-    },
-    {
-      "title": "boona13/image-extender: Seamlessly extend any image in any direction with AI. Op",
-      "hot": "⭐ 407",
-      "desc": "Seamlessly extend any image in any direction with AI. Open-source web app powered by Gemini via OpenRouter, with Poisson-blended seams and best-of-3 v",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/boona13/image-extender"
+      "tag": "⬆️ 40 points",
+      "url": "https://matse.illinois.edu/news/85775"
     }
   ],
   "space": [
+    {
+      "title": "Fire’s Footprint on Santa Rosa Island",
+      "hot": "6/2",
+      "desc": "A wildland fire charred grassland, coastal sage scrub, and chaparral across one-third of the island, the second largest of the Channel Islands.",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/earth/earth-observatory/fires-footprint-on-santa-rosa-island/"
+    },
     {
       "title": "France to fly two astronauts on Vast missions",
       "hot": "6/2",
@@ -559,14 +445,128 @@
       "source": "space",
       "tag": "NASA",
       "url": "https://www.nasa.gov/image-article/pretty-in-pink-2/"
+    }
+  ],
+  "github": [
+    {
+      "title": "pewdiepie-archdaemon/odysseus: Self-hosted AI workspace. ",
+      "hot": "⭐ 23.1k",
+      "desc": "Self-hosted AI workspace. ",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/pewdiepie-archdaemon/odysseus"
     },
     {
-      "title": "Smile: cleanroom to space",
-      "hot": "6/1",
-      "desc": "Smile successfully launched from Europe’s Spaceport in French Guiana on 19 May 2026.",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/06/Smile_cleanroom_to_space"
+      "title": "op7418/guizang-social-card-skill: 🪧 Claude Code / Codex skill — generate Xiaoho",
+      "hot": "⭐ 2.5k",
+      "desc": "🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, ",
+      "source": "github",
+      "tag": "HTML",
+      "url": "https://github.com/op7418/guizang-social-card-skill"
+    },
+    {
+      "title": "helloianneo/ian-xiaohei-illustrations: 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 ",
+      "hot": "⭐ 1.7k",
+      "desc": "中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/helloianneo/ian-xiaohei-illustrations"
+    },
+    {
+      "title": "GordenSun/GordenPPTSkill: AI-friendly PPT builder skill: 17 hand-polished Chines",
+      "hot": "⭐ 1.5k",
+      "desc": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template,",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/GordenSun/GordenPPTSkill"
+    },
+    {
+      "title": "Sophomoresty/gemini-web2api: Convert Google Gemini web into OpenAI-compatible AP",
+      "hot": "⭐ 1.1k",
+      "desc": "Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/Sophomoresty/gemini-web2api"
+    },
+    {
+      "title": "MatinSenPai/SenPaiScanner: A light-weight scanner for Cloudflare IPs, written in",
+      "hot": "⭐ 864",
+      "desc": "A light-weight scanner for Cloudflare IPs, written in Golang",
+      "source": "github",
+      "tag": "Go",
+      "url": "https://github.com/MatinSenPai/SenPaiScanner"
+    },
+    {
+      "title": "Michaelliv/pi-dynamic-workflows: ",
+      "hot": "⭐ 717",
+      "desc": "Michaelliv/pi-dynamic-workflows",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/Michaelliv/pi-dynamic-workflows"
+    },
+    {
+      "title": "asz798838958/aBaiAutoplus: 多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
+      "hot": "⭐ 710",
+      "desc": "多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/asz798838958/aBaiAutoplus"
+    },
+    {
+      "title": "withkynam/vibecode-pro-max-kit: Your AI forgets. This remembers. Spec-driven cod",
+      "hot": "⭐ 706",
+      "desc": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/withkynam/vibecode-pro-max-kit"
+    },
+    {
+      "title": "2aronS/Duel-Agents: CLI, SDK, and IDE plugins for Duel Agents",
+      "hot": "⭐ 647",
+      "desc": "CLI, SDK, and IDE plugins for Duel Agents",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/2aronS/Duel-Agents"
+    },
+    {
+      "title": "Gloridust/WechatOnCloud: 云微WOC，云微信，自由连接",
+      "hot": "⭐ 629",
+      "desc": "云微WOC，云微信，自由连接",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/Gloridust/WechatOnCloud"
+    },
+    {
+      "title": "ace-trump-tech/DeltaForce-OBS-Locker: 三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云",
+      "hot": "⭐ 596",
+      "desc": "三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。动加载。DeltaForce OBS Lockhead Plugin – Smart aim assist via OBS injection, suppo",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/ace-trump-tech/DeltaForce-OBS-Locker"
+    },
+    {
+      "title": "boona13/image-extender: Seamlessly extend any image in any direction with AI. Op",
+      "hot": "⭐ 546",
+      "desc": "Seamlessly extend any image in any direction with AI. Open-source web app powered by Gemini via OpenRouter, with Poisson-blended seams and best-of-3 v",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/boona13/image-extender"
+    },
+    {
+      "title": "BlackCandleLab/polymarket-trading-bot: polymarket trading bot, polymarket tradin",
+      "hot": "⭐ 464",
+      "desc": "polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polyma",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/BlackCandleLab/polymarket-trading-bot"
+    },
+    {
+      "title": "liyue-aigc/female-portrait-director: A modular Codex Skill for directing and exp",
+      "hot": "⭐ 460",
+      "desc": "A modular Codex Skill for directing and expanding detailed AI female portrait prompts.",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/liyue-aigc/female-portrait-director"
     }
   ]
 }
