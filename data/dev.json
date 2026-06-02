@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 13 💬 5",
+      "hot": "❤️ 26 💬 11",
       "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
       "source": "dev",
       "tag": "top7,  discuss",
@@ -10,7 +10,7 @@
     },
     {
       "title": "Learning Lessons from Gaming",
-      "hot": "❤️ 17 💬 0",
+      "hot": "❤️ 19 💬 1",
       "desc": "I don't identify as a gamer. I occasionally participate in board games or an amateur football match,...",
       "source": "dev",
       "tag": "productivity,  learning",
@@ -18,7 +18,7 @@
     },
     {
       "title": "Send your first AI message in one API call",
-      "hot": "❤️ 15 💬 6",
+      "hot": "❤️ 15 💬 7",
       "desc": "Most AI tutorials start with a setup checklist. Pick a model provider. Create an account. Wire up a...",
       "source": "dev",
       "tag": "ai,  api",
@@ -26,19 +26,59 @@
     },
     {
       "title": "How we turned the Replay keynote surprise into an open-source embedded playground",
-      "hot": "❤️ 7 💬 0",
+      "hot": "❤️ 7 💬 1",
       "desc": "We handed out 2,000 tiny hackable computers at Replay. Now the whole ecosystem is open source. Here's the story of how w",
       "source": "dev",
       "tag": "temporal,  codesamples",
       "url": "https://dev.to/temporalio/how-we-turned-the-replay-keynote-surprise-into-an-open-source-embedded-playground-49hm"
     },
     {
+      "title": "Surviving the eviction: How to build interrupt-resilient AI workloads on GKE",
+      "hot": "❤️ 5 💬 1",
+      "desc": "Learn strategies for building interrupt-resilient AI workloads on Google Kubernetes Engine (GKE).",
+      "source": "dev",
+      "tag": "kubernetes,  ai",
+      "url": "https://dev.to/googlecloud/surviving-the-eviction-how-to-build-interrupt-resilient-ai-workloads-on-gke-5581"
+    },
+    {
       "title": "Gubernator [the kill ku8s]",
-      "hot": "❤️ 6 💬 1",
+      "hot": "❤️ 7 💬 1",
       "desc": "Why I built an alternative to Kubernetes overkill.  Let’s talk about infrastructure...",
       "source": "dev",
       "tag": "architecture,  infrastructure",
       "url": "https://dev.to/gde/gubernator-the-kill-ku8s-2g0e"
+    },
+    {
+      "title": "Content Virtualization using the HTML template Element",
+      "hot": "❤️ 6 💬 0",
+      "desc": "When I started this experiment, the core question was simple:   Because content inside...",
+      "source": "dev",
+      "tag": "html,  javascript",
+      "url": "https://dev.to/stuffbreaker/content-virtualization-using-the-html-element-2gn7"
+    },
+    {
+      "title": "31B — Gemma 4 Deployment with NVIDIA L4, MCP, Cloud Run, and Antigravity CLI",
+      "hot": "❤️ 5 💬 0",
+      "desc": "This article provides a step by step deployment review for Gemma 4 to a Google Cloud Run hosted GPU...",
+      "source": "dev",
+      "tag": "mcps,  antigravitycli",
+      "url": "https://dev.to/gde/31b-gemma-4-deployment-with-nvidia-l4-mcp-cloud-run-and-antigravity-cli-2334"
+    },
+    {
+      "title": "26B Gemma 4 Deployment with NVIDIA L4, MCP, Cloud Run, and Antigravity CLI",
+      "hot": "❤️ 5 💬 0",
+      "desc": "This article provides a step by step deployment guide for Gemma 4 to a Google Cloud Run hosted GPU...",
+      "source": "dev",
+      "tag": "antigravitycli,  mcps",
+      "url": "https://dev.to/gde/26b-gemma-4-deployment-with-nvidia-l4-mcp-cloud-run-and-antigravity-cli-194p"
+    },
+    {
+      "title": "I Built an Autonomous AI Agent with Google ADK + Gemini That Spots Trends and Drafts Dev.to Articles for Me",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Keeping up with trending technical topics and new tools on developer forums can be time-consuming. To...",
+      "source": "dev",
+      "tag": "agentdevelopmentkit,  googlecloud",
+      "url": "https://dev.to/gde/i-built-an-autonomous-ai-agent-with-google-adk-gemini-20-flash-that-spots-trends-and-drafts-60"
     },
     {
       "title": "Meme Monday",
@@ -113,53 +153,13 @@
       "url": "https://dev.to/gde/azure-cloud-shell-with-antigravity-cli-mn6"
     },
     {
-      "title": "An LLM API call, in 4 GIFs",
-      "hot": "❤️ 83 💬 59",
-      "desc": "This is the first post of series Building TinyAgent where we are going to build a small agent from...",
+      "title": "When Is 100% Vibe Coding OK ?",
+      "hot": "❤️ 19 💬 2",
+      "desc": "Recently, I lost a lot of time reviewing and would have lost even more implementing, what I can only...",
       "source": "dev",
-      "tag": "llm,  javascript",
-      "url": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1"
-    },
-    {
-      "title": "I Made My AI Models Argue, Then Let Hermes Be the Judge",
-      "hot": "❤️ 32 💬 30",
-      "desc": "A $0 multi-model decision agent: three LLMs debate, Hermes judges, and it learns who to trust.",
-      "source": "dev",
-      "tag": "hermesagentchallenge,  devchallenge",
-      "url": "https://dev.to/arqamwd/i-made-my-ai-models-argue-then-let-hermes-be-the-judge-5e6c"
-    },
-    {
-      "title": "🗓️ Monthly Dev Report: May 2026",
-      "hot": "❤️ 72 💬 47",
-      "desc": "Hey everyone! I bring you my development journey on what I have discovered, accomplishments for this...",
-      "source": "dev",
-      "tag": "discuss,  devjournal",
-      "url": "https://dev.to/francistrdev/monthly-dev-report-may-2026-3gjj"
-    },
-    {
-      "title": "The Ultimate Cloud Run Guide 2026",
-      "hot": "❤️ 18 💬 0",
-      "desc": "At Cloud Next '26, my teammate Wietse and I gave a talk called the Ultimate Guide to Cloud Run. We...",
-      "source": "dev",
-      "tag": "cloud,  google",
-      "url": "https://dev.to/googleai/the-ultimate-cloud-run-guide-2026-54f8"
-    },
-    {
-      "title": "Morning Security Report with Antigravity Agent",
-      "hot": "❤️ 10 💬 1",
-      "desc": "The latest Antigravity updates announced at Google Next brought a lot of interesting features. I am...",
-      "source": "dev",
-      "tag": "productivity,  programming",
-      "url": "https://dev.to/gdg/morning-security-report-with-antigravity-agent-3592"
-    },
-    {
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 80 💬 29",
-      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
-      "source": "dev",
-      "tag": "top7,  discuss",
-      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-45na"
+      "tag": "ai,  go",
+      "url": "https://dev.to/realvorl/when-is-100-vibe-coding-ok--38p"
     }
   ],
-  "updatedAt": "2026-06-02T19:33:42.332Z"
+  "updatedAt": "2026-06-02T22:14:04.478Z"
 }
