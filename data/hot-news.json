@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T07:00:50.972Z",
+  "updatedAt": "2026-06-02T11:45:58.380Z",
   "source": "live",
   "dev": [
     {
@@ -12,7 +12,7 @@
     },
     {
       "title": "What was your win this week?",
-      "hot": "❤️ 50 💬 47",
+      "hot": "❤️ 50 💬 49",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "discuss,  weeklyretro",
@@ -20,7 +20,7 @@
     },
     {
       "title": "Meme Monday",
-      "hot": "❤️ 21 💬 20",
+      "hot": "❤️ 23 💬 23",
       "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
       "source": "dev",
       "tag": "discuss,  jokes",
@@ -44,7 +44,7 @@
     },
     {
       "title": "How Are Developers Actually Using AI At Work?",
-      "hot": "❤️ 161 💬 220",
+      "hot": "❤️ 162 💬 225",
       "desc": "JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...",
       "source": "dev",
       "tag": "discuss,  ai",
@@ -99,6 +99,14 @@
       "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-45na"
     },
     {
+      "title": "I Made My AI Models Argue, Then Let Hermes Be the Judge",
+      "hot": "❤️ 31 💬 24",
+      "desc": "A $0 multi-model decision agent: three LLMs debate, Hermes judges, and it learns who to trust.",
+      "source": "dev",
+      "tag": "hermesagentchallenge,  devchallenge",
+      "url": "https://dev.to/arqamwd/i-made-my-ai-models-argue-then-let-hermes-be-the-judge-5e6c"
+    },
+    {
       "title": "Mix and Match: Running Kiro on Google Cloud Shell",
       "hot": "❤️ 6 💬 0",
       "desc": "This article provides a step by step deployment guide for using Amazon Kiro CLI on the Google Cloud...",
@@ -123,14 +131,6 @@
       "url": "https://dev.to/gde/gcp-upgrading-a-line-bot-with-vertex-ai-adk-tools-for-smart-business-cards-and-backup-search-3dpe"
     },
     {
-      "title": "I Made My AI Models Argue, Then Let Hermes Be the Judge",
-      "hot": "❤️ 28 💬 22",
-      "desc": "A $0 multi-model decision agent: three LLMs debate, Hermes judges, and it learns who to trust.",
-      "source": "dev",
-      "tag": "hermesagentchallenge,  devchallenge",
-      "url": "https://dev.to/arqamwd/i-made-my-ai-models-argue-then-let-hermes-be-the-judge-5e6c"
-    },
-    {
       "title": "Local Gemma 4 Deployment with MCP and Antigravity CLI",
       "hot": "❤️ 5 💬 6",
       "desc": "This article provides a step by step deployment guide for Gemma 4 to a 13th Gen Intel i7–1360P...",
@@ -140,7 +140,7 @@
     },
     {
       "title": "Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!",
-      "hot": "❤️ 682 💬 88",
+      "hot": "❤️ 689 💬 88",
       "desc": "We're thrilled to announce our newest challenge with GitHub!  Running through June 7, the GitHub...",
       "source": "dev",
       "tag": "githubchallenge,  devchallenge",
@@ -165,167 +165,199 @@
   ],
   "tech": [
     {
+      "title": "Why Janet? (2023)",
+      "hot": "3.0m",
+      "desc": "ianthehenry.com",
+      "source": "tech",
+      "tag": "⬆️ 154 points",
+      "url": "https://ianthehenry.com/posts/why-janet/"
+    },
+    {
+      "title": "Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai",
+      "hot": "3.0m",
+      "desc": "blog.adafruit.com",
+      "source": "tech",
+      "tag": "⬆️ 99 points",
+      "url": "https://blog.adafruit.com/"
+    },
+    {
+      "title": "CSS-Native Parallax Effect",
+      "hot": "3.0m",
+      "desc": "dan-webnotes.com",
+      "source": "tech",
+      "tag": "⬆️ 31 points",
+      "url": "https://dan-webnotes.com/posts/2026-06-02-css-native-parallax-effect/"
+    },
+    {
       "title": "The newest Instagram “exploit” is the goofiest I've seen",
       "hot": "3.0m",
       "desc": "0xsid.com",
       "source": "tech",
-      "tag": "⬆️ 1620 points",
+      "tag": "⬆️ 1881 points",
       "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco"
     },
     {
-      "title": "macOS needs its grid back",
-      "hot": "3.0m",
-      "desc": "blog.hopefullyuseful.com",
+      "title": "Muxcard, a dyi credit card size computer",
+      "hot": "2.9m",
+      "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 189 points",
-      "url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/"
+      "tag": "⬆️ 78 points",
+      "url": "https://github.com/krauseler/muxcard"
     },
     {
       "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "economist.com",
       "source": "tech",
-      "tag": "⬆️ 271 points",
+      "tag": "⬆️ 417 points",
       "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai"
     },
     {
-      "title": "OpenAI frontier models and Codex are now available on AWS",
-      "hot": "3.0m",
-      "desc": "openai.com",
+      "title": "macOS needs its grid back",
+      "hot": "2.9m",
+      "desc": "blog.hopefullyuseful.com",
       "source": "tech",
-      "tag": "⬆️ 230 points",
-      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/"
+      "tag": "⬆️ 281 points",
+      "url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/"
+    },
+    {
+      "title": "CQL: Categorical Databases",
+      "hot": "2.9m",
+      "desc": "categoricaldata.net",
+      "source": "tech",
+      "tag": "⬆️ 48 points",
+      "url": "https://categoricaldata.net/"
     },
     {
       "title": "Chipotlai Max",
       "hot": "2.9m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 172 points",
+      "tag": "⬆️ 255 points",
       "url": "https://github.com/cyberpapiii/chipotlai-max"
     },
     {
-      "title": "How is Groq raising more money?",
+      "title": "OpenAI frontier models and Codex are now available on AWS",
       "hot": "2.9m",
+      "desc": "openai.com",
+      "source": "tech",
+      "tag": "⬆️ 290 points",
+      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/"
+    },
+    {
+      "title": "Webcam head tracking, webcam to control in‑game FOV",
+      "hot": "2.9m",
+      "desc": "openfov.com",
+      "source": "tech",
+      "tag": "⬆️ 5 points",
+      "url": "https://www.openfov.com/"
+    },
+    {
+      "title": "How is Groq raising more money?",
+      "hot": "2.8m",
       "desc": "zach.be",
       "source": "tech",
-      "tag": "⬆️ 84 points",
+      "tag": "⬆️ 117 points",
       "url": "https://www.zach.be/p/how-the-hell-is-groq-raising-more"
     },
     {
-      "title": "Debug Project",
-      "hot": "2.9m",
-      "desc": "debug.com",
-      "source": "tech",
-      "tag": "⬆️ 196 points",
-      "url": "https://debug.com/"
-    },
-    {
       "title": "AI Agent Guidelines for CS336 at Stanford",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 381 points",
+      "tag": "⬆️ 431 points",
       "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md"
     },
     {
-      "title": "Squillions: How Money Laundering Won",
-      "hot": "2.9m",
-      "desc": "lrb.co.uk",
+      "title": "Debug Project",
+      "hot": "2.8m",
+      "desc": "debug.com",
       "source": "tech",
-      "tag": "⬆️ 64 points",
-      "url": "https://www.lrb.co.uk/the-paper/v48/n09/john-lanchester/squillions"
-    },
-    {
-      "title": "Fooling around with encrypted reasoning blobs",
-      "hot": "2.9m",
-      "desc": "blog.cryptographyengineering.com",
-      "source": "tech",
-      "tag": "⬆️ 57 points",
-      "url": "https://blog.cryptographyengineering.com/2026/05/29/fooling-around-with-encrypted-reasoning-blobs/"
-    },
-    {
-      "title": "strace-ui, Bonsai_term, and the TUI renaissance",
-      "hot": "2.9m",
-      "desc": "blog.janestreet.com",
-      "source": "tech",
-      "tag": "⬆️ 14 points",
-      "url": "https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/"
+      "tag": "⬆️ 232 points",
+      "url": "https://debug.com/"
     },
     {
       "title": "CS336: Language Modeling from Scratch",
       "hot": "2.8m",
       "desc": "cs336.stanford.edu",
       "source": "tech",
-      "tag": "⬆️ 429 points",
+      "tag": "⬆️ 487 points",
       "url": "https://cs336.stanford.edu/"
     },
     {
-      "title": "KL Zero: KL divergence intuition game",
+      "title": "Strace-ui, Bonsai_term, and the TUI renaissance",
       "hot": "2.8m",
-      "desc": "klzero.sarna.dev",
+      "desc": "blog.janestreet.com",
       "source": "tech",
-      "tag": "⬆️ 23 points",
-      "url": "https://klzero.sarna.dev"
+      "tag": "⬆️ 64 points",
+      "url": "https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/"
     },
     {
       "title": "Should you normalize RGB values by 255 or 256?",
       "hot": "2.8m",
       "desc": "30fps.net",
       "source": "tech",
-      "tag": "⬆️ 245 points",
+      "tag": "⬆️ 279 points",
       "url": "https://30fps.net/pages/255-vs-256-division/"
     },
     {
-      "title": "Crystal Nights (2008)",
-      "hot": "2.8m",
-      "desc": "gregegan.net",
+      "title": "Fooling around with encrypted reasoning blobs",
+      "hot": "2.7m",
+      "desc": "blog.cryptographyengineering.com",
       "source": "tech",
-      "tag": "⬆️ 36 points",
-      "url": "https://www.gregegan.net/MISC/CRYSTAL/Crystal.html"
-    },
-    {
-      "title": "Launch HN: Expanse (YC P26) – Unlock Wasted GPU Capacity",
-      "hot": "2.8m",
-      "desc": "news.ycombinator.com",
-      "source": "tech",
-      "tag": "⬆️ 77 points",
-      "url": "https://news.ycombinator.com/item?id=48356312"
+      "tag": "⬆️ 102 points",
+      "url": "https://blog.cryptographyengineering.com/2026/05/29/fooling-around-with-encrypted-reasoning-blobs/"
     },
     {
       "title": "Microsoft builds MacBook Pro rival with NVIDIA-powered Surface Laptop Ultra",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "windowslatest.com",
       "source": "tech",
-      "tag": "⬆️ 194 points",
+      "tag": "⬆️ 226 points",
       "url": "https://www.windowslatest.com/2026/06/01/microsoft-builds-its-ultimate-macbook-pro-rival-with-the-nvidia-powered-surface-laptop-ultra/"
     },
     {
-      "title": "Nvidia RTX Spark",
+      "title": "Launch HN: Expanse (YC P26) – Unlock Wasted GPU Capacity",
       "hot": "2.7m",
-      "desc": "nvidia.com",
+      "desc": "news.ycombinator.com",
       "source": "tech",
-      "tag": "⬆️ 383 points",
-      "url": "https://www.nvidia.com/en-us/products/rtx-spark/"
-    },
-    {
-      "title": "What appear to be biochemical processes may be a natural feature of geology",
-      "hot": "2.7m",
-      "desc": "quantamagazine.org",
-      "source": "tech",
-      "tag": "⬆️ 220 points",
-      "url": "https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/"
-    },
-    {
-      "title": "A new way to build chips: Sequentially stacking silicon to extend Moore's Law",
-      "hot": "2.7m",
-      "desc": "matse.illinois.edu",
-      "source": "tech",
-      "tag": "⬆️ 40 points",
-      "url": "https://matse.illinois.edu/news/85775"
+      "tag": "⬆️ 85 points",
+      "url": "https://news.ycombinator.com/item?id=48356312"
     }
   ],
   "space": [
+    {
+      "title": "Researchers call for regulations to protect low Earth orbit environment",
+      "hot": "6/2",
+      "desc": "\nBOULDER, Colorado — Researchers are calling for increased attention and better protection against the rising introduction of exotic materials into Ea",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/researchers-call-for-regulations-to-protect-low-earth-orbit-environment/"
+    },
+    {
+      "title": "Spacewalking With Scott Wray, Artemis EVA Training Lead",
+      "hot": "6/2",
+      "desc": "Scott Wray’s experience with spacewalks started when he was about 6 years old. A tent resembling a lunar lander provided the perfect imaginary spacecr",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/centers-and-facilities/johnson/spacewalking-with-scott-wray-artemis-eva-training-lead/"
+    },
+    {
+      "title": "ESA joins agreement to strengthen global geodesy supply chain",
+      "hot": "6/2",
+      "desc": "In May, the European Space Agency (ESA) joined the Multilateral Memorandum of Understanding of the United Nations Global Geodetic Centre of Excellence",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/Applications/Satellite_navigation/ESA_joins_agreement_to_strengthen_global_geodesy_supply_chain"
+    },
+    {
+      "title": "NASA abandons ‘core module’ concept for commercial space station development",
+      "hot": "6/2",
+      "desc": "\nNASA is withdrawing a proposal to revamp its strategy for transitioning from the International Space Station to commercial stations, one that had bee",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/nasa-abandons-core-module-concept-for-commercial-space-station-development/"
+    },
     {
       "title": "Fire’s Footprint on Santa Rosa Island",
       "hot": "6/2",
@@ -361,7 +393,7 @@
     {
       "title": "Launch Preview: SpaceX and Chinese rockets to launch internet satellites to LEO",
       "hot": "6/1",
-      "desc": "SpaceX and Chinese launches dominate this week’s launch manifest, which features six missions from five…\nThe post Launch Preview: SpaceX and Chinese r",
+      "desc": "SpaceX and Chinese launches dominate this week’s launch manifest, which features six missions from five…\r\nThe post Launch Preview: SpaceX and Chinese ",
       "source": "space",
       "tag": "NASASpaceflight",
       "url": "https://www.nasaspaceflight.com/2026/06/launch-preview-060126/"
@@ -369,7 +401,7 @@
     {
       "title": "NASA Invites Media to See Roman Space Telescope Arrive at Kennedy",
       "hot": "6/1",
-      "desc": "Registration is open for media to cover the arrival of NASA’s Nancy Grace Roman Space Telescope at the agency’s Kennedy Space Center in Florida in the",
+      "desc": "Registration is open for media to cover the arrival of NASA’s Nancy Grace Roman Space Telescope at the agency���s Kennedy Space Center in Florida in t",
       "source": "space",
       "tag": "NASA",
       "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-see-roman-space-telescope-arrive-at-kennedy/"
@@ -413,44 +445,12 @@
       "source": "space",
       "tag": "NASA",
       "url": "https://www.nasa.gov/aeronautics/aeronautics-stem/flight-log-about-pilots/"
-    },
-    {
-      "title": "Pilot Flight Logs",
-      "hot": "6/1",
-      "desc": "Pilot Flight Logs Pilot flight logs, which have been around in one form or another since the beginning of flight, have served several purposes. Today,",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/aeronautics/aeronautics-stem/pilot-flight-logs/"
-    },
-    {
-      "title": "Webb sniffs methane from interstellar Comet 3I/ATLAS",
-      "hot": "6/1",
-      "desc": "From the ESA Blogs.",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/06/Webb_sniffs_methane_from_interstellar_Comet_3I_ATLAS"
-    },
-    {
-      "title": "Northrop Grumman partners with Apex on space-based interceptors for Golden Dome",
-      "hot": "6/1",
-      "desc": "\nThe Los Angeles-based startup manufactures standardized satellite buses designed to be produced more quickly and at lower cost than traditional gover",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/northrop-grumman-partners-with-apex-on-space-based-interceptors-for-golden-dome/"
-    },
-    {
-      "title": "Pretty in Pink",
-      "hot": "6/1",
-      "desc": "This image of Westerlund 2 released on March 19, 2026, features Chandra X-ray Observatory data (pink) and infrared data from NASA’S James Webb Space T",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/image-article/pretty-in-pink-2/"
     }
   ],
   "github": [
     {
       "title": "pewdiepie-archdaemon/odysseus: Self-hosted AI workspace. ",
-      "hot": "⭐ 23.1k",
+      "hot": "⭐ 25.4k",
       "desc": "Self-hosted AI workspace. ",
       "source": "github",
       "tag": "JavaScript",
@@ -482,39 +482,47 @@
     },
     {
       "title": "Sophomoresty/gemini-web2api: Convert Google Gemini web into OpenAI-compatible AP",
-      "hot": "⭐ 1.1k",
+      "hot": "⭐ 1.2k",
       "desc": "Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/Sophomoresty/gemini-web2api"
     },
     {
+      "title": "Gloridust/WechatOnCloud: 云微WOC，云微信，自由连接",
+      "hot": "⭐ 996",
+      "desc": "云微WOC，云微信，自由连接",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/Gloridust/WechatOnCloud"
+    },
+    {
       "title": "MatinSenPai/SenPaiScanner: A light-weight scanner for Cloudflare IPs, written in",
-      "hot": "⭐ 864",
+      "hot": "⭐ 876",
       "desc": "A light-weight scanner for Cloudflare IPs, written in Golang",
       "source": "github",
       "tag": "Go",
       "url": "https://github.com/MatinSenPai/SenPaiScanner"
     },
     {
-      "title": "Michaelliv/pi-dynamic-workflows: ",
-      "hot": "⭐ 717",
-      "desc": "Michaelliv/pi-dynamic-workflows",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/Michaelliv/pi-dynamic-workflows"
-    },
-    {
       "title": "asz798838958/aBaiAutoplus: 多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
-      "hot": "⭐ 710",
+      "hot": "⭐ 802",
       "desc": "多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/asz798838958/aBaiAutoplus"
     },
     {
+      "title": "Michaelliv/pi-dynamic-workflows: ",
+      "hot": "⭐ 726",
+      "desc": "Michaelliv/pi-dynamic-workflows",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/Michaelliv/pi-dynamic-workflows"
+    },
+    {
       "title": "withkynam/vibecode-pro-max-kit: Your AI forgets. This remembers. Spec-driven cod",
-      "hot": "⭐ 706",
+      "hot": "⭐ 709",
       "desc": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12",
       "source": "github",
       "tag": "JavaScript",
@@ -522,51 +530,43 @@
     },
     {
       "title": "2aronS/Duel-Agents: CLI, SDK, and IDE plugins for Duel Agents",
-      "hot": "⭐ 647",
+      "hot": "⭐ 655",
       "desc": "CLI, SDK, and IDE plugins for Duel Agents",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/2aronS/Duel-Agents"
     },
     {
-      "title": "Gloridust/WechatOnCloud: 云微WOC，云微信，自由连接",
-      "hot": "⭐ 629",
-      "desc": "云微WOC，云微信，自由连接",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/Gloridust/WechatOnCloud"
-    },
-    {
-      "title": "ace-trump-tech/DeltaForce-OBS-Locker: 三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云",
-      "hot": "⭐ 596",
-      "desc": "三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。动加载。DeltaForce OBS Lockhead Plugin – Smart aim assist via OBS injection, suppo",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/ace-trump-tech/DeltaForce-OBS-Locker"
-    },
-    {
       "title": "boona13/image-extender: Seamlessly extend any image in any direction with AI. Op",
-      "hot": "⭐ 546",
+      "hot": "⭐ 629",
       "desc": "Seamlessly extend any image in any direction with AI. Open-source web app powered by Gemini via OpenRouter, with Poisson-blended seams and best-of-3 v",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/boona13/image-extender"
     },
     {
-      "title": "BlackCandleLab/polymarket-trading-bot: polymarket trading bot, polymarket tradin",
-      "hot": "⭐ 464",
-      "desc": "polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polyma",
+      "title": "ace-trump-tech/DeltaForce-OBS-Locker: 三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云",
+      "hot": "⭐ 620",
+      "desc": "三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。动加载。DeltaForce OBS Lockhead Plugin – Smart aim assist via OBS injection, suppo",
       "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/BlackCandleLab/polymarket-trading-bot"
+      "tag": "Python",
+      "url": "https://github.com/ace-trump-tech/DeltaForce-OBS-Locker"
     },
     {
       "title": "liyue-aigc/female-portrait-director: A modular Codex Skill for directing and exp",
-      "hot": "⭐ 460",
+      "hot": "⭐ 473",
       "desc": "A modular Codex Skill for directing and expanding detailed AI female portrait prompts.",
       "source": "github",
       "tag": "GitHub",
       "url": "https://github.com/liyue-aigc/female-portrait-director"
+    },
+    {
+      "title": "FlashML-org/flashlib: Fast and memory-efficient classical machine learning opera",
+      "hot": "⭐ 427",
+      "desc": "Fast and memory-efficient classical machine learning operators",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/FlashML-org/flashlib"
     }
   ]
 }
