@@ -1,28 +1,28 @@
 {
   "data": [
     {
-      "title": "Strategies for running AI workloads on GKE without committed quota",
-      "hot": "❤️ 5 💬 0",
-      "desc": "Learn different strategies to use hard-to-get hardware accelerators with Google Kubernetes Engine (GKE).",
+      "title": "Debloating The AI-Grown Codebase",
+      "hot": "❤️ 21 💬 3",
+      "desc": "The use of AI Agents creates a distinctive smell... One can tell the GH Repo owner was high on...",
       "source": "dev",
-      "tag": "kubernetes,  ai",
-      "url": "https://dev.to/googlecloud/strategies-for-running-ai-workloads-on-gke-without-committed-quota-484l"
-    },
-    {
-      "title": "What was your win this week?",
-      "hot": "❤️ 50 💬 49",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "discuss,  weeklyretro",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-i1"
+      "tag": "ai,  programming",
+      "url": "https://dev.to/maximsaplin/debloating-the-ai-grown-codebase-2om"
     },
     {
       "title": "Meme Monday",
-      "hot": "❤️ 23 💬 23",
+      "hot": "❤️ 24 💬 25",
       "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
       "source": "dev",
       "tag": "discuss,  jokes",
       "url": "https://dev.to/ben/meme-monday-25la"
+    },
+    {
+      "title": "Strategies for running AI workloads on GKE without committed quota",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Learn different strategies to use hard-to-get hardware accelerators with Google Kubernetes Engine (GKE).",
+      "source": "dev",
+      "tag": "kubernetes,  ai",
+      "url": "https://dev.to/googlecloud/strategies-for-running-ai-workloads-on-gke-without-committed-quota-484l"
     },
     {
       "title": "The Ultimate Cloud Run Guide 2026",
@@ -33,16 +33,8 @@
       "url": "https://dev.to/googleai/the-ultimate-cloud-run-guide-2026-54f8"
     },
     {
-      "title": "Morning Security Report with Antigravity Agent",
-      "hot": "❤️ 10 💬 1",
-      "desc": "The latest Antigravity updates announced at Google Next brought a lot of interesting features. I am...",
-      "source": "dev",
-      "tag": "productivity,  programming",
-      "url": "https://dev.to/gdg/morning-security-report-with-antigravity-agent-3592"
-    },
-    {
       "title": "How Are Developers Actually Using AI At Work?",
-      "hot": "❤️ 162 💬 225",
+      "hot": "❤️ 162 💬 229",
       "desc": "JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...",
       "source": "dev",
       "tag": "discuss,  ai",
@@ -82,11 +74,27 @@
     },
     {
       "title": "An LLM API call, in 4 GIFs",
-      "hot": "❤️ 81 💬 59",
+      "hot": "❤️ 82 💬 59",
       "desc": "This is the first post of series Building TinyAgent where we are going to build a small agent from...",
       "source": "dev",
       "tag": "llm,  javascript",
       "url": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1"
+    },
+    {
+      "title": "I Made My AI Models Argue, Then Let Hermes Be the Judge",
+      "hot": "❤️ 31 💬 30",
+      "desc": "A $0 multi-model decision agent: three LLMs debate, Hermes judges, and it learns who to trust.",
+      "source": "dev",
+      "tag": "hermesagentchallenge,  devchallenge",
+      "url": "https://dev.to/arqamwd/i-made-my-ai-models-argue-then-let-hermes-be-the-judge-5e6c"
+    },
+    {
+      "title": "Morning Security Report with Antigravity Agent",
+      "hot": "❤️ 10 💬 1",
+      "desc": "The latest Antigravity updates announced at Google Next brought a lot of interesting features. I am...",
+      "source": "dev",
+      "tag": "productivity,  programming",
+      "url": "https://dev.to/gdg/morning-security-report-with-antigravity-agent-3592"
     },
     {
       "title": "Top 7 Featured DEV Posts of the Week",
@@ -97,14 +105,6 @@
       "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-45na"
     },
     {
-      "title": "I Made My AI Models Argue, Then Let Hermes Be the Judge",
-      "hot": "❤️ 31 💬 24",
-      "desc": "A $0 multi-model decision agent: three LLMs debate, Hermes judges, and it learns who to trust.",
-      "source": "dev",
-      "tag": "hermesagentchallenge,  devchallenge",
-      "url": "https://dev.to/arqamwd/i-made-my-ai-models-argue-then-let-hermes-be-the-judge-5e6c"
-    },
-    {
       "title": "Mix and Match: Running Kiro on Google Cloud Shell",
       "hot": "❤️ 6 💬 0",
       "desc": "This article provides a step by step deployment guide for using Amazon Kiro CLI on the Google Cloud...",
@@ -113,12 +113,12 @@
       "url": "https://dev.to/gde/mix-and-match-running-kiro-on-google-cloud-shell-5hco"
     },
     {
-      "title": "Untrusted Code, Trusted Cluster Scaling Secure AI Agent Workspaces with GKE Agent Sandbox",
-      "hot": "❤️ 7 💬 0",
-      "desc": "How gVisor-powered sandbox isolates AI-generated code at the kernel level and why it changes...",
+      "title": "What was your win this week?",
+      "hot": "❤️ 52 💬 51",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
-      "tag": "ai,  googlecloud",
-      "url": "https://dev.to/gde/untrusted-code-trusted-cluster-scaling-secure-ai-agent-workspaces-with-gke-agent-sandbox-1mk1"
+      "tag": "discuss,  weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-i1"
     },
     {
       "title": "GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search",
@@ -138,7 +138,7 @@
     },
     {
       "title": "Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!",
-      "hot": "❤️ 689 💬 88",
+      "hot": "❤️ 694 💬 88",
       "desc": "We're thrilled to announce our newest challenge with GitHub!  Running through June 7, the GitHub...",
       "source": "dev",
       "tag": "githubchallenge,  devchallenge",
@@ -161,5 +161,5 @@
       "url": "https://dev.to/fm/ai-fatigue-is-very-real-and-people-are-fighting-back-4m1l"
     }
   ],
-  "updatedAt": "2026-06-02T11:45:58.380Z"
+  "updatedAt": "2026-06-02T15:48:52.388Z"
 }
