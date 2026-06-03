@@ -2,51 +2,19 @@
   "data": [
     {
       "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 26 💬 11",
+      "hot": "❤️ 31 💬 15",
       "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
       "source": "dev",
       "tag": "top7,  discuss",
       "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-62k"
     },
     {
-      "title": "Send your first AI message in one API call",
-      "hot": "❤️ 16 💬 7",
-      "desc": "Most AI tutorials start with a setup checklist. Pick a model provider. Create an account. Wire up a...",
-      "source": "dev",
-      "tag": "ai,  api",
-      "url": "https://dev.to/backboardio/send-your-first-ai-message-in-one-api-call-4179"
-    },
-    {
-      "title": "Learning Lessons from Gaming",
-      "hot": "❤️ 20 💬 1",
-      "desc": "I don't identify as a gamer. I occasionally participate in board games or an amateur football match,...",
-      "source": "dev",
-      "tag": "productivity,  learning",
-      "url": "https://dev.to/ingosteinke/learning-lessons-from-gaming-1jgm"
-    },
-    {
-      "title": "How we turned the Replay keynote surprise into an open-source embedded playground",
-      "hot": "❤️ 7 💬 1",
-      "desc": "We handed out 2,000 tiny hackable computers at Replay. Now the whole ecosystem is open source. Here's the story of how w",
-      "source": "dev",
-      "tag": "temporal,  codesamples",
-      "url": "https://dev.to/temporalio/how-we-turned-the-replay-keynote-surprise-into-an-open-source-embedded-playground-49hm"
-    },
-    {
       "title": "Surviving the eviction: How to build interrupt-resilient AI workloads on GKE",
-      "hot": "❤️ 7 💬 1",
+      "hot": "❤️ 8 💬 1",
       "desc": "Learn strategies for building interrupt-resilient AI workloads on Google Kubernetes Engine (GKE).",
       "source": "dev",
       "tag": "kubernetes,  ai",
       "url": "https://dev.to/googlecloud/surviving-the-eviction-how-to-build-interrupt-resilient-ai-workloads-on-gke-5581"
-    },
-    {
-      "title": "Sovereign Synapse: The Context-Cleaner",
-      "hot": "❤️ 1 💬 7",
-      "desc": "(Curation is Sovereignty)           Sovereign Synapse Series | Post 2   AI is polite by design. It...",
-      "source": "dev",
-      "tag": "python,  cryptocurrency",
-      "url": "https://dev.to/kenwalger/sovereign-synapse-the-context-cleaner-2iac"
     },
     {
       "title": "Gubernator [the kill ku8s]",
@@ -57,12 +25,20 @@
       "url": "https://dev.to/gde/gubernator-the-kill-ku8s-2g0e"
     },
     {
-      "title": "Content Virtualization using the HTML template Element",
-      "hot": "❤️ 6 💬 1",
-      "desc": "When I started this experiment, the core question was simple:   Because content inside...",
+      "title": "Learning Lessons from Gaming",
+      "hot": "❤️ 22 💬 3",
+      "desc": "I don't identify as a gamer. I occasionally participate in board games or an amateur football match,...",
       "source": "dev",
-      "tag": "html,  javascript",
-      "url": "https://dev.to/stuffbreaker/content-virtualization-using-the-html-element-2gn7"
+      "tag": "productivity,  learning",
+      "url": "https://dev.to/ingosteinke/learning-lessons-from-gaming-1jgm"
+    },
+    {
+      "title": "Sovereign Synapse: The Context-Cleaner",
+      "hot": "❤️ 3 💬 8",
+      "desc": "(Curation is Sovereignty)           Sovereign Synapse Series | Post 2   AI is polite by design. It...",
+      "source": "dev",
+      "tag": "python,  cryptocurrency",
+      "url": "https://dev.to/kenwalger/sovereign-synapse-the-context-cleaner-2iac"
     },
     {
       "title": "Spec-Driven Development with OpenSpec",
@@ -73,20 +49,36 @@
       "url": "https://dev.to/mousius/spec-driven-development-with-openspec-1fmb"
     },
     {
+      "title": "How we turned the Replay keynote surprise into an open-source embedded playground",
+      "hot": "❤️ 7 💬 2",
+      "desc": "We handed out 2,000 tiny hackable computers at Replay. Now the whole ecosystem is open source. Here's the story of how w",
+      "source": "dev",
+      "tag": "temporal,  codesamples",
+      "url": "https://dev.to/temporalio/how-we-turned-the-replay-keynote-surprise-into-an-open-source-embedded-playground-49hm"
+    },
+    {
       "title": "I Used My Last 7% of Copilot Tokens to Bring a 2014 WinForms Game Back to Life",
-      "hot": "❤️ 16 💬 5",
+      "hot": "❤️ 16 💬 6",
       "desc": "This is a submission for the GitHub Finish-Up-A-Thon Challenge  Originally, I didn't plan to join...",
       "source": "dev",
       "tag": "devchallenge,  githubchallenge",
       "url": "https://dev.to/gramli/i-used-my-last-7-of-copilot-tokens-to-bring-a-2014-winforms-game-back-to-life-30mo"
     },
     {
-      "title": "TypeScript Monorepo Magic: Organize, Build, and Ship Multi-Package Apps",
-      "hot": "❤️ 0 💬 0",
-      "desc": "What is a Monorepo?   A monorepo is a single Git repository that contains multiple distinct...",
+      "title": "I Built an Autonomous AI Agent with Google ADK + Gemini That Spots Trends and Drafts Dev.to Articles for Me",
+      "hot": "❤️ 7 💬 1",
+      "desc": "Keeping up with trending technical topics and new tools on developer forums can be time-consuming. To...",
       "source": "dev",
-      "tag": "programming,  tutorial",
-      "url": "https://dev.to/_mh/typescript-monorepo-magic-organize-build-and-ship-multi-package-apps-4cgf"
+      "tag": "agentdevelopmentkit,  googlecloud",
+      "url": "https://dev.to/gde/i-built-an-autonomous-ai-agent-with-google-adk-gemini-20-flash-that-spots-trends-and-drafts-60"
+    },
+    {
+      "title": "Send your first AI message in one API call",
+      "hot": "❤️ 17 💬 9",
+      "desc": "Most AI tutorials start with a setup checklist. Pick a model provider. Create an account. Wire up a...",
+      "source": "dev",
+      "tag": "ai,  api",
+      "url": "https://dev.to/backboardio/send-your-first-ai-message-in-one-api-call-4179"
     },
     {
       "title": "Making HTML Artifacts Collaborative for AI Workflows",
@@ -95,6 +87,14 @@
       "source": "dev",
       "tag": "ai,  discuss",
       "url": "https://dev.to/bharathnayakt/making-html-artifacts-collaborative-for-ai-workflows-3f20"
+    },
+    {
+      "title": "Content Virtualization using the HTML template Element",
+      "hot": "❤️ 6 💬 2",
+      "desc": "When I started this experiment, the core question was simple:   Because content inside...",
+      "source": "dev",
+      "tag": "html,  javascript",
+      "url": "https://dev.to/stuffbreaker/content-virtualization-using-the-html-element-2gn7"
     },
     {
       "title": "31B — Gemma 4 Deployment with NVIDIA L4, MCP, Cloud Run, and Antigravity CLI",
@@ -113,12 +113,12 @@
       "url": "https://dev.to/gde/26b-gemma-4-deployment-with-nvidia-l4-mcp-cloud-run-and-antigravity-cli-194p"
     },
     {
-      "title": "I Built an Autonomous AI Agent with Google ADK + Gemini That Spots Trends and Drafts Dev.to Articles for Me",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Keeping up with trending technical topics and new tools on developer forums can be time-consuming. To...",
+      "title": "TypeScript Monorepo Magic: Organize, Build, and Ship Multi-Package Apps",
+      "hot": "❤️ 0 💬 1",
+      "desc": "What is a Monorepo?   A monorepo is a single Git repository that contains multiple distinct...",
       "source": "dev",
-      "tag": "agentdevelopmentkit,  googlecloud",
-      "url": "https://dev.to/gde/i-built-an-autonomous-ai-agent-with-google-adk-gemini-20-flash-that-spots-trends-and-drafts-60"
+      "tag": "programming,  tutorial",
+      "url": "https://dev.to/_mh/typescript-monorepo-magic-organize-build-and-ship-multi-package-apps-4cgf"
     },
     {
       "title": "Strategies for running AI workloads on GKE without committed quota",
@@ -130,7 +130,7 @@
     },
     {
       "title": "Debloating The AI-Grown Codebase",
-      "hot": "❤️ 21 💬 5",
+      "hot": "❤️ 22 💬 7",
       "desc": "The use of AI Agents creates a distinctive smell... One can tell the GH Repo owner was high on...",
       "source": "dev",
       "tag": "ai,  programming",
@@ -138,7 +138,7 @@
     },
     {
       "title": "How Are Developers Actually Using AI At Work?",
-      "hot": "❤️ 162 💬 229",
+      "hot": "❤️ 165 💬 229",
       "desc": "JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...",
       "source": "dev",
       "tag": "discuss,  ai",
@@ -161,5 +161,5 @@
       "url": "https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p"
     }
   ],
-  "updatedAt": "2026-06-03T00:06:36.006Z"
+  "updatedAt": "2026-06-03T05:21:24.516Z"
 }
