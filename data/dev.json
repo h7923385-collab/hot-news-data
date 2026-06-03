@@ -2,51 +2,35 @@
   "data": [
     {
       "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 39 💬 22",
+      "hot": "❤️ 48 💬 23",
       "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
       "source": "dev",
       "tag": "top7,  discuss",
       "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-62k"
     },
     {
-      "title": "Learning Lessons from Gaming",
-      "hot": "❤️ 28 💬 4",
-      "desc": "I don't identify as a gamer. I occasionally participate in board games or an amateur football match,...",
-      "source": "dev",
-      "tag": "productivity,  learning",
-      "url": "https://dev.to/ingosteinke/learning-lessons-from-gaming-1jgm"
-    },
-    {
-      "title": "After 7 Next.js 16 Caching Bugs, I Stopped Guessing and Built a System",
-      "hot": "❤️ 13 💬 8",
-      "desc": "There's a specific feeling you get after your third production caching incident.  It's not panic....",
-      "source": "dev",
-      "tag": "nextjs,  typescript",
-      "url": "https://dev.to/shubhradev/after-7-nextjs-16-caching-bugs-i-stopped-guessing-and-built-a-system-4ijp"
-    },
-    {
       "title": "Every tool seems to have a coding agent horned in these days..... I don't think that makes sense.",
-      "hot": "❤️ 4 💬 0",
+      "hot": "❤️ 5 💬 1",
       "desc": "A post by Ben Halpern",
       "source": "dev",
       "tag": "agents,  ai",
       "url": "https://dev.to/ben/every-tool-seems-to-have-a-coding-agent-horned-in-these-days-i-dont-think-that-makes-sense-3db"
     },
     {
-      "title": "Executing Google Apps Script on Complex Schedules using Vibe Coding",
-      "hot": "❤️ 7 💬 1",
-      "desc": "Abstract   Configuring complex time-driven triggers in Google Apps Script—such as...",
+      "title": "After 7 Next.js 16 Caching Bugs, I Stopped Guessing and Built a System",
+      "hot": "❤️ 17 💬 11",
+      "desc": "There's a specific feeling you get after your third production caching incident.  It's not panic....",
       "source": "dev",
-      "tag": "ai,  gemini",
-      "url": "https://dev.to/gde/executing-google-apps-script-on-complex-schedules-using-vibe-coding-1i3m"
+      "tag": "nextjs,  typescript",
+      "url": "https://dev.to/shubhradev/after-7-nextjs-16-caching-bugs-i-stopped-guessing-and-built-a-system-4ijp"
     },
     {
-      "title": "Sovereign Synapse: The Context-Cleaner",
-      "hot": "❤️ 6 💬 14",
-      "desc": "(Curation is Sovereignty)           Sovereign Synapse Series | Post 2   AI is polite by design. It...",
+      "title": "How we turned the Replay keynote surprise into an open-source embedded playground",
+      "hot": "❤️ 12 💬 2",
+      "desc": "We handed out 2,000 tiny hackable computers at Replay. Now the whole ecosystem is open source. Here's the story of how w",
       "source": "dev",
-      "tag": "python,  cryptocurrency",
-      "url": "https://dev.to/kenwalger/sovereign-synapse-the-context-cleaner-2iac"
+      "tag": "temporal,  codesamples",
+      "url": "https://dev.to/temporalio/how-we-turned-the-replay-keynote-surprise-into-an-open-source-embedded-playground-49hm"
     },
     {
       "title": "What I'm building, and why",
@@ -73,12 +57,12 @@
       "url": "https://dev.to/gde/gubernator-the-kill-ku8s-2g0e"
     },
     {
-      "title": "How we turned the Replay keynote surprise into an open-source embedded playground",
-      "hot": "❤️ 9 💬 2",
-      "desc": "We handed out 2,000 tiny hackable computers at Replay. Now the whole ecosystem is open source. Here's the story of how w",
+      "title": "Surviving the eviction: How to build interrupt-resilient AI workloads on GKE",
+      "hot": "❤️ 10 💬 1",
+      "desc": "Learn strategies for building interrupt-resilient AI workloads on Google Kubernetes Engine (GKE).",
       "source": "dev",
-      "tag": "temporal,  codesamples",
-      "url": "https://dev.to/temporalio/how-we-turned-the-replay-keynote-surprise-into-an-open-source-embedded-playground-49hm"
+      "tag": "kubernetes,  ai",
+      "url": "https://dev.to/googlecloud/surviving-the-eviction-how-to-build-interrupt-resilient-ai-workloads-on-gke-5581"
     },
     {
       "title": "I Built an Autonomous AI Agent with Google ADK + Gemini That Spots Trends and Drafts Dev.to Articles for Me",
@@ -89,12 +73,20 @@
       "url": "https://dev.to/gde/i-built-an-autonomous-ai-agent-with-google-adk-gemini-20-flash-that-spots-trends-and-drafts-60"
     },
     {
-      "title": "Surviving the eviction: How to build interrupt-resilient AI workloads on GKE",
-      "hot": "❤️ 10 💬 1",
-      "desc": "Learn strategies for building interrupt-resilient AI workloads on Google Kubernetes Engine (GKE).",
+      "title": "Learning Lessons from Gaming",
+      "hot": "❤️ 34 💬 6",
+      "desc": "I don't identify as a gamer. I occasionally participate in board games or an amateur football match,...",
       "source": "dev",
-      "tag": "kubernetes,  ai",
-      "url": "https://dev.to/googlecloud/surviving-the-eviction-how-to-build-interrupt-resilient-ai-workloads-on-gke-5581"
+      "tag": "productivity,  learning",
+      "url": "https://dev.to/ingosteinke/learning-lessons-from-gaming-1jgm"
+    },
+    {
+      "title": "Executing Google Apps Script on Complex Schedules using Vibe Coding",
+      "hot": "❤️ 7 💬 2",
+      "desc": "Abstract   Configuring complex time-driven triggers in Google Apps Script—such as...",
+      "source": "dev",
+      "tag": "ai,  gemini",
+      "url": "https://dev.to/gde/executing-google-apps-script-on-complex-schedules-using-vibe-coding-1i3m"
     },
     {
       "title": "Content Virtualization using the HTML template Element",
@@ -137,14 +129,6 @@
       "url": "https://dev.to/gde/geminiagent-google-managed-agents-api-4e43"
     },
     {
-      "title": "Stop writing prompts to classify text: make evaluation declarative",
-      "hot": "❤️ 0 💬 0",
-      "desc": "I've built the same thing more than once: a step that reads an inbound message — a lead form, a...",
-      "source": "dev",
-      "tag": "ai,  llm",
-      "url": "https://dev.to/ayoolasolomon/stop-writing-prompts-to-classify-text-make-evaluation-declarative-5555"
-    },
-    {
       "title": "Send your first AI message in one API call",
       "hot": "❤️ 21 💬 9",
       "desc": "Most AI tutorials start with a setup checklist. Pick a model provider. Create an account. Wire up a...",
@@ -153,13 +137,29 @@
       "url": "https://dev.to/backboardio/send-your-first-ai-message-in-one-api-call-4179"
     },
     {
+      "title": "Stop writing prompts to classify text: make evaluation declarative",
+      "hot": "❤️ 0 💬 0",
+      "desc": "I've built the same thing more than once: a step that reads an inbound message — a lead form, a...",
+      "source": "dev",
+      "tag": "ai,  llm",
+      "url": "https://dev.to/ayoolasolomon/stop-writing-prompts-to-classify-text-make-evaluation-declarative-5555"
+    },
+    {
       "title": "Spec-Driven Development with OpenSpec",
       "hot": "❤️ 0 💬 1",
       "desc": "I'm one to stare at the screen blankly, not knowing where to start, or get distracted mid-flow by a...",
       "source": "dev",
       "tag": "ai,  sdd",
       "url": "https://dev.to/mousius/spec-driven-development-with-openspec-1fmb"
+    },
+    {
+      "title": "Debloating The AI-Grown Codebase",
+      "hot": "❤️ 29 💬 8",
+      "desc": "The use of AI Agents creates a distinctive smell... One can tell the GH Repo owner was high on...",
+      "source": "dev",
+      "tag": "ai,  programming",
+      "url": "https://dev.to/maximsaplin/debloating-the-ai-grown-codebase-2om"
     }
   ],
-  "updatedAt": "2026-06-03T15:09:49.375Z"
+  "updatedAt": "2026-06-03T19:02:42.736Z"
 }
