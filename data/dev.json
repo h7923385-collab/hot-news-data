@@ -2,67 +2,51 @@
   "data": [
     {
       "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 31 💬 15",
+      "hot": "❤️ 31 💬 17",
       "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
       "source": "dev",
       "tag": "top7,  discuss",
       "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-62k"
     },
     {
-      "title": "Surviving the eviction: How to build interrupt-resilient AI workloads on GKE",
-      "hot": "❤️ 8 💬 1",
-      "desc": "Learn strategies for building interrupt-resilient AI workloads on Google Kubernetes Engine (GKE).",
-      "source": "dev",
-      "tag": "kubernetes,  ai",
-      "url": "https://dev.to/googlecloud/surviving-the-eviction-how-to-build-interrupt-resilient-ai-workloads-on-gke-5581"
-    },
-    {
-      "title": "Gubernator [the kill ku8s]",
-      "hot": "❤️ 7 💬 1",
-      "desc": "Why I built an alternative to Kubernetes overkill.  Let’s talk about infrastructure...",
-      "source": "dev",
-      "tag": "architecture,  infrastructure",
-      "url": "https://dev.to/gde/gubernator-the-kill-ku8s-2g0e"
-    },
-    {
       "title": "Learning Lessons from Gaming",
-      "hot": "❤️ 22 💬 3",
+      "hot": "❤️ 26 💬 3",
       "desc": "I don't identify as a gamer. I occasionally participate in board games or an amateur football match,...",
       "source": "dev",
       "tag": "productivity,  learning",
       "url": "https://dev.to/ingosteinke/learning-lessons-from-gaming-1jgm"
     },
     {
+      "title": "Gubernator [the kill ku8s]",
+      "hot": "❤️ 10 💬 1",
+      "desc": "Why I built an alternative to Kubernetes overkill.  Let’s talk about infrastructure...",
+      "source": "dev",
+      "tag": "architecture,  infrastructure",
+      "url": "https://dev.to/gde/gubernator-the-kill-ku8s-2g0e"
+    },
+    {
+      "title": "I Used My Last 7% of Copilot Tokens to Bring a 2014 WinForms Game Back to Life",
+      "hot": "❤️ 18 💬 8",
+      "desc": "This is a submission for the GitHub Finish-Up-A-Thon Challenge  Originally, I didn't plan to join...",
+      "source": "dev",
+      "tag": "devchallenge,  githubchallenge",
+      "url": "https://dev.to/gramli/i-used-my-last-7-of-copilot-tokens-to-bring-a-2014-winforms-game-back-to-life-30mo"
+    },
+    {
       "title": "Sovereign Synapse: The Context-Cleaner",
-      "hot": "❤️ 3 💬 8",
+      "hot": "❤️ 4 💬 10",
       "desc": "(Curation is Sovereignty)           Sovereign Synapse Series | Post 2   AI is polite by design. It...",
       "source": "dev",
       "tag": "python,  cryptocurrency",
       "url": "https://dev.to/kenwalger/sovereign-synapse-the-context-cleaner-2iac"
     },
     {
-      "title": "Spec-Driven Development with OpenSpec",
-      "hot": "❤️ 0 💬 0",
-      "desc": "I'm one to stare at the screen blankly, not knowing where to start, or get distracted mid-flow by a...",
-      "source": "dev",
-      "tag": "ai,  sdd",
-      "url": "https://dev.to/mousius/spec-driven-development-with-openspec-1fmb"
-    },
-    {
       "title": "How we turned the Replay keynote surprise into an open-source embedded playground",
-      "hot": "❤️ 7 💬 2",
+      "hot": "❤️ 8 💬 2",
       "desc": "We handed out 2,000 tiny hackable computers at Replay. Now the whole ecosystem is open source. Here's the story of how w",
       "source": "dev",
       "tag": "temporal,  codesamples",
       "url": "https://dev.to/temporalio/how-we-turned-the-replay-keynote-surprise-into-an-open-source-embedded-playground-49hm"
-    },
-    {
-      "title": "I Used My Last 7% of Copilot Tokens to Bring a 2014 WinForms Game Back to Life",
-      "hot": "❤️ 16 💬 6",
-      "desc": "This is a submission for the GitHub Finish-Up-A-Thon Challenge  Originally, I didn't plan to join...",
-      "source": "dev",
-      "tag": "devchallenge,  githubchallenge",
-      "url": "https://dev.to/gramli/i-used-my-last-7-of-copilot-tokens-to-bring-a-2014-winforms-game-back-to-life-30mo"
     },
     {
       "title": "I Built an Autonomous AI Agent with Google ADK + Gemini That Spots Trends and Drafts Dev.to Articles for Me",
@@ -73,20 +57,12 @@
       "url": "https://dev.to/gde/i-built-an-autonomous-ai-agent-with-google-adk-gemini-20-flash-that-spots-trends-and-drafts-60"
     },
     {
-      "title": "Send your first AI message in one API call",
-      "hot": "❤️ 17 💬 9",
-      "desc": "Most AI tutorials start with a setup checklist. Pick a model provider. Create an account. Wire up a...",
+      "title": "Surviving the eviction: How to build interrupt-resilient AI workloads on GKE",
+      "hot": "❤️ 9 💬 1",
+      "desc": "Learn strategies for building interrupt-resilient AI workloads on Google Kubernetes Engine (GKE).",
       "source": "dev",
-      "tag": "ai,  api",
-      "url": "https://dev.to/backboardio/send-your-first-ai-message-in-one-api-call-4179"
-    },
-    {
-      "title": "Making HTML Artifacts Collaborative for AI Workflows",
-      "hot": "❤️ 0 💬 0",
-      "desc": "Recently, there has been a lot of discussion around a simple question:  Should AI artifacts default...",
-      "source": "dev",
-      "tag": "ai,  discuss",
-      "url": "https://dev.to/bharathnayakt/making-html-artifacts-collaborative-for-ai-workflows-3f20"
+      "tag": "kubernetes,  ai",
+      "url": "https://dev.to/googlecloud/surviving-the-eviction-how-to-build-interrupt-resilient-ai-workloads-on-gke-5581"
     },
     {
       "title": "Content Virtualization using the HTML template Element",
@@ -121,6 +97,30 @@
       "url": "https://dev.to/_mh/typescript-monorepo-magic-organize-build-and-ship-multi-package-apps-4cgf"
     },
     {
+      "title": "Send your first AI message in one API call",
+      "hot": "❤️ 21 💬 9",
+      "desc": "Most AI tutorials start with a setup checklist. Pick a model provider. Create an account. Wire up a...",
+      "source": "dev",
+      "tag": "ai,  api",
+      "url": "https://dev.to/backboardio/send-your-first-ai-message-in-one-api-call-4179"
+    },
+    {
+      "title": "Spec-Driven Development with OpenSpec",
+      "hot": "❤️ 0 💬 1",
+      "desc": "I'm one to stare at the screen blankly, not knowing where to start, or get distracted mid-flow by a...",
+      "source": "dev",
+      "tag": "ai,  sdd",
+      "url": "https://dev.to/mousius/spec-driven-development-with-openspec-1fmb"
+    },
+    {
+      "title": "Making HTML Artifacts Collaborative for AI Workflows",
+      "hot": "❤️ 1 💬 3",
+      "desc": "Recently, there has been a lot of discussion around a simple question:  Should AI artifacts default...",
+      "source": "dev",
+      "tag": "ai,  discuss",
+      "url": "https://dev.to/bharathnayakt/making-html-artifacts-collaborative-for-ai-workflows-3f20"
+    },
+    {
       "title": "Strategies for running AI workloads on GKE without committed quota",
       "hot": "❤️ 6 💬 0",
       "desc": "Learn different strategies to use hard-to-get hardware accelerators with Google Kubernetes Engine (GKE).",
@@ -137,16 +137,8 @@
       "url": "https://dev.to/maximsaplin/debloating-the-ai-grown-codebase-2om"
     },
     {
-      "title": "How Are Developers Actually Using AI At Work?",
-      "hot": "❤️ 165 💬 229",
-      "desc": "JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...",
-      "source": "dev",
-      "tag": "discuss,  ai",
-      "url": "https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c"
-    },
-    {
       "title": "What are your goals for the week? #181",
-      "hot": "❤️ 16 💬 10",
+      "hot": "❤️ 16 💬 11",
       "desc": "When this posts I should be at Ren faire or on the way to faire to break down the tent. I haven't had...",
       "source": "dev",
       "tag": "devjournal,  discuss",
@@ -159,7 +151,15 @@
       "source": "dev",
       "tag": "aws,  terraform",
       "url": "https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p"
+    },
+    {
+      "title": "The Software Developer's Guide to AEO",
+      "hot": "❤️ 0 💬 0",
+      "desc": "When I was writing code full-time five years ago, I Googled error messages, opened five tabs, and...",
+      "source": "dev",
+      "tag": "ai,  contentwriting",
+      "url": "https://dev.to/karllhughes/the-software-developers-guide-to-aeo-1h5h"
     }
   ],
-  "updatedAt": "2026-06-03T05:21:24.516Z"
+  "updatedAt": "2026-06-03T10:14:17.183Z"
 }
