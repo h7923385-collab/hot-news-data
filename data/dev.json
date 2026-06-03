@@ -2,15 +2,39 @@
   "data": [
     {
       "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 48 💬 23",
+      "hot": "❤️ 49 💬 23",
       "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
       "source": "dev",
       "tag": "top7,  discuss",
       "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-62k"
     },
     {
+      "title": "Join the June Solstice Game Jam: $1,000 in prizes!",
+      "hot": "❤️ 46 💬 3",
+      "desc": "We're excited to kick off the June Solstice Game Jam, running from June 3 through June 21 and ending...",
+      "source": "dev",
+      "tag": "devchallenge,  gamechallenge",
+      "url": "https://dev.to/devteam/join-the-june-solstice-game-jam-1000-in-prizes-3jla"
+    },
+    {
+      "title": "Am I Becoming Too Slow for the AI World?",
+      "hot": "❤️ 14 💬 5",
+      "desc": "The AI world is full of old infrastructure with stochastic organs.   That sentence probably explains...",
+      "source": "dev",
+      "tag": "ai,  programming",
+      "url": "https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904"
+    },
+    {
+      "title": "Want to work with me? We're hiring a Community Program Manager at DEV!",
+      "hot": "❤️ 14 💬 1",
+      "desc": "Hey friends 👋  As the title suggests, we are hiring!   If you've been with us for a little while, I'm...",
+      "source": "dev",
+      "tag": "career,  meta",
+      "url": "https://dev.to/devteam/want-to-work-with-me-were-hiring-a-community-program-manager-at-dev-3fol"
+    },
+    {
       "title": "Every tool seems to have a coding agent horned in these days..... I don't think that makes sense.",
-      "hot": "❤️ 5 💬 1",
+      "hot": "❤️ 17 💬 4",
       "desc": "A post by Ben Halpern",
       "source": "dev",
       "tag": "agents,  ai",
@@ -18,11 +42,19 @@
     },
     {
       "title": "After 7 Next.js 16 Caching Bugs, I Stopped Guessing and Built a System",
-      "hot": "❤️ 17 💬 11",
+      "hot": "❤️ 20 💬 11",
       "desc": "There's a specific feeling you get after your third production caching incident.  It's not panic....",
       "source": "dev",
       "tag": "nextjs,  typescript",
       "url": "https://dev.to/shubhradev/after-7-nextjs-16-caching-bugs-i-stopped-guessing-and-built-a-system-4ijp"
+    },
+    {
+      "title": "Surviving the eviction: How to build interrupt-resilient AI workloads on GKE",
+      "hot": "❤️ 25 💬 1",
+      "desc": "Learn strategies for building interrupt-resilient AI workloads on Google Kubernetes Engine (GKE).",
+      "source": "dev",
+      "tag": "kubernetes,  ai",
+      "url": "https://dev.to/googlecloud/surviving-the-eviction-how-to-build-interrupt-resilient-ai-workloads-on-gke-5581"
     },
     {
       "title": "How we turned the Replay keynote surprise into an open-source embedded playground",
@@ -57,14 +89,6 @@
       "url": "https://dev.to/gde/gubernator-the-kill-ku8s-2g0e"
     },
     {
-      "title": "Surviving the eviction: How to build interrupt-resilient AI workloads on GKE",
-      "hot": "❤️ 10 💬 1",
-      "desc": "Learn strategies for building interrupt-resilient AI workloads on Google Kubernetes Engine (GKE).",
-      "source": "dev",
-      "tag": "kubernetes,  ai",
-      "url": "https://dev.to/googlecloud/surviving-the-eviction-how-to-build-interrupt-resilient-ai-workloads-on-gke-5581"
-    },
-    {
       "title": "I Built an Autonomous AI Agent with Google ADK + Gemini That Spots Trends and Drafts Dev.to Articles for Me",
       "hot": "❤️ 7 💬 1",
       "desc": "Keeping up with trending technical topics and new tools on developer forums can be time-consuming. To...",
@@ -87,14 +111,6 @@
       "source": "dev",
       "tag": "ai,  gemini",
       "url": "https://dev.to/gde/executing-google-apps-script-on-complex-schedules-using-vibe-coding-1i3m"
-    },
-    {
-      "title": "Content Virtualization using the HTML template Element",
-      "hot": "❤️ 6 💬 2",
-      "desc": "When I started this experiment, the core question was simple:   Because content inside...",
-      "source": "dev",
-      "tag": "html,  javascript",
-      "url": "https://dev.to/stuffbreaker/content-virtualization-using-the-html-element-2gn7"
     },
     {
       "title": "31B — Gemma 4 Deployment with NVIDIA L4, MCP, Cloud Run, and Antigravity CLI",
@@ -129,28 +145,12 @@
       "url": "https://dev.to/gde/geminiagent-google-managed-agents-api-4e43"
     },
     {
-      "title": "Send your first AI message in one API call",
-      "hot": "❤️ 21 💬 9",
-      "desc": "Most AI tutorials start with a setup checklist. Pick a model provider. Create an account. Wire up a...",
-      "source": "dev",
-      "tag": "ai,  api",
-      "url": "https://dev.to/backboardio/send-your-first-ai-message-in-one-api-call-4179"
-    },
-    {
       "title": "Stop writing prompts to classify text: make evaluation declarative",
       "hot": "❤️ 0 💬 0",
       "desc": "I've built the same thing more than once: a step that reads an inbound message — a lead form, a...",
       "source": "dev",
       "tag": "ai,  llm",
       "url": "https://dev.to/ayoolasolomon/stop-writing-prompts-to-classify-text-make-evaluation-declarative-5555"
-    },
-    {
-      "title": "Spec-Driven Development with OpenSpec",
-      "hot": "❤️ 0 💬 1",
-      "desc": "I'm one to stare at the screen blankly, not knowing where to start, or get distracted mid-flow by a...",
-      "source": "dev",
-      "tag": "ai,  sdd",
-      "url": "https://dev.to/mousius/spec-driven-development-with-openspec-1fmb"
     },
     {
       "title": "Debloating The AI-Grown Codebase",
@@ -161,5 +161,5 @@
       "url": "https://dev.to/maximsaplin/debloating-the-ai-grown-codebase-2om"
     }
   ],
-  "updatedAt": "2026-06-03T19:02:42.736Z"
+  "updatedAt": "2026-06-03T22:07:20.582Z"
 }
