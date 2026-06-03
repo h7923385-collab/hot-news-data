@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 31 💬 17",
+      "hot": "❤️ 39 💬 22",
       "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
       "source": "dev",
       "tag": "top7,  discuss",
@@ -10,11 +10,59 @@
     },
     {
       "title": "Learning Lessons from Gaming",
-      "hot": "❤️ 26 💬 3",
+      "hot": "❤️ 28 💬 4",
       "desc": "I don't identify as a gamer. I occasionally participate in board games or an amateur football match,...",
       "source": "dev",
       "tag": "productivity,  learning",
       "url": "https://dev.to/ingosteinke/learning-lessons-from-gaming-1jgm"
+    },
+    {
+      "title": "After 7 Next.js 16 Caching Bugs, I Stopped Guessing and Built a System",
+      "hot": "❤️ 13 💬 8",
+      "desc": "There's a specific feeling you get after your third production caching incident.  It's not panic....",
+      "source": "dev",
+      "tag": "nextjs,  typescript",
+      "url": "https://dev.to/shubhradev/after-7-nextjs-16-caching-bugs-i-stopped-guessing-and-built-a-system-4ijp"
+    },
+    {
+      "title": "Every tool seems to have a coding agent horned in these days..... I don't think that makes sense.",
+      "hot": "❤️ 4 💬 0",
+      "desc": "A post by Ben Halpern",
+      "source": "dev",
+      "tag": "agents,  ai",
+      "url": "https://dev.to/ben/every-tool-seems-to-have-a-coding-agent-horned-in-these-days-i-dont-think-that-makes-sense-3db"
+    },
+    {
+      "title": "Executing Google Apps Script on Complex Schedules using Vibe Coding",
+      "hot": "❤️ 7 💬 1",
+      "desc": "Abstract   Configuring complex time-driven triggers in Google Apps Script—such as...",
+      "source": "dev",
+      "tag": "ai,  gemini",
+      "url": "https://dev.to/gde/executing-google-apps-script-on-complex-schedules-using-vibe-coding-1i3m"
+    },
+    {
+      "title": "Sovereign Synapse: The Context-Cleaner",
+      "hot": "❤️ 6 💬 14",
+      "desc": "(Curation is Sovereignty)           Sovereign Synapse Series | Post 2   AI is polite by design. It...",
+      "source": "dev",
+      "tag": "python,  cryptocurrency",
+      "url": "https://dev.to/kenwalger/sovereign-synapse-the-context-cleaner-2iac"
+    },
+    {
+      "title": "What I'm building, and why",
+      "hot": "❤️ 0 💬 0",
+      "desc": "Two OSS dev tools shipped this month — tracelane (self-contained test-failure replays) and peek (your browser, exposed t",
+      "source": "dev",
+      "tag": "opensource,  testing",
+      "url": "https://dev.to/harish_kumar/what-im-building-and-why-4o3n"
+    },
+    {
+      "title": "Malicious npm Packages With Valid SLSA Provenance: Inside the TanStack Attack",
+      "hot": "❤️ 0 💬 0",
+      "desc": "The TanStack packages were malicious. Their provenance was valid. Both are true.  On 11 May 2026,...",
+      "source": "dev",
+      "tag": "npm,  security",
+      "url": "https://dev.to/olivrg/malicious-npm-packages-with-valid-slsa-provenance-inside-the-tanstack-attack-2gi9"
     },
     {
       "title": "Gubernator [the kill ku8s]",
@@ -25,24 +73,8 @@
       "url": "https://dev.to/gde/gubernator-the-kill-ku8s-2g0e"
     },
     {
-      "title": "I Used My Last 7% of Copilot Tokens to Bring a 2014 WinForms Game Back to Life",
-      "hot": "❤️ 18 💬 8",
-      "desc": "This is a submission for the GitHub Finish-Up-A-Thon Challenge  Originally, I didn't plan to join...",
-      "source": "dev",
-      "tag": "devchallenge,  githubchallenge",
-      "url": "https://dev.to/gramli/i-used-my-last-7-of-copilot-tokens-to-bring-a-2014-winforms-game-back-to-life-30mo"
-    },
-    {
-      "title": "Sovereign Synapse: The Context-Cleaner",
-      "hot": "❤️ 4 💬 10",
-      "desc": "(Curation is Sovereignty)           Sovereign Synapse Series | Post 2   AI is polite by design. It...",
-      "source": "dev",
-      "tag": "python,  cryptocurrency",
-      "url": "https://dev.to/kenwalger/sovereign-synapse-the-context-cleaner-2iac"
-    },
-    {
       "title": "How we turned the Replay keynote surprise into an open-source embedded playground",
-      "hot": "❤️ 8 💬 2",
+      "hot": "❤️ 9 💬 2",
       "desc": "We handed out 2,000 tiny hackable computers at Replay. Now the whole ecosystem is open source. Here's the story of how w",
       "source": "dev",
       "tag": "temporal,  codesamples",
@@ -58,7 +90,7 @@
     },
     {
       "title": "Surviving the eviction: How to build interrupt-resilient AI workloads on GKE",
-      "hot": "❤️ 9 💬 1",
+      "hot": "❤️ 10 💬 1",
       "desc": "Learn strategies for building interrupt-resilient AI workloads on Google Kubernetes Engine (GKE).",
       "source": "dev",
       "tag": "kubernetes,  ai",
@@ -97,6 +129,22 @@
       "url": "https://dev.to/_mh/typescript-monorepo-magic-organize-build-and-ship-multi-package-apps-4cgf"
     },
     {
+      "title": "[Gemini][Agent] Google Managed Agents API",
+      "hot": "❤️ 8 💬 1",
+      "desc": "(Image Source: Google Cloud Docs - Managed Agents on Agent Platform)           Preamble: The era of...",
+      "source": "dev",
+      "tag": "agents,  api",
+      "url": "https://dev.to/gde/geminiagent-google-managed-agents-api-4e43"
+    },
+    {
+      "title": "Stop writing prompts to classify text: make evaluation declarative",
+      "hot": "❤️ 0 💬 0",
+      "desc": "I've built the same thing more than once: a step that reads an inbound message — a lead form, a...",
+      "source": "dev",
+      "tag": "ai,  llm",
+      "url": "https://dev.to/ayoolasolomon/stop-writing-prompts-to-classify-text-make-evaluation-declarative-5555"
+    },
+    {
       "title": "Send your first AI message in one API call",
       "hot": "❤️ 21 💬 9",
       "desc": "Most AI tutorials start with a setup checklist. Pick a model provider. Create an account. Wire up a...",
@@ -111,55 +159,7 @@
       "source": "dev",
       "tag": "ai,  sdd",
       "url": "https://dev.to/mousius/spec-driven-development-with-openspec-1fmb"
-    },
-    {
-      "title": "Making HTML Artifacts Collaborative for AI Workflows",
-      "hot": "❤️ 1 💬 3",
-      "desc": "Recently, there has been a lot of discussion around a simple question:  Should AI artifacts default...",
-      "source": "dev",
-      "tag": "ai,  discuss",
-      "url": "https://dev.to/bharathnayakt/making-html-artifacts-collaborative-for-ai-workflows-3f20"
-    },
-    {
-      "title": "Strategies for running AI workloads on GKE without committed quota",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Learn different strategies to use hard-to-get hardware accelerators with Google Kubernetes Engine (GKE).",
-      "source": "dev",
-      "tag": "kubernetes,  ai",
-      "url": "https://dev.to/googlecloud/strategies-for-running-ai-workloads-on-gke-without-committed-quota-484l"
-    },
-    {
-      "title": "Debloating The AI-Grown Codebase",
-      "hot": "❤️ 22 💬 7",
-      "desc": "The use of AI Agents creates a distinctive smell... One can tell the GH Repo owner was high on...",
-      "source": "dev",
-      "tag": "ai,  programming",
-      "url": "https://dev.to/maximsaplin/debloating-the-ai-grown-codebase-2om"
-    },
-    {
-      "title": "What are your goals for the week? #181",
-      "hot": "❤️ 16 💬 11",
-      "desc": "When this posts I should be at Ren faire or on the way to faire to break down the tent. I haven't had...",
-      "source": "dev",
-      "tag": "devjournal,  discuss",
-      "url": "https://dev.to/jarvisscript/what-are-your-goals-for-the-week-181-1l58"
-    },
-    {
-      "title": "🦄 Modernizing Wild Rydes with modern technologies",
-      "hot": "❤️ 0 💬 0",
-      "desc": "How I rebuilt the classic AWS Wild Rydes serverless app with Terraform, GitHub Actions, S3 + CloudFront, OIDC, and a mod",
-      "source": "dev",
-      "tag": "aws,  terraform",
-      "url": "https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p"
-    },
-    {
-      "title": "The Software Developer's Guide to AEO",
-      "hot": "❤️ 0 💬 0",
-      "desc": "When I was writing code full-time five years ago, I Googled error messages, opened five tabs, and...",
-      "source": "dev",
-      "tag": "ai,  contentwriting",
-      "url": "https://dev.to/karllhughes/the-software-developers-guide-to-aeo-1h5h"
     }
   ],
-  "updatedAt": "2026-06-03T10:14:17.183Z"
+  "updatedAt": "2026-06-03T15:09:49.375Z"
 }

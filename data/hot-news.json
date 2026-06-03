@@ -1,169 +1,379 @@
 {
-  "updatedAt": "2026-06-03T10:14:17.183Z",
+  "updatedAt": "2026-06-03T15:09:49.375Z",
   "source": "live",
+  "dev": [
+    {
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "hot": "❤️ 39 💬 22",
+      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+      "source": "dev",
+      "tag": "top7,  discuss",
+      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-62k"
+    },
+    {
+      "title": "Learning Lessons from Gaming",
+      "hot": "❤️ 28 💬 4",
+      "desc": "I don't identify as a gamer. I occasionally participate in board games or an amateur football match,...",
+      "source": "dev",
+      "tag": "productivity,  learning",
+      "url": "https://dev.to/ingosteinke/learning-lessons-from-gaming-1jgm"
+    },
+    {
+      "title": "After 7 Next.js 16 Caching Bugs, I Stopped Guessing and Built a System",
+      "hot": "❤️ 13 💬 8",
+      "desc": "There's a specific feeling you get after your third production caching incident.  It's not panic....",
+      "source": "dev",
+      "tag": "nextjs,  typescript",
+      "url": "https://dev.to/shubhradev/after-7-nextjs-16-caching-bugs-i-stopped-guessing-and-built-a-system-4ijp"
+    },
+    {
+      "title": "Every tool seems to have a coding agent horned in these days..... I don't think that makes sense.",
+      "hot": "❤️ 4 💬 0",
+      "desc": "A post by Ben Halpern",
+      "source": "dev",
+      "tag": "agents,  ai",
+      "url": "https://dev.to/ben/every-tool-seems-to-have-a-coding-agent-horned-in-these-days-i-dont-think-that-makes-sense-3db"
+    },
+    {
+      "title": "Executing Google Apps Script on Complex Schedules using Vibe Coding",
+      "hot": "❤️ 7 💬 1",
+      "desc": "Abstract   Configuring complex time-driven triggers in Google Apps Script—such as...",
+      "source": "dev",
+      "tag": "ai,  gemini",
+      "url": "https://dev.to/gde/executing-google-apps-script-on-complex-schedules-using-vibe-coding-1i3m"
+    },
+    {
+      "title": "Sovereign Synapse: The Context-Cleaner",
+      "hot": "❤️ 6 💬 14",
+      "desc": "(Curation is Sovereignty)           Sovereign Synapse Series | Post 2   AI is polite by design. It...",
+      "source": "dev",
+      "tag": "python,  cryptocurrency",
+      "url": "https://dev.to/kenwalger/sovereign-synapse-the-context-cleaner-2iac"
+    },
+    {
+      "title": "What I'm building, and why",
+      "hot": "❤️ 0 💬 0",
+      "desc": "Two OSS dev tools shipped this month — tracelane (self-contained test-failure replays) and peek (your browser, exposed t",
+      "source": "dev",
+      "tag": "opensource,  testing",
+      "url": "https://dev.to/harish_kumar/what-im-building-and-why-4o3n"
+    },
+    {
+      "title": "Malicious npm Packages With Valid SLSA Provenance: Inside the TanStack Attack",
+      "hot": "❤️ 0 💬 0",
+      "desc": "The TanStack packages were malicious. Their provenance was valid. Both are true.  On 11 May 2026,...",
+      "source": "dev",
+      "tag": "npm,  security",
+      "url": "https://dev.to/olivrg/malicious-npm-packages-with-valid-slsa-provenance-inside-the-tanstack-attack-2gi9"
+    },
+    {
+      "title": "Gubernator [the kill ku8s]",
+      "hot": "❤️ 10 💬 1",
+      "desc": "Why I built an alternative to Kubernetes overkill.  Let’s talk about infrastructure...",
+      "source": "dev",
+      "tag": "architecture,  infrastructure",
+      "url": "https://dev.to/gde/gubernator-the-kill-ku8s-2g0e"
+    },
+    {
+      "title": "How we turned the Replay keynote surprise into an open-source embedded playground",
+      "hot": "❤️ 9 💬 2",
+      "desc": "We handed out 2,000 tiny hackable computers at Replay. Now the whole ecosystem is open source. Here's the story of how w",
+      "source": "dev",
+      "tag": "temporal,  codesamples",
+      "url": "https://dev.to/temporalio/how-we-turned-the-replay-keynote-surprise-into-an-open-source-embedded-playground-49hm"
+    },
+    {
+      "title": "I Built an Autonomous AI Agent with Google ADK + Gemini That Spots Trends and Drafts Dev.to Articles for Me",
+      "hot": "❤️ 7 💬 1",
+      "desc": "Keeping up with trending technical topics and new tools on developer forums can be time-consuming. To...",
+      "source": "dev",
+      "tag": "agentdevelopmentkit,  googlecloud",
+      "url": "https://dev.to/gde/i-built-an-autonomous-ai-agent-with-google-adk-gemini-20-flash-that-spots-trends-and-drafts-60"
+    },
+    {
+      "title": "Surviving the eviction: How to build interrupt-resilient AI workloads on GKE",
+      "hot": "❤️ 10 💬 1",
+      "desc": "Learn strategies for building interrupt-resilient AI workloads on Google Kubernetes Engine (GKE).",
+      "source": "dev",
+      "tag": "kubernetes,  ai",
+      "url": "https://dev.to/googlecloud/surviving-the-eviction-how-to-build-interrupt-resilient-ai-workloads-on-gke-5581"
+    },
+    {
+      "title": "Content Virtualization using the HTML template Element",
+      "hot": "❤️ 6 💬 2",
+      "desc": "When I started this experiment, the core question was simple:   Because content inside...",
+      "source": "dev",
+      "tag": "html,  javascript",
+      "url": "https://dev.to/stuffbreaker/content-virtualization-using-the-html-element-2gn7"
+    },
+    {
+      "title": "31B — Gemma 4 Deployment with NVIDIA L4, MCP, Cloud Run, and Antigravity CLI",
+      "hot": "❤️ 5 💬 0",
+      "desc": "This article provides a step by step deployment review for Gemma 4 to a Google Cloud Run hosted GPU...",
+      "source": "dev",
+      "tag": "mcps,  antigravitycli",
+      "url": "https://dev.to/gde/31b-gemma-4-deployment-with-nvidia-l4-mcp-cloud-run-and-antigravity-cli-2334"
+    },
+    {
+      "title": "26B Gemma 4 Deployment with NVIDIA L4, MCP, Cloud Run, and Antigravity CLI",
+      "hot": "❤️ 5 💬 0",
+      "desc": "This article provides a step by step deployment guide for Gemma 4 to a Google Cloud Run hosted GPU...",
+      "source": "dev",
+      "tag": "antigravitycli,  mcps",
+      "url": "https://dev.to/gde/26b-gemma-4-deployment-with-nvidia-l4-mcp-cloud-run-and-antigravity-cli-194p"
+    },
+    {
+      "title": "TypeScript Monorepo Magic: Organize, Build, and Ship Multi-Package Apps",
+      "hot": "❤️ 0 💬 1",
+      "desc": "What is a Monorepo?   A monorepo is a single Git repository that contains multiple distinct...",
+      "source": "dev",
+      "tag": "programming,  tutorial",
+      "url": "https://dev.to/_mh/typescript-monorepo-magic-organize-build-and-ship-multi-package-apps-4cgf"
+    },
+    {
+      "title": "[Gemini][Agent] Google Managed Agents API",
+      "hot": "❤️ 8 💬 1",
+      "desc": "(Image Source: Google Cloud Docs - Managed Agents on Agent Platform)           Preamble: The era of...",
+      "source": "dev",
+      "tag": "agents,  api",
+      "url": "https://dev.to/gde/geminiagent-google-managed-agents-api-4e43"
+    },
+    {
+      "title": "Stop writing prompts to classify text: make evaluation declarative",
+      "hot": "❤️ 0 💬 0",
+      "desc": "I've built the same thing more than once: a step that reads an inbound message — a lead form, a...",
+      "source": "dev",
+      "tag": "ai,  llm",
+      "url": "https://dev.to/ayoolasolomon/stop-writing-prompts-to-classify-text-make-evaluation-declarative-5555"
+    },
+    {
+      "title": "Send your first AI message in one API call",
+      "hot": "❤️ 21 💬 9",
+      "desc": "Most AI tutorials start with a setup checklist. Pick a model provider. Create an account. Wire up a...",
+      "source": "dev",
+      "tag": "ai,  api",
+      "url": "https://dev.to/backboardio/send-your-first-ai-message-in-one-api-call-4179"
+    },
+    {
+      "title": "Spec-Driven Development with OpenSpec",
+      "hot": "❤️ 0 💬 1",
+      "desc": "I'm one to stare at the screen blankly, not knowing where to start, or get distracted mid-flow by a...",
+      "source": "dev",
+      "tag": "ai,  sdd",
+      "url": "https://dev.to/mousius/spec-driven-development-with-openspec-1fmb"
+    }
+  ],
   "tech": [
     {
-      "title": "1-Click GitHub Token Stealing via a VSCode Bug",
+      "title": "Hacking your PC using your speaker without ever touching it",
       "hot": "3.0m",
-      "desc": "blog.ammaraskar.com",
+      "desc": "blog.nns.ee",
       "source": "tech",
-      "tag": "⬆️ 414 points",
-      "url": "https://blog.ammaraskar.com/github-token-stealing/"
+      "tag": "⬆️ 361 points",
+      "url": "https://blog.nns.ee/2026/06/03/katana-badusb/"
+    },
+    {
+      "title": "Meta workers can opt out of being tracked at work up to 30 min",
+      "hot": "3.0m",
+      "desc": "bbc.com",
+      "source": "tech",
+      "tag": "⬆️ 258 points",
+      "url": "https://www.bbc.com/news/articles/c93x0k194yno"
+    },
+    {
+      "title": "Every Byte Matters",
+      "hot": "3.0m",
+      "desc": "fzakaria.com",
+      "source": "tech",
+      "tag": "⬆️ 137 points",
+      "url": "https://fzakaria.com/2026/06/01/every-byte-matters"
+    },
+    {
+      "title": "DaVinci Resolve 21",
+      "hot": "3.0m",
+      "desc": "blackmagicdesign.com",
+      "source": "tech",
+      "tag": "⬆️ 27 points",
+      "url": "https://www.blackmagicdesign.com/products/davinciresolve/whatsnew"
+    },
+    {
+      "title": "PlayStation Architecture",
+      "hot": "2.9m",
+      "desc": "copetti.org",
+      "source": "tech",
+      "tag": "⬆️ 121 points",
+      "url": "https://www.copetti.org/writings/consoles/playstation/"
     },
     {
       "title": "Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "handwritten.danieljanus.pl",
       "source": "tech",
-      "tag": "⬆️ 29 points",
+      "tag": "⬆️ 146 points",
       "url": "https://handwritten.danieljanus.pl/2026-06-01-edsger.html"
     },
     {
+      "title": "1-Click GitHub Token Stealing via a VSCode Bug",
+      "hot": "2.9m",
+      "desc": "blog.ammaraskar.com",
+      "source": "tech",
+      "tag": "⬆️ 551 points",
+      "url": "https://blog.ammaraskar.com/github-token-stealing/"
+    },
+    {
+      "title": "Nabokov's pale fire: the lost 'father of all hypertext demos'? (2011)",
+      "hot": "2.9m",
+      "desc": "dl.acm.org",
+      "source": "tech",
+      "tag": "⬆️ 65 points",
+      "url": "https://dl.acm.org/doi/pdf/10.1145/1995966.1996008"
+    },
+    {
+      "title": "I built a ceiling projection mapping of the planes flying over my house",
+      "hot": "2.9m",
+      "desc": "old.reddit.com",
+      "source": "tech",
+      "tag": "⬆️ 62 points",
+      "url": "https://old.reddit.com/r/nextfuckinglevel/comments/1tvmcin/i_live_in_the_take_off_path_of_sfo_and_built_a/"
+    },
+    {
       "title": "Show HN: I reverse-engineered the world maps of Test Drive III (1990 DOS game)",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 97 points",
+      "tag": "⬆️ 164 points",
       "url": "https://github.com/s-macke/Test-Drive-3-Maps"
     },
     {
       "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 313 points",
+      "tag": "⬆️ 393 points",
       "url": "https://github.com/c0dejedi/nbd-vram"
     },
     {
-      "title": "AI outperforms law professors in Stanford Law study",
-      "hot": "2.9m",
-      "desc": "law.stanford.edu",
+      "title": "Piramidal (YC W24) – Software Engineers – NYC Onsite",
+      "hot": "2.8m",
+      "desc": "news.ycombinator.com",
       "source": "tech",
-      "tag": "⬆️ 252 points",
-      "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/"
+      "tag": "⬆️ 1 points",
+      "url": "https://news.ycombinator.com/item?id=48382853"
+    },
+    {
+      "title": "Shopify Is Down",
+      "hot": "2.8m",
+      "desc": "shopifystatus.com",
+      "source": "tech",
+      "tag": "⬆️ 36 points",
+      "url": "https://www.shopifystatus.com"
+    },
+    {
+      "title": "What I've learned about the trombone",
+      "hot": "2.8m",
+      "desc": "bryanhu.com",
+      "source": "tech",
+      "tag": "⬆️ 34 points",
+      "url": "http://bryanhu.com/blog/posts/what-ive-learned-about-the-trombone/"
     },
     {
       "title": "MAI-Code-1-Flash",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "microsoft.ai",
       "source": "tech",
-      "tag": "⬆️ 473 points",
+      "tag": "⬆️ 505 points",
       "url": "https://microsoft.ai/news/introducingmai-code-1-flash/"
     },
     {
+      "title": "Leiden Declaration on Artificial Intelligence and Mathematics",
+      "hot": "2.8m",
+      "desc": "leidendeclaration.ai",
+      "source": "tech",
+      "tag": "⬆️ 78 points",
+      "url": "https://leidendeclaration.ai/"
+    },
+    {
       "title": "The Unreasonable Redundancy of Nature's Protein Folds",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "research.ligo.bio",
       "source": "tech",
-      "tag": "⬆️ 97 points",
+      "tag": "⬆️ 137 points",
       "url": "https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/"
     },
     {
-      "title": "It is an amazing time for programmers",
-      "hot": "2.9m",
-      "desc": "46elks.com",
-      "source": "tech",
-      "tag": "⬆️ 56 points",
-      "url": "https://46elks.com/blog/2026/05/29/an-amazing-time-for-programmers"
-    },
-    {
-      "title": "Microsoft Doubles Down on Controversial Quantum Computing Claims",
-      "hot": "2.9m",
-      "desc": "science.org",
-      "source": "tech",
-      "tag": "⬆️ 31 points",
-      "url": "https://www.science.org/content/article/doubling-down-controversial-claims-microsoft-accelerates-quantum-computing-plans"
-    },
-    {
-      "title": "CT scans of BYD car parts",
-      "hot": "2.9m",
-      "desc": "lumafield.com",
-      "source": "tech",
-      "tag": "⬆️ 385 points",
-      "url": "https://www.lumafield.com/scan-of-the-month/byd"
-    },
-    {
-      "title": "Writing Portable ARM64 Assembly (2023)",
-      "hot": "2.9m",
-      "desc": "ariadne.space",
-      "source": "tech",
-      "tag": "⬆️ 18 points",
-      "url": "https://ariadne.space/2023/04/12/writing-portable-arm-assembly.html"
-    },
-    {
-      "title": "Pluto.jl 1.0 release – reactive notebook for Julia",
-      "hot": "2.8m",
-      "desc": "discourse.julialang.org",
-      "source": "tech",
-      "tag": "⬆️ 135 points",
-      "url": "https://discourse.julialang.org/t/pluto-1-0-release/137296"
-    },
-    {
-      "title": "My thoughts after using Clojure for about a month",
-      "hot": "2.8m",
-      "desc": "acdw.net",
-      "source": "tech",
-      "tag": "⬆️ 220 points",
-      "url": "https://www.acdw.net/clojure/"
-    },
-    {
-      "title": "Capstone – multi-platform, multi-architecture disassembly framework",
-      "hot": "2.8m",
-      "desc": "capstone-engine.org",
-      "source": "tech",
-      "tag": "⬆️ 56 points",
-      "url": "https://www.capstone-engine.org/"
-    },
-    {
-      "title": "Roku LT Operating System open source distribution",
-      "hot": "2.8m",
-      "desc": "blog.roku.com",
-      "source": "tech",
-      "tag": "⬆️ 74 points",
-      "url": "https://blog.roku.com/developer/roku-lt-os"
-    },
-    {
-      "title": "Jonathan Franzen on Talent, Theatre, and His Next Novel",
-      "hot": "2.8m",
-      "desc": "newyorker.com",
-      "source": "tech",
-      "tag": "⬆️ 4 points",
-      "url": "https://www.newyorker.com/books/this-week-in-fiction/jonathan-franzen-06-08-26"
-    },
-    {
-      "title": "DIY Bipedal Robot Used Pneumatic \"Air-Muscles\" Instead of Motors",
-      "hot": "2.8m",
-      "desc": "spectrum.ieee.org",
+      "title": "Thomas Mann: Goethe Heartened by Panama (As Suez for English, or Danube-Rhine)",
+      "hot": "2.7m",
+      "desc": "yalereview.org",
       "source": "tech",
       "tag": "⬆️ 11 points",
-      "url": "https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot"
+      "url": "https://yalereview.org/article/thomas-mann-goethe"
     },
     {
-      "title": "U of T researchers demonstrate AI worm could target any online device",
+      "title": "Show HN: Tired of duct-taping access control into agent prompts. Here's the fix",
       "hot": "2.7m",
-      "desc": "utoronto.ca",
+      "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 38 points",
-      "url": "https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device"
+      "tag": "⬆️ 8 points",
+      "url": "https://github.com/yaodub/cast"
     },
     {
-      "title": "Gmail thinks I'm stupid, so I left",
+      "title": "32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building",
       "hot": "2.7m",
-      "desc": "moddedbear.com",
+      "desc": "tomshardware.com",
       "source": "tech",
-      "tag": "⬆️ 963 points",
-      "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left"
-    },
-    {
-      "title": "HP re-releases classic computer science calculator: The HP-16C",
-      "hot": "2.7m",
-      "desc": "hpcalcs.com",
-      "source": "tech",
-      "tag": "⬆️ 174 points",
-      "url": "https://hpcalcs.com/product/hp-16c-collectors-edition/"
+      "tag": "⬆️ 117 points",
+      "url": "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building"
     }
   ],
   "space": [
+    {
+      "title": "Venturi Space to Build €250M Lunar and Martian Rover Factory in Toulouse",
+      "hot": "6/3",
+      "desc": "Monaco-based space technology company Venturi Space has announced plans to increase its investment in the construction of its new Toulouse facility by",
+      "source": "space",
+      "tag": "European Spaceflight",
+      "url": "https://europeanspaceflight.com/venturi-space-to-build-e250m-lunar-and-martian-rover-factory-in-toulouse/"
+    },
+    {
+      "title": "NASA Drains 66-Million-Gallon Reservoir to Upgrade Critical Water System",
+      "hot": "6/3",
+      "desc": "A powerful but mostly unseen water system at work during rocket engine tests at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, underwent",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/centers-and-facilities/stennis/reservoir-drained-to-upgrade-water-system/"
+    },
+    {
+      "title": "NASA Says Farewell to MAVEN Mars Mission, Hosts Media Call Today",
+      "hot": "6/3",
+      "desc": "The first mission devoted to observing the Martian atmosphere and its evolution, NASA’s MAVEN (Mars Atmosphere and Volatile Evolution), has ended afte",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/news-release/nasa-says-farewell-to-maven-mars-mission-hosts-media-call-today/"
+    },
+    {
+      "title": "Europe is rearming together — except in space",
+      "hot": "6/3",
+      "desc": "\nEurope is rapidly rewriting its security architecture. Faced with Russian aggression, mounting doubts about long-term American commitment and growing",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/europe-is-rearming-together-except-in-space/"
+    },
+    {
+      "title": "Muon Space unveils Starship-class satellite platform for orbital data centers",
+      "hot": "6/3",
+      "desc": "\nMuon Space announced a Starship-class satellite platform June 3 designed from the ground up to meet the demands of the emerging orbital data center m",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/muon-space-unveils-starship-class-satellite-platform-for-orbital-data-centers/"
+    },
+    {
+      "title": "Blue Origin seeks to resume New Glenn launches by year’s end",
+      "hot": "6/3",
+      "desc": "Blue Origin’s CEO says damage to its New Glenn launch pad is not as bad as feared and the rocket could return to flight by the end of the year.\r\nThe p",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/blue-origin-seeks-to-resume-new-glenn-launches-by-years-end/"
+    },
     {
       "title": "How long will it take to rebuild Blue Origin's launch pad? We asked some SpaceX vets.",
       "hot": "6/3",
@@ -235,222 +445,12 @@
       "source": "space",
       "tag": "SpaceNews",
       "url": "https://spacenews.com/nro-nominee-says-commercial-space-ai-are-reshaping-spy-satellite-agency/"
-    },
-    {
-      "title": "NASA Space Roboticist Challenge",
-      "hot": "6/2",
-      "desc": "The Fly Foundational Robots (FFR) mission will launch a robotic arm, with seven degrees of freedom, to low Earth orbit. NASA is opening access to the ",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-space-roboticist-challenge/"
-    },
-    {
-      "title": "Look Up!",
-      "hot": "6/2",
-      "desc": "Astronauts Sophie Adenot of ESA (European Space Agency) and Jack Hathaway of NASA, both Expedition 74 flight engineers, look out a window in the cupol",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/image-article/look-up/"
-    },
-    {
-      "title": "Blue Origin vows to fly its New Glenn rocket \"before the end of this year\"",
-      "hot": "6/2",
-      "desc": "\"The propellant farm, oxygen, liquid hydrogen, and LNG tanks are all in good shape.\"",
-      "source": "space",
-      "tag": "Arstechnica",
-      "url": "https://arstechnica.com/space/2026/06/blue-origin-vows-to-fly-its-new-glenn-rocket-before-the-end-of-this-year/"
-    },
-    {
-      "title": "Global SSA Market to Reach $61B as Governments Prioritize Space Security, Resilience, and Orbital Safety",
-      "hot": "6/2",
-      "desc": "\nParis, France – May 2026 – The 2nd edition of Novaspace’s Space Situational Awareness (SSA) report points to a pivotal decade ahead, with cumulative ",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/global-ssa-market-to-reach-61b-as-governments-prioritize-space-security-resilience-and-orbital-safety/"
-    },
-    {
-      "title": "NASA Testing Wastewater Treatment Facility for Future Moon Base",
-      "hot": "6/2",
-      "desc": "A mobile wastewater treatment system built at NASA’s Kennedy Space Center in Florida that can help prepare for long-duration missions on the Moon and ",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/centers-and-facilities/kennedy/nasa-testing-wastewater-treatment-facility-for-future-moon-base/"
-    },
-    {
-      "title": "Be a Clump Scout and Help Reveal Secrets of Stellar Nurseries",
-      "hot": "6/2",
-      "desc": "Help identify star-forming clumps in galaxy images, and help train machines to do the same.",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/get-involved/citizen-science/help-galaxy-zoo-clump-scout-ii-project/"
-    }
-  ],
-  "dev": [
-    {
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 31 💬 17",
-      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
-      "source": "dev",
-      "tag": "top7,  discuss",
-      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-62k"
-    },
-    {
-      "title": "Learning Lessons from Gaming",
-      "hot": "❤️ 26 💬 3",
-      "desc": "I don't identify as a gamer. I occasionally participate in board games or an amateur football match,...",
-      "source": "dev",
-      "tag": "productivity,  learning",
-      "url": "https://dev.to/ingosteinke/learning-lessons-from-gaming-1jgm"
-    },
-    {
-      "title": "Gubernator [the kill ku8s]",
-      "hot": "❤️ 10 💬 1",
-      "desc": "Why I built an alternative to Kubernetes overkill.  Let’s talk about infrastructure...",
-      "source": "dev",
-      "tag": "architecture,  infrastructure",
-      "url": "https://dev.to/gde/gubernator-the-kill-ku8s-2g0e"
-    },
-    {
-      "title": "I Used My Last 7% of Copilot Tokens to Bring a 2014 WinForms Game Back to Life",
-      "hot": "❤️ 18 💬 8",
-      "desc": "This is a submission for the GitHub Finish-Up-A-Thon Challenge  Originally, I didn't plan to join...",
-      "source": "dev",
-      "tag": "devchallenge,  githubchallenge",
-      "url": "https://dev.to/gramli/i-used-my-last-7-of-copilot-tokens-to-bring-a-2014-winforms-game-back-to-life-30mo"
-    },
-    {
-      "title": "Sovereign Synapse: The Context-Cleaner",
-      "hot": "❤️ 4 💬 10",
-      "desc": "(Curation is Sovereignty)           Sovereign Synapse Series | Post 2   AI is polite by design. It...",
-      "source": "dev",
-      "tag": "python,  cryptocurrency",
-      "url": "https://dev.to/kenwalger/sovereign-synapse-the-context-cleaner-2iac"
-    },
-    {
-      "title": "How we turned the Replay keynote surprise into an open-source embedded playground",
-      "hot": "❤️ 8 💬 2",
-      "desc": "We handed out 2,000 tiny hackable computers at Replay. Now the whole ecosystem is open source. Here's the story of how w",
-      "source": "dev",
-      "tag": "temporal,  codesamples",
-      "url": "https://dev.to/temporalio/how-we-turned-the-replay-keynote-surprise-into-an-open-source-embedded-playground-49hm"
-    },
-    {
-      "title": "I Built an Autonomous AI Agent with Google ADK + Gemini That Spots Trends and Drafts Dev.to Articles for Me",
-      "hot": "❤️ 7 💬 1",
-      "desc": "Keeping up with trending technical topics and new tools on developer forums can be time-consuming. To...",
-      "source": "dev",
-      "tag": "agentdevelopmentkit,  googlecloud",
-      "url": "https://dev.to/gde/i-built-an-autonomous-ai-agent-with-google-adk-gemini-20-flash-that-spots-trends-and-drafts-60"
-    },
-    {
-      "title": "Surviving the eviction: How to build interrupt-resilient AI workloads on GKE",
-      "hot": "❤️ 9 💬 1",
-      "desc": "Learn strategies for building interrupt-resilient AI workloads on Google Kubernetes Engine (GKE).",
-      "source": "dev",
-      "tag": "kubernetes,  ai",
-      "url": "https://dev.to/googlecloud/surviving-the-eviction-how-to-build-interrupt-resilient-ai-workloads-on-gke-5581"
-    },
-    {
-      "title": "Content Virtualization using the HTML template Element",
-      "hot": "❤️ 6 💬 2",
-      "desc": "When I started this experiment, the core question was simple:   Because content inside...",
-      "source": "dev",
-      "tag": "html,  javascript",
-      "url": "https://dev.to/stuffbreaker/content-virtualization-using-the-html-element-2gn7"
-    },
-    {
-      "title": "31B — Gemma 4 Deployment with NVIDIA L4, MCP, Cloud Run, and Antigravity CLI",
-      "hot": "❤️ 5 💬 0",
-      "desc": "This article provides a step by step deployment review for Gemma 4 to a Google Cloud Run hosted GPU...",
-      "source": "dev",
-      "tag": "mcps,  antigravitycli",
-      "url": "https://dev.to/gde/31b-gemma-4-deployment-with-nvidia-l4-mcp-cloud-run-and-antigravity-cli-2334"
-    },
-    {
-      "title": "26B Gemma 4 Deployment with NVIDIA L4, MCP, Cloud Run, and Antigravity CLI",
-      "hot": "❤️ 5 💬 0",
-      "desc": "This article provides a step by step deployment guide for Gemma 4 to a Google Cloud Run hosted GPU...",
-      "source": "dev",
-      "tag": "antigravitycli,  mcps",
-      "url": "https://dev.to/gde/26b-gemma-4-deployment-with-nvidia-l4-mcp-cloud-run-and-antigravity-cli-194p"
-    },
-    {
-      "title": "TypeScript Monorepo Magic: Organize, Build, and Ship Multi-Package Apps",
-      "hot": "❤️ 0 💬 1",
-      "desc": "What is a Monorepo?   A monorepo is a single Git repository that contains multiple distinct...",
-      "source": "dev",
-      "tag": "programming,  tutorial",
-      "url": "https://dev.to/_mh/typescript-monorepo-magic-organize-build-and-ship-multi-package-apps-4cgf"
-    },
-    {
-      "title": "Send your first AI message in one API call",
-      "hot": "❤️ 21 💬 9",
-      "desc": "Most AI tutorials start with a setup checklist. Pick a model provider. Create an account. Wire up a...",
-      "source": "dev",
-      "tag": "ai,  api",
-      "url": "https://dev.to/backboardio/send-your-first-ai-message-in-one-api-call-4179"
-    },
-    {
-      "title": "Spec-Driven Development with OpenSpec",
-      "hot": "❤️ 0 💬 1",
-      "desc": "I'm one to stare at the screen blankly, not knowing where to start, or get distracted mid-flow by a...",
-      "source": "dev",
-      "tag": "ai,  sdd",
-      "url": "https://dev.to/mousius/spec-driven-development-with-openspec-1fmb"
-    },
-    {
-      "title": "Making HTML Artifacts Collaborative for AI Workflows",
-      "hot": "❤️ 1 💬 3",
-      "desc": "Recently, there has been a lot of discussion around a simple question:  Should AI artifacts default...",
-      "source": "dev",
-      "tag": "ai,  discuss",
-      "url": "https://dev.to/bharathnayakt/making-html-artifacts-collaborative-for-ai-workflows-3f20"
-    },
-    {
-      "title": "Strategies for running AI workloads on GKE without committed quota",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Learn different strategies to use hard-to-get hardware accelerators with Google Kubernetes Engine (GKE).",
-      "source": "dev",
-      "tag": "kubernetes,  ai",
-      "url": "https://dev.to/googlecloud/strategies-for-running-ai-workloads-on-gke-without-committed-quota-484l"
-    },
-    {
-      "title": "Debloating The AI-Grown Codebase",
-      "hot": "❤️ 22 💬 7",
-      "desc": "The use of AI Agents creates a distinctive smell... One can tell the GH Repo owner was high on...",
-      "source": "dev",
-      "tag": "ai,  programming",
-      "url": "https://dev.to/maximsaplin/debloating-the-ai-grown-codebase-2om"
-    },
-    {
-      "title": "What are your goals for the week? #181",
-      "hot": "❤️ 16 💬 11",
-      "desc": "When this posts I should be at Ren faire or on the way to faire to break down the tent. I haven't had...",
-      "source": "dev",
-      "tag": "devjournal,  discuss",
-      "url": "https://dev.to/jarvisscript/what-are-your-goals-for-the-week-181-1l58"
-    },
-    {
-      "title": "🦄 Modernizing Wild Rydes with modern technologies",
-      "hot": "❤️ 0 💬 0",
-      "desc": "How I rebuilt the classic AWS Wild Rydes serverless app with Terraform, GitHub Actions, S3 + CloudFront, OIDC, and a mod",
-      "source": "dev",
-      "tag": "aws,  terraform",
-      "url": "https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p"
-    },
-    {
-      "title": "The Software Developer's Guide to AEO",
-      "hot": "❤️ 0 💬 0",
-      "desc": "When I was writing code full-time five years ago, I Googled error messages, opened five tabs, and...",
-      "source": "dev",
-      "tag": "ai,  contentwriting",
-      "url": "https://dev.to/karllhughes/the-software-developers-guide-to-aeo-1h5h"
     }
   ],
   "github": [
     {
       "title": "pewdiepie-archdaemon/odysseus: Self-hosted AI workspace. ",
-      "hot": "⭐ 37.3k",
+      "hot": "⭐ 39.9k",
       "desc": "Self-hosted AI workspace. ",
       "source": "github",
       "tag": "JavaScript",
@@ -465,20 +465,20 @@
       "url": "https://github.com/op7418/guizang-social-card-skill"
     },
     {
-      "title": "helloianneo/ian-xiaohei-illustrations: 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 ",
-      "hot": "⭐ 1.8k",
-      "desc": "中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/helloianneo/ian-xiaohei-illustrations"
-    },
-    {
       "title": "Gloridust/WechatOnCloud: 云微WOC，云微信，自由连接",
-      "hot": "⭐ 1.8k",
+      "hot": "⭐ 1.9k",
       "desc": "云微WOC，云微信，自由连接",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/Gloridust/WechatOnCloud"
+    },
+    {
+      "title": "helloianneo/ian-xiaohei-illustrations: 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 ",
+      "hot": "⭐ 1.9k",
+      "desc": "中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/helloianneo/ian-xiaohei-illustrations"
     },
     {
       "title": "GordenSun/GordenPPTSkill: AI-friendly PPT builder skill: 17 hand-polished Chines",
@@ -498,7 +498,7 @@
     },
     {
       "title": "asz798838958/aBaiAutoplus: 多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
-      "hot": "⭐ 1.2k",
+      "hot": "⭐ 1.3k",
       "desc": "多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
       "source": "github",
       "tag": "Python",
@@ -506,7 +506,7 @@
     },
     {
       "title": "b-nnett/goose: Goose Swift proof-of-concept README",
-      "hot": "⭐ 1.1k",
+      "hot": "⭐ 1.3k",
       "desc": "Goose Swift proof-of-concept README",
       "source": "github",
       "tag": "Rust",
@@ -514,7 +514,7 @@
     },
     {
       "title": "MatinSenPai/SenPaiScanner: A light-weight scanner for Cloudflare IPs, written in",
-      "hot": "⭐ 919",
+      "hot": "⭐ 938",
       "desc": "A light-weight scanner for Cloudflare IPs, written in Golang",
       "source": "github",
       "tag": "Go",
@@ -522,7 +522,7 @@
     },
     {
       "title": "Michaelliv/pi-dynamic-workflows: ",
-      "hot": "⭐ 752",
+      "hot": "⭐ 757",
       "desc": "Michaelliv/pi-dynamic-workflows",
       "source": "github",
       "tag": "TypeScript",
@@ -530,43 +530,43 @@
     },
     {
       "title": "withkynam/vibecode-pro-max-kit: Your AI forgets. This remembers. Spec-driven cod",
-      "hot": "⭐ 739",
+      "hot": "⭐ 746",
       "desc": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12",
       "source": "github",
       "tag": "JavaScript",
       "url": "https://github.com/withkynam/vibecode-pro-max-kit"
     },
     {
-      "title": "2aronS/Duel-Agents: CLI, SDK, and IDE plugins for Duel Agents",
-      "hot": "⭐ 699",
-      "desc": "CLI, SDK, and IDE plugins for Duel Agents",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/2aronS/Duel-Agents"
-    },
-    {
       "title": "ClaudioDrews/memory-os: A 7-layer memory operating system for Hermes Agent — per",
-      "hot": "⭐ 693",
+      "hot": "⭐ 716",
       "desc": "A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical c",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/ClaudioDrews/memory-os"
     },
     {
+      "title": "2aronS/Duel-Agents: CLI, SDK, and IDE plugins for Duel Agents",
+      "hot": "⭐ 695",
+      "desc": "CLI, SDK, and IDE plugins for Duel Agents",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/2aronS/Duel-Agents"
+    },
+    {
       "title": "liyue-aigc/female-portrait-director: A modular Codex Skill for directing and exp",
-      "hot": "⭐ 494",
+      "hot": "⭐ 499",
       "desc": "A modular Codex Skill for directing and expanding detailed AI female portrait prompts.",
       "source": "github",
       "tag": "GitHub",
       "url": "https://github.com/liyue-aigc/female-portrait-director"
     },
     {
-      "title": "anomalyco/rift: ",
-      "hot": "⭐ 473",
-      "desc": "anomalyco/rift",
+      "title": "qiuqiubuchongle-cloud/chokepoint-atlas: ",
+      "hot": "⭐ 491",
+      "desc": "qiuqiubuchongle-cloud/chokepoint-atlas",
       "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/anomalyco/rift"
+      "tag": "Python",
+      "url": "https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas"
     }
   ]
 }
