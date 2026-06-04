@@ -1,7 +1,201 @@
 {
-  "updatedAt": "2026-06-04T00:08:52.666Z",
+  "updatedAt": "2026-06-04T05:15:22.467Z",
   "source": "live",
+  "tech": [
+    {
+      "title": "Elixir v1.20: Now a gradually typed language",
+      "hot": "3.0m",
+      "desc": "elixir-lang.org",
+      "source": "tech",
+      "tag": "⬆️ 650 points",
+      "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/"
+    },
+    {
+      "title": "\"They're made out of weights\"",
+      "hot": "3.0m",
+      "desc": "maxleiter.com",
+      "source": "tech",
+      "tag": "⬆️ 195 points",
+      "url": "https://maxleiter.com/blog/weights"
+    },
+    {
+      "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+      "hot": "3.0m",
+      "desc": "dailycal.org",
+      "source": "tech",
+      "tag": "⬆️ 111 points",
+      "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html"
+    },
+    {
+      "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
+      "hot": "3.0m",
+      "desc": "kasra.blog",
+      "source": "tech",
+      "tag": "⬆️ 116 points",
+      "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/"
+    },
+    {
+      "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
+      "hot": "2.9m",
+      "desc": "blog.google",
+      "source": "tech",
+      "tag": "⬆️ 765 points",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/"
+    },
+    {
+      "title": "The ways we contain Claude across products",
+      "hot": "2.9m",
+      "desc": "anthropic.com",
+      "source": "tech",
+      "tag": "⬆️ 80 points",
+      "url": "https://www.anthropic.com/engineering/how-we-contain-claude"
+    },
+    {
+      "title": "Artificial intelligence is not conscious – Ted Chiang",
+      "hot": "2.9m",
+      "desc": "theatlantic.com",
+      "source": "tech",
+      "tag": "⬆️ 327 points",
+      "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/"
+    },
+    {
+      "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
+      "hot": "2.9m",
+      "desc": "burntsushi.net",
+      "source": "tech",
+      "tag": "⬆️ 547 points",
+      "url": "https://burntsushi.net/encephalitis/"
+    },
+    {
+      "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
+      "hot": "2.9m",
+      "desc": "simonwillison.net",
+      "source": "tech",
+      "tag": "⬆️ 422 points",
+      "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/"
+    },
+    {
+      "title": "DaVinci Resolve 21",
+      "hot": "2.9m",
+      "desc": "blackmagicdesign.com",
+      "source": "tech",
+      "tag": "⬆️ 430 points",
+      "url": "https://www.blackmagicdesign.com/products/davinciresolve/whatsnew"
+    },
+    {
+      "title": "Meteor Explodes over Massachusetts",
+      "hot": "2.9m",
+      "desc": "nbcboston.com",
+      "source": "tech",
+      "tag": "⬆️ 80 points",
+      "url": "https://www.nbcboston.com/news/local/meteor-explodes-over-massachusetts-what-we-know-and-where-it-landed/3957663/"
+    },
+    {
+      "title": "CP/M-86 & MS-DOS Cross Development Environment",
+      "hot": "2.8m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 19 points",
+      "url": "https://github.com/tsupplis/cpm86-crossdev"
+    },
+    {
+      "title": "ESP32-S31",
+      "hot": "2.8m",
+      "desc": "espressif.com",
+      "source": "tech",
+      "tag": "⬆️ 274 points",
+      "url": "https://www.espressif.com/en/products/socs/esp32-s31"
+    },
+    {
+      "title": "A Man Who Reads Books for a Living",
+      "hot": "2.8m",
+      "desc": "lithub.com",
+      "source": "tech",
+      "tag": "⬆️ 92 points",
+      "url": "https://lithub.com/the-man-who-reads-books-for-a-living-one-every-two-days/"
+    },
+    {
+      "title": "U.S. to dismantle system tracking Atlantic currents that are at risk of collapse",
+      "hot": "2.8m",
+      "desc": "e360.yale.edu",
+      "source": "tech",
+      "tag": "⬆️ 350 points",
+      "url": "https://e360.yale.edu/digest/trump-ooi-amoc"
+    },
+    {
+      "title": "Gooey: A GPU-accelerated UI framework for Zig",
+      "hot": "2.8m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 150 points",
+      "url": "https://github.com/duanebester/gooey"
+    },
+    {
+      "title": "A Post-Quantum Future for Let's Encrypt",
+      "hot": "2.8m",
+      "desc": "letsencrypt.org",
+      "source": "tech",
+      "tag": "⬆️ 239 points",
+      "url": "https://letsencrypt.org/2026/06/03/pq-certs"
+    },
+    {
+      "title": "Ableton Extensions SDK",
+      "hot": "2.7m",
+      "desc": "ableton.com",
+      "source": "tech",
+      "tag": "⬆️ 90 points",
+      "url": "https://www.ableton.com/en/live/extensions/"
+    },
+    {
+      "title": "DNS Is for People – Not for IT Infrastructure",
+      "hot": "2.7m",
+      "desc": "louwrentius.com",
+      "source": "tech",
+      "tag": "⬆️ 24 points",
+      "url": "https://louwrentius.com/dns-is-for-people-not-for-it-infrastructure.html"
+    },
+    {
+      "title": "When does fragmentation occur in the CUDA caching allocator?",
+      "hot": "2.7m",
+      "desc": "docs.pytorch.org",
+      "source": "tech",
+      "tag": "⬆️ 8 points",
+      "url": "https://docs.pytorch.org/devlogs/eager/2026-06-01-cuda-caching-allocator/"
+    }
+  ],
   "space": [
+    {
+      "title": "A Moonlit Earth as Seen From Artemis II",
+      "hot": "6/4",
+      "desc": "An astronaut’s photo, taken en route to the Moon, reveals our planet and its place in space in a novel way.",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/earth/earth-observatory/a-moonlit-earth-as-seen-from-artemis-ii/"
+    },
+    {
+      "title": "SpaceX to raise at least $75 billion in IPO",
+      "hot": "6/4",
+      "desc": "\nSpaceX plans to raise at least $75 billion in its initial public offering, valuing the company at more than $1.75 trillion.\nThe post SpaceX to raise ",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/spacex-to-raise-at-least-75-billion-in-ipo/"
+    },
+    {
+      "title": "Curiosity Blog, Sols 4908-4912: Goodbye Campo Marte, It’s Been Fun!",
+      "hot": "6/4",
+      "desc": "By Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, May 29, 2026 Drilling always keeps ",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4908-4912-goodbye-campo-marte-its-been-fun/"
+    },
+    {
+      "title": "NASA declares end to MAVEN Mars mission",
+      "hot": "6/4",
+      "desc": "\nNASA has formally ended a Mars mission that has been out of contact for six months while the investigation into the spacecraft’s demise continues.\nTh",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/nasa-declares-end-to-maven-mars-mission/"
+    },
     {
       "title": "Space Force evaluating anomaly-related damage, future danger areas",
       "hot": "6/3",
@@ -89,44 +283,12 @@
       "source": "space",
       "tag": "NASA",
       "url": "https://www.nasa.gov/news-release/nasa-says-farewell-to-maven-mars-mission-hosts-media-call-today/"
-    },
-    {
-      "title": "Europe is rearming together — except in space",
-      "hot": "6/3",
-      "desc": "\nEurope is rapidly rewriting its security architecture. Faced with Russian aggression, mounting doubts about long-term American commitment and growing",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/europe-is-rearming-together-except-in-space/"
-    },
-    {
-      "title": "Muon Space unveils Starship-class satellite platform for orbital data centers",
-      "hot": "6/3",
-      "desc": "\nMuon Space announced a Starship-class satellite platform June 3 designed from the ground up to meet the demands of the emerging orbital data center m",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/muon-space-unveils-starship-class-satellite-platform-for-orbital-data-centers/"
-    },
-    {
-      "title": "Blue Origin seeks to resume New Glenn launches by year’s end",
-      "hot": "6/3",
-      "desc": "Blue Origin’s CEO says damage to its New Glenn launch pad is not as bad as feared and the rocket could return to flight by the end of the year.\r\nThe p",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/blue-origin-seeks-to-resume-new-glenn-launches-by-years-end/"
-    },
-    {
-      "title": "How long will it take to rebuild Blue Origin's launch pad? We asked some SpaceX vets.",
-      "hot": "6/3",
-      "desc": "\"Everyone is in a place where it’s no fun to be there.\"",
-      "source": "space",
-      "tag": "Arstechnica",
-      "url": "https://arstechnica.com/space/2026/06/how-long-will-it-take-to-rebuild-blue-origins-launch-pad-we-asked-some-spacex-vets/"
     }
   ],
   "dev": [
     {
       "title": "Join the June Solstice Game Jam: $1,000 in prizes!",
-      "hot": "❤️ 58 💬 5",
+      "hot": "❤️ 84 💬 7",
       "desc": "We're excited to kick off the June Solstice Game Jam, running from June 3 through June 21 and ending...",
       "source": "dev",
       "tag": "devchallenge,  gamechallenge",
@@ -134,7 +296,7 @@
     },
     {
       "title": "Am I Becoming Too Slow for the AI World?",
-      "hot": "❤️ 14 💬 5",
+      "hot": "❤️ 18 💬 5",
       "desc": "The AI world is full of old infrastructure with stochastic organs.   That sentence probably explains...",
       "source": "dev",
       "tag": "ai,  programming",
@@ -142,23 +304,15 @@
     },
     {
       "title": "Want to work with me? We're hiring a Community Program Manager at DEV!",
-      "hot": "❤️ 18 💬 2",
+      "hot": "❤️ 20 💬 3",
       "desc": "Hey friends 👋  As the title suggests, we are hiring!   If you've been with us for a little while, I'm...",
       "source": "dev",
       "tag": "career,  meta",
       "url": "https://dev.to/devteam/want-to-work-with-me-were-hiring-a-community-program-manager-at-dev-3fol"
     },
     {
-      "title": "Every tool seems to have a coding agent horned in these days..... I don't think that makes sense.",
-      "hot": "❤️ 18 💬 4",
-      "desc": "A post by Ben Halpern",
-      "source": "dev",
-      "tag": "agents,  ai",
-      "url": "https://dev.to/ben/every-tool-seems-to-have-a-coding-agent-horned-in-these-days-i-dont-think-that-makes-sense-3db"
-    },
-    {
       "title": "After 7 Next.js 16 Caching Bugs, I Stopped Guessing and Built a System",
-      "hot": "❤️ 21 💬 11",
+      "hot": "❤️ 22 💬 13",
       "desc": "There's a specific feeling you get after your third production caching incident.  It's not panic....",
       "source": "dev",
       "tag": "nextjs,  typescript",
@@ -166,7 +320,7 @@
     },
     {
       "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 49 💬 24",
+      "hot": "❤️ 50 💬 25",
       "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
       "source": "dev",
       "tag": "top7,  discuss",
@@ -179,6 +333,14 @@
       "source": "dev",
       "tag": "kubernetes,  ai",
       "url": "https://dev.to/googlecloud/surviving-the-eviction-how-to-build-interrupt-resilient-ai-workloads-on-gke-5581"
+    },
+    {
+      "title": "Every tool seems to have a coding agent horned in these days..... I don't think that makes sense.",
+      "hot": "❤️ 20 💬 5",
+      "desc": "A post by Ben Halpern",
+      "source": "dev",
+      "tag": "agents,  ai",
+      "url": "https://dev.to/ben/every-tool-seems-to-have-a-coding-agent-horned-in-these-days-i-dont-think-that-makes-sense-3db"
     },
     {
       "title": "How we turned the Replay keynote surprise into an open-source embedded playground",
@@ -229,14 +391,6 @@
       "url": "https://dev.to/ingosteinke/learning-lessons-from-gaming-1jgm"
     },
     {
-      "title": "Executing Google Apps Script on Complex Schedules using Vibe Coding",
-      "hot": "❤️ 7 💬 2",
-      "desc": "Abstract   Configuring complex time-driven triggers in Google Apps Script—such as...",
-      "source": "dev",
-      "tag": "ai,  gemini",
-      "url": "https://dev.to/gde/executing-google-apps-script-on-complex-schedules-using-vibe-coding-1i3m"
-    },
-    {
       "title": "31B — Gemma 4 Deployment with NVIDIA L4, MCP, Cloud Run, and Antigravity CLI",
       "hot": "❤️ 5 💬 0",
       "desc": "This article provides a step by step deployment review for Gemma 4 to a Google Cloud Run hosted GPU...",
@@ -251,6 +405,14 @@
       "source": "dev",
       "tag": "antigravitycli,  mcps",
       "url": "https://dev.to/gde/26b-gemma-4-deployment-with-nvidia-l4-mcp-cloud-run-and-antigravity-cli-194p"
+    },
+    {
+      "title": "Executing Google Apps Script on Complex Schedules using Vibe Coding",
+      "hot": "❤️ 8 💬 2",
+      "desc": "Abstract   Configuring complex time-driven triggers in Google Apps Script—such as...",
+      "source": "dev",
+      "tag": "ai,  gemini",
+      "url": "https://dev.to/gde/executing-google-apps-script-on-complex-schedules-using-vibe-coding-1i3m"
     },
     {
       "title": "TypeScript Monorepo Magic: Organize, Build, and Ship Multi-Package Apps",
@@ -285,172 +447,10 @@
       "url": "https://dev.to/maximsaplin/debloating-the-ai-grown-codebase-2om"
     }
   ],
-  "tech": [
-    {
-      "title": "Elixir v1.20: Now a gradually typed language",
-      "hot": "3.0m",
-      "desc": "elixir-lang.org",
-      "source": "tech",
-      "tag": "⬆️ 476 points",
-      "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/"
-    },
-    {
-      "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
-      "hot": "3.0m",
-      "desc": "blog.google",
-      "source": "tech",
-      "tag": "⬆️ 639 points",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/"
-    },
-    {
-      "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
-      "hot": "3.0m",
-      "desc": "burntsushi.net",
-      "source": "tech",
-      "tag": "⬆️ 453 points",
-      "url": "https://burntsushi.net/encephalitis/"
-    },
-    {
-      "title": "DaVinci Resolve 21",
-      "hot": "3.0m",
-      "desc": "blackmagicdesign.com",
-      "source": "tech",
-      "tag": "⬆️ 371 points",
-      "url": "https://www.blackmagicdesign.com/products/davinciresolve/whatsnew"
-    },
-    {
-      "title": "Artificial intelligence is not conscious – Ted Chiang",
-      "hot": "2.9m",
-      "desc": "theatlantic.com",
-      "source": "tech",
-      "tag": "⬆️ 162 points",
-      "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/"
-    },
-    {
-      "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
-      "hot": "2.9m",
-      "desc": "simonwillison.net",
-      "source": "tech",
-      "tag": "⬆️ 339 points",
-      "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/"
-    },
-    {
-      "title": "Ableton Extensions SDK",
-      "hot": "2.9m",
-      "desc": "ableton.com",
-      "source": "tech",
-      "tag": "⬆️ 50 points",
-      "url": "https://www.ableton.com/en/live/extensions/"
-    },
-    {
-      "title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
-      "hot": "2.9m",
-      "desc": "blog.nns.ee",
-      "source": "tech",
-      "tag": "⬆️ 634 points",
-      "url": "https://blog.nns.ee/2026/06/03/katana-badusb/"
-    },
-    {
-      "title": "Gooey: A GPU-accelerated UI framework for Zig",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 128 points",
-      "url": "https://github.com/duanebester/gooey"
-    },
-    {
-      "title": "Journey to JPEG XL: open-source experiments shaped the future of image coding",
-      "hot": "2.9m",
-      "desc": "opensource.googleblog.com",
-      "source": "tech",
-      "tag": "⬆️ 19 points",
-      "url": "https://opensource.googleblog.com/2026/06/journey-to-jpeg-xl-how-open-source-experiments-shaped-the-future-of-image-coding.html"
-    },
-    {
-      "title": "A Man Who Reads Books for a Living (One Every Two Days)",
-      "hot": "2.9m",
-      "desc": "lithub.com",
-      "source": "tech",
-      "tag": "⬆️ 57 points",
-      "url": "https://lithub.com/the-man-who-reads-books-for-a-living-one-every-two-days/"
-    },
-    {
-      "title": "The Ü Programming Language",
-      "hot": "2.8m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 3 points",
-      "url": "https://github.com/Panzerschrek/U-00DC-Sprache/"
-    },
-    {
-      "title": "A Post-Quantum Future for Let's Encrypt",
-      "hot": "2.8m",
-      "desc": "letsencrypt.org",
-      "source": "tech",
-      "tag": "⬆️ 213 points",
-      "url": "https://letsencrypt.org/2026/06/03/pq-certs"
-    },
-    {
-      "title": "Meteor Explodes over Massachusetts",
-      "hot": "2.8m",
-      "desc": "nbcboston.com",
-      "source": "tech",
-      "tag": "⬆️ 18 points",
-      "url": "https://www.nbcboston.com/news/local/meteor-explodes-over-massachusetts-what-we-know-and-where-it-landed/3957663/"
-    },
-    {
-      "title": "ESP32-S31",
-      "hot": "2.8m",
-      "desc": "espressif.com",
-      "source": "tech",
-      "tag": "⬆️ 241 points",
-      "url": "https://www.espressif.com/en/products/socs/esp32-s31"
-    },
-    {
-      "title": "Self-hosted dev sandboxes with preview URLs (Docker, Go, no K8s)",
-      "hot": "2.8m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 39 points",
-      "url": "https://github.com/tastyeffectco/sandboxes"
-    },
-    {
-      "title": "A Mathematician's Lament – Paul Lockhart (2002) [pdf]",
-      "hot": "2.8m",
-      "desc": "worrydream.com",
-      "source": "tech",
-      "tag": "⬆️ 18 points",
-      "url": "https://worrydream.com/refs/Lockhart_2002_-_A_Mathematician%27s_Lament.pdf"
-    },
-    {
-      "title": "Stop Killing Games",
-      "hot": "2.7m",
-      "desc": "jxself.org",
-      "source": "tech",
-      "tag": "⬆️ 177 points",
-      "url": "https://jxself.org/stop-killing-games.shtml"
-    },
-    {
-      "title": "Patching my guitar amp's firmware",
-      "hot": "2.7m",
-      "desc": "mforney.org",
-      "source": "tech",
-      "tag": "⬆️ 17 points",
-      "url": "https://mforney.org/blog/2026-05-28-patching-my-guitar-amps-firmware.html"
-    },
-    {
-      "title": "Skyvern (YC S23) Is Hiring Open-Source Loving DevRel Engineers",
-      "hot": "2.7m",
-      "desc": "ycombinator.com",
-      "source": "tech",
-      "tag": "⬆️ 1 points",
-      "url": "https://www.ycombinator.com/companies/skyvern/jobs/1qRTlVx-founding-developer-marketing-open-source-ai"
-    }
-  ],
   "github": [
     {
       "title": "pewdiepie-archdaemon/odysseus: Self-hosted AI workspace. ",
-      "hot": "⭐ 43.4k",
+      "hot": "⭐ 45.1k",
       "desc": "Self-hosted AI workspace. ",
       "source": "github",
       "tag": "JavaScript",
@@ -458,11 +458,19 @@
     },
     {
       "title": "Gloridust/WechatOnCloud: 云微WOC，云微信，自由连接",
-      "hot": "⭐ 1.9k",
+      "hot": "⭐ 2.0k",
       "desc": "云微WOC，云微信，自由连接",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/Gloridust/WechatOnCloud"
+    },
+    {
+      "title": "zgwl/chinese-buy-us-stock-guide: 美股指南",
+      "hot": "⭐ 1.5k",
+      "desc": "美股指南",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/zgwl/chinese-buy-us-stock-guide"
     },
     {
       "title": "b-nnett/goose: Goose Swift proof-of-concept README",
@@ -482,7 +490,7 @@
     },
     {
       "title": "Sophomoresty/gemini-web2api: Convert Google Gemini web into OpenAI-compatible AP",
-      "hot": "⭐ 1.3k",
+      "hot": "⭐ 1.4k",
       "desc": "Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
       "source": "github",
       "tag": "Python",
@@ -497,32 +505,24 @@
       "url": "https://github.com/MatinSenPai/SenPaiScanner"
     },
     {
-      "title": "zgwl/chinese-buy-us-stock-guide: 美股指南",
-      "hot": "⭐ 792",
-      "desc": "美股指南",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/zgwl/chinese-buy-us-stock-guide"
-    },
-    {
-      "title": "Michaelliv/pi-dynamic-workflows: ",
-      "hot": "⭐ 767",
-      "desc": "Michaelliv/pi-dynamic-workflows",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/Michaelliv/pi-dynamic-workflows"
-    },
-    {
       "title": "cpaczek/skylight: Project the aircraft passing overhead onto your ceiling in rea",
-      "hot": "⭐ 755",
+      "hot": "⭐ 890",
       "desc": "Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each p",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/cpaczek/skylight"
     },
     {
+      "title": "Michaelliv/pi-dynamic-workflows: ",
+      "hot": "⭐ 774",
+      "desc": "Michaelliv/pi-dynamic-workflows",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/Michaelliv/pi-dynamic-workflows"
+    },
+    {
       "title": "ClaudioDrews/memory-os: A 7-layer memory operating system for Hermes Agent — per",
-      "hot": "⭐ 749",
+      "hot": "⭐ 772",
       "desc": "A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical c",
       "source": "github",
       "tag": "Python",
@@ -530,7 +530,7 @@
     },
     {
       "title": "2aronS/Duel-Agents: CLI, SDK, and IDE plugins for Duel Agents",
-      "hot": "⭐ 701",
+      "hot": "⭐ 703",
       "desc": "CLI, SDK, and IDE plugins for Duel Agents",
       "source": "github",
       "tag": "TypeScript",
@@ -538,7 +538,7 @@
     },
     {
       "title": "SenhorH/tab-labeler: Rename browser tabs locally and bring order to chaotic sess",
-      "hot": "⭐ 548",
+      "hot": "⭐ 568",
       "desc": "Rename browser tabs locally and bring order to chaotic sessions.",
       "source": "github",
       "tag": "TypeScript",
@@ -546,7 +546,7 @@
     },
     {
       "title": "qiuqiubuchongle-cloud/chokepoint-atlas: ",
-      "hot": "⭐ 523",
+      "hot": "⭐ 535",
       "desc": "qiuqiubuchongle-cloud/chokepoint-atlas",
       "source": "github",
       "tag": "Python",
@@ -554,7 +554,7 @@
     },
     {
       "title": "liyue-aigc/female-portrait-director: A modular Codex Skill for directing and exp",
-      "hot": "⭐ 504",
+      "hot": "⭐ 506",
       "desc": "A modular Codex Skill for directing and expanding detailed AI female portrait prompts.",
       "source": "github",
       "tag": "GitHub",
@@ -562,7 +562,7 @@
     },
     {
       "title": "anomalyco/rift: ",
-      "hot": "⭐ 491",
+      "hot": "⭐ 499",
       "desc": "anomalyco/rift",
       "source": "github",
       "tag": "Rust",
