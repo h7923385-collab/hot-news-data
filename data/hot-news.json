@@ -1,6 +1,412 @@
 {
-  "updatedAt": "2026-06-06T20:01:57.369Z",
+  "updatedAt": "2026-06-06T21:33:27.040Z",
   "source": "live",
+  "tech": [
+    {
+      "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
+      "hot": "3.0m",
+      "desc": "ntsc.rs",
+      "source": "tech",
+      "tag": "⬆️ 126 points",
+      "url": "https://ntsc.rs/"
+    },
+    {
+      "title": "Universal Memory Protocol – a shared format for agent memory",
+      "hot": "3.0m",
+      "desc": "universalmemoryprotocol.io",
+      "source": "tech",
+      "tag": "⬆️ 19 points",
+      "url": "https://universalmemoryprotocol.io/"
+    },
+    {
+      "title": "Home alone: Remote work, isolation, and mental health",
+      "hot": "3.0m",
+      "desc": "science.org",
+      "source": "tech",
+      "tag": "⬆️ 34 points",
+      "url": "https://www.science.org/doi/10.1126/science.aec7671"
+    },
+    {
+      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+      "hot": "3.0m",
+      "desc": "this.weekinsecurity.com",
+      "source": "tech",
+      "tag": "⬆️ 184 points",
+      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/"
+    },
+    {
+      "title": "Zeroserve: A zero-config web server you can script with eBPF",
+      "hot": "2.9m",
+      "desc": "su3.io",
+      "source": "tech",
+      "tag": "⬆️ 145 points",
+      "url": "https://su3.io/posts/introducing-zeroserve"
+    },
+    {
+      "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
+      "hot": "2.9m",
+      "desc": "twitter.com",
+      "source": "tech",
+      "tag": "⬆️ 186 points",
+      "url": "https://twitter.com/lemire/status/2062880075117113739"
+    },
+    {
+      "title": "You Can Run",
+      "hot": "2.9m",
+      "desc": "magazine.atavist.com",
+      "source": "tech",
+      "tag": "⬆️ 72 points",
+      "url": "https://magazine.atavist.com/2026/mccann-cocaine-fugitives"
+    },
+    {
+      "title": "Computex 2026: Are We Heading for the Agentic PC Era Yet? – EE Times",
+      "hot": "2.9m",
+      "desc": "eetimes.com",
+      "source": "tech",
+      "tag": "⬆️ 8 points",
+      "url": "https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/"
+    },
+    {
+      "title": "Show HN: Infinite canvas notes in the non-Euclidean Poincaré disk",
+      "hot": "2.9m",
+      "desc": "uonr.github.io",
+      "source": "tech",
+      "tag": "⬆️ 82 points",
+      "url": "https://uonr.github.io/poincake/"
+    },
+    {
+      "title": "Benchmarks in Leipzig",
+      "hot": "2.9m",
+      "desc": "arxiv.org",
+      "source": "tech",
+      "tag": "⬆️ 115 points",
+      "url": "https://arxiv.org/abs/2606.05818"
+    },
+    {
+      "title": "How LLMs work",
+      "hot": "2.9m",
+      "desc": "0xkato.xyz",
+      "source": "tech",
+      "tag": "⬆️ 798 points",
+      "url": "https://www.0xkato.xyz/how-llms-actually-work/"
+    },
+    {
+      "title": "Google will pay SpaceX $920M per month for compute",
+      "hot": "2.8m",
+      "desc": "techcrunch.com",
+      "source": "tech",
+      "tag": "⬆️ 373 points",
+      "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/"
+    },
+    {
+      "title": "PyTorch Custom Operation",
+      "hot": "2.8m",
+      "desc": "leimao.github.io",
+      "source": "tech",
+      "tag": "⬆️ 7 points",
+      "url": "https://leimao.github.io/blog/PyTorch-Custom-Operation/"
+    },
+    {
+      "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)",
+      "hot": "2.8m",
+      "desc": "pokeemerald.com",
+      "source": "tech",
+      "tag": "⬆️ 222 points",
+      "url": "https://pokeemerald.com/"
+    },
+    {
+      "title": "Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",
+      "hot": "2.8m",
+      "desc": "nbcnews.com",
+      "source": "tech",
+      "tag": "⬆️ 254 points",
+      "url": "https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565"
+    },
+    {
+      "title": "WoofWare.PawPrint, a Deterministic .NET Runtime",
+      "hot": "2.8m",
+      "desc": "patrickstevens.co.uk",
+      "source": "tech",
+      "tag": "⬆️ 35 points",
+      "url": "https://www.patrickstevens.co.uk/posts/2026-06-04-announcing-woofware-pawprint/"
+    },
+    {
+      "title": "Running Python code in a sandbox with MicroPython and WASM",
+      "hot": "2.8m",
+      "desc": "simonwillison.net",
+      "source": "tech",
+      "tag": "⬆️ 58 points",
+      "url": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/"
+    },
+    {
+      "title": "Summer of '85: DOSBOS is rejected by ANALOG Computing",
+      "hot": "2.7m",
+      "desc": "goto10retro.com",
+      "source": "tech",
+      "tag": "⬆️ 41 points",
+      "url": "https://www.goto10retro.com/p/summer-of-85-dosbos-is-rejected-by"
+    },
+    {
+      "title": "Police in England and Wales told to halt AI use in court statements",
+      "hot": "2.7m",
+      "desc": "ft.com",
+      "source": "tech",
+      "tag": "⬆️ 129 points",
+      "url": "https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241"
+    },
+    {
+      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+      "hot": "2.7m",
+      "desc": "arstechnica.com",
+      "source": "tech",
+      "tag": "⬆️ 1275 points",
+      "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/"
+    }
+  ],
+  "space": [
+    {
+      "title": "Next Ariane 6 launch to carry 36 Amazon Leo satellites using upgraded boosters",
+      "hot": "6/5",
+      "desc": "Amazon will fly its largest number of broadband satellites to date later this month on the first Ariane 6 launch to use upgraded boosters.\r\nThe post N",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/next-ariane-6-launch-to-carry-36-amazon-leo-satellites-using-upgraded-boosters/"
+    },
+    {
+      "title": "Week in images: 01-05 Jun 2026",
+      "hot": "6/5",
+      "desc": "Week in images: 01-05 Jun 2026",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_01-05_Jun_2026"
+    },
+    {
+      "title": "Let’s build the moon base, but not lose sight of Mars",
+      "hot": "6/5",
+      "desc": "\nThese are heady days for NASA and the space industry. The Artemis 2 crew flew around the moon, traveling farther into space than any humans previousl",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/lets-build-the-moon-base-but-not-lose-sight-of-mars/"
+    },
+    {
+      "title": "Putting the pieces together for Galileo second generation",
+      "hot": "6/5",
+      "desc": "From the ESA Blogs.",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/06/Putting_the_pieces_together_for_Galileo_second_generation"
+    },
+    {
+      "title": "Qianfan constellation deployment hits 200 satellites with Long March 8 and 6A launches",
+      "hot": "6/5",
+      "desc": "Construction of the Shanghai-led Qianfan constellation continued to accelerate this week with a pair of Long March launches, following on from two rec",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/qianfan-constellation-deployment-hits-200-satellites-with-long-march-8-and-6a-launches/"
+    },
+    {
+      "title": "Satellite maker Apex’s valuation rises to $2.3 billion after latest $200 million raise",
+      "hot": "6/5",
+      "desc": "\nApex has raised more than $200 million to expand in-house satellite production capabilities, announcing a funding round June 5 it says nearly doubled",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/satellite-maker-apexs-valuation-rises-to-2-3-billion-after-latest-200-million-raise/"
+    },
+    {
+      "title": "The Exploration Company completes drop test of Nyx capsule",
+      "hot": "6/5",
+      "desc": "\nThe Exploration Company performed a drop test of the Nyx spacecraft it is developing to transport cargo to low Earth orbit ahead of a 2028 test fligh",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/the-exploration-company-completes-drop-test-of-nyx-capsule/"
+    },
+    {
+      "title": "Earth from Space: Baku, Azerbaijan",
+      "hot": "6/5",
+      "desc": "From the ESA Blogs.",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/06/Earth_from_Space_Baku_Azerbaijan"
+    },
+    {
+      "title": "Webb unveils young stars across every stage of formation",
+      "hot": "6/5",
+      "desc": "From the ESA Blogs.",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/06/Webb_unveils_young_stars_across_every_stage_of_formation"
+    },
+    {
+      "title": "Axiom Space adds more than $175 million to funding round",
+      "hot": "6/5",
+      "desc": "\nAxiom Space announced June 4 that it added more than $175 million to its latest funding round, with Japan’s largest bank joining the company’s invest",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/axiom-space-adds-more-than-175-million-to-funding-round/"
+    },
+    {
+      "title": "Fighting Fire With Fire",
+      "hot": "6/5",
+      "desc": "In fire-prone ecosystems in Australia’s Northern Territory, prescribed burns are lit to minimize the severity of fires later in the season.",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/earth/earth-observatory/fighting-fire-with-fire/"
+    },
+    {
+      "title": "HASC NDAA markup challenges Space Force on satellite programs",
+      "hot": "6/4",
+      "desc": "\nHouse Armed Services Committee seeks to preserve a missile-warning satellite program the Pentagon wants to cancel. It also criticizes a recent tactic",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/hasc-ndaa-markup-challenges-space-force-on-satellite-programs/"
+    },
+    {
+      "title": "NASA Hosts 2026 Review on Advanced Composite Manufacturing",
+      "hot": "6/4",
+      "desc": "NASA’s Hi-Rate Composite Aircraft Manufacturing (HiCAM) project brought together its full team of Advanced Composites Consortium partners for a 2026 s",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/directorates/armd/aavp/hicam/nasa-hosts-2026-review-on-advanced-composite-manufacturing/"
+    },
+    {
+      "title": "NASA head urges new launcher for Blue Origin’s moon landers to meet Artemis mission deadlines",
+      "hot": "6/4",
+      "desc": "The change was confirmed by the agency a week after a New Glenn testing explosion destroyed the rocket and damaged Launch Complex 36. ",
+      "source": "space",
+      "tag": "Spaceflight Now",
+      "url": "https://spaceflightnow.com/2026/06/04/nasa-head-urges-new-launcher-for-blue-origins-moon-landers-to-meet-artemis-mission-deadlines/"
+    },
+    {
+      "title": "NASA-Funded Study Shows Wildfire Smoke’s Hidden Ozone Toll",
+      "hot": "6/4",
+      "desc": "Over the last decade, wildfires have worsened ground-level ozone pollution across much of the contiguous United States, creating unhealthy air far fro",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/earth/nasa-funded-study-shows-wildfire-smokes-hidden-ozone-toll/"
+    }
+  ],
+  "github": [
+    {
+      "title": "pewdiepie-archdaemon/odysseus: Self-hosted AI workspace. ",
+      "hot": "⭐ 58.6k",
+      "desc": "Self-hosted AI workspace. ",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/pewdiepie-archdaemon/odysseus"
+    },
+    {
+      "title": "zgwl/chinese-buy-us-stock-guide: 美股指南",
+      "hot": "⭐ 3.3k",
+      "desc": "美股指南",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/zgwl/chinese-buy-us-stock-guide"
+    },
+    {
+      "title": "b-nnett/goose: Goose Swift proof-of-concept README",
+      "hot": "⭐ 2.2k",
+      "desc": "Goose Swift proof-of-concept README",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/b-nnett/goose"
+    },
+    {
+      "title": "cpaczek/skylight: Project the aircraft passing overhead onto your ceiling in rea",
+      "hot": "⭐ 2.1k",
+      "desc": "Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each p",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/cpaczek/skylight"
+    },
+    {
+      "title": "asz798838958/aBaiAutoplus: 多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
+      "hot": "⭐ 1.6k",
+      "desc": "多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/asz798838958/aBaiAutoplus"
+    },
+    {
+      "title": "ClaudioDrews/memory-os: A 7-layer memory operating system for Hermes Agent — per",
+      "hot": "⭐ 936",
+      "desc": "A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical c",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/ClaudioDrews/memory-os"
+    },
+    {
+      "title": "V0id-v2/Void-Tools-v2.0: Python terminal multitool — OSINT, Discord, web & netwo",
+      "hot": "⭐ 837",
+      "desc": "Python terminal multitool — OSINT, Discord, web & network utilities. Rich TUI, 13 themes, remote updates. Educational use only.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/V0id-v2/Void-Tools-v2.0"
+    },
+    {
+      "title": "jd-opensource/JoyAI-Echo: JoyAI-Echo: Pushing the Frontier of Long Audio-Visual ",
+      "hot": "⭐ 693",
+      "desc": "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/jd-opensource/JoyAI-Echo"
+    },
+    {
+      "title": "qiuqiubuchongle-cloud/chokepoint-atlas: ",
+      "hot": "⭐ 590",
+      "desc": "qiuqiubuchongle-cloud/chokepoint-atlas",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas"
+    },
+    {
+      "title": "anomalyco/rift: ",
+      "hot": "⭐ 545",
+      "desc": "anomalyco/rift",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/anomalyco/rift"
+    },
+    {
+      "title": "liyue-aigc/female-portrait-director: A modular Codex Skill for directing and exp",
+      "hot": "⭐ 524",
+      "desc": "A modular Codex Skill for directing and expanding detailed AI female portrait prompts.",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/liyue-aigc/female-portrait-director"
+    },
+    {
+      "title": "VAST-AI-Research/TripoSplat: TripoSplat converts a single 2D image into high-qua",
+      "hot": "⭐ 483",
+      "desc": "TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/VAST-AI-Research/TripoSplat"
+    },
+    {
+      "title": "tastyeffectco/sandboxes: Self-hosted dev sandboxes with preview URLs. One comman",
+      "hot": "⭐ 467",
+      "desc": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
+      "source": "github",
+      "tag": "Go",
+      "url": "https://github.com/tastyeffectco/sandboxes"
+    },
+    {
+      "title": "Jane-xiaoer/xiaoer-videolab: One click on the toolbar grabs the current page's v",
+      "hot": "⭐ 452",
+      "desc": "One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/Jane-xiaoer/xiaoer-videolab"
+    },
+    {
+      "title": "tiantianGPU/reg-factory: ",
+      "hot": "⭐ 443",
+      "desc": "tiantianGPU/reg-factory",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/tiantianGPU/reg-factory"
+    }
+  ],
   "dev": [
     {
       "title": "Join the June Solstice Game Jam: $1,000 in prizes!",
@@ -161,412 +567,6 @@
       "source": "dev",
       "tag": "aws,  terraform",
       "url": "https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p"
-    }
-  ],
-  "tech": [
-    {
-      "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
-      "hot": "3.0m",
-      "desc": "ntsc.rs",
-      "source": "tech",
-      "tag": "⬆️ 29 points",
-      "url": "https://ntsc.rs/"
-    },
-    {
-      "title": "Zeroserve: A zero-config web server you can script with eBPF",
-      "hot": "3.0m",
-      "desc": "su3.io",
-      "source": "tech",
-      "tag": "⬆️ 111 points",
-      "url": "https://su3.io/posts/introducing-zeroserve"
-    },
-    {
-      "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
-      "hot": "3.0m",
-      "desc": "twitter.com",
-      "source": "tech",
-      "tag": "⬆️ 152 points",
-      "url": "https://twitter.com/lemire/status/2062880075117113739"
-    },
-    {
-      "title": "You Can Run",
-      "hot": "3.0m",
-      "desc": "magazine.atavist.com",
-      "source": "tech",
-      "tag": "⬆️ 46 points",
-      "url": "https://magazine.atavist.com/2026/mccann-cocaine-fugitives"
-    },
-    {
-      "title": "Benchmarks in Leipzig",
-      "hot": "2.9m",
-      "desc": "arxiv.org",
-      "source": "tech",
-      "tag": "⬆️ 100 points",
-      "url": "https://arxiv.org/abs/2606.05818"
-    },
-    {
-      "title": "Show HN: Infinite canvas notes in the non-Euclidean Poincaré disk",
-      "hot": "2.9m",
-      "desc": "uonr.github.io",
-      "source": "tech",
-      "tag": "⬆️ 63 points",
-      "url": "https://uonr.github.io/poincake/"
-    },
-    {
-      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
-      "hot": "2.9m",
-      "desc": "this.weekinsecurity.com",
-      "source": "tech",
-      "tag": "⬆️ 49 points",
-      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/"
-    },
-    {
-      "title": "How LLMs work",
-      "hot": "2.9m",
-      "desc": "0xkato.xyz",
-      "source": "tech",
-      "tag": "⬆️ 750 points",
-      "url": "https://www.0xkato.xyz/how-llms-actually-work/"
-    },
-    {
-      "title": "WoofWare.PawPrint, a Deterministic .NET Runtime",
-      "hot": "2.9m",
-      "desc": "patrickstevens.co.uk",
-      "source": "tech",
-      "tag": "⬆️ 24 points",
-      "url": "https://www.patrickstevens.co.uk/posts/2026-06-04-announcing-woofware-pawprint/"
-    },
-    {
-      "title": "Google will pay SpaceX $920M per month for compute",
-      "hot": "2.9m",
-      "desc": "techcrunch.com",
-      "source": "tech",
-      "tag": "⬆️ 318 points",
-      "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/"
-    },
-    {
-      "title": "Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",
-      "hot": "2.9m",
-      "desc": "nbcnews.com",
-      "source": "tech",
-      "tag": "⬆️ 165 points",
-      "url": "https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565"
-    },
-    {
-      "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)",
-      "hot": "2.8m",
-      "desc": "pokeemerald.com",
-      "source": "tech",
-      "tag": "⬆️ 196 points",
-      "url": "https://pokeemerald.com/"
-    },
-    {
-      "title": "Running Python code in a sandbox with MicroPython and WASM",
-      "hot": "2.8m",
-      "desc": "simonwillison.net",
-      "source": "tech",
-      "tag": "⬆️ 49 points",
-      "url": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/"
-    },
-    {
-      "title": "Lambda isn't leaking memory, your metrics are lying to you",
-      "hot": "2.8m",
-      "desc": "engineering.taktile.com",
-      "source": "tech",
-      "tag": "⬆️ 8 points",
-      "url": "https://engineering.taktile.com/blog/onnx-memory-usage-on-lambda/"
-    },
-    {
-      "title": "Police in England and Wales told to halt AI use in court statements",
-      "hot": "2.8m",
-      "desc": "ft.com",
-      "source": "tech",
-      "tag": "⬆️ 108 points",
-      "url": "https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241"
-    },
-    {
-      "title": "Moving beyond fork() + exec()",
-      "hot": "2.8m",
-      "desc": "lwn.net",
-      "source": "tech",
-      "tag": "⬆️ 189 points",
-      "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/"
-    },
-    {
-      "title": "Summer of '85: DOSBOS is rejected by ANALOG Computing",
-      "hot": "2.8m",
-      "desc": "goto10retro.com",
-      "source": "tech",
-      "tag": "⬆️ 27 points",
-      "url": "https://www.goto10retro.com/p/summer-of-85-dosbos-is-rejected-by"
-    },
-    {
-      "title": "Building Rust Procedural Macros from the Grounds Up",
-      "hot": "2.7m",
-      "desc": "learnix-os.com",
-      "source": "tech",
-      "tag": "⬆️ 61 points",
-      "url": "https://www.learnix-os.com/ch02-03-implementing-the-bitfields-proc-macro.html"
-    },
-    {
-      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-      "hot": "2.7m",
-      "desc": "arstechnica.com",
-      "source": "tech",
-      "tag": "⬆️ 1214 points",
-      "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/"
-    },
-    {
-      "title": "Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics)",
-      "hot": "2.7m",
-      "desc": "ycombinator.com",
-      "source": "tech",
-      "tag": "⬆️ 1 points",
-      "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer"
-    }
-  ],
-  "github": [
-    {
-      "title": "pewdiepie-archdaemon/odysseus: Self-hosted AI workspace. ",
-      "hot": "⭐ 58.3k",
-      "desc": "Self-hosted AI workspace. ",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/pewdiepie-archdaemon/odysseus"
-    },
-    {
-      "title": "zgwl/chinese-buy-us-stock-guide: 美股指南",
-      "hot": "⭐ 3.3k",
-      "desc": "美股指南",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/zgwl/chinese-buy-us-stock-guide"
-    },
-    {
-      "title": "b-nnett/goose: Goose Swift proof-of-concept README",
-      "hot": "⭐ 2.2k",
-      "desc": "Goose Swift proof-of-concept README",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/b-nnett/goose"
-    },
-    {
-      "title": "cpaczek/skylight: Project the aircraft passing overhead onto your ceiling in rea",
-      "hot": "⭐ 2.0k",
-      "desc": "Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each p",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/cpaczek/skylight"
-    },
-    {
-      "title": "asz798838958/aBaiAutoplus: 多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
-      "hot": "⭐ 1.6k",
-      "desc": "多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/asz798838958/aBaiAutoplus"
-    },
-    {
-      "title": "ClaudioDrews/memory-os: A 7-layer memory operating system for Hermes Agent — per",
-      "hot": "⭐ 936",
-      "desc": "A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical c",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/ClaudioDrews/memory-os"
-    },
-    {
-      "title": "V0id-v2/Void-Tools-v2.0: Python terminal multitool — OSINT, Discord, web & netwo",
-      "hot": "⭐ 823",
-      "desc": "Python terminal multitool — OSINT, Discord, web & network utilities. Rich TUI, 13 themes, remote updates. Educational use only.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/V0id-v2/Void-Tools-v2.0"
-    },
-    {
-      "title": "jd-opensource/JoyAI-Echo: JoyAI-Echo: Pushing the Frontier of Long Audio-Visual ",
-      "hot": "⭐ 688",
-      "desc": "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/jd-opensource/JoyAI-Echo"
-    },
-    {
-      "title": "qiuqiubuchongle-cloud/chokepoint-atlas: ",
-      "hot": "⭐ 590",
-      "desc": "qiuqiubuchongle-cloud/chokepoint-atlas",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas"
-    },
-    {
-      "title": "anomalyco/rift: ",
-      "hot": "⭐ 545",
-      "desc": "anomalyco/rift",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/anomalyco/rift"
-    },
-    {
-      "title": "liyue-aigc/female-portrait-director: A modular Codex Skill for directing and exp",
-      "hot": "⭐ 524",
-      "desc": "A modular Codex Skill for directing and expanding detailed AI female portrait prompts.",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/liyue-aigc/female-portrait-director"
-    },
-    {
-      "title": "VAST-AI-Research/TripoSplat: TripoSplat converts a single 2D image into high-qua",
-      "hot": "⭐ 479",
-      "desc": "TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/VAST-AI-Research/TripoSplat"
-    },
-    {
-      "title": "tastyeffectco/sandboxes: Self-hosted dev sandboxes with preview URLs. One comman",
-      "hot": "⭐ 467",
-      "desc": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
-      "source": "github",
-      "tag": "Go",
-      "url": "https://github.com/tastyeffectco/sandboxes"
-    },
-    {
-      "title": "Jane-xiaoer/xiaoer-videolab: One click on the toolbar grabs the current page's v",
-      "hot": "⭐ 451",
-      "desc": "One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/Jane-xiaoer/xiaoer-videolab"
-    },
-    {
-      "title": "tiantianGPU/reg-factory: ",
-      "hot": "⭐ 442",
-      "desc": "tiantianGPU/reg-factory",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/tiantianGPU/reg-factory"
-    }
-  ],
-  "space": [
-    {
-      "title": "Next Ariane 6 launch to carry 36 Amazon Leo satellites using upgraded boosters",
-      "hot": "6/5",
-      "desc": "Amazon will fly its largest number of broadband satellites to date later this month on the first Ariane 6 launch to use upgraded boosters.\r\nThe post N",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/next-ariane-6-launch-to-carry-36-amazon-leo-satellites-using-upgraded-boosters/"
-    },
-    {
-      "title": "Week in images: 01-05 Jun 2026",
-      "hot": "6/5",
-      "desc": "Week in images: 01-05 Jun 2026",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_01-05_Jun_2026"
-    },
-    {
-      "title": "Let’s build the moon base, but not lose sight of Mars",
-      "hot": "6/5",
-      "desc": "\nThese are heady days for NASA and the space industry. The Artemis 2 crew flew around the moon, traveling farther into space than any humans previousl",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/lets-build-the-moon-base-but-not-lose-sight-of-mars/"
-    },
-    {
-      "title": "Putting the pieces together for Galileo second generation",
-      "hot": "6/5",
-      "desc": "From the ESA Blogs.",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/06/Putting_the_pieces_together_for_Galileo_second_generation"
-    },
-    {
-      "title": "Qianfan constellation deployment hits 200 satellites with Long March 8 and 6A launches",
-      "hot": "6/5",
-      "desc": "Construction of the Shanghai-led Qianfan constellation continued to accelerate this week with a pair of Long March launches, following on from two rec",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/qianfan-constellation-deployment-hits-200-satellites-with-long-march-8-and-6a-launches/"
-    },
-    {
-      "title": "Satellite maker Apex’s valuation rises to $2.3 billion after latest $200 million raise",
-      "hot": "6/5",
-      "desc": "\nApex has raised more than $200 million to expand in-house satellite production capabilities, announcing a funding round June 5 it says nearly doubled",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/satellite-maker-apexs-valuation-rises-to-2-3-billion-after-latest-200-million-raise/"
-    },
-    {
-      "title": "The Exploration Company completes drop test of Nyx capsule",
-      "hot": "6/5",
-      "desc": "\nThe Exploration Company performed a drop test of the Nyx spacecraft it is developing to transport cargo to low Earth orbit ahead of a 2028 test fligh",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/the-exploration-company-completes-drop-test-of-nyx-capsule/"
-    },
-    {
-      "title": "Earth from Space: Baku, Azerbaijan",
-      "hot": "6/5",
-      "desc": "From the ESA Blogs.",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/06/Earth_from_Space_Baku_Azerbaijan"
-    },
-    {
-      "title": "Webb unveils young stars across every stage of formation",
-      "hot": "6/5",
-      "desc": "From the ESA Blogs.",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/06/Webb_unveils_young_stars_across_every_stage_of_formation"
-    },
-    {
-      "title": "Axiom Space adds more than $175 million to funding round",
-      "hot": "6/5",
-      "desc": "\nAxiom Space announced June 4 that it added more than $175 million to its latest funding round, with Japan’s largest bank joining the company’s invest",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/axiom-space-adds-more-than-175-million-to-funding-round/"
-    },
-    {
-      "title": "Fighting Fire With Fire",
-      "hot": "6/5",
-      "desc": "In fire-prone ecosystems in Australia’s Northern Territory, prescribed burns are lit to minimize the severity of fires later in the season.",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/earth/earth-observatory/fighting-fire-with-fire/"
-    },
-    {
-      "title": "HASC NDAA markup challenges Space Force on satellite programs",
-      "hot": "6/4",
-      "desc": "\nHouse Armed Services Committee seeks to preserve a missile-warning satellite program the Pentagon wants to cancel. It also criticizes a recent tactic",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/hasc-ndaa-markup-challenges-space-force-on-satellite-programs/"
-    },
-    {
-      "title": "NASA Hosts 2026 Review on Advanced Composite Manufacturing",
-      "hot": "6/4",
-      "desc": "NASA’s Hi-Rate Composite Aircraft Manufacturing (HiCAM) project brought together its full team of Advanced Composites Consortium partners for a 2026 s",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/directorates/armd/aavp/hicam/nasa-hosts-2026-review-on-advanced-composite-manufacturing/"
-    },
-    {
-      "title": "NASA head urges new launcher for Blue Origin’s moon landers to meet Artemis mission deadlines",
-      "hot": "6/4",
-      "desc": "The change was confirmed by the agency a week after a New Glenn testing explosion destroyed the rocket and damaged Launch Complex 36. ",
-      "source": "space",
-      "tag": "Spaceflight Now",
-      "url": "https://spaceflightnow.com/2026/06/04/nasa-head-urges-new-launcher-for-blue-origins-moon-landers-to-meet-artemis-mission-deadlines/"
-    },
-    {
-      "title": "NASA-Funded Study Shows Wildfire Smoke’s Hidden Ozone Toll",
-      "hot": "6/4",
-      "desc": "Over the last decade, wildfires have worsened ground-level ozone pollution across much of the contiguous United States, creating unhealthy air far fro",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/earth/nasa-funded-study-shows-wildfire-smokes-hidden-ozone-toll/"
     }
   ]
 }
