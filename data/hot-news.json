@@ -1,450 +1,166 @@
 {
-  "updatedAt": "2026-06-07T02:03:19.843Z",
+  "updatedAt": "2026-06-07T06:45:04.435Z",
   "source": "live",
-  "dev": [
-    {
-      "title": "Join the June Solstice Game Jam: $1,000 in prizes!",
-      "hot": "❤️ 159 💬 25",
-      "desc": "We're excited to kick off the June Solstice Game Jam, running from June 3 through June 21 and ending...",
-      "source": "dev",
-      "tag": "devchallenge,  gamechallenge",
-      "url": "https://dev.to/devteam/join-the-june-solstice-game-jam-1000-in-prizes-3jla"
-    },
-    {
-      "title": "AI Won't Replace Humans — It'll Just Make Us Pickier",
-      "hot": "❤️ 10 💬 2",
-      "desc": "Every few weeks someone posts the same screenshot: an AI writing a whole app from a one-line prompt,...",
-      "source": "dev",
-      "tag": "ai,  discuss",
-      "url": "https://dev.to/markofrei919/ai-wont-replace-humans-itll-just-make-us-pickier-2iij"
-    },
-    {
-      "title": "Magnificent Humanity, Building Cities, and a Special Announcement!",
-      "hot": "❤️ 7 💬 3",
-      "desc": "I'm back from a great vacation and side-quest experience in Asia, where one can always find brilliant...",
-      "source": "dev",
-      "tag": "ai,  wecoded",
-      "url": "https://dev.to/jenlooper/magnificent-humanity-building-cities-and-a-special-announcement-54pf"
-    },
-    {
-      "title": "Seamless scaling with VPA In-place Pod Resize on GKE",
-      "hot": "❤️ 5 💬 0",
-      "desc": "Learn how VPA In-place Pod Resize can help seamlessly vertically scale workloads on Google Kubernetes Engine (GKE).",
-      "source": "dev",
-      "tag": "kubernetes,  ai",
-      "url": "https://dev.to/googlecloud/seamless-scaling-with-vpa-in-place-pod-resize-on-gke-117p"
-    },
-    {
-      "title": "Physics, Engineering, and Architecture in Software Systems and the obsession with Architecture",
-      "hot": "❤️ 0 💬 0",
-      "desc": "Something that has been bothering me for a while in the software industry is how disproportionately...",
-      "source": "dev",
-      "tag": "architecture,  softwaredesign",
-      "url": "https://dev.to/rodrigovidal/physics-engineering-and-architecture-in-software-systems-and-the-obsession-with-architecture-68j"
-    },
-    {
-      "title": "Dystopian Civilization Scenarios",
-      "hot": "❤️ 11 💬 1",
-      "desc": "Gaming, like AI, is far from what fascinates me most about technology and creative development....",
-      "source": "dev",
-      "tag": "watercooler",
-      "url": "https://dev.to/ingosteinke/dystopian-civilization-scenarios-4422"
-    },
-    {
-      "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
-      "hot": "❤️ 37 💬 2",
-      "desc": "Gemma 4 12B is designed to bring high-performance multimodal intelligence directly to your laptop,...",
-      "source": "dev",
-      "tag": "ai,  machinelearning",
-      "url": "https://dev.to/googleai/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model-3ge5"
-    },
-    {
-      "title": "Winner Announcement Delayed for the Google I/O 2026 Writing Challenge",
-      "hot": "❤️ 18 💬 2",
-      "desc": "Hey all, we have a quick update for everyone who participated in the Google I/O Writing...",
-      "source": "dev",
-      "tag": "devchallenge,  googleiochallenge",
-      "url": "https://dev.to/devteam/winner-announcement-delayed-for-the-google-io-2026-writing-challenge-ibb"
-    },
-    {
-      "title": "Retour sur le Google I/O 2026 | Focus Antigravity 2.0",
-      "hot": "❤️ 5 💬 0",
-      "desc": "En mai, la très attendue conférence Google I/O a eu lieu et le mot d’ordre, et ce n’est pas trop une...",
-      "source": "dev",
-      "tag": "ai,  antigravity",
-      "url": "https://dev.to/gde/retour-sur-le-google-io-2026-focus-antigravity-20-33jh"
-    },
-    {
-      "title": "Characterize the AWS Graviton memory subsystem using ASCT",
-      "hot": "❤️ 0 💬 0",
-      "desc": "If you've ever deployed memory-bound workloads on AWS Graviton, you know that CPU compute speed is...",
-      "source": "dev",
-      "tag": "aws,  arm",
-      "url": "https://dev.to/aws-builders/characterize-the-aws-graviton-memory-subsystem-using-asct-4e24"
-    },
-    {
-      "title": "Am I Becoming Too Slow for the AI World?",
-      "hot": "❤️ 59 💬 35",
-      "desc": "The AI world is full of old infrastructure with stochastic organs.   That sentence probably explains...",
-      "source": "dev",
-      "tag": "ai,  programming",
-      "url": "https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904"
-    },
-    {
-      "title": "I Built a Terminal Dashboard to Keep Track of All My Local Projects",
-      "hot": "❤️ 0 💬 0",
-      "desc": "A terminal dashboard that scans your local projects and shows stack, git activity, and status at a glance. Open in edito",
-      "source": "dev",
-      "tag": "cli,  tui",
-      "url": "https://dev.to/roie/i-built-a-terminal-dashboard-to-keep-track-of-all-my-local-projects-19k3"
-    },
-    {
-      "title": "Multi-step form without the overhead",
-      "hot": "❤️ 2 💬 0",
-      "desc": "Using built-in form GET method to pass data from one page to another without complicated code.",
-      "source": "dev",
-      "tag": "html,  javascript",
-      "url": "https://dev.to/ovidem/multi-step-form-without-the-overhead-5bjc"
-    },
-    {
-      "title": "LiveKnowledge: Engineering Verifiable Knowledge",
-      "hot": "❤️ 1 💬 0",
-      "desc": "LiveKnowledge is a CLI tool that closes the loop between unstructured text and structured, verifiable...",
-      "source": "dev",
-      "tag": "ai,  agents",
-      "url": "https://dev.to/adamrybinski/liveknowledge-engineering-verifiable-knowledge-5gkl"
-    },
-    {
-      "title": "Stop writing prompts to classify text: make evaluation declarative",
-      "hot": "❤️ 0 💬 0",
-      "desc": "I've built the same thing more than once: a step that reads an inbound message — a lead form, a...",
-      "source": "dev",
-      "tag": "ai,  llm",
-      "url": "https://dev.to/ayoolasolomon/stop-writing-prompts-to-classify-text-make-evaluation-declarative-5555"
-    },
-    {
-      "title": "Strategies for running AI workloads on GKE without committed quota",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Learn different strategies to use hard-to-get hardware accelerators with Google Kubernetes Engine (GKE).",
-      "source": "dev",
-      "tag": "kubernetes,  ai",
-      "url": "https://dev.to/googlecloud/strategies-for-running-ai-workloads-on-gke-without-committed-quota-484l"
-    },
-    {
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 61 💬 26",
-      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
-      "source": "dev",
-      "tag": "top7,  discuss",
-      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-62k"
-    },
-    {
-      "title": "Want to work with me? We're hiring a Community Program Manager at DEV!",
-      "hot": "❤️ 45 💬 12",
-      "desc": "Hey friends 👋  As the title suggests, we are hiring!   If you've been with us for a little while, I'm...",
-      "source": "dev",
-      "tag": "career,  meta",
-      "url": "https://dev.to/devteam/want-to-work-with-me-were-hiring-a-community-program-manager-at-dev-3fol"
-    },
-    {
-      "title": "I Finished What I Started: Adding AI to Every Layer of a Form Builder (With GitHub Copilot)",
-      "hot": "❤️ 3 💬 0",
-      "desc": "This is a submission for the GitHub Finish-Up-A-Thon Challenge              What I Built   Dculus...",
-      "source": "dev",
-      "tag": "devchallenge,  githubchallenge",
-      "url": "https://dev.to/natheesh_kumar_8ad28dbe85/i-finished-what-i-started-adding-ai-to-every-layer-of-a-form-builder-with-github-copilot-942"
-    },
-    {
-      "title": "🦄 Modernizing Wild Rydes with modern technologies",
-      "hot": "❤️ 0 💬 0",
-      "desc": "How I rebuilt the classic AWS Wild Rydes serverless app with Terraform, GitHub Actions, S3 + CloudFront, OIDC, and a mod",
-      "source": "dev",
-      "tag": "aws,  terraform",
-      "url": "https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p"
-    }
-  ],
   "tech": [
     {
-      "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
+      "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
       "hot": "3.0m",
-      "desc": "ntsc.rs",
+      "desc": "ioccc.org",
       "source": "tech",
-      "tag": "⬆️ 272 points",
-      "url": "https://ntsc.rs/"
+      "tag": "⬆️ 26 points",
+      "url": "https://www.ioccc.org/2025/"
+    },
+    {
+      "title": "I design with Claude more than Figma now",
+      "hot": "3.0m",
+      "desc": "blog.janestreet.com",
+      "source": "tech",
+      "tag": "⬆️ 49 points",
+      "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/"
+    },
+    {
+      "title": "Valve P2P networking broken for more than 2 months",
+      "hot": "3.0m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 105 points",
+      "url": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398"
+    },
+    {
+      "title": "Field of clones: How horse replicas came to dominate polo",
+      "hot": "3.0m",
+      "desc": "knowablemagazine.org",
+      "source": "tech",
+      "tag": "⬆️ 64 points",
+      "url": "https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses"
+    },
+    {
+      "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+      "hot": "2.9m",
+      "desc": "arxiv.org",
+      "source": "tech",
+      "tag": "⬆️ 78 points",
+      "url": "https://arxiv.org/abs/2601.14470"
     },
     {
       "title": "Harness engineering: Leveraging Codex in an agent-first world",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "openai.com",
       "source": "tech",
-      "tag": "⬆️ 63 points",
+      "tag": "⬆️ 165 points",
       "url": "https://openai.com/index/harness-engineering/"
     },
     {
-      "title": "Introducing Boron Buckyballs: Theory that B80 cages can’t be made is disproved",
-      "hot": "3.0m",
-      "desc": "cen.acs.org",
-      "source": "tech",
-      "tag": "⬆️ 30 points",
-      "url": "https://cen.acs.org/materials/nanomaterials/buckyballs-boron-buckminster-fullerene-nanomaterials/104/web/2026/06"
-    },
-    {
-      "title": "Moving beyond fork() + exec()",
-      "hot": "3.0m",
-      "desc": "lwn.net",
-      "source": "tech",
-      "tag": "⬆️ 254 points",
-      "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/"
-    },
-    {
-      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+      "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
       "hot": "2.9m",
-      "desc": "this.weekinsecurity.com",
+      "desc": "ntsc.rs",
       "source": "tech",
-      "tag": "⬆️ 436 points",
-      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/"
-    },
-    {
-      "title": "Zeroserve: A zero-config web server you can script with eBPF",
-      "hot": "2.9m",
-      "desc": "su3.io",
-      "source": "tech",
-      "tag": "⬆️ 194 points",
-      "url": "https://su3.io/posts/introducing-zeroserve"
-    },
-    {
-      "title": "An Ohio Valley 100k-Watt FM Signal Is Severed in Broad Daylight – Radio World",
-      "hot": "2.9m",
-      "desc": "radioworld.com",
-      "source": "tech",
-      "tag": "⬆️ 6 points",
-      "url": "https://www.radioworld.com/news-and-business/headlines/an-ohio-valley-100000-watt-fm-signal-is-severed-in-broad-daylight"
+      "tag": "⬆️ 318 points",
+      "url": "https://ntsc.rs/"
     },
     {
       "title": "Public Domain Image Archive",
       "hot": "2.9m",
       "desc": "pdimagearchive.org",
       "source": "tech",
-      "tag": "⬆️ 12 points",
+      "tag": "⬆️ 86 points",
       "url": "https://pdimagearchive.org/"
     },
     {
-      "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
+      "title": "Symbolica 2.0: Programmable Symbols for Python and Rust",
       "hot": "2.9m",
-      "desc": "twitter.com",
+      "desc": "symbolica.io",
       "source": "tech",
-      "tag": "⬆️ 232 points",
-      "url": "https://twitter.com/lemire/status/2062880075117113739"
+      "tag": "⬆️ 53 points",
+      "url": "https://symbolica.io/posts/symbolica_2_0_release/"
     },
     {
-      "title": "Sem: New primitive for code understanding – not LSPs, but entities on top of Git",
+      "title": "Human-Like Neural Nets by Catapulting",
       "hot": "2.9m",
-      "desc": "ataraxy-labs.github.io",
+      "desc": "gwern.net",
       "source": "tech",
-      "tag": "⬆️ 56 points",
-      "url": "https://ataraxy-labs.github.io/sem/"
+      "tag": "⬆️ 19 points",
+      "url": "https://gwern.net/llm-catapult"
     },
     {
-      "title": "Show HN: DomainTasker – avoid losing domains and surprise renewals",
+      "title": "My Software North Star",
       "hot": "2.9m",
-      "desc": "domaintasker.com",
+      "desc": "kristoff.it",
       "source": "tech",
-      "tag": "⬆️ 9 points",
-      "url": "https://domaintasker.com/"
+      "tag": "⬆️ 18 points",
+      "url": "https://kristoff.it/blog/north-star/"
     },
     {
-      "title": "Show HN: Keybench – Scriptable, extensible performance tool for key value stores",
+      "title": "How Liminalism Became the Defining Aesthetic of Our Time",
+      "hot": "2.8m",
+      "desc": "hyperallergic.com",
+      "source": "tech",
+      "tag": "⬆️ 38 points",
+      "url": "https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/"
+    },
+    {
+      "title": "Show HN: Oproxy – inspect and modify network traffic from the browser",
       "hot": "2.8m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 8 points",
-      "url": "https://github.com/guycipher/keybench"
+      "tag": "⬆️ 33 points",
+      "url": "https://github.com/sauravrao637/oproxy"
     },
     {
-      "title": "You Can Run",
+      "title": "Biohub releases a world model of protein biology",
       "hot": "2.8m",
-      "desc": "magazine.atavist.com",
+      "desc": "biohub.org",
       "source": "tech",
-      "tag": "⬆️ 101 points",
-      "url": "https://magazine.atavist.com/2026/mccann-cocaine-fugitives"
+      "tag": "⬆️ 38 points",
+      "url": "https://biohub.org/news/world-model-of-protein-biology/"
     },
     {
-      "title": "Google to pay SpaceX $920M a month for compute capacity at xAI data centers",
+      "title": "Introducing Boron Buckyballs: Theory that B80 cages can’t be made is disproved",
       "hot": "2.8m",
-      "desc": "cnbc.com",
+      "desc": "cen.acs.org",
       "source": "tech",
-      "tag": "⬆️ 151 points",
-      "url": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html"
+      "tag": "⬆️ 71 points",
+      "url": "https://cen.acs.org/materials/nanomaterials/buckyballs-boron-buckminster-fullerene-nanomaterials/104/web/2026/06"
     },
     {
-      "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)",
+      "title": "Moving beyond fork() + exec()",
       "hot": "2.8m",
-      "desc": "pokeemerald.com",
+      "desc": "lwn.net",
       "source": "tech",
-      "tag": "⬆️ 277 points",
-      "url": "https://pokeemerald.com/"
+      "tag": "⬆️ 285 points",
+      "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/"
     },
     {
-      "title": "Show HN: Infinite canvas notes in the non-Euclidean Poincaré disk",
+      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
       "hot": "2.8m",
-      "desc": "uonr.github.io",
+      "desc": "this.weekinsecurity.com",
       "source": "tech",
-      "tag": "⬆️ 124 points",
-      "url": "https://uonr.github.io/poincake/"
+      "tag": "⬆️ 541 points",
+      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/"
     },
     {
-      "title": "Unicode Fonts and Tools for X11",
-      "hot": "2.8m",
-      "desc": "cl.cam.ac.uk",
-      "source": "tech",
-      "tag": "⬆️ 16 points",
-      "url": "https://www.cl.cam.ac.uk/~mgk25/ucs-fonts.html"
-    },
-    {
-      "title": "Computex 2026: Are We Heading for the Agentic PC Era Yet?",
+      "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
       "hot": "2.7m",
-      "desc": "eetimes.com",
+      "desc": "twitter.com",
       "source": "tech",
-      "tag": "⬆️ 24 points",
-      "url": "https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/"
+      "tag": "⬆️ 267 points",
+      "url": "https://twitter.com/lemire/status/2062880075117113739"
     },
     {
-      "title": "How Other Link Checkers Do Recursion",
+      "title": "Zeroserve: A zero-config web server you can script with eBPF",
       "hot": "2.7m",
-      "desc": "endler.dev",
+      "desc": "su3.io",
       "source": "tech",
-      "tag": "⬆️ 3 points",
-      "url": "https://endler.dev/2026/how-other-link-checkers-recurse/"
+      "tag": "⬆️ 220 points",
+      "url": "https://su3.io/posts/introducing-zeroserve"
     },
     {
-      "title": "Ask HN: What was your \"oh shit\" moment with GenAI?",
+      "title": "Show HN: Free animated icon library for Vue",
       "hot": "2.7m",
-      "desc": "news.ycombinator.com",
+      "desc": "respeak-io.github.io",
       "source": "tech",
-      "tag": "⬆️ 549 points",
-      "url": "https://news.ycombinator.com/item?id=48406174"
-    }
-  ],
-  "github": [
-    {
-      "title": "pewdiepie-archdaemon/odysseus: Self-hosted AI workspace. ",
-      "hot": "⭐ 59.1k",
-      "desc": "Self-hosted AI workspace. ",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/pewdiepie-archdaemon/odysseus"
-    },
-    {
-      "title": "b-nnett/goose: Goose Swift proof-of-concept README",
-      "hot": "⭐ 2.2k",
-      "desc": "Goose Swift proof-of-concept README",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/b-nnett/goose"
-    },
-    {
-      "title": "cpaczek/skylight: Project the aircraft passing overhead onto your ceiling in rea",
-      "hot": "⭐ 2.1k",
-      "desc": "Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each p",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/cpaczek/skylight"
-    },
-    {
-      "title": "asz798838958/aBaiAutoplus: 多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
-      "hot": "⭐ 1.6k",
-      "desc": "多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/asz798838958/aBaiAutoplus"
-    },
-    {
-      "title": "ClaudioDrews/memory-os: A 7-layer memory operating system for Hermes Agent — per",
-      "hot": "⭐ 952",
-      "desc": "A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical c",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/ClaudioDrews/memory-os"
-    },
-    {
-      "title": "jd-opensource/JoyAI-Echo: JoyAI-Echo: Pushing the Frontier of Long Audio-Visual ",
-      "hot": "⭐ 716",
-      "desc": "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/jd-opensource/JoyAI-Echo"
-    },
-    {
-      "title": "qiuqiubuchongle-cloud/chokepoint-atlas: ",
-      "hot": "⭐ 590",
-      "desc": "qiuqiubuchongle-cloud/chokepoint-atlas",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas"
-    },
-    {
-      "title": "anomalyco/rift: ",
-      "hot": "⭐ 548",
-      "desc": "anomalyco/rift",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/anomalyco/rift"
-    },
-    {
-      "title": "VAST-AI-Research/TripoSplat: TripoSplat converts a single 2D image into high-qua",
-      "hot": "⭐ 494",
-      "desc": "TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/VAST-AI-Research/TripoSplat"
-    },
-    {
-      "title": "tastyeffectco/sandboxes: Self-hosted dev sandboxes with preview URLs. One comman",
-      "hot": "⭐ 471",
-      "desc": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
-      "source": "github",
-      "tag": "Go",
-      "url": "https://github.com/tastyeffectco/sandboxes"
-    },
-    {
-      "title": "Jane-xiaoer/xiaoer-videolab: One click on the toolbar grabs the current page's v",
-      "hot": "⭐ 452",
-      "desc": "One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/Jane-xiaoer/xiaoer-videolab"
-    },
-    {
-      "title": "tiantianGPU/reg-factory: ",
-      "hot": "⭐ 443",
-      "desc": "tiantianGPU/reg-factory",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/tiantianGPU/reg-factory"
-    },
-    {
-      "title": "chaitanyagiri/munder-difflin: local multi-agent harness",
-      "hot": "⭐ 414",
-      "desc": "local multi-agent harness",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/chaitanyagiri/munder-difflin"
-    },
-    {
-      "title": "MatixYo/ESP32-Plane-Radar: Open-source ESP32 firmware for a 1.28″ round display ",
-      "hot": "⭐ 409",
-      "desc": "Open-source ESP32 firmware for a 1.28″ round display that shows live ADS-B aircraft around your location as a sonar-style plane radar.",
-      "source": "github",
-      "tag": "C++",
-      "url": "https://github.com/MatixYo/ESP32-Plane-Radar"
-    },
-    {
-      "title": "Fullive-AI/Anima: Make Every Hardware Intelligent — an open-source Agent OS for ",
-      "hot": "⭐ 390",
-      "desc": "Make Every Hardware Intelligent — an open-source Agent OS for hardware intelligence",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/Fullive-AI/Anima"
+      "tag": "⬆️ 12 points",
+      "url": "https://respeak-io.github.io/lucide-motion-vue/"
     }
   ],
   "space": [
@@ -567,6 +283,290 @@
       "source": "space",
       "tag": "NASA",
       "url": "https://science.nasa.gov/earth/nasa-funded-study-shows-wildfire-smokes-hidden-ozone-toll/"
+    }
+  ],
+  "github": [
+    {
+      "title": "pewdiepie-archdaemon/odysseus: Self-hosted AI workspace. ",
+      "hot": "⭐ 59.6k",
+      "desc": "Self-hosted AI workspace. ",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/pewdiepie-archdaemon/odysseus"
+    },
+    {
+      "title": "b-nnett/goose: Goose Swift proof-of-concept README",
+      "hot": "⭐ 2.2k",
+      "desc": "Goose Swift proof-of-concept README",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/b-nnett/goose"
+    },
+    {
+      "title": "cpaczek/skylight: Project the aircraft passing overhead onto your ceiling in rea",
+      "hot": "⭐ 2.1k",
+      "desc": "Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each p",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/cpaczek/skylight"
+    },
+    {
+      "title": "asz798838958/aBaiAutoplus: 多平台 AI 账号自动注册与管理 �� 协议化付款一键开通 ChatGPT Plus",
+      "hot": "⭐ 1.6k",
+      "desc": "多平台 AI 账号自动注册与管理 �� 协议化付款一键开通 ChatGPT Plus",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/asz798838958/aBaiAutoplus"
+    },
+    {
+      "title": "ClaudioDrews/memory-os: A 7-layer memory operating system for Hermes Agent — per",
+      "hot": "⭐ 961",
+      "desc": "A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical c",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/ClaudioDrews/memory-os"
+    },
+    {
+      "title": "jd-opensource/JoyAI-Echo: JoyAI-Echo: Pushing the Frontier of Long Audio-Visual ",
+      "hot": "⭐ 753",
+      "desc": "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/jd-opensource/JoyAI-Echo"
+    },
+    {
+      "title": "qiuqiubuchongle-cloud/chokepoint-atlas: ",
+      "hot": "⭐ 592",
+      "desc": "qiuqiubuchongle-cloud/chokepoint-atlas",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas"
+    },
+    {
+      "title": "anomalyco/rift: ",
+      "hot": "⭐ 550",
+      "desc": "anomalyco/rift",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/anomalyco/rift"
+    },
+    {
+      "title": "VAST-AI-Research/TripoSplat: TripoSplat converts a single 2D image into high-qua",
+      "hot": "⭐ 503",
+      "desc": "TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/VAST-AI-Research/TripoSplat"
+    },
+    {
+      "title": "tastyeffectco/sandboxes: Self-hosted dev sandboxes with preview URLs. One comman",
+      "hot": "⭐ 476",
+      "desc": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
+      "source": "github",
+      "tag": "Go",
+      "url": "https://github.com/tastyeffectco/sandboxes"
+    },
+    {
+      "title": "tiantianGPU/reg-factory: ",
+      "hot": "⭐ 465",
+      "desc": "tiantianGPU/reg-factory",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/tiantianGPU/reg-factory"
+    },
+    {
+      "title": "Jane-xiaoer/xiaoer-videolab: One click on the toolbar grabs the current page's v",
+      "hot": "⭐ 456",
+      "desc": "One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/Jane-xiaoer/xiaoer-videolab"
+    },
+    {
+      "title": "chaitanyagiri/munder-difflin: local multi-agent harness",
+      "hot": "⭐ 419",
+      "desc": "local multi-agent harness",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/chaitanyagiri/munder-difflin"
+    },
+    {
+      "title": "MatixYo/ESP32-Plane-Radar: Open-source ESP32 firmware for a 1.28″ round display ",
+      "hot": "⭐ 412",
+      "desc": "Open-source ESP32 firmware for a 1.28″ round display that shows live ADS-B aircraft around your location as a sonar-style plane radar.",
+      "source": "github",
+      "tag": "C++",
+      "url": "https://github.com/MatixYo/ESP32-Plane-Radar"
+    },
+    {
+      "title": "Fullive-AI/Anima: Make Every Hardware Intelligent — an open-source Agent OS for ",
+      "hot": "⭐ 389",
+      "desc": "Make Every Hardware Intelligent — an open-source Agent OS for hardware intelligence",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/Fullive-AI/Anima"
+    }
+  ],
+  "dev": [
+    {
+      "title": "Join the June Solstice Game Jam: $1,000 in prizes!",
+      "hot": "❤️ 165 💬 25",
+      "desc": "We're excited to kick off the June Solstice Game Jam, running from June 3 through June 21 and ending...",
+      "source": "dev",
+      "tag": "devchallenge,  gamechallenge",
+      "url": "https://dev.to/devteam/join-the-june-solstice-game-jam-1000-in-prizes-3jla"
+    },
+    {
+      "title": "Magnificent Humanity, Building Cities, and a Special Announcement!",
+      "hot": "❤️ 7 💬 3",
+      "desc": "I'm back from a great vacation and side-quest experience in Asia, where one can always find brilliant...",
+      "source": "dev",
+      "tag": "ai,  wecoded",
+      "url": "https://dev.to/jenlooper/magnificent-humanity-building-cities-and-a-special-announcement-54pf"
+    },
+    {
+      "title": "Seamless scaling with VPA In-place Pod Resize on GKE",
+      "hot": "❤️ 5 💬 0",
+      "desc": "Learn how VPA In-place Pod Resize can help seamlessly vertically scale workloads on Google Kubernetes Engine (GKE).",
+      "source": "dev",
+      "tag": "kubernetes,  ai",
+      "url": "https://dev.to/googlecloud/seamless-scaling-with-vpa-in-place-pod-resize-on-gke-117p"
+    },
+    {
+      "title": "Physics, Engineering, and Architecture in Software Systems and the obsession with Architecture",
+      "hot": "❤️ 0 💬 0",
+      "desc": "Something that has been bothering me for a while in the software industry is how disproportionately...",
+      "source": "dev",
+      "tag": "architecture,  softwaredesign",
+      "url": "https://dev.to/rodrigovidal/physics-engineering-and-architecture-in-software-systems-and-the-obsession-with-architecture-68j"
+    },
+    {
+      "title": "Dystopian Civilization Scenarios",
+      "hot": "❤️ 11 💬 1",
+      "desc": "Gaming, like AI, is far from what fascinates me most about technology and creative development....",
+      "source": "dev",
+      "tag": "watercooler",
+      "url": "https://dev.to/ingosteinke/dystopian-civilization-scenarios-4422"
+    },
+    {
+      "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+      "hot": "❤️ 37 💬 2",
+      "desc": "Gemma 4 12B is designed to bring high-performance multimodal intelligence directly to your laptop,...",
+      "source": "dev",
+      "tag": "ai,  machinelearning",
+      "url": "https://dev.to/googleai/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model-3ge5"
+    },
+    {
+      "title": "Am I Becoming Too Slow for the AI World?",
+      "hot": "❤️ 61 💬 37",
+      "desc": "The AI world is full of old infrastructure with stochastic organs.   That sentence probably explains...",
+      "source": "dev",
+      "tag": "ai,  programming",
+      "url": "https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904"
+    },
+    {
+      "title": "Retour sur le Google I/O 2026 | Focus Antigravity 2.0",
+      "hot": "❤️ 5 💬 0",
+      "desc": "En mai, la très attendue conférence Google I/O a eu lieu et le mot d’ordre, et ce n’est pas trop une...",
+      "source": "dev",
+      "tag": "ai,  antigravity",
+      "url": "https://dev.to/gde/retour-sur-le-google-io-2026-focus-antigravity-20-33jh"
+    },
+    {
+      "title": "Characterize the AWS Graviton memory subsystem using ASCT",
+      "hot": "❤️ 0 💬 0",
+      "desc": "If you've ever deployed memory-bound workloads on AWS Graviton, you know that CPU compute speed is...",
+      "source": "dev",
+      "tag": "aws,  arm",
+      "url": "https://dev.to/aws-builders/characterize-the-aws-graviton-memory-subsystem-using-asct-4e24"
+    },
+    {
+      "title": "I Built a Terminal Dashboard to Keep Track of All My Local Projects",
+      "hot": "❤️ 0 💬 0",
+      "desc": "A terminal dashboard that scans your local projects and shows stack, git activity, and status at a glance. Open in edito",
+      "source": "dev",
+      "tag": "cli,  tui",
+      "url": "https://dev.to/roie/i-built-a-terminal-dashboard-to-keep-track-of-all-my-local-projects-19k3"
+    },
+    {
+      "title": "Multi-step form without the overhead",
+      "hot": "❤️ 2 💬 0",
+      "desc": "Using built-in form GET method to pass data from one page to another without complicated code.",
+      "source": "dev",
+      "tag": "html,  javascript",
+      "url": "https://dev.to/ovidem/multi-step-form-without-the-overhead-5bjc"
+    },
+    {
+      "title": "LiveKnowledge: Engineering Verifiable Knowledge",
+      "hot": "❤️ 1 💬 0",
+      "desc": "LiveKnowledge is a CLI tool that closes the loop between unstructured text and structured, verifiable...",
+      "source": "dev",
+      "tag": "ai,  agents",
+      "url": "https://dev.to/adamrybinski/liveknowledge-engineering-verifiable-knowledge-5gkl"
+    },
+    {
+      "title": "Stop writing prompts to classify text: make evaluation declarative",
+      "hot": "❤️ 0 💬 0",
+      "desc": "I've built the same thing more than once: a step that reads an inbound message — a lead form, a...",
+      "source": "dev",
+      "tag": "ai,  llm",
+      "url": "https://dev.to/ayoolasolomon/stop-writing-prompts-to-classify-text-make-evaluation-declarative-5555"
+    },
+    {
+      "title": "Strategies for running AI workloads on GKE without committed quota",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Learn different strategies to use hard-to-get hardware accelerators with Google Kubernetes Engine (GKE).",
+      "source": "dev",
+      "tag": "kubernetes,  ai",
+      "url": "https://dev.to/googlecloud/strategies-for-running-ai-workloads-on-gke-without-committed-quota-484l"
+    },
+    {
+      "title": "AI Won't Replace Humans — It'll Just Make Us Pickier",
+      "hot": "❤️ 10 💬 3",
+      "desc": "Every few weeks someone posts the same screenshot: an AI writing a whole app from a one-line prompt,...",
+      "source": "dev",
+      "tag": "ai,  discuss",
+      "url": "https://dev.to/markofrei919/ai-wont-replace-humans-itll-just-make-us-pickier-2iij"
+    },
+    {
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "hot": "❤️ 61 💬 26",
+      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+      "source": "dev",
+      "tag": "top7,  discuss",
+      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-62k"
+    },
+    {
+      "title": "Want to work with me? We're hiring a Community Program Manager at DEV!",
+      "hot": "❤️ 46 💬 12",
+      "desc": "Hey friends 👋  As the title suggests, we are hiring!   If you've been with us for a little while, I'm...",
+      "source": "dev",
+      "tag": "career,  meta",
+      "url": "https://dev.to/devteam/want-to-work-with-me-were-hiring-a-community-program-manager-at-dev-3fol"
+    },
+    {
+      "title": "I Finished What I Started: Adding AI to Every Layer of a Form Builder (With GitHub Copilot)",
+      "hot": "❤️ 3 💬 0",
+      "desc": "This is a submission for the GitHub Finish-Up-A-Thon Challenge              What I Built   Dculus...",
+      "source": "dev",
+      "tag": "devchallenge,  githubchallenge",
+      "url": "https://dev.to/natheesh_kumar_8ad28dbe85/i-finished-what-i-started-adding-ai-to-every-layer-of-a-form-builder-with-github-copilot-942"
+    },
+    {
+      "title": "🦄 Modernizing Wild Rydes with modern technologies",
+      "hot": "❤️ 0 💬 0",
+      "desc": "How I rebuilt the classic AWS Wild Rydes serverless app with Terraform, GitHub Actions, S3 + CloudFront, OIDC, and a mod",
+      "source": "dev",
+      "tag": "aws,  terraform",
+      "url": "https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p"
+    },
+    {
+      "title": "The Software Developer's Guide to AEO",
+      "hot": "❤️ 0 💬 0",
+      "desc": "When I was writing code full-time five years ago, I Googled error messages, opened five tabs, and...",
+      "source": "dev",
+      "tag": "ai,  contentwriting",
+      "url": "https://dev.to/karllhughes/the-software-developers-guide-to-aeo-1h5h"
     }
   ]
 }
