@@ -1,6 +1,38 @@
 {
   "data": [
     {
+      "title": "You’re a Real TypeScript Developer Only If...",
+      "hot": "❤️ 50 💬 19",
+      "desc": "A few months ago, I published You're a Real JavaScript Developer Only If...  It was just a post for...",
+      "source": "dev",
+      "tag": "webdev,  typescript",
+      "url": "https://dev.to/hadil/youre-a-real-typescript-developer-only-if-1d9o"
+    },
+    {
+      "title": "It's Time We All Eat some more Cucumber!",
+      "hot": "❤️ 9 💬 1",
+      "desc": "Everyone's writing specs for AI now. We hand the model a markdown file, tell it what we want, and...",
+      "source": "dev",
+      "tag": "ai,  tdd",
+      "url": "https://dev.to/sebs/its-time-we-all-eat-some-cucumber-16ic"
+    },
+    {
+      "title": "Dialling Our Agents to 11: My Favourite MCP Servers",
+      "hot": "❤️ 6 💬 0",
+      "desc": "What This Article Is About   I’d like to tell you about a few of the MCP servers and agent...",
+      "source": "dev",
+      "tag": "mcpserver,  agenticai",
+      "url": "https://dev.to/gde/dialling-our-agents-to-11-my-favourite-mcp-servers-3hbm"
+    },
+    {
+      "title": "Meme Monday",
+      "hot": "❤️ 14 💬 21",
+      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
+      "source": "dev",
+      "tag": "discuss,  jokes",
+      "url": "https://dev.to/ben/meme-monday-1m9f"
+    },
+    {
       "title": "Seamless scaling with VPA In-place Pod Resize on GKE",
       "hot": "❤️ 5 💬 0",
       "desc": "Learn how VPA In-place Pod Resize can help seamlessly vertically scale workloads on Google Kubernetes Engine (GKE).",
@@ -25,6 +57,14 @@
       "url": "https://dev.to/ingosteinke/dystopian-civilization-scenarios-4422"
     },
     {
+      "title": "Building an AI Sales RFP Assistant with Google Workspace Studio & NotebookLM",
+      "hot": "❤️ 6 💬 0",
+      "desc": "If you are a Sales Engineer or Account Executive, you know that responding to a Request for Proposal...",
+      "source": "dev",
+      "tag": "workspacestudio,  googleworkspace",
+      "url": "https://dev.to/gde/building-an-ai-sales-rfp-assistant-with-google-workspace-studio-notebooklm-3cl"
+    },
+    {
       "title": "Retour sur le Google I/O 2026 | Focus Antigravity 2.0",
       "hot": "❤️ 5 💬 0",
       "desc": "En mai, la très attendue conférence Google I/O a eu lieu et le mot d’ordre, et ce n’est pas trop une...",
@@ -42,7 +82,7 @@
     },
     {
       "title": "Join the June Solstice Game Jam: $1,000 in prizes!",
-      "hot": "❤️ 175 💬 43",
+      "hot": "❤️ 177 💬 45",
       "desc": "We're excited to kick off the June Solstice Game Jam, running from June 3 through June 21 and ending...",
       "source": "dev",
       "tag": "devchallenge,  gamechallenge",
@@ -57,12 +97,28 @@
       "url": "https://dev.to/ayoolasolomon/stop-writing-prompts-to-classify-text-make-evaluation-declarative-5555"
     },
     {
+      "title": "[GCP Practical] LINE Business Card Bot",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Upgrade Preamble   After refactoring the agent based on Vertex AI ADK, our LINE Name Card...",
+      "source": "dev",
+      "tag": "api,  gemini",
+      "url": "https://dev.to/gde/gcp-practical-line-business-card-bot-d46"
+    },
+    {
       "title": "Strategies for running AI workloads on GKE without committed quota",
       "hot": "❤️ 6 💬 0",
       "desc": "Learn different strategies to use hard-to-get hardware accelerators with Google Kubernetes Engine (GKE).",
       "source": "dev",
       "tag": "kubernetes,  ai",
       "url": "https://dev.to/googlecloud/strategies-for-running-ai-workloads-on-gke-without-committed-quota-484l"
+    },
+    {
+      "title": "Dev Opportunity Radar #2: A Fully-Funded Residency in Finland, AI Research Program, and a $60K Hackathon",
+      "hot": "❤️ 70 💬 21",
+      "desc": "TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...",
+      "source": "dev",
+      "tag": "discuss,  community",
+      "url": "https://dev.to/hemapriya_kanagala/dev-opportunity-radar-2-a-fully-funded-residency-in-finland-ai-research-program-and-a-60k-33l4"
     },
     {
       "title": "I Finished What I Started: Adding AI to Every Layer of a Form Builder (With GitHub Copilot)",
@@ -98,68 +154,12 @@
     },
     {
       "title": "How Are Developers Actually Using AI At Work?",
-      "hot": "❤️ 172 💬 237",
+      "hot": "❤️ 173 💬 237",
       "desc": "JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...",
       "source": "dev",
       "tag": "discuss,  ai",
       "url": "https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c"
-    },
-    {
-      "title": "Broken Software",
-      "hot": "❤️ 0 💬 0",
-      "desc": "Series of posts about broken software. Short stories.  Today, Firefox.  Turns out to be that closing...",
-      "source": "dev",
-      "tag": "bugs,  software",
-      "url": "https://dev.to/alex27/broken-software-b54"
-    },
-    {
-      "title": "Am I Becoming Too Slow for the AI World?",
-      "hot": "❤️ 77 💬 45",
-      "desc": "The AI world is full of old infrastructure with stochastic organs.   That sentence probably explains...",
-      "source": "dev",
-      "tag": "ai,  programming",
-      "url": "https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904"
-    },
-    {
-      "title": "Azure Cloud Shell with Antigravity CLI",
-      "hot": "❤️ 5 💬 0",
-      "desc": "This article covers the initial setup and configuration for the Antigravity CLI on the Azure Cloud...",
-      "source": "dev",
-      "tag": "cli,  azurecloudshell",
-      "url": "https://dev.to/gde/azure-cloud-shell-with-antigravity-cli-mn6"
-    },
-    {
-      "title": "Kaggle is making AI benchmark creation effortless",
-      "hot": "❤️ 16 💬 1",
-      "desc": "As AI models evolve from simple chatbots into reasoning agents that write code, use tools and solve...",
-      "source": "dev",
-      "tag": "ai",
-      "url": "https://dev.to/googleai/kaggle-is-making-ai-benchmark-creation-effortless-1g7n"
-    },
-    {
-      "title": "Query Markdown as a Database with mq-db: SQL, mq, and Interval Indexes",
-      "hot": "❤️ 0 💬 0",
-      "desc": "mq-db treats Markdown files as a structured database. Index documents, run SQL queries with hierarchy support, and explo",
-      "source": "dev",
-      "tag": "markdown,  database",
-      "url": "https://dev.to/harehare/query-markdown-as-a-database-with-mq-db-sql-mq-and-interval-indexes-52h9"
-    },
-    {
-      "title": "🗓️ Monthly Dev Report: May 2026",
-      "hot": "❤️ 75 💬 65",
-      "desc": "Hey everyone! I bring you my development journey on what I have discovered, accomplishments for this...",
-      "source": "dev",
-      "tag": "discuss,  devjournal",
-      "url": "https://dev.to/francistrdev/monthly-dev-report-may-2026-3gjj"
-    },
-    {
-      "title": "From Forgotten Tech Test to Mini Product: The Comeback of My Django Proxy",
-      "hot": "❤️ 4 💬 0",
-      "desc": "This is a submission for the GitHub Finish-Up-A-Thon Challenge           What I Built   I took one of...",
-      "source": "dev",
-      "tag": "devchallenge,  githubchallenge",
-      "url": "https://dev.to/lucasrafaldini/from-forgotten-tech-test-to-mini-product-the-comeback-of-my-django-proxy-5cn"
     }
   ],
-  "updatedAt": "2026-06-08T12:11:42.150Z"
+  "updatedAt": "2026-06-08T16:32:18.496Z"
 }
