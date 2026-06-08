@@ -1,175 +1,29 @@
 {
-  "updatedAt": "2026-06-08T02:08:12.481Z",
+  "updatedAt": "2026-06-08T07:10:37.881Z",
   "source": "live",
-  "dev": [
-    {
-      "title": "Join the June Solstice Game Jam: $1,000 in prizes!",
-      "hot": "❤️ 168 💬 29",
-      "desc": "We're excited to kick off the June Solstice Game Jam, running from June 3 through June 21 and ending...",
-      "source": "dev",
-      "tag": "devchallenge,  gamechallenge",
-      "url": "https://dev.to/devteam/join-the-june-solstice-game-jam-1000-in-prizes-3jla"
-    },
-    {
-      "title": "Seamless scaling with VPA In-place Pod Resize on GKE",
-      "hot": "❤️ 5 💬 0",
-      "desc": "Learn how VPA In-place Pod Resize can help seamlessly vertically scale workloads on Google Kubernetes Engine (GKE).",
-      "source": "dev",
-      "tag": "kubernetes,  ai",
-      "url": "https://dev.to/googlecloud/seamless-scaling-with-vpa-in-place-pod-resize-on-gke-117p"
-    },
-    {
-      "title": "Physics, Engineering, and Architecture in Software Systems and the obsession with Architecture",
-      "hot": "❤️ 0 💬 0",
-      "desc": "Something that has been bothering me for a while in the software industry is how disproportionately...",
-      "source": "dev",
-      "tag": "architecture,  softwaredesign",
-      "url": "https://dev.to/rodrigovidal/physics-engineering-and-architecture-in-software-systems-and-the-obsession-with-architecture-68j"
-    },
-    {
-      "title": "Dystopian Civilization Scenarios",
-      "hot": "❤️ 11 💬 1",
-      "desc": "Gaming, like AI, is far from what fascinates me most about technology and creative development....",
-      "source": "dev",
-      "tag": "watercooler",
-      "url": "https://dev.to/ingosteinke/dystopian-civilization-scenarios-4422"
-    },
-    {
-      "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
-      "hot": "❤️ 37 💬 2",
-      "desc": "Gemma 4 12B is designed to bring high-performance multimodal intelligence directly to your laptop,...",
-      "source": "dev",
-      "tag": "ai,  machinelearning",
-      "url": "https://dev.to/googleai/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model-3ge5"
-    },
-    {
-      "title": "Retour sur le Google I/O 2026 | Focus Antigravity 2.0",
-      "hot": "❤️ 5 💬 0",
-      "desc": "En mai, la très attendue conférence Google I/O a eu lieu et le mot d’ordre, et ce n’est pas trop une...",
-      "source": "dev",
-      "tag": "ai,  antigravity",
-      "url": "https://dev.to/gde/retour-sur-le-google-io-2026-focus-antigravity-20-33jh"
-    },
-    {
-      "title": "Multi-step form without the overhead",
-      "hot": "❤️ 2 💬 0",
-      "desc": "Using built-in form GET method to pass data from one page to another without complicated code.",
-      "source": "dev",
-      "tag": "html,  javascript",
-      "url": "https://dev.to/ovidem/multi-step-form-without-the-overhead-5bjc"
-    },
-    {
-      "title": "LiveKnowledge: Engineering Verifiable Knowledge",
-      "hot": "❤️ 1 💬 0",
-      "desc": "LiveKnowledge is a CLI tool that closes the loop between unstructured text and structured, verifiable...",
-      "source": "dev",
-      "tag": "ai,  agents",
-      "url": "https://dev.to/adamrybinski/liveknowledge-engineering-verifiable-knowledge-5gkl"
-    },
-    {
-      "title": "Stop writing prompts to classify text: make evaluation declarative",
-      "hot": "❤️ 0 💬 0",
-      "desc": "I've built the same thing more than once: a step that reads an inbound message — a lead form, a...",
-      "source": "dev",
-      "tag": "ai,  llm",
-      "url": "https://dev.to/ayoolasolomon/stop-writing-prompts-to-classify-text-make-evaluation-declarative-5555"
-    },
-    {
-      "title": "Strategies for running AI workloads on GKE without committed quota",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Learn different strategies to use hard-to-get hardware accelerators with Google Kubernetes Engine (GKE).",
-      "source": "dev",
-      "tag": "kubernetes,  ai",
-      "url": "https://dev.to/googlecloud/strategies-for-running-ai-workloads-on-gke-without-committed-quota-484l"
-    },
-    {
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 61 💬 26",
-      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
-      "source": "dev",
-      "tag": "top7,  discuss",
-      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-62k"
-    },
-    {
-      "title": "Magnificent Humanity, Building Cities, and a Special Announcement!",
-      "hot": "❤️ 8 💬 3",
-      "desc": "I'm back from a great vacation and side-quest experience in Asia, where one can always find brilliant...",
-      "source": "dev",
-      "tag": "ai,  wecoded",
-      "url": "https://dev.to/jenlooper/magnificent-humanity-building-cities-and-a-special-announcement-54pf"
-    },
-    {
-      "title": "Want to work with me? We're hiring a Community Program Manager at DEV!",
-      "hot": "❤️ 46 💬 12",
-      "desc": "Hey friends 👋  As the title suggests, we are hiring!   If you've been with us for a little while, I'm...",
-      "source": "dev",
-      "tag": "career,  meta",
-      "url": "https://dev.to/devteam/want-to-work-with-me-were-hiring-a-community-program-manager-at-dev-3fol"
-    },
-    {
-      "title": "I Finished What I Started: Adding AI to Every Layer of a Form Builder (With GitHub Copilot)",
-      "hot": "❤️ 3 💬 0",
-      "desc": "This is a submission for the GitHub Finish-Up-A-Thon Challenge              What I Built   Dculus...",
-      "source": "dev",
-      "tag": "devchallenge,  githubchallenge",
-      "url": "https://dev.to/natheesh_kumar_8ad28dbe85/i-finished-what-i-started-adding-ai-to-every-layer-of-a-form-builder-with-github-copilot-942"
-    },
-    {
-      "title": "🦄 Modernizing Wild Rydes with modern technologies",
-      "hot": "❤️ 0 💬 0",
-      "desc": "How I rebuilt the classic AWS Wild Rydes serverless app with Terraform, GitHub Actions, S3 + CloudFront, OIDC, and a mod",
-      "source": "dev",
-      "tag": "aws,  terraform",
-      "url": "https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p"
-    },
-    {
-      "title": "The Software Developer's Guide to AEO",
-      "hot": "❤️ 0 💬 0",
-      "desc": "When I was writing code full-time five years ago, I Googled error messages, opened five tabs, and...",
-      "source": "dev",
-      "tag": "ai,  contentwriting",
-      "url": "https://dev.to/karllhughes/the-software-developers-guide-to-aeo-1h5h"
-    },
-    {
-      "title": "Extending a MCP/A2A Currency Agent with A2UI",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Building an Agent with A2A, MCP, ADK, and A2UI   This tutorial aims to extend and test a...",
-      "source": "dev",
-      "tag": "agents,  googleadk",
-      "url": "https://dev.to/gde/extending-a-mcpa2a-currency-agent-with-a2ui-5hj3"
-    },
-    {
-      "title": "How Are Developers Actually Using AI At Work?",
-      "hot": "❤️ 170 💬 237",
-      "desc": "JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...",
-      "source": "dev",
-      "tag": "discuss,  ai",
-      "url": "https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c"
-    },
-    {
-      "title": "Broken Software",
-      "hot": "❤️ 0 💬 0",
-      "desc": "Series of posts about broken software. Short stories.  Today, Firefox.  Turns out to be that closing...",
-      "source": "dev",
-      "tag": "bugs,  software",
-      "url": "https://dev.to/alex27/broken-software-b54"
-    },
-    {
-      "title": "Azure Cloud Shell with Antigravity CLI",
-      "hot": "❤️ 5 💬 0",
-      "desc": "This article covers the initial setup and configuration for the Antigravity CLI on the Azure Cloud...",
-      "source": "dev",
-      "tag": "cli,  azurecloudshell",
-      "url": "https://dev.to/gde/azure-cloud-shell-with-antigravity-cli-mn6"
-    }
-  ],
   "tech": [
     {
-      "title": "Teenage Engineering: Introducing APC-2",
+      "title": "1k Data Breaches Later, the Disclosure Lag Is Worse",
+      "hot": "3.0m",
+      "desc": "troyhunt.com",
+      "source": "tech",
+      "tag": "⬆️ 90 points",
+      "url": "https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/"
+    },
+    {
+      "title": "Dopamine Fracking",
+      "hot": "3.0m",
+      "desc": "igerman.cc",
+      "source": "tech",
+      "tag": "⬆️ 129 points",
+      "url": "https://igerman.cc/blog/dopamine-fracking/"
+    },
+    {
+      "title": "APC–2 – A professional record cutter for producing original playback discs",
       "hot": "3.0m",
       "desc": "teenage.engineering",
       "source": "tech",
-      "tag": "⬆️ 57 points",
+      "tag": "⬆️ 187 points",
       "url": "https://teenage.engineering/products/apc-2"
     },
     {
@@ -177,159 +31,167 @@
       "hot": "3.0m",
       "desc": "ranpara.net",
       "source": "tech",
-      "tag": "⬆️ 47 points",
+      "tag": "⬆️ 161 points",
       "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/"
     },
     {
       "title": "Building from zero after addiction, prison, and a felony",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "gavinray97.github.io",
       "source": "tech",
-      "tag": "⬆️ 424 points",
+      "tag": "⬆️ 573 points",
       "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony"
     },
     {
+      "title": "Cannibalism",
+      "hot": "2.9m",
+      "desc": "b-ark.ca",
+      "source": "tech",
+      "tag": "⬆️ 16 points",
+      "url": "https://b-ark.ca/2026/06/07/cannibalism.html"
+    },
+    {
+      "title": "1worldflag: A blue dot on a transparent background",
+      "hot": "2.9m",
+      "desc": "1worldflag.com",
+      "source": "tech",
+      "tag": "⬆️ 81 points",
+      "url": "https://1worldflag.com/"
+    },
+    {
+      "title": "Tiny hackable CUDA language model implementation",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 18 points",
+      "url": "https://github.com/markusheimerl/gpt"
+    },
+    {
+      "title": "New drug 'functionally cures' many hepatitis B virus infections",
+      "hot": "2.9m",
+      "desc": "science.org",
+      "source": "tech",
+      "tag": "⬆️ 143 points",
+      "url": "https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08"
+    },
+    {
+      "title": "Algorithmic Monocultures in Hiring",
+      "hot": "2.9m",
+      "desc": "algorithmichiring.github.io",
+      "source": "tech",
+      "tag": "⬆️ 68 points",
+      "url": "https://algorithmichiring.github.io/"
+    },
+    {
+      "title": "Richard Scolyer Has Died",
+      "hot": "2.9m",
+      "desc": "bbc.com",
+      "source": "tech",
+      "tag": "⬆️ 23 points",
+      "url": "https://www.bbc.com/news/articles/c14yz5jg476o"
+    },
+    {
+      "title": "Show HN: NoSuggest – Watch YouTube without the recommendation algorithm",
+      "hot": "2.8m",
+      "desc": "nosuggest.com",
+      "source": "tech",
+      "tag": "⬆️ 40 points",
+      "url": "https://www.nosuggest.com/"
+    },
+    {
+      "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
+      "hot": "2.8m",
+      "desc": "runtimewire.com",
+      "source": "tech",
+      "tag": "⬆️ 219 points",
+      "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision"
+    },
+    {
+      "title": "Playing with Vision Embeddings",
+      "hot": "2.8m",
+      "desc": "prestonbjensen.com",
+      "source": "tech",
+      "tag": "⬆️ 14 points",
+      "url": "https://prestonbjensen.com/posts/playing-with-vision-embeddings"
+    },
+    {
       "title": "Show HN: I Derived a Pancake",
-      "hot": "3.0m",
+      "hot": "2.8m",
       "desc": "absurdlyoptimized.com",
       "source": "tech",
-      "tag": "⬆️ 125 points",
+      "tag": "⬆️ 212 points",
       "url": "https://www.absurdlyoptimized.com/recipes/pancakes/"
     },
     {
       "title": "A Matter Wi-Fi Light Bulb in Rust on the Raspberry Pi Pico 2 W",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 29 points",
+      "tag": "⬆️ 98 points",
       "url": "https://github.com/melastmohican/rust-rpico2-embassy-examples"
     },
     {
       "title": "Making peace with your unlived dreams (2023)",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "nik.art",
       "source": "tech",
-      "tag": "⬆️ 151 points",
+      "tag": "⬆️ 204 points",
       "url": "https://nik.art/making-peace-with-your-unlived-dreams/"
     },
     {
-      "title": "How's Linear so fast? A technical breakdown",
-      "hot": "2.9m",
-      "desc": "performance.dev",
-      "source": "tech",
-      "tag": "⬆️ 299 points",
-      "url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown"
-    },
-    {
-      "title": "7.8 magnitude earthquake shakes part of southern Philippines. Tsunami possible",
-      "hot": "2.9m",
-      "desc": "yahoo.com",
-      "source": "tech",
-      "tag": "⬆️ 25 points",
-      "url": "https://www.yahoo.com/news/weather-news/articles/as--philippines-earthquake-001322726.html"
-    },
-    {
-      "title": "What is the purpose of the lost+found folder in Linux and Unix? (2014)",
-      "hot": "2.9m",
-      "desc": "unix.stackexchange.com",
-      "source": "tech",
-      "tag": "⬆️ 142 points",
-      "url": "https://unix.stackexchange.com/questions/18154/what-is-the-purpose-of-the-lostfound-folder-in-linux-and-unix"
-    },
-    {
-      "title": "Do we fear the serializable isolation level more than we fear subtle bugs (2024)",
-      "hot": "2.9m",
-      "desc": "blog.ydb.tech",
-      "source": "tech",
-      "tag": "⬆️ 54 points",
-      "url": "https://blog.ydb.tech/do-we-fear-the-serializable-isolation-level-more-than-we-fear-subtle-bugs-5a025401b609"
-    },
-    {
-      "title": "Learn PHP in 2026 (Yes, Really)",
-      "hot": "2.9m",
-      "desc": "fagnerbrack.com",
-      "source": "tech",
-      "tag": "⬆️ 36 points",
-      "url": "https://fagnerbrack.com/learn-php-in-2026-yes-really-bd567753dd84"
-    },
-    {
-      "title": "Powering up a module from the IBM 604: an electronic calculator from 1948",
-      "hot": "2.8m",
-      "desc": "righto.com",
-      "source": "tech",
-      "tag": "⬆️ 77 points",
-      "url": "https://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html"
-    },
-    {
-      "title": "My automated doubt development process",
-      "hot": "2.8m",
-      "desc": "alexself.dev",
-      "source": "tech",
-      "tag": "⬆️ 59 points",
-      "url": "https://www.alexself.dev/blog/automated-doubt"
-    },
-    {
-      "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
-      "hot": "2.8m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 247 points",
-      "url": "https://github.com/devenjarvis/lathe"
-    },
-    {
-      "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
-      "hot": "2.8m",
-      "desc": "ioccc.org",
-      "source": "tech",
-      "tag": "⬆️ 366 points",
-      "url": "https://www.ioccc.org/2025/"
-    },
-    {
-      "title": "LLMs are eroding my software engineering career and I don't know what to do",
-      "hot": "2.8m",
-      "desc": "human-in-the-loop.bearblog.dev",
-      "source": "tech",
-      "tag": "⬆️ 810 points",
-      "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/"
-    },
-    {
-      "title": "Firefox Merges Support for Vulkan Video Decoding",
-      "hot": "2.8m",
-      "desc": "phoronix.com",
-      "source": "tech",
-      "tag": "⬆️ 66 points",
-      "url": "https://www.phoronix.com/news/Firefox-Vulkan-Video-Merged"
-    },
-    {
-      "title": "Cloning a Sennheiser BA2015 battery pack",
+      "title": "A discovery about GCC's unidirectional rotation algorithm",
       "hot": "2.7m",
-      "desc": "blog.brixit.nl",
+      "desc": "devblogs.microsoft.com",
       "source": "tech",
-      "tag": "⬆️ 108 points",
-      "url": "https://blog.brixit.nl/cloning-a-sennheiser-ba2015-accu-pack/"
+      "tag": "⬆️ 16 points",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260603-00/?p=112378"
     },
     {
-      "title": "Back end is full of hidden workflows",
+      "title": "Man-Computer Symbiosis J. C. R. Licklider (1960)",
       "hot": "2.7m",
-      "desc": "unmeshed.io",
+      "desc": "groups.csail.mit.edu",
       "source": "tech",
-      "tag": "⬆️ 3 points",
-      "url": "https://unmeshed.io/blog/your-backend-is-full-of-hidden-workflows"
+      "tag": "⬆️ 30 points",
+      "url": "https://groups.csail.mit.edu/medg/people/psz/Licklider.html"
     },
     {
-      "title": "Proliferate (YC S25) is hiring to building open source Codex",
+      "title": "Trusted Computing Frequently Asked Questions (2003)",
       "hot": "2.7m",
-      "desc": "ycombinator.com",
+      "desc": "cl.cam.ac.uk",
       "source": "tech",
-      "tag": "⬆️ 1 points",
-      "url": "https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer"
+      "tag": "⬆️ 5 points",
+      "url": "https://www.cl.cam.ac.uk/archive/rja14/tcpa-faq-1.0.html"
     }
   ],
   "space": [
     {
+      "title": "UK startup NewOrbit raises $18.5 million in Series A round",
+      "hot": "6/8",
+      "desc": "\nSAN FRANCISCO – NewOrbit Space, a UK startup developing satellites for very low Earth orbit (VLEO), has raised $18.5 million in a Series A investment",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/uk-startup-neworbit-raises-18-5-million-in-series-a-round/"
+    },
+    {
+      "title": "OQ Technology plans direct-to-smartphone demo with cellular spectrum",
+      "hot": "6/8",
+      "desc": "\nLuxembourg’s OQ Technology plans to test direct-to-smartphone satellite connectivity next year in Germany using a local telco’s cellular spectrum, se",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/oq-technology-plans-direct-to-smartphone-demo-with-cellular-spectrum/"
+    },
+    {
+      "title": "French Space Electronics Firm EREMS Completes €10 Million Expansion",
+      "hot": "6/8",
+      "desc": "EREMS announced on 5 June the inauguration of its revamped Flourens facility in southwestern France following a three-year, €10 million expansion. Fou",
+      "source": "space",
+      "tag": "European Spaceflight",
+      "url": "https://europeanspaceflight.com/french-space-electronics-firm-erems-completes-e10-million-expansion/"
+    },
+    {
       "title": "NASA concludes MAVEN mission at Mars, uses data to discover new atmospheric phenomenon",
       "hot": "6/7",
-      "desc": "Following a six-month battle to regain communication with its Mars Atmosphere and Volatile Evolution (MAVEN)…\nThe post NASA concludes MAVEN mission at",
+      "desc": "Following a six-month battle to regain communication with its Mars Atmosphere and Volatile Evolution (MAVEN)…\r\nThe post NASA concludes MAVEN mission a",
       "source": "space",
       "tag": "NASASpaceflight",
       "url": "https://www.nasaspaceflight.com/2026/06/maven-end-of-mission/"
@@ -369,7 +231,7 @@
     {
       "title": "NASA interested in Hubble reboost if costs can be reduced",
       "hot": "6/7",
-      "desc": "\nAs NASA prepares an attempt to reboost an astronomy spacecraft in a decaying orbit, it is open to doing something similar for Hubble, if its operatin",
+      "desc": "As NASA prepares an attempt to reboost an astronomy spacecraft in a decaying orbit, it is open to doing something similar for Hubble, if its operating",
       "source": "space",
       "tag": "SpaceNews",
       "url": "https://spacenews.com/nasa-interested-in-hubble-reboost-if-costs-can-be-reduced/"
@@ -393,7 +255,7 @@
     {
       "title": "After New Glenn anomaly, Blue Origin keeps focus on upcoming Blue Moon and Mars missions",
       "hot": "6/6",
-      "desc": "Following the damaging loss of New Glenn during hotfire testing at Launch Complex 36 in…\nThe post After New Glenn anomaly, Blue Origin keeps focus on ",
+      "desc": "Following the damaging loss of New Glenn during hotfire testing at Launch Complex 36 in…\r\nThe post After New Glenn anomaly, Blue Origin keeps focus on",
       "source": "space",
       "tag": "NASASpaceflight",
       "url": "https://www.nasaspaceflight.com/2026/06/blue-moon-mto-update/"
@@ -421,30 +283,6 @@
       "source": "space",
       "tag": "NASA",
       "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-announces-winners-of-2026-university-innovation-competition/"
-    },
-    {
-      "title": "NASA’s Artemis II Moon Mission Research Continues on Earth",
-      "hot": "6/5",
-      "desc": "Since NASA’s Artemis II crew members safely splashed down in the Pacific Ocean on April 10 after their record-setting mission around the Moon, science",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/uncategorized/nasas-artemis-ii-moon-mission-research-continues-on-earth/"
-    },
-    {
-      "title": "Leaf Space partners with D-Orbit and EnduroSat to test connectivity service",
-      "hot": "6/5",
-      "desc": "\nMILAN – Italian ground segment operator Leaf Space unveiled a new space connectivity service May 27. The technology, named TreeNet, aims to make spac",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/leaf-space-partners-with-d-orbit-and-endurosat-to-test-connectivity-service/"
-    },
-    {
-      "title": "NASA Concludes Antenna Mishap Investigation, Releases Report",
-      "hot": "6/5",
-      "desc": "NASA has completed the investigation into the damage sustained last year at its 70-meter radio-frequency antenna, known as the Deep Space Station 14 (",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/directorates/somd/space-communications-navigation-program/nasa-concludes-antenna-mishap-investigation-releases-report/"
     }
   ],
   "github": [
@@ -466,7 +304,7 @@
     },
     {
       "title": "jd-opensource/JoyAI-Echo: JoyAI-Echo: Pushing the Frontier of Long Audio-Visual ",
-      "hot": "⭐ 857",
+      "hot": "⭐ 904",
       "desc": "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
       "source": "github",
       "tag": "Python",
@@ -474,7 +312,7 @@
     },
     {
       "title": "qiuqiubuchongle-cloud/chokepoint-atlas: ",
-      "hot": "⭐ 602",
+      "hot": "⭐ 603",
       "desc": "qiuqiubuchongle-cloud/chokepoint-atlas",
       "source": "github",
       "tag": "Python",
@@ -482,7 +320,7 @@
     },
     {
       "title": "VAST-AI-Research/TripoSplat: TripoSplat converts a single 2D image into high-qua",
-      "hot": "⭐ 526",
+      "hot": "⭐ 536",
       "desc": "TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI.",
       "source": "github",
       "tag": "Python",
@@ -490,7 +328,7 @@
     },
     {
       "title": "tastyeffectco/sandboxd: Self-hosted dev sandboxes with preview URLs. One command",
-      "hot": "⭐ 497",
+      "hot": "⭐ 502",
       "desc": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
       "source": "github",
       "tag": "Go",
@@ -498,7 +336,7 @@
     },
     {
       "title": "tiantianGPU/reg-factory: ",
-      "hot": "⭐ 479",
+      "hot": "⭐ 480",
       "desc": "tiantianGPU/reg-factory",
       "source": "github",
       "tag": "Python",
@@ -506,67 +344,229 @@
     },
     {
       "title": "Jane-xiaoer/xiaoer-videolab: One click on the toolbar grabs the current page's v",
-      "hot": "⭐ 467",
+      "hot": "⭐ 474",
       "desc": "One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
       "source": "github",
       "tag": "JavaScript",
       "url": "https://github.com/Jane-xiaoer/xiaoer-videolab"
     },
     {
-      "title": "S-Sigdel/vimhjkl: learn vim from your terminal with spaced repetition",
-      "hot": "⭐ 404",
-      "desc": "learn vim from your terminal with spaced repetition",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/S-Sigdel/vimhjkl"
-    },
-    {
       "title": "zenhosta/9drive: 9Drive is a storage gateway web app for connecting multiple Goo",
-      "hot": "⭐ 400",
+      "hot": "⭐ 421",
       "desc": "9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Users can connect Google Drive a",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/zenhosta/9drive"
     },
     {
-      "title": "Fullive-AI/Anima: Make Every Hardware Intelligent — an open-source Agent OS for ",
-      "hot": "⭐ 393",
-      "desc": "Make Every Hardware Intelligent — an open-source Agent OS for hardware intelligence",
+      "title": "S-Sigdel/vimhjkl: learn vim from your terminal with spaced repetition",
+      "hot": "⭐ 410",
+      "desc": "learn vim from your terminal with spaced repetition",
       "source": "github",
       "tag": "Python",
-      "url": "https://github.com/Fullive-AI/Anima"
+      "url": "https://github.com/S-Sigdel/vimhjkl"
+    },
+    {
+      "title": "nevertoday/zhongguo-traditional-colors: 中华传统色演示、��卡浏览与颜色知识科普开源项目",
+      "hot": "⭐ 404",
+      "desc": "中华传统色演示、��卡浏览与颜色知识科普开源项目",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/nevertoday/zhongguo-traditional-colors"
     },
     {
       "title": "jeff141/meatshell: 一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-memory SSH / term",
-      "hot": "⭐ 388",
+      "hot": "⭐ 400",
       "desc": "一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-memory SSH / terminal client）",
       "source": "github",
       "tag": "Rust",
       "url": "https://github.com/jeff141/meatshell"
     },
     {
-      "title": "nevertoday/chinese-traditional-colors: 中华传统色演示、色卡浏览与颜色知识科普开源项目",
-      "hot": "⭐ 343",
-      "desc": "中华传统色演示、色卡浏览与颜色知识科普开源项目",
+      "title": "Fullive-AI/Anima: Make Every Hardware Intelligent — an open-source Agent OS for ",
+      "hot": "⭐ 394",
+      "desc": "Make Every Hardware Intelligent — an open-source Agent OS for hardware intelligence",
       "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/nevertoday/chinese-traditional-colors"
+      "tag": "Python",
+      "url": "https://github.com/Fullive-AI/Anima"
     },
     {
-      "title": "SenhorH/tab-labeler: Rename browser tabs locally and bring order to chaotic sess",
-      "hot": "⭐ 328",
-      "desc": "Rename browser tabs locally and bring order to chaotic sessions.",
+      "title": "JimLiu/baoyu-design: Run Claude Design locally as an Agent Skill — Cursor, Claud",
+      "hot": "⭐ 393",
+      "desc": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-containe",
       "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/SenhorH/tab-labeler"
+      "tag": "JavaScript",
+      "url": "https://github.com/JimLiu/baoyu-design"
     },
     {
       "title": "amElnagdy/guard-skills: Guard skills for coding agents, quality gates that catch",
-      "hot": "⭐ 328",
+      "hot": "⭐ 360",
       "desc": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
       "source": "github",
       "tag": "GitHub",
       "url": "https://github.com/amElnagdy/guard-skills"
+    }
+  ],
+  "dev": [
+    {
+      "title": "Seamless scaling with VPA In-place Pod Resize on GKE",
+      "hot": "❤️ 5 💬 0",
+      "desc": "Learn how VPA In-place Pod Resize can help seamlessly vertically scale workloads on Google Kubernetes Engine (GKE).",
+      "source": "dev",
+      "tag": "kubernetes,  ai",
+      "url": "https://dev.to/googlecloud/seamless-scaling-with-vpa-in-place-pod-resize-on-gke-117p"
+    },
+    {
+      "title": "Physics, Engineering, and Architecture in Software Systems and the obsession with Architecture",
+      "hot": "❤️ 0 💬 0",
+      "desc": "Something that has been bothering me for a while in the software industry is how disproportionately...",
+      "source": "dev",
+      "tag": "architecture,  softwaredesign",
+      "url": "https://dev.to/rodrigovidal/physics-engineering-and-architecture-in-software-systems-and-the-obsession-with-architecture-68j"
+    },
+    {
+      "title": "Dystopian Civilization Scenarios",
+      "hot": "❤️ 11 💬 1",
+      "desc": "Gaming, like AI, is far from what fascinates me most about technology and creative development....",
+      "source": "dev",
+      "tag": "watercooler",
+      "url": "https://dev.to/ingosteinke/dystopian-civilization-scenarios-4422"
+    },
+    {
+      "title": "Retour sur le Google I/O 2026 | Focus Antigravity 2.0",
+      "hot": "❤️ 5 💬 0",
+      "desc": "En mai, la très attendue conférence Google I/O a eu lieu et le mot d’ordre, et ce n’est pas trop une...",
+      "source": "dev",
+      "tag": "ai,  antigravity",
+      "url": "https://dev.to/gde/retour-sur-le-google-io-2026-focus-antigravity-20-33jh"
+    },
+    {
+      "title": "LiveKnowledge: Engineering Verifiable Knowledge",
+      "hot": "❤️ 1 💬 0",
+      "desc": "LiveKnowledge is a CLI tool that closes the loop between unstructured text and structured, verifiable...",
+      "source": "dev",
+      "tag": "ai,  agents",
+      "url": "https://dev.to/adamrybinski/liveknowledge-engineering-verifiable-knowledge-5gkl"
+    },
+    {
+      "title": "Join the June Solstice Game Jam: $1,000 in prizes!",
+      "hot": "❤️ 171 💬 30",
+      "desc": "We're excited to kick off the June Solstice Game Jam, running from June 3 through June 21 and ending...",
+      "source": "dev",
+      "tag": "devchallenge,  gamechallenge",
+      "url": "https://dev.to/devteam/join-the-june-solstice-game-jam-1000-in-prizes-3jla"
+    },
+    {
+      "title": "Stop writing prompts to classify text: make evaluation declarative",
+      "hot": "❤️ 0 💬 0",
+      "desc": "I've built the same thing more than once: a step that reads an inbound message — a lead form, a...",
+      "source": "dev",
+      "tag": "ai,  llm",
+      "url": "https://dev.to/ayoolasolomon/stop-writing-prompts-to-classify-text-make-evaluation-declarative-5555"
+    },
+    {
+      "title": "Strategies for running AI workloads on GKE without committed quota",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Learn different strategies to use hard-to-get hardware accelerators with Google Kubernetes Engine (GKE).",
+      "source": "dev",
+      "tag": "kubernetes,  ai",
+      "url": "https://dev.to/googlecloud/strategies-for-running-ai-workloads-on-gke-without-committed-quota-484l"
+    },
+    {
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "hot": "❤️ 61 💬 26",
+      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+      "source": "dev",
+      "tag": "top7,  discuss",
+      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-62k"
+    },
+    {
+      "title": "I Finished What I Started: Adding AI to Every Layer of a Form Builder (With GitHub Copilot)",
+      "hot": "❤️ 3 💬 0",
+      "desc": "This is a submission for the GitHub Finish-Up-A-Thon Challenge              What I Built   Dculus...",
+      "source": "dev",
+      "tag": "devchallenge,  githubchallenge",
+      "url": "https://dev.to/natheesh_kumar_8ad28dbe85/i-finished-what-i-started-adding-ai-to-every-layer-of-a-form-builder-with-github-copilot-942"
+    },
+    {
+      "title": "🦄 Modernizing Wild Rydes with modern technologies",
+      "hot": "❤️ 0 💬 0",
+      "desc": "How I rebuilt the classic AWS Wild Rydes serverless app with Terraform, GitHub Actions, S3 + CloudFront, OIDC, and a mod",
+      "source": "dev",
+      "tag": "aws,  terraform",
+      "url": "https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p"
+    },
+    {
+      "title": "The Software Developer's Guide to AEO",
+      "hot": "❤️ 0 💬 0",
+      "desc": "When I was writing code full-time five years ago, I Googled error messages, opened five tabs, and...",
+      "source": "dev",
+      "tag": "ai,  contentwriting",
+      "url": "https://dev.to/karllhughes/the-software-developers-guide-to-aeo-1h5h"
+    },
+    {
+      "title": "Extending a MCP/A2A Currency Agent with A2UI",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Building an Agent with A2A, MCP, ADK, and A2UI   This tutorial aims to extend and test a...",
+      "source": "dev",
+      "tag": "agents,  googleadk",
+      "url": "https://dev.to/gde/extending-a-mcpa2a-currency-agent-with-a2ui-5hj3"
+    },
+    {
+      "title": "How Are Developers Actually Using AI At Work?",
+      "hot": "❤️ 171 💬 237",
+      "desc": "JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...",
+      "source": "dev",
+      "tag": "discuss,  ai",
+      "url": "https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c"
+    },
+    {
+      "title": "Broken Software",
+      "hot": "❤️ 0 💬 0",
+      "desc": "Series of posts about broken software. Short stories.  Today, Firefox.  Turns out to be that closing...",
+      "source": "dev",
+      "tag": "bugs,  software",
+      "url": "https://dev.to/alex27/broken-software-b54"
+    },
+    {
+      "title": "Am I Becoming Too Slow for the AI World?",
+      "hot": "❤️ 73 💬 44",
+      "desc": "The AI world is full of old infrastructure with stochastic organs.   That sentence probably explains...",
+      "source": "dev",
+      "tag": "ai,  programming",
+      "url": "https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904"
+    },
+    {
+      "title": "Azure Cloud Shell with Antigravity CLI",
+      "hot": "❤️ 5 💬 0",
+      "desc": "This article covers the initial setup and configuration for the Antigravity CLI on the Azure Cloud...",
+      "source": "dev",
+      "tag": "cli,  azurecloudshell",
+      "url": "https://dev.to/gde/azure-cloud-shell-with-antigravity-cli-mn6"
+    },
+    {
+      "title": "Kaggle is making AI benchmark creation effortless",
+      "hot": "❤️ 16 💬 1",
+      "desc": "As AI models evolve from simple chatbots into reasoning agents that write code, use tools and solve...",
+      "source": "dev",
+      "tag": "ai",
+      "url": "https://dev.to/googleai/kaggle-is-making-ai-benchmark-creation-effortless-1g7n"
+    },
+    {
+      "title": "Query Markdown as a Database with mq-db: SQL, mq, and Interval Indexes",
+      "hot": "❤️ 0 💬 0",
+      "desc": "mq-db treats Markdown files as a structured database. Index documents, run SQL queries with hierarchy support, and explo",
+      "source": "dev",
+      "tag": "markdown,  database",
+      "url": "https://dev.to/harehare/query-markdown-as-a-database-with-mq-db-sql-mq-and-interval-indexes-52h9"
+    },
+    {
+      "title": "Cross Cloud A2A Agent Benchmarking with Antigravity CLI",
+      "hot": "❤️ 5 💬 0",
+      "desc": "Building a Benchmarking Agent with A2A and MCP   This tutorial aims to build and test...",
+      "source": "dev",
+      "tag": "a2aprotocol,  gcp",
+      "url": "https://dev.to/gde/cross-cloud-a2a-agent-benchmarking-with-antigravity-cli-1enf"
     }
   ]
 }
