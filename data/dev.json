@@ -2,11 +2,19 @@
   "data": [
     {
       "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 38 💬 11",
+      "hot": "❤️ 44 💬 12",
       "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
       "source": "dev",
       "tag": "top7,  discuss",
       "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-14hj"
+    },
+    {
+      "title": "Build a Realtime Translation App with Gemini Live API, LiveKit, & Google Cloud Run",
+      "hot": "❤️ 20 💬 0",
+      "desc": "Imagine speaking in English, and having listeners from all over the world hear you translated into...",
+      "source": "dev",
+      "tag": "ai,  gemini",
+      "url": "https://dev.to/googleai/build-a-realtime-translation-app-with-gemini-live-api-livekit-google-cloud-run-5474"
     },
     {
       "title": "You’re a Real TypeScript Developer Only If...",
@@ -31,6 +39,14 @@
       "source": "dev",
       "tag": "ai,  tdd",
       "url": "https://dev.to/sebs/its-time-we-all-eat-some-cucumber-16ic"
+    },
+    {
+      "title": "Antigravity Managed Agents Tutorial: Ship Production AI Agents",
+      "hot": "❤️ 5 💬 0",
+      "desc": "If you’ve tried building AI applications, you often face a familiar engineering wall.  It goes like...",
+      "source": "dev",
+      "tag": "agentsasanapi,  managedagent",
+      "url": "https://dev.to/googleai/antigravity-managed-agents-tutorial-ship-production-ai-agents-21c0"
     },
     {
       "title": "From Dashboards to Autonomous Action: Why You Need to Attend Google Cloud Labs",
@@ -58,7 +74,7 @@
     },
     {
       "title": "Github \"Finish-Up-A-Thon\" Challenge Winner Announcement Delayed & General Challenge Timeline Updates",
-      "hot": "❤️ 29 💬 2",
+      "hot": "❤️ 32 💬 2",
       "desc": "Hey all, we have a quick update for everyone who participated in the GitHub \"Finish-Up-A-Thon\"...",
       "source": "dev",
       "tag": "devchallenge,  githubchallenge",
@@ -121,6 +137,14 @@
       "url": "https://dev.to/trystan_sarrade/how-i-took-my-rust-gui-from-135-mb-to-30-mb-by-ditching-the-gpu-2i7d"
     },
     {
+      "title": "Skill, MCP, Plugin, or just a CLI: how I pick a Claude Code extension, lightest first",
+      "hot": "❤️ 13 💬 5",
+      "desc": "I was building a plugin release with Claude Code, and the changelog draft came together nicely. Pull...",
+      "source": "dev",
+      "tag": "claudecode,  ai",
+      "url": "https://dev.to/rapls/skill-mcp-plugin-or-just-a-cli-how-i-pick-a-claude-code-extension-lightest-first-3hon"
+    },
+    {
       "title": "Join the June Solstice Game Jam: $1,000 in prizes!",
       "hot": "❤️ 184 💬 49",
       "desc": "We're excited to kick off the June Solstice Game Jam, running from June 3 through June 21 and ending...",
@@ -129,37 +153,13 @@
       "url": "https://dev.to/devteam/join-the-june-solstice-game-jam-1000-in-prizes-3jla"
     },
     {
-      "title": "Skill, MCP, Plugin, or just a CLI: how I pick a Claude Code extension, lightest first",
-      "hot": "❤️ 12 💬 4",
-      "desc": "I was building a plugin release with Claude Code, and the changelog draft came together nicely. Pull...",
-      "source": "dev",
-      "tag": "claudecode,  ai",
-      "url": "https://dev.to/rapls/skill-mcp-plugin-or-just-a-cli-how-i-pick-a-claude-code-extension-lightest-first-3hon"
-    },
-    {
       "title": "Stop writing prompts to classify text: make evaluation declarative",
       "hot": "❤️ 0 💬 0",
       "desc": "I've built the same thing more than once: a step that reads an inbound message — a lead form, a...",
       "source": "dev",
       "tag": "ai,  llm",
       "url": "https://dev.to/ayoolasolomon/stop-writing-prompts-to-classify-text-make-evaluation-declarative-5555"
-    },
-    {
-      "title": "Building an AI Sales RFP Assistant with Google Workspace Studio & NotebookLM",
-      "hot": "❤️ 7 💬 0",
-      "desc": "If you are a Sales Engineer or Account Executive, you know that responding to a Request for Proposal...",
-      "source": "dev",
-      "tag": "workspacestudio,  googleworkspace",
-      "url": "https://dev.to/gde/building-an-ai-sales-rfp-assistant-with-google-workspace-studio-notebooklm-3cl"
-    },
-    {
-      "title": "Strategies for running AI workloads on GKE without committed quota",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Learn different strategies to use hard-to-get hardware accelerators with Google Kubernetes Engine (GKE).",
-      "source": "dev",
-      "tag": "kubernetes,  ai",
-      "url": "https://dev.to/googlecloud/strategies-for-running-ai-workloads-on-gke-without-committed-quota-484l"
     }
   ],
-  "updatedAt": "2026-06-09T14:11:58.082Z"
+  "updatedAt": "2026-06-09T17:07:08.053Z"
 }
