@@ -1,45 +1,54 @@
 {
-  "updatedAt": "2026-06-09T19:31:52.385Z",
+  "updatedAt": "2026-06-09T21:26:00.546Z",
   "source": "live",
+  "github": [
+    {
+      "title": "暂无 github 数据",
+      "hot": "",
+      "desc": "数据加载中，请稍后刷新",
+      "source": "github",
+      "tag": "loading"
+    }
+  ],
   "tech": [
     {
       "title": "Claude Fable 5",
       "hot": "3.0m",
       "desc": "anthropic.com",
       "source": "tech",
-      "tag": "⬆️ 976 points",
+      "tag": "⬆️ 1368 points",
       "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5"
+    },
+    {
+      "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
+      "hot": "3.0m",
+      "desc": "aarushgupta.io",
+      "source": "tech",
+      "tag": "⬆️ 83 points",
+      "url": "https://aarushgupta.io/posts/kan-fpga/"
     },
     {
       "title": "Making Graphics Like it's 1993",
       "hot": "3.0m",
       "desc": "staniks.github.io",
       "source": "tech",
-      "tag": "⬆️ 591 points",
+      "tag": "⬆️ 680 points",
       "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/"
     },
     {
-      "title": "What it feels like to work with Mythos",
+      "title": "Test-case reducers are underappreciated debugging tools",
       "hot": "3.0m",
-      "desc": "oneusefulthing.org",
-      "source": "tech",
-      "tag": "⬆️ 42 points",
-      "url": "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos"
-    },
-    {
-      "title": "Brexit Ten Years On: The Economy",
-      "hot": "3.0m",
-      "desc": "ukandeu.ac.uk",
+      "desc": "tratt.net",
       "source": "tech",
       "tag": "⬆️ 38 points",
-      "url": "https://ukandeu.ac.uk/brexit-ten-years-on-the-economy/"
+      "url": "https://tratt.net/laurie/blog/2026/test_case_reducers_are_underappreciated_debugging_tools.html"
     },
     {
       "title": "A giant star may have destroyed itself in one of the rarest explosions",
       "hot": "2.9m",
       "desc": "phys.org",
       "source": "tech",
-      "tag": "⬆️ 89 points",
+      "tag": "⬆️ 121 points",
       "url": "https://phys.org/news/2026-05-giant-star-destroyed-universe-rarest.html"
     },
     {
@@ -47,245 +56,147 @@
       "hot": "2.9m",
       "desc": "techcrunch.com",
       "source": "tech",
-      "tag": "⬆️ 476 points",
+      "tag": "⬆️ 507 points",
       "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/"
     },
     {
-      "title": "Ask HN: Are you still using your Vision Pro?",
+      "title": "Alpine Linux 3.24.0 Released",
       "hot": "2.9m",
-      "desc": "news.ycombinator.com",
+      "desc": "alpinelinux.org",
       "source": "tech",
-      "tag": "⬆️ 47 points",
-      "url": "https://news.ycombinator.com/item?id=48465702"
+      "tag": "⬆️ 9 points",
+      "url": "https://alpinelinux.org/posts/Alpine-3.24.0-released.html"
     },
     {
-      "title": "Apple decided not to roll out Siri in EU after denied request for exemption",
+      "title": "Flat Datacenter Networks at Scale at Amazon",
       "hot": "2.9m",
-      "desc": "reuters.com",
+      "desc": "perspectives.mvdirona.com",
       "source": "tech",
-      "tag": "⬆️ 245 points",
-      "url": "https://www.reuters.com/business/apple-failed-make-its-ai-tool-comply-eu-regulations-eu-commission-says-2026-06-09/"
+      "tag": "⬆️ 48 points",
+      "url": "https://perspectives.mvdirona.com/2026/06/flat-datacenter-networks-at-scale/"
     },
     {
-      "title": "Biff.core: system composition for Clojure web apps",
+      "title": "CEOs Who Think AI Replaces Their Employees Are Just Bad CEOs",
       "hot": "2.9m",
-      "desc": "biffweb.com",
+      "desc": "techdirt.com",
       "source": "tech",
-      "tag": "⬆️ 47 points",
-      "url": "https://biffweb.com/p/core/"
-    },
-    {
-      "title": "Launch HN: Transload (YC P26) – Measuring freight items with CCTV",
-      "hot": "2.9m",
-      "desc": "news.ycombinator.com",
-      "source": "tech",
-      "tag": "⬆️ 21 points",
-      "url": "https://news.ycombinator.com/item?id=48463273"
+      "tag": "⬆️ 166 points",
+      "url": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/"
     },
     {
       "title": "The LD_DEBUG environment variable (2012)",
       "hot": "2.9m",
       "desc": "bnikolic.co.uk",
       "source": "tech",
-      "tag": "⬆️ 19 points",
+      "tag": "⬆️ 40 points",
       "url": "https://bnikolic.co.uk/blog/linux-ld-debug.html"
     },
     {
-      "title": "Is Grep All You Need? How Agent Harnesses Reshape Agentic Search",
-      "hot": "2.8m",
-      "desc": "arxiv.org",
+      "title": "Launch HN: Transload (YC P26) – Measuring freight items with CCTV",
+      "hot": "2.9m",
+      "desc": "news.ycombinator.com",
       "source": "tech",
-      "tag": "⬆️ 80 points",
-      "url": "https://arxiv.org/abs/2605.15184"
+      "tag": "⬆️ 28 points",
+      "url": "https://news.ycombinator.com/item?id=48463273"
     },
     {
-      "title": "FCC wants to kill burner phones by forcing telecoms to get all customers' IDs",
+      "title": "Apple decided not to roll out Siri in EU after denied request for exemption",
       "hot": "2.8m",
-      "desc": "404media.co",
+      "desc": "reuters.com",
       "source": "tech",
-      "tag": "⬆️ 262 points",
-      "url": "https://www.404media.co/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids/"
+      "tag": "⬆️ 300 points",
+      "url": "https://www.reuters.com/business/apple-failed-make-its-ai-tool-comply-eu-regulations-eu-commission-says-2026-06-09/"
     },
     {
       "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
       "hot": "2.8m",
       "desc": "opencv.org",
       "source": "tech",
-      "tag": "⬆️ 587 points",
+      "tag": "⬆️ 635 points",
       "url": "https://opencv.org/opencv-5/"
+    },
+    {
+      "title": "Ask HN: Are you still using a Vision Pro?",
+      "hot": "2.8m",
+      "desc": "news.ycombinator.com",
+      "source": "tech",
+      "tag": "⬆️ 86 points",
+      "url": "https://news.ycombinator.com/item?id=48465702"
+    },
+    {
+      "title": "Biff.core: system composition for Clojure web apps",
+      "hot": "2.8m",
+      "desc": "biffweb.com",
+      "source": "tech",
+      "tag": "⬆️ 90 points",
+      "url": "https://biffweb.com/p/core/"
     },
     {
       "title": "Let's Encrypt bans certificate usage in any US sanctioned territory [pdf]",
       "hot": "2.8m",
       "desc": "letsencrypt.org",
       "source": "tech",
-      "tag": "⬆️ 176 points",
+      "tag": "⬆️ 236 points",
       "url": "https://letsencrypt.org/documents/LE-SA-v1.7-June-04-2026-diff.pdf"
     },
     {
-      "title": "Can LLMs Beat Classical Hyperparameter Optimization Algorithms?",
+      "title": "What it feels like to work with Mythos",
       "hot": "2.8m",
+      "desc": "oneusefulthing.org",
+      "source": "tech",
+      "tag": "⬆️ 122 points",
+      "url": "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos"
+    },
+    {
+      "title": "FCC wants to kill burner phones by forcing telecoms to get all customers' IDs",
+      "hot": "2.7m",
+      "desc": "404media.co",
+      "source": "tech",
+      "tag": "⬆️ 337 points",
+      "url": "https://www.404media.co/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids/"
+    },
+    {
+      "title": "Is Grep All You Need? How Agent Harnesses Reshape Agentic Search",
+      "hot": "2.7m",
       "desc": "arxiv.org",
       "source": "tech",
-      "tag": "⬆️ 72 points",
-      "url": "https://arxiv.org/abs/2603.24647"
+      "tag": "⬆️ 101 points",
+      "url": "https://arxiv.org/abs/2605.15184"
     },
     {
-      "title": "The iPhone's Last Stand?",
-      "hot": "2.8m",
-      "desc": "stratechery.com",
-      "source": "tech",
-      "tag": "⬆️ 136 points",
-      "url": "https://stratechery.com/2026/the-iphones-last-stand/"
-    },
-    {
-      "title": "Show HN: Cost.dev (YC W21) – making agents cost-aware and cheaper to call",
+      "title": "Where is the AI jobs crisis?",
       "hot": "2.7m",
-      "desc": "cost.dev",
+      "desc": "apollo.com",
       "source": "tech",
-      "tag": "⬆️ 36 points",
-      "url": "https://cost.dev/"
-    },
-    {
-      "title": "Show HN: GentleOS – A pair of hobby OSes for vintage 32-bit and 16-bit PCs",
-      "hot": "2.7m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 58 points",
-      "url": "https://github.com/luke8086/gentleos32"
-    },
-    {
-      "title": "Show HN: Gravity – interactive solar-system simulator, from Newton to Einstein",
-      "hot": "2.7m",
-      "desc": "qunabu.github.io",
-      "source": "tech",
-      "tag": "⬆️ 106 points",
-      "url": "https://qunabu.github.io/Gravity/"
-    }
-  ],
-  "github": [
-    {
-      "title": "cpaczek/skylight: Project the aircraft passing overhead onto your ceiling in rea",
-      "hot": "⭐ 2.5k",
-      "desc": "Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each p",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/cpaczek/skylight"
-    },
-    {
-      "title": "b-nnett/goose: Goose Swift proof-of-concept README",
-      "hot": "⭐ 2.4k",
-      "desc": "Goose Swift proof-of-concept README",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/b-nnett/goose"
-    },
-    {
-      "title": "diffusionstudio/lottie: Open-source skill and harness for generating production ",
-      "hot": "⭐ 1.3k",
-      "desc": "Open-source skill and harness for generating production ready Lottie animations with codex/claude code",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/diffusionstudio/lottie"
-    },
-    {
-      "title": "jd-opensource/JoyAI-Echo: JoyAI-Echo: Pushing the Frontier of Long Audio-Visual ",
-      "hot": "⭐ 1.2k",
-      "desc": "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/jd-opensource/JoyAI-Echo"
-    },
-    {
-      "title": "NoopApp/noop: Offline WHOOP companion — pair your strap over Bluetooth, keep all",
-      "hot": "⭐ 874",
-      "desc": "Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.",
-      "source": "github",
-      "tag": "Swift",
-      "url": "https://github.com/NoopApp/noop"
-    },
-    {
-      "title": "nevertoday/zhongguo-traditional-colors: 中华传统色演示、色卡浏览与颜色知识科普开源项目",
-      "hot": "⭐ 637",
-      "desc": "中华传统色演示、色卡浏览与颜色知识科普开源项目",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/nevertoday/zhongguo-traditional-colors"
-    },
-    {
-      "title": "superloglabs/superlog: Open-source observability tool that uses AI agents to sel",
-      "hot": "⭐ 625",
-      "desc": "Open-source observability tool that uses AI agents to self-heal your software",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/superloglabs/superlog"
-    },
-    {
-      "title": "JimLiu/baoyu-design: Run Claude Design locally as an Agent Skill — Cursor, Claud",
-      "hot": "⭐ 625",
-      "desc": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-containe",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/JimLiu/baoyu-design"
-    },
-    {
-      "title": "GordenSun/GordenSuperPPTSkills: AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式P",
-      "hot": "⭐ 569",
-      "desc": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/GordenSun/GordenSuperPPTSkills"
-    },
-    {
-      "title": "tastyeffectco/sandboxd: Self-hosted dev sandboxes with preview URLs. One command",
-      "hot": "⭐ 531",
-      "desc": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
-      "source": "github",
-      "tag": "Go",
-      "url": "https://github.com/tastyeffectco/sandboxd"
-    },
-    {
-      "title": "amElnagdy/guard-skills: Guard skills for coding agents, quality gates that catch",
-      "hot": "⭐ 505",
-      "desc": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/amElnagdy/guard-skills"
-    },
-    {
-      "title": "vorpus/performativeUI: ",
-      "hot": "⭐ 497",
-      "desc": "vorpus/performativeUI",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/vorpus/performativeUI"
-    },
-    {
-      "title": "Jane-xiaoer/xiaoer-videolab: One click on the toolbar grabs the current page's v",
-      "hot": "⭐ 490",
-      "desc": "One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/Jane-xiaoer/xiaoer-videolab"
-    },
-    {
-      "title": "zenhosta/9drive: 9Drive is a storage gateway web app for connecting multiple Goo",
-      "hot": "⭐ 470",
-      "desc": "9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Users can connect Google Drive a",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/zenhosta/9drive"
-    },
-    {
-      "title": "jeff141/meatshell: 一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-memory SSH / term",
-      "hot": "⭐ 462",
-      "desc": "一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-memory SSH / terminal client）",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/jeff141/meatshell"
+      "tag": "⬆️ 109 points",
+      "url": "https://www.apollo.com/wealth/the-daily-spark/where-is-the-ai-jobs-crisis"
     }
   ],
   "space": [
+    {
+      "title": "Flight Dynamics Research Facility Characteristics",
+      "hot": "6/9",
+      "desc": "HomeCharacteristics The Flight Dynamics Research Facility (FDRF) is a large, subsonic wind tunnel with a vertical test section for conducting flight d",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/directorates/armd/aetc/fdrf-characteristics/"
+    },
+    {
+      "title": "NASA names crew for Artemis 3 mission to test lunar landers",
+      "hot": "6/9",
+      "desc": "\nNASA has named the astronauts who will fly the next Artemis mission, a test flight in low Earth orbit where Orion will attempt to dock with two lunar",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/nasa-names-crew-for-artemis-3-mission-to-test-lunar-landers/"
+    },
+    {
+      "title": "Artemis III Crew Announced",
+      "hot": "6/9",
+      "desc": "NASA astronaut Andre Douglas, ESA (European Space Agency) astronaut Luca Parmitano, and NASA astronauts Randy Bresnik and Frank Rubio take a photo tog",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/image-article/artemis-iii-crew-announced/"
+    },
     {
       "title": "NASA assigns crew for Artemis III, sets aggressive timeline for flying it",
       "hot": "6/9",
@@ -381,41 +292,9 @@
       "source": "space",
       "tag": "SpaceNews",
       "url": "https://spacenews.com/warren-ai-risk-analysis-engine-is-now-live-building-the-risk-intelligence-infrastructure-layer-for-the-space-economy/"
-    },
-    {
-      "title": "NASA Knows: What Is Mass Distribution?",
-      "hot": "6/9",
-      "desc": "This article is for students grades 5-8. Mass distribution affects everything from galaxy shapes to aircraft design to planetary rotation. It’s used t",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/learning-resources/nasa-knows-what-is-mass-distribution/"
-    },
-    {
-      "title": "Booster 20 into Cryogenic Testing ahead of Starship Flight 13",
-      "hot": "6/9",
-      "desc": "Starship Flight 12 may have only recently concluded, but SpaceX’s Starbase teams are already deep…\r\nThe post Booster 20 into Cryogenic Testing ahead o",
-      "source": "space",
-      "tag": "NASASpaceflight",
-      "url": "https://www.nasaspaceflight.com/2026/06/booster-20-cryogenic-testing-ahead-flight-13/"
-    },
-    {
-      "title": "BlackSky to accelerate broad-area collection work under NRO contract modification",
-      "hot": "6/9",
-      "desc": "\nSAN FRANCISCO – The National Reconnaissance Office awarded a contract modification to BlackSky Technology to accelerate development of AROS broad-are",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/blacksky-to-accelerate-broad-area-collection-work-under-nro-contract-modification/"
     }
   ],
   "dev": [
-    {
-      "title": "Build a Realtime Translation App with Gemini Live API, LiveKit, & Google Cloud Run",
-      "hot": "❤️ 20 💬 1",
-      "desc": "Imagine speaking in English, and having listeners from all over the world hear you translated into...",
-      "source": "dev",
-      "tag": "ai,  gemini",
-      "url": "https://dev.to/googleai/build-a-realtime-translation-app-with-gemini-live-api-livekit-google-cloud-run-5474"
-    },
     {
       "title": "You’re a Real TypeScript Developer Only If...",
       "hot": "❤️ 75 💬 32",
@@ -449,6 +328,22 @@
       "url": "https://dev.to/googleai/antigravity-managed-agents-tutorial-ship-production-ai-agents-21c0"
     },
     {
+      "title": "Claude Fable 5 is Now Generally Available on Google Cloud! 🚀",
+      "hot": "❤️ 25 💬 1",
+      "desc": "Good news for Claude devs deploying on Google Cloud. Claude Fable 5 is now in General Availability...",
+      "source": "dev",
+      "tag": "ai,  claude",
+      "url": "https://dev.to/googleai/claude-fable-5-is-now-generally-available-on-google-cloud-3gog"
+    },
+    {
+      "title": "Build a Realtime Translation App with Gemini Live API, LiveKit, & Google Cloud Run",
+      "hot": "❤️ 21 💬 1",
+      "desc": "Imagine speaking in English, and having listeners from all over the world hear you translated into...",
+      "source": "dev",
+      "tag": "ai,  gemini",
+      "url": "https://dev.to/googleai/build-a-realtime-translation-app-with-gemini-live-api-livekit-google-cloud-run-5474"
+    },
+    {
       "title": "From Dashboards to Autonomous Action: Why You Need to Attend Google Cloud Labs",
       "hot": "❤️ 21 💬 0",
       "desc": "The era of passive data analytics is over. Today, the most forward-thinking data teams aren't just...",
@@ -474,7 +369,7 @@
     },
     {
       "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 44 💬 12",
+      "hot": "❤️ 46 💬 12",
       "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
       "source": "dev",
       "tag": "top7,  discuss",
@@ -495,14 +390,6 @@
       "source": "dev",
       "tag": "kubernetes,  ai",
       "url": "https://dev.to/googlecloud/seamless-scaling-with-vpa-in-place-pod-resize-on-gke-117p"
-    },
-    {
-      "title": "Meme Monday",
-      "hot": "❤️ 16 💬 27",
-      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
-      "source": "dev",
-      "tag": "discuss,  jokes",
-      "url": "https://dev.to/ben/meme-monday-1m9f"
     },
     {
       "title": "The agent that fixes bugs by running the code",
