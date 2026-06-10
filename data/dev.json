@@ -1,12 +1,28 @@
 {
   "data": [
     {
-      "title": "TanStack Start Is Kind of a Big Deal",
-      "hot": "❤️ 22 💬 4",
-      "desc": "Introduction   People keep telling me TanStack Start is kind of a big deal, and I wanted to...",
+      "title": "How I Built a Treasure-Run Game Where Australia Saves the Sun",
+      "hot": "❤️ 18 💬 1",
+      "desc": "This is a submission for the June Solstice Game Jam           What I Built   For this game jam, I...",
       "source": "dev",
-      "tag": "tanstack,  react",
-      "url": "https://dev.to/erikch/tanstack-start-is-kind-of-a-big-deal-4nec"
+      "tag": "devchallenge,  gamechallenge",
+      "url": "https://dev.to/ujja/how-i-built-a-treasure-run-game-where-australia-saves-the-sun-kck"
+    },
+    {
+      "title": "How we built AIventure, an AI-Powered Retro Dungeon",
+      "hot": "❤️ 8 💬 0",
+      "desc": "Grab a refreshing slice of cold watermelon (because it’s summer in Tokyo and I love it!), and let me...",
+      "source": "dev",
+      "tag": "gamedev,  gemini",
+      "url": "https://dev.to/googleai/how-we-built-aiventure-an-ai-powered-retro-dungeon-2f54"
+    },
+    {
+      "title": "Welcome Thread - v379",
+      "hot": "❤️ 5 💬 4",
+      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
+      "source": "dev",
+      "tag": "welcome",
+      "url": "https://dev.to/devteam/welcome-thread-v379-9fb"
     },
     {
       "title": "It's Time We All Eat some more Cucumber!",
@@ -25,20 +41,12 @@
       "url": "https://dev.to/googleai/from-dashboards-to-autonomous-action-why-you-need-to-attend-google-cloud-labs-3ada"
     },
     {
-      "title": "Claude Fable 5 is Now Generally Available on Google Cloud! 🚀",
-      "hot": "❤️ 27 💬 1",
-      "desc": "Good news for Claude devs deploying on Google Cloud. Claude Fable 5, Anthropic’s latest frontier...",
+      "title": "G4 Fractional VMs are now available on Google Cloud!",
+      "hot": "❤️ 10 💬 0",
+      "desc": "In 2025 Google Cloud added G4, powered by NVIDIA's RTX PRO 6000 Blackwell Server Edition GPUs to...",
       "source": "dev",
-      "tag": "ai,  claude",
-      "url": "https://dev.to/googleai/claude-fable-5-is-now-generally-available-on-google-cloud-3gog"
-    },
-    {
-      "title": "Antigravity Managed Agents Tutorial: Ship Production AI Agents",
-      "hot": "❤️ 6 💬 0",
-      "desc": "If you’ve tried building AI applications, you often face a familiar engineering wall.  It goes like...",
-      "source": "dev",
-      "tag": "agentsasanapi,  managedagent",
-      "url": "https://dev.to/googleai/antigravity-managed-agents-tutorial-ship-production-ai-agents-21c0"
+      "tag": "gpu,  googlecloud",
+      "url": "https://dev.to/googleai/g4-fractional-vms-are-now-available-on-google-cloud-knp"
     },
     {
       "title": "I tried to make an AI agent answer more. It answered less.",
@@ -50,7 +58,7 @@
     },
     {
       "title": "You’re a Real TypeScript Developer Only If...",
-      "hot": "❤️ 77 💬 37",
+      "hot": "❤️ 78 💬 37",
       "desc": "A few months ago, I published You're a Real JavaScript Developer Only If...  It was just a post for...",
       "source": "dev",
       "tag": "webdev,  typescript",
@@ -63,6 +71,22 @@
       "source": "dev",
       "tag": "ai,  gemini",
       "url": "https://dev.to/googleai/build-a-realtime-translation-app-with-gemini-live-api-livekit-google-cloud-run-5474"
+    },
+    {
+      "title": "Claude Fable 5 is Now Generally Available on Google Cloud! 🚀",
+      "hot": "❤️ 28 💬 1",
+      "desc": "Good news for Claude devs deploying on Google Cloud. Claude Fable 5, Anthropic’s latest frontier...",
+      "source": "dev",
+      "tag": "ai,  claude",
+      "url": "https://dev.to/googleai/claude-fable-5-is-now-generally-available-on-google-cloud-3gog"
+    },
+    {
+      "title": "Antigravity Managed Agents Tutorial: Ship Production AI Agents",
+      "hot": "❤️ 6 💬 1",
+      "desc": "If you’ve tried building AI applications, you often face a familiar engineering wall.  It goes like...",
+      "source": "dev",
+      "tag": "agentsasanapi,  managedagent",
+      "url": "https://dev.to/googleai/antigravity-managed-agents-tutorial-ship-production-ai-agents-21c0"
     },
     {
       "title": "Top 7 Featured DEV Posts of the Week",
@@ -105,6 +129,14 @@
       "url": "https://dev.to/ingosteinke/dystopian-civilization-scenarios-4422"
     },
     {
+      "title": "TanStack Start Is Kind of a Big Deal",
+      "hot": "❤️ 24 💬 5",
+      "desc": "Introduction   People keep telling me TanStack Start is kind of a big deal, and I wanted to...",
+      "source": "dev",
+      "tag": "tanstack,  react",
+      "url": "https://dev.to/erikch/tanstack-start-is-kind-of-a-big-deal-4nec"
+    },
+    {
       "title": "Retour sur le Google I/O 2026 | Focus Antigravity 2.0",
       "hot": "❤️ 5 💬 0",
       "desc": "En mai, la très attendue conférence Google I/O a eu lieu et le mot d’ordre, et ce n’est pas trop une...",
@@ -113,16 +145,8 @@
       "url": "https://dev.to/gde/retour-sur-le-google-io-2026-focus-antigravity-20-33jh"
     },
     {
-      "title": "How I took my Rust GUI from 135 MB to 30 MB by ditching the GPU",
-      "hot": "❤️ 0 💬 0",
-      "desc": "rproc is a Linux resource and process monitor. Think Windows 11’s Task Manager, but native, fast, and...",
-      "source": "dev",
-      "tag": "rust,  architecture",
-      "url": "https://dev.to/trystan_sarrade/how-i-took-my-rust-gui-from-135-mb-to-30-mb-by-ditching-the-gpu-2i7d"
-    },
-    {
       "title": "The perfect background music for Vibecoding...",
-      "hot": "❤️ 16 💬 6",
+      "hot": "❤️ 17 💬 7",
       "desc": "While vibecoding, you sometimes need some background music. But music can also be a massive...",
       "source": "dev",
       "tag": "ai,  programming",
@@ -130,36 +154,12 @@
     },
     {
       "title": "Join the June Solstice Game Jam: $1,000 in prizes!",
-      "hot": "❤️ 185 💬 51",
+      "hot": "❤️ 185 💬 52",
       "desc": "We're excited to kick off the June Solstice Game Jam, running from June 3 through June 21 and ending...",
       "source": "dev",
       "tag": "devchallenge,  gamechallenge",
       "url": "https://dev.to/devteam/join-the-june-solstice-game-jam-1000-in-prizes-3jla"
-    },
-    {
-      "title": "Stop writing prompts to classify text: make evaluation declarative",
-      "hot": "❤️ 0 💬 0",
-      "desc": "I've built the same thing more than once: a step that reads an inbound message — a lead form, a...",
-      "source": "dev",
-      "tag": "ai,  llm",
-      "url": "https://dev.to/ayoolasolomon/stop-writing-prompts-to-classify-text-make-evaluation-declarative-5555"
-    },
-    {
-      "title": "Strategies for running AI workloads on GKE without committed quota",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Learn different strategies to use hard-to-get hardware accelerators with Google Kubernetes Engine (GKE).",
-      "source": "dev",
-      "tag": "kubernetes,  ai",
-      "url": "https://dev.to/googlecloud/strategies-for-running-ai-workloads-on-gke-without-committed-quota-484l"
-    },
-    {
-      "title": "Github \"Finish-Up-A-Thon\" Challenge Winner Announcement Delayed & General Challenge Timeline Updates",
-      "hot": "❤️ 36 💬 7",
-      "desc": "Hey all, we have a quick update for everyone who participated in the GitHub \"Finish-Up-A-Thon\"...",
-      "source": "dev",
-      "tag": "devchallenge,  githubchallenge",
-      "url": "https://dev.to/devteam/github-finish-up-a-thon-challenge-winner-announcement-delayed-general-challenge-timeline-updates-ckk"
     }
   ],
-  "updatedAt": "2026-06-10T12:10:53.216Z"
+  "updatedAt": "2026-06-10T16:11:30.003Z"
 }
