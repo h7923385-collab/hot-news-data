@@ -1,7 +1,339 @@
 {
-  "updatedAt": "2026-06-10T23:01:30.879Z",
+  "updatedAt": "2026-06-11T01:44:16.148Z",
   "source": "live",
+  "dev": [
+    {
+      "title": "How we built AIventure, an AI-Powered Retro Dungeon",
+      "hot": "❤️ 24 💬 1",
+      "desc": "Grab a refreshing slice of cold watermelon (because it’s summer in Tokyo and I love it!), and let me...",
+      "source": "dev",
+      "tag": "gamedev,  gemini",
+      "url": "https://dev.to/googleai/how-we-built-aiventure-an-ai-powered-retro-dungeon-2f54"
+    },
+    {
+      "title": "CSS – only a Nerdy Hobby?",
+      "hot": "❤️ 23 💬 4",
+      "desc": "In times when people believe that \"AI can code a website in 2 days\" (see: how to leverage AI as a...",
+      "source": "dev",
+      "tag": "ai,  css",
+      "url": "https://dev.to/ingosteinke/css-only-a-nerdy-hobby-17hf"
+    },
+    {
+      "title": "How I Built a Treasure-Run Game Where Australia Saves the Sun",
+      "hot": "❤️ 26 💬 2",
+      "desc": "This is a submission for the June Solstice Game Jam           What I Built   For this game jam, I...",
+      "source": "dev",
+      "tag": "devchallenge,  gamechallenge",
+      "url": "https://dev.to/ujja/how-i-built-a-treasure-run-game-where-australia-saves-the-sun-kck"
+    },
+    {
+      "title": "Deployment Planning with Gemma 26B, NVIDIA L4, MCP, Cloud Run, and Antigravity CLI",
+      "hot": "❤️ 5 💬 0",
+      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud Run...",
+      "source": "dev",
+      "tag": "nvidia,  mcps",
+      "url": "https://dev.to/gde/deployment-planning-with-gemma-26b-nvidia-l4-mcp-cloud-run-and-antigravity-cli-kn0"
+    },
+    {
+      "title": "It's Time We All Eat some more Cucumber!",
+      "hot": "❤️ 11 💬 1",
+      "desc": "Everyone's writing specs for AI now. We hand the model a markdown file, tell it what we want, and...",
+      "source": "dev",
+      "tag": "ai,  tdd",
+      "url": "https://dev.to/sebs/its-time-we-all-eat-some-cucumber-16ic"
+    },
+    {
+      "title": "Welcome Thread - v379",
+      "hot": "❤️ 11 💬 34",
+      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
+      "source": "dev",
+      "tag": "welcome",
+      "url": "https://dev.to/devteam/welcome-thread-v379-9fb"
+    },
+    {
+      "title": "G4 Fractional VMs are now available on Google Cloud!",
+      "hot": "❤️ 26 💬 0",
+      "desc": "In 2025 Google Cloud added G4, powered by NVIDIA's RTX PRO 6000 Blackwell Server Edition GPUs to...",
+      "source": "dev",
+      "tag": "gpu,  googlecloud",
+      "url": "https://dev.to/googleai/g4-fractional-vms-are-now-available-on-google-cloud-knp"
+    },
+    {
+      "title": "Debugging Deployments with Gemma 12B, NVIDIA L4, MCP, Cloud Run, and Antigravity CLI",
+      "hot": "❤️ 5 💬 0",
+      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud Run...",
+      "source": "dev",
+      "tag": "mcps,  nvidial4",
+      "url": "https://dev.to/gde/debugging-deployments-with-gemma-12b-nvidia-l4-mcp-cloud-run-and-antigravity-cli-32eg"
+    },
+    {
+      "title": "From Dashboards to Autonomous Action: Why You Need to Attend Google Cloud Labs",
+      "hot": "❤️ 21 💬 0",
+      "desc": "The era of passive data analytics is over. Today, the most forward-thinking data teams aren't just...",
+      "source": "dev",
+      "tag": "googlecloud,  agents",
+      "url": "https://dev.to/googleai/from-dashboards-to-autonomous-action-why-you-need-to-attend-google-cloud-labs-3ada"
+    },
+    {
+      "title": "Configuring Firebase AI Logic for Android to Use Gemini Models",
+      "hot": "❤️ 14 💬 1",
+      "desc": "What device do we use almost all the time? Our mobile phone, almost certainly. If we wanted to...",
+      "source": "dev",
+      "tag": "android,  ai",
+      "url": "https://dev.to/gdg/configuring-firebase-ai-logic-for-android-to-use-gemini-models-4eb7"
+    },
+    {
+      "title": "I tried to make an AI agent answer more. It answered less.",
+      "hot": "❤️ 0 💬 0",
+      "desc": "If you build or evaluate scoped agents: any talk about the agent in your test context makes it defend...",
+      "source": "dev",
+      "tag": "ai,  llm",
+      "url": "https://dev.to/ankushchadha/i-tried-to-make-an-ai-agent-answer-more-it-answered-less-3d7a"
+    },
+    {
+      "title": "12B Gemma 4 QAT Deployment with NVIDIA L4, Cloud Run, MCP, and Antigravity CLI",
+      "hot": "❤️ 5 💬 0",
+      "desc": "This article provides a step by step deployment guide for Gemma 4 to a Google Cloud Run hosted GPU...",
+      "source": "dev",
+      "tag": "runcloud,  googleantigravity",
+      "url": "https://dev.to/gde/12b-gemma-4-qat-deployment-with-nvidia-l4-cloud-run-mcp-and-antigravity-cli-21l2"
+    },
+    {
+      "title": "You’re a Real TypeScript Developer Only If...",
+      "hot": "❤️ 81 💬 37",
+      "desc": "A few months ago, I published You're a Real JavaScript Developer Only If...  It was just a post for...",
+      "source": "dev",
+      "tag": "webdev,  typescript",
+      "url": "https://dev.to/hadil/youre-a-real-typescript-developer-only-if-1d9o"
+    },
+    {
+      "title": "Flutter Midsommer Madnesss",
+      "hot": "❤️ 8 💬 0",
+      "desc": "This is a submission for the June Solstice Game Jam  When you have a hammer- everything is a...",
+      "source": "dev",
+      "tag": "devchallenge,  gamechallenge",
+      "url": "https://dev.to/gde/flutter-midsommer-madnesss-kkb"
+    },
+    {
+      "title": "Claude Fable 5 is Now Generally Available on Google Cloud! 🚀",
+      "hot": "❤️ 33 💬 1",
+      "desc": "Good news for Claude devs deploying on Google Cloud. Claude Fable 5, Anthropic’s latest frontier...",
+      "source": "dev",
+      "tag": "ai,  claude",
+      "url": "https://dev.to/googleai/claude-fable-5-is-now-generally-available-on-google-cloud-3gog"
+    },
+    {
+      "title": "Antigravity Managed Agents Tutorial: Ship Production AI Agents",
+      "hot": "❤️ 21 💬 1",
+      "desc": "If you’ve tried building AI applications, you often face a familiar engineering wall.  It goes like...",
+      "source": "dev",
+      "tag": "agentsasanapi,  managedagent",
+      "url": "https://dev.to/googleai/antigravity-managed-agents-tutorial-ship-production-ai-agents-21c0"
+    },
+    {
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "hot": "❤️ 46 💬 12",
+      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+      "source": "dev",
+      "tag": "top7,  discuss",
+      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-14hj"
+    },
+    {
+      "title": "Seamless scaling with VPA In-place Pod Resize on GKE",
+      "hot": "❤️ 5 💬 0",
+      "desc": "Learn how VPA In-place Pod Resize can help seamlessly vertically scale workloads on Google Kubernetes Engine (GKE).",
+      "source": "dev",
+      "tag": "kubernetes,  ai",
+      "url": "https://dev.to/googlecloud/seamless-scaling-with-vpa-in-place-pod-resize-on-gke-117p"
+    },
+    {
+      "title": "The agent that fixes bugs by running the code",
+      "hot": "❤️ 1 💬 1",
+      "desc": "Why harness engineering, not better models, is the next frontier in AI-assisted coding. The runtime evidence loop that t",
+      "source": "dev",
+      "tag": "ai,  agents",
+      "url": "https://dev.to/shreyshah/the-agent-that-fixes-bugs-by-running-the-code-4lbg"
+    },
+    {
+      "title": "Building a Content Pipeline: A Guide to the Workspace Studio + Gems Integration",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Google just rolled out a major quality-of-life update for developers and ops teams: Custom Gems are...",
+      "source": "dev",
+      "tag": "workspacestudio,  googleworkspace",
+      "url": "https://dev.to/gde/building-a-content-pipeline-a-guide-to-the-workspace-studio-gems-integration-e3n"
+    }
+  ],
+  "tech": [
+    {
+      "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+      "hot": "3.0m",
+      "desc": "techcrunch.com",
+      "source": "tech",
+      "tag": "⬆️ 206 points",
+      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/"
+    },
+    {
+      "title": "AI agent runs amok in Fedora and elsewhere",
+      "hot": "3.0m",
+      "desc": "lwn.net",
+      "source": "tech",
+      "tag": "⬆️ 78 points",
+      "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/"
+    },
+    {
+      "title": "πFS",
+      "hot": "3.0m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 516 points",
+      "url": "https://github.com/philipl/pifs"
+    },
+    {
+      "title": "A Written Language for the Cherokee So Efficient It Was Thought to Be Magic",
+      "hot": "3.0m",
+      "desc": "smithsonianmag.com",
+      "source": "tech",
+      "tag": "⬆️ 88 points",
+      "url": "https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/"
+    },
+    {
+      "title": "Anthropic requires 30 day data retention for Fable and Mythos",
+      "hot": "2.9m",
+      "desc": "support.claude.com",
+      "source": "tech",
+      "tag": "⬆️ 170 points",
+      "url": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models"
+    },
+    {
+      "title": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" – AMA",
+      "hot": "2.9m",
+      "desc": "news.ycombinator.com",
+      "source": "tech",
+      "tag": "⬆️ 522 points",
+      "url": "https://news.ycombinator.com/item?id=48477135"
+    },
+    {
+      "title": "How JPL keeps the 13-year-old Curiosity rover doing science",
+      "hot": "2.9m",
+      "desc": "spectrum.ieee.org",
+      "source": "tech",
+      "tag": "⬆️ 170 points",
+      "url": "https://spectrum.ieee.org/curiosity-rover-jpl-mars-science"
+    },
+    {
+      "title": "PgDog is funded and coming to a database near you",
+      "hot": "2.9m",
+      "desc": "pgdog.dev",
+      "source": "tech",
+      "tag": "⬆️ 385 points",
+      "url": "https://pgdog.dev/blog/our-funding-announcement"
+    },
+    {
+      "title": "L'Affaire Siloxane",
+      "hot": "2.9m",
+      "desc": "mceglowski.substack.com",
+      "source": "tech",
+      "tag": "⬆️ 154 points",
+      "url": "https://mceglowski.substack.com/p/laffaire-siloxane"
+    },
+    {
+      "title": "What is it like to be a bat? (1974) [pdf]",
+      "hot": "2.9m",
+      "desc": "sas.upenn.edu",
+      "source": "tech",
+      "tag": "⬆️ 63 points",
+      "url": "https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf"
+    },
+    {
+      "title": "Show HN: Extend UI – open-source UI kit for modern document apps",
+      "hot": "2.9m",
+      "desc": "extend.ai",
+      "source": "tech",
+      "tag": "⬆️ 149 points",
+      "url": "https://www.extend.ai/ui"
+    },
+    {
+      "title": "GeoLibre 1.0",
+      "hot": "2.8m",
+      "desc": "geolibre.app",
+      "source": "tech",
+      "tag": "⬆️ 149 points",
+      "url": "https://geolibre.app/"
+    },
+    {
+      "title": "Deficient executive control in transformer attention",
+      "hot": "2.8m",
+      "desc": "academic.oup.com",
+      "source": "tech",
+      "tag": "⬆️ 17 points",
+      "url": "https://academic.oup.com/pnasnexus/article/5/6/pgag149/8698838"
+    },
+    {
+      "title": "Raspberry Pi 5 – 16GB RAM",
+      "hot": "2.8m",
+      "desc": "adafruit.com",
+      "source": "tech",
+      "tag": "⬆️ 167 points",
+      "url": "https://www.adafruit.com/product/6125?src=raspberrypi"
+    },
+    {
+      "title": "Vacuum-Form Signage",
+      "hot": "2.8m",
+      "desc": "bethmathews.substack.com",
+      "source": "tech",
+      "tag": "⬆️ 4 points",
+      "url": "https://bethmathews.substack.com/p/the-history-behind-the-signs-lighting"
+    },
+    {
+      "title": "World Capitals Voronoi",
+      "hot": "2.8m",
+      "desc": "jasondavies.com",
+      "source": "tech",
+      "tag": "⬆️ 37 points",
+      "url": "https://www.jasondavies.com/maps/voronoi/capitals/"
+    },
+    {
+      "title": "Farmer donates land for a park, city sells it for $10M as data center land",
+      "hot": "2.8m",
+      "desc": "tomshardware.com",
+      "source": "tech",
+      "tag": "⬆️ 404 points",
+      "url": "https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade"
+    },
+    {
+      "title": "Who's the smartest corvid?",
+      "hot": "2.7m",
+      "desc": "thetyee.ca",
+      "source": "tech",
+      "tag": "⬆️ 67 points",
+      "url": "https://thetyee.ca/Culture/2026/06/05/Whos-the-Smartest-Corvid/"
+    },
+    {
+      "title": "Show HN: HelixDB – A graph database built on object storage",
+      "hot": "2.7m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 89 points",
+      "url": "https://github.com/HelixDB/helix-db/tree/main"
+    },
+    {
+      "title": "Building an HTML-first site doubled our users overnight",
+      "hot": "2.7m",
+      "desc": "mohkohn.co.uk",
+      "source": "tech",
+      "tag": "⬆️ 1000 points",
+      "url": "https://mohkohn.co.uk/writing/html-first/"
+    }
+  ],
   "space": [
+    {
+      "title": "NASA chief defends selection of all-male Artemis 3 crew",
+      "hot": "6/10",
+      "desc": "During an event Tuesday at the Johnson Space Center, NASA revealed the astronauts who had been selected for next year's Artemis 3 mission, a flight to",
+      "source": "space",
+      "tag": "Spaceflight Now",
+      "url": "https://spaceflightnow.com/2026/06/10/nasa-chief-defends-selection-of-all-male-artemis-iii-crew/"
+    },
     {
       "title": "Isaacman Responds to Criticism of All-Male Artemis III Crew",
       "hot": "6/10",
@@ -113,338 +445,6 @@
       "source": "space",
       "tag": "European Spaceflight",
       "url": "https://europeanspaceflight.com/esa-awards-initial-e700m-contract-for-next-gen-sentinel-1-satellites/"
-    },
-    {
-      "title": "Spire to pursue space-based missile warning in partnership with German defense firm",
-      "hot": "6/10",
-      "desc": "\nDiehl Defence will explore using Spire’s constellation for detection of ballistic and hypersonic missile threats \nThe post Spire to pursue space-base",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/spire-to-pursue-space-based-missile-warning-in-partnership-with-german-defense-firm/"
-    }
-  ],
-  "tech": [
-    {
-      "title": "πFS",
-      "hot": "3.0m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 372 points",
-      "url": "https://github.com/philipl/pifs"
-    },
-    {
-      "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
-      "hot": "3.0m",
-      "desc": "techcrunch.com",
-      "source": "tech",
-      "tag": "⬆️ 36 points",
-      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/"
-    },
-    {
-      "title": "How JPL keeps the 13-year-old Curiosity rover doing science",
-      "hot": "3.0m",
-      "desc": "spectrum.ieee.org",
-      "source": "tech",
-      "tag": "⬆️ 145 points",
-      "url": "https://spectrum.ieee.org/curiosity-rover-jpl-mars-science"
-    },
-    {
-      "title": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" – AMA",
-      "hot": "3.0m",
-      "desc": "news.ycombinator.com",
-      "source": "tech",
-      "tag": "⬆️ 478 points",
-      "url": "https://news.ycombinator.com/item?id=48477135"
-    },
-    {
-      "title": "What is it like to be a bat? (1974) [pdf]",
-      "hot": "2.9m",
-      "desc": "sas.upenn.edu",
-      "source": "tech",
-      "tag": "⬆️ 46 points",
-      "url": "https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf"
-    },
-    {
-      "title": "PgDog is funded and coming to a database near you",
-      "hot": "2.9m",
-      "desc": "pgdog.dev",
-      "source": "tech",
-      "tag": "⬆️ 359 points",
-      "url": "https://pgdog.dev/blog/our-funding-announcement"
-    },
-    {
-      "title": "Anthropic requires 30 day data retention for Fable and Mythos",
-      "hot": "2.9m",
-      "desc": "support.claude.com",
-      "source": "tech",
-      "tag": "⬆️ 51 points",
-      "url": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models"
-    },
-    {
-      "title": "L'Affaire Siloxane",
-      "hot": "2.9m",
-      "desc": "mceglowski.substack.com",
-      "source": "tech",
-      "tag": "⬆️ 123 points",
-      "url": "https://mceglowski.substack.com/p/laffaire-siloxane"
-    },
-    {
-      "title": "A Written Language for the Cherokee So Efficient It Was Thought to Be Magic",
-      "hot": "2.9m",
-      "desc": "smithsonianmag.com",
-      "source": "tech",
-      "tag": "⬆️ 14 points",
-      "url": "https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/"
-    },
-    {
-      "title": "GeoLibre 1.0",
-      "hot": "2.9m",
-      "desc": "geolibre.app",
-      "source": "tech",
-      "tag": "⬆️ 109 points",
-      "url": "https://geolibre.app/"
-    },
-    {
-      "title": "World Capitals Voronoi",
-      "hot": "2.9m",
-      "desc": "jasondavies.com",
-      "source": "tech",
-      "tag": "⬆️ 13 points",
-      "url": "https://www.jasondavies.com/maps/voronoi/capitals/"
-    },
-    {
-      "title": "Farmer donates land for a park, city sells it for $10M as data center land",
-      "hot": "2.8m",
-      "desc": "tomshardware.com",
-      "source": "tech",
-      "tag": "⬆️ 294 points",
-      "url": "https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade"
-    },
-    {
-      "title": "Show HN: Extend UI – open-source UI kit for modern document apps",
-      "hot": "2.8m",
-      "desc": "extend.ai",
-      "source": "tech",
-      "tag": "⬆️ 111 points",
-      "url": "https://www.extend.ai/ui"
-    },
-    {
-      "title": "Mercedes‑Benz starts large‑scale production of electric axial flux motor",
-      "hot": "2.8m",
-      "desc": "media.mercedes-benz.com",
-      "source": "tech",
-      "tag": "⬆️ 494 points",
-      "url": "https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf"
-    },
-    {
-      "title": "Show HN: HelixDB – A graph database built on object storage",
-      "hot": "2.8m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 78 points",
-      "url": "https://github.com/HelixDB/helix-db/tree/main"
-    },
-    {
-      "title": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
-      "hot": "2.8m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 304 points",
-      "url": "https://github.com/anthropics/claude-code/issues/29045"
-    },
-    {
-      "title": "Building an HTML-first site doubled our users overnight",
-      "hot": "2.8m",
-      "desc": "mohkohn.co.uk",
-      "source": "tech",
-      "tag": "⬆️ 946 points",
-      "url": "https://mohkohn.co.uk/writing/html-first/"
-    },
-    {
-      "title": "Authentication issues related to API requests",
-      "hot": "2.7m",
-      "desc": "githubstatus.com",
-      "source": "tech",
-      "tag": "⬆️ 147 points",
-      "url": "https://www.githubstatus.com/incidents/fcj3088jg1wx"
-    },
-    {
-      "title": "Anthropic's model naming, extrapolated",
-      "hot": "2.7m",
-      "desc": "samwilkinson.io",
-      "source": "tech",
-      "tag": "⬆️ 248 points",
-      "url": "https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated"
-    },
-    {
-      "title": "Apache Burr: Build reliable AI agents and applications",
-      "hot": "2.7m",
-      "desc": "burr.apache.org",
-      "source": "tech",
-      "tag": "⬆️ 160 points",
-      "url": "https://burr.apache.org/"
-    }
-  ],
-  "dev": [
-    {
-      "title": "CSS – only a Nerdy Hobby?",
-      "hot": "❤️ 22 💬 4",
-      "desc": "In times when people believe that \"AI can code a website in 2 days\" (see: how to leverage AI as a...",
-      "source": "dev",
-      "tag": "ai,  css",
-      "url": "https://dev.to/ingosteinke/css-only-a-nerdy-hobby-17hf"
-    },
-    {
-      "title": "How I Built a Treasure-Run Game Where Australia Saves the Sun",
-      "hot": "❤️ 26 💬 2",
-      "desc": "This is a submission for the June Solstice Game Jam           What I Built   For this game jam, I...",
-      "source": "dev",
-      "tag": "devchallenge,  gamechallenge",
-      "url": "https://dev.to/ujja/how-i-built-a-treasure-run-game-where-australia-saves-the-sun-kck"
-    },
-    {
-      "title": "How we built AIventure, an AI-Powered Retro Dungeon",
-      "hot": "❤️ 21 💬 1",
-      "desc": "Grab a refreshing slice of cold watermelon (because it’s summer in Tokyo and I love it!), and let me...",
-      "source": "dev",
-      "tag": "gamedev,  gemini",
-      "url": "https://dev.to/googleai/how-we-built-aiventure-an-ai-powered-retro-dungeon-2f54"
-    },
-    {
-      "title": "Welcome Thread - v379",
-      "hot": "❤️ 11 💬 31",
-      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
-      "source": "dev",
-      "tag": "welcome",
-      "url": "https://dev.to/devteam/welcome-thread-v379-9fb"
-    },
-    {
-      "title": "It's Time We All Eat some more Cucumber!",
-      "hot": "❤️ 11 💬 1",
-      "desc": "Everyone's writing specs for AI now. We hand the model a markdown file, tell it what we want, and...",
-      "source": "dev",
-      "tag": "ai,  tdd",
-      "url": "https://dev.to/sebs/its-time-we-all-eat-some-cucumber-16ic"
-    },
-    {
-      "title": "G4 Fractional VMs are now available on Google Cloud!",
-      "hot": "❤️ 26 💬 0",
-      "desc": "In 2025 Google Cloud added G4, powered by NVIDIA's RTX PRO 6000 Blackwell Server Edition GPUs to...",
-      "source": "dev",
-      "tag": "gpu,  googlecloud",
-      "url": "https://dev.to/googleai/g4-fractional-vms-are-now-available-on-google-cloud-knp"
-    },
-    {
-      "title": "From Dashboards to Autonomous Action: Why You Need to Attend Google Cloud Labs",
-      "hot": "❤️ 21 💬 0",
-      "desc": "The era of passive data analytics is over. Today, the most forward-thinking data teams aren't just...",
-      "source": "dev",
-      "tag": "googlecloud,  agents",
-      "url": "https://dev.to/googleai/from-dashboards-to-autonomous-action-why-you-need-to-attend-google-cloud-labs-3ada"
-    },
-    {
-      "title": "I tried to make an AI agent answer more. It answered less.",
-      "hot": "❤️ 0 💬 0",
-      "desc": "If you build or evaluate scoped agents: any talk about the agent in your test context makes it defend...",
-      "source": "dev",
-      "tag": "ai,  llm",
-      "url": "https://dev.to/ankushchadha/i-tried-to-make-an-ai-agent-answer-more-it-answered-less-3d7a"
-    },
-    {
-      "title": "You’re a Real TypeScript Developer Only If...",
-      "hot": "❤️ 81 💬 37",
-      "desc": "A few months ago, I published You're a Real JavaScript Developer Only If...  It was just a post for...",
-      "source": "dev",
-      "tag": "webdev,  typescript",
-      "url": "https://dev.to/hadil/youre-a-real-typescript-developer-only-if-1d9o"
-    },
-    {
-      "title": "Flutter Midsommer Madnesss",
-      "hot": "❤️ 8 💬 0",
-      "desc": "This is a submission for the June Solstice Game Jam  When you have a hammer- everything is a...",
-      "source": "dev",
-      "tag": "devchallenge,  gamechallenge",
-      "url": "https://dev.to/gde/flutter-midsommer-madnesss-kkb"
-    },
-    {
-      "title": "Claude Fable 5 is Now Generally Available on Google Cloud! 🚀",
-      "hot": "❤️ 33 💬 1",
-      "desc": "Good news for Claude devs deploying on Google Cloud. Claude Fable 5, Anthropic’s latest frontier...",
-      "source": "dev",
-      "tag": "ai,  claude",
-      "url": "https://dev.to/googleai/claude-fable-5-is-now-generally-available-on-google-cloud-3gog"
-    },
-    {
-      "title": "Antigravity Managed Agents Tutorial: Ship Production AI Agents",
-      "hot": "❤️ 21 💬 1",
-      "desc": "If you’ve tried building AI applications, you often face a familiar engineering wall.  It goes like...",
-      "source": "dev",
-      "tag": "agentsasanapi,  managedagent",
-      "url": "https://dev.to/googleai/antigravity-managed-agents-tutorial-ship-production-ai-agents-21c0"
-    },
-    {
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 46 💬 12",
-      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
-      "source": "dev",
-      "tag": "top7,  discuss",
-      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-14hj"
-    },
-    {
-      "title": "Seamless scaling with VPA In-place Pod Resize on GKE",
-      "hot": "❤️ 5 💬 0",
-      "desc": "Learn how VPA In-place Pod Resize can help seamlessly vertically scale workloads on Google Kubernetes Engine (GKE).",
-      "source": "dev",
-      "tag": "kubernetes,  ai",
-      "url": "https://dev.to/googlecloud/seamless-scaling-with-vpa-in-place-pod-resize-on-gke-117p"
-    },
-    {
-      "title": "The agent that fixes bugs by running the code",
-      "hot": "❤️ 1 💬 1",
-      "desc": "Why harness engineering, not better models, is the next frontier in AI-assisted coding. The runtime evidence loop that t",
-      "source": "dev",
-      "tag": "ai,  agents",
-      "url": "https://dev.to/shreyshah/the-agent-that-fixes-bugs-by-running-the-code-4lbg"
-    },
-    {
-      "title": "Building a Content Pipeline: A Guide to the Workspace Studio + Gems Integration",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Google just rolled out a major quality-of-life update for developers and ops teams: Custom Gems are...",
-      "source": "dev",
-      "tag": "workspacestudio,  googleworkspace",
-      "url": "https://dev.to/gde/building-a-content-pipeline-a-guide-to-the-workspace-studio-gems-integration-e3n"
-    },
-    {
-      "title": "Dialling Our Agents to 11: My Favourite MCP Servers",
-      "hot": "❤️ 9 💬 1",
-      "desc": "What This Article Is About   I’d like to tell you about a few of the MCP servers and agent...",
-      "source": "dev",
-      "tag": "mcpserver,  agenticai",
-      "url": "https://dev.to/gde/dialling-our-agents-to-11-my-favourite-mcp-servers-3hbm"
-    },
-    {
-      "title": "TanStack Start Is Kind of a Big Deal",
-      "hot": "❤️ 39 💬 5",
-      "desc": "Introduction   People keep telling me TanStack Start is kind of a big deal, and I wanted to...",
-      "source": "dev",
-      "tag": "tanstack,  react",
-      "url": "https://dev.to/erikch/tanstack-start-is-kind-of-a-big-deal-4nec"
-    },
-    {
-      "title": "Dystopian Civilization Scenarios",
-      "hot": "❤️ 11 💬 1",
-      "desc": "Gaming, like AI, is far from what fascinates me most about technology and creative development....",
-      "source": "dev",
-      "tag": "watercooler",
-      "url": "https://dev.to/ingosteinke/dystopian-civilization-scenarios-4422"
-    },
-    {
-      "title": "Retour sur le Google I/O 2026 | Focus Antigravity 2.0",
-      "hot": "❤️ 5 💬 0",
-      "desc": "En mai, la très attendue conférence Google I/O a eu lieu et le mot d’ordre, et ce n’est pas trop une...",
-      "source": "dev",
-      "tag": "ai,  antigravity",
-      "url": "https://dev.to/gde/retour-sur-le-google-io-2026-focus-antigravity-20-33jh"
     }
   ],
   "github": [
@@ -465,16 +465,8 @@
       "url": "https://github.com/NoopApp/noop"
     },
     {
-      "title": "nevertoday/zhongguo-traditional-colors: 中华传统色演示、色卡浏览与颜色知识科普开源项目",
-      "hot": "⭐ 897",
-      "desc": "中华传统色演示、色卡浏览与颜色知识科普开源项目",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/nevertoday/zhongguo-traditional-colors"
-    },
-    {
       "title": "MSNightmare/RoguePlanet: RoguePlanet Windows Defender Vulnerability",
-      "hot": "⭐ 884",
+      "hot": "⭐ 911",
       "desc": "RoguePlanet Windows Defender Vulnerability",
       "source": "github",
       "tag": "C++",
@@ -482,7 +474,7 @@
     },
     {
       "title": "shadcn/improve: Use your most capable model to audit your codebase and write pla",
-      "hot": "⭐ 781",
+      "hot": "⭐ 874",
       "desc": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
       "source": "github",
       "tag": "GitHub",
@@ -490,7 +482,7 @@
     },
     {
       "title": "GordenSun/GordenSuperPPTSkills: AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式P",
-      "hot": "⭐ 724",
+      "hot": "⭐ 730",
       "desc": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
       "source": "github",
       "tag": "Python",
@@ -498,15 +490,23 @@
     },
     {
       "title": "JimLiu/baoyu-design: Run Claude Design locally as an Agent Skill — Cursor, Claud",
-      "hot": "⭐ 682",
+      "hot": "⭐ 690",
       "desc": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-containe",
       "source": "github",
       "tag": "JavaScript",
       "url": "https://github.com/JimLiu/baoyu-design"
     },
     {
+      "title": "XiaomiMiMo/MiMo-Code: ",
+      "hot": "⭐ 645",
+      "desc": "XiaomiMiMo/MiMo-Code",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/XiaomiMiMo/MiMo-Code"
+    },
+    {
       "title": "apple/coreai-models: Model export recipes, Python primitives, and Swift runtime ",
-      "hot": "⭐ 610",
+      "hot": "⭐ 617",
       "desc": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
       "source": "github",
       "tag": "Python",
@@ -514,23 +514,15 @@
     },
     {
       "title": "vorpus/performativeUI: ",
-      "hot": "⭐ 566",
+      "hot": "⭐ 573",
       "desc": "vorpus/performativeUI",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/vorpus/performativeUI"
     },
     {
-      "title": "tastyeffectco/sandboxd: Self-hosted dev sandboxes with preview URLs. One command",
-      "hot": "⭐ 561",
-      "desc": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
-      "source": "github",
-      "tag": "Go",
-      "url": "https://github.com/tastyeffectco/sandboxd"
-    },
-    {
       "title": "amElnagdy/guard-skills: Guard skills for coding agents, quality gates that catch",
-      "hot": "⭐ 549",
+      "hot": "⭐ 553",
       "desc": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
       "source": "github",
       "tag": "GitHub",
@@ -538,7 +530,7 @@
     },
     {
       "title": "jeff141/meatshell: 一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-memory SSH / term",
-      "hot": "⭐ 522",
+      "hot": "⭐ 536",
       "desc": "一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-memory SSH / terminal client）",
       "source": "github",
       "tag": "Rust",
@@ -546,7 +538,7 @@
     },
     {
       "title": "Jane-xiaoer/xiaoer-videolab: One click on the toolbar grabs the current page's v",
-      "hot": "⭐ 501",
+      "hot": "⭐ 503",
       "desc": "One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
       "source": "github",
       "tag": "JavaScript",
@@ -554,7 +546,7 @@
     },
     {
       "title": "zenhosta/9drive: 9Drive is a storage gateway web app for connecting multiple Goo",
-      "hot": "⭐ 489",
+      "hot": "⭐ 492",
       "desc": "9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Users can connect Google Drive a",
       "source": "github",
       "tag": "TypeScript",
@@ -562,11 +554,19 @@
     },
     {
       "title": "wy51ai/edulab: ",
-      "hot": "⭐ 475",
+      "hot": "⭐ 476",
       "desc": "wy51ai/edulab",
       "source": "github",
       "tag": "HTML",
       "url": "https://github.com/wy51ai/edulab"
+    },
+    {
+      "title": "xiaohuailabs/xiaohu-video-translate: 对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条",
+      "hot": "⭐ 442",
+      "desc": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/xiaohuailabs/xiaohu-video-translate"
     }
   ]
 }

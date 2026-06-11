@@ -1,8 +1,16 @@
 {
   "data": [
     {
+      "title": "How we built AIventure, an AI-Powered Retro Dungeon",
+      "hot": "❤️ 24 💬 1",
+      "desc": "Grab a refreshing slice of cold watermelon (because it’s summer in Tokyo and I love it!), and let me...",
+      "source": "dev",
+      "tag": "gamedev,  gemini",
+      "url": "https://dev.to/googleai/how-we-built-aiventure-an-ai-powered-retro-dungeon-2f54"
+    },
+    {
       "title": "CSS – only a Nerdy Hobby?",
-      "hot": "❤️ 22 💬 4",
+      "hot": "❤️ 23 💬 4",
       "desc": "In times when people believe that \"AI can code a website in 2 days\" (see: how to leverage AI as a...",
       "source": "dev",
       "tag": "ai,  css",
@@ -17,20 +25,12 @@
       "url": "https://dev.to/ujja/how-i-built-a-treasure-run-game-where-australia-saves-the-sun-kck"
     },
     {
-      "title": "How we built AIventure, an AI-Powered Retro Dungeon",
-      "hot": "❤️ 21 💬 1",
-      "desc": "Grab a refreshing slice of cold watermelon (because it’s summer in Tokyo and I love it!), and let me...",
+      "title": "Deployment Planning with Gemma 26B, NVIDIA L4, MCP, Cloud Run, and Antigravity CLI",
+      "hot": "❤️ 5 💬 0",
+      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud Run...",
       "source": "dev",
-      "tag": "gamedev,  gemini",
-      "url": "https://dev.to/googleai/how-we-built-aiventure-an-ai-powered-retro-dungeon-2f54"
-    },
-    {
-      "title": "Welcome Thread - v379",
-      "hot": "❤️ 11 💬 31",
-      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
-      "source": "dev",
-      "tag": "welcome",
-      "url": "https://dev.to/devteam/welcome-thread-v379-9fb"
+      "tag": "nvidia,  mcps",
+      "url": "https://dev.to/gde/deployment-planning-with-gemma-26b-nvidia-l4-mcp-cloud-run-and-antigravity-cli-kn0"
     },
     {
       "title": "It's Time We All Eat some more Cucumber!",
@@ -41,12 +41,28 @@
       "url": "https://dev.to/sebs/its-time-we-all-eat-some-cucumber-16ic"
     },
     {
+      "title": "Welcome Thread - v379",
+      "hot": "❤️ 11 💬 34",
+      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
+      "source": "dev",
+      "tag": "welcome",
+      "url": "https://dev.to/devteam/welcome-thread-v379-9fb"
+    },
+    {
       "title": "G4 Fractional VMs are now available on Google Cloud!",
       "hot": "❤️ 26 💬 0",
       "desc": "In 2025 Google Cloud added G4, powered by NVIDIA's RTX PRO 6000 Blackwell Server Edition GPUs to...",
       "source": "dev",
       "tag": "gpu,  googlecloud",
       "url": "https://dev.to/googleai/g4-fractional-vms-are-now-available-on-google-cloud-knp"
+    },
+    {
+      "title": "Debugging Deployments with Gemma 12B, NVIDIA L4, MCP, Cloud Run, and Antigravity CLI",
+      "hot": "❤️ 5 💬 0",
+      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud Run...",
+      "source": "dev",
+      "tag": "mcps,  nvidial4",
+      "url": "https://dev.to/gde/debugging-deployments-with-gemma-12b-nvidia-l4-mcp-cloud-run-and-antigravity-cli-32eg"
     },
     {
       "title": "From Dashboards to Autonomous Action: Why You Need to Attend Google Cloud Labs",
@@ -57,12 +73,28 @@
       "url": "https://dev.to/googleai/from-dashboards-to-autonomous-action-why-you-need-to-attend-google-cloud-labs-3ada"
     },
     {
+      "title": "Configuring Firebase AI Logic for Android to Use Gemini Models",
+      "hot": "❤️ 14 💬 1",
+      "desc": "What device do we use almost all the time? Our mobile phone, almost certainly. If we wanted to...",
+      "source": "dev",
+      "tag": "android,  ai",
+      "url": "https://dev.to/gdg/configuring-firebase-ai-logic-for-android-to-use-gemini-models-4eb7"
+    },
+    {
       "title": "I tried to make an AI agent answer more. It answered less.",
       "hot": "❤️ 0 💬 0",
       "desc": "If you build or evaluate scoped agents: any talk about the agent in your test context makes it defend...",
       "source": "dev",
       "tag": "ai,  llm",
       "url": "https://dev.to/ankushchadha/i-tried-to-make-an-ai-agent-answer-more-it-answered-less-3d7a"
+    },
+    {
+      "title": "12B Gemma 4 QAT Deployment with NVIDIA L4, Cloud Run, MCP, and Antigravity CLI",
+      "hot": "❤️ 5 💬 0",
+      "desc": "This article provides a step by step deployment guide for Gemma 4 to a Google Cloud Run hosted GPU...",
+      "source": "dev",
+      "tag": "runcloud,  googleantigravity",
+      "url": "https://dev.to/gde/12b-gemma-4-qat-deployment-with-nvidia-l4-cloud-run-mcp-and-antigravity-cli-21l2"
     },
     {
       "title": "You’re a Real TypeScript Developer Only If...",
@@ -127,39 +159,7 @@
       "source": "dev",
       "tag": "workspacestudio,  googleworkspace",
       "url": "https://dev.to/gde/building-a-content-pipeline-a-guide-to-the-workspace-studio-gems-integration-e3n"
-    },
-    {
-      "title": "Dialling Our Agents to 11: My Favourite MCP Servers",
-      "hot": "❤️ 9 💬 1",
-      "desc": "What This Article Is About   I’d like to tell you about a few of the MCP servers and agent...",
-      "source": "dev",
-      "tag": "mcpserver,  agenticai",
-      "url": "https://dev.to/gde/dialling-our-agents-to-11-my-favourite-mcp-servers-3hbm"
-    },
-    {
-      "title": "TanStack Start Is Kind of a Big Deal",
-      "hot": "❤️ 39 💬 5",
-      "desc": "Introduction   People keep telling me TanStack Start is kind of a big deal, and I wanted to...",
-      "source": "dev",
-      "tag": "tanstack,  react",
-      "url": "https://dev.to/erikch/tanstack-start-is-kind-of-a-big-deal-4nec"
-    },
-    {
-      "title": "Dystopian Civilization Scenarios",
-      "hot": "❤️ 11 💬 1",
-      "desc": "Gaming, like AI, is far from what fascinates me most about technology and creative development....",
-      "source": "dev",
-      "tag": "watercooler",
-      "url": "https://dev.to/ingosteinke/dystopian-civilization-scenarios-4422"
-    },
-    {
-      "title": "Retour sur le Google I/O 2026 | Focus Antigravity 2.0",
-      "hot": "❤️ 5 💬 0",
-      "desc": "En mai, la très attendue conférence Google I/O a eu lieu et le mot d’ordre, et ce n’est pas trop une...",
-      "source": "dev",
-      "tag": "ai,  antigravity",
-      "url": "https://dev.to/gde/retour-sur-le-google-io-2026-focus-antigravity-20-33jh"
     }
   ],
-  "updatedAt": "2026-06-10T23:01:30.879Z"
+  "updatedAt": "2026-06-11T01:44:16.148Z"
 }
