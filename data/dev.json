@@ -1,6 +1,14 @@
 {
   "data": [
     {
+      "title": "My daughter asked if developers used to write code by hand, but it was the follow-up question that surprised me.",
+      "hot": "❤️ 31 💬 1",
+      "desc": "My daughter Emma is 11. She's been vibe coding lately, and honestly, she's pretty good at it.  The...",
+      "source": "dev",
+      "tag": "ai,  webdev",
+      "url": "https://dev.to/googleai/my-daughter-asked-if-developers-used-to-write-code-by-hand-but-it-was-the-follow-up-question-that-1bh8"
+    },
+    {
       "title": "CSS – only a Nerdy Hobby?",
       "hot": "❤️ 26 💬 6",
       "desc": "In times when people believe that \"AI can code a website in 2 days\" (see: how to leverage AI as a...",
@@ -9,28 +17,12 @@
       "url": "https://dev.to/ingosteinke/css-only-a-nerdy-hobby-17hf"
     },
     {
-      "title": "Deployment Planning with Gemma 26B, NVIDIA L4, MCP, Cloud Run, and Antigravity CLI",
-      "hot": "❤️ 5 💬 0",
-      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud Run...",
-      "source": "dev",
-      "tag": "nvidia,  mcps",
-      "url": "https://dev.to/gde/deployment-planning-with-gemma-26b-nvidia-l4-mcp-cloud-run-and-antigravity-cli-kn0"
-    },
-    {
       "title": "It's Time We All Eat some more Cucumber!",
       "hot": "❤️ 11 💬 1",
       "desc": "Everyone's writing specs for AI now. We hand the model a markdown file, tell it what we want, and...",
       "source": "dev",
       "tag": "ai,  tdd",
       "url": "https://dev.to/sebs/its-time-we-all-eat-some-cucumber-16ic"
-    },
-    {
-      "title": "G4 Fractional VMs are now available on Google Cloud!",
-      "hot": "❤️ 26 💬 0",
-      "desc": "In 2025 Google Cloud added G4, powered by NVIDIA's RTX PRO 6000 Blackwell Server Edition GPUs to...",
-      "source": "dev",
-      "tag": "gpu,  googlecloud",
-      "url": "https://dev.to/googleai/g4-fractional-vms-are-now-available-on-google-cloud-knp"
     },
     {
       "title": "From Dashboards to Autonomous Action: Why You Need to Attend Google Cloud Labs",
@@ -49,8 +41,16 @@
       "url": "https://dev.to/googleai/how-we-built-aiventure-an-ai-powered-retro-dungeon-2f54"
     },
     {
+      "title": "How I Built a Treasure-Run Game Where Australia Saves the Sun",
+      "hot": "❤️ 30 💬 4",
+      "desc": "This is a submission for the June Solstice Game Jam           What I Built   For this game jam, I...",
+      "source": "dev",
+      "tag": "devchallenge,  gamechallenge",
+      "url": "https://dev.to/ujja/how-i-built-a-treasure-run-game-where-australia-saves-the-sun-kck"
+    },
+    {
       "title": "Welcome Thread - v379",
-      "hot": "❤️ 19 💬 65",
+      "hot": "❤️ 21 💬 87",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
@@ -65,12 +65,20 @@
       "url": "https://dev.to/ankushchadha/i-tried-to-make-an-ai-agent-answer-more-it-answered-less-3d7a"
     },
     {
-      "title": "Configuring Firebase AI Logic for Android to Use Gemini Models",
-      "hot": "❤️ 17 💬 2",
-      "desc": "What device do we use almost all the time? Our mobile phone, almost certainly. If we wanted to...",
+      "title": "Deployment Planning with Gemma 26B, NVIDIA L4, MCP, Cloud Run, and Antigravity CLI",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud Run...",
       "source": "dev",
-      "tag": "android,  ai",
-      "url": "https://dev.to/gdg/configuring-firebase-ai-logic-for-android-to-use-gemini-models-4eb7"
+      "tag": "nvidia,  mcps",
+      "url": "https://dev.to/gde/deployment-planning-with-gemma-26b-nvidia-l4-mcp-cloud-run-and-antigravity-cli-kn0"
+    },
+    {
+      "title": "You’re a Real TypeScript Developer Only If...",
+      "hot": "❤️ 84 💬 37",
+      "desc": "A few months ago, I published You're a Real JavaScript Developer Only If...  It was just a post for...",
+      "source": "dev",
+      "tag": "webdev,  typescript",
+      "url": "https://dev.to/hadil/youre-a-real-typescript-developer-only-if-1d9o"
     },
     {
       "title": "12B Gemma 4 QAT Deployment with NVIDIA L4, Cloud Run, MCP, and Antigravity CLI",
@@ -81,28 +89,20 @@
       "url": "https://dev.to/gde/12b-gemma-4-qat-deployment-with-nvidia-l4-cloud-run-mcp-and-antigravity-cli-21l2"
     },
     {
-      "title": "You’re a Real TypeScript Developer Only If...",
-      "hot": "❤️ 83 💬 37",
-      "desc": "A few months ago, I published You're a Real JavaScript Developer Only If...  It was just a post for...",
-      "source": "dev",
-      "tag": "webdev,  typescript",
-      "url": "https://dev.to/hadil/youre-a-real-typescript-developer-only-if-1d9o"
-    },
-    {
-      "title": "How I Built a Treasure-Run Game Where Australia Saves the Sun",
-      "hot": "❤️ 30 💬 2",
-      "desc": "This is a submission for the June Solstice Game Jam           What I Built   For this game jam, I...",
-      "source": "dev",
-      "tag": "devchallenge,  gamechallenge",
-      "url": "https://dev.to/ujja/how-i-built-a-treasure-run-game-where-australia-saves-the-sun-kck"
-    },
-    {
       "title": "Debugging Deployments with Gemma 12B, NVIDIA L4, MCP, Cloud Run, and Antigravity CLI",
       "hot": "❤️ 6 💬 0",
       "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud Run...",
       "source": "dev",
       "tag": "mcps,  nvidial4",
       "url": "https://dev.to/gde/debugging-deployments-with-gemma-12b-nvidia-l4-mcp-cloud-run-and-antigravity-cli-32eg"
+    },
+    {
+      "title": "G4 Fractional VMs are now available on Google Cloud!",
+      "hot": "❤️ 27 💬 0",
+      "desc": "In 2025 Google Cloud added G4, powered by NVIDIA's RTX PRO 6000 Blackwell Server Edition GPUs to...",
+      "source": "dev",
+      "tag": "gpu,  googlecloud",
+      "url": "https://dev.to/googleai/g4-fractional-vms-are-now-available-on-google-cloud-knp"
     },
     {
       "title": "Flutter Midsommer Madnesss",
@@ -161,5 +161,5 @@
       "url": "https://dev.to/gde/building-a-content-pipeline-a-guide-to-the-workspace-studio-gems-integration-e3n"
     }
   ],
-  "updatedAt": "2026-06-11T11:08:33.851Z"
+  "updatedAt": "2026-06-11T15:00:06.739Z"
 }
