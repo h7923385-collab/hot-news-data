@@ -1,45 +1,207 @@
 {
-  "updatedAt": "2026-06-12T05:10:53.566Z",
+  "updatedAt": "2026-06-12T09:38:37.729Z",
   "source": "live",
+  "dev": [
+    {
+      "title": "Congrats to the Google I/O 2026 Writing Challenge Winners!",
+      "hot": "❤️ 89 💬 39",
+      "desc": "We are so excited to announce the winners of the Google I/O 2026 Writing Challenge!  We asked you to...",
+      "source": "dev",
+      "tag": "devchallenge,  googleiochallenge",
+      "url": "https://dev.to/devteam/congrats-to-the-google-io-writing-challenge-winners-1364"
+    },
+    {
+      "title": "My daughter asked if developers used to write code by hand, but it was the follow-up question that surprised me.",
+      "hot": "❤️ 46 💬 6",
+      "desc": "My daughter Emma is 11. She's been vibe coding lately, and honestly, she's pretty good at it.  The...",
+      "source": "dev",
+      "tag": "ai,  webdev",
+      "url": "https://dev.to/googleai/my-daughter-asked-if-developers-used-to-write-code-by-hand-but-it-was-the-follow-up-question-that-1bh8"
+    },
+    {
+      "title": "CSS – only a Nerdy Hobby?",
+      "hot": "❤️ 32 💬 9",
+      "desc": "In times when people believe that \"AI can code a website in 2 days\" (see: how to leverage AI as a...",
+      "source": "dev",
+      "tag": "ai,  css",
+      "url": "https://dev.to/ingosteinke/css-only-a-nerdy-hobby-17hf"
+    },
+    {
+      "title": "Your Vibe-Coded App Works. Is It Any Good?",
+      "hot": "❤️ 8 💬 1",
+      "desc": "TL;DR - Getting an app to run is now the easy part. AI is very good at producing something that...",
+      "source": "dev",
+      "tag": "vibecoding,  ai",
+      "url": "https://dev.to/mlh/your-vibe-coded-app-works-is-it-any-good-28co"
+    },
+    {
+      "title": "Why New Language Features Need to Target AI Agents, Not Developers",
+      "hot": "❤️ 0 💬 0",
+      "desc": "AI agents are writing our production code. It's time to stop designing syntax sugar for humans and start optimizing lang",
+      "source": "dev",
+      "tag": "ai,  architecture",
+      "url": "https://dev.to/moderncpp/why-new-language-features-need-to-target-ai-agents-not-developers-4h07"
+    },
+    {
+      "title": "System Design - A Frontend Engineer's Deep Dive",
+      "hot": "❤️ 4 💬 0",
+      "desc": "A walkthrough of designing a real-time collaborative whiteboard from a blank page to a production-ready architecture.",
+      "source": "dev",
+      "tag": "systemdesign,  webdev",
+      "url": "https://dev.to/harshattray/system-design-a-frontend-engineers-deep-dive-nh5"
+    },
+    {
+      "title": "Lessons Learned: Deployment Trade-offs with Gemma4, NVIDIA L4, Cloud Run, and Antigravity CLI",
+      "hot": "❤️ 8 💬 0",
+      "desc": "This article provides a step by step guide for debugging a Gemma 4 model to a Google Cloud Run hosted...",
+      "source": "dev",
+      "tag": "antigravitycli,  mcps",
+      "url": "https://dev.to/gde/lessons-learned-deployment-trade-offs-with-gemma4-nvidia-l4-cloud-run-and-antigravity-cli-lnl"
+    },
+    {
+      "title": "How I Built a Treasure-Run Game Where Australia Saves the Sun",
+      "hot": "❤️ 30 💬 5",
+      "desc": "This is a submission for the June Solstice Game Jam           What I Built   For this game jam, I...",
+      "source": "dev",
+      "tag": "devchallenge,  gamechallenge",
+      "url": "https://dev.to/ujja/how-i-built-a-treasure-run-game-where-australia-saves-the-sun-kck"
+    },
+    {
+      "title": "You’re a Real TypeScript Developer Only If...",
+      "hot": "❤️ 87 💬 39",
+      "desc": "A few months ago, I published You're a Real JavaScript Developer Only If...  It was just a post for...",
+      "source": "dev",
+      "tag": "webdev,  typescript",
+      "url": "https://dev.to/hadil/youre-a-real-typescript-developer-only-if-1d9o"
+    },
+    {
+      "title": "Go Packages and Modules explained",
+      "hot": "❤️ 0 💬 0",
+      "desc": "What is a package?   In Go, every Go program is made up of packages. A package is a...",
+      "source": "dev",
+      "tag": "go,  devops",
+      "url": "https://dev.to/ferztyle/go-packages-and-modules-explained-4j4c"
+    },
+    {
+      "title": "Mastering Self-Hosted Convex: A Complete Deployment Guide",
+      "hot": "❤️ 0 💬 0",
+      "desc": "Stop struggling with custom scripts and learn the professional way to deploy Convex functions to your own server using t",
+      "source": "dev",
+      "tag": "convex,  selfhosted",
+      "url": "https://dev.to/jookllo/mastering-self-hosted-convex-a-complete-deployment-guide-3mp5"
+    },
+    {
+      "title": "I tried to make an AI agent answer more. It answered less.",
+      "hot": "❤️ 0 💬 0",
+      "desc": "If you build or evaluate scoped agents: any talk about the agent in your test context makes it defend...",
+      "source": "dev",
+      "tag": "ai,  llm",
+      "url": "https://dev.to/ankushchadha/i-tried-to-make-an-ai-agent-answer-more-it-answered-less-3d7a"
+    },
+    {
+      "title": "Deployment Planning with Gemma 26B, NVIDIA L4, MCP, Cloud Run, and Antigravity CLI",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud Run...",
+      "source": "dev",
+      "tag": "nvidia,  mcps",
+      "url": "https://dev.to/gde/deployment-planning-with-gemma-26b-nvidia-l4-mcp-cloud-run-and-antigravity-cli-kn0"
+    },
+    {
+      "title": "12B Gemma 4 QAT Deployment with NVIDIA L4, Cloud Run, MCP, and Antigravity CLI",
+      "hot": "❤️ 5 💬 0",
+      "desc": "This article provides a step by step deployment guide for Gemma 4 to a Google Cloud Run hosted GPU...",
+      "source": "dev",
+      "tag": "runcloud,  googleantigravity",
+      "url": "https://dev.to/gde/12b-gemma-4-qat-deployment-with-nvidia-l4-cloud-run-mcp-and-antigravity-cli-21l2"
+    },
+    {
+      "title": "Debugging Deployments with Gemma 12B, NVIDIA L4, MCP, Cloud Run, and Antigravity CLI",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud Run...",
+      "source": "dev",
+      "tag": "mcps,  nvidial4",
+      "url": "https://dev.to/gde/debugging-deployments-with-gemma-12b-nvidia-l4-mcp-cloud-run-and-antigravity-cli-32eg"
+    },
+    {
+      "title": "G4 Fractional VMs are now available on Google Cloud!",
+      "hot": "❤️ 27 💬 0",
+      "desc": "In 2025 Google Cloud added G4, powered by NVIDIA's RTX PRO 6000 Blackwell Server Edition GPUs to...",
+      "source": "dev",
+      "tag": "gpu,  googlecloud",
+      "url": "https://dev.to/googleai/g4-fractional-vms-are-now-available-on-google-cloud-knp"
+    },
+    {
+      "title": "Flutter Midsommer Madnesss",
+      "hot": "❤️ 8 💬 0",
+      "desc": "This is a submission for the June Solstice Game Jam  When you have a hammer- everything is a...",
+      "source": "dev",
+      "tag": "devchallenge,  gamechallenge",
+      "url": "https://dev.to/gde/flutter-midsommer-madnesss-kkb"
+    },
+    {
+      "title": "Claude Fable 5 is Now Generally Available on Google Cloud! 🚀",
+      "hot": "❤️ 33 💬 1",
+      "desc": "Good news for Claude devs deploying on Google Cloud. Claude Fable 5, Anthropic’s latest frontier...",
+      "source": "dev",
+      "tag": "ai,  claude",
+      "url": "https://dev.to/googleai/claude-fable-5-is-now-generally-available-on-google-cloud-3gog"
+    },
+    {
+      "title": "Antigravity Managed Agents Tutorial: Ship Production AI Agents",
+      "hot": "❤️ 21 💬 1",
+      "desc": "If you’ve tried building AI applications, you often face a familiar engineering wall.  It goes like...",
+      "source": "dev",
+      "tag": "agentsasanapi,  managedagent",
+      "url": "https://dev.to/googleai/antigravity-managed-agents-tutorial-ship-production-ai-agents-21c0"
+    },
+    {
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "hot": "❤️ 46 💬 12",
+      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+      "source": "dev",
+      "tag": "top7,  discuss",
+      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-14hj"
+    }
+  ],
   "tech": [
     {
-      "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+      "title": "AI agent bankrupted their operator while trying to scan DN42",
       "hot": "3.0m",
-      "desc": "web.mit.edu",
+      "desc": "lantian.pub",
       "source": "tech",
-      "tag": "⬆️ 252 points",
-      "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf"
+      "tag": "⬆️ 524 points",
+      "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/"
     },
     {
       "title": "If you are asking for human attention, demonstrate human effort",
       "hot": "3.0m",
       "desc": "tombedor.dev",
       "source": "tech",
-      "tag": "⬆️ 423 points",
+      "tag": "⬆️ 715 points",
       "url": "https://tombedor.dev/human-attention-and-human-effort/"
+    },
+    {
+      "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+      "hot": "3.0m",
+      "desc": "web.mit.edu",
+      "source": "tech",
+      "tag": "⬆️ 459 points",
+      "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf"
     },
     {
       "title": "Show HN: Homebrew 6.0.0",
       "hot": "3.0m",
       "desc": "brew.sh",
       "source": "tech",
-      "tag": "⬆️ 1093 points",
+      "tag": "⬆️ 1223 points",
       "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/"
-    },
-    {
-      "title": "Claude Fable is relentlessly proactive",
-      "hot": "3.0m",
-      "desc": "simonwillison.net",
-      "source": "tech",
-      "tag": "⬆️ 254 points",
-      "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/"
     },
     {
       "title": "How we made hit video game Prince of Persia",
       "hot": "2.9m",
       "desc": "theguardian.com",
       "source": "tech",
-      "tag": "⬆️ 25 points",
+      "tag": "⬆️ 117 points",
       "url": "https://www.theguardian.com/culture/2026/jan/05/raiders-of-the-lost-ark-hit-video-game-prince-of-persia"
     },
     {
@@ -47,123 +209,139 @@
       "hot": "2.9m",
       "desc": "fablepool.com",
       "source": "tech",
-      "tag": "⬆️ 321 points",
+      "tag": "⬆️ 392 points",
       "url": "https://fablepool.com"
     },
     {
-      "title": "MiMo Code is now released and open-source",
+      "title": "Vinyl succumbs to Loudness War: more than just collateral damage (2025)",
       "hot": "2.9m",
-      "desc": "mimo.xiaomi.com",
+      "desc": "magicvinyldigital.net",
       "source": "tech",
-      "tag": "⬆️ 453 points",
-      "url": "https://mimo.xiaomi.com/mimocode"
+      "tag": "⬆️ 70 points",
+      "url": "https://magicvinyldigital.net/2025/04/27/vinyl-succumbs-to-loudness-war-more-than-just-collateral-damage/"
+    },
+    {
+      "title": "Claude Fable is relentlessly proactive",
+      "hot": "2.9m",
+      "desc": "simonwillison.net",
+      "source": "tech",
+      "tag": "⬆️ 433 points",
+      "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/"
     },
     {
       "title": "Anthropic apologizes for invisible Claude Fable guardrails",
       "hot": "2.9m",
       "desc": "theverge.com",
       "source": "tech",
-      "tag": "⬆️ 366 points",
+      "tag": "⬆️ 420 points",
       "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail"
     },
     {
-      "title": "Petition to Withdraw Canada's Bill C-22",
+      "title": "MiMo Code is now released and open-source",
       "hot": "2.9m",
+      "desc": "mimo.xiaomi.com",
+      "source": "tech",
+      "tag": "⬆️ 491 points",
+      "url": "https://mimo.xiaomi.com/mimocode"
+    },
+    {
+      "title": "Digital Sovereignty Becomes an Imperative as the US Reads Dutch Emails",
+      "hot": "2.9m",
+      "desc": "korte.co",
+      "source": "tech",
+      "tag": "⬆️ 107 points",
+      "url": "https://www.korte.co/2026/06/11/digital-sovereignty-becomes-an-imparative-as-the-us-reads-dutch-emails/"
+    },
+    {
+      "title": "Removing 'um' from a recording is harder than it sounds",
+      "hot": "2.8m",
+      "desc": "doug.sh",
+      "source": "tech",
+      "tag": "⬆️ 79 points",
+      "url": "https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/"
+    },
+    {
+      "title": "Petition to Withdraw Canada's Bill C-22",
+      "hot": "2.8m",
       "desc": "ourcommons.ca",
       "source": "tech",
-      "tag": "⬆️ 400 points",
+      "tag": "⬆️ 435 points",
       "url": "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416"
-    },
-    {
-      "title": "A jacket that harvests drinking water from the air",
-      "hot": "2.9m",
-      "desc": "news.utexas.edu",
-      "source": "tech",
-      "tag": "⬆️ 72 points",
-      "url": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/"
-    },
-    {
-      "title": "Ear Training Practice",
-      "hot": "2.9m",
-      "desc": "tonedear.com",
-      "source": "tech",
-      "tag": "⬆️ 197 points",
-      "url": "https://tonedear.com/"
-    },
-    {
-      "title": "Software is made between commits",
-      "hot": "2.8m",
-      "desc": "zed.dev",
-      "source": "tech",
-      "tag": "⬆️ 231 points",
-      "url": "https://zed.dev/blog/introducing-deltadb"
     },
     {
       "title": "macOS 27 Beta breaks the ability to boot Asahi Linux",
       "hot": "2.8m",
       "desc": "phoronix.com",
       "source": "tech",
-      "tag": "⬆️ 272 points",
+      "tag": "⬆️ 313 points",
       "url": "https://www.phoronix.com/news/macOS-27-Beta-Breaks-Asahi"
     },
     {
-      "title": "Emacs appearances in pop culture",
+      "title": "Ear Training Practice",
       "hot": "2.8m",
-      "desc": "ianyepan.github.io",
+      "desc": "tonedear.com",
       "source": "tech",
-      "tag": "⬆️ 290 points",
-      "url": "https://ianyepan.github.io/posts/emacs-in-pop-culture/"
-    },
-    {
-      "title": "WikiLambda the Ultimate",
-      "hot": "2.8m",
-      "desc": "en.wikipedia.org",
-      "source": "tech",
-      "tag": "⬆️ 17 points",
-      "url": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-05-22/Recent_research"
-    },
-    {
-      "title": "Lines of code got a better publicist",
-      "hot": "2.8m",
-      "desc": "curlewis.co.nz",
-      "source": "tech",
-      "tag": "⬆️ 376 points",
-      "url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/"
-    },
-    {
-      "title": "The RCE that AMD wouldn't fix",
-      "hot": "2.8m",
-      "desc": "mrbruh.com",
-      "source": "tech",
-      "tag": "⬆️ 246 points",
-      "url": "https://mrbruh.com/amd2/"
+      "tag": "⬆️ 240 points",
+      "url": "https://tonedear.com/"
     },
     {
       "title": "Claude Fable 5: mid-tier results on coding tasks",
-      "hot": "2.7m",
+      "hot": "2.8m",
       "desc": "endorlabs.com",
       "source": "tech",
-      "tag": "⬆️ 267 points",
+      "tag": "⬆️ 319 points",
       "url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype"
     },
     {
-      "title": "Developer gets Half-Life running at 30 FPS on a Nokia N95",
-      "hot": "2.7m",
-      "desc": "tomshardware.com",
+      "title": "Software is made between commits",
+      "hot": "2.8m",
+      "desc": "zed.dev",
       "source": "tech",
-      "tag": "⬆️ 245 points",
-      "url": "https://www.tomshardware.com/video-games/handheld-gaming/developer-gets-half-life-running-at-30-fps-on-a-2007-nokia-n95"
+      "tag": "⬆️ 259 points",
+      "url": "https://zed.dev/blog/introducing-deltadb"
     },
     {
-      "title": "Reading for pleasure is sharply down among schoolkids, report shows",
+      "title": "Emacs appearances in pop culture",
       "hot": "2.7m",
-      "desc": "nbcnews.com",
+      "desc": "ianyepan.github.io",
       "source": "tech",
-      "tag": "⬆️ 116 points",
-      "url": "https://www.nbcnews.com/data-graphics/kids-reading-less-lower-levels-department-education-study-rcna348987"
+      "tag": "⬆️ 327 points",
+      "url": "https://ianyepan.github.io/posts/emacs-in-pop-culture/"
+    },
+    {
+      "title": "Lines of code got a better publicist",
+      "hot": "2.7m",
+      "desc": "curlewis.co.nz",
+      "source": "tech",
+      "tag": "⬆️ 392 points",
+      "url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/"
+    },
+    {
+      "title": "A jacket that harvests drinking water from the air",
+      "hot": "2.7m",
+      "desc": "news.utexas.edu",
+      "source": "tech",
+      "tag": "⬆️ 107 points",
+      "url": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/"
     }
   ],
   "space": [
+    {
+      "title": "Earth from Space: Buenos Aires",
+      "hot": "6/12",
+      "desc": "This radar image from the Copernicus Sentinel-1 mission captures Buenos Aires, the capital of Argentina, the surrounding countryside and the Rio de la",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/06/Earth_from_Space_Buenos_Aires"
+    },
+    {
+      "title": "Conversations in the sky: Galileo’s intersatellite links tested",
+      "hot": "6/12",
+      "desc": "The second generation of Galileo, Europe’s satellite navigation constellation, is being built. These satellites will feature reconfigurable payloads, ",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/Applications/Satellite_navigation/Conversations_in_the_sky_Galileo_s_intersatellite_links_tested"
+    },
     {
       "title": "World Cup Fever in Guadalajara",
       "hot": "6/12",
@@ -215,7 +393,7 @@
     {
       "title": "Japan’s H3 to return to flight with debut launch of lightest configuration",
       "hot": "6/11",
-      "desc": "Japan’s H3 rocket will return to flight Friday, with a launch that also marks the…\nThe post Japan’s H3 to return to flight with debut launch of lighte",
+      "desc": "Japan’s H3 rocket will return to flight Friday, with a launch that also marks the…\r\nThe post Japan’s H3 to return to flight with debut launch of light",
       "source": "space",
       "tag": "NASASpaceflight",
       "url": "https://www.nasaspaceflight.com/2026/06/h3-return-to-flight/"
@@ -223,7 +401,7 @@
     {
       "title": "Vandenberg offers new launch site for small and medium rockets",
       "hot": "6/11",
-      "desc": "\nThe U.S. Space Force is seeking potential users of a new launch site at Vandenberg Space Force Base reserved for smaller rockets.\nThe post Vandenberg",
+      "desc": "The U.S. Space Force is seeking potential users of a new launch site at Vandenberg Space Force Base reserved for smaller rockets.\r\nThe post Vandenberg",
       "source": "space",
       "tag": "SpaceNews",
       "url": "https://spacenews.com/vandenberg-offers-new-launch-site-for-small-and-medium-rockets/"
@@ -255,7 +433,7 @@
     {
       "title": "ESA astronaut assignment on Artemis 3 part of negotiations on revised Artemis roles",
       "hot": "6/11",
-      "desc": "\nThe assignment of an ESA astronaut to Artemis 3 is part of negotiations for revised roles in the overall effort, with a goal of getting its astronaut",
+      "desc": "The assignment of an ESA astronaut to Artemis 3 is part of negotiations for revised roles in the overall effort, with a goal of getting its astronauts",
       "source": "space",
       "tag": "SpaceNews",
       "url": "https://spacenews.com/esa-astronaut-assignment-on-artemis-3-part-of-negotiations-on-revised-artemis-roles/"
@@ -267,28 +445,12 @@
       "source": "space",
       "tag": "NASA",
       "url": "https://www.nasa.gov/image-article/soccer-meets-space-science/"
-    },
-    {
-      "title": "HyImpulse signs letter of intent with Oman’s spaceport",
-      "hot": "6/11",
-      "desc": "\nMILAN — Etlaq Spaceport, Oman’s commercial spaceport, and German-based small launch provider HyImpulse have signed a letter of intent to explore futu",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/hyimpulse-signs-letter-of-intent-with-omans-spaceport/"
-    },
-    {
-      "title": "NASA’s Career Technical Education Day Highlights Technical Careers",
-      "hot": "6/11",
-      "desc": "At NASA, remaining a global leader in exploration and innovation includes having a skilledand dedicated workforce. Technicians play a critical role in",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/centers-and-facilities/langley/nasas-career-technical-education-day-highlights-technical-careers/"
     }
   ],
   "github": [
     {
       "title": "XiaomiMiMo/MiMo-Code: ",
-      "hot": "⭐ 5.1k",
+      "hot": "⭐ 5.6k",
       "desc": "XiaomiMiMo/MiMo-Code",
       "source": "github",
       "tag": "TypeScript",
@@ -296,7 +458,7 @@
     },
     {
       "title": "shadcn/improve: Use your most capable model to audit your codebase and write pla",
-      "hot": "⭐ 1.9k",
+      "hot": "⭐ 2.1k",
       "desc": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
       "source": "github",
       "tag": "GitHub",
@@ -312,7 +474,7 @@
     },
     {
       "title": "MSNightmare/RoguePlanet: RoguePlanet Windows Defender Vulnerability",
-      "hot": "⭐ 1.1k",
+      "hot": "⭐ 1.2k",
       "desc": "RoguePlanet Windows Defender Vulnerability",
       "source": "github",
       "tag": "C++",
@@ -320,15 +482,15 @@
     },
     {
       "title": "GordenSun/GordenSuperPPTSkills: AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式P",
-      "hot": "⭐ 805",
-      "desc": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文���。",
+      "hot": "⭐ 818",
+      "desc": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/GordenSun/GordenSuperPPTSkills"
     },
     {
       "title": "JimLiu/baoyu-design: Run Claude Design locally as an Agent Skill — Cursor, Claud",
-      "hot": "⭐ 787",
+      "hot": "⭐ 802",
       "desc": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-containe",
       "source": "github",
       "tag": "JavaScript",
@@ -336,7 +498,7 @@
     },
     {
       "title": "apple/coreai-models: Model export recipes, Python primitives, and Swift runtime ",
-      "hot": "⭐ 762",
+      "hot": "⭐ 786",
       "desc": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
       "source": "github",
       "tag": "Python",
@@ -344,7 +506,7 @@
     },
     {
       "title": "vorpus/performativeUI: ",
-      "hot": "⭐ 629",
+      "hot": "⭐ 642",
       "desc": "vorpus/performativeUI",
       "source": "github",
       "tag": "TypeScript",
@@ -352,7 +514,7 @@
     },
     {
       "title": "amElnagdy/guard-skills: Guard skills for coding agents, quality gates that catch",
-      "hot": "⭐ 572",
+      "hot": "⭐ 573",
       "desc": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
       "source": "github",
       "tag": "GitHub",
@@ -360,213 +522,51 @@
     },
     {
       "title": "Tencent-Hunyuan/UniRL: UniRL is a Framework for Unified Multimodal Model Reinfor",
-      "hot": "⭐ 526",
+      "hot": "⭐ 537",
       "desc": "UniRL is a Framework for Unified Multimodal Model Reinforcement Learning",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/Tencent-Hunyuan/UniRL"
     },
     {
-      "title": "xiaohuailabs/xiaohu-video-translate: 对 AI 说一句话，把外语视频自��配上中文字幕 —— 下载/转写/翻译/润色/烧录一",
-      "hot": "⭐ 468",
-      "desc": "对 AI 说一句话，把外语视频自��配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
+      "title": "xiaohuailabs/xiaohu-video-translate: 对 AI 说一句话，把外语视频��动配上中文字幕 —— 下载/转写/翻译/润色/烧录一",
+      "hot": "⭐ 475",
+      "desc": "对 AI 说一句话，把外语视频��动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/xiaohuailabs/xiaohu-video-translate"
     },
     {
       "title": "IvanSobolev/Neo3dEngine: A minimalist CPU-based 3D console engine in C# (.NET 8)",
-      "hot": "⭐ 430",
+      "hot": "⭐ 436",
       "desc": "A minimalist CPU-based 3D console engine in C# (.NET 8) built from scratch. Features Raycasting/Raytracing, dynamic lighting & shadows, .obj loader, a",
       "source": "github",
       "tag": "C#",
       "url": "https://github.com/IvanSobolev/Neo3dEngine"
     },
     {
-      "title": "FerroxLabs/wayland: Wayland - The AI Agent That Perceives. Reasons. Acts. Evolve",
-      "hot": "⭐ 394",
-      "desc": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
+      "title": "jwangkun/claude-for-financial-services-cn:  63 个 Claude Skills，为 A 股金融从业者而生  基于 ",
+      "hot": "⭐ 410",
+      "desc": " 63 个 Claude Skills，为 A 股金融从业者而生  基于 Anthropic 官方 claude-for-financial-services 深度适配国内市场，现已开源。",
       "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/FerroxLabs/wayland"
+      "tag": "Python",
+      "url": "https://github.com/jwangkun/claude-for-financial-services-cn"
     },
     {
       "title": "Parcle-AI/parcle-memory: ",
-      "hot": "⭐ 393",
+      "hot": "⭐ 398",
       "desc": "Parcle-AI/parcle-memory",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/Parcle-AI/parcle-memory"
     },
     {
-      "title": "jwangkun/claude-for-financial-services-cn:  63 个 Claude Skills，为 A 股金融从业者而生  基于 ",
-      "hot": "⭐ 390",
-      "desc": " 63 个 Claude Skills，为 A 股金融从业者而生  基于 Anthropic 官方 claude-for-financial-services 深度适配国内市场，现已开源。",
+      "title": "FerroxLabs/wayland: Wayland - The AI Agent That Perceives. Reasons. Acts. Evolve",
+      "hot": "⭐ 395",
+      "desc": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
       "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/jwangkun/claude-for-financial-services-cn"
-    }
-  ],
-  "dev": [
-    {
-      "title": "Congrats to the Google I/O 2026 Writing Challenge Winners!",
-      "hot": "❤️ 86 💬 38",
-      "desc": "We are so excited to announce the winners of the Google I/O 2026 Writing Challenge!  We asked you to...",
-      "source": "dev",
-      "tag": "devchallenge,  googleiochallenge",
-      "url": "https://dev.to/devteam/congrats-to-the-google-io-writing-challenge-winners-1364"
-    },
-    {
-      "title": "My daughter asked if developers used to write code by hand, but it was the follow-up question that surprised me.",
-      "hot": "❤️ 43 💬 4",
-      "desc": "My daughter Emma is 11. She's been vibe coding lately, and honestly, she's pretty good at it.  The...",
-      "source": "dev",
-      "tag": "ai,  webdev",
-      "url": "https://dev.to/googleai/my-daughter-asked-if-developers-used-to-write-code-by-hand-but-it-was-the-follow-up-question-that-1bh8"
-    },
-    {
-      "title": "Your Vibe-Coded App Works. Is It Any Good?",
-      "hot": "❤️ 7 💬 0",
-      "desc": "TL;DR - Getting an app to run is now the easy part. AI is very good at producing something that...",
-      "source": "dev",
-      "tag": "vibecoding,  ai",
-      "url": "https://dev.to/mlh/your-vibe-coded-app-works-is-it-any-good-28co"
-    },
-    {
-      "title": "CSS – only a Nerdy Hobby?",
-      "hot": "❤️ 32 💬 9",
-      "desc": "In times when people believe that \"AI can code a website in 2 days\" (see: how to leverage AI as a...",
-      "source": "dev",
-      "tag": "ai,  css",
-      "url": "https://dev.to/ingosteinke/css-only-a-nerdy-hobby-17hf"
-    },
-    {
-      "title": "Why New Language Features Need to Target AI Agents, Not Developers",
-      "hot": "❤️ 0 💬 0",
-      "desc": "AI agents are writing our production code. It's time to stop designing syntax sugar for humans and start optimizing lang",
-      "source": "dev",
-      "tag": "ai,  architecture",
-      "url": "https://dev.to/moderncpp/why-new-language-features-need-to-target-ai-agents-not-developers-4h07"
-    },
-    {
-      "title": "System Design - A Frontend Engineer's Deep Dive",
-      "hot": "❤️ 4 💬 0",
-      "desc": "A walkthrough of designing a real-time collaborative whiteboard from a blank page to a production-ready architecture.",
-      "source": "dev",
-      "tag": "systemdesign,  architecture",
-      "url": "https://dev.to/harshattray/system-design-a-frontend-engineers-deep-dive-nh5"
-    },
-    {
-      "title": "Lessons Learned: Deployment Trade-offs with Gemma4, NVIDIA L4, Cloud Run, and Antigravity CLI",
-      "hot": "❤️ 7 💬 0",
-      "desc": "This article provides a step by step guide for debugging a Gemma 4 model to a Google Cloud Run hosted...",
-      "source": "dev",
-      "tag": "antigravitycli,  mcps",
-      "url": "https://dev.to/gde/lessons-learned-deployment-trade-offs-with-gemma4-nvidia-l4-cloud-run-and-antigravity-cli-lnl"
-    },
-    {
-      "title": "Google ADK Security: 5 Layers That Defend AI Agents From Prompt Injection",
-      "hot": "❤️ 7 💬 5",
-      "desc": "A $3,000 refund just went out. No human approved it. Your AI agent read a poisoned tool response and...",
-      "source": "dev",
-      "tag": "ai,  security",
-      "url": "https://dev.to/gde/google-adk-security-5-layers-that-defend-ai-agents-from-prompt-injection-1ped"
-    },
-    {
-      "title": "From Dashboards to Autonomous Action: Why You Need to Attend Google Cloud Labs",
-      "hot": "❤️ 21 💬 0",
-      "desc": "The era of passive data analytics is over. Today, the most forward-thinking data teams aren't just...",
-      "source": "dev",
-      "tag": "googlecloud,  agents",
-      "url": "https://dev.to/googleai/from-dashboards-to-autonomous-action-why-you-need-to-attend-google-cloud-labs-3ada"
-    },
-    {
-      "title": "How we built AIventure, an AI-Powered Retro Dungeon",
-      "hot": "❤️ 26 💬 2",
-      "desc": "Grab a refreshing slice of cold watermelon (because it’s summer in Tokyo and I love it!), and let me...",
-      "source": "dev",
-      "tag": "gamedev,  gemini",
-      "url": "https://dev.to/googleai/how-we-built-aiventure-an-ai-powered-retro-dungeon-2f54"
-    },
-    {
-      "title": "How I Built a Treasure-Run Game Where Australia Saves the Sun",
-      "hot": "❤️ 30 💬 5",
-      "desc": "This is a submission for the June Solstice Game Jam           What I Built   For this game jam, I...",
-      "source": "dev",
-      "tag": "devchallenge,  gamechallenge",
-      "url": "https://dev.to/ujja/how-i-built-a-treasure-run-game-where-australia-saves-the-sun-kck"
-    },
-    {
-      "title": "Go Packages and Modules explained",
-      "hot": "❤️ 0 💬 0",
-      "desc": "What is a package?   In Go, every Go program is made up of packages. A package is a...",
-      "source": "dev",
-      "tag": "go,  devops",
-      "url": "https://dev.to/ferztyle/go-packages-and-modules-explained-4j4c"
-    },
-    {
-      "title": "Mastering Self-Hosted Convex: A Complete Deployment Guide",
-      "hot": "❤️ 0 💬 0",
-      "desc": "Stop struggling with custom scripts and learn the professional way to deploy Convex functions to your own server using t",
-      "source": "dev",
-      "tag": "convex,  selfhosted",
-      "url": "https://dev.to/jookllo/mastering-self-hosted-convex-a-complete-deployment-guide-3mp5"
-    },
-    {
-      "title": "You’re a Real TypeScript Developer Only If...",
-      "hot": "❤️ 87 💬 38",
-      "desc": "A few months ago, I published You're a Real JavaScript Developer Only If...  It was just a post for...",
-      "source": "dev",
-      "tag": "webdev,  typescript",
-      "url": "https://dev.to/hadil/youre-a-real-typescript-developer-only-if-1d9o"
-    },
-    {
-      "title": "I tried to make an AI agent answer more. It answered less.",
-      "hot": "❤️ 0 💬 0",
-      "desc": "If you build or evaluate scoped agents: any talk about the agent in your test context makes it defend...",
-      "source": "dev",
-      "tag": "ai,  llm",
-      "url": "https://dev.to/ankushchadha/i-tried-to-make-an-ai-agent-answer-more-it-answered-less-3d7a"
-    },
-    {
-      "title": "Deployment Planning with Gemma 26B, NVIDIA L4, MCP, Cloud Run, and Antigravity CLI",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud Run...",
-      "source": "dev",
-      "tag": "nvidia,  mcps",
-      "url": "https://dev.to/gde/deployment-planning-with-gemma-26b-nvidia-l4-mcp-cloud-run-and-antigravity-cli-kn0"
-    },
-    {
-      "title": "12B Gemma 4 QAT Deployment with NVIDIA L4, Cloud Run, MCP, and Antigravity CLI",
-      "hot": "❤️ 5 💬 0",
-      "desc": "This article provides a step by step deployment guide for Gemma 4 to a Google Cloud Run hosted GPU...",
-      "source": "dev",
-      "tag": "runcloud,  googleantigravity",
-      "url": "https://dev.to/gde/12b-gemma-4-qat-deployment-with-nvidia-l4-cloud-run-mcp-and-antigravity-cli-21l2"
-    },
-    {
-      "title": "Debugging Deployments with Gemma 12B, NVIDIA L4, MCP, Cloud Run, and Antigravity CLI",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud Run...",
-      "source": "dev",
-      "tag": "mcps,  nvidial4",
-      "url": "https://dev.to/gde/debugging-deployments-with-gemma-12b-nvidia-l4-mcp-cloud-run-and-antigravity-cli-32eg"
-    },
-    {
-      "title": "G4 Fractional VMs are now available on Google Cloud!",
-      "hot": "❤️ 27 💬 0",
-      "desc": "In 2025 Google Cloud added G4, powered by NVIDIA's RTX PRO 6000 Blackwell Server Edition GPUs to...",
-      "source": "dev",
-      "tag": "gpu,  googlecloud",
-      "url": "https://dev.to/googleai/g4-fractional-vms-are-now-available-on-google-cloud-knp"
-    },
-    {
-      "title": "Flutter Midsommer Madnesss",
-      "hot": "❤️ 8 💬 0",
-      "desc": "This is a submission for the June Solstice Game Jam  When you have a hammer- everything is a...",
-      "source": "dev",
-      "tag": "devchallenge,  gamechallenge",
-      "url": "https://dev.to/gde/flutter-midsommer-madnesss-kkb"
+      "tag": "TypeScript",
+      "url": "https://github.com/FerroxLabs/wayland"
     }
   ]
 }
