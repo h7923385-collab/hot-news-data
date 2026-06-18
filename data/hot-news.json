@@ -1,22 +1,14 @@
 {
-  "updatedAt": "2026-06-18T14:26:07.993Z",
+  "updatedAt": "2026-06-18T17:38:26.912Z",
   "source": "live",
   "dev": [
     {
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 60 💬 25",
-      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+      "title": "How to Read a webrtc-internals Dump, Section by Section",
+      "hot": "❤️ 0 💬 0",
+      "desc": "When a WebRTC call goes bad, the browser already recorded what happened. Chrome keeps a live record...",
       "source": "dev",
-      "tag": "top7,  discuss",
-      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1h65"
-    },
-    {
-      "title": "Ask a DEV Community Mod! 🚀",
-      "hot": "❤️ 84 💬 47",
-      "desc": "Disclaimer: Please read the full post before commenting. This post will be refined overtime, so I...",
-      "source": "dev",
-      "tag": "discuss,  community",
-      "url": "https://dev.to/francistrdev/ask-a-dev-community-mod-50hk"
+      "tag": "webrtc,  javascript",
+      "url": "https://dev.to/tsahil/how-to-read-a-webrtc-internals-dump-section-by-section-598a"
     },
     {
       "title": "How We Saved Big and Simplified Our Image Pipeline: Adopting bunny.net on DEV",
@@ -27,6 +19,22 @@
       "url": "https://dev.to/devteam/how-we-saved-big-and-simplified-our-image-pipeline-adopting-bunnynet-on-dev-3d53"
     },
     {
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "hot": "❤️ 61 💬 25",
+      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+      "source": "dev",
+      "tag": "top7,  discuss",
+      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1h65"
+    },
+    {
+      "title": "Welcome Thread - v380",
+      "hot": "❤️ 45 💬 168",
+      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
+      "source": "dev",
+      "tag": "welcome",
+      "url": "https://dev.to/devteam/welcome-thread-v380-oi4"
+    },
+    {
       "title": "12B Gemma 4 QAT Deployment with GCE, NVIDIA L4, MCP, and Antigravity CLI",
       "hot": "❤️ 6 💬 0",
       "desc": "This article provides a step by step deployment guide for Gemma 4 to a Google Compute Engine hosted...",
@@ -35,12 +43,20 @@
       "url": "https://dev.to/gde/12b-gemma-4-qat-deployment-with-gce-nvidia-l4-mcp-and-antigravity-cli-49d8"
     },
     {
-      "title": "Welcome Thread - v380",
-      "hot": "❤️ 40 💬 153",
-      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
+      "title": "Building a Production-Ready RAG Application with LangChain, pgvector, and Gemini",
+      "hot": "❤️ 2 💬 2",
+      "desc": "Retrieval-Augmented Generation (RAG) is a powerful pattern to build applications that can query,...",
       "source": "dev",
-      "tag": "welcome",
-      "url": "https://dev.to/devteam/welcome-thread-v380-oi4"
+      "tag": "ai,  rag",
+      "url": "https://dev.to/adityakmr7/building-a-production-ready-rag-application-with-langchain-pgvector-and-gemini-n25"
+    },
+    {
+      "title": "Agentp: Turn OpenCode Into a Headless AI Engine for Your Editor, Terminal, and Telegram",
+      "hot": "❤️ 1 💬 0",
+      "desc": "I've always felt out of step with the prevailing trends.  Before the AI explosion, the mantra was...",
+      "source": "dev",
+      "tag": "opencode,  ai",
+      "url": "https://dev.to/bitifet/agentp-turn-opencode-into-a-headless-ai-engine-for-your-editor-terminal-and-telegram-14gj"
     },
     {
       "title": "Real-time IP capacity in Google Cloud subnets",
@@ -83,6 +99,22 @@
       "url": "https://dev.to/gde/deploying-gemma-12b-to-aws-ec2-with-nvidia-l4-and-antigravity-cli-463p"
     },
     {
+      "title": "Ask a DEV Community Mod! 🚀",
+      "hot": "❤️ 88 💬 59",
+      "desc": "Disclaimer: Please read the full post before commenting. This post will be refined overtime, so I...",
+      "source": "dev",
+      "tag": "discuss,  community",
+      "url": "https://dev.to/francistrdev/ask-a-dev-community-mod-50hk"
+    },
+    {
+      "title": "Generative UI with AI on React + React Native Universal App",
+      "hot": "❤️ 3 💬 0",
+      "desc": "Lately, AI chat products have started doing more than returning paragraphs of text.  Ask Claude a...",
+      "source": "dev",
+      "tag": "ai,  react",
+      "url": "https://dev.to/neetigyachahar/generative-ui-with-ai-on-react-react-native-universal-app-dbj"
+    },
+    {
       "title": "Why I still teach Singleton even though modules make it redundant",
       "hot": "❤️ 1 💬 0",
       "desc": "Ask any developer what design pattern they know best and Singleton comes up first. Ask the same group...",
@@ -107,6 +139,14 @@
       "url": "https://dev.to/znsstudio/the-ai-addiction-nobody-is-talking-about-2of8"
     },
     {
+      "title": "Letters to Tomorrow: A June Solstice Game About the Things We Carry Into Tomorrow",
+      "hot": "❤️ 66 💬 29",
+      "desc": "This is a submission for the June Solstice Game Jam  🎮 Play the Game: Letters to Tomorrow  💻 Source...",
+      "source": "dev",
+      "tag": "devchallenge,  gamechallenge",
+      "url": "https://dev.to/hemapriya_kanagala/letters-to-tomorrow-a-june-solstice-game-about-the-things-we-carry-into-tomorrow-1lnf"
+    },
+    {
       "title": "Why the Fable 5 Crisis Proves Your AI Context Layer Can't Live Inside the Model",
       "hot": "❤️ 15 💬 4",
       "desc": "Rent the Intelligence, Own the Memory   On Friday, a single government letter pulled a...",
@@ -121,211 +161,325 @@
       "source": "dev",
       "tag": "antigravitycli,  mcps",
       "url": "https://dev.to/gde/lessons-learned-deployment-trade-offs-with-gemma4-nvidia-l4-cloud-run-and-antigravity-cli-lnl"
-    },
-    {
-      "title": "Trust Begins with DNS: Mitigating Abuse and Strengthening Internet Resilience with Google Cloud",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Tackling DNS abuse requires a blend of resilient infrastructure, traffic filtering, and advanced...",
-      "source": "dev",
-      "tag": "dns,  dnssec",
-      "url": "https://dev.to/gde/trust-begins-with-dns-mitigating-abuse-and-strengthening-internet-resilience-with-google-cloud-53n2"
-    },
-    {
-      "title": "Google Workspace Studio Tutorial: The New 'Notify by Email' Action",
-      "hot": "❤️ 7 💬 0",
-      "desc": "If you run a product or manage technical operations, you likely have a Google Sheet somewhere that...",
-      "source": "dev",
-      "tag": "googleworkspace,  workspacestudio",
-      "url": "https://dev.to/gde/google-workspace-studio-tutorial-the-new-notify-by-email-action-2400"
-    },
-    {
-      "title": "Mastering Self-Hosted Convex: A Complete Deployment Guide",
-      "hot": "❤️ 0 💬 0",
-      "desc": "Stop struggling with custom scripts and learn the professional way to deploy Convex functions to your own server using t",
-      "source": "dev",
-      "tag": "convex,  selfhosted",
-      "url": "https://dev.to/jookllo/mastering-self-hosted-convex-a-complete-deployment-guide-3mp5"
-    },
-    {
-      "title": "I tried to make an AI agent answer more. It answered less.",
-      "hot": "❤️ 0 💬 0",
-      "desc": "If you build or evaluate scoped agents: any talk about the agent in your test context makes it defend...",
-      "source": "dev",
-      "tag": "ai,  llm",
-      "url": "https://dev.to/ankushchadha/i-tried-to-make-an-ai-agent-answer-more-it-answered-less-3d7a"
-    },
-    {
-      "title": "Letters to Tomorrow: A June Solstice Game About the Things We Carry Into Tomorrow",
-      "hot": "❤️ 63 💬 27",
-      "desc": "This is a submission for the June Solstice Game Jam  🎮 Play the Game: Letters to Tomorrow  💻 Source...",
-      "source": "dev",
-      "tag": "devchallenge,  gamechallenge",
-      "url": "https://dev.to/hemapriya_kanagala/letters-to-tomorrow-a-june-solstice-game-about-the-things-we-carry-into-tomorrow-1lnf"
     }
   ],
   "tech": [
     {
-      "title": "Emacs 31 Is Around the Corner: The Changes I'm Daily Driving",
+      "title": "A website that lists websites to submit your website to",
       "hot": "3.0m",
-      "desc": "rahuljuliato.com",
+      "desc": "submission.directory",
       "source": "tech",
-      "tag": "⬆️ 148 points",
-      "url": "https://www.rahuljuliato.com/posts/emacs-31-around-the-corner"
-    },
-    {
-      "title": "Has W Social switched to closed source?",
-      "hot": "3.0m",
-      "desc": "blog.elenarossini.com",
-      "source": "tech",
-      "tag": "⬆️ 73 points",
-      "url": "https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/"
+      "tag": "⬆️ 153 points",
+      "url": "https://www.submission.directory/"
     },
     {
       "title": "I found 10k GitHub repositories distributing Trojan malware",
       "hot": "3.0m",
       "desc": "orchidfiles.com",
       "source": "tech",
-      "tag": "⬆️ 91 points",
+      "tag": "⬆️ 313 points",
       "url": "https://orchidfiles.com/github-repositories-distributing-malware/"
     },
     {
-      "title": "Hospitals and universities repurposing drugs at 90% lower cost",
+      "title": "Swiss parliament lifts ban on new nuclear power plants",
       "hot": "3.0m",
+      "desc": "bluewin.ch",
+      "source": "tech",
+      "tag": "⬆️ 302 points",
+      "url": "https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html"
+    },
+    {
+      "title": "Ubiquiti: Enterprise NAS, Built on ZFS",
+      "hot": "3.0m",
+      "desc": "blog.ui.com",
+      "source": "tech",
+      "tag": "⬆️ 128 points",
+      "url": "https://blog.ui.com/article/introducing-enterprise-nas"
+    },
+    {
+      "title": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
+      "hot": "2.9m",
+      "desc": "tester.army",
+      "source": "tech",
+      "tag": "⬆️ 44 points",
+      "url": "https://tester.army"
+    },
+    {
+      "title": "Hospitals and universities repurposing drugs at 90% lower cost",
+      "hot": "2.9m",
       "desc": "kcl.ac.uk",
       "source": "tech",
-      "tag": "⬆️ 118 points",
+      "tag": "⬆️ 194 points",
       "url": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost"
+    },
+    {
+      "title": "Has W Social switched to closed source?",
+      "hot": "2.9m",
+      "desc": "blog.elenarossini.com",
+      "source": "tech",
+      "tag": "⬆️ 133 points",
+      "url": "https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/"
     },
     {
       "title": "Midjourney Medical",
       "hot": "2.9m",
       "desc": "midjourney.com",
       "source": "tech",
-      "tag": "⬆️ 1037 points",
+      "tag": "⬆️ 1187 points",
       "url": "https://www.midjourney.com/medical/blogpost"
+    },
+    {
+      "title": "The Harajuku Moment",
+      "hot": "2.9m",
+      "desc": "tim.blog",
+      "source": "tech",
+      "tag": "⬆️ 25 points",
+      "url": "https://tim.blog/2024/02/09/harajuku-moment/"
     },
     {
       "title": "Advanced Compilers: The Self-Guided Online Course",
       "hot": "2.9m",
       "desc": "cs.cornell.edu",
       "source": "tech",
-      "tag": "⬆️ 65 points",
+      "tag": "⬆️ 169 points",
       "url": "https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/"
-    },
-    {
-      "title": "Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly",
-      "hot": "2.9m",
-      "desc": "windowslatest.com",
-      "source": "tech",
-      "tag": "⬆️ 160 points",
-      "url": "https://www.windowslatest.com/2026/06/15/microsofts-new-outlook-takes-10-seconds-to-do-what-outlook-classic-does-instantly-on-windows/"
-    },
-    {
-      "title": "DeepSeek Introduces Vision",
-      "hot": "2.9m",
-      "desc": "chat.deepseek.com",
-      "source": "tech",
-      "tag": "⬆️ 285 points",
-      "url": "https://chat.deepseek.com/"
-    },
-    {
-      "title": "We built a persistent agent memory layer on Elasticsearch with 0.89 recall",
-      "hot": "2.9m",
-      "desc": "elastic.co",
-      "source": "tech",
-      "tag": "⬆️ 50 points",
-      "url": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch"
-    },
-    {
-      "title": "Local Qwen isn't a worse Opus, it's a different tool",
-      "hot": "2.9m",
-      "desc": "blog.alexellis.io",
-      "source": "tech",
-      "tag": "⬆️ 330 points",
-      "url": "https://blog.alexellis.io/local-ai-is-not-opus/"
     },
     {
       "title": "Modos Color Monitor Pushes E-Paper Displays Further",
       "hot": "2.9m",
       "desc": "spectrum.ieee.org",
       "source": "tech",
-      "tag": "⬆️ 31 points",
+      "tag": "⬆️ 125 points",
       "url": "https://spectrum.ieee.org/modos-e-paper-monitor"
     },
     {
-      "title": "Lore – Open source version control system designed for scalability",
+      "title": "TerraPower in Deal with Meta for Eight Natrium 345 MW Advanced Nuclear Plants",
       "hot": "2.8m",
-      "desc": "lore.org",
+      "desc": "neutronbytes.com",
       "source": "tech",
-      "tag": "⬆️ 1191 points",
-      "url": "https://lore.org/"
+      "tag": "⬆️ 55 points",
+      "url": "https://neutronbytes.com/2026/01/09/terrapower-in-mega-deal-with-meta-for-eight-natrium-345-mw-advanced-nuclear-plants/"
+    },
+    {
+      "title": "Emacs 31 is around the corner: The changes I'm daily driving",
+      "hot": "2.8m",
+      "desc": "rahuljuliato.com",
+      "source": "tech",
+      "tag": "⬆️ 299 points",
+      "url": "https://www.rahuljuliato.com/posts/emacs-31-around-the-corner"
+    },
+    {
+      "title": "Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts",
+      "hot": "2.8m",
+      "desc": "gerrymandle.cc",
+      "source": "tech",
+      "tag": "⬆️ 42 points",
+      "url": "https://gerrymandle.cc/"
+    },
+    {
+      "title": "DeepSeek Introduces Vision",
+      "hot": "2.8m",
+      "desc": "chat.deepseek.com",
+      "source": "tech",
+      "tag": "⬆️ 385 points",
+      "url": "https://chat.deepseek.com/"
+    },
+    {
+      "title": "Emacs, how it all started (for me)",
+      "hot": "2.8m",
+      "desc": "xvw.lol",
+      "source": "tech",
+      "tag": "⬆️ 48 points",
+      "url": "https://xvw.lol/en/articles/emacs-start.html"
     },
     {
       "title": ".gitignore Isn't the Only Way to Ignore Files in Git",
       "hot": "2.8m",
       "desc": "nelson.cloud",
       "source": "tech",
-      "tag": "⬆️ 53 points",
+      "tag": "⬆️ 139 points",
       "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/"
     },
     {
-      "title": "Image Toolbox (T8RIN)",
-      "hot": "2.8m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 7 points",
-      "url": "https://github.com/T8RIN/ImageToolbox/"
-    },
-    {
-      "title": "Seven Perfect Shuffles Randomize a Deck of Cards. But How Many Sloppy Ones?",
-      "hot": "2.8m",
-      "desc": "quantamagazine.org",
-      "source": "tech",
-      "tag": "⬆️ 33 points",
-      "url": "https://www.quantamagazine.org/seven-perfect-shuffles-randomize-a-deck-of-cards-but-how-many-sloppy-ones-20260617/"
-    },
-    {
-      "title": "Unity vs. Floating Point",
-      "hot": "2.8m",
-      "desc": "aras-p.info",
-      "source": "tech",
-      "tag": "⬆️ 10 points",
-      "url": "https://aras-p.info/blog/2026/06/11/Unity-vs-floating-point/"
-    },
-    {
-      "title": "Vinyl Cache and Varnish Cache",
-      "hot": "2.8m",
-      "desc": "vinyl-cache.org",
-      "source": "tech",
-      "tag": "⬆️ 41 points",
-      "url": "https://vinyl-cache.org/organization/on_vinyl_cache_and_varnish_cache.html#org-vinyl-varnish"
-    },
-    {
-      "title": "AMD silently removes memory encryption from consumer Ryzen CPUs",
+      "title": "Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly",
       "hot": "2.7m",
-      "desc": "tomshardware.com",
+      "desc": "windowslatest.com",
       "source": "tech",
-      "tag": "⬆️ 272 points",
-      "url": "https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change"
+      "tag": "⬆️ 368 points",
+      "url": "https://www.windowslatest.com/2026/06/15/microsofts-new-outlook-takes-10-seconds-to-do-what-outlook-classic-does-instantly-on-windows/"
     },
     {
-      "title": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
+      "title": "Local Qwen isn't a worse Opus, it's a different tool",
       "hot": "2.7m",
-      "desc": "reuters.com",
+      "desc": "blog.alexellis.io",
       "source": "tech",
-      "tag": "⬆️ 494 points",
-      "url": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/"
+      "tag": "⬆️ 402 points",
+      "url": "https://blog.alexellis.io/local-ai-is-not-opus/"
     },
     {
-      "title": "Git platform built for agentic era",
+      "title": "The founder of Craigslist has given away half a billion dollars",
       "hot": "2.7m",
-      "desc": "gitlawb.com",
+      "desc": "independent.co.uk",
       "source": "tech",
-      "tag": "⬆️ 4 points",
-      "url": "https://gitlawb.com/node"
+      "tag": "⬆️ 24 points",
+      "url": "https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html"
+    }
+  ],
+  "github": [
+    {
+      "title": "DietrichGebert/ponytail: Makes your AI agent think like the laziest senior dev i",
+      "hot": "⭐ 35.7k",
+      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/DietrichGebert/ponytail"
+    },
+    {
+      "title": "omnigent-ai/omnigent: Omnigent is an open-source AI agent framework and meta-har",
+      "hot": "⭐ 3.7k",
+      "desc": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/omnigent-ai/omnigent"
+    },
+    {
+      "title": "tamnd/kage: Shadow any website for offline viewing, with the JavaScript stripped",
+      "hot": "⭐ 2.0k",
+      "desc": "Shadow any website for offline viewing, with the JavaScript stripped out",
+      "source": "github",
+      "tag": "Go",
+      "url": "https://github.com/tamnd/kage"
+    },
+    {
+      "title": "lenucksi/aur-malware-check: Detection tools for the June 2026 atomic-lockfile AU",
+      "hot": "⭐ 1.5k",
+      "desc": "Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.",
+      "source": "github",
+      "tag": "Shell",
+      "url": "https://github.com/lenucksi/aur-malware-check"
+    },
+    {
+      "title": "vercel/eve: The Framework for Building Agents",
+      "hot": "⭐ 1.3k",
+      "desc": "The Framework for Building Agents",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/vercel/eve"
+    },
+    {
+      "title": "loc567/loc567: loc567 是一款完全开源免费的纯网页端iOS模拟定位工具。在线体验地址：https://loc567.com",
+      "hot": "⭐ 1.1k",
+      "desc": "loc567 是一款完全开源免费的纯网页端iOS模拟定位工具。在线体验地址：https://loc567.com",
+      "source": "github",
+      "tag": "C",
+      "url": "https://github.com/loc567/loc567"
+    },
+    {
+      "title": "EEliberto/IPA-Download: 一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传",
+      "hot": "⭐ 1.1k",
+      "desc": "一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。",
+      "source": "github",
+      "tag": "Swift",
+      "url": "https://github.com/EEliberto/IPA-Download"
+    },
+    {
+      "title": "orange2ai/renwei-writing: 人味儿写作 · An AI agent skill: edit people's words without",
+      "hot": "⭐ 806",
+      "desc": "人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/orange2ai/renwei-writing"
+    },
+    {
+      "title": "nolangz/pixel2motion: AI logo animation skill: turn raster logos into smooth SVG",
+      "hot": "⭐ 789",
+      "desc": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/nolangz/pixel2motion"
+    },
+    {
+      "title": "Waishnav/devspace: Turn ChatGPT into Codex",
+      "hot": "⭐ 741",
+      "desc": "Turn ChatGPT into Codex",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/Waishnav/devspace"
+    },
+    {
+      "title": "alchaincyf/loop-engineering-orange-book: 别再问我什么是 Loop Engineering — 橙皮书系列。A plai",
+      "hot": "⭐ 666",
+      "desc": "别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/alchaincyf/loop-engineering-orange-book"
+    },
+    {
+      "title": "joeseesun/qiaomu-goal-meta-skill: Turn vague or complex Codex tasks into strong ",
+      "hot": "⭐ 657",
+      "desc": "Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/joeseesun/qiaomu-goal-meta-skill"
+    },
+    {
+      "title": "vorssaint/vorssaint-utils: Free open-source macOS menu bar toolkit: per-app volu",
+      "hot": "⭐ 646",
+      "desc": "Free open-source macOS menu bar toolkit: per-app volume mixer, system monitor, keep awake, window switcher (Alt Tab), shelf, app uninstaller, and much",
+      "source": "github",
+      "tag": "Swift",
+      "url": "https://github.com/vorssaint/vorssaint-utils"
+    },
+    {
+      "title": "SunJaycy/GoldenEye-Recomp: ",
+      "hot": "⭐ 556",
+      "desc": "SunJaycy/GoldenEye-Recomp",
+      "source": "github",
+      "tag": "C",
+      "url": "https://github.com/SunJaycy/GoldenEye-Recomp"
+    },
+    {
+      "title": "MSNightmare/GreatXML: GreatXML bitlocker bypass vulnerability",
+      "hot": "⭐ 524",
+      "desc": "GreatXML bitlocker bypass vulnerability",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/MSNightmare/GreatXML"
     }
   ],
   "space": [
+    {
+      "title": "Stages of Star Formation",
+      "hot": "6/18",
+      "desc": "This image, captured by NASA’s James Webb Space Telescope and released on June 5, 2026, shows just a small portion of one of the Orion Molecular Cloud",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/image-article/stages-of-star-formation/"
+    },
+    {
+      "title": "Sophie Adenot's mid-mission highlights",
+      "hot": "6/18",
+      "desc": "Sophie is halfway through the εpsilon mission onboard the ISS, and she has already accomplished so much. Between hundreds of hours of scientific resea",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/06/Sophie_Adenot_s_mid-mission_highlights"
+    },
+    {
+      "title": "Chinese startup Spark Space tests engine, raises funds for electric-pump rocket",
+      "hot": "6/18",
+      "desc": "\nChinese startup Spark Space has secured a series of funding rounds for what it claims will be the world's largest electric-pump-fed rocket, following",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/chinese-startup-spark-space-tests-engine-raises-funds-for-electric-pump-rocket/"
+    },
+    {
+      "title": "A legacy to help solve the space workforce pipeline",
+      "hot": "6/18",
+      "desc": "\nIn this episode of Space Minds, David Ariosto talks with Mike Kincaid, president and chief executive of the Challenger Center. They discuss the space",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/a-legacy-to-help-solve-the-space-workforce-pipeline/"
+    },
     {
       "title": "Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office",
       "hot": "6/18",
@@ -413,160 +567,6 @@
       "source": "space",
       "tag": "NASASpaceflight",
       "url": "https://www.nasaspaceflight.com/2026/06/relativity-update-0626/"
-    },
-    {
-      "title": "Relativity Space to privately develop Mars orbiter mission",
-      "hot": "6/17",
-      "desc": "\nRelativity Space plans to launch a Mars orbiter in 2028 as part of a new initiative to privately develop planetary missions.\nThe post Relativity Spac",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/relativity-space-to-privately-develop-mars-orbiter-mission/"
-    },
-    {
-      "title": "First Upgraded Ariane 6 Rocket Launches 36 Satellites for Amazon",
-      "hot": "6/17",
-      "desc": "Arianespace has successfully completed its third Ariane 6 flight of 2026, delivering another 36 Amazon satellites to orbit aboard a new variant of the",
-      "source": "space",
-      "tag": "European Spaceflight",
-      "url": "https://europeanspaceflight.com/first-upgraded-ariane-6-rocket-launches-36-satellites-for-amazon/"
-    },
-    {
-      "title": "Search for Hidden Cosmic Companions in Sun’s Backyard",
-      "hot": "6/17",
-      "desc": "Some stars have planets. Others are orbited by brown dwarfs, balls of gas too massive to be planets, but too low-mass to be stars. Astronomers love th",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/get-involved/citizen-science/search-for-hidden-cosmic-companions-in-suns-backyard/"
-    },
-    {
-      "title": "Upgraded Ariane 6 launches Amazon Leo satellites",
-      "hot": "6/17",
-      "desc": "An Ariane 6 with upgraded solid rocket boosters successfully launched three dozen Amazon Leo satellites June 17 as ESA weighs options for increasing t",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/upgraded-ariane-6-launches-amazon-leo-satellites/"
-    }
-  ],
-  "github": [
-    {
-      "title": "DietrichGebert/ponytail: Makes your AI agent think like the laziest senior dev i",
-      "hot": "⭐ 34.9k",
-      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/DietrichGebert/ponytail"
-    },
-    {
-      "title": "omnigent-ai/omnigent: Omnigent is an open-source AI agent framework and meta-har",
-      "hot": "⭐ 3.7k",
-      "desc": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/omnigent-ai/omnigent"
-    },
-    {
-      "title": "tamnd/kage: Shadow any website for offline viewing, with the JavaScript stripped",
-      "hot": "⭐ 2.0k",
-      "desc": "Shadow any website for offline viewing, with the JavaScript stripped out",
-      "source": "github",
-      "tag": "Go",
-      "url": "https://github.com/tamnd/kage"
-    },
-    {
-      "title": "lenucksi/aur-malware-check: Detection tools for the June 2026 atomic-lockfile AU",
-      "hot": "⭐ 1.5k",
-      "desc": "Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.",
-      "source": "github",
-      "tag": "Shell",
-      "url": "https://github.com/lenucksi/aur-malware-check"
-    },
-    {
-      "title": "vercel/eve: The Framework for Building Agents",
-      "hot": "⭐ 1.2k",
-      "desc": "The Framework for Building Agents",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/vercel/eve"
-    },
-    {
-      "title": "loc567/loc567: loc567 是一款完全开源免费的纯网页端iOS模拟定位工具。在线体验地址：https://loc567.com",
-      "hot": "⭐ 1.1k",
-      "desc": "loc567 是一款完全开源免费的纯网页端iOS模拟定位工具。在线体验地址：https://loc567.com",
-      "source": "github",
-      "tag": "C",
-      "url": "https://github.com/loc567/loc567"
-    },
-    {
-      "title": "EEliberto/IPA-Download: 一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕���数据包。下载后，可直接通过 AirDrop",
-      "hot": "⭐ 1.1k",
-      "desc": "一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕���数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。",
-      "source": "github",
-      "tag": "Swift",
-      "url": "https://github.com/EEliberto/IPA-Download"
-    },
-    {
-      "title": "orange2ai/renwei-writing: 人味儿写作 · An AI agent skill: edit people's words without",
-      "hot": "⭐ 803",
-      "desc": "人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/orange2ai/renwei-writing"
-    },
-    {
-      "title": "nolangz/pixel2motion: AI logo animation skill: turn raster logos into smooth SVG",
-      "hot": "⭐ 776",
-      "desc": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/nolangz/pixel2motion"
-    },
-    {
-      "title": "alchaincyf/loop-engineering-orange-book: 别再问我什么是 Loop Engineering — 橙皮书系列。A plai",
-      "hot": "⭐ 661",
-      "desc": "别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/alchaincyf/loop-engineering-orange-book"
-    },
-    {
-      "title": "joeseesun/qiaomu-goal-meta-skill: Turn vague or complex Codex tasks into strong ",
-      "hot": "⭐ 656",
-      "desc": "Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/joeseesun/qiaomu-goal-meta-skill"
-    },
-    {
-      "title": "vorssaint/vorssaint-utils: Free open-source macOS menu bar toolkit: per-app volu",
-      "hot": "⭐ 640",
-      "desc": "Free open-source macOS menu bar toolkit: per-app volume mixer, system monitor, keep awake, window switcher (Alt Tab), shelf, app uninstaller, and much",
-      "source": "github",
-      "tag": "Swift",
-      "url": "https://github.com/vorssaint/vorssaint-utils"
-    },
-    {
-      "title": "Waishnav/devspace: Turn ChatGPT into Codex",
-      "hot": "⭐ 639",
-      "desc": "Turn ChatGPT into Codex",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/Waishnav/devspace"
-    },
-    {
-      "title": "SunJaycy/GoldenEye-Recomp: ",
-      "hot": "⭐ 550",
-      "desc": "SunJaycy/GoldenEye-Recomp",
-      "source": "github",
-      "tag": "C",
-      "url": "https://github.com/SunJaycy/GoldenEye-Recomp"
-    },
-    {
-      "title": "MSNightmare/GreatXML: GreatXML bitlocker bypass vulnerability",
-      "hot": "⭐ 523",
-      "desc": "GreatXML bitlocker bypass vulnerability",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/MSNightmare/GreatXML"
     }
   ]
 }

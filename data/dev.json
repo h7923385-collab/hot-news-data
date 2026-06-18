@@ -1,20 +1,12 @@
 {
   "data": [
     {
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 60 💬 25",
-      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+      "title": "How to Read a webrtc-internals Dump, Section by Section",
+      "hot": "❤️ 0 💬 0",
+      "desc": "When a WebRTC call goes bad, the browser already recorded what happened. Chrome keeps a live record...",
       "source": "dev",
-      "tag": "top7,  discuss",
-      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1h65"
-    },
-    {
-      "title": "Ask a DEV Community Mod! 🚀",
-      "hot": "❤️ 84 💬 47",
-      "desc": "Disclaimer: Please read the full post before commenting. This post will be refined overtime, so I...",
-      "source": "dev",
-      "tag": "discuss,  community",
-      "url": "https://dev.to/francistrdev/ask-a-dev-community-mod-50hk"
+      "tag": "webrtc,  javascript",
+      "url": "https://dev.to/tsahil/how-to-read-a-webrtc-internals-dump-section-by-section-598a"
     },
     {
       "title": "How We Saved Big and Simplified Our Image Pipeline: Adopting bunny.net on DEV",
@@ -25,6 +17,22 @@
       "url": "https://dev.to/devteam/how-we-saved-big-and-simplified-our-image-pipeline-adopting-bunnynet-on-dev-3d53"
     },
     {
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "hot": "❤️ 61 💬 25",
+      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+      "source": "dev",
+      "tag": "top7,  discuss",
+      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1h65"
+    },
+    {
+      "title": "Welcome Thread - v380",
+      "hot": "❤️ 45 💬 168",
+      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
+      "source": "dev",
+      "tag": "welcome",
+      "url": "https://dev.to/devteam/welcome-thread-v380-oi4"
+    },
+    {
       "title": "12B Gemma 4 QAT Deployment with GCE, NVIDIA L4, MCP, and Antigravity CLI",
       "hot": "❤️ 6 💬 0",
       "desc": "This article provides a step by step deployment guide for Gemma 4 to a Google Compute Engine hosted...",
@@ -33,12 +41,20 @@
       "url": "https://dev.to/gde/12b-gemma-4-qat-deployment-with-gce-nvidia-l4-mcp-and-antigravity-cli-49d8"
     },
     {
-      "title": "Welcome Thread - v380",
-      "hot": "❤️ 40 💬 153",
-      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
+      "title": "Building a Production-Ready RAG Application with LangChain, pgvector, and Gemini",
+      "hot": "❤️ 2 💬 2",
+      "desc": "Retrieval-Augmented Generation (RAG) is a powerful pattern to build applications that can query,...",
       "source": "dev",
-      "tag": "welcome",
-      "url": "https://dev.to/devteam/welcome-thread-v380-oi4"
+      "tag": "ai,  rag",
+      "url": "https://dev.to/adityakmr7/building-a-production-ready-rag-application-with-langchain-pgvector-and-gemini-n25"
+    },
+    {
+      "title": "Agentp: Turn OpenCode Into a Headless AI Engine for Your Editor, Terminal, and Telegram",
+      "hot": "❤️ 1 💬 0",
+      "desc": "I've always felt out of step with the prevailing trends.  Before the AI explosion, the mantra was...",
+      "source": "dev",
+      "tag": "opencode,  ai",
+      "url": "https://dev.to/bitifet/agentp-turn-opencode-into-a-headless-ai-engine-for-your-editor-terminal-and-telegram-14gj"
     },
     {
       "title": "Real-time IP capacity in Google Cloud subnets",
@@ -81,6 +97,22 @@
       "url": "https://dev.to/gde/deploying-gemma-12b-to-aws-ec2-with-nvidia-l4-and-antigravity-cli-463p"
     },
     {
+      "title": "Ask a DEV Community Mod! 🚀",
+      "hot": "❤️ 88 💬 59",
+      "desc": "Disclaimer: Please read the full post before commenting. This post will be refined overtime, so I...",
+      "source": "dev",
+      "tag": "discuss,  community",
+      "url": "https://dev.to/francistrdev/ask-a-dev-community-mod-50hk"
+    },
+    {
+      "title": "Generative UI with AI on React + React Native Universal App",
+      "hot": "❤️ 3 💬 0",
+      "desc": "Lately, AI chat products have started doing more than returning paragraphs of text.  Ask Claude a...",
+      "source": "dev",
+      "tag": "ai,  react",
+      "url": "https://dev.to/neetigyachahar/generative-ui-with-ai-on-react-react-native-universal-app-dbj"
+    },
+    {
       "title": "Why I still teach Singleton even though modules make it redundant",
       "hot": "❤️ 1 💬 0",
       "desc": "Ask any developer what design pattern they know best and Singleton comes up first. Ask the same group...",
@@ -105,6 +137,14 @@
       "url": "https://dev.to/znsstudio/the-ai-addiction-nobody-is-talking-about-2of8"
     },
     {
+      "title": "Letters to Tomorrow: A June Solstice Game About the Things We Carry Into Tomorrow",
+      "hot": "❤️ 66 💬 29",
+      "desc": "This is a submission for the June Solstice Game Jam  🎮 Play the Game: Letters to Tomorrow  💻 Source...",
+      "source": "dev",
+      "tag": "devchallenge,  gamechallenge",
+      "url": "https://dev.to/hemapriya_kanagala/letters-to-tomorrow-a-june-solstice-game-about-the-things-we-carry-into-tomorrow-1lnf"
+    },
+    {
       "title": "Why the Fable 5 Crisis Proves Your AI Context Layer Can't Live Inside the Model",
       "hot": "❤️ 15 💬 4",
       "desc": "Rent the Intelligence, Own the Memory   On Friday, a single government letter pulled a...",
@@ -119,47 +159,7 @@
       "source": "dev",
       "tag": "antigravitycli,  mcps",
       "url": "https://dev.to/gde/lessons-learned-deployment-trade-offs-with-gemma4-nvidia-l4-cloud-run-and-antigravity-cli-lnl"
-    },
-    {
-      "title": "Trust Begins with DNS: Mitigating Abuse and Strengthening Internet Resilience with Google Cloud",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Tackling DNS abuse requires a blend of resilient infrastructure, traffic filtering, and advanced...",
-      "source": "dev",
-      "tag": "dns,  dnssec",
-      "url": "https://dev.to/gde/trust-begins-with-dns-mitigating-abuse-and-strengthening-internet-resilience-with-google-cloud-53n2"
-    },
-    {
-      "title": "Google Workspace Studio Tutorial: The New 'Notify by Email' Action",
-      "hot": "❤️ 7 💬 0",
-      "desc": "If you run a product or manage technical operations, you likely have a Google Sheet somewhere that...",
-      "source": "dev",
-      "tag": "googleworkspace,  workspacestudio",
-      "url": "https://dev.to/gde/google-workspace-studio-tutorial-the-new-notify-by-email-action-2400"
-    },
-    {
-      "title": "Mastering Self-Hosted Convex: A Complete Deployment Guide",
-      "hot": "❤️ 0 💬 0",
-      "desc": "Stop struggling with custom scripts and learn the professional way to deploy Convex functions to your own server using t",
-      "source": "dev",
-      "tag": "convex,  selfhosted",
-      "url": "https://dev.to/jookllo/mastering-self-hosted-convex-a-complete-deployment-guide-3mp5"
-    },
-    {
-      "title": "I tried to make an AI agent answer more. It answered less.",
-      "hot": "❤️ 0 💬 0",
-      "desc": "If you build or evaluate scoped agents: any talk about the agent in your test context makes it defend...",
-      "source": "dev",
-      "tag": "ai,  llm",
-      "url": "https://dev.to/ankushchadha/i-tried-to-make-an-ai-agent-answer-more-it-answered-less-3d7a"
-    },
-    {
-      "title": "Letters to Tomorrow: A June Solstice Game About the Things We Carry Into Tomorrow",
-      "hot": "❤️ 63 💬 27",
-      "desc": "This is a submission for the June Solstice Game Jam  🎮 Play the Game: Letters to Tomorrow  💻 Source...",
-      "source": "dev",
-      "tag": "devchallenge,  gamechallenge",
-      "url": "https://dev.to/hemapriya_kanagala/letters-to-tomorrow-a-june-solstice-game-about-the-things-we-carry-into-tomorrow-1lnf"
     }
   ],
-  "updatedAt": "2026-06-18T14:26:07.993Z"
+  "updatedAt": "2026-06-18T17:38:26.912Z"
 }
