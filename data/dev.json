@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 59 💬 25",
+      "hot": "❤️ 60 💬 25",
       "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
       "source": "dev",
       "tag": "top7,  discuss",
@@ -10,7 +10,7 @@
     },
     {
       "title": "Ask a DEV Community Mod! 🚀",
-      "hot": "❤️ 81 💬 44",
+      "hot": "❤️ 84 💬 47",
       "desc": "Disclaimer: Please read the full post before commenting. This post will be refined overtime, so I...",
       "source": "dev",
       "tag": "discuss,  community",
@@ -25,22 +25,6 @@
       "url": "https://dev.to/devteam/how-we-saved-big-and-simplified-our-image-pipeline-adopting-bunnynet-on-dev-3d53"
     },
     {
-      "title": "Debugging Deployments with Gemma 12B, TPU v6e-1, MCP, and Antigravity CLI",
-      "hot": "❤️ 5 💬 0",
-      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "source": "dev",
-      "tag": "antigravitycli,  gemma4",
-      "url": "https://dev.to/gde/debugging-deployments-with-gemma-12b-tpu-v6e-1-mcp-and-antigravity-cli-83n"
-    },
-    {
-      "title": "Deploying Gemma 12B to Azure with GPU",
-      "hot": "❤️ 5 💬 0",
-      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to an Azure hosted GPU...",
-      "source": "dev",
-      "tag": "qat,  gemma4",
-      "url": "https://dev.to/gde/deploying-gemma-12b-to-azure-with-gpu-5bcd"
-    },
-    {
       "title": "12B Gemma 4 QAT Deployment with GCE, NVIDIA L4, MCP, and Antigravity CLI",
       "hot": "❤️ 6 💬 0",
       "desc": "This article provides a step by step deployment guide for Gemma 4 to a Google Compute Engine hosted...",
@@ -50,7 +34,7 @@
     },
     {
       "title": "Welcome Thread - v380",
-      "hot": "❤️ 39 💬 131",
+      "hot": "❤️ 40 💬 153",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
@@ -58,11 +42,19 @@
     },
     {
       "title": "Real-time IP capacity in Google Cloud subnets",
-      "hot": "❤️ 6 💬 0",
+      "hot": "❤️ 7 💬 0",
       "desc": "When managing Shared VPCs, most teams allocate dedicated IP subnets for each service project to keep...",
       "source": "dev",
       "tag": "googlecloud,  networking",
       "url": "https://dev.to/googlecloud/real-time-ip-capacity-in-google-cloud-subnets-4m9j"
+    },
+    {
+      "title": "Debugging Deployments with Gemma 12B, TPU v6e-1, MCP, and Antigravity CLI",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
+      "source": "dev",
+      "tag": "antigravitycli,  gemma4",
+      "url": "https://dev.to/gde/debugging-deployments-with-gemma-12b-tpu-v6e-1-mcp-and-antigravity-cli-83n"
     },
     {
       "title": "Static in the house - C++ tales #1",
@@ -71,6 +63,14 @@
       "source": "dev",
       "tag": "cpp,  programing",
       "url": "https://dev.to/tothricsaj/static-in-the-house-c-tales-1-3dgh"
+    },
+    {
+      "title": "Deploying Gemma 12B to Azure with GPU",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to an Azure hosted GPU...",
+      "source": "dev",
+      "tag": "qat,  gemma4",
+      "url": "https://dev.to/gde/deploying-gemma-12b-to-azure-with-gpu-5bcd"
     },
     {
       "title": "Deploying Gemma 12B to AWS EC2 with NVIDIA L4 and Antigravity CLI",
@@ -106,7 +106,7 @@
     },
     {
       "title": "Why the Fable 5 Crisis Proves Your AI Context Layer Can't Live Inside the Model",
-      "hot": "❤️ 14 💬 4",
+      "hot": "❤️ 15 💬 4",
       "desc": "Rent the Intelligence, Own the Memory   On Friday, a single government letter pulled a...",
       "source": "dev",
       "tag": "ai,  coding",
@@ -153,13 +153,13 @@
       "url": "https://dev.to/ankushchadha/i-tried-to-make-an-ai-agent-answer-more-it-answered-less-3d7a"
     },
     {
-      "title": "Deployment Planning with Gemma 26B, NVIDIA L4, MCP, Cloud Run, and Antigravity CLI",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud Run...",
+      "title": "Letters to Tomorrow: A June Solstice Game About the Things We Carry Into Tomorrow",
+      "hot": "❤️ 63 💬 27",
+      "desc": "This is a submission for the June Solstice Game Jam  🎮 Play the Game: Letters to Tomorrow  💻 Source...",
       "source": "dev",
-      "tag": "nvidia,  mcps",
-      "url": "https://dev.to/gde/deployment-planning-with-gemma-26b-nvidia-l4-mcp-cloud-run-and-antigravity-cli-kn0"
+      "tag": "devchallenge,  gamechallenge",
+      "url": "https://dev.to/hemapriya_kanagala/letters-to-tomorrow-a-june-solstice-game-about-the-things-we-carry-into-tomorrow-1lnf"
     }
   ],
-  "updatedAt": "2026-06-18T11:02:23.930Z"
+  "updatedAt": "2026-06-18T14:26:07.993Z"
 }
