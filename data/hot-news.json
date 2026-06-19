@@ -1,328 +1,166 @@
 {
-  "updatedAt": "2026-06-19T09:58:12.658Z",
+  "updatedAt": "2026-06-19T13:31:50.550Z",
   "source": "live",
-  "dev": [
-    {
-      "title": "Congrats to the Hermes Agent Challenge Winners!",
-      "hot": "❤️ 19 💬 5",
-      "desc": "We are thrilled to announce the winners of the Hermes Agent Challenge! Over the past few weeks, the...",
-      "source": "dev",
-      "tag": "hermesagentchallenge,  devchallenge",
-      "url": "https://dev.to/devteam/congrats-to-the-hermes-agent-challenge-winners-3on0"
-    },
-    {
-      "title": "Congrats to the Gemma 4 Challenge Winners!",
-      "hot": "❤️ 51 💬 23",
-      "desc": "We are so excited to announce the winners of the Gemma 4 Challenge!  This is officially our most...",
-      "source": "dev",
-      "tag": "devchallenge,  gemmachallenge",
-      "url": "https://dev.to/devteam/congrats-to-the-gemma-4-challenge-winners-4fgc"
-    },
-    {
-      "title": "I'm not a developer, but I built a calendar app to fix my most annoying work task",
-      "hot": "❤️ 13 💬 0",
-      "desc": "I’m not a developer! I’ve never coded anything in my life. As far as I’m concerned, a Cloudtop is...",
-      "source": "dev",
-      "tag": "ai,  productivity",
-      "url": "https://dev.to/googleai/im-not-a-developer-but-i-built-a-calendar-app-to-fix-my-most-annoying-work-task-dj4"
-    },
-    {
-      "title": "How to Read a webrtc-internals Dump, Section by Section",
-      "hot": "❤️ 0 💬 0",
-      "desc": "When a WebRTC call goes bad, the browser already recorded what happened. Chrome keeps a live record...",
-      "source": "dev",
-      "tag": "webrtc,  javascript",
-      "url": "https://dev.to/tsahil/how-to-read-a-webrtc-internals-dump-section-by-section-598a"
-    },
-    {
-      "title": "Building an agentic PR reviewer with Antigravity SDK",
-      "hot": "❤️ 15 💬 0",
-      "desc": "As announced in this blog post on June 18, 2026, Gemini CLI and Gemini Code Assist IDE extensions...",
-      "source": "dev",
-      "tag": "antigravity,  gemini",
-      "url": "https://dev.to/googleai/building-an-agentic-pr-reviewer-with-antigravity-sdk-3b0i"
-    },
-    {
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 61 💬 25",
-      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
-      "source": "dev",
-      "tag": "top7,  discuss",
-      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1h65"
-    },
-    {
-      "title": "12B Gemma 4 QAT Deployment with GCE, NVIDIA L4, MCP, and Antigravity CLI",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article provides a step by step deployment guide for Gemma 4 to a Google Compute Engine hosted...",
-      "source": "dev",
-      "tag": "mcps,  qat",
-      "url": "https://dev.to/gde/12b-gemma-4-qat-deployment-with-gce-nvidia-l4-mcp-and-antigravity-cli-49d8"
-    },
-    {
-      "title": "Agentp: Turn OpenCode Into a Headless AI Engine for Your Editor, Terminal, and Telegram",
-      "hot": "❤️ 1 💬 0",
-      "desc": "I've always felt out of step with the prevailing trends.  Before the AI explosion, the mantra was...",
-      "source": "dev",
-      "tag": "opencode,  ai",
-      "url": "https://dev.to/bitifet/agentp-turn-opencode-into-a-headless-ai-engine-for-your-editor-terminal-and-telegram-14gj"
-    },
-    {
-      "title": "Ask a DEV Community Mod! 🚀",
-      "hot": "❤️ 106 💬 64",
-      "desc": "Disclaimer: Please read the full post before commenting. This post will be refined overtime, so I...",
-      "source": "dev",
-      "tag": "discuss,  community",
-      "url": "https://dev.to/francistrdev/ask-a-dev-community-mod-50hk"
-    },
-    {
-      "title": "Real-time IP capacity in Google Cloud subnets",
-      "hot": "❤️ 7 💬 0",
-      "desc": "When managing Shared VPCs, most teams allocate dedicated IP subnets for each service project to keep...",
-      "source": "dev",
-      "tag": "googlecloud,  networking",
-      "url": "https://dev.to/googlecloud/real-time-ip-capacity-in-google-cloud-subnets-4m9j"
-    },
-    {
-      "title": "Debugging Deployments with Gemma 12B, TPU v6e-1, MCP, and Antigravity CLI",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "source": "dev",
-      "tag": "antigravitycli,  gemma4",
-      "url": "https://dev.to/gde/debugging-deployments-with-gemma-12b-tpu-v6e-1-mcp-and-antigravity-cli-83n"
-    },
-    {
-      "title": "Deploying Gemma 12B to Azure with GPU",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to an Azure hosted GPU...",
-      "source": "dev",
-      "tag": "qat,  gemma4",
-      "url": "https://dev.to/gde/deploying-gemma-12b-to-azure-with-gpu-5bcd"
-    },
-    {
-      "title": "Deploying Gemma 12B to AWS EC2 with NVIDIA L4 and Antigravity CLI",
-      "hot": "❤️ 8 💬 0",
-      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to an AWS hosted GPU...",
-      "source": "dev",
-      "tag": "aws,  nvidial4",
-      "url": "https://dev.to/gde/deploying-gemma-12b-to-aws-ec2-with-nvidia-l4-and-antigravity-cli-463p"
-    },
-    {
-      "title": "Generative UI with AI on React + React Native Universal App",
-      "hot": "❤️ 3 💬 0",
-      "desc": "Lately, AI chat products have started doing more than returning paragraphs of text.  Ask Claude a...",
-      "source": "dev",
-      "tag": "ai,  react",
-      "url": "https://dev.to/neetigyachahar/generative-ui-with-ai-on-react-react-native-universal-app-dbj"
-    },
-    {
-      "title": "How We Saved Big and Simplified Our Image Pipeline: Adopting bunny.net on DEV",
-      "hot": "❤️ 76 💬 7",
-      "desc": "Hey everyone, Ben here.  If you’ve been following the journey of DEV and our open source project...",
-      "source": "dev",
-      "tag": "performance,  webdev",
-      "url": "https://dev.to/devteam/how-we-saved-big-and-simplified-our-image-pipeline-adopting-bunnynet-on-dev-3d53"
-    },
-    {
-      "title": "Why I still teach Singleton even though modules make it redundant",
-      "hot": "❤️ 1 💬 0",
-      "desc": "Ask any developer what design pattern they know best and Singleton comes up first. Ask the same group...",
-      "source": "dev",
-      "tag": "webdev,  javascript",
-      "url": "https://dev.to/dsheiko/why-i-still-teach-singleton-even-though-modules-make-it-redundant-1a7m"
-    },
-    {
-      "title": "The AI Addiction Nobody Is Talking About",
-      "hot": "❤️ 1 💬 0",
-      "desc": "There is a particular kind of restlessness spreading through the tech world right now. It is not...",
-      "source": "dev",
-      "tag": "Dev.to",
-      "url": "https://dev.to/znsstudio/the-ai-addiction-nobody-is-talking-about-2of8"
-    },
-    {
-      "title": "Welcome Thread - v380",
-      "hot": "❤️ 52 💬 207",
-      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
-      "source": "dev",
-      "tag": "welcome",
-      "url": "https://dev.to/devteam/welcome-thread-v380-oi4"
-    },
-    {
-      "title": "Letters to Tomorrow: A June Solstice Game About the Things We Carry Into Tomorrow",
-      "hot": "❤️ 68 💬 30",
-      "desc": "This is a submission for the June Solstice Game Jam  🎮 Play the Game: Letters to Tomorrow  💻 Source...",
-      "source": "dev",
-      "tag": "devchallenge,  gamechallenge",
-      "url": "https://dev.to/hemapriya_kanagala/letters-to-tomorrow-a-june-solstice-game-about-the-things-we-carry-into-tomorrow-1lnf"
-    },
-    {
-      "title": "Why the Fable 5 Crisis Proves Your AI Context Layer Can't Live Inside the Model",
-      "hot": "❤️ 15 💬 4",
-      "desc": "Rent the Intelligence, Own the Memory   On Friday, a single government letter pulled a...",
-      "source": "dev",
-      "tag": "ai,  coding",
-      "url": "https://dev.to/jon_at_backboardio/why-the-fable-5-crisis-proves-your-ai-context-layer-cant-live-inside-the-model-2n6d"
-    }
-  ],
   "tech": [
     {
       "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
       "hot": "3.0m",
       "desc": "jvm-weekly.com",
       "source": "tech",
-      "tag": "⬆️ 118 points",
+      "tag": "⬆️ 283 points",
       "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a"
+    },
+    {
+      "title": "Leave a Trace",
+      "hot": "3.0m",
+      "desc": "jakeworth.com",
+      "source": "tech",
+      "tag": "⬆️ 8 points",
+      "url": "https://www.jakeworth.com/posts/leave-a-trace"
+    },
+    {
+      "title": "The room the economy can't see",
+      "hot": "3.0m",
+      "desc": "wilsoniumite.com",
+      "source": "tech",
+      "tag": "⬆️ 83 points",
+      "url": "https://wilsoniumite.com/2026/06/19/the-room-the-economy-cant-see/"
     },
     {
       "title": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
       "hot": "3.0m",
       "desc": "greybeam.ai",
       "source": "tech",
-      "tag": "⬆️ 175 points",
+      "tag": "⬆️ 261 points",
       "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1"
     },
     {
-      "title": "So You Want to Define a Well-Known URI",
-      "hot": "3.0m",
-      "desc": "mnot.net",
-      "source": "tech",
-      "tag": "⬆️ 64 points",
-      "url": "https://mnot.net/blog/2026/well_known_uris"
-    },
-    {
       "title": "To study how chips work, MIT researchers built their own operating system",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "news.mit.edu",
       "source": "tech",
-      "tag": "⬆️ 184 points",
+      "tag": "⬆️ 239 points",
       "url": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610"
-    },
-    {
-      "title": "Ten years of ClickHouse in open source",
-      "hot": "2.9m",
-      "desc": "clickhouse.com",
-      "source": "tech",
-      "tag": "⬆️ 23 points",
-      "url": "https://clickhouse.com/blog/open-source-10"
     },
     {
       "title": "Zen and the Art of Machine Learning Research",
       "hot": "2.9m",
       "desc": "blog.jxmo.io",
       "source": "tech",
-      "tag": "⬆️ 54 points",
+      "tag": "⬆️ 115 points",
       "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning"
     },
     {
-      "title": "Gribouille 0.3.0: A Grammar of Graphics for Typst",
+      "title": "So You Want to Define a Well-Known URI",
       "hot": "2.9m",
-      "desc": "mickael.canouil.fr",
+      "desc": "mnot.net",
       "source": "tech",
-      "tag": "⬆️ 86 points",
-      "url": "https://mickael.canouil.fr/posts/2026-06-15-gribouille-0-3/"
+      "tag": "⬆️ 104 points",
+      "url": "https://mnot.net/blog/2026/well_known_uris"
+    },
+    {
+      "title": "Ten years of ClickHouse in open source",
+      "hot": "2.9m",
+      "desc": "clickhouse.com",
+      "source": "tech",
+      "tag": "⬆️ 113 points",
+      "url": "https://clickhouse.com/blog/open-source-10"
     },
     {
       "title": "I found 10k GitHub repositories distributing Trojan malware",
       "hot": "2.9m",
       "desc": "orchidfiles.com",
       "source": "tech",
-      "tag": "⬆️ 795 points",
+      "tag": "⬆️ 851 points",
       "url": "https://orchidfiles.com/github-repositories-distributing-malware/"
     },
     {
-      "title": "Fable Converted Pylint to Rust",
+      "title": "Gribouille 0.3.0: A Grammar of Graphics for Typst",
       "hot": "2.9m",
-      "desc": "pypi.org",
+      "desc": "mickael.canouil.fr",
       "source": "tech",
-      "tag": "⬆️ 38 points",
-      "url": "https://pypi.org/project/prylint/"
-    },
-    {
-      "title": "Zero-Touch OAuth for MCP",
-      "hot": "2.9m",
-      "desc": "blog.modelcontextprotocol.io",
-      "source": "tech",
-      "tag": "⬆️ 198 points",
-      "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/"
-    },
-    {
-      "title": "How Japan's railways stayed one while splitting apart",
-      "hot": "2.9m",
-      "desc": "arun.is",
-      "source": "tech",
-      "tag": "⬆️ 98 points",
-      "url": "https://arun.is/blog/jr-logo/"
-    },
-    {
-      "title": "The Raku Foundation is born",
-      "hot": "2.8m",
-      "desc": "raku.foundation",
-      "source": "tech",
-      "tag": "⬆️ 24 points",
-      "url": "https://raku.foundation"
+      "tag": "⬆️ 128 points",
+      "url": "https://mickael.canouil.fr/posts/2026-06-15-gribouille-0-3/"
     },
     {
       "title": "The AirPods Effect",
-      "hot": "2.8m",
+      "hot": "2.9m",
       "desc": "theescapenewsletter.com",
       "source": "tech",
-      "tag": "⬆️ 98 points",
+      "tag": "⬆️ 181 points",
       "url": "https://www.theescapenewsletter.com/p/the-airpods-effect"
+    },
+    {
+      "title": "Show HN: Modeloop – From visual algorithms to microcontroller C code",
+      "hot": "2.8m",
+      "desc": "modeloop.app",
+      "source": "tech",
+      "tag": "⬆️ 8 points",
+      "url": "https://www.modeloop.app/"
+    },
+    {
+      "title": "Zero-Touch OAuth for MCP",
+      "hot": "2.8m",
+      "desc": "blog.modelcontextprotocol.io",
+      "source": "tech",
+      "tag": "⬆️ 213 points",
+      "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/"
+    },
+    {
+      "title": "SMTP Relay with Web Dashboard",
+      "hot": "2.8m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 22 points",
+      "url": "https://github.com/toinbox/simplerelay"
+    },
+    {
+      "title": "How Japan's railways stayed one while splitting apart",
+      "hot": "2.8m",
+      "desc": "arun.is",
+      "source": "tech",
+      "tag": "⬆️ 122 points",
+      "url": "https://arun.is/blog/jr-logo/"
     },
     {
       "title": "Ubiquiti: Enterprise NAS, Built on ZFS",
       "hot": "2.8m",
       "desc": "blog.ui.com",
       "source": "tech",
-      "tag": "⬆️ 340 points",
+      "tag": "⬆️ 362 points",
       "url": "https://blog.ui.com/article/introducing-enterprise-nas"
-    },
-    {
-      "title": "Datasette Apps: Host custom HTML applications inside Datasette",
-      "hot": "2.8m",
-      "desc": "simonwillison.net",
-      "source": "tech",
-      "tag": "⬆️ 80 points",
-      "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/"
-    },
-    {
-      "title": "Building a robotics research setup that lives next to my desk",
-      "hot": "2.8m",
-      "desc": "dfdxlabs.com",
-      "source": "tech",
-      "tag": "⬆️ 82 points",
-      "url": "https://dfdxlabs.com/research/2026/robotics-setup/"
     },
     {
       "title": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
       "hot": "2.8m",
       "desc": "cs.cornell.edu",
       "source": "tech",
-      "tag": "⬆️ 373 points",
+      "tag": "⬆️ 393 points",
       "url": "https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/"
     },
     {
-      "title": ".gitignore Isn't the only way to ignore files in Git",
+      "title": "Norway greenlights first full-scale ship tunnel",
       "hot": "2.7m",
-      "desc": "nelson.cloud",
+      "desc": "eandt.theiet.org",
       "source": "tech",
-      "tag": "⬆️ 421 points",
-      "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/"
+      "tag": "⬆️ 47 points",
+      "url": "https://eandt.theiet.org/2026/06/18/norway-greenlights-world-s-first-full-scale-ship-tunnel"
     },
     {
-      "title": "Show HN: Talos – Open-source WASM interpreter for Lean",
+      "title": "Datasette Apps: Host custom HTML applications inside Datasette",
       "hot": "2.7m",
-      "desc": "github.com",
+      "desc": "simonwillison.net",
       "source": "tech",
-      "tag": "⬆️ 52 points",
-      "url": "https://github.com/cajal-technologies/talos"
+      "tag": "⬆️ 102 points",
+      "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/"
     },
     {
-      "title": "Ice water drowning survival of young patient (2025)",
+      "title": "\"No Feigning Surprise\"",
       "hot": "2.7m",
-      "desc": "jacc.org",
+      "desc": "wizardzines.com",
       "source": "tech",
-      "tag": "⬆️ 147 points",
-      "url": "https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885"
+      "tag": "⬆️ 4 points",
+      "url": "https://wizardzines.com/comics/surprise/"
     }
   ],
   "space": [
@@ -333,6 +171,46 @@
       "source": "space",
       "tag": "ESA",
       "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/Galileo_signal_updated_for_internet-of-things_use"
+    },
+    {
+      "title": "The MEO durability crisis: why LEO hardware will fail the new orbital economy",
+      "hot": "6/19",
+      "desc": "\nTo some, space is the final frontier. But the reality is that once you leave Earth’s atmosphere, you’re not entering a single, uniform void. There ar",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/the-meo-durability-crisis-why-leo-hardware-will-fail-the-new-orbital-economy/"
+    },
+    {
+      "title": "Ariane 6 flight VA269: Liftoff captured from the mobile gantry",
+      "hot": "6/19",
+      "desc": "On 17 June at 09:21 local time (13:21 BST, 14:21 CEST), Ariane 6 flight VA269 soared to orbit from Europe’s Spaceport in French Guiana. 36 satellites ",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/06/Ariane_6_flight_VA269_Liftoff_captured_from_the_mobile_gantry"
+    },
+    {
+      "title": "NASA selects mission to study space weather interaction with Earth’s atmosphere",
+      "hot": "6/19",
+      "desc": "\nNASA has selected for development a space science mission that will study how space weather interacts with Earth’s atmosphere.\nThe post NASA selects ",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/nasa-selects-mission-to-study-space-weather-interaction-with-earths-atmosphere/"
+    },
+    {
+      "title": "Chinese university-led mission to study asteroid Apophis during close encounter with Earth",
+      "hot": "6/19",
+      "desc": "\nA spacecraft developed by Tsinghua University is set to join international missions to study the asteroid Apophis during its close approach to Earth ",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/chinese-university-led-mission-to-study-asteroid-apophis-during-close-encounter-with-earth/"
+    },
+    {
+      "title": "Mu-g Technologies enters the parabolic flight business",
+      "hot": "6/19",
+      "desc": "\nA startup has acquired an aircraft to offer commercial parabolic flight services even as NASA seeks to acquire its own aircraft for reduced-gravity r",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/mu-g-technologies-enters-the-parabolic-flight-business/"
     },
     {
       "title": "Anomaly Delays Full-Scale Space Rider Drop Test Until October",
@@ -405,52 +283,12 @@
       "source": "space",
       "tag": "European Spaceflight",
       "url": "https://europeanspaceflight.com/germany-breaks-ground-on-one-of-two-govsatcom-hub-locations/"
-    },
-    {
-      "title": "NASA Awards Contract for Commercial Satellite Data Acquisition",
-      "hot": "6/18",
-      "desc": "NASA has selected eight new companies and will acquire new data products from six existing Commercial Satellite Data Acquisition contract holders to e",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/news-release/nasa-awards-contract-for-commercial-satellite-data-acquisition/"
-    },
-    {
-      "title": "EQT to acquire Exolaunch",
-      "hot": "6/18",
-      "desc": "\nPrivate equity firm EQT is acquiring Exolaunch, a company that has handled the rideshare launches of hundreds of satellites, to help it meet growing ",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/eqt-to-acquire-exolaunch/"
-    },
-    {
-      "title": "From Suriname to Space: Rohit Goeptar’s Shares his Journey to NASA",
-      "hot": "6/18",
-      "desc": "Rohit Goeptar was born into a poor family in Suriname, South America, the kind where both parents work three jobs and they still can only provide food",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/centers-and-facilities/kennedy/from-suriname-to-space-rohit-goeptars-shares-his-journey-to-nasa/"
-    },
-    {
-      "title": "Desert Field Test With NASA Advanced Rover Prototype",
-      "hot": "6/18",
-      "desc": "Description A prototype four-wheel rover developed at NASA’s Jet Propulsion Laboratory with advanced mobility and robotic autonomy capabilities trundl",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/photojournal/desert-field-test-with-nasa-advanced-rover-prototype/"
-    },
-    {
-      "title": "NASA Testing Advanced Capabilities for Moon, Mars Rovers",
-      "hot": "6/18",
-      "desc": "On a bleak stretch of the Colorado Desert in Southern California, a compact four-wheeled rover recently trundled about 16 miles (26 kilometers) with m",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/solar-system/moon/nasa-testing-advanced-capabilities-for-moon-mars-rovers/"
     }
   ],
   "github": [
     {
       "title": "DietrichGebert/ponytail: Makes your AI agent think like the laziest senior dev i",
-      "hot": "⭐ 38.4k",
+      "hot": "⭐ 39.0k",
       "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "source": "github",
       "tag": "JavaScript",
@@ -481,6 +319,14 @@
       "url": "https://github.com/vercel/eve"
     },
     {
+      "title": "Waishnav/devspace: Turn ChatGPT into Codex",
+      "hot": "⭐ 1.2k",
+      "desc": "Turn ChatGPT into Codex",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/Waishnav/devspace"
+    },
+    {
       "title": "EEliberto/IPA-Download: 一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传",
       "hot": "⭐ 1.1k",
       "desc": "一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。",
@@ -489,16 +335,8 @@
       "url": "https://github.com/EEliberto/IPA-Download"
     },
     {
-      "title": "Waishnav/devspace: Turn ChatGPT into Codex",
-      "hot": "⭐ 1.1k",
-      "desc": "Turn ChatGPT into Codex",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/Waishnav/devspace"
-    },
-    {
       "title": "orange2ai/renwei-writing: 人味儿写作 · An AI agent skill: edit people's words without",
-      "hot": "⭐ 821",
+      "hot": "⭐ 824",
       "desc": "人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them",
       "source": "github",
       "tag": "GitHub",
@@ -506,7 +344,7 @@
     },
     {
       "title": "nolangz/pixel2motion: AI logo animation skill: turn raster logos into smooth SVG",
-      "hot": "⭐ 807",
+      "hot": "⭐ 810",
       "desc": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
       "source": "github",
       "tag": "Python",
@@ -514,7 +352,7 @@
     },
     {
       "title": "vorssaint/vorssaint-utils: Free open-source macOS menu bar toolkit. Per-app volu",
-      "hot": "⭐ 698",
+      "hot": "⭐ 709",
       "desc": "Free open-source macOS menu bar toolkit. Per-app volume mixer, system monitor, keep awake, window switcher (Alt Tab), shelf, app uninstaller, and much",
       "source": "github",
       "tag": "Swift",
@@ -522,7 +360,7 @@
     },
     {
       "title": "alchaincyf/loop-engineering-orange-book: 别再问我什么是 Loop Engineering — 橙皮书系列。A plai",
-      "hot": "⭐ 679",
+      "hot": "⭐ 684",
       "desc": "别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.",
       "source": "github",
       "tag": "GitHub",
@@ -538,7 +376,7 @@
     },
     {
       "title": "fguzman82/gateGPT: Full Transformer into a custom chip. microGPT in RTL, generat",
-      "hot": "⭐ 521",
+      "hot": "⭐ 524",
       "desc": "Full Transformer into a custom chip. microGPT in RTL, generating names on a Virtex-5 FPGA at ~56k tokens/second.",
       "source": "github",
       "tag": "Verilog",
@@ -546,7 +384,7 @@
     },
     {
       "title": "DanMcInerney/architect-loop: Claude Fable 5 as architect, GPT-5.5 Codex as build",
-      "hot": "⭐ 516",
+      "hot": "⭐ 518",
       "desc": "Claude Fable 5 as architect, GPT-5.5 Codex as builder, the repo as memory - a research-backed Claude Code skill for the cross-vendor agent loop",
       "source": "github",
       "tag": "HTML",
@@ -554,7 +392,7 @@
     },
     {
       "title": "Plaer1/junction: VS Code chat sidebar for local AI coding agents",
-      "hot": "⭐ 510",
+      "hot": "⭐ 512",
       "desc": "VS Code chat sidebar for local AI coding agents",
       "source": "github",
       "tag": "TypeScript",
@@ -562,11 +400,173 @@
     },
     {
       "title": "mrtooher/fable-mode: A Claude skill that activates Fable-style agentic behavior:",
-      "hot": "⭐ 506",
+      "hot": "⭐ 510",
       "desc": "A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification.",
       "source": "github",
       "tag": "GitHub",
       "url": "https://github.com/mrtooher/fable-mode"
+    }
+  ],
+  "dev": [
+    {
+      "title": "Congrats to the Gemma 4 Challenge Winners!",
+      "hot": "❤️ 57 💬 31",
+      "desc": "We are so excited to announce the winners of the Gemma 4 Challenge!  This is officially our most...",
+      "source": "dev",
+      "tag": "devchallenge,  gemmachallenge",
+      "url": "https://dev.to/devteam/congrats-to-the-gemma-4-challenge-winners-4fgc"
+    },
+    {
+      "title": "Congrats to the Hermes Agent Challenge Winners!",
+      "hot": "❤️ 25 💬 8",
+      "desc": "We are thrilled to announce the winners of the Hermes Agent Challenge! Over the past few weeks, the...",
+      "source": "dev",
+      "tag": "hermesagentchallenge,  devchallenge",
+      "url": "https://dev.to/devteam/congrats-to-the-hermes-agent-challenge-winners-3on0"
+    },
+    {
+      "title": "I'm not a developer, but I built a calendar app to fix my most annoying work task",
+      "hot": "❤️ 13 💬 0",
+      "desc": "I’m not a developer! I’ve never coded anything in my life. As far as I’m concerned, a Cloudtop is...",
+      "source": "dev",
+      "tag": "ai,  productivity",
+      "url": "https://dev.to/googleai/im-not-a-developer-but-i-built-a-calendar-app-to-fix-my-most-annoying-work-task-dj4"
+    },
+    {
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "hot": "❤️ 61 💬 25",
+      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+      "source": "dev",
+      "tag": "top7,  discuss",
+      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1h65"
+    },
+    {
+      "title": "12B Gemma 4 QAT Deployment with GCE, NVIDIA L4, MCP, and Antigravity CLI",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article provides a step by step deployment guide for Gemma 4 to a Google Compute Engine hosted...",
+      "source": "dev",
+      "tag": "mcps,  qat",
+      "url": "https://dev.to/gde/12b-gemma-4-qat-deployment-with-gce-nvidia-l4-mcp-and-antigravity-cli-49d8"
+    },
+    {
+      "title": "How to Read a webrtc-internals Dump, Section by Section",
+      "hot": "❤️ 1 💬 0",
+      "desc": "When a WebRTC call goes bad, the browser already recorded what happened. Chrome keeps a live record...",
+      "source": "dev",
+      "tag": "webrtc,  javascript",
+      "url": "https://dev.to/tsahil/how-to-read-a-webrtc-internals-dump-section-by-section-598a"
+    },
+    {
+      "title": "Building an agentic PR reviewer with Antigravity SDK",
+      "hot": "❤️ 17 💬 0",
+      "desc": "As announced in this blog post on June 18, 2026, Gemini CLI and Gemini Code Assist IDE extensions...",
+      "source": "dev",
+      "tag": "antigravity,  gemini",
+      "url": "https://dev.to/googleai/building-an-agentic-pr-reviewer-with-antigravity-sdk-3b0i"
+    },
+    {
+      "title": "Ask a DEV Community Mod! 🚀",
+      "hot": "❤️ 107 💬 64",
+      "desc": "Disclaimer: Please read the full post before commenting. This post will be refined overtime, so I...",
+      "source": "dev",
+      "tag": "discuss,  community",
+      "url": "https://dev.to/francistrdev/ask-a-dev-community-mod-50hk"
+    },
+    {
+      "title": "Real-time IP capacity in Google Cloud subnets",
+      "hot": "❤️ 7 💬 0",
+      "desc": "When managing Shared VPCs, most teams allocate dedicated IP subnets for each service project to keep...",
+      "source": "dev",
+      "tag": "googlecloud,  networking",
+      "url": "https://dev.to/googlecloud/real-time-ip-capacity-in-google-cloud-subnets-4m9j"
+    },
+    {
+      "title": "Debugging Deployments with Gemma 12B, TPU v6e-1, MCP, and Antigravity CLI",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
+      "source": "dev",
+      "tag": "antigravitycli,  gemma4",
+      "url": "https://dev.to/gde/debugging-deployments-with-gemma-12b-tpu-v6e-1-mcp-and-antigravity-cli-83n"
+    },
+    {
+      "title": "Deploying Gemma 12B to Azure with GPU",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to an Azure hosted GPU...",
+      "source": "dev",
+      "tag": "qat,  gemma4",
+      "url": "https://dev.to/gde/deploying-gemma-12b-to-azure-with-gpu-5bcd"
+    },
+    {
+      "title": "Deploying Gemma 12B to AWS EC2 with NVIDIA L4 and Antigravity CLI",
+      "hot": "❤️ 8 💬 0",
+      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to an AWS hosted GPU...",
+      "source": "dev",
+      "tag": "aws,  nvidial4",
+      "url": "https://dev.to/gde/deploying-gemma-12b-to-aws-ec2-with-nvidia-l4-and-antigravity-cli-463p"
+    },
+    {
+      "title": "Generative UI with AI on React + React Native Universal App",
+      "hot": "❤️ 3 💬 0",
+      "desc": "Lately, AI chat products have started doing more than returning paragraphs of text.  Ask Claude a...",
+      "source": "dev",
+      "tag": "ai,  react",
+      "url": "https://dev.to/neetigyachahar/generative-ui-with-ai-on-react-react-native-universal-app-dbj"
+    },
+    {
+      "title": "How We Saved Big and Simplified Our Image Pipeline: Adopting bunny.net on DEV",
+      "hot": "❤️ 76 💬 7",
+      "desc": "Hey everyone, Ben here.  If you’ve been following the journey of DEV and our open source project...",
+      "source": "dev",
+      "tag": "performance,  webdev",
+      "url": "https://dev.to/devteam/how-we-saved-big-and-simplified-our-image-pipeline-adopting-bunnynet-on-dev-3d53"
+    },
+    {
+      "title": "Why I still teach Singleton even though modules make it redundant",
+      "hot": "❤️ 1 💬 0",
+      "desc": "Ask any developer what design pattern they know best and Singleton comes up first. Ask the same group...",
+      "source": "dev",
+      "tag": "webdev,  javascript",
+      "url": "https://dev.to/dsheiko/why-i-still-teach-singleton-even-though-modules-make-it-redundant-1a7m"
+    },
+    {
+      "title": "Welcome Thread - v380",
+      "hot": "❤️ 60 💬 224",
+      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
+      "source": "dev",
+      "tag": "welcome",
+      "url": "https://dev.to/devteam/welcome-thread-v380-oi4"
+    },
+    {
+      "title": "The AI Addiction Nobody Is Talking About",
+      "hot": "❤️ 1 💬 0",
+      "desc": "There is a particular kind of restlessness spreading through the tech world right now. It is not...",
+      "source": "dev",
+      "tag": "Dev.to",
+      "url": "https://dev.to/znsstudio/the-ai-addiction-nobody-is-talking-about-2of8"
+    },
+    {
+      "title": "Letters to Tomorrow: A June Solstice Game About the Things We Carry Into Tomorrow",
+      "hot": "❤️ 68 💬 31",
+      "desc": "This is a submission for the June Solstice Game Jam  🎮 Play the Game: Letters to Tomorrow  💻 Source...",
+      "source": "dev",
+      "tag": "devchallenge,  gamechallenge",
+      "url": "https://dev.to/hemapriya_kanagala/letters-to-tomorrow-a-june-solstice-game-about-the-things-we-carry-into-tomorrow-1lnf"
+    },
+    {
+      "title": "Why the Fable 5 Crisis Proves Your AI Context Layer Can't Live Inside the Model",
+      "hot": "❤️ 15 💬 4",
+      "desc": "Rent the Intelligence, Own the Memory   On Friday, a single government letter pulled a...",
+      "source": "dev",
+      "tag": "ai,  coding",
+      "url": "https://dev.to/jon_at_backboardio/why-the-fable-5-crisis-proves-your-ai-context-layer-cant-live-inside-the-model-2n6d"
+    },
+    {
+      "title": "Lessons Learned: Deployment Trade-offs with Gemma4, NVIDIA L4, Cloud Run, and Antigravity CLI",
+      "hot": "❤️ 8 💬 0",
+      "desc": "This article provides a step by step guide for debugging a Gemma 4 model to a Google Cloud Run hosted...",
+      "source": "dev",
+      "tag": "antigravitycli,  mcps",
+      "url": "https://dev.to/gde/lessons-learned-deployment-trade-offs-with-gemma4-nvidia-l4-cloud-run-and-antigravity-cli-lnl"
     }
   ]
 }
