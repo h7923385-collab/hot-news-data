@@ -1,175 +1,13 @@
 {
-  "updatedAt": "2026-06-20T09:46:11.780Z",
+  "updatedAt": "2026-06-20T11:47:55.402Z",
   "source": "live",
-  "dev": [
-    {
-      "title": "Congrats to the Gemma 4 Challenge Winners!",
-      "hot": "❤️ 81 💬 41",
-      "desc": "We are so excited to announce the winners of the Gemma 4 Challenge!  This is officially our most...",
-      "source": "dev",
-      "tag": "devchallenge,  gemmachallenge",
-      "url": "https://dev.to/devteam/congrats-to-the-gemma-4-challenge-winners-4fgc"
-    },
-    {
-      "title": "Skills over System Prompts: Building an Anki Tutor with the Antigravity SDK",
-      "hot": "❤️ 8 💬 0",
-      "desc": "AI has made me a little lazier.  Not dramatically lazy. Not \"the robots will do everything\" lazy....",
-      "source": "dev",
-      "tag": "ai,  antigravity",
-      "url": "https://dev.to/gde/skills-over-system-prompts-building-an-anki-tutor-with-the-antigravity-sdk-2o8f"
-    },
-    {
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 62 💬 25",
-      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
-      "source": "dev",
-      "tag": "top7,  discuss",
-      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1h65"
-    },
-    {
-      "title": "Congrats to the Hermes Agent Challenge Winners!",
-      "hot": "❤️ 36 💬 13",
-      "desc": "We are thrilled to announce the winners of the Hermes Agent Challenge! Over the past few weeks, the...",
-      "source": "dev",
-      "tag": "hermesagentchallenge,  devchallenge",
-      "url": "https://dev.to/devteam/congrats-to-the-hermes-agent-challenge-winners-3on0"
-    },
-    {
-      "title": "12B Gemma 4 QAT Deployment with GCE, NVIDIA L4, MCP, and Antigravity CLI",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article provides a step by step deployment guide for Gemma 4 to a Google Compute Engine hosted...",
-      "source": "dev",
-      "tag": "mcps,  qat",
-      "url": "https://dev.to/gde/12b-gemma-4-qat-deployment-with-gce-nvidia-l4-mcp-and-antigravity-cli-49d8"
-    },
-    {
-      "title": "Firebase Midsommer Madnesss with Antigravity CLI",
-      "hot": "❤️ 7 💬 0",
-      "desc": "This is a submission for the June Solstice Game Jam  This installment brings a Firebase build to...",
-      "source": "dev",
-      "tag": "midsommar,  devchallenge",
-      "url": "https://dev.to/gde/firebase-midsommer-madnesss-with-antigravity-cli-3geb"
-    },
-    {
-      "title": "How to Read a webrtc-internals Dump, Section by Section",
-      "hot": "❤️ 1 💬 0",
-      "desc": "When a WebRTC call goes bad, the browser already recorded what happened. Chrome keeps a live record...",
-      "source": "dev",
-      "tag": "webrtc,  javascript",
-      "url": "https://dev.to/tsahil/how-to-read-a-webrtc-internals-dump-section-by-section-598a"
-    },
-    {
-      "title": "Ask a DEV Community Mod! 🚀",
-      "hot": "❤️ 109 💬 69",
-      "desc": "Disclaimer: Please read the full post before commenting. This post will be refined overtime, so I...",
-      "source": "dev",
-      "tag": "discuss,  community",
-      "url": "https://dev.to/francistrdev/ask-a-dev-community-mod-50hk"
-    },
-    {
-      "title": "Real-time IP capacity in Google Cloud subnets",
-      "hot": "❤️ 7 💬 0",
-      "desc": "When managing Shared VPCs, most teams allocate dedicated IP subnets for each service project to keep...",
-      "source": "dev",
-      "tag": "googlecloud,  networking",
-      "url": "https://dev.to/googlecloud/real-time-ip-capacity-in-google-cloud-subnets-4m9j"
-    },
-    {
-      "title": "Debugging Deployments with Gemma 12B, TPU v6e-1, MCP, and Antigravity CLI",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "source": "dev",
-      "tag": "antigravitycli,  gemma4",
-      "url": "https://dev.to/gde/debugging-deployments-with-gemma-12b-tpu-v6e-1-mcp-and-antigravity-cli-83n"
-    },
-    {
-      "title": "Deploying Gemma 12B to Azure with GPU",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to an Azure hosted GPU...",
-      "source": "dev",
-      "tag": "qat,  gemma4",
-      "url": "https://dev.to/gde/deploying-gemma-12b-to-azure-with-gpu-5bcd"
-    },
-    {
-      "title": "Deploying Gemma 12B to AWS EC2 with NVIDIA L4 and Antigravity CLI",
-      "hot": "❤️ 8 💬 0",
-      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to an AWS hosted GPU...",
-      "source": "dev",
-      "tag": "aws,  nvidial4",
-      "url": "https://dev.to/gde/deploying-gemma-12b-to-aws-ec2-with-nvidia-l4-and-antigravity-cli-463p"
-    },
-    {
-      "title": "I'm not a developer, but I built a calendar app to fix my most annoying work task",
-      "hot": "❤️ 17 💬 0",
-      "desc": "I’m not a developer! I’ve never coded anything in my life. As far as I’m concerned, a Cloudtop is...",
-      "source": "dev",
-      "tag": "ai,  productivity",
-      "url": "https://dev.to/googleai/im-not-a-developer-but-i-built-a-calendar-app-to-fix-my-most-annoying-work-task-dj4"
-    },
-    {
-      "title": "Generative UI with AI on React + React Native Universal App",
-      "hot": "❤️ 3 💬 0",
-      "desc": "Lately, AI chat products have started doing more than returning paragraphs of text.  Ask Claude a...",
-      "source": "dev",
-      "tag": "ai,  react",
-      "url": "https://dev.to/neetigyachahar/generative-ui-with-ai-on-react-react-native-universal-app-dbj"
-    },
-    {
-      "title": "How We Saved Big and Simplified Our Image Pipeline: Adopting bunny.net on DEV",
-      "hot": "❤️ 77 💬 8",
-      "desc": "Hey everyone, Ben here.  If you’ve been following the journey of DEV and our open source project...",
-      "source": "dev",
-      "tag": "performance,  webdev",
-      "url": "https://dev.to/devteam/how-we-saved-big-and-simplified-our-image-pipeline-adopting-bunnynet-on-dev-3d53"
-    },
-    {
-      "title": "Welcome Thread - v380",
-      "hot": "❤️ 76 💬 271",
-      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
-      "source": "dev",
-      "tag": "welcome",
-      "url": "https://dev.to/devteam/welcome-thread-v380-oi4"
-    },
-    {
-      "title": "Why I still teach Singleton even though modules make it redundant",
-      "hot": "❤️ 1 💬 0",
-      "desc": "Ask any developer what design pattern they know best and Singleton comes up first. Ask the same group...",
-      "source": "dev",
-      "tag": "webdev,  javascript",
-      "url": "https://dev.to/dsheiko/why-i-still-teach-singleton-even-though-modules-make-it-redundant-1a7m"
-    },
-    {
-      "title": "The AI Addiction Nobody Is Talking About",
-      "hot": "❤️ 1 💬 0",
-      "desc": "There is a particular kind of restlessness spreading through the tech world right now. It is not...",
-      "source": "dev",
-      "tag": "Dev.to",
-      "url": "https://dev.to/znsstudio/the-ai-addiction-nobody-is-talking-about-2of8"
-    },
-    {
-      "title": "Lessons Learned: Deployment Trade-offs with Gemma4, NVIDIA L4, Cloud Run, and Antigravity CLI",
-      "hot": "❤️ 8 💬 0",
-      "desc": "This article provides a step by step guide for debugging a Gemma 4 model to a Google Cloud Run hosted...",
-      "source": "dev",
-      "tag": "antigravitycli,  mcps",
-      "url": "https://dev.to/gde/lessons-learned-deployment-trade-offs-with-gemma4-nvidia-l4-cloud-run-and-antigravity-cli-lnl"
-    },
-    {
-      "title": "Trust Begins with DNS: Mitigating Abuse and Strengthening Internet Resilience with Google Cloud",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Tackling DNS abuse requires a blend of resilient infrastructure, traffic filtering, and advanced...",
-      "source": "dev",
-      "tag": "dns,  dnssec",
-      "url": "https://dev.to/gde/trust-begins-with-dns-mitigating-abuse-and-strengthening-internet-resilience-with-google-cloud-53n2"
-    }
-  ],
   "tech": [
     {
       "title": "I Stored a Website in a Favicon",
       "hot": "3.0m",
       "desc": "timwehrle.de",
       "source": "tech",
-      "tag": "⬆️ 126 points",
+      "tag": "⬆️ 166 points",
       "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/"
     },
     {
@@ -177,7 +15,7 @@
       "hot": "3.0m",
       "desc": "moultano.wordpress.com",
       "source": "tech",
-      "tag": "⬆️ 107 points",
+      "tag": "⬆️ 166 points",
       "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/"
     },
     {
@@ -185,7 +23,7 @@
       "hot": "3.0m",
       "desc": "mattmahoney.net",
       "source": "tech",
-      "tag": "⬆️ 121 points",
+      "tag": "⬆️ 142 points",
       "url": "https://mattmahoney.net/dc/dce.html"
     },
     {
@@ -193,7 +31,7 @@
       "hot": "3.0m",
       "desc": "overreacted.io",
       "source": "tech",
-      "tag": "⬆️ 443 points",
+      "tag": "⬆️ 464 points",
       "url": "https://overreacted.io/there-are-no-instances-in-atproto/"
     },
     {
@@ -201,7 +39,7 @@
       "hot": "2.9m",
       "desc": "not-ship.com",
       "source": "tech",
-      "tag": "⬆️ 112 points",
+      "tag": "⬆️ 145 points",
       "url": "https://www.not-ship.com/can-you-see-three-trees/"
     },
     {
@@ -209,31 +47,39 @@
       "hot": "2.9m",
       "desc": "ibm.com",
       "source": "tech",
-      "tag": "⬆️ 54 points",
+      "tag": "⬆️ 69 points",
       "url": "https://www.ibm.com/think/news/discovery-changed-how-scientists-think-about-memory-kavli-prize"
-    },
-    {
-      "title": "Surprising economics of load-balanced systems",
-      "hot": "2.9m",
-      "desc": "brooker.co.za",
-      "source": "tech",
-      "tag": "⬆️ 112 points",
-      "url": "https://brooker.co.za/blog/2020/08/06/erlang.html"
     },
     {
       "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
       "hot": "2.9m",
       "desc": "arrowtsx.dev",
       "source": "tech",
-      "tag": "⬆️ 149 points",
+      "tag": "⬆️ 231 points",
       "url": "https://arrowtsx.dev/bigger-models/"
+    },
+    {
+      "title": "Surprising economics of load-balanced systems",
+      "hot": "2.9m",
+      "desc": "brooker.co.za",
+      "source": "tech",
+      "tag": "⬆️ 120 points",
+      "url": "https://brooker.co.za/blog/2020/08/06/erlang.html"
+    },
+    {
+      "title": "A 1969 camera operators' strike created Upstairs Downstairs multiverse",
+      "hot": "2.9m",
+      "desc": "ironicsans.ghost.io",
+      "source": "tech",
+      "tag": "⬆️ 40 points",
+      "url": "https://ironicsans.ghost.io/the-color-strike/"
     },
     {
       "title": "Hyundai buys Boston Dynamics",
       "hot": "2.9m",
       "desc": "startupfortune.com",
       "source": "tech",
-      "tag": "⬆️ 829 points",
+      "tag": "⬆️ 855 points",
       "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/"
     },
     {
@@ -241,15 +87,23 @@
       "hot": "2.9m",
       "desc": "vocabowl-870366514258.us-west1.run.app",
       "source": "tech",
-      "tag": "⬆️ 369 points",
+      "tag": "⬆️ 392 points",
       "url": "https://vocabowl-870366514258.us-west1.run.app/"
     },
     {
+      "title": "LLMs Are Complicated Now",
+      "hot": "2.8m",
+      "desc": "ianbarber.blog",
+      "source": "tech",
+      "tag": "⬆️ 40 points",
+      "url": "https://ianbarber.blog/2026/06/19/llms-are-complicated-now/"
+    },
+    {
       "title": "Norway imposes near ban on AI in elementary school",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "reuters.com",
       "source": "tech",
-      "tag": "⬆️ 668 points",
+      "tag": "⬆️ 703 points",
       "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/"
     },
     {
@@ -257,15 +111,23 @@
       "hot": "2.8m",
       "desc": "jvm-weekly.com",
       "source": "tech",
-      "tag": "⬆️ 594 points",
+      "tag": "⬆️ 604 points",
       "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a"
+    },
+    {
+      "title": "Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died",
+      "hot": "2.8m",
+      "desc": "legacy.com",
+      "source": "tech",
+      "tag": "⬆️ 392 points",
+      "url": "https://www.legacy.com/legacy/robert-bobby-prince-lll"
     },
     {
       "title": "Soccer Arcade Games Through the Years",
       "hot": "2.8m",
       "desc": "arcadeheroes.com",
       "source": "tech",
-      "tag": "⬆️ 18 points",
+      "tag": "⬆️ 21 points",
       "url": "https://arcadeheroes.com/2026/06/13/world-cup-2026-soccer-arcade/"
     },
     {
@@ -273,31 +135,15 @@
       "hot": "2.8m",
       "desc": "space.com",
       "source": "tech",
-      "tag": "⬆️ 80 points",
+      "tag": "⬆️ 101 points",
       "url": "https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering"
     },
     {
-      "title": "Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died",
-      "hot": "2.8m",
-      "desc": "legacy.com",
-      "source": "tech",
-      "tag": "⬆️ 374 points",
-      "url": "https://www.legacy.com/legacy/robert-bobby-prince-lll"
-    },
-    {
-      "title": "A 1969 camera operators' strike created Upstairs Downstairs multiverse",
-      "hot": "2.8m",
-      "desc": "ironicsans.ghost.io",
-      "source": "tech",
-      "tag": "⬆️ 24 points",
-      "url": "https://ironicsans.ghost.io/the-color-strike/"
-    },
-    {
       "title": "Egyptian Fractions (2006)",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "blog.plover.com",
       "source": "tech",
-      "tag": "⬆️ 94 points",
+      "tag": "⬆️ 99 points",
       "url": "https://blog.plover.com/math/egyptian-fractions.html"
     },
     {
@@ -305,7 +151,7 @@
       "hot": "2.7m",
       "desc": "adewynter.github.io",
       "source": "tech",
-      "tag": "⬆️ 75 points",
+      "tag": "⬆️ 85 points",
       "url": "https://adewynter.github.io/notes/aoe2-circuits"
     },
     {
@@ -313,16 +159,8 @@
       "hot": "2.7m",
       "desc": "lwn.net",
       "source": "tech",
-      "tag": "⬆️ 82 points",
+      "tag": "⬆️ 87 points",
       "url": "https://lwn.net/SubscriberLink/1077619/f7b07c5489fdd43a/"
-    },
-    {
-      "title": "John Jumper to join Anthropic",
-      "hot": "2.7m",
-      "desc": "twitter.com",
-      "source": "tech",
-      "tag": "⬆️ 132 points",
-      "url": "https://twitter.com/JohnJumperSci/status/2068001285173834106"
     }
   ],
   "space": [
@@ -458,7 +296,7 @@
     },
     {
       "title": "vercel/eve: The Framework for Building Agents",
-      "hot": "⭐ 1.7k",
+      "hot": "⭐ 1.8k",
       "desc": "The Framework for Building Agents",
       "source": "github",
       "tag": "TypeScript",
@@ -482,19 +320,35 @@
     },
     {
       "title": "alchaincyf/loop-engineering-orange-book: 别再问我什么是 Loop Engineering — 橙皮书系列。A plai",
-      "hot": "⭐ 710",
+      "hot": "⭐ 712",
       "desc": "别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.",
       "source": "github",
       "tag": "GitHub",
       "url": "https://github.com/alchaincyf/loop-engineering-orange-book"
     },
     {
+      "title": "eli-labz/Third-Eye: A production-grade OSINT platform that provides situational ",
+      "hot": "⭐ 531",
+      "desc": "A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/eli-labz/Third-Eye"
+    },
+    {
       "title": "mrtooher/fable-mode: A Claude skill that activates Fable-style agentic behavior:",
-      "hot": "⭐ 520",
+      "hot": "⭐ 521",
       "desc": "A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification.",
       "source": "github",
       "tag": "GitHub",
       "url": "https://github.com/mrtooher/fable-mode"
+    },
+    {
+      "title": "fivetaku/fablize: A Claude Code plugin that makes Opus behave like Fable — compl",
+      "hot": "⭐ 518",
+      "desc": "A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/fivetaku/fablize"
     },
     {
       "title": "Plaer1/junction: VS Code chat sidebar for local AI coding agents",
@@ -505,40 +359,24 @@
       "url": "https://github.com/Plaer1/junction"
     },
     {
-      "title": "fivetaku/fablize: A Claude Code plugin that makes Opus behave like Fable — compl",
-      "hot": "⭐ 513",
-      "desc": "A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/fivetaku/fablize"
-    },
-    {
-      "title": "eli-labz/Third-Eye: A production-grade OSINT platform that provides situational ",
-      "hot": "⭐ 503",
-      "desc": "A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/eli-labz/Third-Eye"
-    },
-    {
-      "title": "royalbhati/sqltoerdiagram: ER diagram generator. Paste CREATE TABLE statements a",
-      "hot": "⭐ 484",
-      "desc": "ER diagram generator. Paste CREATE TABLE statements and get a clean, interactive ERD — runs 100% in your browser, nothing uploaded",
-      "source": "github",
-      "tag": "HTML",
-      "url": "https://github.com/royalbhati/sqltoerdiagram"
-    },
-    {
       "title": "rebel0789/codexpro: Use ChatGPT Developer Mode as a local coding agent for your ",
-      "hot": "⭐ 472",
+      "hot": "⭐ 488",
       "desc": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/rebel0789/codexpro"
     },
     {
+      "title": "royalbhati/sqltoerdiagram: ER diagram generator. Paste CREATE TABLE statements a",
+      "hot": "⭐ 485",
+      "desc": "ER diagram generator. Paste CREATE TABLE statements and get a clean, interactive ERD — runs 100% in your browser, nothing uploaded",
+      "source": "github",
+      "tag": "HTML",
+      "url": "https://github.com/royalbhati/sqltoerdiagram"
+    },
+    {
       "title": "dzcmemory-web/bazi-ziwei-skill: AI 八字 + 紫微斗数排盘与综合印证 Skill：算法精准排盘（不靠 LLM 猜），三种分析模",
-      "hot": "⭐ 440",
+      "hot": "⭐ 441",
       "desc": "AI 八字 + 紫微斗数排盘与综合印证 Skill：算法精准排盘（不靠 LLM 猜），三种分析模式，一键生成水墨风 HTML 命盘海报。兼容 Claude / Codex / Cursor / Workbuddy 等 SKILL.md Agent。",
       "source": "github",
       "tag": "TypeScript",
@@ -546,27 +384,189 @@
     },
     {
       "title": "privatenumber/mac-ocr: macOS CLI for OCR and searchable PDFs using Apple's Visio",
-      "hot": "⭐ 392",
+      "hot": "⭐ 396",
       "desc": "macOS CLI for OCR and searchable PDFs using Apple's Vision framework",
       "source": "github",
       "tag": "Swift",
       "url": "https://github.com/privatenumber/mac-ocr"
     },
     {
+      "title": "Forsy-AI/agent-apprenticeship: The living ecosystem for AI agents learning from ",
+      "hot": "⭐ 396",
+      "desc": "The living ecosystem for AI agents learning from real-world work through iterative loops and training-signal exchange.",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/Forsy-AI/agent-apprenticeship"
+    },
+    {
       "title": "dongshuyan/compass-skills: 司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment",
-      "hot": "⭐ 388",
+      "hot": "⭐ 390",
       "desc": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/dongshuyan/compass-skills"
+    }
+  ],
+  "dev": [
+    {
+      "title": "Congrats to the Gemma 4 Challenge Winners!",
+      "hot": "❤️ 84 💬 42",
+      "desc": "We are so excited to announce the winners of the Gemma 4 Challenge!  This is officially our most...",
+      "source": "dev",
+      "tag": "devchallenge,  gemmachallenge",
+      "url": "https://dev.to/devteam/congrats-to-the-gemma-4-challenge-winners-4fgc"
     },
     {
-      "title": "duolahypercho/fusion-fable: Fuse two frontier models into one Fable-tier answer:",
-      "hot": "⭐ 380",
-      "desc": "Fuse two frontier models into one Fable-tier answer: Opus 4.8 drafts, a second model (Opus 4.8 or GPT-5.5 via codex) checks, Opus fuses. A Claude Code",
-      "source": "github",
-      "tag": "Shell",
-      "url": "https://github.com/duolahypercho/fusion-fable"
+      "title": "Skills over System Prompts: Building an Anki Tutor with the Antigravity SDK",
+      "hot": "❤️ 9 💬 0",
+      "desc": "AI has made me a little lazier.  Not dramatically lazy. Not \"the robots will do everything\" lazy....",
+      "source": "dev",
+      "tag": "ai,  antigravity",
+      "url": "https://dev.to/gde/skills-over-system-prompts-building-an-anki-tutor-with-the-antigravity-sdk-2o8f"
+    },
+    {
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "hot": "❤️ 63 💬 25",
+      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+      "source": "dev",
+      "tag": "top7,  discuss",
+      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1h65"
+    },
+    {
+      "title": "Congrats to the Hermes Agent Challenge Winners!",
+      "hot": "❤️ 36 💬 13",
+      "desc": "We are thrilled to announce the winners of the Hermes Agent Challenge! Over the past few weeks, the...",
+      "source": "dev",
+      "tag": "hermesagentchallenge,  devchallenge",
+      "url": "https://dev.to/devteam/congrats-to-the-hermes-agent-challenge-winners-3on0"
+    },
+    {
+      "title": "12B Gemma 4 QAT Deployment with GCE, NVIDIA L4, MCP, and Antigravity CLI",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article provides a step by step deployment guide for Gemma 4 to a Google Compute Engine hosted...",
+      "source": "dev",
+      "tag": "mcps,  qat",
+      "url": "https://dev.to/gde/12b-gemma-4-qat-deployment-with-gce-nvidia-l4-mcp-and-antigravity-cli-49d8"
+    },
+    {
+      "title": "Firebase Midsommer Madnesss with Antigravity CLI",
+      "hot": "❤️ 7 💬 0",
+      "desc": "This is a submission for the June Solstice Game Jam  This installment brings a Firebase build to...",
+      "source": "dev",
+      "tag": "midsommar,  devchallenge",
+      "url": "https://dev.to/gde/firebase-midsommer-madnesss-with-antigravity-cli-3geb"
+    },
+    {
+      "title": "How to Read a webrtc-internals Dump, Section by Section",
+      "hot": "❤️ 1 💬 0",
+      "desc": "When a WebRTC call goes bad, the browser already recorded what happened. Chrome keeps a live record...",
+      "source": "dev",
+      "tag": "webrtc,  javascript",
+      "url": "https://dev.to/tsahil/how-to-read-a-webrtc-internals-dump-section-by-section-598a"
+    },
+    {
+      "title": "Ask a DEV Community Mod! 🚀",
+      "hot": "❤️ 109 💬 69",
+      "desc": "Disclaimer: Please read the full post before commenting. This post will be refined overtime, so I...",
+      "source": "dev",
+      "tag": "discuss,  community",
+      "url": "https://dev.to/francistrdev/ask-a-dev-community-mod-50hk"
+    },
+    {
+      "title": "Real-time IP capacity in Google Cloud subnets",
+      "hot": "❤️ 7 💬 0",
+      "desc": "When managing Shared VPCs, most teams allocate dedicated IP subnets for each service project to keep...",
+      "source": "dev",
+      "tag": "googlecloud,  networking",
+      "url": "https://dev.to/googlecloud/real-time-ip-capacity-in-google-cloud-subnets-4m9j"
+    },
+    {
+      "title": "Debugging Deployments with Gemma 12B, TPU v6e-1, MCP, and Antigravity CLI",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
+      "source": "dev",
+      "tag": "antigravitycli,  gemma4",
+      "url": "https://dev.to/gde/debugging-deployments-with-gemma-12b-tpu-v6e-1-mcp-and-antigravity-cli-83n"
+    },
+    {
+      "title": "Deploying Gemma 12B to Azure with GPU",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to an Azure hosted GPU...",
+      "source": "dev",
+      "tag": "qat,  gemma4",
+      "url": "https://dev.to/gde/deploying-gemma-12b-to-azure-with-gpu-5bcd"
+    },
+    {
+      "title": "Deploying Gemma 12B to AWS EC2 with NVIDIA L4 and Antigravity CLI",
+      "hot": "❤️ 8 💬 0",
+      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to an AWS hosted GPU...",
+      "source": "dev",
+      "tag": "aws,  nvidial4",
+      "url": "https://dev.to/gde/deploying-gemma-12b-to-aws-ec2-with-nvidia-l4-and-antigravity-cli-463p"
+    },
+    {
+      "title": "I'm not a developer, but I built a calendar app to fix my most annoying work task",
+      "hot": "❤️ 17 💬 0",
+      "desc": "I’m not a developer! I’ve never coded anything in my life. As far as I’m concerned, a Cloudtop is...",
+      "source": "dev",
+      "tag": "ai,  productivity",
+      "url": "https://dev.to/googleai/im-not-a-developer-but-i-built-a-calendar-app-to-fix-my-most-annoying-work-task-dj4"
+    },
+    {
+      "title": "Generative UI with AI on React + React Native Universal App",
+      "hot": "❤️ 3 💬 0",
+      "desc": "Lately, AI chat products have started doing more than returning paragraphs of text.  Ask Claude a...",
+      "source": "dev",
+      "tag": "ai,  react",
+      "url": "https://dev.to/neetigyachahar/generative-ui-with-ai-on-react-react-native-universal-app-dbj"
+    },
+    {
+      "title": "Welcome Thread - v380",
+      "hot": "❤️ 77 💬 278",
+      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
+      "source": "dev",
+      "tag": "welcome",
+      "url": "https://dev.to/devteam/welcome-thread-v380-oi4"
+    },
+    {
+      "title": "How We Saved Big and Simplified Our Image Pipeline: Adopting bunny.net on DEV",
+      "hot": "❤️ 77 💬 8",
+      "desc": "Hey everyone, Ben here.  If you’ve been following the journey of DEV and our open source project...",
+      "source": "dev",
+      "tag": "performance,  webdev",
+      "url": "https://dev.to/devteam/how-we-saved-big-and-simplified-our-image-pipeline-adopting-bunnynet-on-dev-3d53"
+    },
+    {
+      "title": "Why I still teach Singleton even though modules make it redundant",
+      "hot": "❤️ 1 💬 0",
+      "desc": "Ask any developer what design pattern they know best and Singleton comes up first. Ask the same group...",
+      "source": "dev",
+      "tag": "webdev,  javascript",
+      "url": "https://dev.to/dsheiko/why-i-still-teach-singleton-even-though-modules-make-it-redundant-1a7m"
+    },
+    {
+      "title": "The AI Addiction Nobody Is Talking About",
+      "hot": "❤️ 1 💬 0",
+      "desc": "There is a particular kind of restlessness spreading through the tech world right now. It is not...",
+      "source": "dev",
+      "tag": "Dev.to",
+      "url": "https://dev.to/znsstudio/the-ai-addiction-nobody-is-talking-about-2of8"
+    },
+    {
+      "title": "Lessons Learned: Deployment Trade-offs with Gemma4, NVIDIA L4, Cloud Run, and Antigravity CLI",
+      "hot": "❤️ 8 💬 0",
+      "desc": "This article provides a step by step guide for debugging a Gemma 4 model to a Google Cloud Run hosted...",
+      "source": "dev",
+      "tag": "antigravitycli,  mcps",
+      "url": "https://dev.to/gde/lessons-learned-deployment-trade-offs-with-gemma4-nvidia-l4-cloud-run-and-antigravity-cli-lnl"
+    },
+    {
+      "title": "Trust Begins with DNS: Mitigating Abuse and Strengthening Internet Resilience with Google Cloud",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Tackling DNS abuse requires a blend of resilient infrastructure, traffic filtering, and advanced...",
+      "source": "dev",
+      "tag": "dns,  dnssec",
+      "url": "https://dev.to/gde/trust-begins-with-dns-mitigating-abuse-and-strengthening-internet-resilience-with-google-cloud-53n2"
     }
   ]
 }
