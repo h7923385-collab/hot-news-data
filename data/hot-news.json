@@ -1,15 +1,7 @@
 {
-  "updatedAt": "2026-06-20T20:00:01.802Z",
+  "updatedAt": "2026-06-20T21:17:56.563Z",
   "source": "live",
   "dev": [
-    {
-      "title": "Congrats to the Gemma 4 Challenge Winners!",
-      "hot": "❤️ 85 💬 44",
-      "desc": "We are so excited to announce the winners of the Gemma 4 Challenge!  This is officially our most...",
-      "source": "dev",
-      "tag": "devchallenge,  gemmachallenge",
-      "url": "https://dev.to/devteam/congrats-to-the-gemma-4-challenge-winners-4fgc"
-    },
     {
       "title": "Skills over System Prompts: Building an Anki Tutor with the Antigravity SDK",
       "hot": "❤️ 9 💬 0",
@@ -43,20 +35,20 @@
       "url": "https://dev.to/gde/12b-gemma-4-qat-deployment-with-gce-nvidia-l4-mcp-and-antigravity-cli-49d8"
     },
     {
+      "title": "Congrats to the Gemma 4 Challenge Winners!",
+      "hot": "❤️ 85 💬 45",
+      "desc": "We are so excited to announce the winners of the Gemma 4 Challenge!  This is officially our most...",
+      "source": "dev",
+      "tag": "devchallenge,  gemmachallenge",
+      "url": "https://dev.to/devteam/congrats-to-the-gemma-4-challenge-winners-4fgc"
+    },
+    {
       "title": "How to Read a webrtc-internals Dump, Section by Section",
       "hot": "❤️ 1 💬 0",
       "desc": "When a WebRTC call goes bad, the browser already recorded what happened. Chrome keeps a live record...",
       "source": "dev",
       "tag": "webrtc,  javascript",
       "url": "https://dev.to/tsahil/how-to-read-a-webrtc-internals-dump-section-by-section-598a"
-    },
-    {
-      "title": "Ask a DEV Community Mod! 🚀",
-      "hot": "❤️ 112 💬 69",
-      "desc": "Disclaimer: Please read the full post before commenting. This post will be refined overtime, so I...",
-      "source": "dev",
-      "tag": "discuss,  community",
-      "url": "https://dev.to/francistrdev/ask-a-dev-community-mod-50hk"
     },
     {
       "title": "Real-time IP capacity in Google Cloud subnets",
@@ -100,7 +92,7 @@
     },
     {
       "title": "Welcome Thread - v380",
-      "hot": "❤️ 80 💬 299",
+      "hot": "❤️ 78 💬 304",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
@@ -161,6 +153,14 @@
       "source": "dev",
       "tag": "ai,  llm",
       "url": "https://dev.to/ankushchadha/i-tried-to-make-an-ai-agent-answer-more-it-answered-less-3d7a"
+    },
+    {
+      "title": "Deployment Planning with Gemma 26B, NVIDIA L4, MCP, Cloud Run, and Antigravity CLI",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud Run...",
+      "source": "dev",
+      "tag": "nvidia,  mcps",
+      "url": "https://dev.to/gde/deployment-planning-with-gemma-26b-nvidia-l4-mcp-cloud-run-and-antigravity-cli-kn0"
     }
   ],
   "tech": [
@@ -169,55 +169,55 @@
       "hot": "3.0m",
       "desc": "smpte.org",
       "source": "tech",
-      "tag": "⬆️ 105 points",
+      "tag": "⬆️ 149 points",
       "url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community"
     },
     {
-      "title": "The Wholesale Plagiarism of Obscure Sorrows",
+      "title": "PostgresBench: A Reproducible Benchmark for Postgres Services",
       "hot": "3.0m",
-      "desc": "waxy.org",
+      "desc": "clickhouse.com",
       "source": "tech",
-      "tag": "⬆️ 219 points",
-      "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/"
+      "tag": "⬆️ 37 points",
+      "url": "https://clickhouse.com/blog/postgresbench"
     },
     {
       "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
       "hot": "3.0m",
       "desc": "lispm.net",
       "source": "tech",
-      "tag": "⬆️ 70 points",
+      "tag": "⬆️ 103 points",
       "url": "https://www.lispm.net/apps/uhf-x11/"
     },
     {
-      "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
+      "title": "UK Home Office launches £75M 'PoliceAI' to capitalise on artificial intelligence",
       "hot": "3.0m",
+      "desc": "publictechnology.net",
+      "source": "tech",
+      "tag": "⬆️ 12 points",
+      "url": "https://www.publictechnology.net/2026/06/15/public-order-justice-and-rights/home-office-launches-75m-policeai-to-capitalise-on-artificial-intelligence/"
+    },
+    {
+      "title": "The Wholesale Plagiarism of Obscure Sorrows",
+      "hot": "2.9m",
+      "desc": "waxy.org",
+      "source": "tech",
+      "tag": "⬆️ 261 points",
+      "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/"
+    },
+    {
+      "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
+      "hot": "2.9m",
       "desc": "neuviemeporte.github.io",
       "source": "tech",
-      "tag": "⬆️ 113 points",
+      "tag": "⬆️ 147 points",
       "url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html"
-    },
-    {
-      "title": "Bun has an open PR adding shared-memory threads to JavaScriptCore",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 59 points",
-      "url": "https://github.com/oven-sh/WebKit/pull/249"
-    },
-    {
-      "title": "Show HN: We post-trained a model that pen tests instead of refusing",
-      "hot": "2.9m",
-      "desc": "argusred.com",
-      "source": "tech",
-      "tag": "⬆️ 36 points",
-      "url": "https://www.argusred.com/cli"
     },
     {
       "title": "CSSQuake",
       "hot": "2.9m",
       "desc": "cssquake.com",
       "source": "tech",
-      "tag": "⬆️ 378 points",
+      "tag": "⬆️ 401 points",
       "url": "https://cssquake.com/"
     },
     {
@@ -225,7 +225,7 @@
       "hot": "2.9m",
       "desc": "startupwiki.tech",
       "source": "tech",
-      "tag": "⬆️ 78 points",
+      "tag": "⬆️ 102 points",
       "url": "https://startupwiki.tech/"
     },
     {
@@ -233,23 +233,23 @@
       "hot": "2.9m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 19 points",
+      "tag": "⬆️ 45 points",
       "url": "https://github.com/overflowy/make-look-scanned"
     },
     {
-      "title": "Ember, a native iOS Hacker News reader I built around accessibility",
+      "title": "Bun has an open PR adding shared-memory threads to JavaScriptCore",
       "hot": "2.9m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 61 points",
-      "url": "https://github.com/DatanoiseTV/ember-hackernews"
+      "tag": "⬆️ 80 points",
+      "url": "https://github.com/oven-sh/WebKit/pull/249"
     },
     {
       "title": "The rise of South Korea’s weapons business",
       "hot": "2.9m",
       "desc": "politico.com",
       "source": "tech",
-      "tag": "⬆️ 27 points",
+      "tag": "⬆️ 61 points",
       "url": "https://www.politico.com/news/magazine/2026/06/20/south-korea-weapons-dealer-trump-00959559"
     },
     {
@@ -257,63 +257,63 @@
       "hot": "2.8m",
       "desc": "blog.cloudflare.com",
       "source": "tech",
-      "tag": "⬆️ 96 points",
+      "tag": "⬆️ 117 points",
       "url": "https://blog.cloudflare.com/temporary-accounts/"
+    },
+    {
+      "title": "Show HN: We post-trained a model that pen tests instead of refusing",
+      "hot": "2.8m",
+      "desc": "argusred.com",
+      "source": "tech",
+      "tag": "⬆️ 50 points",
+      "url": "https://www.argusred.com/cli"
     },
     {
       "title": "Why has the pointe shoe been so resistant to change?",
       "hot": "2.8m",
       "desc": "dancemagazine.com",
       "source": "tech",
-      "tag": "⬆️ 25 points",
+      "tag": "⬆️ 34 points",
       "url": "https://dancemagazine.com/pointe-shoe-innovation/"
-    },
-    {
-      "title": "PostgresBench: A Reproducible Benchmark for Postgres Services",
-      "hot": "2.8m",
-      "desc": "clickhouse.com",
-      "source": "tech",
-      "tag": "⬆️ 7 points",
-      "url": "https://clickhouse.com/blog/postgresbench"
-    },
-    {
-      "title": "Show HN: Tiny – An interpeted dynamic langauge with inline Go native functions",
-      "hot": "2.8m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 7 points",
-      "url": "https://github.com/confh/Tiny"
     },
     {
       "title": "Now You Don't: When Espionage Meets Magic",
       "hot": "2.8m",
       "desc": "politicshome.com",
       "source": "tech",
-      "tag": "⬆️ 10 points",
+      "tag": "⬆️ 15 points",
       "url": "https://www.politicshome.com/news/article/now-dont-espionage-meets-magic"
     },
     {
-      "title": "Show HN: Microcrad – Micrograd Reimplemented in C",
+      "title": "Ember, a native iOS Hacker News reader I built around accessibility",
       "hot": "2.8m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 41 points",
-      "url": "https://github.com/oraziorillo/microcrad"
+      "tag": "⬆️ 77 points",
+      "url": "https://github.com/DatanoiseTV/ember-hackernews"
     },
     {
-      "title": "Show HN: My Windows XP portfolio with working Game Boy and iPod",
-      "hot": "2.7m",
-      "desc": "mitchivin.com",
+      "title": "Show HN: Tiny – An interpeted dynamic langauge with inline Go native functions",
+      "hot": "2.8m",
+      "desc": "github.com",
       "source": "tech",
       "tag": "⬆️ 12 points",
-      "url": "https://mitchivin.com/"
+      "url": "https://github.com/confh/Tiny"
+    },
+    {
+      "title": "Show HN: Microcrad – Micrograd Reimplemented in C",
+      "hot": "2.7m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 49 points",
+      "url": "https://github.com/oraziorillo/microcrad"
     },
     {
       "title": "Vacation With An Artist – Mini-Apprenticeships with Artists in Their Studios",
       "hot": "2.7m",
       "desc": "vawaa.com",
       "source": "tech",
-      "tag": "⬆️ 43 points",
+      "tag": "⬆️ 52 points",
       "url": "https://vawaa.com/"
     },
     {
@@ -321,133 +321,19 @@
       "hot": "2.7m",
       "desc": "sciencedaily.com",
       "source": "tech",
-      "tag": "⬆️ 67 points",
+      "tag": "⬆️ 97 points",
       "url": "https://www.sciencedaily.com/releases/2026/06/260617032207.htm"
     }
   ],
-  "github": [
-    {
-      "title": "tamnd/kage: Shadow any website for offline viewing, with the JavaScript stripped",
-      "hot": "⭐ 2.2k",
-      "desc": "Shadow any website for offline viewing, with the JavaScript stripped out",
-      "source": "github",
-      "tag": "Go",
-      "url": "https://github.com/tamnd/kage"
-    },
-    {
-      "title": "vercel/eve: The Framework for Building Agents",
-      "hot": "⭐ 1.8k",
-      "desc": "The Framework for Building Agents",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/vercel/eve"
-    },
-    {
-      "title": "Waishnav/devspace: Turn ChatGPT into Codex",
-      "hot": "⭐ 1.6k",
-      "desc": "Turn ChatGPT into Codex",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/Waishnav/devspace"
-    },
-    {
-      "title": "EEliberto/IPA-Download: 一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传",
-      "hot": "⭐ 1.1k",
-      "desc": "一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。",
-      "source": "github",
-      "tag": "Swift",
-      "url": "https://github.com/EEliberto/IPA-Download"
-    },
-    {
-      "title": "alchaincyf/loop-engineering-orange-book: 别再问我什么是 Loop Engineering — 橙皮书系列。A plai",
-      "hot": "⭐ 716",
-      "desc": "别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/alchaincyf/loop-engineering-orange-book"
-    },
-    {
-      "title": "eli-labz/Third-Eye: A production-grade OSINT platform that provides situational ",
-      "hot": "⭐ 636",
-      "desc": "A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/eli-labz/Third-Eye"
-    },
-    {
-      "title": "rebel0789/codexpro: Use ChatGPT Developer Mode as a local coding agent for your ",
-      "hot": "⭐ 530",
-      "desc": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/rebel0789/codexpro"
-    },
-    {
-      "title": "fivetaku/fablize: A Claude Code plugin that makes Opus behave like Fable — compl",
-      "hot": "⭐ 530",
-      "desc": "A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/fivetaku/fablize"
-    },
-    {
-      "title": "mrtooher/fable-mode: A Claude skill that activates Fable-style agentic behavior:",
-      "hot": "⭐ 524",
-      "desc": "A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification.",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/mrtooher/fable-mode"
-    },
-    {
-      "title": "Plaer1/junction: VS Code chat sidebar for local AI coding agents",
-      "hot": "⭐ 516",
-      "desc": "VS Code chat sidebar for local AI coding agents",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/Plaer1/junction"
-    },
-    {
-      "title": "Forsy-AI/agent-apprenticeship: The living ecosystem for AI agents learning from ",
-      "hot": "⭐ 502",
-      "desc": "The living ecosystem for AI agents learning from real-world work through iterative loops and training-signal exchange.",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/Forsy-AI/agent-apprenticeship"
-    },
-    {
-      "title": "royalbhati/sqltoerdiagram: ER diagram generator. Paste CREATE TABLE statements a",
-      "hot": "⭐ 491",
-      "desc": "ER diagram generator. Paste CREATE TABLE statements and get a clean, interactive ERD — runs 100% in your browser, nothing uploaded",
-      "source": "github",
-      "tag": "HTML",
-      "url": "https://github.com/royalbhati/sqltoerdiagram"
-    },
-    {
-      "title": "dzcmemory-web/bazi-ziwei-skill: AI 八字 + 紫微斗数排盘与综合印证 Skill：算法精准排盘（不靠 LLM 猜），三种分析模",
-      "hot": "⭐ 444",
-      "desc": "AI 八字 + 紫微斗数排盘与综合印证 Skill：算法精准排盘（不靠 LLM 猜），三种分析模式，一键生成水墨风 HTML 命盘海报。兼容 Claude / Codex / Cursor / Workbuddy 等 SKILL.md Agent。",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/dzcmemory-web/bazi-ziwei-skill"
-    },
-    {
-      "title": "privatenumber/mac-ocr: macOS CLI for OCR and searchable PDFs using Apple's Visio",
-      "hot": "⭐ 398",
-      "desc": "macOS CLI for OCR and searchable PDFs using Apple's Vision framework",
-      "source": "github",
-      "tag": "Swift",
-      "url": "https://github.com/privatenumber/mac-ocr"
-    },
-    {
-      "title": "dongshuyan/compass-skills: 司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment",
-      "hot": "⭐ 397",
-      "desc": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/dongshuyan/compass-skills"
-    }
-  ],
   "space": [
+    {
+      "title": "Astrobotic says sale to Voyager will allow it to scale up",
+      "hot": "6/20",
+      "desc": "\nLunar lander developer Astrobotic decided to sell to Voyager Technologies so it could quickly scale up to meet the projected demands of NASA’s lunar ",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/astrobotic-says-sale-to-voyager-will-allow-it-to-scale-up/"
+    },
     {
       "title": "Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg",
       "hot": "6/20",
@@ -559,14 +445,128 @@
       "source": "space",
       "tag": "SpaceNews",
       "url": "https://spacenews.com/mu-g-technologies-enters-the-parabolic-flight-business/"
+    }
+  ],
+  "github": [
+    {
+      "title": "tamnd/kage: Shadow any website for offline viewing, with the JavaScript stripped",
+      "hot": "⭐ 2.2k",
+      "desc": "Shadow any website for offline viewing, with the JavaScript stripped out",
+      "source": "github",
+      "tag": "Go",
+      "url": "https://github.com/tamnd/kage"
     },
     {
-      "title": "Anomaly Delays Full-Scale Space Rider Drop Test Until October",
-      "hot": "6/19",
-      "desc": "A full-scale drop test of ESA’s Space Rider spaceplane in early May was aborted after an anomaly during the captive ascent phase, the agency told Euro",
-      "source": "space",
-      "tag": "European Spaceflight",
-      "url": "https://europeanspaceflight.com/anomaly-delays-full-scale-space-rider-drop-test-until-october/"
+      "title": "vercel/eve: The Framework for Building Agents",
+      "hot": "⭐ 1.8k",
+      "desc": "The Framework for Building Agents",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/vercel/eve"
+    },
+    {
+      "title": "Waishnav/devspace: Turn ChatGPT into Codex",
+      "hot": "⭐ 1.6k",
+      "desc": "Turn ChatGPT into Codex",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/Waishnav/devspace"
+    },
+    {
+      "title": "EEliberto/IPA-Download: 一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传",
+      "hot": "⭐ 1.1k",
+      "desc": "一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。",
+      "source": "github",
+      "tag": "Swift",
+      "url": "https://github.com/EEliberto/IPA-Download"
+    },
+    {
+      "title": "alchaincyf/loop-engineering-orange-book: 别再问我什么是 Loop Engineering — 橙皮书系列。A plai",
+      "hot": "⭐ 716",
+      "desc": "别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/alchaincyf/loop-engineering-orange-book"
+    },
+    {
+      "title": "eli-labz/Third-Eye: A production-grade OSINT platform that provides situational ",
+      "hot": "⭐ 641",
+      "desc": "A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/eli-labz/Third-Eye"
+    },
+    {
+      "title": "rebel0789/codexpro: Use ChatGPT Developer Mode as a local coding agent for your ",
+      "hot": "⭐ 532",
+      "desc": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/rebel0789/codexpro"
+    },
+    {
+      "title": "fivetaku/fablize: A Claude Code plugin that makes Opus behave like Fable — compl",
+      "hot": "⭐ 531",
+      "desc": "A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/fivetaku/fablize"
+    },
+    {
+      "title": "mrtooher/fable-mode: A Claude skill that activates Fable-style agentic behavior:",
+      "hot": "⭐ 525",
+      "desc": "A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification.",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/mrtooher/fable-mode"
+    },
+    {
+      "title": "Plaer1/junction: VS Code chat sidebar for local AI coding agents",
+      "hot": "⭐ 516",
+      "desc": "VS Code chat sidebar for local AI coding agents",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/Plaer1/junction"
+    },
+    {
+      "title": "Forsy-AI/agent-apprenticeship: The living ecosystem for AI agents learning from ",
+      "hot": "⭐ 508",
+      "desc": "The living ecosystem for AI agents learning from real-world work through iterative loops and training-signal exchange.",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/Forsy-AI/agent-apprenticeship"
+    },
+    {
+      "title": "royalbhati/sqltoerdiagram: ER diagram generator. Paste CREATE TABLE statements a",
+      "hot": "⭐ 492",
+      "desc": "ER diagram generator. Paste CREATE TABLE statements and get a clean, interactive ERD — runs 100% in your browser, nothing uploaded",
+      "source": "github",
+      "tag": "HTML",
+      "url": "https://github.com/royalbhati/sqltoerdiagram"
+    },
+    {
+      "title": "dzcmemory-web/bazi-ziwei-skill: AI 八字 + 紫微斗数排盘与综合印证 Skill：算法精准排盘（不靠 LLM 猜），三种分析模",
+      "hot": "⭐ 444",
+      "desc": "AI 八字 + 紫微斗数排盘与综合印证 Skill：算法精准排盘（不靠 LLM 猜），三种分析模式，一键���成水墨风 HTML 命盘海报。兼容 Claude / Codex / Cursor / Workbuddy 等 SKILL.md Agent。",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/dzcmemory-web/bazi-ziwei-skill"
+    },
+    {
+      "title": "privatenumber/mac-ocr: macOS CLI for OCR and searchable PDFs using Apple's Visio",
+      "hot": "⭐ 399",
+      "desc": "macOS CLI for OCR and searchable PDFs using Apple's Vision framework",
+      "source": "github",
+      "tag": "Swift",
+      "url": "https://github.com/privatenumber/mac-ocr"
+    },
+    {
+      "title": "dongshuyan/compass-skills: 司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment",
+      "hot": "⭐ 397",
+      "desc": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/dongshuyan/compass-skills"
     }
   ]
 }
