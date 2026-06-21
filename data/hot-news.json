@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T12:58:56.725Z",
+  "updatedAt": "2026-06-21T15:09:55.416Z",
   "source": "live",
   "dev": [
     {
@@ -49,14 +49,6 @@
       "source": "dev",
       "tag": "qat,  gemma4",
       "url": "https://dev.to/gde/deploying-gemma-12b-to-azure-with-gpu-5bcd"
-    },
-    {
-      "title": "Deploying Gemma 12B to AWS EC2 with NVIDIA L4 and Antigravity CLI",
-      "hot": "❤️ 8 💬 0",
-      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to an AWS hosted GPU...",
-      "source": "dev",
-      "tag": "aws,  nvidial4",
-      "url": "https://dev.to/gde/deploying-gemma-12b-to-aws-ec2-with-nvidia-l4-and-antigravity-cli-463p"
     },
     {
       "title": "I'm not a developer, but I built a calendar app to fix my most annoying work task",
@@ -161,39 +153,79 @@
       "source": "dev",
       "tag": "discuss,  weeklyretro",
       "url": "https://dev.to/devteam/what-was-your-win-this-week-246f"
+    },
+    {
+      "title": "[Hands-on Gemini 3.5 Live",
+      "hot": "❤️ 5 💬 0",
+      "desc": "Brand New API Unveiled: Gemini 3.5 Live Translate   On June 9, 2026, Google officially...",
+      "source": "dev",
+      "tag": "ai,  api",
+      "url": "https://dev.to/gde/hands-on-gemini-35-live-3dh6"
     }
   ],
   "tech": [
-    {
-      "title": "The case against geometric algebra (2024)",
-      "hot": "3.0m",
-      "desc": "alexkritchevsky.com",
-      "source": "tech",
-      "tag": "⬆️ 38 points",
-      "url": "https://alexkritchevsky.com/2024/02/28/geometric-algebra.html"
-    },
     {
       "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
       "hot": "3.0m",
       "desc": "beyondallreason.info",
       "source": "tech",
-      "tag": "⬆️ 30 points",
+      "tag": "⬆️ 176 points",
       "url": "https://www.beyondallreason.info"
     },
     {
-      "title": "A 3D voxel game engine written in APL",
+      "title": "Who Owns Your ATProto Identity? Hint: It's Probably Not You",
       "hot": "3.0m",
+      "desc": "kevinak.se",
+      "source": "tech",
+      "tag": "⬆️ 41 points",
+      "url": "https://kevinak.se/blog/who-actually-owns-your-atproto-identity-hint-its-probably-not-you"
+    },
+    {
+      "title": "Former Olympian denies vandalising Washington Reflecting Pool after arrest",
+      "hot": "3.0m",
+      "desc": "bbc.com",
+      "source": "tech",
+      "tag": "⬆️ 12 points",
+      "url": "https://www.bbc.com/news/articles/c8d26051vv2o"
+    },
+    {
+      "title": "The case against geometric algebra (2024)",
+      "hot": "3.0m",
+      "desc": "alexkritchevsky.com",
+      "source": "tech",
+      "tag": "⬆️ 84 points",
+      "url": "https://alexkritchevsky.com/2024/02/28/geometric-algebra.html"
+    },
+    {
+      "title": "David Ahl's Basic Computer Games Ported to C",
+      "hot": "2.9m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 78 points",
+      "tag": "⬆️ 30 points",
+      "url": "https://github.com/proteanthread/bcg"
+    },
+    {
+      "title": "A 3D voxel game engine written in APL",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 100 points",
       "url": "https://github.com/namgyaaal/avoxelgame"
     },
     {
+      "title": "Commodore Made a Digital Detox Phone That Isn't Dumb",
+      "hot": "2.9m",
+      "desc": "wired.me",
+      "source": "tech",
+      "tag": "⬆️ 12 points",
+      "url": "https://www.wired.me/story/commodore-made-a-digital-detox-phone-that-isnt-dumb"
+    },
+    {
       "title": "Google Hits 50% IPv6",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "blog.apnic.net",
       "source": "tech",
-      "tag": "⬆️ 201 points",
+      "tag": "⬆️ 271 points",
       "url": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/"
     },
     {
@@ -201,7 +233,7 @@
       "hot": "2.9m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 358 points",
+      "tag": "⬆️ 404 points",
       "url": "https://github.com/mysk-research/loupe"
     },
     {
@@ -209,120 +241,88 @@
       "hot": "2.9m",
       "desc": "taoofmac.com",
       "source": "tech",
-      "tag": "⬆️ 107 points",
+      "tag": "⬆️ 133 points",
       "url": "https://taoofmac.com/space/blog/2026/06/18/1845"
     },
     {
-      "title": "Zigzag Decoding with AVX-512",
+      "title": "Two Qwen3 models on one DGX Spark: the residency math",
       "hot": "2.9m",
-      "desc": "zeux.io",
+      "desc": "devashish.me",
       "source": "tech",
-      "tag": "⬆️ 92 points",
-      "url": "https://zeux.io/2026/06/17/zigzag-decoding-avx512/"
-    },
-    {
-      "title": "David Ahl's Basic Computer Games Ported to C",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 3 points",
-      "url": "https://github.com/proteanthread/bcg"
+      "tag": "⬆️ 23 points",
+      "url": "https://www.devashish.me/p/two-qwen3-models-on-one-dgx-spark"
     },
     {
       "title": "Renting a sewing machine from the library",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "bbc.com",
       "source": "tech",
-      "tag": "⬆️ 258 points",
+      "tag": "⬆️ 280 points",
       "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland"
-    },
-    {
-      "title": "Windows UI evolution: Clicking an unassociated file",
-      "hot": "2.9m",
-      "desc": "movq.de",
-      "source": "tech",
-      "tag": "⬆️ 62 points",
-      "url": "https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html"
-    },
-    {
-      "title": "Epoll vs. io_uring in Linux",
-      "hot": "2.9m",
-      "desc": "sibexi.co",
-      "source": "tech",
-      "tag": "⬆️ 190 points",
-      "url": "https://sibexi.co/posts/epoll-vs-io_uring/"
     },
     {
       "title": "Slow breathing modulates brain function and risk behavior",
       "hot": "2.8m",
       "desc": "cell.com",
       "source": "tech",
-      "tag": "⬆️ 242 points",
+      "tag": "⬆️ 288 points",
       "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9"
+    },
+    {
+      "title": "Zigzag Decoding with AVX-512",
+      "hot": "2.8m",
+      "desc": "zeux.io",
+      "source": "tech",
+      "tag": "⬆️ 103 points",
+      "url": "https://zeux.io/2026/06/17/zigzag-decoding-avx512/"
+    },
+    {
+      "title": "Epoll vs. io_uring in Linux",
+      "hot": "2.8m",
+      "desc": "sibexi.co",
+      "source": "tech",
+      "tag": "⬆️ 207 points",
+      "url": "https://sibexi.co/posts/epoll-vs-io_uring/"
     },
     {
       "title": "A tale of two path separators",
       "hot": "2.8m",
       "desc": "alexwlchan.net",
       "source": "tech",
-      "tag": "⬆️ 24 points",
+      "tag": "⬆️ 45 points",
       "url": "https://alexwlchan.net/2021/slashes/"
-    },
-    {
-      "title": "Anthropic to Require ID Verification for Certain Capabilities Starting July 8",
-      "hot": "2.8m",
-      "desc": "old.reddit.com",
-      "source": "tech",
-      "tag": "⬆️ 10 points",
-      "url": "https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity/"
     },
     {
       "title": "Developers don't understand CORS (2019)",
       "hot": "2.8m",
       "desc": "fosterelli.co",
       "source": "tech",
-      "tag": "⬆️ 243 points",
+      "tag": "⬆️ 270 points",
       "url": "https://fosterelli.co/developers-dont-understand-cors"
     },
     {
-      "title": "15-minute at-home Lyme disease tick test",
-      "hot": "2.8m",
-      "desc": "bostonglobe.com",
+      "title": "Windows UI evolution: Clicking an unassociated file",
+      "hot": "2.7m",
+      "desc": "movq.de",
       "source": "tech",
-      "tag": "⬆️ 141 points",
-      "url": "https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/"
+      "tag": "⬆️ 96 points",
+      "url": "https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html"
     },
     {
       "title": "Rare medieval bookmark exceeds expectations at auction",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "thehistoryblog.com",
       "source": "tech",
-      "tag": "⬆️ 13 points",
+      "tag": "⬆️ 25 points",
       "url": "https://www.thehistoryblog.com/archives/76314"
     },
     {
-      "title": "Two Qwen3 models on one DGX Spark: the residency math",
+      "title": "15-minute at-home Lyme disease tick test",
       "hot": "2.7m",
-      "desc": "devashish.me",
+      "desc": "bostonglobe.com",
       "source": "tech",
-      "tag": "⬆️ 4 points",
-      "url": "https://www.devashish.me/p/two-qwen3-models-on-one-dgx-spark"
-    },
-    {
-      "title": "TypeScript 7 RC: the compiler rewritten in Go, around 10x faster",
-      "hot": "2.7m",
-      "desc": "jatniel.dev",
-      "source": "tech",
-      "tag": "⬆️ 4 points",
-      "url": "https://jatniel.dev/en/bytes/typescript-7-rc-the-compiler-rewritten-in-go-around-10x-faster"
-    },
-    {
-      "title": "SMPTE Makes Its Standards Freely Accessible",
-      "hot": "2.7m",
-      "desc": "smpte.org",
-      "source": "tech",
-      "tag": "⬆️ 267 points",
-      "url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community"
+      "tag": "⬆️ 163 points",
+      "url": "https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/"
     }
   ],
   "space": [
@@ -458,23 +458,23 @@
     },
     {
       "title": "vercel/eve: The Framework for Building Agents",
-      "hot": "⭐ 1.9k",
+      "hot": "⭐ 2.0k",
       "desc": "The Framework for Building Agents",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/vercel/eve"
     },
     {
-      "title": "Waishnav/devspace: Turn ChatGPT into Codex",
-      "hot": "⭐ 1.7k",
-      "desc": "Turn ChatGPT into Codex",
+      "title": "Waishnav/devspace: Turn ChatGPT into Codex and enjoy 2x rate limits :)",
+      "hot": "⭐ 1.8k",
+      "desc": "Turn ChatGPT into Codex and enjoy 2x rate limits :)",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/Waishnav/devspace"
     },
     {
       "title": "zhongerxin/Cowart: ",
-      "hot": "⭐ 775",
+      "hot": "⭐ 939",
       "desc": "zhongerxin/Cowart",
       "source": "github",
       "tag": "JavaScript",
@@ -482,7 +482,7 @@
     },
     {
       "title": "alchaincyf/loop-engineering-orange-book: 别再问我什么是 Loop Engineering — 橙皮书系列。A plai",
-      "hot": "⭐ 722",
+      "hot": "⭐ 723",
       "desc": "别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.",
       "source": "github",
       "tag": "GitHub",
@@ -490,7 +490,7 @@
     },
     {
       "title": "rebel0789/codexpro: Use ChatGPT Developer Mode as a local coding agent for your ",
-      "hot": "⭐ 597",
+      "hot": "⭐ 604",
       "desc": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
       "source": "github",
       "tag": "JavaScript",
@@ -498,7 +498,7 @@
     },
     {
       "title": "Forsy-AI/agent-apprenticeship: The living ecosystem where AI agents learn from r",
-      "hot": "⭐ 570",
+      "hot": "⭐ 588",
       "desc": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal ",
       "source": "github",
       "tag": "GitHub",
@@ -506,7 +506,7 @@
     },
     {
       "title": "fivetaku/fablize: A Claude Code plugin that makes Opus behave like Fable — compl",
-      "hot": "⭐ 556",
+      "hot": "⭐ 559",
       "desc": "A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus",
       "source": "github",
       "tag": "Python",
@@ -514,7 +514,7 @@
     },
     {
       "title": "Plaer1/junction: VS Code chat sidebar for local AI coding agents",
-      "hot": "⭐ 516",
+      "hot": "⭐ 517",
       "desc": "VS Code chat sidebar for local AI coding agents",
       "source": "github",
       "tag": "TypeScript",
@@ -522,7 +522,7 @@
     },
     {
       "title": "royalbhati/sqltoerdiagram: ER diagram generator. Paste CREATE TABLE statements a",
-      "hot": "⭐ 497",
+      "hot": "⭐ 499",
       "desc": "ER diagram generator. Paste CREATE TABLE statements and get a clean, interactive ERD — runs 100% in your browser, nothing uploaded",
       "source": "github",
       "tag": "HTML",
@@ -530,7 +530,7 @@
     },
     {
       "title": "ngrok/webernetes: Kubernetes in the browser.",
-      "hot": "⭐ 422",
+      "hot": "⭐ 439",
       "desc": "Kubernetes in the browser.",
       "source": "github",
       "tag": "TypeScript",
@@ -538,7 +538,7 @@
     },
     {
       "title": "majidmanzarpour/threejs-game-skills: Agent skills for building playable, polishe",
-      "hot": "⭐ 402",
+      "hot": "⭐ 406",
       "desc": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, an",
       "source": "github",
       "tag": "Python",
@@ -554,7 +554,7 @@
     },
     {
       "title": "boogu-project/Boogu-Image: Boogu-Image-0.1 is an Apache-2.0 open-source image ge",
-      "hot": "⭐ 383",
+      "hot": "⭐ 384",
       "desc": "Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of m",
       "source": "github",
       "tag": "Python",
@@ -562,7 +562,7 @@
     },
     {
       "title": "MstKail/polymarket-trading-bot-services-polyedge365: polymarket trading bot serv",
-      "hot": "⭐ 372",
+      "hot": "⭐ 374",
       "desc": "polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket trading",
       "source": "github",
       "tag": "GitHub",
