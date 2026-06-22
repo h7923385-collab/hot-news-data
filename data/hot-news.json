@@ -1,14 +1,22 @@
 {
-  "updatedAt": "2026-06-22T19:51:20.180Z",
+  "updatedAt": "2026-06-22T21:52:46.520Z",
   "source": "live",
   "dev": [
     {
       "title": "Meme Monday",
-      "hot": "❤️ 14 💬 11",
+      "hot": "❤️ 12 💬 12",
       "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
       "source": "dev",
       "tag": "discuss,  jokes",
       "url": "https://dev.to/ben/meme-monday-1b8h"
+    },
+    {
+      "title": "Link or Button, that is the question.",
+      "hot": "❤️ 14 💬 3",
+      "desc": "What is a Link?            Definition   A link is an interactive element that redirects the...",
+      "source": "dev",
+      "tag": "a11y,  webdev",
+      "url": "https://dev.to/micaavigliano/link-or-button-that-is-the-question-2n13"
     },
     {
       "title": "What it takes to build docs worth reading",
@@ -19,14 +27,6 @@
       "url": "https://dev.to/devsofmidnight/what-it-takes-to-build-docs-worth-reading-2290"
     },
     {
-      "title": "Link or Button, that is the question.",
-      "hot": "❤️ 8 💬 2",
-      "desc": "What is a Link?            Definition   A link is an interactive element that redirects the...",
-      "source": "dev",
-      "tag": "a11y,  webdev",
-      "url": "https://dev.to/micaavigliano/link-or-button-that-is-the-question-2n13"
-    },
-    {
       "title": "Working on a silly project - share your favorite AI buzzwords/phrases and general key terms with me please!!",
       "hot": "❤️ 19 💬 3",
       "desc": "Feel free to include any brands or product names as well. Be as obscure or on the nose as you'd like....",
@@ -35,12 +35,28 @@
       "url": "https://dev.to/jess/working-on-a-silly-project-share-your-favorite-ai-buzzwordsphrases-and-general-key-terms-with-me-664"
     },
     {
+      "title": "12B Gemma 4 Deployment with NVIDIA Blackwell 6000, MCP, Cloud Run, and Antigravity CLI",
+      "hot": "❤️ 5 💬 0",
+      "desc": "This article provides a step by step deployment guide for Gemma 4 to a Google Cloud Run hosted GPU...",
+      "source": "dev",
+      "tag": "gemma4,  mcps",
+      "url": "https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-mcp-cloud-run-and-antigravity-cli-3ckn"
+    },
+    {
       "title": "Congrats to the Gemma 4 Challenge Winners!",
       "hot": "❤️ 87 💬 48",
       "desc": "We are so excited to announce the winners of the Gemma 4 Challenge!  This is officially our most...",
       "source": "dev",
       "tag": "devchallenge,  gemmachallenge",
       "url": "https://dev.to/devteam/congrats-to-the-gemma-4-challenge-winners-4fgc"
+    },
+    {
+      "title": "[Gemini API in Action] Building MemeFinder: A Native Mac Menu Bar Widget for Finding Memes via Text Using Gemini Vision & Semantic Embeddings",
+      "hot": "❤️ 6 💬 0",
+      "desc": "The Origin: Mid-Conversation, Where on Earth Is That Meme?   Anyone who chats a lot has a...",
+      "source": "dev",
+      "tag": "ai,  api",
+      "url": "https://dev.to/gde/gemini-api-hands-on-59dc"
     },
     {
       "title": "MTP Speculative Decoding with the 12B Gemma 4 QAT Model on NVIDIA L4, Cloud Run, MCP, and…",
@@ -92,7 +108,7 @@
     },
     {
       "title": "Congrats to the Hermes Agent Challenge Winners!",
-      "hot": "❤️ 48 💬 13",
+      "hot": "❤️ 53 💬 14",
       "desc": "We are thrilled to announce the winners of the Hermes Agent Challenge! Over the past few weeks, the...",
       "source": "dev",
       "tag": "hermesagentchallenge,  devchallenge",
@@ -145,187 +161,219 @@
       "source": "dev",
       "tag": "convex,  selfhosted",
       "url": "https://dev.to/jookllo/mastering-self-hosted-convex-a-complete-deployment-guide-3mp5"
-    },
-    {
-      "title": "I tried to make an AI agent answer more. It answered less.",
-      "hot": "❤️ 0 💬 0",
-      "desc": "If you build or evaluate scoped agents: any talk about the agent in your test context makes it defend...",
-      "source": "dev",
-      "tag": "ai,  llm",
-      "url": "https://dev.to/ankushchadha/i-tried-to-make-an-ai-agent-answer-more-it-answered-less-3d7a"
-    },
-    {
-      "title": "Deployment Planning with Gemma 26B, NVIDIA L4, MCP, Cloud Run, and Antigravity CLI",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud Run...",
-      "source": "dev",
-      "tag": "nvidia,  mcps",
-      "url": "https://dev.to/gde/deployment-planning-with-gemma-26b-nvidia-l4-mcp-cloud-run-and-antigravity-cli-kn0"
     }
   ],
   "tech": [
     {
-      "title": "Steam Machine",
+      "title": "Steam Machine launches today",
       "hot": "3.0m",
       "desc": "store.steampowered.com",
       "source": "tech",
-      "tag": "⬆️ 545 points",
-      "url": "https://store.steampowered.com/hardware/steammachine"
+      "tag": "⬆️ 905 points",
+      "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245"
+    },
+    {
+      "title": "British Columbia, Time Zones, and Postgres",
+      "hot": "3.0m",
+      "desc": "crunchydata.com",
+      "source": "tech",
+      "tag": "⬆️ 61 points",
+      "url": "https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes"
+    },
+    {
+      "title": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
+      "hot": "3.0m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 44 points",
+      "url": "https://github.com/dorukkumkumoglu/optocamzero"
     },
     {
       "title": "My Mathematical Regression",
       "hot": "3.0m",
       "desc": "blog.dahl.dev",
       "source": "tech",
-      "tag": "⬆️ 81 points",
+      "tag": "⬆️ 145 points",
       "url": "https://blog.dahl.dev/posts/my-mathematical-regression/"
     },
     {
+      "title": "Japanese symbols that speak without words",
+      "hot": "2.9m",
+      "desc": "arun.is",
+      "source": "tech",
+      "tag": "⬆️ 44 points",
+      "url": "https://arun.is/blog/japan-symbols/"
+    },
+    {
       "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "hustvl.github.io",
       "source": "tech",
-      "tag": "⬆️ 158 points",
+      "tag": "⬆️ 191 points",
       "url": "https://hustvl.github.io/Moebius/"
     },
     {
-      "title": "Deno Desktop",
-      "hot": "3.0m",
-      "desc": "docs.deno.com",
-      "source": "tech",
-      "tag": "⬆️ 934 points",
-      "url": "https://docs.deno.com/runtime/desktop/"
-    },
-    {
-      "title": "Show HN: Oak – Git replacement designed for agents",
+      "title": "Show HN: Oak – Git alternative designed for agents",
       "hot": "2.9m",
       "desc": "oak.space",
       "source": "tech",
-      "tag": "⬆️ 84 points",
+      "tag": "⬆️ 117 points",
       "url": "https://oak.space/oak/oak"
+    },
+    {
+      "title": "Kyber (YC W23) Is Hiring a Head of Engineering",
+      "hot": "2.9m",
+      "desc": "ycombinator.com",
+      "source": "tech",
+      "tag": "⬆️ 1 points",
+      "url": "https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering"
+    },
+    {
+      "title": "Canada is looking to build up to 10 new nuclear reactors over the next 15 years",
+      "hot": "2.9m",
+      "desc": "cbc.ca",
+      "source": "tech",
+      "tag": "⬆️ 130 points",
+      "url": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509"
     },
     {
       "title": "Codex logging bug may write TBs to local SSDs",
       "hot": "2.9m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 391 points",
+      "tag": "⬆️ 436 points",
       "url": "https://github.com/openai/codex/issues/28224"
     },
     {
-      "title": "Nintendo Wii U games running from a 1980's Bernoulli disk [video]",
+      "title": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
       "hot": "2.9m",
+      "desc": "ipvm.com",
+      "source": "tech",
+      "tag": "⬆️ 148 points",
+      "url": "https://ipvm.com/reports/police-chiefs-track"
+    },
+    {
+      "title": "Nintendo Wii U games running from a 1980's Bernoulli disk [video]",
+      "hot": "2.8m",
       "desc": "youtube.com",
       "source": "tech",
-      "tag": "⬆️ 59 points",
+      "tag": "⬆️ 77 points",
       "url": "https://www.youtube.com/watch?v=8GZDOpV2OXk"
     },
     {
-      "title": "Pledging another $400k to the Zig software foundation",
-      "hot": "2.9m",
-      "desc": "mitchellh.com",
-      "source": "tech",
-      "tag": "⬆️ 610 points",
-      "url": "https://mitchellh.com/writing/zig-donation-2026"
-    },
-    {
-      "title": "Linux and Secure Boot certificate expiration",
-      "hot": "2.9m",
+      "title": "Linux and Secure Boot certificate expiration (2025)",
+      "hot": "2.8m",
       "desc": "lwn.net",
       "source": "tech",
-      "tag": "⬆️ 8 points",
+      "tag": "⬆️ 73 points",
       "url": "https://lwn.net/Articles/1029767/"
     },
     {
       "title": "GLM 5.2 vs. Opus",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "techstackups.com",
       "source": "tech",
-      "tag": "⬆️ 419 points",
+      "tag": "⬆️ 456 points",
       "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/"
-    },
-    {
-      "title": "Prompt Injection as Role Confusion",
-      "hot": "2.9m",
-      "desc": "role-confusion.github.io",
-      "source": "tech",
-      "tag": "⬆️ 80 points",
-      "url": "https://role-confusion.github.io"
-    },
-    {
-      "title": "Charge Robotics (YC S21) Is Hiring Software and Hardware Engineers",
-      "hot": "2.8m",
-      "desc": "jobs.ashbyhq.com",
-      "source": "tech",
-      "tag": "⬆️ 1 points",
-      "url": "https://jobs.ashbyhq.com/charge-robotics"
     },
     {
       "title": "Blogger defeats photographer's copyright claim",
       "hot": "2.8m",
       "desc": "blog.ericgoldman.org",
       "source": "tech",
-      "tag": "⬆️ 35 points",
+      "tag": "⬆️ 73 points",
       "url": "https://blog.ericgoldman.org/archives/2026/06/blogger-defeats-photographers-copyright-claim-sokolskyfilm-v-messiah.htm"
     },
     {
-      "title": "Finding the Best Dog Treat with Statistics",
+      "title": "PivCo-Huffman \"Merge\" Operations",
       "hot": "2.8m",
-      "desc": "wespiser.com",
+      "desc": "fgiesen.wordpress.com",
       "source": "tech",
-      "tag": "⬆️ 34 points",
-      "url": "https://www.wespiser.com/posts/2026-06-19-best-dog-treat.html"
+      "tag": "⬆️ 8 points",
+      "url": "https://fgiesen.wordpress.com/2026/06/21/pivco-huffman-merge-operations/"
     },
     {
-      "title": "The text in Claude Code’s “Extended Thinking” output",
+      "title": "Pledging another $400k to the Zig software foundation",
       "hot": "2.8m",
-      "desc": "patrickmccanna.net",
+      "desc": "mitchellh.com",
       "source": "tech",
-      "tag": "⬆️ 224 points",
-      "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/"
+      "tag": "⬆️ 671 points",
+      "url": "https://mitchellh.com/writing/zig-donation-2026"
     },
     {
       "title": "DisplayMate",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "displaymate.com",
       "source": "tech",
-      "tag": "⬆️ 47 points",
+      "tag": "⬆️ 67 points",
       "url": "https://www.displaymate.com/"
     },
     {
-      "title": "Die analysis of the 8087 math coprocessor's fast bit shifter (2020)",
-      "hot": "2.8m",
-      "desc": "righto.com",
+      "title": "Prompt Injection as Role Confusion",
+      "hot": "2.7m",
+      "desc": "role-confusion.github.io",
       "source": "tech",
-      "tag": "⬆️ 59 points",
-      "url": "https://www.righto.com/2020/05/die-analysis-of-8087-math-coprocessors.html"
+      "tag": "⬆️ 118 points",
+      "url": "https://role-confusion.github.io"
     },
     {
-      "title": "British Columbia, Time Zones, and Postgres",
+      "title": "Walt Disney Company is the most successful at monetizing human nostalgia [audio]",
       "hot": "2.7m",
-      "desc": "crunchydata.com",
+      "desc": "acquired.fm",
       "source": "tech",
-      "tag": "⬆️ 3 points",
-      "url": "https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes"
-    },
-    {
-      "title": "Mexican government unveils a prototype for a new homegrown, ultra-affordable EV",
-      "hot": "2.7m",
-      "desc": "gizmodo.com",
-      "source": "tech",
-      "tag": "⬆️ 104 points",
-      "url": "https://gizmodo.com/mexico-just-showed-off-a-new-extremely-cheap-government-backed-ev-2000769080"
-    },
-    {
-      "title": "Show HN: Got sick of ads, so I made my own logic puzzle site",
-      "hot": "2.7m",
-      "desc": "puzzlelair.com",
-      "source": "tech",
-      "tag": "⬆️ 89 points",
-      "url": "https://puzzlelair.com/"
+      "tag": "⬆️ 38 points",
+      "url": "https://www.acquired.fm/episodes/the-walt-disney-company"
     }
   ],
   "space": [
+    {
+      "title": "Trump signs executive order to accelerate quantum space infrastructure",
+      "hot": "6/22",
+      "desc": "\nThe White House has issued an executive order aiming to unify and accelerate U.S. development of quantum technologies, including space systems that c",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/trump-signs-executive-order-to-accelerate-quantum-space-infrastructure/"
+    },
+    {
+      "title": "Report: Kennedy Space Center not ready for era of super heavy rockets",
+      "hot": "6/22",
+      "desc": "SpaceX has told NASA it plans to launch Starship every eight days from Kennedy.",
+      "source": "space",
+      "tag": "Arstechnica",
+      "url": "https://arstechnica.com/space/2026/06/report-kennedy-space-center-not-ready-for-era-of-super-heavy-rockets/"
+    },
+    {
+      "title": "NASA Awards Solutions for Federal Enterprise Procurement Contracts",
+      "hot": "6/22",
+      "desc": "NASA will begin processing the awards of multiple contracts for the Solutions for Enterprise‑wide Procurement (SEWP) VI Government-wide Acquisition Co",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/news-release/nasa-awards-solutions-for-federal-enterprise-procurement-contracts/"
+    },
+    {
+      "title": "SpaceX to test upcoming Starfall reentry vehicle with demonstration mission on Tuesday",
+      "hot": "6/22",
+      "desc": "SpaceX is set to launch a demonstration mission for its Starfall reentry vehicle early on…\nThe post SpaceX to test upcoming Starfall reentry vehicle w",
+      "source": "space",
+      "tag": "NASASpaceflight",
+      "url": "https://www.nasaspaceflight.com/2026/06/starfall-demo/"
+    },
+    {
+      "title": "Rocket Lab launches satellite for U.S. Space Force Victus Haze responsive space exercise",
+      "hot": "6/22",
+      "desc": "\nThe mission pairs Rocket Lab spacecraft with a True Anomaly vehicle in orbit to demonstrate rapid threat characterization and rendezvous operations\nT",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/rocket-lab-launches-satellite-for-u-s-space-force-victus-haze-responsive-space-exercise/"
+    },
+    {
+      "title": "NASA Sounding Rocket to Launch Student Experiments",
+      "hot": "6/22",
+      "desc": "NASA’s Wallops Flight Facility in Virginia is scheduled to launch a sounding rocket carrying student-developed experiments for the agency’s RockSatX a",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/centers-and-facilities/wallops/nasa-sounding-rocket-to-launch-student-experiments/"
+    },
     {
       "title": "NASA Invites Media to Botswana Artemis Accords Signing Ceremony",
       "hot": "6/22",
@@ -397,60 +445,12 @@
       "source": "space",
       "tag": "SpaceNews",
       "url": "https://spacenews.com/america-is-about-to-cede-africas-space-industry-to-china-and-nobodys-talking-about-it/"
-    },
-    {
-      "title": "Astroscale raises funding to support growth strategy",
-      "hot": "6/22",
-      "desc": "\nSatellite servicing company Astroscale is working to transition from technology demonstrations to a regular series of missions, bolstered by a recent",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/astroscale-raises-funding-to-support-growth-strategy/"
-    },
-    {
-      "title": "ESA Astronaut Tests European Spacesuit Prototype Aboard ISS",
-      "hot": "6/22",
-      "desc": "ESA astronaut Sophie Adenot has tested a European intravehicular activity (IVA) spacesuit prototype aboard the International Space Station (ISS). In a",
-      "source": "space",
-      "tag": "European Spaceflight",
-      "url": "https://europeanspaceflight.com/esa-astronaut-tests-european-spacesuit-prototype-aboard-iss/"
-    },
-    {
-      "title": "Signs of Thaw in the Bering Sea",
-      "hot": "6/22",
-      "desc": "Drifting sea ice fragments near Alaska’s Saint Lawrence and Nunivak islands and colorful water around the Yukon Delta heralded the approach of the sum",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/earth/earth-observatory/signs-of-thaw-in-the-bering-sea/"
-    },
-    {
-      "title": "NASA’s Nancy Grace Roman Space Telescope arrives in Florida",
-      "hot": "6/22",
-      "desc": "The $4.3 billion observatory will go through about 70 days of prelaunch processing at NASA's Kennedy Space Center before it launches on a SpaceX Falco",
-      "source": "space",
-      "tag": "Spaceflight Now",
-      "url": "https://spaceflightnow.com/2026/06/22/nasas-nancy-grace-roman-space-telescope-arrives-in-florida/"
-    },
-    {
-      "title": "What’s Happening in Space Policy June 21-27, 2026",
-      "hot": "6/21",
-      "desc": "Here is SpacePolicyOnline.com’s list of space policy events for the week of June 21-27, 2026 and any insight we can offer about them. The House and Se",
-      "source": "space",
-      "tag": "SpacePolicyOnline.com",
-      "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-21-27-2026/"
-    },
-    {
-      "title": "Astrobotic says sale to Voyager will allow it to scale up",
-      "hot": "6/20",
-      "desc": "\nLunar lander developer Astrobotic decided to sell to Voyager Technologies so it could quickly scale up to meet the projected demands of NASA’s lunar ",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/astrobotic-says-sale-to-voyager-will-allow-it-to-scale-up/"
     }
   ],
   "github": [
     {
       "title": "vercel/eve: The Framework for Building Agents",
-      "hot": "⭐ 2.2k",
+      "hot": "⭐ 2.3k",
       "desc": "The Framework for Building Agents",
       "source": "github",
       "tag": "TypeScript",
@@ -466,7 +466,7 @@
     },
     {
       "title": "alchaincyf/loop-engineering-orange-book: 别再问我什么是 Loop Engineering — 橙皮书系列。A plai",
-      "hot": "⭐ 744",
+      "hot": "⭐ 745",
       "desc": "别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.",
       "source": "github",
       "tag": "GitHub",
@@ -474,7 +474,7 @@
     },
     {
       "title": "rebel0789/codexpro: Use ChatGPT Developer Mode as a local coding agent for your ",
-      "hot": "⭐ 705",
+      "hot": "⭐ 709",
       "desc": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
       "source": "github",
       "tag": "JavaScript",
@@ -482,7 +482,7 @@
     },
     {
       "title": "Forsy-AI/agent-apprenticeship: The living ecosystem where AI agents learn from r",
-      "hot": "⭐ 675",
+      "hot": "⭐ 680",
       "desc": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal ",
       "source": "github",
       "tag": "GitHub",
@@ -490,19 +490,35 @@
     },
     {
       "title": "lyra81604/zhengxi-views: 可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法",
-      "hot": "⭐ 635",
-      "desc": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
+      "hot": "⭐ 643",
+      "desc": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠���仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/lyra81604/zhengxi-views"
     },
     {
       "title": "aidenybai/cnfast: Fast drop in replacement for `cn`",
-      "hot": "⭐ 632",
+      "hot": "⭐ 641",
       "desc": "Fast drop in replacement for `cn`",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/aidenybai/cnfast"
+    },
+    {
+      "title": "kanavtwtgg/birds.cafe: ",
+      "hot": "⭐ 532",
+      "desc": "kanavtwtgg/birds.cafe",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/kanavtwtgg/birds.cafe"
+    },
+    {
+      "title": "ngrok/webernetes: Kubernetes in the browser.",
+      "hot": "⭐ 529",
+      "desc": "Kubernetes in the browser.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/ngrok/webernetes"
     },
     {
       "title": "Plaer1/junction: VS Code chat sidebar for local AI coding agents",
@@ -511,22 +527,6 @@
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/Plaer1/junction"
-    },
-    {
-      "title": "kanavtwtgg/birds.cafe: ",
-      "hot": "⭐ 519",
-      "desc": "kanavtwtgg/birds.cafe",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/kanavtwtgg/birds.cafe"
-    },
-    {
-      "title": "ngrok/webernetes: Kubernetes in the browser.",
-      "hot": "⭐ 515",
-      "desc": "Kubernetes in the browser.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/ngrok/webernetes"
     },
     {
       "title": "dongshuyan/compass-skills: 司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment",
@@ -538,7 +538,7 @@
     },
     {
       "title": "boogu-project/Boogu-Image: Boogu-Image-0.1 is an Apache-2.0 open-source image ge",
-      "hot": "⭐ 456",
+      "hot": "⭐ 458",
       "desc": "Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of m",
       "source": "github",
       "tag": "Python",
@@ -546,7 +546,7 @@
     },
     {
       "title": "anthropics/launch-your-agent: Claude Code skills that take a founder from idea t",
-      "hot": "⭐ 410",
+      "hot": "⭐ 415",
       "desc": "Claude Code skills that take a founder from idea to a live Claude Managed Agent: interview, scope a v0, launch in their own account, grade it, iterate",
       "source": "github",
       "tag": "HTML",
@@ -554,19 +554,19 @@
     },
     {
       "title": "MstKail/polymarket-trading-bot-services-polyedge365: polymarket trading bot serv",
-      "hot": "⭐ 390",
+      "hot": "⭐ 393",
       "desc": "polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket trading",
       "source": "github",
       "tag": "GitHub",
       "url": "https://github.com/MstKail/polymarket-trading-bot-services-polyedge365"
     },
     {
-      "title": "ReulgeApmpetty0O/Back-End-Developer-Interview-Questions: A list of back-end rela",
+      "title": "nnecrkvenuOX/formcms: AI Agent: Open-source headless CMS built with ASP.NET Core",
       "hot": "⭐ 378",
-      "desc": "A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore",
+      "desc": "AI Agent: Open-source headless CMS built with ASP.NET Core (C#) and React, featuring REST APIs, GraphQL, and a GrapesJS page designer.",
       "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/ReulgeApmpetty0O/Back-End-Developer-Interview-Questions"
+      "tag": "C#",
+      "url": "https://github.com/nnecrkvenuOX/formcms"
     }
   ]
 }
