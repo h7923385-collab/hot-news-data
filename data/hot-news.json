@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-06-23T22:08:40.027Z",
+  "updatedAt": "2026-06-23T23:33:15.284Z",
   "source": "live",
   "dev": [
     {
       "title": "How My AI Agent Hacked Its Own Permissions (And What It Taught Me)",
-      "hot": "❤️ 6 💬 0",
+      "hot": "❤️ 7 💬 1",
       "desc": "Have you ever tried to build an automation that works so well it bypasses the very rules you set for...",
       "source": "dev",
       "tag": "ai,  security",
@@ -12,19 +12,11 @@
     },
     {
       "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 28 💬 5",
+      "hot": "❤️ 29 💬 6",
       "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
       "source": "dev",
       "tag": "top7,  discuss",
       "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-55d8"
-    },
-    {
-      "title": "Building a Custom Status Line for Claude Code",
-      "hot": "❤️ 1 💬 0",
-      "desc": "I spend most of my day in Claude Code. It's my pair programmer, code reviewer, and rubber duck all...",
-      "source": "dev",
-      "tag": "ai,  productivity",
-      "url": "https://dev.to/ndrone/building-a-custom-status-line-for-claude-code-5822"
     },
     {
       "title": "AI found 300 WordPress plugin zero-days in 72 hours. I build plugins. Here's what changed for me.",
@@ -57,6 +49,14 @@
       "source": "dev",
       "tag": "beginners,  cli",
       "url": "https://dev.to/karuppiah7890/debian-packages-51gj"
+    },
+    {
+      "title": "Building a Custom Status Line for Claude Code",
+      "hot": "❤️ 2 💬 0",
+      "desc": "I spend most of my day in Claude Code. It's my pair programmer, code reviewer, and rubber duck all...",
+      "source": "dev",
+      "tag": "ai,  productivity",
+      "url": "https://dev.to/ndrone/building-a-custom-status-line-for-claude-code-5822"
     },
     {
       "title": "Serverless Gemma 12B with NVIDIA A100 on Azure Container Apps",
@@ -163,7 +163,193 @@
       "url": "https://dev.to/gde/debugging-deployments-with-gemma-12b-tpu-v6e-1-mcp-and-antigravity-cli-83n"
     }
   ],
+  "tech": [
+    {
+      "title": "Jerry's Map",
+      "hot": "3.0m",
+      "desc": "jerrysmap.com",
+      "source": "tech",
+      "tag": "⬆️ 278 points",
+      "url": "http://www.jerrysmap.com/the-map"
+    },
+    {
+      "title": "Swift Package Index joins Apple",
+      "hot": "3.0m",
+      "desc": "swiftpackageindex.com",
+      "source": "tech",
+      "tag": "⬆️ 153 points",
+      "url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple"
+    },
+    {
+      "title": "FUTO Swipe – A new swipe typing model",
+      "hot": "3.0m",
+      "desc": "swipe.futo.tech",
+      "source": "tech",
+      "tag": "⬆️ 191 points",
+      "url": "https://swipe.futo.tech/"
+    },
+    {
+      "title": "Printing Gaussian Splats",
+      "hot": "3.0m",
+      "desc": "patreon.com",
+      "source": "tech",
+      "tag": "⬆️ 126 points",
+      "url": "https://www.patreon.com/DanyBittel/posts/printing-splats-161333338"
+    },
+    {
+      "title": "In memory of the man who put red and green squiggles under words",
+      "hot": "2.9m",
+      "desc": "devblogs.microsoft.com",
+      "source": "tech",
+      "tag": "⬆️ 66 points",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451"
+    },
+    {
+      "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
+      "hot": "2.9m",
+      "desc": "tikz.dev",
+      "source": "tech",
+      "tag": "⬆️ 302 points",
+      "url": "https://tikz.dev/editor/"
+    },
+    {
+      "title": "The Coming Loop",
+      "hot": "2.9m",
+      "desc": "lucumr.pocoo.org",
+      "source": "tech",
+      "tag": "⬆️ 289 points",
+      "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/"
+    },
+    {
+      "title": "Trains halted across Germany because of communication system problem",
+      "hot": "2.9m",
+      "desc": "apnews.com",
+      "source": "tech",
+      "tag": "⬆️ 125 points",
+      "url": "https://apnews.com/article/germany-trains-halted-communications-radio-problem-deutsche-bahn-e8fd970b2d889f3ae7ce03322d5c726b"
+    },
+    {
+      "title": "United Wizards of the Coast recognized by NLRB",
+      "hot": "2.9m",
+      "desc": "unitedwizardsofthecoast.com",
+      "source": "tech",
+      "tag": "⬆️ 83 points",
+      "url": "https://unitedwizardsofthecoast.com/news/2026-06-23-we-have-a-union"
+    },
+    {
+      "title": "The worthlessness of Vitamin D is mildly exaggerated",
+      "hot": "2.9m",
+      "desc": "dynomight.net",
+      "source": "tech",
+      "tag": "⬆️ 164 points",
+      "url": "https://dynomight.net/vitamin-d/"
+    },
+    {
+      "title": "Don't verify email addresses by sending spam to them",
+      "hot": "2.9m",
+      "desc": "milek7.pl",
+      "source": "tech",
+      "tag": "⬆️ 116 points",
+      "url": "https://milek7.pl/mailverifyspam/"
+    },
+    {
+      "title": "F* file system – file search that reads SSD directly bypassing OS kernel",
+      "hot": "2.8m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 19 points",
+      "url": "https://github.com/dmtrKovalenko/ffs"
+    },
+    {
+      "title": "California AB 2047 makes 3D printers off-limits to students, educators, business",
+      "hot": "2.8m",
+      "desc": "the3dprintingnerd.com",
+      "source": "tech",
+      "tag": "⬆️ 178 points",
+      "url": "https://www.the3dprintingnerd.com/ab2047"
+    },
+    {
+      "title": "Unlimited OCR: One-shot long-horizon parsing",
+      "hot": "2.8m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 426 points",
+      "url": "https://github.com/baidu/Unlimited-OCR"
+    },
+    {
+      "title": "Five monitors on a Commodore 128 [video]",
+      "hot": "2.8m",
+      "desc": "youtube.com",
+      "source": "tech",
+      "tag": "⬆️ 99 points",
+      "url": "https://www.youtube.com/watch?v=ul5hC3PY1Yg"
+    },
+    {
+      "title": "Fired by Google for creating the Google workspace CLI",
+      "hot": "2.8m",
+      "desc": "twitter.com",
+      "source": "tech",
+      "tag": "⬆️ 202 points",
+      "url": "https://twitter.com/JPoehnelt/status/2069482265953087602"
+    },
+    {
+      "title": "2004 Huygens probe to Saturn's Titan: Still our only outer solar system lander",
+      "hot": "2.8m",
+      "desc": "spacedaily.com",
+      "source": "tech",
+      "tag": "⬆️ 5 points",
+      "url": "https://spacedaily.com/t-no-spacecraft-has-ever-landed-in-the-outer-solar-system-except-one-the-huygens-probe-which-parachuted-through-titans-orange-haze-in-2005-and-touched-down-more-than-a-billion-kilometres-fr/"
+    },
+    {
+      "title": "Samsung demonstrates 3D stacked FETs with triple nanosheet channels at 42nm",
+      "hot": "2.7m",
+      "desc": "semiconductor.samsung.com",
+      "source": "tech",
+      "tag": "⬆️ 85 points",
+      "url": "https://semiconductor.samsung.com/news-events/tech-blog/from-gaa-to-3d-stacked-fet-expanding-the-transistor-into-the-third-dimension/"
+    },
+    {
+      "title": "On the Skin-Furrows of the Hand (1880) [pdf]",
+      "hot": "2.7m",
+      "desc": "galton.org",
+      "source": "tech",
+      "tag": "⬆️ 6 points",
+      "url": "https://galton.org/fingerprints/faulds-1880-nature-furrows.pdf"
+    },
+    {
+      "title": "Algorithmic Monocultures in Hiring",
+      "hot": "2.7m",
+      "desc": "hai.stanford.edu",
+      "source": "tech",
+      "tag": "⬆️ 125 points",
+      "url": "https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection"
+    }
+  ],
   "space": [
+    {
+      "title": "Launch Preview: Pegasus XL to launch amongst Falcon 9 and Chinese missions",
+      "hot": "6/23",
+      "desc": "This week’s launch manifest includes six orbital launches worldwide, including the first Pegasus XL launch…\nThe post Launch Preview: Pegasus XL to lau",
+      "source": "space",
+      "tag": "NASASpaceflight",
+      "url": "https://www.nasaspaceflight.com/2026/06/launch-preview-062326/"
+    },
+    {
+      "title": "NASA’s inspector general warns launch sites nearing capacity",
+      "hot": "6/23",
+      "desc": "\nA report by NASA’s inspector general is the latest to highlight the problems that the increasing number of launches is posing to spaceports.\nThe post",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/nasas-inspector-general-warns-launch-sites-nearing-capacity/"
+    },
+    {
+      "title": "Boeing wins $2 billion Space Force contract for communications satellites",
+      "hot": "6/23",
+      "desc": "\nWASHINGTON — Boeing won a contract worth up to $2 billion to build two next-generation military communications satellites for the U.S. Space Force, p",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/boeing-wins-2-billion-space-force-contract-for-communications-satellites/"
+    },
     {
       "title": "NASA Names Sean Gallagher as Chief Information Officer",
       "hot": "6/23",
@@ -171,6 +357,14 @@
       "source": "space",
       "tag": "NASA",
       "url": "https://www.nasa.gov/news-release/nasa-names-sean-gallagher-as-chief-information-officer/"
+    },
+    {
+      "title": "NASA, Boeing committed to Starliner-1 launch despite unclear timeline",
+      "hot": "6/23",
+      "desc": "The uncrewed flight of the spacecraft is still going through testing and analysis before NASA green lights a return to flight mission. ",
+      "source": "space",
+      "tag": "Spaceflight Now",
+      "url": "https://spaceflightnow.com/2026/06/23/nasa-boeing-committed-to-starliner-1-launch-despite-unclear-timeline/"
     },
     {
       "title": "NASA, Boeing committed to Stariner-1 launch amid despite unclear timeline",
@@ -251,206 +445,12 @@
       "source": "space",
       "tag": "European Spaceflight",
       "url": "https://europeanspaceflight.com/esa-details-next-steps-for-agencys-gateway-contributions/"
-    },
-    {
-      "title": "Paxi and the European Space Agency",
-      "hot": "6/23",
-      "desc": "English: Paxi and the European Space Agency",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/06/Paxi_and_the_European_Space_Agency"
-    },
-    {
-      "title": "I Am Artemis: Jason Peterson",
-      "hot": "6/23",
-      "desc": "Jason Peterson’s responsibilities for NASA’s Artemis II mission went beyond his usual role as the range operations manager at NASA’s Stennis Space Cen",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/humans-in-space/i-am-artemis-jason-peterson/"
-    },
-    {
-      "title": "Open opportunities with ESA Navigation",
-      "hot": "6/23",
-      "desc": "The European Space Agency (ESA) leads the design, development, qualification and R&D of flagship EU Space programmes Galileo and EGNOS. It also implem",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/Applications/Satellite_navigation/Open_opportunities_with_ESA_Navigation"
-    },
-    {
-      "title": "Hubble Details Early Galaxy Transforming Neighborhood",
-      "hot": "6/23",
-      "desc": "Astronomers using NASA’s Hubble Space Telescope have found something they never expected — ultraviolet light from a galaxy that existed just 1.4 billi",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/missions/hubble/hubble-details-early-galaxy-transforming-neighborhood/"
-    }
-  ],
-  "tech": [
-    {
-      "title": "German Rail Service Suspended Due to Radio Interference",
-      "hot": "3.0m",
-      "desc": "bluewin.ch",
-      "source": "tech",
-      "tag": "⬆️ 74 points",
-      "url": "https://www.bluewin.ch/en/news/german-rail-service-suspended-due-to-radio-interference-li.3295297"
-    },
-    {
-      "title": "Jerry's Map",
-      "hot": "3.0m",
-      "desc": "jerrysmap.com",
-      "source": "tech",
-      "tag": "⬆️ 245 points",
-      "url": "http://www.jerrysmap.com/the-map"
-    },
-    {
-      "title": "All train services in Germany halted after train radio communications disruption",
-      "hot": "3.0m",
-      "desc": "english.news.cn",
-      "source": "tech",
-      "tag": "⬆️ 62 points",
-      "url": "https://english.news.cn/20260624/65f1b6192cd947e28849776a5aef05c6/c.html"
-    },
-    {
-      "title": "Don't verify email addresses by sending spam to them",
-      "hot": "3.0m",
-      "desc": "milek7.pl",
-      "source": "tech",
-      "tag": "⬆️ 79 points",
-      "url": "https://milek7.pl/mailverifyspam/"
-    },
-    {
-      "title": "Swift Package Index joins Apple",
-      "hot": "2.9m",
-      "desc": "swiftpackageindex.com",
-      "source": "tech",
-      "tag": "⬆️ 137 points",
-      "url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple"
-    },
-    {
-      "title": "FUTO Swipe – A new swipe typing model",
-      "hot": "2.9m",
-      "desc": "swipe.futo.tech",
-      "source": "tech",
-      "tag": "⬆️ 141 points",
-      "url": "https://swipe.futo.tech/"
-    },
-    {
-      "title": "Printing Gaussian Splats",
-      "hot": "2.9m",
-      "desc": "patreon.com",
-      "source": "tech",
-      "tag": "⬆️ 83 points",
-      "url": "https://www.patreon.com/DanyBittel/posts/printing-splats-161333338"
-    },
-    {
-      "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
-      "hot": "2.9m",
-      "desc": "tikz.dev",
-      "source": "tech",
-      "tag": "⬆️ 288 points",
-      "url": "https://tikz.dev/editor/"
-    },
-    {
-      "title": "F3",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 560 points",
-      "url": "https://github.com/future-file-format/f3"
-    },
-    {
-      "title": "The worthlessness of Vitamin D is mildly exaggerated",
-      "hot": "2.9m",
-      "desc": "dynomight.net",
-      "source": "tech",
-      "tag": "⬆️ 135 points",
-      "url": "https://dynomight.net/vitamin-d/"
-    },
-    {
-      "title": "Unlimited OCR: One-shot long-horizon parsing",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 415 points",
-      "url": "https://github.com/baidu/Unlimited-OCR"
-    },
-    {
-      "title": "The deadly rise of giant trucks and SUVs",
-      "hot": "2.8m",
-      "desc": "nytimes.com",
-      "source": "tech",
-      "tag": "⬆️ 310 points",
-      "url": "https://www.nytimes.com/interactive/2026/06/21/us/trucks-suv-pedestrian-crashes.html"
-    },
-    {
-      "title": "Five monitors on a Commodore 128 [video]",
-      "hot": "2.8m",
-      "desc": "youtube.com",
-      "source": "tech",
-      "tag": "⬆️ 90 points",
-      "url": "https://www.youtube.com/watch?v=ul5hC3PY1Yg"
-    },
-    {
-      "title": "The Coming Loop",
-      "hot": "2.8m",
-      "desc": "lucumr.pocoo.org",
-      "source": "tech",
-      "tag": "⬆️ 266 points",
-      "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/"
-    },
-    {
-      "title": "Algorithmic Monocultures in Hiring",
-      "hot": "2.8m",
-      "desc": "hai.stanford.edu",
-      "source": "tech",
-      "tag": "⬆️ 109 points",
-      "url": "https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection"
-    },
-    {
-      "title": "Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild",
-      "hot": "2.8m",
-      "desc": "lift4d.github.io",
-      "source": "tech",
-      "tag": "⬆️ 97 points",
-      "url": "https://lift4d.github.io/"
-    },
-    {
-      "title": "F* file system – file search that reads SSD directly bypassing OS kernel",
-      "hot": "2.8m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 8 points",
-      "url": "https://github.com/dmtrKovalenko/ffs"
-    },
-    {
-      "title": "San Diego photologs from the 1970s",
-      "hot": "2.7m",
-      "desc": "beautifulpublicdata.com",
-      "source": "tech",
-      "tag": "⬆️ 130 points",
-      "url": "https://www.beautifulpublicdata.com/san-diego-photologs-from-the-1970s/"
-    },
-    {
-      "title": "Samsung demonstrates 3D stacked FETs with triple nanosheet channels at 42nm",
-      "hot": "2.7m",
-      "desc": "semiconductor.samsung.com",
-      "source": "tech",
-      "tag": "⬆️ 75 points",
-      "url": "https://semiconductor.samsung.com/news-events/tech-blog/from-gaa-to-3d-stacked-fet-expanding-the-transistor-into-the-third-dimension/"
-    },
-    {
-      "title": "Claude Tag",
-      "hot": "2.7m",
-      "desc": "anthropic.com",
-      "source": "tech",
-      "tag": "⬆️ 206 points",
-      "url": "https://www.anthropic.com/news/introducing-claude-tag"
     }
   ],
   "github": [
     {
       "title": "baidu/Unlimited-OCR: Unlimited OCR Works: Welcome the Era of One-shot Long-horiz",
-      "hot": "⭐ 3.3k",
+      "hot": "⭐ 3.4k",
       "desc": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
       "source": "github",
       "tag": "Python",
@@ -474,7 +474,7 @@
     },
     {
       "title": "lyra81604/zhengxi-views: 可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法",
-      "hot": "⭐ 908",
+      "hot": "⭐ 910",
       "desc": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
       "source": "github",
       "tag": "Python",
@@ -482,7 +482,7 @@
     },
     {
       "title": "Forsy-AI/agent-apprenticeship: The living ecosystem where AI agents learn from r",
-      "hot": "⭐ 844",
+      "hot": "⭐ 850",
       "desc": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal ",
       "source": "github",
       "tag": "GitHub",
@@ -490,7 +490,7 @@
     },
     {
       "title": "aidenybai/cnfast: Fast drop in replacement for `cn`",
-      "hot": "⭐ 778",
+      "hot": "⭐ 780",
       "desc": "Fast drop in replacement for `cn`",
       "source": "github",
       "tag": "TypeScript",
@@ -506,7 +506,7 @@
     },
     {
       "title": "kanavtwtgg/birds.cafe: ",
-      "hot": "⭐ 713",
+      "hot": "⭐ 714",
       "desc": "kanavtwtgg/birds.cafe",
       "source": "github",
       "tag": "JavaScript",
@@ -529,24 +529,24 @@
       "url": "https://github.com/Plaer1/junction"
     },
     {
-      "title": "boogu-project/Boogu-Image: Boogu-Image-0.1 is an Apache-2.0 open-source image ge",
-      "hot": "⭐ 518",
-      "desc": "Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of m",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/boogu-project/Boogu-Image"
-    },
-    {
       "title": "sums001/Windows-Copilot-API: Reverse engineered Windows Copilot into an OpenAI-c",
-      "hot": "⭐ 516",
+      "hot": "⭐ 521",
       "desc": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or bi",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/sums001/Windows-Copilot-API"
     },
     {
+      "title": "boogu-project/Boogu-Image: Boogu-Image-0.1 is an Apache-2.0 open-source image ge",
+      "hot": "⭐ 519",
+      "desc": "Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of m",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/boogu-project/Boogu-Image"
+    },
+    {
       "title": "cloudflare/security-audit-skill: A coding-agent skill for multi-phase security a",
-      "hot": "⭐ 479",
+      "hot": "⭐ 484",
       "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "source": "github",
       "tag": "JavaScript",
@@ -554,7 +554,7 @@
     },
     {
       "title": "anthropics/launch-your-agent: Claude Code skills that take a founder from idea t",
-      "hot": "⭐ 457",
+      "hot": "⭐ 458",
       "desc": "Claude Code skills that take a founder from idea to a live Claude Managed Agent: interview, scope a v0, launch in their own account, grade it, iterate",
       "source": "github",
       "tag": "HTML",
@@ -562,7 +562,7 @@
     },
     {
       "title": "bozhouDev/codex-orange-book: Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
-      "hot": "⭐ 419",
+      "hot": "⭐ 450",
       "desc": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
       "source": "github",
       "tag": "HTML",
