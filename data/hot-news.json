@@ -1,18 +1,10 @@
 {
-  "updatedAt": "2026-06-22T23:09:01.199Z",
+  "updatedAt": "2026-06-23T01:26:44.607Z",
   "source": "live",
   "dev": [
     {
-      "title": "Meme Monday",
-      "hot": "❤️ 12 💬 12",
-      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
-      "source": "dev",
-      "tag": "discuss,  jokes",
-      "url": "https://dev.to/ben/meme-monday-1b8h"
-    },
-    {
       "title": "Link or Button, that is the question.",
-      "hot": "❤️ 14 💬 3",
+      "hot": "❤️ 15 💬 3",
       "desc": "What is a Link?            Definition   A link is an interactive element that redirects the...",
       "source": "dev",
       "tag": "a11y,  webdev",
@@ -20,7 +12,7 @@
     },
     {
       "title": "What it takes to build docs worth reading",
-      "hot": "❤️ 6 💬 0",
+      "hot": "❤️ 8 💬 0",
       "desc": "From 476 to 1,900+ commits: See how the Midnight DevRel team treated documentation like a product and completely transfo",
       "source": "dev",
       "tag": "documentation,  developer",
@@ -41,6 +33,14 @@
       "source": "dev",
       "tag": "gemma4,  mcps",
       "url": "https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-mcp-cloud-run-and-antigravity-cli-3ckn"
+    },
+    {
+      "title": "Meme Monday",
+      "hot": "❤️ 12 💬 12",
+      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
+      "source": "dev",
+      "tag": "discuss,  jokes",
+      "url": "https://dev.to/ben/meme-monday-1b8h"
     },
     {
       "title": "Congrats to the Gemma 4 Challenge Winners!",
@@ -169,23 +169,15 @@
       "hot": "3.0m",
       "desc": "store.steampowered.com",
       "source": "tech",
-      "tag": "⬆️ 1025 points",
+      "tag": "⬆️ 1186 points",
       "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245"
     },
     {
-      "title": "Nearly Half of LG Smart TV Apps Contain Residential Proxy SDKs",
-      "hot": "3.0m",
-      "desc": "spur.us",
-      "source": "tech",
-      "tag": "⬆️ 111 points",
-      "url": "https://spur.us/blog/smart-tv-apps-residential-proxy-sdks"
-    },
-    {
-      "title": "Unsloth GLM-5.2 – How to Run Locally",
+      "title": "Runing GLM-5.2 on local hardware",
       "hot": "3.0m",
       "desc": "unsloth.ai",
       "source": "tech",
-      "tag": "⬆️ 56 points",
+      "tag": "⬆️ 160 points",
       "url": "https://unsloth.ai/docs/models/glm-5.2"
     },
     {
@@ -193,71 +185,87 @@
       "hot": "3.0m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 68 points",
+      "tag": "⬆️ 100 points",
       "url": "https://github.com/dorukkumkumoglu/optocamzero"
+    },
+    {
+      "title": "Cyberdecks, going analog, and convivial technology",
+      "hot": "3.0m",
+      "desc": "blog.hydroponictrash.solar",
+      "source": "tech",
+      "tag": "⬆️ 26 points",
+      "url": "https://blog.hydroponictrash.solar/cyberdecks-going-analog-and-convivial-technology/"
+    },
+    {
+      "title": "Polymarket's viral videos showed people winning big, but the bets were fake",
+      "hot": "2.9m",
+      "desc": "arstechnica.com",
+      "source": "tech",
+      "tag": "⬆️ 44 points",
+      "url": "https://arstechnica.com/tech-policy/2026/06/polymarkets-viral-videos-showed-people-winning-big-but-the-bets-were-fake/"
     },
     {
       "title": "British Columbia, Time Zones, and Postgres",
       "hot": "2.9m",
       "desc": "crunchydata.com",
       "source": "tech",
-      "tag": "⬆️ 77 points",
+      "tag": "⬆️ 104 points",
       "url": "https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes"
-    },
-    {
-      "title": "Japanese symbols that speak without words",
-      "hot": "2.9m",
-      "desc": "arun.is",
-      "source": "tech",
-      "tag": "⬆️ 71 points",
-      "url": "https://arun.is/blog/japan-symbols/"
     },
     {
       "title": "My Mathematical Regression",
       "hot": "2.9m",
       "desc": "blog.dahl.dev",
       "source": "tech",
-      "tag": "⬆️ 162 points",
+      "tag": "⬆️ 201 points",
       "url": "https://blog.dahl.dev/posts/my-mathematical-regression/"
+    },
+    {
+      "title": "Japanese symbols that speak without words",
+      "hot": "2.9m",
+      "desc": "arun.is",
+      "source": "tech",
+      "tag": "⬆️ 96 points",
+      "url": "https://arun.is/blog/japan-symbols/"
+    },
+    {
+      "title": "Is it time for a new Embedded Linux build system?",
+      "hot": "2.9m",
+      "desc": "yoebuild.org",
+      "source": "tech",
+      "tag": "⬆️ 30 points",
+      "url": "https://yoebuild.org/blog/time-for-a-new-build-system/"
     },
     {
       "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
       "hot": "2.9m",
       "desc": "hustvl.github.io",
       "source": "tech",
-      "tag": "⬆️ 203 points",
+      "tag": "⬆️ 228 points",
       "url": "https://hustvl.github.io/Moebius/"
     },
     {
-      "title": "Show HN: Oak – Git alternative designed for agents",
-      "hot": "2.9m",
-      "desc": "oak.space",
-      "source": "tech",
-      "tag": "⬆️ 125 points",
-      "url": "https://oak.space/oak/oak"
-    },
-    {
-      "title": "Kyber (YC W23) Is Hiring a Head of Engineering",
-      "hot": "2.9m",
-      "desc": "ycombinator.com",
-      "source": "tech",
-      "tag": "⬆️ 1 points",
-      "url": "https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering"
-    },
-    {
-      "title": "Canada is looking to build up to 10 new nuclear reactors over the next 15 years",
+      "title": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
       "hot": "2.9m",
       "desc": "cbc.ca",
       "source": "tech",
-      "tag": "⬆️ 189 points",
+      "tag": "⬆️ 276 points",
       "url": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509"
+    },
+    {
+      "title": "Show HN: Oak – Git alternative designed for agents",
+      "hot": "2.8m",
+      "desc": "oak.space",
+      "source": "tech",
+      "tag": "⬆️ 146 points",
+      "url": "https://oak.space/oak/oak"
     },
     {
       "title": "Canyon HUD helmet for road riding",
       "hot": "2.8m",
       "desc": "media-centre.canyon.com",
       "source": "tech",
-      "tag": "⬆️ 44 points",
+      "tag": "⬆️ 61 points",
       "url": "https://media-centre.canyon.com/en-INT/266866-new-canyon-heads-up-display-helmet-could-be-a-safety-gamechanger-for-road-riding/"
     },
     {
@@ -265,67 +273,67 @@
       "hot": "2.8m",
       "desc": "ipvm.com",
       "source": "tech",
-      "tag": "⬆️ 216 points",
+      "tag": "⬆️ 332 points",
       "url": "https://ipvm.com/reports/police-chiefs-track"
     },
     {
-      "title": "Codex logging bug may write TBs to local SSDs",
+      "title": "Kyber (YC W23) Is Hiring a Head of Engineering",
       "hot": "2.8m",
-      "desc": "github.com",
+      "desc": "ycombinator.com",
       "source": "tech",
-      "tag": "⬆️ 458 points",
-      "url": "https://github.com/openai/codex/issues/28224"
+      "tag": "⬆️ 1 points",
+      "url": "https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering"
     },
     {
-      "title": "Is it time for a new Embedded Linux build system?",
+      "title": "Prompt Injection as Role Confusion",
       "hot": "2.8m",
-      "desc": "yoebuild.org",
+      "desc": "role-confusion.github.io",
       "source": "tech",
-      "tag": "⬆️ 11 points",
-      "url": "https://yoebuild.org/blog/time-for-a-new-build-system/"
+      "tag": "⬆️ 150 points",
+      "url": "https://role-confusion.github.io"
     },
     {
-      "title": "PivCo-Huffman \"Merge\" Operations",
+      "title": "Job application asked for my SAT scores",
       "hot": "2.8m",
-      "desc": "fgiesen.wordpress.com",
+      "desc": "mrmarket.lol",
       "source": "tech",
-      "tag": "⬆️ 19 points",
-      "url": "https://fgiesen.wordpress.com/2026/06/21/pivco-huffman-merge-operations/"
-    },
-    {
-      "title": "GLM 5.2 vs. Opus",
-      "hot": "2.8m",
-      "desc": "techstackups.com",
-      "source": "tech",
-      "tag": "⬆️ 475 points",
-      "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/"
-    },
-    {
-      "title": "Nintendo Wii U games running from a 1980's Bernoulli disk [video]",
-      "hot": "2.7m",
-      "desc": "youtube.com",
-      "source": "tech",
-      "tag": "⬆️ 83 points",
-      "url": "https://www.youtube.com/watch?v=8GZDOpV2OXk"
-    },
-    {
-      "title": "Linux and Secure Boot certificate expiration (2025)",
-      "hot": "2.7m",
-      "desc": "lwn.net",
-      "source": "tech",
-      "tag": "⬆️ 85 points",
-      "url": "https://lwn.net/Articles/1029767/"
+      "tag": "⬆️ 65 points",
+      "url": "https://mrmarket.lol/job-application-asked-for-my-sat-scores/"
     },
     {
       "title": "DisplayMate",
       "hot": "2.7m",
       "desc": "displaymate.com",
       "source": "tech",
-      "tag": "⬆️ 79 points",
+      "tag": "⬆️ 93 points",
       "url": "https://www.displaymate.com/"
+    },
+    {
+      "title": "PivCo-Huffman “merge” operations",
+      "hot": "2.7m",
+      "desc": "fgiesen.wordpress.com",
+      "source": "tech",
+      "tag": "⬆️ 32 points",
+      "url": "https://fgiesen.wordpress.com/2026/06/21/pivco-huffman-merge-operations/"
+    },
+    {
+      "title": "How do flocking birds and schools of fish move?",
+      "hot": "2.7m",
+      "desc": "nyu.edu",
+      "source": "tech",
+      "tag": "⬆️ 13 points",
+      "url": "https://www.nyu.edu/about/news-publications/news/2026/june/how-do-flocking-birds-and-schools-of-fish-move--new-research-off.html"
     }
   ],
   "space": [
+    {
+      "title": "Live coverage: SpaceX to launch reentry capsule demo mission called ‘Starfall’",
+      "hot": "6/23",
+      "desc": "The mission is the debut of a new reentry capsule developed by SpaceX that weighs about 2,100 kg (4,600 lbs). Liftoff from pad 40 at Cape Canaveral Sp",
+      "source": "space",
+      "tag": "Spaceflight Now",
+      "url": "https://spaceflightnow.com/2026/06/23/live-coverage-spacex-to-launch-reentry-capsule-demo-mission-called-starfall/"
+    },
     {
       "title": "Trump signs executive order to accelerate quantum space infrastructure",
       "hot": "6/22",
@@ -437,14 +445,6 @@
       "source": "space",
       "tag": "Arstechnica",
       "url": "https://arstechnica.com/features/2026/06/this-former-hacker-saw-the-light-and-now-wants-to-collect-all-of-it/"
-    },
-    {
-      "title": "America is about to cede Africa’s space industry to China, and nobody’s talking about it.",
-      "hot": "6/22",
-      "desc": "\nIf the Trump administration is serious about executing its “America First in Africa” policy and transforming American engagement on the continent, it",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/america-is-about-to-cede-africas-space-industry-to-china-and-nobodys-talking-about-it/"
     }
   ],
   "github": [
@@ -458,23 +458,15 @@
     },
     {
       "title": "zhongerxin/Cowart: ",
-      "hot": "⭐ 1.9k",
+      "hot": "⭐ 2.0k",
       "desc": "zhongerxin/Cowart",
       "source": "github",
       "tag": "JavaScript",
       "url": "https://github.com/zhongerxin/Cowart"
     },
     {
-      "title": "alchaincyf/loop-engineering-orange-book: 别再问我什么是 Loop Engineering — 橙皮书系列。A plai",
-      "hot": "⭐ 745",
-      "desc": "别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/alchaincyf/loop-engineering-orange-book"
-    },
-    {
       "title": "rebel0789/codexpro: Use ChatGPT Developer Mode as a local coding agent for your ",
-      "hot": "⭐ 711",
+      "hot": "⭐ 714",
       "desc": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
       "source": "github",
       "tag": "JavaScript",
@@ -482,31 +474,31 @@
     },
     {
       "title": "Forsy-AI/agent-apprenticeship: The living ecosystem where AI agents learn from r",
-      "hot": "⭐ 681",
+      "hot": "⭐ 682",
       "desc": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal ",
       "source": "github",
       "tag": "GitHub",
       "url": "https://github.com/Forsy-AI/agent-apprenticeship"
     },
     {
-      "title": "aidenybai/cnfast: Fast drop in replacement for `cn`",
-      "hot": "⭐ 651",
-      "desc": "Fast drop in replacement for `cn`",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/aidenybai/cnfast"
-    },
-    {
       "title": "lyra81604/zhengxi-views: 可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法",
-      "hot": "⭐ 647",
+      "hot": "⭐ 670",
       "desc": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/lyra81604/zhengxi-views"
     },
     {
+      "title": "aidenybai/cnfast: Fast drop in replacement for `cn`",
+      "hot": "⭐ 662",
+      "desc": "Fast drop in replacement for `cn`",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/aidenybai/cnfast"
+    },
+    {
       "title": "kanavtwtgg/birds.cafe: ",
-      "hot": "⭐ 535",
+      "hot": "⭐ 549",
       "desc": "kanavtwtgg/birds.cafe",
       "source": "github",
       "tag": "JavaScript",
@@ -514,7 +506,7 @@
     },
     {
       "title": "ngrok/webernetes: Kubernetes in the browser.",
-      "hot": "⭐ 533",
+      "hot": "⭐ 539",
       "desc": "Kubernetes in the browser.",
       "source": "github",
       "tag": "TypeScript",
@@ -529,16 +521,16 @@
       "url": "https://github.com/Plaer1/junction"
     },
     {
-      "title": "dongshuyan/compass-skills: 司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment",
-      "hot": "⭐ 468",
-      "desc": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
+      "title": "baidu/Unlimited-OCR: Unlimited OCR Works: Welcome the Era of One-shot Long-horiz",
+      "hot": "⭐ 470",
+      "desc": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
       "source": "github",
       "tag": "Python",
-      "url": "https://github.com/dongshuyan/compass-skills"
+      "url": "https://github.com/baidu/Unlimited-OCR"
     },
     {
       "title": "boogu-project/Boogu-Image: Boogu-Image-0.1 is an Apache-2.0 open-source image ge",
-      "hot": "⭐ 460",
+      "hot": "⭐ 461",
       "desc": "Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of m",
       "source": "github",
       "tag": "Python",
@@ -546,7 +538,7 @@
     },
     {
       "title": "anthropics/launch-your-agent: Claude Code skills that take a founder from idea t",
-      "hot": "⭐ 417",
+      "hot": "⭐ 421",
       "desc": "Claude Code skills that take a founder from idea to a live Claude Managed Agent: interview, scope a v0, launch in their own account, grade it, iterate",
       "source": "github",
       "tag": "HTML",
@@ -554,7 +546,7 @@
     },
     {
       "title": "MstKail/polymarket-trading-bot-services-polyedge365: polymarket trading bot serv",
-      "hot": "⭐ 393",
+      "hot": "⭐ 395",
       "desc": "polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket trading",
       "source": "github",
       "tag": "GitHub",
@@ -562,11 +554,19 @@
     },
     {
       "title": "nnecrkvenuOX/formcms: AI Agent: Open-source headless CMS built with ASP.NET Core",
-      "hot": "⭐ 378",
+      "hot": "⭐ 379",
       "desc": "AI Agent: Open-source headless CMS built with ASP.NET Core (C#) and React, featuring REST APIs, GraphQL, and a GrapesJS page designer.",
       "source": "github",
       "tag": "C#",
       "url": "https://github.com/nnecrkvenuOX/formcms"
+    },
+    {
+      "title": "ReulgeApmpetty0O/Back-End-Developer-Interview-Questions: A list of back-end rela",
+      "hot": "⭐ 379",
+      "desc": "A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/ReulgeApmpetty0O/Back-End-Developer-Interview-Questions"
     }
   ]
 }
