@@ -1,328 +1,166 @@
 {
-  "updatedAt": "2026-06-23T23:33:15.284Z",
+  "updatedAt": "2026-06-24T01:50:22.790Z",
   "source": "live",
-  "dev": [
-    {
-      "title": "How My AI Agent Hacked Its Own Permissions (And What It Taught Me)",
-      "hot": "❤️ 7 💬 1",
-      "desc": "Have you ever tried to build an automation that works so well it bypasses the very rules you set for...",
-      "source": "dev",
-      "tag": "ai,  security",
-      "url": "https://dev.to/gdg/how-my-ai-agent-hacked-its-own-permissions-and-what-it-taught-me-34bm"
-    },
-    {
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 29 💬 6",
-      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
-      "source": "dev",
-      "tag": "top7,  discuss",
-      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-55d8"
-    },
-    {
-      "title": "AI found 300 WordPress plugin zero-days in 72 hours. I build plugins. Here's what changed for me.",
-      "hot": "❤️ 16 💬 2",
-      "desc": "Before I released my own AI chatbot plugin, I ran it through a security review. It came back with 35...",
-      "source": "dev",
-      "tag": "wordpress,  security",
-      "url": "https://dev.to/rapls/ai-found-300-wordpress-plugin-zero-days-in-72-hours-i-build-plugins-heres-what-changed-for-me-43na"
-    },
-    {
-      "title": "I Am Fired Up Again",
-      "hot": "❤️ 4 💬 0",
-      "desc": "A personal reflection on getting fired up again, chasing financial stability, building income that can outlast a job, an",
-      "source": "dev",
-      "tag": "career,  motivation",
-      "url": "https://dev.to/jenueldev/i-am-fired-up-again-377i"
-    },
-    {
-      "title": "12B Gemma 4 Deployment with NVIDIA Blackwell 6000, QAT, MTP, and Antigravity CLI",
-      "hot": "❤️ 5 💬 0",
-      "desc": "This article provides a step by step deployment guide for Gemma 4 to a Google Cloud Run hosted GPU...",
-      "source": "dev",
-      "tag": "speculativedecoding,  antigravitycli",
-      "url": "https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-qat-mtp-and-antigravity-cli-3gn6"
-    },
-    {
-      "title": "Debian Packages",
-      "hot": "❤️ 0 💬 0",
-      "desc": "Ubuntu OS (Operating System) is a distribution of Linux OS and is a derivative of Debian OS which is...",
-      "source": "dev",
-      "tag": "beginners,  cli",
-      "url": "https://dev.to/karuppiah7890/debian-packages-51gj"
-    },
-    {
-      "title": "Building a Custom Status Line for Claude Code",
-      "hot": "❤️ 2 💬 0",
-      "desc": "I spend most of my day in Claude Code. It's my pair programmer, code reviewer, and rubber duck all...",
-      "source": "dev",
-      "tag": "ai,  productivity",
-      "url": "https://dev.to/ndrone/building-a-custom-status-line-for-claude-code-5822"
-    },
-    {
-      "title": "Serverless Gemma 12B with NVIDIA A100 on Azure Container Apps",
-      "hot": "❤️ 5 💬 0",
-      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to Azure Container Apps. A...",
-      "source": "dev",
-      "tag": "qat,  gemma4",
-      "url": "https://dev.to/gde/serverless-gemma-12b-with-nvidia-a100-on-azure-container-apps-1ff4"
-    },
-    {
-      "title": "What it takes to build docs worth reading",
-      "hot": "❤️ 8 💬 0",
-      "desc": "From 476 to 1,900+ commits: See how the Midnight DevRel team treated documentation like a product and completely transfo",
-      "source": "dev",
-      "tag": "documentation,  developer",
-      "url": "https://dev.to/devsofmidnight/what-it-takes-to-build-docs-worth-reading-2290"
-    },
-    {
-      "title": "12B Gemma 4 Deployment with NVIDIA Blackwell 6000, MCP, Cloud Run, and Antigravity CLI",
-      "hot": "❤️ 5 💬 0",
-      "desc": "This article provides a step by step deployment guide for Gemma 4 to a Google Cloud Run hosted GPU...",
-      "source": "dev",
-      "tag": "gemma4,  mcps",
-      "url": "https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-mcp-cloud-run-and-antigravity-cli-3ckn"
-    },
-    {
-      "title": "Coding an Extension that Summarises Web Pages with HTML, CSS, and JS",
-      "hot": "❤️ 2 💬 3",
-      "desc": "In this post, I will show you how you can create a Google Chrome extension that instantly summarises...",
-      "source": "dev",
-      "tag": "html,  css",
-      "url": "https://dev.to/hr21don/coding-an-extension-that-summarises-web-pages-with-html-css-and-js-opm"
-    },
-    {
-      "title": "Working on a silly project - share your favorite AI buzzwords/phrases and general key terms with me please!!",
-      "hot": "❤️ 23 💬 13",
-      "desc": "Feel free to include any brands or product names as well. Be as obscure or on the nose as you'd like....",
-      "source": "dev",
-      "tag": "ai,  discuss",
-      "url": "https://dev.to/jess/working-on-a-silly-project-share-your-favorite-ai-buzzwordsphrases-and-general-key-terms-with-me-664"
-    },
-    {
-      "title": "Link or Button, that is the question.",
-      "hot": "❤️ 17 💬 3",
-      "desc": "What is a Link?            Definition   A link is an interactive element that redirects the...",
-      "source": "dev",
-      "tag": "a11y,  webdev",
-      "url": "https://dev.to/micaavigliano/link-or-button-that-is-the-question-2n13"
-    },
-    {
-      "title": "A year of building with AI and the thing that scared me most wasn't the hallucinations",
-      "hot": "❤️ 0 💬 0",
-      "desc": "A year ago I started building TasksForge. The premise was simple enough: use AI to simplify project...",
-      "source": "dev",
-      "tag": "Dev.to",
-      "url": "https://dev.to/smirfolio/a-year-of-building-with-ai-and-the-thing-that-scared-me-most-wasnt-the-hallucinations-3oce"
-    },
-    {
-      "title": "MTP Speculative Decoding with the 12B Gemma 4 QAT Model on NVIDIA L4, Cloud Run, MCP, and…",
-      "hot": "❤️ 5 💬 0",
-      "desc": "MTP Speculative Decoding with the 12B Gemma 4 QAT Model on NVIDIA L4, Cloud Run, MCP, and...",
-      "source": "dev",
-      "tag": "antigravity,  mcps",
-      "url": "https://dev.to/gde/mtp-speculative-decoding-with-the-12b-gemma-4-qat-model-on-nvidia-l4-cloud-run-mcp-and-18b0"
-    },
-    {
-      "title": "I stopped generating color scales and started shaping them",
-      "hot": "❤️ 5 💬 0",
-      "desc": "Generating a color scale is a solved problem. Hand most tools a color and you get back eleven valid,...",
-      "source": "dev",
-      "tag": "javascript,  webdev",
-      "url": "https://dev.to/gilbarbara/i-stopped-generating-color-scales-and-started-shaping-them-5ekm"
-    },
-    {
-      "title": "Multi-Tenancy Is the Real Agent Platform Problem",
-      "hot": "❤️ 0 💬 0",
-      "desc": "Overview    Read on Hashnode   What I have seen when building agent platforms is that most...",
-      "source": "dev",
-      "tag": "ai,  agents",
-      "url": "https://dev.to/luffy_14/multi-tenancy-is-the-real-agent-platform-problem-1dh2"
-    },
-    {
-      "title": "12B Gemma 4 QAT Deployment with GCE, NVIDIA L4, MCP, and Antigravity CLI",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article provides a step by step deployment guide for Gemma 4 to a Google Compute Engine hosted...",
-      "source": "dev",
-      "tag": "mcps,  qat",
-      "url": "https://dev.to/gde/12b-gemma-4-qat-deployment-with-gce-nvidia-l4-mcp-and-antigravity-cli-49d8"
-    },
-    {
-      "title": "How to Read a webrtc-internals Dump, Section by Section",
-      "hot": "❤️ 1 💬 0",
-      "desc": "When a WebRTC call goes bad, the browser already recorded what happened. Chrome keeps a live record...",
-      "source": "dev",
-      "tag": "webrtc,  javascript",
-      "url": "https://dev.to/tsahil/how-to-read-a-webrtc-internals-dump-section-by-section-598a"
-    },
-    {
-      "title": "Debugging Deployments with Gemma 12B, TPU v6e-1, MCP, and Antigravity CLI",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "source": "dev",
-      "tag": "antigravitycli,  gemma4",
-      "url": "https://dev.to/gde/debugging-deployments-with-gemma-12b-tpu-v6e-1-mcp-and-antigravity-cli-83n"
-    }
-  ],
   "tech": [
+    {
+      "title": "Vulnerability reports are not special anymore",
+      "hot": "3.0m",
+      "desc": "words.filippo.io",
+      "source": "tech",
+      "tag": "⬆️ 60 points",
+      "url": "https://words.filippo.io/vuln-reports/"
+    },
     {
       "title": "Jerry's Map",
       "hot": "3.0m",
       "desc": "jerrysmap.com",
       "source": "tech",
-      "tag": "⬆️ 278 points",
+      "tag": "⬆️ 332 points",
       "url": "http://www.jerrysmap.com/the-map"
     },
     {
-      "title": "Swift Package Index joins Apple",
+      "title": "A man was gifted his dream car by Kevin Mitnick, who he helped put in prison",
       "hot": "3.0m",
-      "desc": "swiftpackageindex.com",
+      "desc": "thedrive.com",
       "source": "tech",
-      "tag": "⬆️ 153 points",
-      "url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple"
+      "tag": "⬆️ 67 points",
+      "url": "https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison"
     },
     {
       "title": "FUTO Swipe – A new swipe typing model",
       "hot": "3.0m",
       "desc": "swipe.futo.tech",
       "source": "tech",
-      "tag": "⬆️ 191 points",
+      "tag": "⬆️ 277 points",
       "url": "https://swipe.futo.tech/"
     },
     {
-      "title": "Printing Gaussian Splats",
-      "hot": "3.0m",
-      "desc": "patreon.com",
+      "title": "Swift Package Index joins Apple",
+      "hot": "2.9m",
+      "desc": "swiftpackageindex.com",
       "source": "tech",
-      "tag": "⬆️ 126 points",
-      "url": "https://www.patreon.com/DanyBittel/posts/printing-splats-161333338"
+      "tag": "⬆️ 172 points",
+      "url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple"
+    },
+    {
+      "title": "Usbliter8: an A12/A13 SecureROM Exploit",
+      "hot": "2.9m",
+      "desc": "ps.tc",
+      "source": "tech",
+      "tag": "⬆️ 66 points",
+      "url": "https://ps.tc/pages/blog-usbliter8.html"
     },
     {
       "title": "In memory of the man who put red and green squiggles under words",
       "hot": "2.9m",
       "desc": "devblogs.microsoft.com",
       "source": "tech",
-      "tag": "⬆️ 66 points",
+      "tag": "⬆️ 148 points",
       "url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451"
+    },
+    {
+      "title": "Printing Gaussian Splats",
+      "hot": "2.9m",
+      "desc": "patreon.com",
+      "source": "tech",
+      "tag": "⬆️ 171 points",
+      "url": "https://www.patreon.com/DanyBittel/posts/printing-splats-161333338"
+    },
+    {
+      "title": "Extreme Heat conference cancelled due to extreme heat warning",
+      "hot": "2.9m",
+      "desc": "lse.ac.uk",
+      "source": "tech",
+      "tag": "⬆️ 131 points",
+      "url": "https://www.lse.ac.uk/granthaminstitute/events/extreme-heat-improving-governance-and-strengthening-action-around-the-world/"
+    },
+    {
+      "title": "Show HN: Y – A malleable coding-agent desktop app built with Electron",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 13 points",
+      "url": "https://github.com/y-times-y/y"
     },
     {
       "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
       "hot": "2.9m",
       "desc": "tikz.dev",
       "source": "tech",
-      "tag": "⬆️ 302 points",
+      "tag": "⬆️ 328 points",
       "url": "https://tikz.dev/editor/"
     },
     {
       "title": "The Coming Loop",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "lucumr.pocoo.org",
       "source": "tech",
-      "tag": "⬆️ 289 points",
+      "tag": "⬆️ 324 points",
       "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/"
     },
     {
-      "title": "Trains halted across Germany because of communication system problem",
-      "hot": "2.9m",
-      "desc": "apnews.com",
-      "source": "tech",
-      "tag": "⬆️ 125 points",
-      "url": "https://apnews.com/article/germany-trains-halted-communications-radio-problem-deutsche-bahn-e8fd970b2d889f3ae7ce03322d5c726b"
-    },
-    {
-      "title": "United Wizards of the Coast recognized by NLRB",
-      "hot": "2.9m",
-      "desc": "unitedwizardsofthecoast.com",
-      "source": "tech",
-      "tag": "⬆️ 83 points",
-      "url": "https://unitedwizardsofthecoast.com/news/2026-06-23-we-have-a-union"
-    },
-    {
       "title": "The worthlessness of Vitamin D is mildly exaggerated",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "dynomight.net",
       "source": "tech",
-      "tag": "⬆️ 164 points",
+      "tag": "⬆️ 205 points",
       "url": "https://dynomight.net/vitamin-d/"
     },
     {
-      "title": "Don't verify email addresses by sending spam to them",
-      "hot": "2.9m",
-      "desc": "milek7.pl",
+      "title": "I can haz smoller NixOS ISOs?",
+      "hot": "2.8m",
+      "desc": "natkr.com",
       "source": "tech",
-      "tag": "⬆️ 116 points",
-      "url": "https://milek7.pl/mailverifyspam/"
+      "tag": "⬆️ 21 points",
+      "url": "https://natkr.com/2026-06-19-nixos-but-smol/"
     },
     {
-      "title": "F* file system – file search that reads SSD directly bypassing OS kernel",
+      "title": "Inventing the Future, One Lisp Machine at a Time",
       "hot": "2.8m",
-      "desc": "github.com",
+      "desc": "patrickdomanico.com",
       "source": "tech",
-      "tag": "⬆️ 19 points",
-      "url": "https://github.com/dmtrKovalenko/ffs"
+      "tag": "⬆️ 70 points",
+      "url": "https://www.patrickdomanico.com/bpm/2026/06/16/inventing-the-future-one-lisp-machine-at-a-time/"
     },
     {
-      "title": "California AB 2047 makes 3D printers off-limits to students, educators, business",
+      "title": "Rhombus Language 1.0",
       "hot": "2.8m",
-      "desc": "the3dprintingnerd.com",
+      "desc": "blog.racket-lang.org",
       "source": "tech",
-      "tag": "⬆️ 178 points",
-      "url": "https://www.the3dprintingnerd.com/ab2047"
+      "tag": "⬆️ 70 points",
+      "url": "https://blog.racket-lang.org/2026/06/rhombus-v1.0.html"
+    },
+    {
+      "title": "QSOE: QNX-inspired OS with dual-kernel architecture",
+      "hot": "2.8m",
+      "desc": "qsoe-dev.blogspot.com",
+      "source": "tech",
+      "tag": "⬆️ 26 points",
+      "url": "https://qsoe-dev.blogspot.com/2026/06/qsoe-project-v01-is-released.html"
     },
     {
       "title": "Unlimited OCR: One-shot long-horizon parsing",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 426 points",
+      "tag": "⬆️ 438 points",
       "url": "https://github.com/baidu/Unlimited-OCR"
     },
     {
-      "title": "Five monitors on a Commodore 128 [video]",
-      "hot": "2.8m",
-      "desc": "youtube.com",
-      "source": "tech",
-      "tag": "⬆️ 99 points",
-      "url": "https://www.youtube.com/watch?v=ul5hC3PY1Yg"
-    },
-    {
-      "title": "Fired by Google for creating the Google workspace CLI",
-      "hot": "2.8m",
-      "desc": "twitter.com",
-      "source": "tech",
-      "tag": "⬆️ 202 points",
-      "url": "https://twitter.com/JPoehnelt/status/2069482265953087602"
-    },
-    {
-      "title": "2004 Huygens probe to Saturn's Titan: Still our only outer solar system lander",
-      "hot": "2.8m",
-      "desc": "spacedaily.com",
-      "source": "tech",
-      "tag": "⬆️ 5 points",
-      "url": "https://spacedaily.com/t-no-spacecraft-has-ever-landed-in-the-outer-solar-system-except-one-the-huygens-probe-which-parachuted-through-titans-orange-haze-in-2005-and-touched-down-more-than-a-billion-kilometres-fr/"
-    },
-    {
-      "title": "Samsung demonstrates 3D stacked FETs with triple nanosheet channels at 42nm",
+      "title": "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
       "hot": "2.7m",
-      "desc": "semiconductor.samsung.com",
+      "desc": "wired.com",
       "source": "tech",
-      "tag": "⬆️ 85 points",
-      "url": "https://semiconductor.samsung.com/news-events/tech-blog/from-gaa-to-3d-stacked-fet-expanding-the-transistor-into-the-third-dimension/"
+      "tag": "⬆️ 30 points",
+      "url": "https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/"
     },
     {
-      "title": "On the Skin-Furrows of the Hand (1880) [pdf]",
+      "title": "F* file system – file search that reads SSD directly bypassing OS kernel",
       "hot": "2.7m",
-      "desc": "galton.org",
+      "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 6 points",
-      "url": "https://galton.org/fingerprints/faulds-1880-nature-furrows.pdf"
-    },
-    {
-      "title": "Algorithmic Monocultures in Hiring",
-      "hot": "2.7m",
-      "desc": "hai.stanford.edu",
-      "source": "tech",
-      "tag": "⬆️ 125 points",
-      "url": "https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection"
+      "tag": "⬆️ 37 points",
+      "url": "https://github.com/dmtrKovalenko/ffs"
     }
   ],
   "space": [
@@ -447,26 +285,180 @@
       "url": "https://europeanspaceflight.com/esa-details-next-steps-for-agencys-gateway-contributions/"
     }
   ],
+  "dev": [
+    {
+      "title": "How My AI Agent Hacked Its Own Permissions (And What It Taught Me)",
+      "hot": "❤️ 10 💬 2",
+      "desc": "Have you ever tried to build an automation that works so well it bypasses the very rules you set for...",
+      "source": "dev",
+      "tag": "ai,  security",
+      "url": "https://dev.to/gdg/how-my-ai-agent-hacked-its-own-permissions-and-what-it-taught-me-34bm"
+    },
+    {
+      "title": "AI found 300 WordPress plugin zero-days in 72 hours. I build plugins. Here's what changed for me.",
+      "hot": "❤️ 17 💬 3",
+      "desc": "Before I released my own AI chatbot plugin, I ran it through a security review. It came back with 35...",
+      "source": "dev",
+      "tag": "wordpress,  security",
+      "url": "https://dev.to/rapls/ai-found-300-wordpress-plugin-zero-days-in-72-hours-i-build-plugins-heres-what-changed-for-me-43na"
+    },
+    {
+      "title": "I Am Fired Up Again",
+      "hot": "❤️ 4 💬 0",
+      "desc": "A personal reflection on getting fired up again, chasing financial stability, building income that can outlast a job, an",
+      "source": "dev",
+      "tag": "career,  motivation",
+      "url": "https://dev.to/jenueldev/i-am-fired-up-again-377i"
+    },
+    {
+      "title": "Debian Packages",
+      "hot": "❤️ 0 💬 0",
+      "desc": "Ubuntu OS (Operating System) is a distribution of Linux OS and is a derivative of Debian OS which is...",
+      "source": "dev",
+      "tag": "beginners,  cli",
+      "url": "https://dev.to/karuppiah7890/debian-packages-51gj"
+    },
+    {
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "hot": "❤️ 34 💬 7",
+      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+      "source": "dev",
+      "tag": "top7,  discuss",
+      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-55d8"
+    },
+    {
+      "title": "Building a Custom Status Line for Claude Code",
+      "hot": "❤️ 3 💬 0",
+      "desc": "I spend most of my day in Claude Code. It's my pair programmer, code reviewer, and rubber duck all...",
+      "source": "dev",
+      "tag": "ai,  productivity",
+      "url": "https://dev.to/ndrone/building-a-custom-status-line-for-claude-code-5822"
+    },
+    {
+      "title": "Serverless Gemma 12B with NVIDIA A100 on Azure Container Apps",
+      "hot": "❤️ 5 💬 0",
+      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to Azure Container Apps. A...",
+      "source": "dev",
+      "tag": "qat,  gemma4",
+      "url": "https://dev.to/gde/serverless-gemma-12b-with-nvidia-a100-on-azure-container-apps-1ff4"
+    },
+    {
+      "title": "What it takes to build docs worth reading",
+      "hot": "❤️ 8 💬 0",
+      "desc": "From 476 to 1,900+ commits: See how the Midnight DevRel team treated documentation like a product and completely transfo",
+      "source": "dev",
+      "tag": "documentation,  developer",
+      "url": "https://dev.to/devsofmidnight/what-it-takes-to-build-docs-worth-reading-2290"
+    },
+    {
+      "title": "12B Gemma 4 Deployment with NVIDIA Blackwell 6000, QAT, MTP, and Antigravity CLI",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article provides a step by step deployment guide for Gemma 4 to a Google Cloud Run hosted GPU...",
+      "source": "dev",
+      "tag": "speculativedecoding,  antigravitycli",
+      "url": "https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-qat-mtp-and-antigravity-cli-3gn6"
+    },
+    {
+      "title": "12B Gemma 4 Deployment with NVIDIA Blackwell 6000, MCP, Cloud Run, and Antigravity CLI",
+      "hot": "❤️ 5 💬 0",
+      "desc": "This article provides a step by step deployment guide for Gemma 4 to a Google Cloud Run hosted GPU...",
+      "source": "dev",
+      "tag": "gemma4,  mcps",
+      "url": "https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-mcp-cloud-run-and-antigravity-cli-3ckn"
+    },
+    {
+      "title": "Coding an Extension that Summarises Web Pages with HTML, CSS, and JS",
+      "hot": "❤️ 2 💬 3",
+      "desc": "In this post, I will show you how you can create a Google Chrome extension that instantly summarises...",
+      "source": "dev",
+      "tag": "html,  css",
+      "url": "https://dev.to/hr21don/coding-an-extension-that-summarises-web-pages-with-html-css-and-js-opm"
+    },
+    {
+      "title": "Working on a silly project - share your favorite AI buzzwords/phrases and general key terms with me please!!",
+      "hot": "❤️ 23 💬 13",
+      "desc": "Feel free to include any brands or product names as well. Be as obscure or on the nose as you'd like....",
+      "source": "dev",
+      "tag": "ai,  discuss",
+      "url": "https://dev.to/jess/working-on-a-silly-project-share-your-favorite-ai-buzzwordsphrases-and-general-key-terms-with-me-664"
+    },
+    {
+      "title": "Link or Button, that is the question.",
+      "hot": "❤️ 17 💬 3",
+      "desc": "What is a Link?            Definition   A link is an interactive element that redirects the...",
+      "source": "dev",
+      "tag": "a11y,  webdev",
+      "url": "https://dev.to/micaavigliano/link-or-button-that-is-the-question-2n13"
+    },
+    {
+      "title": "A year of building with AI and the thing that scared me most wasn't the hallucinations",
+      "hot": "❤️ 0 💬 0",
+      "desc": "A year ago I started building TasksForge. The premise was simple enough: use AI to simplify project...",
+      "source": "dev",
+      "tag": "Dev.to",
+      "url": "https://dev.to/smirfolio/a-year-of-building-with-ai-and-the-thing-that-scared-me-most-wasnt-the-hallucinations-3oce"
+    },
+    {
+      "title": "MTP Speculative Decoding with the 12B Gemma 4 QAT Model on NVIDIA L4, Cloud Run, MCP, and…",
+      "hot": "❤️ 5 💬 0",
+      "desc": "MTP Speculative Decoding with the 12B Gemma 4 QAT Model on NVIDIA L4, Cloud Run, MCP, and...",
+      "source": "dev",
+      "tag": "antigravity,  mcps",
+      "url": "https://dev.to/gde/mtp-speculative-decoding-with-the-12b-gemma-4-qat-model-on-nvidia-l4-cloud-run-mcp-and-18b0"
+    },
+    {
+      "title": "I stopped generating color scales and started shaping them",
+      "hot": "❤️ 5 💬 0",
+      "desc": "Generating a color scale is a solved problem. Hand most tools a color and you get back eleven valid,...",
+      "source": "dev",
+      "tag": "javascript,  webdev",
+      "url": "https://dev.to/gilbarbara/i-stopped-generating-color-scales-and-started-shaping-them-5ekm"
+    },
+    {
+      "title": "Multi-Tenancy Is the Real Agent Platform Problem",
+      "hot": "❤️ 0 💬 0",
+      "desc": "Overview    Read on Hashnode   What I have seen when building agent platforms is that most...",
+      "source": "dev",
+      "tag": "ai,  agents",
+      "url": "https://dev.to/luffy_14/multi-tenancy-is-the-real-agent-platform-problem-1dh2"
+    },
+    {
+      "title": "12B Gemma 4 QAT Deployment with GCE, NVIDIA L4, MCP, and Antigravity CLI",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article provides a step by step deployment guide for Gemma 4 to a Google Compute Engine hosted...",
+      "source": "dev",
+      "tag": "mcps,  qat",
+      "url": "https://dev.to/gde/12b-gemma-4-qat-deployment-with-gce-nvidia-l4-mcp-and-antigravity-cli-49d8"
+    },
+    {
+      "title": "How to Read a webrtc-internals Dump, Section by Section",
+      "hot": "❤️ 1 💬 0",
+      "desc": "When a WebRTC call goes bad, the browser already recorded what happened. Chrome keeps a live record...",
+      "source": "dev",
+      "tag": "webrtc,  javascript",
+      "url": "https://dev.to/tsahil/how-to-read-a-webrtc-internals-dump-section-by-section-598a"
+    },
+    {
+      "title": "Debugging Deployments with Gemma 12B, TPU v6e-1, MCP, and Antigravity CLI",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
+      "source": "dev",
+      "tag": "antigravitycli,  gemma4",
+      "url": "https://dev.to/gde/debugging-deployments-with-gemma-12b-tpu-v6e-1-mcp-and-antigravity-cli-83n"
+    }
+  ],
   "github": [
     {
       "title": "baidu/Unlimited-OCR: Unlimited OCR Works: Welcome the Era of One-shot Long-horiz",
-      "hot": "⭐ 3.4k",
+      "hot": "⭐ 3.7k",
       "desc": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/baidu/Unlimited-OCR"
     },
     {
-      "title": "vercel/eve: The Framework for Building Agents",
-      "hot": "⭐ 2.4k",
-      "desc": "The Framework for Building Agents",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/vercel/eve"
-    },
-    {
       "title": "zhongerxin/Cowart: ",
-      "hot": "⭐ 2.3k",
+      "hot": "⭐ 2.4k",
       "desc": "zhongerxin/Cowart",
       "source": "github",
       "tag": "JavaScript",
@@ -474,7 +466,7 @@
     },
     {
       "title": "lyra81604/zhengxi-views: 可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法",
-      "hot": "⭐ 910",
+      "hot": "⭐ 921",
       "desc": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
       "source": "github",
       "tag": "Python",
@@ -482,7 +474,7 @@
     },
     {
       "title": "Forsy-AI/agent-apprenticeship: The living ecosystem where AI agents learn from r",
-      "hot": "⭐ 850",
+      "hot": "⭐ 859",
       "desc": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal ",
       "source": "github",
       "tag": "GitHub",
@@ -490,83 +482,91 @@
     },
     {
       "title": "aidenybai/cnfast: Fast drop in replacement for `cn`",
-      "hot": "⭐ 780",
+      "hot": "⭐ 792",
       "desc": "Fast drop in replacement for `cn`",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/aidenybai/cnfast"
     },
     {
-      "title": "rebel0789/codexpro: Use ChatGPT Developer Mode as a local coding agent for your ",
-      "hot": "⭐ 777",
-      "desc": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/rebel0789/codexpro"
-    },
-    {
       "title": "kanavtwtgg/birds.cafe: ",
-      "hot": "⭐ 714",
+      "hot": "⭐ 717",
       "desc": "kanavtwtgg/birds.cafe",
       "source": "github",
       "tag": "JavaScript",
       "url": "https://github.com/kanavtwtgg/birds.cafe"
     },
     {
-      "title": "ngrok/webernetes: Kubernetes in the browser.",
-      "hot": "⭐ 607",
-      "desc": "Kubernetes in the browser.",
+      "title": "bozhouDev/codex-orange-book: Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
+      "hot": "⭐ 537",
+      "desc": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
       "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/ngrok/webernetes"
-    },
-    {
-      "title": "Plaer1/junction: VS Code chat sidebar for local AI coding agents",
-      "hot": "⭐ 531",
-      "desc": "VS Code chat sidebar for local AI coding agents",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/Plaer1/junction"
+      "tag": "HTML",
+      "url": "https://github.com/bozhouDev/codex-orange-book"
     },
     {
       "title": "sums001/Windows-Copilot-API: Reverse engineered Windows Copilot into an OpenAI-c",
-      "hot": "⭐ 521",
+      "hot": "⭐ 535",
       "desc": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or bi",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/sums001/Windows-Copilot-API"
     },
     {
-      "title": "boogu-project/Boogu-Image: Boogu-Image-0.1 is an Apache-2.0 open-source image ge",
-      "hot": "⭐ 519",
-      "desc": "Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of m",
+      "title": "Plaer1/junction: VS Code chat sidebar for local AI coding agents",
+      "hot": "⭐ 532",
+      "desc": "VS Code chat sidebar for local AI coding agents",
       "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/boogu-project/Boogu-Image"
+      "tag": "TypeScript",
+      "url": "https://github.com/Plaer1/junction"
     },
     {
       "title": "cloudflare/security-audit-skill: A coding-agent skill for multi-phase security a",
-      "hot": "⭐ 484",
+      "hot": "⭐ 493",
       "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "source": "github",
       "tag": "JavaScript",
       "url": "https://github.com/cloudflare/security-audit-skill"
     },
     {
-      "title": "anthropics/launch-your-agent: Claude Code skills that take a founder from idea t",
-      "hot": "⭐ 458",
-      "desc": "Claude Code skills that take a founder from idea to a live Claude Managed Agent: interview, scope a v0, launch in their own account, grade it, iterate",
+      "title": "raiyanyahya/recall: Stop wasting tokens and re-explaining your project every ses",
+      "hot": "⭐ 416",
+      "desc": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
       "source": "github",
-      "tag": "HTML",
-      "url": "https://github.com/anthropics/launch-your-agent"
+      "tag": "Python",
+      "url": "https://github.com/raiyanyahya/recall"
     },
     {
-      "title": "bozhouDev/codex-orange-book: Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
-      "hot": "⭐ 450",
-      "desc": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
+      "title": "yo-WASSUP/Good-Badminton: 🏸  AI Badminton Hawk-Eye System",
+      "hot": "⭐ 413",
+      "desc": "🏸  AI Badminton Hawk-Eye System",
       "source": "github",
-      "tag": "HTML",
-      "url": "https://github.com/bozhouDev/codex-orange-book"
+      "tag": "Python",
+      "url": "https://github.com/yo-WASSUP/Good-Badminton"
+    },
+    {
+      "title": "nnecrkvenuOX/formcms: AI Agent: Open-source headless CMS built with ASP.NET Core",
+      "hot": "⭐ 401",
+      "desc": "AI Agent: Open-source headless CMS built with ASP.NET Core (C#) and React, featuring REST APIs, GraphQL, and a GrapesJS page designer.",
+      "source": "github",
+      "tag": "C#",
+      "url": "https://github.com/nnecrkvenuOX/formcms"
+    },
+    {
+      "title": "ReulgeApmpetty0O/Back-End-Developer-Interview-Questions: A list of back-end rela",
+      "hot": "⭐ 400",
+      "desc": "A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/ReulgeApmpetty0O/Back-End-Developer-Interview-Questions"
+    },
+    {
+      "title": "overflowy/make-look-scanned: Makes PDFs look scanned (CLI or in the browser via ",
+      "hot": "⭐ 380",
+      "desc": "Makes PDFs look scanned (CLI or in the browser via WASM)",
+      "source": "github",
+      "tag": "Go",
+      "url": "https://github.com/overflowy/make-look-scanned"
     }
   ]
 }
