@@ -2,11 +2,35 @@
   "data": [
     {
       "title": "Welcome Thread - v381",
-      "hot": "❤️ 6 💬 7",
+      "hot": "❤️ 7 💬 20",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
       "url": "https://dev.to/devteam/welcome-thread-v381-3ko4"
+    },
+    {
+      "title": "Cognitive Pong: An Open Source Arena Where AI Agents Compete, Learn, and Train",
+      "hot": "❤️ 0 💬 0",
+      "desc": "An open source experiment exploring whether structured competition between AI agents can produce better reasoning, train",
+      "source": "dev",
+      "tag": "ai,  opensource",
+      "url": "https://dev.to/bclonan/cognitive-pong-an-open-source-arena-where-ai-agents-compete-learn-and-train-mdp"
+    },
+    {
+      "title": "Function Names in JS Can't Contain Spaces, Right?",
+      "hot": "❤️ 13 💬 1",
+      "desc": "WRONG!   Despite the widespread belief that function names in JavaScript MUST follow the...",
+      "source": "dev",
+      "tag": "javascript,  webdev",
+      "url": "https://dev.to/jonrandy/function-names-in-js-cant-contain-spaces-right-mp7"
+    },
+    {
+      "title": "Did you want more Claude on Cloud? ☁️ Let's talk about Securing Agents at Scale",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Did you want more Claude on Cloud? Well, look no further. We have something for you happening today...",
+      "source": "dev",
+      "tag": "eventsinyourcity,  ai",
+      "url": "https://dev.to/googleai/did-you-want-more-claude-on-cloud-lets-talk-about-securing-agents-at-scale-29jh"
     },
     {
       "title": "How My AI Agent Hacked Its Own Permissions (And What It Taught Me)",
@@ -15,6 +39,14 @@
       "source": "dev",
       "tag": "ai,  security",
       "url": "https://dev.to/gdg/how-my-ai-agent-hacked-its-own-permissions-and-what-it-taught-me-34bm"
+    },
+    {
+      "title": "Extending a Rust MCP/A2A Currency Agent with A2UI",
+      "hot": "❤️ 5 💬 0",
+      "desc": "Building an Agent with Rust,A2A, MCP, and A2UI   This tutorial aims to extend and test a...",
+      "source": "dev",
+      "tag": "rust,  antigravitycli",
+      "url": "https://dev.to/gde/extending-a-rust-mcpa2a-currency-agent-with-a2ui-22jc"
     },
     {
       "title": "What it takes to build docs worth reading",
@@ -49,12 +81,60 @@
       "url": "https://dev.to/ndrone/building-a-custom-status-line-for-claude-code-5822"
     },
     {
+      "title": "cuenv: one typed file for your whole project",
+      "hot": "❤️ 0 💬 0",
+      "desc": "Most projects don't have a configuration system — they have a pile:  a .env file, a Makefile, a CI workflow, and secrets",
+      "source": "dev",
+      "tag": "automation,  cicd",
+      "url": "https://dev.to/peterj/cuenv-one-typed-file-for-your-whole-project-76a"
+    },
+    {
+      "title": "Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync",
+      "hot": "❤️ 3 💬 1",
+      "desc": "Originally posted on...",
+      "source": "dev",
+      "tag": "python,  ai",
+      "url": "https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k"
+    },
+    {
       "title": "Top 7 Featured DEV Posts of the Week",
       "hot": "❤️ 39 💬 8",
       "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
       "source": "dev",
       "tag": "top7,  discuss",
       "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-55d8"
+    },
+    {
+      "title": "Building a multi-agent document-search copilot — Part 1: muddy results, and one strategy per query",
+      "hot": "❤️ 0 💬 1",
+      "desc": "Building a multi-agent document-search copilot — Part 1: muddy results, and one strategy per...",
+      "source": "dev",
+      "tag": "ai,  rag",
+      "url": "https://dev.to/rdiegoss/building-a-multi-agent-document-search-copilot-part-1-muddy-results-and-one-strategy-per-query-54og"
+    },
+    {
+      "title": "Multi-Agent Observability: See Everything Your AI Agents Do",
+      "hot": "❤️ 0 💬 0",
+      "desc": "Build a real-time observability system for your Claude Code agents. Learn how to monitor multiple agents simultaneously,",
+      "source": "dev",
+      "tag": "ai,  claudecode",
+      "url": "https://dev.to/bredmond1019/multi-agent-observability-see-everything-your-ai-agents-do-16e2"
+    },
+    {
+      "title": "🚀 One-Click Talos Omni Deployment: From Zero to Kubernetes in Minutes",
+      "hot": "❤️ 0 💬 0",
+      "desc": "One-Click Self-Hosted Talos Omni Deployment with Automatic TLS Trust Configuration   After...",
+      "source": "dev",
+      "tag": "tutorial,  homelab",
+      "url": "https://dev.to/jgilbertcastro/one-click-talos-omni-deployment-from-zero-to-kubernetes-in-minutes-fdc"
+    },
+    {
+      "title": "gookit/gcli v3.5.0 released - easy-to-use, feature-rich Go command line application and tool library",
+      "hot": "❤️ 1 💬 0",
+      "desc": "GCli v3.5 Updates: Changes Since v3.3.1    GCli is a command-line application and tool...",
+      "source": "dev",
+      "tag": "programming,  go",
+      "url": "https://dev.to/inhere/gookitgcli-v350-released-easy-to-use-feature-rich-go-command-line-application-and-tool-library-4jkn"
     },
     {
       "title": "I Am Fired Up Again",
@@ -73,93 +153,13 @@
       "url": "https://dev.to/karuppiah7890/debian-packages-51gj"
     },
     {
-      "title": "Link or Button, that is the question.",
-      "hot": "❤️ 17 💬 3",
-      "desc": "What is a Link?            Definition   A link is an interactive element that redirects the...",
-      "source": "dev",
-      "tag": "a11y,  webdev",
-      "url": "https://dev.to/micaavigliano/link-or-button-that-is-the-question-2n13"
-    },
-    {
       "title": "Serverless Gemma 12B with NVIDIA A100 on Azure Container Apps",
       "hot": "❤️ 6 💬 0",
       "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to Azure Container Apps. A...",
       "source": "dev",
       "tag": "qat,  gemma4",
       "url": "https://dev.to/gde/serverless-gemma-12b-with-nvidia-a100-on-azure-container-apps-1ff4"
-    },
-    {
-      "title": "A year of building with AI and the thing that scared me most wasn't the hallucinations",
-      "hot": "❤️ 0 💬 0",
-      "desc": "A year ago I started building TasksForge. The premise was simple enough: use AI to simplify project...",
-      "source": "dev",
-      "tag": "Dev.to",
-      "url": "https://dev.to/smirfolio/a-year-of-building-with-ai-and-the-thing-that-scared-me-most-wasnt-the-hallucinations-3oce"
-    },
-    {
-      "title": "MTP Speculative Decoding with the 12B Gemma 4 QAT Model on NVIDIA L4, Cloud Run, MCP, and…",
-      "hot": "❤️ 5 💬 0",
-      "desc": "MTP Speculative Decoding with the 12B Gemma 4 QAT Model on NVIDIA L4, Cloud Run, MCP, and...",
-      "source": "dev",
-      "tag": "antigravity,  mcps",
-      "url": "https://dev.to/gde/mtp-speculative-decoding-with-the-12b-gemma-4-qat-model-on-nvidia-l4-cloud-run-mcp-and-18b0"
-    },
-    {
-      "title": "I stopped generating color scales and started shaping them",
-      "hot": "❤️ 5 💬 0",
-      "desc": "Generating a color scale is a solved problem. Hand most tools a color and you get back eleven valid,...",
-      "source": "dev",
-      "tag": "javascript,  webdev",
-      "url": "https://dev.to/gilbarbara/i-stopped-generating-color-scales-and-started-shaping-them-5ekm"
-    },
-    {
-      "title": "Multi-Tenancy Is the Real Agent Platform Problem",
-      "hot": "❤️ 0 💬 0",
-      "desc": "Overview    Read on Hashnode   What I have seen when building agent platforms is that most...",
-      "source": "dev",
-      "tag": "ai,  agents",
-      "url": "https://dev.to/luffy_14/multi-tenancy-is-the-real-agent-platform-problem-1dh2"
-    },
-    {
-      "title": "12B Gemma 4 QAT Deployment with GCE, NVIDIA L4, MCP, and Antigravity CLI",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article provides a step by step deployment guide for Gemma 4 to a Google Compute Engine hosted...",
-      "source": "dev",
-      "tag": "mcps,  qat",
-      "url": "https://dev.to/gde/12b-gemma-4-qat-deployment-with-gce-nvidia-l4-mcp-and-antigravity-cli-49d8"
-    },
-    {
-      "title": "AI found 300 WordPress plugin zero-days in 72 hours. I build plugins. Here's what changed for me.",
-      "hot": "❤️ 20 💬 5",
-      "desc": "Before I released my own AI chatbot plugin, I ran it through a security review. It came back with 35...",
-      "source": "dev",
-      "tag": "wordpress,  security",
-      "url": "https://dev.to/rapls/ai-found-300-wordpress-plugin-zero-days-in-72-hours-i-build-plugins-heres-what-changed-for-me-43na"
-    },
-    {
-      "title": "How to Read a webrtc-internals Dump, Section by Section",
-      "hot": "❤️ 1 💬 0",
-      "desc": "When a WebRTC call goes bad, the browser already recorded what happened. Chrome keeps a live record...",
-      "source": "dev",
-      "tag": "webrtc,  javascript",
-      "url": "https://dev.to/tsahil/how-to-read-a-webrtc-internals-dump-section-by-section-598a"
-    },
-    {
-      "title": "Debugging Deployments with Gemma 12B, TPU v6e-1, MCP, and Antigravity CLI",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "source": "dev",
-      "tag": "antigravitycli,  gemma4",
-      "url": "https://dev.to/gde/debugging-deployments-with-gemma-12b-tpu-v6e-1-mcp-and-antigravity-cli-83n"
-    },
-    {
-      "title": "Deploying Gemma 12B to Azure with GPU",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to an Azure hosted GPU...",
-      "source": "dev",
-      "tag": "qat,  gemma4",
-      "url": "https://dev.to/gde/deploying-gemma-12b-to-azure-with-gpu-5bcd"
     }
   ],
-  "updatedAt": "2026-06-24T16:09:37.793Z"
+  "updatedAt": "2026-06-24T18:14:34.135Z"
 }
