@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T23:59:25.157Z",
+  "updatedAt": "2026-06-25T03:24:23.845Z",
   "source": "live",
   "dev": [
     {
@@ -9,14 +9,6 @@
       "source": "dev",
       "tag": "ai,  opensource",
       "url": "https://dev.to/bclonan/cognitive-pong-an-open-source-arena-where-ai-agents-compete-learn-and-train-mdp"
-    },
-    {
-      "title": "Function Names in JS Can't Contain Spaces, Right?",
-      "hot": "❤️ 13 💬 1",
-      "desc": "WRONG!   Despite the widespread belief that function names in JavaScript MUST follow the...",
-      "source": "dev",
-      "tag": "javascript,  webdev",
-      "url": "https://dev.to/jonrandy/function-names-in-js-cant-contain-spaces-right-mp7"
     },
     {
       "title": "Did you want more Claude on Cloud? ☁️ Let's talk about Securing Agents at Scale",
@@ -41,14 +33,6 @@
       "source": "dev",
       "tag": "rust,  antigravitycli",
       "url": "https://dev.to/gde/extending-a-rust-mcpa2a-currency-agent-with-a2ui-22jc"
-    },
-    {
-      "title": "Welcome Thread - v381",
-      "hot": "❤️ 9 💬 38",
-      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
-      "source": "dev",
-      "tag": "welcome",
-      "url": "https://dev.to/devteam/welcome-thread-v381-3ko4"
     },
     {
       "title": "What it takes to build docs worth reading",
@@ -81,6 +65,22 @@
       "source": "dev",
       "tag": "ai,  productivity",
       "url": "https://dev.to/ndrone/building-a-custom-status-line-for-claude-code-5822"
+    },
+    {
+      "title": "Welcome Thread - v381",
+      "hot": "❤️ 10 💬 47",
+      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
+      "source": "dev",
+      "tag": "welcome",
+      "url": "https://dev.to/devteam/welcome-thread-v381-3ko4"
+    },
+    {
+      "title": "Function Names in JS Can't Contain Spaces, Right?",
+      "hot": "❤️ 13 💬 1",
+      "desc": "WRONG!   Despite the widespread belief that function names in JavaScript MUST follow the...",
+      "source": "dev",
+      "tag": "javascript,  webdev",
+      "url": "https://dev.to/jonrandy/function-names-in-js-cant-contain-spaces-right-mp7"
     },
     {
       "title": "cuenv: one typed file for your whole project",
@@ -163,7 +163,177 @@
       "url": "https://dev.to/lordmathis/building-an-ai-homelab-330o"
     }
   ],
+  "tech": [
+    {
+      "title": "LuaJIT 3.0 proposed syntax extensions",
+      "hot": "3.0m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 81 points",
+      "url": "https://github.com/LuaJIT/LuaJIT/issues/1475"
+    },
+    {
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "hot": "3.0m",
+      "desc": "techcrunch.com",
+      "source": "tech",
+      "tag": "⬆️ 569 points",
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/"
+    },
+    {
+      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+      "hot": "3.0m",
+      "desc": "reuters.com",
+      "source": "tech",
+      "tag": "⬆️ 121 points",
+      "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/"
+    },
+    {
+      "title": "Blogging can just be stating the obvious",
+      "hot": "3.0m",
+      "desc": "blog.jim-nielsen.com",
+      "source": "tech",
+      "tag": "⬆️ 96 points",
+      "url": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/"
+    },
+    {
+      "title": "Ending All Respiratory Infections",
+      "hot": "2.9m",
+      "desc": "blog.interceptfund.com",
+      "source": "tech",
+      "tag": "⬆️ 50 points",
+      "url": "https://blog.interceptfund.com/p/ending-respiratory-infections"
+    },
+    {
+      "title": "Dostoyevsky isn't difficult",
+      "hot": "2.9m",
+      "desc": "autodidacts.io",
+      "source": "tech",
+      "tag": "⬆️ 60 points",
+      "url": "https://www.autodidacts.io/dostoyevsky-isnt-difficult/"
+    },
+    {
+      "title": "Qualcomm to Acquire Modular",
+      "hot": "2.9m",
+      "desc": "reuters.com",
+      "source": "tech",
+      "tag": "⬆️ 158 points",
+      "url": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/"
+    },
+    {
+      "title": "Mixing Visual and Textual Code",
+      "hot": "2.9m",
+      "desc": "arxiv.org",
+      "source": "tech",
+      "tag": "⬆️ 15 points",
+      "url": "https://arxiv.org/abs/2603.15855"
+    },
+    {
+      "title": "Cloudflare launched self-managed OAuth for all",
+      "hot": "2.9m",
+      "desc": "blog.cloudflare.com",
+      "source": "tech",
+      "tag": "⬆️ 12 points",
+      "url": "https://blog.cloudflare.com/oauth-for-all/"
+    },
+    {
+      "title": "RubyLLM: A Ruby framework for all major AI providers",
+      "hot": "2.9m",
+      "desc": "rubyllm.com",
+      "source": "tech",
+      "tag": "⬆️ 355 points",
+      "url": "https://rubyllm.com/"
+    },
+    {
+      "title": "45°C cooling design cuts data center water use to near zero",
+      "hot": "2.9m",
+      "desc": "blogs.nvidia.com",
+      "source": "tech",
+      "tag": "⬆️ 223 points",
+      "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/"
+    },
+    {
+      "title": "Exploring the internal representations of Pangram 3.3.2",
+      "hot": "2.8m",
+      "desc": "pangram.com",
+      "source": "tech",
+      "tag": "⬆️ 13 points",
+      "url": "https://www.pangram.com/pangram-space"
+    },
+    {
+      "title": "GLM-5.2 is a step change for open agents",
+      "hot": "2.8m",
+      "desc": "interconnects.ai",
+      "source": "tech",
+      "tag": "⬆️ 143 points",
+      "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open"
+    },
+    {
+      "title": "PR spam today looks like email spam in the early 2000s",
+      "hot": "2.8m",
+      "desc": "greptile.com",
+      "source": "tech",
+      "tag": "⬆️ 187 points",
+      "url": "https://www.greptile.com/blog/prs-on-openclaw"
+    },
+    {
+      "title": "Computer use in Gemini 3.5 Flash",
+      "hot": "2.8m",
+      "desc": "blog.google",
+      "source": "tech",
+      "tag": "⬆️ 185 points",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/"
+    },
+    {
+      "title": "Bible as RAG Database",
+      "hot": "2.8m",
+      "desc": "crosscanon.com",
+      "source": "tech",
+      "tag": "⬆️ 54 points",
+      "url": "https://www.crosscanon.com/"
+    },
+    {
+      "title": "What I'm Finding About LLM Code Style and Token Costs",
+      "hot": "2.8m",
+      "desc": "jimmont.com",
+      "source": "tech",
+      "tag": "⬆️ 14 points",
+      "url": "https://www.jimmont.com/llm-style-token-costs"
+    },
+    {
+      "title": "15 sorting algorithms in 6 minutes (2013) [video]",
+      "hot": "2.7m",
+      "desc": "youtube.com",
+      "source": "tech",
+      "tag": "⬆️ 6 points",
+      "url": "https://www.youtube.com/watch?v=kPRA0W1kECg"
+    },
+    {
+      "title": "The Xteink X4 E-Ink Reader",
+      "hot": "2.7m",
+      "desc": "blog.omgmog.net",
+      "source": "tech",
+      "tag": "⬆️ 187 points",
+      "url": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/"
+    },
+    {
+      "title": "Crawling BitTorrent DHTs for Fun and Profit [pdf]",
+      "hot": "2.7m",
+      "desc": "usenix.org",
+      "source": "tech",
+      "tag": "⬆️ 72 points",
+      "url": "https://www.usenix.org/legacy/event/woot10/tech/full_papers/Wolchok.pdf"
+    }
+  ],
   "space": [
+    {
+      "title": "NASA’s TESS Mission Reveals the “Puffiest” Planets Ever Found",
+      "hot": "6/25",
+      "desc": "NASA has revealed two new “super-puff” planets, giant worlds so light that their density is comparable to cotton candy. Scientists calculate that thes",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/missions/tess/nasas-tess-mission-reveals-the-puffiest-planets-ever-found/"
+    },
     {
       "title": "Live Coverage: West Coast Falcon 9 launch to continue expansion of SpaceX’s Starlink network",
       "hot": "6/24",
@@ -275,182 +445,12 @@
       "source": "space",
       "tag": "NASA",
       "url": "https://www.nasa.gov/learning-resources/career-spotlight-electrician-ages-14-18/"
-    },
-    {
-      "title": "York satellite demonstrates two-way UHF communications from low Earth orbit",
-      "hot": "6/24",
-      "desc": "WASHINGTON — York Space Systems said June 24 that a satellite it built for the U.S. Space Force successfully demonstrated two-way tactical communicati",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/york-satellite-demonstrates-two-way-uhf-communications-from-low-earth-orbit/"
-    }
-  ],
-  "tech": [
-    {
-      "title": "OpenAI unveils its first custom chip, built by Broadcom",
-      "hot": "3.0m",
-      "desc": "techcrunch.com",
-      "source": "tech",
-      "tag": "⬆️ 463 points",
-      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/"
-    },
-    {
-      "title": "PostgreSQL Is Enough",
-      "hot": "3.0m",
-      "desc": "gist.github.com",
-      "source": "tech",
-      "tag": "⬆️ 60 points",
-      "url": "https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb"
-    },
-    {
-      "title": "Qualcomm to Acquire Modular",
-      "hot": "3.0m",
-      "desc": "reuters.com",
-      "source": "tech",
-      "tag": "⬆️ 115 points",
-      "url": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/"
-    },
-    {
-      "title": "RubyLLM: A Ruby framework for all major AI providers",
-      "hot": "3.0m",
-      "desc": "rubyllm.com",
-      "source": "tech",
-      "tag": "⬆️ 333 points",
-      "url": "https://rubyllm.com/"
-    },
-    {
-      "title": "We’re making Bunny DNS free",
-      "hot": "2.9m",
-      "desc": "bunny.net",
-      "source": "tech",
-      "tag": "⬆️ 835 points",
-      "url": "https://bunny.net/blog/were-making-bunny-dns-free/"
-    },
-    {
-      "title": "PR spam today looks like email spam in the early 2000s",
-      "hot": "2.9m",
-      "desc": "greptile.com",
-      "source": "tech",
-      "tag": "⬆️ 166 points",
-      "url": "https://www.greptile.com/blog/prs-on-openclaw"
-    },
-    {
-      "title": "Computer use in Gemini 3.5 Flash",
-      "hot": "2.9m",
-      "desc": "blog.google",
-      "source": "tech",
-      "tag": "⬆️ 147 points",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/"
-    },
-    {
-      "title": "The Xteink X4 E-Ink Reader",
-      "hot": "2.9m",
-      "desc": "blog.omgmog.net",
-      "source": "tech",
-      "tag": "⬆️ 151 points",
-      "url": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/"
-    },
-    {
-      "title": "Crawling BitTorrent DHTs for Fun and Profit [pdf]",
-      "hot": "2.9m",
-      "desc": "usenix.org",
-      "source": "tech",
-      "tag": "⬆️ 48 points",
-      "url": "https://www.usenix.org/legacy/event/woot10/tech/full_papers/Wolchok.pdf"
-    },
-    {
-      "title": "45°C cooling design cuts data center water use to near zero",
-      "hot": "2.9m",
-      "desc": "blogs.nvidia.com",
-      "source": "tech",
-      "tag": "⬆️ 144 points",
-      "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/"
-    },
-    {
-      "title": "GLM-5.2 is a step change for open agents",
-      "hot": "2.9m",
-      "desc": "interconnects.ai",
-      "source": "tech",
-      "tag": "⬆️ 96 points",
-      "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open"
-    },
-    {
-      "title": "There are a few things that I look back on as my mistakes in the early days",
-      "hot": "2.8m",
-      "desc": "twitter.com",
-      "source": "tech",
-      "tag": "⬆️ 468 points",
-      "url": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247"
-    },
-    {
-      "title": "Show HN: Nub – A Bun-like all-in-one toolkit for Node.js",
-      "hot": "2.8m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 191 points",
-      "url": "https://github.com/nubjs/nub"
-    },
-    {
-      "title": "It's Only When You Look Back",
-      "hot": "2.8m",
-      "desc": "markround.com",
-      "source": "tech",
-      "tag": "⬆️ 7 points",
-      "url": "https://www.markround.com/blog/2026/06/17/25-its-only-when-you-look-back/"
-    },
-    {
-      "title": "Show HN: LookAway, a Mac break reminder that knows when not to interrupt",
-      "hot": "2.8m",
-      "desc": "lookaway.com",
-      "source": "tech",
-      "tag": "⬆️ 47 points",
-      "url": "https://lookaway.com"
-    },
-    {
-      "title": "Show HN: Wordit – Change One Letter, Keep the Chain Going",
-      "hot": "2.8m",
-      "desc": "victorribeiro.com",
-      "source": "tech",
-      "tag": "⬆️ 6 points",
-      "url": "https://victorribeiro.com/wordit/"
-    },
-    {
-      "title": "Elastic lays off 7% of employees",
-      "hot": "2.8m",
-      "desc": "elastic.co",
-      "source": "tech",
-      "tag": "⬆️ 91 points",
-      "url": "https://www.elastic.co/blog/ceo-ash-kulkarni-announcement-to-elastic-employees"
-    },
-    {
-      "title": "Stealing Is a Skill",
-      "hot": "2.7m",
-      "desc": "ben-mini.com",
-      "source": "tech",
-      "tag": "⬆️ 202 points",
-      "url": "https://ben-mini.com/2026/stealing-is-a-skill"
-    },
-    {
-      "title": "GitHub shouldn't be a dependency for publishing Rust on crates.io",
-      "hot": "2.7m",
-      "desc": "infosec.exchange",
-      "source": "tech",
-      "tag": "⬆️ 132 points",
-      "url": "https://infosec.exchange/@mttaggart/116806641273303255"
-    },
-    {
-      "title": "Krea 2: SOTA open-weights 12B image model",
-      "hot": "2.7m",
-      "desc": "krea.ai",
-      "source": "tech",
-      "tag": "⬆️ 323 points",
-      "url": "https://www.krea.ai/blog/krea-2-technical-report"
     }
   ],
   "github": [
     {
       "title": "baidu/Unlimited-OCR: Unlimited OCR Works: Welcome the Era of One-shot Long-horiz",
-      "hot": "⭐ 6.3k",
+      "hot": "⭐ 6.6k",
       "desc": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
       "source": "github",
       "tag": "Python",
@@ -458,7 +458,7 @@
     },
     {
       "title": "zhongerxin/Cowart: ",
-      "hot": "⭐ 2.6k",
+      "hot": "⭐ 2.7k",
       "desc": "zhongerxin/Cowart",
       "source": "github",
       "tag": "JavaScript",
@@ -466,7 +466,7 @@
     },
     {
       "title": "bozhouDev/codex-orange-book: Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
-      "hot": "⭐ 1.4k",
+      "hot": "⭐ 1.5k",
       "desc": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
       "source": "github",
       "tag": "HTML",
@@ -474,7 +474,7 @@
     },
     {
       "title": "lyra81604/zhengxi-views: 可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法",
-      "hot": "⭐ 987",
+      "hot": "⭐ 994",
       "desc": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
       "source": "github",
       "tag": "Python",
@@ -482,7 +482,7 @@
     },
     {
       "title": "Forsy-AI/agent-apprenticeship: The living ecosystem where AI agents learn from r",
-      "hot": "⭐ 905",
+      "hot": "⭐ 914",
       "desc": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal ",
       "source": "github",
       "tag": "GitHub",
@@ -490,7 +490,7 @@
     },
     {
       "title": "aidenybai/cnfast: Fast drop in replacement for `cn`",
-      "hot": "⭐ 877",
+      "hot": "⭐ 886",
       "desc": "Fast drop in replacement for `cn`",
       "source": "github",
       "tag": "TypeScript",
@@ -498,7 +498,7 @@
     },
     {
       "title": "kanavtwtgg/birds.cafe: ",
-      "hot": "⭐ 765",
+      "hot": "⭐ 769",
       "desc": "kanavtwtgg/birds.cafe",
       "source": "github",
       "tag": "JavaScript",
@@ -506,7 +506,7 @@
     },
     {
       "title": "cloudflare/security-audit-skill: A coding-agent skill for multi-phase security a",
-      "hot": "⭐ 701",
+      "hot": "⭐ 749",
       "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "source": "github",
       "tag": "JavaScript",
@@ -514,59 +514,59 @@
     },
     {
       "title": "sums001/Windows-Copilot-API: Reverse engineered Windows Copilot into an OpenAI-c",
-      "hot": "⭐ 659",
+      "hot": "⭐ 674",
       "desc": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or bi",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/sums001/Windows-Copilot-API"
     },
     {
-      "title": "Plaer1/junction: VS Code chat sidebar for local AI coding agents",
-      "hot": "⭐ 533",
-      "desc": "VS Code chat sidebar for local AI coding agents",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/Plaer1/junction"
-    },
-    {
-      "title": "SakanaAI/fugu: ",
-      "hot": "⭐ 487",
-      "desc": "SakanaAI/fugu",
-      "source": "github",
-      "tag": "Shell",
-      "url": "https://github.com/SakanaAI/fugu"
-    },
-    {
-      "title": "yo-WASSUP/Good-Badminton: 🏸  AI Badminton Hawk-Eye System",
-      "hot": "⭐ 476",
-      "desc": "🏸  AI Badminton Hawk-Eye System",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/yo-WASSUP/Good-Badminton"
-    },
-    {
       "title": "raiyanyahya/recall: Stop wasting tokens and re-explaining your project every ses",
-      "hot": "⭐ 472",
+      "hot": "⭐ 486",
       "desc": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/raiyanyahya/recall"
     },
     {
-      "title": "ReulgeApmpetty0O/Back-End-Developer-Interview-Questions: A list of back-end rela",
-      "hot": "⭐ 407",
-      "desc": "A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore",
+      "title": "yo-WASSUP/Good-Badminton: 🏸  AI Badminton Hawk-Eye System",
+      "hot": "⭐ 481",
+      "desc": "🏸  AI Badminton Hawk-Eye System",
       "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/ReulgeApmpetty0O/Back-End-Developer-Interview-Questions"
+      "tag": "Python",
+      "url": "https://github.com/yo-WASSUP/Good-Badminton"
     },
     {
-      "title": "nnecrkvenuOX/formcms: AI Agent: Open-source headless CMS built with ASP.NET Core",
-      "hot": "⭐ 406",
-      "desc": "AI Agent: Open-source headless CMS built with ASP.NET Core (C#) and React, featuring REST APIs, GraphQL, and a GrapesJS page designer.",
+      "title": "overflowy/make-look-scanned: Makes PDFs look scanned (CLI or in the browser via ",
+      "hot": "⭐ 404",
+      "desc": "Makes PDFs look scanned (CLI or in the browser via WASM)",
       "source": "github",
-      "tag": "C#",
-      "url": "https://github.com/nnecrkvenuOX/formcms"
+      "tag": "Go",
+      "url": "https://github.com/overflowy/make-look-scanned"
+    },
+    {
+      "title": "HKUDS/AgentSpace: \"AgentSpace: Human + Agents. One Team. One Workspace\"",
+      "hot": "⭐ 358",
+      "desc": "\"AgentSpace: Human + Agents. One Team. One Workspace\"",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/HKUDS/AgentSpace"
+    },
+    {
+      "title": "eooce/transfer-api: Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropi",
+      "hot": "⭐ 351",
+      "desc": "Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/eooce/transfer-api"
+    },
+    {
+      "title": "ksimback/looper: Design visual, review-gated agent loops for Claude Code before ",
+      "hot": "⭐ 341",
+      "desc": "Design visual, review-gated agent loops for Claude Code before you run them.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/ksimback/looper"
     }
   ]
 }
