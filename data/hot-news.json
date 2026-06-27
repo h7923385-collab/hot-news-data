@@ -1,7 +1,39 @@
 {
-  "updatedAt": "2026-06-26T23:38:35.872Z",
+  "updatedAt": "2026-06-27T01:49:48.700Z",
   "source": "live",
   "dev": [
+    {
+      "title": "What was your win this week!?",
+      "hot": "❤️ 28 💬 14",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "discuss,  weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-4na1"
+    },
+    {
+      "title": "Never forget to enter the Stern Grove lottery again!",
+      "hot": "❤️ 15 💬 3",
+      "desc": "Browser automation with Playwright, Python, GitHub Actions, and Entire to auto-enter San Francisco Stern Grove concert l",
+      "source": "dev",
+      "tag": "ai,  playwright",
+      "url": "https://dev.to/entire/never-forget-to-enter-the-stern-grove-lottery-again-31i5"
+    },
+    {
+      "title": "A Free Screenshot Editor That Never Uploads Your Image",
+      "hot": "❤️ 0 💬 0",
+      "desc": "A free screenshot and image editor that runs entirely in your browser. Keeping every edit reversible and handling big ph",
+      "source": "dev",
+      "tag": "typescript,  editor",
+      "url": "https://dev.to/martinstark/a-free-screenshot-editor-that-never-uploads-your-image-npb"
+    },
+    {
+      "title": "A Guide to AI Cold Starts on Cloud Run",
+      "hot": "❤️ 14 💬 0",
+      "desc": "I saw a developer asking on Reddit if there was any “sane way” to manage Cloud Run cold starts for AI...",
+      "source": "dev",
+      "tag": "ai,  devops",
+      "url": "https://dev.to/googleai/a-guide-to-ai-cold-starts-on-cloud-run-c6d"
+    },
     {
       "title": "Cognitive Pong: An Open Source Arena Where AI Agents Compete, Learn, and Train",
       "hot": "❤️ 0 💬 0",
@@ -17,6 +49,14 @@
       "source": "dev",
       "tag": "progressiveenhancement,  webcomponents",
       "url": "https://dev.to/jon49/action-declarative-event-handlers-in-an-attribute-3b35"
+    },
+    {
+      "title": "I built a CLI to break my highlights out of Apple Books",
+      "hot": "❤️ 2 💬 0",
+      "desc": "A macOS CLI + MCP server that exports Apple Books highlights to Markdown and gives AI assistants direct access to your r",
+      "source": "dev",
+      "tag": "showdev,  opensource",
+      "url": "https://dev.to/andreykorchak/i-built-a-cli-to-break-my-highlights-out-of-apple-books-51jn"
     },
     {
       "title": "The Rise of Agentic Engineering — Part 1: The Prompt Engineering Era",
@@ -51,12 +91,20 @@
       "url": "https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-mcp-cloud-run-and-antigravity-cli-3ckn"
     },
     {
-      "title": "Winner Announcement Delayed for the Github \"Finish-Up-A-Thon\" Challenge",
-      "hot": "❤️ 27 💬 10",
-      "desc": "Hey all, we have a quick update for everyone who participated in the Github \"Finish-Up-A-Thon\"...",
+      "title": "Tactical vs. Strategic Agentic AI Development — A Playbook for Developers",
+      "hot": "❤️ 7 💬 0",
+      "desc": "The Strategic Engineer: Why Writing Code Is No Longer Your Most Valuable Skill           ...",
       "source": "dev",
-      "tag": "devchallenge,  githubchallenge",
-      "url": "https://dev.to/devteam/winner-announcement-delayed-for-the-github-finish-up-a-thon-challenge-1766"
+      "tag": "agents,  ai",
+      "url": "https://dev.to/gde/tactical-vs-strategic-agentic-ai-development-a-playbook-for-developers-1654"
+    },
+    {
+      "title": "AI Is Too Good at Coding - So I Built Something to Keep the Why (and Make It Scale)",
+      "hot": "❤️ 1 💬 0",
+      "desc": "Over the past few months I've been building with Cursor, Claude Code, and Codex - same tools a lot of...",
+      "source": "dev",
+      "tag": "ai,  claude",
+      "url": "https://dev.to/karthickramachandran/ai-is-too-good-at-coding-so-i-built-something-to-keep-the-why-and-make-it-scale-1hmf"
     },
     {
       "title": "Lite-Harness SDK",
@@ -113,54 +161,6 @@
       "source": "dev",
       "tag": "automation,  cicd",
       "url": "https://dev.to/peterj/cuenv-one-typed-file-for-your-whole-project-76a"
-    },
-    {
-      "title": "Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync",
-      "hot": "❤️ 3 💬 1",
-      "desc": "Originally posted on...",
-      "source": "dev",
-      "tag": "python,  ai",
-      "url": "https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k"
-    },
-    {
-      "title": "Multi-Agent Observability: See Everything Your AI Agents Do",
-      "hot": "❤️ 0 💬 0",
-      "desc": "Build a real-time observability system for your Claude Code agents. Learn how to monitor multiple agents simultaneously,",
-      "source": "dev",
-      "tag": "ai,  claudecode",
-      "url": "https://dev.to/bredmond1019/multi-agent-observability-see-everything-your-ai-agents-do-16e2"
-    },
-    {
-      "title": "gookit/gcli v3.5.0 released - easy-to-use, feature-rich Go command line application and tool library",
-      "hot": "❤️ 1 💬 0",
-      "desc": "GCli v3.5 Updates: Changes Since v3.3.1    GCli is a command-line application and tool...",
-      "source": "dev",
-      "tag": "programming,  go",
-      "url": "https://dev.to/inhere/gookitgcli-v350-released-easy-to-use-feature-rich-go-command-line-application-and-tool-library-4jkn"
-    },
-    {
-      "title": "I Am Fired Up Again",
-      "hot": "❤️ 4 💬 0",
-      "desc": "A personal reflection on getting fired up again, chasing financial stability, building income that can outlast a job, an",
-      "source": "dev",
-      "tag": "career,  motivation",
-      "url": "https://dev.to/jenueldev/i-am-fired-up-again-377i"
-    },
-    {
-      "title": "Debian Packages",
-      "hot": "❤️ 2 💬 0",
-      "desc": "Ubuntu OS (Operating System) is a distribution of Linux OS and is a derivative of Debian OS which is...",
-      "source": "dev",
-      "tag": "beginners,  cli",
-      "url": "https://dev.to/karuppiah7890/debian-packages-51gj"
-    },
-    {
-      "title": "Serverless Gemma 12B with NVIDIA A100 on Azure Container Apps",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to Azure Container Apps. A...",
-      "source": "dev",
-      "tag": "qat,  gemma4",
-      "url": "https://dev.to/gde/serverless-gemma-12b-with-nvidia-a100-on-azure-container-apps-1ff4"
     }
   ],
   "tech": [
@@ -169,84 +169,124 @@
       "hot": "3.0m",
       "desc": "openai.com",
       "source": "tech",
-      "tag": "⬆️ 756 points",
+      "tag": "⬆️ 845 points",
       "url": "https://openai.com/index/previewing-gpt-5-6-sol/"
+    },
+    {
+      "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
+      "hot": "3.0m",
+      "desc": "physics.stackexchange.com",
+      "source": "tech",
+      "tag": "⬆️ 76 points",
+      "url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed"
     },
     {
       "title": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
       "hot": "3.0m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 40 points",
+      "tag": "⬆️ 61 points",
       "url": "https://github.com/Tessil/hopscotch-map"
     },
     {
-      "title": "U.S. government will decide who gets to use GPT-5.6",
+      "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
       "hot": "3.0m",
-      "desc": "washingtonpost.com",
+      "desc": "aws.amazon.com",
       "source": "tech",
-      "tag": "⬆️ 725 points",
-      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/"
+      "tag": "⬆️ 264 points",
+      "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/"
     },
     {
-      "title": "The US lifts its block on Mythos 5",
-      "hot": "3.0m",
-      "desc": "twitter.com",
+      "title": "U.S. government will decide who gets to use GPT-5.6",
+      "hot": "2.9m",
+      "desc": "washingtonpost.com",
       "source": "tech",
-      "tag": "⬆️ 69 points",
-      "url": "https://twitter.com/Techmeme/status/2070638481265905837"
+      "tag": "⬆️ 824 points",
+      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/"
     },
     {
       "title": "The gap between open weights LLMs and closed source LLMs",
       "hot": "2.9m",
       "desc": "blog.doubleword.ai",
       "source": "tech",
-      "tag": "⬆️ 84 points",
+      "tag": "⬆️ 114 points",
       "url": "https://blog.doubleword.ai/frontier-os-llm"
     },
     {
-      "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
+      "title": "US allows Anthropic to release Mythos to 'trusted partners'",
       "hot": "2.9m",
-      "desc": "aws.amazon.com",
+      "desc": "reuters.com",
       "source": "tech",
-      "tag": "⬆️ 231 points",
-      "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/"
+      "tag": "⬆️ 203 points",
+      "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/"
     },
     {
-      "title": "We Can Still Stop California's 3D Printer Surveillance Scheme",
+      "title": "AI in mathematics is forcing big questions",
+      "hot": "2.9m",
+      "desc": "spectrum.ieee.org",
+      "source": "tech",
+      "tag": "⬆️ 38 points",
+      "url": "https://spectrum.ieee.org/ai-in-mathematics"
+    },
+    {
+      "title": "We can still stop California's 3D printer surveillance scheme",
       "hot": "2.9m",
       "desc": "eff.org",
       "source": "tech",
-      "tag": "⬆️ 125 points",
+      "tag": "⬆️ 218 points",
       "url": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme"
-    },
-    {
-      "title": "The \"Bizarre Headgear\" exhibit at the Sam Noble museum",
-      "hot": "2.9m",
-      "desc": "svpow.com",
-      "source": "tech",
-      "tag": "⬆️ 64 points",
-      "url": "https://svpow.com/2026/05/15/the-bizarre-headgear-exhibit-at-the-sam-noble-museum-is-incredible/"
-    },
-    {
-      "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 131 points",
-      "url": "https://github.com/workweave/router"
     },
     {
       "title": "A Tiny Compiler for Data-Parallel Kernels",
       "hot": "2.9m",
       "desc": "healeycodes.com",
       "source": "tech",
-      "tag": "⬆️ 8 points",
+      "tag": "⬆️ 23 points",
       "url": "https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels"
     },
     {
-      "title": "Hightouch (YC S19) Is Hiring",
+      "title": "The \"Bizarre Headgear\" exhibit at the Sam Noble museum",
       "hot": "2.9m",
+      "desc": "svpow.com",
+      "source": "tech",
+      "tag": "⬆️ 69 points",
+      "url": "https://svpow.com/2026/05/15/the-bizarre-headgear-exhibit-at-the-sam-noble-museum-is-incredible/"
+    },
+    {
+      "title": "Om",
+      "hot": "2.8m",
+      "desc": "daringfireball.net",
+      "source": "tech",
+      "tag": "⬆️ 78 points",
+      "url": "https://daringfireball.net/2026/06/om"
+    },
+    {
+      "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+      "hot": "2.8m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 148 points",
+      "url": "https://github.com/workweave/router"
+    },
+    {
+      "title": "Ultrasound imaging of the brain",
+      "hot": "2.8m",
+      "desc": "alephneuro.com",
+      "source": "tech",
+      "tag": "⬆️ 237 points",
+      "url": "https://alephneuro.com/blog/ultrasound-brain"
+    },
+    {
+      "title": "Show HN: DBOSify – Drop-in Temporal replacement built on Postgres",
+      "hot": "2.8m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 18 points",
+      "url": "https://github.com/dbos-inc/dbosify-py"
+    },
+    {
+      "title": "Hightouch (YC S19) Is Hiring",
+      "hot": "2.8m",
       "desc": "hightouch.com",
       "source": "tech",
       "tag": "⬆️ 1 points",
@@ -257,72 +297,32 @@
       "hot": "2.8m",
       "desc": "lefakkomies.github.io",
       "source": "tech",
-      "tag": "⬆️ 68 points",
+      "tag": "⬆️ 88 points",
       "url": "https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me"
-    },
-    {
-      "title": "Ultrasound imaging of the brain",
-      "hot": "2.8m",
-      "desc": "alephneuro.com",
-      "source": "tech",
-      "tag": "⬆️ 221 points",
-      "url": "https://alephneuro.com/blog/ultrasound-brain"
-    },
-    {
-      "title": "The open source DOCX editor submitted to HN a few weeks ago has been deleted",
-      "hot": "2.8m",
-      "desc": "news.ycombinator.com",
-      "source": "tech",
-      "tag": "⬆️ 32 points",
-      "url": "https://news.ycombinator.com/item?id=48692474"
-    },
-    {
-      "title": "PlayStation Is Deleting 551 Movies from Customers' Accounts",
-      "hot": "2.8m",
-      "desc": "kotaku.com",
-      "source": "tech",
-      "tag": "⬆️ 114 points",
-      "url": "https://kotaku.com/playstation-store-movies-digital-studio-canal-terminator-2000711013"
-    },
-    {
-      "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
-      "hot": "2.8m",
-      "desc": "physics.stackexchange.com",
-      "source": "tech",
-      "tag": "⬆️ 4 points",
-      "url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed"
-    },
-    {
-      "title": "AI in Mathematics Is Forcing Big Questions",
-      "hot": "2.8m",
-      "desc": "spectrum.ieee.org",
-      "source": "tech",
-      "tag": "⬆️ 4 points",
-      "url": "https://spectrum.ieee.org/ai-in-mathematics"
     },
     {
       "title": "A human postmortem of the 1996 AOL outage",
       "hot": "2.7m",
       "desc": "ngrok.com",
       "source": "tech",
-      "tag": "⬆️ 24 points",
+      "tag": "⬆️ 39 points",
       "url": "https://ngrok.com/blog/aol-was-down-1996"
     },
     {
-      "title": "Show HN: Autofit2 – End-to-end pipeline for multilingual text classification",
+      "title": "The open source DOCX editor submitted to HN a few weeks ago has been deleted",
       "hot": "2.7m",
-      "desc": "github.com",
+      "desc": "news.ycombinator.com",
       "source": "tech",
-      "tag": "⬆️ 11 points",
-      "url": "https://github.com/neospe/autofit2"
+      "tag": "⬆️ 53 points",
+      "url": "https://news.ycombinator.com/item?id=48692474"
     },
     {
-      "title": "Modern GPU Programming for MLSys",
+      "title": "PlayStation Is Deleting 551 Movies from Customers' Accounts",
       "hot": "2.7m",
-      "desc": "mlc.ai",
+      "desc": "kotaku.com",
       "source": "tech",
-      "tag": "⬆️ 54 points",
-      "url": "https://mlc.ai/modern-gpu-programming-for-mlsys/"
+      "tag": "⬆️ 158 points",
+      "url": "https://kotaku.com/playstation-store-movies-digital-studio-canal-terminator-2000711013"
     }
   ],
   "space": [
@@ -449,44 +449,20 @@
   ],
   "github": [
     {
-      "title": "bozhouDev/codex-orange-book: Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
+      "title": "bozhouDev/codex-orange-book: Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可��载 PDF）",
       "hot": "⭐ 2.1k",
-      "desc": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
+      "desc": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可��载 PDF）",
       "source": "github",
       "tag": "HTML",
       "url": "https://github.com/bozhouDev/codex-orange-book"
     },
     {
-      "title": "lyra81604/zhengxi-views: 可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有��话佐证的投资方",
+      "title": "lyra81604/zhengxi-views: 可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有���话佐证的投资",
       "hot": "⭐ 1.1k",
-      "desc": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有��话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
+      "desc": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有���话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/lyra81604/zhengxi-views"
-    },
-    {
-      "title": "Forsy-AI/agent-apprenticeship: The living ecosystem where AI agents run automate",
-      "hot": "⭐ 973",
-      "desc": "The living ecosystem where AI agents run automated workflow loops on any task, improve through execution, and turn each run into reusable work experie",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/Forsy-AI/agent-apprenticeship"
-    },
-    {
-      "title": "aidenybai/cnfast: Fast drop in replacement for `cn`",
-      "hot": "⭐ 960",
-      "desc": "Fast drop in replacement for `cn`",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/aidenybai/cnfast"
-    },
-    {
-      "title": "sums001/Windows-Copilot-API: Reverse engineered Windows Copilot into an OpenAI-c",
-      "hot": "⭐ 807",
-      "desc": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or bi",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/sums001/Windows-Copilot-API"
     },
     {
       "title": "kanavtwtgg/birds.cafe: ",
@@ -498,23 +474,15 @@
     },
     {
       "title": "BohemiaInteractive/CWR: Arma: Cold War Assault Remastered Source Code Repository",
-      "hot": "⭐ 619",
+      "hot": "⭐ 624",
       "desc": "Arma: Cold War Assault Remastered Source Code Repository.",
       "source": "github",
       "tag": "C++",
       "url": "https://github.com/BohemiaInteractive/CWR"
     },
     {
-      "title": "raiyanyahya/recall: Stop wasting tokens and re-explaining your project every ses",
-      "hot": "⭐ 570",
-      "desc": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/raiyanyahya/recall"
-    },
-    {
       "title": "QwenLM/Qwen-AgentWorld: Qwen-AgentWorld: Language World Models for General Agent",
-      "hot": "⭐ 565",
+      "hot": "⭐ 568",
       "desc": "Qwen-AgentWorld: Language World Models for General Agents",
       "source": "github",
       "tag": "Python",
@@ -522,7 +490,7 @@
     },
     {
       "title": "yo-WASSUP/Good-Badminton: 🏸  AI Badminton Hawk-Eye System",
-      "hot": "⭐ 548",
+      "hot": "⭐ 549",
       "desc": "🏸  AI Badminton Hawk-Eye System",
       "source": "github",
       "tag": "Python",
@@ -530,11 +498,27 @@
     },
     {
       "title": "benchflow-ai/awesome-evals: A curated, non-BS library of the best resources for ",
-      "hot": "⭐ 459",
+      "hot": "⭐ 465",
       "desc": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFl",
       "source": "github",
       "tag": "GitHub",
       "url": "https://github.com/benchflow-ai/awesome-evals"
+    },
+    {
+      "title": "Yu9191/wloc: 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash ",
+      "hot": "⭐ 460",
+      "desc": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/Yu9191/wloc"
+    },
+    {
+      "title": "winsznx/theeleven: Eleven autonomous AI agents open live football prop markets o",
+      "hot": "⭐ 457",
+      "desc": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/winsznx/theeleven"
     },
     {
       "title": "HKUDS/AgentSpace: \"AgentSpace: Human + Agents. One Team. One Workspace\"",
@@ -545,28 +529,44 @@
       "url": "https://github.com/HKUDS/AgentSpace"
     },
     {
-      "title": "Yu9191/wloc: 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash ",
-      "hot": "⭐ 447",
-      "desc": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/Yu9191/wloc"
-    },
-    {
-      "title": "winsznx/theeleven: Eleven autonomous AI agents open live football prop markets o",
-      "hot": "⭐ 446",
-      "desc": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/winsznx/theeleven"
-    },
-    {
       "title": "overflowy/make-look-scanned: Makes PDFs look scanned (CLI or in the browser via ",
       "hot": "⭐ 424",
       "desc": "Makes PDFs look scanned (CLI or in the browser via WASM)",
       "source": "github",
       "tag": "Go",
       "url": "https://github.com/overflowy/make-look-scanned"
+    },
+    {
+      "title": "m1ckc3s/claude-status-bar: A tiny macOS menu bar status indicator for Claude Cod",
+      "hot": "⭐ 359",
+      "desc": "A tiny macOS menu bar status indicator for Claude Code: animated icons, elapsed timer, and open/close lifecycle.",
+      "source": "github",
+      "tag": "Swift",
+      "url": "https://github.com/m1ckc3s/claude-status-bar"
+    },
+    {
+      "title": "Th0rgal/open_oura: A Rust toolkit for the Oura Ring (Gen 3/4/5): reverse-enginee",
+      "hot": "⭐ 342",
+      "desc": "A Rust toolkit for the Oura Ring (Gen 3/4/5): reverse-engineered BLE protocol, event decoders, and reimplemented data-processing algorithms. Sync, sto",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/Th0rgal/open_oura"
+    },
+    {
+      "title": "goehou/tabbit-toy: 这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展��方",
+      "hot": "⭐ 319",
+      "desc": "这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展��方便快速本地快速使用claude gpt等模型",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/goehou/tabbit-toy"
+    },
+    {
+      "title": "samasante/liquid-glass: Apple-style Liquid Glass for the web — a headless React ",
+      "hot": "⭐ 318",
+      "desc": "Apple-style Liquid Glass for the web — a headless React lens that refracts the live DOM in Safari, Firefox and Chrome. Zero dependencies.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/samasante/liquid-glass"
     }
   ]
 }

@@ -1,6 +1,38 @@
 {
   "data": [
     {
+      "title": "What was your win this week!?",
+      "hot": "❤️ 28 💬 14",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "discuss,  weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-4na1"
+    },
+    {
+      "title": "Never forget to enter the Stern Grove lottery again!",
+      "hot": "❤️ 15 💬 3",
+      "desc": "Browser automation with Playwright, Python, GitHub Actions, and Entire to auto-enter San Francisco Stern Grove concert l",
+      "source": "dev",
+      "tag": "ai,  playwright",
+      "url": "https://dev.to/entire/never-forget-to-enter-the-stern-grove-lottery-again-31i5"
+    },
+    {
+      "title": "A Free Screenshot Editor That Never Uploads Your Image",
+      "hot": "❤️ 0 💬 0",
+      "desc": "A free screenshot and image editor that runs entirely in your browser. Keeping every edit reversible and handling big ph",
+      "source": "dev",
+      "tag": "typescript,  editor",
+      "url": "https://dev.to/martinstark/a-free-screenshot-editor-that-never-uploads-your-image-npb"
+    },
+    {
+      "title": "A Guide to AI Cold Starts on Cloud Run",
+      "hot": "❤️ 14 💬 0",
+      "desc": "I saw a developer asking on Reddit if there was any “sane way” to manage Cloud Run cold starts for AI...",
+      "source": "dev",
+      "tag": "ai,  devops",
+      "url": "https://dev.to/googleai/a-guide-to-ai-cold-starts-on-cloud-run-c6d"
+    },
+    {
       "title": "Cognitive Pong: An Open Source Arena Where AI Agents Compete, Learn, and Train",
       "hot": "❤️ 0 💬 0",
       "desc": "An open source experiment exploring whether structured competition between AI agents can produce better reasoning, train",
@@ -15,6 +47,14 @@
       "source": "dev",
       "tag": "progressiveenhancement,  webcomponents",
       "url": "https://dev.to/jon49/action-declarative-event-handlers-in-an-attribute-3b35"
+    },
+    {
+      "title": "I built a CLI to break my highlights out of Apple Books",
+      "hot": "❤️ 2 💬 0",
+      "desc": "A macOS CLI + MCP server that exports Apple Books highlights to Markdown and gives AI assistants direct access to your r",
+      "source": "dev",
+      "tag": "showdev,  opensource",
+      "url": "https://dev.to/andreykorchak/i-built-a-cli-to-break-my-highlights-out-of-apple-books-51jn"
     },
     {
       "title": "The Rise of Agentic Engineering — Part 1: The Prompt Engineering Era",
@@ -49,12 +89,20 @@
       "url": "https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-mcp-cloud-run-and-antigravity-cli-3ckn"
     },
     {
-      "title": "Winner Announcement Delayed for the Github \"Finish-Up-A-Thon\" Challenge",
-      "hot": "❤️ 27 💬 10",
-      "desc": "Hey all, we have a quick update for everyone who participated in the Github \"Finish-Up-A-Thon\"...",
+      "title": "Tactical vs. Strategic Agentic AI Development — A Playbook for Developers",
+      "hot": "❤️ 7 💬 0",
+      "desc": "The Strategic Engineer: Why Writing Code Is No Longer Your Most Valuable Skill           ...",
       "source": "dev",
-      "tag": "devchallenge,  githubchallenge",
-      "url": "https://dev.to/devteam/winner-announcement-delayed-for-the-github-finish-up-a-thon-challenge-1766"
+      "tag": "agents,  ai",
+      "url": "https://dev.to/gde/tactical-vs-strategic-agentic-ai-development-a-playbook-for-developers-1654"
+    },
+    {
+      "title": "AI Is Too Good at Coding - So I Built Something to Keep the Why (and Make It Scale)",
+      "hot": "❤️ 1 💬 0",
+      "desc": "Over the past few months I've been building with Cursor, Claude Code, and Codex - same tools a lot of...",
+      "source": "dev",
+      "tag": "ai,  claude",
+      "url": "https://dev.to/karthickramachandran/ai-is-too-good-at-coding-so-i-built-something-to-keep-the-why-and-make-it-scale-1hmf"
     },
     {
       "title": "Lite-Harness SDK",
@@ -111,55 +159,7 @@
       "source": "dev",
       "tag": "automation,  cicd",
       "url": "https://dev.to/peterj/cuenv-one-typed-file-for-your-whole-project-76a"
-    },
-    {
-      "title": "Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync",
-      "hot": "❤️ 3 💬 1",
-      "desc": "Originally posted on...",
-      "source": "dev",
-      "tag": "python,  ai",
-      "url": "https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k"
-    },
-    {
-      "title": "Multi-Agent Observability: See Everything Your AI Agents Do",
-      "hot": "❤️ 0 💬 0",
-      "desc": "Build a real-time observability system for your Claude Code agents. Learn how to monitor multiple agents simultaneously,",
-      "source": "dev",
-      "tag": "ai,  claudecode",
-      "url": "https://dev.to/bredmond1019/multi-agent-observability-see-everything-your-ai-agents-do-16e2"
-    },
-    {
-      "title": "gookit/gcli v3.5.0 released - easy-to-use, feature-rich Go command line application and tool library",
-      "hot": "❤️ 1 💬 0",
-      "desc": "GCli v3.5 Updates: Changes Since v3.3.1    GCli is a command-line application and tool...",
-      "source": "dev",
-      "tag": "programming,  go",
-      "url": "https://dev.to/inhere/gookitgcli-v350-released-easy-to-use-feature-rich-go-command-line-application-and-tool-library-4jkn"
-    },
-    {
-      "title": "I Am Fired Up Again",
-      "hot": "❤️ 4 💬 0",
-      "desc": "A personal reflection on getting fired up again, chasing financial stability, building income that can outlast a job, an",
-      "source": "dev",
-      "tag": "career,  motivation",
-      "url": "https://dev.to/jenueldev/i-am-fired-up-again-377i"
-    },
-    {
-      "title": "Debian Packages",
-      "hot": "❤️ 2 💬 0",
-      "desc": "Ubuntu OS (Operating System) is a distribution of Linux OS and is a derivative of Debian OS which is...",
-      "source": "dev",
-      "tag": "beginners,  cli",
-      "url": "https://dev.to/karuppiah7890/debian-packages-51gj"
-    },
-    {
-      "title": "Serverless Gemma 12B with NVIDIA A100 on Azure Container Apps",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to Azure Container Apps. A...",
-      "source": "dev",
-      "tag": "qat,  gemma4",
-      "url": "https://dev.to/gde/serverless-gemma-12b-with-nvidia-a100-on-azure-container-apps-1ff4"
     }
   ],
-  "updatedAt": "2026-06-26T23:38:35.872Z"
+  "updatedAt": "2026-06-27T01:49:48.700Z"
 }
