@@ -1,7 +1,15 @@
 {
-  "updatedAt": "2026-06-27T17:09:59.992Z",
+  "updatedAt": "2026-06-27T18:39:49.269Z",
   "source": "live",
   "dev": [
+    {
+      "title": "Never forget to enter the Stern Grove lottery again!",
+      "hot": "❤️ 23 💬 4",
+      "desc": "Browser automation with Playwright, Python, GitHub Actions, and Entire to auto-enter San Francisco Stern Grove concert l",
+      "source": "dev",
+      "tag": "ai,  playwright",
+      "url": "https://dev.to/entire/never-forget-to-enter-the-stern-grove-lottery-again-31i5"
+    },
     {
       "title": "What was your win this week!?",
       "hot": "❤️ 29 💬 18",
@@ -9,14 +17,6 @@
       "source": "dev",
       "tag": "discuss,  weeklyretro",
       "url": "https://dev.to/devteam/what-was-your-win-this-week-4na1"
-    },
-    {
-      "title": "Never forget to enter the Stern Grove lottery again!",
-      "hot": "❤️ 22 💬 4",
-      "desc": "Browser automation with Playwright, Python, GitHub Actions, and Entire to auto-enter San Francisco Stern Grove concert l",
-      "source": "dev",
-      "tag": "ai,  playwright",
-      "url": "https://dev.to/entire/never-forget-to-enter-the-stern-grove-lottery-again-31i5"
     },
     {
       "title": "A Guide to AI Cold Starts on Cloud Run",
@@ -139,14 +139,6 @@
       "url": "https://dev.to/j3nnning/how-i-use-ai-councils-to-solve-ambiguous-engineering-problems-4dii"
     },
     {
-      "title": "How to Get Your First Tool Online",
-      "hot": "❤️ 10 💬 0",
-      "desc": "TL;DR - A finished app that only runs on one laptop is a private demo. Getting it online means...",
-      "source": "dev",
-      "tag": "webdev,  ai",
-      "url": "https://dev.to/mlh/how-to-get-your-first-tool-online-3c8k"
-    },
-    {
       "title": "cuenv: one typed file for your whole project",
       "hot": "❤️ 0 💬 0",
       "desc": "Most projects don't have a configuration system — they have a pile:  a .env file, a Makefile, a CI workflow, and secrets",
@@ -161,6 +153,14 @@
       "source": "dev",
       "tag": "ai,  gemini",
       "url": "https://dev.to/gde/a-developers-guide-to-agent-hooks-in-antigravity-cli-23no"
+    },
+    {
+      "title": "Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync",
+      "hot": "❤️ 3 💬 1",
+      "desc": "Originally posted on...",
+      "source": "dev",
+      "tag": "python,  ai",
+      "url": "https://dev.to/abhirockzz/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-234k"
     }
   ],
   "tech": [
@@ -169,7 +169,7 @@
       "hot": "3.0m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 175 points",
+      "tag": "⬆️ 329 points",
       "url": "https://github.com/bikini/exploitarium"
     },
     {
@@ -177,7 +177,7 @@
       "hot": "3.0m",
       "desc": "openra.net",
       "source": "tech",
-      "tag": "⬆️ 296 points",
+      "tag": "⬆️ 372 points",
       "url": "https://www.openra.net/"
     },
     {
@@ -185,24 +185,48 @@
       "hot": "3.0m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 639 points",
+      "tag": "⬆️ 665 points",
       "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf"
     },
     {
-      "title": "Fintech Engineering Handbook",
+      "title": "AI Is Designing Radio Chips That Humans Couldn't Even Imagine",
       "hot": "3.0m",
-      "desc": "w.pitula.me",
+      "desc": "spectrum.ieee.org",
       "source": "tech",
-      "tag": "⬆️ 311 points",
-      "url": "https://w.pitula.me/fintech-engineering-handbook/"
+      "tag": "⬆️ 43 points",
+      "url": "https://spectrum.ieee.org/ai-radio-chip-design"
     },
     {
-      "title": "Suspicious Discontinuities",
+      "title": "Suspicious Discontinuities (2020)",
       "hot": "2.9m",
       "desc": "danluu.com",
       "source": "tech",
-      "tag": "⬆️ 92 points",
+      "tag": "⬆️ 131 points",
       "url": "https://danluu.com/discontinuities/"
+    },
+    {
+      "title": "Fintech Engineering Handbook",
+      "hot": "2.9m",
+      "desc": "w.pitula.me",
+      "source": "tech",
+      "tag": "⬆️ 354 points",
+      "url": "https://w.pitula.me/fintech-engineering-handbook/"
+    },
+    {
+      "title": "Post-Mythos Cybersecurity: Keep calm and carry on",
+      "hot": "2.9m",
+      "desc": "cephalosec.com",
+      "source": "tech",
+      "tag": "⬆️ 75 points",
+      "url": "https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/"
+    },
+    {
+      "title": "Zuckerberg's Increasingly Bizarre War on Whistleblowers",
+      "hot": "2.9m",
+      "desc": "pluralistic.net",
+      "source": "tech",
+      "tag": "⬆️ 366 points",
+      "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/"
     },
     {
       "title": "Supabase (YC S20) Is Hiring for Multigres",
@@ -213,238 +237,92 @@
       "url": "https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228"
     },
     {
-      "title": "Post-Mythos Cybersecurity: Keep calm and carry on",
+      "title": "One man, two kernels, and a lot of RISC-V",
       "hot": "2.9m",
-      "desc": "cephalosec.com",
+      "desc": "theregister.com",
       "source": "tech",
-      "tag": "⬆️ 53 points",
-      "url": "https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/"
+      "tag": "⬆️ 42 points",
+      "url": "https://www.theregister.com/software/2026/06/26/one-man-two-kernels-and-a-lot-of-risc-v/5262858"
     },
     {
       "title": "If you can't hold it, you don't own it",
       "hot": "2.9m",
       "desc": "dervis.de",
       "source": "tech",
-      "tag": "⬆️ 192 points",
+      "tag": "⬆️ 238 points",
       "url": "https://dervis.de/physical/"
-    },
-    {
-      "title": "Zuckerberg's Increasingly Bizarre War on Whistleblowers",
-      "hot": "2.9m",
-      "desc": "pluralistic.net",
-      "source": "tech",
-      "tag": "⬆️ 230 points",
-      "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/"
-    },
-    {
-      "title": "One man, two kernels, and a lot of RISC-V",
-      "hot": "2.9m",
-      "desc": "theregister.com",
-      "source": "tech",
-      "tag": "⬆️ 24 points",
-      "url": "https://www.theregister.com/software/2026/06/26/one-man-two-kernels-and-a-lot-of-risc-v/5262858"
-    },
-    {
-      "title": "Underarm Bowling Incident of 1981",
-      "hot": "2.9m",
-      "desc": "en.wikipedia.org",
-      "source": "tech",
-      "tag": "⬆️ 92 points",
-      "url": "https://en.wikipedia.org/wiki/Underarm_bowling_incident_of_1981"
-    },
-    {
-      "title": "How Many Elementary Particles Are There, Really?",
-      "hot": "2.8m",
-      "desc": "quantamagazine.org",
-      "source": "tech",
-      "tag": "⬆️ 69 points",
-      "url": "https://www.quantamagazine.org/how-many-elementary-particles-are-there-really-20260615/"
-    },
-    {
-      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-      "hot": "2.8m",
-      "desc": "openai.com",
-      "source": "tech",
-      "tag": "⬆️ 1076 points",
-      "url": "https://openai.com/index/previewing-gpt-5-6-sol/"
-    },
-    {
-      "title": "Why Windows 95 Was Tech's Last True Revolution",
-      "hot": "2.8m",
-      "desc": "comuniq.xyz",
-      "source": "tech",
-      "tag": "⬆️ 11 points",
-      "url": "https://comuniq.xyz/post.php?t=1307"
     },
     {
       "title": "Reducing tick density along recreational trails in Ottawa, Canada",
       "hot": "2.8m",
       "desc": "sciencedirect.com",
       "source": "tech",
-      "tag": "⬆️ 43 points",
+      "tag": "⬆️ 69 points",
       "url": "https://www.sciencedirect.com/science/article/pii/S1877959X26000476"
+    },
+    {
+      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+      "hot": "2.8m",
+      "desc": "openai.com",
+      "source": "tech",
+      "tag": "⬆️ 1090 points",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/"
     },
     {
       "title": "Long Wave radio era set to end with switch-off",
       "hot": "2.8m",
       "desc": "economist.com",
       "source": "tech",
-      "tag": "⬆️ 120 points",
+      "tag": "⬆️ 137 points",
       "url": "https://www.economist.com/britain/2026/06/25/the-bbc-switches-off-its-oldest-service"
     },
     {
-      "title": "Beer CSS – Build material design in record time",
-      "hot": "2.8m",
-      "desc": "beercss.com",
-      "source": "tech",
-      "tag": "⬆️ 100 points",
-      "url": "https://www.beercss.com"
-    },
-    {
       "title": "Researchers have developed pixels that can emit and analyse light together",
-      "hot": "2.7m",
+      "hot": "2.8m",
       "desc": "ethz.ch",
       "source": "tech",
-      "tag": "⬆️ 11 points",
+      "tag": "⬆️ 19 points",
       "url": "https://ethz.ch/en/news-and-events/eth-news/news/2026/06/a-new-type-of-pixel.html"
     },
     {
-      "title": "Task Failed Successfully: Saturating NIC and Disk Bandwidth",
-      "hot": "2.7m",
-      "desc": "blog.mrcroxx.com",
+      "title": "Turn your site into a place people can bump into each other",
+      "hot": "2.8m",
+      "desc": "cauenapier.com",
       "source": "tech",
-      "tag": "⬆️ 21 points",
-      "url": "https://blog.mrcroxx.com/posts/task-failed-successfully-saturating-nic-and-disk-bandwidth/"
+      "tag": "⬆️ 8 points",
+      "url": "https://cauenapier.com/blog/townsquare_release/"
+    },
+    {
+      "title": "How Many Elementary Particles Are There, Really?",
+      "hot": "2.8m",
+      "desc": "quantamagazine.org",
+      "source": "tech",
+      "tag": "⬆️ 85 points",
+      "url": "https://www.quantamagazine.org/how-many-elementary-particles-are-there-really-20260615/"
+    },
+    {
+      "title": "The US Army Issued Ocarinas to Soldiers in World War II",
+      "hot": "2.7m",
+      "desc": "flutetunes.com",
+      "source": "tech",
+      "tag": "⬆️ 102 points",
+      "url": "https://www.flutetunes.com/articles/my-flute-goes-to-war/"
     },
     {
       "title": "Linux on Older Hardware: The Complete Revival Guide",
       "hot": "2.7m",
       "desc": "fosslinux.com",
       "source": "tech",
-      "tag": "⬆️ 154 points",
+      "tag": "⬆️ 165 points",
       "url": "https://www.fosslinux.com/158206/linux-on-older-hardware-revival-guide.htm"
-    }
-  ],
-  "github": [
-    {
-      "title": "bozhouDev/codex-orange-book: Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可���载 PDF）",
-      "hot": "⭐ 2.2k",
-      "desc": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可���载 PDF）",
-      "source": "github",
-      "tag": "HTML",
-      "url": "https://github.com/bozhouDev/codex-orange-book"
     },
     {
-      "title": "lyra81604/zhengxi-views: 可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法",
-      "hot": "⭐ 1.1k",
-      "desc": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/lyra81604/zhengxi-views"
-    },
-    {
-      "title": "deepseek-ai/DeepSpec: DeepSpec: a full-stack codebase for training and evaluatin",
-      "hot": "⭐ 1.0k",
-      "desc": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/deepseek-ai/DeepSpec"
-    },
-    {
-      "title": "kanavtwtgg/birds.cafe: ",
-      "hot": "⭐ 736",
-      "desc": "kanavtwtgg/birds.cafe",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/kanavtwtgg/birds.cafe"
-    },
-    {
-      "title": "bikini/exploitarium: A single archive of public exploit PoCs and vulnerability r",
-      "hot": "⭐ 711",
-      "desc": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report th",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/bikini/exploitarium"
-    },
-    {
-      "title": "BohemiaInteractive/CWR: Arma: Cold War Assault Remastered Source Code Repository",
-      "hot": "⭐ 656",
-      "desc": "Arma: Cold War Assault Remastered Source Code Repository.",
-      "source": "github",
-      "tag": "C++",
-      "url": "https://github.com/BohemiaInteractive/CWR"
-    },
-    {
-      "title": "Yu9191/wloc: 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash ",
-      "hot": "⭐ 617",
-      "desc": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/Yu9191/wloc"
-    },
-    {
-      "title": "winsznx/theeleven: Eleven autonomous AI agents open live football prop markets o",
-      "hot": "⭐ 610",
-      "desc": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/winsznx/theeleven"
-    },
-    {
-      "title": "QwenLM/Qwen-AgentWorld: Qwen-AgentWorld: Language World Models for General Agent",
-      "hot": "⭐ 585",
-      "desc": "Qwen-AgentWorld: Language World Models for General Agents",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/QwenLM/Qwen-AgentWorld"
-    },
-    {
-      "title": "yo-WASSUP/Good-Badminton: 🏸  AI Badminton Hawk-Eye System",
-      "hot": "⭐ 558",
-      "desc": "🏸  AI Badminton Hawk-Eye System",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/yo-WASSUP/Good-Badminton"
-    },
-    {
-      "title": "benchflow-ai/awesome-evals: A curated, non-BS library of the best resources for ",
-      "hot": "⭐ 527",
-      "desc": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFl",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/benchflow-ai/awesome-evals"
-    },
-    {
-      "title": "HKUDS/AgentSpace: \"AgentSpace: Human + Agents. One Team. One Workspace\"",
-      "hot": "⭐ 471",
-      "desc": "\"AgentSpace: Human + Agents. One Team. One Workspace\"",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/HKUDS/AgentSpace"
-    },
-    {
-      "title": "overflowy/make-look-scanned: Makes PDFs look scanned (CLI or in the browser via ",
-      "hot": "⭐ 429",
-      "desc": "Makes PDFs look scanned (CLI or in the browser via WASM)",
-      "source": "github",
-      "tag": "Go",
-      "url": "https://github.com/overflowy/make-look-scanned"
-    },
-    {
-      "title": "m1ckc3s/claude-status-bar: A tiny macOS menu bar status indicator for Claude Cod",
-      "hot": "⭐ 369",
-      "desc": "A tiny macOS menu bar status indicator for Claude Code: animated icons, elapsed timer, and open/close lifecycle.",
-      "source": "github",
-      "tag": "Swift",
-      "url": "https://github.com/m1ckc3s/claude-status-bar"
-    },
-    {
-      "title": "goehou/tabbit-toy: 这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便",
-      "hot": "⭐ 360",
-      "desc": "这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/goehou/tabbit-toy"
+      "title": "Task Failed Successfully: Saturating NIC and Disk Bandwidth",
+      "hot": "2.7m",
+      "desc": "blog.mrcroxx.com",
+      "source": "tech",
+      "tag": "⬆️ 27 points",
+      "url": "https://blog.mrcroxx.com/posts/task-failed-successfully-saturating-nic-and-disk-bandwidth/"
     }
   ],
   "space": [
@@ -567,6 +445,128 @@
       "source": "space",
       "tag": "NASA",
       "url": "https://science.nasa.gov/missions/hubble/hubble-spies-starry-chandelier/"
+    }
+  ],
+  "github": [
+    {
+      "title": "bozhouDev/codex-orange-book: Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可��载 PDF）",
+      "hot": "⭐ 2.2k",
+      "desc": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可��载 PDF）",
+      "source": "github",
+      "tag": "HTML",
+      "url": "https://github.com/bozhouDev/codex-orange-book"
+    },
+    {
+      "title": "deepseek-ai/DeepSpec: DeepSpec: a full-stack codebase for training and evaluatin",
+      "hot": "⭐ 1.1k",
+      "desc": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/deepseek-ai/DeepSpec"
+    },
+    {
+      "title": "lyra81604/zhengxi-views: 可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法",
+      "hot": "⭐ 1.1k",
+      "desc": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/lyra81604/zhengxi-views"
+    },
+    {
+      "title": "bikini/exploitarium: A single archive of public exploit PoCs and vulnerability r",
+      "hot": "⭐ 829",
+      "desc": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report th",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/bikini/exploitarium"
+    },
+    {
+      "title": "kanavtwtgg/birds.cafe: ",
+      "hot": "⭐ 736",
+      "desc": "kanavtwtgg/birds.cafe",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/kanavtwtgg/birds.cafe"
+    },
+    {
+      "title": "BohemiaInteractive/CWR: Arma: Cold War Assault Remastered Source Code Repository",
+      "hot": "⭐ 657",
+      "desc": "Arma: Cold War Assault Remastered Source Code Repository.",
+      "source": "github",
+      "tag": "C++",
+      "url": "https://github.com/BohemiaInteractive/CWR"
+    },
+    {
+      "title": "Yu9191/wloc: 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash ",
+      "hot": "⭐ 623",
+      "desc": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/Yu9191/wloc"
+    },
+    {
+      "title": "winsznx/theeleven: Eleven autonomous AI agents open live football prop markets o",
+      "hot": "⭐ 618",
+      "desc": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/winsznx/theeleven"
+    },
+    {
+      "title": "QwenLM/Qwen-AgentWorld: Qwen-AgentWorld: Language World Models for General Agent",
+      "hot": "⭐ 588",
+      "desc": "Qwen-AgentWorld: Language World Models for General Agents",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/QwenLM/Qwen-AgentWorld"
+    },
+    {
+      "title": "yo-WASSUP/Good-Badminton: 🏸  AI Badminton Hawk-Eye System",
+      "hot": "⭐ 559",
+      "desc": "🏸  AI Badminton Hawk-Eye System",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/yo-WASSUP/Good-Badminton"
+    },
+    {
+      "title": "benchflow-ai/awesome-evals: A curated, non-BS library of the best resources for ",
+      "hot": "⭐ 528",
+      "desc": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFl",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/benchflow-ai/awesome-evals"
+    },
+    {
+      "title": "HKUDS/AgentSpace: \"AgentSpace: Human + Agents. One Team. One Workspace\"",
+      "hot": "⭐ 473",
+      "desc": "\"AgentSpace: Human + Agents. One Team. One Workspace\"",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/HKUDS/AgentSpace"
+    },
+    {
+      "title": "overflowy/make-look-scanned: Makes PDFs look scanned (CLI or in the browser via ",
+      "hot": "⭐ 430",
+      "desc": "Makes PDFs look scanned (CLI or in the browser via WASM)",
+      "source": "github",
+      "tag": "Go",
+      "url": "https://github.com/overflowy/make-look-scanned"
+    },
+    {
+      "title": "m1ckc3s/claude-status-bar: A tiny macOS menu bar status indicator for Claude Cod",
+      "hot": "⭐ 369",
+      "desc": "A tiny macOS menu bar status indicator for Claude Code: animated icons, elapsed timer, and open/close lifecycle.",
+      "source": "github",
+      "tag": "Swift",
+      "url": "https://github.com/m1ckc3s/claude-status-bar"
+    },
+    {
+      "title": "goehou/tabbit-toy: 这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便",
+      "hot": "⭐ 363",
+      "desc": "这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/goehou/tabbit-toy"
     }
   ]
 }
