@@ -1,46 +1,14 @@
 {
-  "updatedAt": "2026-06-28T16:53:22.868Z",
+  "updatedAt": "2026-06-28T17:55:51.065Z",
   "source": "live",
   "dev": [
     {
-      "title": "What was your win this week!?",
-      "hot": "❤️ 39 💬 28",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "discuss,  weeklyretro",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-4na1"
-    },
-    {
-      "title": "_action: Declarative Event Handlers in an Attribute",
-      "hot": "❤️ 2 💬 1",
-      "desc": "Introducing _action, a tiny event-delegation layer, and comparing it with HTML Traits and web components.",
-      "source": "dev",
-      "tag": "progressiveenhancement,  webcomponents",
-      "url": "https://dev.to/jon49/action-declarative-event-handlers-in-an-attribute-3b35"
-    },
-    {
-      "title": "I built a CLI to break my highlights out of Apple Books",
-      "hot": "❤️ 2 💬 0",
-      "desc": "A macOS CLI + MCP server that exports Apple Books highlights to Markdown and gives AI assistants direct access to your r",
-      "source": "dev",
-      "tag": "showdev,  opensource",
-      "url": "https://dev.to/andreykorchak/i-built-a-cli-to-break-my-highlights-out-of-apple-books-51jn"
-    },
-    {
       "title": "Never forget to enter the Stern Grove lottery again!",
-      "hot": "❤️ 23 💬 5",
+      "hot": "❤️ 25 💬 5",
       "desc": "Browser automation with Playwright, Python, GitHub Actions, and Entire to auto-enter San Francisco Stern Grove concert l",
       "source": "dev",
       "tag": "ai,  playwright",
       "url": "https://dev.to/entire/never-forget-to-enter-the-stern-grove-lottery-again-31i5"
-    },
-    {
-      "title": "Why I Built nvim-starter — a Neovim Config Beginners Can Actually Understand",
-      "hot": "❤️ 1 💬 0",
-      "desc": "Kickstart.nvim gives you a working IDE. It also gives you lazy.nvim, nvim-cmp, telescope, nvim-treesitter, and a dozen c",
-      "source": "dev",
-      "tag": "nvim,  lua",
-      "url": "https://dev.to/mvzundert/why-i-built-nvim-starter-a-neovim-config-beginners-can-actually-understand-19a5"
     },
     {
       "title": "12B Gemma 4 Deployment with NVIDIA Blackwell 6000, QAT, MTP, and Antigravity CLI",
@@ -97,6 +65,14 @@
       "source": "dev",
       "tag": "ai,  programming",
       "url": "https://dev.to/j3nnning/how-i-use-ai-councils-to-solve-ambiguous-engineering-problems-4dii"
+    },
+    {
+      "title": "What was your win this week!?",
+      "hot": "❤️ 39 💬 29",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "discuss,  weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-4na1"
     },
     {
       "title": "cuenv: one typed file for your whole project",
@@ -161,304 +137,215 @@
       "source": "dev",
       "tag": "kubernetes,  aws",
       "url": "https://dev.to/joachim8675309/minimalist-eks-the-easy-way-hph"
+    },
+    {
+      "title": "Serverless Gemma 12B with NVIDIA A100 on Azure Container Apps",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to Azure Container Apps. A...",
+      "source": "dev",
+      "tag": "qat,  gemma4",
+      "url": "https://dev.to/gde/serverless-gemma-12b-with-nvidia-a100-on-azure-container-apps-1ff4"
+    },
+    {
+      "title": "A year of building with AI and the thing that scared me most wasn't the hallucinations",
+      "hot": "❤️ 0 💬 0",
+      "desc": "A year ago I started building TasksForge. The premise was simple enough: use AI to simplify project...",
+      "source": "dev",
+      "tag": "Dev.to",
+      "url": "https://dev.to/smirfolio/a-year-of-building-with-ai-and-the-thing-that-scared-me-most-wasnt-the-hallucinations-3oce"
+    },
+    {
+      "title": "MTP Speculative Decoding with the 12B Gemma 4 QAT Model on NVIDIA L4, Cloud Run, MCP, and…",
+      "hot": "❤️ 5 💬 0",
+      "desc": "MTP Speculative Decoding with the 12B Gemma 4 QAT Model on NVIDIA L4, Cloud Run, MCP, and...",
+      "source": "dev",
+      "tag": "antigravity,  mcps",
+      "url": "https://dev.to/gde/mtp-speculative-decoding-with-the-12b-gemma-4-qat-model-on-nvidia-l4-cloud-run-mcp-and-18b0"
     }
   ],
   "tech": [
-    {
-      "title": "EU Open Sources Ten-Year Network Development Planning Tools",
-      "hot": "3.0m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 137 points",
-      "url": "https://github.com/open-energy-transition/open-tyndp"
-    },
     {
       "title": "5k Restaurant Menus, Years 1880-1920",
       "hot": "3.0m",
       "desc": "pudding.cool",
       "source": "tech",
-      "tag": "⬆️ 114 points",
+      "tag": "⬆️ 187 points",
       "url": "https://pudding.cool/2026/06/menu-collection/"
     },
     {
-      "title": "Daisugi the Japanese Technique of Trees Out of Trees, Making Exact Straight Wood",
+      "title": "I used Claude Code to get a second opinion on my MRI",
+      "hot": "3.0m",
+      "desc": "antoine.fi",
+      "source": "tech",
+      "tag": "⬆️ 66 points",
+      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus"
+    },
+    {
+      "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
+      "hot": "3.0m",
+      "desc": "oldvcr.blogspot.com",
+      "source": "tech",
+      "tag": "⬆️ 27 points",
+      "url": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html"
+    },
+    {
+      "title": "Daisugi the Japanese Technique of Trees Out of Trees, Making Exact Straight Wood (2020)",
       "hot": "3.0m",
       "desc": "openculture.com",
       "source": "tech",
-      "tag": "⬆️ 16 points",
+      "tag": "⬆️ 43 points",
       "url": "https://www.openculture.com/2020/10/daisugi.html"
     },
     {
       "title": "Examining circuit boards from the Space Shuttle's I/O Processor",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "righto.com",
       "source": "tech",
-      "tag": "⬆️ 21 points",
+      "tag": "⬆️ 40 points",
       "url": "https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html"
-    },
-    {
-      "title": "I used Claude Code to get a second opinion on my MRI",
-      "hot": "2.9m",
-      "desc": "antoine.fi",
-      "source": "tech",
-      "tag": "⬆️ 14 points",
-      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus"
-    },
-    {
-      "title": "The curious case of the disappearing Polish S (2015)",
-      "hot": "2.9m",
-      "desc": "aresluna.org",
-      "source": "tech",
-      "tag": "⬆️ 129 points",
-      "url": "https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/"
-    },
-    {
-      "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 118 points",
-      "url": "https://github.com/openai/codex/issues/2847"
-    },
-    {
-      "title": "EU to legislate about Chat Control behind closed doors",
-      "hot": "2.9m",
-      "desc": "patrick-breyer.de",
-      "source": "tech",
-      "tag": "⬆️ 253 points",
-      "url": "https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/"
-    },
-    {
-      "title": "Flock cameras track more than your license plate, and they're spreading fast",
-      "hot": "2.9m",
-      "desc": "engadget.com",
-      "source": "tech",
-      "tag": "⬆️ 199 points",
-      "url": "https://www.engadget.com/2203000/flock-cameras-recording-license-plate/"
-    },
-    {
-      "title": "Michigan bill would bar employers from requiring after-hours coms with workers",
-      "hot": "2.9m",
-      "desc": "cbsnews.com",
-      "source": "tech",
-      "tag": "⬆️ 87 points",
-      "url": "https://www.cbsnews.com/detroit/news/workplace-boundaries-act-employees-after-hours/"
     },
     {
       "title": "Show HN: Zanagrams",
       "hot": "2.9m",
       "desc": "zanagrams.com",
       "source": "tech",
-      "tag": "⬆️ 17 points",
+      "tag": "⬆️ 43 points",
       "url": "https://zanagrams.com/"
     },
     {
-      "title": "Do Babies Dream of Baby Sheep?",
-      "hot": "2.8m",
-      "desc": "devz.cl",
+      "title": "Tokenmaxxing is dead, long live Tokenmaxxing",
+      "hot": "2.9m",
+      "desc": "12gramsofcarbon.com",
       "source": "tech",
-      "tag": "⬆️ 32 points",
-      "url": "https://devz.cl/posts/do-babies-dream-of-electric-sheep/"
+      "tag": "⬆️ 21 points",
+      "url": "https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing"
     },
     {
-      "title": "California legislature agrees to upload driver's licenses to national database",
-      "hot": "2.8m",
-      "desc": "papersplease.org",
+      "title": "The curious case of the disappearing Polish S (2015)",
+      "hot": "2.9m",
+      "desc": "aresluna.org",
       "source": "tech",
-      "tag": "⬆️ 43 points",
-      "url": "https://papersplease.org/wp/2026/06/27/california-legislature-agrees-to-upload-drivers-licenses-to-national-database/"
+      "tag": "⬆️ 170 points",
+      "url": "https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/"
+    },
+    {
+      "title": "Reflections on Software Engineering in the Age of AI",
+      "hot": "2.9m",
+      "desc": "adiamond.me",
+      "source": "tech",
+      "tag": "⬆️ 29 points",
+      "url": "https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/"
+    },
+    {
+      "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 132 points",
+      "url": "https://github.com/openai/codex/issues/2847"
+    },
+    {
+      "title": "Flock cameras track more than your license plate, and they're spreading fast",
+      "hot": "2.9m",
+      "desc": "engadget.com",
+      "source": "tech",
+      "tag": "⬆️ 254 points",
+      "url": "https://www.engadget.com/2203000/flock-cameras-recording-license-plate/"
+    },
+    {
+      "title": "The Boeing 747 Begins Its Final Descent",
+      "hot": "2.8m",
+      "desc": "theatlantic.com",
+      "source": "tech",
+      "tag": "⬆️ 19 points",
+      "url": "https://www.theatlantic.com/magazine/2026/07/boeing-747-retirement/687304/"
+    },
+    {
+      "title": "Show HN: DRM-Free Books",
+      "hot": "2.8m",
+      "desc": "frequal.com",
+      "source": "tech",
+      "tag": "⬆️ 8 points",
+      "url": "https://frequal.com/Perspectives/DrmFreeAuthors.html"
+    },
+    {
+      "title": "Michigan bill would bar employers from requiring after-hours coms with workers",
+      "hot": "2.8m",
+      "desc": "cbsnews.com",
+      "source": "tech",
+      "tag": "⬆️ 131 points",
+      "url": "https://www.cbsnews.com/detroit/news/workplace-boundaries-act-employees-after-hours/"
+    },
+    {
+      "title": "EU to legislate about Chat Control behind closed doors",
+      "hot": "2.8m",
+      "desc": "patrick-breyer.de",
+      "source": "tech",
+      "tag": "⬆️ 326 points",
+      "url": "https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/"
+    },
+    {
+      "title": "Programmable Probabilistic Computer with 1M p-bits",
+      "hot": "2.8m",
+      "desc": "arxiv.org",
+      "source": "tech",
+      "tag": "⬆️ 9 points",
+      "url": "https://arxiv.org/abs/2606.25313"
     },
     {
       "title": "Marfa Public Radio Puts You to Sleep",
       "hot": "2.8m",
       "desc": "marfapublicradio.org",
       "source": "tech",
-      "tag": "⬆️ 352 points",
+      "tag": "⬆️ 358 points",
       "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep"
     },
     {
-      "title": "Tokenmaxxing is dead, long live Tokenmaxxing",
-      "hot": "2.8m",
-      "desc": "12gramsofcarbon.com",
+      "title": "Do Babies Dream of Baby Sheep?",
+      "hot": "2.7m",
+      "desc": "devz.cl",
       "source": "tech",
-      "tag": "⬆️ 4 points",
-      "url": "https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing"
+      "tag": "⬆️ 84 points",
+      "url": "https://devz.cl/posts/do-babies-dream-of-electric-sheep/"
     },
     {
-      "title": "The MUMPS 76 Primer – anniversary edition",
-      "hot": "2.8m",
-      "desc": "github.com",
+      "title": "California legislature agrees to upload driver's licenses to national database",
+      "hot": "2.7m",
+      "desc": "papersplease.org",
       "source": "tech",
-      "tag": "⬆️ 39 points",
-      "url": "https://github.com/rochus-keller/MUMPS/blob/main/docs/MUMPS_Primer.adoc"
+      "tag": "⬆️ 62 points",
+      "url": "https://papersplease.org/wp/2026/06/27/california-legislature-agrees-to-upload-drivers-licenses-to-national-database/"
     },
     {
       "title": "DLL that was not present in memory despite not being formally unloaded",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "devblogs.microsoft.com",
       "source": "tech",
-      "tag": "⬆️ 88 points",
+      "tag": "⬆️ 98 points",
       "url": "https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467"
-    },
-    {
-      "title": "Google limits Meta's use of its Gemini AI models",
-      "hot": "2.7m",
-      "desc": "cnbc.com",
-      "source": "tech",
-      "tag": "⬆️ 95 points",
-      "url": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html"
-    },
-    {
-      "title": "Bringing Swift to the Apple ][",
-      "hot": "2.7m",
-      "desc": "yeokhengmeng.com",
-      "source": "tech",
-      "tag": "⬆️ 42 points",
-      "url": "https://yeokhengmeng.com/2026/06/swift-on-apple-ii/"
-    },
-    {
-      "title": "The origins of the school system aimed to produce independent, critical thinkers (2024)",
-      "hot": "2.7m",
-      "desc": "cbc.ca",
-      "source": "tech",
-      "tag": "⬆️ 72 points",
-      "url": "https://www.cbc.ca/radio/ideas/humboldt-education-system-bildung-1.7172093"
     }
   ],
   "space": [
     {
-      "title": "Live coverage: SpaceX plans Sunday Starlink launch from Vandenberg Space Force Base",
-      "hot": "6/28",
-      "desc": "The Starlink 17-40 mission will add another 24 broadband internet satellites to SpaceX’s low Earth orbit constellation. Liftoff from pad 4E at Vandenb",
+      "title": "暂无 space 数据",
+      "hot": "",
+      "desc": "数据加载中，请稍后刷新",
       "source": "space",
-      "tag": "Spaceflight Now",
-      "url": "https://spaceflightnow.com/2026/06/28/live-coverage-spacex-plans-sunday-starlink-launch-from-vandenberg-space-force-base/"
-    },
-    {
-      "title": "Rocket Lab launches 10th Synspective satellite",
-      "hot": "6/26",
-      "desc": "\nRocket Lab launched a radar-imaging satellite for Japanese company Synspective on June 26, a flight delayed by a responsive space mission.\nThe post R",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/rocket-lab-launches-10th-synspective-satellite/"
-    },
-    {
-      "title": "Next-gen astronaut Moon rovers aim for deployment ahead of Artemis 4 crew arrival",
-      "hot": "6/26",
-      "desc": "On May 26, NASA selected two lunar terrain vehicle providers to create iterative versions of their prior LTV designs that can deploy to the Moon in mo",
-      "source": "space",
-      "tag": "Spaceflight Now",
-      "url": "https://spaceflightnow.com/2026/06/26/next-gen-astronaut-moon-rovers-aim-for-deployment-ahead-of-artemis-4-crew-arrival/"
-    },
-    {
-      "title": "Spain-backed fund joins FOSSA’s sovereign satellite communications push",
-      "hot": "6/26",
-      "desc": "\nSpanish startup FOSSA Systems has raised about $10.5 million to expand its connectivity constellation in a funding round that included a technology i",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/spain-backed-fund-joins-fossas-sovereign-satellite-communications-push/"
-    },
-    {
-      "title": "NASA Announces Winners for 2026 Human Lander Challenge",
-      "hot": "6/26",
-      "desc": "NASA has announced the top student-developed solutions for environmental control and life support systems in future crewed lunar landers from particip",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-announces-winners-for-2026-human-lander-challenge/"
-    },
-    {
-      "title": "Ship 40 completes single-engine static fire; Booster 20 and Pad 2 see new work",
-      "hot": "6/26",
-      "desc": "SpaceX rolled out Ship 40 for engine testing, but after completing only a single engine…\nThe post Ship 40 completes single-engine static fire; Booster",
-      "source": "space",
-      "tag": "NASASpaceflight",
-      "url": "https://www.nasaspaceflight.com/2026/06/ship-40-single-engine/"
-    },
-    {
-      "title": "NASA Tests New Refuel Device for Future In-Space Refueling Missions",
-      "hot": "6/26",
-      "desc": "For NASA’s next generation of deep space exploration missions, spacecraft may need to refuel in Earth orbit before pushing farther into the solar syst",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-tests-new-refuel-device-for-future-in-space-refueling-missions/"
-    },
-    {
-      "title": "Partners, NASA Ready for June Launch of Swift Boost Mission",
-      "hot": "6/26",
-      "desc": "A mission to raise the orbit of NASA’s Swift observatory is poised for launch June 30.",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/missions/swift/swift-boost-mission/partners-nasa-ready-for-june-launch-of-swift-boost-mission/"
-    },
-    {
-      "title": "Ars Live: What's the latest in the aftermath of the New Glenn catastrophe?",
-      "hot": "6/26",
-      "desc": "Join us on the livestream at 1 pm ET and ask questions about the aftermath of New Glenn",
-      "source": "space",
-      "tag": "Arstechnica",
-      "url": "https://arstechnica.com/space/2026/06/ars-live-whats-the-latest-in-the-aftermath-of-the-new-glenn-catastrophe/"
-    },
-    {
-      "title": "NASA Identifies More Than 40 Space Technologies for Collaboration",
-      "hot": "6/26",
-      "desc": "NASA selected 41 proposals from 37 companies to advance technologies in support of the agency’s goals to establish a long-term presence on the Moon an",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/news-release/nasa-identifies-more-than-40-space-technologies-for-collaboration/"
-    },
-    {
-      "title": "Euclid Sees Heart of Milky Way",
-      "hot": "6/26",
-      "desc": "Euclid, an ESA (European Space Agency) mission with NASA contributions, took a new look at the heart of our Milky Way galaxy, seen in this image relea",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/image-article/euclid-sees-heart-of-milky-way/"
-    },
-    {
-      "title": "From Lab to Orbit | Turning Space Science into Reality | ESA Explores #21",
-      "hot": "6/26",
-      "desc": "Go behind the scenes at ESA’s European Astronaut Centre in Cologne, Germany, and discover how space experiments are prepared long before they reach or",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/06/From_Lab_to_Orbit_Turning_Space_Science_into_Reality_ESA_Explores_21"
-    },
-    {
-      "title": "Bringing Signals to NASA",
-      "hot": "6/26",
-      "desc": "Growing up on the central California coast, watching rocket launches with his father was part of Eric Fernandez’s childhood routine. Fernandez had pos",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/centers-and-facilities/kennedy/bringing-signals-to-nasa/"
-    },
-    {
-      "title": "NASA’s PACE Mission Studies Smoke, Fires",
-      "hot": "6/26",
-      "desc": "With the North American fire season underway, and a record number of acres already burned nationwide, NASA’s Plankton, Aerosol, Cloud, and ocean Ecosy",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/earth/nasas-pace-mission-studies-smoke-fires/"
-    },
-    {
-      "title": "3D-printed metal: unlocking crew autonomy",
-      "hot": "6/26",
-      "desc": "When it comes to the future of human exploration, 3D printers hold the key to crew autonomy in areas ranging from maintenance to medicine. Launched by",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/06/3D-printed_metal_unlocking_crew_autonomy"
+      "tag": "loading"
     }
   ],
   "github": [
     {
-      "title": "bozhouDev/codex-orange-book: Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
+      "title": "bozhouDev/codex-orange-book: Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可��载 PDF）",
       "hot": "⭐ 2.3k",
-      "desc": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
+      "desc": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可��载 PDF）",
       "source": "github",
       "tag": "HTML",
       "url": "https://github.com/bozhouDev/codex-orange-book"
     },
     {
       "title": "deepseek-ai/DeepSpec: DeepSpec: a full-stack codebase for training and evaluatin",
-      "hot": "⭐ 1.9k",
+      "hot": "⭐ 2.0k",
       "desc": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
       "source": "github",
       "tag": "Python",
@@ -490,7 +377,7 @@
     },
     {
       "title": "winsznx/theeleven: Eleven autonomous AI agents open live football prop markets o",
-      "hot": "⭐ 686",
+      "hot": "⭐ 687",
       "desc": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
       "source": "github",
       "tag": "TypeScript",
@@ -506,7 +393,7 @@
     },
     {
       "title": "QwenLM/Qwen-AgentWorld: Qwen-AgentWorld: Language World Models for General Agent",
-      "hot": "⭐ 614",
+      "hot": "⭐ 615",
       "desc": "Qwen-AgentWorld: Language World Models for General Agents",
       "source": "github",
       "tag": "Python",
@@ -514,7 +401,7 @@
     },
     {
       "title": "benchflow-ai/awesome-evals: A curated, non-BS library of the best resources for ",
-      "hot": "⭐ 553",
+      "hot": "⭐ 554",
       "desc": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFl",
       "source": "github",
       "tag": "GitHub",
@@ -522,7 +409,7 @@
     },
     {
       "title": "HKUDS/AgentSpace: \"AgentSpace: Human + Agents. One Team. One Workspace\"",
-      "hot": "⭐ 513",
+      "hot": "⭐ 514",
       "desc": "\"AgentSpace: Human + Agents. One Team. One Workspace\"",
       "source": "github",
       "tag": "TypeScript",
@@ -530,7 +417,7 @@
     },
     {
       "title": "fancydirty/mediary-scout: Agent-driven media library for your cloud drives (115 ",
-      "hot": "⭐ 481",
+      "hot": "⭐ 490",
       "desc": "Agent-driven media library for your cloud drives (115 / Quark / 光鸭 GuangYaPan).",
       "source": "github",
       "tag": "TypeScript",
@@ -538,7 +425,7 @@
     },
     {
       "title": "AlexandrosGounis/pdfx: An extension of the traditional PDF standard, allowing mu",
-      "hot": "⭐ 460",
+      "hot": "⭐ 467",
       "desc": "An extension of the traditional PDF standard, allowing multiple files to be stored in a single file via metadata",
       "source": "github",
       "tag": "TypeScript",
@@ -546,7 +433,7 @@
     },
     {
       "title": "WangJunqing-coder/huasheng13-skill: 基于花生十三公开教学体系、课程资料、历年正题整理得到的skill。",
-      "hot": "⭐ 386",
+      "hot": "⭐ 387",
       "desc": "基于花生十三公开教学体系、课程资料、历年正题整理得到的skill。",
       "source": "github",
       "tag": "GitHub",
@@ -562,7 +449,7 @@
     },
     {
       "title": "goehou/tabbit-toy: 这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便",
-      "hot": "⭐ 376",
+      "hot": "⭐ 378",
       "desc": "这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型",
       "source": "github",
       "tag": "JavaScript",
