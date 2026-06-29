@@ -1,20 +1,68 @@
 {
   "data": [
     {
+      "title": "What's Next for AI?",
+      "hot": "❤️ 64 💬 53",
+      "desc": "I have been writing about AI for quite a while now, but this is probably the first time I genuinely...",
+      "source": "dev",
+      "tag": "ai,  llm",
+      "url": "https://dev.to/sylwia-lask/whats-next-for-ai-219i"
+    },
+    {
+      "title": "Welcome to AI Engineer World’s Fair 2026",
+      "hot": "❤️ 11 💬 0",
+      "desc": "Welcome to the first edition of the AI Engineer World’s Fair newspaper!  On behalf of the organizing...",
+      "source": "dev",
+      "tag": "aie,  ai",
+      "url": "https://dev.to/dailycontext/welcome-to-ai-engineer-worlds-fair-2026-2o09"
+    },
+    {
+      "title": "Meme Monday",
+      "hot": "❤️ 22 💬 18",
+      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
+      "source": "dev",
+      "tag": "discuss,  jokes",
+      "url": "https://dev.to/ben/meme-monday-46a8"
+    },
+    {
+      "title": "The Model Does Not Need Memory. The Situation Does.",
+      "hot": "❤️ 9 💬 2",
+      "desc": "I think I was asking the wrong question.   For a while, the question was simple: does memory make...",
+      "source": "dev",
+      "tag": "ai,  rag",
+      "url": "https://dev.to/marcosomma/the-model-does-not-need-memory-the-situation-does-196g"
+    },
+    {
+      "title": "My commit message said \"You've hit your session limit\"",
+      "hot": "❤️ 3 💬 1",
+      "desc": "How I ended up running a local LLM to generate my git commit messages",
+      "source": "dev",
+      "tag": "genai,  ollama",
+      "url": "https://dev.to/shyamala_u/my-commit-message-said-youve-hit-your-session-limit-2abn"
+    },
+    {
       "title": "Fix Web Performance Issues Faster with Modern Web Guidance and Chrome DevTools for AI Agents",
-      "hot": "❤️ 2 💬 1",
+      "hot": "❤️ 5 💬 2",
       "desc": "Performance optimization has always been one of the hardest parts of web development. You run...",
       "source": "dev",
       "tag": "performance,  webperf",
       "url": "https://dev.to/jacobandrewsky/fix-web-performance-issues-faster-with-modern-web-guidance-and-chrome-devtools-for-ai-agents-2e7e"
     },
     {
-      "title": "Never forget to enter the Stern Grove lottery again!",
-      "hot": "❤️ 25 💬 5",
-      "desc": "Browser automation with Playwright, Python, GitHub Actions, and Entire to auto-enter San Francisco Stern Grove concert l",
+      "title": "After a long journey, I've reached a deep burnout",
+      "hot": "❤️ 19 💬 8",
+      "desc": "Hi everyone, I've been rarely posting on dev, or even being active at all. I've started thinking...",
       "source": "dev",
-      "tag": "ai,  playwright",
-      "url": "https://dev.to/entire/never-forget-to-enter-the-stern-grove-lottery-again-31i5"
+      "tag": "discuss,  ai",
+      "url": "https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b"
+    },
+    {
+      "title": "What was your win this week!?",
+      "hot": "❤️ 43 💬 36",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "discuss,  weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-4na1"
     },
     {
       "title": "12B Gemma 4 Deployment with NVIDIA Blackwell 6000, QAT, MTP, and Antigravity CLI",
@@ -47,14 +95,6 @@
       "source": "dev",
       "tag": "ai,  webdev",
       "url": "https://dev.to/adamklein/the-agent-first-approach-to-building-products-51oj"
-    },
-    {
-      "title": "What was your win this week!?",
-      "hot": "❤️ 40 💬 34",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "discuss,  weeklyretro",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-4na1"
     },
     {
       "title": "How I Use AI Councils to Solve Ambiguous Engineering Problems",
@@ -119,47 +159,7 @@
       "source": "dev",
       "tag": "beginners,  cli",
       "url": "https://dev.to/karuppiah7890/debian-packages-51gj"
-    },
-    {
-      "title": "Minimalist EKS: The Easy Way",
-      "hot": "❤️ 0 💬 0",
-      "desc": "Amazon EKS manages the Kubernetes control plane, but you remain responsible for provisioning the...",
-      "source": "dev",
-      "tag": "kubernetes,  aws",
-      "url": "https://dev.to/joachim8675309/minimalist-eks-the-easy-way-hph"
-    },
-    {
-      "title": "Serverless Gemma 12B with NVIDIA A100 on Azure Container Apps",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to Azure Container Apps. A...",
-      "source": "dev",
-      "tag": "qat,  gemma4",
-      "url": "https://dev.to/gde/serverless-gemma-12b-with-nvidia-a100-on-azure-container-apps-1ff4"
-    },
-    {
-      "title": "A year of building with AI and the thing that scared me most wasn't the hallucinations",
-      "hot": "❤️ 0 💬 0",
-      "desc": "A year ago I started building TasksForge. The premise was simple enough: use AI to simplify project...",
-      "source": "dev",
-      "tag": "Dev.to",
-      "url": "https://dev.to/smirfolio/a-year-of-building-with-ai-and-the-thing-that-scared-me-most-wasnt-the-hallucinations-3oce"
-    },
-    {
-      "title": "MTP Speculative Decoding with the 12B Gemma 4 QAT Model on NVIDIA L4, Cloud Run, MCP, and…",
-      "hot": "❤️ 5 💬 0",
-      "desc": "MTP Speculative Decoding with the 12B Gemma 4 QAT Model on NVIDIA L4, Cloud Run, MCP, and...",
-      "source": "dev",
-      "tag": "antigravity,  mcps",
-      "url": "https://dev.to/gde/mtp-speculative-decoding-with-the-12b-gemma-4-qat-model-on-nvidia-l4-cloud-run-mcp-and-18b0"
-    },
-    {
-      "title": "I stopped generating color scales and started shaping them",
-      "hot": "❤️ 5 💬 0",
-      "desc": "Generating a color scale is a solved problem. Hand most tools a color and you get back eleven valid,...",
-      "source": "dev",
-      "tag": "javascript,  webdev",
-      "url": "https://dev.to/gilbarbara/i-stopped-generating-color-scales-and-started-shaping-them-5ekm"
     }
   ],
-  "updatedAt": "2026-06-29T12:13:41.475Z"
+  "updatedAt": "2026-06-29T16:14:34.898Z"
 }
