@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T02:30:38.360Z",
+  "updatedAt": "2026-06-29T07:16:57.776Z",
   "source": "live",
   "dev": [
     {
@@ -27,14 +27,6 @@
       "url": "https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-mcp-cloud-run-and-antigravity-cli-3ckn"
     },
     {
-      "title": "Lite-Harness SDK",
-      "hot": "❤️ 1 💬 5",
-      "desc": "Unified API to swap AI coding harnesses like Claude Code and Codex",
-      "source": "dev",
-      "tag": "ai,  litellm",
-      "url": "https://dev.to/jeancarlosn/lite-harness-sdk-3f28"
-    },
-    {
       "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
       "hot": "❤️ 1 💬 0",
       "desc": "How to build grounded, validated user personas and turn them into agents that generate eval data, for when you cannot re",
@@ -52,7 +44,7 @@
     },
     {
       "title": "What was your win this week!?",
-      "hot": "❤️ 40 💬 31",
+      "hot": "❤️ 40 💬 32",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "discuss,  weeklyretro",
@@ -161,6 +153,14 @@
       "source": "dev",
       "tag": "javascript,  webdev",
       "url": "https://dev.to/gilbarbara/i-stopped-generating-color-scales-and-started-shaping-them-5ekm"
+    },
+    {
+      "title": "Multi-Tenancy Is the Real Agent Platform Problem",
+      "hot": "❤️ 0 💬 0",
+      "desc": "Overview    Read on Hashnode   What I have seen when building agent platforms is that most...",
+      "source": "dev",
+      "tag": "ai,  agents",
+      "url": "https://dev.to/luffy_14/multi-tenancy-is-the-real-agent-platform-problem-1dh2"
     }
   ],
   "tech": [
@@ -169,282 +169,160 @@
       "hot": "3.0m",
       "desc": "semgrep.dev",
       "source": "tech",
-      "tag": "⬆️ 480 points",
+      "tag": "⬆️ 735 points",
       "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/"
     },
     {
-      "title": "Historical memory prices 1960-2026",
+      "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
       "hot": "3.0m",
+      "desc": "danunparsed.com",
+      "source": "tech",
+      "tag": "⬆️ 245 points",
+      "url": "https://danunparsed.com/p/hackerrank-open-source-ats"
+    },
+    {
+      "title": "Dissecting Apple's Sparse Image Format (ASIF)",
+      "hot": "3.0m",
+      "desc": "schamper.dev",
+      "source": "tech",
+      "tag": "⬆️ 31 points",
+      "url": "https://schamper.dev/dissecting-apples-sparse-image-format-asif/"
+    },
+    {
+      "title": "Age verification is just a precursor to automated attribution of speech",
+      "hot": "3.0m",
+      "desc": "nonogra.ph",
+      "source": "tech",
+      "tag": "⬆️ 297 points",
+      "url": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026"
+    },
+    {
+      "title": "Herdr: Agent multiplexer that lives in your terminal",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 36 points",
+      "url": "https://github.com/ogulcancelik/herdr"
+    },
+    {
+      "title": "Lore – Give your coding agent the decisions your team made",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 21 points",
+      "url": "https://github.com/itsthelore/rac-core"
+    },
+    {
+      "title": "Historical memory prices 1960-2026",
+      "hot": "2.9m",
       "desc": "dam.stanford.edu",
       "source": "tech",
-      "tag": "⬆️ 173 points",
+      "tag": "⬆️ 273 points",
       "url": "https://dam.stanford.edu/memory-prices.html"
     },
     {
       "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "pudding.cool",
       "source": "tech",
-      "tag": "⬆️ 330 points",
+      "tag": "⬆️ 358 points",
       "url": "https://pudding.cool/2026/06/menu-story/"
-    },
-    {
-      "title": "Knowledge Distillation of Black-Box Large Language Models (2024)",
-      "hot": "3.0m",
-      "desc": "arxiv.org",
-      "source": "tech",
-      "tag": "⬆️ 54 points",
-      "url": "https://arxiv.org/abs/2401.07013"
     },
     {
       "title": "I used Claude Code to get a second opinion on my MRI",
       "hot": "2.9m",
       "desc": "antoine.fi",
       "source": "tech",
-      "tag": "⬆️ 358 points",
+      "tag": "⬆️ 408 points",
       "url": "https://antoine.fi/mri-analysis-using-claude-code-opus"
     },
     {
-      "title": "Deciphering Basmala",
+      "title": "Knowledge Distillation of Black-Box Large Language Models (2024)",
+      "hot": "2.9m",
+      "desc": "arxiv.org",
+      "source": "tech",
+      "tag": "⬆️ 84 points",
+      "url": "https://arxiv.org/abs/2401.07013"
+    },
+    {
+      "title": "Deciphering basmala",
       "hot": "2.9m",
       "desc": "blog.plover.com",
       "source": "tech",
-      "tag": "⬆️ 17 points",
+      "tag": "⬆️ 45 points",
       "url": "https://blog.plover.com/lang/bismillah.html"
     },
     {
-      "title": "Better Images of AI",
-      "hot": "2.9m",
-      "desc": "betterimagesofai.org",
-      "source": "tech",
-      "tag": "⬆️ 15 points",
-      "url": "https://betterimagesofai.org/"
-    },
-    {
-      "title": "AI boom risks global financial crash, warn central bankers",
-      "hot": "2.9m",
-      "desc": "telegraph.co.uk",
-      "source": "tech",
-      "tag": "⬆️ 26 points",
-      "url": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/"
-    },
-    {
-      "title": "TOP500 at ISC’26: We have a New Number 1 Supercomputer",
-      "hot": "2.9m",
-      "desc": "chipsandcheese.com",
-      "source": "tech",
-      "tag": "⬆️ 77 points",
-      "url": "https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number"
-    },
-    {
-      "title": "The Boeing 747 begins its final descent",
-      "hot": "2.9m",
-      "desc": "theatlantic.com",
-      "source": "tech",
-      "tag": "⬆️ 144 points",
-      "url": "https://www.theatlantic.com/magazine/2026/07/boeing-747-retirement/687304/"
-    },
-    {
       "title": "Show HN: Zanagrams",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "zanagrams.com",
       "source": "tech",
-      "tag": "⬆️ 184 points",
+      "tag": "⬆️ 259 points",
       "url": "https://zanagrams.com/"
-    },
-    {
-      "title": "Librepods: AirPods liberated",
-      "hot": "2.8m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 291 points",
-      "url": "https://github.com/librepods-org/librepods"
-    },
-    {
-      "title": "Professor denounces mass AI fraud on an exam at Brown",
-      "hot": "2.8m",
-      "desc": "english.elpais.com",
-      "source": "tech",
-      "tag": "⬆️ 284 points",
-      "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html"
-    },
-    {
-      "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
-      "hot": "2.8m",
-      "desc": "oldvcr.blogspot.com",
-      "source": "tech",
-      "tag": "⬆️ 94 points",
-      "url": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html"
-    },
-    {
-      "title": "Daisugi, the Japanese technique of growing trees out of other trees (2020)",
-      "hot": "2.8m",
-      "desc": "openculture.com",
-      "source": "tech",
-      "tag": "⬆️ 112 points",
-      "url": "https://www.openculture.com/2020/10/daisugi.html"
-    },
-    {
-      "title": "The Baffling World of Masayoshi Son's Presentations",
-      "hot": "2.8m",
-      "desc": "bloomberg.com",
-      "source": "tech",
-      "tag": "⬆️ 16 points",
-      "url": "https://www.bloomberg.com/news/features/2020-06-23/golden-geese-and-unicorns-inside-the-eccentric-presentations-of-masayoshi-son"
     },
     {
       "title": "Tokenmaxxing is dead, long live tokenmaxxing",
       "hot": "2.8m",
       "desc": "12gramsofcarbon.com",
       "source": "tech",
-      "tag": "⬆️ 115 points",
+      "tag": "⬆️ 139 points",
       "url": "https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing"
     },
     {
-      "title": "Show HN: DRM-Free Books",
-      "hot": "2.7m",
-      "desc": "frequal.com",
+      "title": "TOP500 at ISC’26: We have a New Number 1 Supercomputer",
+      "hot": "2.8m",
+      "desc": "chipsandcheese.com",
       "source": "tech",
-      "tag": "⬆️ 73 points",
-      "url": "https://frequal.com/Perspectives/DrmFreeAuthors.html"
+      "tag": "⬆️ 101 points",
+      "url": "https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number"
     },
     {
-      "title": "Xonaly – Canada's Independent Search Engine",
-      "hot": "2.7m",
-      "desc": "xonaly.com",
+      "title": "The Boeing 747 begins its final descent",
+      "hot": "2.8m",
+      "desc": "theatlantic.com",
       "source": "tech",
-      "tag": "⬆️ 59 points",
-      "url": "https://xonaly.com/"
+      "tag": "⬆️ 180 points",
+      "url": "https://www.theatlantic.com/magazine/2026/07/boeing-747-retirement/687304/"
     },
     {
-      "title": "Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
-      "hot": "2.7m",
-      "desc": "github.com",
+      "title": "Model Training as Code",
+      "hot": "2.8m",
+      "desc": "aleph-alpha.com",
       "source": "tech",
-      "tag": "⬆️ 35 points",
-      "url": "https://github.com/kamaludu/bash4llm/"
-    }
-  ],
-  "github": [
-    {
-      "title": "deepseek-ai/DeepSpec: DeepSpec: a full-stack codebase for training and evaluatin",
-      "hot": "⭐ 2.3k",
-      "desc": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/deepseek-ai/DeepSpec"
+      "tag": "⬆️ 64 points",
+      "url": "https://aleph-alpha.com/en/blog/model-training-as-code/"
     },
     {
-      "title": "bozhouDev/codex-orange-book: Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
-      "hot": "⭐ 2.3k",
-      "desc": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
-      "source": "github",
-      "tag": "HTML",
-      "url": "https://github.com/bozhouDev/codex-orange-book"
+      "title": "The Baffling World of Masayoshi Son's Presentations (2020)",
+      "hot": "2.8m",
+      "desc": "bloomberg.com",
+      "source": "tech",
+      "tag": "⬆️ 53 points",
+      "url": "https://www.bloomberg.com/news/features/2020-06-23/golden-geese-and-unicorns-inside-the-eccentric-presentations-of-masayoshi-son"
     },
     {
-      "title": "bikini/exploitarium: A single archive of public exploit PoCs and vulnerability r",
-      "hot": "⭐ 2.2k",
-      "desc": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report th",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/bikini/exploitarium"
+      "title": "The KIDS Act would require age checks to get online",
+      "hot": "2.7m",
+      "desc": "eff.org",
+      "source": "tech",
+      "tag": "⬆️ 433 points",
+      "url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online"
     },
     {
-      "title": "Yu9191/wloc: 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash ",
-      "hot": "⭐ 1.1k",
-      "desc": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/Yu9191/wloc"
+      "title": "Professor denounces mass AI fraud on an exam at Brown",
+      "hot": "2.7m",
+      "desc": "english.elpais.com",
+      "source": "tech",
+      "tag": "⬆️ 369 points",
+      "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html"
     },
     {
-      "title": "winsznx/theeleven: Eleven autonomous AI agents open live football prop markets o",
-      "hot": "⭐ 698",
-      "desc": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/winsznx/theeleven"
-    },
-    {
-      "title": "BohemiaInteractive/CWR: Arma: Cold War Assault Remastered Source Code Repository",
-      "hot": "⭐ 689",
-      "desc": "Arma: Cold War Assault Remastered Source Code Repository.",
-      "source": "github",
-      "tag": "C++",
-      "url": "https://github.com/BohemiaInteractive/CWR"
-    },
-    {
-      "title": "QwenLM/Qwen-AgentWorld: Qwen-AgentWorld: Language World Models for General Agent",
-      "hot": "⭐ 630",
-      "desc": "Qwen-AgentWorld: Language World Models for General Agents",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/QwenLM/Qwen-AgentWorld"
-    },
-    {
-      "title": "benchflow-ai/awesome-evals: A curated, non-BS library of the best resources for ",
-      "hot": "⭐ 564",
-      "desc": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFl",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/benchflow-ai/awesome-evals"
-    },
-    {
-      "title": "HKUDS/AgentSpace: \"AgentSpace: Human + Agents. One Team. One Workspace\"",
-      "hot": "⭐ 525",
-      "desc": "\"AgentSpace: Human + Agents. One Team. One Workspace\"",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/HKUDS/AgentSpace"
-    },
-    {
-      "title": "AlexandrosGounis/pdfx: An extension of the traditional PDF standard, allowing mu",
-      "hot": "⭐ 490",
-      "desc": "An extension of the traditional PDF standard, allowing multiple files to be stored in a single file via metadata",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/AlexandrosGounis/pdfx"
-    },
-    {
-      "title": "WangJunqing-coder/huasheng13-skill: 基于花生十三公开教学体系、课程资料、历年正题整理得到的skill。",
-      "hot": "⭐ 396",
-      "desc": "基于花生十三公开教学体系、课程资料、历年正题整理得到的skill。",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/WangJunqing-coder/huasheng13-skill"
-    },
-    {
-      "title": "goehou/tabbit-toy: 这���一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，",
-      "hot": "⭐ 380",
-      "desc": "这���一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/goehou/tabbit-toy"
-    },
-    {
-      "title": "krea-ai/krea-2: Official inference code for Krea 2",
-      "hot": "⭐ 372",
-      "desc": "Official inference code for Krea 2",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/krea-ai/krea-2"
-    },
-    {
-      "title": "Pluviobyte/video-production-skills: Reusable AI video production skills library ",
-      "hot": "⭐ 365",
-      "desc": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/Pluviobyte/video-production-skills"
-    },
-    {
-      "title": "playPlumtown/Plumtown: The cozy life-sim that pays. Build a home, master skills,",
-      "hot": "⭐ 358",
-      "desc": "The cozy life-sim that pays. Build a home, master skills, climb careers — earn $PLUM and cash out real SOL. Free to play in your browser.",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/playPlumtown/Plumtown"
+      "title": "The Forgotten Castles of the Garamantes",
+      "hot": "2.7m",
+      "desc": "wildmanlife.com",
+      "source": "tech",
+      "tag": "⬆️ 20 points",
+      "url": "https://www.wildmanlife.com/the-forgotten-castles-of-the-garamantes/"
     }
   ],
   "space": [
@@ -567,6 +445,128 @@
       "source": "space",
       "tag": "ESA",
       "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/06/From_Lab_to_Orbit_Turning_Space_Science_into_Reality_ESA_Explores_21"
+    }
+  ],
+  "github": [
+    {
+      "title": "bikini/exploitarium: A single archive of public exploit PoCs and vulnerability r",
+      "hot": "⭐ 2.8k",
+      "desc": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report th",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/bikini/exploitarium"
+    },
+    {
+      "title": "deepseek-ai/DeepSpec: DeepSpec: a full-stack codebase for training and evaluatin",
+      "hot": "⭐ 2.6k",
+      "desc": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/deepseek-ai/DeepSpec"
+    },
+    {
+      "title": "bozhouDev/codex-orange-book: Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
+      "hot": "⭐ 2.3k",
+      "desc": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
+      "source": "github",
+      "tag": "HTML",
+      "url": "https://github.com/bozhouDev/codex-orange-book"
+    },
+    {
+      "title": "Yu9191/wloc: 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash ",
+      "hot": "⭐ 1.2k",
+      "desc": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/Yu9191/wloc"
+    },
+    {
+      "title": "winsznx/theeleven: Eleven autonomous AI agents open live football prop markets o",
+      "hot": "⭐ 708",
+      "desc": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/winsznx/theeleven"
+    },
+    {
+      "title": "BohemiaInteractive/CWR: Arma: Cold War Assault Remastered Source Code Repository",
+      "hot": "⭐ 691",
+      "desc": "Arma: Cold War Assault Remastered Source Code Repository.",
+      "source": "github",
+      "tag": "C++",
+      "url": "https://github.com/BohemiaInteractive/CWR"
+    },
+    {
+      "title": "QwenLM/Qwen-AgentWorld: Qwen-AgentWorld: Language World Models for General Agent",
+      "hot": "⭐ 647",
+      "desc": "Qwen-AgentWorld: Language World Models for General Agents",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/QwenLM/Qwen-AgentWorld"
+    },
+    {
+      "title": "benchflow-ai/awesome-evals: A curated, non-BS library of the best resources for ",
+      "hot": "⭐ 569",
+      "desc": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFl",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/benchflow-ai/awesome-evals"
+    },
+    {
+      "title": "HKUDS/AgentSpace: \"AgentSpace: Human + Agents. One Team. One Workspace\"",
+      "hot": "⭐ 533",
+      "desc": "\"AgentSpace: Human + Agents. One Team. One Workspace\"",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/HKUDS/AgentSpace"
+    },
+    {
+      "title": "AlexandrosGounis/pdfx: An extension of the traditional PDF standard, allowing mu",
+      "hot": "⭐ 503",
+      "desc": "An extension of the traditional PDF standard, allowing multiple files to be stored in a single file via metadata",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/AlexandrosGounis/pdfx"
+    },
+    {
+      "title": "Krishnagangwal/CS-Fundamentals: Curated CS fundamentals for placement prep: DSA,",
+      "hot": "⭐ 454",
+      "desc": "Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/Krishnagangwal/CS-Fundamentals"
+    },
+    {
+      "title": "WangJunqing-coder/huasheng13-skill: 基于花生十三公开教学体系、课程资料、历年正题整理得到的skill。",
+      "hot": "⭐ 412",
+      "desc": "基于花生十三公开教学体系、课程资料、历年正题整理得到的skill。",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/WangJunqing-coder/huasheng13-skill"
+    },
+    {
+      "title": "goehou/tabbit-toy: 这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便",
+      "hot": "⭐ 383",
+      "desc": "这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/goehou/tabbit-toy"
+    },
+    {
+      "title": "krea-ai/krea-2: Official inference code for Krea 2",
+      "hot": "⭐ 380",
+      "desc": "Official inference code for Krea 2",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/krea-ai/krea-2"
+    },
+    {
+      "title": "Pluviobyte/video-production-skills: Reusable AI video production skills library ",
+      "hot": "⭐ 380",
+      "desc": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/Pluviobyte/video-production-skills"
     }
   ]
 }
