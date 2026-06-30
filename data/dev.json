@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "What's Next for AI?",
-      "hot": "❤️ 83 💬 85",
+      "hot": "❤️ 83 💬 87",
       "desc": "I have been writing about AI for quite a while now, but this is probably the first time I genuinely...",
       "source": "dev",
       "tag": "ai,  llm",
@@ -10,7 +10,7 @@
     },
     {
       "title": "Need a break? Play today's game from The Daily Context.",
-      "hot": "❤️ 42 💬 13",
+      "hot": "❤️ 44 💬 14",
       "desc": "We (at DEV and MLH) are covering AI Engineer's World Fair by printing a physical newspaper called...",
       "source": "dev",
       "tag": "aie,  gamedev",
@@ -25,16 +25,16 @@
       "url": "https://dev.to/dailycontext/welcome-to-ai-engineer-worlds-fair-2026-2o09"
     },
     {
-      "title": "The Model Does Not Need Memory. The Situation Does.",
-      "hot": "❤️ 38 💬 11",
-      "desc": "I think I was asking the wrong question.   For a while, the question was simple: does memory make...",
+      "title": "What Actually Happens When You Call an LLM API",
+      "hot": "❤️ 30 💬 31",
+      "desc": "you've felt it.  you type a prompt, hit send, and the response starts streaming in under a second....",
       "source": "dev",
-      "tag": "ai,  rag",
-      "url": "https://dev.to/marcosomma/the-model-does-not-need-memory-the-situation-does-196g"
+      "tag": "ai,  webdev",
+      "url": "https://dev.to/dannwaneri/what-actually-happens-when-you-call-an-llm-api-28l6"
     },
     {
       "title": "My commit message said \"You've hit your session limit\"",
-      "hot": "❤️ 34 💬 4",
+      "hot": "❤️ 35 💬 4",
       "desc": "How I ended up running a local LLM to generate my git commit messages",
       "source": "dev",
       "tag": "genai,  ollama",
@@ -42,27 +42,27 @@
     },
     {
       "title": "Pragmatism in an Age of Infinite Code and Unavoidable Bottlenecks",
-      "hot": "❤️ 29 💬 4",
+      "hot": "❤️ 30 💬 5",
       "desc": "Leading into the AI Engineer event in San Francisco, I’m looking forward to having my mind blown....",
       "source": "dev",
       "tag": "ai,  aie",
       "url": "https://dev.to/dailycontext/pragmatism-in-an-age-of-infinite-code-and-unavoidable-bottlenecks-1bkd"
     },
     {
-      "title": "What Actually Happens When You Call an LLM API",
-      "hot": "❤️ 30 💬 30",
-      "desc": "you've felt it.  you type a prompt, hit send, and the response starts streaming in under a second....",
-      "source": "dev",
-      "tag": "ai,  webdev",
-      "url": "https://dev.to/dannwaneri/what-actually-happens-when-you-call-an-llm-api-28l6"
-    },
-    {
       "title": "You’re not really that far behind.",
-      "hot": "❤️ 36 💬 1",
+      "hot": "❤️ 36 💬 2",
       "desc": "My non-tech friends still don’t get it. Despite what you’d believe from Twitter, most people still...",
       "source": "dev",
       "tag": "aie,  ai",
       "url": "https://dev.to/dailycontext/youre-not-really-that-far-behind-h4d"
+    },
+    {
+      "title": "The Model Does Not Need Memory. The Situation Does.",
+      "hot": "❤️ 42 💬 11",
+      "desc": "I think I was asking the wrong question.   For a while, the question was simple: does memory make...",
+      "source": "dev",
+      "tag": "ai,  rag",
+      "url": "https://dev.to/marcosomma/the-model-does-not-need-memory-the-situation-does-196g"
     },
     {
       "title": "Coding Agents Play Favorites With Your Dependencies",
@@ -71,14 +71,6 @@
       "source": "dev",
       "tag": "agents,  aie",
       "url": "https://dev.to/dailycontext/coding-agents-play-favorites-with-your-dependencies-2dl6"
-    },
-    {
-      "title": "What to Expect at the AI Engineer World’s Fair 2026",
-      "hot": "❤️ 26 💬 0",
-      "desc": "The AI Engineer World’s Fair returns to Moscone West in San Francisco from June 28 through July 2,...",
-      "source": "dev",
-      "tag": "ai,  aie",
-      "url": "https://dev.to/dailycontext/what-to-expect-at-the-ai-engineer-worlds-fair-2026-3l8g"
     },
     {
       "title": "After a long journey, I've reached a deep burnout",
@@ -129,8 +121,16 @@
       "url": "https://dev.to/gde/midsommer-madness-with-wasm-and-rust-2ko3"
     },
     {
+      "title": "What to Expect at the AI Engineer World’s Fair 2026",
+      "hot": "❤️ 26 💬 0",
+      "desc": "The AI Engineer World’s Fair returns to Moscone West in San Francisco from June 28 through July 2,...",
+      "source": "dev",
+      "tag": "ai,  aie",
+      "url": "https://dev.to/dailycontext/what-to-expect-at-the-ai-engineer-worlds-fair-2026-3l8g"
+    },
+    {
       "title": "What was your win this week!?",
-      "hot": "❤️ 43 💬 41",
+      "hot": "❤️ 43 💬 42",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "discuss,  weeklyretro",
@@ -138,7 +138,7 @@
     },
     {
       "title": "Fix Web Performance Issues Faster with Modern Web Guidance and Chrome DevTools for AI Agents",
-      "hot": "❤️ 30 💬 3",
+      "hot": "❤️ 31 💬 3",
       "desc": "Performance optimization has always been one of the hardest parts of web development. You run...",
       "source": "dev",
       "tag": "performance,  webperf",
@@ -161,5 +161,5 @@
       "url": "https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-qat-mtp-and-antigravity-cli-3gn6"
     }
   ],
-  "updatedAt": "2026-06-29T23:47:12.301Z"
+  "updatedAt": "2026-06-30T01:54:57.512Z"
 }
