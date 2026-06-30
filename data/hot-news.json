@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T21:50:31.608Z",
+  "updatedAt": "2026-06-30T23:00:13.711Z",
   "source": "live",
   "dev": [
     {
@@ -27,6 +27,14 @@
       "url": "https://dev.to/dailycontext/welcome-to-ai-engineer-worlds-fair-2026-2o09"
     },
     {
+      "title": "Someone Else Pays for Your AI Access",
+      "hot": "❤️ 44 💬 38",
+      "desc": "you probably didn't think about this when you signed up.  you entered your card details, verified...",
+      "source": "dev",
+      "tag": "ai,  webdev",
+      "url": "https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149"
+    },
+    {
       "title": "This Is Software’s iPhone Moment",
       "hot": "❤️ 46 💬 5",
       "desc": "In 2007, humans took roughly 85 billion photos a year. Photography was a specialized craft that...",
@@ -36,19 +44,11 @@
     },
     {
       "title": "The Future Of AI Is Local And Open",
-      "hot": "❤️ 37 💬 3",
+      "hot": "❤️ 39 💬 3",
       "desc": "There’s a specific moment that happens at every single hackathon. It’s usually around 2 or 3 a.m.,...",
       "source": "dev",
       "tag": "aie,  gemma",
       "url": "https://dev.to/dailycontext/the-future-of-ai-is-local-and-open-522c"
-    },
-    {
-      "title": "Someone Else Pays for Your AI Access",
-      "hot": "❤️ 44 💬 35",
-      "desc": "you probably didn't think about this when you signed up.  you entered your card details, verified...",
-      "source": "dev",
-      "tag": "ai,  webdev",
-      "url": "https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149"
     },
     {
       "title": "AI Engineer Meets AI Engineer",
@@ -124,11 +124,19 @@
     },
     {
       "title": "Agnostic Cluster Refactor Skill for Antigrafity CLI: Building an AI Agent that Migrates Apps from AWS to GKE (Subagents, HITL Gate & Workload Identity)",
-      "hot": "❤️ 6 💬 0",
+      "hot": "❤️ 7 💬 0",
       "desc": "How I built a skill for the Antigravity CLI that automates migrating AWS-coupled Python apps to GKE — parallel subagents",
       "source": "dev",
       "tag": "kubernetes,  googlecloud",
       "url": "https://dev.to/gde/agnostic-cluster-refactor-skill-for-antigrafity-cli-building-an-ai-agent-that-migrates-apps-from-e0"
+    },
+    {
+      "title": "Play today’s game from Issue #2 of The Daily Context!",
+      "hot": "❤️ 5 💬 0",
+      "desc": "Yesterday, we kicked off our physical newspaper, The Daily Context, at the AI Engineer World’s Fair...",
+      "source": "dev",
+      "tag": "aie,  ai",
+      "url": "https://dev.to/devteam/play-todays-game-from-issue-2-of-the-daily-context-epf"
     },
     {
       "title": "Debugging Deployments with Gemma 12B, TPU v6e-4, MCP, and Antigravity CLI",
@@ -137,14 +145,6 @@
       "source": "dev",
       "tag": "mcps,  gemma",
       "url": "https://dev.to/gde/debugging-deployments-with-gemma-12b-tpu-v6e-4-mcp-and-antigravity-cli-12b6"
-    },
-    {
-      "title": "Coding Agents Play Favorites With Your Dependencies",
-      "hot": "❤️ 30 💬 3",
-      "desc": "Deep into a coding session, you realize you want beta testers to try some new functionality first....",
-      "source": "dev",
-      "tag": "agents,  aie",
-      "url": "https://dev.to/dailycontext/coding-agents-play-favorites-with-your-dependencies-2dl6"
     },
     {
       "title": "DIY: Turning a Fogger Vape Dock Into a 3.7V Li‑ion Charger (And a Small Update About Confidence)",
@@ -169,7 +169,7 @@
       "hot": "3.0m",
       "desc": "anthropic.com",
       "source": "tech",
-      "tag": "⬆️ 700 points",
+      "tag": "⬆️ 772 points",
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     },
     {
@@ -177,23 +177,23 @@
       "hot": "3.0m",
       "desc": "thereallo.dev",
       "source": "tech",
-      "tag": "⬆️ 1136 points",
+      "tag": "⬆️ 1247 points",
       "url": "https://thereallo.dev/blog/claude-code-prompt-steganography"
     },
     {
-      "title": "I ported Kubernetes to the browser",
+      "title": "From brain waves to words: a new path to communication without surgery",
       "hot": "3.0m",
-      "desc": "ngrok.com",
+      "desc": "ai.meta.com",
       "source": "tech",
-      "tag": "⬆️ 69 points",
-      "url": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser"
+      "tag": "⬆️ 64 points",
+      "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1"
     },
     {
       "title": "Claude Science",
       "hot": "3.0m",
       "desc": "claude.com",
       "source": "tech",
-      "tag": "⬆️ 285 points",
+      "tag": "⬆️ 315 points",
       "url": "https://claude.com/product/claude-science"
     },
     {
@@ -201,7 +201,7 @@
       "hot": "2.9m",
       "desc": "deepmind.google",
       "source": "tech",
-      "tag": "⬆️ 244 points",
+      "tag": "⬆️ 271 points",
       "url": "https://deepmind.google/models/gemini-image/flash-lite/"
     },
     {
@@ -209,123 +209,253 @@
       "hot": "2.9m",
       "desc": "mechanical-pencil.com",
       "source": "tech",
-      "tag": "⬆️ 39 points",
+      "tag": "⬆️ 63 points",
       "url": "https://mechanical-pencil.com/products/car"
     },
     {
-      "title": "Meta's brain-scanning system reads sentences non-invasively, code open source",
+      "title": "TabFM: A zero-shot foundation model for tabular data",
       "hot": "2.9m",
-      "desc": "ai.meta.com",
+      "desc": "research.google",
       "source": "tech",
       "tag": "⬆️ 13 points",
-      "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1"
+      "url": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/"
+    },
+    {
+      "title": "I ported Kubernetes to the browser",
+      "hot": "2.9m",
+      "desc": "ngrok.com",
+      "source": "tech",
+      "tag": "⬆️ 108 points",
+      "url": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser"
+    },
+    {
+      "title": "Hatari – Online Atari ST/STE/TT/Falcon Emulator",
+      "hot": "2.9m",
+      "desc": "hatari.frama.io",
+      "source": "tech",
+      "tag": "⬆️ 6 points",
+      "url": "https://hatari.frama.io/hatari/online/hatari.html"
     },
     {
       "title": "I built a mmWave material classification radar (2025)",
       "hot": "2.9m",
       "desc": "gauthier-lechevalier.com",
       "source": "tech",
-      "tag": "⬆️ 107 points",
+      "tag": "⬆️ 116 points",
       "url": "https://gauthier-lechevalier.com/radar"
     },
     {
-      "title": "Stroustrup's Rule (2024)",
+      "title": "Leanstral 1.5",
       "hot": "2.9m",
+      "desc": "docs.mistral.ai",
+      "source": "tech",
+      "tag": "⬆️ 36 points",
+      "url": "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06"
+    },
+    {
+      "title": "Stroustrup's Rule (2024)",
+      "hot": "2.8m",
       "desc": "buttondown.com",
       "source": "tech",
-      "tag": "⬆️ 14 points",
+      "tag": "⬆️ 36 points",
       "url": "https://buttondown.com/hillelwayne/archive/stroustrups-rule/"
-    },
-    {
-      "title": "Matrix URIs, a URL syntax from Tim Berners-Lee that never shipped (1996)",
-      "hot": "2.9m",
-      "desc": "w3.org",
-      "source": "tech",
-      "tag": "⬆️ 35 points",
-      "url": "https://www.w3.org/DesignIssues/MatrixURIs.html"
-    },
-    {
-      "title": "Building a custom octocopter from scratch with no prior hardware experience",
-      "hot": "2.9m",
-      "desc": "karolina.mgdubiel.com",
-      "source": "tech",
-      "tag": "⬆️ 298 points",
-      "url": "https://karolina.mgdubiel.com/drone/"
-    },
-    {
-      "title": "Knoppix",
-      "hot": "2.8m",
-      "desc": "knopper.net",
-      "source": "tech",
-      "tag": "⬆️ 214 points",
-      "url": "https://www.knopper.net/knoppix/index-en.html"
-    },
-    {
-      "title": "Set up your own DoH (DNS over HTTPS) service",
-      "hot": "2.8m",
-      "desc": "nochan.net",
-      "source": "tech",
-      "tag": "⬆️ 47 points",
-      "url": "https://nochan.net/b/Internet-Crap/20260602-Set-Up-Your-Own-DoH-Service/"
-    },
-    {
-      "title": "Memoirs of Extraordinary Popular Delusions and the Madness of Crowds (1852)",
-      "hot": "2.8m",
-      "desc": "gutenberg.org",
-      "source": "tech",
-      "tag": "⬆️ 150 points",
-      "url": "https://www.gutenberg.org/ebooks/24518"
-    },
-    {
-      "title": "Have you restarted your computer this week?",
-      "hot": "2.8m",
-      "desc": "taonaw.com",
-      "source": "tech",
-      "tag": "⬆️ 70 points",
-      "url": "https://taonaw.com/2026/06/27/have-you-restarted-your-computer.html"
-    },
-    {
-      "title": "Waveloop: What Fable left me",
-      "hot": "2.8m",
-      "desc": "neynt.ca",
-      "source": "tech",
-      "tag": "⬆️ 39 points",
-      "url": "https://neynt.ca/writing/waveloop/"
     },
     {
       "title": "CERN bids farewell to the LHC and enters Long Shutdown 3",
       "hot": "2.8m",
       "desc": "home.cern",
       "source": "tech",
-      "tag": "⬆️ 46 points",
+      "tag": "⬆️ 76 points",
       "url": "https://home.cern/cern-bids-farewell-to-the-lhc-and-enters-long-shutdown-3/"
     },
     {
       "title": "Long Island's decommissioned nuclear power plant",
-      "hot": "2.7m",
+      "hot": "2.8m",
       "desc": "nickcarr.com",
       "source": "tech",
-      "tag": "⬆️ 15 points",
+      "tag": "⬆️ 41 points",
       "url": "https://nickcarr.com/scouting-a-decommissioned-nuclear-power-plant/"
     },
     {
-      "title": "Show HN: My 13-year-old built an ant colony tracker",
-      "hot": "2.7m",
-      "desc": "formicarium.es",
+      "title": "Understanding lattice risks: Many differences between marketing and reality",
+      "hot": "2.8m",
+      "desc": "blog.cr.yp.to",
       "source": "tech",
-      "tag": "⬆️ 14 points",
-      "url": "https://formicarium.es"
+      "tag": "⬆️ 9 points",
+      "url": "https://blog.cr.yp.to/20260630-risk.html"
+    },
+    {
+      "title": "Building a custom octocopter from scratch with no prior hardware experience",
+      "hot": "2.8m",
+      "desc": "karolina.mgdubiel.com",
+      "source": "tech",
+      "tag": "⬆️ 309 points",
+      "url": "https://karolina.mgdubiel.com/drone/"
+    },
+    {
+      "title": "Tokyo has only two barley tea makers, we visited one to see how mugicha is made",
+      "hot": "2.8m",
+      "desc": "soranews24.com",
+      "source": "tech",
+      "tag": "⬆️ 27 points",
+      "url": "https://soranews24.com/2026/06/30/tokyo-has-only-two-barley-tea-makers-and-we-visited-one-to-see-how-mugicha-is-made/"
+    },
+    {
+      "title": "Ante: A new way to blend borrow checking and reference counting",
+      "hot": "2.7m",
+      "desc": "verdagon.dev",
+      "source": "tech",
+      "tag": "⬆️ 12 points",
+      "url": "https://verdagon.dev/blog/ante-blending-borrowing-rc"
+    },
+    {
+      "title": "Knoppix",
+      "hot": "2.7m",
+      "desc": "knopper.net",
+      "source": "tech",
+      "tag": "⬆️ 227 points",
+      "url": "https://www.knopper.net/knoppix/index-en.html"
     },
     {
       "title": "Reading the internals of Postgres: Database cluster, databases, and tables",
       "hot": "2.7m",
       "desc": "buraksen.dev",
       "source": "tech",
-      "tag": "⬆️ 26 points",
+      "tag": "⬆️ 38 points",
       "url": "https://www.buraksen.dev/articles/internals-of-postgresql-db-cluster-and-tables"
     }
   ],
+  "github": [
+    {
+      "title": "deepseek-ai/DeepSpec: DeepSpec: a full-stack codebase for training and evaluatin",
+      "hot": "⭐ 5.2k",
+      "desc": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/deepseek-ai/DeepSpec"
+    },
+    {
+      "title": "bikini/exploitarium: A single archive of public exploit PoCs and vulnerability r",
+      "hot": "⭐ 3.0k",
+      "desc": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report th",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/bikini/exploitarium"
+    },
+    {
+      "title": "bozhouDev/codex-orange-book: Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
+      "hot": "⭐ 2.5k",
+      "desc": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
+      "source": "github",
+      "tag": "HTML",
+      "url": "https://github.com/bozhouDev/codex-orange-book"
+    },
+    {
+      "title": "Yu9191/wloc: 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash ",
+      "hot": "⭐ 1.9k",
+      "desc": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/Yu9191/wloc"
+    },
+    {
+      "title": "baairon/torlink: A sleek, zero-setup torrent finder and downloader that lives ri",
+      "hot": "⭐ 1.6k",
+      "desc": "A sleek, zero-setup torrent finder and downloader that lives right in your terminal.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/baairon/torlink"
+    },
+    {
+      "title": "Krishnagangwal/CS-Fundamentals: Curated CS fundamentals for placement prep: DSA,",
+      "hot": "⭐ 1.2k",
+      "desc": "Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/Krishnagangwal/CS-Fundamentals"
+    },
+    {
+      "title": "yynxxxxx/Codex-5.5-codex-instruct-5.5: ",
+      "hot": "⭐ 767",
+      "desc": "yynxxxxx/Codex-5.5-codex-instruct-5.5",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5"
+    },
+    {
+      "title": "winsznx/theeleven: Eleven autonomous AI agents open live football prop markets o",
+      "hot": "⭐ 691",
+      "desc": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/winsznx/theeleven"
+    },
+    {
+      "title": "AlexandrosGounis/pdfx: An extension of the traditional PDF standard, allowing mu",
+      "hot": "⭐ 607",
+      "desc": "An extension of the traditional PDF standard, allowing multiple files to be stored in a single file via metadata",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/AlexandrosGounis/pdfx"
+    },
+    {
+      "title": "benchflow-ai/awesome-evals: A curated, non-BS library of the best resources for ",
+      "hot": "⭐ 606",
+      "desc": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFl",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/benchflow-ai/awesome-evals"
+    },
+    {
+      "title": "TianhangZhuzth/Fundamental-Ava: Build digital human beings — autonomous, collabo",
+      "hot": "⭐ 588",
+      "desc": "Build digital human beings — autonomous, collaborative, and socially intelligent agents.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/TianhangZhuzth/Fundamental-Ava"
+    },
+    {
+      "title": "Pluviobyte/video-production-skills: Reusable AI video production skills library ",
+      "hot": "⭐ 481",
+      "desc": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/Pluviobyte/video-production-skills"
+    },
+    {
+      "title": "CopilotKit/OpenTag: OpenTag",
+      "hot": "⭐ 461",
+      "desc": "OpenTag",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/CopilotKit/OpenTag"
+    },
+    {
+      "title": "tdeverx/contained-app: A native macOS app for Apple's Container CLI",
+      "hot": "⭐ 430",
+      "desc": "A native macOS app for Apple's Container CLI",
+      "source": "github",
+      "tag": "Swift",
+      "url": "https://github.com/tdeverx/contained-app"
+    },
+    {
+      "title": "goehou/tabbit-toy: 这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便",
+      "hot": "⭐ 401",
+      "desc": "这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/goehou/tabbit-toy"
+    }
+  ],
   "space": [
+    {
+      "title": "TechnoMile Recognized among Notable Vendors in Contract Lifecycle Management Platforms Landscape Report",
+      "hot": "6/30",
+      "desc": "\nTechnoMile, the leading AI solution that unifies growth, contracts, compliance, and security workflows, today announced it has been included in Forre",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/technomile-recognized-among-notable-vendors-in-contract-lifecycle-management-platforms-landscape-report/"
+    },
     {
       "title": "Launch Preview: Swift rescue mission, final Atlas satellite launch",
       "hot": "6/30",
@@ -437,136 +567,6 @@
       "source": "space",
       "tag": "ESA",
       "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Time_to_say_goodbye_to_Sentinel-1A"
-    },
-    {
-      "title": "SSC Space, Firefly set 2028 target for first orbital launch from Sweden’s Esrange",
-      "hot": "6/30",
-      "desc": "\nHELSINKI — SSC Space and Firefly have set a 2028 target for the first orbital launch from Esrange, with key infrastructure and regulatory pieces fall",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/ssc-space-firefly-set-2028-target-for-first-orbital-launch-from-swedens-esrange/"
-    }
-  ],
-  "github": [
-    {
-      "title": "deepseek-ai/DeepSpec: DeepSpec: a full-stack codebase for training and evaluatin",
-      "hot": "⭐ 5.2k",
-      "desc": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/deepseek-ai/DeepSpec"
-    },
-    {
-      "title": "bikini/exploitarium: A single archive of public exploit PoCs and vulnerability r",
-      "hot": "⭐ 3.0k",
-      "desc": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report th",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/bikini/exploitarium"
-    },
-    {
-      "title": "bozhouDev/codex-orange-book: Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
-      "hot": "⭐ 2.5k",
-      "desc": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
-      "source": "github",
-      "tag": "HTML",
-      "url": "https://github.com/bozhouDev/codex-orange-book"
-    },
-    {
-      "title": "Yu9191/wloc: 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash ",
-      "hot": "⭐ 1.9k",
-      "desc": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/Yu9191/wloc"
-    },
-    {
-      "title": "baairon/torlink: A sleek, zero-setup torrent finder and downloader that lives ri",
-      "hot": "⭐ 1.6k",
-      "desc": "A sleek, zero-setup torrent finder and downloader that lives right in your terminal.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/baairon/torlink"
-    },
-    {
-      "title": "Krishnagangwal/CS-Fundamentals: Curated CS fundamentals for placement prep: DSA,",
-      "hot": "⭐ 1.2k",
-      "desc": "Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/Krishnagangwal/CS-Fundamentals"
-    },
-    {
-      "title": "yynxxxxx/Codex-5.5-codex-instruct-5.5: ",
-      "hot": "⭐ 763",
-      "desc": "yynxxxxx/Codex-5.5-codex-instruct-5.5",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5"
-    },
-    {
-      "title": "winsznx/theeleven: Eleven autonomous AI agents open live football prop markets o",
-      "hot": "⭐ 691",
-      "desc": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/winsznx/theeleven"
-    },
-    {
-      "title": "benchflow-ai/awesome-evals: A curated, non-BS library of the best resources for ",
-      "hot": "⭐ 606",
-      "desc": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFl",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/benchflow-ai/awesome-evals"
-    },
-    {
-      "title": "AlexandrosGounis/pdfx: An extension of the traditional PDF standard, allowing mu",
-      "hot": "⭐ 604",
-      "desc": "An extension of the traditional PDF standard, allowing multiple files to be stored in a single file via metadata",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/AlexandrosGounis/pdfx"
-    },
-    {
-      "title": "TianhangZhuzth/Fundamental-Ava: Build digital human beings — autonomous, collabo",
-      "hot": "⭐ 585",
-      "desc": "Build digital human beings — autonomous, collaborative, and socially intelligent agents.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/TianhangZhuzth/Fundamental-Ava"
-    },
-    {
-      "title": "Pluviobyte/video-production-skills: Reusable AI video production skills library ",
-      "hot": "⭐ 481",
-      "desc": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/Pluviobyte/video-production-skills"
-    },
-    {
-      "title": "CopilotKit/OpenTag: OpenTag",
-      "hot": "⭐ 461",
-      "desc": "OpenTag",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/CopilotKit/OpenTag"
-    },
-    {
-      "title": "tdeverx/contained-app: A native macOS app for Apple's Container CLI",
-      "hot": "⭐ 430",
-      "desc": "A native macOS app for Apple's Container CLI",
-      "source": "github",
-      "tag": "Swift",
-      "url": "https://github.com/tdeverx/contained-app"
-    },
-    {
-      "title": "goehou/tabbit-toy: 这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便",
-      "hot": "⭐ 401",
-      "desc": "这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/goehou/tabbit-toy"
     }
   ]
 }
