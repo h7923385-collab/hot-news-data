@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-06-30T05:58:44.367Z",
+  "updatedAt": "2026-06-30T09:27:30.201Z",
   "source": "live",
   "dev": [
     {
       "title": "What's Next for AI?",
-      "hot": "❤️ 86 💬 92",
+      "hot": "❤️ 94 💬 116",
       "desc": "I have been writing about AI for quite a while now, but this is probably the first time I genuinely...",
       "source": "dev",
       "tag": "ai,  llm",
@@ -12,7 +12,7 @@
     },
     {
       "title": "Need a break? Play today's game from The Daily Context.",
-      "hot": "❤️ 61 💬 14",
+      "hot": "❤️ 68 💬 19",
       "desc": "We (at DEV and MLH) are covering AI Engineer's World Fair by printing a physical newspaper called...",
       "source": "dev",
       "tag": "aie,  gamedev",
@@ -20,7 +20,7 @@
     },
     {
       "title": "Welcome to AI Engineer World’s Fair 2026",
-      "hot": "❤️ 60 💬 6",
+      "hot": "❤️ 68 💬 7",
       "desc": "Welcome to the first edition of the AI Engineer World’s Fair newspaper!  On behalf of the organizing...",
       "source": "dev",
       "tag": "aie,  ai",
@@ -28,51 +28,43 @@
     },
     {
       "title": "What Actually Happens When You Call an LLM API",
-      "hot": "❤️ 31 💬 31",
+      "hot": "❤️ 35 💬 34",
       "desc": "you've felt it.  you type a prompt, hit send, and the response starts streaming in under a second....",
       "source": "dev",
       "tag": "ai,  webdev",
       "url": "https://dev.to/dannwaneri/what-actually-happens-when-you-call-an-llm-api-28l6"
     },
     {
-      "title": "My commit message said \"You've hit your session limit\"",
-      "hot": "❤️ 35 💬 4",
-      "desc": "How I ended up running a local LLM to generate my git commit messages",
-      "source": "dev",
-      "tag": "genai,  ollama",
-      "url": "https://dev.to/shyamala_u/my-commit-message-said-youve-hit-your-session-limit-2abn"
-    },
-    {
-      "title": "Pragmatism in an Age of Infinite Code and Unavoidable Bottlenecks",
-      "hot": "❤️ 31 💬 5",
-      "desc": "Leading into the AI Engineer event in San Francisco, I’m looking forward to having my mind blown....",
-      "source": "dev",
-      "tag": "ai,  aie",
-      "url": "https://dev.to/dailycontext/pragmatism-in-an-age-of-infinite-code-and-unavoidable-bottlenecks-1bkd"
-    },
-    {
       "title": "The Model Does Not Need Memory. The Situation Does.",
-      "hot": "❤️ 42 💬 13",
+      "hot": "❤️ 43 💬 14",
       "desc": "I think I was asking the wrong question.   For a while, the question was simple: does memory make...",
       "source": "dev",
       "tag": "ai,  rag",
       "url": "https://dev.to/marcosomma/the-model-does-not-need-memory-the-situation-does-196g"
     },
     {
+      "title": "Pragmatism in an Age of Infinite Code and Unavoidable Bottlenecks",
+      "hot": "❤️ 39 💬 6",
+      "desc": "Leading into the AI Engineer event in San Francisco, I’m looking forward to having my mind blown....",
+      "source": "dev",
+      "tag": "ai,  aie",
+      "url": "https://dev.to/dailycontext/pragmatism-in-an-age-of-infinite-code-and-unavoidable-bottlenecks-1bkd"
+    },
+    {
       "title": "You’re not really that far behind.",
-      "hot": "❤️ 36 💬 3",
+      "hot": "❤️ 40 💬 3",
       "desc": "My non-tech friends still don’t get it. Despite what you’d believe from Twitter, most people still...",
       "source": "dev",
       "tag": "aie,  ai",
       "url": "https://dev.to/dailycontext/youre-not-really-that-far-behind-h4d"
     },
     {
-      "title": "Coding Agents Play Favorites With Your Dependencies",
-      "hot": "❤️ 29 💬 1",
-      "desc": "Deep into a coding session, you realize you want beta testers to try some new functionality first....",
+      "title": "My commit message said \"You've hit your session limit\"",
+      "hot": "❤️ 35 💬 5",
+      "desc": "How I ended up running a local LLM to generate my git commit messages",
       "source": "dev",
-      "tag": "agents,  aie",
-      "url": "https://dev.to/dailycontext/coding-agents-play-favorites-with-your-dependencies-2dl6"
+      "tag": "genai,  ollama",
+      "url": "https://dev.to/shyamala_u/my-commit-message-said-youve-hit-your-session-limit-2abn"
     },
     {
       "title": "After a long journey, I've reached a deep burnout",
@@ -81,6 +73,14 @@
       "source": "dev",
       "tag": "discuss,  ai",
       "url": "https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b"
+    },
+    {
+      "title": "Coding Agents Play Favorites With Your Dependencies",
+      "hot": "❤️ 29 💬 2",
+      "desc": "Deep into a coding session, you realize you want beta testers to try some new functionality first....",
+      "source": "dev",
+      "tag": "agents,  aie",
+      "url": "https://dev.to/dailycontext/coding-agents-play-favorites-with-your-dependencies-2dl6"
     },
     {
       "title": "Two-day hackathon kicks off AI Engineer World’s Fair",
@@ -147,37 +147,37 @@
       "url": "https://dev.to/jacobandrewsky/fix-web-performance-issues-faster-with-modern-web-guidance-and-chrome-devtools-for-ai-agents-2e7e"
     },
     {
-      "title": "Closing the Trust Gap: Automating GKE Incident Response with Antigravity 2.0, GKE MCP, and Artifacts",
-      "hot": "❤️ 12 💬 0",
-      "desc": "Anatomy of the Trust Gap  Before we can talk about the solution, we need to talk honestly about how...",
-      "source": "dev",
-      "tag": "antigravity,  googlecloud",
-      "url": "https://dev.to/gde/closing-the-trust-gap-automating-gke-incident-response-with-antigravity-20-and-artifacts-21c9"
-    },
-    {
       "title": "12B Gemma 4 Deployment with NVIDIA Blackwell 6000, QAT, MTP, and Antigravity CLI",
       "hot": "❤️ 6 💬 0",
       "desc": "This article provides a step by step deployment guide for Gemma 4 to a Google Cloud Run hosted GPU...",
       "source": "dev",
       "tag": "speculativedecoding,  antigravitycli",
       "url": "https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-qat-mtp-and-antigravity-cli-3gn6"
+    },
+    {
+      "title": "12B Gemma 4 Deployment with NVIDIA Blackwell 6000, MCP, Cloud Run, and Antigravity CLI",
+      "hot": "❤️ 5 💬 0",
+      "desc": "This article provides a step by step deployment guide for Gemma 4 to a Google Cloud Run hosted GPU...",
+      "source": "dev",
+      "tag": "gemma4,  mcps",
+      "url": "https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-mcp-cloud-run-and-antigravity-cli-3ckn"
     }
   ],
   "tech": [
     {
-      "title": "Popping the GPU Bubble",
+      "title": "Open Source Low Tech",
       "hot": "3.0m",
-      "desc": "moondream.ai",
+      "desc": "opensourcelowtech.org",
       "source": "tech",
-      "tag": "⬆️ 36 points",
-      "url": "https://moondream.ai/blog/popping-the-gpu-bubble"
+      "tag": "⬆️ 174 points",
+      "url": "https://opensourcelowtech.org/"
     },
     {
       "title": "Qwen 3.6 27B is the sweet spot for local development",
       "hot": "3.0m",
       "desc": "quesma.com",
       "source": "tech",
-      "tag": "⬆️ 778 points",
+      "tag": "⬆️ 906 points",
       "url": "https://quesma.com/blog/qwen-36-is-awesome/"
     },
     {
@@ -185,7 +185,7 @@
       "hot": "3.0m",
       "desc": "hccf.onmy.cloud",
       "source": "tech",
-      "tag": "⬆️ 418 points",
+      "tag": "⬆️ 503 points",
       "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/"
     },
     {
@@ -193,39 +193,23 @@
       "hot": "3.0m",
       "desc": "weblog.rogueamoeba.com",
       "source": "tech",
-      "tag": "⬆️ 353 points",
+      "tag": "⬆️ 454 points",
       "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/"
-    },
-    {
-      "title": "Study suggests most Americans would be healthier without daylight saving time",
-      "hot": "2.9m",
-      "desc": "med.stanford.edu",
-      "source": "tech",
-      "tag": "⬆️ 29 points",
-      "url": "https://med.stanford.edu/news/all-news/2025/09/daylight-saving-time.html"
     },
     {
       "title": "Memory Safe Context Switching",
       "hot": "2.9m",
       "desc": "fil-c.org",
       "source": "tech",
-      "tag": "⬆️ 84 points",
+      "tag": "⬆️ 125 points",
       "url": "https://fil-c.org/context_switches"
-    },
-    {
-      "title": "Old Computer Challenge",
-      "hot": "2.9m",
-      "desc": "occ.sdf.org",
-      "source": "tech",
-      "tag": "⬆️ 39 points",
-      "url": "http://occ.sdf.org/"
     },
     {
       "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
       "hot": "2.9m",
       "desc": "longcat.chat",
       "source": "tech",
-      "tag": "⬆️ 81 points",
+      "tag": "⬆️ 142 points",
       "url": "https://longcat.chat/blog/longcat-2.0/"
     },
     {
@@ -233,99 +217,131 @@
       "hot": "2.9m",
       "desc": "obsolescence.dev",
       "source": "tech",
-      "tag": "⬆️ 45 points",
+      "tag": "⬆️ 72 points",
       "url": "https://obsolescence.dev/pdp1-lisp-introduction.html"
+    },
+    {
+      "title": "Old Computer Challenge",
+      "hot": "2.9m",
+      "desc": "occ.sdf.org",
+      "source": "tech",
+      "tag": "⬆️ 62 points",
+      "url": "http://occ.sdf.org/"
     },
     {
       "title": "Rocketlab acquires Iridium",
       "hot": "2.9m",
       "desc": "investors.rocketlabcorp.com",
       "source": "tech",
-      "tag": "⬆️ 390 points",
+      "tag": "⬆️ 412 points",
       "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully"
     },
     {
-      "title": "Linux for the Sega MegaDrive",
+      "title": "The end of the AArch64 desktop experiment",
       "hot": "2.9m",
-      "desc": "github.com",
+      "desc": "marcin.juszkiewicz.com.pl",
       "source": "tech",
-      "tag": "⬆️ 60 points",
-      "url": "https://github.com/LinuxMD/linuxmd"
+      "tag": "⬆️ 37 points",
+      "url": "https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/"
     },
     {
-      "title": "30-year sentence for transporting zines is a five-alarm fire for free speech",
-      "hot": "2.8m",
-      "desc": "theintercept.com",
+      "title": "Logical Physical Clocks and Consistent Snapshots in Globally Distributed DB [pdf]",
+      "hot": "2.9m",
+      "desc": "cse.buffalo.edu",
       "source": "tech",
-      "tag": "⬆️ 488 points",
-      "url": "https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/"
+      "tag": "⬆️ 7 points",
+      "url": "https://cse.buffalo.edu/tech-reports/2014-04.pdf"
+    },
+    {
+      "title": "Linux for the Sega MegaDrive",
+      "hot": "2.8m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 107 points",
+      "url": "https://github.com/LinuxMD/linuxmd"
     },
     {
       "title": "Ornith-1.0: self-improving open-source models for agentic coding",
       "hot": "2.8m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 186 points",
+      "tag": "⬆️ 209 points",
       "url": "https://github.com/deepreinforce-ai/Ornith-1"
     },
     {
-      "title": "How to corrupt an SQLite database file",
+      "title": "The operating cost starts after the demo",
       "hot": "2.8m",
-      "desc": "sqlite.org",
+      "desc": "twoheads.net",
       "source": "tech",
-      "tag": "⬆️ 42 points",
-      "url": "https://www.sqlite.org/howtocorrupt.html"
-    },
-    {
-      "title": "US Supreme Court rules geofence warrants require constitutional protections",
-      "hot": "2.8m",
-      "desc": "theguardian.com",
-      "source": "tech",
-      "tag": "⬆️ 502 points",
-      "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision"
+      "tag": "⬆️ 7 points",
+      "url": "https://twoheads.net/the-promise-is-unattended-work/"
     },
     {
       "title": "One million passports leaked online",
       "hot": "2.8m",
       "desc": "theverge.com",
       "source": "tech",
-      "tag": "⬆️ 204 points",
+      "tag": "⬆️ 267 points",
       "url": "https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal"
     },
     {
-      "title": "Zig – SPIR-V Backend Progress",
+      "title": "US Supreme Court rules geofence warrants require constitutional protections",
       "hot": "2.8m",
-      "desc": "ziglang.org",
+      "desc": "theguardian.com",
       "source": "tech",
-      "tag": "⬆️ 41 points",
-      "url": "https://ziglang.org/devlog/2026/#2026-06-26"
+      "tag": "⬆️ 526 points",
+      "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision"
     },
     {
-      "title": "A native graphical shell for SSH",
-      "hot": "2.7m",
-      "desc": "probablymarcus.com",
+      "title": "How to corrupt an SQLite database file",
+      "hot": "2.8m",
+      "desc": "sqlite.org",
       "source": "tech",
-      "tag": "⬆️ 278 points",
-      "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html"
+      "tag": "⬆️ 75 points",
+      "url": "https://www.sqlite.org/howtocorrupt.html"
+    },
+    {
+      "title": "Alan Kay on the meaning of \"object-oriented programming\" (2003)",
+      "hot": "2.7m",
+      "desc": "notes.shixiangxi.com",
+      "source": "tech",
+      "tag": "⬆️ 65 points",
+      "url": "https://notes.shixiangxi.com/en/docs/appendix/alan-kay-on-oop/"
+    },
+    {
+      "title": "Zig – SPIR-V Backend Progress",
+      "hot": "2.7m",
+      "desc": "ziglang.org",
+      "source": "tech",
+      "tag": "⬆️ 67 points",
+      "url": "https://ziglang.org/devlog/2026/#2026-06-26"
     },
     {
       "title": "Apple Neural Engine: Architecture, Programming, and Performance",
       "hot": "2.7m",
       "desc": "arxiv.org",
       "source": "tech",
-      "tag": "⬆️ 147 points",
+      "tag": "⬆️ 168 points",
       "url": "https://arxiv.org/abs/2606.22283"
-    },
-    {
-      "title": "Kb – Prolog Knowledge Base",
-      "hot": "2.7m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 61 points",
-      "url": "https://github.com/mat-mgm/kb-prolog"
     }
   ],
   "space": [
+    {
+      "title": "Asteroid Day & eight other key dates in asteroid history",
+      "hot": "6/30",
+      "desc": "Happy Asteroid Day! Today is the annual UN-recognised global event to promote public education on asteroids and planetary defence. But why today, of a",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/Space_Safety/Planetary_Defence/Asteroid_Day_eight_other_key_dates_in_asteroid_history"
+    },
+    {
+      "title": "Ames Science Stars of the Month July 2026",
+      "hot": "6/30",
+      "desc": "NASA Ames Science Stars of the Month: July 2026 The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right)",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/general/ames-stars-of-the-month-july-2026/"
+    },
     {
       "title": "Study argues bigger launch vehicles may not always be better",
       "hot": "6/30",
@@ -337,7 +353,7 @@
     {
       "title": "Pegasus XL set to air launch Swift Boost Mission to save NASA space telescope",
       "hot": "6/29",
-      "desc": "In its first mission since 2021, a Northrop Grumman Pegasus XL rocket is scheduled to…\nThe post Pegasus XL set to air launch Swift Boost Mission to sa",
+      "desc": "In its first mission since 2021, a Northrop Grumman Pegasus XL rocket is scheduled to…\r\nThe post Pegasus XL set to air launch Swift Boost Mission to s",
       "source": "space",
       "tag": "NASASpaceflight",
       "url": "https://www.nasaspaceflight.com/2026/06/swift-boost-mission-launch/"
@@ -385,7 +401,7 @@
     {
       "title": "ESA to seek lunar mapping capability for Argonaut lander",
       "hot": "6/29",
-      "desc": "\nMILAN — The European Space Agency will rely on external lunar topographic data during the design phase of its Argonaut lunar lander, and possibly for",
+      "desc": "MILAN — The European Space Agency will rely on external lunar topographic data during the design phase of its Argonaut lunar lander, and possibly for ",
       "source": "space",
       "tag": "SpaceNews",
       "url": "https://spacenews.com/esa-to-seek-lunar-mapping-capability-for-argonaut-lander/"
@@ -429,28 +445,12 @@
       "source": "space",
       "tag": "NASA",
       "url": "https://www.nasa.gov/directorates/stmd/nasa-seeks-industry-input-to-accelerate-lunar-surface-technologies/"
-    },
-    {
-      "title": "Discovering the Universe – Astrophysics Flagship Space Observatories Offer Insights to Key Questions",
-      "hot": "6/29",
-      "desc": "\nFrom observing distant galaxies to exploring exoplanets and their atmospheres, BAE Systems enables cutting-edge technology to expand our knowledge of",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/discovering-the-universe-astrophysics-flagship-space-observatories-offer-insights-to-key-questions/"
-    },
-    {
-      "title": "This Month at ESA: June 2026",
-      "hot": "6/29",
-      "desc": "What did space have in store for Europe this month? This June, ESA astronaut Luca Parmitano was named pilot of NASA's Artemis III mission, Ariane 6 se",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/06/This_Month_at_ESA_June_2026"
     }
   ],
   "github": [
     {
       "title": "deepseek-ai/DeepSpec: DeepSpec: a full-stack codebase for training and evaluatin",
-      "hot": "⭐ 4.2k",
+      "hot": "⭐ 4.6k",
       "desc": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
       "source": "github",
       "tag": "Python",
@@ -466,7 +466,7 @@
     },
     {
       "title": "Yu9191/wloc: 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash ",
-      "hot": "⭐ 1.6k",
+      "hot": "⭐ 1.7k",
       "desc": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
       "source": "github",
       "tag": "JavaScript",
@@ -474,7 +474,7 @@
     },
     {
       "title": "Krishnagangwal/CS-Fundamentals: Curated CS fundamentals for placement prep: DSA,",
-      "hot": "⭐ 1.0k",
+      "hot": "⭐ 1.1k",
       "desc": "Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering",
       "source": "github",
       "tag": "GitHub",
@@ -482,7 +482,7 @@
     },
     {
       "title": "baairon/torlink: A sleek, zero-setup torrent finder and downloader that lives ri",
-      "hot": "⭐ 782",
+      "hot": "⭐ 875",
       "desc": "A sleek, zero-setup torrent finder and downloader that lives right in your terminal.",
       "source": "github",
       "tag": "TypeScript",
@@ -490,11 +490,19 @@
     },
     {
       "title": "winsznx/theeleven: Eleven autonomous AI agents open live football prop markets o",
-      "hot": "⭐ 715",
+      "hot": "⭐ 716",
       "desc": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/winsznx/theeleven"
+    },
+    {
+      "title": "yynxxxxx/Codex-5.5-codex-instruct-5.5: ",
+      "hot": "⭐ 638",
+      "desc": "yynxxxxx/Codex-5.5-codex-instruct-5.5",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5"
     },
     {
       "title": "benchflow-ai/awesome-evals: A curated, non-BS library of the best resources for ",
@@ -505,16 +513,8 @@
       "url": "https://github.com/benchflow-ai/awesome-evals"
     },
     {
-      "title": "yynxxxxx/Codex-5.5-codex-instruct-5.5: ",
-      "hot": "⭐ 583",
-      "desc": "yynxxxxx/Codex-5.5-codex-instruct-5.5",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5"
-    },
-    {
       "title": "AlexandrosGounis/pdfx: An extension of the traditional PDF standard, allowing mu",
-      "hot": "⭐ 574",
+      "hot": "⭐ 578",
       "desc": "An extension of the traditional PDF standard, allowing multiple files to be stored in a single file via metadata",
       "source": "github",
       "tag": "TypeScript",
@@ -522,7 +522,7 @@
     },
     {
       "title": "Pluviobyte/video-production-skills: Reusable AI video production skills library ",
-      "hot": "⭐ 456",
+      "hot": "⭐ 472",
       "desc": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
       "source": "github",
       "tag": "Python",
@@ -530,7 +530,7 @@
     },
     {
       "title": "CopilotKit/OpenTag: OpenTag",
-      "hot": "⭐ 416",
+      "hot": "⭐ 422",
       "desc": "OpenTag",
       "source": "github",
       "tag": "TypeScript",
@@ -538,7 +538,7 @@
     },
     {
       "title": "tdeverx/contained-app: A native macOS app for Apple's Container CLI",
-      "hot": "⭐ 409",
+      "hot": "⭐ 416",
       "desc": "A native macOS app for Apple's Container CLI",
       "source": "github",
       "tag": "Swift",
@@ -546,27 +546,27 @@
     },
     {
       "title": "goehou/tabbit-toy: 这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便",
-      "hot": "⭐ 398",
+      "hot": "⭐ 399",
       "desc": "这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型",
       "source": "github",
       "tag": "JavaScript",
       "url": "https://github.com/goehou/tabbit-toy"
     },
     {
-      "title": "ricccrd/dd: ",
-      "hot": "⭐ 373",
-      "desc": "ricccrd/dd",
-      "source": "github",
-      "tag": "C",
-      "url": "https://github.com/ricccrd/dd"
-    },
-    {
       "title": "amplifthq/opentag: Open-source @agent mentions for Slack and GitHub. OpenTag rou",
-      "hot": "⭐ 371",
+      "hot": "⭐ 375",
       "desc": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/amplifthq/opentag"
+    },
+    {
+      "title": "ricccrd/dd: ",
+      "hot": "⭐ 374",
+      "desc": "ricccrd/dd",
+      "source": "github",
+      "tag": "C",
+      "url": "https://github.com/ricccrd/dd"
     }
   ]
 }
