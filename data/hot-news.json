@@ -1,110 +1,296 @@
 {
-  "updatedAt": "2026-07-02T17:22:10.260Z",
+  "updatedAt": "2026-07-02T18:52:59.525Z",
   "source": "live",
+  "dev": [
+    {
+      "title": "From Harness Engineering to Evals: What’s Trending at AI Engineer",
+      "hot": "❤️ 44 💬 13",
+      "desc": "I’m at the AI Engineer conference in San Francisco this week. The event has every major brand-name...",
+      "source": "dev",
+      "tag": "aie,  ai",
+      "url": "https://dev.to/dailycontext/from-harness-engineering-to-evals-4212"
+    },
+    {
+      "title": "What's Next for AI?",
+      "hot": "❤️ 179 💬 230",
+      "desc": "I have been writing about AI for quite a while now, but this is probably the first time I genuinely...",
+      "source": "dev",
+      "tag": "ai,  llm",
+      "url": "https://dev.to/sylwia-lask/whats-next-for-ai-219i"
+    },
+    {
+      "title": "Letting the DEV Community Weigh in on the Topics of AIE",
+      "hot": "❤️ 39 💬 2",
+      "desc": "I’m at the AI Engineer World’s Fair in San Francisco, where the vibes are enthusiastic. However,...",
+      "source": "dev",
+      "tag": "aie,  ai",
+      "url": "https://dev.to/dailycontext/letting-the-dev-community-weigh-in-on-the-topics-of-aie-439l"
+    },
+    {
+      "title": "18 Hot Takes On Where AI is Headed Next",
+      "hot": "❤️ 25 💬 0",
+      "desc": "by Peter Yang, Behind the Craft  Today, I want to share 18 hot takes on where I think the AI market...",
+      "source": "dev",
+      "tag": "aie,  discuss",
+      "url": "https://dev.to/dailycontext/18-hot-takes-on-where-ai-is-headed-next-10b9"
+    },
+    {
+      "title": "I Tried to Escape LeetCode for 2 Years (But Here We Are)",
+      "hot": "❤️ 37 💬 24",
+      "desc": "Seriously, LeetCode in 2026? Everyone is saying HackerRank just killed LeetCode, and yet here I am,...",
+      "source": "dev",
+      "tag": "webdev,  beginners",
+      "url": "https://dev.to/konark_13/i-tried-to-escape-leetcode-for-2-years-but-here-we-are-1k99"
+    },
+    {
+      "title": "Need a break? Play today's game from The Daily Context.",
+      "hot": "❤️ 103 💬 32",
+      "desc": "We (at DEV and MLH) are covering AI Engineer's World Fair by printing a physical newspaper called...",
+      "source": "dev",
+      "tag": "aie,  gamedev",
+      "url": "https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli"
+    },
+    {
+      "title": "Let Us Be Free",
+      "hot": "❤️ 25 💬 0",
+      "desc": "Nearly half a century ago, the free software movement made a demand that was both technical and...",
+      "source": "dev",
+      "tag": "aie,  ai",
+      "url": "https://dev.to/dailycontext/let-us-be-free-2ico"
+    },
+    {
+      "title": "Fable Is Set Free - There’s A Brand New Claude In Town",
+      "hot": "❤️ 18 💬 0",
+      "desc": "As we initially covered yesterday, after some heavy lobbying by Anthropic, U.S. Commerce Secretary...",
+      "source": "dev",
+      "tag": "aie,  claude",
+      "url": "https://dev.to/dailycontext/fable-is-set-free-theres-a-brand-new-claude-in-town-ch9"
+    },
+    {
+      "title": "The Fragile Balance of AI Development: Individual Flow vs. Collective Context",
+      "hot": "❤️ 12 💬 0",
+      "desc": "As much AI-driven development has normalized, we are still in the Wild West. While we are closer to...",
+      "source": "dev",
+      "tag": "aie,  agents",
+      "url": "https://dev.to/dailycontext/the-fragile-balance-of-ai-development-individual-flow-vs-collective-context-2f49"
+    },
+    {
+      "title": "Google VP of Technology says he’s given up on coding",
+      "hot": "❤️ 20 💬 0",
+      "desc": "In his keynote on Wednesday, Benoit Schillings, vice president of Technology at Google DeepMind and...",
+      "source": "dev",
+      "tag": "aie,  ai",
+      "url": "https://dev.to/dailycontext/google-vp-of-technology-says-hes-given-up-on-coding-4j6c"
+    },
+    {
+      "title": "Is Forward Deployed Engineering Killing DevRel?",
+      "hot": "❤️ 17 💬 3",
+      "desc": "When Palantir invented Forward Deployed Engineering (FDE) in the 2010s, the industry mocked them as...",
+      "source": "dev",
+      "tag": "aie,  devrel",
+      "url": "https://dev.to/dailycontext/is-forward-deployed-engineering-killing-devrel-1833"
+    },
+    {
+      "title": "Gemma and sandboxing cause a stir at the World's Fair",
+      "hot": "❤️ 30 💬 5",
+      "desc": "As the AI Engineer World’s Fair kicked off officially on Monday, the halls were filled for the...",
+      "source": "dev",
+      "tag": "aie,  ai",
+      "url": "https://dev.to/dailycontext/gemma-the-epstein-files-and-sandboxing-cause-a-stir-at-the-worlds-fair-2a7p"
+    },
+    {
+      "title": "These Founders Skipped Graduation To Be Here",
+      "hot": "❤️ 15 💬 1",
+      "desc": "When we met James Yang and Anish Paleja on Monday morning, The Daily Context team simply thought,...",
+      "source": "dev",
+      "tag": "aie,  ai",
+      "url": "https://dev.to/dailycontext/these-founders-skipped-graduation-to-be-here-1o3d"
+    },
+    {
+      "title": "Ahmad Osman on why local AI is catching up",
+      "hot": "❤️ 13 💬 0",
+      "desc": "Ahmad Osman has been advocating for local AI — running models on your own computer, workstation or...",
+      "source": "dev",
+      "tag": "aie,  ai",
+      "url": "https://dev.to/dailycontext/ahmad-osman-on-why-local-ai-is-catching-up-59ko"
+    },
+    {
+      "title": "Welcome to AI Engineer World’s Fair 2026",
+      "hot": "❤️ 70 💬 8",
+      "desc": "Welcome to the first edition of the AI Engineer World’s Fair newspaper!  On behalf of the organizing...",
+      "source": "dev",
+      "tag": "aie,  ai",
+      "url": "https://dev.to/dailycontext/welcome-to-ai-engineer-worlds-fair-2026-2o09"
+    },
+    {
+      "title": "You Don’t Always Need The Frontier",
+      "hot": "❤️ 29 💬 7",
+      "desc": "Workshops at this year's AI Engineer World's Fair shifted noticeably away from RAG and prompt...",
+      "source": "dev",
+      "tag": "aie,  ai",
+      "url": "https://dev.to/dailycontext/you-dont-always-need-the-frontier-1k8o"
+    },
+    {
+      "title": "Warp CEO Zach Lloyd on why software factories are the next phase of coding",
+      "hot": "❤️ 23 💬 0",
+      "desc": "I’ve been covering Warp for a couple of years now, and its rapid evolution from a command-line...",
+      "source": "dev",
+      "tag": "aie,  ai",
+      "url": "https://dev.to/dailycontext/warp-ceo-zach-lloyd-on-why-software-factories-are-the-next-phase-of-coding-17k6"
+    },
+    {
+      "title": "My First Year at DEV Recap",
+      "hot": "❤️ 51 💬 27",
+      "desc": "I heard about DEV a while back from a former colleague who was posting regularly back then. She won a...",
+      "source": "dev",
+      "tag": "community,  learning",
+      "url": "https://dev.to/javz/my-first-year-at-dev-recap-3na2"
+    },
+    {
+      "title": "Forward Deployed Engineers and the future of software engineering",
+      "hot": "❤️ 5 💬 0",
+      "desc": "Cover Image: Sierra’s Natalie Meurer at the AI Engineer World’s Fair today.  Natalie Meurer is Head...",
+      "source": "dev",
+      "tag": "agents,  ai",
+      "url": "https://dev.to/dailycontext/forward-deployed-engineers-and-the-future-of-software-engineering-jll"
+    },
+    {
+      "title": "AIEWF Daily Dispatch: Loops, Software Factories & Forward Deployed Engineers",
+      "hot": "❤️ 5 💬 0",
+      "desc": "Agents are here to serve you in the software factory.  &nbsp;  Loops, loops and more loops. That...",
+      "source": "dev",
+      "tag": "aie,  software",
+      "url": "https://dev.to/dailycontext/aiewf-daily-dispatch-loops-software-factories-forward-deployed-engineers-365h"
+    }
+  ],
   "tech": [
     {
       "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
       "hot": "3.0m",
       "desc": "mathstodon.xyz",
       "source": "tech",
-      "tag": "⬆️ 161 points",
+      "tag": "⬆️ 257 points",
       "url": "https://mathstodon.xyz/@iblech/116769502749142438"
-    },
-    {
-      "title": "Launch HN: Manufact (YC S25) – MCP Cloud",
-      "hot": "3.0m",
-      "desc": "manufact.com",
-      "source": "tech",
-      "tag": "⬆️ 57 points",
-      "url": "https://manufact.com"
-    },
-    {
-      "title": "Android Developer Verification: Threat masquerading as protection",
-      "hot": "3.0m",
-      "desc": "f-droid.org",
-      "source": "tech",
-      "tag": "⬆️ 1337 points",
-      "url": "https://f-droid.org/2026/07/01/adv-malware.html"
     },
     {
       "title": "PeerTube is a free, decentralized and federated video platform",
       "hot": "3.0m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 145 points",
+      "tag": "⬆️ 268 points",
       "url": "https://github.com/Chocobozzz/PeerTube"
     },
     {
+      "title": "Android Developer Verification: Threat masquerading as protection",
+      "hot": "3.0m",
+      "desc": "f-droid.org",
+      "source": "tech",
+      "tag": "⬆️ 1430 points",
+      "url": "https://f-droid.org/2026/07/01/adv-malware.html"
+    },
+    {
       "title": "How to ask for help from people who don't know you",
-      "hot": "2.9m",
+      "hot": "3.0m",
       "desc": "pradyuprasad.com",
       "source": "tech",
-      "tag": "⬆️ 122 points",
+      "tag": "⬆️ 200 points",
       "url": "https://pradyuprasad.com/writings/how-to-ask-for-help/"
+    },
+    {
+      "title": "Launch HN: Manufact (YC S25) – MCP Cloud",
+      "hot": "2.9m",
+      "desc": "manufact.com",
+      "source": "tech",
+      "tag": "⬆️ 75 points",
+      "url": "https://manufact.com"
+    },
+    {
+      "title": "Podman v6.0.0",
+      "hot": "2.9m",
+      "desc": "blog.podman.io",
+      "source": "tech",
+      "tag": "⬆️ 73 points",
+      "url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/"
     },
     {
       "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
       "hot": "2.9m",
       "desc": "japannews.yomiuri.co.jp",
       "source": "tech",
-      "tag": "⬆️ 210 points",
+      "tag": "⬆️ 266 points",
       "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/"
     },
     {
-      "title": "Former Microsoft dev built a 2.5KB Notepad clone",
+      "title": "Exapunks",
       "hot": "2.9m",
-      "desc": "theguptalog.blogspot.com",
+      "desc": "zachtronics.com",
       "source": "tech",
-      "tag": "⬆️ 15 points",
-      "url": "https://theguptalog.blogspot.com/2026/07/former-microsoft-dev-built-25kb-notepad.html"
-    },
-    {
-      "title": "Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train",
-      "hot": "2.9m",
-      "desc": "arxiv.org",
-      "source": "tech",
-      "tag": "⬆️ 85 points",
-      "url": "https://arxiv.org/abs/2607.01232"
-    },
-    {
-      "title": "Show HN: QUALITY.md – open format/specification, agent skill, and CLI",
-      "hot": "2.9m",
-      "desc": "getquality.md",
-      "source": "tech",
-      "tag": "⬆️ 12 points",
-      "url": "https://getquality.md"
+      "tag": "⬆️ 3 points",
+      "url": "https://www.zachtronics.com/exapunks/"
     },
     {
       "title": "German button maker searched rivers of American Midwest for valuable shells",
       "hot": "2.9m",
       "desc": "smithsonianmag.com",
       "source": "tech",
-      "tag": "⬆️ 70 points",
+      "tag": "⬆️ 96 points",
       "url": "https://www.smithsonianmag.com/smithsonian-institution/how-one-german-button-maker-searched-the-rivers-of-the-american-midwest-for-the-shells-that-could-make-him-a-fortune-180989012/"
     },
     {
-      "title": "Show HN: Mail Memories – A desktop app to rescue photos from Gmail",
+      "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
       "hot": "2.9m",
-      "desc": "mailmemories.com",
+      "desc": "clashreport.com",
       "source": "tech",
-      "tag": "⬆️ 74 points",
-      "url": "https://mailmemories.com"
+      "tag": "⬆️ 216 points",
+      "url": "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv"
     },
     {
       "title": "Show HN: CLI tool for detecting non-exact code duplication with embedding models",
-      "hot": "2.8m",
+      "hot": "2.9m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 33 points",
+      "tag": "⬆️ 49 points",
       "url": "https://github.com/rafal-qa/slopo"
+    },
+    {
+      "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+      "hot": "2.8m",
+      "desc": "github.blog",
+      "source": "tech",
+      "tag": "⬆️ 362 points",
+      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/"
     },
     {
       "title": "The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing",
       "hot": "2.8m",
       "desc": "thebignewsletter.com",
       "source": "tech",
-      "tag": "⬆️ 183 points",
+      "tag": "⬆️ 290 points",
       "url": "https://www.thebignewsletter.com/p/crime-pays-the-egg-bandits-made-a"
+    },
+    {
+      "title": "Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train",
+      "hot": "2.8m",
+      "desc": "arxiv.org",
+      "source": "tech",
+      "tag": "⬆️ 105 points",
+      "url": "https://arxiv.org/abs/2607.01232"
+    },
+    {
+      "title": "The primary purpose of code review is to find code that will be hard to maintain",
+      "hot": "2.8m",
+      "desc": "mathstodon.xyz",
+      "source": "tech",
+      "tag": "⬆️ 256 points",
+      "url": "https://mathstodon.xyz/@mjd/115096720350507897"
+    },
+    {
+      "title": "Show HN: Mail Memories – A desktop app to rescue photos from Gmail",
+      "hot": "2.8m",
+      "desc": "mailmemories.com",
+      "source": "tech",
+      "tag": "⬆️ 86 points",
+      "url": "https://mailmemories.com"
     },
     {
       "title": "Hazel (YC W24) Is Hiring for Our Largest Government Contract",
@@ -115,55 +301,63 @@
       "url": "https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci"
     },
     {
-      "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
-      "hot": "2.8m",
-      "desc": "github.blog",
-      "source": "tech",
-      "tag": "⬆️ 328 points",
-      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/"
-    },
-    {
-      "title": "The primary purpose of code review is to find code that will be hard to maintain",
-      "hot": "2.8m",
-      "desc": "mathstodon.xyz",
-      "source": "tech",
-      "tag": "⬆️ 217 points",
-      "url": "https://mathstodon.xyz/@mjd/115096720350507897"
-    },
-    {
       "title": "The fall of the theorem economy",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "davidbessis.substack.com",
       "source": "tech",
-      "tag": "⬆️ 187 points",
+      "tag": "⬆️ 208 points",
       "url": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy"
-    },
-    {
-      "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
-      "hot": "2.7m",
-      "desc": "clashreport.com",
-      "source": "tech",
-      "tag": "⬆️ 73 points",
-      "url": "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv"
     },
     {
       "title": "Show HN: A graph paper generator that renders vector PDFs in the browser",
       "hot": "2.7m",
       "desc": "freegraphpaper.net",
       "source": "tech",
-      "tag": "⬆️ 44 points",
+      "tag": "⬆️ 62 points",
       "url": "https://freegraphpaper.net/"
     },
     {
-      "title": "CursorBench 3.1",
+      "title": "No LLM Code in Dependencies",
       "hot": "2.7m",
-      "desc": "cursor.com",
+      "desc": "joeyh.name",
       "source": "tech",
-      "tag": "⬆️ 133 points",
-      "url": "https://cursor.com/evals"
+      "tag": "⬆️ 33 points",
+      "url": "https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/"
     }
   ],
   "space": [
+    {
+      "title": "Isar Aerospace to launch German-built Planet imaging satellite",
+      "hot": "7/2",
+      "desc": "\nIsar Aerospace won a contract from Planet’s German subsidiary to launch an imaging satellite, demonstrating an end-to-end space capability for the co",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/isar-aerospace-to-launch-german-built-planet-imaging-satellite/"
+    },
+    {
+      "title": "NASA’s Artemis II Breaks Agency Streaming Record",
+      "hot": "7/2",
+      "desc": "NASA’s live coverage of the Artemis II mission mission drew unprecedented public interest – including more than 149.4 million views of the launch, lun",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/general/nasas-artemis-ii-breaks-agency-streaming-record/"
+    },
+    {
+      "title": "NASA Students Get Airborne View of Atmospheric Science at Ellington Field",
+      "hot": "7/2",
+      "desc": "From June 3 to 13, aircraft at Ellington Field in Houston gave students a firsthand look at how scientists study Earth from the air. Through NASA’s St",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/general/nasa-students-get-airborne-view-of-atmospheric-science-at-ellington-field/"
+    },
+    {
+      "title": "Polish space tech company Sybilla Technologies secures funds to enter U.S. market",
+      "hot": "7/2",
+      "desc": "\nWARSAW, Poland — The Polish state-owned bank BGK and European venture capital firm 3TS Capital Partners have unveiled an investment of around 35 mill",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/polish-space-tech-company-sybilla-technologies-secures-funds-to-enter-u-s-market/"
+    },
     {
       "title": "Ars Live recap: When are the big rockets NASA desperately needs going to be ready?",
       "hot": "7/2",
@@ -251,206 +445,12 @@
       "source": "space",
       "tag": "ESA",
       "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/Authorisation_paves_the_way_for_Aeolus-2_wind_mission"
-    },
-    {
-      "title": "What’s Up: July 2026 Skywatching Tips from NASA",
-      "hot": "7/2",
-      "desc": "A predawn Moon-and-planets meetup, a returning comet, a great chance to see the Milky Way, and Saturn’s rings at a new angle. Skywatching Highlights T",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/solar-system/whats-up-july-2026-skywatching-tips-from-nasa/"
-    },
-    {
-      "title": "Live coverage: ULA to launch final Atlas 5 rocket supporting Amazon Leo’s broadband internet satellite constellation",
-      "hot": "7/1",
-      "desc": "The Leo Atlas 8 mission is also the final flight of an Atlas 5 551 configuration. Liftoff from pad 41 at Cape Canaveral Space Force Station is schedul",
-      "source": "space",
-      "tag": "Spaceflight Now",
-      "url": "https://spaceflightnow.com/2026/07/01/live-coverage-ula-to-launch-final-atlas-5-rocket-supporting-amazon-leos-broadband-internet-satellite-constellation/"
-    },
-    {
-      "title": "Report links Starliner problems to overconfidence and unrealistic schedules",
-      "hot": "7/1",
-      "desc": "A new report links the long-running technical problems with Boeing’s CST-100 Starliner commercial crew vehicle to a combination of overconfidence, unr",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/report-links-starliner-problems-to-overconfidence-and-unrealistic-schedules/"
-    },
-    {
-      "title": "NASA announces new lander contracts for Moon Base Phase One",
-      "hot": "7/1",
-      "desc": "In June 2026, NASA announced four new lunar landers as part of its Moon Base…\r\nThe post NASA announces new lander contracts for Moon Base Phase One ap",
-      "source": "space",
-      "tag": "NASASpaceflight",
-      "url": "https://www.nasaspaceflight.com/2026/07/nasa-moon-base-update/"
-    }
-  ],
-  "dev": [
-    {
-      "title": "From Harness Engineering to Evals: What’s Trending at AI Engineer",
-      "hot": "❤️ 44 💬 13",
-      "desc": "I’m at the AI Engineer conference in San Francisco this week. The event has every major brand-name...",
-      "source": "dev",
-      "tag": "aie,  ai",
-      "url": "https://dev.to/dailycontext/from-harness-engineering-to-evals-4212"
-    },
-    {
-      "title": "What's Next for AI?",
-      "hot": "❤️ 178 💬 230",
-      "desc": "I have been writing about AI for quite a while now, but this is probably the first time I genuinely...",
-      "source": "dev",
-      "tag": "ai,  llm",
-      "url": "https://dev.to/sylwia-lask/whats-next-for-ai-219i"
-    },
-    {
-      "title": "Letting the DEV Community Weigh in on the Topics of AIE",
-      "hot": "❤️ 34 💬 1",
-      "desc": "I’m at the AI Engineer World’s Fair in San Francisco, where the vibes are enthusiastic. However,...",
-      "source": "dev",
-      "tag": "aie,  ai",
-      "url": "https://dev.to/dailycontext/letting-the-dev-community-weigh-in-on-the-topics-of-aie-439l"
-    },
-    {
-      "title": "18 Hot Takes On Where AI is Headed Next",
-      "hot": "❤️ 23 💬 0",
-      "desc": "by Peter Yang, Behind the Craft  Today, I want to share 18 hot takes on where I think the AI market...",
-      "source": "dev",
-      "tag": "aie,  discuss",
-      "url": "https://dev.to/dailycontext/18-hot-takes-on-where-ai-is-headed-next-10b9"
-    },
-    {
-      "title": "I Tried to Escape LeetCode for 2 Years (But Here We Are)",
-      "hot": "❤️ 37 💬 24",
-      "desc": "Seriously, LeetCode in 2026? Everyone is saying HackerRank just killed LeetCode, and yet here I am,...",
-      "source": "dev",
-      "tag": "webdev,  beginners",
-      "url": "https://dev.to/konark_13/i-tried-to-escape-leetcode-for-2-years-but-here-we-are-1k99"
-    },
-    {
-      "title": "Need a break? Play today's game from The Daily Context.",
-      "hot": "❤️ 102 💬 32",
-      "desc": "We (at DEV and MLH) are covering AI Engineer's World Fair by printing a physical newspaper called...",
-      "source": "dev",
-      "tag": "aie,  gamedev",
-      "url": "https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli"
-    },
-    {
-      "title": "Let Us Be Free",
-      "hot": "❤️ 23 💬 0",
-      "desc": "Nearly half a century ago, the free software movement made a demand that was both technical and...",
-      "source": "dev",
-      "tag": "aie,  ai",
-      "url": "https://dev.to/dailycontext/let-us-be-free-2ico"
-    },
-    {
-      "title": "Fable Is Set Free - There’s A Brand New Claude In Town",
-      "hot": "❤️ 16 💬 0",
-      "desc": "As we initially covered yesterday, after some heavy lobbying by Anthropic, U.S. Commerce Secretary...",
-      "source": "dev",
-      "tag": "aie,  claude",
-      "url": "https://dev.to/dailycontext/fable-is-set-free-theres-a-brand-new-claude-in-town-ch9"
-    },
-    {
-      "title": "The Fragile Balance of AI Development: Individual Flow vs. Collective Context",
-      "hot": "❤️ 12 💬 0",
-      "desc": "As much AI-driven development has normalized, we are still in the Wild West. While we are closer to...",
-      "source": "dev",
-      "tag": "aie,  agents",
-      "url": "https://dev.to/dailycontext/the-fragile-balance-of-ai-development-individual-flow-vs-collective-context-2f49"
-    },
-    {
-      "title": "Google VP of Technology says he’s given up on coding",
-      "hot": "❤️ 18 💬 0",
-      "desc": "In his keynote on Wednesday, Benoit Schillings, vice president of Technology at Google DeepMind and...",
-      "source": "dev",
-      "tag": "aie,  ai",
-      "url": "https://dev.to/dailycontext/google-vp-of-technology-says-hes-given-up-on-coding-4j6c"
-    },
-    {
-      "title": "Gemma and sandboxing cause a stir at the World's Fair",
-      "hot": "❤️ 30 💬 5",
-      "desc": "As the AI Engineer World’s Fair kicked off officially on Monday, the halls were filled for the...",
-      "source": "dev",
-      "tag": "aie,  ai",
-      "url": "https://dev.to/dailycontext/gemma-the-epstein-files-and-sandboxing-cause-a-stir-at-the-worlds-fair-2a7p"
-    },
-    {
-      "title": "These Founders Skipped Graduation To Be Here",
-      "hot": "❤️ 14 💬 0",
-      "desc": "When we met James Yang and Anish Paleja on Monday morning, The Daily Context team simply thought,...",
-      "source": "dev",
-      "tag": "aie,  ai",
-      "url": "https://dev.to/dailycontext/these-founders-skipped-graduation-to-be-here-1o3d"
-    },
-    {
-      "title": "Is Forward Deployed Engineering Killing DevRel?",
-      "hot": "❤️ 17 💬 3",
-      "desc": "When Palantir invented Forward Deployed Engineering (FDE) in the 2010s, the industry mocked them as...",
-      "source": "dev",
-      "tag": "aie,  devrel",
-      "url": "https://dev.to/dailycontext/is-forward-deployed-engineering-killing-devrel-1833"
-    },
-    {
-      "title": "Ahmad Osman on why local AI is catching up",
-      "hot": "❤️ 12 💬 0",
-      "desc": "Ahmad Osman has been advocating for local AI — running models on your own computer, workstation or...",
-      "source": "dev",
-      "tag": "aie,  ai",
-      "url": "https://dev.to/dailycontext/ahmad-osman-on-why-local-ai-is-catching-up-59ko"
-    },
-    {
-      "title": "Welcome to AI Engineer World’s Fair 2026",
-      "hot": "❤️ 70 💬 8",
-      "desc": "Welcome to the first edition of the AI Engineer World’s Fair newspaper!  On behalf of the organizing...",
-      "source": "dev",
-      "tag": "aie,  ai",
-      "url": "https://dev.to/dailycontext/welcome-to-ai-engineer-worlds-fair-2026-2o09"
-    },
-    {
-      "title": "You Don’t Always Need The Frontier",
-      "hot": "❤️ 29 💬 7",
-      "desc": "Workshops at this year's AI Engineer World's Fair shifted noticeably away from RAG and prompt...",
-      "source": "dev",
-      "tag": "aie,  ai",
-      "url": "https://dev.to/dailycontext/you-dont-always-need-the-frontier-1k8o"
-    },
-    {
-      "title": "Warp CEO Zach Lloyd on why software factories are the next phase of coding",
-      "hot": "❤️ 23 💬 0",
-      "desc": "I’ve been covering Warp for a couple of years now, and its rapid evolution from a command-line...",
-      "source": "dev",
-      "tag": "aie,  ai",
-      "url": "https://dev.to/dailycontext/warp-ceo-zach-lloyd-on-why-software-factories-are-the-next-phase-of-coding-17k6"
-    },
-    {
-      "title": "My First Year at DEV Recap",
-      "hot": "❤️ 51 💬 27",
-      "desc": "I heard about DEV a while back from a former colleague who was posting regularly back then. She won a...",
-      "source": "dev",
-      "tag": "community,  learning",
-      "url": "https://dev.to/javz/my-first-year-at-dev-recap-3na2"
-    },
-    {
-      "title": "Forward Deployed Engineers and the future of software engineering",
-      "hot": "❤️ 5 💬 0",
-      "desc": "Cover Image: Sierra’s Natalie Meurer at the AI Engineer World’s Fair today.  Natalie Meurer is Head...",
-      "source": "dev",
-      "tag": "agents,  ai",
-      "url": "https://dev.to/dailycontext/forward-deployed-engineers-and-the-future-of-software-engineering-jll"
-    },
-    {
-      "title": "AIEWF Daily Dispatch: Loops, Software Factories & Forward Deployed Engineers",
-      "hot": "❤️ 5 💬 0",
-      "desc": "Agents are here to serve you in the software factory.  &nbsp;  Loops, loops and more loops. That...",
-      "source": "dev",
-      "tag": "aie,  software",
-      "url": "https://dev.to/dailycontext/aiewf-daily-dispatch-loops-software-factories-forward-deployed-engineers-365h"
     }
   ],
   "github": [
     {
       "title": "deepseek-ai/DeepSpec: DeepSpec: a full-stack codebase for training and evaluatin",
-      "hot": "⭐ 5.8k",
+      "hot": "⭐ 5.9k",
       "desc": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
       "source": "github",
       "tag": "Python",
@@ -482,7 +482,7 @@
     },
     {
       "title": "mekos2772/ios-location-spoofer: Standalone iOS app to spoof GPS location without",
-      "hot": "⭐ 1.0k",
+      "hot": "⭐ 1.1k",
       "desc": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
       "source": "github",
       "tag": "JavaScript",
@@ -490,7 +490,7 @@
     },
     {
       "title": "Kulaxyz/self-learning-skills: A self-improving skill for AI coding agents (Claud",
-      "hot": "⭐ 876",
+      "hot": "⭐ 882",
       "desc": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reus",
       "source": "github",
       "tag": "GitHub",
@@ -530,7 +530,7 @@
     },
     {
       "title": "CopilotKit/OpenTag: OpenTag",
-      "hot": "⭐ 505",
+      "hot": "⭐ 509",
       "desc": "OpenTag",
       "source": "github",
       "tag": "TypeScript",
@@ -546,7 +546,7 @@
     },
     {
       "title": "diinki/linux-antiquity: A highly tasteful Linux-theme, reminiscent of art-nouvea",
-      "hot": "⭐ 485",
+      "hot": "⭐ 488",
       "desc": "A highly tasteful Linux-theme, reminiscent of art-nouveau and old drawings related to astronomy, science, and mythology.",
       "source": "github",
       "tag": "QML",
@@ -562,7 +562,7 @@
     },
     {
       "title": "cclank/lanshu-animated-architecture-diagram: Premium hand-drawn animated archite",
-      "hot": "⭐ 448",
+      "hot": "⭐ 449",
       "desc": "Premium hand-drawn animated architecture diagram Codex skill",
       "source": "github",
       "tag": "Python",
