@@ -1,11 +1,19 @@
 {
   "data": [
     {
+      "title": "Potential session/cache leakage between workspace instances or consumer accounts",
+      "hot": "3.0m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 98 points",
+      "url": "https://github.com/anthropics/claude-code/issues/74066"
+    },
+    {
       "title": "Explanation of everything you can see in htop/top on Linux",
       "hot": "3.0m",
       "desc": "peteris.rocks",
       "source": "tech",
-      "tag": "⬆️ 38 points",
+      "tag": "⬆️ 132 points",
       "url": "https://peteris.rocks/blog/htop/"
     },
     {
@@ -13,39 +21,31 @@
       "hot": "3.0m",
       "desc": "quantamagazine.org",
       "source": "tech",
-      "tag": "⬆️ 96 points",
+      "tag": "⬆️ 118 points",
       "url": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/"
-    },
-    {
-      "title": "The Vespa at 80: Why the Italian scooter remains the coolest thing on 2 wheels",
-      "hot": "3.0m",
-      "desc": "cbc.ca",
-      "source": "tech",
-      "tag": "⬆️ 58 points",
-      "url": "https://www.cbc.ca/news/world/vespa-italy-postwar-design-9.7252641"
     },
     {
       "title": "Maybe you should learn something",
       "hot": "3.0m",
       "desc": "marginalia.nu",
       "source": "tech",
-      "tag": "⬆️ 223 points",
+      "tag": "⬆️ 279 points",
       "url": "https://www.marginalia.nu/log/a_135_learn/"
     },
     {
-      "title": "Night Witches – all-female Soviet aviator regiment WW2",
+      "title": "What ORMs have taught me: just learn SQL (2014)",
       "hot": "2.9m",
-      "desc": "en.wikipedia.org",
+      "desc": "wozniak.ca",
       "source": "tech",
-      "tag": "⬆️ 33 points",
-      "url": "https://en.wikipedia.org/wiki/Night_Witches"
+      "tag": "⬆️ 11 points",
+      "url": "https://wozniak.ca/blog/2014/08/03/1/index.html"
     },
     {
       "title": "Postgres data stored in Parquet on S3: LTAP architecture explained",
       "hot": "2.9m",
       "desc": "databricks.com",
       "source": "tech",
-      "tag": "⬆️ 81 points",
+      "tag": "⬆️ 100 points",
       "url": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage"
     },
     {
@@ -53,15 +53,23 @@
       "hot": "2.9m",
       "desc": "blog.mikebowler.ca",
       "source": "tech",
-      "tag": "⬆️ 503 points",
+      "tag": "⬆️ 563 points",
       "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/"
+    },
+    {
+      "title": "Breaking the Bird Barrier: Scientist Decodes Zebra Finch Language",
+      "hot": "2.9m",
+      "desc": "freepressjournal.in",
+      "source": "tech",
+      "tag": "⬆️ 22 points",
+      "url": "https://www.freepressjournal.in/education/breaking-the-bird-barrier-scientist-decodes-zebra-finch-language"
     },
     {
       "title": "Performance per dollar is getting faster and cheaper",
       "hot": "2.9m",
       "desc": "wafer.ai",
       "source": "tech",
-      "tag": "⬆️ 297 points",
+      "tag": "⬆️ 308 points",
       "url": "https://www.wafer.ai/blog/glm52-amd"
     },
     {
@@ -69,7 +77,7 @@
       "hot": "2.9m",
       "desc": "mistral.ai",
       "source": "tech",
-      "tag": "⬆️ 292 points",
+      "tag": "⬆️ 306 points",
       "url": "https://mistral.ai/news/leanstral-1-5/"
     },
     {
@@ -77,15 +85,31 @@
       "hot": "2.9m",
       "desc": "phenomenalworld.org",
       "source": "tech",
-      "tag": "⬆️ 462 points",
+      "tag": "⬆️ 480 points",
       "url": "https://phenomenalworld.org/analysis/the-anti-amazon/"
     },
     {
+      "title": "Night Witches – all-female Soviet aviator regiment WW2",
+      "hot": "2.8m",
+      "desc": "en.wikipedia.org",
+      "source": "tech",
+      "tag": "⬆️ 45 points",
+      "url": "https://en.wikipedia.org/wiki/Night_Witches"
+    },
+    {
+      "title": "The Vespa at 80: Why the Italian scooter remains the coolest thing on 2 wheels",
+      "hot": "2.8m",
+      "desc": "cbc.ca",
+      "source": "tech",
+      "tag": "⬆️ 73 points",
+      "url": "https://www.cbc.ca/news/world/vespa-italy-postwar-design-9.7252641"
+    },
+    {
       "title": "Mir Books – Books from the Soviet Era",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "mirtitles.org",
       "source": "tech",
-      "tag": "⬆️ 121 points",
+      "tag": "⬆️ 130 points",
       "url": "https://mirtitles.org"
     },
     {
@@ -93,73 +117,49 @@
       "hot": "2.8m",
       "desc": "news.exeter.ac.uk",
       "source": "tech",
-      "tag": "⬆️ 232 points",
+      "tag": "⬆️ 240 points",
       "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/"
-    },
-    {
-      "title": "Steam Controller Auto-Charge – pilot to magnetic charging puck using CV",
-      "hot": "2.8m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 166 points",
-      "url": "https://github.com/FossPrime/Steam-Controller-Auto-Charge"
     },
     {
       "title": "Agentic coding notes from Galapagos Island",
       "hot": "2.8m",
       "desc": "danluu.com",
       "source": "tech",
-      "tag": "⬆️ 133 points",
+      "tag": "⬆️ 145 points",
       "url": "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post"
     },
     {
-      "title": "MSI Center – How to gain SYSTEM privileges in seconds",
-      "hot": "2.8m",
-      "desc": "mrbruh.com",
-      "source": "tech",
-      "tag": "⬆️ 114 points",
-      "url": "https://mrbruh.com/msicenter/"
-    },
-    {
-      "title": "Synthesis is harder than analysis",
-      "hot": "2.8m",
-      "desc": "surfingcomplexity.blog",
-      "source": "tech",
-      "tag": "⬆️ 116 points",
-      "url": "https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/"
-    },
-    {
-      "title": "Jamesob's guide to running SOTA LLMs locally",
+      "title": "Steam Controller Auto-Charge – pilot to magnetic charging puck using CV",
       "hot": "2.8m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 373 points",
-      "url": "https://github.com/jamesob/local-llm"
+      "tag": "⬆️ 171 points",
+      "url": "https://github.com/FossPrime/Steam-Controller-Auto-Charge"
+    },
+    {
+      "title": "A martian rock has lots of carbon on it, and it's not clear why",
+      "hot": "2.7m",
+      "desc": "arstechnica.com",
+      "source": "tech",
+      "tag": "⬆️ 16 points",
+      "url": "https://arstechnica.com/science/2026/07/a-martian-rock-has-lots-of-carbon-on-it-and-its-not-clear-why/"
     },
     {
       "title": "FreeBSD ate my RAM",
       "hot": "2.7m",
       "desc": "crocidb.com",
       "source": "tech",
-      "tag": "⬆️ 165 points",
+      "tag": "⬆️ 172 points",
       "url": "https://crocidb.com/post/freebsd-ate-my-ram/"
     },
     {
-      "title": "SearXNG: A free internet metasearch engine",
+      "title": "MSI Center – How to gain SYSTEM privileges in seconds",
       "hot": "2.7m",
-      "desc": "github.com",
+      "desc": "mrbruh.com",
       "source": "tech",
-      "tag": "⬆️ 243 points",
-      "url": "https://github.com/searxng/searxng"
-    },
-    {
-      "title": "The firefighting system of the Van der Heyden brothers in 17th century Amsterdam",
-      "hot": "2.7m",
-      "desc": "worksinprogress.co",
-      "source": "tech",
-      "tag": "⬆️ 113 points",
-      "url": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/"
+      "tag": "⬆️ 121 points",
+      "url": "https://mrbruh.com/msicenter/"
     }
   ],
-  "updatedAt": "2026-07-04T14:20:41.413Z"
+  "updatedAt": "2026-07-04T15:36:57.161Z"
 }
