@@ -1,45 +1,69 @@
 {
-  "updatedAt": "2026-07-04T12:38:15.696Z",
+  "updatedAt": "2026-07-04T14:20:41.413Z",
   "source": "live",
   "tech": [
     {
-      "title": "The bottleneck might be the air in the room",
+      "title": "Explanation of everything you can see in htop/top on Linux",
       "hot": "3.0m",
-      "desc": "blog.mikebowler.ca",
+      "desc": "peteris.rocks",
       "source": "tech",
-      "tag": "⬆️ 415 points",
-      "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/"
+      "tag": "⬆️ 38 points",
+      "url": "https://peteris.rocks/blog/htop/"
     },
     {
-      "title": "Astrophysicists Puzzle over Webb's New Universe",
+      "title": "Astrophysicists Puzzle over Webb’s New Universe",
       "hot": "3.0m",
       "desc": "quantamagazine.org",
       "source": "tech",
-      "tag": "⬆️ 53 points",
+      "tag": "⬆️ 96 points",
       "url": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/"
+    },
+    {
+      "title": "The Vespa at 80: Why the Italian scooter remains the coolest thing on 2 wheels",
+      "hot": "3.0m",
+      "desc": "cbc.ca",
+      "source": "tech",
+      "tag": "⬆️ 58 points",
+      "url": "https://www.cbc.ca/news/world/vespa-italy-postwar-design-9.7252641"
     },
     {
       "title": "Maybe you should learn something",
       "hot": "3.0m",
       "desc": "marginalia.nu",
       "source": "tech",
-      "tag": "⬆️ 157 points",
+      "tag": "⬆️ 223 points",
       "url": "https://www.marginalia.nu/log/a_135_learn/"
     },
     {
-      "title": "Mir Books – Books from the Soviet Era",
-      "hot": "3.0m",
-      "desc": "mirtitles.org",
+      "title": "Night Witches – all-female Soviet aviator regiment WW2",
+      "hot": "2.9m",
+      "desc": "en.wikipedia.org",
       "source": "tech",
-      "tag": "⬆️ 105 points",
-      "url": "https://mirtitles.org"
+      "tag": "⬆️ 33 points",
+      "url": "https://en.wikipedia.org/wiki/Night_Witches"
+    },
+    {
+      "title": "Postgres data stored in Parquet on S3: LTAP architecture explained",
+      "hot": "2.9m",
+      "desc": "databricks.com",
+      "source": "tech",
+      "tag": "⬆️ 81 points",
+      "url": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage"
+    },
+    {
+      "title": "The bottleneck might be the air in the room",
+      "hot": "2.9m",
+      "desc": "blog.mikebowler.ca",
+      "source": "tech",
+      "tag": "⬆️ 503 points",
+      "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/"
     },
     {
       "title": "Performance per dollar is getting faster and cheaper",
       "hot": "2.9m",
       "desc": "wafer.ai",
       "source": "tech",
-      "tag": "⬆️ 269 points",
+      "tag": "⬆️ 297 points",
       "url": "https://www.wafer.ai/blog/glm52-amd"
     },
     {
@@ -47,120 +71,96 @@
       "hot": "2.9m",
       "desc": "mistral.ai",
       "source": "tech",
-      "tag": "⬆️ 270 points",
+      "tag": "⬆️ 292 points",
       "url": "https://mistral.ai/news/leanstral-1-5/"
     },
     {
-      "title": "Postgres data stored in Parquet on S3: LTAP architecture explained",
+      "title": "Costco is the anti-Amazon",
       "hot": "2.9m",
-      "desc": "databricks.com",
+      "desc": "phenomenalworld.org",
       "source": "tech",
-      "tag": "⬆️ 54 points",
-      "url": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage"
+      "tag": "⬆️ 462 points",
+      "url": "https://phenomenalworld.org/analysis/the-anti-amazon/"
     },
     {
-      "title": "The Vespa at 80: Why the Italian scooter remains the coolest thing on 2 wheels",
+      "title": "Mir Books – Books from the Soviet Era",
       "hot": "2.9m",
-      "desc": "cbc.ca",
+      "desc": "mirtitles.org",
       "source": "tech",
-      "tag": "⬆️ 12 points",
-      "url": "https://www.cbc.ca/news/world/vespa-italy-postwar-design-9.7252641"
+      "tag": "⬆️ 121 points",
+      "url": "https://mirtitles.org"
     },
     {
       "title": "Giant trees have no trouble pumping water to top branches: new research",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "news.exeter.ac.uk",
       "source": "tech",
-      "tag": "⬆️ 218 points",
+      "tag": "⬆️ 232 points",
       "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/"
     },
     {
       "title": "Steam Controller Auto-Charge – pilot to magnetic charging puck using CV",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 151 points",
+      "tag": "⬆️ 166 points",
       "url": "https://github.com/FossPrime/Steam-Controller-Auto-Charge"
-    },
-    {
-      "title": "MSI Center – How to gain SYSTEM privileges in seconds",
-      "hot": "2.9m",
-      "desc": "mrbruh.com",
-      "source": "tech",
-      "tag": "⬆️ 104 points",
-      "url": "https://mrbruh.com/msicenter/"
-    },
-    {
-      "title": "Ship traces journey Spanish Armada sailors made in 1588",
-      "hot": "2.8m",
-      "desc": "irishtimes.com",
-      "source": "tech",
-      "tag": "⬆️ 11 points",
-      "url": "https://www.irishtimes.com/ireland/2026/06/30/it-is-a-huge-honour-ship-traces-journey-spanish-armada-sailors-made-in-1588/"
-    },
-    {
-      "title": "FreeBSD ate my RAM",
-      "hot": "2.8m",
-      "desc": "crocidb.com",
-      "source": "tech",
-      "tag": "⬆️ 156 points",
-      "url": "https://crocidb.com/post/freebsd-ate-my-ram/"
-    },
-    {
-      "title": "SearXNG: A free internet metasearch engine",
-      "hot": "2.8m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 231 points",
-      "url": "https://github.com/searxng/searxng"
-    },
-    {
-      "title": "Jamesob's guide to running SOTA LLMs locally",
-      "hot": "2.8m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 363 points",
-      "url": "https://github.com/jamesob/local-llm"
     },
     {
       "title": "Agentic coding notes from Galapagos Island",
       "hot": "2.8m",
       "desc": "danluu.com",
       "source": "tech",
-      "tag": "⬆️ 117 points",
+      "tag": "⬆️ 133 points",
       "url": "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post"
     },
     {
-      "title": "The firefighting system of the Van der Heyden brothers in 17th century Amsterdam",
+      "title": "MSI Center – How to gain SYSTEM privileges in seconds",
       "hot": "2.8m",
-      "desc": "worksinprogress.co",
+      "desc": "mrbruh.com",
       "source": "tech",
-      "tag": "⬆️ 107 points",
-      "url": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/"
+      "tag": "⬆️ 114 points",
+      "url": "https://mrbruh.com/msicenter/"
     },
     {
       "title": "Synthesis is harder than analysis",
-      "hot": "2.7m",
+      "hot": "2.8m",
       "desc": "surfingcomplexity.blog",
       "source": "tech",
-      "tag": "⬆️ 103 points",
+      "tag": "⬆️ 116 points",
       "url": "https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/"
     },
     {
-      "title": "Soatok's Informal Guide to Threat Models",
-      "hot": "2.7m",
-      "desc": "soatok.blog",
+      "title": "Jamesob's guide to running SOTA LLMs locally",
+      "hot": "2.8m",
+      "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 102 points",
-      "url": "https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/"
+      "tag": "⬆️ 373 points",
+      "url": "https://github.com/jamesob/local-llm"
     },
     {
-      "title": "The Scanline Sweeper: A Glyph Rendering Algorithm [pdf]",
+      "title": "FreeBSD ate my RAM",
       "hot": "2.7m",
-      "desc": "rookandpossum.com",
+      "desc": "crocidb.com",
       "source": "tech",
-      "tag": "⬆️ 19 points",
-      "url": "https://rookandpossum.com/papers/scanline_sweeper_preprint.pdf"
+      "tag": "⬆️ 165 points",
+      "url": "https://crocidb.com/post/freebsd-ate-my-ram/"
+    },
+    {
+      "title": "SearXNG: A free internet metasearch engine",
+      "hot": "2.7m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 243 points",
+      "url": "https://github.com/searxng/searxng"
+    },
+    {
+      "title": "The firefighting system of the Van der Heyden brothers in 17th century Amsterdam",
+      "hot": "2.7m",
+      "desc": "worksinprogress.co",
+      "source": "tech",
+      "tag": "⬆️ 113 points",
+      "url": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/"
     }
   ],
   "space": [
@@ -285,128 +285,6 @@
       "url": "https://spacepolicyonline.com/news/atlas-v-launches-more-amazon-leos-with-only-six-starliner-flights-left-on-the-books/"
     }
   ],
-  "github": [
-    {
-      "title": "Krishnagangwal/CS-Fundamentals: Curated CS fundamentals for placement prep: DSA,",
-      "hot": "⭐ 1.5k",
-      "desc": "Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/Krishnagangwal/CS-Fundamentals"
-    },
-    {
-      "title": "yynxxxxx/Codex-5.5-codex-instruct-5.5: ",
-      "hot": "⭐ 1.3k",
-      "desc": "yynxxxxx/Codex-5.5-codex-instruct-5.5",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5"
-    },
-    {
-      "title": "mekos2772/ios-location-spoofer: Standalone iOS app to spoof GPS location without",
-      "hot": "⭐ 1.3k",
-      "desc": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/mekos2772/ios-location-spoofer"
-    },
-    {
-      "title": "Kulaxyz/self-learning-skills: A self-improving skill for AI coding agents (Claud",
-      "hot": "⭐ 820",
-      "desc": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reus",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/Kulaxyz/self-learning-skills"
-    },
-    {
-      "title": "HUANGCHIHHUNGLeo/claude-real-video: Let Claude (or any LLM) actually watch a vid",
-      "hot": "⭐ 664",
-      "desc": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video"
-    },
-    {
-      "title": "diinki/linux-antiquity: A highly tasteful Linux-theme, reminiscent of art-nouvea",
-      "hot": "⭐ 593",
-      "desc": "A highly tasteful Linux-theme, reminiscent of art-nouveau and old drawings related to astronomy, science, and mythology.",
-      "source": "github",
-      "tag": "QML",
-      "url": "https://github.com/diinki/linux-antiquity"
-    },
-    {
-      "title": "xuchonglang/investing-for-beginners: 小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
-      "hot": "⭐ 586",
-      "desc": "小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/xuchonglang/investing-for-beginners"
-    },
-    {
-      "title": "jamesob/local-llm: Everything I know about running LLMs locally",
-      "hot": "⭐ 528",
-      "desc": "Everything I know about running LLMs locally",
-      "source": "github",
-      "tag": "Shell",
-      "url": "https://github.com/jamesob/local-llm"
-    },
-    {
-      "title": "TianhangZhuzth/Fundamental-Ava: Build digital human beings — autonomous, collabo",
-      "hot": "⭐ 522",
-      "desc": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/TianhangZhuzth/Fundamental-Ava"
-    },
-    {
-      "title": "kui123456789/cdk-redeem-only-extension: UPI redeem only extension",
-      "hot": "⭐ 489",
-      "desc": "UPI redeem only extension",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/kui123456789/cdk-redeem-only-extension"
-    },
-    {
-      "title": "uzairansaruzi/hermex: Native iPhone app for your Hermes agent",
-      "hot": "⭐ 486",
-      "desc": "Native iPhone app for your Hermes agent",
-      "source": "github",
-      "tag": "Swift",
-      "url": "https://github.com/uzairansaruzi/hermex"
-    },
-    {
-      "title": "wlzh/dji-4g-vohive-mac: 在 Mac（Apple Silicon / Intel）上用 UTM 跑 Linux 虚拟机，把大疆 4G 模块",
-      "hot": "⭐ 457",
-      "desc": "在 Mac（Apple Silicon / Intel）上用 UTM 跑 Linux 虚拟机，把大疆 4G 模块（EG25-G）伪装成移远 Quectel EC25 并部署 vohive 平台的完整步骤",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/wlzh/dji-4g-vohive-mac"
-    },
-    {
-      "title": "jmerelnyc/Talos: GPU worker client for the Talos network. Pairs with your Talos ",
-      "hot": "⭐ 448",
-      "desc": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payo",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/jmerelnyc/Talos"
-    },
-    {
-      "title": "Jia-Ethan/codex-keysmith: Codex CLI instruction-file installer for local configu",
-      "hot": "⭐ 414",
-      "desc": "Codex CLI instruction-file installer for local configuration",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/Jia-Ethan/codex-keysmith"
-    },
-    {
-      "title": "spiritov/ds.css: A css framework recreating the DS / DS Lite's UI",
-      "hot": "⭐ 406",
-      "desc": "A css framework recreating the DS / DS Lite's UI",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/spiritov/ds.css"
-    }
-  ],
   "dev": [
     {
       "title": "Letting the DEV Community Weigh in on the Topics of AIE",
@@ -423,14 +301,6 @@
       "source": "dev",
       "tag": "aie,  ai",
       "url": "https://dev.to/dailycontext/a-third-brain-for-your-second-brain-38b4"
-    },
-    {
-      "title": "Protect Yourself, Mesh Yourself",
-      "hot": "❤️ 7 💬 0",
-      "desc": "In my last post, my SSH keys moved off disk and into 1Password. This one is about the network those...",
-      "source": "dev",
-      "tag": "tutorial,  productivity",
-      "url": "https://dev.to/eschmechel/protect-yourself-mesh-yourself-3fkn"
     },
     {
       "title": "Gemma and sandboxing cause a stir at the World's Fair",
@@ -458,7 +328,7 @@
     },
     {
       "title": "Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!",
-      "hot": "❤️ 59 💬 61",
+      "hot": "❤️ 60 💬 62",
       "desc": "We are so excited to finally announce the winners of the GitHub Finish-Up-A-Thon Challenge, our...",
       "source": "dev",
       "tag": "githubchallenge,  devchallenge",
@@ -529,6 +399,14 @@
       "url": "https://dev.to/dailycontext/these-founders-skipped-graduation-to-be-here-1o3d"
     },
     {
+      "title": "Protect Yourself, Mesh Yourself",
+      "hot": "❤️ 7 💬 1",
+      "desc": "In my last post, my SSH keys moved off disk and into 1Password. This one is about the network those...",
+      "source": "dev",
+      "tag": "tutorial,  productivity",
+      "url": "https://dev.to/eschmechel/protect-yourself-mesh-yourself-3fkn"
+    },
+    {
       "title": "Top 7 Featured DEV Posts of the Week",
       "hot": "❤️ 48 💬 9",
       "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
@@ -567,6 +445,128 @@
       "source": "dev",
       "tag": "aie,  ai",
       "url": "https://dev.to/dailycontext/developers-urged-to-reach-out-and-touch-someone-4943"
+    }
+  ],
+  "github": [
+    {
+      "title": "Krishnagangwal/CS-Fundamentals: Curated CS fundamentals for placement prep: DSA,",
+      "hot": "⭐ 1.5k",
+      "desc": "Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/Krishnagangwal/CS-Fundamentals"
+    },
+    {
+      "title": "yynxxxxx/Codex-5.5-codex-instruct-5.5: ",
+      "hot": "⭐ 1.3k",
+      "desc": "yynxxxxx/Codex-5.5-codex-instruct-5.5",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5"
+    },
+    {
+      "title": "mekos2772/ios-location-spoofer: Standalone iOS app to spoof GPS location without",
+      "hot": "⭐ 1.3k",
+      "desc": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/mekos2772/ios-location-spoofer"
+    },
+    {
+      "title": "Kulaxyz/self-learning-skills: A self-improving skill for AI coding agents (Claud",
+      "hot": "⭐ 821",
+      "desc": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reus",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/Kulaxyz/self-learning-skills"
+    },
+    {
+      "title": "HUANGCHIHHUNGLeo/claude-real-video: Let Claude (or any LLM) actually watch a vid",
+      "hot": "⭐ 679",
+      "desc": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video"
+    },
+    {
+      "title": "xuchonglang/investing-for-beginners: 小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
+      "hot": "⭐ 602",
+      "desc": "小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/xuchonglang/investing-for-beginners"
+    },
+    {
+      "title": "diinki/linux-antiquity: A highly tasteful Linux-theme, reminiscent of art-nouvea",
+      "hot": "⭐ 598",
+      "desc": "A highly tasteful Linux-theme, reminiscent of art-nouveau and old drawings related to astronomy, science, and mythology.",
+      "source": "github",
+      "tag": "QML",
+      "url": "https://github.com/diinki/linux-antiquity"
+    },
+    {
+      "title": "jamesob/local-llm: Everything I know about running LLMs locally",
+      "hot": "⭐ 577",
+      "desc": "Everything I know about running LLMs locally",
+      "source": "github",
+      "tag": "Shell",
+      "url": "https://github.com/jamesob/local-llm"
+    },
+    {
+      "title": "TianhangZhuzth/Fundamental-Ava: Build digital human beings — autonomous, collabo",
+      "hot": "⭐ 522",
+      "desc": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/TianhangZhuzth/Fundamental-Ava"
+    },
+    {
+      "title": "uzairansaruzi/hermex: Native iPhone app for your Hermes agent",
+      "hot": "⭐ 492",
+      "desc": "Native iPhone app for your Hermes agent",
+      "source": "github",
+      "tag": "Swift",
+      "url": "https://github.com/uzairansaruzi/hermex"
+    },
+    {
+      "title": "kui123456789/cdk-redeem-only-extension: UPI redeem only extension",
+      "hot": "⭐ 491",
+      "desc": "UPI redeem only extension",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/kui123456789/cdk-redeem-only-extension"
+    },
+    {
+      "title": "jmerelnyc/Talos: GPU worker client for the Talos network. Pairs with your Talos ",
+      "hot": "⭐ 490",
+      "desc": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payo",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/jmerelnyc/Talos"
+    },
+    {
+      "title": "wlzh/dji-4g-vohive-mac: 在 Mac（Apple Silicon / Intel）上用 UTM 跑 Linux 虚拟机，把大疆 4G 模块",
+      "hot": "⭐ 461",
+      "desc": "在 Mac（Apple Silicon / Intel）上用 UTM 跑 Linux 虚拟机，把大疆 4G 模块（EG25-G）伪装成移远 Quectel EC25 并部署 vohive 平台的完整步骤",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/wlzh/dji-4g-vohive-mac"
+    },
+    {
+      "title": "Jia-Ethan/codex-keysmith: Codex CLI instruction-file installer for local configu",
+      "hot": "⭐ 414",
+      "desc": "Codex CLI instruction-file installer for local configuration",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/Jia-Ethan/codex-keysmith"
+    },
+    {
+      "title": "spiritov/ds.css: A css framework recreating the DS / DS Lite's UI",
+      "hot": "⭐ 408",
+      "desc": "A css framework recreating the DS / DS Lite's UI",
+      "source": "github",
+      "tag": "CSS",
+      "url": "https://github.com/spiritov/ds.css"
     }
   ]
 }
