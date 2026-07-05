@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T23:26:41.203Z",
+  "updatedAt": "2026-07-05T01:12:14.248Z",
   "source": "live",
   "dev": [
     {
@@ -69,7 +69,7 @@
     {
       "title": "Without Structure",
       "hot": "❤️ 11 💬 0",
-      "desc": "“Without structure, AI makes code worse.” - Tereza Tížkov��  AI is a supercharger, not a magic wand....",
+      "desc": "“Without structure, AI makes code worse.” - Tereza Tížková  AI is a supercharger, not a magic wand....",
       "source": "dev",
       "tag": "aie,  agents",
       "url": "https://dev.to/dailycontext/without-structure-22d1"
@@ -157,19 +157,36 @@
     {
       "title": "Letting the DEV Community Weigh in on the Topics of AIE",
       "hot": "❤️ 56 💬 7",
-      "desc": "I’m at the AI Engineer World’s Fair in San Francisco, where the vibes are enthusiastic. However,...",
+      "desc": "I’m at the AI Engineer World��s Fair in San Francisco, where the vibes are enthusiastic. However,...",
       "source": "dev",
       "tag": "aie,  ai",
       "url": "https://dev.to/dailycontext/letting-the-dev-community-weigh-in-on-the-topics-of-aie-439l"
     }
   ],
+  "space": [
+    {
+      "title": "暂无 space 数据",
+      "hot": "",
+      "desc": "数据加载中，请稍后刷新",
+      "source": "space",
+      "tag": "loading"
+    }
+  ],
   "tech": [
+    {
+      "title": "Scientists reverse brain aging, with a nasal spray",
+      "hot": "3.0m",
+      "desc": "stories.tamu.edu",
+      "source": "tech",
+      "tag": "⬆️ 96 points",
+      "url": "https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/"
+    },
     {
       "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
       "hot": "3.0m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 276 points",
+      "tag": "⬆️ 340 points",
       "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main"
     },
     {
@@ -177,31 +194,39 @@
       "hot": "3.0m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 79 points",
+      "tag": "⬆️ 130 points",
       "url": "https://github.com/openai/codex/issues/30364"
-    },
-    {
-      "title": "Leaking YouTube creators' private videos",
-      "hot": "3.0m",
-      "desc": "javoriuski.com",
-      "source": "tech",
-      "tag": "⬆️ 437 points",
-      "url": "https://javoriuski.com/post/youtube"
     },
     {
       "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
       "hot": "3.0m",
       "desc": "software.annas-archive.gl",
       "source": "tech",
-      "tag": "⬆️ 281 points",
+      "tag": "⬆️ 319 points",
       "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234"
+    },
+    {
+      "title": "Leaking YouTube creators' private videos",
+      "hot": "2.9m",
+      "desc": "javoriuski.com",
+      "source": "tech",
+      "tag": "⬆️ 467 points",
+      "url": "https://javoriuski.com/post/youtube"
+    },
+    {
+      "title": "Jellyfish can heal wounds in minutes. Scientists want their secrets",
+      "hot": "2.9m",
+      "desc": "mbl.edu",
+      "source": "tech",
+      "tag": "⬆️ 24 points",
+      "url": "https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets"
     },
     {
       "title": "Better Models: Worse Tools",
       "hot": "2.9m",
       "desc": "lucumr.pocoo.org",
       "source": "tech",
-      "tag": "⬆️ 61 points",
+      "tag": "⬆️ 84 points",
       "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/"
     },
     {
@@ -209,23 +234,15 @@
       "hot": "2.9m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 262 points",
+      "tag": "⬆️ 269 points",
       "url": "https://github.com/anthropics/claude-code/issues/74066"
-    },
-    {
-      "title": "Verizon is About to Break our Watches",
-      "hot": "2.9m",
-      "desc": "jefftk.com",
-      "source": "tech",
-      "tag": "⬆️ 116 points",
-      "url": "https://www.jefftk.com/p/verizon-is-about-to-break-our-watches"
     },
     {
       "title": "Explanation of everything you can see in htop/top on Linux (2019)",
       "hot": "2.9m",
       "desc": "peteris.rocks",
       "source": "tech",
-      "tag": "⬆️ 363 points",
+      "tag": "⬆️ 386 points",
       "url": "https://peteris.rocks/blog/htop/"
     },
     {
@@ -233,218 +250,88 @@
       "hot": "2.9m",
       "desc": "ziglang.org",
       "source": "tech",
-      "tag": "⬆️ 108 points",
+      "tag": "⬆️ 135 points",
       "url": "https://ziglang.org/devlog/2026/#2026-06-30"
     },
     {
-      "title": "Drone Physics",
+      "title": "Verizon is About to Break our Watches",
       "hot": "2.9m",
+      "desc": "jefftk.com",
+      "source": "tech",
+      "tag": "⬆️ 133 points",
+      "url": "https://www.jefftk.com/p/verizon-is-about-to-break-our-watches"
+    },
+    {
+      "title": "Drone Physics",
+      "hot": "2.8m",
       "desc": "iahmed.me",
       "source": "tech",
-      "tag": "⬆️ 67 points",
+      "tag": "⬆️ 79 points",
       "url": "https://iahmed.me/post/drone-physics/"
     },
     {
-      "title": "Protocol Prying: Vulnerability Research in AirDrop and Quick Share",
-      "hot": "2.9m",
-      "desc": "arxiv.org",
+      "title": "Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams",
+      "hot": "2.8m",
+      "desc": "writerbeware.blog",
       "source": "tech",
-      "tag": "⬆️ 8 points",
-      "url": "https://arxiv.org/abs/2606.26967"
+      "tag": "⬆️ 6 points",
+      "url": "https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/"
     },
     {
-      "title": "Windows CE Dreamcast Community Edition (wince-dc)",
+      "title": "My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
       "hot": "2.8m",
-      "desc": "github.com",
+      "desc": "ekinertac.com",
       "source": "tech",
-      "tag": "⬆️ 84 points",
-      "url": "https://github.com/maximqaxd/wince-dc"
+      "tag": "⬆️ 20 points",
+      "url": "https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it/"
     },
     {
       "title": "Can you build a recognizable World Map in under 500 bytes?",
       "hot": "2.8m",
       "desc": "experimentlog.com",
       "source": "tech",
-      "tag": "⬆️ 8 points",
+      "tag": "⬆️ 19 points",
       "url": "https://www.experimentlog.com/blog/building-a-world-map-with-only-500-bytes"
     },
     {
-      "title": "Astrophysicists Puzzle over Webb’s New Universe",
+      "title": "Zo Computer",
       "hot": "2.8m",
-      "desc": "quantamagazine.org",
+      "desc": "zo.computer",
       "source": "tech",
-      "tag": "⬆️ 183 points",
-      "url": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/"
-    },
-    {
-      "title": "Curveball",
-      "hot": "2.8m",
-      "desc": "mightyburger.net",
-      "source": "tech",
-      "tag": "⬆️ 43 points",
-      "url": "https://mightyburger.net/projects/curveball/"
+      "tag": "⬆️ 6 points",
+      "url": "https://www.zo.computer"
     },
     {
       "title": "It's not me, it's the compiler",
       "hot": "2.8m",
       "desc": "parsa.wtf",
       "source": "tech",
-      "tag": "⬆️ 37 points",
+      "tag": "⬆️ 52 points",
       "url": "https://parsa.wtf/cast/"
     },
     {
-      "title": "The Vespa at 80",
-      "hot": "2.8m",
-      "desc": "cbc.ca",
-      "source": "tech",
-      "tag": "⬆️ 136 points",
-      "url": "https://www.cbc.ca/news/world/vespa-italy-postwar-design-9.7252641"
-    },
-    {
-      "title": "Fable created novel 4D splat format",
+      "title": "Protocol Prying: Vulnerability Research in AirDrop and Quick Share",
       "hot": "2.7m",
-      "desc": "adamraudonis.github.io",
+      "desc": "arxiv.org",
       "source": "tech",
-      "tag": "⬆️ 82 points",
-      "url": "https://adamraudonis.github.io/splats4D/"
+      "tag": "⬆️ 11 points",
+      "url": "https://arxiv.org/abs/2606.26967"
     },
     {
-      "title": "Neural Render Proxies for Interactive and Differentiable Lighting",
+      "title": "Windows CE Dreamcast Community Edition (wince-dc)",
       "hot": "2.7m",
-      "desc": "studios.disneyresearch.com",
+      "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 44 points",
-      "url": "https://studios.disneyresearch.com/2026/07/01/neural-render-proxies-for-interactive-and-differentiable-lighting/"
+      "tag": "⬆️ 90 points",
+      "url": "https://github.com/maximqaxd/wince-dc"
     },
     {
-      "title": "EndBASIC 0.14: Are we multimedia yet?",
+      "title": "Astrophysicists Puzzle over Webb’s New Universe",
       "hot": "2.7m",
-      "desc": "endbasic.dev",
+      "desc": "quantamagazine.org",
       "source": "tech",
-      "tag": "⬆️ 22 points",
-      "url": "https://www.endbasic.dev/2026/07/endbasic-0.14.html"
-    }
-  ],
-  "space": [
-    {
-      "title": "Vast’s Haven-1 continues to advance through milestones ahead of planned 2027 launch",
-      "hot": "7/4",
-      "desc": "Vast Space’s Haven-1 station is on track to launch in Q1 2027, having achieved several…\nThe post Vast’s Haven-1 continues to advance through milestone",
-      "source": "space",
-      "tag": "NASASpaceflight",
-      "url": "https://www.nasaspaceflight.com/2026/07/vast-update-070426/"
-    },
-    {
-      "title": "Live coverage: Semiconductor manufacturing test bed to fly alongside Starlink satellites on Falcon 9 launch",
-      "hot": "7/4",
-      "desc": "Liftoff of the Starlink 10-50 mission from Space Launch Complex 40 is currently scheduled for 6:46 a.m. EDT (1046 UTC). The rocket's first-stage boost",
-      "source": "space",
-      "tag": "Spaceflight Now",
-      "url": "https://spaceflightnow.com/2026/07/04/live-coverage-semiconductor-manufacturing-test-bed-to-fly-alongside-starlink-satellites-on-falcon-9-launch/"
-    },
-    {
-      "title": "Need a Lift? NASA Launches Swift Rescue Mission",
-      "hot": "7/4",
-      "desc": "The LINK spacecraft aims to rendezvous, capture, and reboost NASA’s 21 year old Neil Gehrels Swift Observatory.",
-      "source": "space",
-      "tag": "Space Scout",
-      "url": "https://www.spacescout.info/2026/07/need-a-lift-nasa-launches-swift-rescue-mission/"
-    },
-    {
-      "title": "NASA’s Hubble Spies Stellar Sparkler for July 4th",
-      "hot": "7/4",
-      "desc": "Red, white, and blue stars glitter like a sparkler being waved on a dark night in this new image from NASA’s Hubble Space Telescope.",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-stellar-sparkler-for-july-4th/"
-    },
-    {
-      "title": "GAO flags satellite costs, launch risks in Space Force portfolio",
-      "hot": "7/4",
-      "desc": "\nWatchdog cites growing costs for missile-warning satellites, digital engineering gaps and workforce reductions that could slow national security laun",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/gao-flags-satellite-costs-launch-risks-in-space-force-portfolio/"
-    },
-    {
-      "title": "Katalyst’s LINK On Its Way to Reboost Swift",
-      "hot": "7/4",
-      "desc": "Katalyst Space’s LINK on-orbit servicing spacecraft is on its way to reboost NASA’s Swift observatory. Northrop Grumman’s Pegasus-XL rocket launched L",
-      "source": "space",
-      "tag": "SpacePolicyOnline.com",
-      "url": "https://spacepolicyonline.com/news/katalysts-link-on-its-way-to-reboost-swift/"
-    },
-    {
-      "title": "Starship in Florida pushing for launch this year",
-      "hot": "7/3",
-      "desc": "Starship launches from Cape Canaveral are getting closer and closer as SpaceX and its contractors…\nThe post Starship in Florida pushing for launch thi",
-      "source": "space",
-      "tag": "NASASpaceflight",
-      "url": "https://www.nasaspaceflight.com/2026/07/starship-florida-pushing-launch/"
-    },
-    {
-      "title": "Pegasus launches Swift reboost mission",
-      "hot": "7/3",
-      "desc": "\nA Pegasus XL launched a mission to reboost a NASA astrophysics spacecraft on what may be the final flight of that rocket.\nThe post Pegasus launches S",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/pegasus-launches-swift-reboost-mission/"
-    },
-    {
-      "title": "NASA’s Hubble Captures Crimson Cloud Sparkling with White, Blue Stars",
-      "hot": "7/3",
-      "desc": "Blue and white stars shine brightly against crimson gas in this image from NASA’s Hubble Space Telescope.",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-captures-crimson-cloud-sparkling-with-white-blue-stars/"
-    },
-    {
-      "title": "The most spectacular aurora of the εpsilon mission (so far!)",
-      "hot": "7/3",
-      "desc": " ",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/07/The_most_spectacular_aurora_of_the_epsilon_mission_so_far!"
-    },
-    {
-      "title": "Week in images: 29 June - 03 July 2026",
-      "hot": "7/3",
-      "desc": "Week in images: 29 June - 03 July 2026",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_29_June_-_03_July_2026"
-    },
-    {
-      "title": "Chinese satellite manufacturer Hongqing raises $191 million",
-      "hot": "7/3",
-      "desc": "\nHELSINKI — Hongqing Technology, the satellite manufacturing affiliate of launch firm Landspace, has secured one of the largest single raises for a Ch",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/chinese-satellite-manufacturer-hongqing-raises-191-million/"
-    },
-    {
-      "title": "NASA’s Hubble Spots Star-Spangled Cosmic Scene",
-      "hot": "7/3",
-      "desc": "More than 500,000 stars blaze red, white, and blue in this NASA Hubble image of the globular cluster Messier 3 (M3).",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-spots-star-spangled-cosmic-scene/"
-    },
-    {
-      "title": "At 250 years, there are still reasons for hope in America",
-      "hot": "7/3",
-      "desc": "It's difficult to pinpoint the moment in my life where America started to lose the plot.",
-      "source": "space",
-      "tag": "Arstechnica",
-      "url": "https://arstechnica.com/culture/2026/07/at-250-years-there-are-still-reasons-for-hope-in-america/"
-    },
-    {
-      "title": "Artist's view of Space Transportation's major programmes from 2026 onwards – vertical",
-      "hot": "7/3",
-      "desc": "From the ESA Blogs.",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Artist_s_view_of_Space_Transportation_s_major_programmes_from_2026_onwards_vertical"
+      "tag": "⬆️ 191 points",
+      "url": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/"
     }
   ],
   "github": [
@@ -482,7 +369,7 @@
     },
     {
       "title": "jamesob/local-llm: Everything I know about running LLMs locally",
-      "hot": "⭐ 741",
+      "hot": "⭐ 752",
       "desc": "Everything I know about running LLMs locally",
       "source": "github",
       "tag": "Shell",
@@ -490,7 +377,7 @@
     },
     {
       "title": "HUANGCHIHHUNGLeo/claude-real-video: Let Claude (or any LLM) actually watch a vid",
-      "hot": "⭐ 735",
+      "hot": "⭐ 745",
       "desc": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
       "source": "github",
       "tag": "Python",
@@ -498,23 +385,15 @@
     },
     {
       "title": "xuchonglang/investing-for-beginners: 小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
-      "hot": "⭐ 639",
+      "hot": "⭐ 645",
       "desc": "小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
       "source": "github",
       "tag": "GitHub",
       "url": "https://github.com/xuchonglang/investing-for-beginners"
     },
     {
-      "title": "diinki/linux-antiquity: A highly tasteful Linux-theme, reminiscent of art-nouvea",
-      "hot": "⭐ 615",
-      "desc": "A highly tasteful Linux-theme, reminiscent of art-nouveau and old drawings related to astronomy, science, and mythology.",
-      "source": "github",
-      "tag": "QML",
-      "url": "https://github.com/diinki/linux-antiquity"
-    },
-    {
       "title": "jmerelnyc/Talos: GPU worker client for the Talos network. Pairs with your Talos ",
-      "hot": "⭐ 581",
+      "hot": "⭐ 584",
       "desc": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payo",
       "source": "github",
       "tag": "Python",
@@ -522,7 +401,7 @@
     },
     {
       "title": "uzairansaruzi/hermex: Native iPhone app for your Hermes agent",
-      "hot": "⭐ 541",
+      "hot": "⭐ 551",
       "desc": "Native iPhone app for your Hermes agent",
       "source": "github",
       "tag": "Swift",
@@ -537,24 +416,8 @@
       "url": "https://github.com/TianhangZhuzth/Fundamental-Ava"
     },
     {
-      "title": "kui123456789/cdk-redeem-only-extension: UPI redeem only extension",
-      "hot": "⭐ 493",
-      "desc": "UPI redeem only extension",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/kui123456789/cdk-redeem-only-extension"
-    },
-    {
-      "title": "wlzh/dji-4g-vohive-mac: 在 Mac（Apple Silicon / Intel）上用 UTM 跑 Linux 虚拟机，把大疆 4G 模块",
-      "hot": "⭐ 464",
-      "desc": "在 Mac（Apple Silicon / Intel）上用 UTM 跑 Linux 虚拟机，把大疆 4G 模块（EG25-G）伪装成移远 Quectel EC25 并部署 vohive 平台的完整步骤",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/wlzh/dji-4g-vohive-mac"
-    },
-    {
       "title": "Kulaxyz/token-diet: Always-on token-efficiency skill for coding agents (Claude C",
-      "hot": "⭐ 448",
+      "hot": "⭐ 456",
       "desc": "Always-on token-efficiency skill for coding agents (Claude Code, Codex, Cursor, Windsurf, Cline). ~31% lower bill on average, no loss of correctness.",
       "source": "github",
       "tag": "Shell",
@@ -562,11 +425,35 @@
     },
     {
       "title": "spiritov/ds.css: A css framework recreating the DS / DS Lite's UI",
-      "hot": "⭐ 422",
+      "hot": "⭐ 424",
       "desc": "A css framework recreating the DS / DS Lite's UI",
       "source": "github",
       "tag": "CSS",
       "url": "https://github.com/spiritov/ds.css"
+    },
+    {
+      "title": "Jia-Ethan/codex-keysmith: Codex CLI instruction-file installer for local configu",
+      "hot": "⭐ 420",
+      "desc": "Codex CLI instruction-file installer for local configuration",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/Jia-Ethan/codex-keysmith"
+    },
+    {
+      "title": "asz798838958/FrciblyK12: 多线程全自动注册free 强上K12空间",
+      "hot": "⭐ 413",
+      "desc": "多线程全自动注册free 强上K12空间",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/asz798838958/FrciblyK12"
+    },
+    {
+      "title": "LinXiaoTao/FuckClaude: ",
+      "hot": "⭐ 372",
+      "desc": "LinXiaoTao/FuckClaude",
+      "source": "github",
+      "tag": "Astro",
+      "url": "https://github.com/LinXiaoTao/FuckClaude"
     }
   ]
 }
