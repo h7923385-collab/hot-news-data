@@ -1,52 +1,68 @@
 {
   "data": [
     {
-      "title": "Aluminum foil (2021)",
+      "title": "OpenWrt One – Open Hardware Router",
       "hot": "3.0m",
-      "desc": "dernocua.github.io",
+      "desc": "openwrt.org",
       "source": "tech",
-      "tag": "⬆️ 151 points",
-      "url": "https://dernocua.github.io/notes/aluminum-foil.html"
+      "tag": "⬆️ 102 points",
+      "url": "https://openwrt.org/toh/openwrt/one"
     },
     {
       "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
       "hot": "3.0m",
       "desc": "lttlabs.com",
       "source": "tech",
-      "tag": "⬆️ 107 points",
+      "tag": "⬆️ 192 points",
       "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo"
     },
     {
-      "title": "Road to Elm 1.0",
+      "title": "A global workspace in language models",
       "hot": "3.0m",
-      "desc": "elm-lang.org",
+      "desc": "anthropic.com",
       "source": "tech",
-      "tag": "⬆️ 225 points",
-      "url": "https://elm-lang.org/news/faster-builds"
+      "tag": "⬆️ 34 points",
+      "url": "https://www.anthropic.com/research/global-workspace"
     },
     {
-      "title": "Fable 5 On Vending-Bench: Misbehaving, With Plausible Deniability",
+      "title": "Kani: A Model Checker for Rust",
       "hot": "3.0m",
-      "desc": "andonlabs.com",
+      "desc": "arxiv.org",
       "source": "tech",
-      "tag": "⬆️ 111 points",
-      "url": "https://andonlabs.com/blog/fable5-vending-bench"
+      "tag": "⬆️ 79 points",
+      "url": "https://arxiv.org/abs/2607.01504"
+    },
+    {
+      "title": "Resetting Xbox",
+      "hot": "2.9m",
+      "desc": "news.xbox.com",
+      "source": "tech",
+      "tag": "⬆️ 270 points",
+      "url": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/"
+    },
+    {
+      "title": "Aluminum foil (2021)",
+      "hot": "2.9m",
+      "desc": "dernocua.github.io",
+      "source": "tech",
+      "tag": "⬆️ 192 points",
+      "url": "https://dernocua.github.io/notes/aluminum-foil.html"
+    },
+    {
+      "title": "Road to Elm 1.0",
+      "hot": "2.9m",
+      "desc": "elm-lang.org",
+      "source": "tech",
+      "tag": "⬆️ 262 points",
+      "url": "https://elm-lang.org/news/faster-builds"
     },
     {
       "title": "Egypt Is Building a New Nile",
       "hot": "2.9m",
       "desc": "theb1m.com",
       "source": "tech",
-      "tag": "⬆️ 26 points",
+      "tag": "⬆️ 73 points",
       "url": "https://www.theb1m.com/video/egypt-is-building-a-new-nile"
-    },
-    {
-      "title": "Real-time map of Great Britain's rail network",
-      "hot": "2.9m",
-      "desc": "map.signalbox.io",
-      "source": "tech",
-      "tag": "⬆️ 320 points",
-      "url": "https://www.map.signalbox.io"
     },
     {
       "title": "Stealth robotics startup (YC S26) is hiring principal engineers (Palo Alto)",
@@ -57,109 +73,93 @@
       "url": "https://news.ycombinator.com/item?id=48806976"
     },
     {
-      "title": "Kani: A Model Checker for Rust",
+      "title": "Januscape: Guest-to-Host Escape in KVM/x86 [CVE-2026-53359]",
       "hot": "2.9m",
-      "desc": "arxiv.org",
+      "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 12 points",
-      "url": "https://arxiv.org/abs/2607.01504"
+      "tag": "⬆️ 20 points",
+      "url": "https://github.com/V4bel/Januscape"
+    },
+    {
+      "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 42 points",
+      "url": "https://github.com/iOfficeAI/OfficeCLI"
+    },
+    {
+      "title": "Real-time map of Great Britain's rail network",
+      "hot": "2.8m",
+      "desc": "map.signalbox.io",
+      "source": "tech",
+      "tag": "⬆️ 341 points",
+      "url": "https://www.map.signalbox.io"
+    },
+    {
+      "title": "CS2 Fog Of War: Server-sided anti-wallhack occlusion culling for CS2 servers",
+      "hot": "2.8m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 54 points",
+      "url": "https://github.com/karola3vax/CS2FOW"
+    },
+    {
+      "title": "Show HN: Pulpie – Models for Cleaning the Web",
+      "hot": "2.8m",
+      "desc": "usefeyn.com",
+      "source": "tech",
+      "tag": "⬆️ 47 points",
+      "url": "https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/"
+    },
+    {
+      "title": "Pros and Cons of Solo Development",
+      "hot": "2.8m",
+      "desc": "johnjeffers.com",
+      "source": "tech",
+      "tag": "⬆️ 48 points",
+      "url": "https://johnjeffers.com/pros-and-cons-of-solo-development/"
     },
     {
       "title": "Clojure 1.13 adds support for checked keys",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "clojure.org",
       "source": "tech",
-      "tag": "⬆️ 121 points",
+      "tag": "⬆️ 143 points",
       "url": "https://clojure.org/news/2026/07/02/clojure-1-13-alpha1"
     },
     {
       "title": "1k Words: A Writing Contest",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "writingclub.world",
       "source": "tech",
-      "tag": "⬆️ 44 points",
+      "tag": "⬆️ 59 points",
       "url": "https://writingclub.world/1picture1000words"
     },
     {
-      "title": "Show HN: Pulpie – Models for Cleaning the Web",
-      "hot": "2.9m",
-      "desc": "usefeyn.com",
+      "title": "Fable 5 On Vending-Bench: Misbehaving, With Plausible Deniability",
+      "hot": "2.7m",
+      "desc": "andonlabs.com",
       "source": "tech",
-      "tag": "⬆️ 19 points",
-      "url": "https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/"
+      "tag": "⬆️ 143 points",
+      "url": "https://andonlabs.com/blog/fable5-vending-bench"
     },
     {
-      "title": "Resetting Xbox",
-      "hot": "2.8m",
-      "desc": "news.xbox.com",
-      "source": "tech",
-      "tag": "⬆️ 124 points",
-      "url": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/"
-    },
-    {
-      "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
-      "hot": "2.8m",
+      "title": "Hobbes – A Language and Embedded JIT Compiler",
+      "hot": "2.7m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 6 points",
-      "url": "https://github.com/iOfficeAI/OfficeCLI"
-    },
-    {
-      "title": "Should DayQuil Be Legal?",
-      "hot": "2.8m",
-      "desc": "theargumentmag.com",
-      "source": "tech",
-      "tag": "⬆️ 64 points",
-      "url": "https://www.theargumentmag.com/p/should-dayquil-be-legal"
-    },
-    {
-      "title": "When 2+2=5",
-      "hot": "2.8m",
-      "desc": "arstechnica.com",
-      "source": "tech",
-      "tag": "⬆️ 52 points",
-      "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/"
+      "tag": "⬆️ 9 points",
+      "url": "https://github.com/morganstanley/hobbes"
     },
     {
       "title": "Introduction to Genomics for Engineers",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "learngenomics.dev",
       "source": "tech",
-      "tag": "⬆️ 168 points",
+      "tag": "⬆️ 187 points",
       "url": "https://learngenomics.dev/docs/biological-foundations/cells-genomes-dna-chromosomes/"
-    },
-    {
-      "title": "Multilingual experience linked to delayed aging",
-      "hot": "2.8m",
-      "desc": "fens2026.abstractserver.com",
-      "source": "tech",
-      "tag": "⬆️ 44 points",
-      "url": "https://fens2026.abstractserver.com/program/#/details/presentations/5474"
-    },
-    {
-      "title": "Show HN: I Built LangGraph for Swift",
-      "hot": "2.7m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 11 points",
-      "url": "https://github.com/christopherkarani/Swarm"
-    },
-    {
-      "title": "What Emily Bender meant by \"stochastic parrots\"",
-      "hot": "2.7m",
-      "desc": "spectrum.ieee.org",
-      "source": "tech",
-      "tag": "⬆️ 111 points",
-      "url": "https://spectrum.ieee.org/stochastic-parrot"
-    },
-    {
-      "title": "CS2 Fog Of War: Server-sided anti-wallhack occlusion culling for CS2 servers",
-      "hot": "2.7m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 7 points",
-      "url": "https://github.com/karola3vax/CS2FOW"
     }
   ],
-  "updatedAt": "2026-07-06T17:31:16.446Z"
+  "updatedAt": "2026-07-06T19:25:23.129Z"
 }
