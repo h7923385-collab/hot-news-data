@@ -10,7 +10,7 @@
     },
     {
       "title": "My AI agent tried to ship a mistake we'd already reverted",
-      "hot": "❤️ 7 💬 4",
+      "hot": "❤️ 9 💬 6",
       "desc": "A month ago we added a card_token column to the users table so a background job could retry failed...",
       "source": "dev",
       "tag": "ai,  llm",
@@ -47,14 +47,6 @@
       "source": "dev",
       "tag": "aie,  agents",
       "url": "https://dev.to/dailycontext/the-fragile-balance-of-ai-development-individual-flow-vs-collective-context-2f49"
-    },
-    {
-      "title": "Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!",
-      "hot": "❤️ 68 💬 73",
-      "desc": "We are so excited to finally announce the winners of the GitHub Finish-Up-A-Thon Challenge, our...",
-      "source": "dev",
-      "tag": "githubchallenge,  devchallenge",
-      "url": "https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h"
     },
     {
       "title": "KubeOrchestrator: Autonomous Kubernetes Operations Powered by Antigravity",
@@ -159,7 +151,15 @@
       "source": "dev",
       "tag": "aie,  ai",
       "url": "https://dev.to/dailycontext/the-biggest-worlds-fair-yet-powers-down-for-the-moment-1jca"
+    },
+    {
+      "title": "cuenv: one typed file for your whole project",
+      "hot": "❤️ 0 💬 0",
+      "desc": "Most projects don't have a configuration system — they have a pile:  a .env file, a Makefile, a CI workflow, and secrets",
+      "source": "dev",
+      "tag": "automation,  cicd",
+      "url": "https://dev.to/peterj/cuenv-one-typed-file-for-your-whole-project-76a"
     }
   ],
-  "updatedAt": "2026-07-06T22:41:29.128Z"
+  "updatedAt": "2026-07-06T23:53:47.291Z"
 }
