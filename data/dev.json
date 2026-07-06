@@ -1,6 +1,22 @@
 {
   "data": [
     {
+      "title": "I Contain Multitudes (and Also Three Git Repos)",
+      "hot": "❤️ 20 💬 6",
+      "desc": "A tour of the stack behind mattstratton.com and speaking.mattstratton.com: a monorepo holding two Astro sites and a dev.",
+      "source": "dev",
+      "tag": "astro,  webdev",
+      "url": "https://dev.to/mattstratton/i-contain-multitudes-and-also-three-git-repos-33pf"
+    },
+    {
+      "title": "Meme Monday",
+      "hot": "❤️ 24 💬 19",
+      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
+      "source": "dev",
+      "tag": "discuss,  jokes",
+      "url": "https://dev.to/ben/meme-monday-5g25"
+    },
+    {
       "title": "Forward Deployed Engineers and the future of software engineering",
       "hot": "❤️ 5 💬 0",
       "desc": "Cover Image: Sierra’s Natalie Meurer at the AI Engineer World’s Fair today.  Natalie Meurer is Head...",
@@ -9,12 +25,12 @@
       "url": "https://dev.to/dailycontext/forward-deployed-engineers-and-the-future-of-software-engineering-jll"
     },
     {
-      "title": "Protect Yourself, Mesh Yourself",
-      "hot": "❤️ 7 💬 1",
-      "desc": "In my last post, my SSH keys moved off disk and into 1Password. This one is about the network those...",
+      "title": "Omni Flash Preview with Codex",
+      "hot": "❤️ 5 💬 0",
+      "desc": "This article covers the MCP setup and configuration for using Google Omni Preview and underlying...",
       "source": "dev",
-      "tag": "tutorial,  productivity",
-      "url": "https://dev.to/eschmechel/protect-yourself-mesh-yourself-3fkn"
+      "tag": "omniflash,  xcode",
+      "url": "https://dev.to/gde/omni-flash-preview-with-codex-3h17"
     },
     {
       "title": "Letting the DEV Community Weigh in on the Topics of AIE",
@@ -34,11 +50,19 @@
     },
     {
       "title": "Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!",
-      "hot": "❤️ 66 💬 68",
+      "hot": "❤️ 68 💬 72",
       "desc": "We are so excited to finally announce the winners of the GitHub Finish-Up-A-Thon Challenge, our...",
       "source": "dev",
       "tag": "githubchallenge,  devchallenge",
       "url": "https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h"
+    },
+    {
+      "title": "KubeOrchestrator: Autonomous Kubernetes Operations Powered by Antigravity",
+      "hot": "❤️ 8 💬 0",
+      "desc": "How Antigravity's Dynamic Subagents, Isolated Git Worktree Mode, and Declarative Safety Policies come together to build ",
+      "source": "dev",
+      "tag": "ai,  antigravity",
+      "url": "https://dev.to/gde/kubeorchestrator-autonomous-kubernetes-operations-powered-by-antigravity-1d4p"
     },
     {
       "title": "Two-day hackathon kicks off AI Engineer World’s Fair",
@@ -49,20 +73,12 @@
       "url": "https://dev.to/dailycontext/two-day-hackathon-kicks-off-ai-engineer-worlds-fair-2l1d"
     },
     {
-      "title": "The AI Engineer World’s Fair Spreads Globally",
-      "hot": "❤️ 23 💬 1",
-      "desc": "It has been less than three years since Shawn \"swyx\" Wang coined the term AI engineer in an open...",
+      "title": "[AI in Action] Refining a macOS Meeting Translation App with Claude Code: Auto-reconnect, Floating Captions, and Meeting Minutes Export Evolution",
+      "hot": "❤️ 9 💬 1",
+      "desc": "Foreword: Round Two, Switching to a Sharper Tool   In the previous article, we used AGY...",
       "source": "dev",
-      "tag": "ai,  aie",
-      "url": "https://dev.to/dailycontext/the-ai-engineer-worlds-fair-spreads-globally-1o4h"
-    },
-    {
-      "title": "What to Expect at the AI Engineer World’s Fair 2026",
-      "hot": "❤️ 27 💬 1",
-      "desc": "The AI Engineer World’s Fair returns to Moscone West in San Francisco from June 28 through July 2,...",
-      "source": "dev",
-      "tag": "ai,  aie",
-      "url": "https://dev.to/dailycontext/what-to-expect-at-the-ai-engineer-worlds-fair-2026-3l8g"
+      "tag": "ai,  claude",
+      "url": "https://dev.to/gde/ai-in-action-refining-a-macos-meeting-translation-app-with-claude-code-auto-reconnect-floating-2856"
     },
     {
       "title": "What's Next for AI?",
@@ -71,14 +87,6 @@
       "source": "dev",
       "tag": "ai,  llm",
       "url": "https://dev.to/sylwia-lask/whats-next-for-ai-219i"
-    },
-    {
-      "title": "Midsommer Madness with WASM and Rust",
-      "hot": "❤️ 29 💬 0",
-      "desc": "This article covers debugging and deploying a Rust backed WASM module with a Firebase hosted web app...",
-      "source": "dev",
-      "tag": "firebase,  webassembly",
-      "url": "https://dev.to/gde/midsommer-madness-with-wasm-and-rust-2ko3"
     },
     {
       "title": "Need a break? Play today's game from The Daily Context.",
@@ -95,6 +103,14 @@
       "source": "dev",
       "tag": "webassembly,  midsommer",
       "url": "https://dev.to/gde/midsommer-madness-with-wasm-rust-and-azure-container-apps-113b"
+    },
+    {
+      "title": "i made a fogger breakdown video",
+      "hot": "❤️ 5 💬 0",
+      "desc": "I just dropped a new teardown video showing how to break down a Fogger vape pod dock and reuse the...",
+      "source": "dev",
+      "tag": "diy,  hardware",
+      "url": "https://dev.to/codebunny20/i-made-a-fogger-breakdown-video-18k1"
     },
     {
       "title": "12B Gemma 4 Deployment with NVIDIA Blackwell 6000, QAT, MTP, and Antigravity CLI",
@@ -143,23 +159,7 @@
       "source": "dev",
       "tag": "discuss,  weeklyretro",
       "url": "https://dev.to/devteam/what-was-your-win-this-week-1np3"
-    },
-    {
-      "title": "The biggest World’s Fair yet powers down for the moment",
-      "hot": "❤️ 13 💬 0",
-      "desc": "The AI Engineer World’s Fair has ended, and over 7,000 folks are heading back to their homes, states,...",
-      "source": "dev",
-      "tag": "aie,  ai",
-      "url": "https://dev.to/dailycontext/the-biggest-worlds-fair-yet-powers-down-for-the-moment-1jca"
-    },
-    {
-      "title": "cuenv: one typed file for your whole project",
-      "hot": "❤️ 0 💬 0",
-      "desc": "Most projects don't have a configuration system — they have a pile:  a .env file, a Makefile, a CI workflow, and secrets",
-      "source": "dev",
-      "tag": "automation,  cicd",
-      "url": "https://dev.to/peterj/cuenv-one-typed-file-for-your-whole-project-76a"
     }
   ],
-  "updatedAt": "2026-07-06T14:39:17.140Z"
+  "updatedAt": "2026-07-06T17:31:16.446Z"
 }
