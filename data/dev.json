@@ -9,36 +9,12 @@
       "url": "https://dev.to/dailycontext/forward-deployed-engineers-and-the-future-of-software-engineering-jll"
     },
     {
-      "title": "These Founders Skipped Graduation To Be Here",
-      "hot": "❤️ 23 💬 3",
-      "desc": "When we met James Yang and Anish Paleja on Monday morning, The Daily Context team simply thought,...",
-      "source": "dev",
-      "tag": "aie,  ai",
-      "url": "https://dev.to/dailycontext/these-founders-skipped-graduation-to-be-here-1o3d"
-    },
-    {
       "title": "Protect Yourself, Mesh Yourself",
       "hot": "❤️ 7 💬 1",
       "desc": "In my last post, my SSH keys moved off disk and into 1Password. This one is about the network those...",
       "source": "dev",
       "tag": "tutorial,  productivity",
       "url": "https://dev.to/eschmechel/protect-yourself-mesh-yourself-3fkn"
-    },
-    {
-      "title": "Play today’s game from Issue #2 of The Daily Context!",
-      "hot": "❤️ 33 💬 1",
-      "desc": "Yesterday, we kicked off our physical newspaper, The Daily Context, at the AI Engineer World’s Fair...",
-      "source": "dev",
-      "tag": "aie,  ai",
-      "url": "https://dev.to/devteam/play-todays-game-from-issue-2-of-the-daily-context-epf"
-    },
-    {
-      "title": "How Docusign is Bringing Contract Table Extraction to Production with NVIDIA Nemotron Parse",
-      "hot": "❤️ 24 💬 0",
-      "desc": "By Hiral Shah, Senior Director, Product Management, Docusign  A major recurring theme among the...",
-      "source": "dev",
-      "tag": "aie,  ai",
-      "url": "https://dev.to/dailycontext/how-docusign-is-bringing-contract-table-extraction-to-production-with-nvidia-nemotron-parse-3bnh"
     },
     {
       "title": "The Fragile Balance of AI Development: Individual Flow vs. Collective Context",
@@ -50,19 +26,11 @@
     },
     {
       "title": "What's Next for AI?",
-      "hot": "❤️ 194 💬 253",
+      "hot": "❤️ 196 💬 253",
       "desc": "I have been writing about AI for quite a while now, but this is probably the first time I genuinely...",
       "source": "dev",
       "tag": "ai,  llm",
       "url": "https://dev.to/sylwia-lask/whats-next-for-ai-219i"
-    },
-    {
-      "title": "Reconciling the Distributed System: How the AI Engineer World's Fair Engineered Human Connection",
-      "hot": "❤️ 23 💬 0",
-      "desc": "On Sunday night, the sold-out 2026 AI Engineer World's Fair kicked off its orientation at Moscone...",
-      "source": "dev",
-      "tag": "aie,  ai",
-      "url": "https://dev.to/dailycontext/reconciling-the-distributed-system-how-the-ai-engineer-worlds-fair-engineered-human-connection-4p47"
     },
     {
       "title": "Letting the DEV Community Weigh in on the Topics of AIE",
@@ -79,14 +47,6 @@
       "source": "dev",
       "tag": "githubchallenge,  devchallenge",
       "url": "https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h"
-    },
-    {
-      "title": "Choosing the Right Tooling Layer for Your Agent",
-      "hot": "❤️ 9 💬 4",
-      "desc": "Selecting the right abstraction layer is not a new problem in software. It's common to have some...",
-      "source": "dev",
-      "tag": "aie,  ai",
-      "url": "https://dev.to/dailycontext/choosing-the-right-tooling-layer-for-your-agent-1eg2"
     },
     {
       "title": "Two-day hackathon kicks off AI Engineer World’s Fair",
@@ -121,14 +81,6 @@
       "url": "https://dev.to/dailycontext/a-third-brain-for-your-second-brain-38b4"
     },
     {
-      "title": "FinSavant Part 1: Building an Agentic FinOps Platform with Google ADK, A2UI and Gemini Enterprise Agent Platform — Goals, Architecture, and Tech Stack",
-      "hot": "❤️ 8 💬 0",
-      "desc": "Welcome   Hello folks, Dazbo here. I’m on holiday, which means I’ve got time to catch-up on...",
-      "source": "dev",
-      "tag": "finops,  agentruntime",
-      "url": "https://dev.to/gde/finsavant-part-1-building-an-agentic-finops-platform-with-google-adk-a2ui-and-gemini-enterprise-29l3"
-    },
-    {
       "title": "Midsommer Madness with WASM and Rust",
       "hot": "❤️ 29 💬 0",
       "desc": "This article covers debugging and deploying a Rust backed WASM module with a Firebase hosted web app...",
@@ -159,7 +111,55 @@
       "source": "dev",
       "tag": "webassembly,  midsommer",
       "url": "https://dev.to/gde/midsommer-madness-with-wasm-rust-and-azure-container-apps-113b"
+    },
+    {
+      "title": "12B Gemma 4 Deployment with NVIDIA Blackwell 6000, QAT, MTP, and Antigravity CLI",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article provides a step by step deployment guide for Gemma 4 to a Google Cloud Run hosted GPU...",
+      "source": "dev",
+      "tag": "speculativedecoding,  antigravitycli",
+      "url": "https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-qat-mtp-and-antigravity-cli-3gn6"
+    },
+    {
+      "title": "12B Gemma 4 Deployment with NVIDIA Blackwell 6000, MCP, Cloud Run, and Antigravity CLI",
+      "hot": "❤️ 5 💬 0",
+      "desc": "This article provides a step by step deployment guide for Gemma 4 to a Google Cloud Run hosted GPU...",
+      "source": "dev",
+      "tag": "gemma4,  mcps",
+      "url": "https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-mcp-cloud-run-and-antigravity-cli-3ckn"
+    },
+    {
+      "title": "Closing the Trust Gap: Automating GKE Incident Response with Antigravity 2.0, GKE MCP, and Artifacts",
+      "hot": "❤️ 28 💬 0",
+      "desc": "Anatomy of the Trust Gap  Before we can talk about the solution, we need to talk honestly about how...",
+      "source": "dev",
+      "tag": "antigravity,  googlecloud",
+      "url": "https://dev.to/gde/closing-the-trust-gap-automating-gke-incident-response-with-antigravity-20-and-artifacts-21c9"
+    },
+    {
+      "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
+      "hot": "❤️ 1 💬 0",
+      "desc": "How to build grounded, validated user personas and turn them into agents that generate eval data, for when you cannot re",
+      "source": "dev",
+      "tag": "ai,  evals",
+      "url": "https://dev.to/ohkpond/not-enough-smes-or-customers-to-make-your-evals-make-some-11nc"
+    },
+    {
+      "title": "Is looping ready to roll? Experts split on the future of coding",
+      "hot": "❤️ 12 💬 4",
+      "desc": "On the closing day of the AI Engineer World's Fair, industry leaders debated whether loops are ready...",
+      "source": "dev",
+      "tag": "aie,  ai",
+      "url": "https://dev.to/dailycontext/is-looping-ready-to-roll-experts-split-on-the-future-of-coding-2g7p"
+    },
+    {
+      "title": "What was your win this week?!",
+      "hot": "❤️ 12 💬 4",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "discuss,  weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-1np3"
     }
   ],
-  "updatedAt": "2026-07-06T01:43:28.115Z"
+  "updatedAt": "2026-07-06T06:12:09.814Z"
 }
