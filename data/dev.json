@@ -2,27 +2,59 @@
   "data": [
     {
       "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 34 💬 19",
+      "hot": "❤️ 37 💬 25",
       "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
       "source": "dev",
       "tag": "top7,  discuss",
       "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-144b"
     },
     {
+      "title": "Your Career Matters. So Does the Person Building It.",
+      "hot": "❤️ 65 💬 23",
+      "desc": "TL;DR  Tech has taught me many things over the years. It taught me how to learn new technologies,...",
+      "source": "dev",
+      "tag": "discuss,  career",
+      "url": "https://dev.to/hemapriya_kanagala/your-career-matters-so-does-the-person-building-it-2jle"
+    },
+    {
       "title": "The Next DEV Weekend Challenge Launches on July 9 - 13. Mark Your Calendar!",
-      "hot": "❤️ 21 💬 1",
+      "hot": "❤️ 26 💬 1",
       "desc": "We're back with another installment of the DEV Weekend Challenge!  If you missed the earlier...",
       "source": "dev",
       "tag": "weekendchallenge,  devchallenge",
       "url": "https://dev.to/devteam/the-next-dev-weekend-challenge-launches-on-july-9-13-mark-your-calendar-2fcb"
     },
     {
+      "title": "Being an engineer in the AI era",
+      "hot": "❤️ 14 💬 7",
+      "desc": "I hesitated to write this.  Not because I don’t have an opinion about AI in software engineering, but...",
+      "source": "dev",
+      "tag": "ai,  discuss",
+      "url": "https://dev.to/ale3oula/being-an-engineer-in-the-ai-era-277p"
+    },
+    {
       "title": "Master Local Fine-Tuning with \"gemma-trainer\"",
-      "hot": "❤️ 21 💬 3",
+      "hot": "❤️ 22 💬 3",
       "desc": "Take control of your AI models with our newest skill, designed to make local fine-tuning efficient.",
       "source": "dev",
       "tag": "gemma,  finetuning",
       "url": "https://dev.to/googleai/master-local-fine-tuning-with-gemma-trainer-3ipp"
+    },
+    {
+      "title": "Omni Flash Preview with Claude Code",
+      "hot": "❤️ 5 💬 0",
+      "desc": "This article covers the MCP setup and configuration for using Google Omni Preview and underlying...",
+      "source": "dev",
+      "tag": "cli,  googleomni",
+      "url": "https://dev.to/gde/omni-flash-preview-with-claude-code-53a5"
+    },
+    {
+      "title": "MCP Configuration for Looker with Antigravity CLI",
+      "hot": "❤️ 5 💬 0",
+      "desc": "This article covers the MCP setup and configuration for using Looker and underlying Gemini LLM with...",
+      "source": "dev",
+      "tag": "looker,  lookml",
+      "url": "https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d"
     },
     {
       "title": "Agent Factory Recap: 100X engineering with AI agents in Google Antigravity 2.0",
@@ -89,8 +121,16 @@
       "url": "https://dev.to/gde/midsommer-madness-with-wasm-rust-and-azure-container-apps-113b"
     },
     {
+      "title": "How I Fixed Supabase Storage RLS Errors That the Dashboard UI Couldn't Solve",
+      "hot": "❤️ 1 💬 4",
+      "desc": "If you've ever spent hours staring at a 400 error on  a Supabase Storage upload despite having RLS...",
+      "source": "dev",
+      "tag": "supabase,  webdev",
+      "url": "https://dev.to/l_build/how-i-fixed-supabase-storage-rls-errors-that-the-dashboard-ui-couldnt-solve-3c"
+    },
+    {
       "title": "Meme Monday",
-      "hot": "❤️ 28 💬 25",
+      "hot": "❤️ 30 💬 25",
       "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
       "source": "dev",
       "tag": "discuss,  jokes",
@@ -119,47 +159,7 @@
       "source": "dev",
       "tag": "speculativedecoding,  antigravitycli",
       "url": "https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-qat-mtp-and-antigravity-cli-3gn6"
-    },
-    {
-      "title": "12B Gemma 4 Deployment with NVIDIA Blackwell 6000, MCP, Cloud Run, and Antigravity CLI",
-      "hot": "❤️ 5 💬 0",
-      "desc": "This article provides a step by step deployment guide for Gemma 4 to a Google Cloud Run hosted GPU...",
-      "source": "dev",
-      "tag": "gemma4,  mcps",
-      "url": "https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-mcp-cloud-run-and-antigravity-cli-3ckn"
-    },
-    {
-      "title": "Closing the Trust Gap: Automating GKE Incident Response with Antigravity 2.0, GKE MCP, and Artifacts",
-      "hot": "❤️ 28 💬 0",
-      "desc": "Anatomy of the Trust Gap  Before we can talk about the solution, we need to talk honestly about how...",
-      "source": "dev",
-      "tag": "antigravity,  googlecloud",
-      "url": "https://dev.to/gde/closing-the-trust-gap-automating-gke-incident-response-with-antigravity-20-and-artifacts-21c9"
-    },
-    {
-      "title": "Omni Flash Preview with Codex",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article covers the MCP setup and configuration for using Google Omni Preview and underlying...",
-      "source": "dev",
-      "tag": "omniflash,  xcode",
-      "url": "https://dev.to/gde/omni-flash-preview-with-codex-3h17"
-    },
-    {
-      "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
-      "hot": "❤️ 1 💬 0",
-      "desc": "How to build grounded, validated user personas and turn them into agents that generate eval data, for when you cannot re",
-      "source": "dev",
-      "tag": "ai,  evals",
-      "url": "https://dev.to/ohkpond/not-enough-smes-or-customers-to-make-your-evals-make-some-11nc"
-    },
-    {
-      "title": "The biggest World’s Fair yet powers down for the moment",
-      "hot": "❤️ 13 💬 0",
-      "desc": "The AI Engineer World’s Fair has ended, and over 7,000 folks are heading back to their homes, states,...",
-      "source": "dev",
-      "tag": "aie,  ai",
-      "url": "https://dev.to/dailycontext/the-biggest-worlds-fair-yet-powers-down-for-the-moment-1jca"
     }
   ],
-  "updatedAt": "2026-07-07T20:19:35.167Z"
+  "updatedAt": "2026-07-07T21:47:58.706Z"
 }
