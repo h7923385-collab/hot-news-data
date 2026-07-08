@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 44 💬 25",
+      "hot": "❤️ 45 💬 26",
       "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
       "source": "dev",
       "tag": "top7,  discuss",
@@ -10,7 +10,7 @@
     },
     {
       "title": "Your Career Matters. So Does the Person Building It.",
-      "hot": "❤️ 66 💬 24",
+      "hot": "❤️ 67 💬 26",
       "desc": "TL;DR  Tech has taught me many things over the years. It taught me how to learn new technologies,...",
       "source": "dev",
       "tag": "discuss,  career",
@@ -34,7 +34,7 @@
     },
     {
       "title": "Master Local Fine-Tuning with \"gemma-trainer\"",
-      "hot": "❤️ 24 💬 4",
+      "hot": "❤️ 26 💬 7",
       "desc": "Take control of your AI models with our newest skill, designed to make local fine-tuning efficient.",
       "source": "dev",
       "tag": "gemma,  finetuning",
@@ -73,14 +73,6 @@
       "url": "https://dev.to/mattstratton/i-contain-multitudes-and-also-three-git-repos-33pf"
     },
     {
-      "title": "My AI agent tried to ship a mistake we'd already reverted",
-      "hot": "❤️ 12 💬 10",
-      "desc": "A month ago we added a card_token column to the users table so a background job could retry failed...",
-      "source": "dev",
-      "tag": "ai,  llm",
-      "url": "https://dev.to/masondelan/my-ai-agent-tried-to-ship-a-mistake-wed-already-reverted-4737"
-    },
-    {
       "title": "The Fragile Balance of AI Development: Individual Flow vs. Collective Context",
       "hot": "❤️ 12 💬 0",
       "desc": "As much AI-driven development has normalized, we are still in the Wild West. While we are closer to...",
@@ -114,7 +106,7 @@
     },
     {
       "title": "How I Fixed Supabase Storage RLS Errors That the Dashboard UI Couldn't Solve",
-      "hot": "❤️ 1 💬 4",
+      "hot": "❤️ 1 💬 5",
       "desc": "If you've ever spent hours staring at a 400 error on  a Supabase Storage upload despite having RLS...",
       "source": "dev",
       "tag": "supabase,  webdev",
@@ -159,7 +151,15 @@
       "source": "dev",
       "tag": "gemma4,  mcps",
       "url": "https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-mcp-cloud-run-and-antigravity-cli-3ckn"
+    },
+    {
+      "title": "Closing the Trust Gap: Automating GKE Incident Response with Antigravity 2.0, GKE MCP, and Artifacts",
+      "hot": "❤️ 28 💬 0",
+      "desc": "Anatomy of the Trust Gap  Before we can talk about the solution, we need to talk honestly about how...",
+      "source": "dev",
+      "tag": "antigravity,  googlecloud",
+      "url": "https://dev.to/gde/closing-the-trust-gap-automating-gke-incident-response-with-antigravity-20-and-artifacts-21c9"
     }
   ],
-  "updatedAt": "2026-07-08T01:15:39.618Z"
+  "updatedAt": "2026-07-08T04:37:53.707Z"
 }
