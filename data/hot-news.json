@@ -1,10 +1,416 @@
 {
-  "updatedAt": "2026-07-08T11:39:14.021Z",
+  "updatedAt": "2026-07-08T13:19:59.587Z",
   "source": "live",
+  "tech": [
+    {
+      "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+      "hot": "3.0m",
+      "desc": "tris.sherliker.net",
+      "source": "tech",
+      "tag": "⬆️ 569 points",
+      "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/"
+    },
+    {
+      "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
+      "hot": "3.0m",
+      "desc": "apple.com",
+      "source": "tech",
+      "tag": "⬆️ 84 points",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/"
+    },
+    {
+      "title": "How to Survive 3 Years in North Korea as a Foreigner",
+      "hot": "3.0m",
+      "desc": "mydiplomaticlife.com",
+      "source": "tech",
+      "tag": "⬆️ 42 points",
+      "url": "https://mydiplomaticlife.com/how-to-survive-3-years-in-north-korea-as-a-foreigner/"
+    },
+    {
+      "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+      "hot": "3.0m",
+      "desc": "noma.security",
+      "source": "tech",
+      "tag": "⬆️ 307 points",
+      "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/"
+    },
+    {
+      "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
+      "hot": "2.9m",
+      "desc": "neil.computer",
+      "source": "tech",
+      "tag": "⬆️ 241 points",
+      "url": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/"
+    },
+    {
+      "title": "Tiny data centre used to heat public swimming pool",
+      "hot": "2.9m",
+      "desc": "bbc.com",
+      "source": "tech",
+      "tag": "⬆️ 4 points",
+      "url": "https://www.bbc.com/news/technology-64939558"
+    },
+    {
+      "title": "EVE Online's Carbon engine is now open source: Fenris Creations explains why",
+      "hot": "2.9m",
+      "desc": "gamesindustry.biz",
+      "source": "tech",
+      "tag": "⬆️ 127 points",
+      "url": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why"
+    },
+    {
+      "title": "Geosql: A Claude/Codex skill for geospatial data",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 52 points",
+      "url": "https://github.com/dekart-xyz/geosql"
+    },
+    {
+      "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
+      "hot": "2.9m",
+      "desc": "kb.cert.org",
+      "source": "tech",
+      "tag": "⬆️ 262 points",
+      "url": "https://kb.cert.org/vuls/id/213560"
+    },
+    {
+      "title": "Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks",
+      "hot": "2.9m",
+      "desc": "digipres.org",
+      "source": "tech",
+      "tag": "⬆️ 115 points",
+      "url": "https://www.digipres.org/the-floppy-guide/"
+    },
+    {
+      "title": "Chat Control 1.0 and 2.0 Explained",
+      "hot": "2.9m",
+      "desc": "fightchatcontrol.eu",
+      "source": "tech",
+      "tag": "⬆️ 743 points",
+      "url": "https://fightchatcontrol.eu/chat-control-overview"
+    },
+    {
+      "title": "NoiseLang: Where N = 5 is a Dirac delta",
+      "hot": "2.8m",
+      "desc": "manualmeida.dev",
+      "source": "tech",
+      "tag": "⬆️ 24 points",
+      "url": "https://manualmeida.dev/articles/noiselang/"
+    },
+    {
+      "title": "Structure and Interpretation of Computer Programs Video Lectures (1986)",
+      "hot": "2.8m",
+      "desc": "ocw.mit.edu",
+      "source": "tech",
+      "tag": "⬆️ 209 points",
+      "url": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/"
+    },
+    {
+      "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
+      "hot": "2.8m",
+      "desc": "gao.gov",
+      "source": "tech",
+      "tag": "⬆️ 228 points",
+      "url": "https://www.gao.gov/products/gao-26-108193"
+    },
+    {
+      "title": "Ants: Who looks after the injured in a colony?",
+      "hot": "2.8m",
+      "desc": "uni-wuerzburg.de",
+      "source": "tech",
+      "tag": "⬆️ 45 points",
+      "url": "https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/ameisen-kolonie-verletzte-pflegt/"
+    },
+    {
+      "title": "Canada's only watchmaking school still ticking after 80 years",
+      "hot": "2.8m",
+      "desc": "cbc.ca",
+      "source": "tech",
+      "tag": "⬆️ 170 points",
+      "url": "https://www.cbc.ca/news/canada/montreal/canada-s-only-watchmaking-school-9.7254211"
+    },
+    {
+      "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
+      "hot": "2.8m",
+      "desc": "ariya.io",
+      "source": "tech",
+      "tag": "⬆️ 447 points",
+      "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/"
+    },
+    {
+      "title": "Japan's Hayabusa2 probe to conduct flyby of Torifune asteroid",
+      "hot": "2.7m",
+      "desc": "www3.nhk.or.jp",
+      "source": "tech",
+      "tag": "⬆️ 13 points",
+      "url": "https://www3.nhk.or.jp/nhkworld/en/news/20260705_01/"
+    },
+    {
+      "title": "Home made GPU escalated quickly [video]",
+      "hot": "2.7m",
+      "desc": "youtube.com",
+      "source": "tech",
+      "tag": "⬆️ 90 points",
+      "url": "https://www.youtube.com/watch?v=qMR3IXF2sWw"
+    },
+    {
+      "title": "The difference between \"today's task\" and \"accretive work\"",
+      "hot": "2.7m",
+      "desc": "pluralistic.net",
+      "source": "tech",
+      "tag": "⬆️ 80 points",
+      "url": "https://pluralistic.net/2026/07/02/canonization/"
+    }
+  ],
+  "github": [
+    {
+      "title": "elder-plinius/T3MP3ST: autonomous red teaming platform; multi-agent offensive-se",
+      "hot": "⭐ 3.6k",
+      "desc": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/elder-plinius/T3MP3ST"
+    },
+    {
+      "title": "x4gKing/X4G: ",
+      "hot": "⭐ 1.6k",
+      "desc": "x4gKing/X4G",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/x4gKing/X4G"
+    },
+    {
+      "title": "synthetic-sciences/openscience: The open-source AI workbench for scientific rese",
+      "hot": "⭐ 1.6k",
+      "desc": "The open-source AI workbench for scientific research",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/synthetic-sciences/openscience"
+    },
+    {
+      "title": "isjiamu/gzh-design-skill: 把 Markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 ",
+      "hot": "⭐ 1.4k",
+      "desc": "把 Markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 + 双关卡校验。An AI-agent skill that turns Markdown into paste-ready WeChat article HTML.",
+      "source": "github",
+      "tag": "HTML",
+      "url": "https://github.com/isjiamu/gzh-design-skill"
+    },
+    {
+      "title": "ammaarreshi/Generals-Mac-iOS-iPad: Command & Conquer Generals: Zero Hour running",
+      "hot": "⭐ 1.3k",
+      "desc": "Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer",
+      "source": "github",
+      "tag": "C++",
+      "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad"
+    },
+    {
+      "title": "Shpigford/knockoff: Chrome extension that filters pseudo-brand junk out of Amazo",
+      "hot": "⭐ 1.2k",
+      "desc": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/Shpigford/knockoff"
+    },
+    {
+      "title": "jamesob/local-llm: Everything I know about running LLMs locally",
+      "hot": "⭐ 1.2k",
+      "desc": "Everything I know about running LLMs locally",
+      "source": "github",
+      "tag": "Shell",
+      "url": "https://github.com/jamesob/local-llm"
+    },
+    {
+      "title": "MaximeRivest/riddle: The diary of Tom Riddle for the reMarkable Paper Pro — writ",
+      "hot": "⭐ 1.1k",
+      "desc": "The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/MaximeRivest/riddle"
+    },
+    {
+      "title": "xuchonglang/investing-for-beginners: 小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
+      "hot": "⭐ 1.1k",
+      "desc": "小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/xuchonglang/investing-for-beginners"
+    },
+    {
+      "title": "anthropics/jacobian-lens:  Companion code for the global workspace interpretabil",
+      "hot": "⭐ 771",
+      "desc": " Companion code for the global workspace interpretability paper",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/anthropics/jacobian-lens"
+    },
+    {
+      "title": "jmerelnyc/Talos: GPU worker client for the Talos network. Pairs with your Talos ",
+      "hot": "⭐ 721",
+      "desc": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payo",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/jmerelnyc/Talos"
+    },
+    {
+      "title": "514-labs/dnsglobe: Global DNS propagation checker TUI — watch a DNS record propa",
+      "hot": "⭐ 709",
+      "desc": "Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/514-labs/dnsglobe"
+    },
+    {
+      "title": "uzairansaruzi/hermex: Native iPhone app for your Hermes agent",
+      "hot": "⭐ 688",
+      "desc": "Native iPhone app for your Hermes agent",
+      "source": "github",
+      "tag": "Swift",
+      "url": "https://github.com/uzairansaruzi/hermex"
+    },
+    {
+      "title": "LinXiaoTao/FuckClaude: ",
+      "hot": "⭐ 687",
+      "desc": "LinXiaoTao/FuckClaude",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/LinXiaoTao/FuckClaude"
+    },
+    {
+      "title": "HKUDS/OpenOPC: OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self",
+      "hot": "⭐ 590",
+      "desc": "OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/HKUDS/OpenOPC"
+    }
+  ],
+  "space": [
+    {
+      "title": "Fi expands Starlink direct-to-device capability into dog-tracking",
+      "hot": "7/8",
+      "desc": "\nPet technology company Fi launched a dog tracker July 8 that uses T-Mobile’s Starlink-enabled T-Satellite service to remain connected across the Unit",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/fi-expands-starlink-direct-to-device-capability-into-dog-tracking/"
+    },
+    {
+      "title": "The satellite industry’s most expensive problem isn’t in orbit",
+      "hot": "7/8",
+      "desc": "\nAST SpaceMobile recently deployed three more BlueBird satellites into low Earth orbit as it advances plans for a space-based cellular broadband netwo",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/the-satellite-industrys-most-expensive-problem-isnt-in-orbit/"
+    },
+    {
+      "title": "Blue Origin, for the first time, is expected to raise private capital",
+      "hot": "7/8",
+      "desc": "The company is raising $10 billion, leading to a valuation of $130 billion.",
+      "source": "space",
+      "tag": "Arstechnica",
+      "url": "https://arstechnica.com/space/2026/07/blue-origin-for-the-first-time-is-expected-to-raise-private-capital/"
+    },
+    {
+      "title": "Deep space software upgrade for Hera’s asteroid visit",
+      "hot": "7/8",
+      "desc": "Operating across 140 million km of space, the control team for ESA’s Hera mission have succeeded in upgrading the software running it, leaving the spa",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/Space_Safety/Hera/Deep_space_software_upgrade_for_Hera_s_asteroid_visit"
+    },
+    {
+      "title": "Venus Aerospace raises $91 million to scale rocket engine technology",
+      "hot": "7/8",
+      "desc": "\nFunding will support development and production of the company’s rotating detonation rocket engine\nThe post Venus Aerospace raises $91 million to sca",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/venus-aerospace-raises-91-million-to-scale-rocket-engine-technology/"
+    },
+    {
+      "title": "Progress at the Cape: New Launch Pads rise for Stoke, Relativity",
+      "hot": "7/8",
+      "desc": "The Space Coast’s rejuvination continues apace, with multiple launch providers advancing new facilities at Cape…\nThe post Progress at the Cape: New La",
+      "source": "space",
+      "tag": "NASASpaceflight",
+      "url": "https://www.nasaspaceflight.com/2026/07/progress-cape-new-pads-stoke-relativity/"
+    },
+    {
+      "title": "The government’s options to address strained spaceports",
+      "hot": "7/8",
+      "desc": "\nThe May 28 explosion of a Blue Origin New Glenn rocket at Cape Canaveral’s Launch Complex 36 did more than destroy a rocket and severely damage a lau",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/the-governments-options-to-address-strained-spaceports/"
+    },
+    {
+      "title": "New European exercise device begins testing with first rope-pulling workout in space",
+      "hot": "7/8",
+      "desc": "ESA astronaut Sophie Adenot has begun testing the European Enhanced Exploration Exercise Device (E4D) on the International Space Station. Installed in",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/New_European_exercise_device_begins_testing_with_first_rope-pulling_workout_in_space"
+    },
+    {
+      "title": "Space Force adds Relativity, Impulse Space to national security launch program",
+      "hot": "7/8",
+      "desc": "\nThe NSSL Phase 3 Lane 1 program opens door to newer companies competing for military missions\nThe post Space Force adds Relativity, Impulse Space to ",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/space-force-adds-relativity-impulse-space-to-national-security-launch-program/"
+    },
+    {
+      "title": "Cottonwood Fire Chars Utah",
+      "hot": "7/8",
+      "desc": "The blaze burned more than 150 square miles and swept through parts of a ski resort.",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/earth/earth-observatory/cottonwood-fire-chars-utah/"
+    },
+    {
+      "title": "Skyroot prepares for first orbital launch attempt",
+      "hot": "7/8",
+      "desc": "Indian launch startup Skyroot Aerospace is preparing for its first orbital launch attempt as soon as July 12, with plans to quickly scale up to monthl",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/skyroot-prepares-for-first-orbital-launch-attempt/"
+    },
+    {
+      "title": "D-Orbit signs launch-services contract with ArkEdge Space",
+      "hot": "7/8",
+      "desc": "\nSAN FRANCISCO – Italian space logistics specialist D-Orbit will provide a series of launches aboard its ION Satellite Carrier for Japanese startup Ar",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/d-orbit-signs-launch-services-contract-with-arkedge-space/"
+    },
+    {
+      "title": "Orbit Fab hires new CEO and raises funding to support satellite refueling business",
+      "hot": "7/7",
+      "desc": "\nWith a new chief executive and funding round, satellite refueling company Orbit Fab hopes to make the transition from technology development to opera",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/orbit-fab-hires-new-ceo-and-raises-funding-to-support-satellite-refueling-business/"
+    },
+    {
+      "title": "RFA ONE Launch from SaxaVord Set for No Earlier Than 10 August",
+      "hot": "7/7",
+      "desc": "Almost two years after an RFA ONE first stage burst into flames during a static fire test, German rocket builder Rocket Factory Augsburg is preparing ",
+      "source": "space",
+      "tag": "European Spaceflight",
+      "url": "https://europeanspaceflight.com/rfa-one-launch-from-saxavord-set-for-no-earlier-than-10-august/"
+    },
+    {
+      "title": "Spirit Electronics Announces Managed Access to U.S.-Based Advanced Semiconductor Manufacturing for Aerospace and Defense Programs",
+      "hot": "7/7",
+      "desc": "\nPHOENIX, AZ — June 09, 2026 — Spirit Electronics today announced a new managed-access offering that provides aerospace and defense customers with a s",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/spirit-electronics-announces-managed-access-to-u-s-based-advanced-semiconductor-manufacturing-for-aerospace-and-defense-programs/"
+    }
+  ],
   "dev": [
     {
       "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 63 💬 34",
+      "hot": "❤️ 65 💬 35",
       "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
       "source": "dev",
       "tag": "top7,  discuss",
@@ -12,7 +418,7 @@
     },
     {
       "title": "Your Career Matters. So Does the Person Building It.",
-      "hot": "❤️ 74 💬 30",
+      "hot": "❤️ 74 💬 33",
       "desc": "TL;DR  Tech has taught me many things over the years. It taught me how to learn new technologies,...",
       "source": "dev",
       "tag": "discuss,  career",
@@ -20,7 +426,7 @@
     },
     {
       "title": "Being an engineer in the AI era",
-      "hot": "❤️ 39 💬 12",
+      "hot": "❤️ 39 💬 13",
       "desc": "I hesitated to write this.  Not because I don’t have an opinion about AI in software engineering, but...",
       "source": "dev",
       "tag": "ai,  discuss",
@@ -35,16 +441,8 @@
       "url": "https://dev.to/gde/omni-flash-preview-with-claude-code-53a5"
     },
     {
-      "title": "MCP Configuration for Looker with Antigravity CLI",
-      "hot": "❤️ 5 💬 0",
-      "desc": "This article covers the MCP setup and configuration for using Looker and underlying Gemini LLM with...",
-      "source": "dev",
-      "tag": "looker,  lookml",
-      "url": "https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d"
-    },
-    {
       "title": "Master Local Fine-Tuning with \"gemma-trainer\"",
-      "hot": "❤️ 29 💬 7",
+      "hot": "❤️ 32 💬 9",
       "desc": "Take control of your AI models with our newest skill, designed to make local fine-tuning efficient.",
       "source": "dev",
       "tag": "gemma,  finetuning",
@@ -52,15 +450,23 @@
     },
     {
       "title": "The Next DEV Weekend Challenge Launches on July 9 - 13. Mark Your Calendar!",
-      "hot": "❤️ 38 💬 5",
+      "hot": "❤️ 39 💬 5",
       "desc": "We're back with another installment of the DEV Weekend Challenge!  If you missed the earlier...",
       "source": "dev",
       "tag": "weekendchallenge,  devchallenge",
       "url": "https://dev.to/devteam/the-next-dev-weekend-challenge-launches-on-july-9-13-mark-your-calendar-2fcb"
     },
     {
+      "title": "MCP Configuration for Looker with Antigravity CLI",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article covers the MCP setup and configuration for using Looker and underlying Gemini LLM with...",
+      "source": "dev",
+      "tag": "looker,  lookml",
+      "url": "https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d"
+    },
+    {
       "title": "Agent Factory Recap: 100X engineering with AI agents in Google Antigravity 2.0",
-      "hot": "❤️ 14 💬 0",
+      "hot": "❤️ 16 💬 0",
       "desc": "In this episode of the Agent Factory, I sat down with Rody Davis, one of Google's top agentic...",
       "source": "dev",
       "tag": "agents,  ai",
@@ -161,412 +567,6 @@
       "source": "dev",
       "tag": "ai,  evals",
       "url": "https://dev.to/ohkpond/not-enough-smes-or-customers-to-make-your-evals-make-some-11nc"
-    }
-  ],
-  "tech": [
-    {
-      "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
-      "hot": "3.0m",
-      "desc": "tris.sherliker.net",
-      "source": "tech",
-      "tag": "⬆️ 319 points",
-      "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/"
-    },
-    {
-      "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-      "hot": "3.0m",
-      "desc": "noma.security",
-      "source": "tech",
-      "tag": "⬆️ 240 points",
-      "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/"
-    },
-    {
-      "title": "We Got This Wrong. and We Are Fixing It",
-      "hot": "3.0m",
-      "desc": "community.hubspot.com",
-      "source": "tech",
-      "tag": "⬆️ 9 points",
-      "url": "https://community.hubspot.com/t/we-got-this-wrong-and-we-are-fixing-it/152063"
-    },
-    {
-      "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
-      "hot": "3.0m",
-      "desc": "neil.computer",
-      "source": "tech",
-      "tag": "⬆️ 212 points",
-      "url": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/"
-    },
-    {
-      "title": "Geosql: A Claude/Codex skill for geospatial data",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 27 points",
-      "url": "https://github.com/dekart-xyz/geosql"
-    },
-    {
-      "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
-      "hot": "2.9m",
-      "desc": "kb.cert.org",
-      "source": "tech",
-      "tag": "⬆️ 236 points",
-      "url": "https://kb.cert.org/vuls/id/213560"
-    },
-    {
-      "title": "Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks",
-      "hot": "2.9m",
-      "desc": "digipres.org",
-      "source": "tech",
-      "tag": "⬆️ 91 points",
-      "url": "https://www.digipres.org/the-floppy-guide/"
-    },
-    {
-      "title": "EVE Online's Carbon engine is now open source: Fenris Creations explains why",
-      "hot": "2.9m",
-      "desc": "gamesindustry.biz",
-      "source": "tech",
-      "tag": "⬆️ 70 points",
-      "url": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why"
-    },
-    {
-      "title": "Structure and Interpretation of Computer Programs Video Lectures (1986)",
-      "hot": "2.9m",
-      "desc": "ocw.mit.edu",
-      "source": "tech",
-      "tag": "⬆️ 204 points",
-      "url": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/"
-    },
-    {
-      "title": "Chat Control 1.0 and 2.0 Explained",
-      "hot": "2.9m",
-      "desc": "fightchatcontrol.eu",
-      "source": "tech",
-      "tag": "⬆️ 700 points",
-      "url": "https://fightchatcontrol.eu/chat-control-overview"
-    },
-    {
-      "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
-      "hot": "2.9m",
-      "desc": "gao.gov",
-      "source": "tech",
-      "tag": "⬆️ 216 points",
-      "url": "https://www.gao.gov/products/gao-26-108193"
-    },
-    {
-      "title": "Canada's only watchmaking school still ticking after 80 years",
-      "hot": "2.8m",
-      "desc": "cbc.ca",
-      "source": "tech",
-      "tag": "⬆️ 157 points",
-      "url": "https://www.cbc.ca/news/canada/montreal/canada-s-only-watchmaking-school-9.7254211"
-    },
-    {
-      "title": "List of European organizations that have banned personal messaging apps at work",
-      "hot": "2.8m",
-      "desc": "birdy.chat",
-      "source": "tech",
-      "tag": "⬆️ 11 points",
-      "url": "https://www.birdy.chat/blog/the-growing-list-of-european-organisations-that-ban-personal-messaging-apps-at-work"
-    },
-    {
-      "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
-      "hot": "2.8m",
-      "desc": "ariya.io",
-      "source": "tech",
-      "tag": "⬆️ 432 points",
-      "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/"
-    },
-    {
-      "title": "Home made GPU escalated quickly [video]",
-      "hot": "2.8m",
-      "desc": "youtube.com",
-      "source": "tech",
-      "tag": "⬆️ 64 points",
-      "url": "https://www.youtube.com/watch?v=qMR3IXF2sWw"
-    },
-    {
-      "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
-      "hot": "2.8m",
-      "desc": "30papers.com",
-      "source": "tech",
-      "tag": "⬆️ 545 points",
-      "url": "https://30papers.com/"
-    },
-    {
-      "title": "Ants: Who looks after the injured in a colony?",
-      "hot": "2.8m",
-      "desc": "uni-wuerzburg.de",
-      "source": "tech",
-      "tag": "⬆️ 23 points",
-      "url": "https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/ameisen-kolonie-verletzte-pflegt/"
-    },
-    {
-      "title": "The difference between \"today's task\" and \"accretive work\"",
-      "hot": "2.7m",
-      "desc": "pluralistic.net",
-      "source": "tech",
-      "tag": "⬆️ 59 points",
-      "url": "https://pluralistic.net/2026/07/02/canonization/"
-    },
-    {
-      "title": "Show HN: Davit, a Apple Containers UI",
-      "hot": "2.7m",
-      "desc": "davit.app",
-      "source": "tech",
-      "tag": "⬆️ 320 points",
-      "url": "https://davit.app"
-    },
-    {
-      "title": "LineageOS Statistics",
-      "hot": "2.7m",
-      "desc": "stats.lineageos.org",
-      "source": "tech",
-      "tag": "⬆️ 112 points",
-      "url": "https://stats.lineageos.org"
-    }
-  ],
-  "github": [
-    {
-      "title": "elder-plinius/T3MP3ST: autonomous red teaming platform; multi-agent offensive-se",
-      "hot": "⭐ 3.6k",
-      "desc": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/elder-plinius/T3MP3ST"
-    },
-    {
-      "title": "synthetic-sciences/openscience: The open-source AI workbench for scientific rese",
-      "hot": "⭐ 1.6k",
-      "desc": "The open-source AI workbench for scientific research",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/synthetic-sciences/openscience"
-    },
-    {
-      "title": "x4gKing/X4G: ",
-      "hot": "⭐ 1.5k",
-      "desc": "x4gKing/X4G",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/x4gKing/X4G"
-    },
-    {
-      "title": "isjiamu/gzh-design-skill: 把 Markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 ",
-      "hot": "⭐ 1.4k",
-      "desc": "把 Markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 + 双关卡校验。An AI-agent skill that turns Markdown into paste-ready WeChat article HTML.",
-      "source": "github",
-      "tag": "HTML",
-      "url": "https://github.com/isjiamu/gzh-design-skill"
-    },
-    {
-      "title": "ammaarreshi/Generals-Mac-iOS-iPad: Command & Conquer Generals: Zero Hour running",
-      "hot": "⭐ 1.3k",
-      "desc": "Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer",
-      "source": "github",
-      "tag": "C++",
-      "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad"
-    },
-    {
-      "title": "jamesob/local-llm: Everything I know about running LLMs locally",
-      "hot": "⭐ 1.2k",
-      "desc": "Everything I know about running LLMs locally",
-      "source": "github",
-      "tag": "Shell",
-      "url": "https://github.com/jamesob/local-llm"
-    },
-    {
-      "title": "Shpigford/knockoff: Chrome extension that filters pseudo-brand junk out of Amazo",
-      "hot": "⭐ 1.2k",
-      "desc": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/Shpigford/knockoff"
-    },
-    {
-      "title": "MaximeRivest/riddle: The diary of Tom Riddle for the reMarkable Paper Pro — writ",
-      "hot": "⭐ 1.1k",
-      "desc": "The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/MaximeRivest/riddle"
-    },
-    {
-      "title": "xuchonglang/investing-for-beginners: 小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
-      "hot": "⭐ 1.0k",
-      "desc": "小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/xuchonglang/investing-for-beginners"
-    },
-    {
-      "title": "anthropics/jacobian-lens:  Companion code for the global workspace interpretabil",
-      "hot": "⭐ 750",
-      "desc": " Companion code for the global workspace interpretability paper",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/anthropics/jacobian-lens"
-    },
-    {
-      "title": "jmerelnyc/Talos: GPU worker client for the Talos network. Pairs with your Talos ",
-      "hot": "⭐ 721",
-      "desc": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payo",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/jmerelnyc/Talos"
-    },
-    {
-      "title": "514-labs/dnsglobe: Global DNS propagation checker TUI — watch a DNS record propa",
-      "hot": "⭐ 699",
-      "desc": "Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/514-labs/dnsglobe"
-    },
-    {
-      "title": "uzairansaruzi/hermex: Native iPhone app for your Hermes agent",
-      "hot": "⭐ 686",
-      "desc": "Native iPhone app for your Hermes agent",
-      "source": "github",
-      "tag": "Swift",
-      "url": "https://github.com/uzairansaruzi/hermex"
-    },
-    {
-      "title": "LinXiaoTao/FuckClaude: ",
-      "hot": "⭐ 685",
-      "desc": "LinXiaoTao/FuckClaude",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/LinXiaoTao/FuckClaude"
-    },
-    {
-      "title": "HKUDS/OpenOPC: OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self",
-      "hot": "⭐ 586",
-      "desc": "OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/HKUDS/OpenOPC"
-    }
-  ],
-  "space": [
-    {
-      "title": "The government’s options to address strained spaceports",
-      "hot": "7/8",
-      "desc": "\nThe May 28 explosion of a Blue Origin New Glenn rocket at Cape Canaveral’s Launch Complex 36 did more than destroy a rocket and severely damage a lau",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/the-governments-options-to-address-strained-spaceports/"
-    },
-    {
-      "title": "New European exercise device begins testing with first rope-pulling workout in space",
-      "hot": "7/8",
-      "desc": "ESA astronaut Sophie Adenot has begun testing the European Enhanced Exploration Exercise Device (E4D) on the International Space Station. Installed in",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/New_European_exercise_device_begins_testing_with_first_rope-pulling_workout_in_space"
-    },
-    {
-      "title": "Space Force adds Relativity, Impulse Space to national security launch program",
-      "hot": "7/8",
-      "desc": "\nThe NSSL Phase 3 Lane 1 program opens door to newer companies competing for military missions\nThe post Space Force adds Relativity, Impulse Space to ",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/space-force-adds-relativity-impulse-space-to-national-security-launch-program/"
-    },
-    {
-      "title": "Cottonwood Fire Chars Utah",
-      "hot": "7/8",
-      "desc": "The blaze burned more than 150 square miles and swept through parts of a ski resort.",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/earth/earth-observatory/cottonwood-fire-chars-utah/"
-    },
-    {
-      "title": "Skyroot prepares for first orbital launch attempt",
-      "hot": "7/8",
-      "desc": "Indian launch startup Skyroot Aerospace is preparing for its first orbital launch attempt as soon as July 12, with plans to quickly scale up to monthl",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/skyroot-prepares-for-first-orbital-launch-attempt/"
-    },
-    {
-      "title": "D-Orbit signs launch-services contract with ArkEdge Space",
-      "hot": "7/8",
-      "desc": "\nSAN FRANCISCO – Italian space logistics specialist D-Orbit will provide a series of launches aboard its ION Satellite Carrier for Japanese startup Ar",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/d-orbit-signs-launch-services-contract-with-arkedge-space/"
-    },
-    {
-      "title": "Orbit Fab hires new CEO and raises funding to support satellite refueling business",
-      "hot": "7/7",
-      "desc": "\nWith a new chief executive and funding round, satellite refueling company Orbit Fab hopes to make the transition from technology development to opera",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/orbit-fab-hires-new-ceo-and-raises-funding-to-support-satellite-refueling-business/"
-    },
-    {
-      "title": "RFA ONE Launch from SaxaVord Set for No Earlier Than 10 August",
-      "hot": "7/7",
-      "desc": "Almost two years after an RFA ONE first stage burst into flames during a static fire test, German rocket builder Rocket Factory Augsburg is preparing ",
-      "source": "space",
-      "tag": "European Spaceflight",
-      "url": "https://europeanspaceflight.com/rfa-one-launch-from-saxavord-set-for-no-earlier-than-10-august/"
-    },
-    {
-      "title": "Spirit Electronics Announces Managed Access to U.S.-Based Advanced Semiconductor Manufacturing for Aerospace and Defense Programs",
-      "hot": "7/7",
-      "desc": "\nPHOENIX, AZ — June 09, 2026 — Spirit Electronics today announced a new managed-access offering that provides aerospace and defense customers with a s",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/spirit-electronics-announces-managed-access-to-u-s-based-advanced-semiconductor-manufacturing-for-aerospace-and-defense-programs/"
-    },
-    {
-      "title": "Apolink makes contact with first relay satellite",
-      "hot": "7/7",
-      "desc": "\nApolink has made contact with its first satellite after launching on SpaceX’s July 7 rideshare mission, clearing the way for a data relay demonstrati",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/apolink-makes-contact-with-first-relay-satellite/"
-    },
-    {
-      "title": "NASA Transfers ‘Hundred Acre Wood’ to Patuxent Research Refuge",
-      "hot": "7/7",
-      "desc": "NASA ceremonially transferred ownership of about 105 acres of wooded land at its Goddard Space Flight Center’s Greenbelt, Maryland, campus Tuesday to ",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/centers-and-facilities/goddard/nasa-transfers-hundred-acre-wood-to-patuxent-research-refuge/"
-    },
-    {
-      "title": "Arianespace opens door to GEO rideshare opportunities from 2029",
-      "hot": "7/7",
-      "desc": "\nMILAN — Arianespace has signed a Memorandum of Understanding with French in-orbit servicing company Infinite Orbits to explore future collaboration o",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/arianespace-opens-door-to-geo-rideshare-opportunities-from-2029/"
-    },
-    {
-      "title": "NASA’s New Horizons Spacecraft Wakes from Hibernation in Good Health",
-      "hot": "7/7",
-      "desc": "Following its longest hibernation period ever of nearly a year, NASA’s New Horizons spacecraft has emerged in good health and is ready to begin transm",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/missions/new-horizons/nasas-new-horizons-spacecraft-wakes-from-hibernation-in-good-health/"
-    },
-    {
-      "title": "Artemis II Crew and Apollo 14 Moon Tree",
-      "hot": "7/7",
-      "desc": "In this photograph, the Artemis II crew participates in the dedication of the Apollo 14 Moon tree at the Lunar Receiving Park at NASA’s Johnson Space ",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/image-article/artemis-ii-crew-and-apollo-14-moon-tree/"
-    },
-    {
-      "title": "July 2026 Satellite Puzzler",
-      "hot": "7/7",
-      "desc": "Your challenge is to tell us the location of the satellite image and why it is interesting.",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/earth/earth-observatory/july-2026-satellite-puzzler/"
     }
   ]
 }
