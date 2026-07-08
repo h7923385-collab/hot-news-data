@@ -1,294 +1,10 @@
 {
-  "updatedAt": "2026-07-08T09:42:05.796Z",
+  "updatedAt": "2026-07-08T11:39:14.021Z",
   "source": "live",
-  "tech": [
-    {
-      "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-      "hot": "3.0m",
-      "desc": "noma.security",
-      "source": "tech",
-      "tag": "⬆️ 172 points",
-      "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/"
-    },
-    {
-      "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
-      "hot": "3.0m",
-      "desc": "tris.sherliker.net",
-      "source": "tech",
-      "tag": "⬆️ 31 points",
-      "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/"
-    },
-    {
-      "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
-      "hot": "3.0m",
-      "desc": "neil.computer",
-      "source": "tech",
-      "tag": "⬆️ 190 points",
-      "url": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/"
-    },
-    {
-      "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
-      "hot": "3.0m",
-      "desc": "kb.cert.org",
-      "source": "tech",
-      "tag": "⬆️ 209 points",
-      "url": "https://kb.cert.org/vuls/id/213560"
-    },
-    {
-      "title": "Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks",
-      "hot": "2.9m",
-      "desc": "digipres.org",
-      "source": "tech",
-      "tag": "⬆️ 75 points",
-      "url": "https://www.digipres.org/the-floppy-guide/"
-    },
-    {
-      "title": "Structure and Interpretation of Computer Programs Video Lectures (1986)",
-      "hot": "2.9m",
-      "desc": "ocw.mit.edu",
-      "source": "tech",
-      "tag": "⬆️ 173 points",
-      "url": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/"
-    },
-    {
-      "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
-      "hot": "2.9m",
-      "desc": "gao.gov",
-      "source": "tech",
-      "tag": "⬆️ 202 points",
-      "url": "https://www.gao.gov/products/gao-26-108193"
-    },
-    {
-      "title": "Chat Control 1.0 and 2.0 Explained",
-      "hot": "2.9m",
-      "desc": "fightchatcontrol.eu",
-      "source": "tech",
-      "tag": "⬆️ 650 points",
-      "url": "https://fightchatcontrol.eu/chat-control-overview"
-    },
-    {
-      "title": "Canada's only watchmaking school still ticking after 80 years",
-      "hot": "2.9m",
-      "desc": "cbc.ca",
-      "source": "tech",
-      "tag": "⬆️ 140 points",
-      "url": "https://www.cbc.ca/news/canada/montreal/canada-s-only-watchmaking-school-9.7254211"
-    },
-    {
-      "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
-      "hot": "2.9m",
-      "desc": "ariya.io",
-      "source": "tech",
-      "tag": "⬆️ 405 points",
-      "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/"
-    },
-    {
-      "title": "The difference between \"today's task\" and \"accretive work\"",
-      "hot": "2.9m",
-      "desc": "pluralistic.net",
-      "source": "tech",
-      "tag": "⬆️ 47 points",
-      "url": "https://pluralistic.net/2026/07/02/canonization/"
-    },
-    {
-      "title": "LineageOS Statistics",
-      "hot": "2.8m",
-      "desc": "stats.lineageos.org",
-      "source": "tech",
-      "tag": "⬆️ 90 points",
-      "url": "https://stats.lineageos.org"
-    },
-    {
-      "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
-      "hot": "2.8m",
-      "desc": "30papers.com",
-      "source": "tech",
-      "tag": "⬆️ 514 points",
-      "url": "https://30papers.com/"
-    },
-    {
-      "title": "Home made GPU escalated quickly [video]",
-      "hot": "2.8m",
-      "desc": "youtube.com",
-      "source": "tech",
-      "tag": "⬆️ 34 points",
-      "url": "https://www.youtube.com/watch?v=qMR3IXF2sWw"
-    },
-    {
-      "title": "Herdr: One terminal to rule them all",
-      "hot": "2.8m",
-      "desc": "herdr.dev",
-      "source": "tech",
-      "tag": "⬆️ 281 points",
-      "url": "https://herdr.dev/"
-    },
-    {
-      "title": "Show HN: Davit, a Apple Containers UI",
-      "hot": "2.8m",
-      "desc": "davit.app",
-      "source": "tech",
-      "tag": "⬆️ 308 points",
-      "url": "https://davit.app"
-    },
-    {
-      "title": "Ants: Who looks after the injured in a colony?",
-      "hot": "2.8m",
-      "desc": "uni-wuerzburg.de",
-      "source": "tech",
-      "tag": "⬆️ 11 points",
-      "url": "https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/ameisen-kolonie-verletzte-pflegt/"
-    },
-    {
-      "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
-      "hot": "2.7m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 158 points",
-      "url": "https://github.com/rowboatlabs/rowboat"
-    },
-    {
-      "title": "l: A new runtime for k and q",
-      "hot": "2.7m",
-      "desc": "lv1.sh",
-      "source": "tech",
-      "tag": "⬆️ 142 points",
-      "url": "https://lv1.sh/"
-    },
-    {
-      "title": "IEEE Rolls Out Large Language Models Training Course",
-      "hot": "2.7m",
-      "desc": "spectrum.ieee.org",
-      "source": "tech",
-      "tag": "⬆️ 72 points",
-      "url": "https://spectrum.ieee.org/large-language-models-ieee-course"
-    }
-  ],
-  "github": [
-    {
-      "title": "elder-plinius/T3MP3ST: autonomous red teaming platform; multi-agent offensive-se",
-      "hot": "⭐ 3.6k",
-      "desc": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/elder-plinius/T3MP3ST"
-    },
-    {
-      "title": "synthetic-sciences/openscience: The open-source AI workbench for scientific rese",
-      "hot": "⭐ 1.6k",
-      "desc": "The open-source AI workbench for scientific research",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/synthetic-sciences/openscience"
-    },
-    {
-      "title": "isjiamu/gzh-design-skill: 把 Markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 ",
-      "hot": "⭐ 1.3k",
-      "desc": "把 Markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 + 双关卡校验。An AI-agent skill that turns Markdown into paste-ready WeChat article HTML.",
-      "source": "github",
-      "tag": "HTML",
-      "url": "https://github.com/isjiamu/gzh-design-skill"
-    },
-    {
-      "title": "ammaarreshi/Generals-Mac-iOS-iPad: Command & Conquer Generals: Zero Hour running",
-      "hot": "⭐ 1.3k",
-      "desc": "Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer",
-      "source": "github",
-      "tag": "C++",
-      "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad"
-    },
-    {
-      "title": "x4gKing/X4G: ",
-      "hot": "⭐ 1.3k",
-      "desc": "x4gKing/X4G",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/x4gKing/X4G"
-    },
-    {
-      "title": "jamesob/local-llm: Everything I know about running LLMs locally",
-      "hot": "⭐ 1.2k",
-      "desc": "Everything I know about running LLMs locally",
-      "source": "github",
-      "tag": "Shell",
-      "url": "https://github.com/jamesob/local-llm"
-    },
-    {
-      "title": "Shpigford/knockoff: Chrome extension that filters pseudo-brand junk out of Amazo",
-      "hot": "⭐ 1.2k",
-      "desc": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/Shpigford/knockoff"
-    },
-    {
-      "title": "MaximeRivest/riddle: The diary of Tom Riddle for the reMarkable Paper Pro — writ",
-      "hot": "⭐ 1.1k",
-      "desc": "The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/MaximeRivest/riddle"
-    },
-    {
-      "title": "xuchonglang/investing-for-beginners: 小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
-      "hot": "⭐ 1.0k",
-      "desc": "小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/xuchonglang/investing-for-beginners"
-    },
-    {
-      "title": "anthropics/jacobian-lens:  Companion code for the global workspace interpretabil",
-      "hot": "⭐ 721",
-      "desc": " Companion code for the global workspace interpretability paper",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/anthropics/jacobian-lens"
-    },
-    {
-      "title": "jmerelnyc/Talos: GPU worker client for the Talos network. Pairs with your Talos ",
-      "hot": "⭐ 721",
-      "desc": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payo",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/jmerelnyc/Talos"
-    },
-    {
-      "title": "514-labs/dnsglobe: Global DNS propagation checker TUI — watch a DNS record propa",
-      "hot": "⭐ 698",
-      "desc": "Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/514-labs/dnsglobe"
-    },
-    {
-      "title": "uzairansaruzi/hermex: Native iPhone app for your Hermes agent",
-      "hot": "⭐ 685",
-      "desc": "Native iPhone app for your Hermes agent",
-      "source": "github",
-      "tag": "Swift",
-      "url": "https://github.com/uzairansaruzi/hermex"
-    },
-    {
-      "title": "LinXiaoTao/FuckClaude: ",
-      "hot": "⭐ 681",
-      "desc": "LinXiaoTao/FuckClaude",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/LinXiaoTao/FuckClaude"
-    },
-    {
-      "title": "HKUDS/OpenOPC: OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self",
-      "hot": "⭐ 584",
-      "desc": "OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/HKUDS/OpenOPC"
-    }
-  ],
   "dev": [
     {
       "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 57 💬 34",
+      "hot": "❤️ 63 💬 34",
       "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
       "source": "dev",
       "tag": "top7,  discuss",
@@ -296,7 +12,7 @@
     },
     {
       "title": "Your Career Matters. So Does the Person Building It.",
-      "hot": "❤️ 73 💬 27",
+      "hot": "❤️ 74 💬 30",
       "desc": "TL;DR  Tech has taught me many things over the years. It taught me how to learn new technologies,...",
       "source": "dev",
       "tag": "discuss,  career",
@@ -304,7 +20,7 @@
     },
     {
       "title": "Being an engineer in the AI era",
-      "hot": "❤️ 33 💬 12",
+      "hot": "❤️ 39 💬 12",
       "desc": "I hesitated to write this.  Not because I don’t have an opinion about AI in software engineering, but...",
       "source": "dev",
       "tag": "ai,  discuss",
@@ -328,7 +44,7 @@
     },
     {
       "title": "Master Local Fine-Tuning with \"gemma-trainer\"",
-      "hot": "❤️ 27 💬 7",
+      "hot": "❤️ 29 💬 7",
       "desc": "Take control of your AI models with our newest skill, designed to make local fine-tuning efficient.",
       "source": "dev",
       "tag": "gemma,  finetuning",
@@ -357,14 +73,6 @@
       "source": "dev",
       "tag": "astro,  webdev",
       "url": "https://dev.to/mattstratton/i-contain-multitudes-and-also-three-git-repos-33pf"
-    },
-    {
-      "title": "The Fragile Balance of AI Development: Individual Flow vs. Collective Context",
-      "hot": "❤️ 12 💬 0",
-      "desc": "As much AI-driven development has normalized, we are still in the Wild West. While we are closer to...",
-      "source": "dev",
-      "tag": "aie,  agents",
-      "url": "https://dev.to/dailycontext/the-fragile-balance-of-ai-development-individual-flow-vs-collective-context-2f49"
     },
     {
       "title": "Two-day hackathon kicks off AI Engineer World’s Fair",
@@ -445,9 +153,317 @@
       "source": "dev",
       "tag": "omniflash,  xcode",
       "url": "https://dev.to/gde/omni-flash-preview-with-codex-3h17"
+    },
+    {
+      "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
+      "hot": "❤️ 1 💬 0",
+      "desc": "How to build grounded, validated user personas and turn them into agents that generate eval data, for when you cannot re",
+      "source": "dev",
+      "tag": "ai,  evals",
+      "url": "https://dev.to/ohkpond/not-enough-smes-or-customers-to-make-your-evals-make-some-11nc"
+    }
+  ],
+  "tech": [
+    {
+      "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+      "hot": "3.0m",
+      "desc": "tris.sherliker.net",
+      "source": "tech",
+      "tag": "⬆️ 319 points",
+      "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/"
+    },
+    {
+      "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+      "hot": "3.0m",
+      "desc": "noma.security",
+      "source": "tech",
+      "tag": "⬆️ 240 points",
+      "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/"
+    },
+    {
+      "title": "We Got This Wrong. and We Are Fixing It",
+      "hot": "3.0m",
+      "desc": "community.hubspot.com",
+      "source": "tech",
+      "tag": "⬆️ 9 points",
+      "url": "https://community.hubspot.com/t/we-got-this-wrong-and-we-are-fixing-it/152063"
+    },
+    {
+      "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
+      "hot": "3.0m",
+      "desc": "neil.computer",
+      "source": "tech",
+      "tag": "⬆️ 212 points",
+      "url": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/"
+    },
+    {
+      "title": "Geosql: A Claude/Codex skill for geospatial data",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 27 points",
+      "url": "https://github.com/dekart-xyz/geosql"
+    },
+    {
+      "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
+      "hot": "2.9m",
+      "desc": "kb.cert.org",
+      "source": "tech",
+      "tag": "⬆️ 236 points",
+      "url": "https://kb.cert.org/vuls/id/213560"
+    },
+    {
+      "title": "Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks",
+      "hot": "2.9m",
+      "desc": "digipres.org",
+      "source": "tech",
+      "tag": "⬆️ 91 points",
+      "url": "https://www.digipres.org/the-floppy-guide/"
+    },
+    {
+      "title": "EVE Online's Carbon engine is now open source: Fenris Creations explains why",
+      "hot": "2.9m",
+      "desc": "gamesindustry.biz",
+      "source": "tech",
+      "tag": "⬆️ 70 points",
+      "url": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why"
+    },
+    {
+      "title": "Structure and Interpretation of Computer Programs Video Lectures (1986)",
+      "hot": "2.9m",
+      "desc": "ocw.mit.edu",
+      "source": "tech",
+      "tag": "⬆️ 204 points",
+      "url": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/"
+    },
+    {
+      "title": "Chat Control 1.0 and 2.0 Explained",
+      "hot": "2.9m",
+      "desc": "fightchatcontrol.eu",
+      "source": "tech",
+      "tag": "⬆️ 700 points",
+      "url": "https://fightchatcontrol.eu/chat-control-overview"
+    },
+    {
+      "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
+      "hot": "2.9m",
+      "desc": "gao.gov",
+      "source": "tech",
+      "tag": "⬆️ 216 points",
+      "url": "https://www.gao.gov/products/gao-26-108193"
+    },
+    {
+      "title": "Canada's only watchmaking school still ticking after 80 years",
+      "hot": "2.8m",
+      "desc": "cbc.ca",
+      "source": "tech",
+      "tag": "⬆️ 157 points",
+      "url": "https://www.cbc.ca/news/canada/montreal/canada-s-only-watchmaking-school-9.7254211"
+    },
+    {
+      "title": "List of European organizations that have banned personal messaging apps at work",
+      "hot": "2.8m",
+      "desc": "birdy.chat",
+      "source": "tech",
+      "tag": "⬆️ 11 points",
+      "url": "https://www.birdy.chat/blog/the-growing-list-of-european-organisations-that-ban-personal-messaging-apps-at-work"
+    },
+    {
+      "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
+      "hot": "2.8m",
+      "desc": "ariya.io",
+      "source": "tech",
+      "tag": "⬆️ 432 points",
+      "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/"
+    },
+    {
+      "title": "Home made GPU escalated quickly [video]",
+      "hot": "2.8m",
+      "desc": "youtube.com",
+      "source": "tech",
+      "tag": "⬆️ 64 points",
+      "url": "https://www.youtube.com/watch?v=qMR3IXF2sWw"
+    },
+    {
+      "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
+      "hot": "2.8m",
+      "desc": "30papers.com",
+      "source": "tech",
+      "tag": "⬆️ 545 points",
+      "url": "https://30papers.com/"
+    },
+    {
+      "title": "Ants: Who looks after the injured in a colony?",
+      "hot": "2.8m",
+      "desc": "uni-wuerzburg.de",
+      "source": "tech",
+      "tag": "⬆️ 23 points",
+      "url": "https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/ameisen-kolonie-verletzte-pflegt/"
+    },
+    {
+      "title": "The difference between \"today's task\" and \"accretive work\"",
+      "hot": "2.7m",
+      "desc": "pluralistic.net",
+      "source": "tech",
+      "tag": "⬆️ 59 points",
+      "url": "https://pluralistic.net/2026/07/02/canonization/"
+    },
+    {
+      "title": "Show HN: Davit, a Apple Containers UI",
+      "hot": "2.7m",
+      "desc": "davit.app",
+      "source": "tech",
+      "tag": "⬆️ 320 points",
+      "url": "https://davit.app"
+    },
+    {
+      "title": "LineageOS Statistics",
+      "hot": "2.7m",
+      "desc": "stats.lineageos.org",
+      "source": "tech",
+      "tag": "⬆️ 112 points",
+      "url": "https://stats.lineageos.org"
+    }
+  ],
+  "github": [
+    {
+      "title": "elder-plinius/T3MP3ST: autonomous red teaming platform; multi-agent offensive-se",
+      "hot": "⭐ 3.6k",
+      "desc": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/elder-plinius/T3MP3ST"
+    },
+    {
+      "title": "synthetic-sciences/openscience: The open-source AI workbench for scientific rese",
+      "hot": "⭐ 1.6k",
+      "desc": "The open-source AI workbench for scientific research",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/synthetic-sciences/openscience"
+    },
+    {
+      "title": "x4gKing/X4G: ",
+      "hot": "⭐ 1.5k",
+      "desc": "x4gKing/X4G",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/x4gKing/X4G"
+    },
+    {
+      "title": "isjiamu/gzh-design-skill: 把 Markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 ",
+      "hot": "⭐ 1.4k",
+      "desc": "把 Markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 + 双关卡校验。An AI-agent skill that turns Markdown into paste-ready WeChat article HTML.",
+      "source": "github",
+      "tag": "HTML",
+      "url": "https://github.com/isjiamu/gzh-design-skill"
+    },
+    {
+      "title": "ammaarreshi/Generals-Mac-iOS-iPad: Command & Conquer Generals: Zero Hour running",
+      "hot": "⭐ 1.3k",
+      "desc": "Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer",
+      "source": "github",
+      "tag": "C++",
+      "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad"
+    },
+    {
+      "title": "jamesob/local-llm: Everything I know about running LLMs locally",
+      "hot": "⭐ 1.2k",
+      "desc": "Everything I know about running LLMs locally",
+      "source": "github",
+      "tag": "Shell",
+      "url": "https://github.com/jamesob/local-llm"
+    },
+    {
+      "title": "Shpigford/knockoff: Chrome extension that filters pseudo-brand junk out of Amazo",
+      "hot": "⭐ 1.2k",
+      "desc": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/Shpigford/knockoff"
+    },
+    {
+      "title": "MaximeRivest/riddle: The diary of Tom Riddle for the reMarkable Paper Pro — writ",
+      "hot": "⭐ 1.1k",
+      "desc": "The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/MaximeRivest/riddle"
+    },
+    {
+      "title": "xuchonglang/investing-for-beginners: 小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
+      "hot": "⭐ 1.0k",
+      "desc": "小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/xuchonglang/investing-for-beginners"
+    },
+    {
+      "title": "anthropics/jacobian-lens:  Companion code for the global workspace interpretabil",
+      "hot": "⭐ 750",
+      "desc": " Companion code for the global workspace interpretability paper",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/anthropics/jacobian-lens"
+    },
+    {
+      "title": "jmerelnyc/Talos: GPU worker client for the Talos network. Pairs with your Talos ",
+      "hot": "⭐ 721",
+      "desc": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payo",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/jmerelnyc/Talos"
+    },
+    {
+      "title": "514-labs/dnsglobe: Global DNS propagation checker TUI — watch a DNS record propa",
+      "hot": "⭐ 699",
+      "desc": "Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/514-labs/dnsglobe"
+    },
+    {
+      "title": "uzairansaruzi/hermex: Native iPhone app for your Hermes agent",
+      "hot": "⭐ 686",
+      "desc": "Native iPhone app for your Hermes agent",
+      "source": "github",
+      "tag": "Swift",
+      "url": "https://github.com/uzairansaruzi/hermex"
+    },
+    {
+      "title": "LinXiaoTao/FuckClaude: ",
+      "hot": "⭐ 685",
+      "desc": "LinXiaoTao/FuckClaude",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/LinXiaoTao/FuckClaude"
+    },
+    {
+      "title": "HKUDS/OpenOPC: OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self",
+      "hot": "⭐ 586",
+      "desc": "OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/HKUDS/OpenOPC"
     }
   ],
   "space": [
+    {
+      "title": "The government’s options to address strained spaceports",
+      "hot": "7/8",
+      "desc": "\nThe May 28 explosion of a Blue Origin New Glenn rocket at Cape Canaveral’s Launch Complex 36 did more than destroy a rocket and severely damage a lau",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/the-governments-options-to-address-strained-spaceports/"
+    },
+    {
+      "title": "New European exercise device begins testing with first rope-pulling workout in space",
+      "hot": "7/8",
+      "desc": "ESA astronaut Sophie Adenot has begun testing the European Enhanced Exploration Exercise Device (E4D) on the International Space Station. Installed in",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/New_European_exercise_device_begins_testing_with_first_rope-pulling_workout_in_space"
+    },
     {
       "title": "Space Force adds Relativity, Impulse Space to national security launch program",
       "hot": "7/8",
@@ -551,22 +567,6 @@
       "source": "space",
       "tag": "NASA",
       "url": "https://science.nasa.gov/earth/earth-observatory/july-2026-satellite-puzzler/"
-    },
-    {
-      "title": "SpaceX launches Transporter-17 amid concerns about rideshare program’s future",
-      "hot": "7/7",
-      "desc": "SpaceX launched the latest in its Transporter series of rideshare missions July 7 as industry concerns about the program’s future reach what one rival",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/spacex-launches-transporter-17-amid-concerns-about-rideshare-programs-future/"
-    },
-    {
-      "title": "Isar Aerospace Signs US$112.5M Deal for Dedicated Launch Site in Canada",
-      "hot": "7/7",
-      "desc": "German rocket builder Isar Aerospace has signed an agreement with Canada’s Maritime Launch Services to develop a dedicated launch facility at Spacepor",
-      "source": "space",
-      "tag": "European Spaceflight",
-      "url": "https://europeanspaceflight.com/isar-aerospace-signs-us112-5m-deal-for-dedicated-launch-site-in-canada/"
     }
   ]
 }
