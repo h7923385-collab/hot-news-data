@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 69 💬 38",
+      "hot": "❤️ 70 💬 38",
       "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
       "source": "dev",
       "tag": "top7,  discuss",
@@ -10,7 +10,7 @@
     },
     {
       "title": "Has the audience for technical articles dropped?",
-      "hot": "❤️ 22 💬 8",
+      "hot": "❤️ 24 💬 10",
       "desc": "Is it just me, or has anyone noticed that articles on dev.to don't get as many reads/views as they...",
       "source": "dev",
       "tag": "discuss",
@@ -18,19 +18,11 @@
     },
     {
       "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
-      "hot": "❤️ 38 💬 13",
+      "hot": "❤️ 42 💬 14",
       "desc": "Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...",
       "source": "dev",
       "tag": "ai,  webdev",
       "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec"
-    },
-    {
-      "title": "Bigger Context Windows Didn't Make Our RAG Smarter",
-      "hot": "❤️ 16 💬 13",
-      "desc": "We stopped measuring retrieval quality by how many tokens we could fit into the prompt.  When...",
-      "source": "dev",
-      "tag": "ai,  llm",
-      "url": "https://dev.to/valerykot/bigger-context-windows-didnt-make-our-rag-smarter-4d0l"
     },
     {
       "title": "Your Career Matters. So Does the Person Building It.",
@@ -57,12 +49,12 @@
       "url": "https://dev.to/devteam/devs-summer-bug-smash-launches-on-july-14-register-now-3g2n"
     },
     {
-      "title": "Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI",
-      "hot": "❤️ 5 💬 0",
-      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
+      "title": "A New Developer Platform for Agent-Human Collaboration",
+      "hot": "❤️ 74 💬 8",
+      "desc": "We've entered a new coding paradigm. Agents can now generate full features at a pace that outstrips...",
       "source": "dev",
-      "tag": "googleantigravity,  python",
-      "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82"
+      "tag": "ai,  agents",
+      "url": "https://dev.to/entire/a-new-developer-platform-for-agent-human-collaboration-f1h"
     },
     {
       "title": "A Pragmatic Look at AI in 2030",
@@ -73,16 +65,8 @@
       "url": "https://dev.to/link2twenty/a-pragmatic-look-at-ai-in-2030-3n6h"
     },
     {
-      "title": "A New Developer Platform for Agent-Human Collaboration",
-      "hot": "❤️ 65 💬 7",
-      "desc": "We've entered a new coding paradigm. Agents can now generate full features at a pace that outstrips...",
-      "source": "dev",
-      "tag": "ai,  agents",
-      "url": "https://dev.to/entire/a-new-developer-platform-for-agent-human-collaboration-f1h"
-    },
-    {
       "title": "Welcome Thread - v383",
-      "hot": "❤️ 24 💬 77",
+      "hot": "❤️ 27 💬 79",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
@@ -97,8 +81,16 @@
       "url": "https://dev.to/cloudinary/cloudinarys-new-image-generation-api-one-api-multiple-ai-models-and-built-in-asset-management-3ldl"
     },
     {
+      "title": "Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
+      "source": "dev",
+      "tag": "googleantigravity,  python",
+      "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82"
+    },
+    {
       "title": "Being an engineer in the AI era",
-      "hot": "❤️ 41 💬 18",
+      "hot": "❤️ 42 💬 19",
       "desc": "I hesitated to write this.  Not because I don’t have an opinion about AI in software engineering, but...",
       "source": "dev",
       "tag": "ai,  discuss",
@@ -129,6 +121,14 @@
       "url": "https://dev.to/googleai/agent-factory-recap-100x-engineering-with-ai-agents-in-google-antigravity-20-4p4j"
     },
     {
+      "title": "Bigger Context Windows Didn't Make Our RAG Smarter",
+      "hot": "❤️ 17 💬 14",
+      "desc": "We stopped measuring retrieval quality by how many tokens we could fit into the prompt.  When...",
+      "source": "dev",
+      "tag": "ai,  llm",
+      "url": "https://dev.to/valerykot/bigger-context-windows-didnt-make-our-rag-smarter-4d0l"
+    },
+    {
       "title": "I Contain Multitudes (and Also Three Git Repos)",
       "hot": "❤️ 23 💬 6",
       "desc": "A tour of the stack behind mattstratton.com and speaking.mattstratton.com: a monorepo holding two Astro sites and a dev.",
@@ -146,7 +146,7 @@
     },
     {
       "title": "Master Local Fine-Tuning with \"gemma-trainer\"",
-      "hot": "❤️ 33 💬 10",
+      "hot": "❤️ 34 💬 10",
       "desc": "Take control of your AI models with our newest skill, designed to make local fine-tuning efficient.",
       "source": "dev",
       "tag": "gemma,  finetuning",
@@ -161,5 +161,5 @@
       "url": "https://dev.to/sylwia-lask/whats-next-for-ai-219i"
     }
   ],
-  "updatedAt": "2026-07-09T11:49:02.308Z"
+  "updatedAt": "2026-07-09T14:20:10.671Z"
 }
