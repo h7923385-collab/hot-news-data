@@ -1,53 +1,53 @@
 {
-  "updatedAt": "2026-07-11T15:26:44.650Z",
+  "updatedAt": "2026-07-11T16:14:24.089Z",
   "source": "live",
   "tech": [
     {
-      "title": "Networking and the Internet, from First Principles",
+      "title": "We scaled PgBouncer to 4x throughput",
       "hot": "3.0m",
-      "desc": "fazamhd.com",
+      "desc": "clickhouse.com",
       "source": "tech",
-      "tag": "⬆️ 153 points",
-      "url": "https://fazamhd.com/mental-models/networking/"
-    },
-    {
-      "title": "Your code is fast – if you're lucky",
-      "hot": "3.0m",
-      "desc": "tiki.li",
-      "source": "tech",
-      "tag": "⬆️ 92 points",
-      "url": "https://tiki.li/blog/lucky_code.html"
+      "tag": "⬆️ 34 points",
+      "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres"
     },
     {
       "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
       "hot": "3.0m",
       "desc": "brown.edu",
       "source": "tech",
-      "tag": "⬆️ 321 points",
+      "tag": "⬆️ 335 points",
       "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity"
     },
     {
-      "title": "QuadRF can spot drones and see WiFi through my wall",
+      "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
       "hot": "3.0m",
-      "desc": "jeffgeerling.com",
+      "desc": "math.ucdavis.edu",
       "source": "tech",
-      "tag": "⬆️ 662 points",
-      "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/"
+      "tag": "⬆️ 7 points",
+      "url": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf"
     },
     {
       "title": "Speculations Concerning the First Ultraintelligent Machine (1965) [pdf]",
-      "hot": "2.9m",
+      "hot": "3.0m",
       "desc": "languagelog.ldc.upenn.edu",
       "source": "tech",
-      "tag": "⬆️ 30 points",
+      "tag": "⬆️ 47 points",
       "url": "https://languagelog.ldc.upenn.edu/myl/Good1964.pdf"
+    },
+    {
+      "title": "QuadRF can spot drones and see WiFi through my wall",
+      "hot": "2.9m",
+      "desc": "jeffgeerling.com",
+      "source": "tech",
+      "tag": "⬆️ 670 points",
+      "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/"
     },
     {
       "title": "Google Search lets creators know more about their reach",
       "hot": "2.9m",
       "desc": "theverge.com",
       "source": "tech",
-      "tag": "⬆️ 53 points",
+      "tag": "⬆️ 60 points",
       "url": "https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties"
     },
     {
@@ -55,7 +55,7 @@
       "hot": "2.9m",
       "desc": "9to5mac.com",
       "source": "tech",
-      "tag": "⬆️ 1326 points",
+      "tag": "⬆️ 1365 points",
       "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/"
     },
     {
@@ -63,104 +63,104 @@
       "hot": "2.9m",
       "desc": "alexandrepoupeau.com",
       "source": "tech",
-      "tag": "⬆️ 64 points",
+      "tag": "⬆️ 67 points",
       "url": "https://alexandrepoupeau.com/otary/learn/"
-    },
-    {
-      "title": "FCC approves test of space mirror to light night sky",
-      "hot": "2.9m",
-      "desc": "theconversation.com",
-      "source": "tech",
-      "tag": "⬆️ 57 points",
-      "url": "https://theconversation.com/the-u-s-just-approved-a-giant-space-mirror-to-test-sunlight-on-demand-low-earth-orbit-is-getting-weird-283482"
-    },
-    {
-      "title": "An update on residential proxies and the scraper situation",
-      "hot": "2.9m",
-      "desc": "lwn.net",
-      "source": "tech",
-      "tag": "⬆️ 260 points",
-      "url": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/"
     },
     {
       "title": "Book: RISC-V System-on-Chip Design",
       "hot": "2.9m",
       "desc": "amazon.com",
       "source": "tech",
-      "tag": "⬆️ 25 points",
+      "tag": "⬆️ 38 points",
       "url": "https://www.amazon.com/RISC-V-Microprocessor-System-Chip-Design/dp/0323994989"
+    },
+    {
+      "title": "Your code is fast – if you're lucky",
+      "hot": "2.9m",
+      "desc": "tiki.li",
+      "source": "tech",
+      "tag": "⬆️ 107 points",
+      "url": "https://tiki.li/blog/lucky_code.html"
+    },
+    {
+      "title": "An update on residential proxies and the scraper situation",
+      "hot": "2.9m",
+      "desc": "lwn.net",
+      "source": "tech",
+      "tag": "⬆️ 270 points",
+      "url": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/"
+    },
+    {
+      "title": "FCC approves test of space mirror to light night sky",
+      "hot": "2.8m",
+      "desc": "theconversation.com",
+      "source": "tech",
+      "tag": "⬆️ 67 points",
+      "url": "https://theconversation.com/the-u-s-just-approved-a-giant-space-mirror-to-test-sunlight-on-demand-low-earth-orbit-is-getting-weird-283482"
     },
     {
       "title": "An iroh powered smart fan",
       "hot": "2.8m",
       "desc": "iroh.computer",
       "source": "tech",
-      "tag": "⬆️ 141 points",
+      "tag": "⬆️ 147 points",
       "url": "https://www.iroh.computer/blog/an-iroh-powered-smart-fan"
-    },
-    {
-      "title": "Ghost Font: A font that humans can read but AI cannot",
-      "hot": "2.8m",
-      "desc": "mixfont.com",
-      "source": "tech",
-      "tag": "⬆️ 79 points",
-      "url": "https://www.mixfont.com/ghost-font"
     },
     {
       "title": "SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth",
       "hot": "2.8m",
       "desc": "zdnet.com",
       "source": "tech",
-      "tag": "⬆️ 241 points",
+      "tag": "⬆️ 250 points",
       "url": "https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/"
     },
     {
-      "title": "The mask that compiles to nothing: how HotSpots JIT learned to reason about bits",
+      "title": "Digital Deli, 1984 book by early PC hackers and enthusiasts",
       "hot": "2.8m",
+      "desc": "atariarchives.org",
+      "source": "tech",
+      "tag": "⬆️ 13 points",
+      "url": "https://www.atariarchives.org/deli/"
+    },
+    {
+      "title": "Ghost Font: A font that humans can read but AI cannot",
+      "hot": "2.8m",
+      "desc": "mixfont.com",
+      "source": "tech",
+      "tag": "⬆️ 96 points",
+      "url": "https://www.mixfont.com/ghost-font"
+    },
+    {
+      "title": "Show HN: Richest people in the world by wealth creation instead of ownership",
+      "hot": "2.8m",
+      "desc": "anti-forbes-list.vercel.app",
+      "source": "tech",
+      "tag": "⬆️ 44 points",
+      "url": "https://anti-forbes-list.vercel.app"
+    },
+    {
+      "title": "Why it's so difficult to produce American-made medical gloves",
+      "hot": "2.7m",
+      "desc": "bloomberg.com",
+      "source": "tech",
+      "tag": "⬆️ 82 points",
+      "url": "https://www.bloomberg.com/news/features/2026-07-07/why-it-s-so-difficult-to-produce-100-american-made-medical-gloves"
+    },
+    {
+      "title": "The mask that compiles to nothing: how HotSpots JIT learned to reason about bits",
+      "hot": "2.7m",
       "desc": "questdb.com",
       "source": "tech",
-      "tag": "⬆️ 51 points",
+      "tag": "⬆️ 52 points",
       "url": "https://questdb.com/blog/jvm-jit-known-bits/"
     },
     {
       "title": "Good Tools Are Invisible",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "gingerbill.org",
       "source": "tech",
-      "tag": "⬆️ 498 points",
+      "tag": "⬆️ 504 points",
       "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/"
-    },
-    {
-      "title": "AI 2040: Plan A",
-      "hot": "2.8m",
-      "desc": "ai-2040.com",
-      "source": "tech",
-      "tag": "⬆️ 336 points",
-      "url": "https://ai-2040.com/"
-    },
-    {
-      "title": "The vintage beauty of Soviet control rooms (2018)",
-      "hot": "2.7m",
-      "desc": "designyoutrust.com",
-      "source": "tech",
-      "tag": "⬆️ 165 points",
-      "url": "https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/"
-    },
-    {
-      "title": "Late Bronze Age Collapse",
-      "hot": "2.7m",
-      "desc": "acoup.blog",
-      "source": "tech",
-      "tag": "⬆️ 399 points",
-      "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/"
-    },
-    {
-      "title": "Digital Deli, 1984 book by early PC hackers and enthusiasts",
-      "hot": "2.7m",
-      "desc": "atariarchives.org",
-      "source": "tech",
-      "tag": "⬆️ 6 points",
-      "url": "https://www.atariarchives.org/deli/"
     }
   ],
   "space": [
@@ -285,132 +285,10 @@
       "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_06-10_July_2026"
     }
   ],
-  "github": [
-    {
-      "title": "x4gKing/X4G: ",
-      "hot": "⭐ 4.3k",
-      "desc": "x4gKing/X4G",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/x4gKing/X4G"
-    },
-    {
-      "title": "withmarbleapp/os-taxonomy: ",
-      "hot": "⭐ 2.3k",
-      "desc": "withmarbleapp/os-taxonomy",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/withmarbleapp/os-taxonomy"
-    },
-    {
-      "title": "Shpigford/knockoff: Chrome extension that filters pseudo-brand junk out of Amazo",
-      "hot": "⭐ 1.7k",
-      "desc": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/Shpigford/knockoff"
-    },
-    {
-      "title": "ammaarreshi/Generals-Mac-iOS-iPad: Command & Conquer Generals: Zero Hour running",
-      "hot": "⭐ 1.4k",
-      "desc": "Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer",
-      "source": "github",
-      "tag": "C++",
-      "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad"
-    },
-    {
-      "title": "MaximeRivest/riddle: The diary of Tom Riddle for the reMarkable Paper Pro — writ",
-      "hot": "⭐ 1.4k",
-      "desc": "The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/MaximeRivest/riddle"
-    },
-    {
-      "title": "wouterdebie/davit: A native macOS UI for Apple's platform",
-      "hot": "⭐ 831",
-      "desc": "A native macOS UI for Apple's platform",
-      "source": "github",
-      "tag": "Swift",
-      "url": "https://github.com/wouterdebie/davit"
-    },
-    {
-      "title": "514-labs/dnsglobe: Global DNS propagation checker TUI — watch a DNS record propa",
-      "hot": "⭐ 809",
-      "desc": "Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/514-labs/dnsglobe"
-    },
-    {
-      "title": "oso95/scroll-world: A skill that turn any brand into a scrollable 3D world",
-      "hot": "⭐ 798",
-      "desc": "A skill that turn any brand into a scrollable 3D world",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/oso95/scroll-world"
-    },
-    {
-      "title": "yynxxxxx/Codex-X: Codex Switch & Instruct desktop manager",
-      "hot": "⭐ 787",
-      "desc": "Codex Switch & Instruct desktop manager",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/yynxxxxx/Codex-X"
-    },
-    {
-      "title": "Robbyant/lingbot-world-v2: Infinite Worlds with Versatile Interactions",
-      "hot": "⭐ 765",
-      "desc": "Infinite Worlds with Versatile Interactions",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/Robbyant/lingbot-world-v2"
-    },
-    {
-      "title": "x4gKing/3x-ui-Upgrade: ",
-      "hot": "⭐ 728",
-      "desc": "x4gKing/3x-ui-Upgrade",
-      "source": "github",
-      "tag": "HTML",
-      "url": "https://github.com/x4gKing/3x-ui-Upgrade"
-    },
-    {
-      "title": "simonlin1212/Vibe-Research: Vibe-Research: Your Personal Trading Research Agent ",
-      "hot": "⭐ 717",
-      "desc": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/simonlin1212/Vibe-Research"
-    },
-    {
-      "title": "Robbyant/lingbot-video: Scaling Mixture-of-Experts Video Pretraining for Embodie",
-      "hot": "⭐ 669",
-      "desc": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/Robbyant/lingbot-video"
-    },
-    {
-      "title": "Robbyant/lingbot-vision: Self-supervised learning for spatial perception",
-      "hot": "⭐ 628",
-      "desc": "Self-supervised learning for spatial perception",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/Robbyant/lingbot-vision"
-    },
-    {
-      "title": "op7418/guizang-material-illustration: 归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
-      "hot": "⭐ 550",
-      "desc": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/op7418/guizang-material-illustration"
-    }
-  ],
   "dev": [
     {
       "title": "Should I quit IT or just live through the burnout?",
-      "hot": "❤️ 82 💬 52",
+      "hot": "❤️ 83 💬 52",
       "desc": "Some of you may have noticed I disappeared a bit from the community over the last couple of weeks....",
       "source": "dev",
       "tag": "mentalhealth,  career",
@@ -554,7 +432,7 @@
     },
     {
       "title": "Join our DEV Weekend Challenge: Passion Edition — $1,000 in Prizes Across FIVE Winners! Submissions Due July 13 at 6:59 AM UTC.",
-      "hot": "❤️ 175 💬 48",
+      "hot": "❤️ 180 💬 48",
       "desc": "Hello! We're kicking off another DEV Weekend Challenge, a short bite-sized challenge planned to fit...",
       "source": "dev",
       "tag": "weekendchallenge,  devchallenge",
@@ -567,6 +445,128 @@
       "source": "dev",
       "tag": "aie,  ai",
       "url": "https://dev.to/dailycontext/two-day-hackathon-kicks-off-ai-engineer-worlds-fair-2l1d"
+    }
+  ],
+  "github": [
+    {
+      "title": "x4gKing/X4G: ",
+      "hot": "⭐ 4.4k",
+      "desc": "x4gKing/X4G",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/x4gKing/X4G"
+    },
+    {
+      "title": "withmarbleapp/os-taxonomy: ",
+      "hot": "⭐ 2.3k",
+      "desc": "withmarbleapp/os-taxonomy",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/withmarbleapp/os-taxonomy"
+    },
+    {
+      "title": "Shpigford/knockoff: Chrome extension that filters pseudo-brand junk out of Amazo",
+      "hot": "⭐ 1.7k",
+      "desc": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/Shpigford/knockoff"
+    },
+    {
+      "title": "ammaarreshi/Generals-Mac-iOS-iPad: Command & Conquer Generals: Zero Hour running",
+      "hot": "⭐ 1.4k",
+      "desc": "Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer",
+      "source": "github",
+      "tag": "C++",
+      "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad"
+    },
+    {
+      "title": "MaximeRivest/riddle: The diary of Tom Riddle for the reMarkable Paper Pro — writ",
+      "hot": "⭐ 1.4k",
+      "desc": "The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/MaximeRivest/riddle"
+    },
+    {
+      "title": "wouterdebie/davit: A native macOS UI for Apple's platform",
+      "hot": "⭐ 833",
+      "desc": "A native macOS UI for Apple's platform",
+      "source": "github",
+      "tag": "Swift",
+      "url": "https://github.com/wouterdebie/davit"
+    },
+    {
+      "title": "514-labs/dnsglobe: Global DNS propagation checker TUI — watch a DNS record propa",
+      "hot": "⭐ 810",
+      "desc": "Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/514-labs/dnsglobe"
+    },
+    {
+      "title": "oso95/scroll-world: A skill that turn any brand into a scrollable 3D world",
+      "hot": "⭐ 801",
+      "desc": "A skill that turn any brand into a scrollable 3D world",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/oso95/scroll-world"
+    },
+    {
+      "title": "yynxxxxx/Codex-X: Codex Switch & Instruct desktop manager",
+      "hot": "⭐ 787",
+      "desc": "Codex Switch & Instruct desktop manager",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/yynxxxxx/Codex-X"
+    },
+    {
+      "title": "Robbyant/lingbot-world-v2: Infinite Worlds with Versatile Interactions",
+      "hot": "⭐ 769",
+      "desc": "Infinite Worlds with Versatile Interactions",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/Robbyant/lingbot-world-v2"
+    },
+    {
+      "title": "x4gKing/3x-ui-Upgrade: ",
+      "hot": "⭐ 739",
+      "desc": "x4gKing/3x-ui-Upgrade",
+      "source": "github",
+      "tag": "HTML",
+      "url": "https://github.com/x4gKing/3x-ui-Upgrade"
+    },
+    {
+      "title": "simonlin1212/Vibe-Research: Vibe-Research: Your Personal Trading Research Agent ",
+      "hot": "⭐ 720",
+      "desc": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/simonlin1212/Vibe-Research"
+    },
+    {
+      "title": "Robbyant/lingbot-video: Scaling Mixture-of-Experts Video Pretraining for Embodie",
+      "hot": "⭐ 670",
+      "desc": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/Robbyant/lingbot-video"
+    },
+    {
+      "title": "Robbyant/lingbot-vision: Self-supervised learning for spatial perception",
+      "hot": "⭐ 628",
+      "desc": "Self-supervised learning for spatial perception",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/Robbyant/lingbot-vision"
+    },
+    {
+      "title": "op7418/guizang-material-illustration: 归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
+      "hot": "⭐ 552",
+      "desc": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/op7418/guizang-material-illustration"
     }
   ]
 }
