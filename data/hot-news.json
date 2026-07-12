@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T20:37:12.118Z",
+  "updatedAt": "2026-07-12T21:35:27.670Z",
   "source": "live",
   "dev": [
     {
@@ -165,167 +165,183 @@
   ],
   "tech": [
     {
+      "title": "Since Chronium 148, Math.tanh is now fingerprintable to link underlying OS",
+      "hot": "3.0m",
+      "desc": "scrapfly.dev",
+      "source": "tech",
+      "tag": "⬆️ 36 points",
+      "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/"
+    },
+    {
+      "title": "Tiny Emulators",
+      "hot": "3.0m",
+      "desc": "floooh.github.io",
+      "source": "tech",
+      "tag": "⬆️ 66 points",
+      "url": "https://floooh.github.io/tiny8bit-preview/index.html"
+    },
+    {
       "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
       "hot": "3.0m",
       "desc": "systima.ai",
       "source": "tech",
-      "tag": "⬆️ 237 points",
+      "tag": "⬆️ 300 points",
       "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead"
-    },
-    {
-      "title": "Can We Understand How Large Language Models Reason?",
-      "hot": "3.0m",
-      "desc": "cacm.acm.org",
-      "source": "tech",
-      "tag": "⬆️ 44 points",
-      "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/"
     },
     {
       "title": "Old and new apps, via modern coding agents",
       "hot": "3.0m",
       "desc": "terrytao.wordpress.com",
       "source": "tech",
-      "tag": "⬆️ 365 points",
+      "tag": "⬆️ 381 points",
       "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/"
     },
     {
       "title": "I love LLMs, I hate hype",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "geohot.github.io",
       "source": "tech",
-      "tag": "⬆️ 155 points",
+      "tag": "⬆️ 212 points",
       "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html"
-    },
-    {
-      "title": "The One-Step Trap (In AI Research)",
-      "hot": "2.9m",
-      "desc": "incompleteideas.net",
-      "source": "tech",
-      "tag": "⬆️ 18 points",
-      "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html"
-    },
-    {
-      "title": "I Learned to Read Again",
-      "hot": "2.9m",
-      "desc": "substack.magazinenongrata.com",
-      "source": "tech",
-      "tag": "⬆️ 24 points",
-      "url": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again"
-    },
-    {
-      "title": "Against Usefulness",
-      "hot": "2.9m",
-      "desc": "motivenotes.ai",
-      "source": "tech",
-      "tag": "⬆️ 48 points",
-      "url": "https://www.motivenotes.ai/p/against-usefulness"
-    },
-    {
-      "title": "Automation Without Understanding",
-      "hot": "2.9m",
-      "desc": "arxiv.org",
-      "source": "tech",
-      "tag": "⬆️ 62 points",
-      "url": "https://arxiv.org/abs/2607.06377"
-    },
-    {
-      "title": "LARP – Revenue infrastructure for serious founders",
-      "hot": "2.9m",
-      "desc": "larp.website",
-      "source": "tech",
-      "tag": "⬆️ 67 points",
-      "url": "https://www.larp.website/"
-    },
-    {
-      "title": "Why write code in 2026",
-      "hot": "2.9m",
-      "desc": "softwaredoug.com",
-      "source": "tech",
-      "tag": "⬆️ 45 points",
-      "url": "https://softwaredoug.com/blog/2026/07/09/write-code"
     },
     {
       "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
       "hot": "2.9m",
       "desc": "ploy.ai",
       "source": "tech",
-      "tag": "⬆️ 32 points",
+      "tag": "⬆️ 53 points",
       "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6"
+    },
+    {
+      "title": "I Learned to Read Again",
+      "hot": "2.9m",
+      "desc": "substack.magazinenongrata.com",
+      "source": "tech",
+      "tag": "⬆️ 45 points",
+      "url": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again"
+    },
+    {
+      "title": "Irish datacenters now guzzle 23% of the country's electricity",
+      "hot": "2.9m",
+      "desc": "theregister.com",
+      "source": "tech",
+      "tag": "⬆️ 67 points",
+      "url": "https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013"
+    },
+    {
+      "title": "Why write code in 2026",
+      "hot": "2.9m",
+      "desc": "softwaredoug.com",
+      "source": "tech",
+      "tag": "⬆️ 62 points",
+      "url": "https://softwaredoug.com/blog/2026/07/09/write-code"
+    },
+    {
+      "title": "Automation Without Understanding",
+      "hot": "2.9m",
+      "desc": "arxiv.org",
+      "source": "tech",
+      "tag": "⬆️ 73 points",
+      "url": "https://arxiv.org/abs/2607.06377"
+    },
+    {
+      "title": "The One-Step Trap (In AI Research)",
+      "hot": "2.9m",
+      "desc": "incompleteideas.net",
+      "source": "tech",
+      "tag": "⬆️ 29 points",
+      "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html"
+    },
+    {
+      "title": "Against Usefulness",
+      "hot": "2.8m",
+      "desc": "motivenotes.ai",
+      "source": "tech",
+      "tag": "⬆️ 60 points",
+      "url": "https://www.motivenotes.ai/p/against-usefulness"
+    },
+    {
+      "title": "LARP – Revenue infrastructure for serious founders",
+      "hot": "2.8m",
+      "desc": "larp.website",
+      "source": "tech",
+      "tag": "⬆️ 89 points",
+      "url": "https://www.larp.website/"
     },
     {
       "title": "Don't you mean extinct?",
       "hot": "2.8m",
       "desc": "fabiensanglard.net",
       "source": "tech",
-      "tag": "⬆️ 147 points",
+      "tag": "⬆️ 157 points",
       "url": "https://fabiensanglard.net/extinct/index.html"
     },
     {
-      "title": "Tiny Emulators",
+      "title": "Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels",
       "hot": "2.8m",
-      "desc": "floooh.github.io",
+      "desc": "nanduruganesh.github.io",
       "source": "tech",
       "tag": "⬆️ 4 points",
-      "url": "https://floooh.github.io/tiny8bit-preview/index.html"
+      "url": "https://nanduruganesh.github.io/flash-msa/"
     },
     {
       "title": "How to read more books",
       "hot": "2.8m",
       "desc": "scotto.me",
       "source": "tech",
-      "tag": "⬆️ 198 points",
+      "tag": "⬆️ 213 points",
       "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/"
-    },
-    {
-      "title": "Neocities: Create your own free website",
-      "hot": "2.8m",
-      "desc": "neocities.org",
-      "source": "tech",
-      "tag": "⬆️ 29 points",
-      "url": "https://neocities.org/"
     },
     {
       "title": "Deir El-Medina Strikes",
       "hot": "2.8m",
       "desc": "en.wikipedia.org",
       "source": "tech",
-      "tag": "⬆️ 25 points",
+      "tag": "⬆️ 40 points",
       "url": "https://en.wikipedia.org/wiki/Deir_el-Medina_strikes"
     },
     {
-      "title": "The shingles vaccine may reduce the risk of dementia",
-      "hot": "2.8m",
-      "desc": "economist.com",
+      "title": "Defining new Jax types with hijax",
+      "hot": "2.7m",
+      "desc": "docs.jax.dev",
       "source": "tech",
-      "tag": "⬆️ 159 points",
-      "url": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain"
+      "tag": "⬆️ 10 points",
+      "url": "https://docs.jax.dev/en/latest/hijax_types.html"
     },
     {
-      "title": "Show HN: Nectar, a Rust-like React that compiles to WebAssembly",
+      "title": "Neocities: Create your own free website",
       "hot": "2.7m",
-      "desc": "buildnectar.com",
+      "desc": "neocities.org",
       "source": "tech",
-      "tag": "⬆️ 17 points",
-      "url": "https://buildnectar.com"
-    },
-    {
-      "title": "Theo de Raadt: \"You've been smoking something mind altering\" (2007)",
-      "hot": "2.7m",
-      "desc": "marc.info",
-      "source": "tech",
-      "tag": "⬆️ 61 points",
-      "url": "https://marc.info/?l=openbsd-misc&m=119318909016582"
+      "tag": "⬆️ 54 points",
+      "url": "https://neocities.org/"
     },
     {
       "title": "Why study Diophantine equations?",
       "hot": "2.7m",
       "desc": "hidden-phenomena.com",
       "source": "tech",
-      "tag": "⬆️ 51 points",
+      "tag": "⬆️ 56 points",
       "url": "https://hidden-phenomena.com/articles/modular"
     }
   ],
   "space": [
+    {
+      "title": "NASA’s Roman telescope into prelaunch servicing following arrival in Florida",
+      "hot": "7/12",
+      "desc": "NASA’s next space telescope, the Nancy Grace Roman Space Telescope, arrived at Kennedy Space Center…\nThe post NASA’s Roman telescope into prelaunch se",
+      "source": "space",
+      "tag": "NASASpaceflight",
+      "url": "https://www.nasaspaceflight.com/2026/07/roman-prelaunch-update/"
+    },
+    {
+      "title": "What’s Happening in Space Policy July 12-18, 2026",
+      "hot": "7/12",
+      "desc": "Here is SpacePolicyOnline.com’s list of space policy events for the week of July 12-18, 2026 and any insight we can offer about them. The House and Se",
+      "source": "space",
+      "tag": "SpacePolicyOnline.com",
+      "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-12-18-2026/"
+    },
     {
       "title": "Parabilis tests propulsion system for maneuverable cubesats",
       "hot": "7/11",
@@ -429,22 +445,6 @@
       "source": "space",
       "tag": "SpaceNews",
       "url": "https://spacenews.com/the-space-industry-is-weighing-ambitious-hiring-against-heritage/"
-    },
-    {
-      "title": "8 things to know about this year’s solar eclipse",
-      "hot": "7/10",
-      "desc": "From the path of totality and the spectacular Baily's beads to why this eclipse will be especially beautiful at sunset, discover what makes the 12 Aug",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/07/8_things_to_know_about_this_year_s_solar_eclipse"
-    },
-    {
-      "title": "Week in images: 06-10 July 2026",
-      "hot": "7/10",
-      "desc": "Week in images: 06-10 July 2026",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_06-10_July_2026"
     }
   ],
   "github": [
@@ -490,7 +490,7 @@
     },
     {
       "title": "x4gKing/3x-ui-Upgrade: ",
-      "hot": "⭐ 876",
+      "hot": "⭐ 879",
       "desc": "x4gKing/3x-ui-Upgrade",
       "source": "github",
       "tag": "HTML",
@@ -498,7 +498,7 @@
     },
     {
       "title": "514-labs/dnsglobe: Global DNS propagation checker TUI — watch a DNS record propa",
-      "hot": "⭐ 839",
+      "hot": "⭐ 842",
       "desc": "Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal",
       "source": "github",
       "tag": "Rust",
@@ -514,7 +514,7 @@
     },
     {
       "title": "Robbyant/lingbot-video: Scaling Mixture-of-Experts Video Pretraining for Embodie",
-      "hot": "⭐ 709",
+      "hot": "⭐ 710",
       "desc": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
       "source": "github",
       "tag": "Python",
@@ -522,7 +522,7 @@
     },
     {
       "title": "Robbyant/lingbot-vision: Self-supervised learning for spatial perception",
-      "hot": "⭐ 669",
+      "hot": "⭐ 670",
       "desc": "Self-supervised learning for spatial perception",
       "source": "github",
       "tag": "Python",
@@ -530,7 +530,7 @@
     },
     {
       "title": "mereyabdenbekuly-ctrl/clodex-ide: Local-first, zero-trust agentic IDE for verifi",
-      "hot": "⭐ 636",
+      "hot": "⭐ 638",
       "desc": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
       "source": "github",
       "tag": "TypeScript",
@@ -538,7 +538,7 @@
     },
     {
       "title": "nagisanzenin/engram: Evidence-based learning engine for Claude Code — first-prin",
-      "hot": "⭐ 620",
+      "hot": "⭐ 629",
       "desc": "Evidence-based learning engine for Claude Code — first-principles curricula, free-recall verification with receipts, FSRS-scheduled memory, and explor",
       "source": "github",
       "tag": "Python",
@@ -554,7 +554,7 @@
     },
     {
       "title": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin: Codex plugin that turns attac",
-      "hot": "⭐ 545",
+      "hot": "⭐ 551",
       "desc": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
       "source": "github",
       "tag": "Python",
@@ -562,7 +562,7 @@
     },
     {
       "title": "x4gKing/PasarGuard: ",
-      "hot": "⭐ 521",
+      "hot": "⭐ 527",
       "desc": "x4gKing/PasarGuard",
       "source": "github",
       "tag": "Dockerfile",
