@@ -1,331 +1,39 @@
 {
-  "updatedAt": "2026-07-13T13:14:09.826Z",
+  "updatedAt": "2026-07-13T16:01:08.244Z",
   "source": "live",
-  "dev": [
-    {
-      "title": "Meme Monday",
-      "hot": "❤️ 20 💬 8",
-      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
-      "source": "dev",
-      "tag": "discuss,  jokes",
-      "url": "https://dev.to/ben/meme-monday-4eda"
-    },
-    {
-      "title": "Should I quit IT or just live through the burnout?",
-      "hot": "❤️ 122 💬 84",
-      "desc": "Some of you may have noticed I disappeared a bit from the community over the last couple of weeks....",
-      "source": "dev",
-      "tag": "mentalhealth,  career",
-      "url": "https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng"
-    },
-    {
-      "title": "Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "source": "dev",
-      "tag": "mcps,  googleantigravity",
-      "url": "https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-1-mcp-and-antigravity-cli-3hh3"
-    },
-    {
-      "title": "Congrats to the June Solstice Game Jam Winners!",
-      "hot": "❤️ 46 💬 12",
-      "desc": "We are so excited to announce the winners of the June Solstice Game Jam, our celebration of the...",
-      "source": "dev",
-      "tag": "devchallenge,  gamechallenge",
-      "url": "https://dev.to/devteam/congrats-to-the-june-solstice-game-jam-winners-46c0"
-    },
-    {
-      "title": "Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "source": "dev",
-      "tag": "googleantigravity,  python",
-      "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82"
-    },
-    {
-      "title": "Context bankruptcy: The case for strategic forgetting for AI Agents",
-      "hot": "❤️ 16 💬 0",
-      "desc": "Most of us have seen a coding agent fail to complete a task we know it can do. We just don't...",
-      "source": "dev",
-      "tag": "ai,  programming",
-      "url": "https://dev.to/googleai/context-bankruptcy-the-case-for-strategic-forgetting-for-ai-agents-3c5"
-    },
-    {
-      "title": "MCP Configuration for Looker with Antigravity CLI",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article covers the MCP setup and configuration for using Looker and underlying Gemini LLM with...",
-      "source": "dev",
-      "tag": "looker,  lookml",
-      "url": "https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d"
-    },
-    {
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 84 💬 43",
-      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
-      "source": "dev",
-      "tag": "top7,  discuss",
-      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-144b"
-    },
-    {
-      "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
-      "hot": "❤️ 26 💬 26",
-      "desc": "PR volume went up, ticket quality didn't, and the gap got filled with LLMs on both sides of the review: bots reviewing, ",
-      "source": "dev",
-      "tag": "ai,  codereview",
-      "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0"
-    },
-    {
-      "title": "Your Career Matters. So Does the Person Building It.",
-      "hot": "❤️ 103 💬 51",
-      "desc": "TL;DR  Tech has taught me many things over the years. It taught me how to learn new technologies,...",
-      "source": "dev",
-      "tag": "discuss,  career",
-      "url": "https://dev.to/hemapriya_kanagala/your-career-matters-so-does-the-person-building-it-2jle"
-    },
-    {
-      "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
-      "hot": "❤️ 62 💬 35",
-      "desc": "Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...",
-      "source": "dev",
-      "tag": "ai,  webdev",
-      "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec"
-    },
-    {
-      "title": "Two-day hackathon kicks off AI Engineer World’s Fair",
-      "hot": "❤️ 26 💬 2",
-      "desc": "While the World’s Fair officially kicks off today a bunch of keen developers were in early, taking...",
-      "source": "dev",
-      "tag": "aie,  ai",
-      "url": "https://dev.to/dailycontext/two-day-hackathon-kicks-off-ai-engineer-worlds-fair-2l1d"
-    },
-    {
-      "title": "A Pragmatic Look at AI in 2030",
-      "hot": "❤️ 11 💬 4",
-      "desc": "I am in no way an AI researcher or a machine learning expert. I am, however, a full stack web...",
-      "source": "dev",
-      "tag": "ai,  softwareengineering",
-      "url": "https://dev.to/link2twenty/a-pragmatic-look-at-ai-in-2030-3n6h"
-    },
-    {
-      "title": "Cloudinary's New Image Generation API: One API, Multiple AI Models, and Built-in Asset Management",
-      "hot": "❤️ 10 💬 0",
-      "desc": "At conference booths, developers often ask whether we support image generation at Cloudinary, given...",
-      "source": "dev",
-      "tag": "ai,  nanobanana",
-      "url": "https://dev.to/cloudinary/cloudinarys-new-image-generation-api-one-api-multiple-ai-models-and-built-in-asset-management-3ldl"
-    },
-    {
-      "title": "What's Next for AI?",
-      "hot": "❤️ 196 💬 254",
-      "desc": "I have been writing about AI for quite a while now, but this is probably the first time I genuinely...",
-      "source": "dev",
-      "tag": "ai,  llm",
-      "url": "https://dev.to/sylwia-lask/whats-next-for-ai-219i"
-    },
-    {
-      "title": "Midsommer Madness with WASM, Rust, and Azure Container Apps",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article covers debugging and deploying a Rust backed WASM module with an Azure Container Apps...",
-      "source": "dev",
-      "tag": "webassembly,  midsommer",
-      "url": "https://dev.to/gde/midsommer-madness-with-wasm-rust-and-azure-container-apps-113b"
-    },
-    {
-      "title": "The One-Click Exporter: AI Studio Antigravity, Probed to Its Limits",
-      "hot": "❤️ 13 💬 4",
-      "desc": "What nobody tells you about exporting your multi-agent prototype to a local workspace.  Every...",
-      "source": "dev",
-      "tag": "agents,  ai",
-      "url": "https://dev.to/gde/the-one-click-exporter-ai-studio-antigravity-probed-to-its-limits-171e"
-    },
-    {
-      "title": "Is It Ethical to Post and Ask About Circuits on Dev.to?",
-      "hot": "❤️ 13 💬 5",
-      "desc": "I’ve been thinking about sharing some electronic circuit posts on Dev.to — small circuits, DIY...",
-      "source": "dev",
-      "tag": "discuss,  devpride",
-      "url": "https://dev.to/codebunny20/is-it-ethical-to-post-and-ask-about-circuits-on-devto-34fg"
-    },
-    {
-      "title": "Need a break? Play today's game from The Daily Context.",
-      "hot": "❤️ 118 💬 34",
-      "desc": "We (at DEV and MLH) are covering AI Engineer's World Fair by printing a physical newspaper called...",
-      "source": "dev",
-      "tag": "aie,  gamedev",
-      "url": "https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli"
-    },
-    {
-      "title": "12B Gemma 4 Deployment with NVIDIA Blackwell 6000, QAT, MTP, and Antigravity CLI",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article provides a step by step deployment guide for Gemma 4 to a Google Cloud Run hosted GPU...",
-      "source": "dev",
-      "tag": "speculativedecoding,  antigravitycli",
-      "url": "https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-qat-mtp-and-antigravity-cli-3gn6"
-    }
-  ],
-  "tech": [
-    {
-      "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-      "hot": "3.0m",
-      "desc": "raymyers.org",
-      "source": "tech",
-      "tag": "⬆️ 672 points",
-      "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/"
-    },
-    {
-      "title": "A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese",
-      "hot": "3.0m",
-      "desc": "jivx.com",
-      "source": "tech",
-      "tag": "⬆️ 73 points",
-      "url": "https://jivx.com/densha"
-    },
-    {
-      "title": "Control the Ideas, Not the Code",
-      "hot": "3.0m",
-      "desc": "antirez.com",
-      "source": "tech",
-      "tag": "⬆️ 40 points",
-      "url": "https://antirez.com/news/169"
-    },
-    {
-      "title": "Show HN: DOM-docx – HTML to native, editable Word docs (MIT)",
-      "hot": "3.0m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 21 points",
-      "url": "https://github.com/floodtide/dom-docx"
-    },
-    {
-      "title": "Interrail: 6,379Km and 13 Countries over 7 weeks",
-      "hot": "2.9m",
-      "desc": "shkspr.mobi",
-      "source": "tech",
-      "tag": "⬆️ 125 points",
-      "url": "https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/"
-    },
-    {
-      "title": "The social physics of conversation: Communication patterns matter",
-      "hot": "2.9m",
-      "desc": "andiroberts.com",
-      "source": "tech",
-      "tag": "⬆️ 87 points",
-      "url": "https://andiroberts.com/citizenship/the-social-physics-of-conversation-citizenship-leadership"
-    },
-    {
-      "title": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
-      "hot": "2.9m",
-      "desc": "nebusec.ai",
-      "source": "tech",
-      "tag": "⬆️ 323 points",
-      "url": "https://nebusec.ai/research/ionstack-part-2/"
-    },
-    {
-      "title": "Backtrack-Free Cursive",
-      "hot": "2.9m",
-      "desc": "mmapped.blog",
-      "source": "tech",
-      "tag": "⬆️ 126 points",
-      "url": "https://mmapped.blog/posts/52-backtrack-free-cursive"
-    },
-    {
-      "title": "An Infuriating Goodbye to Photoshop",
-      "hot": "2.9m",
-      "desc": "anderegg.ca",
-      "source": "tech",
-      "tag": "⬆️ 57 points",
-      "url": "https://anderegg.ca/2026/07/12/an-infuriating-goodbye-to-photoshop"
-    },
-    {
-      "title": "Cyberpunk Comics, Manga and Graphic Novels",
-      "hot": "2.9m",
-      "desc": "shellzine.net",
-      "source": "tech",
-      "tag": "⬆️ 238 points",
-      "url": "https://shellzine.net/cyberpunk-comics/"
-    },
-    {
-      "title": "Beavis Ultrasound PnP ISA Sound Card Replica",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 77 points",
-      "url": "https://github.com/schlae/BeavisUltrasound"
-    },
-    {
-      "title": "Tiny Emulators",
-      "hot": "2.8m",
-      "desc": "floooh.github.io",
-      "source": "tech",
-      "tag": "⬆️ 293 points",
-      "url": "https://floooh.github.io/tiny8bit-preview/index.html"
-    },
-    {
-      "title": "The Graph That Should Be Front-Page News",
-      "hot": "2.8m",
-      "desc": "lyrebirddreaming.com",
-      "source": "tech",
-      "tag": "⬆️ 230 points",
-      "url": "https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news"
-    },
-    {
-      "title": "So you want to learn physics (second edition, 2021)",
-      "hot": "2.8m",
-      "desc": "susanrigetti.com",
-      "source": "tech",
-      "tag": "⬆️ 266 points",
-      "url": "https://www.susanrigetti.com/physics"
-    },
-    {
-      "title": "Leak of San Francisco Police Drone Footage Exposes Reality of Urban Surveillance",
-      "hot": "2.8m",
-      "desc": "wired.com",
-      "source": "tech",
-      "tag": "⬆️ 21 points",
-      "url": "https://www.wired.com/story/sfpd-drone-video-leak-surveillance/"
-    },
-    {
-      "title": "How to read more books",
-      "hot": "2.8m",
-      "desc": "scotto.me",
-      "source": "tech",
-      "tag": "⬆️ 434 points",
-      "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/"
-    },
-    {
-      "title": "Designing and assembling my first PCB",
-      "hot": "2.8m",
-      "desc": "vilkeliskis.com",
-      "source": "tech",
-      "tag": "⬆️ 135 points",
-      "url": "https://vilkeliskis.com/b/2026/0711.html"
-    },
-    {
-      "title": "Frieve Vinyl Explained – Microscopic stylus/groove physics simulation",
-      "hot": "2.7m",
-      "desc": "frieve-a.github.io",
-      "source": "tech",
-      "tag": "⬆️ 35 points",
-      "url": "https://frieve-a.github.io/sound_toolbox/vinyl_explained/vinyl_explained.html"
-    },
-    {
-      "title": "The 'absolute magic' of Morse code that still connects people globally",
-      "hot": "2.7m",
-      "desc": "bbc.com",
-      "source": "tech",
-      "tag": "⬆️ 5 points",
-      "url": "https://www.bbc.com/news/articles/cwye0dlzgejo"
-    },
-    {
-      "title": "We Put an L7 Firewall in the Kernel",
-      "hot": "2.7m",
-      "desc": "yeet.cx",
-      "source": "tech",
-      "tag": "⬆️ 32 points",
-      "url": "https://yeet.cx/blog/l7-firewall-in-the-kernel"
-    }
-  ],
   "space": [
+    {
+      "title": "NASA Astronaut Anil Menon",
+      "hot": "7/13",
+      "desc": "NASA astronaut Anil Menon poses in a spacesuit for a portrait at NASA’s Johnson Space Center in Houston, Texas on Jan. 8, 2026. Menon will launch aboa",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/image-article/nasa-astronaut-anil-menon/"
+    },
+    {
+      "title": "Accel and Prosus backed QOSMIC raises $3.33 Million to Build Optical Ground Stations for the Orbital Data Economy",
+      "hot": "7/13",
+      "desc": "\nBENGALURU, India / July 15, 2026 — QOSMIC has raised $3.33 million in seed funding co-led by Accel and Prosus, with participation from South Park Com",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/accel-and-prosus-backed-qosmic-raises-3-33-million-to-build-optical-ground-stations-for-the-orbital-data-economy/"
+    },
+    {
+      "title": "ESA releases 2026 Space Economy Report",
+      "hot": "7/13",
+      "desc": "The European Space Agency’s (ESA) newly released Space Economy Report gives a comprehensive overview of the latest developments shaping Europe's space",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/About_Us/Business_with_ESA/ESA_releases_2026_Space_Economy_Report"
+    },
+    {
+      "title": "NASA’s Hubble Discovers First of Star Cluster’s Missing Black Holes",
+      "hot": "7/13",
+      "desc": "Astronomers using archival data from Hubble and supportive observations from Webb have located their first stellar-mass black hole in the star cluster",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-discovers-first-of-star-clusters-missing-black-holes/"
+    },
     {
       "title": "Reditus Space completes first reentry vehicle",
       "hot": "7/13",
@@ -413,44 +121,12 @@
       "source": "space",
       "tag": "SpacePolicyOnline.com",
       "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-12-18-2026/"
-    },
-    {
-      "title": "Parabilis tests propulsion system for maneuverable cubesats",
-      "hot": "7/11",
-      "desc": "\nThe Space Force is backing the development of the company’s hybrid engine technology for small satellites\nThe post Parabilis tests propulsion system ",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/parabilis-tests-propulsion-system-for-maneuverable-cubesats/"
-    },
-    {
-      "title": "FCC approves first Reflect Orbital satellite",
-      "hot": "7/11",
-      "desc": "\nThe Federal Communications Commission has given its approval for a satellite that will test the ability to reflect sunlight into nighttime regions, a",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/fcc-approves-first-reflect-orbital-satellite/"
-    },
-    {
-      "title": "Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
-      "hot": "7/10",
-      "desc": "The Starlink 17-48 mission will add another 24 satellites to the low Earth orbit constellation. Liftoff from pad 4E at Vandenberg Space Force Base is ",
-      "source": "space",
-      "tag": "Spaceflight Now",
-      "url": "https://spaceflightnow.com/2026/07/10/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-10/"
-    },
-    {
-      "title": "Booster 20 completes record duration Static Fire",
-      "hot": "7/10",
-      "desc": "With the 33 engine static fire completed for Booster 20, SpaceX is pushing hard to…\r\nThe post Booster 20 completes record duration Static Fire appeare",
-      "source": "space",
-      "tag": "NASASpaceflight",
-      "url": "https://www.nasaspaceflight.com/2026/07/booster-20-record-static-fire/"
     }
   ],
   "github": [
     {
       "title": "withmarbleapp/os-taxonomy: ",
-      "hot": "⭐ 2.8k",
+      "hot": "⭐ 2.9k",
       "desc": "withmarbleapp/os-taxonomy",
       "source": "github",
       "tag": "JavaScript",
@@ -458,7 +134,7 @@
     },
     {
       "title": "Shpigford/knockoff: Chrome extension that filters pseudo-brand junk out of Amazo",
-      "hot": "⭐ 1.8k",
+      "hot": "⭐ 1.9k",
       "desc": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
       "source": "github",
       "tag": "JavaScript",
@@ -474,7 +150,7 @@
     },
     {
       "title": "Robbyant/lingbot-world-v2: Infinite Worlds with Versatile Interactions",
-      "hot": "⭐ 996",
+      "hot": "⭐ 1.0k",
       "desc": "Infinite Worlds with Versatile Interactions",
       "source": "github",
       "tag": "Python",
@@ -482,7 +158,7 @@
     },
     {
       "title": "x4gKing/3x-ui-Upgrade: ",
-      "hot": "⭐ 916",
+      "hot": "⭐ 922",
       "desc": "x4gKing/3x-ui-Upgrade",
       "source": "github",
       "tag": "HTML",
@@ -490,7 +166,7 @@
     },
     {
       "title": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin: Codex plugin that turns attac",
-      "hot": "⭐ 788",
+      "hot": "⭐ 809",
       "desc": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
       "source": "github",
       "tag": "Python",
@@ -498,7 +174,7 @@
     },
     {
       "title": "Robbyant/lingbot-video: Scaling Mixture-of-Experts Video Pretraining for Embodie",
-      "hot": "⭐ 744",
+      "hot": "⭐ 749",
       "desc": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
       "source": "github",
       "tag": "Python",
@@ -506,7 +182,7 @@
     },
     {
       "title": "Robbyant/lingbot-vision: Self-supervised learning for spatial perception",
-      "hot": "⭐ 726",
+      "hot": "⭐ 729",
       "desc": "Self-supervised learning for spatial perception",
       "source": "github",
       "tag": "Python",
@@ -514,7 +190,7 @@
     },
     {
       "title": "mereyabdenbekuly-ctrl/clodex-ide: Local-first, zero-trust agentic IDE for verifi",
-      "hot": "⭐ 693",
+      "hot": "⭐ 695",
       "desc": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
       "source": "github",
       "tag": "TypeScript",
@@ -522,15 +198,23 @@
     },
     {
       "title": "op7418/guizang-material-illustration: 归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
-      "hot": "⭐ 620",
+      "hot": "⭐ 626",
       "desc": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
       "source": "github",
       "tag": "GitHub",
       "url": "https://github.com/op7418/guizang-material-illustration"
     },
     {
+      "title": "MDX-Tom/gpt-5.6-instruct: A Codex CLI jailbreak prompt and test pack for gpt-5.6",
+      "hot": "⭐ 602",
+      "desc": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/MDX-Tom/gpt-5.6-instruct"
+    },
+    {
       "title": "x4gKing/PasarGuard-Node: ",
-      "hot": "⭐ 511",
+      "hot": "⭐ 515",
       "desc": "x4gKing/PasarGuard-Node",
       "source": "github",
       "tag": "Dockerfile",
@@ -538,7 +222,7 @@
     },
     {
       "title": "Robbyant/lingbot-vla-v2: From Foundation to Application",
-      "hot": "⭐ 508",
+      "hot": "⭐ 511",
       "desc": "From Foundation to Application",
       "source": "github",
       "tag": "Python",
@@ -546,27 +230,343 @@
     },
     {
       "title": "xiaotianfotos/homerail: Voice-first local agent orchestration runtime for audita",
-      "hot": "⭐ 501",
+      "hot": "⭐ 502",
       "desc": "Voice-first local agent orchestration runtime for auditable DAG workflows.",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/xiaotianfotos/homerail"
     },
     {
-      "title": "MDX-Tom/gpt-5.6-instruct: A Codex CLI jailbreak prompt and test pack for gpt-5.6",
-      "hot": "⭐ 493",
-      "desc": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/MDX-Tom/gpt-5.6-instruct"
-    },
-    {
       "title": "V4bel/Januscape: ",
-      "hot": "⭐ 484",
+      "hot": "⭐ 486",
       "desc": "V4bel/Januscape",
       "source": "github",
       "tag": "C",
       "url": "https://github.com/V4bel/Januscape"
+    }
+  ],
+  "dev": [
+    {
+      "title": "Meme Monday",
+      "hot": "❤️ 30 💬 19",
+      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
+      "source": "dev",
+      "tag": "discuss,  jokes",
+      "url": "https://dev.to/ben/meme-monday-4eda"
+    },
+    {
+      "title": "Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2",
+      "hot": "❤️ 7 💬 1",
+      "desc": "A field report on running Google's Gemma-4 on AWS Inferentia2: mixed attention heads, the vLLM / optimum-neuron / NxD de",
+      "source": "dev",
+      "tag": "machinelearning,  aws",
+      "url": "https://dev.to/gde/porting-gemma-4-2b-4b-12b-to-aws-inferentia2-2jnf"
+    },
+    {
+      "title": "The Myth of the Post-Documentation Era",
+      "hot": "❤️ 14 💬 0",
+      "desc": "There is a growing sentiment in engineering circles right now that documentation is a relic of the...",
+      "source": "dev",
+      "tag": "ai,  documentation",
+      "url": "https://dev.to/ben/the-myth-of-the-post-documentation-era-39al"
+    },
+    {
+      "title": "Building an Agentic FinOps Platform — Development Environment Setup, Google Antigravity, MCPs and Skills, and ADK Bootstrapping with Agents CLI",
+      "hot": "❤️ 10 💬 0",
+      "desc": "TL;DR — This article is going to be jam-packed with useful information, tips, tricks and hacks for...",
+      "source": "dev",
+      "tag": "finops,  antigravity",
+      "url": "https://dev.to/gde/building-an-agentic-finops-platform-development-environment-setup-google-antigravity-mcps-and-4c43"
+    },
+    {
+      "title": "A lot of good points here https://antirez.com/news/169",
+      "hot": "❤️ 3 💬 0",
+      "desc": "antirez.com",
+      "source": "dev",
+      "tag": "ai,  llm",
+      "url": "https://dev.to/ben/a-lot-of-good-points-here-httpsantirezcomnews169-417f"
+    },
+    {
+      "title": "Stop Copy-Pasting `dns:` Blocks: Introducing Transparent DNS Injection in Gubernator",
+      "hot": "❤️ 7 💬 0",
+      "desc": "How we eliminated network configuration boilerplate in Docker Compose deployments by dynamically injecting CoreDNS serve",
+      "source": "dev",
+      "tag": "docker,  go",
+      "url": "https://dev.to/gde/stop-copy-pasting-dns-blocks-introducing-transparent-dns-injection-in-gubernator-ad4"
+    },
+    {
+      "title": "Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
+      "source": "dev",
+      "tag": "mcps,  googleantigravity",
+      "url": "https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-1-mcp-and-antigravity-cli-3hh3"
+    },
+    {
+      "title": "[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action",
+      "hot": "❤️ 7 💬 0",
+      "desc": "Pain Point: How to Accurately Allocate Gemini API Costs Within the Same Project?   When...",
+      "source": "dev",
+      "tag": "ai,  cloud",
+      "url": "https://dev.to/gde/gcp-billing-vertex-ai-solving-gemini-cost-allocation-in-a-single-project-vertex-ai-dynamic-5aok"
+    },
+    {
+      "title": "Should I quit IT or just live through the burnout?",
+      "hot": "❤️ 127 💬 90",
+      "desc": "Some of you may have noticed I disappeared a bit from the community over the last couple of weeks....",
+      "source": "dev",
+      "tag": "mentalhealth,  career",
+      "url": "https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng"
+    },
+    {
+      "title": "Congrats to the June Solstice Game Jam Winners!",
+      "hot": "❤️ 46 💬 12",
+      "desc": "We are so excited to announce the winners of the June Solstice Game Jam, our celebration of the...",
+      "source": "dev",
+      "tag": "devchallenge,  gamechallenge",
+      "url": "https://dev.to/devteam/congrats-to-the-june-solstice-game-jam-winners-46c0"
+    },
+    {
+      "title": "Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
+      "source": "dev",
+      "tag": "googleantigravity,  python",
+      "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82"
+    },
+    {
+      "title": "Context bankruptcy: The case for strategic forgetting for AI Agents",
+      "hot": "❤️ 16 💬 0",
+      "desc": "Most of us have seen a coding agent fail to complete a task we know it can do. We just don't...",
+      "source": "dev",
+      "tag": "ai,  programming",
+      "url": "https://dev.to/googleai/context-bankruptcy-the-case-for-strategic-forgetting-for-ai-agents-3c5"
+    },
+    {
+      "title": "MCP Configuration for Looker with Antigravity CLI",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article covers the MCP setup and configuration for using Looker and underlying Gemini LLM with...",
+      "source": "dev",
+      "tag": "looker,  lookml",
+      "url": "https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d"
+    },
+    {
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "hot": "❤️ 84 💬 43",
+      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+      "source": "dev",
+      "tag": "top7,  discuss",
+      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-144b"
+    },
+    {
+      "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
+      "hot": "❤️ 27 💬 27",
+      "desc": "PR volume went up, ticket quality didn't, and the gap got filled with LLMs on both sides of the review: bots reviewing, ",
+      "source": "dev",
+      "tag": "ai,  codereview",
+      "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0"
+    },
+    {
+      "title": "Your Career Matters. So Does the Person Building It.",
+      "hot": "❤️ 103 💬 51",
+      "desc": "TL;DR  Tech has taught me many things over the years. It taught me how to learn new technologies,...",
+      "source": "dev",
+      "tag": "discuss,  career",
+      "url": "https://dev.to/hemapriya_kanagala/your-career-matters-so-does-the-person-building-it-2jle"
+    },
+    {
+      "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
+      "hot": "❤️ 62 💬 35",
+      "desc": "Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...",
+      "source": "dev",
+      "tag": "ai,  webdev",
+      "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec"
+    },
+    {
+      "title": "Two-day hackathon kicks off AI Engineer World’s Fair",
+      "hot": "❤️ 26 💬 2",
+      "desc": "While the World’s Fair officially kicks off today a bunch of keen developers were in early, taking...",
+      "source": "dev",
+      "tag": "aie,  ai",
+      "url": "https://dev.to/dailycontext/two-day-hackathon-kicks-off-ai-engineer-worlds-fair-2l1d"
+    },
+    {
+      "title": "A Pragmatic Look at AI in 2030",
+      "hot": "❤️ 11 💬 4",
+      "desc": "I am in no way an AI researcher or a machine learning expert. I am, however, a full stack web...",
+      "source": "dev",
+      "tag": "ai,  softwareengineering",
+      "url": "https://dev.to/link2twenty/a-pragmatic-look-at-ai-in-2030-3n6h"
+    },
+    {
+      "title": "Cloudinary's New Image Generation API: One API, Multiple AI Models, and Built-in Asset Management",
+      "hot": "❤️ 10 💬 0",
+      "desc": "At conference booths, developers often ask whether we support image generation at Cloudinary, given...",
+      "source": "dev",
+      "tag": "ai,  nanobanana",
+      "url": "https://dev.to/cloudinary/cloudinarys-new-image-generation-api-one-api-multiple-ai-models-and-built-in-asset-management-3ldl"
+    }
+  ],
+  "tech": [
+    {
+      "title": "The art and engineering of Sega CD Silpheed",
+      "hot": "3.0m",
+      "desc": "fabiensanglard.net",
+      "source": "tech",
+      "tag": "⬆️ 58 points",
+      "url": "https://fabiensanglard.net/silpheed/index.html"
+    },
+    {
+      "title": "A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese",
+      "hot": "3.0m",
+      "desc": "jivx.com",
+      "source": "tech",
+      "tag": "⬆️ 196 points",
+      "url": "https://jivx.com/densha"
+    },
+    {
+      "title": "Grok uploaded my user directory to xAI's servers",
+      "hot": "3.0m",
+      "desc": "twitter.com",
+      "source": "tech",
+      "tag": "⬆️ 323 points",
+      "url": "https://twitter.com/a_green_being/status/2076598897779020159"
+    },
+    {
+      "title": "LAPD lets contract with surveillance giant Flock expire",
+      "hot": "3.0m",
+      "desc": "techcrunch.com",
+      "source": "tech",
+      "tag": "⬆️ 50 points",
+      "url": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/"
+    },
+    {
+      "title": "Show HN: DOM-docx – HTML to native, editable Word docs (MIT)",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 74 points",
+      "url": "https://github.com/floodtide/dom-docx"
+    },
+    {
+      "title": "Grok CLI uploaded the whole home directory to GCS",
+      "hot": "2.9m",
+      "desc": "twitter.com",
+      "source": "tech",
+      "tag": "⬆️ 212 points",
+      "url": "https://twitter.com/i/status/2076598897779020159"
+    },
+    {
+      "title": "Precursor",
+      "hot": "2.9m",
+      "desc": "blog.cloudflare.com",
+      "source": "tech",
+      "tag": "⬆️ 79 points",
+      "url": "https://blog.cloudflare.com/introducing-precursor/"
+    },
+    {
+      "title": "The 'absolute magic' of Morse code that still connects people globally",
+      "hot": "2.9m",
+      "desc": "bbc.com",
+      "source": "tech",
+      "tag": "⬆️ 57 points",
+      "url": "https://www.bbc.com/news/articles/cwye0dlzgejo"
+    },
+    {
+      "title": "Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 86 points",
+      "url": "https://github.com/clawkwork/clawk"
+    },
+    {
+      "title": "The Graph That Should Be Front-Page News",
+      "hot": "2.9m",
+      "desc": "lyrebirddreaming.com",
+      "source": "tech",
+      "tag": "⬆️ 413 points",
+      "url": "https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news"
+    },
+    {
+      "title": "Backtrack-Free Cursive",
+      "hot": "2.9m",
+      "desc": "mmapped.blog",
+      "source": "tech",
+      "tag": "⬆️ 190 points",
+      "url": "https://mmapped.blog/posts/52-backtrack-free-cursive"
+    },
+    {
+      "title": "Cursed circuits #6: reverse avalanche oscillator",
+      "hot": "2.8m",
+      "desc": "lcamtuf.substack.com",
+      "source": "tech",
+      "tag": "⬆️ 26 points",
+      "url": "https://lcamtuf.substack.com/p/cursed-circuits-6-reverse-avalanche"
+    },
+    {
+      "title": "The social physics of conversation: Communication patterns matter",
+      "hot": "2.8m",
+      "desc": "andiroberts.com",
+      "source": "tech",
+      "tag": "⬆️ 124 points",
+      "url": "https://andiroberts.com/citizenship/the-social-physics-of-conversation-citizenship-leadership"
+    },
+    {
+      "title": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
+      "hot": "2.8m",
+      "desc": "nebusec.ai",
+      "source": "tech",
+      "tag": "⬆️ 350 points",
+      "url": "https://nebusec.ai/research/ionstack-part-2/"
+    },
+    {
+      "title": "Interrail: 6,379Km and 13 Countries over 7 weeks",
+      "hot": "2.8m",
+      "desc": "shkspr.mobi",
+      "source": "tech",
+      "tag": "⬆️ 167 points",
+      "url": "https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/"
+    },
+    {
+      "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+      "hot": "2.8m",
+      "desc": "raymyers.org",
+      "source": "tech",
+      "tag": "⬆️ 1087 points",
+      "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/"
+    },
+    {
+      "title": "Cyberpunk Comics, Manga and Graphic Novels",
+      "hot": "2.8m",
+      "desc": "shellzine.net",
+      "source": "tech",
+      "tag": "⬆️ 266 points",
+      "url": "https://shellzine.net/cyberpunk-comics/"
+    },
+    {
+      "title": "Tiny Emulators",
+      "hot": "2.7m",
+      "desc": "floooh.github.io",
+      "source": "tech",
+      "tag": "⬆️ 316 points",
+      "url": "https://floooh.github.io/tiny8bit-preview/index.html"
+    },
+    {
+      "title": "DOGE is done. What happened to its records?",
+      "hot": "2.7m",
+      "desc": "ms.now",
+      "source": "tech",
+      "tag": "⬆️ 3 points",
+      "url": "https://www.ms.now/opinion/doge-government-efficiency-records-job-cuts-elon-musk-foia"
+    },
+    {
+      "title": "Frieve Vinyl Explained – Microscopic stylus/groove physics simulation",
+      "hot": "2.7m",
+      "desc": "frieve-a.github.io",
+      "source": "tech",
+      "tag": "⬆️ 56 points",
+      "url": "https://frieve-a.github.io/sound_toolbox/vinyl_explained/vinyl_explained.html"
     }
   ]
 }
