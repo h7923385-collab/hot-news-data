@@ -1,10 +1,18 @@
 {
-  "updatedAt": "2026-07-13T10:57:10.943Z",
+  "updatedAt": "2026-07-13T13:14:09.826Z",
   "source": "live",
   "dev": [
     {
+      "title": "Meme Monday",
+      "hot": "❤️ 20 💬 8",
+      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
+      "source": "dev",
+      "tag": "discuss,  jokes",
+      "url": "https://dev.to/ben/meme-monday-4eda"
+    },
+    {
       "title": "Should I quit IT or just live through the burnout?",
-      "hot": "❤️ 119 💬 81",
+      "hot": "❤️ 122 💬 84",
       "desc": "Some of you may have noticed I disappeared a bit from the community over the last couple of weeks....",
       "source": "dev",
       "tag": "mentalhealth,  career",
@@ -68,7 +76,7 @@
     },
     {
       "title": "Your Career Matters. So Does the Person Building It.",
-      "hot": "❤️ 103 💬 50",
+      "hot": "❤️ 103 💬 51",
       "desc": "TL;DR  Tech has taught me many things over the years. It taught me how to learn new technologies,...",
       "source": "dev",
       "tag": "discuss,  career",
@@ -76,7 +84,7 @@
     },
     {
       "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
-      "hot": "❤️ 62 💬 32",
+      "hot": "❤️ 62 💬 35",
       "desc": "Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...",
       "source": "dev",
       "tag": "ai,  webdev",
@@ -131,6 +139,14 @@
       "url": "https://dev.to/gde/the-one-click-exporter-ai-studio-antigravity-probed-to-its-limits-171e"
     },
     {
+      "title": "Is It Ethical to Post and Ask About Circuits on Dev.to?",
+      "hot": "❤️ 13 💬 5",
+      "desc": "I’ve been thinking about sharing some electronic circuit posts on Dev.to — small circuits, DIY...",
+      "source": "dev",
+      "tag": "discuss,  devpride",
+      "url": "https://dev.to/codebunny20/is-it-ethical-to-post-and-ask-about-circuits-on-devto-34fg"
+    },
+    {
       "title": "Need a break? Play today's game from The Daily Context.",
       "hot": "❤️ 118 💬 34",
       "desc": "We (at DEV and MLH) are covering AI Engineer's World Fair by printing a physical newspaper called...",
@@ -139,28 +155,12 @@
       "url": "https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli"
     },
     {
-      "title": "Is It Ethical to Post and Ask About Circuits on Dev.to?",
-      "hot": "❤️ 12 💬 4",
-      "desc": "I’ve been thinking about sharing some electronic circuit posts on Dev.to — small circuits, DIY...",
-      "source": "dev",
-      "tag": "discuss,  devpride",
-      "url": "https://dev.to/codebunny20/is-it-ethical-to-post-and-ask-about-circuits-on-devto-34fg"
-    },
-    {
       "title": "12B Gemma 4 Deployment with NVIDIA Blackwell 6000, QAT, MTP, and Antigravity CLI",
       "hot": "❤️ 6 💬 0",
       "desc": "This article provides a step by step deployment guide for Gemma 4 to a Google Cloud Run hosted GPU...",
       "source": "dev",
       "tag": "speculativedecoding,  antigravitycli",
       "url": "https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-qat-mtp-and-antigravity-cli-3gn6"
-    },
-    {
-      "title": "12B Gemma 4 Deployment with NVIDIA Blackwell 6000, MCP, Cloud Run, and Antigravity CLI",
-      "hot": "❤️ 5 💬 0",
-      "desc": "This article provides a step by step deployment guide for Gemma 4 to a Google Cloud Run hosted GPU...",
-      "source": "dev",
-      "tag": "gemma4,  mcps",
-      "url": "https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-mcp-cloud-run-and-antigravity-cli-3ckn"
     }
   ],
   "tech": [
@@ -169,163 +169,195 @@
       "hot": "3.0m",
       "desc": "raymyers.org",
       "source": "tech",
-      "tag": "⬆️ 293 points",
+      "tag": "⬆️ 672 points",
       "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/"
     },
     {
-      "title": "Interrail: 6,379Km and 13 Countries over 7 weeks",
+      "title": "A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese",
       "hot": "3.0m",
+      "desc": "jivx.com",
+      "source": "tech",
+      "tag": "⬆️ 73 points",
+      "url": "https://jivx.com/densha"
+    },
+    {
+      "title": "Control the Ideas, Not the Code",
+      "hot": "3.0m",
+      "desc": "antirez.com",
+      "source": "tech",
+      "tag": "⬆️ 40 points",
+      "url": "https://antirez.com/news/169"
+    },
+    {
+      "title": "Show HN: DOM-docx – HTML to native, editable Word docs (MIT)",
+      "hot": "3.0m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 21 points",
+      "url": "https://github.com/floodtide/dom-docx"
+    },
+    {
+      "title": "Interrail: 6,379Km and 13 Countries over 7 weeks",
+      "hot": "2.9m",
       "desc": "shkspr.mobi",
       "source": "tech",
-      "tag": "⬆️ 74 points",
+      "tag": "⬆️ 125 points",
       "url": "https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/"
     },
     {
       "title": "The social physics of conversation: Communication patterns matter",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "andiroberts.com",
       "source": "tech",
-      "tag": "⬆️ 48 points",
+      "tag": "⬆️ 87 points",
       "url": "https://andiroberts.com/citizenship/the-social-physics-of-conversation-citizenship-leadership"
     },
     {
       "title": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "nebusec.ai",
       "source": "tech",
-      "tag": "⬆️ 286 points",
+      "tag": "⬆️ 323 points",
       "url": "https://nebusec.ai/research/ionstack-part-2/"
-    },
-    {
-      "title": "Beavis Ultrasound PnP ISA Sound Card Replica",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 65 points",
-      "url": "https://github.com/schlae/BeavisUltrasound"
-    },
-    {
-      "title": "The Graph That Should Be Front-Page News",
-      "hot": "2.9m",
-      "desc": "lyrebirddreaming.com",
-      "source": "tech",
-      "tag": "⬆️ 91 points",
-      "url": "https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news"
-    },
-    {
-      "title": "Cyberpunk Comics, Manga and Graphic Novels",
-      "hot": "2.9m",
-      "desc": "shellzine.net",
-      "source": "tech",
-      "tag": "⬆️ 197 points",
-      "url": "https://shellzine.net/cyberpunk-comics/"
-    },
-    {
-      "title": "Tiny Emulators",
-      "hot": "2.9m",
-      "desc": "floooh.github.io",
-      "source": "tech",
-      "tag": "⬆️ 269 points",
-      "url": "https://floooh.github.io/tiny8bit-preview/index.html"
     },
     {
       "title": "Backtrack-Free Cursive",
       "hot": "2.9m",
       "desc": "mmapped.blog",
       "source": "tech",
-      "tag": "⬆️ 91 points",
+      "tag": "⬆️ 126 points",
       "url": "https://mmapped.blog/posts/52-backtrack-free-cursive"
     },
     {
-      "title": "So you want to learn physics (second edition, 2021)",
+      "title": "An Infuriating Goodbye to Photoshop",
       "hot": "2.9m",
+      "desc": "anderegg.ca",
+      "source": "tech",
+      "tag": "⬆️ 57 points",
+      "url": "https://anderegg.ca/2026/07/12/an-infuriating-goodbye-to-photoshop"
+    },
+    {
+      "title": "Cyberpunk Comics, Manga and Graphic Novels",
+      "hot": "2.9m",
+      "desc": "shellzine.net",
+      "source": "tech",
+      "tag": "⬆️ 238 points",
+      "url": "https://shellzine.net/cyberpunk-comics/"
+    },
+    {
+      "title": "Beavis Ultrasound PnP ISA Sound Card Replica",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 77 points",
+      "url": "https://github.com/schlae/BeavisUltrasound"
+    },
+    {
+      "title": "Tiny Emulators",
+      "hot": "2.8m",
+      "desc": "floooh.github.io",
+      "source": "tech",
+      "tag": "⬆️ 293 points",
+      "url": "https://floooh.github.io/tiny8bit-preview/index.html"
+    },
+    {
+      "title": "The Graph That Should Be Front-Page News",
+      "hot": "2.8m",
+      "desc": "lyrebirddreaming.com",
+      "source": "tech",
+      "tag": "⬆️ 230 points",
+      "url": "https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news"
+    },
+    {
+      "title": "So you want to learn physics (second edition, 2021)",
+      "hot": "2.8m",
       "desc": "susanrigetti.com",
       "source": "tech",
-      "tag": "⬆️ 232 points",
+      "tag": "⬆️ 266 points",
       "url": "https://www.susanrigetti.com/physics"
     },
     {
-      "title": "Frieve Vinyl Explained – Microscopic stylus/groove physics simulation",
-      "hot": "2.9m",
-      "desc": "frieve-a.github.io",
-      "source": "tech",
-      "tag": "⬆️ 19 points",
-      "url": "https://frieve-a.github.io/sound_toolbox/vinyl_explained/vinyl_explained.html"
-    },
-    {
-      "title": "Berkshire's $397B Bet Against an Overheated Market",
+      "title": "Leak of San Francisco Police Drone Footage Exposes Reality of Urban Surveillance",
       "hot": "2.8m",
-      "desc": "disruptionbanking.com",
+      "desc": "wired.com",
       "source": "tech",
-      "tag": "⬆️ 49 points",
-      "url": "https://www.disruptionbanking.com/2026/07/13/inside-berkshires-397-billion-bet-against-an-overheated-market/"
-    },
-    {
-      "title": "Designing and assembling my first PCB",
-      "hot": "2.8m",
-      "desc": "vilkeliskis.com",
-      "source": "tech",
-      "tag": "⬆️ 117 points",
-      "url": "https://vilkeliskis.com/b/2026/0711.html"
+      "tag": "⬆️ 21 points",
+      "url": "https://www.wired.com/story/sfpd-drone-video-leak-surveillance/"
     },
     {
       "title": "How to read more books",
       "hot": "2.8m",
       "desc": "scotto.me",
       "source": "tech",
-      "tag": "⬆️ 384 points",
+      "tag": "⬆️ 434 points",
       "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/"
     },
     {
-      "title": "Ask HN: Add flag for AI-generated articles",
+      "title": "Designing and assembling my first PCB",
       "hot": "2.8m",
-      "desc": "news.ycombinator.com",
+      "desc": "vilkeliskis.com",
       "source": "tech",
-      "tag": "⬆️ 709 points",
-      "url": "https://news.ycombinator.com/item?id=48886741"
+      "tag": "⬆️ 135 points",
+      "url": "https://vilkeliskis.com/b/2026/0711.html"
     },
     {
-      "title": "Ask HN: What Are You Working On? (July 2026)",
-      "hot": "2.8m",
-      "desc": "news.ycombinator.com",
-      "source": "tech",
-      "tag": "⬆️ 163 points",
-      "url": "https://news.ycombinator.com/item?id=48884984"
-    },
-    {
-      "title": "Sam Neill has died",
-      "hot": "2.8m",
-      "desc": "theguardian.com",
-      "source": "tech",
-      "tag": "⬆️ 174 points",
-      "url": "https://www.theguardian.com/film/2026/jul/13/sam-neill-death-actor-dies-aged-78"
-    },
-    {
-      "title": "LARP – Revenue infrastructure for serious founders",
+      "title": "Frieve Vinyl Explained – Microscopic stylus/groove physics simulation",
       "hot": "2.7m",
-      "desc": "larp.website",
+      "desc": "frieve-a.github.io",
       "source": "tech",
-      "tag": "⬆️ 251 points",
-      "url": "https://www.larp.website/"
+      "tag": "⬆️ 35 points",
+      "url": "https://frieve-a.github.io/sound_toolbox/vinyl_explained/vinyl_explained.html"
     },
     {
-      "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+      "title": "The 'absolute magic' of Morse code that still connects people globally",
       "hot": "2.7m",
-      "desc": "ploy.ai",
+      "desc": "bbc.com",
       "source": "tech",
-      "tag": "⬆️ 213 points",
-      "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6"
+      "tag": "⬆️ 5 points",
+      "url": "https://www.bbc.com/news/articles/cwye0dlzgejo"
     },
     {
-      "title": "Are you telling me a readonly property is wrecking my performance?",
+      "title": "We Put an L7 Firewall in the Kernel",
       "hot": "2.7m",
-      "desc": "shub.club",
+      "desc": "yeet.cx",
       "source": "tech",
-      "tag": "⬆️ 40 points",
-      "url": "https://shub.club/writings/2026/july/check-your-scrollheight/"
+      "tag": "⬆️ 32 points",
+      "url": "https://yeet.cx/blog/l7-firewall-in-the-kernel"
     }
   ],
   "space": [
+    {
+      "title": "Reditus Space completes first reentry vehicle",
+      "hot": "7/13",
+      "desc": "\nReditus Space, a startup developing recoverable and reusable spacecraft, has completed its first vehicle for launch later this year.\nThe post Reditus",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/reditus-space-completes-first-reentry-vehicle/"
+    },
+    {
+      "title": "Voyager completes acquisition of Astrobotic",
+      "hot": "7/13",
+      "desc": "\nVoyager Technologies has completed its acquisition of lunar infrastructure company Astrobotic Technology, weeks after Astrobotic won two NASA lunar l",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/voyager-completes-acquisition-of-astrobotic/"
+    },
+    {
+      "title": "Getting ready for lunar planetary defense",
+      "hot": "7/13",
+      "desc": "\nDevelopment in space is gaining serious momentum. Impressively, NASA recently unveiled plans for a new moon base — the first concrete step toward per",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/getting-ready-for-lunar-planetary-defense/"
+    },
+    {
+      "title": "ESA and Poland to establish a new civil security and resilience centre in Warsaw",
+      "hot": "7/13",
+      "desc": "The European Space Agency (ESA) and the Republic of Poland have announced that a new ESA centre focusing on civil security and resilience will be loca",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/About_Us/Corporate_news/ESA_and_Poland_to_establish_a_new_civil_security_and_resilience_centre_in_Warsaw"
+    },
     {
       "title": "ESA welcomes new UK space and defence gateway",
       "hot": "7/13",
@@ -349,6 +381,14 @@
       "source": "space",
       "tag": "SpaceNews",
       "url": "https://spacenews.com/china-lines-up-methalox-long-march-10c-as-commercial-workhorse-after-first-booster-recovery/"
+    },
+    {
+      "title": "Wild, Scenic, and Increasingly Rusty",
+      "hot": "7/13",
+      "desc": "Orange streams are now being spotted in hundreds of watersheds in permafrost areas throughout Alaska’s Brooks Range.",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/earth/earth-observatory/wild-scenic-and-increasingly-rusty/"
     },
     {
       "title": "SpaceX gears up for Starship Flight 13",
@@ -405,46 +445,6 @@
       "source": "space",
       "tag": "NASASpaceflight",
       "url": "https://www.nasaspaceflight.com/2026/07/booster-20-record-static-fire/"
-    },
-    {
-      "title": "Early Career Faculty (ECF) 2025 Awards",
-      "hot": "7/10",
-      "desc": "Back to ECF Home Advanced Diagnostics for High-Enthalpy Test Facilities Simulating Spacecraft Atmospheric Entry Planning for Autonomous Spacecraft Usi",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/early-career-faculty-ecf-2025-awards/"
-    },
-    {
-      "title": "NASA Volunteers Help Zooniverse Reach 1 Billion Classifications",
-      "hot": "7/10",
-      "desc": "The Zooniverse, a NASA grantee that runs the world’s largest platform for online people-powered research, has reached an extraordinary milestone: 1 bi",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/get-involved/citizen-science/nasa-volunteers-help-zooniverse-reach-1-billion-classifications/"
-    },
-    {
-      "title": "Earth observation satellites pass telecom in European space industry sales",
-      "hot": "7/10",
-      "desc": "\nMILAN – European space industry sales rebounded in 2025 after a contraction in 2024, Eurospace reported in its latest Facts and Figures report, prese",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/earth-observation-satellites-pass-telecom-in-european-space-industry-sales/"
-    },
-    {
-      "title": "China unveils members of state-backed commercial space consortium",
-      "hot": "7/10",
-      "desc": "\nHELSINKI — A Chinese government body has published a national commercial space consortium membership list, offering a rare indication of which compan",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/china-unveils-members-of-state-backed-commercial-space-consortium/"
-    },
-    {
-      "title": "China Launches and Catches Long March 10B",
-      "hot": "7/10",
-      "desc": "Chinarocket Co. has launched the Long March 10B rocket for the first time, safely reaching orbit and successfully “catching” the rocket’s first stage ",
-      "source": "space",
-      "tag": "Space Scout",
-      "url": "https://www.spacescout.info/2026/07/china-launches-and-catches-long-march-10b/"
     }
   ],
   "github": [
@@ -474,7 +474,7 @@
     },
     {
       "title": "Robbyant/lingbot-world-v2: Infinite Worlds with Versatile Interactions",
-      "hot": "⭐ 982",
+      "hot": "⭐ 996",
       "desc": "Infinite Worlds with Versatile Interactions",
       "source": "github",
       "tag": "Python",
@@ -482,7 +482,7 @@
     },
     {
       "title": "x4gKing/3x-ui-Upgrade: ",
-      "hot": "⭐ 907",
+      "hot": "⭐ 916",
       "desc": "x4gKing/3x-ui-Upgrade",
       "source": "github",
       "tag": "HTML",
@@ -490,7 +490,7 @@
     },
     {
       "title": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin: Codex plugin that turns attac",
-      "hot": "⭐ 766",
+      "hot": "⭐ 788",
       "desc": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
       "source": "github",
       "tag": "Python",
@@ -498,7 +498,7 @@
     },
     {
       "title": "Robbyant/lingbot-video: Scaling Mixture-of-Experts Video Pretraining for Embodie",
-      "hot": "⭐ 736",
+      "hot": "⭐ 744",
       "desc": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
       "source": "github",
       "tag": "Python",
@@ -506,7 +506,7 @@
     },
     {
       "title": "Robbyant/lingbot-vision: Self-supervised learning for spatial perception",
-      "hot": "⭐ 720",
+      "hot": "⭐ 726",
       "desc": "Self-supervised learning for spatial perception",
       "source": "github",
       "tag": "Python",
@@ -522,51 +522,51 @@
     },
     {
       "title": "op7418/guizang-material-illustration: 归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
-      "hot": "⭐ 616",
+      "hot": "⭐ 620",
       "desc": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
       "source": "github",
       "tag": "GitHub",
       "url": "https://github.com/op7418/guizang-material-illustration"
     },
     {
-      "title": "Robbyant/lingbot-vla-v2: From Foundation to Application",
-      "hot": "⭐ 502",
-      "desc": "From Foundation to Application",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/Robbyant/lingbot-vla-v2"
-    },
-    {
       "title": "x4gKing/PasarGuard-Node: ",
-      "hot": "⭐ 501",
+      "hot": "⭐ 511",
       "desc": "x4gKing/PasarGuard-Node",
       "source": "github",
       "tag": "Dockerfile",
       "url": "https://github.com/x4gKing/PasarGuard-Node"
     },
     {
+      "title": "Robbyant/lingbot-vla-v2: From Foundation to Application",
+      "hot": "⭐ 508",
+      "desc": "From Foundation to Application",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/Robbyant/lingbot-vla-v2"
+    },
+    {
       "title": "xiaotianfotos/homerail: Voice-first local agent orchestration runtime for audita",
-      "hot": "⭐ 493",
+      "hot": "⭐ 501",
       "desc": "Voice-first local agent orchestration runtime for auditable DAG workflows.",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/xiaotianfotos/homerail"
     },
     {
+      "title": "MDX-Tom/gpt-5.6-instruct: A Codex CLI jailbreak prompt and test pack for gpt-5.6",
+      "hot": "⭐ 493",
+      "desc": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/MDX-Tom/gpt-5.6-instruct"
+    },
+    {
       "title": "V4bel/Januscape: ",
-      "hot": "⭐ 482",
+      "hot": "⭐ 484",
       "desc": "V4bel/Januscape",
       "source": "github",
       "tag": "C",
       "url": "https://github.com/V4bel/Januscape"
-    },
-    {
-      "title": "William-Lu-stack/LuxyAI: AgenticOps for Kubernetes and cloud infrastructure.",
-      "hot": "⭐ 446",
-      "desc": "AgenticOps for Kubernetes and cloud infrastructure.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/William-Lu-stack/LuxyAI"
     }
   ]
 }
