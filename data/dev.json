@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "The Myth of the Post-Documentation Era",
-      "hot": "❤️ 65 💬 22",
+      "hot": "❤️ 66 💬 24",
       "desc": "There is a growing sentiment in engineering circles right now that documentation is a relic of the...",
       "source": "dev",
       "tag": "ai,  documentation",
@@ -10,7 +10,7 @@
     },
     {
       "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 34 💬 9",
+      "hot": "❤️ 37 💬 12",
       "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
       "source": "dev",
       "tag": "top7,  discuss",
@@ -18,11 +18,27 @@
     },
     {
       "title": "I Finally Built the Dev Opportunity Radar Website ❤️",
-      "hot": "❤️ 73 💬 28",
+      "hot": "❤️ 73 💬 30",
       "desc": "This is a submission for Weekend Challenge: Passion Edition   📌 TL;DR  I found this challenge on the...",
       "source": "dev",
       "tag": "devchallenge,  weekendchallenge",
       "url": "https://dev.to/hemapriya_kanagala/i-finally-built-the-dev-opportunity-radar-website-1dpi"
+    },
+    {
+      "title": "How I made a Rust hot path 27x faster, and the AI fix I refused to merge",
+      "hot": "❤️ 5 💬 0",
+      "desc": "Two years ago I open-sourced KeyEcho, a small desktop app that plays a mechanical-keyboard sound the...",
+      "source": "dev",
+      "tag": "rust,  ai",
+      "url": "https://dev.to/zacharylee/how-i-made-a-rust-hot-path-27x-faster-and-the-ai-fix-i-refused-to-merge-3llg"
+    },
+    {
+      "title": "Chasing the Sentry prize for DEV's Summer Bug Smash? Let us know what questions you have.",
+      "hot": "❤️ 5 💬 0",
+      "desc": "DEV just kicked off their Big Summer Bug Smash, an event all about fixing bugs and optimizing...",
+      "source": "dev",
+      "tag": "bugsmash,  devchallenge",
+      "url": "https://dev.to/sentry/chasing-the-sentry-prize-for-devs-summer-bug-smash-let-us-know-what-questions-you-have-1506"
     },
     {
       "title": "HTTP gets a QUERY method so complex searches can stop pretending to be POST\r\n\r\nhttps://www.theregister.com/devops/2026/07/13/http-gets-a-query-method-so-complex-searches-can-stop-pretending-to-be-post/5270192",
@@ -41,14 +57,6 @@
       "url": "https://dev.to/ben/this-is-remarkablehttpsbobdahackercomblogfifa-hack-3kb0"
     },
     {
-      "title": "How to Respectfully Contribute to Open Source",
-      "hot": "❤️ 5 💬 0",
-      "desc": "Below are some practices we have found essential in order to respectfully contribute to Open Source....",
-      "source": "dev",
-      "tag": "opensource",
-      "url": "https://dev.to/opensourcepledge/how-to-respectfully-contribute-to-open-source-cbh"
-    },
-    {
       "title": "The (no longer) missing multi-agent pattern: triggering dynamic workflows from an agent",
       "hot": "❤️ 8 💬 1",
       "desc": "When building multi-agent systems, rigid state graphs quickly fall apart in the face of dynamic user...",
@@ -58,11 +66,19 @@
     },
     {
       "title": "A Vibe Is Not a Verdict: I Built a Tool That's Allowed to Say 'I Don't Know'",
-      "hot": "❤️ 14 💬 4",
+      "hot": "❤️ 15 💬 5",
       "desc": "My gut screamed scam. My tool said 'I don't know' — and that refusal is what actually cracked the case. An experiment in",
       "source": "dev",
       "tag": "ai,  rust",
       "url": "https://dev.to/copyleftdev/a-vibe-is-not-a-verdict-i-built-a-tool-thats-allowed-to-say-i-dont-know-4foe"
+    },
+    {
+      "title": "How to Respectfully Contribute to Open Source",
+      "hot": "❤️ 5 💬 0",
+      "desc": "Below are some practices we have found essential in order to respectfully contribute to Open Source....",
+      "source": "dev",
+      "tag": "opensource",
+      "url": "https://dev.to/opensourcepledge/how-to-respectfully-contribute-to-open-source-cbh"
     },
     {
       "title": "Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2",
@@ -89,6 +105,14 @@
       "url": "https://dev.to/ben/a-lot-of-good-points-here-httpsantirezcomnews169-417f"
     },
     {
+      "title": "DiffusionGemma: 4x faster text generation",
+      "hot": "❤️ 10 💬 0",
+      "desc": "Our newest open experimental model delivers up to 4x faster inference on dedicated GPUs and...",
+      "source": "dev",
+      "tag": "gemma,  google",
+      "url": "https://dev.to/googleai/diffusiongemma-4x-faster-text-generation-fmd"
+    },
+    {
       "title": "Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI",
       "hot": "❤️ 6 💬 0",
       "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
@@ -97,28 +121,12 @@
       "url": "https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-1-mcp-and-antigravity-cli-3hh3"
     },
     {
-      "title": "Meme Monday",
-      "hot": "❤️ 42 💬 29",
-      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
-      "source": "dev",
-      "tag": "discuss,  jokes",
-      "url": "https://dev.to/ben/meme-monday-4eda"
-    },
-    {
       "title": "Building an Agentic FinOps Platform — Development Environment Setup, Google Antigravity, MCPs and Skills, and ADK Bootstrapping with Agents CLI",
       "hot": "❤️ 15 💬 0",
       "desc": "TL;DR — This article is going to be jam-packed with useful information, tips, tricks and hacks for...",
       "source": "dev",
       "tag": "finops,  antigravity",
       "url": "https://dev.to/gde/building-an-agentic-finops-platform-development-environment-setup-google-antigravity-mcps-and-4c43"
-    },
-    {
-      "title": "DiffusionGemma: 4x faster text generation",
-      "hot": "❤️ 5 💬 0",
-      "desc": "Our newest open experimental model delivers up to 4x faster inference on dedicated GPUs and...",
-      "source": "dev",
-      "tag": "gemma,  google",
-      "url": "https://dev.to/googleai/diffusiongemma-4x-faster-text-generation-fmd"
     },
     {
       "title": "Stop Copy-Pasting `dns:` Blocks: Introducing Transparent DNS Injection in Gubernator",
@@ -151,15 +159,7 @@
       "source": "dev",
       "tag": "googleantigravity,  python",
       "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82"
-    },
-    {
-      "title": "MCP Configuration for Looker with Antigravity CLI",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article covers the MCP setup and configuration for using Looker and underlying Gemini LLM with...",
-      "source": "dev",
-      "tag": "looker,  lookml",
-      "url": "https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d"
     }
   ],
-  "updatedAt": "2026-07-14T16:05:25.765Z"
+  "updatedAt": "2026-07-14T17:37:18.847Z"
 }
