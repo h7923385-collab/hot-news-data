@@ -1,24 +1,24 @@
 {
   "data": [
     {
-      "title": "The Myth of the Post-Documentation Era",
-      "hot": "❤️ 66 💬 24",
-      "desc": "There is a growing sentiment in engineering circles right now that documentation is a relic of the...",
-      "source": "dev",
-      "tag": "ai,  documentation",
-      "url": "https://dev.to/ben/the-myth-of-the-post-documentation-era-39al"
-    },
-    {
       "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 37 💬 12",
+      "hot": "❤️ 37 💬 14",
       "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
       "source": "dev",
       "tag": "top7,  discuss",
       "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-815"
     },
     {
+      "title": "The Myth of the Post-Documentation Era",
+      "hot": "❤️ 67 💬 24",
+      "desc": "There is a growing sentiment in engineering circles right now that documentation is a relic of the...",
+      "source": "dev",
+      "tag": "ai,  documentation",
+      "url": "https://dev.to/ben/the-myth-of-the-post-documentation-era-39al"
+    },
+    {
       "title": "I Finally Built the Dev Opportunity Radar Website ❤️",
-      "hot": "❤️ 73 💬 30",
+      "hot": "❤️ 73 💬 31",
       "desc": "This is a submission for Weekend Challenge: Passion Edition   📌 TL;DR  I found this challenge on the...",
       "source": "dev",
       "tag": "devchallenge,  weekendchallenge",
@@ -33,12 +33,12 @@
       "url": "https://dev.to/zacharylee/how-i-made-a-rust-hot-path-27x-faster-and-the-ai-fix-i-refused-to-merge-3llg"
     },
     {
-      "title": "Chasing the Sentry prize for DEV's Summer Bug Smash? Let us know what questions you have.",
+      "title": "Building a Hybrid Docker Orchestrator in Go: The Journey from Single VM to Multi-Node Cluster",
       "hot": "❤️ 5 💬 0",
-      "desc": "DEV just kicked off their Big Summer Bug Smash, an event all about fixing bugs and optimizing...",
+      "desc": "What if you could combine the native simplicity of Docker Compose with the decentralized targeting...",
       "source": "dev",
-      "tag": "bugsmash,  devchallenge",
-      "url": "https://dev.to/sentry/chasing-the-sentry-prize-for-devs-summer-bug-smash-let-us-know-what-questions-you-have-1506"
+      "tag": "devops,  docker",
+      "url": "https://dev.to/gde/building-a-hybrid-docker-orchestrator-in-go-the-journey-from-single-vm-to-multi-node-cluster-3i7m"
     },
     {
       "title": "HTTP gets a QUERY method so complex searches can stop pretending to be POST\r\n\r\nhttps://www.theregister.com/devops/2026/07/13/http-gets-a-query-method-so-complex-searches-can-stop-pretending-to-be-post/5270192",
@@ -57,20 +57,28 @@
       "url": "https://dev.to/ben/this-is-remarkablehttpsbobdahackercomblogfifa-hack-3kb0"
     },
     {
+      "title": "A Vibe Is Not a Verdict: I Built a Tool That's Allowed to Say 'I Don't Know'",
+      "hot": "❤️ 15 💬 6",
+      "desc": "My gut screamed scam. My tool said 'I don't know' — and that refusal is what actually cracked the case. An experiment in",
+      "source": "dev",
+      "tag": "ai,  rust",
+      "url": "https://dev.to/copyleftdev/a-vibe-is-not-a-verdict-i-built-a-tool-thats-allowed-to-say-i-dont-know-4foe"
+    },
+    {
       "title": "The (no longer) missing multi-agent pattern: triggering dynamic workflows from an agent",
-      "hot": "❤️ 8 💬 1",
+      "hot": "❤️ 8 💬 3",
       "desc": "When building multi-agent systems, rigid state graphs quickly fall apart in the face of dynamic user...",
       "source": "dev",
       "tag": "ai,  agents",
       "url": "https://dev.to/googleai/the-no-longer-missing-multi-agent-pattern-triggering-dynamic-workflows-from-an-agent-ef3"
     },
     {
-      "title": "A Vibe Is Not a Verdict: I Built a Tool That's Allowed to Say 'I Don't Know'",
-      "hot": "❤️ 15 💬 5",
-      "desc": "My gut screamed scam. My tool said 'I don't know' — and that refusal is what actually cracked the case. An experiment in",
+      "title": "Chasing the Sentry prize for DEV's Summer Bug Smash? Let us know what questions you have.",
+      "hot": "❤️ 8 💬 1",
+      "desc": "DEV just kicked off their Big Summer Bug Smash, an event all about fixing bugs and optimizing...",
       "source": "dev",
-      "tag": "ai,  rust",
-      "url": "https://dev.to/copyleftdev/a-vibe-is-not-a-verdict-i-built-a-tool-thats-allowed-to-say-i-dont-know-4foe"
+      "tag": "bugsmash,  devchallenge",
+      "url": "https://dev.to/sentry/chasing-the-sentry-prize-for-devs-summer-bug-smash-let-us-know-what-questions-you-have-1506"
     },
     {
       "title": "How to Respectfully Contribute to Open Source",
@@ -89,6 +97,14 @@
       "url": "https://dev.to/gde/porting-gemma-4-2b-4b-12b-to-aws-inferentia2-2jnf"
     },
     {
+      "title": "DiffusionGemma: 4x faster text generation",
+      "hot": "❤️ 15 💬 0",
+      "desc": "Our newest open experimental model delivers up to 4x faster inference on dedicated GPUs and...",
+      "source": "dev",
+      "tag": "gemma,  google",
+      "url": "https://dev.to/googleai/diffusiongemma-4x-faster-text-generation-fmd"
+    },
+    {
       "title": "2B Gemma 4 QAT Deployment with GCE, NVIDIA L4, MCP, and Antigravity CLI",
       "hot": "❤️ 5 💬 0",
       "desc": "This article provides a step by step deployment guide for Gemma 4 to a Google Compute Engine hosted...",
@@ -103,14 +119,6 @@
       "source": "dev",
       "tag": "ai,  llm",
       "url": "https://dev.to/ben/a-lot-of-good-points-here-httpsantirezcomnews169-417f"
-    },
-    {
-      "title": "DiffusionGemma: 4x faster text generation",
-      "hot": "❤️ 10 💬 0",
-      "desc": "Our newest open experimental model delivers up to 4x faster inference on dedicated GPUs and...",
-      "source": "dev",
-      "tag": "gemma,  google",
-      "url": "https://dev.to/googleai/diffusiongemma-4x-faster-text-generation-fmd"
     },
     {
       "title": "Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI",
@@ -151,15 +159,7 @@
       "source": "dev",
       "tag": "ai,  cloud",
       "url": "https://dev.to/gde/gcp-billing-vertex-ai-solving-gemini-cost-allocation-in-a-single-project-vertex-ai-dynamic-5aok"
-    },
-    {
-      "title": "Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "source": "dev",
-      "tag": "googleantigravity,  python",
-      "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82"
     }
   ],
-  "updatedAt": "2026-07-14T17:37:18.847Z"
+  "updatedAt": "2026-07-14T18:55:18.551Z"
 }
