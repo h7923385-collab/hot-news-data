@@ -1,169 +1,31 @@
 {
-  "updatedAt": "2026-07-14T18:55:18.551Z",
+  "updatedAt": "2026-07-14T20:01:57.296Z",
   "source": "live",
-  "tech": [
-    {
-      "title": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
-      "hot": "3.0m",
-      "desc": "marco-nett.de",
-      "source": "tech",
-      "tag": "⬆️ 207 points",
-      "url": "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/"
-    },
-    {
-      "title": "The Tower Keeps Rising",
-      "hot": "3.0m",
-      "desc": "lucumr.pocoo.org",
-      "source": "tech",
-      "tag": "⬆️ 111 points",
-      "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/"
-    },
-    {
-      "title": "Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
-      "hot": "3.0m",
-      "desc": "prismml.com",
-      "source": "tech",
-      "tag": "⬆️ 42 points",
-      "url": "https://prismml.com/news/bonsai-27b"
-    },
-    {
-      "title": "Your 'app' could have been a webpage (so I fixed it for you)",
-      "hot": "3.0m",
-      "desc": "danq.me",
-      "source": "tech",
-      "tag": "⬆️ 501 points",
-      "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/"
-    },
-    {
-      "title": "How to stop Claude from saying load-bearing",
-      "hot": "2.9m",
-      "desc": "jola.dev",
-      "source": "tech",
-      "tag": "⬆️ 250 points",
-      "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing"
-    },
-    {
-      "title": "The largest available Minecraft world, totalling 15 TB",
-      "hot": "2.9m",
-      "desc": "2b2t.place",
-      "source": "tech",
-      "tag": "⬆️ 21 points",
-      "url": "https://2b2t.place/1million"
-    },
-    {
-      "title": "A tiny cell that broke a big rule of biology",
-      "hot": "2.9m",
-      "desc": "grist.org",
-      "source": "tech",
-      "tag": "⬆️ 97 points",
-      "url": "https://grist.org/science/nitrogen-cycle-cell-discovery-nitroplast-science-fertilizer-algae-bacteria/"
-    },
-    {
-      "title": "The zero-cost fallacy: open-source software in the agentic era",
-      "hot": "2.9m",
-      "desc": "thoughtworks.com",
-      "source": "tech",
-      "tag": "⬆️ 28 points",
-      "url": "https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era"
-    },
-    {
-      "title": "Show HN: Opening lines of famous literary works",
-      "hot": "2.9m",
-      "desc": "verbaprima.com",
-      "source": "tech",
-      "tag": "⬆️ 103 points",
-      "url": "https://www.verbaprima.com/"
-    },
-    {
-      "title": "Kontigo (YC S24) Is Hiring (Head of Security)",
-      "hot": "2.9m",
-      "desc": "ycombinator.com",
-      "source": "tech",
-      "tag": "⬆️ 1 points",
-      "url": "https://www.ycombinator.com/companies/kontigo/jobs/uNttrlv-head-of-security"
-    },
-    {
-      "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
-      "hot": "2.9m",
-      "desc": "agnost.ai",
-      "source": "tech",
-      "tag": "⬆️ 20 points",
-      "url": "https://agnost.ai"
-    },
-    {
-      "title": "Are we offloading too much of our thinking to AI?",
-      "hot": "2.8m",
-      "desc": "artfish.ai",
-      "source": "tech",
-      "tag": "⬆️ 236 points",
-      "url": "https://www.artfish.ai/p/offloading-thinking-to-ai"
-    },
-    {
-      "title": "Beautiful Type Erasure with C++26 Reflection",
-      "hot": "2.8m",
-      "desc": "ryanjk5.github.io",
-      "source": "tech",
-      "tag": "⬆️ 86 points",
-      "url": "https://ryanjk5.github.io/posts/rjk-duck/"
-    },
-    {
-      "title": "Punch yourself in the face with reality",
-      "hot": "2.8m",
-      "desc": "adi.bio",
-      "source": "tech",
-      "tag": "⬆️ 151 points",
-      "url": "https://adi.bio/reality"
-    },
-    {
-      "title": "Paxos Made Simple (2001)[pdf]",
-      "hot": "2.8m",
-      "desc": "lamport.azurewebsites.net",
-      "source": "tech",
-      "tag": "⬆️ 54 points",
-      "url": "https://lamport.azurewebsites.net/pubs/paxos-simple.pdf"
-    },
-    {
-      "title": "S&P downgrades Oracle to BBB – only one notch above junk level",
-      "hot": "2.8m",
-      "desc": "heise.de",
-      "source": "tech",
-      "tag": "⬆️ 209 points",
-      "url": "https://www.heise.de/en/news/S-P-downgrades-Oracle-to-BBB-only-one-notch-above-junk-level-11363472.html"
-    },
-    {
-      "title": "Superoptimizer – A Look at the Smallest Program",
-      "hot": "2.8m",
-      "desc": "dl.acm.org",
-      "source": "tech",
-      "tag": "⬆️ 31 points",
-      "url": "https://dl.acm.org/doi/epdf/10.1145/36177.36194"
-    },
-    {
-      "title": "How the FSF sysadmins block botnets with reaction",
-      "hot": "2.7m",
-      "desc": "fsf.org",
-      "source": "tech",
-      "tag": "⬆️ 129 points",
-      "url": "https://www.fsf.org/blogs/community/blocking-botnets-with-reaction"
-    },
-    {
-      "title": "Show HN: I RL-trained an agent that trains models with RL (for –$1.3k)",
-      "hot": "2.7m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 79 points",
-      "url": "https://github.com/Danau5tin/ai-trains-ai"
-    },
-    {
-      "title": "European \"age verification\" \"app\" forcing everyone to use Android or iOS",
-      "hot": "2.7m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 339 points",
-      "url": "https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19"
-    }
-  ],
   "space": [
+    {
+      "title": "Spain’s Pangea Propulsion Opens New Manufacturing Facility",
+      "hot": "7/14",
+      "desc": "Pangea Propulsion has inaugurated a new 1,000-square-metre manufacturing facility in L’Hospitalet de Llobregat, near Barcelona, investing an initial €",
+      "source": "space",
+      "tag": "European Spaceflight",
+      "url": "https://europeanspaceflight.com/spains-pangea-propulsion-opens-new-manufacturing-facility/"
+    },
+    {
+      "title": "Space acquisition and NRO picks face SASC",
+      "hot": "7/14",
+      "desc": "\nErich Hernandez-Baquero, nominated to become the Air Force’s top civilian space acquisition official, and Roger Mason, the administration’s choice to",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/space-acquisition-and-nro-picks-face-sasc/"
+    },
+    {
+      "title": "New Russian-American Crew Arrives at ISS",
+      "hot": "7/14",
+      "desc": "Russia launched a new crew to the International Space Station today, Soyuz MS-29.  Roscosmos cosmonauts Pyotr Dubrov and Anna Kikina, and NASA astrona",
+      "source": "space",
+      "tag": "SpacePolicyOnline.com",
+      "url": "https://spacepolicyonline.com/news/new-russian-american-crew-arrives-at-iss/"
+    },
     {
       "title": "NASA Astronaut Anil Menon, Crewmates Arrive at Space Station",
       "hot": "7/14",
@@ -259,36 +121,12 @@
       "source": "space",
       "tag": "SpaceNews",
       "url": "https://spacenews.com/defense-spending-lifts-europes-space-economy/"
-    },
-    {
-      "title": "NASA Study Points to Smoother Air Taxi Rides",
-      "hot": "7/13",
-      "desc": "No one wants to get into an uncomfortable aircraft. NASA research could help the emerging industry of air taxis —small, vertical-takeoff-and-landing a",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-study-points-to-smoother-air-taxi-rides/"
-    },
-    {
-      "title": "L3Harris, Sierra Space to build 36 satellites to expand U.S. missile-tracking network",
-      "hot": "7/13",
-      "desc": "\nThe Space Development Agency awarded the companies a combined $1.75 billion for next batch of missile-tracking satellites\nThe post L3Harris, Sierra S",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/l3harris-sierra-space-to-build-36-satellites-to-expand-u-s-missile-tracking-network/"
-    },
-    {
-      "title": "Launch Preview: Soyuz to launch crew to ISS, Starship to fly another test flight",
-      "hot": "7/13",
-      "desc": "Seven launches are scheduled worldwide this week, including the 13th flight test of SpaceX’s Starship…\nThe post Launch Preview: Soyuz to launch crew t",
-      "source": "space",
-      "tag": "NASASpaceflight",
-      "url": "https://www.nasaspaceflight.com/2026/07/launch-preview-071326/"
     }
   ],
   "dev": [
     {
       "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 37 💬 14",
+      "hot": "❤️ 42 💬 14",
       "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
       "source": "dev",
       "tag": "top7,  discuss",
@@ -303,6 +141,14 @@
       "url": "https://dev.to/ben/the-myth-of-the-post-documentation-era-39al"
     },
     {
+      "title": "DEV’s Big Summer Bug Smash is now LIVE! Share $5,000 in cash prizes, skateboards, and more across 20+ winners. 🐛🐞🪲",
+      "hot": "❤️ 29 💬 4",
+      "desc": "Today is National Be Nice to Bugs Day in the U.S. and we’re thrilled to launch our Big Summer Bug...",
+      "source": "dev",
+      "tag": "bugsmash,  devchallenge",
+      "url": "https://dev.to/devteam/devs-big-summer-bug-smash-is-now-live-share-5000-in-cash-prizes-skateboards-and-more-across-57mk"
+    },
+    {
       "title": "I Finally Built the Dev Opportunity Radar Website ❤️",
       "hot": "❤️ 73 💬 31",
       "desc": "This is a submission for Weekend Challenge: Passion Edition   📌 TL;DR  I found this challenge on the...",
@@ -312,7 +158,7 @@
     },
     {
       "title": "How I made a Rust hot path 27x faster, and the AI fix I refused to merge",
-      "hot": "❤️ 5 💬 0",
+      "hot": "❤️ 6 💬 1",
       "desc": "Two years ago I open-sourced KeyEcho, a small desktop app that plays a mechanical-keyboard sound the...",
       "source": "dev",
       "tag": "rust,  ai",
@@ -437,14 +283,6 @@
       "source": "dev",
       "tag": "mentalhealth,  career",
       "url": "https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng"
-    },
-    {
-      "title": "[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action",
-      "hot": "❤️ 7 💬 0",
-      "desc": "Pain Point: How to Accurately Allocate Gemini API Costs Within the Same Project?   When...",
-      "source": "dev",
-      "tag": "ai,  cloud",
-      "url": "https://dev.to/gde/gcp-billing-vertex-ai-solving-gemini-cost-allocation-in-a-single-project-vertex-ai-dynamic-5aok"
     }
   ],
   "github": [
@@ -474,7 +312,7 @@
     },
     {
       "title": "MDX-Tom/gpt-5.6-instruct: A Codex CLI jailbreak prompt and test pack for gpt-5.6",
-      "hot": "⭐ 985",
+      "hot": "⭐ 987",
       "desc": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
       "source": "github",
       "tag": "Python",
@@ -482,7 +320,7 @@
     },
     {
       "title": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin: Codex plugin that turns attac",
-      "hot": "⭐ 960",
+      "hot": "⭐ 961",
       "desc": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
       "source": "github",
       "tag": "Python",
@@ -490,7 +328,7 @@
     },
     {
       "title": "littledivy/mimic: Intercept any app, then call it from Python like a library",
-      "hot": "⭐ 891",
+      "hot": "⭐ 896",
       "desc": "Intercept any app, then call it from Python like a library",
       "source": "github",
       "tag": "Python",
@@ -498,7 +336,7 @@
     },
     {
       "title": "mereyabdenbekuly-ctrl/clodex-ide: Local-first, zero-trust agentic IDE for verifi",
-      "hot": "⭐ 800",
+      "hot": "⭐ 801",
       "desc": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
       "source": "github",
       "tag": "TypeScript",
@@ -514,7 +352,7 @@
     },
     {
       "title": "AlephAITech/WorkBuddyGuide: A practical, open-source guide to mastering WorkBudd",
-      "hot": "⭐ 675",
+      "hot": "⭐ 678",
       "desc": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
       "source": "github",
       "tag": "Python",
@@ -530,7 +368,7 @@
     },
     {
       "title": "x4gKing/Marzban-Panel: ",
-      "hot": "⭐ 622",
+      "hot": "⭐ 631",
       "desc": "x4gKing/Marzban-Panel",
       "source": "github",
       "tag": "Dockerfile",
@@ -538,35 +376,197 @@
     },
     {
       "title": "William-Lu-stack/Flawless: AI SRE AgenticOps for Kubernetes and cloud infrastruc",
-      "hot": "⭐ 613",
+      "hot": "⭐ 615",
       "desc": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/William-Lu-stack/Flawless"
     },
     {
-      "title": "cosmtrek/mindwalk: A visualization tool that replays coding-agent sessions on a ",
-      "hot": "⭐ 563",
-      "desc": "A visualization tool that replays coding-agent sessions on a 3D map of your codebase.",
-      "source": "github",
-      "tag": "Go",
-      "url": "https://github.com/cosmtrek/mindwalk"
-    },
-    {
       "title": "modiqo/waggle: Attributed, resolvable artifact references for agent handoffs — a",
-      "hot": "⭐ 562",
+      "hot": "⭐ 580",
       "desc": "Attributed, resolvable artifact references for agent handoffs — a ~30-byte token instead of pasted context. MCP-native; the reference layer for the ag",
       "source": "github",
       "tag": "Rust",
       "url": "https://github.com/modiqo/waggle"
     },
     {
+      "title": "cosmtrek/mindwalk: A visualization tool that replays coding-agent sessions on a ",
+      "hot": "⭐ 564",
+      "desc": "A visualization tool that replays coding-agent sessions on a 3D map of your codebase.",
+      "source": "github",
+      "tag": "Go",
+      "url": "https://github.com/cosmtrek/mindwalk"
+    },
+    {
       "title": "Kappaemme-git/codex-first-customer-finder-skill: A Codex skill that finds eviden",
-      "hot": "⭐ 536",
+      "hot": "⭐ 553",
       "desc": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill"
+    }
+  ],
+  "tech": [
+    {
+      "title": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
+      "hot": "3.0m",
+      "desc": "marco-nett.de",
+      "source": "tech",
+      "tag": "⬆️ 278 points",
+      "url": "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/"
+    },
+    {
+      "title": "The Tower Keeps Rising",
+      "hot": "3.0m",
+      "desc": "lucumr.pocoo.org",
+      "source": "tech",
+      "tag": "⬆️ 177 points",
+      "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/"
+    },
+    {
+      "title": "Bonsai 27B: A 27B-Class Model that runs on a phone",
+      "hot": "3.0m",
+      "desc": "prismml.com",
+      "source": "tech",
+      "tag": "⬆️ 110 points",
+      "url": "https://prismml.com/news/bonsai-27b"
+    },
+    {
+      "title": "Your 'app' could have been a webpage (so I fixed it for you)",
+      "hot": "3.0m",
+      "desc": "danq.me",
+      "source": "tech",
+      "tag": "⬆️ 546 points",
+      "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/"
+    },
+    {
+      "title": "The largest available Minecraft world, totalling 15 TB",
+      "hot": "2.9m",
+      "desc": "2b2t.place",
+      "source": "tech",
+      "tag": "⬆️ 50 points",
+      "url": "https://2b2t.place/1million"
+    },
+    {
+      "title": "How to stop Claude from saying load-bearing",
+      "hot": "2.9m",
+      "desc": "jola.dev",
+      "source": "tech",
+      "tag": "⬆️ 291 points",
+      "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing"
+    },
+    {
+      "title": "The zero-cost fallacy: open-source software in the agentic era",
+      "hot": "2.9m",
+      "desc": "thoughtworks.com",
+      "source": "tech",
+      "tag": "⬆️ 55 points",
+      "url": "https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era"
+    },
+    {
+      "title": "A tiny cell that broke a big rule of biology",
+      "hot": "2.9m",
+      "desc": "grist.org",
+      "source": "tech",
+      "tag": "⬆️ 118 points",
+      "url": "https://grist.org/science/nitrogen-cycle-cell-discovery-nitroplast-science-fertilizer-algae-bacteria/"
+    },
+    {
+      "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
+      "hot": "2.9m",
+      "desc": "mindgard.ai",
+      "source": "tech",
+      "tag": "⬆️ 30 points",
+      "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left"
+    },
+    {
+      "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
+      "hot": "2.9m",
+      "desc": "agnost.ai",
+      "source": "tech",
+      "tag": "⬆️ 23 points",
+      "url": "https://agnost.ai"
+    },
+    {
+      "title": "Superoptimizer – A Look at the Smallest Program",
+      "hot": "2.9m",
+      "desc": "dl.acm.org",
+      "source": "tech",
+      "tag": "⬆️ 46 points",
+      "url": "https://dl.acm.org/doi/epdf/10.1145/36177.36194"
+    },
+    {
+      "title": "Kontigo (YC S24) Is Hiring (Head of Security)",
+      "hot": "2.8m",
+      "desc": "ycombinator.com",
+      "source": "tech",
+      "tag": "⬆️ 1 points",
+      "url": "https://www.ycombinator.com/companies/kontigo/jobs/uNttrlv-head-of-security"
+    },
+    {
+      "title": "Beautiful Type Erasure with C++26 Reflection",
+      "hot": "2.8m",
+      "desc": "ryanjk5.github.io",
+      "source": "tech",
+      "tag": "⬆️ 96 points",
+      "url": "https://ryanjk5.github.io/posts/rjk-duck/"
+    },
+    {
+      "title": "Punch yourself in the face with reality",
+      "hot": "2.8m",
+      "desc": "adi.bio",
+      "source": "tech",
+      "tag": "⬆️ 165 points",
+      "url": "https://adi.bio/reality"
+    },
+    {
+      "title": "How the FSF sysadmins block botnets with reaction",
+      "hot": "2.8m",
+      "desc": "fsf.org",
+      "source": "tech",
+      "tag": "⬆️ 142 points",
+      "url": "https://www.fsf.org/blogs/community/blocking-botnets-with-reaction"
+    },
+    {
+      "title": "Show HN: Opening lines of famous literary works",
+      "hot": "2.8m",
+      "desc": "verbaprima.com",
+      "source": "tech",
+      "tag": "⬆️ 110 points",
+      "url": "https://www.verbaprima.com/"
+    },
+    {
+      "title": "Paxos Made Simple (2001)[pdf]",
+      "hot": "2.8m",
+      "desc": "lamport.azurewebsites.net",
+      "source": "tech",
+      "tag": "⬆️ 58 points",
+      "url": "https://lamport.azurewebsites.net/pubs/paxos-simple.pdf"
+    },
+    {
+      "title": "The Agentic Loop: Three loops in a trench coat",
+      "hot": "2.7m",
+      "desc": "bobbytables.io",
+      "source": "tech",
+      "tag": "⬆️ 42 points",
+      "url": "https://www.bobbytables.io/p/the-agentic-loop-three-loops-in-a"
+    },
+    {
+      "title": "European \"age verification\" \"app\" forcing everyone to use Android or iOS",
+      "hot": "2.7m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 378 points",
+      "url": "https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19"
+    },
+    {
+      "title": "Show HN: I RL-trained an agent that trains models with RL (for –$1.3k)",
+      "hot": "2.7m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 81 points",
+      "url": "https://github.com/Danau5tin/ai-trains-ai"
     }
   ]
 }
