@@ -1,7 +1,339 @@
 {
-  "updatedAt": "2026-07-15T06:03:29.311Z",
+  "updatedAt": "2026-07-15T08:38:47.967Z",
   "source": "live",
+  "dev": [
+    {
+      "title": "The Myth of the Post-Documentation Era",
+      "hot": "❤️ 74 💬 26",
+      "desc": "There is a growing sentiment in engineering circles right now that documentation is a relic of the...",
+      "source": "dev",
+      "tag": "ai,  documentation",
+      "url": "https://dev.to/ben/the-myth-of-the-post-documentation-era-39al"
+    },
+    {
+      "title": "This is remarkable\r\n\r\nhttps://bobdahacker.com/blog/fifa-hack",
+      "hot": "❤️ 3 💬 0",
+      "desc": "I...",
+      "source": "dev",
+      "tag": "Dev.to",
+      "url": "https://dev.to/ben/this-is-remarkablehttpsbobdahackercomblogfifa-hack-3kb0"
+    },
+    {
+      "title": "How I made a Rust hot path 27x faster, and the AI fix I refused to merge",
+      "hot": "❤️ 9 💬 1",
+      "desc": "Two years ago I open-sourced KeyEcho, a small desktop app that plays a mechanical-keyboard sound the...",
+      "source": "dev",
+      "tag": "rust,  ai",
+      "url": "https://dev.to/zacharylee/how-i-made-a-rust-hot-path-27x-faster-and-the-ai-fix-i-refused-to-merge-3llg"
+    },
+    {
+      "title": "4B Gemma 4 QAT Deployment with GCE, NVIDIA L4, MCP, and Antigravity CLI",
+      "hot": "❤️ 5 💬 0",
+      "desc": "This article provides a step by step deployment guide for Gemma 4 to a Google Compute Engine hosted...",
+      "source": "dev",
+      "tag": "gce,  4l",
+      "url": "https://dev.to/gde/4b-gemma-4-qat-deployment-with-gce-nvidia-l4-mcp-and-antigravity-cli-gh6"
+    },
+    {
+      "title": "HTTP gets a QUERY method so complex searches can stop pretending to be POST\r\n\r\nhttps://www.theregister.com/devops/2026/07/13/http-gets-a-query-method-so-complex-searches-can-stop-pretending-to-be-post/5270192",
+      "hot": "❤️ 5 💬 0",
+      "desc": "...",
+      "source": "dev",
+      "tag": "api,  networking",
+      "url": "https://dev.to/ben/http-gets-a-query-method-so-complex-searches-can-stop-pretending-to-be-post-j28"
+    },
+    {
+      "title": "I Finally Built the Dev Opportunity Radar Website ❤️",
+      "hot": "❤️ 81 💬 38",
+      "desc": "This is a submission for Weekend Challenge: Passion Edition   📌 TL;DR  I found this challenge on the...",
+      "source": "dev",
+      "tag": "devchallenge,  weekendchallenge",
+      "url": "https://dev.to/hemapriya_kanagala/i-finally-built-the-dev-opportunity-radar-website-1dpi"
+    },
+    {
+      "title": "A lot of good points here https://antirez.com/news/169",
+      "hot": "❤️ 5 💬 0",
+      "desc": "antirez.com",
+      "source": "dev",
+      "tag": "ai,  llm",
+      "url": "https://dev.to/ben/a-lot-of-good-points-here-httpsantirezcomnews169-417f"
+    },
+    {
+      "title": "DEV’s Big Summer Bug Smash is now LIVE! Share $5,000 in cash prizes, skateboards, and more across 20+ winners. 🐛🐞🪲",
+      "hot": "❤️ 53 💬 15",
+      "desc": "Today is National Be Nice to Bugs Day in the U.S. and we’re thrilled to launch our Big Summer Bug...",
+      "source": "dev",
+      "tag": "bugsmash,  devchallenge",
+      "url": "https://dev.to/devteam/devs-big-summer-bug-smash-is-now-live-share-5000-in-cash-prizes-skateboards-and-more-across-57mk"
+    },
+    {
+      "title": "Chasing the Sentry prize for DEV's Summer Bug Smash? Let us know what questions you have.",
+      "hot": "❤️ 14 💬 3",
+      "desc": "DEV just kicked off their Big Summer Bug Smash, an event all about fixing bugs and optimizing...",
+      "source": "dev",
+      "tag": "bugsmash,  devchallenge",
+      "url": "https://dev.to/sentry/chasing-the-sentry-prize-for-devs-summer-bug-smash-let-us-know-what-questions-you-have-1506"
+    },
+    {
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "hot": "❤️ 58 💬 26",
+      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+      "source": "dev",
+      "tag": "top7,  discuss",
+      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-815"
+    },
+    {
+      "title": "The (no longer) missing multi-agent pattern: triggering dynamic workflows from an agent",
+      "hot": "❤️ 8 💬 4",
+      "desc": "When building multi-agent systems, rigid state graphs quickly fall apart in the face of dynamic user...",
+      "source": "dev",
+      "tag": "ai,  agents",
+      "url": "https://dev.to/googleai/the-no-longer-missing-multi-agent-pattern-triggering-dynamic-workflows-from-an-agent-ef3"
+    },
+    {
+      "title": "Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
+      "source": "dev",
+      "tag": "mcps,  googleantigravity",
+      "url": "https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-1-mcp-and-antigravity-cli-3hh3"
+    },
+    {
+      "title": "Building a Hybrid Docker Orchestrator in Go: The Journey from Single VM to Multi-Node Cluster",
+      "hot": "❤️ 6 💬 0",
+      "desc": "What if you could combine the native simplicity of Docker Compose with the decentralized targeting...",
+      "source": "dev",
+      "tag": "devops,  docker",
+      "url": "https://dev.to/gde/building-a-hybrid-docker-orchestrator-in-go-the-journey-from-single-vm-to-multi-node-cluster-3i7m"
+    },
+    {
+      "title": "How to Respectfully Contribute to Open Source",
+      "hot": "❤️ 7 💬 1",
+      "desc": "Below are some practices we have found essential in order to respectfully contribute to Open Source....",
+      "source": "dev",
+      "tag": "opensource",
+      "url": "https://dev.to/opensourcepledge/how-to-respectfully-contribute-to-open-source-cbh"
+    },
+    {
+      "title": "DiffusionGemma: 4x faster text generation",
+      "hot": "❤️ 16 💬 0",
+      "desc": "Our newest open experimental model delivers up to 4x faster inference on dedicated GPUs and...",
+      "source": "dev",
+      "tag": "gemma,  google",
+      "url": "https://dev.to/googleai/diffusiongemma-4x-faster-text-generation-fmd"
+    },
+    {
+      "title": "Building an Agentic FinOps Platform — Development Environment Setup, Google Antigravity, MCPs and Skills, and ADK Bootstrapping with Agents CLI",
+      "hot": "❤️ 15 💬 0",
+      "desc": "TL;DR — This article is going to be jam-packed with useful information, tips, tricks and hacks for...",
+      "source": "dev",
+      "tag": "finops,  antigravity",
+      "url": "https://dev.to/gde/building-an-agentic-finops-platform-development-environment-setup-google-antigravity-mcps-and-4c43"
+    },
+    {
+      "title": "Should I quit IT or just live through the burnout?",
+      "hot": "❤️ 161 💬 119",
+      "desc": "Some of you may have noticed I disappeared a bit from the community over the last couple of weeks....",
+      "source": "dev",
+      "tag": "mentalhealth,  career",
+      "url": "https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng"
+    },
+    {
+      "title": "Stop Copy-Pasting `dns:` Blocks: Introducing Transparent DNS Injection in Gubernator",
+      "hot": "❤️ 8 💬 0",
+      "desc": "How we eliminated network configuration boilerplate in Docker Compose deployments by dynamically injecting CoreDNS serve",
+      "source": "dev",
+      "tag": "docker,  go",
+      "url": "https://dev.to/gde/stop-copy-pasting-dns-blocks-introducing-transparent-dns-injection-in-gubernator-ad4"
+    },
+    {
+      "title": "[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action",
+      "hot": "❤️ 7 💬 0",
+      "desc": "Pain Point: How to Accurately Allocate Gemini API Costs Within the Same Project?   When...",
+      "source": "dev",
+      "tag": "ai,  cloud",
+      "url": "https://dev.to/gde/gcp-billing-vertex-ai-solving-gemini-cost-allocation-in-a-single-project-vertex-ai-dynamic-5aok"
+    },
+    {
+      "title": "A Vibe Is Not a Verdict: I Built a Tool That's Allowed to Say 'I Don't Know'",
+      "hot": "❤️ 15 💬 9",
+      "desc": "My gut screamed scam. My tool said 'I don't know' — and that refusal is what actually cracked the case. An experiment in",
+      "source": "dev",
+      "tag": "ai,  rust",
+      "url": "https://dev.to/copyleftdev/a-vibe-is-not-a-verdict-i-built-a-tool-thats-allowed-to-say-i-dont-know-4foe"
+    }
+  ],
+  "tech": [
+    {
+      "title": "Jurassic Park computers in excruciating detail",
+      "hot": "3.0m",
+      "desc": "fabiensanglard.net",
+      "source": "tech",
+      "tag": "⬆️ 373 points",
+      "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html"
+    },
+    {
+      "title": "RISC-V Is Inevitable: State of the Union Keynote Argues",
+      "hot": "3.0m",
+      "desc": "eetimes.com",
+      "source": "tech",
+      "tag": "⬆️ 44 points",
+      "url": "https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/"
+    },
+    {
+      "title": "I tricked Claude into leaking your deepest, darkest secrets",
+      "hot": "3.0m",
+      "desc": "ayush.digital",
+      "source": "tech",
+      "tag": "⬆️ 212 points",
+      "url": "https://www.ayush.digital/blog/the-memory-heist"
+    },
+    {
+      "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
+      "hot": "3.0m",
+      "desc": "vpd.ca",
+      "source": "tech",
+      "tag": "⬆️ 256 points",
+      "url": "https://vpd.ca/"
+    },
+    {
+      "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+      "hot": "2.9m",
+      "desc": "tailscale.com",
+      "source": "tech",
+      "tag": "⬆️ 145 points",
+      "url": "https://tailscale.com/security-bulletins"
+    },
+    {
+      "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+      "hot": "2.9m",
+      "desc": "prismml.com",
+      "source": "tech",
+      "tag": "⬆️ 573 points",
+      "url": "https://prismml.com/news/bonsai-27b"
+    },
+    {
+      "title": "Andon (manufacturing)",
+      "hot": "2.9m",
+      "desc": "en.wikipedia.org",
+      "source": "tech",
+      "tag": "⬆️ 46 points",
+      "url": "https://en.wikipedia.org/wiki/Andon_(manufacturing)"
+    },
+    {
+      "title": "The Tower Keeps Rising",
+      "hot": "2.9m",
+      "desc": "lucumr.pocoo.org",
+      "source": "tech",
+      "tag": "⬆️ 453 points",
+      "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/"
+    },
+    {
+      "title": "Dependabot version updates introduce default package cooldown",
+      "hot": "2.9m",
+      "desc": "github.blog",
+      "source": "tech",
+      "tag": "⬆️ 168 points",
+      "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/"
+    },
+    {
+      "title": "Never argue with your boss (2009)",
+      "hot": "2.9m",
+      "desc": "righteousit.com",
+      "source": "tech",
+      "tag": "⬆️ 8 points",
+      "url": "https://righteousit.com/2009/03/12/never-argue-with-your-boss/"
+    },
+    {
+      "title": "How I use HTMX with Go",
+      "hot": "2.9m",
+      "desc": "alexedwards.net",
+      "source": "tech",
+      "tag": "⬆️ 230 points",
+      "url": "https://www.alexedwards.net/blog/how-i-use-htmx-with-go"
+    },
+    {
+      "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
+      "hot": "2.8m",
+      "desc": "mindgard.ai",
+      "source": "tech",
+      "tag": "⬆️ 350 points",
+      "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left"
+    },
+    {
+      "title": "Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel",
+      "hot": "2.8m",
+      "desc": "starfleetmath.com",
+      "source": "tech",
+      "tag": "⬆️ 128 points",
+      "url": "https://www.starfleetmath.com/"
+    },
+    {
+      "title": "Microsoft has released software updates to plug at least 570 security holes",
+      "hot": "2.8m",
+      "desc": "krebsonsecurity.com",
+      "source": "tech",
+      "tag": "⬆️ 116 points",
+      "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/"
+    },
+    {
+      "title": "How to stop Claude from saying load-bearing",
+      "hot": "2.8m",
+      "desc": "jola.dev",
+      "source": "tech",
+      "tag": "⬆️ 521 points",
+      "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing"
+    },
+    {
+      "title": "Surprising lessons from my research scientist job search",
+      "hot": "2.8m",
+      "desc": "yongzx.github.io",
+      "source": "tech",
+      "tag": "⬆️ 8 points",
+      "url": "https://yongzx.github.io/blog/2026/06/24/job-search/"
+    },
+    {
+      "title": "I'm a USB-C Maximalist",
+      "hot": "2.8m",
+      "desc": "shkspr.mobi",
+      "source": "tech",
+      "tag": "⬆️ 277 points",
+      "url": "https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/"
+    },
+    {
+      "title": "Who's running all those tiny RPKI servers?",
+      "hot": "2.7m",
+      "desc": "blog.apnic.net",
+      "source": "tech",
+      "tag": "⬆️ 7 points",
+      "url": "https://blog.apnic.net/2026/07/15/whos-running-all-those-tiny-rpki-servers/"
+    },
+    {
+      "title": "Mathematical texts from a Maya site in Guatemala identify an ancient astronomer",
+      "hot": "2.7m",
+      "desc": "nature.com",
+      "source": "tech",
+      "tag": "⬆️ 85 points",
+      "url": "https://www.nature.com/articles/d41586-026-02170-8"
+    },
+    {
+      "title": "The kids with phones are alright",
+      "hot": "2.7m",
+      "desc": "heatherburns.tech",
+      "source": "tech",
+      "tag": "⬆️ 199 points",
+      "url": "https://heatherburns.tech/2026/07/08/the-kids-with-phones-are-alright/"
+    }
+  ],
   "space": [
+    {
+      "title": "Curiosity Blog, Sols 4947-4953: Gale Crater Then and Now",
+      "hot": "7/15",
+      "desc": "Written by Alex Innanen, Atmospheric Scientist at York University, Toronto Earth planning date: Friday, July 10, 2026 Curiosity had a successful long ",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4947-4953-gale-crater-then-and-now/"
+    },
     {
       "title": "Heat Dome Broils the Western U.S.",
       "hot": "7/15",
@@ -113,338 +445,6 @@
       "source": "space",
       "tag": "NASA",
       "url": "https://science.nasa.gov/earth/earth-observatory/fans-of-the-arctic/"
-    },
-    {
-      "title": "Curiosity Blog, Sols 4941-4947: (Pin)Stripes on the Fourth of July",
-      "hot": "7/14",
-      "desc": "Written by Deborah Padgett, MSL Operations Product Ground System Task Lead at NASA’s Jet Propulsion Laboratory Earth planning date: Thursday, July 2, ",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4941-4947-pinstripes-on-the-fourth-of-july/"
-    }
-  ],
-  "tech": [
-    {
-      "title": "Jurassic Park computers in excruciating detail",
-      "hot": "3.0m",
-      "desc": "fabiensanglard.net",
-      "source": "tech",
-      "tag": "⬆️ 203 points",
-      "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html"
-    },
-    {
-      "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
-      "hot": "3.0m",
-      "desc": "vpd.ca",
-      "source": "tech",
-      "tag": "⬆️ 210 points",
-      "url": "https://vpd.ca/"
-    },
-    {
-      "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
-      "hot": "3.0m",
-      "desc": "tailscale.com",
-      "source": "tech",
-      "tag": "⬆️ 101 points",
-      "url": "https://tailscale.com/security-bulletins"
-    },
-    {
-      "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
-      "hot": "3.0m",
-      "desc": "prismml.com",
-      "source": "tech",
-      "tag": "⬆️ 522 points",
-      "url": "https://prismml.com/news/bonsai-27b"
-    },
-    {
-      "title": "Andon (manufacturing)",
-      "hot": "2.9m",
-      "desc": "en.wikipedia.org",
-      "source": "tech",
-      "tag": "⬆️ 19 points",
-      "url": "https://en.wikipedia.org/wiki/Andon_(manufacturing)"
-    },
-    {
-      "title": "Dependabot version updates introduce default package cooldown",
-      "hot": "2.9m",
-      "desc": "github.blog",
-      "source": "tech",
-      "tag": "⬆️ 145 points",
-      "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/"
-    },
-    {
-      "title": "The Tower Keeps Rising",
-      "hot": "2.9m",
-      "desc": "lucumr.pocoo.org",
-      "source": "tech",
-      "tag": "⬆️ 421 points",
-      "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/"
-    },
-    {
-      "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-      "hot": "2.9m",
-      "desc": "mindgard.ai",
-      "source": "tech",
-      "tag": "⬆️ 310 points",
-      "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left"
-    },
-    {
-      "title": "Financing the AI boom: from cash flows to debt [pdf]",
-      "hot": "2.9m",
-      "desc": "bis.org",
-      "source": "tech",
-      "tag": "⬆️ 137 points",
-      "url": "https://www.bis.org/publ/bisbull120.pdf"
-    },
-    {
-      "title": "How I use HTMX with Go",
-      "hot": "2.9m",
-      "desc": "alexedwards.net",
-      "source": "tech",
-      "tag": "⬆️ 184 points",
-      "url": "https://www.alexedwards.net/blog/how-i-use-htmx-with-go"
-    },
-    {
-      "title": "Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel",
-      "hot": "2.9m",
-      "desc": "starfleetmath.com",
-      "source": "tech",
-      "tag": "⬆️ 99 points",
-      "url": "https://www.starfleetmath.com/"
-    },
-    {
-      "title": "The bread paradox: why convenience always wins, and why SaaS isn't doomed",
-      "hot": "2.8m",
-      "desc": "joanwestenberg.com",
-      "source": "tech",
-      "tag": "⬆️ 41 points",
-      "url": "https://www.joanwestenberg.com/p/the-bread-paradox-why-convenience"
-    },
-    {
-      "title": "How to stop Claude from saying load-bearing",
-      "hot": "2.8m",
-      "desc": "jola.dev",
-      "source": "tech",
-      "tag": "⬆️ 487 points",
-      "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing"
-    },
-    {
-      "title": "Microsoft Patches a Record 570 Security Flaws",
-      "hot": "2.8m",
-      "desc": "krebsonsecurity.com",
-      "source": "tech",
-      "tag": "⬆️ 84 points",
-      "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/"
-    },
-    {
-      "title": "I'm a USB-C Maximalist",
-      "hot": "2.8m",
-      "desc": "shkspr.mobi",
-      "source": "tech",
-      "tag": "⬆️ 229 points",
-      "url": "https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/"
-    },
-    {
-      "title": "Data centers have hiked electricity prices on the public by $23B",
-      "hot": "2.8m",
-      "desc": "fortune.com",
-      "source": "tech",
-      "tag": "⬆️ 154 points",
-      "url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/"
-    },
-    {
-      "title": "Mathematical texts from a Maya site in Guatemala identify an ancient astronomer",
-      "hot": "2.8m",
-      "desc": "nature.com",
-      "source": "tech",
-      "tag": "⬆️ 67 points",
-      "url": "https://www.nature.com/articles/d41586-026-02170-8"
-    },
-    {
-      "title": "LeMario: Training a JEPA World Model on Super Mario Bros",
-      "hot": "2.7m",
-      "desc": "benjamin-bai.com",
-      "source": "tech",
-      "tag": "⬆️ 75 points",
-      "url": "https://www.benjamin-bai.com/projects/lemario"
-    },
-    {
-      "title": "The largest available Minecraft world, totalling 15 TB",
-      "hot": "2.7m",
-      "desc": "2b2t.place",
-      "source": "tech",
-      "tag": "⬆️ 191 points",
-      "url": "https://2b2t.place/1million"
-    },
-    {
-      "title": "The kids with phones are alright",
-      "hot": "2.7m",
-      "desc": "heatherburns.tech",
-      "source": "tech",
-      "tag": "⬆️ 175 points",
-      "url": "https://heatherburns.tech/2026/07/08/the-kids-with-phones-are-alright/"
-    }
-  ],
-  "dev": [
-    {
-      "title": "The Myth of the Post-Documentation Era",
-      "hot": "❤️ 72 💬 26",
-      "desc": "There is a growing sentiment in engineering circles right now that documentation is a relic of the...",
-      "source": "dev",
-      "tag": "ai,  documentation",
-      "url": "https://dev.to/ben/the-myth-of-the-post-documentation-era-39al"
-    },
-    {
-      "title": "HTTP gets a QUERY method so complex searches can stop pretending to be POST\r\n\r\nhttps://www.theregister.com/devops/2026/07/13/http-gets-a-query-method-so-complex-searches-can-stop-pretending-to-be-post/5270192",
-      "hot": "❤️ 4 💬 0",
-      "desc": "...",
-      "source": "dev",
-      "tag": "api,  networking",
-      "url": "https://dev.to/ben/http-gets-a-query-method-so-complex-searches-can-stop-pretending-to-be-post-j28"
-    },
-    {
-      "title": "This is remarkable\r\n\r\nhttps://bobdahacker.com/blog/fifa-hack",
-      "hot": "❤️ 3 💬 0",
-      "desc": "I...",
-      "source": "dev",
-      "tag": "Dev.to",
-      "url": "https://dev.to/ben/this-is-remarkablehttpsbobdahackercomblogfifa-hack-3kb0"
-    },
-    {
-      "title": "Chasing the Sentry prize for DEV's Summer Bug Smash? Let us know what questions you have.",
-      "hot": "❤️ 14 💬 2",
-      "desc": "DEV just kicked off their Big Summer Bug Smash, an event all about fixing bugs and optimizing...",
-      "source": "dev",
-      "tag": "bugsmash,  devchallenge",
-      "url": "https://dev.to/sentry/chasing-the-sentry-prize-for-devs-summer-bug-smash-let-us-know-what-questions-you-have-1506"
-    },
-    {
-      "title": "Building a Hybrid Docker Orchestrator in Go: The Journey from Single VM to Multi-Node Cluster",
-      "hot": "❤️ 5 💬 0",
-      "desc": "What if you could combine the native simplicity of Docker Compose with the decentralized targeting...",
-      "source": "dev",
-      "tag": "devops,  docker",
-      "url": "https://dev.to/gde/building-a-hybrid-docker-orchestrator-in-go-the-journey-from-single-vm-to-multi-node-cluster-3i7m"
-    },
-    {
-      "title": "How to Respectfully Contribute to Open Source",
-      "hot": "❤️ 5 💬 0",
-      "desc": "Below are some practices we have found essential in order to respectfully contribute to Open Source....",
-      "source": "dev",
-      "tag": "opensource",
-      "url": "https://dev.to/opensourcepledge/how-to-respectfully-contribute-to-open-source-cbh"
-    },
-    {
-      "title": "How I made a Rust hot path 27x faster, and the AI fix I refused to merge",
-      "hot": "❤️ 7 💬 1",
-      "desc": "Two years ago I open-sourced KeyEcho, a small desktop app that plays a mechanical-keyboard sound the...",
-      "source": "dev",
-      "tag": "rust,  ai",
-      "url": "https://dev.to/zacharylee/how-i-made-a-rust-hot-path-27x-faster-and-the-ai-fix-i-refused-to-merge-3llg"
-    },
-    {
-      "title": "DEV’s Big Summer Bug Smash is now LIVE! Share $5,000 in cash prizes, skateboards, and more across 20+ winners. 🐛🐞🪲",
-      "hot": "❤️ 51 💬 15",
-      "desc": "Today is National Be Nice to Bugs Day in the U.S. and we’re thrilled to launch our Big Summer Bug...",
-      "source": "dev",
-      "tag": "bugsmash,  devchallenge",
-      "url": "https://dev.to/devteam/devs-big-summer-bug-smash-is-now-live-share-5000-in-cash-prizes-skateboards-and-more-across-57mk"
-    },
-    {
-      "title": "4B Gemma 4 QAT Deployment with GCE, NVIDIA L4, MCP, and Antigravity CLI",
-      "hot": "❤️ 5 💬 0",
-      "desc": "This article provides a step by step deployment guide for Gemma 4 to a Google Compute Engine hosted...",
-      "source": "dev",
-      "tag": "gce,  4l",
-      "url": "https://dev.to/gde/4b-gemma-4-qat-deployment-with-gce-nvidia-l4-mcp-and-antigravity-cli-gh6"
-    },
-    {
-      "title": "A lot of good points here https://antirez.com/news/169",
-      "hot": "❤️ 5 💬 0",
-      "desc": "antirez.com",
-      "source": "dev",
-      "tag": "ai,  llm",
-      "url": "https://dev.to/ben/a-lot-of-good-points-here-httpsantirezcomnews169-417f"
-    },
-    {
-      "title": "I Finally Built the Dev Opportunity Radar Website ❤️",
-      "hot": "❤️ 75 💬 34",
-      "desc": "This is a submission for Weekend Challenge: Passion Edition   📌 TL;DR  I found this challenge on the...",
-      "source": "dev",
-      "tag": "devchallenge,  weekendchallenge",
-      "url": "https://dev.to/hemapriya_kanagala/i-finally-built-the-dev-opportunity-radar-website-1dpi"
-    },
-    {
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 58 💬 26",
-      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
-      "source": "dev",
-      "tag": "top7,  discuss",
-      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-815"
-    },
-    {
-      "title": "The (no longer) missing multi-agent pattern: triggering dynamic workflows from an agent",
-      "hot": "❤️ 8 💬 4",
-      "desc": "When building multi-agent systems, rigid state graphs quickly fall apart in the face of dynamic user...",
-      "source": "dev",
-      "tag": "ai,  agents",
-      "url": "https://dev.to/googleai/the-no-longer-missing-multi-agent-pattern-triggering-dynamic-workflows-from-an-agent-ef3"
-    },
-    {
-      "title": "Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "source": "dev",
-      "tag": "mcps,  googleantigravity",
-      "url": "https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-1-mcp-and-antigravity-cli-3hh3"
-    },
-    {
-      "title": "DiffusionGemma: 4x faster text generation",
-      "hot": "❤️ 16 💬 0",
-      "desc": "Our newest open experimental model delivers up to 4x faster inference on dedicated GPUs and...",
-      "source": "dev",
-      "tag": "gemma,  google",
-      "url": "https://dev.to/googleai/diffusiongemma-4x-faster-text-generation-fmd"
-    },
-    {
-      "title": "Building an Agentic FinOps Platform — Development Environment Setup, Google Antigravity, MCPs and Skills, and ADK Bootstrapping with Agents CLI",
-      "hot": "❤️ 15 💬 0",
-      "desc": "TL;DR — This article is going to be jam-packed with useful information, tips, tricks and hacks for...",
-      "source": "dev",
-      "tag": "finops,  antigravity",
-      "url": "https://dev.to/gde/building-an-agentic-finops-platform-development-environment-setup-google-antigravity-mcps-and-4c43"
-    },
-    {
-      "title": "Stop Copy-Pasting `dns:` Blocks: Introducing Transparent DNS Injection in Gubernator",
-      "hot": "❤️ 8 💬 0",
-      "desc": "How we eliminated network configuration boilerplate in Docker Compose deployments by dynamically injecting CoreDNS serve",
-      "source": "dev",
-      "tag": "docker,  go",
-      "url": "https://dev.to/gde/stop-copy-pasting-dns-blocks-introducing-transparent-dns-injection-in-gubernator-ad4"
-    },
-    {
-      "title": "Should I quit IT or just live through the burnout?",
-      "hot": "❤️ 159 💬 118",
-      "desc": "Some of you may have noticed I disappeared a bit from the community over the last couple of weeks....",
-      "source": "dev",
-      "tag": "mentalhealth,  career",
-      "url": "https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng"
-    },
-    {
-      "title": "[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action",
-      "hot": "❤️ 7 💬 0",
-      "desc": "Pain Point: How to Accurately Allocate Gemini API Costs Within the Same Project?   When...",
-      "source": "dev",
-      "tag": "ai,  cloud",
-      "url": "https://dev.to/gde/gcp-billing-vertex-ai-solving-gemini-cost-allocation-in-a-single-project-vertex-ai-dynamic-5aok"
-    },
-    {
-      "title": "A Vibe Is Not a Verdict: I Built a Tool That's Allowed to Say 'I Don't Know'",
-      "hot": "❤️ 15 💬 9",
-      "desc": "My gut screamed scam. My tool said 'I don't know' — and that refusal is what actually cracked the case. An experiment in",
-      "source": "dev",
-      "tag": "ai,  rust",
-      "url": "https://dev.to/copyleftdev/a-vibe-is-not-a-verdict-i-built-a-tool-thats-allowed-to-say-i-dont-know-4foe"
     }
   ],
   "github": [
@@ -467,7 +467,7 @@
     {
       "title": "MDX-Tom/gpt-5.6-instruct: A Codex CLI jailbreak prompt and test pack for gpt-5.6",
       "hot": "⭐ 1.1k",
-      "desc": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示��与测试包。",
+      "desc": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/MDX-Tom/gpt-5.6-instruct"
@@ -482,7 +482,7 @@
     },
     {
       "title": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin: Codex plugin that turns attac",
-      "hot": "⭐ 977",
+      "hot": "⭐ 979",
       "desc": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
       "source": "github",
       "tag": "Python",
@@ -490,7 +490,7 @@
     },
     {
       "title": "littledivy/mimic: Intercept any app, then call it from Python like a library",
-      "hot": "⭐ 916",
+      "hot": "⭐ 919",
       "desc": "Intercept any app, then call it from Python like a library",
       "source": "github",
       "tag": "Python",
@@ -498,7 +498,7 @@
     },
     {
       "title": "mereyabdenbekuly-ctrl/clodex-ide: Local-first, zero-trust agentic IDE for verifi",
-      "hot": "⭐ 802",
+      "hot": "⭐ 803",
       "desc": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
       "source": "github",
       "tag": "TypeScript",
@@ -506,7 +506,7 @@
     },
     {
       "title": "Robbyant/lingbot-video: Scaling Mixture-of-Experts Video Pretraining for Embodie",
-      "hot": "⭐ 790",
+      "hot": "⭐ 792",
       "desc": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
       "source": "github",
       "tag": "Python",
@@ -514,31 +514,31 @@
     },
     {
       "title": "AlephAITech/WorkBuddyGuide: A practical, open-source guide to mastering WorkBudd",
-      "hot": "⭐ 728",
+      "hot": "⭐ 747",
       "desc": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/AlephAITech/WorkBuddyGuide"
     },
     {
-      "title": "x4gKing/Marzban-Panel: ",
-      "hot": "⭐ 678",
-      "desc": "x4gKing/Marzban-Panel",
-      "source": "github",
-      "tag": "Dockerfile",
-      "url": "https://github.com/x4gKing/Marzban-Panel"
-    },
-    {
       "title": "modiqo/waggle: Attributed, resolvable artifact references for agent handoffs — a",
-      "hot": "⭐ 676",
+      "hot": "⭐ 703",
       "desc": "Attributed, resolvable artifact references for agent handoffs — a ~30-byte token instead of pasted context. MCP-native; the reference layer for the ag",
       "source": "github",
       "tag": "Rust",
       "url": "https://github.com/modiqo/waggle"
     },
     {
+      "title": "x4gKing/Marzban-Panel: ",
+      "hot": "⭐ 692",
+      "desc": "x4gKing/Marzban-Panel",
+      "source": "github",
+      "tag": "Dockerfile",
+      "url": "https://github.com/x4gKing/Marzban-Panel"
+    },
+    {
       "title": "Kappaemme-git/codex-first-customer-finder-skill: A Codex skill that finds eviden",
-      "hot": "⭐ 632",
+      "hot": "⭐ 650",
       "desc": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
       "source": "github",
       "tag": "Python",
@@ -546,7 +546,7 @@
     },
     {
       "title": "William-Lu-stack/Flawless: AI SRE AgenticOps for Kubernetes and cloud infrastruc",
-      "hot": "⭐ 619",
+      "hot": "⭐ 620",
       "desc": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
       "source": "github",
       "tag": "Python",
@@ -554,7 +554,7 @@
     },
     {
       "title": "pengchujin/jzsub: JZSub — 一条视频链接，自动交付最高画质、封面和 GPT 双语字幕 MP4。",
-      "hot": "⭐ 595",
+      "hot": "⭐ 620",
       "desc": "JZSub — 一条视频链接，自动交付最高画质、封面和 GPT 双语字幕 MP4。",
       "source": "github",
       "tag": "Python",
@@ -562,7 +562,7 @@
     },
     {
       "title": "cosmtrek/mindwalk: A visualization tool that replays coding-agent sessions on a ",
-      "hot": "⭐ 592",
+      "hot": "⭐ 605",
       "desc": "A visualization tool that replays coding-agent sessions on a 3D map of your codebase.",
       "source": "github",
       "tag": "Go",
