@@ -17,6 +17,14 @@
       "url": "https://dev.to/gde/26b-gemma-4-qat-deployment-with-gce-g2-standard-nvidia-l4-mcp-and-antigravity-cli-1bmd"
     },
     {
+      "title": "Smash Story: The Demo Script That Out-Debugged My Test Suite",
+      "hot": "❤️ 12 💬 4",
+      "desc": "A green 10-test suite, a broken production default, and the 10-minute smash — how a live demo caught an API-contract bug",
+      "source": "dev",
+      "tag": "devchallenge,  bugsmash",
+      "url": "https://dev.to/gde/smash-story-the-demo-script-that-out-debugged-my-test-suite-430k"
+    },
+    {
       "title": "Why did my benchmark stop at N=22? A debugging story in nine bugs",
       "hot": "❤️ 13 💬 1",
       "desc": "Submission for DEV's Summer Bug Smash — Smash Stories track.  There was a file in my repo called...",
@@ -50,7 +58,7 @@
     },
     {
       "title": "Welcome Thread - v384",
-      "hot": "❤️ 21 💬 83",
+      "hot": "❤️ 24 💬 91",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
@@ -63,6 +71,22 @@
       "source": "dev",
       "tag": "python,  tpu",
       "url": "https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-8-and-antigravity-cli-3e4n"
+    },
+    {
+      "title": "DiffusionGemma: The Developer Guide",
+      "hot": "❤️ 5 💬 0",
+      "desc": "Following our announcement in our launch blog post, we are sharing this developer guide to help you...",
+      "source": "dev",
+      "tag": "gemma,  google",
+      "url": "https://dev.to/googleai/diffusiongemma-the-developer-guide-5a3l"
+    },
+    {
+      "title": "How I made a Rust hot path 27x faster, and the AI fix I refused to merge",
+      "hot": "❤️ 22 💬 15",
+      "desc": "Two years ago I open-sourced KeyEcho, a small desktop app that plays a mechanical-keyboard sound the...",
+      "source": "dev",
+      "tag": "rust,  ai",
+      "url": "https://dev.to/zacharylee/how-i-made-a-rust-hot-path-27x-faster-and-the-ai-fix-i-refused-to-merge-3llg"
     },
     {
       "title": "Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI",
@@ -81,22 +105,6 @@
       "url": "https://dev.to/gde/building-a-hybrid-docker-orchestrator-in-go-the-journey-from-single-vm-to-multi-node-cluster-3i7m"
     },
     {
-      "title": "How I made a Rust hot path 27x faster, and the AI fix I refused to merge",
-      "hot": "❤️ 22 💬 13",
-      "desc": "Two years ago I open-sourced KeyEcho, a small desktop app that plays a mechanical-keyboard sound the...",
-      "source": "dev",
-      "tag": "rust,  ai",
-      "url": "https://dev.to/zacharylee/how-i-made-a-rust-hot-path-27x-faster-and-the-ai-fix-i-refused-to-merge-3llg"
-    },
-    {
-      "title": "Should I quit IT or just live through the burnout?",
-      "hot": "❤️ 169 💬 130",
-      "desc": "Some of you may have noticed I disappeared a bit from the community over the last couple of weeks....",
-      "source": "dev",
-      "tag": "mentalhealth,  career",
-      "url": "https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng"
-    },
-    {
       "title": "Stop Copy-Pasting `dns:` Blocks: Introducing Transparent DNS Injection in Gubernator",
       "hot": "❤️ 8 💬 0",
       "desc": "How we eliminated network configuration boilerplate in Docker Compose deployments by dynamically injecting CoreDNS serve",
@@ -111,6 +119,14 @@
       "source": "dev",
       "tag": "ai,  cloud",
       "url": "https://dev.to/gde/gcp-billing-vertex-ai-solving-gemini-cost-allocation-in-a-single-project-vertex-ai-dynamic-5aok"
+    },
+    {
+      "title": "Should I quit IT or just live through the burnout?",
+      "hot": "❤️ 170 💬 132",
+      "desc": "Some of you may have noticed I disappeared a bit from the community over the last couple of weeks....",
+      "source": "dev",
+      "tag": "mentalhealth,  career",
+      "url": "https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng"
     },
     {
       "title": "I Finally Built the Dev Opportunity Radar Website ❤️",
@@ -143,23 +159,7 @@
       "source": "dev",
       "tag": "googleantigravity,  python",
       "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82"
-    },
-    {
-      "title": "MCP Configuration for Looker with Antigravity CLI",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article covers the MCP setup and configuration for using Looker and underlying Gemini LLM with...",
-      "source": "dev",
-      "tag": "looker,  lookml",
-      "url": "https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d"
-    },
-    {
-      "title": "DEV’s Big Summer Bug Smash is now LIVE! Share $5,000 in cash prizes, skateboards, and more across 20+ winners. 🐛🐞🪲",
-      "hot": "❤️ 67 💬 19",
-      "desc": "Today is National Be Nice to Bugs Day in the U.S. and we’re thrilled to launch our Big Summer Bug...",
-      "source": "dev",
-      "tag": "bugsmash,  devchallenge",
-      "url": "https://dev.to/devteam/devs-big-summer-bug-smash-is-now-live-share-5000-in-cash-prizes-skateboards-and-more-across-57mk"
     }
   ],
-  "updatedAt": "2026-07-16T12:56:08.244Z"
+  "updatedAt": "2026-07-16T14:51:21.200Z"
 }
