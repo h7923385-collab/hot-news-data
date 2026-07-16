@@ -1,15 +1,7 @@
 {
-  "updatedAt": "2026-07-16T09:06:00.045Z",
+  "updatedAt": "2026-07-16T11:14:04.482Z",
   "source": "live",
   "dev": [
-    {
-      "title": "My benchmark's Python column was N/A for a year — CPython's 4300-digit limit, and eight other bugs",
-      "hot": "❤️ 7 💬 0",
-      "desc": "Submission for DEV's Summer Bug Smash — Clear the Lineup track.           The...",
-      "source": "dev",
-      "tag": "bugsmash,  python",
-      "url": "https://dev.to/gde/my-benchmarks-python-column-was-na-for-a-year-cpythons-4300-digit-limit-and-eight-other-bugs-1hgk"
-    },
     {
       "title": "Why did my benchmark stop at N=22? A debugging story in nine bugs",
       "hot": "❤️ 7 💬 1",
@@ -17,6 +9,14 @@
       "source": "dev",
       "tag": "bugsmash,  debugging",
       "url": "https://dev.to/gde/why-did-my-benchmark-stop-at-n22-a-debugging-story-in-nine-bugs-3m2l"
+    },
+    {
+      "title": "My benchmark's Python column was N/A for a year — CPython's 4300-digit limit, and eight other bugs",
+      "hot": "❤️ 7 💬 0",
+      "desc": "Submission for DEV's Summer Bug Smash — Clear the Lineup track.           The...",
+      "source": "dev",
+      "tag": "bugsmash,  python",
+      "url": "https://dev.to/gde/my-benchmarks-python-column-was-na-for-a-year-cpythons-4300-digit-limit-and-eight-other-bugs-1hgk"
     },
     {
       "title": "26B Gemma 4 QAT Deployment with GCE g2-standard, NVIDIA L4, MCP, and Antigravity CLI",
@@ -60,7 +60,7 @@
     },
     {
       "title": "Welcome Thread - v384",
-      "hot": "❤️ 19 💬 63",
+      "hot": "❤️ 21 💬 70",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
@@ -97,14 +97,6 @@
       "source": "dev",
       "tag": "rust,  ai",
       "url": "https://dev.to/zacharylee/how-i-made-a-rust-hot-path-27x-faster-and-the-ai-fix-i-refused-to-merge-3llg"
-    },
-    {
-      "title": "DiffusionGemma: 4x faster text generation",
-      "hot": "❤️ 16 💬 0",
-      "desc": "Our newest open experimental model delivers up to 4x faster inference on dedicated GPUs and...",
-      "source": "dev",
-      "tag": "gemma,  google",
-      "url": "https://dev.to/googleai/diffusiongemma-4x-faster-text-generation-fmd"
     },
     {
       "title": "Should I quit IT or just live through the burnout?",
@@ -161,16 +153,186 @@
       "source": "dev",
       "tag": "googleantigravity,  python",
       "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82"
+    },
+    {
+      "title": "MCP Configuration for Looker with Antigravity CLI",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article covers the MCP setup and configuration for using Looker and underlying Gemini LLM with...",
+      "source": "dev",
+      "tag": "looker,  lookml",
+      "url": "https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d"
+    }
+  ],
+  "tech": [
+    {
+      "title": "The lost joy of music piracy",
+      "hot": "3.0m",
+      "desc": "pigeonsandplanes.com",
+      "source": "tech",
+      "tag": "⬆️ 388 points",
+      "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming"
+    },
+    {
+      "title": "OnePlus halts operations in USA and Europe",
+      "hot": "3.0m",
+      "desc": "community.oneplus.com",
+      "source": "tech",
+      "tag": "⬆️ 15 points",
+      "url": "https://community.oneplus.com/thread/2170715118587871237"
+    },
+    {
+      "title": "Where are YC founders now? OpenAI and Anthropic, mostly",
+      "hot": "3.0m",
+      "desc": "joinedanthropic.com",
+      "source": "tech",
+      "tag": "⬆️ 65 points",
+      "url": "https://joinedanthropic.com"
+    },
+    {
+      "title": "Inkling: Our Open-Weights Model",
+      "hot": "3.0m",
+      "desc": "thinkingmachines.ai",
+      "source": "tech",
+      "tag": "⬆️ 1013 points",
+      "url": "https://thinkingmachines.ai/news/introducing-inkling/"
+    },
+    {
+      "title": "If you want to create a button from scratch, you must first create the universe",
+      "hot": "2.9m",
+      "desc": "madcampos.dev",
+      "source": "tech",
+      "tag": "⬆️ 159 points",
+      "url": "https://madcampos.dev/blog/2026/07/accessibility-from-scratch/"
+    },
+    {
+      "title": "Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't",
+      "hot": "2.9m",
+      "desc": "goughlui.com",
+      "source": "tech",
+      "tag": "⬆️ 77 points",
+      "url": "https://goughlui.com/2026/07/09/teardown-a-generic-7-port-usb-3-0-hub-that-wasnt/"
+    },
+    {
+      "title": "A Beautiful Theory Falls to Ugly Data",
+      "hot": "2.9m",
+      "desc": "marginalrevolution.com",
+      "source": "tech",
+      "tag": "⬆️ 15 points",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/a-beautiful-theory-falls-to-ugly-data.html"
+    },
+    {
+      "title": "1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored",
+      "hot": "2.9m",
+      "desc": "openculture.com",
+      "source": "tech",
+      "tag": "⬆️ 115 points",
+      "url": "https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html"
+    },
+    {
+      "title": "Grok Build is open source",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 472 points",
+      "url": "https://github.com/xai-org/grok-build"
+    },
+    {
+      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+      "hot": "2.9m",
+      "desc": "siegelendowment.org",
+      "source": "tech",
+      "tag": "⬆️ 206 points",
+      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf"
+    },
+    {
+      "title": "SQLite should have (Rust-style) editions",
+      "hot": "2.9m",
+      "desc": "mort.coffee",
+      "source": "tech",
+      "tag": "⬆️ 287 points",
+      "url": "https://mort.coffee/home/sqlite-editions/"
+    },
+    {
+      "title": "Stripe and Advent have made a joint offer to acquire PayPal – sources",
+      "hot": "2.8m",
+      "desc": "reuters.com",
+      "source": "tech",
+      "tag": "⬆️ 450 points",
+      "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/"
+    },
+    {
+      "title": "Reynard: A real Firefox web browser for iOS 13 or later",
+      "hot": "2.8m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 64 points",
+      "url": "https://github.com/minh-ton/reynard-browser"
+    },
+    {
+      "title": "I also filed the corners off my MacBook",
+      "hot": "2.8m",
+      "desc": "brt.fyi",
+      "source": "tech",
+      "tag": "⬆️ 199 points",
+      "url": "https://www.brt.fyi/posts/mac-book-filing/"
+    },
+    {
+      "title": "Bluesky Trademarks ATProto",
+      "hot": "2.8m",
+      "desc": "atproto.com",
+      "source": "tech",
+      "tag": "⬆️ 113 points",
+      "url": "https://atproto.com/blog/at-protocol-trademark"
+    },
+    {
+      "title": "Rebuilding My Homelab with Compose, Ruby, IPv6, and No Kubernetes",
+      "hot": "2.8m",
+      "desc": "petekeen.net",
+      "source": "tech",
+      "tag": "⬆️ 37 points",
+      "url": "https://www.petekeen.net/homelab-resolved/"
+    },
+    {
+      "title": "Making 768 servers look like 1",
+      "hot": "2.8m",
+      "desc": "planetscale.com",
+      "source": "tech",
+      "tag": "⬆️ 88 points",
+      "url": "https://planetscale.com/blog/making-768-servers-look-like-1"
+    },
+    {
+      "title": "High-Bandwidth Flash offers efficient storage for model weights",
+      "hot": "2.7m",
+      "desc": "spectrum.ieee.org",
+      "source": "tech",
+      "tag": "⬆️ 50 points",
+      "url": "https://spectrum.ieee.org/high-bandwidth-flash"
+    },
+    {
+      "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
+      "hot": "2.7m",
+      "desc": "neomindlabs.com",
+      "source": "tech",
+      "tag": "⬆️ 290 points",
+      "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/"
+    },
+    {
+      "title": "Job queues are deceptively tricky",
+      "hot": "2.7m",
+      "desc": "typesanitizer.com",
+      "source": "tech",
+      "tag": "⬆️ 94 points",
+      "url": "https://typesanitizer.com/blog/job-queues.html"
     }
   ],
   "space": [
     {
-      "title": "FLEX and Sentinel-3C arrive at Europe’s Spaceport",
+      "title": "Test firing at brand new green chemical propulsion lab",
       "hot": "7/16",
-      "desc": "With liftoff scheduled for September, excitement is building at Europe’s Spaceport in French Guiana as two cutting-edge Earth observation satellites, ",
+      "desc": "From the ESA Blogs.",
       "source": "space",
       "tag": "ESA",
-      "url": "https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_arrive_at_Europe_s_Spaceport"
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Test_firing_at_brand_new_green_chemical_propulsion_lab"
     },
     {
       "title": "Swissto12 raises $70 million to accelerate small GEO satellite production",
@@ -179,6 +341,14 @@
       "source": "space",
       "tag": "SpaceNews",
       "url": "https://spacenews.com/swissto12-raises-70-million-to-accelerate-small-geo-satellite-production/"
+    },
+    {
+      "title": "FLEX and Sentinel-3C arrive at Europe’s Spaceport",
+      "hot": "7/16",
+      "desc": "With liftoff scheduled for September, excitement is building at Europe’s Spaceport in French Guiana as two cutting-edge Earth observation satellites, ",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_arrive_at_Europe_s_Spaceport"
     },
     {
       "title": "Ontario Wildfire Smoke Moves East",
@@ -275,20 +445,12 @@
       "source": "space",
       "tag": "SpaceNews",
       "url": "https://spacenews.com/saltzmans-farewell-warning-prepare-for-war-in-space-to-preserve-peace/"
-    },
-    {
-      "title": "Commercial Space Federation Launches State and Local Council to Align States on National Space Capacity and Strengthen the U.S. Industrial Base",
-      "hot": "7/15",
-      "desc": "\nWashington, D.C. — July 15, 2026 — The Commercial Space Federation (CSF), the leading trade association representing the commercial space industry, t",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/commercial-space-federation-launches-state-and-local-council-to-align-states-on-national-space-capacity-and-strengthen-the-u-s-industrial-base/"
     }
   ],
   "github": [
     {
       "title": "xai-org/grok-build: SpaceXAI's coding agent harness and TUI. Fullscreen, mouse i",
-      "hot": "⭐ 8.0k",
+      "hot": "⭐ 8.9k",
       "desc": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "source": "github",
       "tag": "Rust",
@@ -296,7 +458,7 @@
     },
     {
       "title": "Fei-Away/Codex-Dream-Skin: Codex Dream Skin",
-      "hot": "⭐ 3.0k",
+      "hot": "⭐ 3.8k",
       "desc": "Codex Dream Skin",
       "source": "github",
       "tag": "PowerShell",
@@ -328,11 +490,19 @@
     },
     {
       "title": "AlephAITech/WorkBuddyGuide: A practical, open-source guide to mastering WorkBudd",
-      "hot": "⭐ 920",
+      "hot": "⭐ 947",
       "desc": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/AlephAITech/WorkBuddyGuide"
+    },
+    {
+      "title": "pixel-point/aval: A new open-source format for interactive video on the web, wit",
+      "hot": "⭐ 858",
+      "desc": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/pixel-point/aval"
     },
     {
       "title": "mereyabdenbekuly-ctrl/clodex-ide: Local-first, zero-trust agentic IDE for verifi",
@@ -343,16 +513,8 @@
       "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide"
     },
     {
-      "title": "pixel-point/aval: A new open-source format for interactive video on the web, wit",
-      "hot": "⭐ 803",
-      "desc": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/pixel-point/aval"
-    },
-    {
       "title": "x4gKing/Marzban-Panel: ",
-      "hot": "⭐ 795",
+      "hot": "⭐ 804",
       "desc": "x4gKing/Marzban-Panel",
       "source": "github",
       "tag": "Dockerfile",
@@ -360,7 +522,7 @@
     },
     {
       "title": "Kappaemme-git/codex-first-customer-finder-skill: A Codex skill that finds eviden",
-      "hot": "⭐ 725",
+      "hot": "⭐ 727",
       "desc": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
       "source": "github",
       "tag": "Python",
@@ -368,7 +530,7 @@
     },
     {
       "title": "cosmtrek/mindwalk: A visualization tool that replays coding-agent sessions on a ",
-      "hot": "⭐ 716",
+      "hot": "⭐ 719",
       "desc": "A visualization tool that replays coding-agent sessions on a 3D map of your codebase.",
       "source": "github",
       "tag": "Go",
@@ -376,7 +538,7 @@
     },
     {
       "title": "pengchujin/jzsub: JZSub — 一条视频链接，自动交付最高画质、封面和 GPT 双语字幕 MP4。",
-      "hot": "⭐ 698",
+      "hot": "⭐ 701",
       "desc": "JZSub — 一条视频链接，自动交付最高画质、封面和 GPT 双语字幕 MP4。",
       "source": "github",
       "tag": "Python",
@@ -384,189 +546,27 @@
     },
     {
       "title": "x4gKing/Marzban-Node: ",
-      "hot": "⭐ 684",
+      "hot": "⭐ 693",
       "desc": "x4gKing/Marzban-Node",
       "source": "github",
       "tag": "Dockerfile",
       "url": "https://github.com/x4gKing/Marzban-Node"
     },
     {
+      "title": "CluvexStudio/Aether: ",
+      "hot": "⭐ 693",
+      "desc": "CluvexStudio/Aether",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/CluvexStudio/Aether"
+    },
+    {
       "title": "William-Lu-stack/Flawless: AI SRE AgenticOps for Kubernetes and cloud infrastruc",
-      "hot": "⭐ 661",
+      "hot": "⭐ 666",
       "desc": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/William-Lu-stack/Flawless"
-    },
-    {
-      "title": "oil-oil/beautify-github-readme: Design clear, theme-specific GitHub README homep",
-      "hot": "⭐ 632",
-      "desc": "Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/oil-oil/beautify-github-readme"
-    }
-  ],
-  "tech": [
-    {
-      "title": "The lost joy of music piracy",
-      "hot": "3.0m",
-      "desc": "pigeonsandplanes.com",
-      "source": "tech",
-      "tag": "⬆️ 277 points",
-      "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming"
-    },
-    {
-      "title": "Inkling: Our Open-Weights Model",
-      "hot": "3.0m",
-      "desc": "thinkingmachines.ai",
-      "source": "tech",
-      "tag": "⬆️ 955 points",
-      "url": "https://thinkingmachines.ai/news/introducing-inkling/"
-    },
-    {
-      "title": "If you want to create a button from scratch, you must first create the universe",
-      "hot": "3.0m",
-      "desc": "madcampos.dev",
-      "source": "tech",
-      "tag": "⬆️ 112 points",
-      "url": "https://madcampos.dev/blog/2026/07/accessibility-from-scratch/"
-    },
-    {
-      "title": "What's the story behind the names of Cloudflare's name servers? (2013)",
-      "hot": "3.0m",
-      "desc": "blog.cloudflare.com",
-      "source": "tech",
-      "tag": "⬆️ 28 points",
-      "url": "https://blog.cloudflare.com/whats-the-story-behind-the-names-of-cloudflares-name-servers/"
-    },
-    {
-      "title": "Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't",
-      "hot": "2.9m",
-      "desc": "goughlui.com",
-      "source": "tech",
-      "tag": "⬆️ 50 points",
-      "url": "https://goughlui.com/2026/07/09/teardown-a-generic-7-port-usb-3-0-hub-that-wasnt/"
-    },
-    {
-      "title": "1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored",
-      "hot": "2.9m",
-      "desc": "openculture.com",
-      "source": "tech",
-      "tag": "⬆️ 84 points",
-      "url": "https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html"
-    },
-    {
-      "title": "Grok Build is open source",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 435 points",
-      "url": "https://github.com/xai-org/grok-build"
-    },
-    {
-      "title": "SQLite should have (Rust-style) editions",
-      "hot": "2.9m",
-      "desc": "mort.coffee",
-      "source": "tech",
-      "tag": "⬆️ 260 points",
-      "url": "https://mort.coffee/home/sqlite-editions/"
-    },
-    {
-      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
-      "hot": "2.9m",
-      "desc": "siegelendowment.org",
-      "source": "tech",
-      "tag": "⬆️ 186 points",
-      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf"
-    },
-    {
-      "title": "Reynard: A real Firefox web browser for iOS 13 or later",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 35 points",
-      "url": "https://github.com/minh-ton/reynard-browser"
-    },
-    {
-      "title": "Stripe and Advent have made a joint offer to acquire PayPal – sources",
-      "hot": "2.9m",
-      "desc": "reuters.com",
-      "source": "tech",
-      "tag": "⬆️ 441 points",
-      "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/"
-    },
-    {
-      "title": "Bluesky Trademarks ATProto",
-      "hot": "2.8m",
-      "desc": "atproto.com",
-      "source": "tech",
-      "tag": "⬆️ 96 points",
-      "url": "https://atproto.com/blog/at-protocol-trademark"
-    },
-    {
-      "title": "Making 768 servers look like 1",
-      "hot": "2.8m",
-      "desc": "planetscale.com",
-      "source": "tech",
-      "tag": "⬆️ 76 points",
-      "url": "https://planetscale.com/blog/making-768-servers-look-like-1"
-    },
-    {
-      "title": "I also filed the corners off my MacBook",
-      "hot": "2.8m",
-      "desc": "brt.fyi",
-      "source": "tech",
-      "tag": "⬆️ 178 points",
-      "url": "https://www.brt.fyi/posts/mac-book-filing/"
-    },
-    {
-      "title": "G# – A modern .NET language with Go, Kotlin, and Swift ergonomics",
-      "hot": "2.8m",
-      "desc": "davidobando.github.io",
-      "source": "tech",
-      "tag": "⬆️ 96 points",
-      "url": "https://davidobando.github.io/gsharp/"
-    },
-    {
-      "title": "Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers",
-      "hot": "2.8m",
-      "desc": "arxiv.org",
-      "source": "tech",
-      "tag": "⬆️ 49 points",
-      "url": "https://arxiv.org/abs/2607.11859"
-    },
-    {
-      "title": "High-Bandwidth Flash offers efficient storage for model weights",
-      "hot": "2.8m",
-      "desc": "spectrum.ieee.org",
-      "source": "tech",
-      "tag": "⬆️ 40 points",
-      "url": "https://spectrum.ieee.org/high-bandwidth-flash"
-    },
-    {
-      "title": "The Tokio/Rayon Trap and Why Async/Await Fails Concurrency",
-      "hot": "2.7m",
-      "desc": "pmbanugo.me",
-      "source": "tech",
-      "tag": "⬆️ 61 points",
-      "url": "https://pmbanugo.me/blog/why-async-await-complect-concurrency"
-    },
-    {
-      "title": "Netstrings (1997)",
-      "hot": "2.7m",
-      "desc": "cr.yp.to",
-      "source": "tech",
-      "tag": "⬆️ 18 points",
-      "url": "https://cr.yp.to/proto/netstrings.txt"
-    },
-    {
-      "title": "Job queues are deceptively tricky",
-      "hot": "2.7m",
-      "desc": "typesanitizer.com",
-      "source": "tech",
-      "tag": "⬆️ 83 points",
-      "url": "https://typesanitizer.com/blog/job-queues.html"
     }
   ]
 }
