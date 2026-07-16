@@ -1,331 +1,193 @@
 {
-  "updatedAt": "2026-07-16T11:14:04.482Z",
+  "updatedAt": "2026-07-16T12:56:08.244Z",
   "source": "live",
-  "dev": [
-    {
-      "title": "Why did my benchmark stop at N=22? A debugging story in nine bugs",
-      "hot": "❤️ 7 💬 1",
-      "desc": "Submission for DEV's Summer Bug Smash — Smash Stories track.  There was a file in my repo called...",
-      "source": "dev",
-      "tag": "bugsmash,  debugging",
-      "url": "https://dev.to/gde/why-did-my-benchmark-stop-at-n22-a-debugging-story-in-nine-bugs-3m2l"
-    },
-    {
-      "title": "My benchmark's Python column was N/A for a year — CPython's 4300-digit limit, and eight other bugs",
-      "hot": "❤️ 7 💬 0",
-      "desc": "Submission for DEV's Summer Bug Smash — Clear the Lineup track.           The...",
-      "source": "dev",
-      "tag": "bugsmash,  python",
-      "url": "https://dev.to/gde/my-benchmarks-python-column-was-na-for-a-year-cpythons-4300-digit-limit-and-eight-other-bugs-1hgk"
-    },
-    {
-      "title": "26B Gemma 4 QAT Deployment with GCE g2-standard, NVIDIA L4, MCP, and Antigravity CLI",
-      "hot": "❤️ 5 💬 0",
-      "desc": "This article provides a step by step deployment guide for Gemma 4 to a Google Compute Engine hosted...",
-      "source": "dev",
-      "tag": "gce,  mcps",
-      "url": "https://dev.to/gde/26b-gemma-4-qat-deployment-with-gce-g2-standard-nvidia-l4-mcp-and-antigravity-cli-1bmd"
-    },
-    {
-      "title": "TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI",
-      "hot": "❤️ 5 💬 0",
-      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "source": "dev",
-      "tag": "python,  tpu",
-      "url": "https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-8-and-antigravity-cli-3e4n"
-    },
-    {
-      "title": "HTTP gets a QUERY method so complex searches can stop pretending to be POST\r\n\r\nhttps://www.theregister.com/devops/2026/07/13/http-gets-a-query-method-so-complex-searches-can-stop-pretending-to-be-post/5270192",
-      "hot": "❤️ 5 💬 0",
-      "desc": "...",
-      "source": "dev",
-      "tag": "api,  networking",
-      "url": "https://dev.to/ben/http-gets-a-query-method-so-complex-searches-can-stop-pretending-to-be-post-j28"
-    },
-    {
-      "title": "5 Trends That Defined AI Engineering at World’s Fair 2026",
-      "hot": "❤️ 6 💬 0",
-      "desc": "At this year's AIE World’s Fair, AI engineering entered a new phase: building systems around...",
-      "source": "dev",
-      "tag": "agents,  ai",
-      "url": "https://dev.to/latentspace/5-trends-that-defined-ai-engineering-at-worlds-fair-2026-5dj6"
-    },
-    {
-      "title": "The Myth of the Post-Documentation Era",
-      "hot": "❤️ 76 💬 31",
-      "desc": "There is a growing sentiment in engineering circles right now that documentation is a relic of the...",
-      "source": "dev",
-      "tag": "ai,  documentation",
-      "url": "https://dev.to/ben/the-myth-of-the-post-documentation-era-39al"
-    },
-    {
-      "title": "Welcome Thread - v384",
-      "hot": "❤️ 21 💬 70",
-      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
-      "source": "dev",
-      "tag": "welcome",
-      "url": "https://dev.to/devteam/welcome-thread-v384-45fn"
-    },
-    {
-      "title": "A lot of good points here https://antirez.com/news/169",
-      "hot": "❤️ 5 💬 0",
-      "desc": "antirez.com",
-      "source": "dev",
-      "tag": "ai,  llm",
-      "url": "https://dev.to/ben/a-lot-of-good-points-here-httpsantirezcomnews169-417f"
-    },
-    {
-      "title": "Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "source": "dev",
-      "tag": "mcps,  googleantigravity",
-      "url": "https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-1-mcp-and-antigravity-cli-3hh3"
-    },
-    {
-      "title": "Building a Hybrid Docker Orchestrator in Go: The Journey from Single VM to Multi-Node Cluster",
-      "hot": "❤️ 6 💬 0",
-      "desc": "What if you could combine the native simplicity of Docker Compose with the decentralized targeting...",
-      "source": "dev",
-      "tag": "devops,  docker",
-      "url": "https://dev.to/gde/building-a-hybrid-docker-orchestrator-in-go-the-journey-from-single-vm-to-multi-node-cluster-3i7m"
-    },
-    {
-      "title": "How I made a Rust hot path 27x faster, and the AI fix I refused to merge",
-      "hot": "❤️ 21 💬 12",
-      "desc": "Two years ago I open-sourced KeyEcho, a small desktop app that plays a mechanical-keyboard sound the...",
-      "source": "dev",
-      "tag": "rust,  ai",
-      "url": "https://dev.to/zacharylee/how-i-made-a-rust-hot-path-27x-faster-and-the-ai-fix-i-refused-to-merge-3llg"
-    },
-    {
-      "title": "Should I quit IT or just live through the burnout?",
-      "hot": "❤️ 169 💬 130",
-      "desc": "Some of you may have noticed I disappeared a bit from the community over the last couple of weeks....",
-      "source": "dev",
-      "tag": "mentalhealth,  career",
-      "url": "https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng"
-    },
-    {
-      "title": "Stop Copy-Pasting `dns:` Blocks: Introducing Transparent DNS Injection in Gubernator",
-      "hot": "❤️ 8 💬 0",
-      "desc": "How we eliminated network configuration boilerplate in Docker Compose deployments by dynamically injecting CoreDNS serve",
-      "source": "dev",
-      "tag": "docker,  go",
-      "url": "https://dev.to/gde/stop-copy-pasting-dns-blocks-introducing-transparent-dns-injection-in-gubernator-ad4"
-    },
-    {
-      "title": "[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action",
-      "hot": "❤️ 7 💬 0",
-      "desc": "Pain Point: How to Accurately Allocate Gemini API Costs Within the Same Project?   When...",
-      "source": "dev",
-      "tag": "ai,  cloud",
-      "url": "https://dev.to/gde/gcp-billing-vertex-ai-solving-gemini-cost-allocation-in-a-single-project-vertex-ai-dynamic-5aok"
-    },
-    {
-      "title": "I Finally Built the Dev Opportunity Radar Website ❤️",
-      "hot": "❤️ 94 💬 47",
-      "desc": "This is a submission for Weekend Challenge: Passion Edition   📌 TL;DR  I found this challenge on the...",
-      "source": "dev",
-      "tag": "devchallenge,  weekendchallenge",
-      "url": "https://dev.to/hemapriya_kanagala/i-finally-built-the-dev-opportunity-radar-website-1dpi"
-    },
-    {
-      "title": "Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]",
-      "hot": "❤️ 5 💬 0",
-      "desc": "Build Firebase AI Logic with Antigravity CLI   Note: Google Cloud credits are provided for...",
-      "source": "dev",
-      "tag": "ai,  angular",
-      "url": "https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o"
-    },
-    {
-      "title": "This is remarkable\r\n\r\nhttps://bobdahacker.com/blog/fifa-hack",
-      "hot": "❤️ 21 💬 0",
-      "desc": "I...",
-      "source": "dev",
-      "tag": "Dev.to",
-      "url": "https://dev.to/ben/this-is-remarkablehttpsbobdahackercomblogfifa-hack-3kb0"
-    },
-    {
-      "title": "Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "source": "dev",
-      "tag": "googleantigravity,  python",
-      "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82"
-    },
-    {
-      "title": "MCP Configuration for Looker with Antigravity CLI",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article covers the MCP setup and configuration for using Looker and underlying Gemini LLM with...",
-      "source": "dev",
-      "tag": "looker,  lookml",
-      "url": "https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d"
-    }
-  ],
   "tech": [
-    {
-      "title": "The lost joy of music piracy",
-      "hot": "3.0m",
-      "desc": "pigeonsandplanes.com",
-      "source": "tech",
-      "tag": "⬆️ 388 points",
-      "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming"
-    },
     {
       "title": "OnePlus halts operations in USA and Europe",
       "hot": "3.0m",
       "desc": "community.oneplus.com",
       "source": "tech",
-      "tag": "⬆️ 15 points",
+      "tag": "⬆️ 153 points",
       "url": "https://community.oneplus.com/thread/2170715118587871237"
     },
     {
-      "title": "Where are YC founders now? OpenAI and Anthropic, mostly",
+      "title": "British Steel taken into public ownership to protect 'vital' UK supply",
       "hot": "3.0m",
-      "desc": "joinedanthropic.com",
+      "desc": "bbc.com",
       "source": "tech",
-      "tag": "⬆️ 65 points",
-      "url": "https://joinedanthropic.com"
+      "tag": "⬆️ 40 points",
+      "url": "https://www.bbc.com/news/articles/c5y680w62wno"
+    },
+    {
+      "title": "The LLM Critics Are Right. I Use LLMs Anyway",
+      "hot": "3.0m",
+      "desc": "theocharis.dev",
+      "source": "tech",
+      "tag": "⬆️ 41 points",
+      "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/"
+    },
+    {
+      "title": "The lost joy of music piracy",
+      "hot": "3.0m",
+      "desc": "pigeonsandplanes.com",
+      "source": "tech",
+      "tag": "⬆️ 464 points",
+      "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming"
+    },
+    {
+      "title": "Let's Build PlanetScale from Scratch: Infrastructure",
+      "hot": "2.9m",
+      "desc": "onatm.dev",
+      "source": "tech",
+      "tag": "⬆️ 17 points",
+      "url": "https://onatm.dev/2026/07/16/homescale-part-1/"
+    },
+    {
+      "title": "SpaceX stock erases all its gains and slides below IPO price in intraday trading",
+      "hot": "2.9m",
+      "desc": "latimes.com",
+      "source": "tech",
+      "tag": "⬆️ 59 points",
+      "url": "https://www.latimes.com/business/story/2026-07-16/spacex-stock-erases-gains-slides-below-ipo-price-in-intraday-trading"
     },
     {
       "title": "Inkling: Our Open-Weights Model",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "thinkingmachines.ai",
       "source": "tech",
-      "tag": "⬆️ 1013 points",
+      "tag": "⬆️ 1058 points",
       "url": "https://thinkingmachines.ai/news/introducing-inkling/"
-    },
-    {
-      "title": "If you want to create a button from scratch, you must first create the universe",
-      "hot": "2.9m",
-      "desc": "madcampos.dev",
-      "source": "tech",
-      "tag": "⬆️ 159 points",
-      "url": "https://madcampos.dev/blog/2026/07/accessibility-from-scratch/"
-    },
-    {
-      "title": "Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't",
-      "hot": "2.9m",
-      "desc": "goughlui.com",
-      "source": "tech",
-      "tag": "⬆️ 77 points",
-      "url": "https://goughlui.com/2026/07/09/teardown-a-generic-7-port-usb-3-0-hub-that-wasnt/"
     },
     {
       "title": "A Beautiful Theory Falls to Ugly Data",
       "hot": "2.9m",
       "desc": "marginalrevolution.com",
       "source": "tech",
-      "tag": "⬆️ 15 points",
+      "tag": "⬆️ 42 points",
       "url": "https://marginalrevolution.com/marginalrevolution/2026/05/a-beautiful-theory-falls-to-ugly-data.html"
     },
     {
-      "title": "1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored",
+      "title": "Where are YC founders now? OpenAI and Anthropic, mostly",
       "hot": "2.9m",
+      "desc": "joinedanthropic.com",
+      "source": "tech",
+      "tag": "⬆️ 116 points",
+      "url": "https://joinedanthropic.com"
+    },
+    {
+      "title": "Ente – Opening Our Books",
+      "hot": "2.9m",
+      "desc": "ente.com",
+      "source": "tech",
+      "tag": "⬆️ 33 points",
+      "url": "https://ente.com/open/"
+    },
+    {
+      "title": "The Act and the Outcome of Creation",
+      "hot": "2.9m",
+      "desc": "ssp.sh",
+      "source": "tech",
+      "tag": "⬆️ 8 points",
+      "url": "https://www.ssp.sh/blog/on-creation/"
+    },
+    {
+      "title": "1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored",
+      "hot": "2.8m",
       "desc": "openculture.com",
       "source": "tech",
-      "tag": "⬆️ 115 points",
+      "tag": "⬆️ 138 points",
       "url": "https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html"
     },
     {
-      "title": "Grok Build is open source",
-      "hot": "2.9m",
-      "desc": "github.com",
+      "title": "Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't",
+      "hot": "2.8m",
+      "desc": "goughlui.com",
       "source": "tech",
-      "tag": "⬆️ 472 points",
-      "url": "https://github.com/xai-org/grok-build"
+      "tag": "⬆️ 106 points",
+      "url": "https://goughlui.com/2026/07/09/teardown-a-generic-7-port-usb-3-0-hub-that-wasnt/"
+    },
+    {
+      "title": "If you want to create a button from scratch, you must first create the universe",
+      "hot": "2.8m",
+      "desc": "madcampos.dev",
+      "source": "tech",
+      "tag": "⬆️ 174 points",
+      "url": "https://madcampos.dev/blog/2026/07/accessibility-from-scratch/"
     },
     {
       "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "siegelendowment.org",
       "source": "tech",
-      "tag": "⬆️ 206 points",
+      "tag": "⬆️ 234 points",
       "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf"
     },
     {
+      "title": "Grok Build is open source",
+      "hot": "2.8m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 492 points",
+      "url": "https://github.com/xai-org/grok-build"
+    },
+    {
+      "title": "Let's build a simple interpreter for APL – part 1",
+      "hot": "2.8m",
+      "desc": "mathspp.com",
+      "source": "tech",
+      "tag": "⬆️ 12 points",
+      "url": "https://mathspp.com/blog/lsbasi-apl-part1"
+    },
+    {
       "title": "SQLite should have (Rust-style) editions",
-      "hot": "2.9m",
+      "hot": "2.7m",
       "desc": "mort.coffee",
       "source": "tech",
-      "tag": "⬆️ 287 points",
+      "tag": "⬆️ 306 points",
       "url": "https://mort.coffee/home/sqlite-editions/"
     },
     {
       "title": "Stripe and Advent have made a joint offer to acquire PayPal – sources",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "reuters.com",
       "source": "tech",
-      "tag": "⬆️ 450 points",
+      "tag": "⬆️ 462 points",
       "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/"
     },
     {
-      "title": "Reynard: A real Firefox web browser for iOS 13 or later",
-      "hot": "2.8m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 64 points",
-      "url": "https://github.com/minh-ton/reynard-browser"
-    },
-    {
-      "title": "I also filed the corners off my MacBook",
-      "hot": "2.8m",
-      "desc": "brt.fyi",
-      "source": "tech",
-      "tag": "⬆️ 199 points",
-      "url": "https://www.brt.fyi/posts/mac-book-filing/"
-    },
-    {
-      "title": "Bluesky Trademarks ATProto",
-      "hot": "2.8m",
-      "desc": "atproto.com",
-      "source": "tech",
-      "tag": "⬆️ 113 points",
-      "url": "https://atproto.com/blog/at-protocol-trademark"
-    },
-    {
-      "title": "Rebuilding My Homelab with Compose, Ruby, IPv6, and No Kubernetes",
-      "hot": "2.8m",
-      "desc": "petekeen.net",
-      "source": "tech",
-      "tag": "⬆️ 37 points",
-      "url": "https://www.petekeen.net/homelab-resolved/"
-    },
-    {
-      "title": "Making 768 servers look like 1",
-      "hot": "2.8m",
-      "desc": "planetscale.com",
-      "source": "tech",
-      "tag": "⬆️ 88 points",
-      "url": "https://planetscale.com/blog/making-768-servers-look-like-1"
-    },
-    {
-      "title": "High-Bandwidth Flash offers efficient storage for model weights",
+      "title": "Track your workout from the iPhone Lock Screen",
       "hot": "2.7m",
-      "desc": "spectrum.ieee.org",
+      "desc": "musklr.com",
       "source": "tech",
-      "tag": "⬆️ 50 points",
-      "url": "https://spectrum.ieee.org/high-bandwidth-flash"
-    },
-    {
-      "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
-      "hot": "2.7m",
-      "desc": "neomindlabs.com",
-      "source": "tech",
-      "tag": "⬆️ 290 points",
-      "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/"
-    },
-    {
-      "title": "Job queues are deceptively tricky",
-      "hot": "2.7m",
-      "desc": "typesanitizer.com",
-      "source": "tech",
-      "tag": "⬆️ 94 points",
-      "url": "https://typesanitizer.com/blog/job-queues.html"
+      "tag": "⬆️ 8 points",
+      "url": "https://musklr.com/blog/2026/iphone-lock-screen-workout-tracking-live-activity/"
     }
   ],
   "space": [
+    {
+      "title": "Office of Space Commerce makes its case for mission authorization",
+      "hot": "7/16",
+      "desc": "\nThe Office of Space Commerce defended its proposal for a mission authorization scheme for novel space activities, arguing it would provide certainty ",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/office-of-space-commerce-makes-its-case-for-mission-authorization/"
+    },
+    {
+      "title": "Bluestaq Launches BLUESTAQ / ARQ Defense-Grade Data Infrastructure Now Available for Commercial, Government, and Enterprise Organizations",
+      "hot": "7/16",
+      "desc": "\nCOLORADO SPRINGS, CO, July 16, 2026 – Bluestaq today announced the launch of BLUESTAQ / ARQ, the company’s commercial data infrastructure platform.  ",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/bluestaq-launches-bluestaq-arq-defense-grade-data-infrastructure-now-available-for-commercial-government-and-enterprise-organizations/"
+    },
+    {
+      "title": "Expedition Sound podcast series",
+      "hot": "7/16",
+      "desc": "Expedition Sound is a podcast series by the European Space Agency (ESA) in which you’re invited to explore the Universe through your ears. Guided by s",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Expedition_Sound_podcast_series"
+    },
     {
       "title": "Test firing at brand new green chemical propulsion lab",
       "hot": "7/16",
@@ -421,36 +283,12 @@
       "source": "space",
       "tag": "NASA",
       "url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/how-nasas-artemis-iii-lander-test-will-pave-way-for-moon-landings/"
-    },
-    {
-      "title": "Anil Menon Launches to Space Station",
-      "hot": "7/15",
-      "desc": "NASA astronaut candidate Anna Menon and her children watch as a Soyuz rocket launches to the International Space Station with NASA astronaut Anil Meno",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/image-article/anil-menon-launches-to-space-station/"
-    },
-    {
-      "title": "Curiosity Finds Evidence of an Ancient Sandstorm",
-      "hot": "7/15",
-      "desc": "Description Billions of years ago, an hours-long Martian sandstorm blew so intensely that sand ripples began to climb upon one another as they moved a",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/photojournal/curiosity-finds-evidence-of-an-ancient-sandstorm/"
-    },
-    {
-      "title": "Saltzman’s farewell warning: Prepare for war in space to preserve peace",
-      "hot": "7/15",
-      "desc": "\nIn his final public speech as Space Force chief, Gen. Chance Saltzman called for combat credibility, stronger alliances and realism about the limits ",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/saltzmans-farewell-warning-prepare-for-war-in-space-to-preserve-peace/"
     }
   ],
   "github": [
     {
       "title": "xai-org/grok-build: SpaceXAI's coding agent harness and TUI. Fullscreen, mouse i",
-      "hot": "⭐ 8.9k",
+      "hot": "⭐ 9.5k",
       "desc": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "source": "github",
       "tag": "Rust",
@@ -458,7 +296,7 @@
     },
     {
       "title": "Fei-Away/Codex-Dream-Skin: Codex Dream Skin",
-      "hot": "⭐ 3.8k",
+      "hot": "⭐ 4.2k",
       "desc": "Codex Dream Skin",
       "source": "github",
       "tag": "PowerShell",
@@ -466,7 +304,7 @@
     },
     {
       "title": "MDX-Tom/gpt-5.6-instruct: A Codex CLI jailbreak prompt and test pack for gpt-5.6",
-      "hot": "⭐ 1.5k",
+      "hot": "⭐ 1.6k",
       "desc": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
       "source": "github",
       "tag": "Python",
@@ -490,7 +328,7 @@
     },
     {
       "title": "AlephAITech/WorkBuddyGuide: A practical, open-source guide to mastering WorkBudd",
-      "hot": "⭐ 947",
+      "hot": "⭐ 960",
       "desc": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
       "source": "github",
       "tag": "Python",
@@ -498,31 +336,39 @@
     },
     {
       "title": "pixel-point/aval: A new open-source format for interactive video on the web, wit",
-      "hot": "⭐ 858",
+      "hot": "⭐ 888",
       "desc": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/pixel-point/aval"
     },
     {
-      "title": "mereyabdenbekuly-ctrl/clodex-ide: Local-first, zero-trust agentic IDE for verifi",
-      "hot": "⭐ 813",
-      "desc": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide"
-    },
-    {
       "title": "x4gKing/Marzban-Panel: ",
-      "hot": "⭐ 804",
+      "hot": "⭐ 817",
       "desc": "x4gKing/Marzban-Panel",
       "source": "github",
       "tag": "Dockerfile",
       "url": "https://github.com/x4gKing/Marzban-Panel"
     },
     {
+      "title": "mereyabdenbekuly-ctrl/clodex-ide: Local-first, zero-trust agentic IDE for verifi",
+      "hot": "⭐ 814",
+      "desc": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide"
+    },
+    {
+      "title": "CluvexStudio/Aether: ",
+      "hot": "⭐ 740",
+      "desc": "CluvexStudio/Aether",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/CluvexStudio/Aether"
+    },
+    {
       "title": "Kappaemme-git/codex-first-customer-finder-skill: A Codex skill that finds eviden",
-      "hot": "⭐ 727",
+      "hot": "⭐ 733",
       "desc": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
       "source": "github",
       "tag": "Python",
@@ -530,7 +376,7 @@
     },
     {
       "title": "cosmtrek/mindwalk: A visualization tool that replays coding-agent sessions on a ",
-      "hot": "⭐ 719",
+      "hot": "⭐ 721",
       "desc": "A visualization tool that replays coding-agent sessions on a 3D map of your codebase.",
       "source": "github",
       "tag": "Go",
@@ -538,7 +384,7 @@
     },
     {
       "title": "pengchujin/jzsub: JZSub — 一条视频链接，自动交付最高画质、封面和 GPT 双语字幕 MP4。",
-      "hot": "⭐ 701",
+      "hot": "⭐ 704",
       "desc": "JZSub — 一条视频链接，自动交付最高画质、封面和 GPT 双语字幕 MP4。",
       "source": "github",
       "tag": "Python",
@@ -546,27 +392,181 @@
     },
     {
       "title": "x4gKing/Marzban-Node: ",
-      "hot": "⭐ 693",
+      "hot": "⭐ 699",
       "desc": "x4gKing/Marzban-Node",
       "source": "github",
       "tag": "Dockerfile",
       "url": "https://github.com/x4gKing/Marzban-Node"
     },
     {
-      "title": "CluvexStudio/Aether: ",
-      "hot": "⭐ 693",
-      "desc": "CluvexStudio/Aether",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/CluvexStudio/Aether"
-    },
-    {
       "title": "William-Lu-stack/Flawless: AI SRE AgenticOps for Kubernetes and cloud infrastruc",
-      "hot": "⭐ 666",
+      "hot": "⭐ 670",
       "desc": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/William-Lu-stack/Flawless"
+    }
+  ],
+  "dev": [
+    {
+      "title": "My benchmark's Python column was N/A for a year — CPython's 4300-digit limit, and eight other bugs",
+      "hot": "❤️ 7 💬 0",
+      "desc": "Submission for DEV's Summer Bug Smash — Clear the Lineup track.           The...",
+      "source": "dev",
+      "tag": "bugsmash,  python",
+      "url": "https://dev.to/gde/my-benchmarks-python-column-was-na-for-a-year-cpythons-4300-digit-limit-and-eight-other-bugs-1hgk"
+    },
+    {
+      "title": "26B Gemma 4 QAT Deployment with GCE g2-standard, NVIDIA L4, MCP, and Antigravity CLI",
+      "hot": "❤️ 5 💬 0",
+      "desc": "This article provides a step by step deployment guide for Gemma 4 to a Google Compute Engine hosted...",
+      "source": "dev",
+      "tag": "gce,  mcps",
+      "url": "https://dev.to/gde/26b-gemma-4-qat-deployment-with-gce-g2-standard-nvidia-l4-mcp-and-antigravity-cli-1bmd"
+    },
+    {
+      "title": "Why did my benchmark stop at N=22? A debugging story in nine bugs",
+      "hot": "❤️ 13 💬 1",
+      "desc": "Submission for DEV's Summer Bug Smash — Smash Stories track.  There was a file in my repo called...",
+      "source": "dev",
+      "tag": "bugsmash,  debugging",
+      "url": "https://dev.to/gde/why-did-my-benchmark-stop-at-n22-a-debugging-story-in-nine-bugs-3m2l"
+    },
+    {
+      "title": "HTTP gets a QUERY method so complex searches can stop pretending to be POST\r\n\r\nhttps://www.theregister.com/devops/2026/07/13/http-gets-a-query-method-so-complex-searches-can-stop-pretending-to-be-post/5270192",
+      "hot": "❤️ 5 💬 0",
+      "desc": "...",
+      "source": "dev",
+      "tag": "api,  networking",
+      "url": "https://dev.to/ben/http-gets-a-query-method-so-complex-searches-can-stop-pretending-to-be-post-j28"
+    },
+    {
+      "title": "5 Trends That Defined AI Engineering at World’s Fair 2026",
+      "hot": "❤️ 7 💬 0",
+      "desc": "At this year's AIE World’s Fair, AI engineering entered a new phase: building systems around...",
+      "source": "dev",
+      "tag": "agents,  ai",
+      "url": "https://dev.to/latentspace/5-trends-that-defined-ai-engineering-at-worlds-fair-2026-5dj6"
+    },
+    {
+      "title": "The Myth of the Post-Documentation Era",
+      "hot": "❤️ 76 💬 32",
+      "desc": "There is a growing sentiment in engineering circles right now that documentation is a relic of the...",
+      "source": "dev",
+      "tag": "ai,  documentation",
+      "url": "https://dev.to/ben/the-myth-of-the-post-documentation-era-39al"
+    },
+    {
+      "title": "Welcome Thread - v384",
+      "hot": "❤️ 21 💬 83",
+      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
+      "source": "dev",
+      "tag": "welcome",
+      "url": "https://dev.to/devteam/welcome-thread-v384-45fn"
+    },
+    {
+      "title": "TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
+      "source": "dev",
+      "tag": "python,  tpu",
+      "url": "https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-8-and-antigravity-cli-3e4n"
+    },
+    {
+      "title": "Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
+      "source": "dev",
+      "tag": "mcps,  googleantigravity",
+      "url": "https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-1-mcp-and-antigravity-cli-3hh3"
+    },
+    {
+      "title": "Building a Hybrid Docker Orchestrator in Go: The Journey from Single VM to Multi-Node Cluster",
+      "hot": "❤️ 6 💬 0",
+      "desc": "What if you could combine the native simplicity of Docker Compose with the decentralized targeting...",
+      "source": "dev",
+      "tag": "devops,  docker",
+      "url": "https://dev.to/gde/building-a-hybrid-docker-orchestrator-in-go-the-journey-from-single-vm-to-multi-node-cluster-3i7m"
+    },
+    {
+      "title": "How I made a Rust hot path 27x faster, and the AI fix I refused to merge",
+      "hot": "❤️ 22 💬 13",
+      "desc": "Two years ago I open-sourced KeyEcho, a small desktop app that plays a mechanical-keyboard sound the...",
+      "source": "dev",
+      "tag": "rust,  ai",
+      "url": "https://dev.to/zacharylee/how-i-made-a-rust-hot-path-27x-faster-and-the-ai-fix-i-refused-to-merge-3llg"
+    },
+    {
+      "title": "Should I quit IT or just live through the burnout?",
+      "hot": "❤️ 169 💬 130",
+      "desc": "Some of you may have noticed I disappeared a bit from the community over the last couple of weeks....",
+      "source": "dev",
+      "tag": "mentalhealth,  career",
+      "url": "https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng"
+    },
+    {
+      "title": "Stop Copy-Pasting `dns:` Blocks: Introducing Transparent DNS Injection in Gubernator",
+      "hot": "❤️ 8 💬 0",
+      "desc": "How we eliminated network configuration boilerplate in Docker Compose deployments by dynamically injecting CoreDNS serve",
+      "source": "dev",
+      "tag": "docker,  go",
+      "url": "https://dev.to/gde/stop-copy-pasting-dns-blocks-introducing-transparent-dns-injection-in-gubernator-ad4"
+    },
+    {
+      "title": "[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action",
+      "hot": "❤️ 7 💬 0",
+      "desc": "Pain Point: How to Accurately Allocate Gemini API Costs Within the Same Project?   When...",
+      "source": "dev",
+      "tag": "ai,  cloud",
+      "url": "https://dev.to/gde/gcp-billing-vertex-ai-solving-gemini-cost-allocation-in-a-single-project-vertex-ai-dynamic-5aok"
+    },
+    {
+      "title": "I Finally Built the Dev Opportunity Radar Website ❤️",
+      "hot": "❤️ 95 💬 47",
+      "desc": "This is a submission for Weekend Challenge: Passion Edition   📌 TL;DR  I found this challenge on the...",
+      "source": "dev",
+      "tag": "devchallenge,  weekendchallenge",
+      "url": "https://dev.to/hemapriya_kanagala/i-finally-built-the-dev-opportunity-radar-website-1dpi"
+    },
+    {
+      "title": "Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]",
+      "hot": "❤️ 5 💬 0",
+      "desc": "Build Firebase AI Logic with Antigravity CLI   Note: Google Cloud credits are provided for...",
+      "source": "dev",
+      "tag": "ai,  angular",
+      "url": "https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o"
+    },
+    {
+      "title": "This is remarkable\r\n\r\nhttps://bobdahacker.com/blog/fifa-hack",
+      "hot": "❤️ 21 💬 0",
+      "desc": "I...",
+      "source": "dev",
+      "tag": "Dev.to",
+      "url": "https://dev.to/ben/this-is-remarkablehttpsbobdahackercomblogfifa-hack-3kb0"
+    },
+    {
+      "title": "Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
+      "source": "dev",
+      "tag": "googleantigravity,  python",
+      "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82"
+    },
+    {
+      "title": "MCP Configuration for Looker with Antigravity CLI",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article covers the MCP setup and configuration for using Looker and underlying Gemini LLM with...",
+      "source": "dev",
+      "tag": "looker,  lookml",
+      "url": "https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d"
+    },
+    {
+      "title": "DEV’s Big Summer Bug Smash is now LIVE! Share $5,000 in cash prizes, skateboards, and more across 20+ winners. 🐛🐞🪲",
+      "hot": "❤️ 67 💬 19",
+      "desc": "Today is National Be Nice to Bugs Day in the U.S. and we’re thrilled to launch our Big Summer Bug...",
+      "source": "dev",
+      "tag": "bugsmash,  devchallenge",
+      "url": "https://dev.to/devteam/devs-big-summer-bug-smash-is-now-live-share-5000-in-cash-prizes-skateboards-and-more-across-57mk"
     }
   ]
 }
