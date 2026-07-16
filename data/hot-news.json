@@ -1,6 +1,290 @@
 {
-  "updatedAt": "2026-07-16T19:52:17.812Z",
+  "updatedAt": "2026-07-16T20:39:45.067Z",
   "source": "live",
+  "tech": [
+    {
+      "title": "Kimi K3 is now live",
+      "hot": "3.0m",
+      "desc": "kimi.com",
+      "source": "tech",
+      "tag": "⬆️ 712 points",
+      "url": "https://www.kimi.com/en"
+    },
+    {
+      "title": "Microsoft Comic Chat is now open source",
+      "hot": "3.0m",
+      "desc": "opensource.microsoft.com",
+      "source": "tech",
+      "tag": "⬆️ 355 points",
+      "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/"
+    },
+    {
+      "title": "Decoy Font",
+      "hot": "3.0m",
+      "desc": "mixfont.com",
+      "source": "tech",
+      "tag": "⬆️ 230 points",
+      "url": "https://www.mixfont.com/experiments/decoy-font"
+    },
+    {
+      "title": "NotebookLM is now Gemini Notebook",
+      "hot": "3.0m",
+      "desc": "blog.google",
+      "source": "tech",
+      "tag": "⬆️ 146 points",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/"
+    },
+    {
+      "title": "OnePlus halts operations in USA and Europe",
+      "hot": "2.9m",
+      "desc": "community.oneplus.com",
+      "source": "tech",
+      "tag": "⬆️ 477 points",
+      "url": "https://community.oneplus.com/thread/2170715118587871237"
+    },
+    {
+      "title": "Immersive Linear Algebra Book with Interactive Figures (2015)",
+      "hot": "2.9m",
+      "desc": "immersivemath.com",
+      "source": "tech",
+      "tag": "⬆️ 102 points",
+      "url": "https://immersivemath.com/ila/"
+    },
+    {
+      "title": "How Our Rust-to-Zig Rewrite Is Going",
+      "hot": "2.9m",
+      "desc": "rtfeldman.com",
+      "source": "tech",
+      "tag": "⬆️ 322 points",
+      "url": "https://rtfeldman.com/rust-to-zig"
+    },
+    {
+      "title": "The lost joy of music piracy",
+      "hot": "2.9m",
+      "desc": "pigeonsandplanes.com",
+      "source": "tech",
+      "tag": "⬆️ 743 points",
+      "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming"
+    },
+    {
+      "title": "Goes-19 weather satellite enters Safe Hold mode",
+      "hot": "2.9m",
+      "desc": "spaceweather.gov",
+      "source": "tech",
+      "tag": "⬆️ 131 points",
+      "url": "https://www.spaceweather.gov/news/goes-19-safe-hold"
+    },
+    {
+      "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
+      "hot": "2.9m",
+      "desc": "blog.lyc8503.net",
+      "source": "tech",
+      "tag": "⬆️ 102 points",
+      "url": "https://blog.lyc8503.net/en/post/llm-classifier/"
+    },
+    {
+      "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
+      "hot": "2.9m",
+      "desc": "zhinit.dev",
+      "source": "tech",
+      "tag": "⬆️ 68 points",
+      "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model"
+    },
+    {
+      "title": "Optimizing Lua string literals to save 400 bytes",
+      "hot": "2.8m",
+      "desc": "purplesyringa.moe",
+      "source": "tech",
+      "tag": "⬆️ 18 points",
+      "url": "https://purplesyringa.moe/blog/guest/optimizing-lua-string-literals-to-save-400-bytes/"
+    },
+    {
+      "title": "Adaptional (YC S25) Is Hiring",
+      "hot": "2.8m",
+      "desc": "ycombinator.com",
+      "source": "tech",
+      "tag": "⬆️ 1 points",
+      "url": "https://www.ycombinator.com/companies/adaptional/jobs"
+    },
+    {
+      "title": "Schema Harness Achieves ~99% on Arc‑AGI‑3 Public",
+      "hot": "2.8m",
+      "desc": "schema-harness.github.io",
+      "source": "tech",
+      "tag": "⬆️ 63 points",
+      "url": "https://schema-harness.github.io/"
+    },
+    {
+      "title": "Show HN: Leaves – A text-UI disk usage treemap visualizer",
+      "hot": "2.8m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 45 points",
+      "url": "https://github.com/patonw/leaves"
+    },
+    {
+      "title": "Guide to data tools landscape for developers",
+      "hot": "2.8m",
+      "desc": "sinja.io",
+      "source": "tech",
+      "tag": "⬆️ 90 points",
+      "url": "https://sinja.io/blog/data-landscape-guide-for-developers"
+    },
+    {
+      "title": "Sony deletes more movies from the accounts of people who ‘bought’ them",
+      "hot": "2.8m",
+      "desc": "techdirt.com",
+      "source": "tech",
+      "tag": "⬆️ 504 points",
+      "url": "https://www.techdirt.com/2026/07/15/sony-deletes-a-bunch-more-movies-from-the-accounts-of-people-who-bought-them/"
+    },
+    {
+      "title": "Ente – Opening Our Books",
+      "hot": "2.7m",
+      "desc": "ente.com",
+      "source": "tech",
+      "tag": "⬆️ 200 points",
+      "url": "https://ente.com/open/"
+    },
+    {
+      "title": "Let's Build PlanetScale from Scratch: Infrastructure",
+      "hot": "2.7m",
+      "desc": "onatm.dev",
+      "source": "tech",
+      "tag": "⬆️ 125 points",
+      "url": "https://onatm.dev/2026/07/16/homescale-part-1/"
+    },
+    {
+      "title": "Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps",
+      "hot": "2.7m",
+      "desc": "news.ycombinator.com",
+      "source": "tech",
+      "tag": "⬆️ 15 points",
+      "url": "https://news.ycombinator.com/item?id=48937020"
+    }
+  ],
+  "github": [
+    {
+      "title": "xai-org/grok-build: SpaceXAI's coding agent harness and TUI. Fullscreen, mouse i",
+      "hot": "⭐ 11.6k",
+      "desc": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/xai-org/grok-build"
+    },
+    {
+      "title": "Fei-Away/Codex-Dream-Skin: Codex Dream Skin",
+      "hot": "⭐ 5.2k",
+      "desc": "Codex Dream Skin",
+      "source": "github",
+      "tag": "PowerShell",
+      "url": "https://github.com/Fei-Away/Codex-Dream-Skin"
+    },
+    {
+      "title": "MDX-Tom/gpt-5.6-instruct: A Codex CLI jailbreak prompt and test pack for gpt-5.6",
+      "hot": "⭐ 1.7k",
+      "desc": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/MDX-Tom/gpt-5.6-instruct"
+    },
+    {
+      "title": "littledivy/mimic: Intercept any app, then call it from Python like a library",
+      "hot": "⭐ 1.1k",
+      "desc": "Intercept any app, then call it from Python like a library",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/littledivy/mimic"
+    },
+    {
+      "title": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin: Codex plugin that turns attac",
+      "hot": "⭐ 1.0k",
+      "desc": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin"
+    },
+    {
+      "title": "pixel-point/aval: A new open-source format for interactive video on the web, wit",
+      "hot": "⭐ 1.0k",
+      "desc": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/pixel-point/aval"
+    },
+    {
+      "title": "AlephAITech/WorkBuddyGuide: A practical, open-source guide to mastering WorkBudd",
+      "hot": "⭐ 981",
+      "desc": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/AlephAITech/WorkBuddyGuide"
+    },
+    {
+      "title": "CluvexStudio/Aether: ",
+      "hot": "⭐ 893",
+      "desc": "CluvexStudio/Aether",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/CluvexStudio/Aether"
+    },
+    {
+      "title": "x4gKing/Marzban-Panel: ",
+      "hot": "⭐ 836",
+      "desc": "x4gKing/Marzban-Panel",
+      "source": "github",
+      "tag": "Dockerfile",
+      "url": "https://github.com/x4gKing/Marzban-Panel"
+    },
+    {
+      "title": "mereyabdenbekuly-ctrl/clodex-ide: Local-first, zero-trust agentic IDE for verifi",
+      "hot": "⭐ 824",
+      "desc": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide"
+    },
+    {
+      "title": "Kappaemme-git/codex-first-customer-finder-skill: A Codex skill that finds eviden",
+      "hot": "⭐ 757",
+      "desc": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill"
+    },
+    {
+      "title": "cosmtrek/mindwalk: A visualization tool that replays coding-agent sessions on a ",
+      "hot": "⭐ 748",
+      "desc": "A visualization tool that replays coding-agent sessions on a 3D map of your codebase.",
+      "source": "github",
+      "tag": "Go",
+      "url": "https://github.com/cosmtrek/mindwalk"
+    },
+    {
+      "title": "x4gKing/Marzban-Node: ",
+      "hot": "⭐ 721",
+      "desc": "x4gKing/Marzban-Node",
+      "source": "github",
+      "tag": "Dockerfile",
+      "url": "https://github.com/x4gKing/Marzban-Node"
+    },
+    {
+      "title": "pengchujin/jzsub: JZSub — 一条视频链接，自动交付最高画质、封面和 GPT 双语字幕 MP4。",
+      "hot": "⭐ 713",
+      "desc": "JZSub — 一条视频链接，自动交付最高画质、封面和 GPT 双语字幕 MP4。",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/pengchujin/jzsub"
+    },
+    {
+      "title": "William-Lu-stack/Flawless: AI SRE AgenticOps for Kubernetes and cloud infrastruc",
+      "hot": "⭐ 689",
+      "desc": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/William-Lu-stack/Flawless"
+    }
+  ],
   "space": [
     {
       "title": "NASA Study Finds Near-Earth Asteroid Is Actually Comet",
@@ -124,6 +408,14 @@
     }
   ],
   "dev": [
+    {
+      "title": "Did You Know TLDs Can Be Websites?",
+      "hot": "❤️ 12 💬 2",
+      "desc": "You've probably registered a domain with Route53 or another popular registrar.  You pick something...",
+      "source": "dev",
+      "tag": "aws,  infrastructure",
+      "url": "https://dev.to/aws/did-you-know-tlds-can-be-websites-2j13"
+    },
     {
       "title": "My benchmark's Python column was N/A for a year — CPython's 4300-digit limit, and eight other bugs",
       "hot": "❤️ 7 💬 0",
@@ -275,298 +567,6 @@
       "source": "dev",
       "tag": "looker,  lookml",
       "url": "https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d"
-    },
-    {
-      "title": "Welcome Thread - v384",
-      "hot": "❤️ 27 💬 105",
-      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
-      "source": "dev",
-      "tag": "welcome",
-      "url": "https://dev.to/devteam/welcome-thread-v384-45fn"
-    }
-  ],
-  "github": [
-    {
-      "title": "xai-org/grok-build: SpaceXAI's coding agent harness and TUI. Fullscreen, mouse i",
-      "hot": "⭐ 11.5k",
-      "desc": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/xai-org/grok-build"
-    },
-    {
-      "title": "Fei-Away/Codex-Dream-Skin: Codex Dream Skin",
-      "hot": "⭐ 5.2k",
-      "desc": "Codex Dream Skin",
-      "source": "github",
-      "tag": "PowerShell",
-      "url": "https://github.com/Fei-Away/Codex-Dream-Skin"
-    },
-    {
-      "title": "MDX-Tom/gpt-5.6-instruct: A Codex CLI jailbreak prompt and test pack for gpt-5.6",
-      "hot": "⭐ 1.7k",
-      "desc": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/MDX-Tom/gpt-5.6-instruct"
-    },
-    {
-      "title": "littledivy/mimic: Intercept any app, then call it from Python like a library",
-      "hot": "⭐ 1.1k",
-      "desc": "Intercept any app, then call it from Python like a library",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/littledivy/mimic"
-    },
-    {
-      "title": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin: Codex plugin that turns attac",
-      "hot": "⭐ 1.0k",
-      "desc": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin"
-    },
-    {
-      "title": "pixel-point/aval: A new open-source format for interactive video on the web, wit",
-      "hot": "⭐ 1.0k",
-      "desc": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/pixel-point/aval"
-    },
-    {
-      "title": "AlephAITech/WorkBuddyGuide: A practical, open-source guide to mastering WorkBudd",
-      "hot": "⭐ 981",
-      "desc": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/AlephAITech/WorkBuddyGuide"
-    },
-    {
-      "title": "CluvexStudio/Aether: ",
-      "hot": "⭐ 876",
-      "desc": "CluvexStudio/Aether",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/CluvexStudio/Aether"
-    },
-    {
-      "title": "x4gKing/Marzban-Panel: ",
-      "hot": "⭐ 834",
-      "desc": "x4gKing/Marzban-Panel",
-      "source": "github",
-      "tag": "Dockerfile",
-      "url": "https://github.com/x4gKing/Marzban-Panel"
-    },
-    {
-      "title": "mereyabdenbekuly-ctrl/clodex-ide: Local-first, zero-trust agentic IDE for verifi",
-      "hot": "⭐ 823",
-      "desc": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide"
-    },
-    {
-      "title": "Kappaemme-git/codex-first-customer-finder-skill: A Codex skill that finds eviden",
-      "hot": "⭐ 755",
-      "desc": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill"
-    },
-    {
-      "title": "cosmtrek/mindwalk: A visualization tool that replays coding-agent sessions on a ",
-      "hot": "⭐ 745",
-      "desc": "A visualization tool that replays coding-agent sessions on a 3D map of your codebase.",
-      "source": "github",
-      "tag": "Go",
-      "url": "https://github.com/cosmtrek/mindwalk"
-    },
-    {
-      "title": "x4gKing/Marzban-Node: ",
-      "hot": "⭐ 718",
-      "desc": "x4gKing/Marzban-Node",
-      "source": "github",
-      "tag": "Dockerfile",
-      "url": "https://github.com/x4gKing/Marzban-Node"
-    },
-    {
-      "title": "pengchujin/jzsub: JZSub — 一条视频链接，自动交付最高画质、封面和 GPT 双语字幕 MP4。",
-      "hot": "⭐ 712",
-      "desc": "JZSub — 一条视频链接，自动交付最高画质、封面和 GPT 双语字幕 MP4。",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/pengchujin/jzsub"
-    },
-    {
-      "title": "William-Lu-stack/Flawless: AI SRE AgenticOps for Kubernetes and cloud infrastruc",
-      "hot": "⭐ 689",
-      "desc": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/William-Lu-stack/Flawless"
-    }
-  ],
-  "tech": [
-    {
-      "title": "Kimi K3 is now live",
-      "hot": "3.0m",
-      "desc": "kimi.com",
-      "source": "tech",
-      "tag": "⬆️ 634 points",
-      "url": "https://www.kimi.com/en"
-    },
-    {
-      "title": "Microsoft Comic Chat is now open source",
-      "hot": "3.0m",
-      "desc": "opensource.microsoft.com",
-      "source": "tech",
-      "tag": "⬆️ 297 points",
-      "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/"
-    },
-    {
-      "title": "Decoy Font",
-      "hot": "3.0m",
-      "desc": "mixfont.com",
-      "source": "tech",
-      "tag": "⬆️ 182 points",
-      "url": "https://www.mixfont.com/experiments/decoy-font"
-    },
-    {
-      "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
-      "hot": "3.0m",
-      "desc": "blog.lyc8503.net",
-      "source": "tech",
-      "tag": "⬆️ 88 points",
-      "url": "https://blog.lyc8503.net/en/post/llm-classifier/"
-    },
-    {
-      "title": "NotebookLM is now Gemini Notebook",
-      "hot": "2.9m",
-      "desc": "blog.google",
-      "source": "tech",
-      "tag": "⬆️ 110 points",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/"
-    },
-    {
-      "title": "OnePlus halts operations in USA and Europe",
-      "hot": "2.9m",
-      "desc": "community.oneplus.com",
-      "source": "tech",
-      "tag": "⬆️ 461 points",
-      "url": "https://community.oneplus.com/thread/2170715118587871237"
-    },
-    {
-      "title": "Immersive Linear Algebra Book with Interactive Figures (2015)",
-      "hot": "2.9m",
-      "desc": "immersivemath.com",
-      "source": "tech",
-      "tag": "⬆️ 84 points",
-      "url": "https://immersivemath.com/ila/"
-    },
-    {
-      "title": "Goes-19 weather satellite enters Safe Hold mode",
-      "hot": "2.9m",
-      "desc": "spaceweather.gov",
-      "source": "tech",
-      "tag": "⬆️ 123 points",
-      "url": "https://www.spaceweather.gov/news/goes-19-safe-hold"
-    },
-    {
-      "title": "The lost joy of music piracy",
-      "hot": "2.9m",
-      "desc": "pigeonsandplanes.com",
-      "source": "tech",
-      "tag": "⬆️ 725 points",
-      "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming"
-    },
-    {
-      "title": "How Our Rust-to-Zig Rewrite Is Going",
-      "hot": "2.9m",
-      "desc": "rtfeldman.com",
-      "source": "tech",
-      "tag": "⬆️ 295 points",
-      "url": "https://rtfeldman.com/rust-to-zig"
-    },
-    {
-      "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
-      "hot": "2.9m",
-      "desc": "zhinit.dev",
-      "source": "tech",
-      "tag": "⬆️ 57 points",
-      "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model"
-    },
-    {
-      "title": "Adaptional (YC S25) Is Hiring",
-      "hot": "2.8m",
-      "desc": "ycombinator.com",
-      "source": "tech",
-      "tag": "⬆️ 1 points",
-      "url": "https://www.ycombinator.com/companies/adaptional/jobs"
-    },
-    {
-      "title": "Show HN: Leaves – A text-UI disk usage treemap visualizer",
-      "hot": "2.8m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 39 points",
-      "url": "https://github.com/patonw/leaves"
-    },
-    {
-      "title": "Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps",
-      "hot": "2.8m",
-      "desc": "news.ycombinator.com",
-      "source": "tech",
-      "tag": "⬆️ 15 points",
-      "url": "https://news.ycombinator.com/item?id=48937020"
-    },
-    {
-      "title": "Guide to data tools landscape for developers",
-      "hot": "2.8m",
-      "desc": "sinja.io",
-      "source": "tech",
-      "tag": "⬆️ 74 points",
-      "url": "https://sinja.io/blog/data-landscape-guide-for-developers"
-    },
-    {
-      "title": "Sony deletes more movies from the accounts of people who ‘bought’ them",
-      "hot": "2.8m",
-      "desc": "techdirt.com",
-      "source": "tech",
-      "tag": "⬆️ 458 points",
-      "url": "https://www.techdirt.com/2026/07/15/sony-deletes-a-bunch-more-movies-from-the-accounts-of-people-who-bought-them/"
-    },
-    {
-      "title": "Let's Build PlanetScale from Scratch: Infrastructure",
-      "hot": "2.8m",
-      "desc": "onatm.dev",
-      "source": "tech",
-      "tag": "⬆️ 122 points",
-      "url": "https://onatm.dev/2026/07/16/homescale-part-1/"
-    },
-    {
-      "title": "Human Canaries: Remembering the Munitionettes",
-      "hot": "2.7m",
-      "desc": "historytoday.com",
-      "source": "tech",
-      "tag": "⬆️ 16 points",
-      "url": "https://www.historytoday.com/archive/great-debates/human-canaries-remembering-munitionettes"
-    },
-    {
-      "title": "Ente – Opening Our Books",
-      "hot": "2.7m",
-      "desc": "ente.com",
-      "source": "tech",
-      "tag": "⬆️ 192 points",
-      "url": "https://ente.com/open/"
-    },
-    {
-      "title": "Schema Harness Achieves ~99% on Arc‑AGI‑3 Public",
-      "hot": "2.7m",
-      "desc": "schema-harness.github.io",
-      "source": "tech",
-      "tag": "⬆️ 47 points",
-      "url": "https://schema-harness.github.io/"
     }
   ]
 }
