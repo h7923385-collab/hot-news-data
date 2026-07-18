@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "Hey DEV, I'm Tobore. Let's actually connect.",
-      "hot": "❤️ 28 💬 17",
+      "hot": "❤️ 28 💬 24",
       "desc": "Hey DEV, I'm Tobore. Let's actually connect.  I've been on here for a while now, mostly writing and...",
       "source": "dev",
       "tag": "community,  webdev",
@@ -17,28 +17,12 @@
       "url": "https://dev.to/gde/five-gemma-4-models-one-accelerator-what-porting-e2b-31b-to-aws-inferentia2-taught-me-2gf5"
     },
     {
-      "title": "Did You Know TLDs Can Be Websites?",
-      "hot": "❤️ 31 💬 8",
-      "desc": "You've probably registered a domain with Route53 or another popular registrar.  You pick something...",
-      "source": "dev",
-      "tag": "aws,  infrastructure",
-      "url": "https://dev.to/aws/did-you-know-tlds-can-be-websites-2j13"
-    },
-    {
       "title": "26B Gemma 4 QAT Deployment with GCE g2-standard, NVIDIA L4, MCP, and Antigravity CLI",
       "hot": "❤️ 5 💬 0",
       "desc": "This article provides a step by step deployment guide for Gemma 4 to a Google Compute Engine hosted...",
       "source": "dev",
       "tag": "gce,  mcps",
       "url": "https://dev.to/gde/26b-gemma-4-qat-deployment-with-gce-g2-standard-nvidia-l4-mcp-and-antigravity-cli-1bmd"
-    },
-    {
-      "title": "Claude might be saturating your machine",
-      "hot": "❤️ 13 💬 3",
-      "desc": "My laptop was sitting idle with the fan at full tilt. Nothing was running that I knew of. The culprit...",
-      "source": "dev",
-      "tag": "ai,  programming",
-      "url": "https://dev.to/sidhantpanda/claude-might-be-saturating-your-machine-3h07"
     },
     {
       "title": "What was your win this week!?",
@@ -90,11 +74,19 @@
     },
     {
       "title": "What is an \"agentic harness,\" actually?",
-      "hot": "❤️ 19 💬 11",
+      "hot": "❤️ 19 💬 12",
       "desc": "I've been hearing the word \"harness\" thrown around a lot lately. I assumed it just meant \"the IDE\" or...",
       "source": "dev",
       "tag": "ai,  agents",
       "url": "https://dev.to/googleai/what-is-an-agentic-harness-actually-4oie"
+    },
+    {
+      "title": "Did You Know TLDs Can Be Websites?",
+      "hot": "❤️ 32 💬 8",
+      "desc": "You've probably registered a domain with Route53 or another popular registrar.  You pick something...",
+      "source": "dev",
+      "tag": "aws,  infrastructure",
+      "url": "https://dev.to/aws/did-you-know-tlds-can-be-websites-2j13"
     },
     {
       "title": "[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action",
@@ -113,12 +105,12 @@
       "url": "https://dev.to/gde/smash-story-the-demo-script-that-out-debugged-my-test-suite-430k"
     },
     {
-      "title": "My benchmark's Python column was N/A for a year — CPython's 4300-digit limit, and eight other bugs",
-      "hot": "❤️ 12 💬 1",
-      "desc": "Submission for DEV's Summer Bug Smash — Clear the Lineup track.           The...",
+      "title": "Claude might be saturating your machine",
+      "hot": "❤️ 13 💬 3",
+      "desc": "My laptop was sitting idle with the fan at full tilt. Nothing was running that I knew of. The culprit...",
       "source": "dev",
-      "tag": "bugsmash,  python",
-      "url": "https://dev.to/gde/my-benchmarks-python-column-was-na-for-a-year-cpythons-4300-digit-limit-and-eight-other-bugs-1hgk"
+      "tag": "ai,  programming",
+      "url": "https://dev.to/sidhantpanda/claude-might-be-saturating-your-machine-3h07"
     },
     {
       "title": "Why did my benchmark stop at N=22? A debugging story in nine bugs",
@@ -129,16 +121,8 @@
       "url": "https://dev.to/gde/why-did-my-benchmark-stop-at-n22-a-debugging-story-in-nine-bugs-3m2l"
     },
     {
-      "title": "I Finally Built the Dev Opportunity Radar Website ❤️",
-      "hot": "❤️ 98 💬 49",
-      "desc": "This is a submission for Weekend Challenge: Passion Edition   📌 TL;DR  I found this challenge on the...",
-      "source": "dev",
-      "tag": "devchallenge,  weekendchallenge",
-      "url": "https://dev.to/hemapriya_kanagala/i-finally-built-the-dev-opportunity-radar-website-1dpi"
-    },
-    {
       "title": "Should I quit IT or just live through the burnout?",
-      "hot": "❤️ 175 💬 134",
+      "hot": "❤️ 176 💬 134",
       "desc": "Some of you may have noticed I disappeared a bit from the community over the last couple of weeks....",
       "source": "dev",
       "tag": "mentalhealth,  career",
@@ -159,7 +143,23 @@
       "source": "dev",
       "tag": "googleantigravity,  python",
       "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82"
+    },
+    {
+      "title": "MCP Configuration for Looker with Antigravity CLI",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article covers the MCP setup and configuration for using Looker and underlying Gemini LLM with...",
+      "source": "dev",
+      "tag": "looker,  lookml",
+      "url": "https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d"
+    },
+    {
+      "title": "How I made a Rust hot path 27x faster, and the AI fix I refused to merge",
+      "hot": "❤️ 25 💬 18",
+      "desc": "Two years ago I open-sourced KeyEcho, a small desktop app that plays a mechanical-keyboard sound the...",
+      "source": "dev",
+      "tag": "rust,  ai",
+      "url": "https://dev.to/zacharylee/how-i-made-a-rust-hot-path-27x-faster-and-the-ai-fix-i-refused-to-merge-3llg"
     }
   ],
-  "updatedAt": "2026-07-18T08:13:42.288Z"
+  "updatedAt": "2026-07-18T09:51:11.089Z"
 }

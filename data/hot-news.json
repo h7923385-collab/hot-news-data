@@ -1,175 +1,13 @@
 {
-  "updatedAt": "2026-07-18T08:13:42.288Z",
+  "updatedAt": "2026-07-18T09:51:11.089Z",
   "source": "live",
-  "dev": [
-    {
-      "title": "Hey DEV, I'm Tobore. Let's actually connect.",
-      "hot": "❤️ 28 💬 17",
-      "desc": "Hey DEV, I'm Tobore. Let's actually connect.  I've been on here for a while now, mostly writing and...",
-      "source": "dev",
-      "tag": "community,  webdev",
-      "url": "https://dev.to/toboreeee/hey-dev-im-tobore-lets-actually-connect-1m02"
-    },
-    {
-      "title": "Five Gemma-4 models, one accelerator: what porting E2B 31B to AWS Inferentia2 taught me",
-      "hot": "❤️ 7 💬 0",
-      "desc": "I ported the whole Gemma-4 family — E2B, E4B, 12B, 31B, and the 26B-A4B MoE — to run on...",
-      "source": "dev",
-      "tag": "gemma,  aws",
-      "url": "https://dev.to/gde/five-gemma-4-models-one-accelerator-what-porting-e2b-31b-to-aws-inferentia2-taught-me-2gf5"
-    },
-    {
-      "title": "Did You Know TLDs Can Be Websites?",
-      "hot": "❤️ 31 💬 8",
-      "desc": "You've probably registered a domain with Route53 or another popular registrar.  You pick something...",
-      "source": "dev",
-      "tag": "aws,  infrastructure",
-      "url": "https://dev.to/aws/did-you-know-tlds-can-be-websites-2j13"
-    },
-    {
-      "title": "26B Gemma 4 QAT Deployment with GCE g2-standard, NVIDIA L4, MCP, and Antigravity CLI",
-      "hot": "❤️ 5 💬 0",
-      "desc": "This article provides a step by step deployment guide for Gemma 4 to a Google Compute Engine hosted...",
-      "source": "dev",
-      "tag": "gce,  mcps",
-      "url": "https://dev.to/gde/26b-gemma-4-qat-deployment-with-gce-g2-standard-nvidia-l4-mcp-and-antigravity-cli-1bmd"
-    },
-    {
-      "title": "Claude might be saturating your machine",
-      "hot": "❤️ 13 💬 3",
-      "desc": "My laptop was sitting idle with the fan at full tilt. Nothing was running that I knew of. The culprit...",
-      "source": "dev",
-      "tag": "ai,  programming",
-      "url": "https://dev.to/sidhantpanda/claude-might-be-saturating-your-machine-3h07"
-    },
-    {
-      "title": "What was your win this week!?",
-      "hot": "❤️ 23 💬 22",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "discuss,  weeklyretro",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-amo"
-    },
-    {
-      "title": "I burned through thousands of AI tokens. Then a friend did it for free",
-      "hot": "❤️ 9 💬 14",
-      "desc": "(yep, kinda clickbait, just for the funsies 😊)  At the beginning of the year, I relaunched my...",
-      "source": "dev",
-      "tag": "ai,  career",
-      "url": "https://dev.to/phalkmin/i-burned-through-thousands-of-ai-tokens-then-a-friend-did-it-for-free-31m8"
-    },
-    {
-      "title": "5 Trends That Defined AI Engineering at World’s Fair 2026",
-      "hot": "❤️ 7 💬 0",
-      "desc": "At this year's AIE World’s Fair, AI engineering entered a new phase: building systems around...",
-      "source": "dev",
-      "tag": "agents,  ai",
-      "url": "https://dev.to/latentspace/5-trends-that-defined-ai-engineering-at-worlds-fair-2026-5dj6"
-    },
-    {
-      "title": "DiffusionGemma: The Developer Guide",
-      "hot": "❤️ 19 💬 2",
-      "desc": "Following our announcement in our launch blog post, we are sharing this developer guide to help you...",
-      "source": "dev",
-      "tag": "gemma,  google",
-      "url": "https://dev.to/googleai/diffusiongemma-the-developer-guide-5a3l"
-    },
-    {
-      "title": "TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "source": "dev",
-      "tag": "python,  tpu",
-      "url": "https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-8-and-antigravity-cli-3e4n"
-    },
-    {
-      "title": "Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "source": "dev",
-      "tag": "mcps,  googleantigravity",
-      "url": "https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-1-mcp-and-antigravity-cli-3hh3"
-    },
-    {
-      "title": "What is an \"agentic harness,\" actually?",
-      "hot": "❤️ 19 💬 11",
-      "desc": "I've been hearing the word \"harness\" thrown around a lot lately. I assumed it just meant \"the IDE\" or...",
-      "source": "dev",
-      "tag": "ai,  agents",
-      "url": "https://dev.to/googleai/what-is-an-agentic-harness-actually-4oie"
-    },
-    {
-      "title": "[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action",
-      "hot": "❤️ 7 💬 0",
-      "desc": "Pain Point: How to Accurately Allocate Gemini API Costs Within the Same Project?   When...",
-      "source": "dev",
-      "tag": "ai,  cloud",
-      "url": "https://dev.to/gde/gcp-billing-vertex-ai-solving-gemini-cost-allocation-in-a-single-project-vertex-ai-dynamic-5aok"
-    },
-    {
-      "title": "Smash Story: The Demo Script That Out-Debugged My Test Suite",
-      "hot": "❤️ 12 💬 6",
-      "desc": "A green 10-test suite, a broken production default, and the 10-minute smash — how a live demo caught an API-contract bug",
-      "source": "dev",
-      "tag": "devchallenge,  bugsmash",
-      "url": "https://dev.to/gde/smash-story-the-demo-script-that-out-debugged-my-test-suite-430k"
-    },
-    {
-      "title": "My benchmark's Python column was N/A for a year — CPython's 4300-digit limit, and eight other bugs",
-      "hot": "❤️ 12 💬 1",
-      "desc": "Submission for DEV's Summer Bug Smash — Clear the Lineup track.           The...",
-      "source": "dev",
-      "tag": "bugsmash,  python",
-      "url": "https://dev.to/gde/my-benchmarks-python-column-was-na-for-a-year-cpythons-4300-digit-limit-and-eight-other-bugs-1hgk"
-    },
-    {
-      "title": "Why did my benchmark stop at N=22? A debugging story in nine bugs",
-      "hot": "❤️ 13 💬 2",
-      "desc": "Submission for DEV's Summer Bug Smash — Smash Stories track.  There was a file in my repo called...",
-      "source": "dev",
-      "tag": "bugsmash,  debugging",
-      "url": "https://dev.to/gde/why-did-my-benchmark-stop-at-n22-a-debugging-story-in-nine-bugs-3m2l"
-    },
-    {
-      "title": "I Finally Built the Dev Opportunity Radar Website ❤️",
-      "hot": "❤️ 98 💬 49",
-      "desc": "This is a submission for Weekend Challenge: Passion Edition   📌 TL;DR  I found this challenge on the...",
-      "source": "dev",
-      "tag": "devchallenge,  weekendchallenge",
-      "url": "https://dev.to/hemapriya_kanagala/i-finally-built-the-dev-opportunity-radar-website-1dpi"
-    },
-    {
-      "title": "Should I quit IT or just live through the burnout?",
-      "hot": "❤️ 175 💬 134",
-      "desc": "Some of you may have noticed I disappeared a bit from the community over the last couple of weeks....",
-      "source": "dev",
-      "tag": "mentalhealth,  career",
-      "url": "https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng"
-    },
-    {
-      "title": "Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]",
-      "hot": "❤️ 5 💬 0",
-      "desc": "Build Firebase AI Logic with Antigravity CLI   Note: Google Cloud credits are provided for...",
-      "source": "dev",
-      "tag": "ai,  angular",
-      "url": "https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o"
-    },
-    {
-      "title": "Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "source": "dev",
-      "tag": "googleantigravity,  python",
-      "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82"
-    }
-  ],
   "tech": [
     {
       "title": "Regressive JPEGs",
       "hot": "3.0m",
       "desc": "maurycyz.com",
       "source": "tech",
-      "tag": "⬆️ 204 points",
+      "tag": "⬆️ 329 points",
       "url": "https://maurycyz.com/projects/bad_jpeg/"
     },
     {
@@ -177,39 +15,55 @@
       "hot": "3.0m",
       "desc": "news.ycombinator.com",
       "source": "tech",
-      "tag": "⬆️ 1156 points",
+      "tag": "⬆️ 1181 points",
       "url": "https://news.ycombinator.com/item?id=48945241"
-    },
-    {
-      "title": "Reviving a 15-year-old netbook with Arch Linux",
-      "hot": "3.0m",
-      "desc": "parksb.github.io",
-      "source": "tech",
-      "tag": "⬆️ 81 points",
-      "url": "https://parksb.github.io/en/article/41.html"
     },
     {
       "title": "Thanks HN for 15 years of support and helping me find my life's work",
       "hot": "3.0m",
       "desc": "news.ycombinator.com",
       "source": "tech",
-      "tag": "⬆️ 541 points",
+      "tag": "⬆️ 590 points",
       "url": "https://news.ycombinator.com/item?id=48949551"
+    },
+    {
+      "title": "Reviving a 15-year-old netbook with Arch Linux",
+      "hot": "3.0m",
+      "desc": "parksb.github.io",
+      "source": "tech",
+      "tag": "⬆️ 107 points",
+      "url": "https://parksb.github.io/en/article/41.html"
+    },
+    {
+      "title": "Porting nanochat to a TPU: what carries over from PyTorch, and what breaks",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 28 points",
+      "url": "https://github.com/tucan9389/nanochat-jax/discussions/1"
     },
     {
       "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
       "hot": "2.9m",
       "desc": "bbc.com",
       "source": "tech",
-      "tag": "⬆️ 444 points",
+      "tag": "⬆️ 458 points",
       "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo"
+    },
+    {
+      "title": "In-toto: A framework to secure the integrity of software supply chains",
+      "hot": "2.9m",
+      "desc": "in-toto.io",
+      "source": "tech",
+      "tag": "⬆️ 27 points",
+      "url": "https://in-toto.io/"
     },
     {
       "title": "The Zilog Z80 has turned 50",
       "hot": "2.9m",
       "desc": "goliath32.com",
       "source": "tech",
-      "tag": "⬆️ 210 points",
+      "tag": "⬆️ 224 points",
       "url": "https://goliath32.com/blog/z80.html"
     },
     {
@@ -217,7 +71,7 @@
       "hot": "2.9m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 109 points",
+      "tag": "⬆️ 130 points",
       "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md"
     },
     {
@@ -225,103 +79,87 @@
       "hot": "2.9m",
       "desc": "jvns.ca",
       "source": "tech",
-      "tag": "⬆️ 236 points",
+      "tag": "⬆️ 252 points",
       "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/"
-    },
-    {
-      "title": "In-toto: A framework to secure the integrity of software supply chains",
-      "hot": "2.9m",
-      "desc": "in-toto.io",
-      "source": "tech",
-      "tag": "⬆️ 13 points",
-      "url": "https://in-toto.io/"
     },
     {
       "title": "I started a “dirt notebook”",
       "hot": "2.9m",
       "desc": "pinewind.bearblog.dev",
       "source": "tech",
-      "tag": "⬆️ 53 points",
+      "tag": "⬆️ 66 points",
       "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/"
     },
     {
-      "title": "Porting nanochat to a TPU: what carries over from PyTorch, and what breaks",
-      "hot": "2.9m",
+      "title": "Waldi: A quiet place to write, and to be read",
+      "hot": "2.8m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 11 points",
-      "url": "https://github.com/tucan9389/nanochat-jax/discussions/1"
-    },
-    {
-      "title": "Stenchill: 3D Printable Solder Paste Stencil Generator",
-      "hot": "2.8m",
-      "desc": "stenchill.com",
-      "source": "tech",
-      "tag": "⬆️ 42 points",
-      "url": "https://www.stenchill.com/en/"
+      "tag": "⬆️ 5 points",
+      "url": "https://github.com/waaldev/waldi"
     },
     {
       "title": "Kimi K3, and what we can still learn from the pelican benchmark",
       "hot": "2.8m",
       "desc": "simonwillison.net",
       "source": "tech",
-      "tag": "⬆️ 328 points",
+      "tag": "⬆️ 340 points",
       "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/"
     },
     {
-      "title": "Shipping OpenStrike: A Counter-Strike-Shaped FPS on a 2004 Handheld",
+      "title": "Stenchill: 3D Printable Solder Paste Stencil Generator",
       "hot": "2.8m",
-      "desc": "pocketjs.dev",
+      "desc": "stenchill.com",
       "source": "tech",
-      "tag": "⬆️ 39 points",
-      "url": "https://pocketjs.dev/blog/shipping-openstrike/"
+      "tag": "⬆️ 54 points",
+      "url": "https://www.stenchill.com/en/"
+    },
+    {
+      "title": "Show HN: IKEA Complexity Index",
+      "hot": "2.8m",
+      "desc": "ikea.greg.technology",
+      "source": "tech",
+      "tag": "⬆️ 35 points",
+      "url": "https://ikea.greg.technology/"
     },
     {
       "title": "Vāgdhenu: A Sanskrit Chanting TTS System",
       "hot": "2.8m",
       "desc": "prathosh.in",
       "source": "tech",
-      "tag": "⬆️ 153 points",
+      "tag": "⬆️ 170 points",
       "url": "https://prathosh.in/vagdhenu/"
     },
     {
-      "title": "An Update on Igalia's Layer Based SVG Engine in WebKit (Reducing Layer Overhead)",
-      "hot": "2.8m",
-      "desc": "blogs.igalia.com",
-      "source": "tech",
-      "tag": "⬆️ 42 points",
-      "url": "https://blogs.igalia.com/nzimmermann/posts/2026-07-14-lbse-conditional-layers/"
-    },
-    {
-      "title": "Battery packs: Let's talk about crates, baby",
-      "hot": "2.8m",
-      "desc": "smallcultfollowing.com",
-      "source": "tech",
-      "tag": "⬆️ 15 points",
-      "url": "https://smallcultfollowing.com/babysteps/blog/2026/07/15/battery-packs/"
-    },
-    {
       "title": "Static search trees: 40x faster than binary search (2024)",
-      "hot": "2.7m",
+      "hot": "2.8m",
       "desc": "curiouscoding.nl",
       "source": "tech",
-      "tag": "⬆️ 107 points",
+      "tag": "⬆️ 124 points",
       "url": "https://curiouscoding.nl/posts/static-search-tree/"
     },
     {
-      "title": "DrDroid (YC W23) Is Hiring",
+      "title": "Battery packs: Let's talk about crates, baby",
       "hot": "2.7m",
-      "desc": "ycombinator.com",
+      "desc": "smallcultfollowing.com",
       "source": "tech",
-      "tag": "⬆️ 1 points",
-      "url": "https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory"
+      "tag": "⬆️ 23 points",
+      "url": "https://smallcultfollowing.com/babysteps/blog/2026/07/15/battery-packs/"
+    },
+    {
+      "title": "An Update on Igalia's Layer Based SVG Engine in WebKit (Reducing Layer Overhead)",
+      "hot": "2.7m",
+      "desc": "blogs.igalia.com",
+      "source": "tech",
+      "tag": "⬆️ 46 points",
+      "url": "https://blogs.igalia.com/nzimmermann/posts/2026-07-14-lbse-conditional-layers/"
     },
     {
       "title": "Lego building instructions through time",
       "hot": "2.7m",
       "desc": "lego.com",
       "source": "tech",
-      "tag": "⬆️ 114 points",
+      "tag": "⬆️ 124 points",
       "url": "https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time"
     }
   ],
@@ -450,7 +288,7 @@
   "github": [
     {
       "title": "xai-org/grok-build: SpaceXAI's coding agent harness and TUI. Fullscreen, mouse i",
-      "hot": "⭐ 17.3k",
+      "hot": "⭐ 17.5k",
       "desc": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "source": "github",
       "tag": "Rust",
@@ -458,7 +296,7 @@
     },
     {
       "title": "Fei-Away/Codex-Dream-Skin: Codex Dream Skin",
-      "hot": "⭐ 9.2k",
+      "hot": "⭐ 9.3k",
       "desc": "Codex Dream Skin",
       "source": "github",
       "tag": "JavaScript",
@@ -466,19 +304,11 @@
     },
     {
       "title": "MDX-Tom/gpt-5.6-instruct: A Codex CLI jailbreak prompt and test pack for gpt-5.6",
-      "hot": "⭐ 1.9k",
+      "hot": "⭐ 2.0k",
       "desc": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/MDX-Tom/gpt-5.6-instruct"
-    },
-    {
-      "title": "pixel-point/aval: A new open-source format for interactive video on the web, wit",
-      "hot": "⭐ 1.2k",
-      "desc": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/pixel-point/aval"
     },
     {
       "title": "CluvexStudio/Aether: ",
@@ -487,6 +317,14 @@
       "source": "github",
       "tag": "Rust",
       "url": "https://github.com/CluvexStudio/Aether"
+    },
+    {
+      "title": "pixel-point/aval: A new open-source format for interactive video on the web, wit",
+      "hot": "⭐ 1.2k",
+      "desc": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/pixel-point/aval"
     },
     {
       "title": "littledivy/mimic: Intercept any app, then call it from Python like a library",
@@ -498,7 +336,7 @@
     },
     {
       "title": "tandpfun/wardrobe: Your clothes, extracted and organized with gpt-image.",
-      "hot": "⭐ 940",
+      "hot": "⭐ 954",
       "desc": "Your clothes, extracted and organized with gpt-image.",
       "source": "github",
       "tag": "JavaScript",
@@ -506,7 +344,7 @@
     },
     {
       "title": "mereyabdenbekuly-ctrl/clodex-ide: Local-first, zero-trust agentic IDE for verifi",
-      "hot": "⭐ 833",
+      "hot": "⭐ 834",
       "desc": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
       "source": "github",
       "tag": "TypeScript",
@@ -514,7 +352,7 @@
     },
     {
       "title": "x4gKing/Marzban-Panel: ",
-      "hot": "⭐ 802",
+      "hot": "⭐ 810",
       "desc": "x4gKing/Marzban-Panel",
       "source": "github",
       "tag": "Dockerfile",
@@ -522,7 +360,7 @@
     },
     {
       "title": "Kappaemme-git/codex-first-customer-finder-skill: A Codex skill that finds eviden",
-      "hot": "⭐ 796",
+      "hot": "⭐ 800",
       "desc": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
       "source": "github",
       "tag": "Python",
@@ -530,7 +368,7 @@
     },
     {
       "title": "oil-oil/beautify-github-readme: Design clear, theme-specific GitHub README homep",
-      "hot": "⭐ 775",
+      "hot": "⭐ 778",
       "desc": "Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown",
       "source": "github",
       "tag": "Python",
@@ -538,7 +376,7 @@
     },
     {
       "title": "x4gKing/Marzban-Node: ",
-      "hot": "⭐ 682",
+      "hot": "⭐ 692",
       "desc": "x4gKing/Marzban-Node",
       "source": "github",
       "tag": "Dockerfile",
@@ -546,7 +384,7 @@
     },
     {
       "title": "KubeezMedia/kubeez-scroll-world-video: Scroll-scrubbed 'fly through the world' b",
-      "hot": "⭐ 648",
+      "hot": "⭐ 649",
       "desc": "Scroll-scrubbed 'fly through the world' burger demo, generated with Kubeez. Live: meepcastana.github.io/kubeez-scroll-world-video",
       "source": "github",
       "tag": "JavaScript",
@@ -554,7 +392,7 @@
     },
     {
       "title": "MatinSenPai/Aether-GUI: One-click desktop GUI for the Aether censorship-circumve",
-      "hot": "⭐ 559",
+      "hot": "⭐ 567",
       "desc": "One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, React 19, Rust",
       "source": "github",
       "tag": "TypeScript",
@@ -562,11 +400,173 @@
     },
     {
       "title": "Blueturboguy07/cue: Open-source macOS AI copilot that floats over your screen, s",
-      "hot": "⭐ 505",
+      "hot": "⭐ 510",
       "desc": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-yo",
       "source": "github",
       "tag": "JavaScript",
       "url": "https://github.com/Blueturboguy07/cue"
+    }
+  ],
+  "dev": [
+    {
+      "title": "Hey DEV, I'm Tobore. Let's actually connect.",
+      "hot": "❤️ 28 💬 24",
+      "desc": "Hey DEV, I'm Tobore. Let's actually connect.  I've been on here for a while now, mostly writing and...",
+      "source": "dev",
+      "tag": "community,  webdev",
+      "url": "https://dev.to/toboreeee/hey-dev-im-tobore-lets-actually-connect-1m02"
+    },
+    {
+      "title": "Five Gemma-4 models, one accelerator: what porting E2B 31B to AWS Inferentia2 taught me",
+      "hot": "❤️ 7 💬 0",
+      "desc": "I ported the whole Gemma-4 family — E2B, E4B, 12B, 31B, and the 26B-A4B MoE — to run on...",
+      "source": "dev",
+      "tag": "gemma,  aws",
+      "url": "https://dev.to/gde/five-gemma-4-models-one-accelerator-what-porting-e2b-31b-to-aws-inferentia2-taught-me-2gf5"
+    },
+    {
+      "title": "26B Gemma 4 QAT Deployment with GCE g2-standard, NVIDIA L4, MCP, and Antigravity CLI",
+      "hot": "❤️ 5 💬 0",
+      "desc": "This article provides a step by step deployment guide for Gemma 4 to a Google Compute Engine hosted...",
+      "source": "dev",
+      "tag": "gce,  mcps",
+      "url": "https://dev.to/gde/26b-gemma-4-qat-deployment-with-gce-g2-standard-nvidia-l4-mcp-and-antigravity-cli-1bmd"
+    },
+    {
+      "title": "What was your win this week!?",
+      "hot": "❤️ 23 💬 22",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "discuss,  weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-amo"
+    },
+    {
+      "title": "I burned through thousands of AI tokens. Then a friend did it for free",
+      "hot": "❤️ 9 💬 14",
+      "desc": "(yep, kinda clickbait, just for the funsies 😊)  At the beginning of the year, I relaunched my...",
+      "source": "dev",
+      "tag": "ai,  career",
+      "url": "https://dev.to/phalkmin/i-burned-through-thousands-of-ai-tokens-then-a-friend-did-it-for-free-31m8"
+    },
+    {
+      "title": "5 Trends That Defined AI Engineering at World’s Fair 2026",
+      "hot": "❤️ 7 💬 0",
+      "desc": "At this year's AIE World’s Fair, AI engineering entered a new phase: building systems around...",
+      "source": "dev",
+      "tag": "agents,  ai",
+      "url": "https://dev.to/latentspace/5-trends-that-defined-ai-engineering-at-worlds-fair-2026-5dj6"
+    },
+    {
+      "title": "DiffusionGemma: The Developer Guide",
+      "hot": "❤️ 19 💬 2",
+      "desc": "Following our announcement in our launch blog post, we are sharing this developer guide to help you...",
+      "source": "dev",
+      "tag": "gemma,  google",
+      "url": "https://dev.to/googleai/diffusiongemma-the-developer-guide-5a3l"
+    },
+    {
+      "title": "TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
+      "source": "dev",
+      "tag": "python,  tpu",
+      "url": "https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-8-and-antigravity-cli-3e4n"
+    },
+    {
+      "title": "Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
+      "source": "dev",
+      "tag": "mcps,  googleantigravity",
+      "url": "https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-1-mcp-and-antigravity-cli-3hh3"
+    },
+    {
+      "title": "What is an \"agentic harness,\" actually?",
+      "hot": "❤️ 19 💬 12",
+      "desc": "I've been hearing the word \"harness\" thrown around a lot lately. I assumed it just meant \"the IDE\" or...",
+      "source": "dev",
+      "tag": "ai,  agents",
+      "url": "https://dev.to/googleai/what-is-an-agentic-harness-actually-4oie"
+    },
+    {
+      "title": "Did You Know TLDs Can Be Websites?",
+      "hot": "❤️ 32 💬 8",
+      "desc": "You've probably registered a domain with Route53 or another popular registrar.  You pick something...",
+      "source": "dev",
+      "tag": "aws,  infrastructure",
+      "url": "https://dev.to/aws/did-you-know-tlds-can-be-websites-2j13"
+    },
+    {
+      "title": "[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action",
+      "hot": "❤️ 7 💬 0",
+      "desc": "Pain Point: How to Accurately Allocate Gemini API Costs Within the Same Project?   When...",
+      "source": "dev",
+      "tag": "ai,  cloud",
+      "url": "https://dev.to/gde/gcp-billing-vertex-ai-solving-gemini-cost-allocation-in-a-single-project-vertex-ai-dynamic-5aok"
+    },
+    {
+      "title": "Smash Story: The Demo Script That Out-Debugged My Test Suite",
+      "hot": "❤️ 12 💬 6",
+      "desc": "A green 10-test suite, a broken production default, and the 10-minute smash — how a live demo caught an API-contract bug",
+      "source": "dev",
+      "tag": "devchallenge,  bugsmash",
+      "url": "https://dev.to/gde/smash-story-the-demo-script-that-out-debugged-my-test-suite-430k"
+    },
+    {
+      "title": "Claude might be saturating your machine",
+      "hot": "❤️ 13 💬 3",
+      "desc": "My laptop was sitting idle with the fan at full tilt. Nothing was running that I knew of. The culprit...",
+      "source": "dev",
+      "tag": "ai,  programming",
+      "url": "https://dev.to/sidhantpanda/claude-might-be-saturating-your-machine-3h07"
+    },
+    {
+      "title": "Why did my benchmark stop at N=22? A debugging story in nine bugs",
+      "hot": "❤️ 13 💬 2",
+      "desc": "Submission for DEV's Summer Bug Smash — Smash Stories track.  There was a file in my repo called...",
+      "source": "dev",
+      "tag": "bugsmash,  debugging",
+      "url": "https://dev.to/gde/why-did-my-benchmark-stop-at-n22-a-debugging-story-in-nine-bugs-3m2l"
+    },
+    {
+      "title": "Should I quit IT or just live through the burnout?",
+      "hot": "❤️ 176 💬 134",
+      "desc": "Some of you may have noticed I disappeared a bit from the community over the last couple of weeks....",
+      "source": "dev",
+      "tag": "mentalhealth,  career",
+      "url": "https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng"
+    },
+    {
+      "title": "Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]",
+      "hot": "❤️ 5 💬 0",
+      "desc": "Build Firebase AI Logic with Antigravity CLI   Note: Google Cloud credits are provided for...",
+      "source": "dev",
+      "tag": "ai,  angular",
+      "url": "https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o"
+    },
+    {
+      "title": "Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
+      "source": "dev",
+      "tag": "googleantigravity,  python",
+      "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82"
+    },
+    {
+      "title": "MCP Configuration for Looker with Antigravity CLI",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article covers the MCP setup and configuration for using Looker and underlying Gemini LLM with...",
+      "source": "dev",
+      "tag": "looker,  lookml",
+      "url": "https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d"
+    },
+    {
+      "title": "How I made a Rust hot path 27x faster, and the AI fix I refused to merge",
+      "hot": "❤️ 25 💬 18",
+      "desc": "Two years ago I open-sourced KeyEcho, a small desktop app that plays a mechanical-keyboard sound the...",
+      "source": "dev",
+      "tag": "rust,  ai",
+      "url": "https://dev.to/zacharylee/how-i-made-a-rust-hot-path-27x-faster-and-the-ai-fix-i-refused-to-merge-3llg"
     }
   ]
 }
