@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T11:41:34.023Z",
+  "updatedAt": "2026-07-18T12:40:51.438Z",
   "source": "live",
   "dev": [
     {
@@ -12,19 +12,11 @@
     },
     {
       "title": "Hey DEV, I'm Tobore. Let's actually connect.",
-      "hot": "❤️ 28 💬 25",
+      "hot": "❤️ 29 💬 27",
       "desc": "Hey DEV, I'm Tobore. Let's actually connect.  I've been on here for a while now, mostly writing and...",
       "source": "dev",
       "tag": "community,  webdev",
       "url": "https://dev.to/toboreeee/hey-dev-im-tobore-lets-actually-connect-1m02"
-    },
-    {
-      "title": "26B Gemma 4 QAT Deployment with GCE g2-standard, NVIDIA L4, MCP, and Antigravity CLI",
-      "hot": "❤️ 5 💬 0",
-      "desc": "This article provides a step by step deployment guide for Gemma 4 to a Google Compute Engine hosted...",
-      "source": "dev",
-      "tag": "gce,  mcps",
-      "url": "https://dev.to/gde/26b-gemma-4-qat-deployment-with-gce-g2-standard-nvidia-l4-mcp-and-antigravity-cli-1bmd"
     },
     {
       "title": "What was your win this week!?",
@@ -161,6 +153,14 @@
       "source": "dev",
       "tag": "rust,  ai",
       "url": "https://dev.to/zacharylee/how-i-made-a-rust-hot-path-27x-faster-and-the-ai-fix-i-refused-to-merge-3llg"
+    },
+    {
+      "title": "How to Respectfully Contribute to Open Source",
+      "hot": "❤️ 8 💬 1",
+      "desc": "Below are some practices we have found essential in order to respectfully contribute to Open Source....",
+      "source": "dev",
+      "tag": "opensource",
+      "url": "https://dev.to/opensourcepledge/how-to-respectfully-contribute-to-open-source-cbh"
     }
   ],
   "tech": [
@@ -169,79 +169,71 @@
       "hot": "3.0m",
       "desc": "velvetshark.com",
       "source": "tech",
-      "tag": "⬆️ 38 points",
+      "tag": "⬆️ 245 points",
       "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes"
-    },
-    {
-      "title": "Regressive JPEGs",
-      "hot": "3.0m",
-      "desc": "maurycyz.com",
-      "source": "tech",
-      "tag": "⬆️ 410 points",
-      "url": "https://maurycyz.com/projects/bad_jpeg/"
     },
     {
       "title": "LG monitors silently install software through Windows Update without consent",
       "hot": "3.0m",
       "desc": "videocardz.com",
       "source": "tech",
-      "tag": "⬆️ 107 points",
+      "tag": "⬆️ 208 points",
       "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent"
     },
     {
-      "title": "Funny item co-occurrences in 3.2M Instacart orders",
+      "title": "Regressive JPEGs",
       "hot": "3.0m",
-      "desc": "rogerdickey.com",
+      "desc": "maurycyz.com",
       "source": "tech",
-      "tag": "⬆️ 24 points",
-      "url": "https://rogerdickey.com/funny-item-co-occurrences-in-3-million-instacart-orders/"
+      "tag": "⬆️ 444 points",
+      "url": "https://maurycyz.com/projects/bad_jpeg/"
     },
     {
-      "title": "Qubes OS Security in the Public Record",
-      "hot": "2.9m",
-      "desc": "arxiv.org",
+      "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+      "hot": "3.0m",
+      "desc": "charlesazam.com",
       "source": "tech",
-      "tag": "⬆️ 20 points",
-      "url": "https://arxiv.org/abs/2607.14587"
+      "tag": "⬆️ 18 points",
+      "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/"
     },
     {
       "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
       "hot": "2.9m",
       "desc": "news.ycombinator.com",
       "source": "tech",
-      "tag": "⬆️ 1213 points",
+      "tag": "⬆️ 1222 points",
       "url": "https://news.ycombinator.com/item?id=48945241"
-    },
-    {
-      "title": "Thanks HN for 15 years of support and helping me find my life's work",
-      "hot": "2.9m",
-      "desc": "news.ycombinator.com",
-      "source": "tech",
-      "tag": "⬆️ 638 points",
-      "url": "https://news.ycombinator.com/item?id=48949551"
     },
     {
       "title": "The Computer at the Bottom of a Canal",
       "hot": "2.9m",
       "desc": "negroniventurestudios.com",
       "source": "tech",
-      "tag": "⬆️ 18 points",
+      "tag": "⬆️ 37 points",
       "url": "https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/"
     },
     {
-      "title": "Porting nanochat to a TPU: what carries over from PyTorch, and what breaks",
+      "title": "Thanks HN for 15 years of support and helping me find my life's work",
       "hot": "2.9m",
-      "desc": "github.com",
+      "desc": "news.ycombinator.com",
       "source": "tech",
-      "tag": "⬆️ 41 points",
-      "url": "https://github.com/tucan9389/nanochat-jax/discussions/1"
+      "tag": "⬆️ 664 points",
+      "url": "https://news.ycombinator.com/item?id=48949551"
+    },
+    {
+      "title": "Qubes OS Security in the Public Record",
+      "hot": "2.9m",
+      "desc": "arxiv.org",
+      "source": "tech",
+      "tag": "⬆️ 32 points",
+      "url": "https://arxiv.org/abs/2607.14587"
     },
     {
       "title": "Reviving a 15-year-old netbook with Arch Linux",
       "hot": "2.9m",
       "desc": "parksb.github.io",
       "source": "tech",
-      "tag": "⬆️ 123 points",
+      "tag": "⬆️ 141 points",
       "url": "https://parksb.github.io/en/article/41.html"
     },
     {
@@ -249,47 +241,55 @@
       "hot": "2.9m",
       "desc": "bbc.com",
       "source": "tech",
-      "tag": "⬆️ 469 points",
+      "tag": "⬆️ 473 points",
       "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo"
     },
     {
       "title": "The Zilog Z80 has turned 50",
-      "hot": "2.8m",
+      "hot": "2.9m",
       "desc": "goliath32.com",
       "source": "tech",
-      "tag": "⬆️ 237 points",
+      "tag": "⬆️ 242 points",
       "url": "https://goliath32.com/blog/z80.html"
+    },
+    {
+      "title": "What AI did to stackoverflow in a graph",
+      "hot": "2.8m",
+      "desc": "data.stackexchange.com",
+      "source": "tech",
+      "tag": "⬆️ 67 points",
+      "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph"
     },
     {
       "title": "Show HN: IKEA Complexity Index",
       "hot": "2.8m",
       "desc": "ikea.greg.technology",
       "source": "tech",
-      "tag": "⬆️ 68 points",
+      "tag": "⬆️ 82 points",
       "url": "https://ikea.greg.technology/"
-    },
-    {
-      "title": "Waldi: A quiet place to write, and to be read",
-      "hot": "2.8m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 18 points",
-      "url": "https://github.com/waaldev/waldi"
     },
     {
       "title": "In-toto: A framework to secure the integrity of software supply chains",
       "hot": "2.8m",
       "desc": "in-toto.io",
       "source": "tech",
-      "tag": "⬆️ 42 points",
+      "tag": "⬆️ 47 points",
       "url": "https://in-toto.io/"
+    },
+    {
+      "title": "Waldi: A quiet place to write, and to be read",
+      "hot": "2.8m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 23 points",
+      "url": "https://github.com/waaldev/waldi"
     },
     {
       "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
       "hot": "2.8m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 143 points",
+      "tag": "⬆️ 154 points",
       "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md"
     },
     {
@@ -297,7 +297,7 @@
       "hot": "2.8m",
       "desc": "jvns.ca",
       "source": "tech",
-      "tag": "⬆️ 265 points",
+      "tag": "⬆️ 273 points",
       "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/"
     },
     {
@@ -305,24 +305,24 @@
       "hot": "2.7m",
       "desc": "simonwillison.net",
       "source": "tech",
-      "tag": "⬆️ 355 points",
+      "tag": "⬆️ 360 points",
       "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/"
+    },
+    {
+      "title": "Porting nanochat to a TPU: what carries over from PyTorch, and what breaks",
+      "hot": "2.7m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 50 points",
+      "url": "https://github.com/tucan9389/nanochat-jax/discussions/1"
     },
     {
       "title": "I started a “dirt notebook”",
       "hot": "2.7m",
       "desc": "pinewind.bearblog.dev",
       "source": "tech",
-      "tag": "⬆️ 74 points",
+      "tag": "⬆️ 80 points",
       "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/"
-    },
-    {
-      "title": "Revisiting Yliluoma's ordered dither algorithm",
-      "hot": "2.7m",
-      "desc": "30fps.net",
-      "source": "tech",
-      "tag": "⬆️ 9 points",
-      "url": "https://30fps.net/pages/revisiting-yliluoma-2/"
     }
   ],
   "space": [
@@ -450,7 +450,7 @@
   "github": [
     {
       "title": "xai-org/grok-build: SpaceXAI's coding agent harness and TUI. Fullscreen, mouse i",
-      "hot": "⭐ 17.7k",
+      "hot": "⭐ 17.8k",
       "desc": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "source": "github",
       "tag": "Rust",
@@ -498,7 +498,7 @@
     },
     {
       "title": "tandpfun/wardrobe: Your clothes, extracted and organized with gpt-image.",
-      "hot": "⭐ 972",
+      "hot": "⭐ 983",
       "desc": "Your clothes, extracted and organized with gpt-image.",
       "source": "github",
       "tag": "JavaScript",
@@ -514,7 +514,7 @@
     },
     {
       "title": "x4gKing/Marzban-Panel: ",
-      "hot": "⭐ 822",
+      "hot": "⭐ 826",
       "desc": "x4gKing/Marzban-Panel",
       "source": "github",
       "tag": "Dockerfile",
@@ -522,7 +522,7 @@
     },
     {
       "title": "Kappaemme-git/codex-first-customer-finder-skill: A Codex skill that finds eviden",
-      "hot": "⭐ 800",
+      "hot": "⭐ 803",
       "desc": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
       "source": "github",
       "tag": "Python",
@@ -530,7 +530,7 @@
     },
     {
       "title": "oil-oil/beautify-github-readme: Design clear, theme-specific GitHub README homep",
-      "hot": "⭐ 781",
+      "hot": "⭐ 783",
       "desc": "Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown",
       "source": "github",
       "tag": "Python",
@@ -538,7 +538,7 @@
     },
     {
       "title": "x4gKing/Marzban-Node: ",
-      "hot": "⭐ 703",
+      "hot": "⭐ 705",
       "desc": "x4gKing/Marzban-Node",
       "source": "github",
       "tag": "Dockerfile",
@@ -546,7 +546,7 @@
     },
     {
       "title": "KubeezMedia/kubeez-scroll-world-video: Scroll-scrubbed 'fly through the world' b",
-      "hot": "⭐ 650",
+      "hot": "⭐ 651",
       "desc": "Scroll-scrubbed 'fly through the world' burger demo, generated with Kubeez. Live: meepcastana.github.io/kubeez-scroll-world-video",
       "source": "github",
       "tag": "JavaScript",
@@ -554,19 +554,19 @@
     },
     {
       "title": "MatinSenPai/Aether-GUI: One-click desktop GUI for the Aether censorship-circumve",
-      "hot": "⭐ 573",
+      "hot": "⭐ 576",
       "desc": "One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, React 19, Rust",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/MatinSenPai/Aether-GUI"
     },
     {
-      "title": "Blueturboguy07/cue: Open-source macOS AI copilot that floats over your screen, s",
-      "hot": "⭐ 516",
-      "desc": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-yo",
+      "title": "nethical6/conversation-steganography: Use LLMs to hide secret messages inside no",
+      "hot": "⭐ 529",
+      "desc": "Use LLMs to hide secret messages inside normal looking conversations",
       "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/Blueturboguy07/cue"
+      "tag": "Go",
+      "url": "https://github.com/nethical6/conversation-steganography"
     }
   ]
 }
