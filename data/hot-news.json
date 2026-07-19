@@ -1,412 +1,6 @@
 {
-  "updatedAt": "2026-07-19T16:25:11.406Z",
+  "updatedAt": "2026-07-19T17:29:06.601Z",
   "source": "live",
-  "tech": [
-    {
-      "title": "Qwen 3.8",
-      "hot": "3.0m",
-      "desc": "twitter.com",
-      "source": "tech",
-      "tag": "⬆️ 443 points",
-      "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291"
-    },
-    {
-      "title": "Minecraft: Java Edition now uses SDL3",
-      "hot": "3.0m",
-      "desc": "minecraft.net",
-      "source": "tech",
-      "tag": "⬆️ 139 points",
-      "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4"
-    },
-    {
-      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
-      "hot": "3.0m",
-      "desc": "chipweinberger.com",
-      "source": "tech",
-      "tag": "⬆️ 233 points",
-      "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard"
-    },
-    {
-      "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
-      "hot": "3.0m",
-      "desc": "bbc.com",
-      "source": "tech",
-      "tag": "⬆️ 40 points",
-      "url": "https://www.bbc.com/news/articles/cvg8edqq5g5o"
-    },
-    {
-      "title": "Blender 5.2 LTS",
-      "hot": "2.9m",
-      "desc": "blender.org",
-      "source": "tech",
-      "tag": "⬆️ 196 points",
-      "url": "https://www.blender.org/download/releases/5-2/"
-    },
-    {
-      "title": "Claude Code uses Bun written in Rust now",
-      "hot": "2.9m",
-      "desc": "simonwillison.net",
-      "source": "tech",
-      "tag": "⬆️ 182 points",
-      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/"
-    },
-    {
-      "title": "UnifiedIR for Julia",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 17 points",
-      "url": "https://github.com/JuliaLang/julia/pull/62334"
-    },
-    {
-      "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 161 points",
-      "url": "https://github.com/openai/codex/pull/33972/files"
-    },
-    {
-      "title": "Transcribe.cpp",
-      "hot": "2.9m",
-      "desc": "workshop.cjpais.com",
-      "source": "tech",
-      "tag": "⬆️ 643 points",
-      "url": "https://workshop.cjpais.com/projects/transcribe-cpp"
-    },
-    {
-      "title": "I joined the IndieWeb, here's what I learned",
-      "hot": "2.9m",
-      "desc": "en.andros.dev",
-      "source": "tech",
-      "tag": "⬆️ 67 points",
-      "url": "https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/"
-    },
-    {
-      "title": "Land Atlas – soil, farmability, and crop analysis for land listings",
-      "hot": "2.9m",
-      "desc": "land-atlas-production.up.railway.app",
-      "source": "tech",
-      "tag": "⬆️ 20 points",
-      "url": "https://land-atlas-production.up.railway.app/welcome"
-    },
-    {
-      "title": "Infinities, impossibilities, and the man in the white linen suit",
-      "hot": "2.8m",
-      "desc": "iain.so",
-      "source": "tech",
-      "tag": "⬆️ 26 points",
-      "url": "https://iain.so/infinities-impossibilities-and-the-man-in-the-white-linen-suit"
-    },
-    {
-      "title": "The death and rebirth of my home server",
-      "hot": "2.8m",
-      "desc": "sgt.hootr.club",
-      "source": "tech",
-      "tag": "⬆️ 71 points",
-      "url": "https://sgt.hootr.club/blog/home-server-rebirth/"
-    },
-    {
-      "title": "Cagire: Live Coding in Forth",
-      "hot": "2.8m",
-      "desc": "cagire.raphaelforment.fr",
-      "source": "tech",
-      "tag": "⬆️ 11 points",
-      "url": "https://cagire.raphaelforment.fr"
-    },
-    {
-      "title": "Speech Recognition and TTS in less than 500kb",
-      "hot": "2.8m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 512 points",
-      "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro"
-    },
-    {
-      "title": "Codex Resets",
-      "hot": "2.8m",
-      "desc": "codex-resets.com",
-      "source": "tech",
-      "tag": "⬆️ 247 points",
-      "url": "https://codex-resets.com/"
-    },
-    {
-      "title": "Mathematicians still don't know the fastest way to multiply numbers",
-      "hot": "2.8m",
-      "desc": "scientificamerican.com",
-      "source": "tech",
-      "tag": "⬆️ 171 points",
-      "url": "https://www.scientificamerican.com/article/mathematicians-still-dont-know-the-fastest-way-to-multiply-numbers/"
-    },
-    {
-      "title": "Better and Cheaper Than IPTV",
-      "hot": "2.7m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 266 points",
-      "url": "https://github.com/stupside/castor"
-    },
-    {
-      "title": "Clever hacker fits 537,000 domains in a $5 ESP32 ad-blocking dongle",
-      "hot": "2.7m",
-      "desc": "tomshardware.com",
-      "source": "tech",
-      "tag": "⬆️ 27 points",
-      "url": "https://www.tomshardware.com/networking/clever-hacker-fits-537-000-domains-in-a-tiny-usd5-esp32-ad-blocking-dongle-firmware-uses-only-around-50kb-of-ram-and-can-answer-blocked-lookups-in-10-milliseconds"
-    },
-    {
-      "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
-      "hot": "2.7m",
-      "desc": "neatnik.net",
-      "source": "tech",
-      "tag": "⬆️ 214 points",
-      "url": "https://www.neatnik.net/hardcore-indieweb"
-    }
-  ],
-  "space": [
-    {
-      "title": "Mauritius becomes 70th nation to sign the Artemis Accords",
-      "hot": "7/18",
-      "desc": "\nThe island nation of Mauritius signed the Artemis Accords July 17, becoming the 70th nation to do so in less than six years.\nThe post Mauritius becom",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/mauritius-becomes-70th-nation-to-sign-the-artemis-accords/"
-    },
-    {
-      "title": "Space Force triples launch contract ceiling amid rising demand",
-      "hot": "7/18",
-      "desc": "\nThe maximum value of the National Security Space Launch Phase 3 Lane 1 contract was raised from $5.6 billion to $17 billion\nThe post Space Force trip",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/space-force-triples-launch-contract-ceiling-amid-rising-demand/"
-    },
-    {
-      "title": "Pentagon awards $7.1 million to expand U.S. production of cover glass for satellites",
-      "hot": "7/18",
-      "desc": "\nDefense Production Act funding was awarded to Martin Materials Solutions, a small business that makes radiation-resistant cover glass used on spacecr",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/pentagon-awards-7-1-million-to-expand-u-s-production-of-cover-glass-for-satellites/"
-    },
-    {
-      "title": "Skyroot Aerospace reaches orbit on first Vikram-1 launch",
-      "hot": "7/18",
-      "desc": "\nSkyroot Aerospace’s Vikram-1 rocket successfully lifted off on its inaugural flight July 18, becoming the first commercial Indian rocket to reach orb",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/skyroot-aerospace-reaches-orbit-on-first-vikram-1-launch/"
-    },
-    {
-      "title": "NASA terminates Draper lunar lander mission",
-      "hot": "7/18",
-      "desc": "\nNASA and Draper have terminated plans for a lunar lander mission after significant delays in development of the spacecraft.\nThe post NASA terminates ",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/nasa-terminates-draper-lunar-lander-mission/"
-    },
-    {
-      "title": "NASA Pushes New Wing Design to Find Structural Limits",
-      "hot": "7/17",
-      "desc": "NASA researchers recently put a new wing design, appearing long and thin with a lightweight structural design, through a series of grueling tests to f",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/"
-    },
-    {
-      "title": "The Growing Crescent of Mars as NASA’s Psyche Mission Approaches",
-      "hot": "7/17",
-      "desc": "Description This composite of images taken by NASA’s Psyche mission shows the crescent of Mars grow as the spacecraft approached the planet for a grav",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/photojournal/the-growing-crescent-of-mars-as-nasas-psyche-mission-approaches/"
-    },
-    {
-      "title": "Serbia, Mauritius Bring Artemis Accords to 70",
-      "hot": "7/17",
-      "desc": "Serbia and Mauritius have joined the Artemis Accords in the past two days, bringing the number of signatories to 70. Governments of any country are we",
-      "source": "space",
-      "tag": "SpacePolicyOnline.com",
-      "url": "https://spacepolicyonline.com/news/serbia-mauritius-bring-artemis-accords-to-70/"
-    },
-    {
-      "title": "Establishing a VTE Risk Score for Astronauts Algorithm",
-      "hot": "7/17",
-      "desc": "In April 2026, NASA’s Office of the Chief Health and Medical Officer (OCHMO) initiated a working group to review updated VTE case information, additio",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/organizations/ochmo/establishing-a-vte-risk-score-for-astronauts-algorithm/"
-    },
-    {
-      "title": "NASA Awards Facilities Support Services Contract for Ames Research Center",
-      "hot": "7/17",
-      "desc": "CONTRACT RELEASE NASA has selected Chugach Intelligence Solutions LLC to provide comprehensive operations, maintenance, and repair services for NASA’s",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-awards-facilities-support-services-contract-for-ames-research-center/"
-    },
-    {
-      "title": "NASA’s Chandra and IXPE Study Pulsar in Lighthouse Nebula",
-      "hot": "7/17",
-      "desc": "This composite image, released on July 9, 2026, shows the region around a pulsar – a neutron star with a strong magnetic field that spins incredibly f",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/image-article/nasas-chandra-and-ixpe-study-pulsar-in-lighthouse-nebula/"
-    },
-    {
-      "title": "La NASA invita a los medios de comunicación al lanzamiento del telescopio espacial Roman",
-      "hot": "7/17",
-      "desc": "Read this release in English here. Ya está abierto el plazo de acreditación de los medios de comunicación para el lanzamiento de la misión del telesco",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/news-release/la-nasa-invita-a-los-medios-de-comunicacion-al-lanzamiento-del-telescopio-espacial-roman/"
-    },
-    {
-      "title": "NASA Invites Media to Roman Space Telescope, Crew-13 Launches",
-      "hot": "7/17",
-      "desc": "Media accreditation now is open for the launch of NASA’s Nancy Grace Roman Space Telescope and the agency’s SpaceX Crew-13 missions, both targeting la",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-roman-space-telescope-crew-13-launches/"
-    },
-    {
-      "title": "NASA’s Psyche Mission Images Details of Martian Surface During Flyby",
-      "hot": "7/17",
-      "desc": "Description Captured by the multispectral imager instrument on NASA’s Psyche mission, this is an enhanced-color mosaic created from four individual im",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/photojournal/nasas-psyche-mission-images-details-of-martian-surface-during-flyby/"
-    },
-    {
-      "title": "Will Russia's answer to the Falcon 9 rocket ever take flight?",
-      "hot": "7/17",
-      "desc": "Grasshopper-like tests could begin in 2028.",
-      "source": "space",
-      "tag": "Arstechnica",
-      "url": "https://arstechnica.com/space/2026/07/will-russias-answer-to-the-falcon-9-rocket-ever-take-flight/"
-    }
-  ],
-  "github": [
-    {
-      "title": "xai-org/grok-build: SpaceXAI's coding agent harness and TUI. Fullscreen, mouse i",
-      "hot": "⭐ 19.8k",
-      "desc": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/xai-org/grok-build"
-    },
-    {
-      "title": "Fei-Away/Codex-Dream-Skin: Codex Dream Skin",
-      "hot": "⭐ 10.2k",
-      "desc": "Codex Dream Skin",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/Fei-Away/Codex-Dream-Skin"
-    },
-    {
-      "title": "CluvexStudio/Aether: ",
-      "hot": "⭐ 1.3k",
-      "desc": "CluvexStudio/Aether",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/CluvexStudio/Aether"
-    },
-    {
-      "title": "pixel-point/aval: A new open-source format for interactive video on the web, wit",
-      "hot": "⭐ 1.2k",
-      "desc": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/pixel-point/aval"
-    },
-    {
-      "title": "littledivy/mimic: Intercept any app, then call it from Python like a library",
-      "hot": "⭐ 1.2k",
-      "desc": "Intercept any app, then call it from Python like a library",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/littledivy/mimic"
-    },
-    {
-      "title": "tandpfun/wardrobe: Your clothes, extracted and organized with gpt-image.",
-      "hot": "⭐ 1.1k",
-      "desc": "Your clothes, extracted and organized with gpt-image.",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/tandpfun/wardrobe"
-    },
-    {
-      "title": "x4gKing/Marzban-Panel: ",
-      "hot": "⭐ 924",
-      "desc": "x4gKing/Marzban-Panel",
-      "source": "github",
-      "tag": "Dockerfile",
-      "url": "https://github.com/x4gKing/Marzban-Panel"
-    },
-    {
-      "title": "oil-oil/beautify-github-readme: Design clear, theme-specific GitHub README homep",
-      "hot": "⭐ 847",
-      "desc": "Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/oil-oil/beautify-github-readme"
-    },
-    {
-      "title": "mereyabdenbekuly-ctrl/clodex-ide: Local-first, zero-trust agentic IDE for verifi",
-      "hot": "⭐ 841",
-      "desc": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide"
-    },
-    {
-      "title": "Kappaemme-git/codex-first-customer-finder-skill: A Codex skill that finds eviden",
-      "hot": "⭐ 834",
-      "desc": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill"
-    },
-    {
-      "title": "x4gKing/Marzban-Node: ",
-      "hot": "⭐ 801",
-      "desc": "x4gKing/Marzban-Node",
-      "source": "github",
-      "tag": "Dockerfile",
-      "url": "https://github.com/x4gKing/Marzban-Node"
-    },
-    {
-      "title": "nethical6/conversation-steganography: Use LLMs to hide messages inside normal lo",
-      "hot": "⭐ 794",
-      "desc": "Use LLMs to hide messages inside normal looking conversations",
-      "source": "github",
-      "tag": "Go",
-      "url": "https://github.com/nethical6/conversation-steganography"
-    },
-    {
-      "title": "pablostanley/yoinks: yoink any video from your terminal. no shady ads.",
-      "hot": "⭐ 678",
-      "desc": "yoink any video from your terminal. no shady ads.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/pablostanley/yoinks"
-    },
-    {
-      "title": "KubeezMedia/kubeez-scroll-world-video: Scroll-scrubbed 'fly through the world' b",
-      "hot": "⭐ 657",
-      "desc": "Scroll-scrubbed 'fly through the world' burger demo, generated with Kubeez. Live: meepcastana.github.io/kubeez-scroll-world-video",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/KubeezMedia/kubeez-scroll-world-video"
-    },
-    {
-      "title": "MatinSenPai/Aether-GUI: One-click desktop GUI for the Aether censorship-circumve",
-      "hot": "⭐ 617",
-      "desc": "One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, React 19, Rust",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/MatinSenPai/Aether-GUI"
-    }
-  ],
   "dev": [
     {
       "title": "Five Gemma-4 models, one accelerator: what porting E2B 31B to AWS Inferentia2 taught me",
@@ -567,6 +161,412 @@
       "source": "dev",
       "tag": "mcps,  antigravitycli",
       "url": "https://dev.to/gde/2b-gemma-4-qat-deployment-with-gce-nvidia-l4-mcp-and-antigravity-cli-4p7"
+    }
+  ],
+  "tech": [
+    {
+      "title": "Qwen 3.8",
+      "hot": "3.0m",
+      "desc": "twitter.com",
+      "source": "tech",
+      "tag": "⬆️ 523 points",
+      "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291"
+    },
+    {
+      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+      "hot": "3.0m",
+      "desc": "chipweinberger.com",
+      "source": "tech",
+      "tag": "⬆️ 276 points",
+      "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard"
+    },
+    {
+      "title": "Minecraft: Java Edition now uses SDL3",
+      "hot": "3.0m",
+      "desc": "minecraft.net",
+      "source": "tech",
+      "tag": "⬆️ 170 points",
+      "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4"
+    },
+    {
+      "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
+      "hot": "3.0m",
+      "desc": "bbc.com",
+      "source": "tech",
+      "tag": "⬆️ 56 points",
+      "url": "https://www.bbc.com/news/articles/cvg8edqq5g5o"
+    },
+    {
+      "title": "Claude Code uses Bun written in Rust now",
+      "hot": "2.9m",
+      "desc": "simonwillison.net",
+      "source": "tech",
+      "tag": "⬆️ 228 points",
+      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/"
+    },
+    {
+      "title": "Blender 5.2 LTS",
+      "hot": "2.9m",
+      "desc": "blender.org",
+      "source": "tech",
+      "tag": "⬆️ 225 points",
+      "url": "https://www.blender.org/download/releases/5-2/"
+    },
+    {
+      "title": "Cagire: Live Coding in Forth",
+      "hot": "2.9m",
+      "desc": "cagire.raphaelforment.fr",
+      "source": "tech",
+      "tag": "⬆️ 30 points",
+      "url": "https://cagire.raphaelforment.fr"
+    },
+    {
+      "title": "UnifiedIR for Julia",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 31 points",
+      "url": "https://github.com/JuliaLang/julia/pull/62334"
+    },
+    {
+      "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 190 points",
+      "url": "https://github.com/openai/codex/pull/33972/files"
+    },
+    {
+      "title": "Transcribe.cpp",
+      "hot": "2.9m",
+      "desc": "workshop.cjpais.com",
+      "source": "tech",
+      "tag": "⬆️ 660 points",
+      "url": "https://workshop.cjpais.com/projects/transcribe-cpp"
+    },
+    {
+      "title": "I joined the IndieWeb, here's what I learned",
+      "hot": "2.9m",
+      "desc": "en.andros.dev",
+      "source": "tech",
+      "tag": "⬆️ 81 points",
+      "url": "https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/"
+    },
+    {
+      "title": "Terence McKenna's Mega Bad Trip",
+      "hot": "2.8m",
+      "desc": "psychedelics.community",
+      "source": "tech",
+      "tag": "⬆️ 16 points",
+      "url": "https://psychedelics.community/cultural-icons/terence-mckennas-mega-bad-trip"
+    },
+    {
+      "title": "Infinities, impossibilities, and the man in the white linen suit",
+      "hot": "2.8m",
+      "desc": "iain.so",
+      "source": "tech",
+      "tag": "⬆️ 33 points",
+      "url": "https://iain.so/infinities-impossibilities-and-the-man-in-the-white-linen-suit"
+    },
+    {
+      "title": "Land Atlas – soil, farmability, and crop analysis for land listings",
+      "hot": "2.8m",
+      "desc": "land-atlas-production.up.railway.app",
+      "source": "tech",
+      "tag": "⬆️ 26 points",
+      "url": "https://land-atlas-production.up.railway.app/welcome"
+    },
+    {
+      "title": "C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8)",
+      "hot": "2.8m",
+      "desc": "retrogamecoders.com",
+      "source": "tech",
+      "tag": "⬆️ 8 points",
+      "url": "https://retrogamecoders.com/c64-basic-dungeon-part8/"
+    },
+    {
+      "title": "The death and rebirth of my home server",
+      "hot": "2.8m",
+      "desc": "sgt.hootr.club",
+      "source": "tech",
+      "tag": "⬆️ 80 points",
+      "url": "https://sgt.hootr.club/blog/home-server-rebirth/"
+    },
+    {
+      "title": "Speech Recognition and TTS in less than 500kb",
+      "hot": "2.8m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 518 points",
+      "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro"
+    },
+    {
+      "title": "Dupes (product clones) took over the world",
+      "hot": "2.7m",
+      "desc": "vox.com",
+      "source": "tech",
+      "tag": "⬆️ 17 points",
+      "url": "https://www.vox.com/podcasts/493930/dupe-culture-fender-ugg-quince-tiktok-amazon-online-shopping"
+    },
+    {
+      "title": "Codex Resets",
+      "hot": "2.7m",
+      "desc": "codex-resets.com",
+      "source": "tech",
+      "tag": "⬆️ 253 points",
+      "url": "https://codex-resets.com/"
+    },
+    {
+      "title": "Mathematicians still don't know the fastest way to multiply numbers",
+      "hot": "2.7m",
+      "desc": "scientificamerican.com",
+      "source": "tech",
+      "tag": "⬆️ 179 points",
+      "url": "https://www.scientificamerican.com/article/mathematicians-still-dont-know-the-fastest-way-to-multiply-numbers/"
+    }
+  ],
+  "space": [
+    {
+      "title": "Mauritius becomes 70th nation to sign the Artemis Accords",
+      "hot": "7/18",
+      "desc": "\nThe island nation of Mauritius signed the Artemis Accords July 17, becoming the 70th nation to do so in less than six years.\nThe post Mauritius becom",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/mauritius-becomes-70th-nation-to-sign-the-artemis-accords/"
+    },
+    {
+      "title": "Space Force triples launch contract ceiling amid rising demand",
+      "hot": "7/18",
+      "desc": "\nThe maximum value of the National Security Space Launch Phase 3 Lane 1 contract was raised from $5.6 billion to $17 billion\nThe post Space Force trip",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/space-force-triples-launch-contract-ceiling-amid-rising-demand/"
+    },
+    {
+      "title": "Pentagon awards $7.1 million to expand U.S. production of cover glass for satellites",
+      "hot": "7/18",
+      "desc": "\nDefense Production Act funding was awarded to Martin Materials Solutions, a small business that makes radiation-resistant cover glass used on spacecr",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/pentagon-awards-7-1-million-to-expand-u-s-production-of-cover-glass-for-satellites/"
+    },
+    {
+      "title": "Skyroot Aerospace reaches orbit on first Vikram-1 launch",
+      "hot": "7/18",
+      "desc": "\nSkyroot Aerospace’s Vikram-1 rocket successfully lifted off on its inaugural flight July 18, becoming the first commercial Indian rocket to reach orb",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/skyroot-aerospace-reaches-orbit-on-first-vikram-1-launch/"
+    },
+    {
+      "title": "NASA terminates Draper lunar lander mission",
+      "hot": "7/18",
+      "desc": "\nNASA and Draper have terminated plans for a lunar lander mission after significant delays in development of the spacecraft.\nThe post NASA terminates ",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/nasa-terminates-draper-lunar-lander-mission/"
+    },
+    {
+      "title": "NASA Pushes New Wing Design to Find Structural Limits",
+      "hot": "7/17",
+      "desc": "NASA researchers recently put a new wing design, appearing long and thin with a lightweight structural design, through a series of grueling tests to f",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/"
+    },
+    {
+      "title": "The Growing Crescent of Mars as NASA’s Psyche Mission Approaches",
+      "hot": "7/17",
+      "desc": "Description This composite of images taken by NASA’s Psyche mission shows the crescent of Mars grow as the spacecraft approached the planet for a grav",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/photojournal/the-growing-crescent-of-mars-as-nasas-psyche-mission-approaches/"
+    },
+    {
+      "title": "Serbia, Mauritius Bring Artemis Accords to 70",
+      "hot": "7/17",
+      "desc": "Serbia and Mauritius have joined the Artemis Accords in the past two days, bringing the number of signatories to 70. Governments of any country are we",
+      "source": "space",
+      "tag": "SpacePolicyOnline.com",
+      "url": "https://spacepolicyonline.com/news/serbia-mauritius-bring-artemis-accords-to-70/"
+    },
+    {
+      "title": "Establishing a VTE Risk Score for Astronauts Algorithm",
+      "hot": "7/17",
+      "desc": "In April 2026, NASA’s Office of the Chief Health and Medical Officer (OCHMO) initiated a working group to review updated VTE case information, additio",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/organizations/ochmo/establishing-a-vte-risk-score-for-astronauts-algorithm/"
+    },
+    {
+      "title": "NASA Awards Facilities Support Services Contract for Ames Research Center",
+      "hot": "7/17",
+      "desc": "CONTRACT RELEASE NASA has selected Chugach Intelligence Solutions LLC to provide comprehensive operations, maintenance, and repair services for NASA’s",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-awards-facilities-support-services-contract-for-ames-research-center/"
+    },
+    {
+      "title": "NASA’s Chandra and IXPE Study Pulsar in Lighthouse Nebula",
+      "hot": "7/17",
+      "desc": "This composite image, released on July 9, 2026, shows the region around a pulsar – a neutron star with a strong magnetic field that spins incredibly f",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/image-article/nasas-chandra-and-ixpe-study-pulsar-in-lighthouse-nebula/"
+    },
+    {
+      "title": "La NASA invita a los medios de comunicación al lanzamiento del telescopio espacial Roman",
+      "hot": "7/17",
+      "desc": "Read this release in English here. Ya está abierto el plazo de acreditación de los medios de comunicación para el lanzamiento de la misión del telesco",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/news-release/la-nasa-invita-a-los-medios-de-comunicacion-al-lanzamiento-del-telescopio-espacial-roman/"
+    },
+    {
+      "title": "NASA Invites Media to Roman Space Telescope, Crew-13 Launches",
+      "hot": "7/17",
+      "desc": "Media accreditation now is open for the launch of NASA’s Nancy Grace Roman Space Telescope and the agency’s SpaceX Crew-13 missions, both targeting la",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-roman-space-telescope-crew-13-launches/"
+    },
+    {
+      "title": "NASA’s Psyche Mission Images Details of Martian Surface During Flyby",
+      "hot": "7/17",
+      "desc": "Description Captured by the multispectral imager instrument on NASA’s Psyche mission, this is an enhanced-color mosaic created from four individual im",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/photojournal/nasas-psyche-mission-images-details-of-martian-surface-during-flyby/"
+    },
+    {
+      "title": "Will Russia's answer to the Falcon 9 rocket ever take flight?",
+      "hot": "7/17",
+      "desc": "Grasshopper-like tests could begin in 2028.",
+      "source": "space",
+      "tag": "Arstechnica",
+      "url": "https://arstechnica.com/space/2026/07/will-russias-answer-to-the-falcon-9-rocket-ever-take-flight/"
+    }
+  ],
+  "github": [
+    {
+      "title": "xai-org/grok-build: SpaceXAI's coding agent harness and TUI. Fullscreen, mouse i",
+      "hot": "⭐ 19.9k",
+      "desc": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/xai-org/grok-build"
+    },
+    {
+      "title": "Fei-Away/Codex-Dream-Skin: Codex Dream Skin",
+      "hot": "⭐ 10.2k",
+      "desc": "Codex Dream Skin",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/Fei-Away/Codex-Dream-Skin"
+    },
+    {
+      "title": "CluvexStudio/Aether: ",
+      "hot": "⭐ 1.3k",
+      "desc": "CluvexStudio/Aether",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/CluvexStudio/Aether"
+    },
+    {
+      "title": "pixel-point/aval: A new open-source format for interactive video on the web, wit",
+      "hot": "⭐ 1.2k",
+      "desc": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/pixel-point/aval"
+    },
+    {
+      "title": "littledivy/mimic: Intercept any app, then call it from Python like a library",
+      "hot": "⭐ 1.2k",
+      "desc": "Intercept any app, then call it from Python like a library",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/littledivy/mimic"
+    },
+    {
+      "title": "tandpfun/wardrobe: Your clothes, extracted and organized with gpt-image.",
+      "hot": "⭐ 1.1k",
+      "desc": "Your clothes, extracted and organized with gpt-image.",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/tandpfun/wardrobe"
+    },
+    {
+      "title": "x4gKing/Marzban-Panel: ",
+      "hot": "⭐ 926",
+      "desc": "x4gKing/Marzban-Panel",
+      "source": "github",
+      "tag": "Dockerfile",
+      "url": "https://github.com/x4gKing/Marzban-Panel"
+    },
+    {
+      "title": "oil-oil/beautify-github-readme: Design clear, theme-specific GitHub README homep",
+      "hot": "⭐ 851",
+      "desc": "Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/oil-oil/beautify-github-readme"
+    },
+    {
+      "title": "mereyabdenbekuly-ctrl/clodex-ide: Local-first, zero-trust agentic IDE for verifi",
+      "hot": "⭐ 843",
+      "desc": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide"
+    },
+    {
+      "title": "Kappaemme-git/codex-first-customer-finder-skill: A Codex skill that finds eviden",
+      "hot": "⭐ 836",
+      "desc": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill"
+    },
+    {
+      "title": "x4gKing/Marzban-Node: ",
+      "hot": "⭐ 802",
+      "desc": "x4gKing/Marzban-Node",
+      "source": "github",
+      "tag": "Dockerfile",
+      "url": "https://github.com/x4gKing/Marzban-Node"
+    },
+    {
+      "title": "nethical6/conversation-steganography: Use LLMs to hide messages inside normal lo",
+      "hot": "⭐ 802",
+      "desc": "Use LLMs to hide messages inside normal looking conversations",
+      "source": "github",
+      "tag": "Go",
+      "url": "https://github.com/nethical6/conversation-steganography"
+    },
+    {
+      "title": "pablostanley/yoinks: yoink any video from your terminal. no shady ads.",
+      "hot": "⭐ 692",
+      "desc": "yoink any video from your terminal. no shady ads.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/pablostanley/yoinks"
+    },
+    {
+      "title": "KubeezMedia/kubeez-scroll-world-video: Scroll-scrubbed 'fly through the world' b",
+      "hot": "⭐ 657",
+      "desc": "Scroll-scrubbed 'fly through the world' burger demo, generated with Kubeez. Live: meepcastana.github.io/kubeez-scroll-world-video",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/KubeezMedia/kubeez-scroll-world-video"
+    },
+    {
+      "title": "MatinSenPai/Aether-GUI: One-click desktop GUI for the Aether censorship-circumve",
+      "hot": "⭐ 619",
+      "desc": "One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, React 19, Rust",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/MatinSenPai/Aether-GUI"
     }
   ]
 }
