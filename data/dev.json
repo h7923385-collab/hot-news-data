@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
-      "hot": "❤️ 51 💬 31",
+      "hot": "❤️ 53 💬 34",
       "desc": "Imagine your AI assistant just produced 200 lines of code. Legally, you may not own a single line of...",
       "source": "dev",
       "tag": "discuss,  ai",
@@ -17,6 +17,14 @@
       "url": "https://dev.to/ben/context-is-king-rethinking-domain-ownership-product-and-the-spec-phase-gp8"
     },
     {
+      "title": "Gemma 4 E2B on a Single TPU v6e Chip: A Serving Deep Dive",
+      "hot": "❤️ 7 💬 0",
+      "desc": "What it took to deploy, why the QAT checkpoints refuse to load, and what one flex-start v6e chip is actually worth — mea",
+      "source": "dev",
+      "tag": "tpu,  llm",
+      "url": "https://dev.to/gde/gemma-4-e2b-on-a-single-tpu-v6e-chip-a-serving-deep-dive-53n"
+    },
+    {
       "title": "Five Gemma-4 models, one accelerator: what porting E2B 31B to AWS Inferentia2 taught me",
       "hot": "❤️ 7 💬 0",
       "desc": "I ported the whole Gemma-4 family — E2B, E4B, 12B, 31B, and the 26B-A4B MoE — to run on...",
@@ -26,27 +34,27 @@
     },
     {
       "title": "Gemma4 DevOps In Action",
-      "hot": "❤️ 8 💬 2",
+      "hot": "❤️ 10 💬 3",
       "desc": "In the last entry I got Gemma-4's 128-expert MoE running on an inf2.24xlarge and signed off with...",
       "source": "dev",
       "tag": "ai,  aws",
       "url": "https://dev.to/gde/gemma4-devops-in-action-10bl"
     },
     {
-      "title": "From Apple Health Data to Clinical Storytelling: Building an AI-Powered Report with Python and Gemini",
-      "hot": "❤️ 8 💬 1",
-      "desc": "Introduction   At recent technology conferences, one topic has caught my attention: every...",
+      "title": "tpu-management: a Claude Code skill for running Gemma 4 on Cloud TPUs",
+      "hot": "❤️ 7 💬 0",
+      "desc": "A Claude Code skill + MCP server that provisions Google Cloud TPU capacity, serves Gemma 4 with vLLM, benchmarks it, and",
       "source": "dev",
-      "tag": "ai,  googlecloud",
-      "url": "https://dev.to/gdg/from-apple-health-data-to-clinical-storytelling-building-an-ai-powered-report-with-python-and-3n8n"
+      "tag": "googlecloud,  tpu",
+      "url": "https://dev.to/gde/tpu-management-a-claude-code-skill-for-running-gemma-4-on-cloud-tpus-1b1e"
     },
     {
-      "title": "Meme Monday",
-      "hot": "❤️ 24 💬 18",
-      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
+      "title": "Google Cloud Labs: Accelerate AI with Cloud Run",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Moving Beyond the Prototype   The AI landscape has shifted. While \"vibe coding\" with tools...",
       "source": "dev",
-      "tag": "discuss,  jokes",
-      "url": "https://dev.to/ben/meme-monday-4eld"
+      "tag": "ai,  googlecloud",
+      "url": "https://dev.to/googleai/google-cloud-labs-accelerate-ai-with-cloud-run-md3"
     },
     {
       "title": "TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI",
@@ -55,6 +63,14 @@
       "source": "dev",
       "tag": "python,  tpu",
       "url": "https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-8-and-antigravity-cli-3e4n"
+    },
+    {
+      "title": "From Apple Health Data to Clinical Storytelling: Building an AI-Powered Report with Python and Gemini",
+      "hot": "❤️ 9 💬 2",
+      "desc": "Introduction   At recent technology conferences, one topic has caught my attention: every...",
+      "source": "dev",
+      "tag": "ai,  googlecloud",
+      "url": "https://dev.to/gdg/from-apple-health-data-to-clinical-storytelling-building-an-ai-powered-report-with-python-and-3n8n"
     },
     {
       "title": "Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI",
@@ -79,6 +95,14 @@
       "source": "dev",
       "tag": "ai,  cloud",
       "url": "https://dev.to/gde/gcp-billing-vertex-ai-solving-gemini-cost-allocation-in-a-single-project-vertex-ai-dynamic-5aok"
+    },
+    {
+      "title": "Meme Monday",
+      "hot": "❤️ 24 💬 20",
+      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
+      "source": "dev",
+      "tag": "discuss,  jokes",
+      "url": "https://dev.to/ben/meme-monday-4eld"
     },
     {
       "title": "Should I quit IT or just live through the burnout?",
@@ -135,31 +159,7 @@
       "source": "dev",
       "tag": "ai,  antigravity",
       "url": "https://dev.to/gde/robust-gap-achieving-zero-hallucination-causal-summarization-in-hierarchical-rag-2606"
-    },
-    {
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 86 💬 43",
-      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
-      "source": "dev",
-      "tag": "top7,  discuss",
-      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-144b"
-    },
-    {
-      "title": "2B Gemma 4 QAT Deployment with GCE, NVIDIA L4, MCP, and Antigravity CLI",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article provides a step by step deployment guide for Gemma 4 to a Google Compute Engine hosted...",
-      "source": "dev",
-      "tag": "mcps,  antigravitycli",
-      "url": "https://dev.to/gde/2b-gemma-4-qat-deployment-with-gce-nvidia-l4-mcp-and-antigravity-cli-4p7"
-    },
-    {
-      "title": "TPU Deployments with Gemma 31B, v6e-4, and Antigravity CLI",
-      "hot": "❤️ 5 💬 0",
-      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "source": "dev",
-      "tag": "gemma4,  mcps",
-      "url": "https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-4-and-antigravity-cli-50ia"
     }
   ],
-  "updatedAt": "2026-07-21T13:06:59.904Z"
+  "updatedAt": "2026-07-21T15:19:00.630Z"
 }
