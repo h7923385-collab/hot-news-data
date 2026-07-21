@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 31 💬 9",
+      "hot": "❤️ 37 💬 16",
       "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
       "source": "dev",
       "tag": "top7,  discuss",
@@ -15,6 +15,22 @@
       "source": "dev",
       "tag": "discuss,  management",
       "url": "https://dev.to/ben/context-is-king-rethinking-domain-ownership-product-and-the-spec-phase-gp8"
+    },
+    {
+      "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
+      "hot": "❤️ 58 💬 46",
+      "desc": "Imagine your AI assistant just produced 200 lines of code. Legally, you may not own a single line of...",
+      "source": "dev",
+      "tag": "discuss,  ai",
+      "url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj"
+    },
+    {
+      "title": "I've Spent 10+ Years in Software Engineering. After Sickness, Burnout, and a Layoff, I'm Rebuilding My Career. Ask Me Anything",
+      "hot": "❤️ 24 💬 31",
+      "desc": "Hi, I'm Cesar, a Senior Software Engineer with 10+ years of experience.  In 2023, I got sick and...",
+      "source": "dev",
+      "tag": "discuss,  watercooler",
+      "url": "https://dev.to/canro91/ive-spent-10-years-in-software-engineering-after-sickness-burnout-and-a-layoff-im-rebuilding-efc"
     },
     {
       "title": "Gemma 4 E2B on a Single TPU v6e Chip: A Serving Deep Dive",
@@ -33,20 +49,20 @@
       "url": "https://dev.to/ben/new-gemini-models-dropped-59l8"
     },
     {
-      "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
-      "hot": "❤️ 56 💬 35",
-      "desc": "Imagine your AI assistant just produced 200 lines of code. Legally, you may not own a single line of...",
-      "source": "dev",
-      "tag": "discuss,  ai",
-      "url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj"
-    },
-    {
       "title": "Five Gemma-4 models, one accelerator: what porting E2B 31B to AWS Inferentia2 taught me",
       "hot": "❤️ 7 💬 0",
       "desc": "I ported the whole Gemma-4 family — E2B, E4B, 12B, 31B, and the 26B-A4B MoE — to run on...",
       "source": "dev",
       "tag": "gemma,  aws",
       "url": "https://dev.to/gde/five-gemma-4-models-one-accelerator-what-porting-e2b-31b-to-aws-inferentia2-taught-me-2gf5"
+    },
+    {
+      "title": "Gemini 3.6 Flash & 3.5 Flash-Lite: Developer guide",
+      "hot": "❤️ 16 💬 0",
+      "desc": "Gemini 3.6 Flash (gemini-3.6-flash) and Gemini 3.5 Flash-Lite (gemini-3.5-flash-lite) are generally...",
+      "source": "dev",
+      "tag": "ai,  api",
+      "url": "https://dev.to/googleai/gemini-36-flash-35-flash-lite-developer-guide-i17"
     },
     {
       "title": "tpu-management: a Claude Code skill for running Gemma 4 on Cloud TPUs",
@@ -58,7 +74,7 @@
     },
     {
       "title": "Google Cloud Labs: Accelerate AI with Cloud Run",
-      "hot": "❤️ 8 💬 0",
+      "hot": "❤️ 13 💬 1",
       "desc": "Moving Beyond the Prototype   The AI landscape has shifted. While \"vibe coding\" with tools...",
       "source": "dev",
       "tag": "ai,  googlecloud",
@@ -95,14 +111,6 @@
       "source": "dev",
       "tag": "mcps,  googleantigravity",
       "url": "https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-1-mcp-and-antigravity-cli-3hh3"
-    },
-    {
-      "title": "Hey DEV, I'm Tobore. Let's actually connect.",
-      "hot": "❤️ 34 💬 29",
-      "desc": "Hey DEV, I'm Tobore. Let's actually connect.  I've been on here for a while now, mostly writing and...",
-      "source": "dev",
-      "tag": "community,  webdev",
-      "url": "https://dev.to/toboreeee/hey-dev-im-tobore-lets-actually-connect-1m02"
     },
     {
       "title": "[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action",
@@ -151,15 +159,7 @@
       "source": "dev",
       "tag": "looker,  lookml",
       "url": "https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d"
-    },
-    {
-      "title": "How to Respectfully Contribute to Open Source",
-      "hot": "❤️ 8 💬 1",
-      "desc": "Below are some practices we have found essential in order to respectfully contribute to Open Source....",
-      "source": "dev",
-      "tag": "opensource",
-      "url": "https://dev.to/opensourcepledge/how-to-respectfully-contribute-to-open-source-cbh"
     }
   ],
-  "updatedAt": "2026-07-21T16:50:08.561Z"
+  "updatedAt": "2026-07-21T18:04:47.540Z"
 }
