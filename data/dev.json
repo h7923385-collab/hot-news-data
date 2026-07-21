@@ -1,12 +1,12 @@
 {
   "data": [
     {
-      "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
-      "hot": "❤️ 53 💬 34",
-      "desc": "Imagine your AI assistant just produced 200 lines of code. Legally, you may not own a single line of...",
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "hot": "❤️ 31 💬 9",
+      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
       "source": "dev",
-      "tag": "discuss,  ai",
-      "url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj"
+      "tag": "top7,  discuss",
+      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1oei"
     },
     {
       "title": "Context Is King: Rethinking Domain Ownership, Product, and the \"Spec Phase\"",
@@ -25,20 +25,28 @@
       "url": "https://dev.to/gde/gemma-4-e2b-on-a-single-tpu-v6e-chip-a-serving-deep-dive-53n"
     },
     {
+      "title": "New Gemini models dropped\r\n\r\nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+      "hot": "❤️ 4 💬 0",
+      "desc": "3.6...",
+      "source": "dev",
+      "tag": "ai,  google",
+      "url": "https://dev.to/ben/new-gemini-models-dropped-59l8"
+    },
+    {
+      "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
+      "hot": "❤️ 56 💬 35",
+      "desc": "Imagine your AI assistant just produced 200 lines of code. Legally, you may not own a single line of...",
+      "source": "dev",
+      "tag": "discuss,  ai",
+      "url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj"
+    },
+    {
       "title": "Five Gemma-4 models, one accelerator: what porting E2B 31B to AWS Inferentia2 taught me",
       "hot": "❤️ 7 💬 0",
       "desc": "I ported the whole Gemma-4 family — E2B, E4B, 12B, 31B, and the 26B-A4B MoE — to run on...",
       "source": "dev",
       "tag": "gemma,  aws",
       "url": "https://dev.to/gde/five-gemma-4-models-one-accelerator-what-porting-e2b-31b-to-aws-inferentia2-taught-me-2gf5"
-    },
-    {
-      "title": "Gemma4 DevOps In Action",
-      "hot": "❤️ 10 💬 3",
-      "desc": "In the last entry I got Gemma-4's 128-expert MoE running on an inf2.24xlarge and signed off with...",
-      "source": "dev",
-      "tag": "ai,  aws",
-      "url": "https://dev.to/gde/gemma4-devops-in-action-10bl"
     },
     {
       "title": "tpu-management: a Claude Code skill for running Gemma 4 on Cloud TPUs",
@@ -50,11 +58,19 @@
     },
     {
       "title": "Google Cloud Labs: Accelerate AI with Cloud Run",
-      "hot": "❤️ 6 💬 0",
+      "hot": "❤️ 8 💬 0",
       "desc": "Moving Beyond the Prototype   The AI landscape has shifted. While \"vibe coding\" with tools...",
       "source": "dev",
       "tag": "ai,  googlecloud",
       "url": "https://dev.to/googleai/google-cloud-labs-accelerate-ai-with-cloud-run-md3"
+    },
+    {
+      "title": "Gemma4 DevOps In Action",
+      "hot": "❤️ 11 💬 4",
+      "desc": "In the last entry I got Gemma-4's 128-expert MoE running on an inf2.24xlarge and signed off with...",
+      "source": "dev",
+      "tag": "ai,  aws",
+      "url": "https://dev.to/gde/gemma4-devops-in-action-10bl"
     },
     {
       "title": "TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI",
@@ -143,23 +159,7 @@
       "source": "dev",
       "tag": "opensource",
       "url": "https://dev.to/opensourcepledge/how-to-respectfully-contribute-to-open-source-cbh"
-    },
-    {
-      "title": "4B Gemma 4 QAT Deployment with GCE, NVIDIA L4, MCP, and Antigravity CLI",
-      "hot": "❤️ 12 💬 0",
-      "desc": "This article provides a step by step deployment guide for Gemma 4 to a Google Compute Engine hosted...",
-      "source": "dev",
-      "tag": "gce,  4l",
-      "url": "https://dev.to/gde/4b-gemma-4-qat-deployment-with-gce-nvidia-l4-mcp-and-antigravity-cli-gh6"
-    },
-    {
-      "title": "Robust-GAP: Achieving Zero-Hallucination Causal Summarization in Hierarchical RAG",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Abstract   This article introduces Robust-GAP, a hierarchical Retrieval-Augmented...",
-      "source": "dev",
-      "tag": "ai,  antigravity",
-      "url": "https://dev.to/gde/robust-gap-achieving-zero-hallucination-causal-summarization-in-hierarchical-rag-2606"
     }
   ],
-  "updatedAt": "2026-07-21T15:19:00.630Z"
+  "updatedAt": "2026-07-21T16:50:08.561Z"
 }
