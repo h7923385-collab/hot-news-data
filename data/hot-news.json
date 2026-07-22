@@ -1,7 +1,347 @@
 {
-  "updatedAt": "2026-07-22T15:18:30.764Z",
+  "updatedAt": "2026-07-22T16:53:17.055Z",
   "source": "live",
+  "dev": [
+    {
+      "title": "tpu-management: a Claude Code skill for running Gemma 4 on Cloud TPUs",
+      "hot": "❤️ 7 💬 0",
+      "desc": "A Claude Code skill + MCP server that provisions Google Cloud TPU capacity, serves Gemma 4 with vLLM, benchmarks it, and",
+      "source": "dev",
+      "tag": "googlecloud,  tpu",
+      "url": "https://dev.to/gde/tpu-management-a-claude-code-skill-for-running-gemma-4-on-cloud-tpus-1b1e"
+    },
+    {
+      "title": "New Gemini models dropped\r\n\r\nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+      "hot": "❤️ 8 💬 2",
+      "desc": "3.6...",
+      "source": "dev",
+      "tag": "ai,  google",
+      "url": "https://dev.to/ben/new-gemini-models-dropped-59l8"
+    },
+    {
+      "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
+      "hot": "❤️ 72 💬 55",
+      "desc": "Imagine your AI assistant just produced 200 lines of code. Legally, you may not own a single line of...",
+      "source": "dev",
+      "tag": "discuss,  ai",
+      "url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj"
+    },
+    {
+      "title": "I've Spent 10+ Years in Software Engineering. After Sickness, Burnout, and a Layoff, I'm Rebuilding My Career. Ask Me Anything",
+      "hot": "❤️ 37 💬 50",
+      "desc": "Hi, I'm Cesar, a Senior Software Engineer with 10+ years of experience.  In 2023, I got sick and...",
+      "source": "dev",
+      "tag": "discuss,  watercooler",
+      "url": "https://dev.to/canro91/ive-spent-10-years-in-software-engineering-after-sickness-burnout-and-a-layoff-im-rebuilding-efc"
+    },
+    {
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "hot": "❤️ 51 💬 22",
+      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+      "source": "dev",
+      "tag": "top7,  discuss",
+      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1oei"
+    },
+    {
+      "title": "Gemini 3.6 Flash & 3.5 Flash-Lite: Developer guide",
+      "hot": "❤️ 17 💬 1",
+      "desc": "Gemini 3.6 Flash (gemini-3.6-flash) and Gemini 3.5 Flash-Lite (gemini-3.5-flash-lite) are generally...",
+      "source": "dev",
+      "tag": "ai,  api",
+      "url": "https://dev.to/googleai/gemini-36-flash-35-flash-lite-developer-guide-i17"
+    },
+    {
+      "title": "Google Cloud Labs: Accelerate AI with Cloud Run",
+      "hot": "❤️ 14 💬 1",
+      "desc": "Moving Beyond the Prototype   The AI landscape has shifted. While \"vibe coding\" with tools...",
+      "source": "dev",
+      "tag": "ai,  googlecloud",
+      "url": "https://dev.to/googleai/google-cloud-labs-accelerate-ai-with-cloud-run-md3"
+    },
+    {
+      "title": "Gemma4 DevOps In Action",
+      "hot": "❤️ 11 💬 8",
+      "desc": "In the last entry I got Gemma-4's 128-expert MoE running on an inf2.24xlarge and signed off with...",
+      "source": "dev",
+      "tag": "ai,  aws",
+      "url": "https://dev.to/gde/gemma4-devops-in-action-10bl"
+    },
+    {
+      "title": "Gemma 4 E2B on a Single TPU v6e Chip: A Serving Deep Dive",
+      "hot": "❤️ 7 💬 1",
+      "desc": "What it took to deploy, why the QAT checkpoints refuse to load, and what one flex-start v6e chip is actually worth — mea",
+      "source": "dev",
+      "tag": "tpu,  llm",
+      "url": "https://dev.to/gde/gemma-4-e2b-on-a-single-tpu-v6e-chip-a-serving-deep-dive-53n"
+    },
+    {
+      "title": "Context Is King: Rethinking Domain Ownership, Product, and the \"Spec Phase\"",
+      "hot": "❤️ 47 💬 17",
+      "desc": "If you’ve spent any time recently writing detailed product requirement documents or meticulously...",
+      "source": "dev",
+      "tag": "discuss,  management",
+      "url": "https://dev.to/ben/context-is-king-rethinking-domain-ownership-product-and-the-spec-phase-gp8"
+    },
+    {
+      "title": "TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
+      "source": "dev",
+      "tag": "python,  tpu",
+      "url": "https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-8-and-antigravity-cli-3e4n"
+    },
+    {
+      "title": "From Apple Health Data to Clinical Storytelling: Building an AI-Powered Report with Python and Gemini",
+      "hot": "❤️ 9 💬 2",
+      "desc": "Introduction   At recent technology conferences, one topic has caught my attention: every...",
+      "source": "dev",
+      "tag": "ai,  googlecloud",
+      "url": "https://dev.to/gdg/from-apple-health-data-to-clinical-storytelling-building-an-ai-powered-report-with-python-and-3n8n"
+    },
+    {
+      "title": "Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
+      "source": "dev",
+      "tag": "mcps,  googleantigravity",
+      "url": "https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-1-mcp-and-antigravity-cli-3hh3"
+    },
+    {
+      "title": "[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action",
+      "hot": "❤️ 7 💬 0",
+      "desc": "Pain Point: How to Accurately Allocate Gemini API Costs Within the Same Project?   When...",
+      "source": "dev",
+      "tag": "ai,  cloud",
+      "url": "https://dev.to/gde/gcp-billing-vertex-ai-solving-gemini-cost-allocation-in-a-single-project-vertex-ai-dynamic-5aok"
+    },
+    {
+      "title": "Should I quit IT or just live through the burnout?",
+      "hot": "❤️ 182 💬 145",
+      "desc": "Some of you may have noticed I disappeared a bit from the community over the last couple of weeks....",
+      "source": "dev",
+      "tag": "mentalhealth,  career",
+      "url": "https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng"
+    },
+    {
+      "title": "Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]",
+      "hot": "❤️ 5 💬 0",
+      "desc": "Build Firebase AI Logic with Antigravity CLI   Note: Google Cloud credits are provided for...",
+      "source": "dev",
+      "tag": "ai,  angular",
+      "url": "https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o"
+    },
+    {
+      "title": "Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
+      "source": "dev",
+      "tag": "googleantigravity,  python",
+      "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82"
+    },
+    {
+      "title": "MCP Configuration for Looker with Antigravity CLI",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article covers the MCP setup and configuration for using Looker and underlying Gemini LLM with...",
+      "source": "dev",
+      "tag": "looker,  lookml",
+      "url": "https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d"
+    },
+    {
+      "title": "How to Respectfully Contribute to Open Source",
+      "hot": "❤️ 8 💬 1",
+      "desc": "Below are some practices we have found essential in order to respectfully contribute to Open Source....",
+      "source": "dev",
+      "tag": "opensource",
+      "url": "https://dev.to/opensourcepledge/how-to-respectfully-contribute-to-open-source-cbh"
+    },
+    {
+      "title": "4B Gemma 4 QAT Deployment with GCE, NVIDIA L4, MCP, and Antigravity CLI",
+      "hot": "❤️ 12 💬 0",
+      "desc": "This article provides a step by step deployment guide for Gemma 4 to a Google Compute Engine hosted...",
+      "source": "dev",
+      "tag": "gce,  4l",
+      "url": "https://dev.to/gde/4b-gemma-4-qat-deployment-with-gce-nvidia-l4-mcp-and-antigravity-cli-gh6"
+    }
+  ],
+  "tech": [
+    {
+      "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+      "hot": "3.0m",
+      "desc": "bento.page",
+      "source": "tech",
+      "tag": "⬆️ 153 points",
+      "url": "https://bento.page/slides/"
+    },
+    {
+      "title": "Show HN: HN Hall of Fame – browse 3,100 legendary Hacker News links",
+      "hot": "3.0m",
+      "desc": "orangecrumbs.com",
+      "source": "tech",
+      "tag": "⬆️ 59 points",
+      "url": "https://www.orangecrumbs.com/hall/"
+    },
+    {
+      "title": "Making",
+      "hot": "3.0m",
+      "desc": "beej.us",
+      "source": "tech",
+      "tag": "⬆️ 55 points",
+      "url": "https://beej.us/blog/data/ai-making/"
+    },
+    {
+      "title": "The startup's Postgres survival guide",
+      "hot": "3.0m",
+      "desc": "hatchet.run",
+      "source": "tech",
+      "tag": "⬆️ 123 points",
+      "url": "https://hatchet.run/blog/postgres-survival-guide"
+    },
+    {
+      "title": "Airbus Full Scale Foldable Wing Extensions",
+      "hot": "2.9m",
+      "desc": "airbus.com",
+      "source": "tech",
+      "tag": "⬆️ 35 points",
+      "url": "https://www.airbus.com/en/newsroom/press-releases/2026-07-airbus-launches-new-flight-test-programme-for-wing-of-tomorrow"
+    },
+    {
+      "title": "Launch HN: Unlayer (YC W22) – Add email and document builders to your app",
+      "hot": "2.9m",
+      "desc": "unlayer.com",
+      "source": "tech",
+      "tag": "⬆️ 9 points",
+      "url": "https://unlayer.com"
+    },
+    {
+      "title": "Mechanical light bulb from 1675 [video]",
+      "hot": "2.9m",
+      "desc": "youtube.com",
+      "source": "tech",
+      "tag": "⬆️ 13 points",
+      "url": "https://www.youtube.com/watch?v=0Y-9GbsS9Fg"
+    },
+    {
+      "title": "10 REM\"_(C2SLFF4",
+      "hot": "2.9m",
+      "desc": "beej.us",
+      "source": "tech",
+      "tag": "⬆️ 109 points",
+      "url": "https://beej.us/blog/data/mystery-comment/"
+    },
+    {
+      "title": "Neo Radar: A browser-based orbital mechanics engine with 41k real asteroids",
+      "hot": "2.9m",
+      "desc": "neoradar.space",
+      "source": "tech",
+      "tag": "⬆️ 22 points",
+      "url": "https://neoradar.space"
+    },
+    {
+      "title": "Perlin's Noise Algorithm",
+      "hot": "2.9m",
+      "desc": "blog.jaysmito.dev",
+      "source": "tech",
+      "tag": "⬆️ 15 points",
+      "url": "https://blog.jaysmito.dev/blog/02-perlins-noise-algorithm/"
+    },
+    {
+      "title": "Introduction to Formal Verification with Lean Part 1",
+      "hot": "2.9m",
+      "desc": "hashcloak.com",
+      "source": "tech",
+      "tag": "⬆️ 187 points",
+      "url": "https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1)"
+    },
+    {
+      "title": "Ghost Cut – or why Cut and Paste is broken everywhere",
+      "hot": "2.8m",
+      "desc": "ishmael.textualize.io",
+      "source": "tech",
+      "tag": "⬆️ 18 points",
+      "url": "https://ishmael.textualize.io/blog/ghost-cut/"
+    },
+    {
+      "title": "Show HN: DeepSQL – A self-hostable AI DBA agent for Postgres and MySQL",
+      "hot": "2.8m",
+      "desc": "deepsql.ai",
+      "source": "tech",
+      "tag": "⬆️ 5 points",
+      "url": "https://deepsql.ai/"
+    },
+    {
+      "title": "Critical Minerals: Reducing U.S. Import Reliance with Substitution and Recycling",
+      "hot": "2.8m",
+      "desc": "gao.gov",
+      "source": "tech",
+      "tag": "⬆️ 12 points",
+      "url": "https://www.gao.gov/products/gao-26-108687"
+    },
+    {
+      "title": "\"We have information that Moonshot distilled Fable for the development of K3\"",
+      "hot": "2.8m",
+      "desc": "twitter.com",
+      "source": "tech",
+      "tag": "⬆️ 23 points",
+      "url": "https://twitter.com/mkratsios47/status/2079933645888880708"
+    },
+    {
+      "title": "Passkeys were invented by engineers with zero understanding of consumer brain",
+      "hot": "2.8m",
+      "desc": "twitter.com",
+      "source": "tech",
+      "tag": "⬆️ 148 points",
+      "url": "https://twitter.com/nikitabier/status/2079787406300266743"
+    },
+    {
+      "title": "OpenNode – Bitcoin Payment Processor",
+      "hot": "2.8m",
+      "desc": "opennode.com",
+      "source": "tech",
+      "tag": "⬆️ 64 points",
+      "url": "https://opennode.com/"
+    },
+    {
+      "title": "Hologram works. Elixir runs in the browser",
+      "hot": "2.7m",
+      "desc": "hologram.page",
+      "source": "tech",
+      "tag": "⬆️ 28 points",
+      "url": "https://hologram.page/blog/backing-hologram"
+    },
+    {
+      "title": "Ethics Is the Skill That Matters Most Now",
+      "hot": "2.7m",
+      "desc": "agonora.com",
+      "source": "tech",
+      "tag": "⬆️ 20 points",
+      "url": "https://agonora.com/blog/ethics-most-important-skill"
+    },
+    {
+      "title": "Cornell's Interactive Wall of Birds",
+      "hot": "2.7m",
+      "desc": "academy.allaboutbirds.org",
+      "source": "tech",
+      "tag": "⬆️ 66 points",
+      "url": "https://academy.allaboutbirds.org/features/wallofbirds/?_hsmi=428996456"
+    }
+  ],
   "space": [
+    {
+      "title": "A New Look – and Sound – for Messier 94",
+      "hot": "7/22",
+      "desc": "NASA’s Chandra X-ray Observatory unveiled this new look at the galaxy NGC 4736, also known as Messier 94, on June 30, 2026. Messier 94 is a spiral gal",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/image-article/a-new-look-and-sound-for-messier-94/"
+    },
+    {
+      "title": "Northrop Launches Evolved Satellite Servicing Spacecraft",
+      "hot": "7/22",
+      "desc": "SpaceLogistics, a Northrop subsidiary, aims to expand the company’s private capabilities and commercial offerings with their newly launched Mission Ro",
+      "source": "space",
+      "tag": "Space Scout",
+      "url": "https://www.spacescout.info/2026/07/northrop-launches-evolved-satellite-servicing-spacecraft/"
+    },
     {
       "title": "Mapping Io’s Hidden Heat With NASA’s Juno",
       "hot": "7/22",
@@ -105,22 +445,6 @@
       "source": "space",
       "tag": "SpaceNews",
       "url": "https://spacenews.com/zenno-astronautics-to-relocate-to-the-united-states/"
-    },
-    {
-      "title": "SpaceX launches Northrop mission to extend the life of aging satellites",
-      "hot": "7/21",
-      "desc": "DARPA-backed vehicle will install propulsion pods on three commercial satellites in geostationary orbit\r\nThe post SpaceX launches Northrop mission to ",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/spacex-launches-northrop-mission-to-extend-the-life-of-aging-satellites/"
-    },
-    {
-      "title": "NASA to Host Media Briefing on Roman Telescope, Launching Next Month",
-      "hot": "7/21",
-      "desc": "Media are invited to join NASA for a virtual news conference at 2 p.m. EDT, Wednesday, July 29, to preview the Nancy Grace Roman Space Telescope missi",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/news-release/nasa-to-host-media-briefing-on-roman-telescope-launching-next-month/"
     }
   ],
   "github": [
@@ -166,7 +490,7 @@
     },
     {
       "title": "nethical6/conversation-steganography: Use LLMs to hide messages inside normal lo",
-      "hot": "⭐ 940",
+      "hot": "⭐ 944",
       "desc": "Use LLMs to hide messages inside normal looking conversations",
       "source": "github",
       "tag": "Go",
@@ -174,7 +498,7 @@
     },
     {
       "title": "v-modal/vmodal_sdk_flutter: V- Modal AI: Search anything anywhere SDK Flutter",
-      "hot": "⭐ 859",
+      "hot": "⭐ 855",
       "desc": "V- Modal AI: Search anything anywhere SDK Flutter",
       "source": "github",
       "tag": "Dart",
@@ -182,7 +506,7 @@
     },
     {
       "title": "MIgHTy-alIeN/MEV-Arbitrage-Bot: An arbitrage bot is a smart contract connected t",
-      "hot": "⭐ 801",
+      "hot": "⭐ 803",
       "desc": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
       "source": "github",
       "tag": "Solidity",
@@ -190,7 +514,7 @@
     },
     {
       "title": "Blaizzy/nativ: Local AI, native to your Mac. Chat, serve, monitor, and connect M",
-      "hot": "⭐ 721",
+      "hot": "⭐ 734",
       "desc": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
       "source": "github",
       "tag": "Swift",
@@ -198,7 +522,7 @@
     },
     {
       "title": "Blueturboguy07/cue: Open-source macOS AI copilot that floats over your screen, s",
-      "hot": "⭐ 719",
+      "hot": "⭐ 722",
       "desc": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-yo",
       "source": "github",
       "tag": "JavaScript",
@@ -206,7 +530,7 @@
     },
     {
       "title": "pyang5166/gbro-collage-broll: 半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组",
-      "hot": "⭐ 647",
+      "hot": "⭐ 661",
       "desc": "半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill",
       "source": "github",
       "tag": "Python",
@@ -214,7 +538,7 @@
     },
     {
       "title": "xiejunjie524/handdraw-story-video: Turn hand-drawn story illustrations into 35–4",
-      "hot": "⭐ 614",
+      "hot": "⭐ 616",
       "desc": "Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.",
       "source": "github",
       "tag": "Python",
@@ -222,7 +546,7 @@
     },
     {
       "title": "smixs/pohuy: Режим идиоматического русского мата для AI-агентов. Короче, душевне",
-      "hot": "⭐ 525",
+      "hot": "⭐ 529",
       "desc": "Режим идиоматического русского мата для AI-агентов. Короче, душевнее, эффективнее. 18+",
       "source": "github",
       "tag": "GitHub",
@@ -237,336 +561,12 @@
       "url": "https://github.com/0xhype/hyperliquid-tracker"
     },
     {
-      "title": "EthanXiang777/circuit-framework: Circuit Framework — multi-agent LLM trading res",
-      "hot": "⭐ 489",
-      "desc": "Circuit Framework — multi-agent LLM trading research system",
+      "title": "Vincentwei1021/video-shotcraft: AI video skill for Claude Code & Codex — cinemat",
+      "hot": "⭐ 495",
+      "desc": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready templa",
       "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/EthanXiang777/circuit-framework"
-    }
-  ],
-  "tech": [
-    {
-      "title": "OpenNode – Bitcoin Payment Processor",
-      "hot": "3.0m",
-      "desc": "opennode.com",
-      "source": "tech",
-      "tag": "⬆️ 43 points",
-      "url": "https://opennode.com/"
-    },
-    {
-      "title": "OpenAI and Hugging Face address security incident during model evaluation",
-      "hot": "3.0m",
-      "desc": "openai.com",
-      "source": "tech",
-      "tag": "⬆️ 1429 points",
-      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/"
-    },
-    {
-      "title": "The startup's Postgres survival guide",
-      "hot": "3.0m",
-      "desc": "hatchet.run",
-      "source": "tech",
-      "tag": "⬆️ 16 points",
-      "url": "https://hatchet.run/blog/postgres-survival-guide"
-    },
-    {
-      "title": "I Built a Private Genomics Study with Stoffel MPC",
-      "hot": "3.0m",
-      "desc": "vishakh.blog",
-      "source": "tech",
-      "tag": "⬆️ 12 points",
-      "url": "https://vishakh.blog/2026/07/21/i-built-a-private-genomics-study-with-stoffel-mpc/"
-    },
-    {
-      "title": "10 REM\"_(C2SLFF4",
-      "hot": "2.9m",
-      "desc": "beej.us",
-      "source": "tech",
-      "tag": "⬆️ 69 points",
-      "url": "https://beej.us/blog/data/mystery-comment/"
-    },
-    {
-      "title": "Introduction to Formal Verification with Lean Part 1",
-      "hot": "2.9m",
-      "desc": "hashcloak.com",
-      "source": "tech",
-      "tag": "⬆️ 158 points",
-      "url": "https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1)"
-    },
-    {
-      "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
-      "hot": "2.9m",
-      "desc": "fireworks.ai",
-      "source": "tech",
-      "tag": "⬆️ 797 points",
-      "url": "https://fireworks.ai/blog/kimik3-fable"
-    },
-    {
-      "title": "Passkeys were invented by engineers with zero understanding of consumer brain",
-      "hot": "2.9m",
-      "desc": "twitter.com",
-      "source": "tech",
-      "tag": "⬆️ 62 points",
-      "url": "https://twitter.com/nikitabier/status/2079787406300266743"
-    },
-    {
-      "title": "Cornell's Interactive Wall of Birds",
-      "hot": "2.9m",
-      "desc": "academy.allaboutbirds.org",
-      "source": "tech",
-      "tag": "⬆️ 46 points",
-      "url": "https://academy.allaboutbirds.org/features/wallofbirds/?_hsmi=428996456"
-    },
-    {
-      "title": "Intel Starts Shipping High-NA EUV Silicon",
-      "hot": "2.9m",
-      "desc": "morethanmoore.substack.com",
-      "source": "tech",
-      "tag": "⬆️ 179 points",
-      "url": "https://morethanmoore.substack.com/p/intel-starts-shipping-high-na-euv"
-    },
-    {
-      "title": "Drake Anthony Recreates the Mechanical Bulb First Seen in 1675 – TechEBlog",
-      "hot": "2.9m",
-      "desc": "techeblog.com",
-      "source": "tech",
-      "tag": "⬆️ 21 points",
-      "url": "https://www.techeblog.com/drake-anthony-styropyro-mechanical-bulb-barometric-light/"
-    },
-    {
-      "title": "Why do you suck at juggling now?",
-      "hot": "2.8m",
-      "desc": "pgadey.ca",
-      "source": "tech",
-      "tag": "⬆️ 63 points",
-      "url": "https://pgadey.ca/notes/suck-at-juggling/"
-    },
-    {
-      "title": "Advertise in ChatGPT",
-      "hot": "2.8m",
-      "desc": "ads.openai.com",
-      "source": "tech",
-      "tag": "⬆️ 997 points",
-      "url": "https://ads.openai.com/"
-    },
-    {
-      "title": "Original Apollo 11 Guidance Computer source code for command and lunar modules",
-      "hot": "2.8m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 131 points",
-      "url": "https://github.com/chrislgarry/Apollo-11"
-    },
-    {
-      "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
-      "hot": "2.8m",
-      "desc": "apnews.com",
-      "source": "tech",
-      "tag": "⬆️ 503 points",
-      "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63"
-    },
-    {
-      "title": "FreeInk: Open ecosystem for e-readers",
-      "hot": "2.8m",
-      "desc": "freeink.org",
-      "source": "tech",
-      "tag": "⬆️ 663 points",
-      "url": "https://freeink.org/"
-    },
-    {
-      "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-      "hot": "2.8m",
-      "desc": "blog.google",
-      "source": "tech",
-      "tag": "⬆️ 731 points",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/"
-    },
-    {
-      "title": "Most Americans Say \"Not in My Backyard\" to AI Data Centers",
-      "hot": "2.7m",
-      "desc": "redfin.com",
-      "source": "tech",
-      "tag": "⬆️ 17 points",
-      "url": "https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/"
-    },
-    {
-      "title": "OverpAId – Fire your CEO. Hire the future",
-      "hot": "2.7m",
-      "desc": "overpaid.lol",
-      "source": "tech",
-      "tag": "⬆️ 545 points",
-      "url": "https://overpaid.lol"
-    },
-    {
-      "title": "Late.sh – a command-line Clubhouse for computer people",
-      "hot": "2.7m",
-      "desc": "late.sh",
-      "source": "tech",
-      "tag": "⬆️ 258 points",
-      "url": "https://late.sh/"
-    }
-  ],
-  "dev": [
-    {
-      "title": "tpu-management: a Claude Code skill for running Gemma 4 on Cloud TPUs",
-      "hot": "❤️ 7 💬 0",
-      "desc": "A Claude Code skill + MCP server that provisions Google Cloud TPU capacity, serves Gemma 4 with vLLM, benchmarks it, and",
-      "source": "dev",
-      "tag": "googlecloud,  tpu",
-      "url": "https://dev.to/gde/tpu-management-a-claude-code-skill-for-running-gemma-4-on-cloud-tpus-1b1e"
-    },
-    {
-      "title": "New Gemini models dropped\r\n\r\nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
-      "hot": "❤️ 8 💬 2",
-      "desc": "3.6...",
-      "source": "dev",
-      "tag": "ai,  google",
-      "url": "https://dev.to/ben/new-gemini-models-dropped-59l8"
-    },
-    {
-      "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
-      "hot": "❤️ 72 💬 55",
-      "desc": "Imagine your AI assistant just produced 200 lines of code. Legally, you may not own a single line of...",
-      "source": "dev",
-      "tag": "discuss,  ai",
-      "url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj"
-    },
-    {
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 51 💬 22",
-      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
-      "source": "dev",
-      "tag": "top7,  discuss",
-      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1oei"
-    },
-    {
-      "title": "Gemini 3.6 Flash & 3.5 Flash-Lite: Developer guide",
-      "hot": "❤️ 17 💬 1",
-      "desc": "Gemini 3.6 Flash (gemini-3.6-flash) and Gemini 3.5 Flash-Lite (gemini-3.5-flash-lite) are generally...",
-      "source": "dev",
-      "tag": "ai,  api",
-      "url": "https://dev.to/googleai/gemini-36-flash-35-flash-lite-developer-guide-i17"
-    },
-    {
-      "title": "I've Spent 10+ Years in Software Engineering. After Sickness, Burnout, and a Layoff, I'm Rebuilding My Career. Ask Me Anything",
-      "hot": "❤️ 36 💬 40",
-      "desc": "Hi, I'm Cesar, a Senior Software Engineer with 10+ years of experience.  In 2023, I got sick and...",
-      "source": "dev",
-      "tag": "discuss,  watercooler",
-      "url": "https://dev.to/canro91/ive-spent-10-years-in-software-engineering-after-sickness-burnout-and-a-layoff-im-rebuilding-efc"
-    },
-    {
-      "title": "Google Cloud Labs: Accelerate AI with Cloud Run",
-      "hot": "❤️ 14 💬 1",
-      "desc": "Moving Beyond the Prototype   The AI landscape has shifted. While \"vibe coding\" with tools...",
-      "source": "dev",
-      "tag": "ai,  googlecloud",
-      "url": "https://dev.to/googleai/google-cloud-labs-accelerate-ai-with-cloud-run-md3"
-    },
-    {
-      "title": "Gemma4 DevOps In Action",
-      "hot": "❤️ 11 💬 8",
-      "desc": "In the last entry I got Gemma-4's 128-expert MoE running on an inf2.24xlarge and signed off with...",
-      "source": "dev",
-      "tag": "ai,  aws",
-      "url": "https://dev.to/gde/gemma4-devops-in-action-10bl"
-    },
-    {
-      "title": "Gemma 4 E2B on a Single TPU v6e Chip: A Serving Deep Dive",
-      "hot": "❤️ 7 💬 1",
-      "desc": "What it took to deploy, why the QAT checkpoints refuse to load, and what one flex-start v6e chip is actually worth — mea",
-      "source": "dev",
-      "tag": "tpu,  llm",
-      "url": "https://dev.to/gde/gemma-4-e2b-on-a-single-tpu-v6e-chip-a-serving-deep-dive-53n"
-    },
-    {
-      "title": "Context Is King: Rethinking Domain Ownership, Product, and the \"Spec Phase\"",
-      "hot": "❤️ 47 💬 17",
-      "desc": "If you’ve spent any time recently writing detailed product requirement documents or meticulously...",
-      "source": "dev",
-      "tag": "discuss,  management",
-      "url": "https://dev.to/ben/context-is-king-rethinking-domain-ownership-product-and-the-spec-phase-gp8"
-    },
-    {
-      "title": "TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "source": "dev",
-      "tag": "python,  tpu",
-      "url": "https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-8-and-antigravity-cli-3e4n"
-    },
-    {
-      "title": "From Apple Health Data to Clinical Storytelling: Building an AI-Powered Report with Python and Gemini",
-      "hot": "❤️ 9 💬 2",
-      "desc": "Introduction   At recent technology conferences, one topic has caught my attention: every...",
-      "source": "dev",
-      "tag": "ai,  googlecloud",
-      "url": "https://dev.to/gdg/from-apple-health-data-to-clinical-storytelling-building-an-ai-powered-report-with-python-and-3n8n"
-    },
-    {
-      "title": "Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "source": "dev",
-      "tag": "mcps,  googleantigravity",
-      "url": "https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-1-mcp-and-antigravity-cli-3hh3"
-    },
-    {
-      "title": "[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action",
-      "hot": "❤️ 7 💬 0",
-      "desc": "Pain Point: How to Accurately Allocate Gemini API Costs Within the Same Project?   When...",
-      "source": "dev",
-      "tag": "ai,  cloud",
-      "url": "https://dev.to/gde/gcp-billing-vertex-ai-solving-gemini-cost-allocation-in-a-single-project-vertex-ai-dynamic-5aok"
-    },
-    {
-      "title": "Should I quit IT or just live through the burnout?",
-      "hot": "❤️ 182 💬 143",
-      "desc": "Some of you may have noticed I disappeared a bit from the community over the last couple of weeks....",
-      "source": "dev",
-      "tag": "mentalhealth,  career",
-      "url": "https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng"
-    },
-    {
-      "title": "Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]",
-      "hot": "❤️ 5 💬 0",
-      "desc": "Build Firebase AI Logic with Antigravity CLI   Note: Google Cloud credits are provided for...",
-      "source": "dev",
-      "tag": "ai,  angular",
-      "url": "https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o"
-    },
-    {
-      "title": "Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "source": "dev",
-      "tag": "googleantigravity,  python",
-      "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82"
-    },
-    {
-      "title": "MCP Configuration for Looker with Antigravity CLI",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article covers the MCP setup and configuration for using Looker and underlying Gemini LLM with...",
-      "source": "dev",
-      "tag": "looker,  lookml",
-      "url": "https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d"
-    },
-    {
-      "title": "How to Respectfully Contribute to Open Source",
-      "hot": "❤️ 8 💬 1",
-      "desc": "Below are some practices we have found essential in order to respectfully contribute to Open Source....",
-      "source": "dev",
-      "tag": "opensource",
-      "url": "https://dev.to/opensourcepledge/how-to-respectfully-contribute-to-open-source-cbh"
-    },
-    {
-      "title": "4B Gemma 4 QAT Deployment with GCE, NVIDIA L4, MCP, and Antigravity CLI",
-      "hot": "❤️ 12 💬 0",
-      "desc": "This article provides a step by step deployment guide for Gemma 4 to a Google Compute Engine hosted...",
-      "source": "dev",
-      "tag": "gce,  4l",
-      "url": "https://dev.to/gde/4b-gemma-4-qat-deployment-with-gce-nvidia-l4-mcp-and-antigravity-cli-gh6"
+      "tag": "TypeScript",
+      "url": "https://github.com/Vincentwei1021/video-shotcraft"
     }
   ]
 }
