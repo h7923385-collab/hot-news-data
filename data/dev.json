@@ -2,51 +2,11 @@
   "data": [
     {
       "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
-      "hot": "❤️ 68 💬 48",
+      "hot": "❤️ 69 💬 49",
       "desc": "Imagine your AI assistant just produced 200 lines of code. Legally, you may not own a single line of...",
       "source": "dev",
       "tag": "discuss,  ai",
       "url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj"
-    },
-    {
-      "title": "I've Spent 10+ Years in Software Engineering. After Sickness, Burnout, and a Layoff, I'm Rebuilding My Career. Ask Me Anything",
-      "hot": "❤️ 26 💬 34",
-      "desc": "Hi, I'm Cesar, a Senior Software Engineer with 10+ years of experience.  In 2023, I got sick and...",
-      "source": "dev",
-      "tag": "discuss,  watercooler",
-      "url": "https://dev.to/canro91/ive-spent-10-years-in-software-engineering-after-sickness-burnout-and-a-layoff-im-rebuilding-efc"
-    },
-    {
-      "title": "Gemma 4 E2B on a Single TPU v6e Chip: A Serving Deep Dive",
-      "hot": "❤️ 7 💬 0",
-      "desc": "What it took to deploy, why the QAT checkpoints refuse to load, and what one flex-start v6e chip is actually worth — mea",
-      "source": "dev",
-      "tag": "tpu,  llm",
-      "url": "https://dev.to/gde/gemma-4-e2b-on-a-single-tpu-v6e-chip-a-serving-deep-dive-53n"
-    },
-    {
-      "title": "New Gemini models dropped\r\n\r\nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
-      "hot": "❤️ 6 💬 2",
-      "desc": "3.6...",
-      "source": "dev",
-      "tag": "ai,  google",
-      "url": "https://dev.to/ben/new-gemini-models-dropped-59l8"
-    },
-    {
-      "title": "Five Gemma-4 models, one accelerator: what porting E2B 31B to AWS Inferentia2 taught me",
-      "hot": "❤️ 7 💬 0",
-      "desc": "I ported the whole Gemma-4 family — E2B, E4B, 12B, 31B, and the 26B-A4B MoE — to run on...",
-      "source": "dev",
-      "tag": "gemma,  aws",
-      "url": "https://dev.to/gde/five-gemma-4-models-one-accelerator-what-porting-e2b-31b-to-aws-inferentia2-taught-me-2gf5"
-    },
-    {
-      "title": "Gemini 3.6 Flash & 3.5 Flash-Lite: Developer guide",
-      "hot": "❤️ 16 💬 0",
-      "desc": "Gemini 3.6 Flash (gemini-3.6-flash) and Gemini 3.5 Flash-Lite (gemini-3.5-flash-lite) are generally...",
-      "source": "dev",
-      "tag": "ai,  api",
-      "url": "https://dev.to/googleai/gemini-36-flash-35-flash-lite-developer-guide-i17"
     },
     {
       "title": "tpu-management: a Claude Code skill for running Gemma 4 on Cloud TPUs",
@@ -65,6 +25,14 @@
       "url": "https://dev.to/ben/context-is-king-rethinking-domain-ownership-product-and-the-spec-phase-gp8"
     },
     {
+      "title": "New Gemini models dropped\r\n\r\nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+      "hot": "❤️ 7 💬 2",
+      "desc": "3.6...",
+      "source": "dev",
+      "tag": "ai,  google",
+      "url": "https://dev.to/ben/new-gemini-models-dropped-59l8"
+    },
+    {
       "title": "Google Cloud Labs: Accelerate AI with Cloud Run",
       "hot": "❤️ 13 💬 1",
       "desc": "Moving Beyond the Prototype   The AI landscape has shifted. While \"vibe coding\" with tools...",
@@ -74,11 +42,27 @@
     },
     {
       "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 46 💬 17",
+      "hot": "❤️ 51 💬 18",
       "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
       "source": "dev",
       "tag": "top7,  discuss",
       "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1oei"
+    },
+    {
+      "title": "Gemini 3.6 Flash & 3.5 Flash-Lite: Developer guide",
+      "hot": "❤️ 16 💬 1",
+      "desc": "Gemini 3.6 Flash (gemini-3.6-flash) and Gemini 3.5 Flash-Lite (gemini-3.5-flash-lite) are generally...",
+      "source": "dev",
+      "tag": "ai,  api",
+      "url": "https://dev.to/googleai/gemini-36-flash-35-flash-lite-developer-guide-i17"
+    },
+    {
+      "title": "I've Spent 10+ Years in Software Engineering. After Sickness, Burnout, and a Layoff, I'm Rebuilding My Career. Ask Me Anything",
+      "hot": "❤️ 27 💬 36",
+      "desc": "Hi, I'm Cesar, a Senior Software Engineer with 10+ years of experience.  In 2023, I got sick and...",
+      "source": "dev",
+      "tag": "discuss,  watercooler",
+      "url": "https://dev.to/canro91/ive-spent-10-years-in-software-engineering-after-sickness-burnout-and-a-layoff-im-rebuilding-efc"
     },
     {
       "title": "Gemma4 DevOps In Action",
@@ -87,6 +71,14 @@
       "source": "dev",
       "tag": "ai,  aws",
       "url": "https://dev.to/gde/gemma4-devops-in-action-10bl"
+    },
+    {
+      "title": "Gemma 4 E2B on a Single TPU v6e Chip: A Serving Deep Dive",
+      "hot": "❤️ 7 💬 1",
+      "desc": "What it took to deploy, why the QAT checkpoints refuse to load, and what one flex-start v6e chip is actually worth — mea",
+      "source": "dev",
+      "tag": "tpu,  llm",
+      "url": "https://dev.to/gde/gemma-4-e2b-on-a-single-tpu-v6e-chip-a-serving-deep-dive-53n"
     },
     {
       "title": "TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI",
@@ -130,7 +122,7 @@
     },
     {
       "title": "Should I quit IT or just live through the burnout?",
-      "hot": "❤️ 182 💬 138",
+      "hot": "❤️ 182 💬 139",
       "desc": "Some of you may have noticed I disappeared a bit from the community over the last couple of weeks....",
       "source": "dev",
       "tag": "mentalhealth,  career",
@@ -159,7 +151,15 @@
       "source": "dev",
       "tag": "looker,  lookml",
       "url": "https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d"
+    },
+    {
+      "title": "How to Respectfully Contribute to Open Source",
+      "hot": "❤️ 8 💬 1",
+      "desc": "Below are some practices we have found essential in order to respectfully contribute to Open Source....",
+      "source": "dev",
+      "tag": "opensource",
+      "url": "https://dev.to/opensourcepledge/how-to-respectfully-contribute-to-open-source-cbh"
     }
   ],
-  "updatedAt": "2026-07-22T04:39:19.200Z"
+  "updatedAt": "2026-07-22T07:26:40.219Z"
 }
