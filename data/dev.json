@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "Better than Next.js? Is Rust Finally Ready for Full-Stack Web Development? Introducing Topcoat",
-      "hot": "❤️ 13 💬 5",
+      "hot": "❤️ 14 💬 5",
       "desc": "There is a super-new Rust Web Framework in town, and it's name is Topcoat  Rust is already a solid...",
       "source": "dev",
       "tag": "webdev,  programming",
@@ -10,7 +10,7 @@
     },
     {
       "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
-      "hot": "❤️ 85 💬 72",
+      "hot": "❤️ 85 💬 74",
       "desc": "Imagine your AI assistant just produced 200 lines of code. Legally, you may not own a single line of...",
       "source": "dev",
       "tag": "discuss,  ai",
@@ -18,19 +18,11 @@
     },
     {
       "title": "Loop Engineering: How to Stop Your Agent Reward-Hacking Its Own Checks",
-      "hot": "❤️ 19 💬 21",
+      "hot": "❤️ 21 💬 22",
       "desc": "You gave the agent a failing test and told it to get the suite green. It came back green. Then you...",
       "source": "dev",
       "tag": "ai,  loopengineering",
       "url": "https://dev.to/reporails/loop-engineering-how-to-stop-your-agent-reward-hacking-its-own-checks-4fpn"
-    },
-    {
-      "title": "Gemma 4 E2B on a Single TPU v6e Chip: A Serving Deep Dive",
-      "hot": "❤️ 7 💬 1",
-      "desc": "What it took to deploy, why the QAT checkpoints refuse to load, and what one flex-start v6e chip is actually worth — mea",
-      "source": "dev",
-      "tag": "tpu,  llm",
-      "url": "https://dev.to/gde/gemma-4-e2b-on-a-single-tpu-v6e-chip-a-serving-deep-dive-53n"
     },
     {
       "title": "Context Is King: Rethinking Domain Ownership, Product, and the \"Spec Phase\"",
@@ -121,6 +113,14 @@
       "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82"
     },
     {
+      "title": "Gemma 4 E2B on a Single TPU v6e Chip: A Serving Deep Dive",
+      "hot": "❤️ 8 💬 1",
+      "desc": "What it took to deploy, why the QAT checkpoints refuse to load, and what one flex-start v6e chip is actually worth — mea",
+      "source": "dev",
+      "tag": "tpu,  llm",
+      "url": "https://dev.to/gde/gemma-4-e2b-on-a-single-tpu-v6e-chip-a-serving-deep-dive-53n"
+    },
+    {
       "title": "MCP Configuration for Looker with Antigravity CLI",
       "hot": "❤️ 6 💬 0",
       "desc": "This article covers the MCP setup and configuration for using Looker and underlying Gemini LLM with...",
@@ -161,5 +161,5 @@
       "url": "https://dev.to/gde/4b-gemma-4-qat-deployment-with-gce-nvidia-l4-mcp-and-antigravity-cli-gh6"
     }
   ],
-  "updatedAt": "2026-07-24T11:27:14.480Z"
+  "updatedAt": "2026-07-24T12:53:11.547Z"
 }
