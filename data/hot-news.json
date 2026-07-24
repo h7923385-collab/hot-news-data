@@ -1,13 +1,29 @@
 {
-  "updatedAt": "2026-07-24T04:39:48.217Z",
+  "updatedAt": "2026-07-24T07:23:15.324Z",
   "source": "live",
   "tech": [
+    {
+      "title": "Flux 3",
+      "hot": "3.0m",
+      "desc": "bfl.ai",
+      "source": "tech",
+      "tag": "⬆️ 82 points",
+      "url": "https://bfl.ai/blog/flux-3"
+    },
+    {
+      "title": "The PImpl idiom and the C++26 std:indirect type",
+      "hot": "3.0m",
+      "desc": "mariusbancila.ro",
+      "source": "tech",
+      "tag": "⬆️ 7 points",
+      "url": "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/"
+    },
     {
       "title": "Writing by hand is good for your brain",
       "hot": "3.0m",
       "desc": "nealstephenson.substack.com",
       "source": "tech",
-      "tag": "⬆️ 1086 points",
+      "tag": "⬆️ 1226 points",
       "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your"
     },
     {
@@ -15,23 +31,23 @@
       "hot": "3.0m",
       "desc": "news.ycombinator.com",
       "source": "tech",
-      "tag": "⬆️ 275 points",
+      "tag": "⬆️ 352 points",
       "url": "https://news.ycombinator.com/item?id=49026810"
     },
     {
       "title": "The Beam Engine",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "glinscott.github.io",
       "source": "tech",
-      "tag": "⬆️ 214 points",
+      "tag": "⬆️ 301 points",
       "url": "https://glinscott.github.io/beam-engine/"
     },
     {
       "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "politico.com",
       "source": "tech",
-      "tag": "⬆️ 800 points",
+      "tag": "⬆️ 871 points",
       "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992"
     },
     {
@@ -39,15 +55,31 @@
       "hot": "2.9m",
       "desc": "stephenfollows.com",
       "source": "tech",
-      "tag": "⬆️ 320 points",
+      "tag": "⬆️ 355 points",
       "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all"
+    },
+    {
+      "title": "Why Software Factories Fail (or: harness engineering is not enough)",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 281 points",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md"
+    },
+    {
+      "title": "Quickly rewrite Git repository history",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 26 points",
+      "url": "https://github.com/newren/git-filter-repo"
     },
     {
       "title": "What else do people draw on gradient.horse?",
       "hot": "2.9m",
       "desc": "rybakov.com",
       "source": "tech",
-      "tag": "⬆️ 70 points",
+      "tag": "⬆️ 112 points",
       "url": "https://rybakov.com/blog/what_else_do_people_draw_on_gradient-copy.horse/"
     },
     {
@@ -55,112 +87,80 @@
       "hot": "2.9m",
       "desc": "jdan.github.io",
       "source": "tech",
-      "tag": "⬆️ 356 points",
+      "tag": "⬆️ 434 points",
       "url": "https://jdan.github.io/98.css/#status-bar"
     },
     {
-      "title": "Why Software Factories Fail (or: harness engineering is not enough)",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 225 points",
-      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md"
-    },
-    {
-      "title": "Software rendering in 500 lines of bare C++",
-      "hot": "2.9m",
-      "desc": "haqr.eu",
-      "source": "tech",
-      "tag": "⬆️ 262 points",
-      "url": "https://haqr.eu/tinyrenderer/"
-    },
-    {
       "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "learnopengl.com",
       "source": "tech",
-      "tag": "⬆️ 204 points",
+      "tag": "⬆️ 226 points",
       "url": "https://learnopengl.com/"
     },
     {
-      "title": "Building on ATProto",
-      "hot": "2.9m",
-      "desc": "lukekanies.com",
-      "source": "tech",
-      "tag": "⬆️ 140 points",
-      "url": "https://lukekanies.com/writing/building-on-atproto/"
-    },
-    {
-      "title": "Freeze-Casting",
+      "title": "Software rendering in 500 lines of bare C++",
       "hot": "2.8m",
-      "desc": "en.wikipedia.org",
+      "desc": "haqr.eu",
       "source": "tech",
-      "tag": "⬆️ 13 points",
-      "url": "https://en.wikipedia.org/wiki/Freeze-casting"
-    },
-    {
-      "title": "The Visual 6502",
-      "hot": "2.8m",
-      "desc": "visual6502.org",
-      "source": "tech",
-      "tag": "⬆️ 73 points",
-      "url": "http://visual6502.org/JSSim/index.html"
-    },
-    {
-      "title": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
-      "hot": "2.8m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 131 points",
-      "url": "https://github.com/palmier-io/palmier-pro"
+      "tag": "⬆️ 274 points",
+      "url": "https://haqr.eu/tinyrenderer/"
     },
     {
       "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
       "hot": "2.8m",
       "desc": "darpa.mil",
       "source": "tech",
-      "tag": "⬆️ 206 points",
+      "tag": "⬆️ 223 points",
       "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16"
     },
     {
-      "title": "Astronomers may have found the first exomoon",
+      "title": "I regret migrating to Codeberg",
       "hot": "2.8m",
+      "desc": "xn--gckvb8fzb.com",
+      "source": "tech",
+      "tag": "⬆️ 221 points",
+      "url": "https://xn--gckvb8fzb.com/i-regret-migrating-to-codeberg/"
+    },
+    {
+      "title": "Building on ATProto",
+      "hot": "2.8m",
+      "desc": "lukekanies.com",
+      "source": "tech",
+      "tag": "⬆️ 150 points",
+      "url": "https://lukekanies.com/writing/building-on-atproto/"
+    },
+    {
+      "title": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
+      "hot": "2.8m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 144 points",
+      "url": "https://github.com/palmier-io/palmier-pro"
+    },
+    {
+      "title": "Why Sony can't bring back its classic Walkman models",
+      "hot": "2.7m",
+      "desc": "obsoletesony.substack.com",
+      "source": "tech",
+      "tag": "⬆️ 86 points",
+      "url": "https://obsoletesony.substack.com/p/why-sony-cant-bring-back-classic-walkman"
+    },
+    {
+      "title": "Astronomers may have found the first exomoon",
+      "hot": "2.7m",
       "desc": "eso.org",
       "source": "tech",
-      "tag": "⬆️ 205 points",
+      "tag": "⬆️ 212 points",
       "url": "https://www.eso.org/public/news/eso2610/"
-    },
-    {
-      "title": "Police Removed Prominent Scientists from the ADA Meeting. Researchers Respond",
-      "hot": "2.8m",
-      "desc": "the-scientist.com",
-      "source": "tech",
-      "tag": "⬆️ 48 points",
-      "url": "https://www.the-scientist.com/police-removed-prominent-scientists-from-the-ada-meeting-researchers-respond-74607"
-    },
-    {
-      "title": "Fractl.art – a fractal generator with 8 octillion different patterns",
-      "hot": "2.7m",
-      "desc": "fractl.art",
-      "source": "tech",
-      "tag": "⬆️ 24 points",
-      "url": "https://fractl.art"
     },
     {
       "title": "Fields Medals 2026",
       "hot": "2.7m",
       "desc": "mathunion.org",
       "source": "tech",
-      "tag": "⬆️ 145 points",
+      "tag": "⬆️ 165 points",
       "url": "https://www.mathunion.org/imu-awards/fields-medal/fields-medals-2026"
-    },
-    {
-      "title": "Launch HN: Screenpipe (YC S26) – Record how you work and turn that into agents",
-      "hot": "2.7m",
-      "desc": "news.ycombinator.com",
-      "source": "tech",
-      "tag": "⬆️ 64 points",
-      "url": "https://news.ycombinator.com/item?id=49024620"
     }
   ],
   "space": [
@@ -296,19 +296,11 @@
     },
     {
       "title": "andrewyng/openworker: ",
-      "hot": "⭐ 1.8k",
+      "hot": "⭐ 2.1k",
       "desc": "andrewyng/openworker",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/andrewyng/openworker"
-    },
-    {
-      "title": "MIgHTy-alIeN/MEV-Arbitrage-Bot: An arbitrage bot is a smart contract connected t",
-      "hot": "⭐ 1.2k",
-      "desc": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
-      "source": "github",
-      "tag": "Solidity",
-      "url": "https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot"
     },
     {
       "title": "nyblnet/bento: ",
@@ -319,6 +311,22 @@
       "url": "https://github.com/nyblnet/bento"
     },
     {
+      "title": "MIgHTy-alIeN/MEV-Arbitrage-Bot: An arbitrage bot is a smart contract connected t",
+      "hot": "⭐ 1.2k",
+      "desc": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
+      "source": "github",
+      "tag": "Solidity",
+      "url": "https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot"
+    },
+    {
+      "title": "Vincentwei1021/video-shotcraft: AI video skill for Claude Code & Codex — cinemat",
+      "hot": "⭐ 1.1k",
+      "desc": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready templa",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/Vincentwei1021/video-shotcraft"
+    },
+    {
       "title": "nethical6/conversation-steganography: Use LLMs to hide messages inside normal lo",
       "hot": "⭐ 1.1k",
       "desc": "Use LLMs to hide messages inside normal looking conversations",
@@ -327,16 +335,8 @@
       "url": "https://github.com/nethical6/conversation-steganography"
     },
     {
-      "title": "Vincentwei1021/video-shotcraft: AI video skill for Claude Code & Codex — cinemat",
-      "hot": "⭐ 1.0k",
-      "desc": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready templa",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/Vincentwei1021/video-shotcraft"
-    },
-    {
       "title": "Jakubantalik/thinking-orbs: Dotted thought-orb loading indicators for AI & agent",
-      "hot": "⭐ 844",
+      "hot": "⭐ 860",
       "desc": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
       "source": "github",
       "tag": "TypeScript",
@@ -344,7 +344,7 @@
     },
     {
       "title": "Blaizzy/nativ: Local AI, native to your Mac. Chat, serve, monitor, and connect M",
-      "hot": "⭐ 822",
+      "hot": "⭐ 826",
       "desc": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
       "source": "github",
       "tag": "Swift",
@@ -352,7 +352,7 @@
     },
     {
       "title": "powerycy/goutoujunshi: 一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性",
-      "hot": "⭐ 691",
+      "hot": "⭐ 724",
       "desc": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
       "source": "github",
       "tag": "Python",
@@ -360,7 +360,7 @@
     },
     {
       "title": "pireel/pireel: Open-source, backend-free AI video editor for talking-head video ",
-      "hot": "⭐ 668",
+      "hot": "⭐ 676",
       "desc": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs",
       "source": "github",
       "tag": "TypeScript",
@@ -376,7 +376,7 @@
     },
     {
       "title": "smixs/pohuy: Режим идиоматического русского мата для AI-агентов. Короче, душевне",
-      "hot": "⭐ 583",
+      "hot": "⭐ 585",
       "desc": "Режим идиоматического русского мата для AI-агентов. Короче, душевнее, эффективнее. 18+",
       "source": "github",
       "tag": "GitHub",
@@ -384,7 +384,7 @@
     },
     {
       "title": "gnipbao/story-to-handdrawn-video: Agent skill: convert Chinese story copy or ord",
-      "hot": "⭐ 577",
+      "hot": "⭐ 584",
       "desc": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
       "source": "github",
       "tag": "JavaScript",
@@ -392,7 +392,7 @@
     },
     {
       "title": "0xhype/hyperliquid-tracker: Get notified when big trades happen on Hyperliquid.",
-      "hot": "⭐ 505",
+      "hot": "⭐ 507",
       "desc": "Get notified when big trades happen on Hyperliquid.",
       "source": "github",
       "tag": "TypeScript",
@@ -400,7 +400,7 @@
     },
     {
       "title": "Icex0/wp2shell-poc: wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain",
-      "hot": "⭐ 503",
+      "hot": "⭐ 506",
       "desc": "wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain",
       "source": "github",
       "tag": "Python",
@@ -425,16 +425,8 @@
       "url": "https://dev.to/reporails/loop-engineering-how-to-stop-your-agent-reward-hacking-its-own-checks-4fpn"
     },
     {
-      "title": "I've Spent 10+ Years in Software Engineering. After Sickness, Burnout, and a Layoff, I'm Rebuilding My Career. Ask Me Anything",
-      "hot": "❤️ 79 💬 79",
-      "desc": "Hi, I'm Cesar, a Senior Software Engineer with 10+ years of experience.  In 2023, I got sick and...",
-      "source": "dev",
-      "tag": "discuss,  watercooler",
-      "url": "https://dev.to/canro91/ive-spent-10-years-in-software-engineering-after-sickness-burnout-and-a-layoff-im-rebuilding-efc"
-    },
-    {
       "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
-      "hot": "❤️ 84 💬 67",
+      "hot": "❤️ 84 💬 68",
       "desc": "Imagine your AI assistant just produced 200 lines of code. Legally, you may not own a single line of...",
       "source": "dev",
       "tag": "discuss,  ai",
@@ -455,6 +447,14 @@
       "source": "dev",
       "tag": "discuss,  management",
       "url": "https://dev.to/ben/context-is-king-rethinking-domain-ownership-product-and-the-spec-phase-gp8"
+    },
+    {
+      "title": "I've Spent 10+ Years in Software Engineering. After Sickness, Burnout, and a Layoff, I'm Rebuilding My Career. Ask Me Anything",
+      "hot": "❤️ 83 💬 85",
+      "desc": "Hi, I'm Cesar, a Senior Software Engineer with 10+ years of experience.  In 2023, I got sick and...",
+      "source": "dev",
+      "tag": "discuss,  watercooler",
+      "url": "https://dev.to/canro91/ive-spent-10-years-in-software-engineering-after-sickness-burnout-and-a-layoff-im-rebuilding-efc"
     },
     {
       "title": "TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI",
