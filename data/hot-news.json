@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T07:27:44.236Z",
+  "updatedAt": "2026-07-26T09:31:58.405Z",
   "source": "live",
   "tech": [
     {
@@ -7,39 +7,47 @@
       "hot": "3.0m",
       "desc": "refp.se",
       "source": "tech",
-      "tag": "⬆️ 85 points",
+      "tag": "⬆️ 175 points",
       "url": "https://refp.se/articles/your-shell-and-the-magic-colon"
+    },
+    {
+      "title": "GrapheneOS protections against data extraction from locked devices",
+      "hot": "3.0m",
+      "desc": "discuss.grapheneos.org",
+      "source": "tech",
+      "tag": "⬆️ 57 points",
+      "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices"
     },
     {
       "title": "An ESP32 based plane radar for my desk",
       "hot": "3.0m",
       "desc": "blog.ktz.me",
       "source": "tech",
-      "tag": "⬆️ 102 points",
+      "tag": "⬆️ 143 points",
       "url": "https://blog.ktz.me/esp32-plane-radar/"
-    },
-    {
-      "title": "JetZero",
-      "hot": "3.0m",
-      "desc": "jetzero.aero",
-      "source": "tech",
-      "tag": "⬆️ 172 points",
-      "url": "https://www.jetzero.aero"
     },
     {
       "title": "The new rules of context engineering for Claude 5 generation models",
       "hot": "3.0m",
       "desc": "claude.com",
       "source": "tech",
-      "tag": "⬆️ 289 points",
+      "tag": "⬆️ 321 points",
       "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models"
+    },
+    {
+      "title": "Stinkpot: SQLite-backed shell history",
+      "hot": "2.9m",
+      "desc": "tangled.org",
+      "source": "tech",
+      "tag": "⬆️ 54 points",
+      "url": "https://tangled.org/oppi.li/stinkpot"
     },
     {
       "title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
       "hot": "2.9m",
       "desc": "huggingface.co",
       "source": "tech",
-      "tag": "⬆️ 96 points",
+      "tag": "⬆️ 127 points",
       "url": "https://huggingface.co/owensong/Inflect-Micro-v2"
     },
     {
@@ -47,120 +55,112 @@
       "hot": "2.9m",
       "desc": "golfcoursebrowser.com",
       "source": "tech",
-      "tag": "⬆️ 103 points",
+      "tag": "⬆️ 126 points",
       "url": "https://golfcoursebrowser.com/"
     },
     {
-      "title": "Rethinking Legal Education in the AI Era",
+      "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
       "hot": "2.9m",
-      "desc": "law.uchicago.edu",
+      "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 64 points",
-      "url": "https://www.law.uchicago.edu/news/ai-strategy-statement"
+      "tag": "⬆️ 146 points",
+      "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf"
     },
     {
-      "title": "Stinkpot: SQLite-backed shell history",
+      "title": "Cloudflare's new AI traffic options for customers",
       "hot": "2.9m",
-      "desc": "tangled.org",
+      "desc": "blog.cloudflare.com",
       "source": "tech",
-      "tag": "⬆️ 25 points",
-      "url": "https://tangled.org/oppi.li/stinkpot"
+      "tag": "⬆️ 118 points",
+      "url": "https://blog.cloudflare.com/content-independence-day-ai-options/"
+    },
+    {
+      "title": "Some more things about Django I've been enjoying",
+      "hot": "2.9m",
+      "desc": "jvns.ca",
+      "source": "tech",
+      "tag": "⬆️ 38 points",
+      "url": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/"
     },
     {
       "title": "Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home",
       "hot": "2.9m",
       "desc": "seti.org",
       "source": "tech",
-      "tag": "⬆️ 45 points",
+      "tag": "⬆️ 66 points",
       "url": "https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/"
     },
     {
-      "title": "W4ME Station – a WASM-4 runtime for Java ME phones",
-      "hot": "2.9m",
-      "desc": "github.com",
+      "title": "Rethinking Legal Education in the AI Era",
+      "hot": "2.8m",
+      "desc": "law.uchicago.edu",
       "source": "tech",
-      "tag": "⬆️ 14 points",
-      "url": "https://github.com/mulfyx/w4me-station"
+      "tag": "⬆️ 74 points",
+      "url": "https://www.law.uchicago.edu/news/ai-strategy-statement"
+    },
+    {
+      "title": "Overloaded Overloading",
+      "hot": "2.8m",
+      "desc": "powerfulpython.com",
+      "source": "tech",
+      "tag": "⬆️ 6 points",
+      "url": "https://powerfulpython.com/blog/overloaded-overloading/"
     },
     {
       "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 152 points",
+      "tag": "⬆️ 184 points",
       "url": "https://github.com/slvDev/esp32-ai"
     },
     {
-      "title": "Some more things about Django I've been enjoying",
+      "title": "JetZero",
       "hot": "2.8m",
-      "desc": "jvns.ca",
+      "desc": "jetzero.aero",
       "source": "tech",
-      "tag": "⬆️ 7 points",
-      "url": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/"
+      "tag": "⬆️ 196 points",
+      "url": "https://www.jetzero.aero"
     },
     {
-      "title": "Systems and Delays",
+      "title": "DskDitto: Ultra-fast, parallel duplicate-file detector",
       "hot": "2.8m",
-      "desc": "martin.janiczek.cz",
+      "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 56 points",
-      "url": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html"
+      "tag": "⬆️ 15 points",
+      "url": "https://github.com/jdefrancesco/dskDitto"
     },
     {
-      "title": "Open-weight AI is having its Kubernetes moment",
+      "title": "Git rebase -I is not that scary",
       "hot": "2.8m",
-      "desc": "tobi.knaup.me",
+      "desc": "cachebag.sh",
       "source": "tech",
-      "tag": "⬆️ 369 points",
-      "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/"
-    },
-    {
-      "title": "LLM Usage in Debian: Three Proposals",
-      "hot": "2.8m",
-      "desc": "debian.org",
-      "source": "tech",
-      "tag": "⬆️ 132 points",
-      "url": "https://www.debian.org/vote/2026/vote_002"
+      "tag": "⬆️ 63 points",
+      "url": "https://cachebag.sh/journal/interactive-rebasing/"
     },
     {
       "title": "Clinical failure rates over the decades: yikes",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "science.org",
       "source": "tech",
-      "tag": "⬆️ 90 points",
+      "tag": "⬆️ 100 points",
       "url": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes"
     },
     {
-      "title": "SIMD for Collision",
-      "hot": "2.8m",
-      "desc": "box2d.org",
+      "title": "LLM Usage in Debian: Three Proposals",
+      "hot": "2.7m",
+      "desc": "debian.org",
       "source": "tech",
-      "tag": "⬆️ 85 points",
-      "url": "https://box2d.org/posts/2026/07/simd-for-collision/"
+      "tag": "⬆️ 153 points",
+      "url": "https://www.debian.org/vote/2026/vote_002"
     },
     {
-      "title": "Cloudflare's new AI traffic options for customers",
+      "title": "What is happening to jobs? Separating AI hype from reality",
       "hot": "2.7m",
-      "desc": "blog.cloudflare.com",
+      "desc": "siepr.stanford.edu",
       "source": "tech",
-      "tag": "⬆️ 97 points",
-      "url": "https://blog.cloudflare.com/content-independence-day-ai-options/"
-    },
-    {
-      "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
-      "hot": "2.7m",
-      "desc": "spectrum.ieee.org",
-      "source": "tech",
-      "tag": "⬆️ 169 points",
-      "url": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy"
-    },
-    {
-      "title": "Librrd Playground",
-      "hot": "2.7m",
-      "desc": "systemf.epfl.ch",
-      "source": "tech",
-      "tag": "⬆️ 6 points",
-      "url": "https://systemf.epfl.ch/etc/librrd/"
+      "tag": "⬆️ 87 points",
+      "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality"
     }
   ],
   "space": [
@@ -288,7 +288,7 @@
   "github": [
     {
       "title": "andrewyng/openworker: ",
-      "hot": "⭐ 5.5k",
+      "hot": "⭐ 5.7k",
       "desc": "andrewyng/openworker",
       "source": "github",
       "tag": "Python",
@@ -304,7 +304,7 @@
     },
     {
       "title": "Jakubantalik/thinking-orbs: Dotted thought-orb loading indicators for AI & agent",
-      "hot": "⭐ 1.0k",
+      "hot": "⭐ 1.1k",
       "desc": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
       "source": "github",
       "tag": "TypeScript",
@@ -312,7 +312,7 @@
     },
     {
       "title": "slvDev/esp32-ai: ",
-      "hot": "⭐ 949",
+      "hot": "⭐ 1.0k",
       "desc": "slvDev/esp32-ai",
       "source": "github",
       "tag": "Python",
@@ -320,7 +320,7 @@
     },
     {
       "title": "powerycy/goutoujunshi: 一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性",
-      "hot": "⭐ 896",
+      "hot": "⭐ 904",
       "desc": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
       "source": "github",
       "tag": "Python",
@@ -336,7 +336,7 @@
     },
     {
       "title": "pireel/pireel: Open-source, backend-free AI video editor for talking-head video ",
-      "hot": "⭐ 757",
+      "hot": "⭐ 760",
       "desc": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs",
       "source": "github",
       "tag": "TypeScript",
@@ -344,7 +344,7 @@
     },
     {
       "title": "mikiarlo3/ai-copywriter: An AI copywriter that uses real copywriting skills + re",
-      "hot": "⭐ 680",
+      "hot": "⭐ 716",
       "desc": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
       "source": "github",
       "tag": "Python",
@@ -352,7 +352,7 @@
     },
     {
       "title": "gnipbao/story-to-handdrawn-video: Agent skill: convert Chinese story copy or ord",
-      "hot": "⭐ 635",
+      "hot": "⭐ 636",
       "desc": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
       "source": "github",
       "tag": "JavaScript",
@@ -360,7 +360,7 @@
     },
     {
       "title": "CatsJuice/sticker-forge: A tactile WebGL sticker maker with rich text, image upl",
-      "hot": "⭐ 578",
+      "hot": "⭐ 582",
       "desc": "A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics.",
       "source": "github",
       "tag": "JavaScript",
@@ -368,7 +368,7 @@
     },
     {
       "title": "zeus-panel/ZEUS-PANEL: A high-performance, serverless VLESS network proxy manage",
-      "hot": "⭐ 551",
+      "hot": "⭐ 555",
       "desc": "A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database.",
       "source": "github",
       "tag": "JavaScript",
@@ -417,28 +417,12 @@
       "url": "https://dev.to/gde/teaching-antigravity-to-direct-a-stateful-video-editing-skill-built-on-geminis-interactions-api-2ccn"
     },
     {
-      "title": "Teaching Claude Code to Direct: A Stateful Video-Editing Skill Built on Gemini’s Interactions API…",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Teaching Claude Code to Direct: A Stateful Video-Editing Skill Built on Gemini’s...",
-      "source": "dev",
-      "tag": "omnivideo,  agentskills",
-      "url": "https://dev.to/gde/teaching-claude-code-to-direct-a-stateful-video-editing-skill-built-on-geminis-interactions-api-1j9a"
-    },
-    {
       "title": "Teaching Google Antigravity to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
       "hot": "❤️ 8 💬 3",
       "desc": "How nb2lite-skill-agy packages Google's gemini-3.1-flash-lite-image as an Antigravity skill + MCP server — with multi-tu",
       "source": "dev",
       "tag": "ai,  antigravity",
       "url": "https://dev.to/gde/teaching-google-antigravity-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-9g1"
-    },
-    {
-      "title": "Loop Engineering: How to Stop Your Agent Reward-Hacking Its Own Checks",
-      "hot": "❤️ 22 💬 24",
-      "desc": "You gave the agent a failing test and told it to get the suite green. It came back green. Then you...",
-      "source": "dev",
-      "tag": "ai,  loopengineering",
-      "url": "https://dev.to/reporails/loop-engineering-how-to-stop-your-agent-reward-hacking-its-own-checks-4fpn"
     },
     {
       "title": "Teaching Codex to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
@@ -450,7 +434,7 @@
     },
     {
       "title": "I've Spent 10+ Years in Software Engineering. After Sickness, Burnout, and a Layoff, I'm Rebuilding My Career. Ask Me Anything",
-      "hot": "❤️ 95 💬 105",
+      "hot": "❤️ 96 💬 105",
       "desc": "Hi, I'm Cesar, a Senior Software Engineer with 10+ years of experience.  In 2023, I got sick and...",
       "source": "dev",
       "tag": "discuss,  watercooler",
@@ -505,12 +489,12 @@
       "url": "https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-1-mcp-and-antigravity-cli-3hh3"
     },
     {
-      "title": "Gemini 3.6 Flash & 3.5 Flash-Lite: Developer guide",
-      "hot": "❤️ 12 💬 1",
-      "desc": "Gemini 3.6 Flash (gemini-3.6-flash) and Gemini 3.5 Flash-Lite (gemini-3.5-flash-lite) are generally...",
+      "title": "Teaching Claude Code to Direct: A Stateful Video-Editing Skill Built on Gemini’s Interactions API…",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Teaching Claude Code to Direct: A Stateful Video-Editing Skill Built on Gemini’s...",
       "source": "dev",
-      "tag": "ai,  api",
-      "url": "https://dev.to/googleai/gemini-36-flash-35-flash-lite-developer-guide-268i"
+      "tag": "omnivideo,  agentskills",
+      "url": "https://dev.to/gde/teaching-claude-code-to-direct-a-stateful-video-editing-skill-built-on-geminis-interactions-api-1j9a"
     },
     {
       "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
@@ -545,6 +529,14 @@
       "url": "https://dev.to/francescoxx/better-than-nextjs-is-rust-finally-ready-for-full-stack-web-development-introducing-topcoat-2h09"
     },
     {
+      "title": "Loop Engineering: How to Stop Your Agent Reward-Hacking Its Own Checks",
+      "hot": "❤️ 22 💬 24",
+      "desc": "You gave the agent a failing test and told it to get the suite green. It came back green. Then you...",
+      "source": "dev",
+      "tag": "ai,  loopengineering",
+      "url": "https://dev.to/reporails/loop-engineering-how-to-stop-your-agent-reward-hacking-its-own-checks-4fpn"
+    },
+    {
       "title": "Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]",
       "hot": "❤️ 5 💬 0",
       "desc": "Build Firebase AI Logic with Antigravity CLI   Note: Google Cloud credits are provided for...",
@@ -567,6 +559,14 @@
       "source": "dev",
       "tag": "googleantigravity,  python",
       "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82"
+    },
+    {
+      "title": "Gemma 4 E2B on a Single TPU v6e Chip: A Serving Deep Dive",
+      "hot": "❤️ 8 💬 1",
+      "desc": "What it took to deploy, why the QAT checkpoints refuse to load, and what one flex-start v6e chip is actually worth — mea",
+      "source": "dev",
+      "tag": "tpu,  llm",
+      "url": "https://dev.to/gde/gemma-4-e2b-on-a-single-tpu-v6e-chip-a-serving-deep-dive-53n"
     }
   ]
 }
