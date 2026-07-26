@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T11:10:45.535Z",
+  "updatedAt": "2026-07-26T12:33:53.592Z",
   "source": "live",
   "dev": [
     {
@@ -59,14 +59,6 @@
       "url": "https://dev.to/googleai/investing-in-multi-agent-ai-safety-research-312l"
     },
     {
-      "title": "What was your win this week??",
-      "hot": "❤️ 19 💬 14",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "discuss,  weeklyretro",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-5ak2"
-    },
-    {
       "title": "Why AI Apps Fail in Production (And How Google Solved It)",
       "hot": "❤️ 7 💬 2",
       "desc": "We are living in the golden age of the weekend AI side project. Thanks to vibe coding and LLMs, you...",
@@ -92,7 +84,7 @@
     },
     {
       "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
-      "hot": "❤️ 110 💬 91",
+      "hot": "❤️ 110 💬 92",
       "desc": "Imagine your AI assistant just produced 200 lines of code. Legally, you may not own a single line of...",
       "source": "dev",
       "tag": "discuss,  ai",
@@ -161,6 +153,14 @@
       "source": "dev",
       "tag": "tpu,  llm",
       "url": "https://dev.to/gde/gemma-4-e2b-on-a-single-tpu-v6e-chip-a-serving-deep-dive-53n"
+    },
+    {
+      "title": "MCP Configuration for Looker with Antigravity CLI",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article covers the MCP setup and configuration for using Looker and underlying Gemini LLM with...",
+      "source": "dev",
+      "tag": "looker,  lookml",
+      "url": "https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d"
     }
   ],
   "tech": [
@@ -169,39 +169,55 @@
       "hot": "3.0m",
       "desc": "astral.sh",
       "source": "tech",
-      "tag": "⬆️ 75 points",
+      "tag": "⬆️ 130 points",
       "url": "https://astral.sh/blog/ruff-v0.16.0"
-    },
-    {
-      "title": "Elevated Errors for Opus 5",
-      "hot": "3.0m",
-      "desc": "status.claude.com",
-      "source": "tech",
-      "tag": "⬆️ 25 points",
-      "url": "https://status.claude.com/incidents/zftg3gqkmv18"
-    },
-    {
-      "title": "GrapheneOS protections against data extraction from locked devices",
-      "hot": "3.0m",
-      "desc": "discuss.grapheneos.org",
-      "source": "tech",
-      "tag": "⬆️ 103 points",
-      "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices"
     },
     {
       "title": "A shell colon does nothing. Use it anyway",
       "hot": "3.0m",
       "desc": "refp.se",
       "source": "tech",
-      "tag": "⬆️ 226 points",
+      "tag": "⬆️ 255 points",
       "url": "https://refp.se/articles/your-shell-and-the-magic-colon"
+    },
+    {
+      "title": "GrapheneOS protections against data extraction from locked devices",
+      "hot": "3.0m",
+      "desc": "discuss.grapheneos.org",
+      "source": "tech",
+      "tag": "⬆️ 140 points",
+      "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices"
+    },
+    {
+      "title": "German Peasants' War",
+      "hot": "3.0m",
+      "desc": "en.wikipedia.org",
+      "source": "tech",
+      "tag": "⬆️ 27 points",
+      "url": "https://en.wikipedia.org/wiki/German_Peasants%27_War"
+    },
+    {
+      "title": "Systemd Linger",
+      "hot": "2.9m",
+      "desc": "etbe.coker.com.au",
+      "source": "tech",
+      "tag": "⬆️ 19 points",
+      "url": "https://etbe.coker.com.au/2026/07/24/systemd-linger/"
+    },
+    {
+      "title": "Third Drone Shot Down in Three Days in Romanian Territory",
+      "hot": "2.9m",
+      "desc": "english.mapn.ro",
+      "source": "tech",
+      "tag": "⬆️ 3 points",
+      "url": "https://english.mapn.ro/"
     },
     {
       "title": "An ESP32 based plane radar for my desk",
       "hot": "2.9m",
       "desc": "blog.ktz.me",
       "source": "tech",
-      "tag": "⬆️ 165 points",
+      "tag": "⬆️ 180 points",
       "url": "https://blog.ktz.me/esp32-plane-radar/"
     },
     {
@@ -209,7 +225,7 @@
       "hot": "2.9m",
       "desc": "claude.com",
       "source": "tech",
-      "tag": "⬆️ 350 points",
+      "tag": "⬆️ 364 points",
       "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models"
     },
     {
@@ -217,7 +233,7 @@
       "hot": "2.9m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 169 points",
+      "tag": "⬆️ 184 points",
       "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf"
     },
     {
@@ -225,7 +241,7 @@
       "hot": "2.9m",
       "desc": "golfcoursebrowser.com",
       "source": "tech",
-      "tag": "⬆️ 141 points",
+      "tag": "⬆️ 153 points",
       "url": "https://golfcoursebrowser.com/"
     },
     {
@@ -233,23 +249,23 @@
       "hot": "2.9m",
       "desc": "huggingface.co",
       "source": "tech",
-      "tag": "⬆️ 143 points",
+      "tag": "⬆️ 151 points",
       "url": "https://huggingface.co/owensong/Inflect-Micro-v2"
     },
     {
-      "title": "Overloaded Overloading",
-      "hot": "2.9m",
-      "desc": "powerfulpython.com",
+      "title": "Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home",
+      "hot": "2.8m",
+      "desc": "seti.org",
       "source": "tech",
-      "tag": "⬆️ 19 points",
-      "url": "https://powerfulpython.com/blog/overloaded-overloading/"
+      "tag": "⬆️ 91 points",
+      "url": "https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/"
     },
     {
       "title": "Stinkpot: SQLite-backed shell history",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "tangled.org",
       "source": "tech",
-      "tag": "⬆️ 73 points",
+      "tag": "⬆️ 80 points",
       "url": "https://tangled.org/oppi.li/stinkpot"
     },
     {
@@ -257,78 +273,62 @@
       "hot": "2.8m",
       "desc": "blog.cloudflare.com",
       "source": "tech",
-      "tag": "⬆️ 131 points",
+      "tag": "⬆️ 137 points",
       "url": "https://blog.cloudflare.com/content-independence-day-ai-options/"
-    },
-    {
-      "title": "Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home",
-      "hot": "2.8m",
-      "desc": "seti.org",
-      "source": "tech",
-      "tag": "⬆️ 78 points",
-      "url": "https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/"
-    },
-    {
-      "title": "Rethinking Legal Education in the AI Era",
-      "hot": "2.8m",
-      "desc": "law.uchicago.edu",
-      "source": "tech",
-      "tag": "⬆️ 81 points",
-      "url": "https://www.law.uchicago.edu/news/ai-strategy-statement"
-    },
-    {
-      "title": "Some more things about Django I've been enjoying",
-      "hot": "2.8m",
-      "desc": "jvns.ca",
-      "source": "tech",
-      "tag": "⬆️ 51 points",
-      "url": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/"
-    },
-    {
-      "title": "Git rebase -I is not that scary",
-      "hot": "2.8m",
-      "desc": "cachebag.sh",
-      "source": "tech",
-      "tag": "⬆️ 76 points",
-      "url": "https://cachebag.sh/journal/interactive-rebasing/"
     },
     {
       "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
       "hot": "2.8m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 201 points",
+      "tag": "⬆️ 217 points",
       "url": "https://github.com/slvDev/esp32-ai"
     },
     {
-      "title": "Pip install Postgres – no Docker/Brew/apt",
-      "hot": "2.7m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 7 points",
-      "url": "https://github.com/leontrolski/postgresql-testing"
-    },
-    {
-      "title": "DskDitto: Ultra-fast, parallel duplicate-file detector",
-      "hot": "2.7m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 25 points",
-      "url": "https://github.com/jdefrancesco/dskDitto"
-    },
-    {
       "title": "What is happening to jobs? Separating AI hype from reality",
-      "hot": "2.7m",
+      "hot": "2.8m",
       "desc": "siepr.stanford.edu",
       "source": "tech",
-      "tag": "⬆️ 105 points",
+      "tag": "⬆️ 121 points",
       "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality"
+    },
+    {
+      "title": "Git rebase -I is not that scary",
+      "hot": "2.8m",
+      "desc": "cachebag.sh",
+      "source": "tech",
+      "tag": "⬆️ 82 points",
+      "url": "https://cachebag.sh/journal/interactive-rebasing/"
+    },
+    {
+      "title": "Overloaded Overloading",
+      "hot": "2.7m",
+      "desc": "powerfulpython.com",
+      "source": "tech",
+      "tag": "⬆️ 21 points",
+      "url": "https://powerfulpython.com/blog/overloaded-overloading/"
+    },
+    {
+      "title": "Rethinking Legal Education in the AI Era",
+      "hot": "2.7m",
+      "desc": "law.uchicago.edu",
+      "source": "tech",
+      "tag": "⬆️ 89 points",
+      "url": "https://www.law.uchicago.edu/news/ai-strategy-statement"
+    },
+    {
+      "title": "I wouldn't say Pangram is broken, but I would say that it's brittle",
+      "hot": "2.7m",
+      "desc": "freddiedeboer.substack.com",
+      "source": "tech",
+      "tag": "⬆️ 15 points",
+      "url": "https://freddiedeboer.substack.com/p/i-wouldnt-say-pangram-is-broken-but"
     }
   ],
   "github": [
     {
       "title": "andrewyng/openworker: ",
-      "hot": "⭐ 5.8k",
+      "hot": "⭐ 5.9k",
       "desc": "andrewyng/openworker",
       "source": "github",
       "tag": "Python",
@@ -360,7 +360,7 @@
     },
     {
       "title": "powerycy/goutoujunshi: 一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性",
-      "hot": "⭐ 907",
+      "hot": "⭐ 913",
       "desc": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
       "source": "github",
       "tag": "Python",
@@ -384,7 +384,7 @@
     },
     {
       "title": "mikiarlo3/ai-copywriter: An AI copywriter that uses real copywriting skills + re",
-      "hot": "⭐ 741",
+      "hot": "⭐ 755",
       "desc": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
       "source": "github",
       "tag": "Python",
@@ -392,7 +392,7 @@
     },
     {
       "title": "gnipbao/story-to-handdrawn-video: Agent skill: convert Chinese story copy or ord",
-      "hot": "⭐ 638",
+      "hot": "⭐ 640",
       "desc": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
       "source": "github",
       "tag": "JavaScript",
@@ -408,7 +408,7 @@
     },
     {
       "title": "zeus-panel/ZEUS-PANEL: A high-performance, serverless VLESS network proxy manage",
-      "hot": "⭐ 559",
+      "hot": "⭐ 560",
       "desc": "A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database.",
       "source": "github",
       "tag": "JavaScript",
@@ -424,7 +424,7 @@
     },
     {
       "title": "Charles-0509/Grok-Register: Grok free-register CLI: register → OAuth → CPA JSON ",
-      "hot": "⭐ 463",
+      "hot": "⭐ 465",
       "desc": "Grok free-register CLI: register → OAuth → CPA JSON (Go)",
       "source": "github",
       "tag": "Go",
@@ -448,6 +448,14 @@
     }
   ],
   "space": [
+    {
+      "title": "Soyuz MS-28 Back Home After 8 Months on ISS",
+      "hot": "7/26",
+      "desc": "NASA astronaut Chris Williams and two Russian cosmonauts, Sergey Kud-Sverchkov and Sergei Mikaev, returned to Earth this morning after 8 months on the",
+      "source": "space",
+      "tag": "SpacePolicyOnline.com",
+      "url": "https://spacepolicyonline.com/news/soyuz-ms-28-back-home-after-8-months-on-iss/"
+    },
     {
       "title": "NASA Astronaut Chris Williams, Crewmates Return from Space Station",
       "hot": "7/26",
@@ -559,14 +567,6 @@
       "source": "space",
       "tag": "NASA",
       "url": "https://www.nasa.gov/news-release/nasa-to-support-blue-origin-new-glenn-rocket-testing-advance-artemis/"
-    },
-    {
-      "title": "ESA Awards ispace €65M Contract to Build and Deliver MAGPIE Rover to the Moon",
-      "hot": "7/24",
-      "desc": "ESA has awarded a contract to Luxembourg-based ispace-Europe to complete the development of the MAGPIE lunar rover and deliver it to the surface of th",
-      "source": "space",
-      "tag": "European Spaceflight",
-      "url": "https://europeanspaceflight.com/esa-awards-ispace-e65m-contract-to-build-and-deliver-magpie-rover-to-the-moon/"
     }
   ]
 }
