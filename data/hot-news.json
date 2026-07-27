@@ -1,319 +1,149 @@
 {
-  "updatedAt": "2026-07-27T01:03:29.472Z",
+  "updatedAt": "2026-07-27T04:58:10.726Z",
   "source": "live",
-  "dev": [
-    {
-      "title": "Teaching Antigravity to Direct: A Stateful Video-Editing Skill Built on Gemini's Interactions API and MCP",
-      "hot": "❤️ 13 💬 0",
-      "desc": "How omni-skill-agy packages Google's gemini-omni-flash-preview as an Antigravity CLI skill + MCP server — what Omni Flas",
-      "source": "dev",
-      "tag": "ai,  gemini",
-      "url": "https://dev.to/gde/teaching-antigravity-to-direct-a-stateful-video-editing-skill-built-on-geminis-interactions-api-2ccn"
-    },
-    {
-      "title": "Teaching Google Antigravity to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
-      "hot": "❤️ 8 💬 3",
-      "desc": "How nb2lite-skill-agy packages Google's gemini-3.1-flash-lite-image as an Antigravity skill + MCP server — with multi-tu",
-      "source": "dev",
-      "tag": "ai,  antigravity",
-      "url": "https://dev.to/gde/teaching-google-antigravity-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-9g1"
-    },
-    {
-      "title": "Teaching Codex to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
-      "hot": "❤️ 12 💬 2",
-      "desc": "How nb2lite-skill-codex packages Google's gemini-3.1-flash-lite-image as a Codex skill + MCP server — with Codex-native ",
-      "source": "dev",
-      "tag": "ai,  codex",
-      "url": "https://dev.to/gde/teaching-codex-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-api-and-mcp-26lc"
-    },
-    {
-      "title": "I've Spent 10+ Years in Software Engineering. After Sickness, Burnout, and a Layoff, I'm Rebuilding My Career. Ask Me Anything",
-      "hot": "❤️ 96 💬 105",
-      "desc": "Hi, I'm Cesar, a Senior Software Engineer with 10+ years of experience.  In 2023, I got sick and...",
-      "source": "dev",
-      "tag": "discuss,  watercooler",
-      "url": "https://dev.to/canro91/ive-spent-10-years-in-software-engineering-after-sickness-burnout-and-a-layoff-im-rebuilding-efc"
-    },
-    {
-      "title": "TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "source": "dev",
-      "tag": "python,  tpu",
-      "url": "https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-8-and-antigravity-cli-3e4n"
-    },
-    {
-      "title": "Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "source": "dev",
-      "tag": "mcps,  googleantigravity",
-      "url": "https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-1-mcp-and-antigravity-cli-3hh3"
-    },
-    {
-      "title": "Teaching Claude Code to Direct: A Stateful Video-Editing Skill Built on Gemini’s Interactions API…",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Teaching Claude Code to Direct: A Stateful Video-Editing Skill Built on Gemini’s...",
-      "source": "dev",
-      "tag": "omnivideo,  agentskills",
-      "url": "https://dev.to/gde/teaching-claude-code-to-direct-a-stateful-video-editing-skill-built-on-geminis-interactions-api-1j9a"
-    },
-    {
-      "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
-      "hot": "❤️ 112 💬 97",
-      "desc": "Imagine your AI assistant just produced 200 lines of code. Legally, you may not own a single line of...",
-      "source": "dev",
-      "tag": "discuss,  ai",
-      "url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj"
-    },
-    {
-      "title": "Should I quit IT or just live through the burnout?",
-      "hot": "❤️ 183 💬 156",
-      "desc": "Some of you may have noticed I disappeared a bit from the community over the last couple of weeks....",
-      "source": "dev",
-      "tag": "mentalhealth,  career",
-      "url": "https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng"
-    },
-    {
-      "title": "Better than Next.js? Is Rust Finally Ready for Full-Stack Web Development? Introducing Topcoat",
-      "hot": "❤️ 17 💬 8",
-      "desc": "There is a super-new Rust Web Framework in town, and it's name is Topcoat  Rust is already a solid...",
-      "source": "dev",
-      "tag": "webdev,  programming",
-      "url": "https://dev.to/francescoxx/better-than-nextjs-is-rust-finally-ready-for-full-stack-web-development-introducing-topcoat-2h09"
-    },
-    {
-      "title": "Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]",
-      "hot": "❤️ 5 💬 0",
-      "desc": "Build Firebase AI Logic with Antigravity CLI   Note: Google Cloud credits are provided for...",
-      "source": "dev",
-      "tag": "ai,  angular",
-      "url": "https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o"
-    },
-    {
-      "title": "Teaching Claude Code to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
-      "hot": "❤️ 19 💬 1",
-      "desc": "How nb2lite-skill-claude packages Google's gemini-3.1-flash-lite-image as a Claude Code skill + MCP server — with multi-",
-      "source": "dev",
-      "tag": "ai,  claudecode",
-      "url": "https://dev.to/gde/teaching-claude-code-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-api-17g"
-    },
-    {
-      "title": "Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "source": "dev",
-      "tag": "googleantigravity,  python",
-      "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82"
-    },
-    {
-      "title": "Gemma 4 E2B on a Single TPU v6e Chip: A Serving Deep Dive",
-      "hot": "❤️ 8 💬 1",
-      "desc": "What it took to deploy, why the QAT checkpoints refuse to load, and what one flex-start v6e chip is actually worth — mea",
-      "source": "dev",
-      "tag": "tpu,  llm",
-      "url": "https://dev.to/gde/gemma-4-e2b-on-a-single-tpu-v6e-chip-a-serving-deep-dive-53n"
-    },
-    {
-      "title": "MCP Configuration for Looker with Antigravity CLI",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article covers the MCP setup and configuration for using Looker and underlying Gemini LLM with...",
-      "source": "dev",
-      "tag": "looker,  lookml",
-      "url": "https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d"
-    },
-    {
-      "title": "tpu-management: a Claude Code skill for running Gemma 4 on Cloud TPUs",
-      "hot": "❤️ 7 💬 0",
-      "desc": "A Claude Code skill + MCP server that provisions Google Cloud TPU capacity, serves Gemma 4 with vLLM, benchmarks it, and",
-      "source": "dev",
-      "tag": "googlecloud,  tpu",
-      "url": "https://dev.to/gde/tpu-management-a-claude-code-skill-for-running-gemma-4-on-cloud-tpus-1b1e"
-    },
-    {
-      "title": "Investing in multi-agent AI safety research",
-      "hot": "❤️ 11 💬 2",
-      "desc": "Scaling AI Safety Research for a Multi-Agent World  For the past decade, we've focused on making...",
-      "source": "dev",
-      "tag": "ai,  agents",
-      "url": "https://dev.to/googleai/investing-in-multi-agent-ai-safety-research-312l"
-    },
-    {
-      "title": "What was your win this week??",
-      "hot": "❤️ 20 💬 15",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "discuss,  weeklyretro",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-5ak2"
-    },
-    {
-      "title": "How to Respectfully Contribute to Open Source",
-      "hot": "❤️ 8 💬 1",
-      "desc": "Below are some practices we have found essential in order to respectfully contribute to Open Source....",
-      "source": "dev",
-      "tag": "opensource",
-      "url": "https://dev.to/opensourcepledge/how-to-respectfully-contribute-to-open-source-cbh"
-    },
-    {
-      "title": "Why AI Apps Fail in Production (And How Google Solved It)",
-      "hot": "❤️ 8 💬 2",
-      "desc": "We are living in the golden age of the weekend AI side project. Thanks to vibe coding and LLMs, you...",
-      "source": "dev",
-      "tag": "ai,  vibecoding",
-      "url": "https://dev.to/googleai/why-ai-apps-fail-in-production-and-how-google-solved-it-5a3m"
-    }
-  ],
   "tech": [
+    {
+      "title": "PGSimCity - How PostgreSQL Works",
+      "hot": "3.0m",
+      "desc": "nikolays.github.io",
+      "source": "tech",
+      "tag": "⬆️ 284 points",
+      "url": "https://nikolays.github.io/PGSimCity/"
+    },
+    {
+      "title": "Show HN: Physically accurate black hole you can put in your room",
+      "hot": "3.0m",
+      "desc": "blackhole.plav.in",
+      "source": "tech",
+      "tag": "⬆️ 145 points",
+      "url": "https://blackhole.plav.in"
+    },
+    {
+      "title": "Jacobian Conjecture for Baby",
+      "hot": "3.0m",
+      "desc": "muchmirul.github.io",
+      "source": "tech",
+      "tag": "⬆️ 66 points",
+      "url": "https://muchmirul.github.io/jacobian-conjecture/"
+    },
     {
       "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
       "hot": "3.0m",
       "desc": "beyondloom.com",
       "source": "tech",
-      "tag": "⬆️ 213 points",
+      "tag": "⬆️ 267 points",
       "url": "https://beyondloom.com/decker/"
     },
     {
-      "title": "I wanted a clock that never needed setting. Things escalated",
-      "hot": "3.0m",
-      "desc": "arstechnica.com",
-      "source": "tech",
-      "tag": "⬆️ 40 points",
-      "url": "https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/"
-    },
-    {
-      "title": "French firefighters face 'pyrocumulonimbus' for first time",
-      "hot": "3.0m",
-      "desc": "france24.com",
-      "source": "tech",
-      "tag": "⬆️ 160 points",
-      "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time"
-    },
-    {
-      "title": "We have proof automation now",
-      "hot": "3.0m",
-      "desc": "imperialviolet.org",
-      "source": "tech",
-      "tag": "⬆️ 55 points",
-      "url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html"
-    },
-    {
-      "title": "Teaching Kids Forth",
-      "hot": "2.9m",
-      "desc": "gracefulliberty.com",
-      "source": "tech",
-      "tag": "⬆️ 42 points",
-      "url": "https://gracefulliberty.com/articles/teaching-kids-forth/"
-    },
-    {
-      "title": "Introduction to Data-Oriented Design [pdf]",
-      "hot": "2.9m",
-      "desc": "gamedevs.org",
-      "source": "tech",
-      "tag": "⬆️ 97 points",
-      "url": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf"
-    },
-    {
-      "title": "Simulate cassette tape audio profiles using FFmpeg",
+      "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
       "hot": "2.9m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 65 points",
-      "url": "https://github.com/AARomanov1985/Audio-Cassette-Simulation"
+      "tag": "⬆️ 69 points",
+      "url": "https://github.com/vercel-labs/scriptc"
     },
     {
-      "title": "Design is compromise",
+      "title": "French firefighters face 'pyrocumulonimbus' for first time",
       "hot": "2.9m",
-      "desc": "stephango.com",
+      "desc": "france24.com",
       "source": "tech",
-      "tag": "⬆️ 184 points",
-      "url": "https://stephango.com/design-is-compromise"
+      "tag": "⬆️ 233 points",
+      "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time"
+    },
+    {
+      "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+      "hot": "2.9m",
+      "desc": "techspot.com",
+      "source": "tech",
+      "tag": "⬆️ 402 points",
+      "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html"
+    },
+    {
+      "title": "We have proof automation now",
+      "hot": "2.9m",
+      "desc": "imperialviolet.org",
+      "source": "tech",
+      "tag": "⬆️ 122 points",
+      "url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html"
     },
     {
       "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
       "hot": "2.9m",
       "desc": "swag.htmx.org",
       "source": "tech",
-      "tag": "⬆️ 345 points",
+      "tag": "⬆️ 393 points",
       "url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game"
     },
     {
-      "title": "Plasma Tunnels Reveal How Dying Satellites Fall to Earth",
+      "title": "Introduction to Data-Oriented Design [pdf]",
       "hot": "2.9m",
-      "desc": "spectrum.ieee.org",
+      "desc": "gamedevs.org",
       "source": "tech",
-      "tag": "⬆️ 38 points",
-      "url": "https://spectrum.ieee.org/space-debris-atmosphere-burn-up"
+      "tag": "⬆️ 142 points",
+      "url": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf"
     },
     {
-      "title": "I Championed Prediction Markets. Look What They've Become",
+      "title": "Design is compromise",
       "hot": "2.9m",
-      "desc": "newsletter.platypuseconomics.com",
+      "desc": "stephango.com",
       "source": "tech",
-      "tag": "⬆️ 4 points",
-      "url": "https://newsletter.platypuseconomics.com/p/i-championed-prediction-markets-look"
+      "tag": "⬆️ 214 points",
+      "url": "https://stephango.com/design-is-compromise"
+    },
+    {
+      "title": "Fonts In Use – Find out where a font is used",
+      "hot": "2.8m",
+      "desc": "fontsinuse.com",
+      "source": "tech",
+      "tag": "⬆️ 35 points",
+      "url": "https://fontsinuse.com/"
+    },
+    {
+      "title": "Simulate cassette tape audio profiles using FFmpeg",
+      "hot": "2.8m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 96 points",
+      "url": "https://github.com/AARomanov1985/Audio-Cassette-Simulation"
+    },
+    {
+      "title": "The Usefulness of Useless Knowledge (1939) [pdf]",
+      "hot": "2.8m",
+      "desc": "faculty.lsu.edu",
+      "source": "tech",
+      "tag": "⬆️ 45 points",
+      "url": "https://faculty.lsu.edu/kharms/files/flexner_1939.pdf"
+    },
+    {
+      "title": "Teaching Kids Forth",
+      "hot": "2.8m",
+      "desc": "gracefulliberty.com",
+      "source": "tech",
+      "tag": "⬆️ 69 points",
+      "url": "https://gracefulliberty.com/articles/teaching-kids-forth/"
     },
     {
       "title": "Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs",
       "hot": "2.8m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 100 points",
+      "tag": "⬆️ 121 points",
       "url": "https://github.com/gmrandazzo/CheapSecurity"
-    },
-    {
-      "title": "PGSimCity - How PostgreSQL Works",
-      "hot": "2.8m",
-      "desc": "nikolays.github.io",
-      "source": "tech",
-      "tag": "⬆️ 3 points",
-      "url": "https://nikolays.github.io/PGSimCity/"
-    },
-    {
-      "title": "US citizen charged after GrapheneOS phone wipes during airport search",
-      "hot": "2.8m",
-      "desc": "techspot.com",
-      "source": "tech",
-      "tag": "⬆️ 74 points",
-      "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html"
-    },
-    {
-      "title": "How to Block Some of the Bots",
-      "hot": "2.8m",
-      "desc": "nochan.net",
-      "source": "tech",
-      "tag": "⬆️ 73 points",
-      "url": "https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/"
-    },
-    {
-      "title": "How AST-grep Rewrote Tree-sitter in Rust and Made It 30% Faster",
-      "hot": "2.8m",
-      "desc": "astgrep.com",
-      "source": "tech",
-      "tag": "⬆️ 58 points",
-      "url": "https://astgrep.com/blog/tree-sitter-rust-rewrite"
     },
     {
       "title": "How to Write English Prose",
       "hot": "2.8m",
       "desc": "thelampmagazine.com",
       "source": "tech",
-      "tag": "⬆️ 66 points",
+      "tag": "⬆️ 94 points",
       "url": "https://thelampmagazine.com/blog/how-to-write-english-prose"
-    },
-    {
-      "title": "Show HN: Port Zero – how I learned to stop worrying and love PORT=0",
-      "hot": "2.7m",
-      "desc": "portzero.net",
-      "source": "tech",
-      "tag": "⬆️ 3 points",
-      "url": "https://portzero.net/"
     },
     {
       "title": "Go Analysis Framework: modular static analysis by go team",
       "hot": "2.7m",
       "desc": "pkg.go.dev",
       "source": "tech",
-      "tag": "⬆️ 174 points",
+      "tag": "⬆️ 190 points",
       "url": "https://pkg.go.dev/golang.org/x/tools/go/analysis"
     },
     {
@@ -321,8 +151,16 @@
       "hot": "2.7m",
       "desc": "softwarepreservation.computerhistory.org",
       "source": "tech",
-      "tag": "⬆️ 8 points",
+      "tag": "⬆️ 20 points",
       "url": "https://softwarepreservation.computerhistory.org/FP/"
+    },
+    {
+      "title": "Plasma Tunnels Reveal How Dying Satellites Fall to Earth",
+      "hot": "2.7m",
+      "desc": "spectrum.ieee.org",
+      "source": "tech",
+      "tag": "⬆️ 51 points",
+      "url": "https://spectrum.ieee.org/space-debris-atmosphere-burn-up"
     }
   ],
   "space": [
@@ -450,7 +288,7 @@
   "github": [
     {
       "title": "andrewyng/openworker: ",
-      "hot": "⭐ 6.7k",
+      "hot": "⭐ 7.1k",
       "desc": "andrewyng/openworker",
       "source": "github",
       "tag": "Python",
@@ -458,7 +296,7 @@
     },
     {
       "title": "slvDev/esp32-ai: ",
-      "hot": "⭐ 1.3k",
+      "hot": "⭐ 1.4k",
       "desc": "slvDev/esp32-ai",
       "source": "github",
       "tag": "Python",
@@ -474,7 +312,7 @@
     },
     {
       "title": "powerycy/goutoujunshi: 一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性",
-      "hot": "⭐ 942",
+      "hot": "⭐ 972",
       "desc": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
       "source": "github",
       "tag": "Python",
@@ -482,7 +320,7 @@
     },
     {
       "title": "Blaizzy/nativ: Local AI, native to your Mac. Chat, serve, monitor, and connect M",
-      "hot": "⭐ 919",
+      "hot": "⭐ 925",
       "desc": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
       "source": "github",
       "tag": "Swift",
@@ -490,7 +328,7 @@
     },
     {
       "title": "mikiarlo3/ai-copywriter: An AI copywriter that uses real copywriting skills + re",
-      "hot": "⭐ 853",
+      "hot": "⭐ 866",
       "desc": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
       "source": "github",
       "tag": "Python",
@@ -498,7 +336,7 @@
     },
     {
       "title": "pireel/pireel: Open-source, backend-free AI video editor for talking-head video ",
-      "hot": "⭐ 773",
+      "hot": "⭐ 779",
       "desc": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs",
       "source": "github",
       "tag": "TypeScript",
@@ -506,7 +344,7 @@
     },
     {
       "title": "mshumer/Claude-of-Duty: A Call of Duty-quality FPS in Three.js, built from a sin",
-      "hot": "⭐ 659",
+      "hot": "⭐ 728",
       "desc": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
       "source": "github",
       "tag": "JavaScript",
@@ -514,59 +352,221 @@
     },
     {
       "title": "gnipbao/story-to-handdrawn-video: Agent skill: convert Chinese story copy or ord",
-      "hot": "⭐ 653",
+      "hot": "⭐ 655",
       "desc": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
       "source": "github",
       "tag": "JavaScript",
       "url": "https://github.com/gnipbao/story-to-handdrawn-video"
     },
     {
-      "title": "CatsJuice/sticker-forge: A tactile WebGL sticker maker with rich text, image upl",
-      "hot": "⭐ 595",
-      "desc": "A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics.",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/CatsJuice/sticker-forge"
-    },
-    {
-      "title": "zeus-panel/ZEUS-PANEL: A high-performance, serverless VLESS network proxy manage",
-      "hot": "⭐ 594",
-      "desc": "A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database.",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/zeus-panel/ZEUS-PANEL"
-    },
-    {
-      "title": "0xhype/hyperliquid-tracker: Get notified when big trades happen on Hyperliquid.",
-      "hot": "⭐ 511",
-      "desc": "Get notified when big trades happen on Hyperliquid.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/0xhype/hyperliquid-tracker"
-    },
-    {
-      "title": "Charles-0509/Grok-Register: Grok free-register CLI: register → OAuth → CPA JSON ",
-      "hot": "⭐ 473",
-      "desc": "Grok free-register CLI: register → OAuth → CPA JSON (Go)",
-      "source": "github",
-      "tag": "Go",
-      "url": "https://github.com/Charles-0509/Grok-Register"
-    },
-    {
       "title": "makecindy/cindy: Consider it done. The open-source AI agent that works out of th",
-      "hot": "⭐ 449",
+      "hot": "⭐ 621",
       "desc": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/makecindy/cindy"
     },
     {
+      "title": "zeus-panel/ZEUS-PANEL: A high-performance, serverless VLESS network proxy manage",
+      "hot": "⭐ 599",
+      "desc": "A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database.",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/zeus-panel/ZEUS-PANEL"
+    },
+    {
+      "title": "CatsJuice/sticker-forge: A tactile WebGL sticker maker with rich text, image upl",
+      "hot": "⭐ 598",
+      "desc": "A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics.",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/CatsJuice/sticker-forge"
+    },
+    {
+      "title": "vercel-labs/scriptc: TypeScript-to-Native Compiler",
+      "hot": "⭐ 556",
+      "desc": "TypeScript-to-Native Compiler",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/vercel-labs/scriptc"
+    },
+    {
+      "title": "0xhype/hyperliquid-tracker: Get notified when big trades happen on Hyperliquid.",
+      "hot": "⭐ 513",
+      "desc": "Get notified when big trades happen on Hyperliquid.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/0xhype/hyperliquid-tracker"
+    },
+    {
       "title": "hahhforest/pi-textbook: 《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
-      "hot": "⭐ 442",
+      "hot": "⭐ 501",
       "desc": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/hahhforest/pi-textbook"
+    }
+  ],
+  "dev": [
+    {
+      "title": "Teaching Antigravity to Direct: A Stateful Video-Editing Skill Built on Gemini's Interactions API and MCP",
+      "hot": "❤️ 13 💬 0",
+      "desc": "How omni-skill-agy packages Google's gemini-omni-flash-preview as an Antigravity CLI skill + MCP server — what Omni Flas",
+      "source": "dev",
+      "tag": "ai,  gemini",
+      "url": "https://dev.to/gde/teaching-antigravity-to-direct-a-stateful-video-editing-skill-built-on-geminis-interactions-api-2ccn"
+    },
+    {
+      "title": "Teaching Google Antigravity to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
+      "hot": "❤️ 8 💬 3",
+      "desc": "How nb2lite-skill-agy packages Google's gemini-3.1-flash-lite-image as an Antigravity skill + MCP server — with multi-tu",
+      "source": "dev",
+      "tag": "ai,  antigravity",
+      "url": "https://dev.to/gde/teaching-google-antigravity-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-9g1"
+    },
+    {
+      "title": "Teaching Codex to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
+      "hot": "❤️ 12 💬 2",
+      "desc": "How nb2lite-skill-codex packages Google's gemini-3.1-flash-lite-image as a Codex skill + MCP server — with Codex-native ",
+      "source": "dev",
+      "tag": "ai,  codex",
+      "url": "https://dev.to/gde/teaching-codex-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-api-and-mcp-26lc"
+    },
+    {
+      "title": "I've Spent 10+ Years in Software Engineering. After Sickness, Burnout, and a Layoff, I'm Rebuilding My Career. Ask Me Anything",
+      "hot": "❤️ 96 💬 105",
+      "desc": "Hi, I'm Cesar, a Senior Software Engineer with 10+ years of experience.  In 2023, I got sick and...",
+      "source": "dev",
+      "tag": "discuss,  watercooler",
+      "url": "https://dev.to/canro91/ive-spent-10-years-in-software-engineering-after-sickness-burnout-and-a-layoff-im-rebuilding-efc"
+    },
+    {
+      "title": "TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
+      "source": "dev",
+      "tag": "python,  tpu",
+      "url": "https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-8-and-antigravity-cli-3e4n"
+    },
+    {
+      "title": "Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
+      "source": "dev",
+      "tag": "mcps,  googleantigravity",
+      "url": "https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-1-mcp-and-antigravity-cli-3hh3"
+    },
+    {
+      "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
+      "hot": "❤️ 123 💬 102",
+      "desc": "Imagine your AI assistant just produced 200 lines of code. Legally, you may not own a single line of...",
+      "source": "dev",
+      "tag": "discuss,  ai",
+      "url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj"
+    },
+    {
+      "title": "Teaching Claude Code to Direct: A Stateful Video-Editing Skill Built on Gemini’s Interactions API…",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Teaching Claude Code to Direct: A Stateful Video-Editing Skill Built on Gemini’s...",
+      "source": "dev",
+      "tag": "omnivideo,  agentskills",
+      "url": "https://dev.to/gde/teaching-claude-code-to-direct-a-stateful-video-editing-skill-built-on-geminis-interactions-api-1j9a"
+    },
+    {
+      "title": "Should I quit IT or just live through the burnout?",
+      "hot": "❤️ 183 💬 156",
+      "desc": "Some of you may have noticed I disappeared a bit from the community over the last couple of weeks....",
+      "source": "dev",
+      "tag": "mentalhealth,  career",
+      "url": "https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng"
+    },
+    {
+      "title": "Better than Next.js? Is Rust Finally Ready for Full-Stack Web Development? Introducing Topcoat",
+      "hot": "❤️ 17 💬 8",
+      "desc": "There is a super-new Rust Web Framework in town, and it's name is Topcoat  Rust is already a solid...",
+      "source": "dev",
+      "tag": "webdev,  programming",
+      "url": "https://dev.to/francescoxx/better-than-nextjs-is-rust-finally-ready-for-full-stack-web-development-introducing-topcoat-2h09"
+    },
+    {
+      "title": "Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]",
+      "hot": "❤️ 5 💬 0",
+      "desc": "Build Firebase AI Logic with Antigravity CLI   Note: Google Cloud credits are provided for...",
+      "source": "dev",
+      "tag": "ai,  angular",
+      "url": "https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o"
+    },
+    {
+      "title": "Teaching Claude Code to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
+      "hot": "❤️ 19 💬 1",
+      "desc": "How nb2lite-skill-claude packages Google's gemini-3.1-flash-lite-image as a Claude Code skill + MCP server — with multi-",
+      "source": "dev",
+      "tag": "ai,  claudecode",
+      "url": "https://dev.to/gde/teaching-claude-code-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-api-17g"
+    },
+    {
+      "title": "Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
+      "source": "dev",
+      "tag": "googleantigravity,  python",
+      "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82"
+    },
+    {
+      "title": "Gemma 4 E2B on a Single TPU v6e Chip: A Serving Deep Dive",
+      "hot": "❤️ 8 💬 1",
+      "desc": "What it took to deploy, why the QAT checkpoints refuse to load, and what one flex-start v6e chip is actually worth — mea",
+      "source": "dev",
+      "tag": "tpu,  llm",
+      "url": "https://dev.to/gde/gemma-4-e2b-on-a-single-tpu-v6e-chip-a-serving-deep-dive-53n"
+    },
+    {
+      "title": "MCP Configuration for Looker with Antigravity CLI",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article covers the MCP setup and configuration for using Looker and underlying Gemini LLM with...",
+      "source": "dev",
+      "tag": "looker,  lookml",
+      "url": "https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d"
+    },
+    {
+      "title": "tpu-management: a Claude Code skill for running Gemma 4 on Cloud TPUs",
+      "hot": "❤️ 7 💬 0",
+      "desc": "A Claude Code skill + MCP server that provisions Google Cloud TPU capacity, serves Gemma 4 with vLLM, benchmarks it, and",
+      "source": "dev",
+      "tag": "googlecloud,  tpu",
+      "url": "https://dev.to/gde/tpu-management-a-claude-code-skill-for-running-gemma-4-on-cloud-tpus-1b1e"
+    },
+    {
+      "title": "Investing in multi-agent AI safety research",
+      "hot": "❤️ 11 💬 2",
+      "desc": "Scaling AI Safety Research for a Multi-Agent World  For the past decade, we've focused on making...",
+      "source": "dev",
+      "tag": "ai,  agents",
+      "url": "https://dev.to/googleai/investing-in-multi-agent-ai-safety-research-312l"
+    },
+    {
+      "title": "What was your win this week??",
+      "hot": "❤️ 20 💬 15",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "discuss,  weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-5ak2"
+    },
+    {
+      "title": "How to Respectfully Contribute to Open Source",
+      "hot": "❤️ 8 💬 1",
+      "desc": "Below are some practices we have found essential in order to respectfully contribute to Open Source....",
+      "source": "dev",
+      "tag": "opensource",
+      "url": "https://dev.to/opensourcepledge/how-to-respectfully-contribute-to-open-source-cbh"
+    },
+    {
+      "title": "Why AI Apps Fail in Production (And How Google Solved It)",
+      "hot": "❤️ 8 💬 2",
+      "desc": "We are living in the golden age of the weekend AI side project. Thanks to vibe coding and LLMs, you...",
+      "source": "dev",
+      "tag": "ai,  vibecoding",
+      "url": "https://dev.to/googleai/why-ai-apps-fail-in-production-and-how-google-solved-it-5a3m"
     }
   ]
 }
