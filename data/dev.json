@@ -1,16 +1,72 @@
 {
   "data": [
     {
+      "title": "I Built Something Good With AI. Now Some Developer Communities Don't Want to See It.",
+      "hot": "❤️ 27 💬 23",
+      "desc": "I recently tried to share an open-source project I've been working on called Open Vectorizer.  It's a...",
+      "source": "dev",
+      "tag": "ai,  opensource",
+      "url": "https://dev.to/madsendev/i-built-something-good-with-ai-now-some-developer-communities-dont-want-to-see-it-20mo"
+    },
+    {
+      "title": "How terminal-sharing tools put your shell in a browser",
+      "hot": "❤️ 56 💬 5",
+      "desc": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
+      "source": "dev",
+      "tag": "webdev,  programming",
+      "url": "https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328"
+    },
+    {
       "title": "Meme Monday",
-      "hot": "❤️ 17 💬 8",
+      "hot": "❤️ 20 💬 10",
       "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
       "source": "dev",
       "tag": "discuss,  jokes",
       "url": "https://dev.to/ben/meme-monday-mm5"
     },
     {
+      "title": "Beyond Prompt Injection: The Non-Human Authorization Gap in Enterprise AI",
+      "hot": "❤️ 6 💬 0",
+      "desc": "How to secure AI multi-agent delegation chains using OAuth 2.1 RFC 8693 Token Exchange and Non-Human Authorization (NHA)",
+      "source": "dev",
+      "tag": "ai,  security",
+      "url": "https://dev.to/gde/beyond-prompt-injection-the-non-human-authorization-gap-in-enterprise-ai-3g5c"
+    },
+    {
+      "title": "Auditing Agent Skills: A Threat Model for the Next Generation of AI Package Managers",
+      "hot": "❤️ 9 💬 0",
+      "desc": "Let me start with a question.  If a stranger handed you a USB drive and said \"plug this in, it just...",
+      "source": "dev",
+      "tag": "discuss,  ai",
+      "url": "https://dev.to/gde/auditing-agent-skills-a-threat-model-for-the-next-generation-of-ai-package-managers-2g25"
+    },
+    {
+      "title": "Google ADK: Introduction to AI Agent Development",
+      "hot": "❤️ 1 💬 0",
+      "desc": "Nota: ✋ This post was originally published on my blog wiki-cloud.co           ...",
+      "source": "dev",
+      "tag": "ai,  agents",
+      "url": "https://dev.to/gde/google-adk-introduction-to-ai-agent-development-1b4e"
+    },
+    {
+      "title": "Zero-Trust Data Sovereignty: Enforcing Localized MCP Tool Policies in Multi-Region Stacks",
+      "hot": "❤️ 11 💬 0",
+      "desc": "Agentic AI has quietly broken a lot of assumptions that data governance teams spent the last decade...",
+      "source": "dev",
+      "tag": "Dev.to",
+      "url": "https://dev.to/gde/zero-trust-data-sovereignty-enforcing-localized-mcp-tool-policies-in-multi-region-stacks-4jbn"
+    },
+    {
+      "title": "I Run Bare-Metal Kubernetes on $200 of Scrap Hardware (And Why I Burned 3 SD Cards Learning)",
+      "hot": "❤️ 31 💬 5",
+      "desc": "I Run Bare-Metal Kubernetes on $200 of Scrap Hardware (And Why I Burned 3 SD Cards...",
+      "source": "dev",
+      "tag": "kubernetes,  homelab",
+      "url": "https://dev.to/le_beltagy/i-run-bare-metal-kubernetes-on-200-of-scrap-hardware-and-why-i-burned-3-sd-cards-learning-34cb"
+    },
+    {
       "title": "I've Spent 10+ Years in Software Engineering. After Sickness, Burnout, and a Layoff, I'm Rebuilding My Career. Ask Me Anything",
-      "hot": "❤️ 96 💬 105",
+      "hot": "❤️ 101 💬 105",
       "desc": "Hi, I'm Cesar, a Senior Software Engineer with 10+ years of experience.  In 2023, I got sick and...",
       "source": "dev",
       "tag": "discuss,  watercooler",
@@ -49,6 +105,14 @@
       "url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj"
     },
     {
+      "title": "Every AI Commit Is Someone's Future Legacy Code",
+      "hot": "❤️ 5 💬 4",
+      "desc": "AI can finally read 25-year-old codebases. But daily AI coding is quietly creating a new kind of legacy code, faster tha",
+      "source": "dev",
+      "tag": "ai,  programming",
+      "url": "https://dev.to/eayurt/every-ai-commit-is-someones-future-legacy-code-444l"
+    },
+    {
       "title": "Teaching Google Antigravity to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
       "hot": "❤️ 9 💬 3",
       "desc": "How nb2lite-skill-agy packages Google's gemini-3.1-flash-lite-image as an Antigravity skill + MCP server — with multi-tu",
@@ -81,85 +145,21 @@
       "url": "https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o"
     },
     {
+      "title": "The Six Flavors of Dependency Injection in Flutter",
+      "hot": "❤️ 7 💬 2",
+      "desc": "Dependency injection isn't just one pattern or package. Here is a breakdown of all six distinct DI mechanisms in Dart & ",
+      "source": "dev",
+      "tag": "flutter,  dart",
+      "url": "https://dev.to/gde/the-six-flavors-of-dependency-injection-in-flutter-lea"
+    },
+    {
       "title": "Teaching Claude Code to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
       "hot": "❤️ 19 💬 1",
       "desc": "How nb2lite-skill-claude packages Google's gemini-3.1-flash-lite-image as a Claude Code skill + MCP server — with multi-",
       "source": "dev",
       "tag": "ai,  claudecode",
       "url": "https://dev.to/gde/teaching-claude-code-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-api-17g"
-    },
-    {
-      "title": "Teaching Codex to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
-      "hot": "❤️ 12 💬 2",
-      "desc": "How nb2lite-skill-codex packages Google's gemini-3.1-flash-lite-image as a Codex skill + MCP server — with Codex-native ",
-      "source": "dev",
-      "tag": "ai,  codex",
-      "url": "https://dev.to/gde/teaching-codex-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-api-and-mcp-26lc"
-    },
-    {
-      "title": "Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "source": "dev",
-      "tag": "googleantigravity,  python",
-      "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82"
-    },
-    {
-      "title": "Gemma 4 E2B on a Single TPU v6e Chip: A Serving Deep Dive",
-      "hot": "❤️ 8 💬 1",
-      "desc": "What it took to deploy, why the QAT checkpoints refuse to load, and what one flex-start v6e chip is actually worth — mea",
-      "source": "dev",
-      "tag": "tpu,  llm",
-      "url": "https://dev.to/gde/gemma-4-e2b-on-a-single-tpu-v6e-chip-a-serving-deep-dive-53n"
-    },
-    {
-      "title": "MCP Configuration for Looker with Antigravity CLI",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article covers the MCP setup and configuration for using Looker and underlying Gemini LLM with...",
-      "source": "dev",
-      "tag": "looker,  lookml",
-      "url": "https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d"
-    },
-    {
-      "title": "tpu-management: a Claude Code skill for running Gemma 4 on Cloud TPUs",
-      "hot": "❤️ 7 💬 0",
-      "desc": "A Claude Code skill + MCP server that provisions Google Cloud TPU capacity, serves Gemma 4 with vLLM, benchmarks it, and",
-      "source": "dev",
-      "tag": "googlecloud,  tpu",
-      "url": "https://dev.to/gde/tpu-management-a-claude-code-skill-for-running-gemma-4-on-cloud-tpus-1b1e"
-    },
-    {
-      "title": "Investing in multi-agent AI safety research",
-      "hot": "❤️ 11 💬 2",
-      "desc": "Scaling AI Safety Research for a Multi-Agent World  For the past decade, we've focused on making...",
-      "source": "dev",
-      "tag": "ai,  agents",
-      "url": "https://dev.to/googleai/investing-in-multi-agent-ai-safety-research-312l"
-    },
-    {
-      "title": "Teaching Antigravity to Direct: A Stateful Video-Editing Skill Built on Gemini's Interactions API and MCP",
-      "hot": "❤️ 14 💬 0",
-      "desc": "How omni-skill-agy packages Google's gemini-omni-flash-preview as an Antigravity CLI skill + MCP server — what Omni Flas",
-      "source": "dev",
-      "tag": "ai,  gemini",
-      "url": "https://dev.to/gde/teaching-antigravity-to-direct-a-stateful-video-editing-skill-built-on-geminis-interactions-api-2ccn"
-    },
-    {
-      "title": "What was your win this week??",
-      "hot": "❤️ 20 💬 15",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "discuss,  weeklyretro",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-5ak2"
-    },
-    {
-      "title": "How to Respectfully Contribute to Open Source",
-      "hot": "❤️ 8 💬 1",
-      "desc": "Below are some practices we have found essential in order to respectfully contribute to Open Source....",
-      "source": "dev",
-      "tag": "opensource",
-      "url": "https://dev.to/opensourcepledge/how-to-respectfully-contribute-to-open-source-cbh"
     }
   ],
-  "updatedAt": "2026-07-27T14:02:26.655Z"
+  "updatedAt": "2026-07-27T16:36:05.171Z"
 }
