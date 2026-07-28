@@ -2,19 +2,59 @@
   "data": [
     {
       "title": "Passkeys Explained Simply",
-      "hot": "❤️ 49 💬 9",
+      "hot": "❤️ 50 💬 11",
       "desc": "You’ve probably seen that little prompt that says “Sign in with Face ID” or “Use a passkey” instead...",
       "source": "dev",
       "tag": "security,  api",
       "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk"
     },
     {
-      "title": "I Built Something Good With AI. Now Some Developer Communities Don't Want to See It.",
-      "hot": "❤️ 42 💬 34",
-      "desc": "I recently tried to share an open-source project I've been working on called Open Vectorizer.  It's a...",
+      "title": "Your Face on a World Cup Sticker: Our Nano Banana Story",
+      "hot": "❤️ 8 💬 0",
+      "desc": "There is something timeless about opening a pack of football stickers. You never know which player,...",
       "source": "dev",
-      "tag": "ai,  opensource",
-      "url": "https://dev.to/madsendev/i-built-something-good-with-ai-now-some-developer-communities-dont-want-to-see-it-20mo"
+      "tag": "ai,  nanobanana",
+      "url": "https://dev.to/gde/your-face-on-a-world-cup-sticker-our-nano-banana-story-43p6"
+    },
+    {
+      "title": "[Learning Notes][Golang] Authorization Challenges in the AI Agent Era: What is ID-JAG and Why I Re-implemented It in Go",
+      "hot": "❤️ 7 💬 2",
+      "desc": "Preface:   In the past six months or so, connecting AI Agents directly to internal systems...",
+      "source": "dev",
+      "tag": "agents,  ai",
+      "url": "https://dev.to/gde/learning-notesgolang-authorization-challenges-in-the-ai-agent-era-what-is-id-jag-and-why-i-jfb"
+    },
+    {
+      "title": "Can Google ADK Talk to Microsoft Foundry on Azure? A Cross-Cloud A2A Benchmark",
+      "hot": "❤️ 8 💬 2",
+      "desc": "This article provides a step-by-step guide to building and testing a cross-cloud currency agent. A...",
+      "source": "dev",
+      "tag": "agents,  googleadk",
+      "url": "https://dev.to/gde/can-google-adk-talk-to-microsoft-foundry-on-azure-a-cross-cloud-a2a-benchmark-4h36"
+    },
+    {
+      "title": "[Dev Log][Node.js] Feedly Classic is gone, so I built my own FeedFlow (Part 1)",
+      "hot": "❤️ 8 💬 0",
+      "desc": "Introduction:   Since Feedly's redesign, I haven't been able to get used to the interface....",
+      "source": "dev",
+      "tag": "javascript,  node",
+      "url": "https://dev.to/gde/dev-lognodejs-feedly-classic-is-gone-so-i-built-my-own-feedflow-part-1-55h4"
+    },
+    {
+      "title": "Beyond System Prompts: Enforcing Policy & Action Boundaries in Enterprise AI Agents",
+      "hot": "❤️ 7 💬 0",
+      "desc": "Why prompt-based guardrails fail for AI agents and how to enforce deterministic tool adapter validation, 4-tier risk cla",
+      "source": "dev",
+      "tag": "ai,  security",
+      "url": "https://dev.to/gde/beyond-system-prompts-enforcing-policy-action-boundaries-in-enterprise-ai-agents-29ac"
+    },
+    {
+      "title": "Seamless Flutter Hooks Integration with BlocSignal via signals_hooks",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Discover how BlocSignal and signals_hooks eliminate flutter_bloc glue code, stream overhead, and widget tree nesting in ",
+      "source": "dev",
+      "tag": "flutter,  dart",
+      "url": "https://dev.to/gde/seamless-flutter-hooks-integration-with-blocsignal-via-signalshooks-55e"
     },
     {
       "title": "Top 7 Featured DEV Posts of the Week",
@@ -25,12 +65,28 @@
       "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-257h"
     },
     {
+      "title": "Building AI Agents with the TypeScript Agent Development Kit (ADK)",
+      "hot": "❤️ 8 💬 2",
+      "desc": "Build, test, and deploy AI agents using Google's native TypeScript Agent Development Kit (ADK), Gemini 2.5 Flash, and Cl",
+      "source": "dev",
+      "tag": "typescript,  ai",
+      "url": "https://dev.to/gde/building-ai-agents-with-the-typescript-agent-development-kit-adk-3mf"
+    },
+    {
       "title": "Meme Monday",
       "hot": "❤️ 42 💬 13",
       "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
       "source": "dev",
       "tag": "discuss,  jokes",
       "url": "https://dev.to/ben/meme-monday-mm5"
+    },
+    {
+      "title": "Build and Deploy Java AI Agents with Google ADK",
+      "hot": "❤️ 8 💬 0",
+      "desc": "Set up Java and Google ADK on Debian 13, run an agent locally, test it with JUnit, and deploy it to Cloud Run.",
+      "source": "dev",
+      "tag": "java,  ai",
+      "url": "https://dev.to/gde/build-and-deploy-java-ai-agents-with-google-adk-28oi"
     },
     {
       "title": "How terminal-sharing tools put your shell in a browser",
@@ -42,7 +98,7 @@
     },
     {
       "title": "Auditing Agent Skills: A Threat Model for the Next Generation of AI Package Managers",
-      "hot": "❤️ 27 💬 0",
+      "hot": "❤️ 27 💬 1",
       "desc": "Let me start with a question.  If a stranger handed you a USB drive and said \"plug this in, it just...",
       "source": "dev",
       "tag": "discuss,  ai",
@@ -103,63 +159,7 @@
       "source": "dev",
       "tag": "mcp,  ai",
       "url": "https://dev.to/gde/zero-trust-data-sovereignty-enforcing-localized-mcp-tool-policies-in-multi-region-stacks-4jbn"
-    },
-    {
-      "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
-      "hot": "❤️ 126 💬 104",
-      "desc": "Imagine your AI assistant just produced 200 lines of code. Legally, you may not own a single line of...",
-      "source": "dev",
-      "tag": "discuss,  ai",
-      "url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj"
-    },
-    {
-      "title": "I Run Bare-Metal Kubernetes on $200 of Scrap Hardware (And Why I Burned 3 SD Cards Learning)",
-      "hot": "❤️ 38 💬 5",
-      "desc": "I Run Bare-Metal Kubernetes on $200 of Scrap Hardware (And Why I Burned 3 SD Cards...",
-      "source": "dev",
-      "tag": "kubernetes,  homelab",
-      "url": "https://dev.to/le_beltagy/i-run-bare-metal-kubernetes-on-200-of-scrap-hardware-and-why-i-burned-3-sd-cards-learning-34cb"
-    },
-    {
-      "title": "Every AI Commit Is Someone's Future Legacy Code",
-      "hot": "❤️ 6 💬 4",
-      "desc": "AI can finally read 25-year-old codebases. But daily AI coding is quietly creating a new kind of legacy code, faster tha",
-      "source": "dev",
-      "tag": "ai,  programming",
-      "url": "https://dev.to/eayurt/every-ai-commit-is-someones-future-legacy-code-444l"
-    },
-    {
-      "title": "Teaching Google Antigravity to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
-      "hot": "❤️ 9 💬 3",
-      "desc": "How nb2lite-skill-agy packages Google's gemini-3.1-flash-lite-image as an Antigravity skill + MCP server — with multi-tu",
-      "source": "dev",
-      "tag": "ai,  antigravity",
-      "url": "https://dev.to/gde/teaching-google-antigravity-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-9g1"
-    },
-    {
-      "title": "Should I quit IT or just live through the burnout?",
-      "hot": "❤️ 183 💬 157",
-      "desc": "Some of you may have noticed I disappeared a bit from the community over the last couple of weeks....",
-      "source": "dev",
-      "tag": "mentalhealth,  career",
-      "url": "https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng"
-    },
-    {
-      "title": "Better than Next.js? Is Rust Finally Ready for Full-Stack Web Development? Introducing Topcoat",
-      "hot": "❤️ 17 💬 8",
-      "desc": "There is a super-new Rust Web Framework in town, and it's name is Topcoat  Rust is already a solid...",
-      "source": "dev",
-      "tag": "webdev,  programming",
-      "url": "https://dev.to/francescoxx/better-than-nextjs-is-rust-finally-ready-for-full-stack-web-development-introducing-topcoat-2h09"
-    },
-    {
-      "title": "Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]",
-      "hot": "❤️ 5 💬 0",
-      "desc": "Build Firebase AI Logic with Antigravity CLI   Note: Google Cloud credits are provided for...",
-      "source": "dev",
-      "tag": "ai,  angular",
-      "url": "https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o"
     }
   ],
-  "updatedAt": "2026-07-28T12:17:21.700Z"
+  "updatedAt": "2026-07-28T14:45:40.288Z"
 }
