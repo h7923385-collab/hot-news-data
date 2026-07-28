@@ -1,315 +1,14 @@
 {
-  "updatedAt": "2026-07-27T23:50:49.232Z",
+  "updatedAt": "2026-07-28T01:12:10.281Z",
   "source": "live",
-  "space": [
-    {
-      "title": "暂无 space 数据",
-      "hot": "",
-      "desc": "数据加载中，请稍后刷新",
-      "source": "space",
-      "tag": "loading"
-    }
-  ],
-  "tech": [
-    {
-      "title": "Our position on open-weights models",
-      "hot": "3.0m",
-      "desc": "anthropic.com",
-      "source": "tech",
-      "tag": "⬆️ 298 points",
-      "url": "https://www.anthropic.com/news/position-open-weights-models"
-    },
-    {
-      "title": "DConf 2026 in London",
-      "hot": "3.0m",
-      "desc": "dconf.org",
-      "source": "tech",
-      "tag": "⬆️ 19 points",
-      "url": "https://dconf.org/2026/index.html"
-    },
-    {
-      "title": "Watching Go's new garbage collector move through the heap",
-      "hot": "3.0m",
-      "desc": "theconsensus.dev",
-      "source": "tech",
-      "tag": "⬆️ 151 points",
-      "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html"
-    },
-    {
-      "title": "Benchmarking Opus 5 on SlopCodeBench",
-      "hot": "3.0m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 19 points",
-      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md"
-    },
-    {
-      "title": "America has become an entrepreneur's paradise",
-      "hot": "2.9m",
-      "desc": "economist.com",
-      "source": "tech",
-      "tag": "⬆️ 21 points",
-      "url": "https://www.economist.com/business/2026/07/27/america-has-become-an-entrepreneurs-paradise"
-    },
-    {
-      "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
-      "hot": "2.9m",
-      "desc": "rise-reforming.com",
-      "source": "tech",
-      "tag": "⬆️ 54 points",
-      "url": "https://www.rise-reforming.com"
-    },
-    {
-      "title": "C/C++ projects packaged for Zig",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 8 points",
-      "url": "https://github.com/allyourcodebase"
-    },
-    {
-      "title": "Securing Services with Rootless Containers",
-      "hot": "2.9m",
-      "desc": "blog.coderspirit.xyz",
-      "source": "tech",
-      "tag": "⬆️ 47 points",
-      "url": "https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/"
-    },
-    {
-      "title": "Hard Road – A beautiful procedural post-apocalyptic game",
-      "hot": "2.9m",
-      "desc": "hardroad.xyz",
-      "source": "tech",
-      "tag": "⬆️ 13 points",
-      "url": "https://hardroad.xyz/"
-    },
-    {
-      "title": "Self-contained highly-portable Python distributions",
-      "hot": "2.9m",
-      "desc": "gregoryszorc.com",
-      "source": "tech",
-      "tag": "⬆️ 99 points",
-      "url": "https://gregoryszorc.com/docs/python-build-standalone/main/"
-    },
-    {
-      "title": "Glue bonds to nonstick surfaces and wipes clean with ethanol",
-      "hot": "2.9m",
-      "desc": "cen.acs.org",
-      "source": "tech",
-      "tag": "⬆️ 142 points",
-      "url": "https://cen.acs.org/materials/adhesives/glue-bonds-nonstick-surfaces-wipes-clean/104/web/2026/07"
-    },
-    {
-      "title": "Ray tracing massive amounts of animated geometry using tetrahedral cages",
-      "hot": "2.8m",
-      "desc": "gpuopen.com",
-      "source": "tech",
-      "tag": "⬆️ 60 points",
-      "url": "https://gpuopen.com/learn/ray-tracing-massive-amounts-animated-geometry/"
-    },
-    {
-      "title": "Show HN: Dowe – A full-stack language for server, web, desktop, Android, and iOS",
-      "hot": "2.8m",
-      "desc": "dowe.dev",
-      "source": "tech",
-      "tag": "⬆️ 4 points",
-      "url": "https://www.dowe.dev"
-    },
-    {
-      "title": "Samsung reveals Galaxy Z Fold 8 that will compete with the iPhone Ultra",
-      "hot": "2.8m",
-      "desc": "mashable.com",
-      "source": "tech",
-      "tag": "⬆️ 6 points",
-      "url": "https://mashable.com/tech/samsung-galaxy-z-fold-8-launch-price-specifications"
-    },
-    {
-      "title": "The computer that helped win World War II",
-      "hot": "2.8m",
-      "desc": "spectrum.ieee.org",
-      "source": "tech",
-      "tag": "⬆️ 164 points",
-      "url": "https://spectrum.ieee.org/colossus-computer-ieee-milestone"
-    },
-    {
-      "title": "Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped",
-      "hot": "2.8m",
-      "desc": "techdirt.com",
-      "source": "tech",
-      "tag": "⬆️ 232 points",
-      "url": "https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/"
-    },
-    {
-      "title": "Show HN: FeyNoBg – Automatic background removal model and training library",
-      "hot": "2.8m",
-      "desc": "usefeyn.com",
-      "source": "tech",
-      "tag": "⬆️ 82 points",
-      "url": "https://usefeyn.com/blog/feynobg/"
-    },
-    {
-      "title": "Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles",
-      "hot": "2.7m",
-      "desc": "eaton-works.com",
-      "source": "tech",
-      "tag": "⬆️ 124 points",
-      "url": "https://eaton-works.com/2026/07/27/my-eicher-hack/"
-    },
-    {
-      "title": "Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)",
-      "hot": "2.7m",
-      "desc": "misago-project.org",
-      "source": "tech",
-      "tag": "⬆️ 213 points",
-      "url": "https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/"
-    },
-    {
-      "title": "UpCodes (YC S17) is hiring remote AE's to help make buildings cheaper",
-      "hot": "2.7m",
-      "desc": "up.codes",
-      "source": "tech",
-      "tag": "⬆️ 1 points",
-      "url": "https://up.codes/careers?utm_source=HN"
-    }
-  ],
-  "github": [
-    {
-      "title": "andrewyng/openworker: ",
-      "hot": "⭐ 8.6k",
-      "desc": "andrewyng/openworker",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/andrewyng/openworker"
-    },
-    {
-      "title": "slvDev/esp32-ai: ",
-      "hot": "⭐ 1.7k",
-      "desc": "slvDev/esp32-ai",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/slvDev/esp32-ai"
-    },
-    {
-      "title": "vercel-labs/scriptc: TypeScript-to-Native Compiler",
-      "hot": "⭐ 1.7k",
-      "desc": "TypeScript-to-Native Compiler",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/vercel-labs/scriptc"
-    },
-    {
-      "title": "Jakubantalik/thinking-orbs: Dotted thought-orb loading indicators for AI & agent",
-      "hot": "⭐ 1.2k",
-      "desc": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/Jakubantalik/thinking-orbs"
-    },
-    {
-      "title": "MoonshotAI/Kimi-K3: Open Frontier Intelligence",
-      "hot": "⭐ 1.1k",
-      "desc": "Open Frontier Intelligence",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/MoonshotAI/Kimi-K3"
-    },
-    {
-      "title": "powerycy/goutoujunshi: 一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性",
-      "hot": "⭐ 1.1k",
-      "desc": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/powerycy/goutoujunshi"
-    },
-    {
-      "title": "mshumer/Claude-of-Duty: A Call of Duty-quality FPS in Three.js, built from a sin",
-      "hot": "⭐ 1.0k",
-      "desc": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/mshumer/Claude-of-Duty"
-    },
-    {
-      "title": "Blaizzy/nativ: Local AI, native to your Mac. Chat, serve, monitor, and connect M",
-      "hot": "⭐ 958",
-      "desc": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
-      "source": "github",
-      "tag": "Swift",
-      "url": "https://github.com/Blaizzy/nativ"
-    },
-    {
-      "title": "mikiarlo3/ai-copywriter: An AI copywriter that uses real copywriting skills + re",
-      "hot": "⭐ 935",
-      "desc": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/mikiarlo3/ai-copywriter"
-    },
-    {
-      "title": "makecindy/cindy: Consider it done. The open-source AI agent that works out of th",
-      "hot": "⭐ 838",
-      "desc": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/makecindy/cindy"
-    },
-    {
-      "title": "pireel/pireel: Open-source, backend-free AI video editor for talking-head video ",
-      "hot": "⭐ 793",
-      "desc": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/pireel/pireel"
-    },
-    {
-      "title": "gnipbao/story-to-handdrawn-video: Agent skill: convert Chinese story copy or ord",
-      "hot": "⭐ 667",
-      "desc": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/gnipbao/story-to-handdrawn-video"
-    },
-    {
-      "title": "VictorTaelin/OptMem: Permanent memory for AI agents. A 426-token prompt, a scrip",
-      "hot": "⭐ 641",
-      "desc": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/VictorTaelin/OptMem"
-    },
-    {
-      "title": "zeus-panel/ZEUS-PANEL: A high-performance, serverless VLESS network proxy manage",
-      "hot": "⭐ 635",
-      "desc": "A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database.",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/zeus-panel/ZEUS-PANEL"
-    },
-    {
-      "title": "CatsJuice/sticker-forge: A tactile WebGL sticker maker with rich text, image upl",
-      "hot": "⭐ 614",
-      "desc": "A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics.",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/CatsJuice/sticker-forge"
-    }
-  ],
   "dev": [
     {
       "title": "Passkeys Explained Simply",
-      "hot": "❤️ 30 💬 0",
+      "hot": "❤️ 31 💬 0",
       "desc": "You’ve probably seen that little prompt that says “Sign in with Face ID” or “Use a passkey” instead...",
       "source": "dev",
       "tag": "security,  api",
       "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk"
-    },
-    {
-      "title": "How terminal-sharing tools put your shell in a browser",
-      "hot": "❤️ 56 💬 5",
-      "desc": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
-      "source": "dev",
-      "tag": "webdev,  programming",
-      "url": "https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328"
     },
     {
       "title": "Top 7 Featured DEV Posts of the Week",
@@ -320,20 +19,20 @@
       "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-257h"
     },
     {
-      "title": "Meme Monday",
-      "hot": "❤️ 39 💬 11",
-      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
-      "source": "dev",
-      "tag": "discuss,  jokes",
-      "url": "https://dev.to/ben/meme-monday-mm5"
-    },
-    {
       "title": "Auditing Agent Skills: A Threat Model for the Next Generation of AI Package Managers",
       "hot": "❤️ 26 💬 0",
       "desc": "Let me start with a question.  If a stranger handed you a USB drive and said \"plug this in, it just...",
       "source": "dev",
       "tag": "discuss,  ai",
       "url": "https://dev.to/gde/auditing-agent-skills-a-threat-model-for-the-next-generation-of-ai-package-managers-2g25"
+    },
+    {
+      "title": "Meme Monday",
+      "hot": "❤️ 39 💬 11",
+      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
+      "source": "dev",
+      "tag": "discuss,  jokes",
+      "url": "https://dev.to/ben/meme-monday-mm5"
     },
     {
       "title": "Beyond Prompt Injection: The Non-Human Authorization Gap in Enterprise AI",
@@ -345,11 +44,19 @@
     },
     {
       "title": "I Built Something Good With AI. Now Some Developer Communities Don't Want to See It.",
-      "hot": "❤️ 29 💬 28",
+      "hot": "❤️ 33 💬 28",
       "desc": "I recently tried to share an open-source project I've been working on called Open Vectorizer.  It's a...",
       "source": "dev",
       "tag": "ai,  opensource",
       "url": "https://dev.to/madsendev/i-built-something-good-with-ai-now-some-developer-communities-dont-want-to-see-it-20mo"
+    },
+    {
+      "title": "How terminal-sharing tools put your shell in a browser",
+      "hot": "❤️ 57 💬 5",
+      "desc": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
+      "source": "dev",
+      "tag": "webdev,  programming",
+      "url": "https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328"
     },
     {
       "title": "Zero-Trust Data Sovereignty: Enforcing Localized MCP Tool Policies in Multi-Region Stacks",
@@ -361,7 +68,7 @@
     },
     {
       "title": "Google ADK: Introduction to AI Agent Development",
-      "hot": "❤️ 28 💬 0",
+      "hot": "❤️ 29 💬 0",
       "desc": "Nota: ✋ This post was originally published on my blog wiki-cloud.co           ...",
       "source": "dev",
       "tag": "ai,  agents",
@@ -454,6 +161,412 @@
       "source": "dev",
       "tag": "ai,  angular",
       "url": "https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o"
+    }
+  ],
+  "tech": [
+    {
+      "title": "Our position on open-weights models",
+      "hot": "3.0m",
+      "desc": "anthropic.com",
+      "source": "tech",
+      "tag": "⬆️ 405 points",
+      "url": "https://www.anthropic.com/news/position-open-weights-models"
+    },
+    {
+      "title": "Benchmarking Opus 5 on SlopCodeBench",
+      "hot": "3.0m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 90 points",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md"
+    },
+    {
+      "title": "DConf 2026 in London",
+      "hot": "3.0m",
+      "desc": "dconf.org",
+      "source": "tech",
+      "tag": "⬆️ 39 points",
+      "url": "https://dconf.org/2026/index.html"
+    },
+    {
+      "title": "Watching Go's new garbage collector move through the heap",
+      "hot": "3.0m",
+      "desc": "theconsensus.dev",
+      "source": "tech",
+      "tag": "⬆️ 165 points",
+      "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html"
+    },
+    {
+      "title": "C/C++ projects packaged for Zig",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 20 points",
+      "url": "https://github.com/allyourcodebase"
+    },
+    {
+      "title": "Astronauts describe persistent 'observer' sensation after 6 month missions",
+      "hot": "2.9m",
+      "desc": "spacedaily.com",
+      "source": "tech",
+      "tag": "⬆️ 24 points",
+      "url": "https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/"
+    },
+    {
+      "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
+      "hot": "2.9m",
+      "desc": "rise-reforming.com",
+      "source": "tech",
+      "tag": "⬆️ 57 points",
+      "url": "https://www.rise-reforming.com"
+    },
+    {
+      "title": "Self-contained highly-portable Python distributions",
+      "hot": "2.9m",
+      "desc": "gregoryszorc.com",
+      "source": "tech",
+      "tag": "⬆️ 109 points",
+      "url": "https://gregoryszorc.com/docs/python-build-standalone/main/"
+    },
+    {
+      "title": "The Burau representation of the braid group is faithful for n = 4",
+      "hot": "2.9m",
+      "desc": "arxiv.org",
+      "source": "tech",
+      "tag": "⬆️ 8 points",
+      "url": "https://arxiv.org/abs/2607.05283"
+    },
+    {
+      "title": "Show HN: Dowe – A full-stack language for server, web, desktop, Android, and iOS",
+      "hot": "2.9m",
+      "desc": "dowe.dev",
+      "source": "tech",
+      "tag": "⬆️ 20 points",
+      "url": "https://www.dowe.dev"
+    },
+    {
+      "title": "Glue bonds to nonstick surfaces and wipes clean with ethanol",
+      "hot": "2.9m",
+      "desc": "cen.acs.org",
+      "source": "tech",
+      "tag": "⬆️ 149 points",
+      "url": "https://cen.acs.org/materials/adhesives/glue-bonds-nonstick-surfaces-wipes-clean/104/web/2026/07"
+    },
+    {
+      "title": "Netflix employee fired for sharing personal details in retreat trust exercise",
+      "hot": "2.8m",
+      "desc": "inc.com",
+      "source": "tech",
+      "tag": "⬆️ 126 points",
+      "url": "https://www.inc.com/amaya-nichole/netflix-company-retreat-sparked-lawsuit-experts-say-real-damage-may-be-just-beginning/91380349"
+    },
+    {
+      "title": "Securing Services with Rootless Containers",
+      "hot": "2.8m",
+      "desc": "blog.coderspirit.xyz",
+      "source": "tech",
+      "tag": "⬆️ 56 points",
+      "url": "https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/"
+    },
+    {
+      "title": "Ray tracing massive amounts of animated geometry using tetrahedral cages",
+      "hot": "2.8m",
+      "desc": "gpuopen.com",
+      "source": "tech",
+      "tag": "⬆️ 63 points",
+      "url": "https://gpuopen.com/learn/ray-tracing-massive-amounts-animated-geometry/"
+    },
+    {
+      "title": "Hard Road – A beautiful procedural post-apocalyptic game",
+      "hot": "2.8m",
+      "desc": "hardroad.xyz",
+      "source": "tech",
+      "tag": "⬆️ 27 points",
+      "url": "https://hardroad.xyz/"
+    },
+    {
+      "title": "The computer that helped win World War II",
+      "hot": "2.8m",
+      "desc": "spectrum.ieee.org",
+      "source": "tech",
+      "tag": "⬆️ 170 points",
+      "url": "https://spectrum.ieee.org/colossus-computer-ieee-milestone"
+    },
+    {
+      "title": "A missing underscore sent innocent man to prison for 18 months",
+      "hot": "2.8m",
+      "desc": "arstechnica.com",
+      "source": "tech",
+      "tag": "⬆️ 114 points",
+      "url": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/"
+    },
+    {
+      "title": "Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)",
+      "hot": "2.7m",
+      "desc": "misago-project.org",
+      "source": "tech",
+      "tag": "⬆️ 221 points",
+      "url": "https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/"
+    },
+    {
+      "title": "Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles",
+      "hot": "2.7m",
+      "desc": "eaton-works.com",
+      "source": "tech",
+      "tag": "⬆️ 133 points",
+      "url": "https://eaton-works.com/2026/07/27/my-eicher-hack/"
+    },
+    {
+      "title": "Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped",
+      "hot": "2.7m",
+      "desc": "techdirt.com",
+      "source": "tech",
+      "tag": "⬆️ 252 points",
+      "url": "https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/"
+    }
+  ],
+  "space": [
+    {
+      "title": "Launch Preview: Falcon 9 and Chang Zheng rockets set to launch this week",
+      "hot": "7/27",
+      "desc": "Five orbital launches are scheduled worldwide for this week. In China, a Chang Zheng 6A…\nThe post Launch Preview: Falcon 9 and Chang Zheng rockets set",
+      "source": "space",
+      "tag": "NASASpaceflight",
+      "url": "https://www.nasaspaceflight.com/2026/07/launch-preview-072726/"
+    },
+    {
+      "title": "Upper C-band auction offers another lift for GEO industry",
+      "hot": "7/27",
+      "desc": "\nTAMPA, Fla. — Satellite operators have welcomed the prospect of reaping more than $6 billion for quickly clearing upper C-band spectrum the FCC aims ",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/upper-c-band-auction-offers-another-lift-for-geo-industry/"
+    },
+    {
+      "title": "Sphinx Defense wins $287 million contract for strategic satellite communications software",
+      "hot": "7/27",
+      "desc": "\nAward covers mission planning software for ESS next-generation strategic communications satellites\nThe post Sphinx Defense wins $287 million contract",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/sphinx-defense-wins-287-million-contract-for-strategic-satellite-communications-software/"
+    },
+    {
+      "title": "NASA Astronaut Chris Williams to Discuss Space Station Mission",
+      "hot": "7/27",
+      "desc": "NASA astronaut Chris Williams will recap his recent eight-month mission aboard the International Space Station during a news conference at 2:45 p.m. E",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-space-station-mission/"
+    },
+    {
+      "title": "Despite recent successes, rapid reuse of Starship remains a tough nut to crack",
+      "hot": "7/27",
+      "desc": "NASA has not made substantial investments in thermal protection research for decades.",
+      "source": "space",
+      "tag": "Arstechnica",
+      "url": "https://arstechnica.com/space/2026/07/despite-recent-successes-rapid-reuse-of-starship-remains-a-tough-nut-to-crack/"
+    },
+    {
+      "title": "NASA Science Soars During August Total Solar Eclipse",
+      "hot": "7/27",
+      "desc": "Each time the Moon covers the Sun during a total solar eclipse — darkening daytime skies and briefly revealing the Sun’s ethereal outer atmosphere, th",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/science-research/heliophysics/nasa-science-soars-during-august-total-solar-eclipse/"
+    },
+    {
+      "title": "NASA Astronaut Chris Williams Returns to Earth",
+      "hot": "7/27",
+      "desc": "NASA astronaut Chris Williams is all smiles in this July 26, 2026, photo taken shortly after he landed with Expedition 74 Roscosmos cosmonauts Sergey ",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/image-article/nasa-astronaut-chris-williams-returns-to-earth/"
+    },
+    {
+      "title": "NASA’s Swift Sees ‘Wandering’ Mega Black Hole Shredding Star",
+      "hot": "7/27",
+      "desc": "NASA’s Neil Gehrels Swift Observatory captured an “orphan” black hole lighting up as it devoured a star on the outskirts of a faraway galaxy. These ph",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/missions/swift/nasas-swift-sees-wandering-mega-black-hole-shredding-star/"
+    },
+    {
+      "title": "Raging wildfires near Madrid, Spain",
+      "hot": "7/27",
+      "desc": "From the ESA Blogs.",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Raging_wildfires_near_Madrid_Spain"
+    },
+    {
+      "title": "NASA to Cover Three US Spacewalks, Host Preview News Conference",
+      "hot": "7/27",
+      "desc": "NASA will provide coverage as astronauts venture outside the International Space Station during three spacewalks in August to continue upgrading solar",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/news-release/nasa-to-cover-three-us-spacewalks-host-preview-news-conference/"
+    },
+    {
+      "title": "NASA’s Hubble Shows Star Formation in Andromeda Galaxy Winding Down",
+      "hot": "7/27",
+      "desc": "NASA’s Hubble finds that star formation in the Andromeda galaxy has undergone a 500-million-year decline.",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-shows-star-formation-in-andromeda-galaxy-winding-down/"
+    },
+    {
+      "title": "Orbes unveils Exo-ORB and agreement with Symphony Space",
+      "hot": "7/27",
+      "desc": "\nSAN FRANCISCO – Southern California startup Orbes announced an agreement July 27 to send Exo-ORB, a free-flying satellite, to gather imagery of an un",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/orbes-unveils-exo-orb-and-agreement-with-symphony-space/"
+    },
+    {
+      "title": "Intel debuts new chip for space computing",
+      "hot": "7/27",
+      "desc": "\nStarfire is designed to support onboard data processing and AI workloads.\nThe post Intel debuts new chip for space computing appeared first on SpaceN",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/intel-debuts-new-chip-for-space-computing/"
+    },
+    {
+      "title": "SpaceNews Welcomes Max Aliprandi as Business Development Associate",
+      "hot": "7/27",
+      "desc": "\nSpaceNews today announced that Max Aliprandi has joined the company as Business Development Associate, strengthening the company’s sales, business de",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/spacenews-welcomes-max-aliprandi-as-business-development-associate/"
+    },
+    {
+      "title": "Amazon files application for direct-to-device satellite constellation",
+      "hot": "7/27",
+      "desc": "\nAmazon has filed plans with the Federal Communications Commission for a constellation of more than 5,100 satellites that would provide direct-to-devi",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/amazon-files-application-for-direct-to-device-satellite-constellation/"
+    }
+  ],
+  "github": [
+    {
+      "title": "slvDev/esp32-ai: ",
+      "hot": "⭐ 1.7k",
+      "desc": "slvDev/esp32-ai",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/slvDev/esp32-ai"
+    },
+    {
+      "title": "vercel-labs/scriptc: TypeScript-to-Native Compiler",
+      "hot": "⭐ 1.7k",
+      "desc": "TypeScript-to-Native Compiler",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/vercel-labs/scriptc"
+    },
+    {
+      "title": "MoonshotAI/Kimi-K3: Open Frontier Intelligence",
+      "hot": "⭐ 1.3k",
+      "desc": "Open Frontier Intelligence",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/MoonshotAI/Kimi-K3"
+    },
+    {
+      "title": "Jakubantalik/thinking-orbs: Dotted thought-orb loading indicators for AI & agent",
+      "hot": "⭐ 1.2k",
+      "desc": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/Jakubantalik/thinking-orbs"
+    },
+    {
+      "title": "mshumer/Claude-of-Duty: A Call of Duty-quality FPS in Three.js, built from a sin",
+      "hot": "⭐ 1.0k",
+      "desc": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/mshumer/Claude-of-Duty"
+    },
+    {
+      "title": "mikiarlo3/ai-copywriter: An AI copywriter that uses real copywriting skills + re",
+      "hot": "⭐ 937",
+      "desc": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/mikiarlo3/ai-copywriter"
+    },
+    {
+      "title": "makecindy/cindy: Consider it done. The open-source AI agent that works out of th",
+      "hot": "⭐ 844",
+      "desc": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/makecindy/cindy"
+    },
+    {
+      "title": "gnipbao/story-to-handdrawn-video: Agent skill: convert Chinese story copy or ord",
+      "hot": "⭐ 667",
+      "desc": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/gnipbao/story-to-handdrawn-video"
+    },
+    {
+      "title": "VictorTaelin/OptMem: Permanent memory for AI agents. A 426-token prompt, a scrip",
+      "hot": "⭐ 649",
+      "desc": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/VictorTaelin/OptMem"
+    },
+    {
+      "title": "kvcache-ai/AgentENV: AgentENV (AENV) is a distributed platform for running agent",
+      "hot": "⭐ 641",
+      "desc": "AgentENV (AENV) is a distributed platform for running agent environments at scale.",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/kvcache-ai/AgentENV"
+    },
+    {
+      "title": "hahhforest/pi-textbook: 《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
+      "hot": "⭐ 593",
+      "desc": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/hahhforest/pi-textbook"
+    },
+    {
+      "title": "0xhype/hyperliquid-tracker: Get notified when big trades happen on Hyperliquid.",
+      "hot": "⭐ 513",
+      "desc": "Get notified when big trades happen on Hyperliquid.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/0xhype/hyperliquid-tracker"
+    },
+    {
+      "title": "mikehasa/agentacct: Local-first Agent Work Intelligence for coding agents: usage",
+      "hot": "⭐ 469",
+      "desc": "Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/mikehasa/agentacct"
+    },
+    {
+      "title": "0xwilliamortiz/openclaude-improved: runs anywhere. uses anything",
+      "hot": "⭐ 467",
+      "desc": "runs anywhere. uses anything",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/0xwilliamortiz/openclaude-improved"
+    },
+    {
+      "title": "berabuddies/redis-poc: RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1",
+      "hot": "⭐ 454",
+      "desc": "RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/berabuddies/redis-poc"
     }
   ]
 }
