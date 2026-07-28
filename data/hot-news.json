@@ -1,331 +1,177 @@
 {
-  "updatedAt": "2026-07-28T01:12:10.281Z",
+  "updatedAt": "2026-07-28T04:32:06.537Z",
   "source": "live",
-  "dev": [
-    {
-      "title": "Passkeys Explained Simply",
-      "hot": "❤️ 31 💬 0",
-      "desc": "You’ve probably seen that little prompt that says “Sign in with Face ID” or “Use a passkey” instead...",
-      "source": "dev",
-      "tag": "security,  api",
-      "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk"
-    },
-    {
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 52 💬 5",
-      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
-      "source": "dev",
-      "tag": "top7,  discuss",
-      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-257h"
-    },
-    {
-      "title": "Auditing Agent Skills: A Threat Model for the Next Generation of AI Package Managers",
-      "hot": "❤️ 26 💬 0",
-      "desc": "Let me start with a question.  If a stranger handed you a USB drive and said \"plug this in, it just...",
-      "source": "dev",
-      "tag": "discuss,  ai",
-      "url": "https://dev.to/gde/auditing-agent-skills-a-threat-model-for-the-next-generation-of-ai-package-managers-2g25"
-    },
-    {
-      "title": "Meme Monday",
-      "hot": "❤️ 39 💬 11",
-      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
-      "source": "dev",
-      "tag": "discuss,  jokes",
-      "url": "https://dev.to/ben/meme-monday-mm5"
-    },
-    {
-      "title": "Beyond Prompt Injection: The Non-Human Authorization Gap in Enterprise AI",
-      "hot": "❤️ 45 💬 0",
-      "desc": "How to secure AI multi-agent delegation chains using OAuth 2.1 RFC 8693 Token Exchange and Non-Human Authorization (NHA)",
-      "source": "dev",
-      "tag": "ai,  security",
-      "url": "https://dev.to/gde/beyond-prompt-injection-the-non-human-authorization-gap-in-enterprise-ai-3g5c"
-    },
-    {
-      "title": "I Built Something Good With AI. Now Some Developer Communities Don't Want to See It.",
-      "hot": "❤️ 33 💬 28",
-      "desc": "I recently tried to share an open-source project I've been working on called Open Vectorizer.  It's a...",
-      "source": "dev",
-      "tag": "ai,  opensource",
-      "url": "https://dev.to/madsendev/i-built-something-good-with-ai-now-some-developer-communities-dont-want-to-see-it-20mo"
-    },
-    {
-      "title": "How terminal-sharing tools put your shell in a browser",
-      "hot": "❤️ 57 💬 5",
-      "desc": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
-      "source": "dev",
-      "tag": "webdev,  programming",
-      "url": "https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328"
-    },
-    {
-      "title": "Zero-Trust Data Sovereignty: Enforcing Localized MCP Tool Policies in Multi-Region Stacks",
-      "hot": "❤️ 38 💬 0",
-      "desc": "Agentic AI has quietly broken a lot of assumptions that data governance teams spent the last decade...",
-      "source": "dev",
-      "tag": "Dev.to",
-      "url": "https://dev.to/gde/zero-trust-data-sovereignty-enforcing-localized-mcp-tool-policies-in-multi-region-stacks-4jbn"
-    },
-    {
-      "title": "Google ADK: Introduction to AI Agent Development",
-      "hot": "❤️ 29 💬 0",
-      "desc": "Nota: ✋ This post was originally published on my blog wiki-cloud.co           ...",
-      "source": "dev",
-      "tag": "ai,  agents",
-      "url": "https://dev.to/gde/google-adk-introduction-to-ai-agent-development-1b4e"
-    },
-    {
-      "title": "I've Spent 10+ Years in Software Engineering. After Sickness, Burnout, and a Layoff, I'm Rebuilding My Career. Ask Me Anything",
-      "hot": "❤️ 101 💬 105",
-      "desc": "Hi, I'm Cesar, a Senior Software Engineer with 10+ years of experience.  In 2023, I got sick and...",
-      "source": "dev",
-      "tag": "discuss,  watercooler",
-      "url": "https://dev.to/canro91/ive-spent-10-years-in-software-engineering-after-sickness-burnout-and-a-layoff-im-rebuilding-efc"
-    },
-    {
-      "title": "TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "source": "dev",
-      "tag": "python,  tpu",
-      "url": "https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-8-and-antigravity-cli-3e4n"
-    },
-    {
-      "title": "Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "source": "dev",
-      "tag": "mcps,  googleantigravity",
-      "url": "https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-1-mcp-and-antigravity-cli-3hh3"
-    },
-    {
-      "title": "Teaching Claude Code to Direct: A Stateful Video-Editing Skill Built on Gemini’s Interactions API…",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Teaching Claude Code to Direct: A Stateful Video-Editing Skill Built on Gemini’s...",
-      "source": "dev",
-      "tag": "omnivideo,  agentskills",
-      "url": "https://dev.to/gde/teaching-claude-code-to-direct-a-stateful-video-editing-skill-built-on-geminis-interactions-api-1j9a"
-    },
-    {
-      "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
-      "hot": "❤️ 125 💬 104",
-      "desc": "Imagine your AI assistant just produced 200 lines of code. Legally, you may not own a single line of...",
-      "source": "dev",
-      "tag": "discuss,  ai",
-      "url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj"
-    },
-    {
-      "title": "I Run Bare-Metal Kubernetes on $200 of Scrap Hardware (And Why I Burned 3 SD Cards Learning)",
-      "hot": "❤️ 31 💬 5",
-      "desc": "I Run Bare-Metal Kubernetes on $200 of Scrap Hardware (And Why I Burned 3 SD Cards...",
-      "source": "dev",
-      "tag": "kubernetes,  homelab",
-      "url": "https://dev.to/le_beltagy/i-run-bare-metal-kubernetes-on-200-of-scrap-hardware-and-why-i-burned-3-sd-cards-learning-34cb"
-    },
-    {
-      "title": "Every AI Commit Is Someone's Future Legacy Code",
-      "hot": "❤️ 5 💬 4",
-      "desc": "AI can finally read 25-year-old codebases. But daily AI coding is quietly creating a new kind of legacy code, faster tha",
-      "source": "dev",
-      "tag": "ai,  programming",
-      "url": "https://dev.to/eayurt/every-ai-commit-is-someones-future-legacy-code-444l"
-    },
-    {
-      "title": "Teaching Google Antigravity to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
-      "hot": "❤️ 9 💬 3",
-      "desc": "How nb2lite-skill-agy packages Google's gemini-3.1-flash-lite-image as an Antigravity skill + MCP server — with multi-tu",
-      "source": "dev",
-      "tag": "ai,  antigravity",
-      "url": "https://dev.to/gde/teaching-google-antigravity-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-9g1"
-    },
-    {
-      "title": "Should I quit IT or just live through the burnout?",
-      "hot": "❤️ 183 💬 156",
-      "desc": "Some of you may have noticed I disappeared a bit from the community over the last couple of weeks....",
-      "source": "dev",
-      "tag": "mentalhealth,  career",
-      "url": "https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng"
-    },
-    {
-      "title": "Better than Next.js? Is Rust Finally Ready for Full-Stack Web Development? Introducing Topcoat",
-      "hot": "❤️ 17 💬 8",
-      "desc": "There is a super-new Rust Web Framework in town, and it's name is Topcoat  Rust is already a solid...",
-      "source": "dev",
-      "tag": "webdev,  programming",
-      "url": "https://dev.to/francescoxx/better-than-nextjs-is-rust-finally-ready-for-full-stack-web-development-introducing-topcoat-2h09"
-    },
-    {
-      "title": "Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]",
-      "hot": "❤️ 5 💬 0",
-      "desc": "Build Firebase AI Logic with Antigravity CLI   Note: Google Cloud credits are provided for...",
-      "source": "dev",
-      "tag": "ai,  angular",
-      "url": "https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o"
-    }
-  ],
   "tech": [
     {
       "title": "Our position on open-weights models",
       "hot": "3.0m",
       "desc": "anthropic.com",
       "source": "tech",
-      "tag": "⬆️ 405 points",
+      "tag": "⬆️ 616 points",
       "url": "https://www.anthropic.com/news/position-open-weights-models"
+    },
+    {
+      "title": "Using an open model feels surprisingly good",
+      "hot": "3.0m",
+      "desc": "matthewsaltz.com",
+      "source": "tech",
+      "tag": "⬆️ 94 points",
+      "url": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/"
+    },
+    {
+      "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
+      "hot": "3.0m",
+      "desc": "fermisense.com",
+      "source": "tech",
+      "tag": "⬆️ 60 points",
+      "url": "https://fermisense.com/when-machines-take-the-wheel/"
     },
     {
       "title": "Benchmarking Opus 5 on SlopCodeBench",
       "hot": "3.0m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 90 points",
+      "tag": "⬆️ 187 points",
       "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md"
-    },
-    {
-      "title": "DConf 2026 in London",
-      "hot": "3.0m",
-      "desc": "dconf.org",
-      "source": "tech",
-      "tag": "⬆️ 39 points",
-      "url": "https://dconf.org/2026/index.html"
-    },
-    {
-      "title": "Watching Go's new garbage collector move through the heap",
-      "hot": "3.0m",
-      "desc": "theconsensus.dev",
-      "source": "tech",
-      "tag": "⬆️ 165 points",
-      "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html"
-    },
-    {
-      "title": "C/C++ projects packaged for Zig",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 20 points",
-      "url": "https://github.com/allyourcodebase"
     },
     {
       "title": "Astronauts describe persistent 'observer' sensation after 6 month missions",
       "hot": "2.9m",
       "desc": "spacedaily.com",
       "source": "tech",
-      "tag": "⬆️ 24 points",
+      "tag": "⬆️ 128 points",
       "url": "https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/"
     },
     {
-      "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
+      "title": "Residential Proxies Are a National Security Threat",
       "hot": "2.9m",
+      "desc": "jacob.gold",
+      "source": "tech",
+      "tag": "⬆️ 29 points",
+      "url": "https://jacob.gold/posts/residential-proxies-are-a-national-security-threat/"
+    },
+    {
+      "title": "RTX 2080 Ti Memory Upgrade to 22 GB",
+      "hot": "2.9m",
+      "desc": "gpusolutions.net",
+      "source": "tech",
+      "tag": "⬆️ 60 points",
+      "url": "https://gpusolutions.net/rbservices/graphics-card-upgrade/"
+    },
+    {
+      "title": "EYG: A Programming Language for Humans",
+      "hot": "2.9m",
+      "desc": "crowdhailer.me",
+      "source": "tech",
+      "tag": "⬆️ 32 points",
+      "url": "https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/"
+    },
+    {
+      "title": "Watching Go's new garbage collector move through the heap",
+      "hot": "2.9m",
+      "desc": "theconsensus.dev",
+      "source": "tech",
+      "tag": "⬆️ 184 points",
+      "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html"
+    },
+    {
+      "title": "Show HN: Yap – OSS on-device voice dictation for macOS with no model to download",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 35 points",
+      "url": "https://github.com/FrigadeHQ/yap"
+    },
+    {
+      "title": "DConf 2026 in London",
+      "hot": "2.9m",
+      "desc": "dconf.org",
+      "source": "tech",
+      "tag": "⬆️ 63 points",
+      "url": "https://dconf.org/2026/index.html"
+    },
+    {
+      "title": "C/C++ projects packaged for Zig",
+      "hot": "2.8m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 39 points",
+      "url": "https://github.com/allyourcodebase"
+    },
+    {
+      "title": "An Uncomplicated Man",
+      "hot": "2.8m",
+      "desc": "lrb.co.uk",
+      "source": "tech",
+      "tag": "⬆️ 15 points",
+      "url": "https://www.lrb.co.uk/the-paper/v48/n14/emily-wilson/an-uncomplicated-man"
+    },
+    {
+      "title": "Vehicle Motion Cues",
+      "hot": "2.8m",
+      "desc": "support.apple.com",
+      "source": "tech",
+      "tag": "⬆️ 31 points",
+      "url": "https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios"
+    },
+    {
+      "title": "Three Theses on the Literacy Crisis",
+      "hot": "2.8m",
+      "desc": "trevoraleo.substack.com",
+      "source": "tech",
+      "tag": "⬆️ 32 points",
+      "url": "https://trevoraleo.substack.com/p/three-theses-on-the-literacy-crisis"
+    },
+    {
+      "title": "The Burau representation of the braid group is faithful for n = 4",
+      "hot": "2.8m",
+      "desc": "arxiv.org",
+      "source": "tech",
+      "tag": "⬆️ 28 points",
+      "url": "https://arxiv.org/abs/2607.05283"
+    },
+    {
+      "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
+      "hot": "2.8m",
       "desc": "rise-reforming.com",
       "source": "tech",
-      "tag": "⬆️ 57 points",
+      "tag": "⬆️ 65 points",
       "url": "https://www.rise-reforming.com"
     },
     {
       "title": "Self-contained highly-portable Python distributions",
-      "hot": "2.9m",
+      "hot": "2.7m",
       "desc": "gregoryszorc.com",
       "source": "tech",
-      "tag": "⬆️ 109 points",
+      "tag": "⬆️ 125 points",
       "url": "https://gregoryszorc.com/docs/python-build-standalone/main/"
     },
     {
-      "title": "The Burau representation of the braid group is faithful for n = 4",
-      "hot": "2.9m",
-      "desc": "arxiv.org",
-      "source": "tech",
-      "tag": "⬆️ 8 points",
-      "url": "https://arxiv.org/abs/2607.05283"
-    },
-    {
-      "title": "Show HN: Dowe – A full-stack language for server, web, desktop, Android, and iOS",
-      "hot": "2.9m",
-      "desc": "dowe.dev",
-      "source": "tech",
-      "tag": "⬆️ 20 points",
-      "url": "https://www.dowe.dev"
-    },
-    {
       "title": "Glue bonds to nonstick surfaces and wipes clean with ethanol",
-      "hot": "2.9m",
+      "hot": "2.7m",
       "desc": "cen.acs.org",
       "source": "tech",
-      "tag": "⬆️ 149 points",
+      "tag": "⬆️ 160 points",
       "url": "https://cen.acs.org/materials/adhesives/glue-bonds-nonstick-surfaces-wipes-clean/104/web/2026/07"
     },
     {
-      "title": "Netflix employee fired for sharing personal details in retreat trust exercise",
-      "hot": "2.8m",
-      "desc": "inc.com",
-      "source": "tech",
-      "tag": "⬆️ 126 points",
-      "url": "https://www.inc.com/amaya-nichole/netflix-company-retreat-sparked-lawsuit-experts-say-real-damage-may-be-just-beginning/91380349"
-    },
-    {
-      "title": "Securing Services with Rootless Containers",
-      "hot": "2.8m",
-      "desc": "blog.coderspirit.xyz",
-      "source": "tech",
-      "tag": "⬆️ 56 points",
-      "url": "https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/"
-    },
-    {
       "title": "Ray tracing massive amounts of animated geometry using tetrahedral cages",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "gpuopen.com",
       "source": "tech",
-      "tag": "⬆️ 63 points",
+      "tag": "⬆️ 87 points",
       "url": "https://gpuopen.com/learn/ray-tracing-massive-amounts-animated-geometry/"
-    },
-    {
-      "title": "Hard Road – A beautiful procedural post-apocalyptic game",
-      "hot": "2.8m",
-      "desc": "hardroad.xyz",
-      "source": "tech",
-      "tag": "⬆️ 27 points",
-      "url": "https://hardroad.xyz/"
-    },
-    {
-      "title": "The computer that helped win World War II",
-      "hot": "2.8m",
-      "desc": "spectrum.ieee.org",
-      "source": "tech",
-      "tag": "⬆️ 170 points",
-      "url": "https://spectrum.ieee.org/colossus-computer-ieee-milestone"
-    },
-    {
-      "title": "A missing underscore sent innocent man to prison for 18 months",
-      "hot": "2.8m",
-      "desc": "arstechnica.com",
-      "source": "tech",
-      "tag": "⬆️ 114 points",
-      "url": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/"
-    },
-    {
-      "title": "Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)",
-      "hot": "2.7m",
-      "desc": "misago-project.org",
-      "source": "tech",
-      "tag": "⬆️ 221 points",
-      "url": "https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/"
-    },
-    {
-      "title": "Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles",
-      "hot": "2.7m",
-      "desc": "eaton-works.com",
-      "source": "tech",
-      "tag": "⬆️ 133 points",
-      "url": "https://eaton-works.com/2026/07/27/my-eicher-hack/"
-    },
-    {
-      "title": "Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped",
-      "hot": "2.7m",
-      "desc": "techdirt.com",
-      "source": "tech",
-      "tag": "⬆️ 252 points",
-      "url": "https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/"
     }
   ],
   "space": [
+    {
+      "title": "Smoke Blankets Oregon",
+      "hot": "7/28",
+      "desc": "Lightning storms have ignited dozens of fires in central and eastern Oregon.",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/earth/natural-disasters/wildfires/smoke-blankets-oregon/"
+    },
     {
       "title": "Launch Preview: Falcon 9 and Chang Zheng rockets set to launch this week",
       "hot": "7/27",
@@ -415,14 +261,6 @@
       "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-shows-star-formation-in-andromeda-galaxy-winding-down/"
     },
     {
-      "title": "Orbes unveils Exo-ORB and agreement with Symphony Space",
-      "hot": "7/27",
-      "desc": "\nSAN FRANCISCO – Southern California startup Orbes announced an agreement July 27 to send Exo-ORB, a free-flying satellite, to gather imagery of an un",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/orbes-unveils-exo-orb-and-agreement-with-symphony-space/"
-    },
-    {
       "title": "Intel debuts new chip for space computing",
       "hot": "7/27",
       "desc": "\nStarfire is designed to support onboard data processing and AI workloads.\nThe post Intel debuts new chip for space computing appeared first on SpaceN",
@@ -431,46 +269,46 @@
       "url": "https://spacenews.com/intel-debuts-new-chip-for-space-computing/"
     },
     {
+      "title": "Orbes unveils Exo-ORB and agreement with Symphony Space",
+      "hot": "7/27",
+      "desc": "\nSAN FRANCISCO – Southern California startup Orbes announced an agreement July 27 to send Exo-ORB, a free-flying satellite, to gather imagery of an un",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/orbes-unveils-exo-orb-and-agreement-with-symphony-space/"
+    },
+    {
       "title": "SpaceNews Welcomes Max Aliprandi as Business Development Associate",
       "hot": "7/27",
       "desc": "\nSpaceNews today announced that Max Aliprandi has joined the company as Business Development Associate, strengthening the company’s sales, business de",
       "source": "space",
       "tag": "SpaceNews",
       "url": "https://spacenews.com/spacenews-welcomes-max-aliprandi-as-business-development-associate/"
-    },
-    {
-      "title": "Amazon files application for direct-to-device satellite constellation",
-      "hot": "7/27",
-      "desc": "\nAmazon has filed plans with the Federal Communications Commission for a constellation of more than 5,100 satellites that would provide direct-to-devi",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/amazon-files-application-for-direct-to-device-satellite-constellation/"
     }
   ],
   "github": [
     {
-      "title": "slvDev/esp32-ai: ",
-      "hot": "⭐ 1.7k",
-      "desc": "slvDev/esp32-ai",
+      "title": "MoonshotAI/Kimi-K3: Open Frontier Intelligence",
+      "hot": "⭐ 2.1k",
+      "desc": "Open Frontier Intelligence",
       "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/slvDev/esp32-ai"
+      "tag": "GitHub",
+      "url": "https://github.com/MoonshotAI/Kimi-K3"
     },
     {
       "title": "vercel-labs/scriptc: TypeScript-to-Native Compiler",
-      "hot": "⭐ 1.7k",
+      "hot": "⭐ 1.8k",
       "desc": "TypeScript-to-Native Compiler",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/vercel-labs/scriptc"
     },
     {
-      "title": "MoonshotAI/Kimi-K3: Open Frontier Intelligence",
-      "hot": "⭐ 1.3k",
-      "desc": "Open Frontier Intelligence",
+      "title": "slvDev/esp32-ai: ",
+      "hot": "⭐ 1.8k",
+      "desc": "slvDev/esp32-ai",
       "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/MoonshotAI/Kimi-K3"
+      "tag": "Python",
+      "url": "https://github.com/slvDev/esp32-ai"
     },
     {
       "title": "Jakubantalik/thinking-orbs: Dotted thought-orb loading indicators for AI & agent",
@@ -482,7 +320,7 @@
     },
     {
       "title": "mshumer/Claude-of-Duty: A Call of Duty-quality FPS in Three.js, built from a sin",
-      "hot": "⭐ 1.0k",
+      "hot": "⭐ 1.1k",
       "desc": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
       "source": "github",
       "tag": "JavaScript",
@@ -490,15 +328,23 @@
     },
     {
       "title": "mikiarlo3/ai-copywriter: An AI copywriter that uses real copywriting skills + re",
-      "hot": "⭐ 937",
+      "hot": "⭐ 944",
       "desc": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/mikiarlo3/ai-copywriter"
     },
     {
+      "title": "kvcache-ai/AgentENV: AgentENV (AENV) is a distributed platform for running agent",
+      "hot": "⭐ 931",
+      "desc": "AgentENV (AENV) is a distributed platform for running agent environments at scale.",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/kvcache-ai/AgentENV"
+    },
+    {
       "title": "makecindy/cindy: Consider it done. The open-source AI agent that works out of th",
-      "hot": "⭐ 844",
+      "hot": "⭐ 894",
       "desc": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
       "source": "github",
       "tag": "TypeScript",
@@ -506,7 +352,7 @@
     },
     {
       "title": "gnipbao/story-to-handdrawn-video: Agent skill: convert Chinese story copy or ord",
-      "hot": "⭐ 667",
+      "hot": "⭐ 670",
       "desc": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
       "source": "github",
       "tag": "JavaScript",
@@ -514,27 +360,35 @@
     },
     {
       "title": "VictorTaelin/OptMem: Permanent memory for AI agents. A 426-token prompt, a scrip",
-      "hot": "⭐ 649",
+      "hot": "⭐ 663",
       "desc": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/VictorTaelin/OptMem"
     },
     {
-      "title": "kvcache-ai/AgentENV: AgentENV (AENV) is a distributed platform for running agent",
-      "hot": "⭐ 641",
-      "desc": "AgentENV (AENV) is a distributed platform for running agent environments at scale.",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/kvcache-ai/AgentENV"
-    },
-    {
       "title": "hahhforest/pi-textbook: 《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
-      "hot": "⭐ 593",
+      "hot": "⭐ 610",
       "desc": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/hahhforest/pi-textbook"
+    },
+    {
+      "title": "0xwilliamortiz/openclaude-improved: runs anywhere. uses anything",
+      "hot": "⭐ 577",
+      "desc": "runs anywhere. uses anything",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/0xwilliamortiz/openclaude-improved"
+    },
+    {
+      "title": "MoonshotAI/MoonEP: MoonEP: A Perfectly Balanced Expert Parallelism Library via D",
+      "hot": "⭐ 567",
+      "desc": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/MoonshotAI/MoonEP"
     },
     {
       "title": "0xhype/hyperliquid-tracker: Get notified when big trades happen on Hyperliquid.",
@@ -546,27 +400,173 @@
     },
     {
       "title": "mikehasa/agentacct: Local-first Agent Work Intelligence for coding agents: usage",
-      "hot": "⭐ 469",
+      "hot": "⭐ 495",
       "desc": "Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/mikehasa/agentacct"
+    }
+  ],
+  "dev": [
+    {
+      "title": "Passkeys Explained Simply",
+      "hot": "❤️ 31 💬 0",
+      "desc": "You’ve probably seen that little prompt that says “Sign in with Face ID” or “Use a passkey” instead...",
+      "source": "dev",
+      "tag": "security,  api",
+      "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk"
     },
     {
-      "title": "0xwilliamortiz/openclaude-improved: runs anywhere. uses anything",
-      "hot": "⭐ 467",
-      "desc": "runs anywhere. uses anything",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/0xwilliamortiz/openclaude-improved"
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "hot": "❤️ 52 💬 7",
+      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+      "source": "dev",
+      "tag": "top7,  discuss",
+      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-257h"
     },
     {
-      "title": "berabuddies/redis-poc: RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1",
-      "hot": "⭐ 454",
-      "desc": "RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/berabuddies/redis-poc"
+      "title": "Auditing Agent Skills: A Threat Model for the Next Generation of AI Package Managers",
+      "hot": "❤️ 26 💬 0",
+      "desc": "Let me start with a question.  If a stranger handed you a USB drive and said \"plug this in, it just...",
+      "source": "dev",
+      "tag": "discuss,  ai",
+      "url": "https://dev.to/gde/auditing-agent-skills-a-threat-model-for-the-next-generation-of-ai-package-managers-2g25"
+    },
+    {
+      "title": "Meme Monday",
+      "hot": "❤️ 41 💬 11",
+      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
+      "source": "dev",
+      "tag": "discuss,  jokes",
+      "url": "https://dev.to/ben/meme-monday-mm5"
+    },
+    {
+      "title": "Beyond Prompt Injection: The Non-Human Authorization Gap in Enterprise AI",
+      "hot": "❤️ 45 💬 0",
+      "desc": "How to secure AI multi-agent delegation chains using OAuth 2.1 RFC 8693 Token Exchange and Non-Human Authorization (NHA)",
+      "source": "dev",
+      "tag": "ai,  security",
+      "url": "https://dev.to/gde/beyond-prompt-injection-the-non-human-authorization-gap-in-enterprise-ai-3g5c"
+    },
+    {
+      "title": "I Built Something Good With AI. Now Some Developer Communities Don't Want to See It.",
+      "hot": "❤️ 34 💬 28",
+      "desc": "I recently tried to share an open-source project I've been working on called Open Vectorizer.  It's a...",
+      "source": "dev",
+      "tag": "ai,  opensource",
+      "url": "https://dev.to/madsendev/i-built-something-good-with-ai-now-some-developer-communities-dont-want-to-see-it-20mo"
+    },
+    {
+      "title": "Zero-Trust Data Sovereignty: Enforcing Localized MCP Tool Policies in Multi-Region Stacks",
+      "hot": "❤️ 38 💬 0",
+      "desc": "Agentic AI has quietly broken a lot of assumptions that data governance teams spent the last decade...",
+      "source": "dev",
+      "tag": "mcp,  ai",
+      "url": "https://dev.to/gde/zero-trust-data-sovereignty-enforcing-localized-mcp-tool-policies-in-multi-region-stacks-4jbn"
+    },
+    {
+      "title": "How terminal-sharing tools put your shell in a browser",
+      "hot": "❤️ 57 💬 5",
+      "desc": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
+      "source": "dev",
+      "tag": "webdev,  programming",
+      "url": "https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328"
+    },
+    {
+      "title": "Google ADK: Introduction to AI Agent Development",
+      "hot": "❤️ 29 💬 0",
+      "desc": "Nota: ✋ This post was originally published on my blog wiki-cloud.co           ...",
+      "source": "dev",
+      "tag": "ai,  agents",
+      "url": "https://dev.to/gde/google-adk-introduction-to-ai-agent-development-1b4e"
+    },
+    {
+      "title": "I've Spent 10+ Years in Software Engineering. After Sickness, Burnout, and a Layoff, I'm Rebuilding My Career. Ask Me Anything",
+      "hot": "❤️ 101 💬 105",
+      "desc": "Hi, I'm Cesar, a Senior Software Engineer with 10+ years of experience.  In 2023, I got sick and...",
+      "source": "dev",
+      "tag": "discuss,  watercooler",
+      "url": "https://dev.to/canro91/ive-spent-10-years-in-software-engineering-after-sickness-burnout-and-a-layoff-im-rebuilding-efc"
+    },
+    {
+      "title": "TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
+      "source": "dev",
+      "tag": "python,  tpu",
+      "url": "https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-8-and-antigravity-cli-3e4n"
+    },
+    {
+      "title": "Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
+      "source": "dev",
+      "tag": "mcps,  googleantigravity",
+      "url": "https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-1-mcp-and-antigravity-cli-3hh3"
+    },
+    {
+      "title": "Teaching Claude Code to Direct: A Stateful Video-Editing Skill Built on Gemini’s Interactions API…",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Teaching Claude Code to Direct: A Stateful Video-Editing Skill Built on Gemini’s...",
+      "source": "dev",
+      "tag": "omnivideo,  agentskills",
+      "url": "https://dev.to/gde/teaching-claude-code-to-direct-a-stateful-video-editing-skill-built-on-geminis-interactions-api-1j9a"
+    },
+    {
+      "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
+      "hot": "❤️ 125 💬 104",
+      "desc": "Imagine your AI assistant just produced 200 lines of code. Legally, you may not own a single line of...",
+      "source": "dev",
+      "tag": "discuss,  ai",
+      "url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj"
+    },
+    {
+      "title": "I Run Bare-Metal Kubernetes on $200 of Scrap Hardware (And Why I Burned 3 SD Cards Learning)",
+      "hot": "❤️ 30 💬 5",
+      "desc": "I Run Bare-Metal Kubernetes on $200 of Scrap Hardware (And Why I Burned 3 SD Cards...",
+      "source": "dev",
+      "tag": "kubernetes,  homelab",
+      "url": "https://dev.to/le_beltagy/i-run-bare-metal-kubernetes-on-200-of-scrap-hardware-and-why-i-burned-3-sd-cards-learning-34cb"
+    },
+    {
+      "title": "Every AI Commit Is Someone's Future Legacy Code",
+      "hot": "❤️ 6 💬 4",
+      "desc": "AI can finally read 25-year-old codebases. But daily AI coding is quietly creating a new kind of legacy code, faster tha",
+      "source": "dev",
+      "tag": "ai,  programming",
+      "url": "https://dev.to/eayurt/every-ai-commit-is-someones-future-legacy-code-444l"
+    },
+    {
+      "title": "Teaching Google Antigravity to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
+      "hot": "❤️ 9 💬 3",
+      "desc": "How nb2lite-skill-agy packages Google's gemini-3.1-flash-lite-image as an Antigravity skill + MCP server — with multi-tu",
+      "source": "dev",
+      "tag": "ai,  antigravity",
+      "url": "https://dev.to/gde/teaching-google-antigravity-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-9g1"
+    },
+    {
+      "title": "Should I quit IT or just live through the burnout?",
+      "hot": "❤️ 183 💬 156",
+      "desc": "Some of you may have noticed I disappeared a bit from the community over the last couple of weeks....",
+      "source": "dev",
+      "tag": "mentalhealth,  career",
+      "url": "https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng"
+    },
+    {
+      "title": "Better than Next.js? Is Rust Finally Ready for Full-Stack Web Development? Introducing Topcoat",
+      "hot": "❤️ 17 💬 8",
+      "desc": "There is a super-new Rust Web Framework in town, and it's name is Topcoat  Rust is already a solid...",
+      "source": "dev",
+      "tag": "webdev,  programming",
+      "url": "https://dev.to/francescoxx/better-than-nextjs-is-rust-finally-ready-for-full-stack-web-development-introducing-topcoat-2h09"
+    },
+    {
+      "title": "Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]",
+      "hot": "❤️ 5 💬 0",
+      "desc": "Build Firebase AI Logic with Antigravity CLI   Note: Google Cloud credits are provided for...",
+      "source": "dev",
+      "tag": "ai,  angular",
+      "url": "https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o"
     }
   ]
 }
