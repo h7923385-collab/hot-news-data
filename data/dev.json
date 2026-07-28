@@ -1,12 +1,28 @@
 {
   "data": [
     {
+      "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
+      "hot": "❤️ 24 💬 7",
+      "desc": "Every form I ever shipped before React 19 needed the same three pieces of state, and I wired them up...",
+      "source": "dev",
+      "tag": "react,  webdev",
+      "url": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd"
+    },
+    {
       "title": "Passkeys Explained Simply",
-      "hot": "❤️ 50 💬 11",
+      "hot": "❤️ 55 💬 13",
       "desc": "You’ve probably seen that little prompt that says “Sign in with Face ID” or “Use a passkey” instead...",
       "source": "dev",
       "tag": "security,  api",
       "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk"
+    },
+    {
+      "title": "I had two weeks, an 8-foot keyboard, and a Wordle Workflow",
+      "hot": "❤️ 5 💬 0",
+      "desc": "A Wordle clone, an 8-foot keyboard, and a holographic fan display made Temporal's Durable Execution visible at AI Engine",
+      "source": "dev",
+      "tag": "temporal,  codesamples",
+      "url": "https://dev.to/temporalio/i-had-two-weeks-an-8-foot-keyboard-and-a-wordle-workflow-15h"
     },
     {
       "title": "Your Face on a World Cup Sticker: Our Nano Banana Story",
@@ -25,6 +41,14 @@
       "url": "https://dev.to/gde/learning-notesgolang-authorization-challenges-in-the-ai-agent-era-what-is-id-jag-and-why-i-jfb"
     },
     {
+      "title": "Bug Smash isn't glamorous and that's what I love about it.",
+      "hot": "❤️ 5 💬 0",
+      "desc": "We kicked off DEV's Big Summer Bug Smash on July 14, and I've been waiting to write this post since...",
+      "source": "dev",
+      "tag": "bugsmash,  devchallenge",
+      "url": "https://dev.to/devteam/bug-smash-isnt-glamorous-and-thats-what-i-love-about-it-445i"
+    },
+    {
       "title": "Can Google ADK Talk to Microsoft Foundry on Azure? A Cross-Cloud A2A Benchmark",
       "hot": "❤️ 8 💬 2",
       "desc": "This article provides a step-by-step guide to building and testing a cross-cloud currency agent. A...",
@@ -41,20 +65,20 @@
       "url": "https://dev.to/gde/dev-lognodejs-feedly-classic-is-gone-so-i-built-my-own-feedflow-part-1-55h4"
     },
     {
-      "title": "Beyond System Prompts: Enforcing Policy & Action Boundaries in Enterprise AI Agents",
-      "hot": "❤️ 7 💬 0",
-      "desc": "Why prompt-based guardrails fail for AI agents and how to enforce deterministic tool adapter validation, 4-tier risk cla",
-      "source": "dev",
-      "tag": "ai,  security",
-      "url": "https://dev.to/gde/beyond-system-prompts-enforcing-policy-action-boundaries-in-enterprise-ai-agents-29ac"
-    },
-    {
       "title": "Seamless Flutter Hooks Integration with BlocSignal via signals_hooks",
       "hot": "❤️ 6 💬 0",
       "desc": "Discover how BlocSignal and signals_hooks eliminate flutter_bloc glue code, stream overhead, and widget tree nesting in ",
       "source": "dev",
       "tag": "flutter,  dart",
       "url": "https://dev.to/gde/seamless-flutter-hooks-integration-with-blocsignal-via-signalshooks-55e"
+    },
+    {
+      "title": "Switching Tracks in BlocSignal: The Universal State Switchyard for BLoC, Riverpod, and Provider",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Stop derailing your Flutter apps! Learn how BlocSignal acts as a central railway switchyard bridging BLoC, Riverpod, and",
+      "source": "dev",
+      "tag": "flutter,  dart",
+      "url": "https://dev.to/gde/switching-tracks-in-blocsignal-the-universal-state-switchyard-for-bloc-riverpod-and-provider-929"
     },
     {
       "title": "Top 7 Featured DEV Posts of the Week",
@@ -65,20 +89,20 @@
       "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-257h"
     },
     {
+      "title": "Beyond System Prompts: Enforcing Policy & Action Boundaries in Enterprise AI Agents",
+      "hot": "❤️ 8 💬 0",
+      "desc": "Why prompt-based guardrails fail for AI agents and how to enforce deterministic tool adapter validation, 4-tier risk cla",
+      "source": "dev",
+      "tag": "ai,  security",
+      "url": "https://dev.to/gde/beyond-system-prompts-enforcing-policy-action-boundaries-in-enterprise-ai-agents-29ac"
+    },
+    {
       "title": "Building AI Agents with the TypeScript Agent Development Kit (ADK)",
       "hot": "❤️ 8 💬 2",
       "desc": "Build, test, and deploy AI agents using Google's native TypeScript Agent Development Kit (ADK), Gemini 2.5 Flash, and Cl",
       "source": "dev",
       "tag": "typescript,  ai",
       "url": "https://dev.to/gde/building-ai-agents-with-the-typescript-agent-development-kit-adk-3mf"
-    },
-    {
-      "title": "Meme Monday",
-      "hot": "❤️ 42 💬 13",
-      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
-      "source": "dev",
-      "tag": "discuss,  jokes",
-      "url": "https://dev.to/ben/meme-monday-mm5"
     },
     {
       "title": "Build and Deploy Java AI Agents with Google ADK",
@@ -113,53 +137,29 @@
       "url": "https://dev.to/gde/google-adk-introduction-to-ai-agent-development-1b4e"
     },
     {
+      "title": "Meme Monday",
+      "hot": "❤️ 42 💬 14",
+      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
+      "source": "dev",
+      "tag": "discuss,  jokes",
+      "url": "https://dev.to/ben/meme-monday-mm5"
+    },
+    {
       "title": "Beyond Prompt Injection: The Non-Human Authorization Gap in Enterprise AI",
-      "hot": "❤️ 46 💬 0",
+      "hot": "❤️ 47 💬 0",
       "desc": "How to secure AI multi-agent delegation chains using OAuth 2.1 RFC 8693 Token Exchange and Non-Human Authorization (NHA)",
       "source": "dev",
       "tag": "ai,  security",
       "url": "https://dev.to/gde/beyond-prompt-injection-the-non-human-authorization-gap-in-enterprise-ai-3g5c"
     },
     {
-      "title": "I've Spent 10+ Years in Software Engineering. After Sickness, Burnout, and a Layoff, I'm Rebuilding My Career. Ask Me Anything",
-      "hot": "❤️ 101 💬 105",
-      "desc": "Hi, I'm Cesar, a Senior Software Engineer with 10+ years of experience.  In 2023, I got sick and...",
+      "title": "Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)",
+      "hot": "❤️ 7 💬 0",
+      "desc": "Summary of 2026 Updates (v2 — Python ADK 2.0 Migration)   This updated edition incorporates...",
       "source": "dev",
-      "tag": "discuss,  watercooler",
-      "url": "https://dev.to/canro91/ive-spent-10-years-in-software-engineering-after-sickness-burnout-and-a-layoff-im-rebuilding-efc"
-    },
-    {
-      "title": "TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "source": "dev",
-      "tag": "python,  tpu",
-      "url": "https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-8-and-antigravity-cli-3e4n"
-    },
-    {
-      "title": "Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "source": "dev",
-      "tag": "mcps,  googleantigravity",
-      "url": "https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-1-mcp-and-antigravity-cli-3hh3"
-    },
-    {
-      "title": "Teaching Claude Code to Direct: A Stateful Video-Editing Skill Built on Gemini’s Interactions API…",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Teaching Claude Code to Direct: A Stateful Video-Editing Skill Built on Gemini’s...",
-      "source": "dev",
-      "tag": "omnivideo,  agentskills",
-      "url": "https://dev.to/gde/teaching-claude-code-to-direct-a-stateful-video-editing-skill-built-on-geminis-interactions-api-1j9a"
-    },
-    {
-      "title": "Zero-Trust Data Sovereignty: Enforcing Localized MCP Tool Policies in Multi-Region Stacks",
-      "hot": "❤️ 39 💬 0",
-      "desc": "Agentic AI has quietly broken a lot of assumptions that data governance teams spent the last decade...",
-      "source": "dev",
-      "tag": "mcp,  ai",
-      "url": "https://dev.to/gde/zero-trust-data-sovereignty-enforcing-localized-mcp-tool-policies-in-multi-region-stacks-4jbn"
+      "tag": "python,  ai",
+      "url": "https://dev.to/gde/building-ai-agents-with-the-python-agent-development-kit-adk-2026-edition-v2-32hf"
     }
   ],
-  "updatedAt": "2026-07-28T14:45:40.288Z"
+  "updatedAt": "2026-07-28T16:25:59.450Z"
 }
