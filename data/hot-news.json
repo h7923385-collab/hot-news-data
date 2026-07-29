@@ -1,412 +1,6 @@
 {
-  "updatedAt": "2026-07-29T16:13:06.600Z",
+  "updatedAt": "2026-07-29T17:43:14.010Z",
   "source": "live",
-  "tech": [
-    {
-      "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-      "hot": "3.0m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 112 points",
-      "url": "https://github.com/drumih/turbo-fieldfare"
-    },
-    {
-      "title": "KOReader",
-      "hot": "3.0m",
-      "desc": "koreader.rocks",
-      "source": "tech",
-      "tag": "⬆️ 453 points",
-      "url": "https://koreader.rocks/"
-    },
-    {
-      "title": "Handbook.md shows that long policy documents do not reliably govern agents",
-      "hot": "3.0m",
-      "desc": "arxiv.org",
-      "source": "tech",
-      "tag": "⬆️ 164 points",
-      "url": "https://arxiv.org/abs/2607.25398"
-    },
-    {
-      "title": "Hugging Face: Anatomy of a frontier-lab agent intrusion",
-      "hot": "3.0m",
-      "desc": "huggingface-anatomy-of-frontier-lab-model-intrusion.static.hf.space",
-      "source": "tech",
-      "tag": "⬆️ 34 points",
-      "url": "https://huggingface-anatomy-of-frontier-lab-model-intrusion.static.hf.space/index.html"
-    },
-    {
-      "title": "Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem",
-      "hot": "2.9m",
-      "desc": "claire-blackshaw.com",
-      "source": "tech",
-      "tag": "⬆️ 55 points",
-      "url": "https://www.claire-blackshaw.com/blog/2026/07/shipping-godot-vr-and-porting-to-psvr2-a-partial-post-mortem/"
-    },
-    {
-      "title": "Hunter-gatherers introduced fish to a mountain lake 7000 years ago",
-      "hot": "2.9m",
-      "desc": "newscientist.com",
-      "source": "tech",
-      "tag": "⬆️ 71 points",
-      "url": "https://www.newscientist.com/article/2580119-hunter-gatherers-introduced-fish-to-a-mountain-lake-7000-years-ago/"
-    },
-    {
-      "title": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
-      "hot": "2.9m",
-      "desc": "usetokenless.com",
-      "source": "tech",
-      "tag": "⬆️ 5 points",
-      "url": "https://usetokenless.com/"
-    },
-    {
-      "title": "Darktable",
-      "hot": "2.9m",
-      "desc": "darktable.org",
-      "source": "tech",
-      "tag": "⬆️ 122 points",
-      "url": "https://www.darktable.org/"
-    },
-    {
-      "title": "Document-borne AI worms can self-propagate through Copilot for Word",
-      "hot": "2.9m",
-      "desc": "enklypesalt.com",
-      "source": "tech",
-      "tag": "⬆️ 197 points",
-      "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/"
-    },
-    {
-      "title": "More Tailscale tricks for your jailbroken Kindle",
-      "hot": "2.9m",
-      "desc": "tailscale.com",
-      "source": "tech",
-      "tag": "⬆️ 340 points",
-      "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes"
-    },
-    {
-      "title": "Hamburg's Stadtpark: A Park Built to Be Used",
-      "hot": "2.9m",
-      "desc": "alsterrunde.com",
-      "source": "tech",
-      "tag": "⬆️ 7 points",
-      "url": "https://alsterrunde.com/hamburgs-stadtpark-a-park-built-to-be-used/"
-    },
-    {
-      "title": "Amiga Graphics Archive",
-      "hot": "2.8m",
-      "desc": "amiga.lychesis.net",
-      "source": "tech",
-      "tag": "⬆️ 109 points",
-      "url": "https://amiga.lychesis.net/index.html"
-    },
-    {
-      "title": "Cesium DevCon 2026 talks are up, including a keynote from SQLite's creator",
-      "hot": "2.8m",
-      "desc": "cesium.com",
-      "source": "tech",
-      "tag": "⬆️ 10 points",
-      "url": "https://cesium.com/events/cesium-developer-conference/2026/"
-    },
-    {
-      "title": "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",
-      "hot": "2.8m",
-      "desc": "juliahub.com",
-      "source": "tech",
-      "tag": "⬆️ 18 points",
-      "url": "https://juliahub.com/blog/frontier-models-physical-ai-evaluation"
-    },
-    {
-      "title": "Disrupting supply chain attacks on NPM and GitHub Actions",
-      "hot": "2.8m",
-      "desc": "github.blog",
-      "source": "tech",
-      "tag": "⬆️ 55 points",
-      "url": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/"
-    },
-    {
-      "title": "Self-hosting Kimi K3: 20% more hardware cost, 20% better task resolution",
-      "hot": "2.8m",
-      "desc": "aistack.imec-int.com",
-      "source": "tech",
-      "tag": "⬆️ 13 points",
-      "url": "https://aistack.imec-int.com/blog/gpu-self-hosting"
-    },
-    {
-      "title": "Show HN: Qwen Scribe – local transcription and dictation for Apple Silicon",
-      "hot": "2.8m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 12 points",
-      "url": "https://github.com/VladUZH/qwen-scribe"
-    },
-    {
-      "title": "User Interfaces of the Demo Scene",
-      "hot": "2.7m",
-      "desc": "datagubbe.se",
-      "source": "tech",
-      "tag": "⬆️ 342 points",
-      "url": "https://www.datagubbe.se/scenegui/"
-    },
-    {
-      "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
-      "hot": "2.7m",
-      "desc": "micrologics.org",
-      "source": "tech",
-      "tag": "⬆️ 192 points",
-      "url": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers"
-    },
-    {
-      "title": "AI in Linux",
-      "hot": "2.7m",
-      "desc": "drewdevault.com",
-      "source": "tech",
-      "tag": "⬆️ 14 points",
-      "url": "https://drewdevault.com/blog/AI-in-Linux/"
-    }
-  ],
-  "github": [
-    {
-      "title": "MoonshotAI/Kimi-K3: Open Frontier Intelligence",
-      "hot": "⭐ 4.8k",
-      "desc": "Open Frontier Intelligence",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/MoonshotAI/Kimi-K3"
-    },
-    {
-      "title": "vercel-labs/scriptc: TypeScript-to-Native Compiler",
-      "hot": "⭐ 2.3k",
-      "desc": "TypeScript-to-Native Compiler",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/vercel-labs/scriptc"
-    },
-    {
-      "title": "slvDev/esp32-ai: ",
-      "hot": "⭐ 2.2k",
-      "desc": "slvDev/esp32-ai",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/slvDev/esp32-ai"
-    },
-    {
-      "title": "mshumer/Claude-of-Duty: A Call of Duty-quality FPS in Three.js, built from a sin",
-      "hot": "⭐ 2.2k",
-      "desc": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/mshumer/Claude-of-Duty"
-    },
-    {
-      "title": "kvcache-ai/AgentENV: AgentENV (AENV) is a distributed platform for running agent",
-      "hot": "⭐ 1.8k",
-      "desc": "AgentENV (AENV) is a distributed platform for running agent environments at scale.",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/kvcache-ai/AgentENV"
-    },
-    {
-      "title": "makecindy/cindy: Consider it done. The open-source AI agent that works out of th",
-      "hot": "⭐ 1.1k",
-      "desc": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/makecindy/cindy"
-    },
-    {
-      "title": "mikiarlo3/ai-copywriter: An AI copywriter that uses real copywriting skills + re",
-      "hot": "⭐ 1.0k",
-      "desc": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/mikiarlo3/ai-copywriter"
-    },
-    {
-      "title": "digimata/quill: Ultraminimalist macOS recording + transcription.",
-      "hot": "⭐ 941",
-      "desc": "Ultraminimalist macOS recording + transcription.",
-      "source": "github",
-      "tag": "Swift",
-      "url": "https://github.com/digimata/quill"
-    },
-    {
-      "title": "fuadmefleh/Shared-Claude-Chats: An archive of public Claude and Grok conversatio",
-      "hot": "⭐ 920",
-      "desc": "An archive of public Claude and Grok conversations, exported from their share links as plain markdown, plus the two scripts that produce it.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/fuadmefleh/Shared-Claude-Chats"
-    },
-    {
-      "title": "MoonshotAI/MoonEP: MoonEP: A Perfectly Balanced Expert Parallelism Library via D",
-      "hot": "⭐ 852",
-      "desc": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/MoonshotAI/MoonEP"
-    },
-    {
-      "title": "VictorTaelin/OptMem: Permanent memory for AI agents. A 426-token prompt, a scrip",
-      "hot": "⭐ 850",
-      "desc": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/VictorTaelin/OptMem"
-    },
-    {
-      "title": "XYZ-AI-Lab/axrl: AxisRL is an agentic RL post-training framework built on SGLang",
-      "hot": "⭐ 569",
-      "desc": "AxisRL is an agentic RL post-training framework built on SGLang rollout, Megatron training, and real-world agent workflows.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/XYZ-AI-Lab/axrl"
-    },
-    {
-      "title": "0xwilliamortiz/openclaude-improved: runs anywhere. uses anything",
-      "hot": "⭐ 554",
-      "desc": "runs anywhere. uses anything",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/0xwilliamortiz/openclaude-improved"
-    },
-    {
-      "title": "mikehasa/agentacct: Local-first Agent Work Intelligence for coding agents: usage",
-      "hot": "⭐ 523",
-      "desc": "Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/mikehasa/agentacct"
-    },
-    {
-      "title": "0xwilliamortiz/ponytail-improved: Makes your AI agent think like the laziest sen",
-      "hot": "⭐ 511",
-      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/0xwilliamortiz/ponytail-improved"
-    }
-  ],
-  "space": [
-    {
-      "title": "NASA’s Curiosity Mars Rover Discovers Field of Honeycomb Textures",
-      "hot": "7/29",
-      "desc": "As NASA’s Curiosity rover recently began climbing up a Martian valley nicknamed “Valle Grande,” it sent back images that were a familiar sight to miss",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-mars-rover-discovers-field-of-honeycomb-textures/"
-    },
-    {
-      "title": "APOD: 2026 July 29 – Psyche Receives Gravity Assist from Mars",
-      "hot": "7/29",
-      "desc": "A video of the Psyche spacecraft flying by Mars.",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/image-article/apod/apod-2026-july-29-psyche-receives-gravity-assist-from-mars/"
-    },
-    {
-      "title": "Understanding How Martian Auroras Are Made",
-      "hot": "7/29",
-      "desc": "This July 23, 2026, illustration depicts charged particles from a solar storm stripping away charged particles of Mars’ atmosphere, one of the process",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/image-article/understanding-how-martian-auroras-are-made/"
-    },
-    {
-      "title": "LatConnect 60 Accelerates SWIRSAT Constellation Growth Anchored in Western Australia with Expansion into Malaysia and UAE",
-      "hot": "7/29",
-      "desc": "\nPERTH, Western Australia — LatConnect 60 (LC60) is executing on a multi-geography industrial plan to accelerate its SWIRSAT constellation, anchoring ",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/latconnect-60-accelerates-swirsat-constellation-growth-anchored-in-western-australia-with-expansion-into-malaysia-and-uae/"
-    },
-    {
-      "title": "MaiaSpace Ditches Suborbital Test Flight Plans",
-      "hot": "7/29",
-      "desc": "MaiaSpace has scrapped plans to conduct a suborbital test flight of its Maia rocket, opting instead to proceed straight to a full orbital launch attem",
-      "source": "space",
-      "tag": "European Spaceflight",
-      "url": "https://europeanspaceflight.com/maiaspace-ditches-suborbital-test-flight-plans/"
-    },
-    {
-      "title": "NASA Webb Explores Family Tree of Newly Discovered Distant Objects",
-      "hot": "7/29",
-      "desc": "Since their discovery by NASA’s James Webb Space Telescope in 2022, little red dots (LRDs) have been the subject of great interest to astronomers. Und",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/missions/webb/nasa-webb-explores-family-tree-of-newly-discovered-distant-objects/"
-    },
-    {
-      "title": "Contractor to Civil Servant: NASA Welcomes Ray Williams",
-      "hot": "7/29",
-      "desc": "Ray Williams’ progression at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, has uniquely prepared him for his new role. As part of NASA’",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-ray-williams/"
-    },
-    {
-      "title": "Fortastra and Hadrian join forces to streamline satellite production",
-      "hot": "7/29",
-      "desc": "\nSAN FRANCISCO – Fortastra, a Los Angeles startup focused on defending on-orbit infrastructure, is working with manufacturing specialist Hadrian to ex",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/fortastra-and-hadrian-join-forces-to-streamline-satellite-production/"
-    },
-    {
-      "title": "H3 to launch next ispace lunar lander mission",
-      "hot": "7/29",
-      "desc": "\nJapanese lunar lander developer ispace has selected the H3 rocket to launch its next mission in 2028, creating what the companies called Japan’s firs",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/h3-to-launch-next-ispace-lunar-lander-mission/"
-    },
-    {
-      "title": "Earth and Proba-3’s Coronagraph play hide and seek",
-      "hot": "7/29",
-      "desc": "From the ESA Blogs.",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Earth_and_Proba-3_s_Coronagraph_play_hide_and_seek"
-    },
-    {
-      "title": "Sizing Up the Sargassum Belt",
-      "hot": "7/29",
-      "desc": "Seaweed composing the Great Atlantic Sargassum Belt hit near-record levels in June 2026, with the Caribbean Sea and Gulf of America both reaching all-",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/earth/earth-observatory/sizing-up-the-sargassum-belt/"
-    },
-    {
-      "title": "DOT Issues Proposed Rule to Waive Environmental Regulations for Space Launches",
-      "hot": "7/29",
-      "desc": "The Department of Transportation wants to loosen environmental regulations for space launches and reentries. A proposed rule released today would allo",
-      "source": "space",
-      "tag": "SpacePolicyOnline.com",
-      "url": "https://spacepolicyonline.com/news/dot-issues-proposed-rule-to-waive-environmental-regulations-for-space-launches/"
-    },
-    {
-      "title": "Boeing still working with NASA to schedule next Starliner flight",
-      "hot": "7/29",
-      "desc": "Boeing is still working with NASA to determine when to fly its CST-100 Starliner commercial crew vehicle on a cargo mission to the International Space",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/boeing-still-working-with-nasa-to-schedule-next-starliner-flight/"
-    },
-    {
-      "title": "Chinese startup raises funds for space situational awareness constellation, joining commercial SSA rush",
-      "hot": "7/29",
-      "desc": "\nSINGAPORE — A Beijing-based startup has secured around $14 million to build a satellite constellation for tracking orbital objects, adding to China’s",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/chinese-startup-raises-funds-for-space-situational-awareness-constellation-joining-commercial-ssa-rush/"
-    },
-    {
-      "title": "Swift reboost mission encounters attitude control problems",
-      "hot": "7/28",
-      "desc": "A spacecraft launched nearly a month ago in a high-risk bid to boost the orbit of a NASA astrophysics satellite is suffering attitude control problems",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/swift-reboost-mission-encounters-attitude-control-problems/"
-    }
-  ],
   "dev": [
     {
       "title": "Passkeys Explained Simply",
@@ -434,7 +28,7 @@
     },
     {
       "title": "Welcome Thread - v386",
-      "hot": "❤️ 10 💬 22",
+      "hot": "❤️ 11 💬 25",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
@@ -442,7 +36,7 @@
     },
     {
       "title": "Building AI Agents with the Kotlin Agent Development Kit (ADK)",
-      "hot": "❤️ 8 💬 1",
+      "hot": "❤️ 9 💬 3",
       "desc": "This tutorial builds a starter \"Hello World\" style agent using Kotlin and the native Kotlin version...",
       "source": "dev",
       "tag": "kotlin,  ai",
@@ -545,11 +139,11 @@
       "url": "https://dev.to/gde/build-and-deploy-java-ai-agents-with-google-adk-28oi"
     },
     {
-      "title": "Can Amazon Bedrock AgentCore Talk to Microsoft Foundry over A2A?",
+      "title": "Can Google ADK Talk to Microsoft Foundry on Azure? A Cross-Cloud A2A Benchmark",
       "hot": "❤️ 9 💬 4",
       "desc": "This article provides a step-by-step guide to building and testing a cross-cloud currency agent. A...",
       "source": "dev",
-      "tag": "aws,  azure",
+      "tag": "agents,  googleadk",
       "url": "https://dev.to/gde/can-google-adk-talk-to-microsoft-foundry-on-azure-a-cross-cloud-a2a-benchmark-4h36"
     },
     {
@@ -567,6 +161,412 @@
       "source": "dev",
       "tag": "discuss,  ai",
       "url": "https://dev.to/gde/auditing-agent-skills-a-threat-model-for-the-next-generation-of-ai-package-managers-2g25"
+    }
+  ],
+  "tech": [
+    {
+      "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+      "hot": "3.0m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 291 points",
+      "url": "https://github.com/drumih/turbo-fieldfare"
+    },
+    {
+      "title": "Superlogical",
+      "hot": "3.0m",
+      "desc": "superlogical.com",
+      "source": "tech",
+      "tag": "⬆️ 144 points",
+      "url": "https://www.superlogical.com/"
+    },
+    {
+      "title": "KOReader",
+      "hot": "3.0m",
+      "desc": "koreader.rocks",
+      "source": "tech",
+      "tag": "⬆️ 518 points",
+      "url": "https://koreader.rocks/"
+    },
+    {
+      "title": "Handbook.md shows that long policy documents do not reliably govern agents",
+      "hot": "3.0m",
+      "desc": "arxiv.org",
+      "source": "tech",
+      "tag": "⬆️ 202 points",
+      "url": "https://arxiv.org/abs/2607.25398"
+    },
+    {
+      "title": "Keychron announces first open-source firmware for gaming mice",
+      "hot": "2.9m",
+      "desc": "digitalfoundry.net",
+      "source": "tech",
+      "tag": "⬆️ 30 points",
+      "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice"
+    },
+    {
+      "title": "Hugging Face: Anatomy of a frontier-lab agent intrusion",
+      "hot": "2.9m",
+      "desc": "huggingface-anatomy-of-frontier-lab-model-intrusion.static.hf.space",
+      "source": "tech",
+      "tag": "⬆️ 76 points",
+      "url": "https://huggingface-anatomy-of-frontier-lab-model-intrusion.static.hf.space/index.html"
+    },
+    {
+      "title": "PgDog (YC P25) Is Hiring",
+      "hot": "2.9m",
+      "desc": "ycombinator.com",
+      "source": "tech",
+      "tag": "⬆️ 1 points",
+      "url": "https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer"
+    },
+    {
+      "title": "Document-borne AI worms can self-propagate through Copilot for Word",
+      "hot": "2.9m",
+      "desc": "enklypesalt.com",
+      "source": "tech",
+      "tag": "⬆️ 242 points",
+      "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/"
+    },
+    {
+      "title": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
+      "hot": "2.9m",
+      "desc": "usetokenless.com",
+      "source": "tech",
+      "tag": "⬆️ 28 points",
+      "url": "https://usetokenless.com/"
+    },
+    {
+      "title": "A.I. companies are recruiting electricians and carpenters by the thousands",
+      "hot": "2.9m",
+      "desc": "nytimes.com",
+      "source": "tech",
+      "tag": "⬆️ 59 points",
+      "url": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html"
+    },
+    {
+      "title": "Hamburg's Stadtpark: A Park Built to Be Used",
+      "hot": "2.9m",
+      "desc": "alsterrunde.com",
+      "source": "tech",
+      "tag": "⬆️ 45 points",
+      "url": "https://alsterrunde.com/hamburgs-stadtpark-a-park-built-to-be-used/"
+    },
+    {
+      "title": "The Rust on ESP Book",
+      "hot": "2.8m",
+      "desc": "docs.espressif.com",
+      "source": "tech",
+      "tag": "⬆️ 31 points",
+      "url": "https://docs.espressif.com/projects/rust/book/"
+    },
+    {
+      "title": "Darktable",
+      "hot": "2.8m",
+      "desc": "darktable.org",
+      "source": "tech",
+      "tag": "⬆️ 168 points",
+      "url": "https://www.darktable.org/"
+    },
+    {
+      "title": "Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem",
+      "hot": "2.8m",
+      "desc": "claire-blackshaw.com",
+      "source": "tech",
+      "tag": "⬆️ 74 points",
+      "url": "https://www.claire-blackshaw.com/blog/2026/07/shipping-godot-vr-and-porting-to-psvr2-a-partial-post-mortem/"
+    },
+    {
+      "title": "Self-hosting Kimi K3: 20% more hardware cost, 20% better task resolution",
+      "hot": "2.8m",
+      "desc": "aistack.imec-int.com",
+      "source": "tech",
+      "tag": "⬆️ 44 points",
+      "url": "https://aistack.imec-int.com/blog/gpu-self-hosting"
+    },
+    {
+      "title": "Hunter-gatherers introduced fish to a mountain lake 7000 years ago",
+      "hot": "2.8m",
+      "desc": "newscientist.com",
+      "source": "tech",
+      "tag": "⬆️ 93 points",
+      "url": "https://www.newscientist.com/article/2580119-hunter-gatherers-introduced-fish-to-a-mountain-lake-7000-years-ago/"
+    },
+    {
+      "title": "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",
+      "hot": "2.8m",
+      "desc": "juliahub.com",
+      "source": "tech",
+      "tag": "⬆️ 39 points",
+      "url": "https://juliahub.com/blog/frontier-models-physical-ai-evaluation"
+    },
+    {
+      "title": "Cesium DevCon 2026 talks are up, including a keynote from SQLite's creator",
+      "hot": "2.7m",
+      "desc": "cesium.com",
+      "source": "tech",
+      "tag": "⬆️ 28 points",
+      "url": "https://cesium.com/events/cesium-developer-conference/2026/"
+    },
+    {
+      "title": "Infrastructure Patterns for Agentic Applications",
+      "hot": "2.7m",
+      "desc": "render.com",
+      "source": "tech",
+      "tag": "⬆️ 23 points",
+      "url": "https://render.com/blog/infrastructure-patterns-for-agentic-applications"
+    },
+    {
+      "title": "Show HN: Qwen Scribe – local transcription and dictation for Apple Silicon",
+      "hot": "2.7m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 27 points",
+      "url": "https://github.com/VladUZH/qwen-scribe"
+    }
+  ],
+  "space": [
+    {
+      "title": "Swift Reboost Mission Encounters Setback",
+      "hot": "7/29",
+      "desc": "Katalyst Space’s efforts to reboost NASA’s Swift observatory has encountered a setback. The LINK on-orbit servicing spacecraft is in a multi-axis spin",
+      "source": "space",
+      "tag": "SpacePolicyOnline.com",
+      "url": "https://spacepolicyonline.com/news/swift-reboost-mission-encounters-setback/"
+    },
+    {
+      "title": "Actually, Starliner might fly into space this year",
+      "hot": "7/29",
+      "desc": "\"We're feeling pretty good about that,\" Boeing CEO Kelly Ortberg said.",
+      "source": "space",
+      "tag": "Arstechnica",
+      "url": "https://arstechnica.com/space/2026/07/actually-starliner-might-fly-into-space-this-year/"
+    },
+    {
+      "title": "NASA Sets Coverage for August Northern Hemisphere Total Solar Eclipse",
+      "hot": "7/29",
+      "desc": "On Wednesday, Aug. 12, a total solar eclipse will be visible in parts of Greenland, Iceland, northern Russia, the Atlantic Ocean, Spain, and a small c",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-august-northern-hemisphere-total-solar-eclipse/"
+    },
+    {
+      "title": "NASA’s Curiosity Views a Sand-Capped Butte",
+      "hot": "7/29",
+      "desc": "Description NASA’s Curiosity Mars rover captured this sand-capped butte, nicknamed “Miraflores,” estimated to be about 20 feet (6 meters) tall, with i",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/photojournal/nasas-curiosity-views-a-sand-capped-butte/"
+    },
+    {
+      "title": "NASA’s Curiosity Discovers a Field of Martian Polygons",
+      "hot": "7/29",
+      "desc": "Description NASA’s Curiosity Mars rover captured this 360-degree view of an expanse of terrain covered in surface features called polygons on June 19 ",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/photojournal/nasas-curiosity-discovers-a-field-of-martian-polygons/"
+    },
+    {
+      "title": "NASA’s Curiosity Mars Rover Discovers Field of Honeycomb Textures",
+      "hot": "7/29",
+      "desc": "As NASA’s Curiosity rover recently began climbing up a Martian valley nicknamed “Valle Grande,” it sent back images that were a familiar sight to miss",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-mars-rover-discovers-field-of-honeycomb-textures/"
+    },
+    {
+      "title": "APOD: 2026 July 29 – Psyche Receives Gravity Assist from Mars",
+      "hot": "7/29",
+      "desc": "A video of the Psyche spacecraft flying by Mars.",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/image-article/apod/apod-2026-july-29-psyche-receives-gravity-assist-from-mars/"
+    },
+    {
+      "title": "Understanding How Martian Auroras Are Made",
+      "hot": "7/29",
+      "desc": "This July 23, 2026, illustration depicts charged particles from a solar storm stripping away charged particles of Mars’ atmosphere, one of the process",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/image-article/understanding-how-martian-auroras-are-made/"
+    },
+    {
+      "title": "LatConnect 60 Accelerates SWIRSAT Constellation Growth Anchored in Western Australia with Expansion into Malaysia and UAE",
+      "hot": "7/29",
+      "desc": "\nPERTH, Western Australia — LatConnect 60 (LC60) is executing on a multi-geography industrial plan to accelerate its SWIRSAT constellation, anchoring ",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/latconnect-60-accelerates-swirsat-constellation-growth-anchored-in-western-australia-with-expansion-into-malaysia-and-uae/"
+    },
+    {
+      "title": "MaiaSpace Ditches Suborbital Test Flight Plans",
+      "hot": "7/29",
+      "desc": "MaiaSpace has scrapped plans to conduct a suborbital test flight of its Maia rocket, opting instead to proceed straight to a full orbital launch attem",
+      "source": "space",
+      "tag": "European Spaceflight",
+      "url": "https://europeanspaceflight.com/maiaspace-ditches-suborbital-test-flight-plans/"
+    },
+    {
+      "title": "NASA Webb Explores Family Tree of Newly Discovered Distant Objects",
+      "hot": "7/29",
+      "desc": "Since their discovery by NASA’s James Webb Space Telescope in 2022, little red dots (LRDs) have been the subject of great interest to astronomers. Und",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/missions/webb/nasa-webb-explores-family-tree-of-newly-discovered-distant-objects/"
+    },
+    {
+      "title": "Contractor to Civil Servant: NASA Welcomes Ray Williams",
+      "hot": "7/29",
+      "desc": "Ray Williams’ progression at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, has uniquely prepared him for his new role. As part of NASA’",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-ray-williams/"
+    },
+    {
+      "title": "Fortastra and Hadrian join forces to streamline satellite production",
+      "hot": "7/29",
+      "desc": "\nSAN FRANCISCO – Fortastra, a Los Angeles startup focused on defending on-orbit infrastructure, is working with manufacturing specialist Hadrian to ex",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/fortastra-and-hadrian-join-forces-to-streamline-satellite-production/"
+    },
+    {
+      "title": "H3 to launch next ispace lunar lander mission",
+      "hot": "7/29",
+      "desc": "\nJapanese lunar lander developer ispace has selected the H3 rocket to launch its next mission in 2028, creating what the companies called Japan’s firs",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/h3-to-launch-next-ispace-lunar-lander-mission/"
+    },
+    {
+      "title": "Earth and Proba-3’s Coronagraph play hide and seek",
+      "hot": "7/29",
+      "desc": "From the ESA Blogs.",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Earth_and_Proba-3_s_Coronagraph_play_hide_and_seek"
+    }
+  ],
+  "github": [
+    {
+      "title": "MoonshotAI/Kimi-K3: Open Frontier Intelligence",
+      "hot": "⭐ 5.1k",
+      "desc": "Open Frontier Intelligence",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/MoonshotAI/Kimi-K3"
+    },
+    {
+      "title": "vercel-labs/scriptc: TypeScript-to-Native Compiler",
+      "hot": "⭐ 2.3k",
+      "desc": "TypeScript-to-Native Compiler",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/vercel-labs/scriptc"
+    },
+    {
+      "title": "slvDev/esp32-ai: ",
+      "hot": "⭐ 2.3k",
+      "desc": "slvDev/esp32-ai",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/slvDev/esp32-ai"
+    },
+    {
+      "title": "mshumer/Claude-of-Duty: A Call of Duty-quality FPS in Three.js, built from a sin",
+      "hot": "⭐ 2.2k",
+      "desc": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/mshumer/Claude-of-Duty"
+    },
+    {
+      "title": "kvcache-ai/AgentENV: AgentENV (AENV) is a distributed platform for running agent",
+      "hot": "⭐ 1.9k",
+      "desc": "AgentENV (AENV) is a distributed platform for running agent environments at scale.",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/kvcache-ai/AgentENV"
+    },
+    {
+      "title": "makecindy/cindy: Consider it done. The open-source AI agent that works out of th",
+      "hot": "⭐ 1.1k",
+      "desc": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/makecindy/cindy"
+    },
+    {
+      "title": "digimata/quill: Ultraminimalist macOS recording + transcription.",
+      "hot": "⭐ 1.1k",
+      "desc": "Ultraminimalist macOS recording + transcription.",
+      "source": "github",
+      "tag": "Swift",
+      "url": "https://github.com/digimata/quill"
+    },
+    {
+      "title": "mikiarlo3/ai-copywriter: An AI copywriter that uses real copywriting skills + re",
+      "hot": "⭐ 1.0k",
+      "desc": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/mikiarlo3/ai-copywriter"
+    },
+    {
+      "title": "fuadmefleh/Shared-Claude-Chats: An archive of public Claude and Grok conversatio",
+      "hot": "⭐ 922",
+      "desc": "An archive of public Claude and Grok conversations, exported from their share links as plain markdown, plus the two scripts that produce it.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/fuadmefleh/Shared-Claude-Chats"
+    },
+    {
+      "title": "VictorTaelin/OptMem: Permanent memory for AI agents. A 426-token prompt, a scrip",
+      "hot": "⭐ 856",
+      "desc": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/VictorTaelin/OptMem"
+    },
+    {
+      "title": "MoonshotAI/MoonEP: MoonEP: A Perfectly Balanced Expert Parallelism Library via D",
+      "hot": "⭐ 856",
+      "desc": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/MoonshotAI/MoonEP"
+    },
+    {
+      "title": "XYZ-AI-Lab/axrl: AxisRL is an agentic RL post-training framework built on SGLang",
+      "hot": "⭐ 569",
+      "desc": "AxisRL is an agentic RL post-training framework built on SGLang rollout, Megatron training, and real-world agent workflows.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/XYZ-AI-Lab/axrl"
+    },
+    {
+      "title": "0xwilliamortiz/openclaude-improved: runs anywhere. uses anything",
+      "hot": "⭐ 554",
+      "desc": "runs anywhere. uses anything",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/0xwilliamortiz/openclaude-improved"
+    },
+    {
+      "title": "0xwilliamortiz/ponytail-improved: Makes your AI agent think like the laziest sen",
+      "hot": "⭐ 545",
+      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/0xwilliamortiz/ponytail-improved"
+    },
+    {
+      "title": "mikehasa/agentacct: Local-first Agent Work Intelligence for coding agents: usage",
+      "hot": "⭐ 523",
+      "desc": "Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/mikehasa/agentacct"
     }
   ]
 }
