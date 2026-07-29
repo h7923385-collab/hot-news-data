@@ -1,69 +1,247 @@
 {
-  "updatedAt": "2026-07-28T23:45:37.385Z",
+  "updatedAt": "2026-07-29T01:14:47.362Z",
   "source": "live",
+  "dev": [
+    {
+      "title": "Passkeys Explained Simply",
+      "hot": "❤️ 56 💬 18",
+      "desc": "You’ve probably seen that little prompt that says “Sign in with Face ID” or “Use a passkey” instead...",
+      "source": "dev",
+      "tag": "security,  api",
+      "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk"
+    },
+    {
+      "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
+      "hot": "❤️ 27 💬 8",
+      "desc": "Every form I ever shipped before React 19 needed the same three pieces of state, and I wired them up...",
+      "source": "dev",
+      "tag": "react,  webdev",
+      "url": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd"
+    },
+    {
+      "title": "Your Face on a World Cup Sticker: Our Nano Banana Story",
+      "hot": "❤️ 8 💬 0",
+      "desc": "There is something timeless about opening a pack of football stickers. You never know which player,...",
+      "source": "dev",
+      "tag": "ai,  nanobanana",
+      "url": "https://dev.to/gde/your-face-on-a-world-cup-sticker-our-nano-banana-story-43p6"
+    },
+    {
+      "title": "I had two weeks, an 8-foot keyboard, and a Wordle Workflow",
+      "hot": "❤️ 6 💬 0",
+      "desc": "A Wordle clone, an 8-foot keyboard, and a holographic fan display made Temporal's Durable Execution visible at AI Engine",
+      "source": "dev",
+      "tag": "temporal,  codesamples",
+      "url": "https://dev.to/temporalio/i-had-two-weeks-an-8-foot-keyboard-and-a-wordle-workflow-15h"
+    },
+    {
+      "title": "Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark",
+      "hot": "❤️ 7 💬 0",
+      "desc": "This article provides a step-by-step guide to building and testing a cross-cloud currency agent. A...",
+      "source": "dev",
+      "tag": "agents,  googleadk",
+      "url": "https://dev.to/gde/can-google-adk-talk-to-amazon-bedrock-agentcore-runtime-a-cross-cloud-a2a-benchmark-162l"
+    },
+    {
+      "title": "Building AI Agents with the Kotlin Agent Development Kit (ADK)",
+      "hot": "❤️ 6 💬 1",
+      "desc": "This tutorial builds a starter \"Hello World\" style agent using Kotlin and the native Kotlin version...",
+      "source": "dev",
+      "tag": "kotlin,  ai",
+      "url": "https://dev.to/gde/building-ai-agents-with-the-kotlin-agent-development-kit-adk-2gpa"
+    },
+    {
+      "title": "Beyond Flutter: Running BlocSignal State Machines in Pure Dart, Jaspr Web, and CLI Tools",
+      "hot": "❤️ 5 💬 0",
+      "desc": "Discover how BlocSignal's zero-Flutter core package enables unified state management across CLI tools, Jaspr web apps, a",
+      "source": "dev",
+      "tag": "flutter,  dart",
+      "url": "https://dev.to/gde/beyond-flutter-running-blocsignal-state-machines-in-pure-dart-jaspr-web-and-cli-tools-51f6"
+    },
+    {
+      "title": "Bug Smash isn't glamorous and that's what I love about it.",
+      "hot": "❤️ 16 💬 2",
+      "desc": "We kicked off DEV's Big Summer Bug Smash on July 14, and I've been waiting to write this post since...",
+      "source": "dev",
+      "tag": "bugsmash,  devchallenge",
+      "url": "https://dev.to/devteam/bug-smash-isnt-glamorous-and-thats-what-i-love-about-it-445i"
+    },
+    {
+      "title": "Can Google ADK Talk to Microsoft Foundry on Azure? A Cross-Cloud A2A Benchmark",
+      "hot": "❤️ 9 💬 4",
+      "desc": "This article provides a step-by-step guide to building and testing a cross-cloud currency agent. A...",
+      "source": "dev",
+      "tag": "agents,  googleadk",
+      "url": "https://dev.to/gde/can-google-adk-talk-to-microsoft-foundry-on-azure-a-cross-cloud-a2a-benchmark-4h36"
+    },
+    {
+      "title": "DevRelCon, Adult Summer Camp, and My First Time Speaking",
+      "hot": "❤️ 7 💬 1",
+      "desc": "There’s something about DevRelCon that feels a little like adult summer camp.  It’s immersive,...",
+      "source": "dev",
+      "tag": "ai,  devrel",
+      "url": "https://dev.to/daniellewashington/devrelcon-adult-summer-camp-and-my-first-time-speaking-4p2d"
+    },
+    {
+      "title": "[Learning Notes][Golang] Authorization Challenges in the AI Agent Era: What is ID-JAG and Why I Re-implemented It in Go",
+      "hot": "❤️ 8 💬 4",
+      "desc": "Preface:   In the past six months or so, connecting AI Agents directly to internal systems...",
+      "source": "dev",
+      "tag": "agents,  ai",
+      "url": "https://dev.to/gde/learning-notesgolang-authorization-challenges-in-the-ai-agent-era-what-is-id-jag-and-why-i-jfb"
+    },
+    {
+      "title": "[Dev Log][Node.js] Feedly Classic is gone, so I built my own FeedFlow (Part 1)",
+      "hot": "❤️ 8 💬 0",
+      "desc": "Introduction:   Since Feedly's redesign, I haven't been able to get used to the interface....",
+      "source": "dev",
+      "tag": "javascript,  node",
+      "url": "https://dev.to/gde/dev-lognodejs-feedly-classic-is-gone-so-i-built-my-own-feedflow-part-1-55h4"
+    },
+    {
+      "title": "Seamless Flutter Hooks Integration with BlocSignal via signals_hooks",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Discover how BlocSignal and signals_hooks eliminate flutter_bloc glue code, stream overhead, and widget tree nesting in ",
+      "source": "dev",
+      "tag": "flutter,  dart",
+      "url": "https://dev.to/gde/seamless-flutter-hooks-integration-with-blocsignal-via-signalshooks-55e"
+    },
+    {
+      "title": "Switching Tracks in BlocSignal: The Universal State Switchyard for BLoC, Riverpod, and Provider",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Stop derailing your Flutter apps! Learn how BlocSignal acts as a central railway switchyard bridging BLoC, Riverpod, and",
+      "source": "dev",
+      "tag": "flutter,  dart",
+      "url": "https://dev.to/gde/switching-tracks-in-blocsignal-the-universal-state-switchyard-for-bloc-riverpod-and-provider-929"
+    },
+    {
+      "title": "Beyond System Prompts: Enforcing Policy & Action Boundaries in Enterprise AI Agents",
+      "hot": "❤️ 8 💬 0",
+      "desc": "Why prompt-based guardrails fail for AI agents and how to enforce deterministic tool adapter validation, 4-tier risk cla",
+      "source": "dev",
+      "tag": "ai,  security",
+      "url": "https://dev.to/gde/beyond-system-prompts-enforcing-policy-action-boundaries-in-enterprise-ai-agents-29ac"
+    },
+    {
+      "title": "Building AI Agents with the TypeScript Agent Development Kit (ADK)",
+      "hot": "❤️ 8 💬 2",
+      "desc": "Build, test, and deploy AI agents using Google's native TypeScript Agent Development Kit (ADK), Gemini 2.5 Flash, and Cl",
+      "source": "dev",
+      "tag": "typescript,  ai",
+      "url": "https://dev.to/gde/building-ai-agents-with-the-typescript-agent-development-kit-adk-3mf"
+    },
+    {
+      "title": "Build and Deploy Java AI Agents with Google ADK",
+      "hot": "❤️ 8 💬 0",
+      "desc": "Set up Java and Google ADK on Debian 13, run an agent locally, test it with JUnit, and deploy it to Cloud Run.",
+      "source": "dev",
+      "tag": "java,  ai",
+      "url": "https://dev.to/gde/build-and-deploy-java-ai-agents-with-google-adk-28oi"
+    },
+    {
+      "title": "How terminal-sharing tools put your shell in a browser",
+      "hot": "❤️ 57 💬 6",
+      "desc": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
+      "source": "dev",
+      "tag": "webdev,  programming",
+      "url": "https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328"
+    },
+    {
+      "title": "Auditing Agent Skills: A Threat Model for the Next Generation of AI Package Managers",
+      "hot": "❤️ 28 💬 2",
+      "desc": "Let me start with a question.  If a stranger handed you a USB drive and said \"plug this in, it just...",
+      "source": "dev",
+      "tag": "discuss,  ai",
+      "url": "https://dev.to/gde/auditing-agent-skills-a-threat-model-for-the-next-generation-of-ai-package-managers-2g25"
+    },
+    {
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "hot": "❤️ 59 💬 14",
+      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+      "source": "dev",
+      "tag": "top7,  discuss",
+      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-257h"
+    }
+  ],
   "tech": [
     {
-      "title": "OpenAI just open-sourced Codex Security",
+      "title": "Codex Security",
       "hot": "3.0m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 278 points",
+      "tag": "⬆️ 330 points",
       "url": "https://github.com/openai/codex-security"
-    },
-    {
-      "title": "Underwater oxygen loss threatens earth's stability, researchers warn",
-      "hot": "3.0m",
-      "desc": "scripps.ucsd.edu",
-      "source": "tech",
-      "tag": "⬆️ 85 points",
-      "url": "https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn"
-    },
-    {
-      "title": "Half-Life ported to Mac OS 9",
-      "hot": "3.0m",
-      "desc": "mac-classic.com",
-      "source": "tech",
-      "tag": "⬆️ 99 points",
-      "url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/"
     },
     {
       "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
       "hot": "3.0m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 55 points",
+      "tag": "⬆️ 109 points",
       "url": "https://github.com/twalichiewicz/HNewhere"
     },
     {
+      "title": "Half-Life ported to Mac OS 9",
+      "hot": "3.0m",
+      "desc": "mac-classic.com",
+      "source": "tech",
+      "tag": "⬆️ 131 points",
+      "url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/"
+    },
+    {
       "title": "Substack writers, you need a website",
-      "hot": "2.9m",
+      "hot": "3.0m",
       "desc": "elizabethtai.com",
       "source": "tech",
-      "tag": "⬆️ 377 points",
+      "tag": "⬆️ 403 points",
       "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/"
     },
     {
-      "title": "Anthropic publishes a practical key-recovery attack on HAWK-256",
+      "title": "Hubble: Open-source notetaking app for you and your agents",
       "hot": "2.9m",
-      "desc": "github.com",
+      "desc": "hubble.md",
       "source": "tech",
-      "tag": "⬆️ 47 points",
-      "url": "https://github.com/anthropics/cryptography-research-demo"
+      "tag": "⬆️ 21 points",
+      "url": "https://www.hubble.md/"
+    },
+    {
+      "title": "The Difference Between a Button and a Link",
+      "hot": "2.9m",
+      "desc": "unplannedobsolescence.com",
+      "source": "tech",
+      "tag": "⬆️ 16 points",
+      "url": "https://unplannedobsolescence.com/blog/buttons-vs-links/"
     },
     {
       "title": "Steel Bank Common Lisp version 2.6.7",
       "hot": "2.9m",
       "desc": "sbcl.org",
       "source": "tech",
-      "tag": "⬆️ 180 points",
+      "tag": "⬆️ 196 points",
       "url": "https://sbcl.org/all-news.html?2.6.7"
+    },
+    {
+      "title": "Teach yourself programming in ten years (1998)",
+      "hot": "2.9m",
+      "desc": "norvig.com",
+      "source": "tech",
+      "tag": "⬆️ 24 points",
+      "url": "https://www.norvig.com/21-days.html"
+    },
+    {
+      "title": "ReFrame – The EPaper Camera",
+      "hot": "2.9m",
+      "desc": "reframe.camera",
+      "source": "tech",
+      "tag": "⬆️ 14 points",
+      "url": "https://reframe.camera/"
     },
     {
       "title": "Kimi K3 Architecture Overview and Notes",
       "hot": "2.9m",
       "desc": "sebastianraschka.com",
       "source": "tech",
-      "tag": "⬆️ 274 points",
+      "tag": "⬆️ 303 points",
       "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html"
     },
     {
@@ -71,96 +249,80 @@
       "hot": "2.9m",
       "desc": "slow-journalism.com",
       "source": "tech",
-      "tag": "⬆️ 219 points",
+      "tag": "⬆️ 233 points",
       "url": "https://www.slow-journalism.com/"
     },
     {
+      "title": "Show HN: Learning Rust by writing a Markdown to HTML compiler",
+      "hot": "2.8m",
+      "desc": "andreadimatteo.com",
+      "source": "tech",
+      "tag": "⬆️ 4 points",
+      "url": "https://andreadimatteo.com/md-to-html-compiler.html"
+    },
+    {
       "title": "The iPhone Upgrade Program is being replaced by Apple Upgrade",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "apple.com",
       "source": "tech",
-      "tag": "⬆️ 124 points",
+      "tag": "⬆️ 137 points",
       "url": "https://www.apple.com/shop/iphone/iphone-upgrade-program"
     },
     {
-      "title": "The Fabled Flatbreads of Uzbekistan (2015)",
-      "hot": "2.9m",
-      "desc": "aramcoworld.com",
+      "title": "Pacing the frontier",
+      "hot": "2.8m",
+      "desc": "pacingthefrontier.com",
       "source": "tech",
-      "tag": "⬆️ 64 points",
-      "url": "https://www.aramcoworld.com/articles/2015/the-fabled-flatbreads-of-uzbekistan"
+      "tag": "⬆️ 72 points",
+      "url": "https://www.pacingthefrontier.com/"
     },
     {
       "title": "Zig's Incremental Compilation Internals",
       "hot": "2.8m",
       "desc": "mlugg.co.uk",
       "source": "tech",
-      "tag": "⬆️ 176 points",
+      "tag": "⬆️ 189 points",
       "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/"
     },
     {
-      "title": "Toolcraft",
+      "title": "Discovering Cryptographic Weaknesses with Claude",
       "hot": "2.8m",
-      "desc": "toolcraft.sh",
+      "desc": "anthropic.com",
       "source": "tech",
-      "tag": "⬆️ 30 points",
-      "url": "https://toolcraft.sh"
+      "tag": "⬆️ 177 points",
+      "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses"
     },
     {
-      "title": "MCP 2026-07-28 Specification: transport going stateless",
+      "title": "Industry Brief: Private 5G for Manufacturing and Industrial Sites [pdf]",
       "hot": "2.8m",
-      "desc": "blog.modelcontextprotocol.io",
+      "desc": "framerusercontent.com",
       "source": "tech",
-      "tag": "⬆️ 94 points",
-      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/"
+      "tag": "⬆️ 3 points",
+      "url": "https://framerusercontent.com/assets/HV1dtfKZyXK2aknO6go8Cemejl8.pdf"
     },
     {
-      "title": "Interview with Boris Cherny [video]",
-      "hot": "2.8m",
-      "desc": "youtube.com",
+      "title": "The Fabled Flatbreads of Uzbekistan (2015)",
+      "hot": "2.7m",
+      "desc": "aramcoworld.com",
       "source": "tech",
-      "tag": "⬆️ 32 points",
-      "url": "https://www.youtube.com/watch?v=qyPCVqFUyDo"
+      "tag": "⬆️ 72 points",
+      "url": "https://www.aramcoworld.com/articles/2015/the-fabled-flatbreads-of-uzbekistan"
     },
     {
       "title": "Show HN: How far do I have to go to run into 100k people?",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "imjasonh.github.io",
       "source": "tech",
-      "tag": "⬆️ 31 points",
+      "tag": "⬆️ 44 points",
       "url": "https://imjasonh.github.io/playground/population-rays/"
     },
     {
-      "title": "New HIV vaccine shows unprecedented success in preclinical study",
-      "hot": "2.8m",
-      "desc": "lji.org",
-      "source": "tech",
-      "tag": "⬆️ 535 points",
-      "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/"
-    },
-    {
-      "title": "Una GPS smart watch – Repairable, USB-C charging, developer-friendly",
+      "title": "MCP 2026-07-28 Specification: transport going stateless",
       "hot": "2.7m",
-      "desc": "unawatch.com",
+      "desc": "blog.modelcontextprotocol.io",
       "source": "tech",
-      "tag": "⬆️ 126 points",
-      "url": "https://unawatch.com/"
-    },
-    {
-      "title": "Kimi Linear: An Expressive, Efficient Attention Architecture (2025)",
-      "hot": "2.7m",
-      "desc": "arxiv.org",
-      "source": "tech",
-      "tag": "⬆️ 266 points",
-      "url": "https://arxiv.org/abs/2510.26692"
-    },
-    {
-      "title": "How Do I Profile eBPF Code?",
-      "hot": "2.7m",
-      "desc": "naveensrinivasan.com",
-      "source": "tech",
-      "tag": "⬆️ 105 points",
-      "url": "https://naveensrinivasan.com/posts/2026-07-22-how-do-i-profile-ebpf-code/"
+      "tag": "⬆️ 99 points",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/"
     }
   ],
   "space": [
@@ -285,168 +447,6 @@
       "url": "https://www.nasa.gov/image-article/nasa-astronaut-chris-williams-returns-to-earth/"
     }
   ],
-  "dev": [
-    {
-      "title": "Passkeys Explained Simply",
-      "hot": "❤️ 56 💬 18",
-      "desc": "You’ve probably seen that little prompt that says “Sign in with Face ID” or “Use a passkey” instead...",
-      "source": "dev",
-      "tag": "security,  api",
-      "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk"
-    },
-    {
-      "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
-      "hot": "❤️ 26 💬 8",
-      "desc": "Every form I ever shipped before React 19 needed the same three pieces of state, and I wired them up...",
-      "source": "dev",
-      "tag": "react,  webdev",
-      "url": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd"
-    },
-    {
-      "title": "I had two weeks, an 8-foot keyboard, and a Wordle Workflow",
-      "hot": "❤️ 5 💬 0",
-      "desc": "A Wordle clone, an 8-foot keyboard, and a holographic fan display made Temporal's Durable Execution visible at AI Engine",
-      "source": "dev",
-      "tag": "temporal,  codesamples",
-      "url": "https://dev.to/temporalio/i-had-two-weeks-an-8-foot-keyboard-and-a-wordle-workflow-15h"
-    },
-    {
-      "title": "Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This article provides a step-by-step guide to building and testing a cross-cloud currency agent. A...",
-      "source": "dev",
-      "tag": "agents,  googleadk",
-      "url": "https://dev.to/gde/can-google-adk-talk-to-amazon-bedrock-agentcore-runtime-a-cross-cloud-a2a-benchmark-162l"
-    },
-    {
-      "title": "Your Face on a World Cup Sticker: Our Nano Banana Story",
-      "hot": "❤️ 8 💬 0",
-      "desc": "There is something timeless about opening a pack of football stickers. You never know which player,...",
-      "source": "dev",
-      "tag": "ai,  nanobanana",
-      "url": "https://dev.to/gde/your-face-on-a-world-cup-sticker-our-nano-banana-story-43p6"
-    },
-    {
-      "title": "Building AI Agents with the Kotlin Agent Development Kit (ADK)",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This tutorial builds a starter \"Hello World\" style agent using Kotlin and the native Kotlin version...",
-      "source": "dev",
-      "tag": "kotlin,  ai",
-      "url": "https://dev.to/gde/building-ai-agents-with-the-kotlin-agent-development-kit-adk-2gpa"
-    },
-    {
-      "title": "Beyond Flutter: Running BlocSignal State Machines in Pure Dart, Jaspr Web, and CLI Tools",
-      "hot": "❤️ 5 💬 0",
-      "desc": "Discover how BlocSignal's zero-Flutter core package enables unified state management across CLI tools, Jaspr web apps, a",
-      "source": "dev",
-      "tag": "flutter,  dart",
-      "url": "https://dev.to/gde/beyond-flutter-running-blocsignal-state-machines-in-pure-dart-jaspr-web-and-cli-tools-51f6"
-    },
-    {
-      "title": "Bug Smash isn't glamorous and that's what I love about it.",
-      "hot": "❤️ 16 💬 2",
-      "desc": "We kicked off DEV's Big Summer Bug Smash on July 14, and I've been waiting to write this post since...",
-      "source": "dev",
-      "tag": "bugsmash,  devchallenge",
-      "url": "https://dev.to/devteam/bug-smash-isnt-glamorous-and-thats-what-i-love-about-it-445i"
-    },
-    {
-      "title": "Can Google ADK Talk to Microsoft Foundry on Azure? A Cross-Cloud A2A Benchmark",
-      "hot": "❤️ 9 💬 4",
-      "desc": "This article provides a step-by-step guide to building and testing a cross-cloud currency agent. A...",
-      "source": "dev",
-      "tag": "agents,  googleadk",
-      "url": "https://dev.to/gde/can-google-adk-talk-to-microsoft-foundry-on-azure-a-cross-cloud-a2a-benchmark-4h36"
-    },
-    {
-      "title": "DevRelCon, Adult Summer Camp, and My First Time Speaking",
-      "hot": "❤️ 7 💬 1",
-      "desc": "There’s something about DevRelCon that feels a little like adult summer camp.  It’s immersive,...",
-      "source": "dev",
-      "tag": "ai,  devrel",
-      "url": "https://dev.to/daniellewashington/devrelcon-adult-summer-camp-and-my-first-time-speaking-4p2d"
-    },
-    {
-      "title": "[Learning Notes][Golang] Authorization Challenges in the AI Agent Era: What is ID-JAG and Why I Re-implemented It in Go",
-      "hot": "❤️ 8 💬 4",
-      "desc": "Preface:   In the past six months or so, connecting AI Agents directly to internal systems...",
-      "source": "dev",
-      "tag": "agents,  ai",
-      "url": "https://dev.to/gde/learning-notesgolang-authorization-challenges-in-the-ai-agent-era-what-is-id-jag-and-why-i-jfb"
-    },
-    {
-      "title": "[Dev Log][Node.js] Feedly Classic is gone, so I built my own FeedFlow (Part 1)",
-      "hot": "❤️ 8 💬 0",
-      "desc": "Introduction:   Since Feedly's redesign, I haven't been able to get used to the interface....",
-      "source": "dev",
-      "tag": "javascript,  node",
-      "url": "https://dev.to/gde/dev-lognodejs-feedly-classic-is-gone-so-i-built-my-own-feedflow-part-1-55h4"
-    },
-    {
-      "title": "Seamless Flutter Hooks Integration with BlocSignal via signals_hooks",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Discover how BlocSignal and signals_hooks eliminate flutter_bloc glue code, stream overhead, and widget tree nesting in ",
-      "source": "dev",
-      "tag": "flutter,  dart",
-      "url": "https://dev.to/gde/seamless-flutter-hooks-integration-with-blocsignal-via-signalshooks-55e"
-    },
-    {
-      "title": "Switching Tracks in BlocSignal: The Universal State Switchyard for BLoC, Riverpod, and Provider",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Stop derailing your Flutter apps! Learn how BlocSignal acts as a central railway switchyard bridging BLoC, Riverpod, and",
-      "source": "dev",
-      "tag": "flutter,  dart",
-      "url": "https://dev.to/gde/switching-tracks-in-blocsignal-the-universal-state-switchyard-for-bloc-riverpod-and-provider-929"
-    },
-    {
-      "title": "Beyond System Prompts: Enforcing Policy & Action Boundaries in Enterprise AI Agents",
-      "hot": "❤️ 8 💬 0",
-      "desc": "Why prompt-based guardrails fail for AI agents and how to enforce deterministic tool adapter validation, 4-tier risk cla",
-      "source": "dev",
-      "tag": "ai,  security",
-      "url": "https://dev.to/gde/beyond-system-prompts-enforcing-policy-action-boundaries-in-enterprise-ai-agents-29ac"
-    },
-    {
-      "title": "Building AI Agents with the TypeScript Agent Development Kit (ADK)",
-      "hot": "❤️ 8 💬 2",
-      "desc": "Build, test, and deploy AI agents using Google's native TypeScript Agent Development Kit (ADK), Gemini 2.5 Flash, and Cl",
-      "source": "dev",
-      "tag": "typescript,  ai",
-      "url": "https://dev.to/gde/building-ai-agents-with-the-typescript-agent-development-kit-adk-3mf"
-    },
-    {
-      "title": "Build and Deploy Java AI Agents with Google ADK",
-      "hot": "❤️ 8 💬 0",
-      "desc": "Set up Java and Google ADK on Debian 13, run an agent locally, test it with JUnit, and deploy it to Cloud Run.",
-      "source": "dev",
-      "tag": "java,  ai",
-      "url": "https://dev.to/gde/build-and-deploy-java-ai-agents-with-google-adk-28oi"
-    },
-    {
-      "title": "How terminal-sharing tools put your shell in a browser",
-      "hot": "❤️ 57 💬 6",
-      "desc": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
-      "source": "dev",
-      "tag": "webdev,  programming",
-      "url": "https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328"
-    },
-    {
-      "title": "Auditing Agent Skills: A Threat Model for the Next Generation of AI Package Managers",
-      "hot": "❤️ 28 💬 2",
-      "desc": "Let me start with a question.  If a stranger handed you a USB drive and said \"plug this in, it just...",
-      "source": "dev",
-      "tag": "discuss,  ai",
-      "url": "https://dev.to/gde/auditing-agent-skills-a-threat-model-for-the-next-generation-of-ai-package-managers-2g25"
-    },
-    {
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 59 💬 14",
-      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
-      "source": "dev",
-      "tag": "top7,  discuss",
-      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-257h"
-    }
-  ],
   "github": [
     {
       "title": "MoonshotAI/Kimi-K3: Open Frontier Intelligence",
@@ -466,7 +466,7 @@
     },
     {
       "title": "slvDev/esp32-ai: ",
-      "hot": "⭐ 2.0k",
+      "hot": "⭐ 2.1k",
       "desc": "slvDev/esp32-ai",
       "source": "github",
       "tag": "Python",
@@ -489,17 +489,9 @@
       "url": "https://github.com/kvcache-ai/AgentENV"
     },
     {
-      "title": "Jakubantalik/thinking-orbs: Dotted thought-orb loading indicators for AI & agent",
-      "hot": "⭐ 1.2k",
-      "desc": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/Jakubantalik/thinking-orbs"
-    },
-    {
       "title": "makecindy/cindy: Consider it done. The open-source AI agent that works out of th",
-      "hot": "⭐ 992",
-      "desc": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。���源、开箱即用的 AI Agent。",
+      "hot": "⭐ 999",
+      "desc": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/makecindy/cindy"
@@ -514,7 +506,7 @@
     },
     {
       "title": "VictorTaelin/OptMem: Permanent memory for AI agents. A 426-token prompt, a scrip",
-      "hot": "⭐ 796",
+      "hot": "⭐ 803",
       "desc": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
       "source": "github",
       "tag": "Python",
@@ -522,35 +514,19 @@
     },
     {
       "title": "MoonshotAI/MoonEP: MoonEP: A Perfectly Balanced Expert Parallelism Library via D",
-      "hot": "⭐ 779",
+      "hot": "⭐ 788",
       "desc": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/MoonshotAI/MoonEP"
     },
     {
-      "title": "gnipbao/story-to-handdrawn-video: Agent skill: convert Chinese story copy or ord",
-      "hot": "⭐ 686",
-      "desc": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/gnipbao/story-to-handdrawn-video"
-    },
-    {
       "title": "fuadmefleh/Shared-Claude-Chats: An archive of public Claude and Grok conversatio",
-      "hot": "⭐ 641",
+      "hot": "⭐ 668",
       "desc": "An archive of public Claude and Grok conversations, exported from their share links as plain markdown, plus the two scripts that produce it.",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/fuadmefleh/Shared-Claude-Chats"
-    },
-    {
-      "title": "hahhforest/pi-textbook: 《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
-      "hot": "⭐ 631",
-      "desc": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/hahhforest/pi-textbook"
     },
     {
       "title": "0xwilliamortiz/openclaude-improved: runs anywhere. uses anything",
@@ -561,12 +537,36 @@
       "url": "https://github.com/0xwilliamortiz/openclaude-improved"
     },
     {
-      "title": "0xwilliamortiz/andrej-karpathy-skills: Behavioral guardrails for Claude Code, di",
-      "hot": "⭐ 576",
-      "desc": "Behavioral guardrails for Claude Code, distilled from Andrej Karpathy's field notes on where LLMs go wrong when they write software.",
+      "title": "digimata/quill: Ultraminimalist macOS recording + transcription.",
+      "hot": "⭐ 542",
+      "desc": "Ultraminimalist macOS recording + transcription.",
       "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/0xwilliamortiz/andrej-karpathy-skills"
+      "tag": "Swift",
+      "url": "https://github.com/digimata/quill"
+    },
+    {
+      "title": "mikehasa/agentacct: Local-first Agent Work Intelligence for coding agents: usage",
+      "hot": "⭐ 518",
+      "desc": "Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/mikehasa/agentacct"
+    },
+    {
+      "title": "didriksg/Crisp: Free, open-source macOS alternative to BetterDisplay and Lunar: ",
+      "hot": "⭐ 488",
+      "desc": "Free, open-source macOS alternative to BetterDisplay and Lunar: a lightweight menu bar app with sharp HiDPI/Retina scaling for external monitors (no m",
+      "source": "github",
+      "tag": "Swift",
+      "url": "https://github.com/didriksg/Crisp"
+    },
+    {
+      "title": "berabuddies/redis-poc: RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1",
+      "hot": "⭐ 468",
+      "desc": "RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/berabuddies/redis-poc"
     }
   ]
 }
