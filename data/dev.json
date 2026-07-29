@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "Passkeys Explained Simply",
-      "hot": "❤️ 62 💬 22",
+      "hot": "❤️ 63 💬 22",
       "desc": "You’ve probably seen that little prompt that says “Sign in with Face ID” or “Use a passkey” instead...",
       "source": "dev",
       "tag": "security,  api",
@@ -10,7 +10,7 @@
     },
     {
       "title": "Join our latest Frontend Challenge: Comfort Food Edition 🍲",
-      "hot": "❤️ 8 💬 2",
+      "hot": "❤️ 19 💬 5",
       "desc": "We're back with another Frontend Challenge, and this time we're hungry! 🍜🥧  Running through August...",
       "source": "dev",
       "tag": "devchallenge,  frontendchallenge",
@@ -18,11 +18,19 @@
     },
     {
       "title": "What is current your \"daily driver\" coding model? (July 2026)",
-      "hot": "❤️ 13 💬 4",
+      "hot": "❤️ 18 💬 6",
       "desc": "Fable 5 at Max effort?  OpenAI's gpt-5.6?  The latest Gemini models?  Perhaps Kimi K3 or other...",
       "source": "dev",
       "tag": "discuss",
       "url": "https://dev.to/peter/what-is-current-your-daily-driver-coding-model-july-2026-24cl"
+    },
+    {
+      "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This article explains how to build and test a cross-cloud currency agent. An Amazon Bedrock master...",
+      "source": "dev",
+      "tag": "agents,  googleadk",
+      "url": "https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b"
     },
     {
       "title": "Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark",
@@ -33,14 +41,6 @@
       "url": "https://dev.to/gde/can-google-adk-talk-to-amazon-bedrock-agentcore-runtime-a-cross-cloud-a2a-benchmark-162l"
     },
     {
-      "title": "Welcome Thread - v386",
-      "hot": "❤️ 11 💬 37",
-      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
-      "source": "dev",
-      "tag": "welcome",
-      "url": "https://dev.to/devteam/welcome-thread-v386-3n78"
-    },
-    {
       "title": "Building AI Agents with the Kotlin Agent Development Kit (ADK)",
       "hot": "❤️ 9 💬 3",
       "desc": "This tutorial builds a starter \"Hello World\" style agent using Kotlin and the native Kotlin version...",
@@ -49,20 +49,20 @@
       "url": "https://dev.to/gde/building-ai-agents-with-the-kotlin-agent-development-kit-adk-2gpa"
     },
     {
+      "title": "Welcome Thread - v386",
+      "hot": "❤️ 11 💬 40",
+      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
+      "source": "dev",
+      "tag": "welcome",
+      "url": "https://dev.to/devteam/welcome-thread-v386-3n78"
+    },
+    {
       "title": "Beyond Flutter: Running BlocSignal State Machines in Pure Dart, Jaspr Web, and CLI Tools",
       "hot": "❤️ 7 💬 3",
       "desc": "Discover how BlocSignal's zero-Flutter core package enables unified state management across CLI tools, Jaspr web apps, a",
       "source": "dev",
       "tag": "flutter,  dart",
       "url": "https://dev.to/gde/beyond-flutter-running-blocsignal-state-machines-in-pure-dart-jaspr-web-and-cli-tools-51f6"
-    },
-    {
-      "title": "I had two weeks, an 8-foot keyboard, and a Wordle Workflow",
-      "hot": "❤️ 7 💬 0",
-      "desc": "A Wordle clone, an 8-foot keyboard, and a holographic fan display made Temporal's Durable Execution visible at AI Engine",
-      "source": "dev",
-      "tag": "temporal,  codesamples",
-      "url": "https://dev.to/temporalio/i-had-two-weeks-an-8-foot-keyboard-and-a-wordle-workflow-15h"
     },
     {
       "title": "Your Face on a World Cup Sticker: Our Nano Banana Story",
@@ -137,6 +137,14 @@
       "url": "https://dev.to/lukeocodes/fish-audios-52m-seed-open-weights-got-them-here-25e5"
     },
     {
+      "title": "Finally — Hard Caps to Limit Your Google Cloud Spend",
+      "hot": "❤️ 5 💬 0",
+      "desc": "TL;DR   For years, Google Cloud budget alerts were purely informational. They sent an email...",
+      "source": "dev",
+      "tag": "gcpbilling,  finops",
+      "url": "https://dev.to/gde/finally-hard-caps-to-limit-your-google-cloud-spend-1363"
+    },
+    {
       "title": "Beyond System Prompts: Enforcing Policy & Action Boundaries in Enterprise AI Agents",
       "hot": "❤️ 8 💬 0",
       "desc": "Why prompt-based guardrails fail for AI agents and how to enforce deterministic tool adapter validation, 4-tier risk cla",
@@ -151,15 +159,7 @@
       "source": "dev",
       "tag": "java,  ai",
       "url": "https://dev.to/gde/build-and-deploy-java-ai-agents-with-google-adk-28oi"
-    },
-    {
-      "title": "Can Google ADK Talk to Microsoft Foundry on Azure? A Cross-Cloud A2A Benchmark",
-      "hot": "❤️ 9 💬 4",
-      "desc": "This article provides a step-by-step guide to building and testing a cross-cloud currency agent. A...",
-      "source": "dev",
-      "tag": "agents,  googleadk",
-      "url": "https://dev.to/gde/can-google-adk-talk-to-microsoft-foundry-on-azure-a-cross-cloud-a2a-benchmark-4h36"
     }
   ],
-  "updatedAt": "2026-07-29T20:04:23.623Z"
+  "updatedAt": "2026-07-29T21:23:19.485Z"
 }
