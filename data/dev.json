@@ -2,11 +2,19 @@
   "data": [
     {
       "title": "Passkeys Explained Simply",
-      "hot": "❤️ 62 💬 20",
+      "hot": "❤️ 62 💬 21",
       "desc": "You’ve probably seen that little prompt that says “Sign in with Face ID” or “Use a passkey” instead...",
       "source": "dev",
       "tag": "security,  api",
       "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk"
+    },
+    {
+      "title": "What is current your \"daily driver\" coding model? (July 2026)",
+      "hot": "❤️ 7 💬 4",
+      "desc": "Fable 5 at Max effort?  OpenAI's gpt-5.6?  The latest Gemini models?  Perhaps Kimi K3 or other...",
+      "source": "dev",
+      "tag": "discuss",
+      "url": "https://dev.to/peter/what-is-current-your-daily-driver-coding-model-july-2026-24cl"
     },
     {
       "title": "Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark",
@@ -18,19 +26,27 @@
     },
     {
       "title": "Welcome Thread - v386",
-      "hot": "❤️ 10 💬 16",
+      "hot": "❤️ 10 💬 22",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
       "url": "https://dev.to/devteam/welcome-thread-v386-3n78"
     },
     {
-      "title": "Can Google ADK Talk to Microsoft Foundry on Azure? A Cross-Cloud A2A Benchmark",
-      "hot": "❤️ 9 💬 4",
-      "desc": "This article provides a step-by-step guide to building and testing a cross-cloud currency agent. A...",
+      "title": "Building AI Agents with the Kotlin Agent Development Kit (ADK)",
+      "hot": "❤️ 8 💬 1",
+      "desc": "This tutorial builds a starter \"Hello World\" style agent using Kotlin and the native Kotlin version...",
       "source": "dev",
-      "tag": "agents,  googleadk",
-      "url": "https://dev.to/gde/can-google-adk-talk-to-microsoft-foundry-on-azure-a-cross-cloud-a2a-benchmark-4h36"
+      "tag": "kotlin,  ai",
+      "url": "https://dev.to/gde/building-ai-agents-with-the-kotlin-agent-development-kit-adk-2gpa"
+    },
+    {
+      "title": "Beyond Flutter: Running BlocSignal State Machines in Pure Dart, Jaspr Web, and CLI Tools",
+      "hot": "❤️ 7 💬 3",
+      "desc": "Discover how BlocSignal's zero-Flutter core package enables unified state management across CLI tools, Jaspr web apps, a",
+      "source": "dev",
+      "tag": "flutter,  dart",
+      "url": "https://dev.to/gde/beyond-flutter-running-blocsignal-state-machines-in-pure-dart-jaspr-web-and-cli-tools-51f6"
     },
     {
       "title": "I had two weeks, an 8-foot keyboard, and a Wordle Workflow",
@@ -39,14 +55,6 @@
       "source": "dev",
       "tag": "temporal,  codesamples",
       "url": "https://dev.to/temporalio/i-had-two-weeks-an-8-foot-keyboard-and-a-wordle-workflow-15h"
-    },
-    {
-      "title": "Beyond Flutter: Running BlocSignal State Machines in Pure Dart, Jaspr Web, and CLI Tools",
-      "hot": "❤️ 6 💬 3",
-      "desc": "Discover how BlocSignal's zero-Flutter core package enables unified state management across CLI tools, Jaspr web apps, a",
-      "source": "dev",
-      "tag": "flutter,  dart",
-      "url": "https://dev.to/gde/beyond-flutter-running-blocsignal-state-machines-in-pure-dart-jaspr-web-and-cli-tools-51f6"
     },
     {
       "title": "The Governed Execution Gateway: Securing MCP Servers and Tool Egress Proxies",
@@ -73,16 +81,8 @@
       "url": "https://dev.to/daniellewashington/devrelcon-adult-summer-camp-and-my-first-time-speaking-4p2d"
     },
     {
-      "title": "Building AI Agents with the Kotlin Agent Development Kit (ADK)",
-      "hot": "❤️ 8 💬 1",
-      "desc": "This tutorial builds a starter \"Hello World\" style agent using Kotlin and the native Kotlin version...",
-      "source": "dev",
-      "tag": "kotlin,  ai",
-      "url": "https://dev.to/gde/building-ai-agents-with-the-kotlin-agent-development-kit-adk-2gpa"
-    },
-    {
       "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
-      "hot": "❤️ 38 💬 11",
+      "hot": "❤️ 39 💬 11",
       "desc": "Every form I ever shipped before React 19 needed the same three pieces of state, and I wired them up...",
       "source": "dev",
       "tag": "react,  webdev",
@@ -137,6 +137,14 @@
       "url": "https://dev.to/gde/build-and-deploy-java-ai-agents-with-google-adk-28oi"
     },
     {
+      "title": "Can Amazon Bedrock AgentCore Talk to Microsoft Foundry over A2A?",
+      "hot": "❤️ 9 💬 4",
+      "desc": "This article provides a step-by-step guide to building and testing a cross-cloud currency agent. A...",
+      "source": "dev",
+      "tag": "aws,  azure",
+      "url": "https://dev.to/gde/can-google-adk-talk-to-microsoft-foundry-on-azure-a-cross-cloud-a2a-benchmark-4h36"
+    },
+    {
       "title": "[Learning Notes][Golang] Authorization Challenges in the AI Agent Era: What is ID-JAG and Why I Re-implemented It in Go",
       "hot": "❤️ 8 💬 5",
       "desc": "Preface:   In the past six months or so, connecting AI Agents directly to internal systems...",
@@ -151,15 +159,7 @@
       "source": "dev",
       "tag": "discuss,  ai",
       "url": "https://dev.to/gde/auditing-agent-skills-a-threat-model-for-the-next-generation-of-ai-package-managers-2g25"
-    },
-    {
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 59 💬 14",
-      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
-      "source": "dev",
-      "tag": "top7,  discuss",
-      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-257h"
     }
   ],
-  "updatedAt": "2026-07-29T14:36:21.301Z"
+  "updatedAt": "2026-07-29T16:13:06.600Z"
 }
