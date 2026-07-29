@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "Passkeys Explained Simply",
-      "hot": "❤️ 56 💬 18",
+      "hot": "❤️ 56 💬 19",
       "desc": "You’ve probably seen that little prompt that says “Sign in with Face ID” or “Use a passkey” instead...",
       "source": "dev",
       "tag": "security,  api",
@@ -10,7 +10,7 @@
     },
     {
       "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
-      "hot": "❤️ 27 💬 8",
+      "hot": "❤️ 31 💬 8",
       "desc": "Every form I ever shipped before React 19 needed the same three pieces of state, and I wired them up...",
       "source": "dev",
       "tag": "react,  webdev",
@@ -23,14 +23,6 @@
       "source": "dev",
       "tag": "ai,  nanobanana",
       "url": "https://dev.to/gde/your-face-on-a-world-cup-sticker-our-nano-banana-story-43p6"
-    },
-    {
-      "title": "I had two weeks, an 8-foot keyboard, and a Wordle Workflow",
-      "hot": "❤️ 6 💬 0",
-      "desc": "A Wordle clone, an 8-foot keyboard, and a holographic fan display made Temporal's Durable Execution visible at AI Engine",
-      "source": "dev",
-      "tag": "temporal,  codesamples",
-      "url": "https://dev.to/temporalio/i-had-two-weeks-an-8-foot-keyboard-and-a-wordle-workflow-15h"
     },
     {
       "title": "Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark",
@@ -73,12 +65,12 @@
       "url": "https://dev.to/gde/can-google-adk-talk-to-microsoft-foundry-on-azure-a-cross-cloud-a2a-benchmark-4h36"
     },
     {
-      "title": "DevRelCon, Adult Summer Camp, and My First Time Speaking",
-      "hot": "❤️ 7 💬 1",
-      "desc": "There’s something about DevRelCon that feels a little like adult summer camp.  It’s immersive,...",
+      "title": "I had two weeks, an 8-foot keyboard, and a Wordle Workflow",
+      "hot": "❤️ 7 💬 0",
+      "desc": "A Wordle clone, an 8-foot keyboard, and a holographic fan display made Temporal's Durable Execution visible at AI Engine",
       "source": "dev",
-      "tag": "ai,  devrel",
-      "url": "https://dev.to/daniellewashington/devrelcon-adult-summer-camp-and-my-first-time-speaking-4p2d"
+      "tag": "temporal,  codesamples",
+      "url": "https://dev.to/temporalio/i-had-two-weeks-an-8-foot-keyboard-and-a-wordle-workflow-15h"
     },
     {
       "title": "[Learning Notes][Golang] Authorization Challenges in the AI Agent Era: What is ID-JAG and Why I Re-implemented It in Go",
@@ -87,6 +79,14 @@
       "source": "dev",
       "tag": "agents,  ai",
       "url": "https://dev.to/gde/learning-notesgolang-authorization-challenges-in-the-ai-agent-era-what-is-id-jag-and-why-i-jfb"
+    },
+    {
+      "title": "DevRelCon, Adult Summer Camp, and My First Time Speaking",
+      "hot": "❤️ 7 💬 1",
+      "desc": "There’s something about DevRelCon that feels a little like adult summer camp.  It’s immersive,...",
+      "source": "dev",
+      "tag": "ai,  devrel",
+      "url": "https://dev.to/daniellewashington/devrelcon-adult-summer-camp-and-my-first-time-speaking-4p2d"
     },
     {
       "title": "[Dev Log][Node.js] Feedly Classic is gone, so I built my own FeedFlow (Part 1)",
@@ -121,14 +121,6 @@
       "url": "https://dev.to/gde/beyond-system-prompts-enforcing-policy-action-boundaries-in-enterprise-ai-agents-29ac"
     },
     {
-      "title": "Building AI Agents with the TypeScript Agent Development Kit (ADK)",
-      "hot": "❤️ 8 💬 2",
-      "desc": "Build, test, and deploy AI agents using Google's native TypeScript Agent Development Kit (ADK), Gemini 2.5 Flash, and Cl",
-      "source": "dev",
-      "tag": "typescript,  ai",
-      "url": "https://dev.to/gde/building-ai-agents-with-the-typescript-agent-development-kit-adk-3mf"
-    },
-    {
       "title": "Build and Deploy Java AI Agents with Google ADK",
       "hot": "❤️ 8 💬 0",
       "desc": "Set up Java and Google ADK on Debian 13, run an agent locally, test it with JUnit, and deploy it to Cloud Run.",
@@ -159,7 +151,15 @@
       "source": "dev",
       "tag": "top7,  discuss",
       "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-257h"
+    },
+    {
+      "title": "Building AI Agents with the TypeScript Agent Development Kit (ADK)",
+      "hot": "❤️ 8 💬 3",
+      "desc": "Build, test, and deploy AI agents using Google's native TypeScript Agent Development Kit (ADK), Gemini 2.5 Flash, and Cl",
+      "source": "dev",
+      "tag": "typescript,  ai",
+      "url": "https://dev.to/gde/building-ai-agents-with-the-typescript-agent-development-kit-adk-3mf"
     }
   ],
-  "updatedAt": "2026-07-29T01:14:47.362Z"
+  "updatedAt": "2026-07-29T04:37:37.001Z"
 }
