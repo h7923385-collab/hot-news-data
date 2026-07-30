@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "Join our latest Frontend Challenge: Comfort Food Edition 🍲",
-      "hot": "❤️ 38 💬 11",
+      "hot": "❤️ 49 💬 14",
       "desc": "We're back with another Frontend Challenge, and this time we're hungry! 🍜🥧  Running through August...",
       "source": "dev",
       "tag": "devchallenge,  frontendchallenge",
@@ -10,7 +10,7 @@
     },
     {
       "title": "Passkeys Explained Simply",
-      "hot": "❤️ 67 💬 25",
+      "hot": "❤️ 70 💬 25",
       "desc": "You’ve probably seen that little prompt that says “Sign in with Face ID” or “Use a passkey” instead...",
       "source": "dev",
       "tag": "security,  api",
@@ -25,20 +25,12 @@
       "url": "https://dev.to/gde/can-google-adk-talk-to-amazon-bedrock-agentcore-runtime-a-cross-cloud-a2a-benchmark-162l"
     },
     {
-      "title": "What is current your \"daily driver\" coding model? (July 2026)",
-      "hot": "❤️ 18 💬 7",
-      "desc": "Fable 5 at Max effort?  OpenAI's gpt-5.6?  The latest Gemini models?  Perhaps Kimi K3 or other...",
+      "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
+      "hot": "❤️ 40 💬 14",
+      "desc": "Every form I ever shipped before React 19 needed the same three pieces of state, and I wired them up...",
       "source": "dev",
-      "tag": "discuss",
-      "url": "https://dev.to/peter/what-is-current-your-daily-driver-coding-model-july-2026-24cl"
-    },
-    {
-      "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
-      "hot": "❤️ 8 💬 0",
-      "desc": "This article explains how to build and test a cross-cloud currency agent. An Amazon Bedrock master...",
-      "source": "dev",
-      "tag": "agents,  googleadk",
-      "url": "https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b"
+      "tag": "react,  webdev",
+      "url": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd"
     },
     {
       "title": "Building AI Agents with the Kotlin Agent Development Kit (ADK)",
@@ -47,6 +39,14 @@
       "source": "dev",
       "tag": "kotlin,  ai",
       "url": "https://dev.to/gde/building-ai-agents-with-the-kotlin-agent-development-kit-adk-2gpa"
+    },
+    {
+      "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
+      "hot": "❤️ 9 💬 0",
+      "desc": "This article explains how to build and test a cross-cloud currency agent. An Amazon Bedrock master...",
+      "source": "dev",
+      "tag": "agents,  googleadk",
+      "url": "https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b"
     },
     {
       "title": "Your Face on a World Cup Sticker: Our Nano Banana Story",
@@ -63,14 +63,6 @@
       "source": "dev",
       "tag": "ai,  devrel",
       "url": "https://dev.to/daniellewashington/devrelcon-adult-summer-camp-and-my-first-time-speaking-4p2d"
-    },
-    {
-      "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
-      "hot": "❤️ 40 💬 12",
-      "desc": "Every form I ever shipped before React 19 needed the same three pieces of state, and I wired them up...",
-      "source": "dev",
-      "tag": "react,  webdev",
-      "url": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd"
     },
     {
       "title": "[Dev Log][Node.js] Feedly Classic is gone, so I built my own FeedFlow (Part 1)",
@@ -97,8 +89,16 @@
       "url": "https://dev.to/gde/switching-tracks-in-blocsignal-the-universal-state-switchyard-for-bloc-riverpod-and-provider-929"
     },
     {
+      "title": "What is current your \"daily driver\" coding model? (July 2026)",
+      "hot": "❤️ 19 💬 8",
+      "desc": "Fable 5 at Max effort?  OpenAI's gpt-5.6?  The latest Gemini models?  Perhaps Kimi K3 or other...",
+      "source": "dev",
+      "tag": "discuss",
+      "url": "https://dev.to/peter/what-is-current-your-daily-driver-coding-model-july-2026-24cl"
+    },
+    {
       "title": "Welcome Thread - v386",
-      "hot": "❤️ 16 💬 63",
+      "hot": "❤️ 16 💬 72",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
@@ -111,14 +111,6 @@
       "source": "dev",
       "tag": "ai,  security",
       "url": "https://dev.to/gde/the-governed-execution-gateway-securing-mcp-servers-and-tool-egress-proxies-1ee3"
-    },
-    {
-      "title": "Bug Smash isn't glamorous and that's what I love about it.",
-      "hot": "❤️ 27 💬 2",
-      "desc": "We kicked off DEV's Big Summer Bug Smash on July 14, and I've been waiting to write this post since...",
-      "source": "dev",
-      "tag": "bugsmash,  devchallenge",
-      "url": "https://dev.to/devteam/bug-smash-isnt-glamorous-and-thats-what-i-love-about-it-445i"
     },
     {
       "title": "Fish Audio's $52M Seed: Open Weights Got Them Here",
@@ -159,7 +151,15 @@
       "source": "dev",
       "tag": "flutter,  dart",
       "url": "https://dev.to/gde/beyond-flutter-running-blocsignal-state-machines-in-pure-dart-jaspr-web-and-cli-tools-51f6"
+    },
+    {
+      "title": "I had two weeks, an 8-foot keyboard, and a Wordle Workflow",
+      "hot": "❤️ 7 💬 0",
+      "desc": "A Wordle clone, an 8-foot keyboard, and a holographic fan display made Temporal's Durable Execution visible at AI Engine",
+      "source": "dev",
+      "tag": "temporal,  codesamples",
+      "url": "https://dev.to/temporalio/i-had-two-weeks-an-8-foot-keyboard-and-a-wordle-workflow-15h"
     }
   ],
-  "updatedAt": "2026-07-30T06:14:13.883Z"
+  "updatedAt": "2026-07-30T09:07:59.581Z"
 }
