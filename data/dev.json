@@ -10,15 +10,23 @@
     },
     {
       "title": "Skills vs MCP: How AI tools have evolved",
-      "hot": "❤️ 25 💬 1",
+      "hot": "❤️ 27 💬 1",
       "desc": "Eighteen months ago, MCP was the thing. Every demo and chatbot connector was running on MCP under the...",
       "source": "dev",
       "tag": "ai,  agents",
       "url": "https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk"
     },
     {
+      "title": "Congrats to the DEV Weekend Challenge: Passion Edition Winners!",
+      "hot": "❤️ 10 💬 1",
+      "desc": "We are excited to announce the winners of our DEV Weekend Challenge: Passion Edition!  The prompt was...",
+      "source": "dev",
+      "tag": "devchallenge,  weekendchallenge",
+      "url": "https://dev.to/devteam/congrats-to-the-dev-weekend-challenge-passion-edition-winners-30ne"
+    },
+    {
       "title": "Does it still make sense to learn how to code?",
-      "hot": "❤️ 16 💬 5",
+      "hot": "❤️ 16 💬 6",
       "desc": "Does it still make sense to learn how to code?   This is a question I’ve been thinking about a lot...",
       "source": "dev",
       "tag": "ai,  learning",
@@ -33,20 +41,12 @@
       "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk"
     },
     {
-      "title": "Data, Context & RAG Lineage Governance for Enterprise AI Agents",
-      "hot": "❤️ 8 💬 0",
-      "desc": "A deep-dive architectural guide to query-time ABAC, cryptographic lineage, and outbound payload sanitization in agentic ",
+      "title": "One TPU Chip, Eight Agents: Serving Small Agent Workloads with Raw JAX",
+      "hot": "❤️ 10 💬 4",
+      "desc": "Cloud TPU v6e-1 (ct6e-standard-1t, one v6e chip, 32 GB HBM), GCE flex-start, europe-west4-a. vLLM...",
       "source": "dev",
-      "tag": "ai,  security",
-      "url": "https://dev.to/gde/data-context-rag-lineage-governance-for-enterprise-ai-agents-4bdj"
-    },
-    {
-      "title": "Building AI Agents with the Kotlin Agent Development Kit (ADK)",
-      "hot": "❤️ 9 💬 3",
-      "desc": "This tutorial builds a starter \"Hello World\" style agent using Kotlin and the native Kotlin version...",
-      "source": "dev",
-      "tag": "kotlin,  ai",
-      "url": "https://dev.to/gde/building-ai-agents-with-the-kotlin-agent-development-kit-adk-2gpa"
+      "tag": "tpu,  llm",
+      "url": "https://dev.to/gde/one-tpu-chip-eight-agents-serving-small-agent-workloads-with-raw-jax-2cc4"
     },
     {
       "title": "Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology & Cluster Auto-Updates!i",
@@ -81,20 +81,20 @@
       "url": "https://dev.to/daniellewashington/devrelcon-adult-summer-camp-and-my-first-time-speaking-4p2d"
     },
     {
-      "title": "One TPU Chip, Eight Agents: Serving Small Agent Workloads with Raw JAX",
-      "hot": "❤️ 10 💬 4",
-      "desc": "Cloud TPU v6e-1 (ct6e-standard-1t, one v6e chip, 32 GB HBM), GCE flex-start, europe-west4-a. vLLM...",
-      "source": "dev",
-      "tag": "tpu,  llm",
-      "url": "https://dev.to/gde/one-tpu-chip-eight-agents-serving-small-agent-workloads-with-raw-jax-2cc4"
-    },
-    {
       "title": "[Dev Log][Node.js] Feedly Classic is gone, so I built my own FeedFlow (Part 1)",
       "hot": "❤️ 8 💬 0",
       "desc": "Introduction:   Since Feedly's redesign, I haven't been able to get used to the interface....",
       "source": "dev",
       "tag": "javascript,  node",
       "url": "https://dev.to/gde/dev-lognodejs-feedly-classic-is-gone-so-i-built-my-own-feedflow-part-1-55h4"
+    },
+    {
+      "title": "Data, Context & RAG Lineage Governance for Enterprise AI Agents",
+      "hot": "❤️ 9 💬 0",
+      "desc": "A deep-dive architectural guide to query-time ABAC, cryptographic lineage, and outbound payload sanitization in agentic ",
+      "source": "dev",
+      "tag": "ai,  security",
+      "url": "https://dev.to/gde/data-context-rag-lineage-governance-for-enterprise-ai-agents-4bdj"
     },
     {
       "title": "Seamless Flutter Hooks Integration with BlocSignal via signals_hooks",
@@ -161,5 +161,5 @@
       "url": "https://dev.to/gde/build-and-deploy-java-ai-agents-with-google-adk-28oi"
     }
   ],
-  "updatedAt": "2026-07-30T19:57:21.274Z"
+  "updatedAt": "2026-07-30T20:58:26.950Z"
 }
