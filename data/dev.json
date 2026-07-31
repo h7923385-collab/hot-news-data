@@ -2,35 +2,59 @@
   "data": [
     {
       "title": "Join our latest Frontend Challenge: Comfort Food Edition 🍲",
-      "hot": "❤️ 107 💬 28",
+      "hot": "❤️ 107 💬 30",
       "desc": "We're back with another Frontend Challenge, and this time we're hungry! 🍜🥧  Running through August...",
       "source": "dev",
       "tag": "devchallenge,  frontendchallenge",
       "url": "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0"
     },
     {
+      "title": "What was your win this week?",
+      "hot": "❤️ 29 💬 5",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "discuss,  weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-1ed"
+    },
+    {
+      "title": "Your RAG copilot can't count — stop letting it try",
+      "hot": "❤️ 3 💬 2",
+      "desc": "Your RAG copilot can't count — stop letting it try   A user asked our document-search...",
+      "source": "dev",
+      "tag": "rag,  ai",
+      "url": "https://dev.to/rdiegoss/your-rag-copilot-cant-count-stop-letting-it-try-2ie3"
+    },
+    {
       "title": "Skills vs MCP: How AI tools have evolved",
-      "hot": "❤️ 39 💬 9",
+      "hot": "❤️ 40 💬 10",
       "desc": "Eighteen months ago, MCP was the thing. Every demo and chatbot connector was running on MCP under the...",
       "source": "dev",
       "tag": "ai,  agents",
       "url": "https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk"
     },
     {
-      "title": "Does it still make sense to learn how to code?",
-      "hot": "❤️ 24 💬 12",
-      "desc": "Does it still make sense to learn how to code?   This is a question I’ve been thinking about a lot...",
+      "title": "How to Build a Local AI Workspace Like PewDiePie's Odysseus: Hardware, Models, and Cost",
+      "hot": "❤️ 1 💬 0",
+      "desc": "A practical, source-backed guide to building a local AI workspace like PewDiePie's Odysseus, including VRAM tiers, reali",
       "source": "dev",
-      "tag": "ai,  learning",
-      "url": "https://dev.to/robertobutti/does-it-still-make-sense-to-learn-how-to-code-3g7g"
+      "tag": "ai,  opensource",
+      "url": "https://dev.to/jenueldev/how-to-build-a-local-ai-workspace-like-pewdiepies-odysseus-hardware-models-and-cost-3egh"
     },
     {
       "title": "Passkeys Explained Simply",
-      "hot": "❤️ 78 💬 27",
+      "hot": "❤️ 83 💬 27",
       "desc": "You’ve probably seen that little prompt that says “Sign in with Face ID” or “Use a passkey” instead...",
       "source": "dev",
       "tag": "security,  api",
       "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk"
+    },
+    {
+      "title": "The memory layer that never calls an LLM: what that buys, and what it costs",
+      "hot": "❤️ 12 💬 9",
+      "desc": "Mem0 beats us on BEAM's 1M bucket. Here is exactly why, what that accuracy costs in money, latency and data egress, and ",
+      "source": "dev",
+      "tag": "ai,  rag",
+      "url": "https://dev.to/gde03/the-memory-layer-that-never-calls-an-llm-what-that-buys-and-what-it-costs-12ch"
     },
     {
       "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
@@ -113,6 +137,14 @@
       "url": "https://dev.to/gde/the-governed-execution-gateway-securing-mcp-servers-and-tool-egress-proxies-1ee3"
     },
     {
+      "title": "Inside the Virtual R&D Lab: How Human Imagination and AI Multi-Agents Shape the Future of Science",
+      "hot": "❤️ 6 💬 0",
+      "desc": "System Enforces Order, AI Accelerates Logic: Driving Next-Generation R&amp;D Through...",
+      "source": "dev",
+      "tag": "ai,  gemini",
+      "url": "https://dev.to/gde/inside-the-virtual-rd-lab-how-human-imagination-and-ai-multi-agents-shape-the-future-of-science-3c6j"
+    },
+    {
       "title": "Fish Audio's $52M Seed: Open Weights Got Them Here",
       "hot": "❤️ 11 💬 0",
       "desc": "Fish Audio raised a $52M seed on July 28, 2026 with $21M ARR and 8M users. Its new S2.1 Pro model is closed, API-only. W",
@@ -127,39 +159,7 @@
       "source": "dev",
       "tag": "gcpbilling,  finops",
       "url": "https://dev.to/gde/finally-hard-caps-to-limit-your-google-cloud-spend-1363"
-    },
-    {
-      "title": "Beyond System Prompts: Enforcing Policy & Action Boundaries in Enterprise AI Agents",
-      "hot": "❤️ 8 💬 0",
-      "desc": "Why prompt-based guardrails fail for AI agents and how to enforce deterministic tool adapter validation, 4-tier risk cla",
-      "source": "dev",
-      "tag": "ai,  security",
-      "url": "https://dev.to/gde/beyond-system-prompts-enforcing-policy-action-boundaries-in-enterprise-ai-agents-29ac"
-    },
-    {
-      "title": "Build and Deploy Java AI Agents with Google ADK",
-      "hot": "❤️ 8 💬 0",
-      "desc": "Set up Java and Google ADK on Debian 13, run an agent locally, test it with JUnit, and deploy it to Cloud Run.",
-      "source": "dev",
-      "tag": "java,  ai",
-      "url": "https://dev.to/gde/build-and-deploy-java-ai-agents-with-google-adk-28oi"
-    },
-    {
-      "title": "One TPU Chip, Eight Agents: Serving Small Agent Workloads with Raw JAX",
-      "hot": "❤️ 11 💬 4",
-      "desc": "Cloud TPU v6e-1 (ct6e-standard-1t, one v6e chip, 32 GB HBM), GCE flex-start, europe-west4-a. vLLM...",
-      "source": "dev",
-      "tag": "tpu,  llm",
-      "url": "https://dev.to/gde/one-tpu-chip-eight-agents-serving-small-agent-workloads-with-raw-jax-2cc4"
-    },
-    {
-      "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
-      "hot": "❤️ 42 💬 17",
-      "desc": "Every form I ever shipped before React 19 needed the same three pieces of state, and I wired them up...",
-      "source": "dev",
-      "tag": "react,  webdev",
-      "url": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd"
     }
   ],
-  "updatedAt": "2026-07-31T12:23:08.892Z"
+  "updatedAt": "2026-07-31T14:42:47.928Z"
 }
