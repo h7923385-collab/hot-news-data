@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T07:41:07.543Z",
+  "updatedAt": "2026-07-31T10:23:45.803Z",
   "source": "live",
   "tech": [
     {
@@ -7,15 +7,23 @@
       "hot": "3.0m",
       "desc": "earendil.com",
       "source": "tech",
-      "tag": "⬆️ 188 points",
+      "tag": "⬆️ 360 points",
       "url": "https://earendil.com/posts/session-portability/"
+    },
+    {
+      "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "hot": "3.0m",
+      "desc": "blog.google",
+      "source": "tech",
+      "tag": "⬆️ 81 points",
+      "url": "https://blog.google/security/chrome-stronger-with-every-update/"
     },
     {
       "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
       "hot": "3.0m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 57 points",
+      "tag": "⬆️ 117 points",
       "url": "https://github.com/openjdk/jdk/pull/31120"
     },
     {
@@ -23,431 +31,147 @@
       "hot": "3.0m",
       "desc": "api-docs.deepseek.com",
       "source": "tech",
-      "tag": "⬆️ 94 points",
+      "tag": "⬆️ 295 points",
       "url": "https://api-docs.deepseek.com/updates/"
     },
     {
       "title": "Stacked PRs are now live on GitHub",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "github.blog",
       "source": "tech",
-      "tag": "⬆️ 609 points",
+      "tag": "⬆️ 654 points",
       "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/"
-    },
-    {
-      "title": "Where USB Memory Sticks are Born (2013)",
-      "hot": "2.9m",
-      "desc": "bunniestudios.com",
-      "source": "tech",
-      "tag": "⬆️ 38 points",
-      "url": "https://www.bunniestudios.com/blog/2013/where-usb-memory-sticks-are-born/"
-    },
-    {
-      "title": "Show HN: What should the GUI for AI agents look like?",
-      "hot": "2.9m",
-      "desc": "marbleos.com",
-      "source": "tech",
-      "tag": "⬆️ 22 points",
-      "url": "https://marbleos.com/demo"
-    },
-    {
-      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-      "hot": "2.9m",
-      "desc": "deepmind.google",
-      "source": "tech",
-      "tag": "⬆️ 541 points",
-      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/"
-    },
-    {
-      "title": "I flagged two research papers for fake authors and both were accepted as orals",
-      "hot": "2.9m",
-      "desc": "geospatialml.com",
-      "source": "tech",
-      "tag": "⬆️ 165 points",
-      "url": "https://geospatialml.com/posts/reviewing-ai-slop/"
-    },
-    {
-      "title": "The mean means nothing: data visualization to debug a latency problem",
-      "hot": "2.9m",
-      "desc": "fzakaria.com",
-      "source": "tech",
-      "tag": "⬆️ 21 points",
-      "url": "https://fzakaria.com/2026/07/27/the-mean-means-nothing"
     },
     {
       "title": "Show HN: Gander, an Android file viewer that asks for no permissions at all",
       "hot": "2.9m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 14 points",
+      "tag": "⬆️ 63 points",
       "url": "https://github.com/mokshablr/gander"
     },
     {
-      "title": "Read this before you buy that TV streaming stick",
+      "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
       "hot": "2.9m",
+      "desc": "artificialanalysis.ai",
+      "source": "tech",
+      "tag": "⬆️ 16 points",
+      "url": "https://artificialanalysis.ai/models/deepseek-v4-flash-ga"
+    },
+    {
+      "title": "Show HN: What should the GUI for AI agents look like?",
+      "hot": "2.9m",
+      "desc": "marbleos.com",
+      "source": "tech",
+      "tag": "⬆️ 57 points",
+      "url": "https://marbleos.com/demo"
+    },
+    {
+      "title": "I flagged two research papers for fake authors and both were accepted as orals",
+      "hot": "2.9m",
+      "desc": "geospatialml.com",
+      "source": "tech",
+      "tag": "⬆️ 201 points",
+      "url": "https://geospatialml.com/posts/reviewing-ai-slop/"
+    },
+    {
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "hot": "2.9m",
+      "desc": "deepmind.google",
+      "source": "tech",
+      "tag": "⬆️ 562 points",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/"
+    },
+    {
+      "title": "The mean means nothing: data visualization to debug a latency problem",
+      "hot": "2.9m",
+      "desc": "fzakaria.com",
+      "source": "tech",
+      "tag": "⬆️ 45 points",
+      "url": "https://fzakaria.com/2026/07/27/the-mean-means-nothing"
+    },
+    {
+      "title": "Where USB Memory Sticks are Born (2013)",
+      "hot": "2.8m",
+      "desc": "bunniestudios.com",
+      "source": "tech",
+      "tag": "⬆️ 55 points",
+      "url": "https://www.bunniestudios.com/blog/2013/where-usb-memory-sticks-are-born/"
+    },
+    {
+      "title": "Read this before you buy that TV streaming stick",
+      "hot": "2.8m",
       "desc": "krebsonsecurity.com",
       "source": "tech",
-      "tag": "⬆️ 684 points",
+      "tag": "⬆️ 721 points",
       "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/"
+    },
+    {
+      "title": "Simulating TCP loss and congestion in browser using Go/WASM",
+      "hot": "2.8m",
+      "desc": "ccsim.fly.dev",
+      "source": "tech",
+      "tag": "⬆️ 24 points",
+      "url": "https://ccsim.fly.dev"
     },
     {
       "title": "The Religion of Speed",
       "hot": "2.8m",
       "desc": "graybeard.ing",
       "source": "tech",
-      "tag": "⬆️ 110 points",
+      "tag": "⬆️ 166 points",
       "url": "https://graybeard.ing/the-religion-of-speed/"
     },
     {
-      "title": "The AI Aesthetic",
+      "title": "Show HN: A udev implementation in Guile Scheme",
       "hot": "2.8m",
-      "desc": "blog.jim-nielsen.com",
+      "desc": "codeberg.org",
       "source": "tech",
-      "tag": "⬆️ 283 points",
-      "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/"
+      "tag": "⬆️ 7 points",
+      "url": "https://codeberg.org/goodev/goodev"
     },
     {
-      "title": "Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up",
+      "title": "Obfuscation (Part II): Diamond IO",
       "hot": "2.8m",
-      "desc": "quantamagazine.org",
+      "desc": "vitalik.eth.limo",
       "source": "tech",
-      "tag": "⬆️ 207 points",
-      "url": "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/"
-    },
-    {
-      "title": "CodePen 2.0",
-      "hot": "2.8m",
-      "desc": "chriscoyier.net",
-      "source": "tech",
-      "tag": "⬆️ 164 points",
-      "url": "https://chriscoyier.net/2026/07/30/codepen-2-0/"
+      "tag": "⬆️ 4 points",
+      "url": "https://vitalik.eth.limo/general/2026/07/28/obfuscation_part_ii_diamond_io.html"
     },
     {
       "title": "The Economic Benefit of Refactoring",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "martinfowler.com",
       "source": "tech",
-      "tag": "⬆️ 230 points",
+      "tag": "⬆️ 242 points",
       "url": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html"
     },
     {
-      "title": "The American Grilled Cheese Sandwich Essay (2024)",
-      "hot": "2.8m",
-      "desc": "buttondown.com",
-      "source": "tech",
-      "tag": "⬆️ 43 points",
-      "url": "https://buttondown.com/theswordandthesandwich/archive/the-best-american-grilled-cheese-sandwich-essay/"
-    },
-    {
-      "title": "Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free",
+      "title": "Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up",
       "hot": "2.7m",
-      "desc": "rune.build",
+      "desc": "quantamagazine.org",
       "source": "tech",
-      "tag": "⬆️ 77 points",
-      "url": "https://rune.build/blog/rune-1-1-release"
+      "tag": "⬆️ 218 points",
+      "url": "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/"
     },
     {
-      "title": "Bad Apple but It's Traceroute",
+      "title": "GCC steering committee announces AI policy",
       "hot": "2.7m",
-      "desc": "jssfr.de",
+      "desc": "lwn.net",
       "source": "tech",
-      "tag": "⬆️ 98 points",
-      "url": "https://jssfr.de/2026-07-27-bad-apple-but-traceroute.html"
-    },
-    {
-      "title": "Memo-1: A 6502 computer built from scratch, using a Minitel as its terminal",
-      "hot": "2.7m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 71 points",
-      "url": "https://github.com/MemoireMorte/Memo-1"
-    }
-  ],
-  "github": [
-    {
-      "title": "MoonshotAI/Kimi-K3: Open Frontier Intelligence",
-      "hot": "⭐ 7.6k",
-      "desc": "Open Frontier Intelligence",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/MoonshotAI/Kimi-K3"
-    },
-    {
-      "title": "digimata/quill: Ultra-minimalist macOS recording + transcription.",
-      "hot": "⭐ 2.6k",
-      "desc": "Ultra-minimalist macOS recording + transcription.",
-      "source": "github",
-      "tag": "Swift",
-      "url": "https://github.com/digimata/quill"
-    },
-    {
-      "title": "mshumer/Claude-of-Duty: A Call of Duty-quality FPS in Three.js, built from a sin",
-      "hot": "⭐ 2.4k",
-      "desc": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/mshumer/Claude-of-Duty"
-    },
-    {
-      "title": "mikiarlo3/ai-copywriter: An AI copywriter that uses real copywriting skills + re",
-      "hot": "⭐ 990",
-      "desc": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/mikiarlo3/ai-copywriter"
-    },
-    {
-      "title": "VictorTaelin/OptMem: Permanent memory for AI agents. A 426-token prompt, a scrip",
-      "hot": "⭐ 950",
-      "desc": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/VictorTaelin/OptMem"
-    },
-    {
-      "title": "MoonshotAI/MoonEP: MoonEP: A Perfectly Balanced Expert Parallelism Library via D",
-      "hot": "⭐ 943",
-      "desc": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/MoonshotAI/MoonEP"
-    },
-    {
-      "title": "xikhar/persona: Bringing real-time voice to life.",
-      "hot": "⭐ 687",
-      "desc": "Bringing real-time voice to life.",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/xikhar/persona"
-    },
-    {
-      "title": "0xwilliamortiz/ponytail-improved: Makes your AI agent think like the laziest sen",
-      "hot": "⭐ 565",
-      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/0xwilliamortiz/ponytail-improved"
-    },
-    {
-      "title": "0xwilliamortiz/openclaude-improved: runs anywhere. uses anything",
-      "hot": "⭐ 562",
-      "desc": "runs anywhere. uses anything",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/0xwilliamortiz/openclaude-improved"
-    },
-    {
-      "title": "mikehasa/agentacct: See what your coding agents did and what it cost. Breaks eac",
-      "hot": "⭐ 538",
-      "desc": "See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tests run, time and tokens spent.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/mikehasa/agentacct"
-    },
-    {
-      "title": "bashalarmistalt/decimen-optical-transfer: ",
-      "hot": "⭐ 520",
-      "desc": "bashalarmistalt/decimen-optical-transfer",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/bashalarmistalt/decimen-optical-transfer"
-    },
-    {
-      "title": "QwenAudio/qwen-audio-agent: A realtime voice runtime that keeps Agents talking, ",
-      "hot": "⭐ 506",
-      "desc": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/QwenAudio/qwen-audio-agent"
-    },
-    {
-      "title": "talivia-group/talivia: Open-source, self-hosted revenue-first analytics for foun",
-      "hot": "⭐ 504",
-      "desc": "Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. ",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/talivia-group/talivia"
-    },
-    {
-      "title": "gavamedia/deltafin: Run full Kimi K3 on a single device. And an OpenAI-compatibl",
-      "hot": "⭐ 500",
-      "desc": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/gavamedia/deltafin"
-    },
-    {
-      "title": "NikolayS/PGSimCity: An explorable 3D city that shows how Postgres actually works",
-      "hot": "⭐ 444",
-      "desc": "An explorable 3D city that shows how Postgres actually works",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/NikolayS/PGSimCity"
-    }
-  ],
-  "dev": [
-    {
-      "title": "Join our latest Frontend Challenge: Comfort Food Edition 🍲",
-      "hot": "❤️ 103 💬 25",
-      "desc": "We're back with another Frontend Challenge, and this time we're hungry! 🍜🥧  Running through August...",
-      "source": "dev",
-      "tag": "devchallenge,  frontendchallenge",
-      "url": "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0"
-    },
-    {
-      "title": "Skills vs MCP: How AI tools have evolved",
-      "hot": "❤️ 37 💬 7",
-      "desc": "Eighteen months ago, MCP was the thing. Every demo and chatbot connector was running on MCP under the...",
-      "source": "dev",
-      "tag": "ai,  agents",
-      "url": "https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk"
-    },
-    {
-      "title": "Does it still make sense to learn how to code?",
-      "hot": "❤️ 23 💬 11",
-      "desc": "Does it still make sense to learn how to code?   This is a question I’ve been thinking about a lot...",
-      "source": "dev",
-      "tag": "ai,  learning",
-      "url": "https://dev.to/robertobutti/does-it-still-make-sense-to-learn-how-to-code-3g7g"
-    },
-    {
-      "title": "Passkeys Explained Simply",
-      "hot": "❤️ 75 💬 26",
-      "desc": "You’ve probably seen that little prompt that says “Sign in with Face ID” or “Use a passkey” instead...",
-      "source": "dev",
-      "tag": "security,  api",
-      "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk"
-    },
-    {
-      "title": "One TPU Chip, Eight Agents: Serving Small Agent Workloads with Raw JAX",
-      "hot": "❤️ 10 💬 4",
-      "desc": "Cloud TPU v6e-1 (ct6e-standard-1t, one v6e chip, 32 GB HBM), GCE flex-start, europe-west4-a. vLLM...",
-      "source": "dev",
-      "tag": "tpu,  llm",
-      "url": "https://dev.to/gde/one-tpu-chip-eight-agents-serving-small-agent-workloads-with-raw-jax-2cc4"
-    },
-    {
-      "title": "Congrats to the DEV Weekend Challenge: Passion Edition Winners!",
-      "hot": "❤️ 43 💬 15",
-      "desc": "We are excited to announce the winners of our DEV Weekend Challenge: Passion Edition!  The prompt was...",
-      "source": "dev",
-      "tag": "devchallenge,  weekendchallenge",
-      "url": "https://dev.to/devteam/congrats-to-the-dev-weekend-challenge-passion-edition-winners-30ne"
-    },
-    {
-      "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
-      "hot": "❤️ 9 💬 0",
-      "desc": "This article explains how to build and test a cross-cloud currency agent. An Amazon Bedrock master...",
-      "source": "dev",
-      "tag": "agents,  googleadk",
-      "url": "https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b"
-    },
-    {
-      "title": "Your Face on a World Cup Sticker: Our Nano Banana Story",
-      "hot": "❤️ 9 💬 0",
-      "desc": "There is something timeless about opening a pack of football stickers. You never know which player,...",
-      "source": "dev",
-      "tag": "ai,  nanobanana",
-      "url": "https://dev.to/gde/your-face-on-a-world-cup-sticker-our-nano-banana-story-43p6"
-    },
-    {
-      "title": "DevRelCon, Adult Summer Camp, and My First Time Speaking",
-      "hot": "❤️ 7 💬 1",
-      "desc": "There’s something about DevRelCon that feels a little like adult summer camp.  It’s immersive,...",
-      "source": "dev",
-      "tag": "ai,  devrel",
-      "url": "https://dev.to/daniellewashington/devrelcon-adult-summer-camp-and-my-first-time-speaking-4p2d"
-    },
-    {
-      "title": "[Dev Log][Node.js] Feedly Classic is gone, so I built my own FeedFlow (Part 1)",
-      "hot": "❤️ 8 💬 0",
-      "desc": "Introduction:   Since Feedly's redesign, I haven't been able to get used to the interface....",
-      "source": "dev",
-      "tag": "javascript,  node",
-      "url": "https://dev.to/gde/dev-lognodejs-feedly-classic-is-gone-so-i-built-my-own-feedflow-part-1-55h4"
-    },
-    {
-      "title": "Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology & Cluster Auto-Updates!i",
-      "hot": "❤️ 11 💬 0",
-      "desc": "Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology &amp; Cluster...",
-      "source": "dev",
-      "tag": "buildwithai,  antigravity",
-      "url": "https://dev.to/gde/gubernator-weekly-update-coredns-aqueducts-sre-stack-network-topology-cluster-auto-updates-e1c"
-    },
-    {
-      "title": "Data, Context & RAG Lineage Governance for Enterprise AI Agents",
-      "hot": "❤️ 9 💬 0",
-      "desc": "A deep-dive architectural guide to query-time ABAC, cryptographic lineage, and outbound payload sanitization in agentic ",
-      "source": "dev",
-      "tag": "ai,  security",
-      "url": "https://dev.to/gde/data-context-rag-lineage-governance-for-enterprise-ai-agents-4bdj"
-    },
-    {
-      "title": "Seamless Flutter Hooks Integration with BlocSignal via signals_hooks",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Discover how BlocSignal and signals_hooks eliminate flutter_bloc glue code, stream overhead, and widget tree nesting in ",
-      "source": "dev",
-      "tag": "flutter,  dart",
-      "url": "https://dev.to/gde/seamless-flutter-hooks-integration-with-blocsignal-via-signalshooks-55e"
-    },
-    {
-      "title": "Switching Tracks in BlocSignal: The Universal State Switchyard for BLoC, Riverpod, and Provider",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Stop derailing your Flutter apps! Learn how BlocSignal acts as a central railway switchyard bridging BLoC, Riverpod, and",
-      "source": "dev",
-      "tag": "flutter,  dart",
-      "url": "https://dev.to/gde/switching-tracks-in-blocsignal-the-universal-state-switchyard-for-bloc-riverpod-and-provider-929"
-    },
-    {
-      "title": "What is current your \"daily driver\" coding model? (July 2026)",
-      "hot": "❤️ 19 💬 8",
-      "desc": "Fable 5 at Max effort?  OpenAI's gpt-5.6?  The latest Gemini models?  Perhaps Kimi K3 or other...",
-      "source": "dev",
-      "tag": "discuss",
-      "url": "https://dev.to/peter/what-is-current-your-daily-driver-coding-model-july-2026-24cl"
-    },
-    {
-      "title": "The Governed Execution Gateway: Securing MCP Servers and Tool Egress Proxies",
-      "hot": "❤️ 9 💬 1",
-      "desc": "Why unmonitored Model Context Protocol (MCP) connections threaten enterprise security and how to build a bidirectional t",
-      "source": "dev",
-      "tag": "ai,  security",
-      "url": "https://dev.to/gde/the-governed-execution-gateway-securing-mcp-servers-and-tool-egress-proxies-1ee3"
-    },
-    {
-      "title": "Fish Audio's $52M Seed: Open Weights Got Them Here",
-      "hot": "❤️ 11 💬 0",
-      "desc": "Fish Audio raised a $52M seed on July 28, 2026 with $21M ARR and 8M users. Its new S2.1 Pro model is closed, API-only. W",
-      "source": "dev",
-      "tag": "tts,  voiceai",
-      "url": "https://dev.to/lukeocodes/fish-audios-52m-seed-open-weights-got-them-here-25e5"
-    },
-    {
-      "title": "Finally — Hard Caps to Limit Your Google Cloud Spend",
-      "hot": "❤️ 5 💬 0",
-      "desc": "TL;DR   For years, Google Cloud budget alerts were purely informational. They sent an email...",
-      "source": "dev",
-      "tag": "gcpbilling,  finops",
-      "url": "https://dev.to/gde/finally-hard-caps-to-limit-your-google-cloud-spend-1363"
-    },
-    {
-      "title": "Beyond System Prompts: Enforcing Policy & Action Boundaries in Enterprise AI Agents",
-      "hot": "❤️ 8 💬 0",
-      "desc": "Why prompt-based guardrails fail for AI agents and how to enforce deterministic tool adapter validation, 4-tier risk cla",
-      "source": "dev",
-      "tag": "ai,  security",
-      "url": "https://dev.to/gde/beyond-system-prompts-enforcing-policy-action-boundaries-in-enterprise-ai-agents-29ac"
-    },
-    {
-      "title": "Build and Deploy Java AI Agents with Google ADK",
-      "hot": "❤️ 8 💬 0",
-      "desc": "Set up Java and Google ADK on Debian 13, run an agent locally, test it with JUnit, and deploy it to Cloud Run.",
-      "source": "dev",
-      "tag": "java,  ai",
-      "url": "https://dev.to/gde/build-and-deploy-java-ai-agents-with-google-adk-28oi"
+      "tag": "⬆️ 298 points",
+      "url": "https://lwn.net/Articles/1086041/"
     }
   ],
   "space": [
+    {
+      "title": "Earth from Space: New Orleans and the mighty Mississippi",
+      "hot": "7/31",
+      "desc": "From the ESA Blogs.",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Earth_from_Space_New_Orleans_and_the_mighty_Mississippi"
+    },
     {
       "title": "APOD: 2026 July 31 – NGC 4372 and the Dark Doodad",
       "hot": "7/31",
@@ -559,14 +283,290 @@
       "source": "space",
       "tag": "NASA",
       "url": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnson-interns-shaping-the-future-of-exploration/"
+    }
+  ],
+  "dev": [
+    {
+      "title": "Join our latest Frontend Challenge: Comfort Food Edition 🍲",
+      "hot": "❤️ 107 💬 28",
+      "desc": "We're back with another Frontend Challenge, and this time we're hungry! 🍜🥧  Running through August...",
+      "source": "dev",
+      "tag": "devchallenge,  frontendchallenge",
+      "url": "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0"
     },
     {
-      "title": "SMOS salinity could offer early indicator of El Niño",
-      "hot": "7/30",
-      "desc": "As the Pacific Ocean moves into an El Niño phase, scientists are monitoring changes in sea-surface temperature, but also sea-surface salinity – which ",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/SMOS/SMOS_salinity_could_offer_early_indicator_of_El_Nino"
+      "title": "Skills vs MCP: How AI tools have evolved",
+      "hot": "❤️ 38 💬 8",
+      "desc": "Eighteen months ago, MCP was the thing. Every demo and chatbot connector was running on MCP under the...",
+      "source": "dev",
+      "tag": "ai,  agents",
+      "url": "https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk"
+    },
+    {
+      "title": "Does it still make sense to learn how to code?",
+      "hot": "❤️ 23 💬 11",
+      "desc": "Does it still make sense to learn how to code?   This is a question I’ve been thinking about a lot...",
+      "source": "dev",
+      "tag": "ai,  learning",
+      "url": "https://dev.to/robertobutti/does-it-still-make-sense-to-learn-how-to-code-3g7g"
+    },
+    {
+      "title": "Passkeys Explained Simply",
+      "hot": "❤️ 77 💬 27",
+      "desc": "You’ve probably seen that little prompt that says “Sign in with Face ID” or “Use a passkey” instead...",
+      "source": "dev",
+      "tag": "security,  api",
+      "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk"
+    },
+    {
+      "title": "One TPU Chip, Eight Agents: Serving Small Agent Workloads with Raw JAX",
+      "hot": "❤️ 10 💬 4",
+      "desc": "Cloud TPU v6e-1 (ct6e-standard-1t, one v6e chip, 32 GB HBM), GCE flex-start, europe-west4-a. vLLM...",
+      "source": "dev",
+      "tag": "tpu,  llm",
+      "url": "https://dev.to/gde/one-tpu-chip-eight-agents-serving-small-agent-workloads-with-raw-jax-2cc4"
+    },
+    {
+      "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
+      "hot": "❤️ 9 💬 0",
+      "desc": "This article explains how to build and test a cross-cloud currency agent. An Amazon Bedrock master...",
+      "source": "dev",
+      "tag": "agents,  googleadk",
+      "url": "https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b"
+    },
+    {
+      "title": "Your Face on a World Cup Sticker: Our Nano Banana Story",
+      "hot": "❤️ 9 💬 0",
+      "desc": "There is something timeless about opening a pack of football stickers. You never know which player,...",
+      "source": "dev",
+      "tag": "ai,  nanobanana",
+      "url": "https://dev.to/gde/your-face-on-a-world-cup-sticker-our-nano-banana-story-43p6"
+    },
+    {
+      "title": "DevRelCon, Adult Summer Camp, and My First Time Speaking",
+      "hot": "❤️ 7 💬 1",
+      "desc": "There’s something about DevRelCon that feels a little like adult summer camp.  It’s immersive,...",
+      "source": "dev",
+      "tag": "ai,  devrel",
+      "url": "https://dev.to/daniellewashington/devrelcon-adult-summer-camp-and-my-first-time-speaking-4p2d"
+    },
+    {
+      "title": "[Dev Log][Node.js] Feedly Classic is gone, so I built my own FeedFlow (Part 1)",
+      "hot": "❤️ 8 💬 0",
+      "desc": "Introduction:   Since Feedly's redesign, I haven't been able to get used to the interface....",
+      "source": "dev",
+      "tag": "javascript,  node",
+      "url": "https://dev.to/gde/dev-lognodejs-feedly-classic-is-gone-so-i-built-my-own-feedflow-part-1-55h4"
+    },
+    {
+      "title": "Congrats to the DEV Weekend Challenge: Passion Edition Winners!",
+      "hot": "❤️ 48 💬 17",
+      "desc": "We are excited to announce the winners of our DEV Weekend Challenge: Passion Edition!  The prompt was...",
+      "source": "dev",
+      "tag": "devchallenge,  weekendchallenge",
+      "url": "https://dev.to/devteam/congrats-to-the-dev-weekend-challenge-passion-edition-winners-30ne"
+    },
+    {
+      "title": "Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology & Cluster Auto-Updates!i",
+      "hot": "❤️ 11 💬 0",
+      "desc": "Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology &amp; Cluster...",
+      "source": "dev",
+      "tag": "buildwithai,  antigravity",
+      "url": "https://dev.to/gde/gubernator-weekly-update-coredns-aqueducts-sre-stack-network-topology-cluster-auto-updates-e1c"
+    },
+    {
+      "title": "Data, Context & RAG Lineage Governance for Enterprise AI Agents",
+      "hot": "❤️ 9 💬 0",
+      "desc": "A deep-dive architectural guide to query-time ABAC, cryptographic lineage, and outbound payload sanitization in agentic ",
+      "source": "dev",
+      "tag": "ai,  security",
+      "url": "https://dev.to/gde/data-context-rag-lineage-governance-for-enterprise-ai-agents-4bdj"
+    },
+    {
+      "title": "Seamless Flutter Hooks Integration with BlocSignal via signals_hooks",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Discover how BlocSignal and signals_hooks eliminate flutter_bloc glue code, stream overhead, and widget tree nesting in ",
+      "source": "dev",
+      "tag": "flutter,  dart",
+      "url": "https://dev.to/gde/seamless-flutter-hooks-integration-with-blocsignal-via-signalshooks-55e"
+    },
+    {
+      "title": "Switching Tracks in BlocSignal: The Universal State Switchyard for BLoC, Riverpod, and Provider",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Stop derailing your Flutter apps! Learn how BlocSignal acts as a central railway switchyard bridging BLoC, Riverpod, and",
+      "source": "dev",
+      "tag": "flutter,  dart",
+      "url": "https://dev.to/gde/switching-tracks-in-blocsignal-the-universal-state-switchyard-for-bloc-riverpod-and-provider-929"
+    },
+    {
+      "title": "What is current your \"daily driver\" coding model? (July 2026)",
+      "hot": "❤️ 19 💬 8",
+      "desc": "Fable 5 at Max effort?  OpenAI's gpt-5.6?  The latest Gemini models?  Perhaps Kimi K3 or other...",
+      "source": "dev",
+      "tag": "discuss",
+      "url": "https://dev.to/peter/what-is-current-your-daily-driver-coding-model-july-2026-24cl"
+    },
+    {
+      "title": "The Governed Execution Gateway: Securing MCP Servers and Tool Egress Proxies",
+      "hot": "❤️ 9 💬 1",
+      "desc": "Why unmonitored Model Context Protocol (MCP) connections threaten enterprise security and how to build a bidirectional t",
+      "source": "dev",
+      "tag": "ai,  security",
+      "url": "https://dev.to/gde/the-governed-execution-gateway-securing-mcp-servers-and-tool-egress-proxies-1ee3"
+    },
+    {
+      "title": "Fish Audio's $52M Seed: Open Weights Got Them Here",
+      "hot": "❤️ 11 💬 0",
+      "desc": "Fish Audio raised a $52M seed on July 28, 2026 with $21M ARR and 8M users. Its new S2.1 Pro model is closed, API-only. W",
+      "source": "dev",
+      "tag": "tts,  voiceai",
+      "url": "https://dev.to/lukeocodes/fish-audios-52m-seed-open-weights-got-them-here-25e5"
+    },
+    {
+      "title": "Finally — Hard Caps to Limit Your Google Cloud Spend",
+      "hot": "❤️ 5 💬 0",
+      "desc": "TL;DR   For years, Google Cloud budget alerts were purely informational. They sent an email...",
+      "source": "dev",
+      "tag": "gcpbilling,  finops",
+      "url": "https://dev.to/gde/finally-hard-caps-to-limit-your-google-cloud-spend-1363"
+    },
+    {
+      "title": "Beyond System Prompts: Enforcing Policy & Action Boundaries in Enterprise AI Agents",
+      "hot": "❤️ 8 💬 0",
+      "desc": "Why prompt-based guardrails fail for AI agents and how to enforce deterministic tool adapter validation, 4-tier risk cla",
+      "source": "dev",
+      "tag": "ai,  security",
+      "url": "https://dev.to/gde/beyond-system-prompts-enforcing-policy-action-boundaries-in-enterprise-ai-agents-29ac"
+    },
+    {
+      "title": "Build and Deploy Java AI Agents with Google ADK",
+      "hot": "❤️ 8 💬 0",
+      "desc": "Set up Java and Google ADK on Debian 13, run an agent locally, test it with JUnit, and deploy it to Cloud Run.",
+      "source": "dev",
+      "tag": "java,  ai",
+      "url": "https://dev.to/gde/build-and-deploy-java-ai-agents-with-google-adk-28oi"
+    }
+  ],
+  "github": [
+    {
+      "title": "MoonshotAI/Kimi-K3: Open Frontier Intelligence",
+      "hot": "⭐ 7.6k",
+      "desc": "Open Frontier Intelligence",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/MoonshotAI/Kimi-K3"
+    },
+    {
+      "title": "digimata/quill: Ultra-minimalist macOS recording + transcription.",
+      "hot": "⭐ 2.8k",
+      "desc": "Ultra-minimalist macOS recording + transcription.",
+      "source": "github",
+      "tag": "Swift",
+      "url": "https://github.com/digimata/quill"
+    },
+    {
+      "title": "mshumer/Claude-of-Duty: A Call of Duty-quality FPS in Three.js, built from a sin",
+      "hot": "⭐ 2.4k",
+      "desc": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/mshumer/Claude-of-Duty"
+    },
+    {
+      "title": "mikiarlo3/ai-copywriter: An AI copywriter that uses real copywriting skills + re",
+      "hot": "⭐ 991",
+      "desc": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/mikiarlo3/ai-copywriter"
+    },
+    {
+      "title": "VictorTaelin/OptMem: Permanent memory for AI agents. A 426-token prompt, a scrip",
+      "hot": "⭐ 970",
+      "desc": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/VictorTaelin/OptMem"
+    },
+    {
+      "title": "MoonshotAI/MoonEP: MoonEP: A Perfectly Balanced Expert Parallelism Library via D",
+      "hot": "⭐ 949",
+      "desc": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/MoonshotAI/MoonEP"
+    },
+    {
+      "title": "bashalarmistalt/decimen-optical-transfer: ",
+      "hot": "⭐ 695",
+      "desc": "bashalarmistalt/decimen-optical-transfer",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/bashalarmistalt/decimen-optical-transfer"
+    },
+    {
+      "title": "xikhar/persona: Bringing real-time voice to life.",
+      "hot": "⭐ 693",
+      "desc": "Bringing real-time voice to life.",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/xikhar/persona"
+    },
+    {
+      "title": "0xwilliamortiz/ponytail-improved: Makes your AI agent think like the laziest sen",
+      "hot": "⭐ 568",
+      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/0xwilliamortiz/ponytail-improved"
+    },
+    {
+      "title": "0xwilliamortiz/openclaude-improved: runs anywhere. uses anything",
+      "hot": "⭐ 563",
+      "desc": "runs anywhere. uses anything",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/0xwilliamortiz/openclaude-improved"
+    },
+    {
+      "title": "QwenAudio/qwen-audio-agent: A realtime voice runtime that keeps Agents talking, ",
+      "hot": "⭐ 543",
+      "desc": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/QwenAudio/qwen-audio-agent"
+    },
+    {
+      "title": "mikehasa/agentacct: See what your coding agents did and what it cost. Breaks eac",
+      "hot": "⭐ 537",
+      "desc": "See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tests run, time and tokens spent.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/mikehasa/agentacct"
+    },
+    {
+      "title": "gavamedia/deltafin: Run full Kimi K3 on a single device. And an OpenAI-compatibl",
+      "hot": "⭐ 510",
+      "desc": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/gavamedia/deltafin"
+    },
+    {
+      "title": "talivia-group/talivia: Open-source, self-hosted revenue-first analytics for foun",
+      "hot": "⭐ 506",
+      "desc": "Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. ",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/talivia-group/talivia"
+    },
+    {
+      "title": "perplexityai/numbat: Visibility into AI agent activity on endpoints, with on-dev",
+      "hot": "⭐ 456",
+      "desc": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
+      "source": "github",
+      "tag": "Go",
+      "url": "https://github.com/perplexityai/numbat"
     }
   ]
 }
