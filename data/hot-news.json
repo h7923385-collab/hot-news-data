@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T11:52:58.140Z",
+  "updatedAt": "2026-08-02T12:47:07.223Z",
   "source": "live",
   "dev": [
     {
@@ -163,46 +163,53 @@
       "url": "https://dev.to/gde03/the-memory-layer-that-never-calls-an-llm-what-that-buys-and-what-it-costs-12ch"
     }
   ],
-  "space": [
-    {
-      "title": "暂无 space 数据",
-      "hot": "",
-      "desc": "数据加载中，请稍后刷新",
-      "source": "space",
-      "tag": "loading"
-    }
-  ],
   "tech": [
     {
-      "title": "Is the Industrial Revolution a good precedent for explosive growth today?",
+      "title": "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
       "hot": "3.0m",
-      "desc": "mattsclancy.github.io",
+      "desc": "website-auditor.io",
       "source": "tech",
-      "tag": "⬆️ 26 points",
-      "url": "https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html"
+      "tag": "⬆️ 14 points",
+      "url": "https://website-auditor.io/ai-visibility-index"
     },
     {
       "title": "Show HN: Bor – Open-source policy management for Linux desktops",
       "hot": "3.0m",
       "desc": "getbor.dev",
       "source": "tech",
-      "tag": "⬆️ 42 points",
+      "tag": "⬆️ 62 points",
       "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/"
     },
     {
-      "title": "Generative AI floods and dilutes the market for books",
+      "title": "Meshdiff – visually compare two STL versions in the browser, client-side",
       "hot": "3.0m",
-      "desc": "arxiv.org",
+      "desc": "meshdiff.com",
       "source": "tech",
-      "tag": "⬆️ 11 points",
-      "url": "https://arxiv.org/abs/2607.20349"
+      "tag": "⬆️ 44 points",
+      "url": "https://meshdiff.com/"
+    },
+    {
+      "title": "Wikimedia Foundation refuses union recognition, hires union-busting law firm",
+      "hot": "3.0m",
+      "desc": "en.wikipedia.org",
+      "source": "tech",
+      "tag": "⬆️ 98 points",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes"
+    },
+    {
+      "title": "Twenty Years of RISC OS Open",
+      "hot": "2.9m",
+      "desc": "riscosopen.org",
+      "source": "tech",
+      "tag": "⬆️ 4 points",
+      "url": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open"
     },
     {
       "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "publicdomainreview.org",
       "source": "tech",
-      "tag": "⬆️ 27 points",
+      "tag": "⬆️ 37 points",
       "url": "https://publicdomainreview.org/essay/ars-notoria/"
     },
     {
@@ -210,128 +217,234 @@
       "hot": "2.9m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 22 points",
+      "tag": "⬆️ 30 points",
       "url": "https://github.com/syncular/syncular"
+    },
+    {
+      "title": "Great Question (YC W21) Is Hiring Senior Demand Gen Manager",
+      "hot": "2.9m",
+      "desc": "ycombinator.com",
+      "source": "tech",
+      "tag": "⬆️ 1 points",
+      "url": "https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager"
     },
     {
       "title": "Go 1.27 Interactive Tour",
       "hot": "2.9m",
       "desc": "victoriametrics.com",
       "source": "tech",
-      "tag": "⬆️ 239 points",
+      "tag": "⬆️ 252 points",
       "url": "https://victoriametrics.com/blog/go-1-27/index.html"
+    },
+    {
+      "title": "The Vanishing Page: AI Firms Scan Then Destroy Rare Book Editions",
+      "hot": "2.9m",
+      "desc": "dallasexpress.com",
+      "source": "tech",
+      "tag": "⬆️ 17 points",
+      "url": "https://dallasexpress.com/national/the-vanishing-page-ai-firms-scan-then-destroy-rare-book-editions/"
     },
     {
       "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
       "hot": "2.9m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 184 points",
+      "tag": "⬆️ 194 points",
       "url": "https://github.com/tom-ilan/cycloidal_gearbox"
     },
     {
-      "title": "A big win for Android interoperability",
-      "hot": "2.9m",
-      "desc": "openhomefoundation.org",
+      "title": "Show HN: Fuse – statically typed functional programming language",
+      "hot": "2.8m",
+      "desc": "fuselang.org",
       "source": "tech",
-      "tag": "⬆️ 140 points",
-      "url": "https://www.openhomefoundation.org/blog/a-big-win-for-android-interoperability/"
-    },
-    {
-      "title": "Seedance 2.5",
-      "hot": "2.9m",
-      "desc": "seed.bytedance.com",
-      "source": "tech",
-      "tag": "⬆️ 363 points",
-      "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"
-    },
-    {
-      "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
-      "hot": "2.9m",
-      "desc": "oldvcr.blogspot.com",
-      "source": "tech",
-      "tag": "⬆️ 63 points",
-      "url": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html"
-    },
-    {
-      "title": "Diátaxis",
-      "hot": "2.9m",
-      "desc": "diataxis.fr",
-      "source": "tech",
-      "tag": "⬆️ 379 points",
-      "url": "https://diataxis.fr/"
+      "tag": "⬆️ 8 points",
+      "url": "https://fuselang.org"
     },
     {
       "title": "Cyberscript",
       "hot": "2.8m",
       "desc": "cyberscript.dev",
       "source": "tech",
-      "tag": "⬆️ 15 points",
+      "tag": "⬆️ 23 points",
       "url": "https://cyberscript.dev"
     },
     {
-      "title": "Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific",
+      "title": "Seedance 2.5",
       "hot": "2.8m",
-      "desc": "science.org",
+      "desc": "seed.bytedance.com",
       "source": "tech",
-      "tag": "⬆️ 59 points",
-      "url": "https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific#"
+      "tag": "⬆️ 376 points",
+      "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"
+    },
+    {
+      "title": "Diátaxis",
+      "hot": "2.8m",
+      "desc": "diataxis.fr",
+      "source": "tech",
+      "tag": "⬆️ 392 points",
+      "url": "https://diataxis.fr/"
+    },
+    {
+      "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
+      "hot": "2.8m",
+      "desc": "oldvcr.blogspot.com",
+      "source": "tech",
+      "tag": "⬆️ 66 points",
+      "url": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html"
     },
     {
       "title": "IBM i (OS/400) the Database Operating System",
       "hot": "2.8m",
       "desc": "osadmins.com",
       "source": "tech",
-      "tag": "⬆️ 16 points",
+      "tag": "⬆️ 23 points",
       "url": "https://osadmins.com/en/ibm-i-os-400-the-database-operating-system/"
     },
     {
-      "title": "Holocloth",
-      "hot": "2.8m",
-      "desc": "holocloth.vercel.app",
-      "source": "tech",
-      "tag": "⬆️ 18 points",
-      "url": "https://holocloth.vercel.app"
-    },
-    {
       "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "wafer.ai",
       "source": "tech",
-      "tag": "⬆️ 138 points",
+      "tag": "⬆️ 150 points",
       "url": "https://www.wafer.ai/blog/kimi-k3-mi355x"
     },
     {
-      "title": "ASRock BC-250: Building the Budget Steam Machine",
-      "hot": "2.8m",
-      "desc": "plug-world.com",
+      "title": "Holocloth",
+      "hot": "2.7m",
+      "desc": "holocloth.vercel.app",
       "source": "tech",
-      "tag": "⬆️ 71 points",
-      "url": "https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/"
+      "tag": "⬆️ 30 points",
+      "url": "https://holocloth.vercel.app"
     },
     {
-      "title": "Maze Toys",
+      "title": "Mathematics Without Mathematicians",
       "hot": "2.7m",
-      "desc": "maze.toys",
+      "desc": "borretti.me",
       "source": "tech",
-      "tag": "⬆️ 13 points",
-      "url": "https://maze.toys"
+      "tag": "⬆️ 33 points",
+      "url": "https://borretti.me/article/mathematics-without-mathematicians"
+    }
+  ],
+  "space": [
+    {
+      "title": "U.S. Air Force expands Blue Origin rocket cargo contract",
+      "hot": "8/2",
+      "desc": "\nThe Air Force Research Laboratory increased by $11.7 million Blue Origin’s contract to study the use of space rockets for point-to-point deliveries \n",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/u-s-air-force-expands-blue-origin-rocket-cargo-contract/"
     },
     {
-      "title": "Morph (YC S23) Is Hiring Member of Technical Staff",
-      "hot": "2.7m",
-      "desc": "ycombinator.com",
-      "source": "tech",
-      "tag": "⬆️ 1 points",
-      "url": "https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff"
+      "title": "Boeing’s Starliner set for potential 2026 cargo run to ISS",
+      "hot": "8/1",
+      "desc": "Boeing CEO Kelly Ortberg has noted redesign work on the company’s CST-100 Starliner spacecraft is…\nThe post Boeing’s Starliner set for potential 2026 ",
+      "source": "space",
+      "tag": "NASASpaceflight",
+      "url": "https://www.nasaspaceflight.com/2026/08/boeing-starliner-2026-iss/"
     },
     {
-      "title": "When random.bytes() runs but doesn't work",
-      "hot": "2.7m",
-      "desc": "insider.btcpp.dev",
-      "source": "tech",
-      "tag": "⬆️ 53 points",
-      "url": "https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt"
+      "title": "Space Force awards K2 Space $22.9 million for orbital laser communications demonstration",
+      "hot": "8/1",
+      "desc": "\nTwo K2 satellites will host optical terminals intended to connect military systems in orbit\nThe post Space Force awards K2 Space $22.9 million for or",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/space-force-awards-k2-space-22-9-million-for-orbital-laser-communications-demonstration/"
+    },
+    {
+      "title": "China launches secretive TJS-27 pair, orbits next-gen Tianlian relay sat",
+      "hot": "8/1",
+      "desc": "\nHELSINKI — China sent a new pair of secretive satellites into a programmatically new orbit Wednesday, while also upgrading its on-orbit communication",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/china-launches-secretive-tjs-27-pair-orbits-next-gen-tianlian-relay-sat/"
+    },
+    {
+      "title": "APOD: 2026 August 1 – Buck Moon and Belt of Venus",
+      "hot": "8/1",
+      "desc": "APOD Science APOD APOD: 2026 August 1 – Buck… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Pict",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/image-article/apod-2026-august-1-buck-moon-and-belt-of-venus/"
+    },
+    {
+      "title": "What’s Up: August 2026 Skywatching Tips from NASA",
+      "hot": "7/31",
+      "desc": "A solar eclipse, the Perseids, bright Venus after sunset, and a deep partial lunar eclipse highlight August’s skywatching. Skywatching Highlights Tran",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/solar-system/whats-up-august-2026-skywatching-tips-from-nasa/"
+    },
+    {
+      "title": "Starbase Pad 1 Retrofits Progress as Block 3 Flights Start",
+      "hot": "7/31",
+      "desc": "While SpaceX has now flown two flights out of the newly designed Pad 2, crews…\nThe post Starbase Pad 1 Retrofits Progress as Block 3 Flights Start app",
+      "source": "space",
+      "tag": "NASASpaceflight",
+      "url": "https://www.nasaspaceflight.com/2026/07/pad-1-retrofits-block-3-flights/"
+    },
+    {
+      "title": "NASA to Host Florida Event Celebrating American Air, Space Leadership",
+      "hot": "7/31",
+      "desc": "NASA will hold a news conference at 2:30 p.m. EDT, Friday, Aug. 14, live from the agency’s Kennedy Space Center in Florida, and media and digital crea",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/news-release/nasa-to-host-florida-event-celebrating-american-air-space-leadership/"
+    },
+    {
+      "title": "Sending repurposed Mars rover to the moon could cost more than $1 billion",
+      "hot": "7/31",
+      "desc": "\nConverting an engineering model of a Mars rover into an actual lunar rover could cost NASA more than $1 billion, an estimate strongly rejected by the",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/sending-repurposed-mars-rover-to-the-moon-could-cost-more-than-1-billion/"
+    },
+    {
+      "title": "NASA’s Newest Wind Tunnel Opens at NASA Langley",
+      "hot": "7/31",
+      "desc": "On Friday, July 31, 2026, NASA leadership and Virginia government officials opened NASA’s first major new wind tunnel in more than 40 years, the Fligh",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/image-article/nasas-newest-wind-tunnel-opens-at-nasa-langley/"
+    },
+    {
+      "title": "TB 26-04 Webbings for Use in Elevated Oxygen Environments",
+      "hot": "7/31",
+      "desc": "Flammability test results for commercial-off-the-shelf webbings that meet NASA flammability requirements are reported for use in elevated oxygen envir",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-webbings-for-use-in-elevated-oxygen-environments/"
+    },
+    {
+      "title": "NASA, SpaceX Advance Wind Tunnel Tests for Starship Rocket",
+      "hot": "7/31",
+      "desc": "NASA and its industry partners are preparing for next year’s Artemis III demonstration mission by completing new wind tunnel tests on SpaceX’s Super H",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-spacex-advance-wind-tunnel-tests-for-starship-rocket/"
+    },
+    {
+      "title": "Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+      "hot": "7/31",
+      "desc": "The Starlink 17-52 mission is SpaceX’s 90th orbital launch of the year so far. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 7:5",
+      "source": "space",
+      "tag": "Spaceflight Now",
+      "url": "https://spaceflightnow.com/2026/07/31/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-12/"
+    },
+    {
+      "title": "NASA Opens New Flight Dynamics Research Facility in Virginia",
+      "hot": "7/31",
+      "desc": "NASA opened its newest wind tunnel, the Flight Dynamics Research Facility, Friday, providing a critical resource for the agency and its partners to te",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/news-release/nasa-opens-new-flight-dynamics-research-facility-in-virginia/"
+    },
+    {
+      "title": "Spain commits up to $2.3 billion for national military communications for IRIS²",
+      "hot": "7/31",
+      "desc": "\nWARSAW, Poland — The Spanish government announced it will allocate between 1.6 billion and 2 billion euros ($1.8 to $2.3 billion) to develop a nation",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/spain-commits-up-to-2-3-billion-for-national-military-communications-for-iris%c2%b2/"
     }
   ],
   "github": [
@@ -345,7 +458,7 @@
     },
     {
       "title": "yc-software/qm: Multiplayer agent harness for work",
-      "hot": "⭐ 5.9k",
+      "hot": "⭐ 6.0k",
       "desc": "Multiplayer agent harness for work",
       "source": "github",
       "tag": "TypeScript",
@@ -369,7 +482,7 @@
     },
     {
       "title": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer: FDE（前沿部署工程师）从零入门指南（基于范",
-      "hot": "⭐ 1.3k",
+      "hot": "⭐ 1.4k",
       "desc": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
       "source": "github",
       "tag": "GitHub",
@@ -385,7 +498,7 @@
     },
     {
       "title": "xikhar/persona: Bringing real-time voice to life.",
-      "hot": "⭐ 775",
+      "hot": "⭐ 776",
       "desc": "Bringing real-time voice to life.",
       "source": "github",
       "tag": "JavaScript",
@@ -393,7 +506,7 @@
     },
     {
       "title": "sqliteai/waste: Run the full 2.78-trillion-parameter Kimi K3 model beyond availa",
-      "hot": "⭐ 766",
+      "hot": "⭐ 773",
       "desc": "Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddab",
       "source": "github",
       "tag": "C",
@@ -401,7 +514,7 @@
     },
     {
       "title": "DramaticShape/DramaticShapeVoxelMod: ",
-      "hot": "⭐ 654",
+      "hot": "⭐ 657",
       "desc": "DramaticShape/DramaticShapeVoxelMod",
       "source": "github",
       "tag": "Lua",
@@ -409,11 +522,19 @@
     },
     {
       "title": "talivia-group/talivia: Open-source, self-hosted revenue-first analytics for foun",
-      "hot": "⭐ 612",
+      "hot": "⭐ 615",
       "desc": "Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. ",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/talivia-group/talivia"
+    },
+    {
+      "title": "WilonityDev/WilonityLoader: Wilonity Loader – cheat lib w/ spoofer, driver bypas",
+      "hot": "⭐ 603",
+      "desc": "Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, Warzone, PUBG, R6S, ArcRiders, ",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/WilonityDev/WilonityLoader"
     },
     {
       "title": "gavamedia/deltafin: Run full Kimi K3 on a single device. And an OpenAI-compatibl",
@@ -441,19 +562,11 @@
     },
     {
       "title": "wassgha/rescript: 🎬 Open source, transcript-based video/audio editor that lives",
-      "hot": "⭐ 532",
+      "hot": "⭐ 537",
       "desc": "🎬 Open source, transcript-based video/audio editor that lives in the browser.",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/wassgha/rescript"
-    },
-    {
-      "title": "WilonityDev/WilonityLoader: Wilonity Loader – cheat lib w/ spoofer, driver bypas",
-      "hot": "⭐ 532",
-      "desc": "Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, Warzone, PUBG, R6S, ArcRiders, ",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/WilonityDev/WilonityLoader"
     }
   ]
 }
