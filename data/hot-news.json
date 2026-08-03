@@ -1,175 +1,21 @@
 {
-  "updatedAt": "2026-08-03T20:09:05.096Z",
+  "updatedAt": "2026-08-03T21:34:41.083Z",
   "source": "live",
-  "dev": [
-    {
-      "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
-      "hot": "❤️ 9 💬 0",
-      "desc": "This article explains how to build and test a cross-cloud currency agent. An Amazon Bedrock master...",
-      "source": "dev",
-      "tag": "agents,  googleadk",
-      "url": "https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b"
-    },
-    {
-      "title": "How to Build a Local AI Workspace Like PewDiePie's Odysseus: Hardware, Models, and Cost",
-      "hot": "❤️ 2 💬 0",
-      "desc": "A practical, source-backed guide to building a local AI workspace like PewDiePie's Odysseus, including VRAM tiers, reali",
-      "source": "dev",
-      "tag": "ai,  opensource",
-      "url": "https://dev.to/jenueldev/how-to-build-a-local-ai-workspace-like-pewdiepies-odysseus-hardware-models-and-cost-3egh"
-    },
-    {
-      "title": "Switching Tracks in BlocSignal: The Universal State Switchyard for BLoC, Riverpod, and Provider",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Stop derailing your Flutter apps! Learn how BlocSignal acts as a central railway switchyard bridging BLoC, Riverpod, and",
-      "source": "dev",
-      "tag": "flutter,  dart",
-      "url": "https://dev.to/gde/switching-tracks-in-blocsignal-the-universal-state-switchyard-for-bloc-riverpod-and-provider-929"
-    },
-    {
-      "title": "Inside the Virtual R&D Lab: How Human Imagination and AI Multi-Agents Shape the Future of Science",
-      "hot": "❤️ 6 💬 0",
-      "desc": "System Enforces Order, AI Accelerates Logic: Driving Next-Generation R&amp;D Through...",
-      "source": "dev",
-      "tag": "ai,  gemini",
-      "url": "https://dev.to/gde/inside-the-virtual-rd-lab-how-human-imagination-and-ai-multi-agents-shape-the-future-of-science-3c6j"
-    },
-    {
-      "title": "Fish Audio's $52M Seed: Open Weights Got Them Here",
-      "hot": "❤️ 11 💬 0",
-      "desc": "Fish Audio raised a $52M seed on July 28, 2026 with $21M ARR and 8M users. Its new S2.1 Pro model is closed, API-only. W",
-      "source": "dev",
-      "tag": "tts,  voiceai",
-      "url": "https://dev.to/lukeocodes/fish-audios-52m-seed-open-weights-got-them-here-25e5"
-    },
-    {
-      "title": "Finally — Hard Caps to Limit Your Google Cloud Spend",
-      "hot": "❤️ 5 💬 0",
-      "desc": "TL;DR   For years, Google Cloud budget alerts were purely informational. They sent an email...",
-      "source": "dev",
-      "tag": "gcpbilling,  finops",
-      "url": "https://dev.to/gde/finally-hard-caps-to-limit-your-google-cloud-spend-1363"
-    },
-    {
-      "title": "What was your win this week?",
-      "hot": "❤️ 46 💬 34",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "discuss,  weeklyretro",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-1ed"
-    },
-    {
-      "title": "Skills vs MCP: How AI tools have evolved",
-      "hot": "❤️ 51 💬 18",
-      "desc": "Eighteen months ago, MCP was the thing. Every demo and chatbot connector was running on MCP under the...",
-      "source": "dev",
-      "tag": "ai,  agents",
-      "url": "https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk"
-    },
-    {
-      "title": "Passkeys Explained Simply",
-      "hot": "❤️ 95 💬 28",
-      "desc": "You’ve probably seen that little prompt that says “Sign in with Face ID” or “Use a passkey” instead...",
-      "source": "dev",
-      "tag": "security,  api",
-      "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk"
-    },
-    {
-      "title": "Join our latest Frontend Challenge: Comfort Food Edition 🍲",
-      "hot": "❤️ 167 💬 54",
-      "desc": "We're back with another Frontend Challenge, and this time we're hungry! 🍜🥧  Running through August...",
-      "source": "dev",
-      "tag": "devchallenge,  frontendchallenge",
-      "url": "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0"
-    },
-    {
-      "title": "I had two weeks, an 8-foot keyboard, and a Wordle Workflow",
-      "hot": "❤️ 7 💬 0",
-      "desc": "A Wordle clone, an 8-foot keyboard, and a holographic fan display made Temporal's Durable Execution visible at AI Engine",
-      "source": "dev",
-      "tag": "temporal,  codesamples",
-      "url": "https://dev.to/temporalio/i-had-two-weeks-an-8-foot-keyboard-and-a-wordle-workflow-15h"
-    },
-    {
-      "title": "Does it still make sense to learn how to code?",
-      "hot": "❤️ 53 💬 20",
-      "desc": "Does it still make sense to learn how to code?   This is a question I’ve been thinking about a lot...",
-      "source": "dev",
-      "tag": "ai,  learning",
-      "url": "https://dev.to/robertobutti/does-it-still-make-sense-to-learn-how-to-code-3g7g"
-    },
-    {
-      "title": "The memory layer that never calls an LLM: what that buys, and what it costs",
-      "hot": "❤️ 18 💬 20",
-      "desc": "Part 4 of **The Answerability Problem, and the one that isn't about abstention. Parts 1–3 argued that...",
-      "source": "dev",
-      "tag": "ai,  rag",
-      "url": "https://dev.to/gde03/the-memory-layer-that-never-calls-an-llm-what-that-buys-and-what-it-costs-12ch"
-    },
-    {
-      "title": "Bug Smash isn't glamorous and that's what I love about it.",
-      "hot": "❤️ 31 💬 3",
-      "desc": "We kicked off DEV's Big Summer Bug Smash on July 14, and I've been waiting to write this post since...",
-      "source": "dev",
-      "tag": "bugsmash,  devchallenge",
-      "url": "https://dev.to/devteam/bug-smash-isnt-glamorous-and-thats-what-i-love-about-it-445i"
-    },
-    {
-      "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
-      "hot": "❤️ 50 💬 30",
-      "desc": "Every form I ever shipped before React 19 needed the same three pieces of state, and I wired them up...",
-      "source": "dev",
-      "tag": "react,  webdev",
-      "url": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd"
-    },
-    {
-      "title": "Building AI Agents with the TypeScript Agent Development Kit (ADK)",
-      "hot": "❤️ 8 💬 3",
-      "desc": "Build, test, and deploy AI agents using Google's native TypeScript Agent Development Kit (ADK), Gemini 2.5 Flash, and Cl",
-      "source": "dev",
-      "tag": "typescript,  ai",
-      "url": "https://dev.to/gde/building-ai-agents-with-the-typescript-agent-development-kit-adk-3mf"
-    },
-    {
-      "title": "Google ADK: Introduction to AI Agent Development",
-      "hot": "❤️ 29 💬 0",
-      "desc": "Nota: ✋ This post was originally published on my blog wiki-cloud.co           ...",
-      "source": "dev",
-      "tag": "ai,  agents",
-      "url": "https://dev.to/gde/google-adk-introduction-to-ai-agent-development-1b4e"
-    },
-    {
-      "title": "Your RAG copilot can't count — stop letting it try",
-      "hot": "❤️ 9 💬 9",
-      "desc": "Your RAG copilot can't count — stop letting it try   A user asked our document-search...",
-      "source": "dev",
-      "tag": "rag,  ai",
-      "url": "https://dev.to/rdiegoss/your-rag-copilot-cant-count-stop-letting-it-try-2ie3"
-    },
-    {
-      "title": "Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)",
-      "hot": "❤️ 7 💬 0",
-      "desc": "Summary of 2026 Updates (v2 — Python ADK 2.0 Migration)   This updated edition incorporates...",
-      "source": "dev",
-      "tag": "python,  ai",
-      "url": "https://dev.to/gde/building-ai-agents-with-the-python-agent-development-kit-adk-2026-edition-v2-32hf"
-    },
-    {
-      "title": "Building AI Agents with the GO Agent Development Kit (ADK) — 2026 Edition (v2)",
-      "hot": "❤️ 7 💬 0",
-      "desc": "Summary of 2026 Updates (v2 — Go ADK 2.0 Migration)   This updated edition incorporates...",
-      "source": "dev",
-      "tag": "go,  adk",
-      "url": "https://dev.to/gde/building-ai-agents-with-the-go-agent-development-kit-adk-2026-edition-v2-4n55"
-    }
-  ],
   "tech": [
+    {
+      "title": "LLMs reward expertise",
+      "hot": "3.0m",
+      "desc": "seangoedecke.com",
+      "source": "tech",
+      "tag": "⬆️ 39 points",
+      "url": "https://www.seangoedecke.com/llms-reward-expertise/"
+    },
     {
       "title": "Ten advances in mathematics and theoretical computer science",
       "hot": "3.0m",
       "desc": "openai.com",
       "source": "tech",
-      "tag": "⬆️ 235 points",
+      "tag": "⬆️ 334 points",
       "url": "https://openai.com/index/ten-advances-in-mathematics/"
     },
     {
@@ -177,155 +23,155 @@
       "hot": "3.0m",
       "desc": "blog.exe.dev",
       "source": "tech",
-      "tag": "⬆️ 372 points",
+      "tag": "⬆️ 428 points",
       "url": "https://blog.exe.dev/devtools-must-be-open-source"
     },
     {
-      "title": "Wind and solar overtake fossil fuels in Germany for the first time",
-      "hot": "3.0m",
-      "desc": "intellinews.com",
-      "source": "tech",
-      "tag": "⬆️ 268 points",
-      "url": "https://www.intellinews.com/wind-and-solar-overtake-fossil-fuels-in-germany-for-the-first-time-ever-458379/"
-    },
-    {
-      "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
-      "hot": "3.0m",
-      "desc": "changelog.complete.org",
-      "source": "tech",
-      "tag": "⬆️ 78 points",
-      "url": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase"
-    },
-    {
       "title": "Smaller, faster, safer: running Kimi and GLM at scale",
-      "hot": "2.9m",
+      "hot": "3.0m",
       "desc": "blog.cloudflare.com",
       "source": "tech",
-      "tag": "⬆️ 47 points",
+      "tag": "⬆️ 83 points",
       "url": "https://blog.cloudflare.com/smaller-faster-safer-models/"
     },
     {
-      "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
+      "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
       "hot": "2.9m",
-      "desc": "blog.comfy.org",
+      "desc": "changelog.complete.org",
       "source": "tech",
-      "tag": "⬆️ 204 points",
-      "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui"
-    },
-    {
-      "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
-      "hot": "2.9m",
-      "desc": "clickhouse.com",
-      "source": "tech",
-      "tag": "⬆️ 200 points",
-      "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse"
-    },
-    {
-      "title": "Massively Parallel Postgres Backups",
-      "hot": "2.9m",
-      "desc": "planetscale.com",
-      "source": "tech",
-      "tag": "⬆️ 56 points",
-      "url": "https://planetscale.com/blog/massively-parallel-postgres-backups"
+      "tag": "⬆️ 102 points",
+      "url": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase"
     },
     {
       "title": "200 Milliseconds",
       "hot": "2.9m",
       "desc": "200ms.thenodebook.com",
       "source": "tech",
-      "tag": "⬆️ 12 points",
+      "tag": "⬆️ 79 points",
       "url": "https://200ms.thenodebook.com"
+    },
+    {
+      "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
+      "hot": "2.9m",
+      "desc": "blog.comfy.org",
+      "source": "tech",
+      "tag": "⬆️ 224 points",
+      "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui"
+    },
+    {
+      "title": "The Dunning-Kruger effect may just be a data artefact (2020)",
+      "hot": "2.9m",
+      "desc": "mcgill.ca",
+      "source": "tech",
+      "tag": "⬆️ 69 points",
+      "url": "https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real"
+    },
+    {
+      "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
+      "hot": "2.9m",
+      "desc": "clickhouse.com",
+      "source": "tech",
+      "tag": "⬆️ 229 points",
+      "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse"
+    },
+    {
+      "title": "Replacing the Kobo Libra H2O Battery",
+      "hot": "2.9m",
+      "desc": "ei3lh.eu",
+      "source": "tech",
+      "tag": "⬆️ 13 points",
+      "url": "https://ei3lh.eu/2025/11/20/replacing-the-kobo-libra-h2o-battery/"
     },
     {
       "title": "How Hollywood stopped making movies in Hollywood",
       "hot": "2.9m",
       "desc": "statsignificant.com",
       "source": "tech",
-      "tag": "⬆️ 132 points",
+      "tag": "⬆️ 139 points",
       "url": "https://www.statsignificant.com/p/how-hollywood-stopped-making-movies"
     },
     {
-      "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
-      "hot": "2.9m",
-      "desc": "hoplite.sh",
+      "title": "AI's debt binge can't last, hidden borrowing reaches $1.65T",
+      "hot": "2.8m",
+      "desc": "fortune.com",
       "source": "tech",
-      "tag": "⬆️ 30 points",
-      "url": "https://hoplite.sh"
+      "tag": "⬆️ 60 points",
+      "url": "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/"
     },
     {
-      "title": "The Billable Usage API: programmatic cost visibility for Cloudflare",
+      "title": "Massively Parallel Postgres Backups",
       "hot": "2.8m",
-      "desc": "blog.cloudflare.com",
+      "desc": "planetscale.com",
       "source": "tech",
-      "tag": "⬆️ 24 points",
-      "url": "https://blog.cloudflare.com/billable-usage-api/"
+      "tag": "⬆️ 67 points",
+      "url": "https://planetscale.com/blog/massively-parallel-postgres-backups"
+    },
+    {
+      "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
+      "hot": "2.8m",
+      "desc": "hoplite.sh",
+      "source": "tech",
+      "tag": "⬆️ 37 points",
+      "url": "https://hoplite.sh"
     },
     {
       "title": "Kelly Criterion Simulator",
       "hot": "2.8m",
       "desc": "kellysimulator.com",
       "source": "tech",
-      "tag": "⬆️ 19 points",
+      "tag": "⬆️ 36 points",
       "url": "https://kellysimulator.com/"
+    },
+    {
+      "title": "DDoS against Norwegian government IT infrastructure – status",
+      "hot": "2.8m",
+      "desc": "status.digdir.no",
+      "source": "tech",
+      "tag": "⬆️ 66 points",
+      "url": "https://status.digdir.no/incidents/d7hvqmf2yr3l"
     },
     {
       "title": "AirLLM 70B inference with single 4GB GPU",
       "hot": "2.8m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 157 points",
+      "tag": "⬆️ 169 points",
       "url": "https://github.com/lyogavin/airllm"
-    },
-    {
-      "title": "Bonsai: Janestreet's UI Library",
-      "hot": "2.8m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 255 points",
-      "url": "https://github.com/janestreet/bonsai"
-    },
-    {
-      "title": "Use Task Runners for Common Coding Tasks",
-      "hot": "2.8m",
-      "desc": "hamvocke.com",
-      "source": "tech",
-      "tag": "⬆️ 33 points",
-      "url": "https://hamvocke.com/blog/task-runners/"
-    },
-    {
-      "title": "The Potomac River Midair Collision",
-      "hot": "2.8m",
-      "desc": "admiralcloudberg.medium.com",
-      "source": "tech",
-      "tag": "⬆️ 32 points",
-      "url": "https://admiralcloudberg.medium.com/reaping-the-whirlwind-inside-the-potomac-river-midair-collision-0475416f2b0f"
     },
     {
       "title": "SearXNG in Rust",
       "hot": "2.7m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 35 points",
+      "tag": "⬆️ 49 points",
       "url": "https://github.com/MikeLuu99/searxng-rust"
     },
     {
-      "title": "Don't be a meat proxy",
+      "title": "KisakCOD – open-source reimplementation of Call of Duty 4 Multiplayer",
       "hot": "2.7m",
-      "desc": "gruhn.me",
+      "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 1576 points",
-      "url": "https://gruhn.me/blog/2026-08-03/"
+      "tag": "⬆️ 13 points",
+      "url": "https://github.com/SwagSoftware/KisakCOD"
     },
     {
-      "title": "Show HN: Product analytics (and evals) for agent sessions on your MCP",
+      "title": "Bonsai: Janestreet's UI Library",
       "hot": "2.7m",
-      "desc": "armature.tech",
+      "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 26 points",
-      "url": "https://armature.tech/"
+      "tag": "⬆️ 269 points",
+      "url": "https://github.com/janestreet/bonsai"
     }
   ],
   "space": [
+    {
+      "title": "Launch Preview: Starlink, AST SpaceMobile, and Chinese missions fill launch manifest",
+      "hot": "8/3",
+      "desc": "The first full week of August is shaping up to be another busy period for…\nThe post Launch Preview: Starlink, AST SpaceMobile, and Chinese missions fi",
+      "source": "space",
+      "tag": "NASASpaceflight",
+      "url": "https://www.nasaspaceflight.com/2026/08/launch-preview-080326/"
+    },
     {
       "title": "Louisiana Students Loft Payloads from NASA Balloon Facility in Texas",
       "hot": "8/3",
@@ -437,20 +283,12 @@
       "source": "space",
       "tag": "NASA",
       "url": "https://science.nasa.gov/image-article/apod-2026-august-3-vaporizing-meteor-photobombs-the-lacerta-nebula/"
-    },
-    {
-      "title": "What’s Happening in Space Policy August 2-8, 2026",
-      "hot": "8/2",
-      "desc": "Here is SpacePolicyOnline.com’s list of space policy events for the week of August 2-8, 2026 and any insight we can offer about them. The Senate is in",
-      "source": "space",
-      "tag": "SpacePolicyOnline.com",
-      "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-2-8-2026/"
     }
   ],
   "github": [
     {
       "title": "yc-software/qm: Multiplayer agent harness for work",
-      "hot": "⭐ 9.3k",
+      "hot": "⭐ 9.4k",
       "desc": "Multiplayer agent harness for work",
       "source": "github",
       "tag": "TypeScript",
@@ -474,7 +312,7 @@
     },
     {
       "title": "trycompai/crm: An open-source, agentic-first CRM.",
-      "hot": "⭐ 3.0k",
+      "hot": "⭐ 3.1k",
       "desc": "An open-source, agentic-first CRM.",
       "source": "github",
       "tag": "TypeScript",
@@ -506,7 +344,7 @@
     },
     {
       "title": "microsoft/skill-recorder: Desktop app that records your on-screen work session a",
-      "hot": "⭐ 1.3k",
+      "hot": "⭐ 1.4k",
       "desc": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reu",
       "source": "github",
       "tag": "TypeScript",
@@ -522,7 +360,7 @@
     },
     {
       "title": "FareedKhan-dev/kimi-k3-in-c: A 2.78-trillion-parameter Kimi K3 running inference",
-      "hot": "⭐ 1.1k",
+      "hot": "⭐ 1.2k",
       "desc": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
       "source": "github",
       "tag": "C",
@@ -530,7 +368,7 @@
     },
     {
       "title": "DannyMac180/sol-advisor: Codex-native architect orchestration with Luna and Terr",
-      "hot": "⭐ 945",
+      "hot": "⭐ 960",
       "desc": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.",
       "source": "github",
       "tag": "Shell",
@@ -546,7 +384,7 @@
     },
     {
       "title": "imsai-sh/zhuzhiliao: 竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
-      "hot": "⭐ 730",
+      "hot": "⭐ 732",
       "desc": "竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
       "source": "github",
       "tag": "HTML",
@@ -554,7 +392,7 @@
     },
     {
       "title": "thebuggeddev/anatomy: An interactive 3D human anatomy explorer built using three",
-      "hot": "⭐ 703",
+      "hot": "⭐ 717",
       "desc": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
       "source": "github",
       "tag": "TypeScript",
@@ -567,6 +405,168 @@
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/talivia-group/talivia"
+    }
+  ],
+  "dev": [
+    {
+      "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
+      "hot": "❤️ 9 💬 0",
+      "desc": "This article explains how to build and test a cross-cloud currency agent. An Amazon Bedrock master...",
+      "source": "dev",
+      "tag": "agents,  googleadk",
+      "url": "https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b"
+    },
+    {
+      "title": "How to Build a Local AI Workspace Like PewDiePie's Odysseus: Hardware, Models, and Cost",
+      "hot": "❤️ 2 💬 0",
+      "desc": "A practical, source-backed guide to building a local AI workspace like PewDiePie's Odysseus, including VRAM tiers, reali",
+      "source": "dev",
+      "tag": "ai,  opensource",
+      "url": "https://dev.to/jenueldev/how-to-build-a-local-ai-workspace-like-pewdiepies-odysseus-hardware-models-and-cost-3egh"
+    },
+    {
+      "title": "Switching Tracks in BlocSignal: The Universal State Switchyard for BLoC, Riverpod, and Provider",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Stop derailing your Flutter apps! Learn how BlocSignal acts as a central railway switchyard bridging BLoC, Riverpod, and",
+      "source": "dev",
+      "tag": "flutter,  dart",
+      "url": "https://dev.to/gde/switching-tracks-in-blocsignal-the-universal-state-switchyard-for-bloc-riverpod-and-provider-929"
+    },
+    {
+      "title": "Inside the Virtual R&D Lab: How Human Imagination and AI Multi-Agents Shape the Future of Science",
+      "hot": "❤️ 6 💬 0",
+      "desc": "System Enforces Order, AI Accelerates Logic: Driving Next-Generation R&amp;D Through...",
+      "source": "dev",
+      "tag": "ai,  gemini",
+      "url": "https://dev.to/gde/inside-the-virtual-rd-lab-how-human-imagination-and-ai-multi-agents-shape-the-future-of-science-3c6j"
+    },
+    {
+      "title": "What was your win this week?",
+      "hot": "❤️ 46 💬 35",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "discuss,  weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-1ed"
+    },
+    {
+      "title": "Fish Audio's $52M Seed: Open Weights Got Them Here",
+      "hot": "❤️ 11 💬 0",
+      "desc": "Fish Audio raised a $52M seed on July 28, 2026 with $21M ARR and 8M users. Its new S2.1 Pro model is closed, API-only. W",
+      "source": "dev",
+      "tag": "tts,  voiceai",
+      "url": "https://dev.to/lukeocodes/fish-audios-52m-seed-open-weights-got-them-here-25e5"
+    },
+    {
+      "title": "Finally — Hard Caps to Limit Your Google Cloud Spend",
+      "hot": "❤️ 5 💬 0",
+      "desc": "TL;DR   For years, Google Cloud budget alerts were purely informational. They sent an email...",
+      "source": "dev",
+      "tag": "gcpbilling,  finops",
+      "url": "https://dev.to/gde/finally-hard-caps-to-limit-your-google-cloud-spend-1363"
+    },
+    {
+      "title": "Google ADK: Architecture and Essential Components",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Nota: ✋ This post was originally published on my blog wiki-cloud.co            Introduction   The...",
+      "source": "dev",
+      "tag": "ai,  agents",
+      "url": "https://dev.to/gde/google-adk-architecture-and-essential-components-4hb6"
+    },
+    {
+      "title": "Passkeys Explained Simply",
+      "hot": "❤️ 95 💬 28",
+      "desc": "You’ve probably seen that little prompt that says “Sign in with Face ID” or “Use a passkey” instead...",
+      "source": "dev",
+      "tag": "security,  api",
+      "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk"
+    },
+    {
+      "title": "Join our latest Frontend Challenge: Comfort Food Edition 🍲",
+      "hot": "❤️ 168 💬 54",
+      "desc": "We're back with another Frontend Challenge, and this time we're hungry! 🍜🥧  Running through August...",
+      "source": "dev",
+      "tag": "devchallenge,  frontendchallenge",
+      "url": "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0"
+    },
+    {
+      "title": "Lifecycle, DevOps & Multi-Agent Orchestration for Enterprise AI",
+      "hot": "❤️ 8 💬 0",
+      "desc": "A deep-dive technical guide to GitOps agent manifests, AOT evaluation gates, canary deployments, and multi-agent communi",
+      "source": "dev",
+      "tag": "ai,  devops",
+      "url": "https://dev.to/gde/lifecycle-devops-multi-agent-orchestration-for-enterprise-ai-1a1m"
+    },
+    {
+      "title": "I had two weeks, an 8-foot keyboard, and a Wordle Workflow",
+      "hot": "❤️ 7 💬 0",
+      "desc": "A Wordle clone, an 8-foot keyboard, and a holographic fan display made Temporal's Durable Execution visible at AI Engine",
+      "source": "dev",
+      "tag": "temporal,  codesamples",
+      "url": "https://dev.to/temporalio/i-had-two-weeks-an-8-foot-keyboard-and-a-wordle-workflow-15h"
+    },
+    {
+      "title": "The memory layer that never calls an LLM: what that buys, and what it costs",
+      "hot": "❤️ 18 💬 20",
+      "desc": "Part 4 of **The Answerability Problem, and the one that isn't about abstention. Parts 1–3 argued that...",
+      "source": "dev",
+      "tag": "ai,  rag",
+      "url": "https://dev.to/gde03/the-memory-layer-that-never-calls-an-llm-what-that-buys-and-what-it-costs-12ch"
+    },
+    {
+      "title": "Bug Smash isn't glamorous and that's what I love about it.",
+      "hot": "❤️ 31 💬 3",
+      "desc": "We kicked off DEV's Big Summer Bug Smash on July 14, and I've been waiting to write this post since...",
+      "source": "dev",
+      "tag": "bugsmash,  devchallenge",
+      "url": "https://dev.to/devteam/bug-smash-isnt-glamorous-and-thats-what-i-love-about-it-445i"
+    },
+    {
+      "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
+      "hot": "❤️ 50 💬 30",
+      "desc": "Every form I ever shipped before React 19 needed the same three pieces of state, and I wired them up...",
+      "source": "dev",
+      "tag": "react,  webdev",
+      "url": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd"
+    },
+    {
+      "title": "Building AI Agents with the TypeScript Agent Development Kit (ADK)",
+      "hot": "❤️ 8 💬 3",
+      "desc": "Build, test, and deploy AI agents using Google's native TypeScript Agent Development Kit (ADK), Gemini 2.5 Flash, and Cl",
+      "source": "dev",
+      "tag": "typescript,  ai",
+      "url": "https://dev.to/gde/building-ai-agents-with-the-typescript-agent-development-kit-adk-3mf"
+    },
+    {
+      "title": "Google ADK: Introduction to AI Agent Development",
+      "hot": "❤️ 29 💬 0",
+      "desc": "Nota: ✋ This post was originally published on my blog wiki-cloud.co           ...",
+      "source": "dev",
+      "tag": "ai,  agents",
+      "url": "https://dev.to/gde/google-adk-introduction-to-ai-agent-development-1b4e"
+    },
+    {
+      "title": "Your RAG copilot can't count — stop letting it try",
+      "hot": "❤️ 9 💬 9",
+      "desc": "Your RAG copilot can't count — stop letting it try   A user asked our document-search...",
+      "source": "dev",
+      "tag": "rag,  ai",
+      "url": "https://dev.to/rdiegoss/your-rag-copilot-cant-count-stop-letting-it-try-2ie3"
+    },
+    {
+      "title": "Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)",
+      "hot": "❤️ 7 💬 0",
+      "desc": "Summary of 2026 Updates (v2 — Python ADK 2.0 Migration)   This updated edition incorporates...",
+      "source": "dev",
+      "tag": "python,  ai",
+      "url": "https://dev.to/gde/building-ai-agents-with-the-python-agent-development-kit-adk-2026-edition-v2-32hf"
+    },
+    {
+      "title": "Building AI Agents with the GO Agent Development Kit (ADK) — 2026 Edition (v2)",
+      "hot": "❤️ 7 💬 0",
+      "desc": "Summary of 2026 Updates (v2 — Go ADK 2.0 Migration)   This updated edition incorporates...",
+      "source": "dev",
+      "tag": "go,  adk",
+      "url": "https://dev.to/gde/building-ai-agents-with-the-go-agent-development-kit-adk-2026-edition-v2-4n55"
     }
   ]
 }
