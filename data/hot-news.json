@@ -1,93 +1,133 @@
 {
-  "updatedAt": "2026-08-03T04:53:39.742Z",
+  "updatedAt": "2026-08-03T08:16:30.985Z",
   "source": "live",
   "tech": [
+    {
+      "title": "Don't be a meat proxy",
+      "hot": "3.0m",
+      "desc": "gruhn.me",
+      "source": "tech",
+      "tag": "⬆️ 304 points",
+      "url": "https://gruhn.me/blog/2026-08-03/"
+    },
     {
       "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
       "hot": "3.0m",
       "desc": "qwen.ai",
       "source": "tech",
-      "tag": "⬆️ 221 points",
+      "tag": "⬆️ 492 points",
       "url": "https://qwen.ai/blog?id=qwen3.8"
     },
     {
-      "title": "Show HN: Isopolis – Isometric pixel map of SF",
+      "title": "More German than many Germans",
       "hot": "3.0m",
-      "desc": "sf.isopolis.city",
+      "desc": "mertbulan.com",
       "source": "tech",
-      "tag": "⬆️ 112 points",
-      "url": "https://sf.isopolis.city/"
+      "tag": "⬆️ 162 points",
+      "url": "https://mertbulan.com/more-german-than-many-germans/"
     },
     {
-      "title": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
+      "title": "Rust project goals: Immobile types and guaranteed destructors",
       "hot": "3.0m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 46 points",
-      "url": "https://github.com/johnsonjh/cpm386"
+      "tag": "⬆️ 37 points",
+      "url": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md"
+    },
+    {
+      "title": "Show HN: Isopolis – Isometric pixel map of SF",
+      "hot": "2.9m",
+      "desc": "sf.isopolis.city",
+      "source": "tech",
+      "tag": "⬆️ 199 points",
+      "url": "https://sf.isopolis.city/"
+    },
+    {
+      "title": "AI migrated legacy COBOL programs to Java, bugs included",
+      "hot": "2.9m",
+      "desc": "arxiv.org",
+      "source": "tech",
+      "tag": "⬆️ 50 points",
+      "url": "https://arxiv.org/abs/2607.28271"
     },
     {
       "title": "Karpathy’s Pelican",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "twitter.com",
       "source": "tech",
-      "tag": "⬆️ 499 points",
+      "tag": "⬆️ 553 points",
       "url": "https://twitter.com/karpathy/status/2083749667410727319"
+    },
+    {
+      "title": "Why we write our own C and C++ inference engines",
+      "hot": "2.9m",
+      "desc": "localai.io",
+      "source": "tech",
+      "tag": "⬆️ 43 points",
+      "url": "https://localai.io/blog/why-we-write-our-own-engines/"
     },
     {
       "title": "Show HN: ssh ssh.place",
       "hot": "2.9m",
       "desc": "ssh.place",
       "source": "tech",
-      "tag": "⬆️ 71 points",
+      "tag": "⬆️ 104 points",
       "url": "https://ssh.place"
     },
     {
-      "title": "Show HN: A Handwritten Blogging Platform",
-      "hot": "2.9m",
-      "desc": "handwritten.blog",
-      "source": "tech",
-      "tag": "⬆️ 40 points",
-      "url": "https://handwritten.blog/"
-    },
-    {
-      "title": "Why Book Corners won't sync contributions back to OpenStreetMap",
-      "hot": "2.9m",
-      "desc": "andreagrandi.it",
-      "source": "tech",
-      "tag": "⬆️ 68 points",
-      "url": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/"
-    },
-    {
-      "title": "Autoregressive Language Model on the 6502 Processor",
-      "hot": "2.9m",
-      "desc": "mattbeton.com",
-      "source": "tech",
-      "tag": "⬆️ 77 points",
-      "url": "https://mattbeton.com/blog/bitnet-6502.html"
-    },
-    {
-      "title": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
-      "hot": "2.9m",
-      "desc": "modelrepublic.org",
-      "source": "tech",
-      "tag": "⬆️ 17 points",
-      "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda"
-    },
-    {
-      "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+      "title": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
       "hot": "2.9m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 195 points",
+      "tag": "⬆️ 63 points",
+      "url": "https://github.com/johnsonjh/cpm386"
+    },
+    {
+      "title": "Convergence is not enough",
+      "hot": "2.9m",
+      "desc": "inkandswitch.com",
+      "source": "tech",
+      "tag": "⬆️ 28 points",
+      "url": "https://www.inkandswitch.com/livelymerge/notebook/lm-02/"
+    },
+    {
+      "title": "Show HN: A Handwritten Blogging Platform",
+      "hot": "2.8m",
+      "desc": "handwritten.blog",
+      "source": "tech",
+      "tag": "⬆️ 94 points",
+      "url": "https://handwritten.blog/"
+    },
+    {
+      "title": "Autoregressive Language Model on the 6502 Processor",
+      "hot": "2.8m",
+      "desc": "mattbeton.com",
+      "source": "tech",
+      "tag": "⬆️ 101 points",
+      "url": "https://mattbeton.com/blog/bitnet-6502.html"
+    },
+    {
+      "title": "Emulating ALiBi with Rope",
+      "hot": "2.8m",
+      "desc": "alexlitzenberger.com",
+      "source": "tech",
+      "tag": "⬆️ 4 points",
+      "url": "https://alexlitzenberger.com/blog/emulating_alibi_with_rope"
+    },
+    {
+      "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+      "hot": "2.8m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 212 points",
       "url": "https://github.com/wie-project/kakehashi"
     },
     {
       "title": "Note-Taking and Personal Knowledge Management",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "unattributed.cc",
       "source": "tech",
-      "tag": "⬆️ 160 points",
+      "tag": "⬆️ 190 points",
       "url": "https://unattributed.cc/note-taking-and-personal-knowledge-management"
     },
     {
@@ -95,72 +135,32 @@
       "hot": "2.8m",
       "desc": "stackoverflow.blog",
       "source": "tech",
-      "tag": "⬆️ 178 points",
+      "tag": "⬆️ 205 points",
       "url": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/"
     },
     {
       "title": "SwiftUI After 7 Years",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "ykvm.com",
       "source": "tech",
-      "tag": "⬆️ 141 points",
+      "tag": "⬆️ 185 points",
       "url": "https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/"
     },
     {
-      "title": "RFC 9851: TLS 1.2 is in Feature Freeze",
-      "hot": "2.8m",
-      "desc": "rfc-editor.org",
+      "title": "Why Book Corners won't sync contributions back to OpenStreetMap",
+      "hot": "2.7m",
+      "desc": "andreagrandi.it",
       "source": "tech",
-      "tag": "⬆️ 19 points",
-      "url": "https://www.rfc-editor.org/rfc/rfc9851.html"
-    },
-    {
-      "title": "The myth of Snow Leopard",
-      "hot": "2.8m",
-      "desc": "rubenerd.au",
-      "source": "tech",
-      "tag": "⬆️ 64 points",
-      "url": "https://www.rubenerd.au/the-myth-of-snow-leopard/"
-    },
-    {
-      "title": "The Computational Theory of Mind (2015)",
-      "hot": "2.8m",
-      "desc": "plato.stanford.edu",
-      "source": "tech",
-      "tag": "⬆️ 44 points",
-      "url": "https://plato.stanford.edu/entries/computational-mind/"
+      "tag": "⬆️ 84 points",
+      "url": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/"
     },
     {
       "title": "Read the novels and forget everything else",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "hedgehogreview.com",
       "source": "tech",
-      "tag": "⬆️ 75 points",
+      "tag": "⬆️ 92 points",
       "url": "https://hedgehogreview.com/web-features/thr/posts/read-the-novels-and-forget-everything-else"
-    },
-    {
-      "title": "Show HN: Mu – Tools for Agents",
-      "hot": "2.7m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 47 points",
-      "url": "https://github.com/micro/mu"
-    },
-    {
-      "title": "Cro – elegant reactive services in Raku",
-      "hot": "2.7m",
-      "desc": "cro.raku.org",
-      "source": "tech",
-      "tag": "⬆️ 6 points",
-      "url": "https://cro.raku.org/"
-    },
-    {
-      "title": "Show HN: Make your Framework 12 sound like a creaky door",
-      "hot": "2.7m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 68 points",
-      "url": "https://github.com/ArcaEge/creakwork12"
     }
   ],
   "space": [
@@ -287,6 +287,14 @@
   ],
   "github": [
     {
+      "title": "yc-software/qm: Multiplayer agent harness for work",
+      "hot": "⭐ 8.0k",
+      "desc": "Multiplayer agent harness for work",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/yc-software/qm"
+    },
+    {
       "title": "MoonshotAI/Kimi-K3: Open Frontier Intelligence",
       "hot": "⭐ 7.9k",
       "desc": "Open Frontier Intelligence",
@@ -295,16 +303,8 @@
       "url": "https://github.com/MoonshotAI/Kimi-K3"
     },
     {
-      "title": "yc-software/qm: Multiplayer agent harness for work",
-      "hot": "⭐ 7.6k",
-      "desc": "Multiplayer agent harness for work",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/yc-software/qm"
-    },
-    {
       "title": "bashalarmistalt/decimen-optical-transfer: ",
-      "hot": "⭐ 3.8k",
+      "hot": "⭐ 3.9k",
       "desc": "bashalarmistalt/decimen-optical-transfer",
       "source": "github",
       "tag": "TypeScript",
@@ -312,11 +312,19 @@
     },
     {
       "title": "trycompai/crm: An open-source, agentic-first CRM.",
-      "hot": "⭐ 1.9k",
+      "hot": "⭐ 2.0k",
       "desc": "An open-source, agentic-first CRM.",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/trycompai/crm"
+    },
+    {
+      "title": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer: FDE（前沿部署工程师）从零入门指南（基于范",
+      "hot": "⭐ 1.8k",
+      "desc": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer"
     },
     {
       "title": "QwenAudio/qwen-audio-agent: A realtime voice runtime that keeps Agents talking, ",
@@ -327,12 +335,12 @@
       "url": "https://github.com/QwenAudio/qwen-audio-agent"
     },
     {
-      "title": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer: FDE（前沿部署工程师）从零入门指南（基于范",
-      "hot": "⭐ 1.7k",
-      "desc": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
+      "title": "sqliteai/waste: Run the full 2.78-trillion-parameter Kimi K3 model beyond availa",
+      "hot": "⭐ 1.3k",
+      "desc": "Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddab",
       "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer"
+      "tag": "C",
+      "url": "https://github.com/sqliteai/waste"
     },
     {
       "title": "WilonityDev/WilonityLoader: Wilonity Loader – cheat lib w/ spoofer, driver bypas",
@@ -343,40 +351,32 @@
       "url": "https://github.com/WilonityDev/WilonityLoader"
     },
     {
-      "title": "sqliteai/waste: Run the full 2.78-trillion-parameter Kimi K3 model beyond availa",
-      "hot": "⭐ 1.2k",
-      "desc": "Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddab",
-      "source": "github",
-      "tag": "C",
-      "url": "https://github.com/sqliteai/waste"
-    },
-    {
       "title": "microsoft/skill-recorder: Desktop app that records your on-screen work session a",
-      "hot": "⭐ 927",
+      "hot": "⭐ 1.1k",
       "desc": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reu",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/microsoft/skill-recorder"
     },
     {
-      "title": "xikhar/persona: Bringing real-time voice to life.",
-      "hot": "⭐ 796",
-      "desc": "Bringing real-time voice to life.",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/xikhar/persona"
-    },
-    {
       "title": "DannyMac180/sol-advisor: Codex-native architect orchestration with Luna and Terr",
-      "hot": "⭐ 744",
+      "hot": "⭐ 811",
       "desc": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.",
       "source": "github",
       "tag": "Shell",
       "url": "https://github.com/DannyMac180/sol-advisor"
     },
     {
+      "title": "xikhar/persona: Bringing real-time voice to life.",
+      "hot": "⭐ 798",
+      "desc": "Bringing real-time voice to life.",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/xikhar/persona"
+    },
+    {
       "title": "talivia-group/talivia: Open-source, self-hosted revenue-first analytics for foun",
-      "hot": "⭐ 654",
+      "hot": "⭐ 662",
       "desc": "Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. ",
       "source": "github",
       "tag": "TypeScript",
@@ -384,7 +384,7 @@
     },
     {
       "title": "gavamedia/deltafin: Run full Kimi K3 on a single device. And an OpenAI-compatibl",
-      "hot": "⭐ 628",
+      "hot": "⭐ 630",
       "desc": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
       "source": "github",
       "tag": "Rust",
@@ -458,7 +458,7 @@
     },
     {
       "title": "What was your win this week?",
-      "hot": "❤️ 45 💬 27",
+      "hot": "❤️ 45 💬 31",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "discuss,  weeklyretro",
@@ -466,7 +466,7 @@
     },
     {
       "title": "Skills vs MCP: How AI tools have evolved",
-      "hot": "❤️ 49 💬 14",
+      "hot": "❤️ 49 💬 15",
       "desc": "Eighteen months ago, MCP was the thing. Every demo and chatbot connector was running on MCP under the...",
       "source": "dev",
       "tag": "ai,  agents",
@@ -482,7 +482,7 @@
     },
     {
       "title": "Join our latest Frontend Challenge: Comfort Food Edition 🍲",
-      "hot": "❤️ 158 💬 52",
+      "hot": "❤️ 159 💬 53",
       "desc": "We're back with another Frontend Challenge, and this time we're hungry! 🍜🥧  Running through August...",
       "source": "dev",
       "tag": "devchallenge,  frontendchallenge",
@@ -498,7 +498,7 @@
     },
     {
       "title": "Does it still make sense to learn how to code?",
-      "hot": "❤️ 52 💬 20",
+      "hot": "❤️ 53 💬 20",
       "desc": "Does it still make sense to learn how to code?   This is a question I’ve been thinking about a lot...",
       "source": "dev",
       "tag": "ai,  learning",
