@@ -1,11 +1,27 @@
 {
   "data": [
     {
+      "title": "Critical CVE issued for hallucinated SQLite vulnerability",
+      "hot": "3.0m",
+      "desc": "research.jfrog.com",
+      "source": "tech",
+      "tag": "⬆️ 315 points",
+      "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/"
+    },
+    {
+      "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
+      "hot": "3.0m",
+      "desc": "blog.comfy.org",
+      "source": "tech",
+      "tag": "⬆️ 32 points",
+      "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui"
+    },
+    {
       "title": "Don't be a meat proxy",
       "hot": "3.0m",
       "desc": "gruhn.me",
       "source": "tech",
-      "tag": "⬆️ 770 points",
+      "tag": "⬆️ 1067 points",
       "url": "https://gruhn.me/blog/2026-08-03/"
     },
     {
@@ -13,153 +29,137 @@
       "hot": "3.0m",
       "desc": "qwen.ai",
       "source": "tech",
-      "tag": "⬆️ 661 points",
+      "tag": "⬆️ 807 points",
       "url": "https://qwen.ai/blog?id=qwen3.8"
     },
     {
-      "title": "Critical CVE issued for hallucinated SQLite vulnerability",
-      "hot": "3.0m",
-      "desc": "research.jfrog.com",
+      "title": "AirLLM 70B inference with single 4GB GPU",
+      "hot": "2.9m",
+      "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 17 points",
-      "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/"
+      "tag": "⬆️ 49 points",
+      "url": "https://github.com/lyogavin/airllm"
     },
     {
       "title": "Bonsai: Janestreet's UI Library",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 77 points",
+      "tag": "⬆️ 134 points",
       "url": "https://github.com/janestreet/bonsai"
     },
     {
-      "title": "What DMARC Protects You From, and What It Does Not",
+      "title": "The Abandoned Fish Sauce Terrorizing a Small Canadian Town",
       "hot": "2.9m",
-      "desc": "senderledger.com",
+      "desc": "defector.com",
       "source": "tech",
-      "tag": "⬆️ 28 points",
-      "url": "https://senderledger.com/articles/what-dmarc-actually-protects-you-from"
-    },
-    {
-      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-      "hot": "2.9m",
-      "desc": "ankursethi.com",
-      "source": "tech",
-      "tag": "⬆️ 98 points",
-      "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/"
-    },
-    {
-      "title": "Rust project goals: Immobile types and guaranteed destructors",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 101 points",
-      "url": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md"
+      "tag": "⬆️ 52 points",
+      "url": "https://defector.com/abandoned-fish-sauce-canada-interview"
     },
     {
       "title": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
       "hot": "2.9m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 6 points",
+      "tag": "⬆️ 44 points",
       "url": "https://github.com/garagehq/nightcrawler/"
     },
     {
-      "title": "Octane – React's programming model, compiled",
+      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
       "hot": "2.9m",
-      "desc": "octanejs.dev",
+      "desc": "ankursethi.com",
       "source": "tech",
-      "tag": "⬆️ 39 points",
-      "url": "https://octanejs.dev"
+      "tag": "⬆️ 179 points",
+      "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/"
     },
     {
-      "title": "The true power of regular expressions (2012)",
+      "title": "SPF Record Syntax: Mechanisms, Qualifiers, Modifiers, and Macros",
       "hot": "2.9m",
-      "desc": "npopov.com",
+      "desc": "dmarcguard.io",
       "source": "tech",
-      "tag": "⬆️ 18 points",
-      "url": "https://www.npopov.com/2012/06/15/The-true-power-of-regular-expressions.html"
+      "tag": "⬆️ 4 points",
+      "url": "https://dmarcguard.io/blog/spf-record-syntax/"
     },
     {
-      "title": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
+      "title": "Rust project goals: Immobile types and guaranteed destructors",
       "hot": "2.9m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 11 points",
-      "url": "https://github.com/mohamed--abdel-maksoud/pisiguard"
+      "tag": "⬆️ 142 points",
+      "url": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md"
     },
     {
-      "title": "Show HN: Isopolis – Isometric pixel map of SF",
+      "title": "The true power of regular expressions (2012)",
       "hot": "2.8m",
-      "desc": "sf.isopolis.city",
+      "desc": "npopov.com",
       "source": "tech",
-      "tag": "⬆️ 242 points",
-      "url": "https://sf.isopolis.city/"
+      "tag": "⬆️ 41 points",
+      "url": "https://www.npopov.com/2012/06/15/The-true-power-of-regular-expressions.html"
+    },
+    {
+      "title": "What DMARC Protects You From, and What It Does Not",
+      "hot": "2.8m",
+      "desc": "senderledger.com",
+      "source": "tech",
+      "tag": "⬆️ 58 points",
+      "url": "https://senderledger.com/articles/what-dmarc-actually-protects-you-from"
     },
     {
       "title": "ICE Collected Nearly 1M People's DNA Last Year–Including Young Children",
       "hot": "2.8m",
       "desc": "wired.com",
       "source": "tech",
-      "tag": "⬆️ 18 points",
+      "tag": "⬆️ 162 points",
       "url": "https://www.wired.com/story/ice-dna-collection-fbi-codis/"
     },
     {
-      "title": "Show HN: We Fixed UniFi's Slow PPPoE Performance with PPPoE Half-Bridge",
+      "title": "Octane – React's programming model, compiled",
       "hot": "2.8m",
-      "desc": "arcbox.dev",
+      "desc": "octanejs.dev",
       "source": "tech",
-      "tag": "⬆️ 21 points",
-      "url": "https://arcbox.dev/blog/unifi-pppoe-half-bridge-acceleration"
+      "tag": "⬆️ 72 points",
+      "url": "https://octanejs.dev"
+    },
+    {
+      "title": "Show HN: Isopolis – Isometric pixel map of SF",
+      "hot": "2.8m",
+      "desc": "sf.isopolis.city",
+      "source": "tech",
+      "tag": "⬆️ 274 points",
+      "url": "https://sf.isopolis.city/"
+    },
+    {
+      "title": "Walk on Decomposed Subdomains",
+      "hot": "2.8m",
+      "desc": "clementjambon.github.io",
+      "source": "tech",
+      "tag": "⬆️ 5 points",
+      "url": "https://clementjambon.github.io/wods/index.html#blogpost"
     },
     {
       "title": "Train Simulator Controller",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "z80.me",
       "source": "tech",
-      "tag": "⬆️ 19 points",
+      "tag": "⬆️ 44 points",
       "url": "https://z80.me/blog/tsc-2026-july/"
-    },
-    {
-      "title": "Show HN: ssh ssh.place",
-      "hot": "2.8m",
-      "desc": "ssh.place",
-      "source": "tech",
-      "tag": "⬆️ 129 points",
-      "url": "https://ssh.place"
-    },
-    {
-      "title": "The Shape of Things to Come",
-      "hot": "2.8m",
-      "desc": "yegge.ai",
-      "source": "tech",
-      "tag": "⬆️ 35 points",
-      "url": "https://yegge.ai/essays/the-shape-of-things-to-come/"
-    },
-    {
-      "title": "Why we write our own C and C++ inference engines",
-      "hot": "2.7m",
-      "desc": "localai.io",
-      "source": "tech",
-      "tag": "⬆️ 70 points",
-      "url": "https://localai.io/blog/why-we-write-our-own-engines/"
     },
     {
       "title": "Characterizing Warp Divergence from Pascal to Blackwell",
       "hot": "2.7m",
       "desc": "arxiv.org",
       "source": "tech",
-      "tag": "⬆️ 3 points",
+      "tag": "⬆️ 12 points",
       "url": "https://arxiv.org/abs/2607.23402"
     },
     {
-      "title": "Show HN: A Handwritten Blogging Platform",
+      "title": "9front \"This Was Supposed to Be Fun\" Released",
       "hot": "2.7m",
-      "desc": "handwritten.blog",
+      "desc": "9front.org",
       "source": "tech",
-      "tag": "⬆️ 121 points",
-      "url": "https://handwritten.blog/"
+      "tag": "⬆️ 49 points",
+      "url": "https://9front.org/releases/2026/08/02/0/"
     }
   ],
-  "updatedAt": "2026-08-03T11:50:39.729Z"
+  "updatedAt": "2026-08-03T14:06:47.708Z"
 }
