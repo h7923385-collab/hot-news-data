@@ -1,6 +1,14 @@
 {
   "data": [
     {
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "hot": "❤️ 25 💬 4",
+      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+      "source": "dev",
+      "tag": "top7,  discuss",
+      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4pk2"
+    },
+    {
       "title": "Google's AI tools for developers and enterprise, and when to actually reach for each",
       "hot": "❤️ 6 💬 0",
       "desc": "Beyond the consumer surfaces most people know, the Gemini app and Gemini Notebook (formerly...",
@@ -33,17 +41,9 @@
       "url": "https://dev.to/gde/switching-tracks-in-blocsignal-the-universal-state-switchyard-for-bloc-riverpod-and-provider-929"
     },
     {
-      "title": "Google ADK: Architecture and Essential Components",
-      "hot": "❤️ 7 💬 0",
-      "desc": "Nota: ✋ This post was originally published on my blog wiki-cloud.co            Introduction   The...",
-      "source": "dev",
-      "tag": "ai,  agents",
-      "url": "https://dev.to/gde/google-adk-architecture-and-essential-components-4hb6"
-    },
-    {
       "title": "Join our latest Frontend Challenge: Comfort Food Edition 🍲",
       "hot": "❤️ 178 💬 59",
-      "desc": "We're back with another Frontend Challenge, and this time we're hungry! 🍜��  Running through August...",
+      "desc": "We're back with another Frontend Challenge, and this time we're hungry! 🍜🥧  Running through August...",
       "source": "dev",
       "tag": "devchallenge,  frontendchallenge",
       "url": "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0"
@@ -82,11 +82,19 @@
     },
     {
       "title": "Sub-Agent Metrics Are Not Comparable to Main-Thread Metrics",
-      "hot": "❤️ 6 💬 19",
+      "hot": "❤️ 7 💬 20",
       "desc": "In my agent fleet, role moves the metrics more than the model does — and the role mix differs per model, so pooled compa",
       "source": "dev",
       "tag": "agents,  ai",
       "url": "https://dev.to/hexisteme/sub-agent-metrics-are-not-comparable-to-main-thread-metrics-5585"
+    },
+    {
+      "title": "Unlocking Infinite Automation: Integrating Google Apps Script with Gemini Spark",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Abstract   Gemini Spark, Google's 24/7 autonomous AI agent, seamlessly connects with Google...",
+      "source": "dev",
+      "tag": "ai,  gemini",
+      "url": "https://dev.to/gde/unlocking-infinite-automation-integrating-google-apps-script-with-gemini-spark-3kj4"
     },
     {
       "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
@@ -111,6 +119,14 @@
       "source": "dev",
       "tag": "ai,  agents",
       "url": "https://dev.to/gde/google-adk-introduction-to-ai-agent-development-1b4e"
+    },
+    {
+      "title": "Solving Riverpod’s Family Provider Cache Dilemma with Signals & mapSignal",
+      "hot": "❤️ 6 💬 0",
+      "desc": "When separate family providers store parameterized network queries as isolated state silos, updating an entity in one su",
+      "source": "dev",
+      "tag": "flutter,  dart",
+      "url": "https://dev.to/gde/solving-riverpods-family-provider-cache-dilemma-with-signals-mapsignal-474"
     },
     {
       "title": "Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)",
@@ -143,23 +159,7 @@
       "source": "dev",
       "tag": "tpu,  llm",
       "url": "https://dev.to/gde/one-tpu-chip-eight-agents-serving-small-agent-workloads-with-raw-jax-2cc4"
-    },
-    {
-      "title": "Six Cross-Cloud A2A Paths, One Benchmark: How AWS, Azure, and GCP Agents Actually Work Together",
-      "hot": "❤️ 7 💬 2",
-      "desc": "Every directed edge between Bedrock AgentCore, Microsoft Foundry, and Google ADK, deployed and measured over A2A v1.0 — ",
-      "source": "dev",
-      "tag": "aiagents,  a2a",
-      "url": "https://dev.to/gde/six-cross-cloud-a2a-paths-one-benchmark-what-aws-azure-and-gcp-agents-actually-cost-each-other-13g0"
-    },
-    {
-      "title": "I've Spent 10+ Years in Software Engineering. After Sickness, Burnout, and a Layoff, I'm Rebuilding My Career. Ask Me Anything",
-      "hot": "❤️ 103 💬 105",
-      "desc": "Hi, I'm Cesar, a Senior Software Engineer with 10+ years of experience.  In 2023, I got sick and...",
-      "source": "dev",
-      "tag": "discuss,  watercooler",
-      "url": "https://dev.to/canro91/ive-spent-10-years-in-software-engineering-after-sickness-burnout-and-a-layoff-im-rebuilding-efc"
     }
   ],
-  "updatedAt": "2026-08-04T18:19:50.538Z"
+  "updatedAt": "2026-08-04T20:03:52.501Z"
 }
