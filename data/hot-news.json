@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T07:27:16.470Z",
+  "updatedAt": "2026-08-04T10:05:59.335Z",
   "source": "live",
   "dev": [
     {
@@ -27,14 +27,6 @@
       "url": "https://dev.to/gde/switching-tracks-in-blocsignal-the-universal-state-switchyard-for-bloc-riverpod-and-provider-929"
     },
     {
-      "title": "What was your win this week?",
-      "hot": "❤️ 46 💬 35",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "discuss,  weeklyretro",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-1ed"
-    },
-    {
       "title": "Google ADK: Architecture and Essential Components",
       "hot": "❤️ 7 💬 0",
       "desc": "Nota: ✋ This post was originally published on my blog wiki-cloud.co            Introduction   The...",
@@ -43,20 +35,20 @@
       "url": "https://dev.to/gde/google-adk-architecture-and-essential-components-4hb6"
     },
     {
+      "title": "Join our latest Frontend Challenge: Comfort Food Edition 🍲",
+      "hot": "❤️ 175 💬 57",
+      "desc": "We're back with another Frontend Challenge, and this time we're hungry! 🍜🥧  Running through August...",
+      "source": "dev",
+      "tag": "devchallenge,  frontendchallenge",
+      "url": "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0"
+    },
+    {
       "title": "Passkeys Explained Simply",
       "hot": "❤️ 95 💬 28",
       "desc": "You’ve probably seen that little prompt that says “Sign in with Face ID” or “Use a passkey” instead...",
       "source": "dev",
       "tag": "security,  api",
       "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk"
-    },
-    {
-      "title": "Join our latest Frontend Challenge: Comfort Food Edition 🍲",
-      "hot": "❤️ 172 💬 56",
-      "desc": "We're back with another Frontend Challenge, and this time we're hungry! 🍜🥧  Running through August...",
-      "source": "dev",
-      "tag": "devchallenge,  frontendchallenge",
-      "url": "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0"
     },
     {
       "title": "Lifecycle, DevOps & Multi-Agent Orchestration for Enterprise AI",
@@ -109,7 +101,7 @@
     {
       "title": "Your RAG copilot can't count — stop letting it try",
       "hot": "❤️ 9 💬 9",
-      "desc": "Your RAG copilot can't count �� stop letting it try   A user asked our document-search...",
+      "desc": "Your RAG copilot can't count — stop letting it try   A user asked our document-search...",
       "source": "dev",
       "tag": "rag,  ai",
       "url": "https://dev.to/rdiegoss/your-rag-copilot-cant-count-stop-letting-it-try-2ie3"
@@ -129,6 +121,14 @@
       "source": "dev",
       "tag": "go,  adk",
       "url": "https://dev.to/gde/building-ai-agents-with-the-go-agent-development-kit-adk-2026-edition-v2-4n55"
+    },
+    {
+      "title": "What was your win this week?",
+      "hot": "❤️ 46 💬 36",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "discuss,  weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-1ed"
     },
     {
       "title": "One TPU Chip, Eight Agents: Serving Small Agent Workloads with Raw JAX",
@@ -163,46 +163,53 @@
       "url": "https://dev.to/gde/microsoft-foundry-as-the-master-cloud-google-adk-as-the-client-cross-cloud-a2a-v10-3me0"
     }
   ],
-  "space": [
-    {
-      "title": "暂无 space 数据",
-      "hot": "",
-      "desc": "数据加载中，请稍后刷新",
-      "source": "space",
-      "tag": "loading"
-    }
-  ],
   "tech": [
+    {
+      "title": "FFmpeg 9.0",
+      "hot": "3.0m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 68 points",
+      "url": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES"
+    },
     {
       "title": "LLMs reward expertise",
       "hot": "3.0m",
       "desc": "seangoedecke.com",
       "source": "tech",
-      "tag": "⬆️ 790 points",
+      "tag": "⬆️ 953 points",
       "url": "https://www.seangoedecke.com/llms-reward-expertise/"
     },
     {
-      "title": "Denmark: EVs Make Up 97% of New Private Car Sales in July",
+      "title": "Harness Engineering for Self-Improvement",
       "hot": "3.0m",
-      "desc": "ing.dk",
+      "desc": "lilianweng.github.io",
       "source": "tech",
-      "tag": "⬆️ 32 points",
-      "url": "https://ing.dk/artikel/ny-rekord-maaned-elbilsalget-private-koeb-ligger-paa-97-procent"
+      "tag": "⬆️ 46 points",
+      "url": "https://lilianweng.github.io/posts/2026-07-04-harness/"
+    },
+    {
+      "title": "You don't need React: creating a minimal UI library in Vanilla JavaScript",
+      "hot": "3.0m",
+      "desc": "pedroth.github.io",
+      "source": "tech",
+      "tag": "⬆️ 24 points",
+      "url": "https://pedroth.github.io/?p=post/NoNeedReact"
     },
     {
       "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 129 points",
+      "tag": "⬆️ 181 points",
       "url": "https://github.com/leonickson1/Swiftlet"
     },
     {
       "title": "Amazonian civilization had estimated 3M people in 3% of forest area",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "science.org",
       "source": "tech",
-      "tag": "⬆️ 118 points",
+      "tag": "⬆️ 154 points",
       "url": "https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization"
     },
     {
@@ -210,7 +217,7 @@
       "hot": "2.9m",
       "desc": "openai.com",
       "source": "tech",
-      "tag": "⬆️ 516 points",
+      "tag": "⬆️ 539 points",
       "url": "https://openai.com/index/ten-advances-in-mathematics/"
     },
     {
@@ -218,126 +225,110 @@
       "hot": "2.9m",
       "desc": "blog.exe.dev",
       "source": "tech",
-      "tag": "⬆️ 576 points",
+      "tag": "⬆️ 609 points",
       "url": "https://blog.exe.dev/devtools-must-be-open-source"
     },
     {
-      "title": "CollectWise (YC F24) Is Hiring",
+      "title": "Bending Spoons makes first post-IPO acquisition with $1.3B Airtable deal",
       "hot": "2.9m",
-      "desc": "ycombinator.com",
+      "desc": "live.euronext.com",
       "source": "tech",
-      "tag": "⬆️ 1 points",
-      "url": "https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer"
-    },
-    {
-      "title": "Apple is getting this wrong",
-      "hot": "2.9m",
-      "desc": "openai.com",
-      "source": "tech",
-      "tag": "⬆️ 113 points",
-      "url": "https://openai.com/index/apple-is-getting-this-wrong/"
-    },
-    {
-      "title": "Ask HN: Who is hiring? (August 2026)",
-      "hot": "2.9m",
-      "desc": "news.ycombinator.com",
-      "source": "tech",
-      "tag": "⬆️ 161 points",
-      "url": "https://news.ycombinator.com/item?id=49156683"
-    },
-    {
-      "title": "There Will Come Soft Rains (1950) [pdf]",
-      "hot": "2.9m",
-      "desc": "users.wpi.edu",
-      "source": "tech",
-      "tag": "⬆️ 125 points",
-      "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf"
+      "tag": "⬆️ 12 points",
+      "url": "https://live.euronext.com/en/financial-news/bending-spoons-makes-first-post-ipo-acquisition-13-billion-airtable-deal"
     },
     {
       "title": "That time when I failed the Microsoft interview",
       "hot": "2.9m",
       "desc": "ochagavia.nl",
       "source": "tech",
-      "tag": "⬆️ 38 points",
+      "tag": "⬆️ 61 points",
       "url": "https://ochagavia.nl/blog/that-time-when-i-failed-the-microsoft-interview/"
     },
     {
-      "title": "Smaller, faster, safer: running Kimi and GLM at scale",
-      "hot": "2.8m",
-      "desc": "blog.cloudflare.com",
+      "title": "There Will Come Soft Rains (1950) [pdf]",
+      "hot": "2.9m",
+      "desc": "users.wpi.edu",
       "source": "tech",
-      "tag": "⬆️ 199 points",
-      "url": "https://blog.cloudflare.com/smaller-faster-safer-models/"
+      "tag": "⬆️ 159 points",
+      "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf"
     },
     {
-      "title": "Ask HN: Who wants to be hired? (August 2026)",
+      "title": "CollectWise (YC F24) Is Hiring",
+      "hot": "2.8m",
+      "desc": "ycombinator.com",
+      "source": "tech",
+      "tag": "⬆️ 1 points",
+      "url": "https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer"
+    },
+    {
+      "title": "Ask HN: Who is hiring? (August 2026)",
       "hot": "2.8m",
       "desc": "news.ycombinator.com",
       "source": "tech",
-      "tag": "⬆️ 106 points",
-      "url": "https://news.ycombinator.com/item?id=49156682"
+      "tag": "⬆️ 177 points",
+      "url": "https://news.ycombinator.com/item?id=49156683"
     },
     {
       "title": "Prevent cognitive debt by manually retyping LLM-generated code",
       "hot": "2.8m",
       "desc": "ankursethi.com",
       "source": "tech",
-      "tag": "⬆️ 464 points",
+      "tag": "⬆️ 484 points",
       "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/"
     },
     {
-      "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
+      "title": "Smaller, faster, safer: running Kimi and GLM at scale",
       "hot": "2.8m",
+      "desc": "blog.cloudflare.com",
+      "source": "tech",
+      "tag": "⬆️ 220 points",
+      "url": "https://blog.cloudflare.com/smaller-faster-safer-models/"
+    },
+    {
+      "title": "Beauty in my backyard",
+      "hot": "2.8m",
+      "desc": "worksinprogress.co",
+      "source": "tech",
+      "tag": "⬆️ 22 points",
+      "url": "https://worksinprogress.co/issue/beauty-in-my-backyard/"
+    },
+    {
+      "title": "Ask HN: Who wants to be hired? (August 2026)",
+      "hot": "2.8m",
+      "desc": "news.ycombinator.com",
+      "source": "tech",
+      "tag": "⬆️ 115 points",
+      "url": "https://news.ycombinator.com/item?id=49156682"
+    },
+    {
+      "title": "Twenty Years of Pandoc",
+      "hot": "2.7m",
+      "desc": "pandoc.org",
+      "source": "tech",
+      "tag": "⬆️ 261 points",
+      "url": "https://pandoc.org/twenty-years-of-pandoc.html"
+    },
+    {
+      "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
+      "hot": "2.7m",
       "desc": "blog.comfy.org",
       "source": "tech",
-      "tag": "⬆️ 288 points",
+      "tag": "⬆️ 296 points",
       "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui"
     },
     {
       "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "hoplite.sh",
       "source": "tech",
-      "tag": "⬆️ 67 points",
+      "tag": "⬆️ 71 points",
       "url": "https://hoplite.sh"
-    },
-    {
-      "title": "IPC-7351B Electronic Component Zero Orientation [pdf] (2010)",
-      "hot": "2.8m",
-      "desc": "scancad.net",
-      "source": "tech",
-      "tag": "⬆️ 11 points",
-      "url": "https://scancad.net/wp-content/uploads/2019/02/zero-orientation-cad-libaray.pdf"
-    },
-    {
-      "title": "Windows XP 2002 for the Itanium: Unbridled rage",
-      "hot": "2.7m",
-      "desc": "virtuallyfun.com",
-      "source": "tech",
-      "tag": "⬆️ 92 points",
-      "url": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/"
-    },
-    {
-      "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
-      "hot": "2.7m",
-      "desc": "changelog.complete.org",
-      "source": "tech",
-      "tag": "⬆️ 153 points",
-      "url": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase"
-    },
-    {
-      "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
-      "hot": "2.7m",
-      "desc": "clickhouse.com",
-      "source": "tech",
-      "tag": "⬆️ 302 points",
-      "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse"
     }
   ],
   "github": [
     {
       "title": "yc-software/qm: Multiplayer agent harness for work",
-      "hot": "⭐ 10.3k",
+      "hot": "⭐ 10.6k",
       "desc": "Multiplayer agent harness for work",
       "source": "github",
       "tag": "TypeScript",
@@ -345,7 +336,7 @@
     },
     {
       "title": "bashalarmistalt/decimen-optical-transfer: ",
-      "hot": "⭐ 4.3k",
+      "hot": "⭐ 4.4k",
       "desc": "bashalarmistalt/decimen-optical-transfer",
       "source": "github",
       "tag": "TypeScript",
@@ -353,7 +344,7 @@
     },
     {
       "title": "trycompai/crm: An open-source, agentic-first CRM.",
-      "hot": "⭐ 3.7k",
+      "hot": "⭐ 3.8k",
       "desc": "An open-source, agentic-first CRM.",
       "source": "github",
       "tag": "TypeScript",
@@ -361,11 +352,19 @@
     },
     {
       "title": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer: FDE（前沿部署工程师）从零入门指南（基于范",
-      "hot": "⭐ 2.4k",
+      "hot": "⭐ 2.6k",
       "desc": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
       "source": "github",
       "tag": "GitHub",
       "url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer"
+    },
+    {
+      "title": "microsoft/skill-recorder: Desktop app that records your on-screen work session a",
+      "hot": "⭐ 1.6k",
+      "desc": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reu",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/microsoft/skill-recorder"
     },
     {
       "title": "sqliteai/waste: Run the full 2.78-trillion-parameter Kimi K3 model beyond availa",
@@ -376,16 +375,16 @@
       "url": "https://github.com/sqliteai/waste"
     },
     {
-      "title": "microsoft/skill-recorder: Desktop app that records your on-screen work session a",
+      "title": "imsai-sh/zhuzhiliao: 竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
       "hot": "⭐ 1.5k",
-      "desc": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reu",
+      "desc": "竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
       "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/microsoft/skill-recorder"
+      "tag": "HTML",
+      "url": "https://github.com/imsai-sh/zhuzhiliao"
     },
     {
       "title": "FareedKhan-dev/kimi-k3-in-c: A 2.78-trillion-parameter Kimi K3 running inference",
-      "hot": "⭐ 1.4k",
+      "hot": "⭐ 1.5k",
       "desc": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
       "source": "github",
       "tag": "C",
@@ -393,19 +392,27 @@
     },
     {
       "title": "DannyMac180/sol-advisor: Codex-native architect orchestration with Luna and Terr",
-      "hot": "⭐ 1.1k",
+      "hot": "⭐ 1.2k",
       "desc": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.",
       "source": "github",
       "tag": "Shell",
       "url": "https://github.com/DannyMac180/sol-advisor"
     },
     {
-      "title": "imsai-sh/zhuzhiliao: 竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
-      "hot": "⭐ 1.1k",
-      "desc": "竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
+      "title": "genspark-ai/genoffice: An AI-native office suite for macOS and Windows: word pro",
+      "hot": "⭐ 974",
+      "desc": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
       "source": "github",
-      "tag": "HTML",
-      "url": "https://github.com/imsai-sh/zhuzhiliao"
+      "tag": "TypeScript",
+      "url": "https://github.com/genspark-ai/genoffice"
+    },
+    {
+      "title": "thebuggeddev/anatomy: An interactive 3D human anatomy explorer built using three",
+      "hot": "⭐ 933",
+      "desc": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/thebuggeddev/anatomy"
     },
     {
       "title": "WilonityDev/WilonityLoader: Wilonity Loader – cheat lib w/ spoofer, driver bypas",
@@ -416,24 +423,8 @@
       "url": "https://github.com/WilonityDev/WilonityLoader"
     },
     {
-      "title": "thebuggeddev/anatomy: An interactive 3D human anatomy explorer built using three",
-      "hot": "⭐ 883",
-      "desc": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/thebuggeddev/anatomy"
-    },
-    {
-      "title": "genspark-ai/genoffice: An AI-native office suite for macOS and Windows: word pro",
-      "hot": "⭐ 871",
-      "desc": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/genspark-ai/genoffice"
-    },
-    {
       "title": "xikhar/persona: Bringing real-time voice to life.",
-      "hot": "⭐ 827",
+      "hot": "⭐ 829",
       "desc": "Bringing real-time voice to life.",
       "source": "github",
       "tag": "JavaScript",
@@ -449,11 +440,133 @@
     },
     {
       "title": "gavamedia/deltafin: Run full Kimi K3 on a single device. And an OpenAI-compatibl",
-      "hot": "⭐ 665",
+      "hot": "⭐ 666",
       "desc": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
       "source": "github",
       "tag": "Rust",
       "url": "https://github.com/gavamedia/deltafin"
+    }
+  ],
+  "space": [
+    {
+      "title": "Rocketdyne reemerges as standalone space company",
+      "hot": "8/4",
+      "desc": "\nAE Industrial private-equity firm takes 60% stake as L3Harris retains a noncontrolling interest\nThe post Rocketdyne reemerges as standalone space com",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/rocketdyne-reemerges-as-standalone-space-company/"
+    },
+    {
+      "title": "ESA and Pokémon team up to celebrate World Space Week",
+      "hot": "8/4",
+      "desc": "The European Space Agency (ESA) and The Pokémon Company International (TPCi) are teaming up to celebrate World Space Week from 4–10 October 2026. This",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_and_Pokemon_team_up_to_celebrate_World_Space_Week"
+    },
+    {
+      "title": "Kreios Space to fly VLEO demonstration in NanoAvionics bus",
+      "hot": "8/4",
+      "desc": "\nSAN FRANCISCO – Spanish startup Kreios Space announced plans Aug. 4 to conduct the first very low Earth orbit (VLEO) demonstration of its air-breathi",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/kreios-space-to-fly-vleo-demonstration-in-nanoavionics-bus/"
+    },
+    {
+      "title": "NASA, SpaceX studying how to prevent future upper stage lunar collisions",
+      "hot": "8/4",
+      "desc": "\nWith a Falcon 9 upper stage set to hit the moon this week, SpaceX says it is working with NASA on ways to prevent similar collisions in the future.\nT",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/nasa-spacex-studying-how-to-prevent-future-upper-stage-lunar-collisions/"
+    },
+    {
+      "title": "SpaceX Replacing MRAPs with Cybertrucks Beginning with Crew-13",
+      "hot": "8/4",
+      "desc": "NASA and SpaceX are getting ready to launch Crew-13 to the International Space Station in September. For the first time, if an emergency occurs on the",
+      "source": "space",
+      "tag": "SpacePolicyOnline.com",
+      "url": "https://spacepolicyonline.com/news/spacex-replacing-mraps-with-cybertrucks-beginning-with-crew-13/"
+    },
+    {
+      "title": "Launch Preview: Starlink, AST SpaceMobile, and Chinese missions fill launch manifest",
+      "hot": "8/3",
+      "desc": "The first full week of August is shaping up to be another busy period for…\nThe post Launch Preview: Starlink, AST SpaceMobile, and Chinese missions fi",
+      "source": "space",
+      "tag": "NASASpaceflight",
+      "url": "https://www.nasaspaceflight.com/2026/08/launch-preview-080326/"
+    },
+    {
+      "title": "Louisiana Students Loft Payloads from NASA Balloon Facility in Texas",
+      "hot": "8/3",
+      "desc": "Every spring in Palestine, Texas, the wide-open fields around NASA’s Columbia Scientific Balloon Facility fill with students and faculty from across L",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/missions/scientific-balloons/louisiana-students-loft-payloads-from-nasa-balloon-facility-in-texas/"
+    },
+    {
+      "title": "Guinea-Bissau Tidal Waters",
+      "hot": "8/3",
+      "desc": "Twice each day, tides ebb and flow through a maze of sandy channels, mudflats, and mangrove forests that flank the 88 islands and islets of Guinea-Bis",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/image-article/guinea-bissau-tidal-waters/"
+    },
+    {
+      "title": "Hughes files for bankruptcy after GEO business loses ground to Starlink",
+      "hot": "8/3",
+      "desc": "\nEchoStar’s Hughes geostationary satellite broadband business has filed for bankruptcy in the United States after years of mounting competition from S",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/hughes-files-for-bankruptcy-after-geo-business-loses-ground-to-starlink/"
+    },
+    {
+      "title": "Starship Soars as SpaceX Looks to AI",
+      "hot": "8/3",
+      "desc": "SpaceX’s colossal Starship launch vehicle lifted off July 24th from the company’s launch facility in South Texas on its thirteenth integrated flight t",
+      "source": "space",
+      "tag": "Space Scout",
+      "url": "https://www.spacescout.info/2026/08/starship-soars-as-spacex-looks-to-ai/"
+    },
+    {
+      "title": "Xona secures spectrum approval for 250-satellite navigation network",
+      "hot": "8/3",
+      "desc": "\nThe approval allows the startup to transmit stronger signals in spectrum adjacent to GPS frequencies\nThe post Xona secures spectrum approval for 250-",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/xona-secures-spectrum-approval-for-250-satellite-navigation-network/"
+    },
+    {
+      "title": "MaiaSpace Losses Required ArianeGroup to Decide on Company’s Future",
+      "hot": "8/3",
+      "desc": "ArianeGroup has decided against dissolving MaiaSpace after the company posted a €37.5 million loss for 2025, pushing its shareholders’ equity below ze",
+      "source": "space",
+      "tag": "European Spaceflight",
+      "url": "https://europeanspaceflight.com/maiaspace-losses-required-arianegroup-to-decide-on-companys-future/"
+    },
+    {
+      "title": "SpaceX is set to acquire 130,000 acres of marshland in southern Louisiana",
+      "hot": "8/3",
+      "desc": "A Louisiana launch site would offer several significant advantages.",
+      "source": "space",
+      "tag": "Arstechnica",
+      "url": "https://arstechnica.com/space/2026/08/spacex-is-set-to-acquire-130000-acres-of-marshland-in-southern-louisiana/"
+    },
+    {
+      "title": "NASA Delivers Navigation System for Commercial Lunar Relay",
+      "hot": "8/3",
+      "desc": "NASA delivered the NavCube3-mini payload on July 13 to Intuitive Machines for integration into Altus-1, the company’s first lunar relay satellite, mar",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/technology/space-comms/nasa-delivers-navigation-system-for-commercial-lunar-relay/"
+    },
+    {
+      "title": "Ike Theriot Helps Prepare Astronauts to Work on the Moon",
+      "hot": "8/3",
+      "desc": "From serving in the U.S. Army to helping prepare astronauts to explore the lunar surface, Ike Theriot built a path to NASA through discipline and dete",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/centers-and-facilities/johnson/ike-theriot-helps-prepare-astronauts-to-work-on-the-moon/"
     }
   ]
 }
