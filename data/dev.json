@@ -25,14 +25,6 @@
       "url": "https://dev.to/gde/switching-tracks-in-blocsignal-the-universal-state-switchyard-for-bloc-riverpod-and-provider-929"
     },
     {
-      "title": "Inside the Virtual R&D Lab: How Human Imagination and AI Multi-Agents Shape the Future of Science",
-      "hot": "❤️ 6 💬 0",
-      "desc": "System Enforces Order, AI Accelerates Logic: Driving Next-Generation R&amp;D Through...",
-      "source": "dev",
-      "tag": "ai,  gemini",
-      "url": "https://dev.to/gde/inside-the-virtual-rd-lab-how-human-imagination-and-ai-multi-agents-shape-the-future-of-science-3c6j"
-    },
-    {
       "title": "What was your win this week?",
       "hot": "❤️ 46 💬 35",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
@@ -41,24 +33,8 @@
       "url": "https://dev.to/devteam/what-was-your-win-this-week-1ed"
     },
     {
-      "title": "Fish Audio's $52M Seed: Open Weights Got Them Here",
-      "hot": "❤️ 11 💬 0",
-      "desc": "Fish Audio raised a $52M seed on July 28, 2026 with $21M ARR and 8M users. Its new S2.1 Pro model is closed, API-only. W",
-      "source": "dev",
-      "tag": "tts,  voiceai",
-      "url": "https://dev.to/lukeocodes/fish-audios-52m-seed-open-weights-got-them-here-25e5"
-    },
-    {
-      "title": "Finally — Hard Caps to Limit Your Google Cloud Spend",
-      "hot": "❤️ 5 💬 0",
-      "desc": "TL;DR   For years, Google Cloud budget alerts were purely informational. They sent an email...",
-      "source": "dev",
-      "tag": "gcpbilling,  finops",
-      "url": "https://dev.to/gde/finally-hard-caps-to-limit-your-google-cloud-spend-1363"
-    },
-    {
       "title": "Google ADK: Architecture and Essential Components",
-      "hot": "❤️ 6 💬 0",
+      "hot": "❤️ 7 💬 0",
       "desc": "Nota: ✋ This post was originally published on my blog wiki-cloud.co            Introduction   The...",
       "source": "dev",
       "tag": "ai,  agents",
@@ -74,7 +50,7 @@
     },
     {
       "title": "Join our latest Frontend Challenge: Comfort Food Edition 🍲",
-      "hot": "❤️ 168 💬 54",
+      "hot": "❤️ 169 💬 56",
       "desc": "We're back with another Frontend Challenge, and this time we're hungry! 🍜🥧  Running through August...",
       "source": "dev",
       "tag": "devchallenge,  frontendchallenge",
@@ -82,7 +58,7 @@
     },
     {
       "title": "Lifecycle, DevOps & Multi-Agent Orchestration for Enterprise AI",
-      "hot": "❤️ 8 💬 0",
+      "hot": "❤️ 9 💬 0",
       "desc": "A deep-dive technical guide to GitOps agent manifests, AOT evaluation gates, canary deployments, and multi-agent communi",
       "source": "dev",
       "tag": "ai,  devops",
@@ -95,14 +71,6 @@
       "source": "dev",
       "tag": "temporal,  codesamples",
       "url": "https://dev.to/temporalio/i-had-two-weeks-an-8-foot-keyboard-and-a-wordle-workflow-15h"
-    },
-    {
-      "title": "The memory layer that never calls an LLM: what that buys, and what it costs",
-      "hot": "❤️ 18 💬 20",
-      "desc": "Part 4 of **The Answerability Problem, and the one that isn't about abstention. Parts 1–3 argued that...",
-      "source": "dev",
-      "tag": "ai,  rag",
-      "url": "https://dev.to/gde03/the-memory-layer-that-never-calls-an-llm-what-that-buys-and-what-it-costs-12ch"
     },
     {
       "title": "Bug Smash isn't glamorous and that's what I love about it.",
@@ -159,7 +127,39 @@
       "source": "dev",
       "tag": "go,  adk",
       "url": "https://dev.to/gde/building-ai-agents-with-the-go-agent-development-kit-adk-2026-edition-v2-4n55"
+    },
+    {
+      "title": "One TPU Chip, Eight Agents: Serving Small Agent Workloads with Raw JAX",
+      "hot": "❤️ 11 💬 4",
+      "desc": "Cloud TPU v6e-1 (ct6e-standard-1t, one v6e chip, 32 GB HBM), GCE flex-start, europe-west4-a. vLLM...",
+      "source": "dev",
+      "tag": "tpu,  llm",
+      "url": "https://dev.to/gde/one-tpu-chip-eight-agents-serving-small-agent-workloads-with-raw-jax-2cc4"
+    },
+    {
+      "title": "Six Cross-Cloud A2A Paths, One Benchmark: How AWS, Azure, and GCP Agents Actually Work Together",
+      "hot": "❤️ 7 💬 2",
+      "desc": "Every directed edge between Bedrock AgentCore, Microsoft Foundry, and Google ADK, deployed and measured over A2A v1.0 — ",
+      "source": "dev",
+      "tag": "aiagents,  a2a",
+      "url": "https://dev.to/gde/six-cross-cloud-a2a-paths-one-benchmark-what-aws-azure-and-gcp-agents-actually-cost-each-other-13g0"
+    },
+    {
+      "title": "I've Spent 10+ Years in Software Engineering. After Sickness, Burnout, and a Layoff, I'm Rebuilding My Career. Ask Me Anything",
+      "hot": "❤️ 103 💬 105",
+      "desc": "Hi, I'm Cesar, a Senior Software Engineer with 10+ years of experience.  In 2023, I got sick and...",
+      "source": "dev",
+      "tag": "discuss,  watercooler",
+      "url": "https://dev.to/canro91/ive-spent-10-years-in-software-engineering-after-sickness-burnout-and-a-layoff-im-rebuilding-efc"
+    },
+    {
+      "title": "Microsoft Foundry as the Master Cloud, Google ADK as the Client: Cross-Cloud A2A v1.0",
+      "hot": "❤️ 7 💬 0",
+      "desc": "This installment puts Microsoft Foundry in charge. Azure is the main cloud: it hosts the master...",
+      "source": "dev",
+      "tag": "agents,  googleadk",
+      "url": "https://dev.to/gde/microsoft-foundry-as-the-master-cloud-google-adk-as-the-client-cross-cloud-a2a-v10-3me0"
     }
   ],
-  "updatedAt": "2026-08-03T23:55:41.668Z"
+  "updatedAt": "2026-08-04T01:15:52.235Z"
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T23:55:41.668Z",
+  "updatedAt": "2026-08-04T01:15:52.235Z",
   "source": "live",
   "dev": [
     {
@@ -27,14 +27,6 @@
       "url": "https://dev.to/gde/switching-tracks-in-blocsignal-the-universal-state-switchyard-for-bloc-riverpod-and-provider-929"
     },
     {
-      "title": "Inside the Virtual R&D Lab: How Human Imagination and AI Multi-Agents Shape the Future of Science",
-      "hot": "❤️ 6 💬 0",
-      "desc": "System Enforces Order, AI Accelerates Logic: Driving Next-Generation R&amp;D Through...",
-      "source": "dev",
-      "tag": "ai,  gemini",
-      "url": "https://dev.to/gde/inside-the-virtual-rd-lab-how-human-imagination-and-ai-multi-agents-shape-the-future-of-science-3c6j"
-    },
-    {
       "title": "What was your win this week?",
       "hot": "❤️ 46 💬 35",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
@@ -43,24 +35,8 @@
       "url": "https://dev.to/devteam/what-was-your-win-this-week-1ed"
     },
     {
-      "title": "Fish Audio's $52M Seed: Open Weights Got Them Here",
-      "hot": "❤️ 11 💬 0",
-      "desc": "Fish Audio raised a $52M seed on July 28, 2026 with $21M ARR and 8M users. Its new S2.1 Pro model is closed, API-only. W",
-      "source": "dev",
-      "tag": "tts,  voiceai",
-      "url": "https://dev.to/lukeocodes/fish-audios-52m-seed-open-weights-got-them-here-25e5"
-    },
-    {
-      "title": "Finally — Hard Caps to Limit Your Google Cloud Spend",
-      "hot": "❤️ 5 💬 0",
-      "desc": "TL;DR   For years, Google Cloud budget alerts were purely informational. They sent an email...",
-      "source": "dev",
-      "tag": "gcpbilling,  finops",
-      "url": "https://dev.to/gde/finally-hard-caps-to-limit-your-google-cloud-spend-1363"
-    },
-    {
       "title": "Google ADK: Architecture and Essential Components",
-      "hot": "❤️ 6 💬 0",
+      "hot": "❤️ 7 💬 0",
       "desc": "Nota: ✋ This post was originally published on my blog wiki-cloud.co            Introduction   The...",
       "source": "dev",
       "tag": "ai,  agents",
@@ -76,7 +52,7 @@
     },
     {
       "title": "Join our latest Frontend Challenge: Comfort Food Edition 🍲",
-      "hot": "❤️ 168 💬 54",
+      "hot": "❤️ 169 💬 56",
       "desc": "We're back with another Frontend Challenge, and this time we're hungry! 🍜🥧  Running through August...",
       "source": "dev",
       "tag": "devchallenge,  frontendchallenge",
@@ -84,7 +60,7 @@
     },
     {
       "title": "Lifecycle, DevOps & Multi-Agent Orchestration for Enterprise AI",
-      "hot": "❤️ 8 💬 0",
+      "hot": "❤️ 9 💬 0",
       "desc": "A deep-dive technical guide to GitOps agent manifests, AOT evaluation gates, canary deployments, and multi-agent communi",
       "source": "dev",
       "tag": "ai,  devops",
@@ -97,14 +73,6 @@
       "source": "dev",
       "tag": "temporal,  codesamples",
       "url": "https://dev.to/temporalio/i-had-two-weeks-an-8-foot-keyboard-and-a-wordle-workflow-15h"
-    },
-    {
-      "title": "The memory layer that never calls an LLM: what that buys, and what it costs",
-      "hot": "❤️ 18 💬 20",
-      "desc": "Part 4 of **The Answerability Problem, and the one that isn't about abstention. Parts 1–3 argued that...",
-      "source": "dev",
-      "tag": "ai,  rag",
-      "url": "https://dev.to/gde03/the-memory-layer-that-never-calls-an-llm-what-that-buys-and-what-it-costs-12ch"
     },
     {
       "title": "Bug Smash isn't glamorous and that's what I love about it.",
@@ -161,6 +129,38 @@
       "source": "dev",
       "tag": "go,  adk",
       "url": "https://dev.to/gde/building-ai-agents-with-the-go-agent-development-kit-adk-2026-edition-v2-4n55"
+    },
+    {
+      "title": "One TPU Chip, Eight Agents: Serving Small Agent Workloads with Raw JAX",
+      "hot": "❤️ 11 💬 4",
+      "desc": "Cloud TPU v6e-1 (ct6e-standard-1t, one v6e chip, 32 GB HBM), GCE flex-start, europe-west4-a. vLLM...",
+      "source": "dev",
+      "tag": "tpu,  llm",
+      "url": "https://dev.to/gde/one-tpu-chip-eight-agents-serving-small-agent-workloads-with-raw-jax-2cc4"
+    },
+    {
+      "title": "Six Cross-Cloud A2A Paths, One Benchmark: How AWS, Azure, and GCP Agents Actually Work Together",
+      "hot": "❤️ 7 💬 2",
+      "desc": "Every directed edge between Bedrock AgentCore, Microsoft Foundry, and Google ADK, deployed and measured over A2A v1.0 — ",
+      "source": "dev",
+      "tag": "aiagents,  a2a",
+      "url": "https://dev.to/gde/six-cross-cloud-a2a-paths-one-benchmark-what-aws-azure-and-gcp-agents-actually-cost-each-other-13g0"
+    },
+    {
+      "title": "I've Spent 10+ Years in Software Engineering. After Sickness, Burnout, and a Layoff, I'm Rebuilding My Career. Ask Me Anything",
+      "hot": "❤️ 103 💬 105",
+      "desc": "Hi, I'm Cesar, a Senior Software Engineer with 10+ years of experience.  In 2023, I got sick and...",
+      "source": "dev",
+      "tag": "discuss,  watercooler",
+      "url": "https://dev.to/canro91/ive-spent-10-years-in-software-engineering-after-sickness-burnout-and-a-layoff-im-rebuilding-efc"
+    },
+    {
+      "title": "Microsoft Foundry as the Master Cloud, Google ADK as the Client: Cross-Cloud A2A v1.0",
+      "hot": "❤️ 7 💬 0",
+      "desc": "This installment puts Microsoft Foundry in charge. Azure is the main cloud: it hosts the master...",
+      "source": "dev",
+      "tag": "agents,  googleadk",
+      "url": "https://dev.to/gde/microsoft-foundry-as-the-master-cloud-google-adk-as-the-client-cross-cloud-a2a-v10-3me0"
     }
   ],
   "tech": [
@@ -169,7 +169,7 @@
       "hot": "3.0m",
       "desc": "seangoedecke.com",
       "source": "tech",
-      "tag": "⬆️ 307 points",
+      "tag": "⬆️ 393 points",
       "url": "https://www.seangoedecke.com/llms-reward-expertise/"
     },
     {
@@ -177,47 +177,47 @@
       "hot": "3.0m",
       "desc": "openai.com",
       "source": "tech",
-      "tag": "⬆️ 387 points",
+      "tag": "⬆️ 418 points",
       "url": "https://openai.com/index/ten-advances-in-mathematics/"
     },
     {
-      "title": "Windows XP 2002 for the Itanium: Unbridled rage",
+      "title": "Ask HN: Who is hiring? (August 2026)",
       "hot": "3.0m",
-      "desc": "virtuallyfun.com",
+      "desc": "news.ycombinator.com",
       "source": "tech",
-      "tag": "⬆️ 36 points",
-      "url": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/"
+      "tag": "⬆️ 92 points",
+      "url": "https://news.ycombinator.com/item?id=49156683"
     },
     {
       "title": "Devtools must be open source",
       "hot": "3.0m",
       "desc": "blog.exe.dev",
       "source": "tech",
-      "tag": "⬆️ 476 points",
+      "tag": "⬆️ 493 points",
       "url": "https://blog.exe.dev/devtools-must-be-open-source"
     },
     {
-      "title": "Ask HN: Who is hiring? (August 2026)",
+      "title": "Windows XP 2002 for the Itanium: Unbridled rage",
       "hot": "2.9m",
-      "desc": "news.ycombinator.com",
+      "desc": "virtuallyfun.com",
       "source": "tech",
-      "tag": "⬆️ 67 points",
-      "url": "https://news.ycombinator.com/item?id=49156683"
+      "tag": "⬆️ 47 points",
+      "url": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/"
     },
     {
-      "title": "Battle of the Beams",
+      "title": "Amazonian civilization had estimated 3M people in 3% of forest area",
       "hot": "2.9m",
-      "desc": "en.wikipedia.org",
+      "desc": "science.org",
       "source": "tech",
-      "tag": "⬆️ 19 points",
-      "url": "https://en.wikipedia.org/wiki/Battle_of_the_Beams"
+      "tag": "⬆️ 8 points",
+      "url": "https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization"
     },
     {
       "title": "Ask HN: Who wants to be hired? (August 2026)",
       "hot": "2.9m",
       "desc": "news.ycombinator.com",
       "source": "tech",
-      "tag": "⬆️ 31 points",
+      "tag": "⬆️ 46 points",
       "url": "https://news.ycombinator.com/item?id=49156682"
     },
     {
@@ -225,7 +225,7 @@
       "hot": "2.9m",
       "desc": "blog.cloudflare.com",
       "source": "tech",
-      "tag": "⬆️ 124 points",
+      "tag": "⬆️ 140 points",
       "url": "https://blog.cloudflare.com/smaller-faster-safer-models/"
     },
     {
@@ -233,7 +233,7 @@
       "hot": "2.9m",
       "desc": "blog.comfy.org",
       "source": "tech",
-      "tag": "⬆️ 241 points",
+      "tag": "⬆️ 249 points",
       "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui"
     },
     {
@@ -241,7 +241,7 @@
       "hot": "2.9m",
       "desc": "changelog.complete.org",
       "source": "tech",
-      "tag": "⬆️ 118 points",
+      "tag": "⬆️ 122 points",
       "url": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase"
     },
     {
@@ -249,7 +249,7 @@
       "hot": "2.9m",
       "desc": "ankursethi.com",
       "source": "tech",
-      "tag": "⬆️ 363 points",
+      "tag": "⬆️ 379 points",
       "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/"
     },
     {
@@ -257,7 +257,7 @@
       "hot": "2.8m",
       "desc": "200ms.thenodebook.com",
       "source": "tech",
-      "tag": "⬆️ 162 points",
+      "tag": "⬆️ 183 points",
       "url": "https://200ms.thenodebook.com"
     },
     {
@@ -265,7 +265,7 @@
       "hot": "2.8m",
       "desc": "clickhouse.com",
       "source": "tech",
-      "tag": "⬆️ 255 points",
+      "tag": "⬆️ 269 points",
       "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse"
     },
     {
@@ -273,31 +273,31 @@
       "hot": "2.8m",
       "desc": "ei3lh.eu",
       "source": "tech",
-      "tag": "⬆️ 38 points",
+      "tag": "⬆️ 44 points",
       "url": "https://ei3lh.eu/2025/11/20/replacing-the-kobo-libra-h2o-battery/"
-    },
-    {
-      "title": "The Dunning-Kruger effect may just be a data artefact (2020)",
-      "hot": "2.8m",
-      "desc": "mcgill.ca",
-      "source": "tech",
-      "tag": "⬆️ 109 points",
-      "url": "https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real"
     },
     {
       "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
       "hot": "2.8m",
       "desc": "hoplite.sh",
       "source": "tech",
-      "tag": "⬆️ 49 points",
+      "tag": "⬆️ 57 points",
       "url": "https://hoplite.sh"
+    },
+    {
+      "title": "Frame selection is the whole game: notes on making LLMs watch video",
+      "hot": "2.8m",
+      "desc": "leoaido.com",
+      "source": "tech",
+      "tag": "⬆️ 7 points",
+      "url": "https://leoaido.com/how-llms-watch-video/"
     },
     {
       "title": "ZX Spectrum System Tour: Text Mode",
       "hot": "2.8m",
       "desc": "bumbershootsoft.wordpress.com",
       "source": "tech",
-      "tag": "⬆️ 12 points",
+      "tag": "⬆️ 16 points",
       "url": "https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/"
     },
     {
@@ -305,24 +305,24 @@
       "hot": "2.7m",
       "desc": "statsignificant.com",
       "source": "tech",
-      "tag": "⬆️ 157 points",
+      "tag": "⬆️ 164 points",
       "url": "https://www.statsignificant.com/p/how-hollywood-stopped-making-movies"
     },
     {
-      "title": "KisakCOD – open-source reimplementation of Call of Duty 4 Multiplayer",
+      "title": "The Dunning-Kruger effect may just be a data artefact (2020)",
+      "hot": "2.7m",
+      "desc": "mcgill.ca",
+      "source": "tech",
+      "tag": "⬆️ 117 points",
+      "url": "https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real"
+    },
+    {
+      "title": "Bonsai: Janestreet's UI Library",
       "hot": "2.7m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 33 points",
-      "url": "https://github.com/SwagSoftware/KisakCOD"
-    },
-    {
-      "title": "Kelly Criterion Simulator",
-      "hot": "2.7m",
-      "desc": "kellysimulator.com",
-      "source": "tech",
-      "tag": "⬆️ 50 points",
-      "url": "https://kellysimulator.com/"
+      "tag": "⬆️ 299 points",
+      "url": "https://github.com/janestreet/bonsai"
     }
   ],
   "space": [
@@ -450,23 +450,15 @@
   "github": [
     {
       "title": "yc-software/qm: Multiplayer agent harness for work",
-      "hot": "⭐ 9.6k",
+      "hot": "⭐ 9.7k",
       "desc": "Multiplayer agent harness for work",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/yc-software/qm"
     },
     {
-      "title": "MoonshotAI/Kimi-K3: Open Frontier Intelligence",
-      "hot": "⭐ 8.0k",
-      "desc": "Open Frontier Intelligence",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/MoonshotAI/Kimi-K3"
-    },
-    {
       "title": "bashalarmistalt/decimen-optical-transfer: ",
-      "hot": "⭐ 4.2k",
+      "hot": "⭐ 4.3k",
       "desc": "bashalarmistalt/decimen-optical-transfer",
       "source": "github",
       "tag": "TypeScript",
@@ -474,7 +466,7 @@
     },
     {
       "title": "trycompai/crm: An open-source, agentic-first CRM.",
-      "hot": "⭐ 3.2k",
+      "hot": "⭐ 3.3k",
       "desc": "An open-source, agentic-first CRM.",
       "source": "github",
       "tag": "TypeScript",
@@ -482,19 +474,11 @@
     },
     {
       "title": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer: FDE（前沿部署工程师）从零入门指南（基于范",
-      "hot": "⭐ 2.0k",
+      "hot": "⭐ 2.1k",
       "desc": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
       "source": "github",
       "tag": "GitHub",
       "url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer"
-    },
-    {
-      "title": "QwenAudio/qwen-audio-agent: A realtime voice runtime that keeps Agents talking, ",
-      "hot": "⭐ 1.8k",
-      "desc": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/QwenAudio/qwen-audio-agent"
     },
     {
       "title": "sqliteai/waste: Run the full 2.78-trillion-parameter Kimi K3 model beyond availa",
@@ -514,7 +498,7 @@
     },
     {
       "title": "FareedKhan-dev/kimi-k3-in-c: A 2.78-trillion-parameter Kimi K3 running inference",
-      "hot": "⭐ 1.2k",
+      "hot": "⭐ 1.3k",
       "desc": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
       "source": "github",
       "tag": "C",
@@ -522,7 +506,7 @@
     },
     {
       "title": "DannyMac180/sol-advisor: Codex-native architect orchestration with Luna and Terr",
-      "hot": "⭐ 983",
+      "hot": "⭐ 992",
       "desc": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.",
       "source": "github",
       "tag": "Shell",
@@ -538,7 +522,7 @@
     },
     {
       "title": "xikhar/persona: Bringing real-time voice to life.",
-      "hot": "⭐ 818",
+      "hot": "⭐ 819",
       "desc": "Bringing real-time voice to life.",
       "source": "github",
       "tag": "JavaScript",
@@ -546,7 +530,7 @@
     },
     {
       "title": "imsai-sh/zhuzhiliao: 竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
-      "hot": "⭐ 750",
+      "hot": "⭐ 794",
       "desc": "竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
       "source": "github",
       "tag": "HTML",
@@ -554,7 +538,7 @@
     },
     {
       "title": "thebuggeddev/anatomy: An interactive 3D human anatomy explorer built using three",
-      "hot": "⭐ 741",
+      "hot": "⭐ 758",
       "desc": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
       "source": "github",
       "tag": "TypeScript",
@@ -567,6 +551,22 @@
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/talivia-group/talivia"
+    },
+    {
+      "title": "genspark-ai/genoffice: An AI-native office suite for macOS and Windows: word pro",
+      "hot": "⭐ 661",
+      "desc": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/genspark-ai/genoffice"
+    },
+    {
+      "title": "gavamedia/deltafin: Run full Kimi K3 on a single device. And an OpenAI-compatibl",
+      "hot": "⭐ 658",
+      "desc": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/gavamedia/deltafin"
     }
   ]
 }
