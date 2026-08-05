@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 46 💬 18",
+      "hot": "❤️ 46 💬 21",
       "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
       "source": "dev",
       "tag": "top7,  discuss",
@@ -50,11 +50,19 @@
     },
     {
       "title": "Join our latest Frontend Challenge: Comfort Food Edition 🍲",
-      "hot": "❤️ 182 💬 60",
+      "hot": "❤️ 184 💬 60",
       "desc": "We're back with another Frontend Challenge, and this time we're hungry! 🍜🥧  Running through August...",
       "source": "dev",
       "tag": "devchallenge,  frontendchallenge",
       "url": "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0"
+    },
+    {
+      "title": "Passkeys Explained Simply",
+      "hot": "❤️ 102 💬 30",
+      "desc": "You’ve probably seen that little prompt that says “Sign in with Face ID” or “Use a passkey” instead...",
+      "source": "dev",
+      "tag": "security,  api",
+      "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk"
     },
     {
       "title": "Lifecycle, DevOps & Multi-Agent Orchestration for Enterprise AI",
@@ -63,14 +71,6 @@
       "source": "dev",
       "tag": "ai,  devops",
       "url": "https://dev.to/gde/lifecycle-devops-multi-agent-orchestration-for-enterprise-ai-1a1m"
-    },
-    {
-      "title": "Passkeys Explained Simply",
-      "hot": "❤️ 100 💬 29",
-      "desc": "You’ve probably seen that little prompt that says “Sign in with Face ID” or “Use a passkey” instead...",
-      "source": "dev",
-      "tag": "security,  api",
-      "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk"
     },
     {
       "title": "Sub-Agent Metrics Are Not Comparable to Main-Thread Metrics",
@@ -89,28 +89,20 @@
       "url": "https://dev.to/devteam/bug-smash-isnt-glamorous-and-thats-what-i-love-about-it-445i"
     },
     {
-      "title": "Unlocking Infinite Automation: Integrating Google Apps Script with Gemini Spark",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Abstract   Gemini Spark, Google's 24/7 autonomous AI agent, seamlessly connects with Google...",
-      "source": "dev",
-      "tag": "ai,  gemini",
-      "url": "https://dev.to/gde/unlocking-infinite-automation-integrating-google-apps-script-with-gemini-spark-3kj4"
-    },
-    {
       "title": "What was your win this week?",
-      "hot": "❤️ 52 💬 44",
+      "hot": "❤️ 52 💬 45",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "discuss,  weeklyretro",
       "url": "https://dev.to/devteam/what-was-your-win-this-week-1ed"
     },
     {
-      "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
-      "hot": "❤️ 50 💬 30",
-      "desc": "Every form I ever shipped before React 19 needed the same three pieces of state, and I wired them up...",
+      "title": "Unlocking Infinite Automation: Integrating Google Apps Script with Gemini Spark",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Abstract   Gemini Spark, Google's 24/7 autonomous AI agent, seamlessly connects with Google...",
       "source": "dev",
-      "tag": "react,  webdev",
-      "url": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd"
+      "tag": "ai,  gemini",
+      "url": "https://dev.to/gde/unlocking-infinite-automation-integrating-google-apps-script-with-gemini-spark-3kj4"
     },
     {
       "title": "Building AI Agents with the TypeScript Agent Development Kit (ADK)",
@@ -137,6 +129,14 @@
       "url": "https://dev.to/gde/solving-riverpods-family-provider-cache-dilemma-with-signals-mapsignal-474"
     },
     {
+      "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
+      "hot": "❤️ 52 💬 31",
+      "desc": "Every form I ever shipped before React 19 needed the same three pieces of state, and I wired them up...",
+      "source": "dev",
+      "tag": "react,  webdev",
+      "url": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd"
+    },
+    {
       "title": "Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)",
       "hot": "❤️ 7 💬 0",
       "desc": "Summary of 2026 Updates (v2 — Python ADK 2.0 Migration)   This updated edition incorporates...",
@@ -161,5 +161,5 @@
       "url": "https://dev.to/gde/one-tpu-chip-eight-agents-serving-small-agent-workloads-with-raw-jax-2cc4"
     }
   ],
-  "updatedAt": "2026-08-05T07:28:14.305Z"
+  "updatedAt": "2026-08-05T10:04:12.212Z"
 }
