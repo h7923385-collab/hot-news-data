@@ -1,8 +1,16 @@
 {
   "data": [
     {
+      "title": "Serving Gemma 4 2B on a Single TPU v5e Chip with MCP and Antigravity CLI",
+      "hot": "❤️ 5 💬 0",
+      "desc": "This article is the v5e follow-on to the v6e-1 debugging guide. Same MCP tooling, same Antigravity...",
+      "source": "dev",
+      "tag": "antigravitycli,  python",
+      "url": "https://dev.to/gde/serving-gemma-4-2b-on-a-single-tpu-v5e-chip-with-mcp-and-antigravity-cli-33l8"
+    },
+    {
       "title": "Welcome Thread - v387",
-      "hot": "❤️ 13 💬 25",
+      "hot": "❤️ 13 💬 30",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
@@ -18,7 +26,7 @@
     },
     {
       "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 48 💬 21",
+      "hot": "❤️ 48 💬 24",
       "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
       "source": "dev",
       "tag": "top7,  discuss",
@@ -39,14 +47,6 @@
       "source": "dev",
       "tag": "agents,  googleadk",
       "url": "https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b"
-    },
-    {
-      "title": "Catbot: Custom Grammar Problem Fixed",
-      "hot": "❤️ 41 💬 11",
-      "desc": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.          ...",
-      "source": "dev",
-      "tag": "devchallenge,  bugsmash",
-      "url": "https://dev.to/annavi11arrea1/catbot-custom-grammar-problem-fixed-oc5"
     },
     {
       "title": "How to Build a Local AI Workspace Like PewDiePie's Odysseus: Hardware, Models, and Cost",
@@ -98,7 +98,7 @@
     },
     {
       "title": "Sub-Agent Metrics Are Not Comparable to Main-Thread Metrics",
-      "hot": "❤️ 8 💬 28",
+      "hot": "❤️ 8 💬 29",
       "desc": "In my agent fleet, role moves the metrics more than the model does — and the role mix differs per model, so pooled compa",
       "source": "dev",
       "tag": "agents,  ai",
@@ -129,6 +129,14 @@
       "url": "https://dev.to/gde/unlocking-infinite-automation-integrating-google-apps-script-with-gemini-spark-3kj4"
     },
     {
+      "title": "Catbot: Custom Grammar Problem Fixed",
+      "hot": "❤️ 43 💬 12",
+      "desc": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.          ...",
+      "source": "dev",
+      "tag": "devchallenge,  bugsmash",
+      "url": "https://dev.to/annavi11arrea1/catbot-custom-grammar-problem-fixed-oc5"
+    },
+    {
       "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
       "hot": "❤️ 52 💬 31",
       "desc": "Every form I ever shipped before React 19 needed the same three pieces of state, and I wired them up...",
@@ -151,15 +159,7 @@
       "source": "dev",
       "tag": "ai,  agents",
       "url": "https://dev.to/gde/google-adk-introduction-to-ai-agent-development-1b4e"
-    },
-    {
-      "title": "Solving Riverpod’s Family Provider Cache Dilemma with Signals & mapSignal",
-      "hot": "❤️ 6 💬 0",
-      "desc": "When separate family providers store parameterized network queries as isolated state silos, updating an entity in one su",
-      "source": "dev",
-      "tag": "flutter,  dart",
-      "url": "https://dev.to/gde/solving-riverpods-family-provider-cache-dilemma-with-signals-mapsignal-474"
     }
   ],
-  "updatedAt": "2026-08-05T16:24:02.145Z"
+  "updatedAt": "2026-08-05T17:58:26.228Z"
 }
