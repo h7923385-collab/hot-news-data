@@ -1,53 +1,62 @@
 {
-  "updatedAt": "2026-08-06T09:17:06.824Z",
+  "updatedAt": "2026-08-06T11:37:00.047Z",
   "source": "live",
-  "tech": [
+  "space": [
     {
-      "title": "Crime Pays but Botany Doesn't",
-      "hot": "3.0m",
-      "desc": "crimepaysbutbotanydoesnt.com",
-      "source": "tech",
-      "tag": "⬆️ 162 points",
-      "url": "https://www.crimepaysbutbotanydoesnt.com/reading-list"
-    },
+      "title": "暂无 space 数据",
+      "hot": "",
+      "desc": "数据加载中，请稍后刷新",
+      "source": "space",
+      "tag": "loading"
+    }
+  ],
+  "tech": [
     {
       "title": "How to Make a Nintendo 64 Game in 2026",
       "hot": "3.0m",
       "desc": "phoboslab.org",
       "source": "tech",
-      "tag": "⬆️ 67 points",
+      "tag": "⬆️ 142 points",
       "url": "https://phoboslab.org/log/2026/08/xibalba64-making-of"
     },
     {
-      "title": "What I love about Django",
+      "title": "Crime Pays but Botany Doesn't",
       "hot": "3.0m",
-      "desc": "buttondown.com",
+      "desc": "crimepaysbutbotanydoesnt.com",
       "source": "tech",
-      "tag": "⬆️ 41 points",
-      "url": "https://buttondown.com/blog/what-i-love-about-django"
-    },
-    {
-      "title": "Discovery Loop",
-      "hot": "3.0m",
-      "desc": "discoveryloop.com",
-      "source": "tech",
-      "tag": "⬆️ 744 points",
-      "url": "https://www.discoveryloop.com/"
+      "tag": "⬆️ 270 points",
+      "url": "https://www.crimepaysbutbotanydoesnt.com/reading-list"
     },
     {
       "title": "Let's all meet up in the Y2K",
-      "hot": "2.9m",
+      "hot": "3.0m",
       "desc": "blog.gingerbeardman.com",
       "source": "tech",
-      "tag": "⬆️ 29 points",
+      "tag": "⬆️ 70 points",
       "url": "https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/"
+    },
+    {
+      "title": "Pareto Front",
+      "hot": "3.0m",
+      "desc": "en.wikipedia.org",
+      "source": "tech",
+      "tag": "⬆️ 21 points",
+      "url": "https://en.wikipedia.org/wiki/Pareto_front"
+    },
+    {
+      "title": "Discovery Loop",
+      "hot": "2.9m",
+      "desc": "discoveryloop.com",
+      "source": "tech",
+      "tag": "⬆️ 776 points",
+      "url": "https://www.discoveryloop.com/"
     },
     {
       "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
       "hot": "2.9m",
       "desc": "blog.google",
       "source": "tech",
-      "tag": "⬆️ 654 points",
+      "tag": "⬆️ 684 points",
       "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/"
     },
     {
@@ -55,39 +64,47 @@
       "hot": "2.9m",
       "desc": "zed.dev",
       "source": "tech",
-      "tag": "⬆️ 419 points",
+      "tag": "⬆️ 452 points",
       "url": "https://zed.dev/deltadb"
+    },
+    {
+      "title": "What I love about Django",
+      "hot": "2.9m",
+      "desc": "buttondown.com",
+      "source": "tech",
+      "tag": "⬆️ 84 points",
+      "url": "https://buttondown.com/blog/what-i-love-about-django"
     },
     {
       "title": "The title cards in Blade Runner are amazing",
       "hot": "2.9m",
       "desc": "randsinrepose.com",
       "source": "tech",
-      "tag": "⬆️ 257 points",
+      "tag": "⬆️ 289 points",
       "url": "https://randsinrepose.com/archives/blade-runner-title-cards/"
-    },
-    {
-      "title": "Branchless Rust: Making a Filter 4x Faster by Removing an If",
-      "hot": "2.9m",
-      "desc": "greyblake.com",
-      "source": "tech",
-      "tag": "⬆️ 170 points",
-      "url": "https://www.greyblake.com/blog/branchless-rust/"
     },
     {
       "title": "Muse Code and Muse Spark 1.2",
       "hot": "2.9m",
       "desc": "research.meta.ai",
       "source": "tech",
-      "tag": "⬆️ 258 points",
+      "tag": "⬆️ 267 points",
       "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2"
     },
     {
-      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+      "title": "Branchless Rust: Making a Filter 4x Faster by Removing an If",
       "hot": "2.9m",
+      "desc": "greyblake.com",
+      "source": "tech",
+      "tag": "⬆️ 202 points",
+      "url": "https://www.greyblake.com/blog/branchless-rust/"
+    },
+    {
+      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+      "hot": "2.8m",
       "desc": "neon.com",
       "source": "tech",
-      "tag": "⬆️ 314 points",
+      "tag": "⬆️ 331 points",
       "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency"
     },
     {
@@ -95,63 +112,47 @@
       "hot": "2.8m",
       "desc": "blog.fogus.me",
       "source": "tech",
-      "tag": "⬆️ 255 points",
+      "tag": "⬆️ 289 points",
       "url": "https://blog.fogus.me/llm/born-against.html"
+    },
+    {
+      "title": "On non-rooted Android 17, ADB uninstall of system apps fails",
+      "hot": "2.8m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 32 points",
+      "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/1426"
     },
     {
       "title": "Cloudflare OS: an open platform for agents, apps, and work",
       "hot": "2.8m",
       "desc": "blog.cloudflare.com",
       "source": "tech",
-      "tag": "⬆️ 555 points",
+      "tag": "⬆️ 569 points",
       "url": "https://blog.cloudflare.com/cloudflare-os/"
-    },
-    {
-      "title": "Quantego: A Family of Lego Models of IBM Quantum Computers",
-      "hot": "2.8m",
-      "desc": "quantego.org",
-      "source": "tech",
-      "tag": "⬆️ 27 points",
-      "url": "https://quantego.org/"
     },
     {
       "title": "Prime Agent: A self-improving RLM agent",
       "hot": "2.8m",
       "desc": "primeintellect.ai",
       "source": "tech",
-      "tag": "⬆️ 181 points",
+      "tag": "⬆️ 188 points",
       "url": "https://www.primeintellect.ai/blog/prime-agent"
     },
     {
-      "title": "Nashville uses eminent domain to block data center near zoo",
+      "title": "Quantego: A Family of Lego Models of IBM Quantum Computers",
       "hot": "2.8m",
-      "desc": "costar.com",
+      "desc": "quantego.org",
       "source": "tech",
-      "tag": "⬆️ 231 points",
-      "url": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project"
-    },
-    {
-      "title": "Decimen Optical Transfer: fountain-coded QR file transfer",
-      "hot": "2.8m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 24 points",
-      "url": "https://github.com/bashalarmistalt/decimen-optical-transfer"
-    },
-    {
-      "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
-      "hot": "2.7m",
-      "desc": "promptarmor.com",
-      "source": "tech",
-      "tag": "⬆️ 225 points",
-      "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data"
+      "tag": "⬆️ 35 points",
+      "url": "https://quantego.org/"
     },
     {
       "title": "Morioka Shoten",
       "hot": "2.7m",
       "desc": "takram.com",
       "source": "tech",
-      "tag": "⬆️ 10 points",
+      "tag": "⬆️ 17 points",
       "url": "https://www.takram.com/projects/a-single-room-with-a-single-book-morioka-shoten"
     },
     {
@@ -159,14 +160,22 @@
       "hot": "2.7m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 211 points",
+      "tag": "⬆️ 231 points",
       "url": "https://github.com/denoland/celld"
+    },
+    {
+      "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
+      "hot": "2.7m",
+      "desc": "promptarmor.com",
+      "source": "tech",
+      "tag": "⬆️ 246 points",
+      "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data"
     }
   ],
   "github": [
     {
       "title": "trycompai/crm: An open-source, agentic-first CRM.",
-      "hot": "⭐ 6.8k",
+      "hot": "⭐ 6.9k",
       "desc": "An open-source, agentic-first CRM.",
       "source": "github",
       "tag": "TypeScript",
@@ -174,7 +183,7 @@
     },
     {
       "title": "firecrawl/anydoc: Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV,",
-      "hot": "⭐ 6.0k",
+      "hot": "⭐ 6.3k",
       "desc": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
       "source": "github",
       "tag": "Rust",
@@ -190,7 +199,7 @@
     },
     {
       "title": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer: FDE（前沿部署工程师）从零入门指南（基于范",
-      "hot": "⭐ 3.4k",
+      "hot": "⭐ 3.5k",
       "desc": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
       "source": "github",
       "tag": "GitHub",
@@ -222,7 +231,7 @@
     },
     {
       "title": "thebuggeddev/anatomy: An interactive 3D human anatomy explorer built using three",
-      "hot": "⭐ 1.7k",
+      "hot": "⭐ 1.8k",
       "desc": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
       "source": "github",
       "tag": "TypeScript",
@@ -245,6 +254,14 @@
       "url": "https://github.com/KKKKhazix/human-writing"
     },
     {
+      "title": "Binaryify/open-kimi-ppt-skill: 非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPT",
+      "hot": "⭐ 1.0k",
+      "desc": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/Binaryify/open-kimi-ppt-skill"
+    },
+    {
       "title": "Accio-org/RealReplicaBench: RealReplicaBench: Benchmarking Long-Horizon Agents i",
       "hot": "⭐ 1.0k",
       "desc": "RealReplicaBench: Benchmarking Long-Horizon Agents in High-Fidelity, Stateful, and Reproducible Replicas of Real Online Services",
@@ -253,16 +270,8 @@
       "url": "https://github.com/Accio-org/RealReplicaBench"
     },
     {
-      "title": "Binaryify/open-kimi-ppt-skill: 非��方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PP",
-      "hot": "⭐ 976",
-      "desc": "非��方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a loca",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/Binaryify/open-kimi-ppt-skill"
-    },
-    {
       "title": "x4gKing/3x-ui-multi: ",
-      "hot": "⭐ 831",
+      "hot": "⭐ 837",
       "desc": "x4gKing/3x-ui-multi",
       "source": "github",
       "tag": "JavaScript",
@@ -270,7 +279,7 @@
     },
     {
       "title": "guillermolg00/morphicons: Any icon morphs into any other — universal morphing fo",
-      "hot": "⭐ 760",
+      "hot": "⭐ 774",
       "desc": "Any icon morphs into any other — universal morphing for stroke-based icons with spring physics. Zero dependencies, ~7 KB gzip.",
       "source": "github",
       "tag": "TypeScript",
@@ -278,133 +287,11 @@
     },
     {
       "title": "ben-z/findphone: Locate a nearby Bluetooth device by signal strength, from the m",
-      "hot": "⭐ 686",
+      "hot": "⭐ 708",
       "desc": "Locate a nearby Bluetooth device by signal strength, from the macOS command line — for when Find My isn't available",
       "source": "github",
       "tag": "Swift",
       "url": "https://github.com/ben-z/findphone"
-    }
-  ],
-  "space": [
-    {
-      "title": "ExoMars stretches out its legs",
-      "hot": "8/6",
-      "desc": "The footage shows the simultaneous deployment of two landing legs from the ExoMars landing platform, in two sequential pairs.  ",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/ExoMars_stretches_out_its_legs"
-    },
-    {
-      "title": "Webb opens a Treasure Chest filled with stars",
-      "hot": "8/6",
-      "desc": "This NASA/ESA/CSA James Webb Space Telescope Picture of the Month takes us to a fantastical realm within our home galaxy, where piercing starlight and",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Webb_opens_a_Treasure_Chest_filled_with_stars"
-    },
-    {
-      "title": "APOD: 2026 August 6 – New Sharpest Image of the Sun Uncovers Instability",
-      "hot": "8/6",
-      "desc": "APOD Science APOD APOD: 2026 August 6 – New… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Pictu",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/image-article/apod-2026-august-6-new-sharpest-image-of-the-sun-uncovers-instability/"
-    },
-    {
-      "title": "NASA and Roscosmos continue seat barter agreement",
-      "hot": "8/6",
-      "desc": "\nNASA and Roscosmos have agreed to continue exchanging seats between Soyuz and Crew Dragon spacecraft, but that agreement does not yet extend to Starl",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/nasa-and-roscosmos-continue-seat-barter-agreement/"
-    },
-    {
-      "title": "New Glenn explosion linked to rocket engine valve",
-      "hot": "8/5",
-      "desc": "\nBlue Origin has traced the explosion of its New Glenn rocket during a static-fire test in May to a valve in the rocket’s BE-4 engine.\nThe post New Gl",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/new-glenn-explosion-linked-to-rocket-engine-valve/"
-    },
-    {
-      "title": "This Atlantic hurricane season is looking like a dud, but there will be a price to pay",
-      "hot": "8/5",
-      "desc": "\"The models are forecasting something outside the envelope of anything we have ever observed.\"",
-      "source": "space",
-      "tag": "Arstechnica",
-      "url": "https://arstechnica.com/science/2026/08/this-atlantic-hurricane-season-is-looking-like-a-dud-but-there-will-be-a-price-to-pay/"
-    },
-    {
-      "title": "CNES Sets 2028 Target for Hot-Fire Test of New High-Thrust Rocket Engine",
-      "hot": "8/5",
-      "desc": "The head of the French space agency CNES told lawmakers in April that a subscale prototype of a future reusable full-flow staged-combustion rocket eng",
-      "source": "space",
-      "tag": "European Spaceflight",
-      "url": "https://europeanspaceflight.com/cnes-sets-2028-target-for-hot-fire-test-of-new-high-thrust-rocket-engine/"
-    },
-    {
-      "title": "NASA’s IXPE May Have Proven 90-Year-Old Theory",
-      "hot": "8/5",
-      "desc": "A first of its kind measurement of a magnetar may have captured empty space behaving in a way physicists have predicted for 90 years, but never direct",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/missions/ixpe/nasas-ixpe-may-have-proven-90-year-old-theory/"
-    },
-    {
-      "title": "Artemis III Orion Crew and Service Models Joined",
-      "hot": "8/5",
-      "desc": "Technicians joined the Orion crew and service modules together on July 30, 2026, inside the Neil Armstrong Operations and Checkout Building at NASA’s ",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/image-article/artemis-iii-orion-crew-and-service-models-joined/"
-    },
-    {
-      "title": "Capella, Iceye and Umbra win NRO radar-data contracts",
-      "hot": "8/5",
-      "desc": "\nSAN FRANCISCO – The National Reconnaissance Office has awarded contracts to Capella Space, Iceye U.S. and Umbra to expand the U.S. government’s use o",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/capella-iceye-and-umbra-win-nro-radar-data-contracts/"
-    },
-    {
-      "title": "NASA’s Perseverance Captures Phobos and Earth",
-      "hot": "8/5",
-      "desc": "Description This composite of seven images from the Mastcam-Z instrument aboard NASA’s Perseverance Mars rover shows Earth, visible as a small bright ",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/photojournal/nasas-perseverance-captures-phobos-and-earth/"
-    },
-    {
-      "title": "NASA’s Perseverance Rover Watches Earth Vanish Behind Martian Moon",
-      "hot": "8/5",
-      "desc": "Earth and the Martian moon Phobos dance together in a series of images recently acquired by NASA’s Perseverance Mars rover. Earth appears as a point o",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/solar-system/planets/mars/nasas-perseverance-rover-watches-earth-vanish-behind-martian-moon/"
-    },
-    {
-      "title": "Finding room in Starlink’s shadow",
-      "hot": "8/5",
-      "desc": "\nAnother wave of constellations has staked claims for communications satellites in non-geostationary orbit (NGSO), but what hope do newcomers have alo",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/finding-room-in-starlinks-shadow/"
-    },
-    {
-      "title": "Your chance to run software in deep space on ESA's asteroid mission",
-      "hot": "8/5",
-      "desc": "The European Space Agency is offering European researchers and companies a rare and exciting opportunity to run their innovative software directly in ",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Your_chance_to_run_software_in_deep_space_on_ESA_s_asteroid_mission"
-    },
-    {
-      "title": "Advanced Mini-laboratories Automate Space Station Research",
-      "hot": "8/5",
-      "desc": "The International Space Station hosts hundreds of science experiments at a time. Some experiments can take hours to perform, and researchers need to a",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/image-article/advanced-mini-laboratories-automate-space-station-research/"
     }
   ],
   "dev": [
@@ -418,7 +305,7 @@
     },
     {
       "title": "Welcome Thread - v387",
-      "hot": "❤️ 26 💬 75",
+      "hot": "❤️ 29 💬 84",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
@@ -513,20 +400,20 @@
       "url": "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0"
     },
     {
-      "title": "Catbot: Custom Grammar Problem Fixed",
-      "hot": "❤️ 44 💬 14",
-      "desc": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.          ...",
-      "source": "dev",
-      "tag": "devchallenge,  bugsmash",
-      "url": "https://dev.to/annavi11arrea1/catbot-custom-grammar-problem-fixed-oc5"
-    },
-    {
       "title": "What was your win this week?",
-      "hot": "❤️ 52 💬 48",
+      "hot": "❤️ 52 💬 49",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "discuss,  weeklyretro",
       "url": "https://dev.to/devteam/what-was-your-win-this-week-1ed"
+    },
+    {
+      "title": "Catbot: Custom Grammar Problem Fixed",
+      "hot": "❤️ 49 💬 14",
+      "desc": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.          ...",
+      "source": "dev",
+      "tag": "devchallenge,  bugsmash",
+      "url": "https://dev.to/annavi11arrea1/catbot-custom-grammar-problem-fixed-oc5"
     },
     {
       "title": "Bug Smash isn't glamorous and that's what I love about it.",
