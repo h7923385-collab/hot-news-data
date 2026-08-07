@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "What was your win this week?",
-      "hot": "❤️ 14 💬 6",
+      "hot": "❤️ 18 💬 6",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "weeklyretro,  discuss",
@@ -17,12 +17,36 @@
       "url": "https://dev.to/thepracticaldev/general-challenge-updates-moving-forward-5h39"
     },
     {
+      "title": "linkedSignal() Writes Back: A Trace Through the Reactive Graph 🔍🚀",
+      "hot": "❤️ 10 💬 0",
+      "desc": "Let's be honest: linkedSignal() always had a bit of a split personality. It read beautifully from...",
+      "source": "dev",
+      "tag": "angular,  typescript",
+      "url": "https://dev.to/gdg/linkedsignal-writes-back-a-trace-through-the-reactive-graph-37o7"
+    },
+    {
+      "title": "Agent Sandboxes: Giving AI Agents Their Own Little Linux Box (And Why You Should Care)",
+      "hot": "❤️ 7 💬 0",
+      "desc": "Sourced from: GKE Agent Sandbox docs, kubernetes-sigs/agent-sandbox       So here is the thing. We...",
+      "source": "dev",
+      "tag": "ai,  kubernetes",
+      "url": "https://dev.to/gde/agent-sandboxes-giving-ai-agents-their-own-little-linux-box-and-why-you-should-care-jl4"
+    },
+    {
       "title": "Serving Gemma 4 2B on a Single TPU v5e Chip with MCP and Antigravity CLI",
       "hot": "❤️ 9 💬 0",
       "desc": "This article is the v5e follow-on to the v6e-1 debugging guide. Same MCP tooling, same Antigravity...",
       "source": "dev",
       "tag": "antigravitycli,  python",
       "url": "https://dev.to/gde/serving-gemma-4-2b-on-a-single-tpu-v5e-chip-with-mcp-and-antigravity-cli-33l8"
+    },
+    {
+      "title": "Before the Quake: How Antigravity CLI's AI Agents & IoT Data Predict Earthquakes",
+      "hot": "❤️ 5 💬 0",
+      "desc": "Published Paper: Unification Theory of Lithosphere-Atmosphere-Ionosphere Coupling via...",
+      "source": "dev",
+      "tag": "ai,  gemini",
+      "url": "https://dev.to/gde/before-the-quake-how-antigravity-clis-ai-agents-iot-data-predict-earthquakes-34if"
     },
     {
       "title": "Kiro Crew: The Next Frontier",
@@ -66,7 +90,7 @@
     },
     {
       "title": "Passkeys Explained Simply",
-      "hot": "❤️ 107 💬 32",
+      "hot": "❤️ 108 💬 32",
       "desc": "You’ve probably seen that little prompt that says “Sign in with Face ID” or “Use a passkey” instead...",
       "source": "dev",
       "tag": "security,  api",
@@ -130,36 +154,12 @@
     },
     {
       "title": "Welcome Thread - v387",
-      "hot": "❤️ 55 💬 163",
+      "hot": "❤️ 57 💬 169",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
       "url": "https://dev.to/devteam/welcome-thread-v387-1iej"
-    },
-    {
-      "title": "Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)",
-      "hot": "❤️ 7 💬 0",
-      "desc": "Summary of 2026 Updates (v2 — Python ADK 2.0 Migration)   This updated edition incorporates...",
-      "source": "dev",
-      "tag": "python,  ai",
-      "url": "https://dev.to/gde/building-ai-agents-with-the-python-agent-development-kit-adk-2026-edition-v2-32hf"
-    },
-    {
-      "title": "Building AI Agents with the GO Agent Development Kit (ADK) — 2026 Edition (v2)",
-      "hot": "❤️ 7 💬 0",
-      "desc": "Summary of 2026 Updates (v2 — Go ADK 2.0 Migration)   This updated edition incorporates...",
-      "source": "dev",
-      "tag": "go,  adk",
-      "url": "https://dev.to/gde/building-ai-agents-with-the-go-agent-development-kit-adk-2026-edition-v2-4n55"
-    },
-    {
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 51 💬 26",
-      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
-      "source": "dev",
-      "tag": "top7,  discuss",
-      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4pk2"
     }
   ],
-  "updatedAt": "2026-08-07T14:42:28.238Z"
+  "updatedAt": "2026-08-07T15:40:00.299Z"
 }
