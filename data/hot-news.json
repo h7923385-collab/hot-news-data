@@ -1,215 +1,37 @@
 {
-  "updatedAt": "2026-08-08T06:27:33.359Z",
+  "updatedAt": "2026-08-08T07:27:25.714Z",
   "source": "live",
-  "dev": [
-    {
-      "title": "What was your win this week?",
-      "hot": "❤️ 21 💬 10",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "weeklyretro,  discuss",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-3n23"
-    },
-    {
-      "title": "Agent Sandboxes: Giving AI Agents Their Own Little Linux Box (And Why You Should Care)",
-      "hot": "❤️ 9 💬 2",
-      "desc": "Sourced from: GKE Agent Sandbox docs, kubernetes-sigs/agent-sandbox       So here is the thing. We...",
-      "source": "dev",
-      "tag": "ai,  kubernetes",
-      "url": "https://dev.to/gde/agent-sandboxes-giving-ai-agents-their-own-little-linux-box-and-why-you-should-care-jl4"
-    },
-    {
-      "title": "linkedSignal() Writes Back: A Trace Through the Reactive Graph 🔍🚀",
-      "hot": "❤️ 12 💬 0",
-      "desc": "Let's be honest: linkedSignal() always had a bit of a split personality. It read beautifully from...",
-      "source": "dev",
-      "tag": "angular,  typescript",
-      "url": "https://dev.to/gdg/linkedsignal-writes-back-a-trace-through-the-reactive-graph-37o7"
-    },
-    {
-      "title": "Build Hybrid Image Analysis Application with Angular, Firebase AI Logic, and Gemini Nano [GDE]",
-      "hot": "❤️ 5 💬 0",
-      "desc": "This tutorial demonstrates how to build a hybrid image analysis application using Angular, Firebase...",
-      "source": "dev",
-      "tag": "angular,  firebase",
-      "url": "https://dev.to/gde/build-hybrid-image-analysis-application-with-angular-firebase-ai-logic-and-gemini-nano-1ipl"
-    },
-    {
-      "title": "Serving Gemma 4 2B on a Single TPU v5e Chip with MCP and Antigravity CLI",
-      "hot": "❤️ 9 💬 0",
-      "desc": "This article is the v5e follow-on to the v6e-1 debugging guide. Same MCP tooling, same Antigravity...",
-      "source": "dev",
-      "tag": "antigravitycli,  python",
-      "url": "https://dev.to/gde/serving-gemma-4-2b-on-a-single-tpu-v5e-chip-with-mcp-and-antigravity-cli-33l8"
-    },
-    {
-      "title": "Before the Quake: How Antigravity CLI's AI Agents & IoT Data Predict Earthquakes",
-      "hot": "❤️ 5 💬 0",
-      "desc": "Published Paper: Unification Theory of Lithosphere-Atmosphere-Ionosphere Coupling via...",
-      "source": "dev",
-      "tag": "ai,  gemini",
-      "url": "https://dev.to/gde/before-the-quake-how-antigravity-clis-ai-agents-iot-data-predict-earthquakes-34if"
-    },
-    {
-      "title": "Kiro Crew: The Next Frontier",
-      "hot": "❤️ 5 💬 0",
-      "desc": "I enter the bridge of my ship, the Kiro Enterprise. I see my crew ready for my command.  The agent...",
-      "source": "dev",
-      "tag": "ai,  agents",
-      "url": "https://dev.to/kirodotdev/kiro-crew-the-next-frontier-52h"
-    },
-    {
-      "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
-      "hot": "❤️ 9 💬 0",
-      "desc": "This article explains how to build and test a cross-cloud currency agent. An Amazon Bedrock master...",
-      "source": "dev",
-      "tag": "agents,  googleadk",
-      "url": "https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b"
-    },
-    {
-      "title": "How to Build a Local AI Workspace Like PewDiePie's Odysseus: Hardware, Models, and Cost",
-      "hot": "❤️ 2 💬 0",
-      "desc": "A practical, source-backed guide to building a local AI workspace like PewDiePie's Odysseus, including VRAM tiers, reali",
-      "source": "dev",
-      "tag": "ai,  opensource",
-      "url": "https://dev.to/jenueldev/how-to-build-a-local-ai-workspace-like-pewdiepies-odysseus-hardware-models-and-cost-3egh"
-    },
-    {
-      "title": "Switching Tracks in BlocSignal: The Universal State Switchyard for BLoC, Riverpod, and Provider",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Stop derailing your Flutter apps! Learn how BlocSignal acts as a central railway switchyard bridging BLoC, Riverpod, and",
-      "source": "dev",
-      "tag": "flutter,  dart",
-      "url": "https://dev.to/gde/switching-tracks-in-blocsignal-the-universal-state-switchyard-for-bloc-riverpod-and-provider-929"
-    },
-    {
-      "title": "General Challenge Updates Moving Forward",
-      "hot": "❤️ 31 💬 1",
-      "desc": "Hey all, as part of our expanding challenge program we want to update and clarify some challenge...",
-      "source": "dev",
-      "tag": "devchallenge",
-      "url": "https://dev.to/thepracticaldev/general-challenge-updates-moving-forward-5h39"
-    },
-    {
-      "title": "Google's AI tools for developers and enterprise, and when to actually reach for each",
-      "hot": "❤️ 7 💬 0",
-      "desc": "Beyond the consumer surfaces most people know, the Gemini app and Gemini Notebook (formerly...",
-      "source": "dev",
-      "tag": "ai,  google",
-      "url": "https://dev.to/gde/googles-ai-tools-for-developers-and-enterprise-and-when-to-actually-reach-for-each-5816"
-    },
-    {
-      "title": "Passkeys Explained Simply",
-      "hot": "❤️ 108 💬 32",
-      "desc": "You’ve probably seen that little prompt that says “Sign in with Face ID” or “Use a passkey” instead...",
-      "source": "dev",
-      "tag": "security,  api",
-      "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk"
-    },
-    {
-      "title": "Join our latest Frontend Challenge: Comfort Food Edition 🍲",
-      "hot": "❤️ 204 💬 70",
-      "desc": "We're back with another Frontend Challenge, and this time we're hungry! 🍜🥧  Running through August...",
-      "source": "dev",
-      "tag": "devchallenge,  frontendchallenge",
-      "url": "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0"
-    },
-    {
-      "title": "It Was Just a Patch Update. What Could Possibly Go Wrong?",
-      "hot": "❤️ 92 💬 42",
-      "desc": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.  You know those...",
-      "source": "dev",
-      "tag": "devchallenge,  bugsmash",
-      "url": "https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3"
-    },
-    {
-      "title": "Catbot: Custom Grammar Problem Fixed",
-      "hot": "❤️ 49 💬 16",
-      "desc": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.          ...",
-      "source": "dev",
-      "tag": "devchallenge,  bugsmash",
-      "url": "https://dev.to/annavi11arrea1/catbot-custom-grammar-problem-fixed-oc5"
-    },
-    {
-      "title": "What was your win this week?",
-      "hot": "❤️ 53 💬 51",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "discuss,  weeklyretro",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-1ed"
-    },
-    {
-      "title": "Exploring Form Management Patterns in Flutter with BlocSignal",
-      "hot": "❤️ 8 💬 0",
-      "desc": "Master form handling in Flutter with BlocSignal. Learn how to separate Primary vs. Derived state using computed signals,",
-      "source": "dev",
-      "tag": "flutter,  dart",
-      "url": "https://dev.to/gde/exploring-form-management-patterns-in-flutter-with-blocsignal-1c8j"
-    },
-    {
-      "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
-      "hot": "❤️ 53 💬 31",
-      "desc": "Every form I ever shipped before React 19 needed the same three pieces of state, and I wired them up...",
-      "source": "dev",
-      "tag": "react,  webdev",
-      "url": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd"
-    },
-    {
-      "title": "Building AI Agents with the TypeScript Agent Development Kit (ADK)",
-      "hot": "❤️ 8 💬 3",
-      "desc": "Build, test, and deploy AI agents using Google's native TypeScript Agent Development Kit (ADK), Gemini 2.5 Flash, and Cl",
-      "source": "dev",
-      "tag": "typescript,  ai",
-      "url": "https://dev.to/gde/building-ai-agents-with-the-typescript-agent-development-kit-adk-3mf"
-    }
-  ],
   "tech": [
     {
-      "title": "NASA to keep its 48-year-old Voyager 2 probe running for yet another year",
+      "title": "A Physicist Rigged His Pet Hamster’s Wheel to Upload to Strava",
       "hot": "3.0m",
-      "desc": "space.com",
+      "desc": "runnersworld.com",
       "source": "tech",
-      "tag": "⬆️ 169 points",
-      "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year"
-    },
-    {
-      "title": "The Nixpkgs core team has disbanded",
-      "hot": "3.0m",
-      "desc": "discourse.nixos.org",
-      "source": "tech",
-      "tag": "⬆️ 248 points",
-      "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413"
+      "tag": "⬆️ 122 points",
+      "url": "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/"
     },
     {
       "title": "DeepSeek V4 Flash 0731",
       "hot": "3.0m",
       "desc": "arcprize.org",
       "source": "tech",
-      "tag": "⬆️ 554 points",
+      "tag": "⬆️ 575 points",
       "url": "https://arcprize.org/results/deepseek-v4-flash-0731"
     },
     {
-      "title": "Physicist Rigged His Pet Hamster's Wheel to Strava. It Runs Far Every Night",
-      "hot": "3.0m",
-      "desc": "runnersworld.com",
-      "source": "tech",
-      "tag": "⬆️ 83 points",
-      "url": "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/"
-    },
-    {
       "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
-      "hot": "2.9m",
+      "hot": "3.0m",
       "desc": "genesisopenmodels.anl.gov",
       "source": "tech",
-      "tag": "⬆️ 189 points",
+      "tag": "⬆️ 205 points",
       "url": "https://genesisopenmodels.anl.gov/"
     },
     {
       "title": "Assembly Hall of Shame",
-      "hot": "2.9m",
+      "hot": "3.0m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 304 points",
+      "tag": "⬆️ 315 points",
       "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame"
     },
     {
@@ -217,112 +39,250 @@
       "hot": "2.9m",
       "desc": "noemamag.com",
       "source": "tech",
-      "tag": "⬆️ 539 points",
+      "tag": "⬆️ 569 points",
       "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/"
     },
     {
-      "title": "SupererDuperer",
+      "title": "NASA figured out how to keep its Voyager 2 probe running for another year",
       "hot": "2.9m",
-      "desc": "shirtpocket.com",
+      "desc": "space.com",
       "source": "tech",
-      "tag": "⬆️ 78 points",
-      "url": "https://www.shirtpocket.com/blog/supererduperer"
+      "tag": "⬆️ 196 points",
+      "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year"
     },
     {
       "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
       "hot": "2.9m",
       "desc": "ancientlibrary.net",
       "source": "tech",
-      "tag": "⬆️ 182 points",
+      "tag": "⬆️ 192 points",
       "url": "https://ancientlibrary.net/"
     },
     {
-      "title": "As a Windows user, it's a surreal way to install a program",
+      "title": "SupererDuperer",
       "hot": "2.9m",
-      "desc": "unsung.aresluna.org",
+      "desc": "shirtpocket.com",
       "source": "tech",
-      "tag": "⬆️ 65 points",
-      "url": "https://unsung.aresluna.org/as-a-windows-user-its-a-very-surreal-way-to-install-a-program/"
+      "tag": "⬆️ 82 points",
+      "url": "https://www.shirtpocket.com/blog/supererduperer"
+    },
+    {
+      "title": "The Nixpkgs core team has disbanded",
+      "hot": "2.9m",
+      "desc": "discourse.nixos.org",
+      "source": "tech",
+      "tag": "⬆️ 266 points",
+      "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413"
     },
     {
       "title": "Managing AI Coding Costs at Scale",
       "hot": "2.9m",
       "desc": "databricks.com",
       "source": "tech",
-      "tag": "⬆️ 210 points",
+      "tag": "⬆️ 217 points",
       "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale"
     },
     {
-      "title": "An all-sky map of half a million supermassive black holes",
-      "hot": "2.8m",
-      "desc": "sdss.org",
+      "title": "Workers Drilling in Romania Broke into a Cave Sealed for 5.5M Years",
+      "hot": "2.9m",
+      "desc": "travelandtannins.com",
       "source": "tech",
-      "tag": "⬆️ 158 points",
-      "url": "https://www.sdss.org/black-hole-mapper-release-20/"
+      "tag": "⬆️ 51 points",
+      "url": "https://travelandtannins.com/workers-drilling-in-romania-broke-into-a-cave-sealed-for-5-5-million-years-and-found-an-entire-living-world-that-has-never-seen-the-sun/"
     },
     {
       "title": "2027 memory capacity is reportedly sold out",
       "hot": "2.8m",
       "desc": "ign.com",
       "source": "tech",
-      "tag": "⬆️ 312 points",
+      "tag": "⬆️ 328 points",
       "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out"
     },
     {
-      "title": "Oracle bans AI-generated code from OpenJDK",
+      "title": "An all-sky map of half a million supermassive black holes",
       "hot": "2.8m",
-      "desc": "app.dealroom.co",
+      "desc": "sdss.org",
       "source": "tech",
-      "tag": "⬆️ 442 points",
-      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code"
+      "tag": "⬆️ 160 points",
+      "url": "https://www.sdss.org/black-hole-mapper-release-20/"
     },
     {
       "title": "Responding to the next frontier of critical cyber capabilities",
       "hot": "2.8m",
       "desc": "openai.com",
       "source": "tech",
-      "tag": "⬆️ 174 points",
+      "tag": "⬆️ 177 points",
       "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/"
+    },
+    {
+      "title": "Oracle bans AI-generated code from OpenJDK",
+      "hot": "2.8m",
+      "desc": "app.dealroom.co",
+      "source": "tech",
+      "tag": "⬆️ 448 points",
+      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code"
+    },
+    {
+      "title": "From One Seed to a Thousand Leaves – Merkle's Authentication Tree",
+      "hot": "2.8m",
+      "desc": "0xkrt26.github.io",
+      "source": "tech",
+      "tag": "⬆️ 8 points",
+      "url": "https://0xkrt26.github.io/math_behind_security/2026/08/03/merkle-tree.html"
     },
     {
       "title": "Carl's Required Reading",
       "hot": "2.8m",
       "desc": "carlkolon.com",
       "source": "tech",
-      "tag": "⬆️ 141 points",
+      "tag": "⬆️ 149 points",
       "url": "https://carlkolon.com/reading/"
     },
     {
-      "title": "Workers Drilling in Romania Broke into a Cave Sealed for 5.5M Years",
-      "hot": "2.8m",
-      "desc": "travelandtannins.com",
+      "title": "As a Windows user, it's a surreal way to install a program",
+      "hot": "2.7m",
+      "desc": "unsung.aresluna.org",
       "source": "tech",
-      "tag": "⬆️ 37 points",
-      "url": "https://travelandtannins.com/workers-drilling-in-romania-broke-into-a-cave-sealed-for-5-5-million-years-and-found-an-entire-living-world-that-has-never-seen-the-sun/"
+      "tag": "⬆️ 108 points",
+      "url": "https://unsung.aresluna.org/as-a-windows-user-its-a-very-surreal-way-to-install-a-program/"
     },
     {
-      "title": "Mythos social engineering AISI INC-2026-07-28-01",
+      "title": "Radical Study Suggests Life on Earth Arose Twice",
       "hot": "2.7m",
-      "desc": "web.archive.org",
+      "desc": "sciencealert.com",
       "source": "tech",
-      "tag": "⬆️ 42 points",
-      "url": "https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3"
+      "tag": "⬆️ 135 points",
+      "url": "https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice"
     },
     {
       "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
       "hot": "2.7m",
       "desc": "malisper.me",
       "source": "tech",
-      "tag": "⬆️ 268 points",
+      "tag": "⬆️ 274 points",
       "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/"
+    }
+  ],
+  "github": [
+    {
+      "title": "firecrawl/anydoc: Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV,",
+      "hot": "⭐ 11.4k",
+      "desc": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/firecrawl/anydoc"
     },
     {
-      "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
-      "hot": "2.7m",
-      "desc": "theregister.com",
-      "source": "tech",
-      "tag": "⬆️ 171 points",
-      "url": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070"
+      "title": "FareedKhan-dev/kimi-k3-in-c: A 2.78-trillion-parameter Kimi K3 running inference",
+      "hot": "⭐ 3.4k",
+      "desc": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+      "source": "github",
+      "tag": "C",
+      "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c"
+    },
+    {
+      "title": "imsai-sh/zhuzhiliao: 竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
+      "hot": "⭐ 2.5k",
+      "desc": "竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
+      "source": "github",
+      "tag": "HTML",
+      "url": "https://github.com/imsai-sh/zhuzhiliao"
+    },
+    {
+      "title": "thebuggeddev/anatomy: An interactive 3D human anatomy explorer built using three",
+      "hot": "⭐ 2.0k",
+      "desc": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/thebuggeddev/anatomy"
+    },
+    {
+      "title": "KKKKhazix/human-writing: 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
+      "hot": "⭐ 1.9k",
+      "desc": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/KKKKhazix/human-writing"
+    },
+    {
+      "title": "DannyMac180/sol-advisor: Codex-native architect orchestration with Luna and Terr",
+      "hot": "⭐ 1.8k",
+      "desc": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/DannyMac180/sol-advisor"
+    },
+    {
+      "title": "Binaryify/open-kimi-ppt-skill: 非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPT",
+      "hot": "⭐ 1.6k",
+      "desc": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/Binaryify/open-kimi-ppt-skill"
+    },
+    {
+      "title": "ZzzLc0405/photo-abstract-editorial: ",
+      "hot": "⭐ 1.5k",
+      "desc": "ZzzLc0405/photo-abstract-editorial",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/ZzzLc0405/photo-abstract-editorial"
+    },
+    {
+      "title": "Zeejay0/gathered-scenes-zine-skill: ",
+      "hot": "⭐ 1.0k",
+      "desc": "Zeejay0/gathered-scenes-zine-skill",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/Zeejay0/gathered-scenes-zine-skill"
+    },
+    {
+      "title": "Accio-org/RealReplicaBench: RealReplicaBench: Benchmarking Long-Horizon Agents i",
+      "hot": "⭐ 1.0k",
+      "desc": "RealReplicaBench: Benchmarking Long-Horizon Agents in High-Fidelity, Stateful, and Reproducible Replicas of Real Online Services",
+      "source": "github",
+      "tag": "HTML",
+      "url": "https://github.com/Accio-org/RealReplicaBench"
+    },
+    {
+      "title": "x4gKing/3x-ui-multi: ",
+      "hot": "⭐ 926",
+      "desc": "x4gKing/3x-ui-multi",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/x4gKing/3x-ui-multi"
+    },
+    {
+      "title": "guillermolg00/morphicons: Any icon morphs into any other — universal morphing fo",
+      "hot": "⭐ 874",
+      "desc": "Any icon morphs into any other — universal morphing for stroke-based icons with spring physics. Zero dependencies, ~7 KB gzip.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/guillermolg00/morphicons"
+    },
+    {
+      "title": "mikiarlo3/awesome-growth-hacking-skills: Find agentic growth hacking skills for ",
+      "hot": "⭐ 733",
+      "desc": "Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot",
+      "source": "github",
+      "tag": "Shell",
+      "url": "https://github.com/mikiarlo3/awesome-growth-hacking-skills"
+    },
+    {
+      "title": "magicrew/doc7: Turn documents into AI-ready Markdown with visual understanding",
+      "hot": "⭐ 717",
+      "desc": "Turn documents into AI-ready Markdown with visual understanding",
+      "source": "github",
+      "tag": "Go",
+      "url": "https://github.com/magicrew/doc7"
+    },
+    {
+      "title": "sophiamyang/finger-frame-effect-ai: ",
+      "hot": "⭐ 611",
+      "desc": "sophiamyang/finger-frame-effect-ai",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/sophiamyang/finger-frame-effect-ai"
     }
   ],
   "space": [
@@ -447,126 +407,166 @@
       "url": "https://europeanspaceflight.com/asi-board-resigns-to-allow-for-the-appointment-of-an-extraordinary-commissioner/"
     }
   ],
-  "github": [
+  "dev": [
     {
-      "title": "firecrawl/anydoc: Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV,",
-      "hot": "⭐ 11.4k",
-      "desc": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/firecrawl/anydoc"
+      "title": "What was your win this week?",
+      "hot": "❤️ 21 💬 10",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "weeklyretro,  discuss",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-3n23"
     },
     {
-      "title": "FareedKhan-dev/kimi-k3-in-c: A 2.78-trillion-parameter Kimi K3 running inference",
-      "hot": "⭐ 3.4k",
-      "desc": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
-      "source": "github",
-      "tag": "C",
-      "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c"
+      "title": "Agent Sandboxes: Giving AI Agents Their Own Little Linux Box (And Why You Should Care)",
+      "hot": "❤️ 9 💬 3",
+      "desc": "Sourced from: GKE Agent Sandbox docs, kubernetes-sigs/agent-sandbox       So here is the thing. We...",
+      "source": "dev",
+      "tag": "ai,  kubernetes",
+      "url": "https://dev.to/gde/agent-sandboxes-giving-ai-agents-their-own-little-linux-box-and-why-you-should-care-jl4"
     },
     {
-      "title": "imsai-sh/zhuzhiliao: 竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
-      "hot": "⭐ 2.5k",
-      "desc": "竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
-      "source": "github",
-      "tag": "HTML",
-      "url": "https://github.com/imsai-sh/zhuzhiliao"
+      "title": "linkedSignal() Writes Back: A Trace Through the Reactive Graph 🔍🚀",
+      "hot": "❤️ 12 💬 0",
+      "desc": "Let's be honest: linkedSignal() always had a bit of a split personality. It read beautifully from...",
+      "source": "dev",
+      "tag": "angular,  typescript",
+      "url": "https://dev.to/gdg/linkedsignal-writes-back-a-trace-through-the-reactive-graph-37o7"
     },
     {
-      "title": "thebuggeddev/anatomy: An interactive 3D human anatomy explorer built using three",
-      "hot": "⭐ 2.0k",
-      "desc": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/thebuggeddev/anatomy"
+      "title": "Build Hybrid Image Analysis Application with Angular, Firebase AI Logic, and Gemini Nano [GDE]",
+      "hot": "❤️ 5 💬 0",
+      "desc": "This tutorial demonstrates how to build a hybrid image analysis application using Angular, Firebase...",
+      "source": "dev",
+      "tag": "angular,  firebase",
+      "url": "https://dev.to/gde/build-hybrid-image-analysis-application-with-angular-firebase-ai-logic-and-gemini-nano-1ipl"
     },
     {
-      "title": "KKKKhazix/human-writing: 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
-      "hot": "⭐ 1.9k",
-      "desc": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/KKKKhazix/human-writing"
+      "title": "Serving Gemma 4 2B on a Single TPU v5e Chip with MCP and Antigravity CLI",
+      "hot": "❤️ 9 💬 0",
+      "desc": "This article is the v5e follow-on to the v6e-1 debugging guide. Same MCP tooling, same Antigravity...",
+      "source": "dev",
+      "tag": "antigravitycli,  python",
+      "url": "https://dev.to/gde/serving-gemma-4-2b-on-a-single-tpu-v5e-chip-with-mcp-and-antigravity-cli-33l8"
     },
     {
-      "title": "DannyMac180/sol-advisor: Codex-native architect orchestration with Luna and Terr",
-      "hot": "⭐ 1.8k",
-      "desc": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/DannyMac180/sol-advisor"
+      "title": "Before the Quake: How Antigravity CLI's AI Agents & IoT Data Predict Earthquakes",
+      "hot": "❤️ 5 💬 0",
+      "desc": "Published Paper: Unification Theory of Lithosphere-Atmosphere-Ionosphere Coupling via...",
+      "source": "dev",
+      "tag": "ai,  gemini",
+      "url": "https://dev.to/gde/before-the-quake-how-antigravity-clis-ai-agents-iot-data-predict-earthquakes-34if"
     },
     {
-      "title": "Binaryify/open-kimi-ppt-skill: 非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPT",
-      "hot": "⭐ 1.6k",
-      "desc": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/Binaryify/open-kimi-ppt-skill"
+      "title": "Kiro Crew: The Next Frontier",
+      "hot": "❤️ 5 💬 0",
+      "desc": "I enter the bridge of my ship, the Kiro Enterprise. I see my crew ready for my command.  The agent...",
+      "source": "dev",
+      "tag": "ai,  agents",
+      "url": "https://dev.to/kirodotdev/kiro-crew-the-next-frontier-52h"
     },
     {
-      "title": "ZzzLc0405/photo-abstract-editorial: ",
-      "hot": "⭐ 1.5k",
-      "desc": "ZzzLc0405/photo-abstract-editorial",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/ZzzLc0405/photo-abstract-editorial"
+      "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
+      "hot": "❤️ 9 💬 0",
+      "desc": "This article explains how to build and test a cross-cloud currency agent. An Amazon Bedrock master...",
+      "source": "dev",
+      "tag": "agents,  googleadk",
+      "url": "https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b"
     },
     {
-      "title": "Accio-org/RealReplicaBench: RealReplicaBench: Benchmarking Long-Horizon Agents i",
-      "hot": "⭐ 1.0k",
-      "desc": "RealReplicaBench: Benchmarking Long-Horizon Agents in High-Fidelity, Stateful, and Reproducible Replicas of Real Online Services",
-      "source": "github",
-      "tag": "HTML",
-      "url": "https://github.com/Accio-org/RealReplicaBench"
+      "title": "How to Build a Local AI Workspace Like PewDiePie's Odysseus: Hardware, Models, and Cost",
+      "hot": "❤️ 2 💬 0",
+      "desc": "A practical, source-backed guide to building a local AI workspace like PewDiePie's Odysseus, including VRAM tiers, reali",
+      "source": "dev",
+      "tag": "ai,  opensource",
+      "url": "https://dev.to/jenueldev/how-to-build-a-local-ai-workspace-like-pewdiepies-odysseus-hardware-models-and-cost-3egh"
     },
     {
-      "title": "Zeejay0/gathered-scenes-zine-skill: ",
-      "hot": "⭐ 1.0k",
-      "desc": "Zeejay0/gathered-scenes-zine-skill",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/Zeejay0/gathered-scenes-zine-skill"
+      "title": "Switching Tracks in BlocSignal: The Universal State Switchyard for BLoC, Riverpod, and Provider",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Stop derailing your Flutter apps! Learn how BlocSignal acts as a central railway switchyard bridging BLoC, Riverpod, and",
+      "source": "dev",
+      "tag": "flutter,  dart",
+      "url": "https://dev.to/gde/switching-tracks-in-blocsignal-the-universal-state-switchyard-for-bloc-riverpod-and-provider-929"
     },
     {
-      "title": "x4gKing/3x-ui-multi: ",
-      "hot": "⭐ 923",
-      "desc": "x4gKing/3x-ui-multi",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/x4gKing/3x-ui-multi"
+      "title": "General Challenge Updates Moving Forward",
+      "hot": "❤️ 31 💬 1",
+      "desc": "Hey all, as part of our expanding challenge program we want to update and clarify some challenge...",
+      "source": "dev",
+      "tag": "devchallenge",
+      "url": "https://dev.to/thepracticaldev/general-challenge-updates-moving-forward-5h39"
     },
     {
-      "title": "guillermolg00/morphicons: Any icon morphs into any other — universal morphing fo",
-      "hot": "⭐ 866",
-      "desc": "Any icon morphs into any other — universal morphing for stroke-based icons with spring physics. Zero dependencies, ~7 KB gzip.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/guillermolg00/morphicons"
+      "title": "Passkeys Explained Simply",
+      "hot": "❤️ 108 💬 32",
+      "desc": "You’ve probably seen that little prompt that says “Sign in with Face ID” or “Use a passkey” instead...",
+      "source": "dev",
+      "tag": "security,  api",
+      "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk"
     },
     {
-      "title": "mikiarlo3/awesome-growth-hacking-skills: Find agentic growth hacking skills for ",
-      "hot": "⭐ 731",
-      "desc": "Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot",
-      "source": "github",
-      "tag": "Shell",
-      "url": "https://github.com/mikiarlo3/awesome-growth-hacking-skills"
+      "title": "Join our latest Frontend Challenge: Comfort Food Edition 🍲",
+      "hot": "❤️ 204 💬 70",
+      "desc": "We're back with another Frontend Challenge, and this time we're hungry! 🍜🥧  Running through August...",
+      "source": "dev",
+      "tag": "devchallenge,  frontendchallenge",
+      "url": "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0"
     },
     {
-      "title": "magicrew/doc7: Turn documents into AI-ready Markdown with visual understanding",
-      "hot": "⭐ 716",
-      "desc": "Turn documents into AI-ready Markdown with visual understanding",
-      "source": "github",
-      "tag": "Go",
-      "url": "https://github.com/magicrew/doc7"
+      "title": "It Was Just a Patch Update. What Could Possibly Go Wrong?",
+      "hot": "❤️ 92 💬 42",
+      "desc": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.  You know those...",
+      "source": "dev",
+      "tag": "devchallenge,  bugsmash",
+      "url": "https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3"
     },
     {
-      "title": "sophiamyang/finger-frame-effect-ai: ",
-      "hot": "⭐ 610",
-      "desc": "sophiamyang/finger-frame-effect-ai",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/sophiamyang/finger-frame-effect-ai"
+      "title": "Catbot: Custom Grammar Problem Fixed",
+      "hot": "❤️ 49 💬 16",
+      "desc": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.          ...",
+      "source": "dev",
+      "tag": "devchallenge,  bugsmash",
+      "url": "https://dev.to/annavi11arrea1/catbot-custom-grammar-problem-fixed-oc5"
+    },
+    {
+      "title": "What was your win this week?",
+      "hot": "❤️ 53 💬 51",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "discuss,  weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-1ed"
+    },
+    {
+      "title": "Exploring Form Management Patterns in Flutter with BlocSignal",
+      "hot": "❤️ 8 💬 0",
+      "desc": "Master form handling in Flutter with BlocSignal. Learn how to separate Primary vs. Derived state using computed signals,",
+      "source": "dev",
+      "tag": "flutter,  dart",
+      "url": "https://dev.to/gde/exploring-form-management-patterns-in-flutter-with-blocsignal-1c8j"
+    },
+    {
+      "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
+      "hot": "❤️ 53 💬 31",
+      "desc": "Every form I ever shipped before React 19 needed the same three pieces of state, and I wired them up...",
+      "source": "dev",
+      "tag": "react,  webdev",
+      "url": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd"
+    },
+    {
+      "title": "Building AI Agents with the TypeScript Agent Development Kit (ADK)",
+      "hot": "❤️ 8 💬 3",
+      "desc": "Build, test, and deploy AI agents using Google's native TypeScript Agent Development Kit (ADK), Gemini 2.5 Flash, and Cl",
+      "source": "dev",
+      "tag": "typescript,  ai",
+      "url": "https://dev.to/gde/building-ai-agents-with-the-typescript-agent-development-kit-adk-3mf"
+    },
+    {
+      "title": "Welcome Thread - v387",
+      "hot": "❤️ 69 💬 199",
+      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
+      "source": "dev",
+      "tag": "welcome",
+      "url": "https://dev.to/devteam/welcome-thread-v387-1iej"
     }
   ]
 }
