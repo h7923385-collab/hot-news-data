@@ -1,175 +1,21 @@
 {
-  "updatedAt": "2026-08-08T18:16:38.892Z",
+  "updatedAt": "2026-08-08T19:04:33.040Z",
   "source": "live",
-  "dev": [
-    {
-      "title": "Agent Sandboxes: Giving AI Agents Their Own Little Linux Box (And Why You Should Care)",
-      "hot": "❤️ 9 💬 3",
-      "desc": "Sourced from: GKE Agent Sandbox docs, kubernetes-sigs/agent-sandbox       So here is the thing. We...",
-      "source": "dev",
-      "tag": "ai,  kubernetes",
-      "url": "https://dev.to/gde/agent-sandboxes-giving-ai-agents-their-own-little-linux-box-and-why-you-should-care-jl4"
-    },
-    {
-      "title": "linkedSignal() Writes Back: A Trace Through the Reactive Graph 🔍🚀",
-      "hot": "❤️ 12 💬 0",
-      "desc": "Let's be honest: linkedSignal() always had a bit of a split personality. It read beautifully from...",
-      "source": "dev",
-      "tag": "angular,  typescript",
-      "url": "https://dev.to/gdg/linkedsignal-writes-back-a-trace-through-the-reactive-graph-37o7"
-    },
-    {
-      "title": "What was your win this week?",
-      "hot": "❤️ 22 💬 12",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "weeklyretro,  discuss",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-3n23"
-    },
-    {
-      "title": "Serving Gemma 4 2B on a Single TPU v5e Chip with MCP and Antigravity CLI",
-      "hot": "❤️ 9 💬 0",
-      "desc": "This article is the v5e follow-on to the v6e-1 debugging guide. Same MCP tooling, same Antigravity...",
-      "source": "dev",
-      "tag": "antigravitycli,  python",
-      "url": "https://dev.to/gde/serving-gemma-4-2b-on-a-single-tpu-v5e-chip-with-mcp-and-antigravity-cli-33l8"
-    },
-    {
-      "title": "Build Hybrid Image Analysis Application with Angular, Firebase AI Logic, and Gemini Nano [GDE]",
-      "hot": "❤️ 6 💬 0",
-      "desc": "This tutorial demonstrates how to build a hybrid image analysis application using Angular, Firebase...",
-      "source": "dev",
-      "tag": "angular,  firebase",
-      "url": "https://dev.to/gde/build-hybrid-image-analysis-application-with-angular-firebase-ai-logic-and-gemini-nano-1ipl"
-    },
-    {
-      "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
-      "hot": "❤️ 9 💬 0",
-      "desc": "This article explains how to build and test a cross-cloud currency agent. An Amazon Bedrock master...",
-      "source": "dev",
-      "tag": "agents,  googleadk",
-      "url": "https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b"
-    },
-    {
-      "title": "How to Build a Local AI Workspace Like PewDiePie's Odysseus: Hardware, Models, and Cost",
-      "hot": "❤️ 2 💬 0",
-      "desc": "A practical, source-backed guide to building a local AI workspace like PewDiePie's Odysseus, including VRAM tiers, reali",
-      "source": "dev",
-      "tag": "ai,  opensource",
-      "url": "https://dev.to/jenueldev/how-to-build-a-local-ai-workspace-like-pewdiepies-odysseus-hardware-models-and-cost-3egh"
-    },
-    {
-      "title": "Switching Tracks in BlocSignal: The Universal State Switchyard for BLoC, Riverpod, and Provider",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Stop derailing your Flutter apps! Learn how BlocSignal acts as a central railway switchyard bridging BLoC, Riverpod, and",
-      "source": "dev",
-      "tag": "flutter,  dart",
-      "url": "https://dev.to/gde/switching-tracks-in-blocsignal-the-universal-state-switchyard-for-bloc-riverpod-and-provider-929"
-    },
-    {
-      "title": "General Challenge Updates Moving Forward",
-      "hot": "❤️ 32 💬 1",
-      "desc": "Hey all, as part of our expanding challenge program we want to update and clarify some challenge...",
-      "source": "dev",
-      "tag": "devchallenge",
-      "url": "https://dev.to/thepracticaldev/general-challenge-updates-moving-forward-5h39"
-    },
-    {
-      "title": "Passkeys Explained Simply",
-      "hot": "❤️ 108 💬 32",
-      "desc": "You’ve probably seen that little prompt that says “Sign in with Face ID” or “Use a passkey” instead...",
-      "source": "dev",
-      "tag": "security,  api",
-      "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk"
-    },
-    {
-      "title": "Before the Quake: How Antigravity CLI's AI Agents & IoT Data Predict Earthquakes",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Published Paper: Unification Theory of Lithosphere-Atmosphere-Ionosphere Coupling via...",
-      "source": "dev",
-      "tag": "ai,  gemini",
-      "url": "https://dev.to/gde/before-the-quake-how-antigravity-clis-ai-agents-iot-data-predict-earthquakes-34if"
-    },
-    {
-      "title": "Join our latest Frontend Challenge: Comfort Food Edition 🍲",
-      "hot": "❤️ 207 💬 71",
-      "desc": "We're back with another Frontend Challenge, and this time we're hungry! 🍜🥧  Running through August...",
-      "source": "dev",
-      "tag": "devchallenge,  frontendchallenge",
-      "url": "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0"
-    },
-    {
-      "title": "It Was Just a Patch Update. What Could Possibly Go Wrong?",
-      "hot": "❤️ 92 💬 42",
-      "desc": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.  You know those...",
-      "source": "dev",
-      "tag": "devchallenge,  bugsmash",
-      "url": "https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3"
-    },
-    {
-      "title": "Catbot: Custom Grammar Problem Fixed",
-      "hot": "❤️ 50 💬 17",
-      "desc": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.          ...",
-      "source": "dev",
-      "tag": "devchallenge,  bugsmash",
-      "url": "https://dev.to/annavi11arrea1/catbot-custom-grammar-problem-fixed-oc5"
-    },
-    {
-      "title": "What was your win this week?",
-      "hot": "❤️ 53 💬 51",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "discuss,  weeklyretro",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-1ed"
-    },
-    {
-      "title": "Exploring Form Management Patterns in Flutter with BlocSignal",
-      "hot": "❤️ 8 💬 0",
-      "desc": "Master form handling in Flutter with BlocSignal. Learn how to separate Primary vs. Derived state using computed signals,",
-      "source": "dev",
-      "tag": "flutter,  dart",
-      "url": "https://dev.to/gde/exploring-form-management-patterns-in-flutter-with-blocsignal-1c8j"
-    },
-    {
-      "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
-      "hot": "❤️ 53 💬 31",
-      "desc": "Every form I ever shipped before React 19 needed the same three pieces of state, and I wired them up...",
-      "source": "dev",
-      "tag": "react,  webdev",
-      "url": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd"
-    },
-    {
-      "title": "Building AI Agents with the TypeScript Agent Development Kit (ADK)",
-      "hot": "❤️ 8 💬 3",
-      "desc": "Build, test, and deploy AI agents using Google's native TypeScript Agent Development Kit (ADK), Gemini 2.5 Flash, and Cl",
-      "source": "dev",
-      "tag": "typescript,  ai",
-      "url": "https://dev.to/gde/building-ai-agents-with-the-typescript-agent-development-kit-adk-3mf"
-    },
-    {
-      "title": "Welcome Thread - v387",
-      "hot": "❤️ 71 💬 233",
-      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
-      "source": "dev",
-      "tag": "welcome",
-      "url": "https://dev.to/devteam/welcome-thread-v387-1iej"
-    },
-    {
-      "title": "Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)",
-      "hot": "❤️ 7 💬 0",
-      "desc": "Summary of 2026 Updates (v2 — Python ADK 2.0 Migration)   This updated edition incorporates...",
-      "source": "dev",
-      "tag": "python,  ai",
-      "url": "https://dev.to/gde/building-ai-agents-with-the-python-agent-development-kit-adk-2026-edition-v2-32hf"
-    }
-  ],
   "tech": [
+    {
+      "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+      "hot": "3.0m",
+      "desc": "mezha.net",
+      "source": "tech",
+      "tag": "⬆️ 88 points",
+      "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/"
+    },
     {
       "title": "Fastmail offers EU data region",
       "hot": "3.0m",
       "desc": "fastmail.com",
       "source": "tech",
-      "tag": "⬆️ 89 points",
+      "tag": "⬆️ 129 points",
       "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/"
     },
     {
@@ -177,7 +23,7 @@
       "hot": "3.0m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 38 points",
+      "tag": "⬆️ 68 points",
       "url": "https://github.com/andrewpollack/linkedin-feed-blocker"
     },
     {
@@ -185,71 +31,103 @@
       "hot": "3.0m",
       "desc": "specification.website",
       "source": "tech",
-      "tag": "⬆️ 215 points",
+      "tag": "⬆️ 233 points",
       "url": "https://specification.website/spec/foundations/for-sale-dns/"
-    },
-    {
-      "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
-      "hot": "3.0m",
-      "desc": "deepmind.google",
-      "source": "tech",
-      "tag": "⬆️ 291 points",
-      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/"
     },
     {
       "title": "\"Code was never the hard part\" is an insult to all programmers",
       "hot": "2.9m",
       "desc": "blog.senko.net",
       "source": "tech",
-      "tag": "⬆️ 50 points",
+      "tag": "⬆️ 140 points",
       "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers"
+    },
+    {
+      "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
+      "hot": "2.9m",
+      "desc": "deepmind.google",
+      "source": "tech",
+      "tag": "⬆️ 304 points",
+      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/"
     },
     {
       "title": "Timeline of the OpenAI accidental attack against Hugging Face",
       "hot": "2.9m",
       "desc": "simonwillison.net",
       "source": "tech",
-      "tag": "⬆️ 199 points",
+      "tag": "⬆️ 222 points",
       "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/"
-    },
-    {
-      "title": "Gateway 2000's hilariously bad ads in the 90s (Part II)",
-      "hot": "2.9m",
-      "desc": "buttondown.com",
-      "source": "tech",
-      "tag": "⬆️ 63 points",
-      "url": "https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/"
     },
     {
       "title": "Triton: DirectX 11 Driver for QEMU",
       "hot": "2.9m",
       "desc": "blog.getutm.app",
       "source": "tech",
-      "tag": "⬆️ 64 points",
+      "tag": "⬆️ 83 points",
       "url": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/"
+    },
+    {
+      "title": "Can Intel finally beat ARM on performance per Watt?",
+      "hot": "2.9m",
+      "desc": "hackaday.com",
+      "source": "tech",
+      "tag": "⬆️ 33 points",
+      "url": "https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/"
+    },
+    {
+      "title": "Gateway 2000's hilariously bad ads in the 90s (Part II)",
+      "hot": "2.9m",
+      "desc": "buttondown.com",
+      "source": "tech",
+      "tag": "⬆️ 66 points",
+      "url": "https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/"
     },
     {
       "title": "Voyager 1 FDS Computer Emulator",
       "hot": "2.9m",
       "desc": "zaneham.github.io",
       "source": "tech",
-      "tag": "⬆️ 50 points",
+      "tag": "⬆️ 54 points",
       "url": "https://zaneham.github.io/voyager-fds-emulator/"
     },
     {
+      "title": "TinySol, a tiny solitaire game for DOS",
+      "hot": "2.8m",
+      "desc": "classicbits.net",
+      "source": "tech",
+      "tag": "⬆️ 6 points",
+      "url": "https://classicbits.net/coding-and-software/my-software/monosol/"
+    },
+    {
       "title": "US Military's cyber command unit grapples with cluster of deaths by suicide",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "bloomberg.com",
       "source": "tech",
-      "tag": "⬆️ 126 points",
+      "tag": "⬆️ 135 points",
       "url": "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide"
     },
     {
+      "title": "Monitors for Work",
+      "hot": "2.8m",
+      "desc": "etbe.coker.com.au",
+      "source": "tech",
+      "tag": "⬆️ 29 points",
+      "url": "https://etbe.coker.com.au/2026/08/05/monitors-for-work/"
+    },
+    {
+      "title": "Python string literals are kinda funny",
+      "hot": "2.8m",
+      "desc": "sebsite.pw",
+      "source": "tech",
+      "tag": "⬆️ 10 points",
+      "url": "https://sebsite.pw/w/20260806-pystrings.html"
+    },
+    {
       "title": "BYOC Is Not Just 'Deploy into Their Cloud'",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "omnistrate.com",
       "source": "tech",
-      "tag": "⬆️ 45 points",
+      "tag": "⬆️ 50 points",
       "url": "https://omnistrate.com/blog/byoc-anywhere-the-spectrum-of-bring-your-own-cloud-deployments"
     },
     {
@@ -257,72 +135,32 @@
       "hot": "2.8m",
       "desc": "runnersworld.com",
       "source": "tech",
-      "tag": "⬆️ 363 points",
+      "tag": "⬆️ 368 points",
       "url": "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/"
     },
     {
       "title": "From your doorbell to your home network",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "adepts.of0x.cc",
       "source": "tech",
-      "tag": "⬆️ 38 points",
+      "tag": "⬆️ 48 points",
       "url": "https://adepts.of0x.cc/eufy-doorbell-hacking/"
     },
     {
       "title": "Hardware backdoors in some x86 CPUs",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 277 points",
+      "tag": "⬆️ 283 points",
       "url": "https://github.com/xoreaxeaxeax/rosenbridge"
     },
     {
       "title": "DeepSeek V4 Flash 0731",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "arcprize.org",
       "source": "tech",
-      "tag": "⬆️ 726 points",
+      "tag": "⬆️ 732 points",
       "url": "https://arcprize.org/results/deepseek-v4-flash-0731"
-    },
-    {
-      "title": "Gentoo bugzilla closed due AI bot scraper overload",
-      "hot": "2.8m",
-      "desc": "social.treehouse.systems",
-      "source": "tech",
-      "tag": "⬆️ 104 points",
-      "url": "https://social.treehouse.systems/@mgorny/117058483039362779"
-    },
-    {
-      "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
-      "hot": "2.8m",
-      "desc": "genesisopenmodels.anl.gov",
-      "source": "tech",
-      "tag": "⬆️ 322 points",
-      "url": "https://genesisopenmodels.anl.gov/"
-    },
-    {
-      "title": "No one can afford to make Myst games anymore",
-      "hot": "2.7m",
-      "desc": "wired.com",
-      "source": "tech",
-      "tag": "⬆️ 64 points",
-      "url": "https://www.wired.com/story/no-one-can-afford-to-make-myst-games-anymore/"
-    },
-    {
-      "title": "What happens if an entire class of workers loses faith in their careers",
-      "hot": "2.7m",
-      "desc": "noemamag.com",
-      "source": "tech",
-      "tag": "⬆️ 890 points",
-      "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/"
-    },
-    {
-      "title": "Monitors for Work",
-      "hot": "2.7m",
-      "desc": "etbe.coker.com.au",
-      "source": "tech",
-      "tag": "⬆️ 16 points",
-      "url": "https://etbe.coker.com.au/2026/08/05/monitors-for-work/"
     }
   ],
   "space": [
@@ -530,7 +368,7 @@
     },
     {
       "title": "x4gKing/3x-ui-multi: ",
-      "hot": "⭐ 956",
+      "hot": "⭐ 958",
       "desc": "x4gKing/3x-ui-multi",
       "source": "github",
       "tag": "JavaScript",
@@ -538,7 +376,7 @@
     },
     {
       "title": "guillermolg00/morphicons: Any icon morphs into any other — universal morphing fo",
-      "hot": "⭐ 890",
+      "hot": "⭐ 892",
       "desc": "Any icon morphs into any other — universal morphing for stroke-based icons with spring physics. Zero dependencies, ~7 KB gzip.",
       "source": "github",
       "tag": "TypeScript",
@@ -546,7 +384,7 @@
     },
     {
       "title": "mikiarlo3/awesome-growth-hacking-skills: Find agentic growth hacking skills for ",
-      "hot": "⭐ 758",
+      "hot": "⭐ 760",
       "desc": "Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot",
       "source": "github",
       "tag": "Shell",
@@ -554,7 +392,7 @@
     },
     {
       "title": "magicrew/doc7: Turn documents into AI-ready Markdown with visual understanding",
-      "hot": "⭐ 723",
+      "hot": "⭐ 724",
       "desc": "Turn documents into AI-ready Markdown with visual understanding",
       "source": "github",
       "tag": "Go",
@@ -567,6 +405,168 @@
       "source": "github",
       "tag": "JavaScript",
       "url": "https://github.com/0xwilliamortiz/claude-red"
+    }
+  ],
+  "dev": [
+    {
+      "title": "Agent Sandboxes: Giving AI Agents Their Own Little Linux Box (And Why You Should Care)",
+      "hot": "❤️ 9 💬 3",
+      "desc": "Sourced from: GKE Agent Sandbox docs, kubernetes-sigs/agent-sandbox       So here is the thing. We...",
+      "source": "dev",
+      "tag": "ai,  kubernetes",
+      "url": "https://dev.to/gde/agent-sandboxes-giving-ai-agents-their-own-little-linux-box-and-why-you-should-care-jl4"
+    },
+    {
+      "title": "linkedSignal() Writes Back: A Trace Through the Reactive Graph 🔍🚀",
+      "hot": "❤️ 12 💬 0",
+      "desc": "Let's be honest: linkedSignal() always had a bit of a split personality. It read beautifully from...",
+      "source": "dev",
+      "tag": "angular,  typescript",
+      "url": "https://dev.to/gdg/linkedsignal-writes-back-a-trace-through-the-reactive-graph-37o7"
+    },
+    {
+      "title": "What was your win this week?",
+      "hot": "❤️ 22 💬 14",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "weeklyretro,  discuss",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-3n23"
+    },
+    {
+      "title": "Serving Gemma 4 2B on a Single TPU v5e Chip with MCP and Antigravity CLI",
+      "hot": "❤️ 9 💬 0",
+      "desc": "This article is the v5e follow-on to the v6e-1 debugging guide. Same MCP tooling, same Antigravity...",
+      "source": "dev",
+      "tag": "antigravitycli,  python",
+      "url": "https://dev.to/gde/serving-gemma-4-2b-on-a-single-tpu-v5e-chip-with-mcp-and-antigravity-cli-33l8"
+    },
+    {
+      "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
+      "hot": "❤️ 9 💬 0",
+      "desc": "This article explains how to build and test a cross-cloud currency agent. An Amazon Bedrock master...",
+      "source": "dev",
+      "tag": "agents,  googleadk",
+      "url": "https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b"
+    },
+    {
+      "title": "How to Build a Local AI Workspace Like PewDiePie's Odysseus: Hardware, Models, and Cost",
+      "hot": "❤️ 2 💬 0",
+      "desc": "A practical, source-backed guide to building a local AI workspace like PewDiePie's Odysseus, including VRAM tiers, reali",
+      "source": "dev",
+      "tag": "ai,  opensource",
+      "url": "https://dev.to/jenueldev/how-to-build-a-local-ai-workspace-like-pewdiepies-odysseus-hardware-models-and-cost-3egh"
+    },
+    {
+      "title": "Switching Tracks in BlocSignal: The Universal State Switchyard for BLoC, Riverpod, and Provider",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Stop derailing your Flutter apps! Learn how BlocSignal acts as a central railway switchyard bridging BLoC, Riverpod, and",
+      "source": "dev",
+      "tag": "flutter,  dart",
+      "url": "https://dev.to/gde/switching-tracks-in-blocsignal-the-universal-state-switchyard-for-bloc-riverpod-and-provider-929"
+    },
+    {
+      "title": "General Challenge Updates Moving Forward",
+      "hot": "❤️ 32 💬 1",
+      "desc": "Hey all, as part of our expanding challenge program we want to update and clarify some challenge...",
+      "source": "dev",
+      "tag": "devchallenge",
+      "url": "https://dev.to/thepracticaldev/general-challenge-updates-moving-forward-5h39"
+    },
+    {
+      "title": "Passkeys Explained Simply",
+      "hot": "❤️ 108 💬 32",
+      "desc": "You’ve probably seen that little prompt that says “Sign in with Face ID” or “Use a passkey” instead...",
+      "source": "dev",
+      "tag": "security,  api",
+      "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk"
+    },
+    {
+      "title": "Build Hybrid Image Analysis Application with Angular, Firebase AI Logic, and Gemini Nano [GDE]",
+      "hot": "❤️ 8 💬 0",
+      "desc": "This tutorial demonstrates how to build a hybrid image analysis application using Angular, Firebase...",
+      "source": "dev",
+      "tag": "angular,  firebase",
+      "url": "https://dev.to/gde/build-hybrid-image-analysis-application-with-angular-firebase-ai-logic-and-gemini-nano-1ipl"
+    },
+    {
+      "title": "Before the Quake: How Antigravity CLI's AI Agents & IoT Data Predict Earthquakes",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Published Paper: Unification Theory of Lithosphere-Atmosphere-Ionosphere Coupling via...",
+      "source": "dev",
+      "tag": "ai,  gemini",
+      "url": "https://dev.to/gde/before-the-quake-how-antigravity-clis-ai-agents-iot-data-predict-earthquakes-34if"
+    },
+    {
+      "title": "Join our latest Frontend Challenge: Comfort Food Edition 🍲",
+      "hot": "❤️ 208 💬 71",
+      "desc": "We're back with another Frontend Challenge, and this time we're hungry! 🍜🥧  Running through August...",
+      "source": "dev",
+      "tag": "devchallenge,  frontendchallenge",
+      "url": "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0"
+    },
+    {
+      "title": "It Was Just a Patch Update. What Could Possibly Go Wrong?",
+      "hot": "❤️ 92 💬 42",
+      "desc": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.  You know those...",
+      "source": "dev",
+      "tag": "devchallenge,  bugsmash",
+      "url": "https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3"
+    },
+    {
+      "title": "Catbot: Custom Grammar Problem Fixed",
+      "hot": "❤️ 50 💬 17",
+      "desc": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.          ...",
+      "source": "dev",
+      "tag": "devchallenge,  bugsmash",
+      "url": "https://dev.to/annavi11arrea1/catbot-custom-grammar-problem-fixed-oc5"
+    },
+    {
+      "title": "What was your win this week?",
+      "hot": "❤️ 53 💬 51",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "discuss,  weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-1ed"
+    },
+    {
+      "title": "Exploring Form Management Patterns in Flutter with BlocSignal",
+      "hot": "❤️ 8 💬 0",
+      "desc": "Master form handling in Flutter with BlocSignal. Learn how to separate Primary vs. Derived state using computed signals,",
+      "source": "dev",
+      "tag": "flutter,  dart",
+      "url": "https://dev.to/gde/exploring-form-management-patterns-in-flutter-with-blocsignal-1c8j"
+    },
+    {
+      "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
+      "hot": "❤️ 53 💬 31",
+      "desc": "Every form I ever shipped before React 19 needed the same three pieces of state, and I wired them up...",
+      "source": "dev",
+      "tag": "react,  webdev",
+      "url": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd"
+    },
+    {
+      "title": "Building AI Agents with the TypeScript Agent Development Kit (ADK)",
+      "hot": "❤️ 8 💬 3",
+      "desc": "Build, test, and deploy AI agents using Google's native TypeScript Agent Development Kit (ADK), Gemini 2.5 Flash, and Cl",
+      "source": "dev",
+      "tag": "typescript,  ai",
+      "url": "https://dev.to/gde/building-ai-agents-with-the-typescript-agent-development-kit-adk-3mf"
+    },
+    {
+      "title": "Welcome Thread - v387",
+      "hot": "❤️ 73 💬 235",
+      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
+      "source": "dev",
+      "tag": "welcome",
+      "url": "https://dev.to/devteam/welcome-thread-v387-1iej"
+    },
+    {
+      "title": "Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)",
+      "hot": "❤️ 7 💬 0",
+      "desc": "Summary of 2026 Updates (v2 — Python ADK 2.0 Migration)   This updated edition incorporates...",
+      "source": "dev",
+      "tag": "python,  ai",
+      "url": "https://dev.to/gde/building-ai-agents-with-the-python-agent-development-kit-adk-2026-edition-v2-32hf"
     }
   ]
 }
