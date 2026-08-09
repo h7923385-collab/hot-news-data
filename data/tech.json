@@ -1,11 +1,19 @@
 {
   "data": [
     {
+      "title": "Mea Culpa – Dark Hours",
+      "hot": "3.0m",
+      "desc": "blog.terrygodier.com",
+      "source": "tech",
+      "tag": "⬆️ 40 points",
+      "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html"
+    },
+    {
       "title": "Reviving a four year old reMarkable 2",
       "hot": "3.0m",
       "desc": "oskrim.github.io",
       "source": "tech",
-      "tag": "⬆️ 32 points",
+      "tag": "⬆️ 54 points",
       "url": "https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html"
     },
     {
@@ -13,39 +21,15 @@
       "hot": "3.0m",
       "desc": "gukov.dev",
       "source": "tech",
-      "tag": "⬆️ 86 points",
+      "tag": "⬆️ 101 points",
       "url": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html"
     },
     {
-      "title": "Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
-      "hot": "3.0m",
-      "desc": "blog.n.ichol.ai",
-      "source": "tech",
-      "tag": "⬆️ 11 points",
-      "url": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model"
-    },
-    {
-      "title": "My server is a phone now",
-      "hot": "3.0m",
-      "desc": "seg6.space",
-      "source": "tech",
-      "tag": "⬆️ 391 points",
-      "url": "https://seg6.space/posts/phone-server/"
-    },
-    {
-      "title": "Microsoft Word for Windows 1.1a, Native X64 Port",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 105 points",
-      "url": "https://github.com/jmarshall23/msword"
-    },
-    {
       "title": "The Alpha 21264 CPU: NT's Greatest RISC (1998)",
-      "hot": "2.9m",
+      "hot": "3.0m",
       "desc": "halfhill.com",
       "source": "tech",
-      "tag": "⬆️ 26 points",
+      "tag": "⬆️ 35 points",
       "url": "https://halfhill.com/byte/1998-12_alpha.html"
     },
     {
@@ -53,113 +37,129 @@
       "hot": "2.9m",
       "desc": "practical.engineering",
       "source": "tech",
-      "tag": "⬆️ 50 points",
+      "tag": "⬆️ 68 points",
       "url": "https://practical.engineering/blog/2026/8/4/the-grid-that-doubles-the-strength-of-the-ground"
+    },
+    {
+      "title": "My server is a phone now",
+      "hot": "2.9m",
+      "desc": "seg6.space",
+      "source": "tech",
+      "tag": "⬆️ 400 points",
+      "url": "https://seg6.space/posts/phone-server/"
+    },
+    {
+      "title": "Microsoft Word for Windows 1.1a, Native X64 Port",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 108 points",
+      "url": "https://github.com/jmarshall23/msword"
     },
     {
       "title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
       "hot": "2.9m",
       "desc": "os8088.com",
       "source": "tech",
-      "tag": "⬆️ 203 points",
+      "tag": "⬆️ 209 points",
       "url": "https://os8088.com/"
     },
     {
-      "title": "Everything You Do Is Being Recorded",
+      "title": "Show HN: A Project Oberon System version running on RISC-V instead of RISC-5",
       "hot": "2.9m",
-      "desc": "theatlantic.com",
+      "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 64 points",
-      "url": "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/"
+      "tag": "⬆️ 9 points",
+      "url": "https://github.com/rochus-keller/OberonSystem/tree/op2-rv32"
     },
     {
-      "title": "You might want to build your WebApp in Canvas instead of HTML",
+      "title": "Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
       "hot": "2.9m",
-      "desc": "hivekit.io",
+      "desc": "blog.n.ichol.ai",
       "source": "tech",
-      "tag": "⬆️ 34 points",
-      "url": "https://hivekit.io/blog/why-you-might-want-to-build-your-webapp-in-canvas-instead-of-html/"
+      "tag": "⬆️ 23 points",
+      "url": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model"
     },
     {
-      "title": "Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
+      "title": "Uber SubmitQueue: a high-performance speculative merge queue",
       "hot": "2.9m",
-      "desc": "cnbc.com",
+      "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 13 points",
-      "url": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html"
-    },
-    {
-      "title": "Improving Heuristics for A* Pathfinding",
-      "hot": "2.8m",
-      "desc": "redblobgames.com",
-      "source": "tech",
-      "tag": "⬆️ 292 points",
-      "url": "https://www.redblobgames.com/pathfinding/heuristics/differential.html"
-    },
-    {
-      "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled",
-      "hot": "2.8m",
-      "desc": "shopify.engineering",
-      "source": "tech",
-      "tag": "⬆️ 255 points",
-      "url": "https://shopify.engineering/scaling-inventory-reservations"
+      "tag": "⬆️ 19 points",
+      "url": "https://github.com/uber/submitqueue/"
     },
     {
       "title": "Fastmail offers EU data region",
       "hot": "2.8m",
       "desc": "fastmail.com",
       "source": "tech",
-      "tag": "⬆️ 452 points",
+      "tag": "⬆️ 458 points",
       "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/"
     },
     {
-      "title": "Uber SubmitQueue: a high-performance speculative merge queue",
+      "title": "Improving Heuristics for A* Pathfinding",
       "hot": "2.8m",
-      "desc": "github.com",
+      "desc": "redblobgames.com",
       "source": "tech",
-      "tag": "⬆️ 13 points",
-      "url": "https://github.com/uber/submitqueue/"
+      "tag": "⬆️ 298 points",
+      "url": "https://www.redblobgames.com/pathfinding/heuristics/differential.html"
     },
     {
       "title": "Dithered QR Codes",
       "hot": "2.8m",
       "desc": "andrewt.net",
       "source": "tech",
-      "tag": "⬆️ 261 points",
+      "tag": "⬆️ 271 points",
       "url": "https://www.andrewt.net/dithered-qr-codes/wtf/"
     },
     {
-      "title": "Amazon circumvents Gilroy community vote for AI data center",
+      "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled",
       "hot": "2.8m",
-      "desc": "tomshardware.com",
+      "desc": "shopify.engineering",
       "source": "tech",
-      "tag": "⬆️ 17 points",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window"
+      "tag": "⬆️ 261 points",
+      "url": "https://shopify.engineering/scaling-inventory-reservations"
+    },
+    {
+      "title": "How to Survive in a Louisiana Swamp",
+      "hot": "2.8m",
+      "desc": "unherd.com",
+      "source": "tech",
+      "tag": "⬆️ 25 points",
+      "url": "https://unherd.com/2026/08/how-to-survive-on-a-louisiana-swamp/"
     },
     {
       "title": "Protopia",
-      "hot": "2.7m",
+      "hot": "2.8m",
       "desc": "kevinkelly.substack.com",
       "source": "tech",
-      "tag": "⬆️ 30 points",
+      "tag": "⬆️ 33 points",
       "url": "https://kevinkelly.substack.com/p/protopia"
-    },
-    {
-      "title": "The original URL for this prediction will no longer be available in 11 years (2011)",
-      "hot": "2.7m",
-      "desc": "longbets.org",
-      "source": "tech",
-      "tag": "⬆️ 170 points",
-      "url": "http://longbets.org/601/"
     },
     {
       "title": "_for-sale DNS records",
       "hot": "2.7m",
       "desc": "specification.website",
       "source": "tech",
-      "tag": "⬆️ 413 points",
+      "tag": "⬆️ 416 points",
       "url": "https://specification.website/spec/foundations/for-sale-dns/"
+    },
+    {
+      "title": "The original URL for this prediction will no longer be available in 11 years (2011)",
+      "hot": "2.7m",
+      "desc": "longbets.org",
+      "source": "tech",
+      "tag": "⬆️ 174 points",
+      "url": "http://longbets.org/601/"
+    },
+    {
+      "title": "Everything You Do Is Being Recorded",
+      "hot": "2.7m",
+      "desc": "theatlantic.com",
+      "source": "tech",
+      "tag": "⬆️ 79 points",
+      "url": "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/"
     }
   ],
-  "updatedAt": "2026-08-09T13:26:42.230Z"
+  "updatedAt": "2026-08-09T14:03:44.382Z"
 }
