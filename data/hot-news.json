@@ -1,271 +1,101 @@
 {
-  "updatedAt": "2026-08-10T10:53:01.046Z",
+  "updatedAt": "2026-08-10T11:38:18.676Z",
   "source": "live",
-  "dev": [
-    {
-      "title": "linkedSignal() Writes Back: A Trace Through the Reactive Graph 🔍🚀",
-      "hot": "❤️ 12 💬 0",
-      "desc": "Let's be honest: linkedSignal() always had a bit of a split personality. It read beautifully from...",
-      "source": "dev",
-      "tag": "angular,  typescript",
-      "url": "https://dev.to/gdg/linkedsignal-writes-back-a-trace-through-the-reactive-graph-37o7"
-    },
-    {
-      "title": "Serving Gemma 4 2B on a Single TPU v5e Chip with MCP and Antigravity CLI",
-      "hot": "❤️ 9 💬 0",
-      "desc": "This article is the v5e follow-on to the v6e-1 debugging guide. Same MCP tooling, same Antigravity...",
-      "source": "dev",
-      "tag": "antigravitycli,  python",
-      "url": "https://dev.to/gde/serving-gemma-4-2b-on-a-single-tpu-v5e-chip-with-mcp-and-antigravity-cli-33l8"
-    },
-    {
-      "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
-      "hot": "❤️ 9 💬 0",
-      "desc": "This article explains how to build and test a cross-cloud currency agent. An Amazon Bedrock master...",
-      "source": "dev",
-      "tag": "agents,  googleadk",
-      "url": "https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b"
-    },
-    {
-      "title": "What was your win this week?",
-      "hot": "❤️ 29 💬 20",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "weeklyretro,  discuss",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-3n23"
-    },
-    {
-      "title": "Passkeys Explained Simply",
-      "hot": "❤️ 109 💬 32",
-      "desc": "You’ve probably seen that little prompt that says “Sign in with Face ID” or “Use a passkey” instead...",
-      "source": "dev",
-      "tag": "security,  api",
-      "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk"
-    },
-    {
-      "title": "Build Hybrid Image Analysis Application with Angular, Firebase AI Logic, and Gemini Nano [GDE]",
-      "hot": "❤️ 8 💬 0",
-      "desc": "This tutorial demonstrates how to build a hybrid image analysis application using Angular, Firebase...",
-      "source": "dev",
-      "tag": "angular,  firebase",
-      "url": "https://dev.to/gde/build-hybrid-image-analysis-application-with-angular-firebase-ai-logic-and-gemini-nano-1ipl"
-    },
-    {
-      "title": "Join our latest Frontend Challenge: Comfort Food Edition 🍲",
-      "hot": "❤️ 217 💬 75",
-      "desc": "We're back with another Frontend Challenge, and this time we're hungry! 🍜🥧  Running through August...",
-      "source": "dev",
-      "tag": "devchallenge,  frontendchallenge",
-      "url": "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0"
-    },
-    {
-      "title": "Before the Quake: How Antigravity CLI's AI Agents & IoT Data Predict Earthquakes",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Published Paper: Unification Theory of Lithosphere-Atmosphere-Ionosphere Coupling via...",
-      "source": "dev",
-      "tag": "ai,  gemini",
-      "url": "https://dev.to/gde/before-the-quake-how-antigravity-clis-ai-agents-iot-data-predict-earthquakes-34if"
-    },
-    {
-      "title": "It Was Just a Patch Update. What Could Possibly Go Wrong?",
-      "hot": "❤️ 92 💬 42",
-      "desc": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.  You know those...",
-      "source": "dev",
-      "tag": "devchallenge,  bugsmash",
-      "url": "https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3"
-    },
-    {
-      "title": "Agent Sandboxes: Giving AI Agents Their Own Little Linux Box (And Why You Should Care)",
-      "hot": "❤️ 12 💬 3",
-      "desc": "Sourced from: GKE Agent Sandbox docs, kubernetes-sigs/agent-sandbox       So here is the thing. We...",
-      "source": "dev",
-      "tag": "ai,  kubernetes",
-      "url": "https://dev.to/gde/agent-sandboxes-giving-ai-agents-their-own-little-linux-box-and-why-you-should-care-jl4"
-    },
-    {
-      "title": "Catbot: Custom Grammar Problem Fixed",
-      "hot": "❤️ 50 💬 17",
-      "desc": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.          ...",
-      "source": "dev",
-      "tag": "devchallenge,  bugsmash",
-      "url": "https://dev.to/annavi11arrea1/catbot-custom-grammar-problem-fixed-oc5"
-    },
-    {
-      "title": "What was your win this week?",
-      "hot": "❤️ 53 💬 51",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "discuss,  weeklyretro",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-1ed"
-    },
-    {
-      "title": "Exploring Form Management Patterns in Flutter with BlocSignal",
-      "hot": "❤️ 8 💬 0",
-      "desc": "Master form handling in Flutter with BlocSignal. Learn how to separate Primary vs. Derived state using computed signals,",
-      "source": "dev",
-      "tag": "flutter,  dart",
-      "url": "https://dev.to/gde/exploring-form-management-patterns-in-flutter-with-blocsignal-1c8j"
-    },
-    {
-      "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
-      "hot": "❤️ 53 💬 31",
-      "desc": "Every form I ever shipped before React 19 needed the same three pieces of state, and I wired them up...",
-      "source": "dev",
-      "tag": "react,  webdev",
-      "url": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd"
-    },
-    {
-      "title": "Building AI Agents with the TypeScript Agent Development Kit (ADK)",
-      "hot": "❤️ 8 💬 3",
-      "desc": "Build, test, and deploy AI agents using Google's native TypeScript Agent Development Kit (ADK), Gemini 2.5 Flash, and Cl",
-      "source": "dev",
-      "tag": "typescript,  ai",
-      "url": "https://dev.to/gde/building-ai-agents-with-the-typescript-agent-development-kit-adk-3mf"
-    },
-    {
-      "title": "Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)",
-      "hot": "❤️ 7 💬 0",
-      "desc": "Summary of 2026 Updates (v2 — Python ADK 2.0 Migration)   This updated edition incorporates...",
-      "source": "dev",
-      "tag": "python,  ai",
-      "url": "https://dev.to/gde/building-ai-agents-with-the-python-agent-development-kit-adk-2026-edition-v2-32hf"
-    },
-    {
-      "title": "Building AI Agents with the GO Agent Development Kit (ADK) — 2026 Edition (v2)",
-      "hot": "❤️ 7 💬 0",
-      "desc": "Summary of 2026 Updates (v2 — Go ADK 2.0 Migration)   This updated edition incorporates...",
-      "source": "dev",
-      "tag": "go,  adk",
-      "url": "https://dev.to/gde/building-ai-agents-with-the-go-agent-development-kit-adk-2026-edition-v2-4n55"
-    },
-    {
-      "title": "One TPU Chip, Eight Agents: Serving Small Agent Workloads with Raw JAX",
-      "hot": "❤️ 11 💬 4",
-      "desc": "Cloud TPU v6e-1 (ct6e-standard-1t, one v6e chip, 32 GB HBM), GCE flex-start, europe-west4-a. vLLM...",
-      "source": "dev",
-      "tag": "tpu,  llm",
-      "url": "https://dev.to/gde/one-tpu-chip-eight-agents-serving-small-agent-workloads-with-raw-jax-2cc4"
-    },
-    {
-      "title": "Six Cross-Cloud A2A Paths, One Benchmark: How AWS, Azure, and GCP Agents Actually Work Together",
-      "hot": "❤️ 7 💬 2",
-      "desc": "Every directed edge between Bedrock AgentCore, Microsoft Foundry, and Google ADK, deployed and measured over A2A v1.0 — ",
-      "source": "dev",
-      "tag": "aiagents,  a2a",
-      "url": "https://dev.to/gde/six-cross-cloud-a2a-paths-one-benchmark-what-aws-azure-and-gcp-agents-actually-cost-each-other-13g0"
-    },
-    {
-      "title": "I've Spent 10+ Years in Software Engineering. After Sickness, Burnout, and a Layoff, I'm Rebuilding My Career. Ask Me Anything",
-      "hot": "❤️ 103 💬 105",
-      "desc": "Hi, I'm Cesar, a Senior Software Engineer with 10+ years of experience.  In 2023, I got sick and...",
-      "source": "dev",
-      "tag": "discuss,  watercooler",
-      "url": "https://dev.to/canro91/ive-spent-10-years-in-software-engineering-after-sickness-burnout-and-a-layoff-im-rebuilding-efc"
-    }
-  ],
   "tech": [
-    {
-      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-      "hot": "3.0m",
-      "desc": "docker.com",
-      "source": "tech",
-      "tag": "⬆️ 239 points",
-      "url": "https://www.docker.com/products/docker-sandboxes/"
-    },
     {
       "title": "Meta Muse Glimmer – open weights 30B local coding model",
       "hot": "3.0m",
       "desc": "research.meta.ai",
       "source": "tech",
-      "tag": "⬆️ 32 points",
+      "tag": "⬆️ 141 points",
       "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
+    },
+    {
+      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+      "hot": "3.0m",
+      "desc": "docker.com",
+      "source": "tech",
+      "tag": "⬆️ 273 points",
+      "url": "https://www.docker.com/products/docker-sandboxes/"
     },
     {
       "title": "What Happened to HackerOne?",
       "hot": "3.0m",
       "desc": "blog.teknogeek.io",
       "source": "tech",
-      "tag": "⬆️ 248 points",
+      "tag": "⬆️ 262 points",
       "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/"
     },
     {
-      "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
-      "hot": "3.0m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 90 points",
-      "url": "https://github.com/shinyquagsire23/Klepton"
-    },
-    {
       "title": "Tail-Call Interpreters in Rust – Jimmy Ostler",
-      "hot": "2.9m",
+      "hot": "3.0m",
       "desc": "lordgoati.us",
       "source": "tech",
-      "tag": "⬆️ 21 points",
+      "tag": "⬆️ 33 points",
       "url": "https://lordgoati.us/blog/tail-call/"
     },
     {
-      "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+      "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
       "hot": "2.9m",
-      "desc": "whodunnitai.com",
+      "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 99 points",
-      "url": "https://www.whodunnitai.com/"
+      "tag": "⬆️ 105 points",
+      "url": "https://github.com/shinyquagsire23/Klepton"
     },
     {
       "title": "An Interesting Fourier Transform – 1/F Noise",
       "hot": "2.9m",
       "desc": "dsprelated.com",
       "source": "tech",
-      "tag": "⬆️ 51 points",
+      "tag": "⬆️ 56 points",
       "url": "https://www.dsprelated.com/showarticle/40.php"
+    },
+    {
+      "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+      "hot": "2.9m",
+      "desc": "whodunnitai.com",
+      "source": "tech",
+      "tag": "⬆️ 111 points",
+      "url": "https://www.whodunnitai.com/"
     },
     {
       "title": "How I use LLMs to learn complex topics",
       "hot": "2.9m",
       "desc": "laurentiugabriel.github.io",
       "source": "tech",
-      "tag": "⬆️ 654 points",
+      "tag": "⬆️ 672 points",
       "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/"
-    },
-    {
-      "title": "How Blackwing Pencils are Made [video]",
-      "hot": "2.9m",
-      "desc": "youtube.com",
-      "source": "tech",
-      "tag": "⬆️ 8 points",
-      "url": "https://www.youtube.com/watch?v=fow-LsdaH2E"
     },
     {
       "title": "Taxi drivers rarely die of Alzheimer's",
       "hot": "2.9m",
       "desc": "theconversation.com",
       "source": "tech",
-      "tag": "⬆️ 298 points",
+      "tag": "⬆️ 305 points",
       "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650"
+    },
+    {
+      "title": "How Blackwing Pencils are Made [video]",
+      "hot": "2.9m",
+      "desc": "youtube.com",
+      "source": "tech",
+      "tag": "⬆️ 19 points",
+      "url": "https://www.youtube.com/watch?v=fow-LsdaH2E"
     },
     {
       "title": "How We Pushed CDC into Postgres",
       "hot": "2.9m",
       "desc": "snowflake.com",
       "source": "tech",
-      "tag": "⬆️ 99 points",
+      "tag": "⬆️ 102 points",
       "url": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/"
-    },
-    {
-      "title": "An alias-based formulation of the borrow checker (2018)",
-      "hot": "2.8m",
-      "desc": "smallcultfollowing.com",
-      "source": "tech",
-      "tag": "⬆️ 11 points",
-      "url": "https://smallcultfollowing.com/babysteps/blog/2018/04/27/an-alias-based-formulation-of-the-borrow-checker/"
     },
     {
       "title": "Turn satellite imagery into a paper globe you fold yourself",
       "hot": "2.8m",
       "desc": "foldingglobes.com",
       "source": "tech",
-      "tag": "⬆️ 65 points",
+      "tag": "⬆️ 68 points",
       "url": "https://foldingglobes.com/"
     },
     {
@@ -273,56 +103,64 @@
       "hot": "2.8m",
       "desc": "news.ycombinator.com",
       "source": "tech",
-      "tag": "⬆️ 250 points",
+      "tag": "⬆️ 260 points",
       "url": "https://news.ycombinator.com/item?id=49233423"
     },
     {
-      "title": "ATProto for Distributed Systems Engineers",
+      "title": "An alias-based formulation of the borrow checker (2018)",
       "hot": "2.8m",
-      "desc": "atproto.com",
+      "desc": "smallcultfollowing.com",
       "source": "tech",
-      "tag": "⬆️ 85 points",
-      "url": "https://atproto.com/articles/atproto-for-distsys-engineers"
+      "tag": "⬆️ 12 points",
+      "url": "https://smallcultfollowing.com/babysteps/blog/2018/04/27/an-alias-based-formulation-of-the-borrow-checker/"
     },
     {
       "title": "Cool URIs Don't Change (1998)",
       "hot": "2.8m",
       "desc": "w3.org",
       "source": "tech",
-      "tag": "⬆️ 245 points",
+      "tag": "⬆️ 248 points",
       "url": "https://www.w3.org/Provider/Style/URI"
     },
     {
-      "title": "Show HN: I made alchemical-cosmological PCB badges",
+      "title": "ATProto for Distributed Systems Engineers",
       "hot": "2.8m",
-      "desc": "github.com",
+      "desc": "atproto.com",
       "source": "tech",
-      "tag": "⬆️ 13 points",
-      "url": "https://github.com/KaiPereira/Alchemical-Cosmological-Badges"
+      "tag": "⬆️ 92 points",
+      "url": "https://atproto.com/articles/atproto-for-distsys-engineers"
     },
     {
-      "title": "Nearest Pint",
-      "hot": "2.7m",
-      "desc": "knowwhereconsulting.co.uk",
+      "title": "COLDCARD's Random Numbers Weren't",
+      "hot": "2.8m",
+      "desc": "coldcard.rip",
       "source": "tech",
-      "tag": "⬆️ 35 points",
-      "url": "https://knowwhereconsulting.co.uk/maps/pubs/"
-    },
-    {
-      "title": "Auto mode is now the default in Claude Code",
-      "hot": "2.7m",
-      "desc": "claude.com",
-      "source": "tech",
-      "tag": "⬆️ 225 points",
-      "url": "https://claude.com/blog/auto-mode-default-in-claude-code"
+      "tag": "⬆️ 3 points",
+      "url": "https://coldcard.rip/"
     },
     {
       "title": "Picophysics: Single file physics for games on platforms like N64, PSX, DC",
       "hot": "2.7m",
       "desc": "gitlab.com",
       "source": "tech",
-      "tag": "⬆️ 61 points",
+      "tag": "⬆️ 62 points",
       "url": "https://gitlab.com/Kazade/picophysics"
+    },
+    {
+      "title": "Tuxedo No. 2 – Cocktail recipes",
+      "hot": "2.7m",
+      "desc": "tuxedono2.com",
+      "source": "tech",
+      "tag": "⬆️ 102 points",
+      "url": "https://tuxedono2.com"
+    },
+    {
+      "title": "Nearest Pint",
+      "hot": "2.7m",
+      "desc": "knowwhereconsulting.co.uk",
+      "source": "tech",
+      "tag": "⬆️ 37 points",
+      "url": "https://knowwhereconsulting.co.uk/maps/pubs/"
     }
   ],
   "space": [
@@ -489,24 +327,24 @@
       "url": "https://github.com/ShawnPana/phone-harness"
     },
     {
-      "title": "mikiarlo3/awesome-growth-hacking-skills: Find agentic growth hacking skills for ",
-      "hot": "⭐ 806",
-      "desc": "Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot",
-      "source": "github",
-      "tag": "Shell",
-      "url": "https://github.com/mikiarlo3/awesome-growth-hacking-skills"
-    },
-    {
       "title": "oil-oil/oil-motion: Create smooth, responsive interactive web animations.",
-      "hot": "⭐ 800",
+      "hot": "⭐ 826",
       "desc": "Create smooth, responsive interactive web animations.",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/oil-oil/oil-motion"
     },
     {
+      "title": "mikiarlo3/awesome-growth-hacking-skills: Find agentic growth hacking skills for ",
+      "hot": "⭐ 807",
+      "desc": "Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot",
+      "source": "github",
+      "tag": "Shell",
+      "url": "https://github.com/mikiarlo3/awesome-growth-hacking-skills"
+    },
+    {
       "title": "google-gemma/gemma-translator: ",
-      "hot": "⭐ 748",
+      "hot": "⭐ 753",
       "desc": "google-gemma/gemma-translator",
       "source": "github",
       "tag": "JavaScript",
@@ -514,7 +352,7 @@
     },
     {
       "title": "wumingqi60/lingxi: 灵犀跨境-开源共建版",
-      "hot": "⭐ 737",
+      "hot": "⭐ 742",
       "desc": "灵犀跨境-开源共建版",
       "source": "github",
       "tag": "TypeScript",
@@ -522,7 +360,7 @@
     },
     {
       "title": "MengTo/kage: An interactive five-chapter night walk through a Kyoto mountain tem",
-      "hot": "⭐ 715",
+      "hot": "⭐ 721",
       "desc": "An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.",
       "source": "github",
       "tag": "HTML",
@@ -530,7 +368,7 @@
     },
     {
       "title": "xoreaxeaxeax/asm-hall-of-shame: Racing to the bottom of CPU performance",
-      "hot": "⭐ 697",
+      "hot": "⭐ 698",
       "desc": "Racing to the bottom of CPU performance",
       "source": "github",
       "tag": "C",
@@ -538,7 +376,7 @@
     },
     {
       "title": "yuhuangerdi/InduSecAgent: ",
-      "hot": "⭐ 675",
+      "hot": "⭐ 678",
       "desc": "yuhuangerdi/InduSecAgent",
       "source": "github",
       "tag": "Vue",
@@ -546,7 +384,7 @@
     },
     {
       "title": "jd-opensource/JoyAI-Video-Edit: [Official Repo] JoyAI-Video-Edit: Real-Time Open",
-      "hot": "⭐ 673",
+      "hot": "⭐ 676",
       "desc": "[Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
       "source": "github",
       "tag": "Python",
@@ -554,7 +392,7 @@
     },
     {
       "title": "eternityspring/shuohao-skills: 给 AI 编码 agent 用的 skill 集合，Claude Code 和 codex 都能跑",
-      "hot": "⭐ 616",
+      "hot": "⭐ 617",
       "desc": "给 AI 编码 agent 用的 skill 集合，Claude Code 和 codex 都能跑。novel-characters：把小说拆成角色设定集——人物画像、卡通形象提示词、音色提示词、三视���。 | Skills for AI coding agents, working in bot",
       "source": "github",
       "tag": "JavaScript",
@@ -562,11 +400,173 @@
     },
     {
       "title": "MarcosSete/awesome-free-ai-course-notes: A curated collection of machine learnin",
-      "hot": "⭐ 584",
+      "hot": "⭐ 585",
       "desc": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lec",
       "source": "github",
       "tag": "GitHub",
       "url": "https://github.com/MarcosSete/awesome-free-ai-course-notes"
+    }
+  ],
+  "dev": [
+    {
+      "title": "linkedSignal() Writes Back: A Trace Through the Reactive Graph 🔍🚀",
+      "hot": "❤️ 12 💬 0",
+      "desc": "Let's be honest: linkedSignal() always had a bit of a split personality. It read beautifully from...",
+      "source": "dev",
+      "tag": "angular,  typescript",
+      "url": "https://dev.to/gdg/linkedsignal-writes-back-a-trace-through-the-reactive-graph-37o7"
+    },
+    {
+      "title": "Serving Gemma 4 2B on a Single TPU v5e Chip with MCP and Antigravity CLI",
+      "hot": "❤️ 9 💬 0",
+      "desc": "This article is the v5e follow-on to the v6e-1 debugging guide. Same MCP tooling, same Antigravity...",
+      "source": "dev",
+      "tag": "antigravitycli,  python",
+      "url": "https://dev.to/gde/serving-gemma-4-2b-on-a-single-tpu-v5e-chip-with-mcp-and-antigravity-cli-33l8"
+    },
+    {
+      "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
+      "hot": "❤️ 9 💬 0",
+      "desc": "This article explains how to build and test a cross-cloud currency agent. An Amazon Bedrock master...",
+      "source": "dev",
+      "tag": "agents,  googleadk",
+      "url": "https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b"
+    },
+    {
+      "title": "What was your win this week?",
+      "hot": "❤️ 29 💬 20",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "weeklyretro,  discuss",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-3n23"
+    },
+    {
+      "title": "Passkeys Explained Simply",
+      "hot": "❤️ 109 💬 32",
+      "desc": "You’ve probably seen that little prompt that says “Sign in with Face ID” or “Use a passkey” instead...",
+      "source": "dev",
+      "tag": "security,  api",
+      "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk"
+    },
+    {
+      "title": "Build Hybrid Image Analysis Application with Angular, Firebase AI Logic, and Gemini Nano [GDE]",
+      "hot": "❤️ 8 💬 0",
+      "desc": "This tutorial demonstrates how to build a hybrid image analysis application using Angular, Firebase...",
+      "source": "dev",
+      "tag": "angular,  firebase",
+      "url": "https://dev.to/gde/build-hybrid-image-analysis-application-with-angular-firebase-ai-logic-and-gemini-nano-1ipl"
+    },
+    {
+      "title": "Join our latest Frontend Challenge: Comfort Food Edition 🍲",
+      "hot": "❤️ 217 💬 76",
+      "desc": "We're back with another Frontend Challenge, and this time we're hungry! 🍜🥧  Running through August...",
+      "source": "dev",
+      "tag": "devchallenge,  frontendchallenge",
+      "url": "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0"
+    },
+    {
+      "title": "Before the Quake: How Antigravity CLI's AI Agents & IoT Data Predict Earthquakes",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Published Paper: Unification Theory of Lithosphere-Atmosphere-Ionosphere Coupling via...",
+      "source": "dev",
+      "tag": "ai,  gemini",
+      "url": "https://dev.to/gde/before-the-quake-how-antigravity-clis-ai-agents-iot-data-predict-earthquakes-34if"
+    },
+    {
+      "title": "It Was Just a Patch Update. What Could Possibly Go Wrong?",
+      "hot": "❤️ 92 💬 42",
+      "desc": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.  You know those...",
+      "source": "dev",
+      "tag": "devchallenge,  bugsmash",
+      "url": "https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3"
+    },
+    {
+      "title": "Agent Sandboxes: Giving AI Agents Their Own Little Linux Box (And Why You Should Care)",
+      "hot": "❤️ 12 💬 3",
+      "desc": "Sourced from: GKE Agent Sandbox docs, kubernetes-sigs/agent-sandbox       So here is the thing. We...",
+      "source": "dev",
+      "tag": "ai,  kubernetes",
+      "url": "https://dev.to/gde/agent-sandboxes-giving-ai-agents-their-own-little-linux-box-and-why-you-should-care-jl4"
+    },
+    {
+      "title": "Catbot: Custom Grammar Problem Fixed",
+      "hot": "❤️ 50 💬 17",
+      "desc": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.          ...",
+      "source": "dev",
+      "tag": "devchallenge,  bugsmash",
+      "url": "https://dev.to/annavi11arrea1/catbot-custom-grammar-problem-fixed-oc5"
+    },
+    {
+      "title": "What was your win this week?",
+      "hot": "❤️ 53 💬 51",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "discuss,  weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-1ed"
+    },
+    {
+      "title": "Exploring Form Management Patterns in Flutter with BlocSignal",
+      "hot": "❤️ 8 💬 0",
+      "desc": "Master form handling in Flutter with BlocSignal. Learn how to separate Primary vs. Derived state using computed signals,",
+      "source": "dev",
+      "tag": "flutter,  dart",
+      "url": "https://dev.to/gde/exploring-form-management-patterns-in-flutter-with-blocsignal-1c8j"
+    },
+    {
+      "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
+      "hot": "❤️ 53 💬 31",
+      "desc": "Every form I ever shipped before React 19 needed the same three pieces of state, and I wired them up...",
+      "source": "dev",
+      "tag": "react,  webdev",
+      "url": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd"
+    },
+    {
+      "title": "Building AI Agents with the TypeScript Agent Development Kit (ADK)",
+      "hot": "❤️ 8 💬 3",
+      "desc": "Build, test, and deploy AI agents using Google's native TypeScript Agent Development Kit (ADK), Gemini 2.5 Flash, and Cl",
+      "source": "dev",
+      "tag": "typescript,  ai",
+      "url": "https://dev.to/gde/building-ai-agents-with-the-typescript-agent-development-kit-adk-3mf"
+    },
+    {
+      "title": "Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)",
+      "hot": "❤️ 7 💬 0",
+      "desc": "Summary of 2026 Updates (v2 — Python ADK 2.0 Migration)   This updated edition incorporates...",
+      "source": "dev",
+      "tag": "python,  ai",
+      "url": "https://dev.to/gde/building-ai-agents-with-the-python-agent-development-kit-adk-2026-edition-v2-32hf"
+    },
+    {
+      "title": "Building AI Agents with the GO Agent Development Kit (ADK) — 2026 Edition (v2)",
+      "hot": "❤️ 7 💬 0",
+      "desc": "Summary of 2026 Updates (v2 — Go ADK 2.0 Migration)   This updated edition incorporates...",
+      "source": "dev",
+      "tag": "go,  adk",
+      "url": "https://dev.to/gde/building-ai-agents-with-the-go-agent-development-kit-adk-2026-edition-v2-4n55"
+    },
+    {
+      "title": "One TPU Chip, Eight Agents: Serving Small Agent Workloads with Raw JAX",
+      "hot": "❤️ 11 💬 4",
+      "desc": "Cloud TPU v6e-1 (ct6e-standard-1t, one v6e chip, 32 GB HBM), GCE flex-start, europe-west4-a. vLLM...",
+      "source": "dev",
+      "tag": "tpu,  llm",
+      "url": "https://dev.to/gde/one-tpu-chip-eight-agents-serving-small-agent-workloads-with-raw-jax-2cc4"
+    },
+    {
+      "title": "Six Cross-Cloud A2A Paths, One Benchmark: How AWS, Azure, and GCP Agents Actually Work Together",
+      "hot": "❤️ 7 💬 2",
+      "desc": "Every directed edge between Bedrock AgentCore, Microsoft Foundry, and Google ADK, deployed and measured over A2A v1.0 — ",
+      "source": "dev",
+      "tag": "aiagents,  a2a",
+      "url": "https://dev.to/gde/six-cross-cloud-a2a-paths-one-benchmark-what-aws-azure-and-gcp-agents-actually-cost-each-other-13g0"
+    },
+    {
+      "title": "I've Spent 10+ Years in Software Engineering. After Sickness, Burnout, and a Layoff, I'm Rebuilding My Career. Ask Me Anything",
+      "hot": "❤️ 103 💬 105",
+      "desc": "Hi, I'm Cesar, a Senior Software Engineer with 10+ years of experience.  In 2023, I got sick and...",
+      "source": "dev",
+      "tag": "discuss,  watercooler",
+      "url": "https://dev.to/canro91/ive-spent-10-years-in-software-engineering-after-sickness-burnout-and-a-layoff-im-rebuilding-efc"
     }
   ]
 }
