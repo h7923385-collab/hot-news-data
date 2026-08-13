@@ -1,10 +1,416 @@
 {
-  "updatedAt": "2026-08-13T12:36:47.656Z",
+  "updatedAt": "2026-08-13T14:11:10.474Z",
   "source": "live",
+  "tech": [
+    {
+      "title": "DeepSeek Harness",
+      "hot": "3.0m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 94 points",
+      "url": "https://github.com/deepseek-ai/deepseek-harness"
+    },
+    {
+      "title": "Choosing an AI model: one prompt, 11 models, different results",
+      "hot": "3.0m",
+      "desc": "netlify.com",
+      "source": "tech",
+      "tag": "⬆️ 53 points",
+      "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/"
+    },
+    {
+      "title": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
+      "hot": "3.0m",
+      "desc": "tradersunion.com",
+      "source": "tech",
+      "tag": "⬆️ 188 points",
+      "url": "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/"
+    },
+    {
+      "title": "ChatGPT Desktop (Codex Desktop) for Linux",
+      "hot": "3.0m",
+      "desc": "openai.com",
+      "source": "tech",
+      "tag": "⬆️ 310 points",
+      "url": "https://openai.com/codex/"
+    },
+    {
+      "title": "Picking berries is my meditation",
+      "hot": "2.9m",
+      "desc": "tsoon.com",
+      "source": "tech",
+      "tag": "⬆️ 59 points",
+      "url": "https://www.tsoon.com/posts/picking-berries-meditation/"
+    },
+    {
+      "title": "My Rules for Using Spreadsheets",
+      "hot": "2.9m",
+      "desc": "leancrew.com",
+      "source": "tech",
+      "tag": "⬆️ 16 points",
+      "url": "https://leancrew.com/all-this/2026/08/my-rules-for-using-spreadsheets/"
+    },
+    {
+      "title": "Better Gaussian Splatting in Julia",
+      "hot": "2.9m",
+      "desc": "pxl-th.github.io",
+      "source": "tech",
+      "tag": "⬆️ 34 points",
+      "url": "https://pxl-th.github.io/blog/better-gs-julia/"
+    },
+    {
+      "title": "The lattice of sets of natural numbers is rich (2021)",
+      "hot": "2.9m",
+      "desc": "jdh.hamkins.org",
+      "source": "tech",
+      "tag": "⬆️ 72 points",
+      "url": "https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/"
+    },
+    {
+      "title": "DeepSeek V4 Pro 0813",
+      "hot": "2.9m",
+      "desc": "openrouter.ai",
+      "source": "tech",
+      "tag": "⬆️ 993 points",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813"
+    },
+    {
+      "title": "ATG (YC F25) Is Hiring Member of Technical Staff (Data Platform)",
+      "hot": "2.9m",
+      "desc": "atg.science",
+      "source": "tech",
+      "tag": "⬆️ 1 points",
+      "url": "https://atg.science/careers"
+    },
+    {
+      "title": "Tracking down the 16-year-old WAL-reset SQLite bug",
+      "hot": "2.9m",
+      "desc": "tailscale.com",
+      "source": "tech",
+      "tag": "⬆️ 1123 points",
+      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug"
+    },
+    {
+      "title": "Qwen3.8-2.4T",
+      "hot": "2.8m",
+      "desc": "huggingface.co",
+      "source": "tech",
+      "tag": "⬆️ 685 points",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B"
+    },
+    {
+      "title": "Delta",
+      "hot": "2.8m",
+      "desc": "zed.dev",
+      "source": "tech",
+      "tag": "⬆️ 618 points",
+      "url": "https://zed.dev/blog/introducing-delta"
+    },
+    {
+      "title": "Principia Mathematica is modern and insightful",
+      "hot": "2.8m",
+      "desc": "okmij.org",
+      "source": "tech",
+      "tag": "⬆️ 226 points",
+      "url": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html"
+    },
+    {
+      "title": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
+      "hot": "2.8m",
+      "desc": "digitalescapetools.com",
+      "source": "tech",
+      "tag": "⬆️ 632 points",
+      "url": "https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html"
+    },
+    {
+      "title": "DeepSeek API Pricing Update",
+      "hot": "2.8m",
+      "desc": "twitter.com",
+      "source": "tech",
+      "tag": "⬆️ 26 points",
+      "url": "https://twitter.com/deepseek_ai/status/2087864589895798968"
+    },
+    {
+      "title": "Antiqua–Fraktur dispute",
+      "hot": "2.8m",
+      "desc": "en.wikipedia.org",
+      "source": "tech",
+      "tag": "⬆️ 127 points",
+      "url": "https://en.wikipedia.org/wiki/Antiqua%E2%80%93Fraktur_dispute"
+    },
+    {
+      "title": "2026 Eclipse Webcams",
+      "hot": "2.7m",
+      "desc": "jonty.github.io",
+      "source": "tech",
+      "tag": "⬆️ 502 points",
+      "url": "https://jonty.github.io/2026_eclipse_webcams/"
+    },
+    {
+      "title": "Flutter 3.47",
+      "hot": "2.7m",
+      "desc": "flutter.dev",
+      "source": "tech",
+      "tag": "⬆️ 163 points",
+      "url": "https://flutter.dev/blog/whats-new-in-flutter-3-47"
+    },
+    {
+      "title": "Mushroom behind 'tiny people' hallucinations identified",
+      "hot": "2.7m",
+      "desc": "phys.org",
+      "source": "tech",
+      "tag": "⬆️ 229 points",
+      "url": "https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html"
+    }
+  ],
+  "github": [
+    {
+      "title": "deepseek-ai/deepseek-harness: DeepSeek Harness: Everything is a Plugin.",
+      "hot": "⭐ 19.2k",
+      "desc": "DeepSeek Harness: Everything is a Plugin.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/deepseek-ai/deepseek-harness"
+    },
+    {
+      "title": "guillaumemeyer/watermarks-remover: Strip multi-vendor AI provenance marks: Unico",
+      "hot": "⭐ 4.2k",
+      "desc": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover"
+    },
+    {
+      "title": "LaoFeng-mouse/flyingmouse-format: 飞鼠格式 FlyingMouse Format - Windows 万能文件格式转换工具（离",
+      "hot": "⭐ 2.2k",
+      "desc": "飞鼠格式 FlyingMouse Format - Windows 万能文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/PPT/PDF/音视频/WPS 格式互转 + OCR + 批量转换",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/LaoFeng-mouse/flyingmouse-format"
+    },
+    {
+      "title": "antirez/h3.c: MiniMax H3 inference engine for Mac computers",
+      "hot": "⭐ 1.7k",
+      "desc": "MiniMax H3 inference engine for Mac computers",
+      "source": "github",
+      "tag": "C",
+      "url": "https://github.com/antirez/h3.c"
+    },
+    {
+      "title": "ShawnPana/phone-harness: let your agent control your phone",
+      "hot": "⭐ 1.7k",
+      "desc": "let your agent control your phone",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/ShawnPana/phone-harness"
+    },
+    {
+      "title": "oil-oil/oil-motion: Create smooth, responsive interactive web animations.",
+      "hot": "⭐ 1.7k",
+      "desc": "Create smooth, responsive interactive web animations.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/oil-oil/oil-motion"
+    },
+    {
+      "title": "SMNETSTUDIO/WeChat-AI: ",
+      "hot": "⭐ 1.7k",
+      "desc": "SMNETSTUDIO/WeChat-AI",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/SMNETSTUDIO/WeChat-AI"
+    },
+    {
+      "title": "eternityspring/shuohao-skills: AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本 | Agent sk",
+      "hot": "⭐ 1.3k",
+      "desc": "AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本 | Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays. ",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/eternityspring/shuohao-skills"
+    },
+    {
+      "title": "Flaminis/Dalaran: Dalaran — Apache-2.0, robotics-first visualization and data in",
+      "hot": "⭐ 926",
+      "desc": "Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/Flaminis/Dalaran"
+    },
+    {
+      "title": "MengTo/kage: An interactive five-chapter night walk through a Kyoto mountain tem",
+      "hot": "⭐ 880",
+      "desc": "An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.",
+      "source": "github",
+      "tag": "HTML",
+      "url": "https://github.com/MengTo/kage"
+    },
+    {
+      "title": "sohaibdevv/youtube-music: A lightweight, ad‑free client for streaming music from",
+      "hot": "⭐ 854",
+      "desc": "A lightweight, ad‑free client for streaming music from YouTube Music. No subscription required. Supports background playback, search, and custom playl",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/sohaibdevv/youtube-music"
+    },
+    {
+      "title": "SaladDay/pi-from-scratch: 600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
+      "hot": "⭐ 840",
+      "desc": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/SaladDay/pi-from-scratch"
+    },
+    {
+      "title": "xoreaxeaxeax/asm-hall-of-shame: Racing to the bottom of CPU performance",
+      "hot": "⭐ 833",
+      "desc": "Racing to the bottom of CPU performance",
+      "source": "github",
+      "tag": "C",
+      "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame"
+    },
+    {
+      "title": "gvzdv/claudish-to-english: ",
+      "hot": "⭐ 807",
+      "desc": "gvzdv/claudish-to-english",
+      "source": "github",
+      "tag": "Shell",
+      "url": "https://github.com/gvzdv/claudish-to-english"
+    },
+    {
+      "title": "milind-soni/OpenMausBot: ",
+      "hot": "⭐ 747",
+      "desc": "milind-soni/OpenMausBot",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/milind-soni/OpenMausBot"
+    }
+  ],
+  "space": [
+    {
+      "title": "Paragon lays off staff after Gateway cancellation",
+      "hot": "8/13",
+      "desc": "\nA subcontractor for a module that was being developed for NASA’s lunar Gateway has laid off 70 people after NASA halted work on the program.\nThe post",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/paragon-lays-off-staff-after-gateway-cancellation/"
+    },
+    {
+      "title": "Cruise control: the team guiding Hera to its asteroid",
+      "hot": "8/13",
+      "desc": "First the European Space Agency's Hera asteroid mission separated from its launcher on 7 October 2024, next its lengthy ‘cruise phase’ began – the car",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/Space_Safety/Hera/Cruise_control_the_team_guiding_Hera_to_its_asteroid"
+    },
+    {
+      "title": "Astranis unveils geostationary surveillance satellite",
+      "hot": "8/13",
+      "desc": "\nThe spacecraft is designed to inspect, track and maneuver around satellites in geostationary orbit\nThe post Astranis unveils geostationary surveillan",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/astranis-unveils-geostationary-surveillance-satellite/"
+    },
+    {
+      "title": "Sophie Adenot prepares for her first spacewalk",
+      "hot": "8/13",
+      "desc": "From the ESA Blogs.",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Sophie_Adenot_prepares_for_her_first_spacewalk"
+    },
+    {
+      "title": "MTG-I1 captures eclipse path of totality over Europe",
+      "hot": "8/13",
+      "desc": "Yesterday between 20:26 and 20:34 CEST, parts of the Iberian peninsula experienced a total solar eclipse. This animation, composed of images from the ",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/MTG-I1_captures_eclipse_path_of_totality_over_Europe"
+    },
+    {
+      "title": "APOD: 2026 August 13 – Total Solar Eclipse Over Spain",
+      "hot": "8/13",
+      "desc": "APOD Science APOD APOD: 2026 August 13 – Total… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Pi",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/image-article/apod-2026-august-13-total-solar-eclipse-over-spain/"
+    },
+    {
+      "title": "Cascade Volcanoes Shrouded in Smoke",
+      "hot": "8/13",
+      "desc": "From the International Space Station, astronauts photographed Mount Hood and Mount Rainier as wildfire smoke spread across the Pacific Northwest in su",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/earth/earth-observatory/cascade-volcanoes-shrouded-in-smoke/"
+    },
+    {
+      "title": "Virgin Galactic delays resumption of commercial flights to 2027",
+      "hot": "8/13",
+      "desc": "\nVirgin Galactic says it will not start commercial flights of its new suborbital spaceplane until early 2027, a delay of a few months.\nThe post Virgin",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/virgin-galactic-delays-resumption-of-commercial-flights-to-2027/"
+    },
+    {
+      "title": "Space Force orders two more Impulse Space vehicles for maneuvering demonstrations",
+      "hot": "8/12",
+      "desc": "\nA $28 million contract expansion adds Victus Salo 2 and 3 to an earlier award for responsive-space missions\nThe post Space Force orders two more Impu",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/space-force-orders-two-more-impulse-space-vehicles-for-maneuvering-demonstrations/"
+    },
+    {
+      "title": "Pentagon missile buildup changing the factory floor",
+      "hot": "8/12",
+      "desc": "\nStartups are bringing software, robotics and manufacturing methods developed around commercial space into a defense industry under pressure to produc",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/pentagon-missile-buildup-changing-the-factory-floor/"
+    },
+    {
+      "title": "Space Command identifies capabilities it needs for the next space war",
+      "hot": "8/12",
+      "desc": "\nGen. Stephen Whiting said there is a demand for offensive capabilities and called on the industry to develop ways to disable the critical nodes of la",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/space-command-identifies-capabilities-it-needs-for-the-next-space-war/"
+    },
+    {
+      "title": "Mike Fincke, a 30-year astronaut with experience across four spacecraft, retires from NASA",
+      "hot": "8/12",
+      "desc": "Mike Fincke trained on the Boeing CST-100 Starliner side of the Commercial Crew Program from January 2019 until his reassignment to the SpaceX Crew-11",
+      "source": "space",
+      "tag": "Spaceflight Now",
+      "url": "https://spaceflightnow.com/2026/08/12/mike-fincke-a-30-year-astronaut-with-experience-across-four-human-rated-spacecraft-retires-from-nasa/"
+    },
+    {
+      "title": "NASA Data Helps Commercial Space Plan Living Off Our Moon",
+      "hot": "8/12",
+      "desc": "The barren lunar landscape has some important resources, such as water and minerals like iron and titanium, but extracting and processing them will re",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-data-helps-commercial-space-plan-living-off-our-moon/"
+    },
+    {
+      "title": "2026 Total Solar Eclipse in Spain",
+      "hot": "8/12",
+      "desc": "A total solar eclipse is seen from San Millán de los Caballeros, Spain, Wednesday, Aug. 12, 2026. A total solar eclipse – the Moon passing between the",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/image-article/2026-total-solar-eclipse-in-spain/"
+    },
+    {
+      "title": "Amid failure, Wenchang celebrates milestone as China launches AI satellites and prepares for lunar south pole mission",
+      "hot": "8/12",
+      "desc": "China’s Wenchang Space Launch Site reached its milestone 50th launch at the end of July,…\nThe post Amid failure, Wenchang celebrates milestone as Chin",
+      "source": "space",
+      "tag": "NASASpaceflight",
+      "url": "https://www.nasaspaceflight.com/2026/08/china-roundup-20260813/"
+    }
+  ],
   "dev": [
     {
       "title": "Hey all! I’m Jem, the DEV Community Program Coordinator",
-      "hot": "❤️ 123 💬 45",
+      "hot": "❤️ 125 💬 45",
       "desc": "It feels good to finally be writing this.  I've been working part-time behind the scenes at DEV for...",
       "source": "dev",
       "tag": "meta",
@@ -12,19 +418,11 @@
     },
     {
       "title": "I Joined dev.to because...",
-      "hot": "❤️ 116 💬 90",
+      "hot": "❤️ 117 💬 91",
       "desc": "Why not?     Just kidding, there is more to it. Just thought it flows well with the title...",
       "source": "dev",
       "tag": "discuss,  community",
       "url": "https://dev.to/francistrdev/i-joined-devto-because-fl0"
-    },
-    {
-      "title": "Managed Inference on Google Cloud: Pairing the Gemini Enterprise Agent Platform with Cloud Run",
-      "hot": "❤️ 17 💬 6",
-      "desc": "Learn how to run managed AI inference on Google Cloud by pairing the Gemini Enterprise Agent Platform with Cloud Run — w",
-      "source": "dev",
-      "tag": "cloudrun,  geminienterpriseagentplatform",
-      "url": "https://dev.to/gdg/managed-inference-on-google-cloud-pairing-the-gemini-enterprise-agent-platform-with-cloud-run-246j"
     },
     {
       "title": "How Many Introductions Away Are You From Pedro Pascal? A Practical Introduction to Graph Search",
@@ -36,7 +434,7 @@
     },
     {
       "title": "Backend Engineer (Me) Ships a Browser Game With One Unintentional System Requirement: My Monitor",
-      "hot": "❤️ 61 💬 39",
+      "hot": "❤️ 64 💬 39",
       "desc": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.           Prefer...",
       "source": "dev",
       "tag": "devchallenge,  bugsmash",
@@ -44,11 +442,19 @@
     },
     {
       "title": "Welcome Thread - v388",
-      "hot": "❤️ 34 💬 44",
+      "hot": "❤️ 34 💬 50",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
       "url": "https://dev.to/devteam/welcome-thread-v388-29kd"
+    },
+    {
+      "title": "Managed Inference on Google Cloud: Pairing the Gemini Enterprise Agent Platform with Cloud Run",
+      "hot": "❤️ 17 💬 6",
+      "desc": "Learn how to run managed AI inference on Google Cloud by pairing the Gemini Enterprise Agent Platform with Cloud Run — w",
+      "source": "dev",
+      "tag": "cloudrun,  geminienterpriseagentplatform",
+      "url": "https://dev.to/gdg/managed-inference-on-google-cloud-pairing-the-gemini-enterprise-agent-platform-with-cloud-run-246j"
     },
     {
       "title": "Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK",
@@ -161,412 +567,6 @@
       "source": "dev",
       "tag": "discuss,  ai",
       "url": "https://dev.to/gde/from-threat-model-to-framework-closing-the-real-gaps-in-agent-skill-security-7m8"
-    }
-  ],
-  "tech": [
-    {
-      "title": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
-      "hot": "3.0m",
-      "desc": "tradersunion.com",
-      "source": "tech",
-      "tag": "⬆️ 46 points",
-      "url": "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/"
-    },
-    {
-      "title": "ChatGPT Desktop (Codex Desktop) for Linux",
-      "hot": "3.0m",
-      "desc": "openai.com",
-      "source": "tech",
-      "tag": "⬆️ 243 points",
-      "url": "https://openai.com/codex/"
-    },
-    {
-      "title": "The lattice of sets of natural numbers is rich",
-      "hot": "3.0m",
-      "desc": "jdh.hamkins.org",
-      "source": "tech",
-      "tag": "⬆️ 52 points",
-      "url": "https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/"
-    },
-    {
-      "title": "DeepSeek V4 Pro 0813",
-      "hot": "3.0m",
-      "desc": "openrouter.ai",
-      "source": "tech",
-      "tag": "⬆️ 967 points",
-      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813"
-    },
-    {
-      "title": "Picking berries is my meditation",
-      "hot": "2.9m",
-      "desc": "tsoon.com",
-      "source": "tech",
-      "tag": "⬆️ 27 points",
-      "url": "https://www.tsoon.com/posts/picking-berries-meditation/"
-    },
-    {
-      "title": "Tracking down the 16-year-old WAL-reset SQLite bug",
-      "hot": "2.9m",
-      "desc": "tailscale.com",
-      "source": "tech",
-      "tag": "⬆️ 1095 points",
-      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug"
-    },
-    {
-      "title": "ATG (YC F25) Is Hiring Member of Technical Staff (Data Platform)",
-      "hot": "2.9m",
-      "desc": "atg.science",
-      "source": "tech",
-      "tag": "⬆️ 1 points",
-      "url": "https://atg.science/careers"
-    },
-    {
-      "title": "Qwen3.8-2.4T",
-      "hot": "2.9m",
-      "desc": "huggingface.co",
-      "source": "tech",
-      "tag": "⬆️ 660 points",
-      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B"
-    },
-    {
-      "title": "Delta",
-      "hot": "2.9m",
-      "desc": "zed.dev",
-      "source": "tech",
-      "tag": "⬆️ 591 points",
-      "url": "https://zed.dev/blog/introducing-delta"
-    },
-    {
-      "title": "Principia Mathematica is modern and insightful",
-      "hot": "2.9m",
-      "desc": "okmij.org",
-      "source": "tech",
-      "tag": "⬆️ 196 points",
-      "url": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html"
-    },
-    {
-      "title": "Antiqua–Fraktur dispute",
-      "hot": "2.9m",
-      "desc": "en.wikipedia.org",
-      "source": "tech",
-      "tag": "⬆️ 119 points",
-      "url": "https://en.wikipedia.org/wiki/Antiqua%E2%80%93Fraktur_dispute"
-    },
-    {
-      "title": "Come for Eniac, Stay for Univac and Skeduflo",
-      "hot": "2.8m",
-      "desc": "uniqueatpenn.wordpress.com",
-      "source": "tech",
-      "tag": "⬆️ 7 points",
-      "url": "https://uniqueatpenn.wordpress.com/2026/08/05/come-for-eniac-stay-for-univac-and-skeduflo/"
-    },
-    {
-      "title": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
-      "hot": "2.8m",
-      "desc": "digitalescapetools.com",
-      "source": "tech",
-      "tag": "⬆️ 581 points",
-      "url": "https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html"
-    },
-    {
-      "title": "2026 Eclipse Webcams",
-      "hot": "2.8m",
-      "desc": "jonty.github.io",
-      "source": "tech",
-      "tag": "⬆️ 499 points",
-      "url": "https://jonty.github.io/2026_eclipse_webcams/"
-    },
-    {
-      "title": "The punched card tabulator",
-      "hot": "2.8m",
-      "desc": "ibm.com",
-      "source": "tech",
-      "tag": "⬆️ 22 points",
-      "url": "https://www.ibm.com/history/punched-card-tabulator"
-    },
-    {
-      "title": "Flutter 3.47",
-      "hot": "2.8m",
-      "desc": "flutter.dev",
-      "source": "tech",
-      "tag": "⬆️ 136 points",
-      "url": "https://flutter.dev/blog/whats-new-in-flutter-3-47"
-    },
-    {
-      "title": "Grok 4.6",
-      "hot": "2.8m",
-      "desc": "x.ai",
-      "source": "tech",
-      "tag": "⬆️ 583 points",
-      "url": "https://x.ai/news/grok-4-6"
-    },
-    {
-      "title": "Why Target Common Lisp for Code Generation?",
-      "hot": "2.7m",
-      "desc": "funcall.blogspot.com",
-      "source": "tech",
-      "tag": "⬆️ 121 points",
-      "url": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html"
-    },
-    {
-      "title": "Tim King, AmigaDOS developer, has died",
-      "hot": "2.7m",
-      "desc": "amiga-news.de",
-      "source": "tech",
-      "tag": "⬆️ 281 points",
-      "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html"
-    },
-    {
-      "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
-      "hot": "2.7m",
-      "desc": "en.andros.dev",
-      "source": "tech",
-      "tag": "⬆️ 221 points",
-      "url": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/"
-    }
-  ],
-  "space": [
-    {
-      "title": "Paragon lays off staff after Gateway cancellation",
-      "hot": "8/13",
-      "desc": "\nA subcontractor for a module that was being developed for NASA’s lunar Gateway has laid off 70 people after NASA halted work on the program.\nThe post",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/paragon-lays-off-staff-after-gateway-cancellation/"
-    },
-    {
-      "title": "Astranis unveils geostationary surveillance satellite",
-      "hot": "8/13",
-      "desc": "\nThe spacecraft is designed to inspect, track and maneuver around satellites in geostationary orbit\nThe post Astranis unveils geostationary surveillan",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/astranis-unveils-geostationary-surveillance-satellite/"
-    },
-    {
-      "title": "Sophie Adenot prepares for her first spacewalk",
-      "hot": "8/13",
-      "desc": "From the ESA Blogs.",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Sophie_Adenot_prepares_for_her_first_spacewalk"
-    },
-    {
-      "title": "MTG-I1 captures eclipse path of totality over Europe",
-      "hot": "8/13",
-      "desc": "Yesterday between 20:26 and 20:34 CEST, parts of the Iberian peninsula experienced a total solar eclipse. This animation, composed of images from the ",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/MTG-I1_captures_eclipse_path_of_totality_over_Europe"
-    },
-    {
-      "title": "APOD: 2026 August 13 – Total Solar Eclipse Over Spain",
-      "hot": "8/13",
-      "desc": "APOD Science APOD APOD: 2026 August 13 – Total… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Pi",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/image-article/apod-2026-august-13-total-solar-eclipse-over-spain/"
-    },
-    {
-      "title": "Virgin Galactic delays resumption of commercial flights to 2027",
-      "hot": "8/13",
-      "desc": "\nVirgin Galactic says it will not start commercial flights of its new suborbital spaceplane until early 2027, a delay of a few months.\nThe post Virgin",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/virgin-galactic-delays-resumption-of-commercial-flights-to-2027/"
-    },
-    {
-      "title": "Space Force orders two more Impulse Space vehicles for maneuvering demonstrations",
-      "hot": "8/12",
-      "desc": "\nA $28 million contract expansion adds Victus Salo 2 and 3 to an earlier award for responsive-space missions\nThe post Space Force orders two more Impu",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/space-force-orders-two-more-impulse-space-vehicles-for-maneuvering-demonstrations/"
-    },
-    {
-      "title": "Pentagon missile buildup changing the factory floor",
-      "hot": "8/12",
-      "desc": "\nStartups are bringing software, robotics and manufacturing methods developed around commercial space into a defense industry under pressure to produc",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/pentagon-missile-buildup-changing-the-factory-floor/"
-    },
-    {
-      "title": "Space Command identifies capabilities it needs for the next space war",
-      "hot": "8/12",
-      "desc": "\nGen. Stephen Whiting said there is a demand for offensive capabilities and called on the industry to develop ways to disable the critical nodes of la",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/space-command-identifies-capabilities-it-needs-for-the-next-space-war/"
-    },
-    {
-      "title": "Mike Fincke, a 30-year astronaut with experience across four spacecraft, retires from NASA",
-      "hot": "8/12",
-      "desc": "Mike Fincke trained on the Boeing CST-100 Starliner side of the Commercial Crew Program from January 2019 until his reassignment to the SpaceX Crew-11",
-      "source": "space",
-      "tag": "Spaceflight Now",
-      "url": "https://spaceflightnow.com/2026/08/12/mike-fincke-a-30-year-astronaut-with-experience-across-four-human-rated-spacecraft-retires-from-nasa/"
-    },
-    {
-      "title": "NASA Data Helps Commercial Space Plan Living Off Our Moon",
-      "hot": "8/12",
-      "desc": "The barren lunar landscape has some important resources, such as water and minerals like iron and titanium, but extracting and processing them will re",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-data-helps-commercial-space-plan-living-off-our-moon/"
-    },
-    {
-      "title": "2026 Total Solar Eclipse in Spain",
-      "hot": "8/12",
-      "desc": "A total solar eclipse is seen from San Millán de los Caballeros, Spain, Wednesday, Aug. 12, 2026. A total solar eclipse – the Moon passing between the",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/image-article/2026-total-solar-eclipse-in-spain/"
-    },
-    {
-      "title": "Amid failure, Wenchang celebrates milestone as China launches AI satellites and prepares for lunar south pole mission",
-      "hot": "8/12",
-      "desc": "China’s Wenchang Space Launch Site reached its milestone 50th launch at the end of July,…\nThe post Amid failure, Wenchang celebrates milestone as Chin",
-      "source": "space",
-      "tag": "NASASpaceflight",
-      "url": "https://www.nasaspaceflight.com/2026/08/china-roundup-20260813/"
-    },
-    {
-      "title": "NASA Upgrades Vertical Motion Simulator for Modern Mission Needs",
-      "hot": "8/12",
-      "desc": "Imagine stepping into a machine that can make you feel like you’re flying a spacecraft, piloting a next generation air taxi, or landing on the Moon, a",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-upgrades-vertical-motion-simulator-for-modern-mission-needs/"
-    },
-    {
-      "title": "NASA Astronaut Mike Fincke Leaves NASA, Career Includes 4 Spaceflights",
-      "hot": "8/12",
-      "desc": "NASA astronaut Mike Fincke is departing the agency on Wednesday after 30 years of service. Throughout his career, he flew four missions, spent 549 day",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/news-release/nasa-astronaut-mike-fincke-leaves-nasa-career-includes-4-spaceflights/"
-    }
-  ],
-  "github": [
-    {
-      "title": "guillaumemeyer/watermarks-remover: Strip multi-vendor AI provenance marks: Unico",
-      "hot": "⭐ 4.0k",
-      "desc": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/guillaumemeyer/watermarks-remover"
-    },
-    {
-      "title": "LaoFeng-mouse/flyingmouse-format: 飞鼠格式 FlyingMouse Format - Windows 万能文件格式转换工具（离",
-      "hot": "⭐ 2.1k",
-      "desc": "飞鼠格式 FlyingMouse Format - Windows 万能文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/PPT/PDF/音视频/WPS 格式互转 + OCR + 批量转换",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/LaoFeng-mouse/flyingmouse-format"
-    },
-    {
-      "title": "antirez/h3.c: MiniMax H3 inference engine for Mac computers",
-      "hot": "⭐ 1.7k",
-      "desc": "MiniMax H3 inference engine for Mac computers",
-      "source": "github",
-      "tag": "C",
-      "url": "https://github.com/antirez/h3.c"
-    },
-    {
-      "title": "ShawnPana/phone-harness: let your agent control your phone",
-      "hot": "⭐ 1.7k",
-      "desc": "let your agent control your phone",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/ShawnPana/phone-harness"
-    },
-    {
-      "title": "oil-oil/oil-motion: Create smooth, responsive interactive web animations.",
-      "hot": "⭐ 1.7k",
-      "desc": "Create smooth, responsive interactive web animations.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/oil-oil/oil-motion"
-    },
-    {
-      "title": "SMNETSTUDIO/WeChat-AI: ",
-      "hot": "⭐ 1.7k",
-      "desc": "SMNETSTUDIO/WeChat-AI",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/SMNETSTUDIO/WeChat-AI"
-    },
-    {
-      "title": "eternityspring/shuohao-skills: AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本 | Agent sk",
-      "hot": "⭐ 1.3k",
-      "desc": "AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本 | Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays. ",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/eternityspring/shuohao-skills"
-    },
-    {
-      "title": "Flaminis/Dalaran: Dalaran — Apache-2.0, robotics-first visualization and data in",
-      "hot": "⭐ 925",
-      "desc": "Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/Flaminis/Dalaran"
-    },
-    {
-      "title": "MengTo/kage: An interactive five-chapter night walk through a Kyoto mountain tem",
-      "hot": "⭐ 875",
-      "desc": "An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.",
-      "source": "github",
-      "tag": "HTML",
-      "url": "https://github.com/MengTo/kage"
-    },
-    {
-      "title": "sohaibdevv/youtube-music: A lightweight, ad‑free client for streaming music from",
-      "hot": "⭐ 854",
-      "desc": "A lightweight, ad‑free client for streaming music from YouTube Music. No subscription required. Supports background playback, search, and custom playl",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/sohaibdevv/youtube-music"
-    },
-    {
-      "title": "SaladDay/pi-from-scratch: 600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
-      "hot": "⭐ 838",
-      "desc": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/SaladDay/pi-from-scratch"
-    },
-    {
-      "title": "xoreaxeaxeax/asm-hall-of-shame: Racing to the bottom of CPU performance",
-      "hot": "⭐ 828",
-      "desc": "Racing to the bottom of CPU performance",
-      "source": "github",
-      "tag": "C",
-      "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame"
-    },
-    {
-      "title": "gvzdv/claudish-to-english: ",
-      "hot": "⭐ 773",
-      "desc": "gvzdv/claudish-to-english",
-      "source": "github",
-      "tag": "Shell",
-      "url": "https://github.com/gvzdv/claudish-to-english"
-    },
-    {
-      "title": "milind-soni/OpenMausBot: ",
-      "hot": "⭐ 726",
-      "desc": "milind-soni/OpenMausBot",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/milind-soni/OpenMausBot"
-    },
-    {
-      "title": "shadcn-ui/chatbot-template: A minimal chatbot template built with Next.js, AI SD",
-      "hot": "⭐ 624",
-      "desc": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/shadcn-ui/chatbot-template"
     }
   ]
 }
