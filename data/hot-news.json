@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T11:33:13.414Z",
+  "updatedAt": "2026-08-14T12:32:28.433Z",
   "source": "live",
   "tech": [
     {
@@ -7,23 +7,15 @@
       "hot": "3.0m",
       "desc": "z.ai",
       "source": "tech",
-      "tag": "⬆️ 568 points",
+      "tag": "⬆️ 635 points",
       "url": "https://z.ai/blog/glm-5.3"
-    },
-    {
-      "title": "For the love of god stop using CPU limits in Kubernetes",
-      "hot": "3.0m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 34 points",
-      "url": "https://github.com/inevolin/k8s-cpu-limits-analyzed"
     },
     {
       "title": "DeepSeek peak/off-peak pricing update",
       "hot": "3.0m",
       "desc": "api-docs.deepseek.com",
       "source": "tech",
-      "tag": "⬆️ 48 points",
+      "tag": "⬆️ 80 points",
       "url": "https://api-docs.deepseek.com/news/news260813/"
     },
     {
@@ -31,63 +23,71 @@
       "hot": "3.0m",
       "desc": "blog.google",
       "source": "tech",
-      "tag": "⬆️ 872 points",
+      "tag": "⬆️ 887 points",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/"
+    },
+    {
+      "title": "Differential Heuristics",
+      "hot": "3.0m",
+      "desc": "redblobgames.com",
+      "source": "tech",
+      "tag": "⬆️ 44 points",
+      "url": "https://www.redblobgames.com/blog/2026-08-08-differential-heuristics/"
+    },
+    {
+      "title": "Don't classify, hallucinate!",
+      "hot": "2.9m",
+      "desc": "softwaredoug.com",
+      "source": "tech",
+      "tag": "⬆️ 10 points",
+      "url": "https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications"
     },
     {
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
       "hot": "2.9m",
       "desc": "cerebras.ai",
       "source": "tech",
-      "tag": "⬆️ 631 points",
+      "tag": "⬆️ 639 points",
       "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai"
-    },
-    {
-      "title": "Show HN: C# Game Engine with its own scripting language and IDE",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 58 points",
-      "url": "https://github.com/ArcadeMakerSources/ArcadeMaker"
     },
     {
       "title": "Hello, me. It's been a while",
       "hot": "2.9m",
       "desc": "themech.net",
       "source": "tech",
-      "tag": "⬆️ 245 points",
+      "tag": "⬆️ 269 points",
       "url": "https://themech.net/2026/08/hello-me-its-been-a-while/"
     },
     {
-      "title": "Major oil slick washes up on Iran coast after Hormuz ship strike",
+      "title": "Why does Opus 5 feel worse to work with?",
       "hot": "2.9m",
-      "desc": "bbc.com",
+      "desc": "mun-logadan.github.io",
       "source": "tech",
-      "tag": "⬆️ 31 points",
-      "url": "https://www.bbc.com/news/articles/cr7kpdkg13zo"
+      "tag": "⬆️ 140 points",
+      "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/"
     },
     {
-      "title": "Differential Heuristics",
-      "hot": "2.9m",
-      "desc": "redblobgames.com",
-      "source": "tech",
-      "tag": "⬆️ 21 points",
-      "url": "https://www.redblobgames.com/blog/2026-08-08-differential-heuristics/"
-    },
-    {
-      "title": "Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri",
+      "title": "Show HN: C# Game Engine with its own scripting language and IDE",
       "hot": "2.9m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 31 points",
-      "url": "https://github.com/JustVugg/lumabri"
+      "tag": "⬆️ 67 points",
+      "url": "https://github.com/ArcadeMakerSources/ArcadeMaker"
+    },
+    {
+      "title": "Protect Your Relays",
+      "hot": "2.9m",
+      "desc": "iroh.computer",
+      "source": "tech",
+      "tag": "⬆️ 9 points",
+      "url": "https://www.iroh.computer/blog/authenticated-relays"
     },
     {
       "title": "DeepSeek Harness developer preview",
       "hot": "2.9m",
       "desc": "deepseek.com",
       "source": "tech",
-      "tag": "⬆️ 676 points",
+      "tag": "⬆️ 685 points",
       "url": "https://deepseek.com/harness/en/"
     },
     {
@@ -95,7 +95,7 @@
       "hot": "2.8m",
       "desc": "elttam.com",
       "source": "tech",
-      "tag": "⬆️ 39 points",
+      "tag": "⬆️ 47 points",
       "url": "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain"
     },
     {
@@ -103,7 +103,7 @@
       "hot": "2.8m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 639 points",
+      "tag": "⬆️ 654 points",
       "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts"
     },
     {
@@ -111,59 +111,75 @@
       "hot": "2.8m",
       "desc": "docs.mistral.ai",
       "source": "tech",
-      "tag": "⬆️ 365 points",
+      "tag": "⬆️ 375 points",
       "url": "https://docs.mistral.ai/models/ocr-4-1"
-    },
-    {
-      "title": "Bluesky Protocol Services",
-      "hot": "2.8m",
-      "desc": "atproto.com",
-      "source": "tech",
-      "tag": "⬆️ 170 points",
-      "url": "https://atproto.com/blog/introducing-bluesky-protocol-services"
-    },
-    {
-      "title": "Understanding is the new bottleneck",
-      "hot": "2.8m",
-      "desc": "geoffreylitt.com",
-      "source": "tech",
-      "tag": "⬆️ 358 points",
-      "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck"
     },
     {
       "title": "We're not done with point clouds",
       "hot": "2.8m",
       "desc": "claytonwramsey.com",
       "source": "tech",
-      "tag": "⬆️ 13 points",
+      "tag": "⬆️ 20 points",
       "url": "https://claytonwramsey.com/blog/mvt/"
+    },
+    {
+      "title": "Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri",
+      "hot": "2.8m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 36 points",
+      "url": "https://github.com/JustVugg/lumabri"
+    },
+    {
+      "title": "Bluesky Protocol Services",
+      "hot": "2.8m",
+      "desc": "atproto.com",
+      "source": "tech",
+      "tag": "⬆️ 176 points",
+      "url": "https://atproto.com/blog/introducing-bluesky-protocol-services"
+    },
+    {
+      "title": "Understanding is the new bottleneck",
+      "hot": "2.7m",
+      "desc": "geoffreylitt.com",
+      "source": "tech",
+      "tag": "⬆️ 364 points",
+      "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck"
     },
     {
       "title": "Choose Boring Technology (2015)",
       "hot": "2.7m",
       "desc": "mcfunley.com",
       "source": "tech",
-      "tag": "⬆️ 361 points",
+      "tag": "⬆️ 373 points",
       "url": "https://mcfunley.com/choose-boring-technology"
-    },
-    {
-      "title": "Protect Your Relays",
-      "hot": "2.7m",
-      "desc": "iroh.computer",
-      "source": "tech",
-      "tag": "⬆️ 3 points",
-      "url": "https://www.iroh.computer/blog/authenticated-relays"
     },
     {
       "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
       "hot": "2.7m",
       "desc": "donkeybas.com",
       "source": "tech",
-      "tag": "⬆️ 246 points",
+      "tag": "⬆️ 248 points",
       "url": "https://donkeybas.com/"
     }
   ],
   "space": [
+    {
+      "title": "Blue Origin outlines plans for second Cape Canaveral launch pad",
+      "hot": "8/14",
+      "desc": "\nBlue Origin disclosed new details about its plans to not only rebuild but also expand its Florida launch site, adding a second pad for a larger versi",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/blue-origin-outlines-plans-for-second-cape-canaveral-launch-pad/"
+    },
+    {
+      "title": "Proba-3’s eclipse hours before totality in Europe",
+      "hot": "8/14",
+      "desc": "From the ESA Blogs.",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Proba-3_s_eclipse_hours_before_totality_in_Europe"
+    },
     {
       "title": "Intuitive Machines wins contract for three GEO satellites",
       "hot": "8/14",
@@ -179,6 +195,14 @@
       "source": "space",
       "tag": "Arstechnica",
       "url": "https://arstechnica.com/space/2026/08/rocket-report-rocket-lab-shows-off-its-flexibility-blue-origins-two-pad-plan/"
+    },
+    {
+      "title": "A double eclipse for Proba-3",
+      "hot": "8/14",
+      "desc": "From the ESA Blogs.",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/A_double_eclipse_for_Proba-3"
     },
     {
       "title": "A look back at the 2026 total solar eclipse",
@@ -259,36 +283,12 @@
       "source": "space",
       "tag": "SpaceNews",
       "url": "https://spacenews.com/space-command-expands-alabama-footprint-as-headquarters-relocation-advances/"
-    },
-    {
-      "title": "Perseids Meteor Shower",
-      "hot": "8/13",
-      "desc": "The constellation Orion is framed by two Perseid meteors in this photo from Aug. 12, 2018, in Cedar Breaks National Monument, Utah. The Perseids – one",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/image-article/perseids-meteor-shower-2/"
-    },
-    {
-      "title": "An optical link ‘internet’ to connect networks in space",
-      "hot": "8/13",
-      "desc": "\nIn this episode, David Ariosto speaks with John Mackey, CEO, co-founder and director of Mbryonics. They discuss building optical links for satellites",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/an-optical-link-internet-to-connect-networks-in-space/"
-    },
-    {
-      "title": "Suborbital Rocket Builder Gravitilab Enters Liquidation",
-      "hot": "8/13",
-      "desc": "UK-based Gravitilab Aerospace Services has entered liquidation, with the company announcing in a brief 5 August LinkedIn post that it had “ceased trad",
-      "source": "space",
-      "tag": "European Spaceflight",
-      "url": "https://europeanspaceflight.com/suborbital-rocket-builder-gravitilab-enters-liquidation/"
     }
   ],
   "github": [
     {
       "title": "deepseek-ai/deepseek-harness: DeepSeek Harness: Everything is a Plugin.",
-      "hot": "⭐ 86.0k",
+      "hot": "⭐ 87.4k",
       "desc": "DeepSeek Harness: Everything is a Plugin.",
       "source": "github",
       "tag": "TypeScript",
@@ -296,7 +296,7 @@
     },
     {
       "title": "guillaumemeyer/watermarks-remover: Strip multi-vendor AI provenance marks: Unico",
-      "hot": "⭐ 6.5k",
+      "hot": "⭐ 6.6k",
       "desc": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "source": "github",
       "tag": "Python",
@@ -376,7 +376,7 @@
     },
     {
       "title": "SaladDay/pi-from-scratch: 600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
-      "hot": "⭐ 954",
+      "hot": "⭐ 957",
       "desc": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
       "source": "github",
       "tag": "TypeScript",
@@ -384,7 +384,7 @@
     },
     {
       "title": "Flaminis/Dalaran: Dalaran — Apache-2.0, robotics-first visualization and data in",
-      "hot": "⭐ 953",
+      "hot": "⭐ 956",
       "desc": "Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A",
       "source": "github",
       "tag": "Rust",
@@ -392,7 +392,7 @@
     },
     {
       "title": "MengTo/kage: An interactive five-chapter night walk through a Kyoto mountain tem",
-      "hot": "⭐ 920",
+      "hot": "⭐ 926",
       "desc": "An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.",
       "source": "github",
       "tag": "HTML",
@@ -400,7 +400,7 @@
     },
     {
       "title": "milind-soni/OpenMausBot: ",
-      "hot": "⭐ 885",
+      "hot": "⭐ 889",
       "desc": "milind-soni/OpenMausBot",
       "source": "github",
       "tag": "TypeScript",
@@ -442,7 +442,7 @@
     },
     {
       "title": "Join our DEV Weekend Challenge: Dog Days Edition! $1,000 in Prizes Across FIVE Winners. Submissions Due August 17 at 6:59 AM UTC.",
-      "hot": "❤️ 23 💬 4",
+      "hot": "❤️ 24 💬 4",
       "desc": "We're back with another DEV Weekend Challenge, a short bite-sized challenge planned to fit into your...",
       "source": "dev",
       "tag": "devchallenge,  weekendchallenge",
@@ -455,30 +455,6 @@
       "source": "dev",
       "tag": "flutter,  dart",
       "url": "https://dev.to/gde/riverpod-to-blocsignal-incremental-migration-and-zero-codegen-signals-for-flutter-1gdp"
-    },
-    {
-      "title": "MCP Configuration for Looker with Codex",
-      "hot": "❤️ 8 💬 2",
-      "desc": "This article covers the MCP setup and configuration for using Looker with Codex to enhance and extend...",
-      "source": "dev",
-      "tag": "mcp,  codex",
-      "url": "https://dev.to/gde/mcp-configuration-for-looker-with-codex-30e1"
-    },
-    {
-      "title": "Managed Inference on Google Cloud: Pairing the Gemini Enterprise Agent Platform with Cloud Run",
-      "hot": "❤️ 17 💬 6",
-      "desc": "Learn how to run managed AI inference on Google Cloud by pairing the Gemini Enterprise Agent Platform with Cloud Run — w",
-      "source": "dev",
-      "tag": "cloudrun,  geminienterpriseagentplatform",
-      "url": "https://dev.to/gdg/managed-inference-on-google-cloud-pairing-the-gemini-enterprise-agent-platform-with-cloud-run-246j"
-    },
-    {
-      "title": "Vibecoding EventMatch, built with Antigravity, ADK, and Gemini",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Every week I get invited to more AI events than I can attend. Bond AI, Founders Bay, AI Collective,...",
-      "source": "dev",
-      "tag": "gemini,  vibecoding",
-      "url": "https://dev.to/gde/vibecoding-eventmatch-built-with-antigravity-adk-and-gemini-2gc7"
     },
     {
       "title": "Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK",
@@ -522,19 +498,35 @@
     },
     {
       "title": "Backend Engineer (Me) Ships a Browser Game With One Unintentional System Requirement: My Monitor",
-      "hot": "❤️ 80 💬 48",
+      "hot": "❤️ 83 💬 49",
       "desc": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.           Prefer...",
       "source": "dev",
       "tag": "devchallenge,  bugsmash",
       "url": "https://dev.to/georgekobaidze/backend-engineer-me-ships-a-browser-game-with-one-unintentional-system-requirement-my-monitor-1ojd"
     },
     {
+      "title": "MCP Configuration for Looker with Codex",
+      "hot": "❤️ 9 💬 2",
+      "desc": "This article covers the MCP setup and configuration for using Looker with Codex to enhance and extend...",
+      "source": "dev",
+      "tag": "mcp,  codex",
+      "url": "https://dev.to/gde/mcp-configuration-for-looker-with-codex-30e1"
+    },
+    {
       "title": "Welcome Thread - v388",
-      "hot": "❤️ 59 💬 118",
+      "hot": "❤️ 59 💬 122",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
       "url": "https://dev.to/devteam/welcome-thread-v388-29kd"
+    },
+    {
+      "title": "Managed Inference on Google Cloud: Pairing the Gemini Enterprise Agent Platform with Cloud Run",
+      "hot": "❤️ 18 💬 6",
+      "desc": "Learn how to run managed AI inference on Google Cloud by pairing the Gemini Enterprise Agent Platform with Cloud Run — w",
+      "source": "dev",
+      "tag": "cloudrun,  geminienterpriseagentplatform",
+      "url": "https://dev.to/gdg/managed-inference-on-google-cloud-pairing-the-gemini-enterprise-agent-platform-with-cloud-run-246j"
     },
     {
       "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
@@ -551,6 +543,14 @@
       "source": "dev",
       "tag": "devchallenge,  frontendchallenge",
       "url": "https://dev.to/sarvar_04/i-built-a-15-landing-page-about-mumbais-soul-food-1l78"
+    },
+    {
+      "title": "Vibecoding EventMatch, built with Antigravity, ADK, and Gemini",
+      "hot": "❤️ 7 💬 0",
+      "desc": "Every week I get invited to more AI events than I can attend. Bond AI, Founders Bay, AI Collective,...",
+      "source": "dev",
+      "tag": "gemini,  vibecoding",
+      "url": "https://dev.to/gde/vibecoding-eventmatch-built-with-antigravity-adk-and-gemini-2gc7"
     },
     {
       "title": "Preventing Quota Crashes via Antigravity CLI Agent Hooks",
