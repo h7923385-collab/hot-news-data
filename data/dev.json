@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "Hey all! I’m Jem, the DEV Community Program Coordinator",
-      "hot": "❤️ 142 💬 51",
+      "hot": "❤️ 143 💬 52",
       "desc": "It feels good to finally be writing this.  I've been working part-time behind the scenes at DEV for...",
       "source": "dev",
       "tag": "meta",
@@ -10,7 +10,7 @@
     },
     {
       "title": "Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU",
-      "hot": "❤️ 6 💬 0",
+      "hot": "❤️ 7 💬 0",
       "desc": "A field report on serving Gemma 4 E2B under vLLM on AWS G5g — the only aarch64 + SM 7.5 hardware there is. No published ",
       "source": "dev",
       "tag": "aws,  vllm",
@@ -18,7 +18,7 @@
     },
     {
       "title": "I Joined dev.to because...",
-      "hot": "❤️ 121 💬 93",
+      "hot": "❤️ 121 💬 94",
       "desc": "Why not?     Just kidding, there is more to it. Just thought it flows well with the title...",
       "source": "dev",
       "tag": "discuss,  community",
@@ -33,8 +33,16 @@
       "url": "https://dev.to/ben/its-always-doom-httpsooddevpostsdoom-4fpi"
     },
     {
+      "title": "Join our DEV Weekend Challenge: Dog Days Edition! $1,000 in Prizes Across FIVE Winners. Submissions Due August 17 at 6:59 AM UTC.",
+      "hot": "❤️ 10 💬 0",
+      "desc": "We're back with another DEV Weekend Challenge, a short bite-sized challenge planned to fit into your...",
+      "source": "dev",
+      "tag": "devchallenge,  weekendchallenge",
+      "url": "https://dev.to/devteam/join-our-dev-weekend-challenge-dog-days-edition-1000-in-prizes-across-five-winners-submissions-1g4i"
+    },
+    {
       "title": "Do I Still Need a Monkey Patch for Gemini Live?",
-      "hot": "❤️ 9 💬 1",
+      "hot": "❤️ 10 💬 1",
       "desc": "No. And deleting 187 lines of it was the single biggest benefit of moving to ADK 2.x — but it was not...",
       "source": "dev",
       "tag": "python,  googleadk",
@@ -42,7 +50,7 @@
     },
     {
       "title": "Riverpod to BlocSignal: Incremental Migration and Zero-Codegen Signals for Flutter",
-      "hot": "❤️ 6 💬 1",
+      "hot": "❤️ 7 💬 1",
       "desc": "Learn how to trial or incrementally migrate from Riverpod to BlocSignal with zero code generation, fine-grained signal g",
       "source": "dev",
       "tag": "flutter,  dart",
@@ -55,14 +63,6 @@
       "source": "dev",
       "tag": "algorithms,  datastructures",
       "url": "https://dev.to/ale3oula/how-many-introductions-away-are-you-from-pedro-pascal-a-practical-introduction-to-graph-search-5bfg"
-    },
-    {
-      "title": "Backend Engineer (Me) Ships a Browser Game With One Unintentional System Requirement: My Monitor",
-      "hot": "❤️ 67 💬 40",
-      "desc": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.           Prefer...",
-      "source": "dev",
-      "tag": "devchallenge,  bugsmash",
-      "url": "https://dev.to/georgekobaidze/backend-engineer-me-ships-a-browser-game-with-one-unintentional-system-requirement-my-monitor-1ojd"
     },
     {
       "title": "MCP Configuration for Looker with Codex",
@@ -105,14 +105,6 @@
       "url": "https://dev.to/gde/latency-vs-tokens-what-i-learned-optimizing-an-agent-with-gemma-and-what-didnt-work-445g"
     },
     {
-      "title": "The Accidental DDOS: How a Single React Bracket Triggered 100,000 API Requests and Melted Our Database",
-      "hot": "❤️ 19 💬 5",
-      "desc": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.  Introduction: The...",
-      "source": "dev",
-      "tag": "devchallenge,  bugsmash",
-      "url": "https://dev.to/pooja_bhavani/the-accidental-ddos-how-a-single-react-bracket-triggered-100000-api-requests-and-melted-our-36li"
-    },
-    {
       "title": "Serving Gemma 4 2B on a Single TPU v5e Chip with MCP and Antigravity CLI",
       "hot": "❤️ 9 💬 0",
       "desc": "This article is the v5e follow-on to the v6e-1 debugging guide. Same MCP tooling, same Antigravity...",
@@ -121,20 +113,20 @@
       "url": "https://dev.to/gde/serving-gemma-4-2b-on-a-single-tpu-v5e-chip-with-mcp-and-antigravity-cli-33l8"
     },
     {
+      "title": "Backend Engineer (Me) Ships a Browser Game With One Unintentional System Requirement: My Monitor",
+      "hot": "❤️ 75 💬 44",
+      "desc": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.           Prefer...",
+      "source": "dev",
+      "tag": "devchallenge,  bugsmash",
+      "url": "https://dev.to/georgekobaidze/backend-engineer-me-ships-a-browser-game-with-one-unintentional-system-requirement-my-monitor-1ojd"
+    },
+    {
       "title": "Welcome Thread - v388",
-      "hot": "❤️ 46 💬 77",
+      "hot": "❤️ 52 💬 88",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
       "url": "https://dev.to/devteam/welcome-thread-v388-29kd"
-    },
-    {
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 40 💬 13",
-      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
-      "source": "dev",
-      "tag": "top7,  discuss",
-      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1id7"
     },
     {
       "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
@@ -146,7 +138,7 @@
     },
     {
       "title": "I Built a ₹15 Landing Page About Mumbai's Soul Food",
-      "hot": "❤️ 36 💬 9",
+      "hot": "❤️ 37 💬 9",
       "desc": "A scroll-driven cinematic page about vada pav. No framework, no build step. Just HTML, CSS, and a story worth telling. D",
       "source": "dev",
       "tag": "devchallenge,  frontendchallenge",
@@ -159,7 +151,15 @@
       "source": "dev",
       "tag": "ai,  gemini",
       "url": "https://dev.to/gde/preventing-quota-crashes-via-antigravity-cli-agent-hooks-24hd"
+    },
+    {
+      "title": "My CSS Art Made Some Foodie Friends 🍙🧋🥟🍲",
+      "hot": "❤️ 20 💬 7",
+      "desc": "This is a submission for Frontend Challenge - Comfort Food Edition, CSS Art.          ...",
+      "source": "dev",
+      "tag": "css,  devchallenge",
+      "url": "https://dev.to/lanthanum89/my-css-art-made-some-foodie-friends-4adk"
     }
   ],
-  "updatedAt": "2026-08-14T00:02:58.770Z"
+  "updatedAt": "2026-08-14T03:03:00.836Z"
 }
