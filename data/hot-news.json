@@ -1,6 +1,290 @@
 {
-  "updatedAt": "2026-08-14T15:11:22.683Z",
+  "updatedAt": "2026-08-14T16:10:07.836Z",
   "source": "live",
+  "tech": [
+    {
+      "title": "Every Fucking Website (2020)",
+      "hot": "3.0m",
+      "desc": "lxe.github.io",
+      "source": "tech",
+      "tag": "⬆️ 398 points",
+      "url": "https://lxe.github.io/everywebsite/"
+    },
+    {
+      "title": "Seven books I keep close because I love them",
+      "hot": "3.0m",
+      "desc": "blog.plover.com",
+      "source": "tech",
+      "tag": "⬆️ 41 points",
+      "url": "https://blog.plover.com/2026/08/02/"
+    },
+    {
+      "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
+      "hot": "3.0m",
+      "desc": "weightythoughts.com",
+      "source": "tech",
+      "tag": "⬆️ 101 points",
+      "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual"
+    },
+    {
+      "title": "Introducing Toast 1",
+      "hot": "3.0m",
+      "desc": "mixedbread.com",
+      "source": "tech",
+      "tag": "⬆️ 43 points",
+      "url": "https://www.mixedbread.com/blog/toast-1"
+    },
+    {
+      "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+      "hot": "2.9m",
+      "desc": "z.ai",
+      "source": "tech",
+      "tag": "⬆️ 859 points",
+      "url": "https://z.ai/blog/glm-5.3"
+    },
+    {
+      "title": "Qwen3.8-27B",
+      "hot": "2.9m",
+      "desc": "twitter.com",
+      "source": "tech",
+      "tag": "⬆️ 194 points",
+      "url": "https://twitter.com/alibaba_qwen/status/2088280182356611304"
+    },
+    {
+      "title": "In Australia, a Home Battery Boom Has Helped Cut Wholesale Power Prices in Half",
+      "hot": "2.9m",
+      "desc": "e360.yale.edu",
+      "source": "tech",
+      "tag": "⬆️ 157 points",
+      "url": "https://e360.yale.edu/digest/australia-home-batteries"
+    },
+    {
+      "title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
+      "hot": "2.9m",
+      "desc": "heyjonny.dev",
+      "source": "tech",
+      "tag": "⬆️ 30 points",
+      "url": "https://heyjonny.dev/posts/rss-to-eink-newspaper/"
+    },
+    {
+      "title": "\"Solving a largely imaginary user goal\"",
+      "hot": "2.9m",
+      "desc": "unsung.aresluna.org",
+      "source": "tech",
+      "tag": "⬆️ 8 points",
+      "url": "https://unsung.aresluna.org/solving-a-largely-imaginary-user-goal/"
+    },
+    {
+      "title": "Don't classify, hallucinate!",
+      "hot": "2.9m",
+      "desc": "softwaredoug.com",
+      "source": "tech",
+      "tag": "⬆️ 146 points",
+      "url": "https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications"
+    },
+    {
+      "title": "DeepSeek peak/off-peak pricing update",
+      "hot": "2.9m",
+      "desc": "api-docs.deepseek.com",
+      "source": "tech",
+      "tag": "⬆️ 182 points",
+      "url": "https://api-docs.deepseek.com/news/news260813/"
+    },
+    {
+      "title": "Show HN: Graft – Claude Code hooks that cut grep tokens by 42%",
+      "hot": "2.8m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 13 points",
+      "url": "https://github.com/NanoNets/Graft"
+    },
+    {
+      "title": "Self-hosted web push Cloudflare Worker, works on iOS",
+      "hot": "2.8m",
+      "desc": "kukuroo.cc",
+      "source": "tech",
+      "tag": "⬆️ 20 points",
+      "url": "https://kukuroo.cc/"
+    },
+    {
+      "title": "AV1 vs. AV2: Which Video Codec Should You Use in 2026?",
+      "hot": "2.8m",
+      "desc": "red5.net",
+      "source": "tech",
+      "tag": "⬆️ 6 points",
+      "url": "https://www.red5.net/blog/av1-vs-av2/"
+    },
+    {
+      "title": "The TEMU-Fication of Software, Digital Goods and Services",
+      "hot": "2.8m",
+      "desc": "xn--gckvb8fzb.com",
+      "source": "tech",
+      "tag": "⬆️ 56 points",
+      "url": "https://xn--gckvb8fzb.com/the-temu-fication-of-software-digital-goods-services/"
+    },
+    {
+      "title": "HashAgent – Share an AI agent as a URL, runs locally via WebGPU",
+      "hot": "2.8m",
+      "desc": "hashagent.pages.dev",
+      "source": "tech",
+      "tag": "⬆️ 23 points",
+      "url": "https://hashagent.pages.dev/"
+    },
+    {
+      "title": "Qwen 3.8 27B is out: open weights, best local dense model yet",
+      "hot": "2.8m",
+      "desc": "huggingface.co",
+      "source": "tech",
+      "tag": "⬆️ 66 points",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8"
+    },
+    {
+      "title": "WhatCable: Know what your USB-C cable can do",
+      "hot": "2.7m",
+      "desc": "whatcable.uk",
+      "source": "tech",
+      "tag": "⬆️ 51 points",
+      "url": "https://www.whatcable.uk/"
+    },
+    {
+      "title": "AI Model Atlas – visualizing populations of ML models as interconnected 3D graph",
+      "hot": "2.7m",
+      "desc": "run.cosmograph.app",
+      "source": "tech",
+      "tag": "⬆️ 13 points",
+      "url": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0"
+    },
+    {
+      "title": "Show HN: Online SNMP MIB database - upload/view your own MIBs",
+      "hot": "2.7m",
+      "desc": "mib-viewer.com",
+      "source": "tech",
+      "tag": "⬆️ 3 points",
+      "url": "https://mib-viewer.com/"
+    }
+  ],
+  "github": [
+    {
+      "title": "deepseek-ai/deepseek-harness: DeepSeek Harness: Everything is a Plugin.",
+      "hot": "⭐ 92.4k",
+      "desc": "DeepSeek Harness: Everything is a Plugin.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/deepseek-ai/deepseek-harness"
+    },
+    {
+      "title": "guillaumemeyer/watermarks-remover: Strip multi-vendor AI provenance marks: Unico",
+      "hot": "⭐ 7.3k",
+      "desc": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover"
+    },
+    {
+      "title": "antirez/h3.c: MiniMax H3 inference engine for Mac computers",
+      "hot": "⭐ 1.8k",
+      "desc": "MiniMax H3 inference engine for Mac computers",
+      "source": "github",
+      "tag": "C",
+      "url": "https://github.com/antirez/h3.c"
+    },
+    {
+      "title": "zhu1090093659/dsh-web-ui: Plugin and skin collection for DeepSeek Harness (DSH) ",
+      "hot": "⭐ 1.8k",
+      "desc": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and s",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/zhu1090093659/dsh-web-ui"
+    },
+    {
+      "title": "ShawnPana/phone-harness: let your agent control your phone",
+      "hot": "⭐ 1.8k",
+      "desc": "let your agent control your phone",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/ShawnPana/phone-harness"
+    },
+    {
+      "title": "oil-oil/oil-motion: Create smooth, responsive interactive web animations.",
+      "hot": "⭐ 1.7k",
+      "desc": "Create smooth, responsive interactive web animations.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/oil-oil/oil-motion"
+    },
+    {
+      "title": "SMNETSTUDIO/WeChat-AI: ",
+      "hot": "⭐ 1.7k",
+      "desc": "SMNETSTUDIO/WeChat-AI",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/SMNETSTUDIO/WeChat-AI"
+    },
+    {
+      "title": "xoreaxeaxeax/skitter-creek-bath-salts: Unlocking _everything_ on the CPU with DR",
+      "hot": "⭐ 1.5k",
+      "desc": "Unlocking _everything_ on the CPU with DRAM scrambling",
+      "source": "github",
+      "tag": "C",
+      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts"
+    },
+    {
+      "title": "anywhere-labs/deepseek-harness-desktop: 为 DeepSeek Harness 生态打造的现代化桌面端体验",
+      "hot": "⭐ 1.4k",
+      "desc": "为 DeepSeek Harness 生态打造的现代化桌面端体验",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop"
+    },
+    {
+      "title": "cordiverse/paper: A Programming Paradigm for Spatiotemporal Composability",
+      "hot": "⭐ 1.2k",
+      "desc": "A Programming Paradigm for Spatiotemporal Composability",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/cordiverse/paper"
+    },
+    {
+      "title": "Leutenegger/book-to-skill: Turn any technical book PDF into a Claude Code skill ",
+      "hot": "⭐ 1.1k",
+      "desc": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/Leutenegger/book-to-skill"
+    },
+    {
+      "title": "gvzdv/claudish-to-english: ",
+      "hot": "⭐ 1.0k",
+      "desc": "gvzdv/claudish-to-english",
+      "source": "github",
+      "tag": "Shell",
+      "url": "https://github.com/gvzdv/claudish-to-english"
+    },
+    {
+      "title": "SaladDay/pi-from-scratch: 600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
+      "hot": "⭐ 969",
+      "desc": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/SaladDay/pi-from-scratch"
+    },
+    {
+      "title": "Flaminis/Dalaran: Dalaran — Apache-2.0, robotics-first visualization and data in",
+      "hot": "⭐ 961",
+      "desc": "Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/Flaminis/Dalaran"
+    },
+    {
+      "title": "MengTo/kage: An interactive five-chapter night walk through a Kyoto mountain tem",
+      "hot": "⭐ 940",
+      "desc": "An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.",
+      "source": "github",
+      "tag": "HTML",
+      "url": "https://github.com/MengTo/kage"
+    }
+  ],
   "space": [
     {
       "title": "Total Solar Eclipse in Sunflower Field",
@@ -123,290 +407,6 @@
       "url": "https://spacenews.com/cesiumastro-buys-semiconductor-specialist-to-boost-constellation-plans/"
     }
   ],
-  "github": [
-    {
-      "title": "deepseek-ai/deepseek-harness: DeepSeek Harness: Everything is a Plugin.",
-      "hot": "⭐ 91.2k",
-      "desc": "DeepSeek Harness: Everything is a Plugin.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/deepseek-ai/deepseek-harness"
-    },
-    {
-      "title": "guillaumemeyer/watermarks-remover: Strip multi-vendor AI provenance marks: Unico",
-      "hot": "⭐ 7.1k",
-      "desc": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/guillaumemeyer/watermarks-remover"
-    },
-    {
-      "title": "antirez/h3.c: MiniMax H3 inference engine for Mac computers",
-      "hot": "⭐ 1.8k",
-      "desc": "MiniMax H3 inference engine for Mac computers",
-      "source": "github",
-      "tag": "C",
-      "url": "https://github.com/antirez/h3.c"
-    },
-    {
-      "title": "zhu1090093659/dsh-web-ui: Plugin and skin collection for DeepSeek Harness (DSH) ",
-      "hot": "⭐ 1.8k",
-      "desc": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and s",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/zhu1090093659/dsh-web-ui"
-    },
-    {
-      "title": "ShawnPana/phone-harness: let your agent control your phone",
-      "hot": "⭐ 1.8k",
-      "desc": "let your agent control your phone",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/ShawnPana/phone-harness"
-    },
-    {
-      "title": "oil-oil/oil-motion: Create smooth, responsive interactive web animations.",
-      "hot": "⭐ 1.7k",
-      "desc": "Create smooth, responsive interactive web animations.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/oil-oil/oil-motion"
-    },
-    {
-      "title": "SMNETSTUDIO/WeChat-AI: ",
-      "hot": "⭐ 1.7k",
-      "desc": "SMNETSTUDIO/WeChat-AI",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/SMNETSTUDIO/WeChat-AI"
-    },
-    {
-      "title": "xoreaxeaxeax/skitter-creek-bath-salts: Unlocking _everything_ on the CPU with DR",
-      "hot": "⭐ 1.4k",
-      "desc": "Unlocking _everything_ on the CPU with DRAM scrambling",
-      "source": "github",
-      "tag": "C",
-      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts"
-    },
-    {
-      "title": "anywhere-labs/deepseek-harness-desktop: 为 DeepSeek Harness 生态打造的现代化桌面端体验",
-      "hot": "⭐ 1.2k",
-      "desc": "为 DeepSeek Harness 生态打造的现代化桌面端体验",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop"
-    },
-    {
-      "title": "cordiverse/paper: A Programming Paradigm for Spatiotemporal Composability",
-      "hot": "⭐ 1.2k",
-      "desc": "A Programming Paradigm for Spatiotemporal Composability",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/cordiverse/paper"
-    },
-    {
-      "title": "Leutenegger/book-to-skill: Turn any technical book PDF into a Claude Code skill ",
-      "hot": "⭐ 1.1k",
-      "desc": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/Leutenegger/book-to-skill"
-    },
-    {
-      "title": "gvzdv/claudish-to-english: ",
-      "hot": "⭐ 1.0k",
-      "desc": "gvzdv/claudish-to-english",
-      "source": "github",
-      "tag": "Shell",
-      "url": "https://github.com/gvzdv/claudish-to-english"
-    },
-    {
-      "title": "SaladDay/pi-from-scratch: 600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
-      "hot": "⭐ 965",
-      "desc": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/SaladDay/pi-from-scratch"
-    },
-    {
-      "title": "Flaminis/Dalaran: Dalaran — Apache-2.0, robotics-first visualization and data in",
-      "hot": "⭐ 960",
-      "desc": "Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/Flaminis/Dalaran"
-    },
-    {
-      "title": "MengTo/kage: An interactive five-chapter night walk through a Kyoto mountain tem",
-      "hot": "⭐ 935",
-      "desc": "An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.",
-      "source": "github",
-      "tag": "HTML",
-      "url": "https://github.com/MengTo/kage"
-    }
-  ],
-  "tech": [
-    {
-      "title": "Every Fucking Website",
-      "hot": "3.0m",
-      "desc": "lxe.github.io",
-      "source": "tech",
-      "tag": "⬆️ 113 points",
-      "url": "https://lxe.github.io/everywebsite/"
-    },
-    {
-      "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
-      "hot": "3.0m",
-      "desc": "z.ai",
-      "source": "tech",
-      "tag": "⬆️ 819 points",
-      "url": "https://z.ai/blog/glm-5.3"
-    },
-    {
-      "title": "In Australia, a Home Battery Boom Has Helped Cut Wholesale Power Prices in Half",
-      "hot": "3.0m",
-      "desc": "e360.yale.edu",
-      "source": "tech",
-      "tag": "⬆️ 105 points",
-      "url": "https://e360.yale.edu/digest/australia-home-batteries"
-    },
-    {
-      "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
-      "hot": "3.0m",
-      "desc": "weightythoughts.com",
-      "source": "tech",
-      "tag": "⬆️ 14 points",
-      "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual"
-    },
-    {
-      "title": "Don't classify, hallucinate!",
-      "hot": "2.9m",
-      "desc": "softwaredoug.com",
-      "source": "tech",
-      "tag": "⬆️ 121 points",
-      "url": "https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications"
-    },
-    {
-      "title": "DeepSeek peak/off-peak pricing update",
-      "hot": "2.9m",
-      "desc": "api-docs.deepseek.com",
-      "source": "tech",
-      "tag": "⬆️ 161 points",
-      "url": "https://api-docs.deepseek.com/news/news260813/"
-    },
-    {
-      "title": "The TEMU-Fication of Software, Digital Goods and Services",
-      "hot": "2.9m",
-      "desc": "xn--gckvb8fzb.com",
-      "source": "tech",
-      "tag": "⬆️ 39 points",
-      "url": "https://xn--gckvb8fzb.com/the-temu-fication-of-software-digital-goods-services/"
-    },
-    {
-      "title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
-      "hot": "2.9m",
-      "desc": "heyjonny.dev",
-      "source": "tech",
-      "tag": "⬆️ 5 points",
-      "url": "https://heyjonny.dev/posts/rss-to-eink-newspaper/"
-    },
-    {
-      "title": "HashAgent – Share an AI agent as a URL, runs locally via WebGPU",
-      "hot": "2.9m",
-      "desc": "hashagent.pages.dev",
-      "source": "tech",
-      "tag": "⬆️ 16 points",
-      "url": "https://hashagent.pages.dev/"
-    },
-    {
-      "title": "Show HN: Lambdock – Wayland-native GTK4 dock with a live Lisp REPL",
-      "hot": "2.9m",
-      "desc": "codeberg.org",
-      "source": "tech",
-      "tag": "⬆️ 17 points",
-      "url": "https://codeberg.org/jjba23/lambdock"
-    },
-    {
-      "title": "AI Model Atlas – visualizing populations of ML models as interconnected 3D graph",
-      "hot": "2.9m",
-      "desc": "run.cosmograph.app",
-      "source": "tech",
-      "tag": "⬆️ 5 points",
-      "url": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0"
-    },
-    {
-      "title": "Qwen3.8-27B",
-      "hot": "2.8m",
-      "desc": "twitter.com",
-      "source": "tech",
-      "tag": "⬆️ 18 points",
-      "url": "https://twitter.com/alibaba_qwen/status/2088280182356611304"
-    },
-    {
-      "title": "Gemini 3.7 Flash",
-      "hot": "2.8m",
-      "desc": "blog.google",
-      "source": "tech",
-      "tag": "⬆️ 926 points",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/"
-    },
-    {
-      "title": "Show HN: We Implemented the IPv8 Internet-Draft in Linux, Libc, and BGP",
-      "hot": "2.8m",
-      "desc": "goonhost.rocks",
-      "source": "tech",
-      "tag": "⬆️ 20 points",
-      "url": "https://goonhost.rocks/blog/implementing-ipv8-internet-draft"
-    },
-    {
-      "title": "WhatCable: Know what your USB-C cable can do",
-      "hot": "2.8m",
-      "desc": "whatcable.uk",
-      "source": "tech",
-      "tag": "⬆️ 30 points",
-      "url": "https://www.whatcable.uk/"
-    },
-    {
-      "title": "Show HN: APIMart: Discounted AI API Aggregator for GPT-5, Sora 2",
-      "hot": "2.8m",
-      "desc": "apimart.ai",
-      "source": "tech",
-      "tag": "⬆️ 4 points",
-      "url": "https://apimart.ai/register?aff=yScTCM"
-    },
-    {
-      "title": "Why does Opus 5 feel worse to work with?",
-      "hot": "2.8m",
-      "desc": "mun-logadan.github.io",
-      "source": "tech",
-      "tag": "⬆️ 339 points",
-      "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/"
-    },
-    {
-      "title": "Differential Heuristics",
-      "hot": "2.7m",
-      "desc": "redblobgames.com",
-      "source": "tech",
-      "tag": "⬆️ 79 points",
-      "url": "https://www.redblobgames.com/blog/2026-08-08-differential-heuristics/"
-    },
-    {
-      "title": "We're not done with point clouds",
-      "hot": "2.7m",
-      "desc": "claytonwramsey.com",
-      "source": "tech",
-      "tag": "⬆️ 47 points",
-      "url": "https://claytonwramsey.com/blog/mvt/"
-    },
-    {
-      "title": "Hello, me. It's been a while",
-      "hot": "2.7m",
-      "desc": "themech.net",
-      "source": "tech",
-      "tag": "⬆️ 323 points",
-      "url": "https://themech.net/2026/08/hello-me-its-been-a-while/"
-    }
-  ],
   "dev": [
     {
       "title": "Hey all! I’m Jem, the DEV Community Program Coordinator",
@@ -418,7 +418,7 @@
     },
     {
       "title": "What was your win this week??",
-      "hot": "❤️ 15 💬 5",
+      "hot": "❤️ 16 💬 5",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "weeklyretro,  discuss",
@@ -433,20 +433,20 @@
       "url": "https://dev.to/gde/lookers-native-mcp-server-with-claude-code-11j8"
     },
     {
-      "title": "Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU",
-      "hot": "❤️ 7 💬 0",
-      "desc": "A field report on serving Gemma 4 E2B under vLLM on AWS G5g — the only aarch64 + SM 7.5 hardware there is. No published ",
-      "source": "dev",
-      "tag": "aws,  vllm",
-      "url": "https://dev.to/gde/running-gemma-4-on-ec2-g5g-graviton2-amd-with-nvidia-gpu-25ci"
-    },
-    {
       "title": "It's always Doom https://ood.dev/posts/doom/",
       "hot": "❤️ 4 💬 0",
       "desc": "...",
       "source": "dev",
       "tag": "gamedev,  programming",
       "url": "https://dev.to/ben/its-always-doom-httpsooddevpostsdoom-4fpi"
+    },
+    {
+      "title": "Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU",
+      "hot": "❤️ 8 💬 0",
+      "desc": "A field report on serving Gemma 4 E2B under vLLM on AWS G5g — the only aarch64 + SM 7.5 hardware there is. No published ",
+      "source": "dev",
+      "tag": "aws,  vllm",
+      "url": "https://dev.to/gde/running-gemma-4-on-ec2-g5g-graviton2-amd-with-nvidia-gpu-25ci"
     },
     {
       "title": "Riverpod to BlocSignal: Incremental Migration and Zero-Codegen Signals for Flutter",
@@ -466,7 +466,7 @@
     },
     {
       "title": "Join our DEV Weekend Challenge: Dog Days Edition! $1,000 in Prizes Across FIVE Winners. Submissions Due August 17 at 6:59 AM UTC.",
-      "hot": "❤️ 46 💬 5",
+      "hot": "❤️ 46 💬 6",
       "desc": "We're back with another DEV Weekend Challenge, a short bite-sized challenge planned to fit into your...",
       "source": "dev",
       "tag": "devchallenge,  weekendchallenge",
