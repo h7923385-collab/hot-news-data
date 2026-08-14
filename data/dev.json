@@ -10,19 +10,19 @@
     },
     {
       "title": "What was your win this week??",
-      "hot": "❤️ 13 💬 2",
+      "hot": "❤️ 15 💬 5",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "weeklyretro,  discuss",
       "url": "https://dev.to/devteam/what-was-your-win-this-week-23ob"
     },
     {
-      "title": "I Joined dev.to because...",
-      "hot": "❤️ 126 💬 98",
-      "desc": "Why not?     Just kidding, there is more to it. Just thought it flows well with the title...",
+      "title": "Looker's Native MCP Server with Claude Code",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Looker hosts its own MCP server now. This walks through connecting Claude Code to it, pairing it with...",
       "source": "dev",
-      "tag": "discuss,  community",
-      "url": "https://dev.to/francistrdev/i-joined-devto-because-fl0"
+      "tag": "mcp,  looker",
+      "url": "https://dev.to/gde/lookers-native-mcp-server-with-claude-code-11j8"
     },
     {
       "title": "Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU",
@@ -41,20 +41,36 @@
       "url": "https://dev.to/ben/its-always-doom-httpsooddevpostsdoom-4fpi"
     },
     {
-      "title": "Join our DEV Weekend Challenge: Dog Days Edition! $1,000 in Prizes Across FIVE Winners. Submissions Due August 17 at 6:59 AM UTC.",
-      "hot": "❤️ 45 💬 4",
-      "desc": "We're back with another DEV Weekend Challenge, a short bite-sized challenge planned to fit into your...",
-      "source": "dev",
-      "tag": "devchallenge,  weekendchallenge",
-      "url": "https://dev.to/devteam/join-our-dev-weekend-challenge-dog-days-edition-1000-in-prizes-across-five-winners-submissions-1g4i"
-    },
-    {
       "title": "Riverpod to BlocSignal: Incremental Migration and Zero-Codegen Signals for Flutter",
       "hot": "❤️ 7 💬 1",
       "desc": "Learn how to trial or incrementally migrate from Riverpod to BlocSignal with zero code generation, fine-grained signal g",
       "source": "dev",
       "tag": "flutter,  dart",
       "url": "https://dev.to/gde/riverpod-to-blocsignal-incremental-migration-and-zero-codegen-signals-for-flutter-1gdp"
+    },
+    {
+      "title": "Dart 3.13 Primary Constructors + BlocSignal: Boilerplate-Free Reactive Architecture",
+      "hot": "❤️ 5 💬 0",
+      "desc": "Discover how Dart 3.13 primary constructors, 'this' constructor bodies, and constructor shorthands transform BlocSignal ",
+      "source": "dev",
+      "tag": "flutter,  dart",
+      "url": "https://dev.to/gde/dart-313-primary-constructors-blocsignal-boilerplate-free-reactive-architecture-5fll"
+    },
+    {
+      "title": "Join our DEV Weekend Challenge: Dog Days Edition! $1,000 in Prizes Across FIVE Winners. Submissions Due August 17 at 6:59 AM UTC.",
+      "hot": "❤️ 46 💬 5",
+      "desc": "We're back with another DEV Weekend Challenge, a short bite-sized challenge planned to fit into your...",
+      "source": "dev",
+      "tag": "devchallenge,  weekendchallenge",
+      "url": "https://dev.to/devteam/join-our-dev-weekend-challenge-dog-days-edition-1000-in-prizes-across-five-winners-submissions-1g4i"
+    },
+    {
+      "title": "I Joined dev.to because...",
+      "hot": "❤️ 127 💬 99",
+      "desc": "Why not?     Just kidding, there is more to it. Just thought it flows well with the title...",
+      "source": "dev",
+      "tag": "discuss,  community",
+      "url": "https://dev.to/francistrdev/i-joined-devto-because-fl0"
     },
     {
       "title": "Do I Still Need a Monkey Patch for Gemini Live?",
@@ -90,7 +106,7 @@
     },
     {
       "title": "Backend Engineer (Me) Ships a Browser Game With One Unintentional System Requirement: My Monitor",
-      "hot": "❤️ 85 💬 49",
+      "hot": "❤️ 87 💬 50",
       "desc": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.           Prefer...",
       "source": "dev",
       "tag": "devchallenge,  bugsmash",
@@ -122,7 +138,7 @@
     },
     {
       "title": "Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK",
-      "hot": "❤️ 24 💬 3",
+      "hot": "❤️ 24 💬 4",
       "desc": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry.          ...",
       "source": "dev",
       "tag": "devchallenge,  bugsmash",
@@ -130,7 +146,7 @@
     },
     {
       "title": "I Built a ₹15 Landing Page About Mumbai's Soul Food",
-      "hot": "❤️ 38 💬 11",
+      "hot": "❤️ 38 💬 12",
       "desc": "A scroll-driven cinematic page about vada pav. No framework, no build step. Just HTML, CSS, and a story worth telling. D",
       "source": "dev",
       "tag": "devchallenge,  frontendchallenge",
@@ -143,23 +159,7 @@
       "source": "dev",
       "tag": "gemini,  vibecoding",
       "url": "https://dev.to/gde/vibecoding-eventmatch-built-with-antigravity-adk-and-gemini-2gc7"
-    },
-    {
-      "title": "Preventing Quota Crashes via Antigravity CLI Agent Hooks",
-      "hot": "❤️ 8 💬 0",
-      "desc": "Solving the LLM quota monitoring paradox with zero-overhead local Connect RPC agent...",
-      "source": "dev",
-      "tag": "ai,  gemini",
-      "url": "https://dev.to/gde/preventing-quota-crashes-via-antigravity-cli-agent-hooks-24hd"
-    },
-    {
-      "title": "The Accidental DDOS: How a Single React Bracket Triggered 100,000 API Requests and Melted Our Database",
-      "hot": "❤️ 22 💬 6",
-      "desc": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.  Introduction: The...",
-      "source": "dev",
-      "tag": "devchallenge,  bugsmash",
-      "url": "https://dev.to/pooja_bhavani/the-accidental-ddos-how-a-single-react-bracket-triggered-100000-api-requests-and-melted-our-36li"
     }
   ],
-  "updatedAt": "2026-08-14T14:04:31.189Z"
+  "updatedAt": "2026-08-14T15:11:22.683Z"
 }
