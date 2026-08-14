@@ -1,169 +1,177 @@
 {
-  "updatedAt": "2026-08-14T21:12:42.487Z",
+  "updatedAt": "2026-08-14T21:44:56.427Z",
   "source": "live",
-  "dev": [
+  "tech": [
     {
-      "title": "What was your win this week??",
-      "hot": "❤️ 36 💬 11",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "weeklyretro,  discuss",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-23ob"
+      "title": "Qwen 3.8 27B",
+      "hot": "3.0m",
+      "desc": "huggingface.co",
+      "source": "tech",
+      "tag": "⬆️ 723 points",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8"
     },
     {
-      "title": "Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity",
-      "hot": "❤️ 12 💬 0",
-      "desc": "How to rescue abandoned open-source projects, modernize build systems, and generate multi-architecture Docker images (x8",
-      "source": "dev",
-      "tag": "opensource,  devops",
-      "url": "https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo"
+      "title": "Study links coffee consumption to metabolic health and sex hormones",
+      "hot": "3.0m",
+      "desc": "oulu.fi",
+      "source": "tech",
+      "tag": "⬆️ 27 points",
+      "url": "https://www.oulu.fi/en/news/study-links-coffee-consumption-metabolic-health-and-sex-hormones"
     },
     {
-      "title": "Looker's Native MCP Server with Claude Code",
-      "hot": "❤️ 7 💬 0",
-      "desc": "Looker hosts its own MCP server now. This walks through connecting Claude Code to it, pairing it with...",
-      "source": "dev",
-      "tag": "mcp,  looker",
-      "url": "https://dev.to/gde/lookers-native-mcp-server-with-claude-code-11j8"
+      "title": "Seven books I keep close because I love them",
+      "hot": "3.0m",
+      "desc": "blog.plover.com",
+      "source": "tech",
+      "tag": "⬆️ 267 points",
+      "url": "https://blog.plover.com/2026/08/02/"
     },
     {
-      "title": "[Dev Log][Python] Create short videos from photos and clips with Gemini 3.7 Flash: ReelCraft",
-      "hot": "❤️ 8 💬 1",
-      "desc": "Preface:   It all started with a misunderstanding.  I noticed a new page in the Gemini API...",
-      "source": "dev",
-      "tag": "ai,  gemini",
-      "url": "https://dev.to/gde/dev-logpython-create-short-videos-from-photos-and-clips-with-gemini-37-flash-reelcraft-1gc6"
+      "title": "RustDesk now supports true unattended remote access on Wayland",
+      "hot": "3.0m",
+      "desc": "rustdesk.com",
+      "source": "tech",
+      "tag": "⬆️ 170 points",
+      "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/"
     },
     {
-      "title": "Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU",
-      "hot": "❤️ 10 💬 0",
-      "desc": "A field report on serving Gemma 4 E2B under vLLM on AWS G5g — the only aarch64 + SM 7.5 hardware there is. No published ",
-      "source": "dev",
-      "tag": "aws,  vllm",
-      "url": "https://dev.to/gde/running-gemma-4-on-ec2-g5g-graviton2-amd-with-nvidia-gpu-25ci"
+      "title": "Why does Opus 5 feel worse to work with?",
+      "hot": "2.9m",
+      "desc": "mun-logadan.github.io",
+      "source": "tech",
+      "tag": "⬆️ 660 points",
+      "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/"
     },
     {
-      "title": "It's always Doom https://ood.dev/posts/doom/",
-      "hot": "❤️ 4 💬 0",
-      "desc": "...",
-      "source": "dev",
-      "tag": "gamedev,  programming",
-      "url": "https://dev.to/ben/its-always-doom-httpsooddevpostsdoom-4fpi"
+      "title": "Google is making private AI practical with homomorphic encryption",
+      "hot": "2.9m",
+      "desc": "blog.google",
+      "source": "tech",
+      "tag": "⬆️ 195 points",
+      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/"
     },
     {
-      "title": "Dart 3.13 Primary Constructors + BlocSignal: Boilerplate-Free Reactive Architecture",
-      "hot": "❤️ 11 💬 0",
-      "desc": "Discover how Dart 3.13 primary constructors, 'this' constructor bodies, and constructor shorthands transform BlocSignal ",
-      "source": "dev",
-      "tag": "flutter,  dart",
-      "url": "https://dev.to/gde/dart-313-primary-constructors-blocsignal-boilerplate-free-reactive-architecture-5fll"
+      "title": "Everything is about to \"go dark\"",
+      "hot": "2.9m",
+      "desc": "blog.cryptographyengineering.com",
+      "source": "tech",
+      "tag": "⬆️ 19 points",
+      "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/"
     },
     {
-      "title": "I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.",
-      "hot": "❤️ 33 💬 31",
-      "desc": "github.com/deghosal-2026/agent-tooltrust · pip install agent-tooltrust · field test report · design...",
-      "source": "dev",
-      "tag": "ai,  agents",
-      "url": "https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb"
+      "title": "What You Gain by Building Your Own Game Engine",
+      "hot": "2.9m",
+      "desc": "eliasfarhan.ch",
+      "source": "tech",
+      "tag": "⬆️ 20 points",
+      "url": "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html"
     },
     {
-      "title": "Riverpod to BlocSignal: Incremental Migration and Zero-Codegen Signals for Flutter",
-      "hot": "❤️ 7 💬 1",
-      "desc": "Learn how to trial or incrementally migrate from Riverpod to BlocSignal with zero code generation, fine-grained signal g",
-      "source": "dev",
-      "tag": "flutter,  dart",
-      "url": "https://dev.to/gde/riverpod-to-blocsignal-incremental-migration-and-zero-codegen-signals-for-flutter-1gdp"
+      "title": "Introducing Toast 1",
+      "hot": "2.9m",
+      "desc": "mixedbread.com",
+      "source": "tech",
+      "tag": "⬆️ 151 points",
+      "url": "https://www.mixedbread.com/blog/toast-1"
     },
     {
-      "title": "Hey all! I’m Jem, the DEV Community Program Coordinator",
-      "hot": "❤️ 146 💬 55",
-      "desc": "It feels good to finally be writing this.  I've been working part-time behind the scenes at DEV for...",
-      "source": "dev",
-      "tag": "meta",
-      "url": "https://dev.to/devteam/hey-all-im-jem-the-dev-community-program-coordinator-2g2"
+      "title": "AI by Hand",
+      "hot": "2.9m",
+      "desc": "byhand.ai",
+      "source": "tech",
+      "tag": "⬆️ 133 points",
+      "url": "https://www.byhand.ai/"
     },
     {
-      "title": "Join our DEV Weekend Challenge: Dog Days Edition! $1,000 in Prizes Across FIVE Winners. Submissions Due August 17 at 6:59 AM UTC.",
-      "hot": "❤️ 52 💬 7",
-      "desc": "We're back with another DEV Weekend Challenge, a short bite-sized challenge planned to fit into your...",
-      "source": "dev",
-      "tag": "devchallenge,  weekendchallenge",
-      "url": "https://dev.to/devteam/join-our-dev-weekend-challenge-dog-days-edition-1000-in-prizes-across-five-winners-submissions-1g4i"
+      "title": "Show HN: Ember – Redshift safe color palettes",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 29 points",
+      "url": "https://github.com/carpdiem/ember"
     },
     {
-      "title": "My (not so pretty) journey in tech",
-      "hot": "❤️ 26 💬 6",
-      "desc": "Ever since I joined the platform, I wanted to post about a topic I was really passionate about....",
-      "source": "dev",
-      "tag": "discuss,  programming",
-      "url": "https://dev.to/ishacodes/why-i-joined-devto--5c63"
+      "title": "New Lower and Upper Bounds for the Grothendieck Constant",
+      "hot": "2.8m",
+      "desc": "arxiv.org",
+      "source": "tech",
+      "tag": "⬆️ 17 points",
+      "url": "https://arxiv.org/abs/2608.11158"
     },
     {
-      "title": "I Joined dev.to because...",
-      "hot": "❤️ 129 💬 100",
-      "desc": "Why not?     Just kidding, there is more to it. Just thought it flows well with the title...",
-      "source": "dev",
-      "tag": "discuss,  community",
-      "url": "https://dev.to/francistrdev/i-joined-devto-because-fl0"
+      "title": "Ultraviolet Bird Photography",
+      "hot": "2.8m",
+      "desc": "uvbirds.com",
+      "source": "tech",
+      "tag": "⬆️ 80 points",
+      "url": "https://uvbirds.com/"
     },
     {
-      "title": "Do I Still Need a Monkey Patch for Gemini Live?",
-      "hot": "❤️ 10 💬 2",
-      "desc": "No. And deleting 187 lines of it was the single biggest benefit of moving to ADK 2.x — but it was not...",
-      "source": "dev",
-      "tag": "python,  googleadk",
-      "url": "https://dev.to/gde/do-i-still-need-a-monkey-patch-for-gemini-live-4c3e"
+      "title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
+      "hot": "2.8m",
+      "desc": "heyjonny.dev",
+      "source": "tech",
+      "tag": "⬆️ 107 points",
+      "url": "https://heyjonny.dev/posts/rss-to-eink-newspaper/"
     },
     {
-      "title": "Latency vs. Tokens: What I Learned Optimizing an Agent with Gemma (and What Didn't Work)",
-      "hot": "❤️ 14 💬 2",
-      "desc": "I'd been waiting for more than 30 minutes. The terminal just sat there, blinking, without returning a...",
-      "source": "dev",
-      "tag": "gemma,  genai",
-      "url": "https://dev.to/gde/latency-vs-tokens-what-i-learned-optimizing-an-agent-with-gemma-and-what-didnt-work-445g"
+      "title": "Show HN: Mole – Deep research agent for your terminal",
+      "hot": "2.8m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 27 points",
+      "url": "https://github.com/lajosdeme/mole"
     },
     {
-      "title": "How Many Introductions Away Are You From Pedro Pascal? A Practical Introduction to Graph Search",
-      "hot": "❤️ 30 💬 26",
-      "desc": "I was watching The Mandalorian the other day when it struck me that I don't know Pedro Pascal, which...",
-      "source": "dev",
-      "tag": "algorithms,  datastructures",
-      "url": "https://dev.to/ale3oula/how-many-introductions-away-are-you-from-pedro-pascal-a-practical-introduction-to-graph-search-5bfg"
+      "title": "ICTP Announces 2026 Dirac Medal Recipients (Physics)",
+      "hot": "2.8m",
+      "desc": "ictp.it",
+      "source": "tech",
+      "tag": "⬆️ 6 points",
+      "url": "https://www.ictp.it/news/2026/8/ictp-announces-2026-dirac-medal-recipients"
     },
     {
-      "title": "Serving Gemma 4 2B on a Single TPU v5e Chip with MCP and Antigravity CLI",
-      "hot": "❤️ 9 💬 0",
-      "desc": "This article is the v5e follow-on to the v6e-1 debugging guide. Same MCP tooling, same Antigravity...",
-      "source": "dev",
-      "tag": "antigravitycli,  python",
-      "url": "https://dev.to/gde/serving-gemma-4-2b-on-a-single-tpu-v5e-chip-with-mcp-and-antigravity-cli-33l8"
+      "title": "Turbo Pascal on CP/M, MSX-DOS and MS-DOS – Pascal for Small Machines",
+      "hot": "2.8m",
+      "desc": "pascal.hansotten.com",
+      "source": "tech",
+      "tag": "⬆️ 49 points",
+      "url": "http://pascal.hansotten.com/delphi/turbo-pascal-on-cpm-msx-dos-and-ms-dos/"
     },
     {
-      "title": "Backend Engineer (Me) Ships a Browser Game With One Unintentional System Requirement: My Monitor",
-      "hot": "❤️ 90 💬 52",
-      "desc": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.           Prefer...",
-      "source": "dev",
-      "tag": "devchallenge,  bugsmash",
-      "url": "https://dev.to/georgekobaidze/backend-engineer-me-ships-a-browser-game-with-one-unintentional-system-requirement-my-monitor-1ojd"
+      "title": "Maximizing the value of your Claude Code sessions",
+      "hot": "2.7m",
+      "desc": "claude.com",
+      "source": "tech",
+      "tag": "⬆️ 97 points",
+      "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions"
     },
     {
-      "title": "MCP Configuration for Looker with Codex",
-      "hot": "❤️ 15 💬 2",
-      "desc": "This article covers the MCP setup and configuration for using Looker with Codex to enhance and extend...",
-      "source": "dev",
-      "tag": "mcp,  codex",
-      "url": "https://dev.to/gde/mcp-configuration-for-looker-with-codex-30e1"
+      "title": "Every exterior shot in The Taking of Pelham 123",
+      "hot": "2.7m",
+      "desc": "iafisher.com",
+      "source": "tech",
+      "tag": "⬆️ 12 points",
+      "url": "https://iafisher.com/2026/07/pelham-123"
     },
     {
-      "title": "Managed Inference on Google Cloud: Pairing the Gemini Enterprise Agent Platform with Cloud Run",
-      "hot": "❤️ 18 💬 7",
-      "desc": "Learn how to run managed AI inference on Google Cloud by pairing the Gemini Enterprise Agent Platform with Cloud Run — w",
-      "source": "dev",
-      "tag": "cloudrun,  geminienterpriseagentplatform",
-      "url": "https://dev.to/gdg/managed-inference-on-google-cloud-pairing-the-gemini-enterprise-agent-platform-with-cloud-run-246j"
+      "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua",
+      "hot": "2.7m",
+      "desc": "luacad.ad-si.com",
+      "source": "tech",
+      "tag": "⬆️ 55 points",
+      "url": "https://luacad.ad-si.com"
     }
   ],
   "space": [
+    {
+      "title": "Isaacman “Extremely Confident” Artemis III Will Launch in 2027",
+      "hot": "8/14",
+      "desc": "NASA Administrator Jared Isaacman said today he’s “extremely confident” Artemis III will launch next year to test rendezvous and docking operations be",
+      "source": "space",
+      "tag": "SpacePolicyOnline.com",
+      "url": "https://spacepolicyonline.com/news/isaacman-extremely-confident-artemis-iii-will-launch-in-2027/"
+    },
     {
       "title": "NASA Competition Invites Students to Help Imagine a Future Enabled by Lunar Technologies",
       "hot": "8/14",
@@ -275,182 +283,12 @@
       "source": "space",
       "tag": "Arstechnica",
       "url": "https://arstechnica.com/space/2026/08/rocket-report-rocket-lab-shows-off-its-flexibility-blue-origins-two-pad-plan/"
-    },
-    {
-      "title": "A look back at the 2026 total solar eclipse",
-      "hot": "8/14",
-      "desc": "On 12 August 2026, Europe witnessed the first total solar eclipse in over two decades. Millions of people were awed by the Moon completely covering th",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/A_look_back_at_the_2026_total_solar_eclipse"
-    }
-  ],
-  "tech": [
-    {
-      "title": "Qwen 3.8 27B",
-      "hot": "3.0m",
-      "desc": "huggingface.co",
-      "source": "tech",
-      "tag": "⬆️ 681 points",
-      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8"
-    },
-    {
-      "title": "Seven books I keep close because I love them",
-      "hot": "3.0m",
-      "desc": "blog.plover.com",
-      "source": "tech",
-      "tag": "⬆️ 245 points",
-      "url": "https://blog.plover.com/2026/08/02/"
-    },
-    {
-      "title": "Anthropic Risk August 2026 [pdf]",
-      "hot": "3.0m",
-      "desc": "www-cdn.anthropic.com",
-      "source": "tech",
-      "tag": "⬆️ 35 points",
-      "url": "https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf"
-    },
-    {
-      "title": "RustDesk now supports true unattended remote access on Wayland",
-      "hot": "3.0m",
-      "desc": "rustdesk.com",
-      "source": "tech",
-      "tag": "⬆️ 156 points",
-      "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/"
-    },
-    {
-      "title": "Why does Opus 5 feel worse to work with?",
-      "hot": "2.9m",
-      "desc": "mun-logadan.github.io",
-      "source": "tech",
-      "tag": "⬆️ 634 points",
-      "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/"
-    },
-    {
-      "title": "Google is making private AI practical with homomorphic encryption",
-      "hot": "2.9m",
-      "desc": "blog.google",
-      "source": "tech",
-      "tag": "⬆️ 184 points",
-      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/"
-    },
-    {
-      "title": "Introducing Toast 1",
-      "hot": "2.9m",
-      "desc": "mixedbread.com",
-      "source": "tech",
-      "tag": "⬆️ 146 points",
-      "url": "https://www.mixedbread.com/blog/toast-1"
-    },
-    {
-      "title": "Show HN: Ember – Redshift safe color palettes",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 23 points",
-      "url": "https://github.com/carpdiem/ember"
-    },
-    {
-      "title": "AI by Hand",
-      "hot": "2.9m",
-      "desc": "byhand.ai",
-      "source": "tech",
-      "tag": "⬆️ 115 points",
-      "url": "https://www.byhand.ai/"
-    },
-    {
-      "title": "Ultraviolet Bird Photography",
-      "hot": "2.9m",
-      "desc": "uvbirds.com",
-      "source": "tech",
-      "tag": "⬆️ 73 points",
-      "url": "https://uvbirds.com/"
-    },
-    {
-      "title": "What You Gain by Building Your Own Game Engine",
-      "hot": "2.9m",
-      "desc": "eliasfarhan.ch",
-      "source": "tech",
-      "tag": "⬆️ 11 points",
-      "url": "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html"
-    },
-    {
-      "title": "Show HN: Mole – Deep research agent for your terminal",
-      "hot": "2.8m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 23 points",
-      "url": "https://github.com/lajosdeme/mole"
-    },
-    {
-      "title": "Every exterior shot in The Taking of Pelham 123",
-      "hot": "2.8m",
-      "desc": "iafisher.com",
-      "source": "tech",
-      "tag": "⬆️ 8 points",
-      "url": "https://iafisher.com/2026/07/pelham-123"
-    },
-    {
-      "title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
-      "hot": "2.8m",
-      "desc": "heyjonny.dev",
-      "source": "tech",
-      "tag": "⬆️ 100 points",
-      "url": "https://heyjonny.dev/posts/rss-to-eink-newspaper/"
-    },
-    {
-      "title": "New Lower and Upper Bounds for the Grothendieck Constant",
-      "hot": "2.8m",
-      "desc": "arxiv.org",
-      "source": "tech",
-      "tag": "⬆️ 12 points",
-      "url": "https://arxiv.org/abs/2608.11158"
-    },
-    {
-      "title": "Turbo Pascal on CP/M, MSX-DOS and MS-DOS – Pascal for Small Machines",
-      "hot": "2.8m",
-      "desc": "pascal.hansotten.com",
-      "source": "tech",
-      "tag": "⬆️ 45 points",
-      "url": "http://pascal.hansotten.com/delphi/turbo-pascal-on-cpm-msx-dos-and-ms-dos/"
-    },
-    {
-      "title": "Maximizing the value of your Claude Code sessions",
-      "hot": "2.8m",
-      "desc": "claude.com",
-      "source": "tech",
-      "tag": "⬆️ 92 points",
-      "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions"
-    },
-    {
-      "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua",
-      "hot": "2.7m",
-      "desc": "luacad.ad-si.com",
-      "source": "tech",
-      "tag": "⬆️ 52 points",
-      "url": "https://luacad.ad-si.com"
-    },
-    {
-      "title": "CEO who fired 900 people on Zoom just before Christmas wants his job back",
-      "hot": "2.7m",
-      "desc": "cnn.com",
-      "source": "tech",
-      "tag": "⬆️ 53 points",
-      "url": "https://www.cnn.com/2026/08/14/business/vishal-garg-better-ceo"
-    },
-    {
-      "title": "Moving integer division to floating-point is trivial",
-      "hot": "2.7m",
-      "desc": "marc-b-reynolds.github.io",
-      "source": "tech",
-      "tag": "⬆️ 22 points",
-      "url": "http://marc-b-reynolds.github.io/math/2026/08/10/IntDivByFP.html"
     }
   ],
   "github": [
     {
       "title": "deepseek-ai/deepseek-harness: DeepSeek Harness: Everything is a Plugin.",
-      "hot": "⭐ 94.6k",
+      "hot": "⭐ 94.7k",
       "desc": "DeepSeek Harness: Everything is a Plugin.",
       "source": "github",
       "tag": "TypeScript",
@@ -553,9 +391,9 @@
       "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin"
     },
     {
-      "title": "SaladDay/pi-from-scratch: 600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 ��出属于你的 pi-agent",
+      "title": "SaladDay/pi-from-scratch: 600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
       "hot": "⭐ 976",
-      "desc": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 ��出属于你的 pi-agent",
+      "desc": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/SaladDay/pi-from-scratch"
@@ -567,6 +405,168 @@
       "source": "github",
       "tag": "Rust",
       "url": "https://github.com/Flaminis/Dalaran"
+    }
+  ],
+  "dev": [
+    {
+      "title": "What was your win this week??",
+      "hot": "❤️ 36 💬 11",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "weeklyretro,  discuss",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-23ob"
+    },
+    {
+      "title": "Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity",
+      "hot": "❤️ 12 💬 0",
+      "desc": "How to rescue abandoned open-source projects, modernize build systems, and generate multi-architecture Docker images (x8",
+      "source": "dev",
+      "tag": "opensource,  devops",
+      "url": "https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo"
+    },
+    {
+      "title": "Looker's Native MCP Server with Claude Code",
+      "hot": "❤️ 7 💬 0",
+      "desc": "Looker hosts its own MCP server now. This walks through connecting Claude Code to it, pairing it with...",
+      "source": "dev",
+      "tag": "mcp,  looker",
+      "url": "https://dev.to/gde/lookers-native-mcp-server-with-claude-code-11j8"
+    },
+    {
+      "title": "[Dev Log][Python] Create short videos from photos and clips with Gemini 3.7 Flash: ReelCraft",
+      "hot": "❤️ 8 💬 1",
+      "desc": "Preface:   It all started with a misunderstanding.  I noticed a new page in the Gemini API...",
+      "source": "dev",
+      "tag": "ai,  gemini",
+      "url": "https://dev.to/gde/dev-logpython-create-short-videos-from-photos-and-clips-with-gemini-37-flash-reelcraft-1gc6"
+    },
+    {
+      "title": "Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU",
+      "hot": "❤️ 10 💬 0",
+      "desc": "A field report on serving Gemma 4 E2B under vLLM on AWS G5g — the only aarch64 + SM 7.5 hardware there is. No published ",
+      "source": "dev",
+      "tag": "aws,  vllm",
+      "url": "https://dev.to/gde/running-gemma-4-on-ec2-g5g-graviton2-amd-with-nvidia-gpu-25ci"
+    },
+    {
+      "title": "It's always Doom https://ood.dev/posts/doom/",
+      "hot": "❤️ 4 💬 0",
+      "desc": "...",
+      "source": "dev",
+      "tag": "gamedev,  programming",
+      "url": "https://dev.to/ben/its-always-doom-httpsooddevpostsdoom-4fpi"
+    },
+    {
+      "title": "Dart 3.13 Primary Constructors + BlocSignal: Boilerplate-Free Reactive Architecture",
+      "hot": "❤️ 11 💬 0",
+      "desc": "Discover how Dart 3.13 primary constructors, 'this' constructor bodies, and constructor shorthands transform BlocSignal ",
+      "source": "dev",
+      "tag": "flutter,  dart",
+      "url": "https://dev.to/gde/dart-313-primary-constructors-blocsignal-boilerplate-free-reactive-architecture-5fll"
+    },
+    {
+      "title": "I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.",
+      "hot": "❤️ 32 💬 31",
+      "desc": "github.com/deghosal-2026/agent-tooltrust · pip install agent-tooltrust · field test report · design...",
+      "source": "dev",
+      "tag": "ai,  agents",
+      "url": "https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb"
+    },
+    {
+      "title": "Riverpod to BlocSignal: Incremental Migration and Zero-Codegen Signals for Flutter",
+      "hot": "❤️ 7 💬 1",
+      "desc": "Learn how to trial or incrementally migrate from Riverpod to BlocSignal with zero code generation, fine-grained signal g",
+      "source": "dev",
+      "tag": "flutter,  dart",
+      "url": "https://dev.to/gde/riverpod-to-blocsignal-incremental-migration-and-zero-codegen-signals-for-flutter-1gdp"
+    },
+    {
+      "title": "Hey all! I’m Jem, the DEV Community Program Coordinator",
+      "hot": "❤️ 146 💬 55",
+      "desc": "It feels good to finally be writing this.  I've been working part-time behind the scenes at DEV for...",
+      "source": "dev",
+      "tag": "meta",
+      "url": "https://dev.to/devteam/hey-all-im-jem-the-dev-community-program-coordinator-2g2"
+    },
+    {
+      "title": "Join our DEV Weekend Challenge: Dog Days Edition! $1,000 in Prizes Across FIVE Winners. Submissions Due August 17 at 6:59 AM UTC.",
+      "hot": "❤️ 52 💬 7",
+      "desc": "We're back with another DEV Weekend Challenge, a short bite-sized challenge planned to fit into your...",
+      "source": "dev",
+      "tag": "devchallenge,  weekendchallenge",
+      "url": "https://dev.to/devteam/join-our-dev-weekend-challenge-dog-days-edition-1000-in-prizes-across-five-winners-submissions-1g4i"
+    },
+    {
+      "title": "My (not so pretty) journey in tech",
+      "hot": "❤️ 26 💬 6",
+      "desc": "Ever since I joined the platform, I wanted to post about a topic I was really passionate about....",
+      "source": "dev",
+      "tag": "discuss,  programming",
+      "url": "https://dev.to/ishacodes/why-i-joined-devto--5c63"
+    },
+    {
+      "title": "I Joined dev.to because...",
+      "hot": "❤️ 129 💬 100",
+      "desc": "Why not?     Just kidding, there is more to it. Just thought it flows well with the title...",
+      "source": "dev",
+      "tag": "discuss,  community",
+      "url": "https://dev.to/francistrdev/i-joined-devto-because-fl0"
+    },
+    {
+      "title": "Do I Still Need a Monkey Patch for Gemini Live?",
+      "hot": "❤️ 10 💬 2",
+      "desc": "No. And deleting 187 lines of it was the single biggest benefit of moving to ADK 2.x — but it was not...",
+      "source": "dev",
+      "tag": "python,  googleadk",
+      "url": "https://dev.to/gde/do-i-still-need-a-monkey-patch-for-gemini-live-4c3e"
+    },
+    {
+      "title": "Latency vs. Tokens: What I Learned Optimizing an Agent with Gemma (and What Didn't Work)",
+      "hot": "❤️ 14 💬 2",
+      "desc": "I'd been waiting for more than 30 minutes. The terminal just sat there, blinking, without returning a...",
+      "source": "dev",
+      "tag": "gemma,  genai",
+      "url": "https://dev.to/gde/latency-vs-tokens-what-i-learned-optimizing-an-agent-with-gemma-and-what-didnt-work-445g"
+    },
+    {
+      "title": "How Many Introductions Away Are You From Pedro Pascal? A Practical Introduction to Graph Search",
+      "hot": "❤️ 30 💬 26",
+      "desc": "I was watching The Mandalorian the other day when it struck me that I don't know Pedro Pascal, which...",
+      "source": "dev",
+      "tag": "algorithms,  datastructures",
+      "url": "https://dev.to/ale3oula/how-many-introductions-away-are-you-from-pedro-pascal-a-practical-introduction-to-graph-search-5bfg"
+    },
+    {
+      "title": "Serving Gemma 4 2B on a Single TPU v5e Chip with MCP and Antigravity CLI",
+      "hot": "❤️ 9 💬 0",
+      "desc": "This article is the v5e follow-on to the v6e-1 debugging guide. Same MCP tooling, same Antigravity...",
+      "source": "dev",
+      "tag": "antigravitycli,  python",
+      "url": "https://dev.to/gde/serving-gemma-4-2b-on-a-single-tpu-v5e-chip-with-mcp-and-antigravity-cli-33l8"
+    },
+    {
+      "title": "Backend Engineer (Me) Ships a Browser Game With One Unintentional System Requirement: My Monitor",
+      "hot": "❤️ 90 💬 52",
+      "desc": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.           Prefer...",
+      "source": "dev",
+      "tag": "devchallenge,  bugsmash",
+      "url": "https://dev.to/georgekobaidze/backend-engineer-me-ships-a-browser-game-with-one-unintentional-system-requirement-my-monitor-1ojd"
+    },
+    {
+      "title": "MCP Configuration for Looker with Codex",
+      "hot": "❤️ 15 💬 2",
+      "desc": "This article covers the MCP setup and configuration for using Looker with Codex to enhance and extend...",
+      "source": "dev",
+      "tag": "mcp,  codex",
+      "url": "https://dev.to/gde/mcp-configuration-for-looker-with-codex-30e1"
+    },
+    {
+      "title": "Managed Inference on Google Cloud: Pairing the Gemini Enterprise Agent Platform with Cloud Run",
+      "hot": "❤️ 18 💬 7",
+      "desc": "Learn how to run managed AI inference on Google Cloud by pairing the Gemini Enterprise Agent Platform with Cloud Run — w",
+      "source": "dev",
+      "tag": "cloudrun,  geminienterpriseagentplatform",
+      "url": "https://dev.to/gdg/managed-inference-on-google-cloud-pairing-the-gemini-enterprise-agent-platform-with-cloud-run-246j"
     }
   ]
 }
