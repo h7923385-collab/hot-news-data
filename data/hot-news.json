@@ -1,13 +1,183 @@
 {
-  "updatedAt": "2026-08-16T18:08:46.011Z",
+  "updatedAt": "2026-08-16T18:51:01.010Z",
   "source": "live",
+  "dev": [
+    {
+      "title": "[Dev Log][Python] Create short videos from photos and clips with Gemini 3.7 Flash: ReelCraft",
+      "hot": "❤️ 9 💬 2",
+      "desc": "Preface:   It all started with a misunderstanding.  I noticed a new page in the Gemini API...",
+      "source": "dev",
+      "tag": "ai,  gemini",
+      "url": "https://dev.to/gde/dev-logpython-create-short-videos-from-photos-and-clips-with-gemini-37-flash-reelcraft-1gc6"
+    },
+    {
+      "title": "It's always Doom https://ood.dev/posts/doom/",
+      "hot": "❤️ 4 💬 0",
+      "desc": "...",
+      "source": "dev",
+      "tag": "gamedev,  programming",
+      "url": "https://dev.to/ben/its-always-doom-httpsooddevpostsdoom-4fpi"
+    },
+    {
+      "title": "Riverpod to BlocSignal: Incremental Migration and Zero-Codegen Signals for Flutter",
+      "hot": "❤️ 7 💬 1",
+      "desc": "Learn how to trial or incrementally migrate from Riverpod to BlocSignal with zero code generation, fine-grained signal g",
+      "source": "dev",
+      "tag": "flutter,  dart",
+      "url": "https://dev.to/gde/riverpod-to-blocsignal-incremental-migration-and-zero-codegen-signals-for-flutter-1gdp"
+    },
+    {
+      "title": "I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.",
+      "hot": "❤️ 36 💬 48",
+      "desc": "Update 08/15 0.2.0 Released   github.com/deghosal-2026/agent-tooltrust · pip install agent-tooltrust...",
+      "source": "dev",
+      "tag": "ai,  agents",
+      "url": "https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb"
+    },
+    {
+      "title": "Hey all! I’m Jem, the DEV Community Program Coordinator",
+      "hot": "❤️ 157 💬 59",
+      "desc": "It feels good to finally be writing this.  I've been working part-time behind the scenes at DEV for...",
+      "source": "dev",
+      "tag": "meta",
+      "url": "https://dev.to/devteam/hey-all-im-jem-the-dev-community-program-coordinator-2g2"
+    },
+    {
+      "title": "What was your win this week??",
+      "hot": "❤️ 56 💬 39",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "weeklyretro,  discuss",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-23ob"
+    },
+    {
+      "title": "I Joined dev.to because...",
+      "hot": "❤️ 135 💬 112",
+      "desc": "Why not?     Just kidding, there is more to it. Just thought it flows well with the title...",
+      "source": "dev",
+      "tag": "discuss,  community",
+      "url": "https://dev.to/francistrdev/i-joined-devto-because-fl0"
+    },
+    {
+      "title": "Looker's Native MCP Server with Claude Code",
+      "hot": "❤️ 9 💬 0",
+      "desc": "Looker hosts its own MCP server now. This walks through connecting Claude Code to it, pairing it with...",
+      "source": "dev",
+      "tag": "mcp,  looker",
+      "url": "https://dev.to/gde/lookers-native-mcp-server-with-claude-code-11j8"
+    },
+    {
+      "title": "Do I Still Need a Monkey Patch for Gemini Live?",
+      "hot": "❤️ 10 💬 2",
+      "desc": "No. And deleting 187 lines of it was the single biggest benefit of moving to ADK 2.x — but it was not...",
+      "source": "dev",
+      "tag": "python,  googleadk",
+      "url": "https://dev.to/gde/do-i-still-need-a-monkey-patch-for-gemini-live-4c3e"
+    },
+    {
+      "title": "Serving Gemma 4 2B on a Single TPU v5e Chip with MCP and Antigravity CLI",
+      "hot": "❤️ 9 💬 0",
+      "desc": "This article is the v5e follow-on to the v6e-1 debugging guide. Same MCP tooling, same Antigravity...",
+      "source": "dev",
+      "tag": "antigravitycli,  python",
+      "url": "https://dev.to/gde/serving-gemma-4-2b-on-a-single-tpu-v5e-chip-with-mcp-and-antigravity-cli-33l8"
+    },
+    {
+      "title": "Backend Engineer (Me) Ships a Browser Game With One Unintentional System Requirement: My Monitor",
+      "hot": "❤️ 90 💬 57",
+      "desc": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.           Prefer...",
+      "source": "dev",
+      "tag": "devchallenge,  bugsmash",
+      "url": "https://dev.to/georgekobaidze/backend-engineer-me-ships-a-browser-game-with-one-unintentional-system-requirement-my-monitor-1ojd"
+    },
+    {
+      "title": "MCP Configuration for Looker with Codex",
+      "hot": "❤️ 15 💬 2",
+      "desc": "This article covers the MCP setup and configuration for using Looker with Codex to enhance and extend...",
+      "source": "dev",
+      "tag": "mcp,  codex",
+      "url": "https://dev.to/gde/mcp-configuration-for-looker-with-codex-30e1"
+    },
+    {
+      "title": "My (not so pretty) journey in tech",
+      "hot": "❤️ 27 💬 7",
+      "desc": "Ever since I joined the platform, I wanted to post about a topic I was really passionate about....",
+      "source": "dev",
+      "tag": "discuss,  programming",
+      "url": "https://dev.to/ishacodes/why-i-joined-devto--5c63"
+    },
+    {
+      "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
+      "hot": "❤️ 9 💬 0",
+      "desc": "This article explains how to build and test a cross-cloud currency agent. An Amazon Bedrock master...",
+      "source": "dev",
+      "tag": "agents,  googleadk",
+      "url": "https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b"
+    },
+    {
+      "title": "Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity",
+      "hot": "❤️ 18 💬 3",
+      "desc": "How to rescue abandoned open-source projects, modernize build systems, and generate multi-architecture Docker images (x8",
+      "source": "dev",
+      "tag": "opensource,  devops",
+      "url": "https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo"
+    },
+    {
+      "title": "Vibecoding EventMatch, built with Antigravity, ADK, and Gemini",
+      "hot": "❤️ 16 💬 0",
+      "desc": "Every week I get invited to more AI events than I can attend. Bond AI, Founders Bay, AI Collective,...",
+      "source": "dev",
+      "tag": "gemini,  vibecoding",
+      "url": "https://dev.to/gde/vibecoding-eventmatch-built-with-antigravity-adk-and-gemini-2gc7"
+    },
+    {
+      "title": "Dart 3.13 Primary Constructors + BlocSignal: Boilerplate-Free Reactive Architecture",
+      "hot": "❤️ 15 💬 0",
+      "desc": "Discover how Dart 3.13 primary constructors, 'this' constructor bodies, and constructor shorthands transform BlocSignal ",
+      "source": "dev",
+      "tag": "flutter,  dart",
+      "url": "https://dev.to/gde/dart-313-primary-constructors-blocsignal-boilerplate-free-reactive-architecture-5fll"
+    },
+    {
+      "title": "Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU",
+      "hot": "❤️ 12 💬 0",
+      "desc": "A field report on serving Gemma 4 E2B under vLLM on AWS G5g — the only aarch64 + SM 7.5 hardware there is. No published ",
+      "source": "dev",
+      "tag": "aws,  vllm",
+      "url": "https://dev.to/gde/running-gemma-4-on-ec2-g5g-graviton2-amd-with-nvidia-gpu-25ci"
+    },
+    {
+      "title": "The Accidental DDOS: How a Single React Bracket Triggered 100,000 API Requests and Melted Our Database",
+      "hot": "❤️ 22 💬 6",
+      "desc": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.  Introduction: The...",
+      "source": "dev",
+      "tag": "devchallenge,  bugsmash",
+      "url": "https://dev.to/pooja_bhavani/the-accidental-ddos-how-a-single-react-bracket-triggered-100000-api-requests-and-melted-our-36li"
+    },
+    {
+      "title": "Jem has quietly been working behind-the-scenes here at DEV for YEARS, and I'm so happy that they are finally introducing themselves to everyone!!",
+      "hot": "❤️ 30 💬 0",
+      "desc": "Hey all! I’m Jem, the DEV Community Program Coordinator            Jem steps up as part-time...",
+      "source": "dev",
+      "tag": "Dev.to",
+      "url": "https://dev.to/jess/jem-has-quietly-been-working-behind-the-scenes-here-at-dev-for-years-and-im-so-happy-that-they-129e"
+    }
+  ],
   "tech": [
+    {
+      "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
+      "hot": "3.0m",
+      "desc": "rvembedded.com",
+      "source": "tech",
+      "tag": "⬆️ 81 points",
+      "url": "https://rvembedded.com/blog_post/12/"
+    },
     {
       "title": "Claude: System Prompts",
       "hot": "3.0m",
       "desc": "platform.claude.com",
       "source": "tech",
-      "tag": "⬆️ 338 points",
+      "tag": "⬆️ 368 points",
       "url": "https://platform.claude.com/docs/en/release-notes/system-prompts"
     },
     {
@@ -15,7 +185,7 @@
       "hot": "3.0m",
       "desc": "vectoral.com",
       "source": "tech",
-      "tag": "⬆️ 132 points",
+      "tag": "⬆️ 150 points",
       "url": "https://vectoral.com/blog/who-are-the-token-brokers"
     },
     {
@@ -23,15 +193,15 @@
       "hot": "3.0m",
       "desc": "wptv.com",
       "source": "tech",
-      "tag": "⬆️ 77 points",
+      "tag": "⬆️ 94 points",
       "url": "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core"
     },
     {
       "title": "NIH is ending a key grant for budding clinical researchers",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "science.org",
       "source": "tech",
-      "tag": "⬆️ 41 points",
+      "tag": "⬆️ 63 points",
       "url": "https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers"
     },
     {
@@ -39,47 +209,23 @@
       "hot": "2.9m",
       "desc": "commonreader.wustl.edu",
       "source": "tech",
-      "tag": "⬆️ 23 points",
+      "tag": "⬆️ 33 points",
       "url": "https://commonreader.wustl.edu/winning-and-losing-at-the-great-game-of-intimacy/"
-    },
-    {
-      "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
-      "hot": "2.9m",
-      "desc": "rvembedded.com",
-      "source": "tech",
-      "tag": "⬆️ 22 points",
-      "url": "https://rvembedded.com/blog_post/12/"
     },
     {
       "title": "GPS and the Lost Art of Getting Lost",
       "hot": "2.9m",
       "desc": "newyorker.com",
       "source": "tech",
-      "tag": "⬆️ 32 points",
+      "tag": "⬆️ 45 points",
       "url": "https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost"
-    },
-    {
-      "title": "Clamiga: Common Lisp for the Amiga",
-      "hot": "2.9m",
-      "desc": "nnamgreb.de",
-      "source": "tech",
-      "tag": "⬆️ 37 points",
-      "url": "https://nnamgreb.de/blog/Clamiga+-+Common+Lisp+for+the+Amiga"
-    },
-    {
-      "title": "Archie G. Norcross' Maine Forest Fire Maps (1918–22)",
-      "hot": "2.9m",
-      "desc": "publicdomainreview.org",
-      "source": "tech",
-      "tag": "⬆️ 13 points",
-      "url": "https://publicdomainreview.org/collection/maine-forest-fire-maps/"
     },
     {
       "title": "Firefox for iOS now has a native adblocker",
       "hot": "2.9m",
       "desc": "support.mozilla.org",
       "source": "tech",
-      "tag": "⬆️ 315 points",
+      "tag": "⬆️ 354 points",
       "url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios"
     },
     {
@@ -87,24 +233,64 @@
       "hot": "2.9m",
       "desc": "youtube.com",
       "source": "tech",
-      "tag": "⬆️ 7 points",
+      "tag": "⬆️ 11 points",
       "url": "https://www.youtube.com/watch?v=-y8bGBE71yw"
+    },
+    {
+      "title": "Clamiga: Common Lisp for the Amiga",
+      "hot": "2.9m",
+      "desc": "nnamgreb.de",
+      "source": "tech",
+      "tag": "⬆️ 42 points",
+      "url": "https://nnamgreb.de/blog/Clamiga+-+Common+Lisp+for+the+Amiga"
+    },
+    {
+      "title": "Archie G. Norcross' Maine Forest Fire Maps (1918–22)",
+      "hot": "2.9m",
+      "desc": "publicdomainreview.org",
+      "source": "tech",
+      "tag": "⬆️ 15 points",
+      "url": "https://publicdomainreview.org/collection/maine-forest-fire-maps/"
+    },
+    {
+      "title": "I've built a free, open-source local and remote memory system for agentw and CL",
+      "hot": "2.8m",
+      "desc": "lorekit.io",
+      "source": "tech",
+      "tag": "⬆️ 5 points",
+      "url": "https://www.lorekit.io/blog/give-your-agent-a-memory"
     },
     {
       "title": "Before Rightmove, there was the Cosmorama",
       "hot": "2.8m",
       "desc": "ianvisits.co.uk",
       "source": "tech",
-      "tag": "⬆️ 9 points",
+      "tag": "⬆️ 10 points",
       "url": "https://www.ianvisits.co.uk/articles/before-rightmove-there-was-the-cosmorama-londons-forgotten-property-innovation-91687/"
+    },
+    {
+      "title": "The deep history behind the Road to Nowhere inside the Great Smoky Mountains",
+      "hot": "2.8m",
+      "desc": "wunc.org",
+      "source": "tech",
+      "tag": "⬆️ 8 points",
+      "url": "https://www.wunc.org/environment/2026-08-10/road-to-nowhere-great-smoky-mountains"
     },
     {
       "title": "A True Telnet BBS on a Casio Calculator",
       "hot": "2.8m",
       "desc": "ei3lh.eu",
       "source": "tech",
-      "tag": "⬆️ 55 points",
+      "tag": "⬆️ 57 points",
       "url": "https://ei3lh.eu/2026/08/16/a-true-telnet-bbs-on-a-casio-calculator/"
+    },
+    {
+      "title": "The weekend is 100 years old",
+      "hot": "2.8m",
+      "desc": "theguardian.com",
+      "source": "tech",
+      "tag": "⬆️ 101 points",
+      "url": "https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it"
     },
     {
       "title": "Tasklet (YC P26) Is Hiring a Head of Design Engineering",
@@ -115,52 +301,28 @@
       "url": "https://tasklet.ai/careers/head-of-design-engineering"
     },
     {
-      "title": "The weekend is 100 years old",
-      "hot": "2.8m",
-      "desc": "theguardian.com",
-      "source": "tech",
-      "tag": "⬆️ 82 points",
-      "url": "https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it"
-    },
-    {
       "title": "A SAT Attack on Tarski's High School Algebra Problem",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "arxiv.org",
       "source": "tech",
-      "tag": "⬆️ 61 points",
+      "tag": "⬆️ 64 points",
       "url": "https://arxiv.org/abs/2608.08421"
     },
     {
+      "title": "Show HN: A public AI whose memory is shared across all users",
+      "hot": "2.7m",
+      "desc": "wildstatic.com",
+      "source": "tech",
+      "tag": "⬆️ 52 points",
+      "url": "https://wildstatic.com/"
+    },
+    {
       "title": "Chestnut – eGPU dock with open-source firmware",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "hwbusters.com",
       "source": "tech",
-      "tag": "⬆️ 109 points",
+      "tag": "⬆️ 115 points",
       "url": "https://hwbusters.com/news/comma-ai-egpu-dock-runs-open-source-firmware-249-bare-799-with-an-rx-9060/"
-    },
-    {
-      "title": "Research papers using \"kidney disappointment\" instead of \"kidney failure\"",
-      "hot": "2.7m",
-      "desc": "scholar.google.com",
-      "source": "tech",
-      "tag": "⬆️ 253 points",
-      "url": "https://scholar.google.com/scholar?q=%22kidney+disappointment%22"
-    },
-    {
-      "title": "Asus Bike Booster",
-      "hot": "2.7m",
-      "desc": "asus.com",
-      "source": "tech",
-      "tag": "⬆️ 564 points",
-      "url": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/"
-    },
-    {
-      "title": "Superconducting monolayer cuprate with a single CuO2 plane",
-      "hot": "2.7m",
-      "desc": "nature.com",
-      "source": "tech",
-      "tag": "⬆️ 51 points",
-      "url": "https://www.nature.com/articles/s41586-026-10857-1"
     }
   ],
   "space": [
@@ -288,7 +450,7 @@
   "github": [
     {
       "title": "deepseek-ai/deepseek-harness: DeepSeek Harness: Everything is a Plugin.",
-      "hot": "⭐ 129.7k",
+      "hot": "⭐ 129.9k",
       "desc": "DeepSeek Harness: Everything is a Plugin.",
       "source": "github",
       "tag": "TypeScript",
@@ -296,7 +458,7 @@
     },
     {
       "title": "guillaumemeyer/watermarks-remover: Strip multi-vendor AI provenance marks: Unico",
-      "hot": "⭐ 10.9k",
+      "hot": "⭐ 11.0k",
       "desc": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "source": "github",
       "tag": "Python",
@@ -304,7 +466,7 @@
     },
     {
       "title": "anywhere-labs/deepseek-harness-desktop: 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决",
-      "hot": "⭐ 8.7k",
+      "hot": "⭐ 8.8k",
       "desc": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案",
       "source": "github",
       "tag": "TypeScript",
@@ -405,168 +567,6 @@
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/Leutenegger/book-to-skill"
-    }
-  ],
-  "dev": [
-    {
-      "title": "[Dev Log][Python] Create short videos from photos and clips with Gemini 3.7 Flash: ReelCraft",
-      "hot": "❤️ 9 💬 2",
-      "desc": "Preface:   It all started with a misunderstanding.  I noticed a new page in the Gemini API...",
-      "source": "dev",
-      "tag": "ai,  gemini",
-      "url": "https://dev.to/gde/dev-logpython-create-short-videos-from-photos-and-clips-with-gemini-37-flash-reelcraft-1gc6"
-    },
-    {
-      "title": "It's always Doom https://ood.dev/posts/doom/",
-      "hot": "❤️ 4 💬 0",
-      "desc": "...",
-      "source": "dev",
-      "tag": "gamedev,  programming",
-      "url": "https://dev.to/ben/its-always-doom-httpsooddevpostsdoom-4fpi"
-    },
-    {
-      "title": "Riverpod to BlocSignal: Incremental Migration and Zero-Codegen Signals for Flutter",
-      "hot": "❤️ 7 💬 1",
-      "desc": "Learn how to trial or incrementally migrate from Riverpod to BlocSignal with zero code generation, fine-grained signal g",
-      "source": "dev",
-      "tag": "flutter,  dart",
-      "url": "https://dev.to/gde/riverpod-to-blocsignal-incremental-migration-and-zero-codegen-signals-for-flutter-1gdp"
-    },
-    {
-      "title": "I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.",
-      "hot": "❤️ 36 💬 48",
-      "desc": "Update 08/15 0.2.0 Released   github.com/deghosal-2026/agent-tooltrust · pip install agent-tooltrust...",
-      "source": "dev",
-      "tag": "ai,  agents",
-      "url": "https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb"
-    },
-    {
-      "title": "Hey all! I’m Jem, the DEV Community Program Coordinator",
-      "hot": "❤️ 157 💬 59",
-      "desc": "It feels good to finally be writing this.  I've been working part-time behind the scenes at DEV for...",
-      "source": "dev",
-      "tag": "meta",
-      "url": "https://dev.to/devteam/hey-all-im-jem-the-dev-community-program-coordinator-2g2"
-    },
-    {
-      "title": "What was your win this week??",
-      "hot": "❤️ 56 💬 38",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "weeklyretro,  discuss",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-23ob"
-    },
-    {
-      "title": "Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity",
-      "hot": "❤️ 18 💬 2",
-      "desc": "How to rescue abandoned open-source projects, modernize build systems, and generate multi-architecture Docker images (x8",
-      "source": "dev",
-      "tag": "opensource,  devops",
-      "url": "https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo"
-    },
-    {
-      "title": "I Joined dev.to because...",
-      "hot": "❤️ 135 💬 112",
-      "desc": "Why not?     Just kidding, there is more to it. Just thought it flows well with the title...",
-      "source": "dev",
-      "tag": "discuss,  community",
-      "url": "https://dev.to/francistrdev/i-joined-devto-because-fl0"
-    },
-    {
-      "title": "Looker's Native MCP Server with Claude Code",
-      "hot": "❤️ 9 💬 0",
-      "desc": "Looker hosts its own MCP server now. This walks through connecting Claude Code to it, pairing it with...",
-      "source": "dev",
-      "tag": "mcp,  looker",
-      "url": "https://dev.to/gde/lookers-native-mcp-server-with-claude-code-11j8"
-    },
-    {
-      "title": "Do I Still Need a Monkey Patch for Gemini Live?",
-      "hot": "❤️ 10 💬 2",
-      "desc": "No. And deleting 187 lines of it was the single biggest benefit of moving to ADK 2.x — but it was not...",
-      "source": "dev",
-      "tag": "python,  googleadk",
-      "url": "https://dev.to/gde/do-i-still-need-a-monkey-patch-for-gemini-live-4c3e"
-    },
-    {
-      "title": "Serving Gemma 4 2B on a Single TPU v5e Chip with MCP and Antigravity CLI",
-      "hot": "❤️ 9 💬 0",
-      "desc": "This article is the v5e follow-on to the v6e-1 debugging guide. Same MCP tooling, same Antigravity...",
-      "source": "dev",
-      "tag": "antigravitycli,  python",
-      "url": "https://dev.to/gde/serving-gemma-4-2b-on-a-single-tpu-v5e-chip-with-mcp-and-antigravity-cli-33l8"
-    },
-    {
-      "title": "Backend Engineer (Me) Ships a Browser Game With One Unintentional System Requirement: My Monitor",
-      "hot": "❤️ 90 💬 57",
-      "desc": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.           Prefer...",
-      "source": "dev",
-      "tag": "devchallenge,  bugsmash",
-      "url": "https://dev.to/georgekobaidze/backend-engineer-me-ships-a-browser-game-with-one-unintentional-system-requirement-my-monitor-1ojd"
-    },
-    {
-      "title": "MCP Configuration for Looker with Codex",
-      "hot": "❤️ 15 💬 2",
-      "desc": "This article covers the MCP setup and configuration for using Looker with Codex to enhance and extend...",
-      "source": "dev",
-      "tag": "mcp,  codex",
-      "url": "https://dev.to/gde/mcp-configuration-for-looker-with-codex-30e1"
-    },
-    {
-      "title": "My (not so pretty) journey in tech",
-      "hot": "❤️ 27 💬 7",
-      "desc": "Ever since I joined the platform, I wanted to post about a topic I was really passionate about....",
-      "source": "dev",
-      "tag": "discuss,  programming",
-      "url": "https://dev.to/ishacodes/why-i-joined-devto--5c63"
-    },
-    {
-      "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
-      "hot": "❤️ 9 💬 0",
-      "desc": "This article explains how to build and test a cross-cloud currency agent. An Amazon Bedrock master...",
-      "source": "dev",
-      "tag": "agents,  googleadk",
-      "url": "https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b"
-    },
-    {
-      "title": "Vibecoding EventMatch, built with Antigravity, ADK, and Gemini",
-      "hot": "❤️ 16 💬 0",
-      "desc": "Every week I get invited to more AI events than I can attend. Bond AI, Founders Bay, AI Collective,...",
-      "source": "dev",
-      "tag": "gemini,  vibecoding",
-      "url": "https://dev.to/gde/vibecoding-eventmatch-built-with-antigravity-adk-and-gemini-2gc7"
-    },
-    {
-      "title": "Dart 3.13 Primary Constructors + BlocSignal: Boilerplate-Free Reactive Architecture",
-      "hot": "❤️ 15 💬 0",
-      "desc": "Discover how Dart 3.13 primary constructors, 'this' constructor bodies, and constructor shorthands transform BlocSignal ",
-      "source": "dev",
-      "tag": "flutter,  dart",
-      "url": "https://dev.to/gde/dart-313-primary-constructors-blocsignal-boilerplate-free-reactive-architecture-5fll"
-    },
-    {
-      "title": "Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU",
-      "hot": "❤️ 12 💬 0",
-      "desc": "A field report on serving Gemma 4 E2B under vLLM on AWS G5g — the only aarch64 + SM 7.5 hardware there is. No published ",
-      "source": "dev",
-      "tag": "aws,  vllm",
-      "url": "https://dev.to/gde/running-gemma-4-on-ec2-g5g-graviton2-amd-with-nvidia-gpu-25ci"
-    },
-    {
-      "title": "The Accidental DDOS: How a Single React Bracket Triggered 100,000 API Requests and Melted Our Database",
-      "hot": "❤️ 22 💬 6",
-      "desc": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.  Introduction: The...",
-      "source": "dev",
-      "tag": "devchallenge,  bugsmash",
-      "url": "https://dev.to/pooja_bhavani/the-accidental-ddos-how-a-single-react-bracket-triggered-100000-api-requests-and-melted-our-36li"
-    },
-    {
-      "title": "Jem has quietly been working behind-the-scenes here at DEV for YEARS, and I'm so happy that they are finally introducing themselves to everyone!!",
-      "hot": "❤️ 30 💬 0",
-      "desc": "Hey all! I’m Jem, the DEV Community Program Coordinator            Jem steps up as part-time...",
-      "source": "dev",
-      "tag": "Dev.to",
-      "url": "https://dev.to/jess/jem-has-quietly-been-working-behind-the-scenes-here-at-dev-for-years-and-im-so-happy-that-they-129e"
     }
   ]
 }
