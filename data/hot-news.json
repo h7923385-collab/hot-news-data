@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T00:25:47.955Z",
+  "updatedAt": "2026-08-17T01:58:53.491Z",
   "source": "live",
   "dev": [
     {
@@ -165,35 +165,75 @@
   ],
   "tech": [
     {
+      "title": "The Life and Death of Direct File [pdf]",
+      "hot": "3.0m",
+      "desc": "ischool.berkeley.edu",
+      "source": "tech",
+      "tag": "⬆️ 48 points",
+      "url": "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf"
+    },
+    {
+      "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
+      "hot": "3.0m",
+      "desc": "simonwillison.net",
+      "source": "tech",
+      "tag": "⬆️ 47 points",
+      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/"
+    },
+    {
+      "title": "Rhombus 1.1 is now available",
+      "hot": "3.0m",
+      "desc": "blog.racket-lang.org",
+      "source": "tech",
+      "tag": "⬆️ 14 points",
+      "url": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html"
+    },
+    {
       "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
       "hot": "3.0m",
       "desc": "rvembedded.com",
       "source": "tech",
-      "tag": "⬆️ 340 points",
+      "tag": "⬆️ 376 points",
       "url": "https://rvembedded.com/blog_post/12/"
     },
     {
       "title": "Claude: System Prompts",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "platform.claude.com",
       "source": "tech",
-      "tag": "⬆️ 515 points",
+      "tag": "⬆️ 545 points",
       "url": "https://platform.claude.com/docs/en/release-notes/system-prompts"
     },
     {
       "title": "SIMD in the 90s: Programming Intel's Pentium MMX",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "pikuma.com",
       "source": "tech",
-      "tag": "⬆️ 63 points",
+      "tag": "⬆️ 74 points",
       "url": "https://pikuma.com/blog/programming-intel-pentium-mmx-simd"
     },
     {
+      "title": "Interview with Amit Patel, Creator of \"Solar Realms Elite\"",
+      "hot": "2.9m",
+      "desc": "breakintochat.com",
+      "source": "tech",
+      "tag": "⬆️ 11 points",
+      "url": "https://breakintochat.com/blog/2013/02/18/amit-patel-creator-of-solar-realms-elite/"
+    },
+    {
+      "title": "Reticulum – Decentralized Mesh Network",
+      "hot": "2.9m",
+      "desc": "reticulum.network",
+      "source": "tech",
+      "tag": "⬆️ 15 points",
+      "url": "https://reticulum.network/"
+    },
+    {
       "title": "Low-Tech Ceramic Water Filter",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "wiki.lowtechlab.org",
       "source": "tech",
-      "tag": "⬆️ 81 points",
+      "tag": "⬆️ 93 points",
       "url": "https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en"
     },
     {
@@ -201,250 +241,88 @@
       "hot": "2.9m",
       "desc": "bernsteinbear.com",
       "source": "tech",
-      "tag": "⬆️ 29 points",
+      "tag": "⬆️ 47 points",
       "url": "https://bernsteinbear.com/blog/zkp/"
-    },
-    {
-      "title": "Models Are Getting Dumber on Purpose",
-      "hot": "2.9m",
-      "desc": "w4g1.dev",
-      "source": "tech",
-      "tag": "⬆️ 242 points",
-      "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose"
     },
     {
       "title": "The AI Credit Resale Economy",
       "hot": "2.9m",
       "desc": "vectoral.com",
       "source": "tech",
-      "tag": "⬆️ 219 points",
+      "tag": "⬆️ 226 points",
       "url": "https://vectoral.com/blog/who-are-the-token-brokers"
     },
     {
+      "title": "Models Are Getting Dumber on Purpose",
+      "hot": "2.8m",
+      "desc": "w4g1.dev",
+      "source": "tech",
+      "tag": "⬆️ 271 points",
+      "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose"
+    },
+    {
+      "title": "Dancing with friends and enemies: boids' swarm intelligence",
+      "hot": "2.8m",
+      "desc": "community.wolfram.com",
+      "source": "tech",
+      "tag": "⬆️ 11 points",
+      "url": "https://community.wolfram.com/groups/-/m/t/122095"
+    },
+    {
       "title": "Protobuf has LSP support. You're welcome",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "buf.build",
       "source": "tech",
-      "tag": "⬆️ 98 points",
+      "tag": "⬆️ 111 points",
       "url": "https://buf.build/blog/protobuf-lsp"
     },
     {
+      "title": "The federal keyword lists that canceled billions in research funding",
+      "hot": "2.8m",
+      "desc": "highereddive.com",
+      "source": "tech",
+      "tag": "⬆️ 48 points",
+      "url": "https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/"
+    },
+    {
       "title": "MathCode, Mathematical Coding Agent",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "math-ai-org.github.io",
       "source": "tech",
-      "tag": "⬆️ 53 points",
+      "tag": "⬆️ 63 points",
       "url": "https://math-ai-org.github.io/mathcode/"
-    },
-    {
-      "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-      "hot": "2.9m",
-      "desc": "bloomberg.com",
-      "source": "tech",
-      "tag": "⬆️ 160 points",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion"
-    },
-    {
-      "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-      "hot": "2.9m",
-      "desc": "reuters.com",
-      "source": "tech",
-      "tag": "⬆️ 79 points",
-      "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/"
-    },
-    {
-      "title": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
-      "hot": "2.8m",
-      "desc": "daringfireball.net",
-      "source": "tech",
-      "tag": "⬆️ 121 points",
-      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing"
-    },
-    {
-      "title": "The Case Against Formal Verification, 50 Years Later",
-      "hot": "2.8m",
-      "desc": "ivan-gavran.github.io",
-      "source": "tech",
-      "tag": "⬆️ 76 points",
-      "url": "https://ivan-gavran.github.io/0-social-processes-paper"
     },
     {
       "title": "Clamiga: Common Lisp for the Amiga",
       "hot": "2.8m",
       "desc": "nnamgreb.de",
       "source": "tech",
-      "tag": "⬆️ 79 points",
+      "tag": "⬆️ 86 points",
       "url": "https://nnamgreb.de/blog/Clamiga+-+Common+Lisp+for+the+Amiga"
     },
     {
-      "title": "Plastic mechanical computer from 1963: The Digi-Comp 1 [video]",
-      "hot": "2.8m",
-      "desc": "youtube.com",
+      "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+      "hot": "2.7m",
+      "desc": "reuters.com",
       "source": "tech",
-      "tag": "⬆️ 44 points",
-      "url": "https://www.youtube.com/watch?v=-y8bGBE71yw"
+      "tag": "⬆️ 102 points",
+      "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/"
     },
     {
       "title": "Anton Chekhov played at love most of his life",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "commonreader.wustl.edu",
       "source": "tech",
-      "tag": "⬆️ 58 points",
+      "tag": "⬆️ 65 points",
       "url": "https://commonreader.wustl.edu/winning-and-losing-at-the-great-game-of-intimacy/"
     },
     {
-      "title": "Firefox for iOS now has a native adblocker",
-      "hot": "2.8m",
-      "desc": "support.mozilla.org",
-      "source": "tech",
-      "tag": "⬆️ 515 points",
-      "url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios"
-    },
-    {
-      "title": "Dancing with friends and enemies: boids' swarm intelligence",
+      "title": "Plastic mechanical computer from 1963: The Digi-Comp 1 [video]",
       "hot": "2.7m",
-      "desc": "community.wolfram.com",
+      "desc": "youtube.com",
       "source": "tech",
-      "tag": "⬆️ 3 points",
-      "url": "https://community.wolfram.com/groups/-/m/t/122095"
-    },
-    {
-      "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
-      "hot": "2.7m",
-      "desc": "news.ycombinator.com",
-      "source": "tech",
-      "tag": "⬆️ 252 points",
-      "url": "https://news.ycombinator.com/item?id=49322107"
-    },
-    {
-      "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
-      "hot": "2.7m",
-      "desc": "wptv.com",
-      "source": "tech",
-      "tag": "⬆️ 149 points",
-      "url": "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core"
-    }
-  ],
-  "github": [
-    {
-      "title": "deepseek-ai/deepseek-harness: DeepSeek Harness: Everything is a Plugin.",
-      "hot": "⭐ 131.3k",
-      "desc": "DeepSeek Harness: Everything is a Plugin.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/deepseek-ai/deepseek-harness"
-    },
-    {
-      "title": "guillaumemeyer/watermarks-remover: Strip multi-vendor AI provenance marks: Unico",
-      "hot": "⭐ 11.4k",
-      "desc": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/guillaumemeyer/watermarks-remover"
-    },
-    {
-      "title": "anywhere-labs/deepseek-harness-desktop: 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决",
-      "hot": "⭐ 8.9k",
-      "desc": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop"
-    },
-    {
-      "title": "awesome-dsh-plugin/awesome-dsh-plugin: A curated list of plugins for DeepSeek Ha",
-      "hot": "⭐ 5.1k",
-      "desc": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin"
-    },
-    {
-      "title": "zhu1090093659/dsh-web-ui: Plugin and skin collection for DeepSeek Harness (DSH) ",
-      "hot": "⭐ 3.4k",
-      "desc": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and s",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/zhu1090093659/dsh-web-ui"
-    },
-    {
-      "title": "xiaobright/dsh-anchored-standard: Two-phase DeepSeek Harness preset: Minimal-ali",
-      "hot": "⭐ 3.0k",
-      "desc": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/xiaobright/dsh-anchored-standard"
-    },
-    {
-      "title": "yjh051108/dsh-routing-suite: dsh-routing-suite — injector + router-standard kit:",
-      "hot": "⭐ 2.8k",
-      "desc": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-",
-      "source": "github",
-      "tag": "PowerShell",
-      "url": "https://github.com/yjh051108/dsh-routing-suite"
-    },
-    {
-      "title": "cordiverse/paper: A Programming Paradigm for Spatiotemporal Composability",
-      "hot": "⭐ 1.9k",
-      "desc": "A Programming Paradigm for Spatiotemporal Composability",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/cordiverse/paper"
-    },
-    {
-      "title": "SMNETSTUDIO/WeChat-AI: ",
-      "hot": "⭐ 1.8k",
-      "desc": "SMNETSTUDIO/WeChat-AI",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/SMNETSTUDIO/WeChat-AI"
-    },
-    {
-      "title": "xoreaxeaxeax/skitter-creek-bath-salts: Unlocking _everything_ on the CPU with DR",
-      "hot": "⭐ 1.7k",
-      "desc": "Unlocking _everything_ on the CPU with DRAM scrambling",
-      "source": "github",
-      "tag": "C",
-      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts"
-    },
-    {
-      "title": "dmmulroy/anti-slop: Opinionated Oxlint rules for rejecting low-evidence TypeScri",
-      "hot": "⭐ 1.7k",
-      "desc": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/dmmulroy/anti-slop"
-    },
-    {
-      "title": "ccch1mneyyy/dsh-TUI: DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回",
-      "hot": "⭐ 1.5k",
-      "desc": "DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale ba",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/ccch1mneyyy/dsh-TUI"
-    },
-    {
-      "title": "gvzdv/claudish-to-english: ",
-      "hot": "⭐ 1.2k",
-      "desc": "gvzdv/claudish-to-english",
-      "source": "github",
-      "tag": "Shell",
-      "url": "https://github.com/gvzdv/claudish-to-english"
-    },
-    {
-      "title": "Leutenegger/book-to-skill: Turn any technical book PDF into a Claude Code skill ",
-      "hot": "⭐ 1.2k",
-      "desc": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/Leutenegger/book-to-skill"
-    },
-    {
-      "title": "milind-soni/OpenMausBot: Open Source Alternative to Grok Bot with a virtual mach",
-      "hot": "⭐ 1.1k",
-      "desc": "Open Source Alternative to Grok Bot with a virtual machine that bots can use",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/milind-soni/OpenMausBot"
+      "tag": "⬆️ 48 points",
+      "url": "https://www.youtube.com/watch?v=-y8bGBE71yw"
     }
   ],
   "space": [
@@ -567,6 +445,128 @@
       "source": "space",
       "tag": "SpaceNews",
       "url": "https://spacenews.com/wallops-gears-up-for-an-increase-in-launches/"
+    }
+  ],
+  "github": [
+    {
+      "title": "deepseek-ai/deepseek-harness: DeepSeek Harness: Everything is a Plugin.",
+      "hot": "⭐ 133.9k",
+      "desc": "DeepSeek Harness: Everything is a Plugin.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/deepseek-ai/deepseek-harness"
+    },
+    {
+      "title": "guillaumemeyer/watermarks-remover: Strip multi-vendor AI provenance marks: Unico",
+      "hot": "⭐ 11.7k",
+      "desc": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover"
+    },
+    {
+      "title": "anywhere-labs/deepseek-harness-desktop: 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决",
+      "hot": "⭐ 9.3k",
+      "desc": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop"
+    },
+    {
+      "title": "awesome-dsh-plugin/awesome-dsh-plugin: A curated list of plugins for DeepSeek Ha",
+      "hot": "⭐ 5.4k",
+      "desc": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin"
+    },
+    {
+      "title": "zhu1090093659/dsh-web-ui: Plugin and skin collection for DeepSeek Harness (DSH) ",
+      "hot": "⭐ 3.5k",
+      "desc": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and s",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/zhu1090093659/dsh-web-ui"
+    },
+    {
+      "title": "xiaobright/dsh-anchored-standard: Two-phase DeepSeek Harness preset: Minimal-ali",
+      "hot": "⭐ 3.1k",
+      "desc": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/xiaobright/dsh-anchored-standard"
+    },
+    {
+      "title": "yjh051108/dsh-routing-suite: dsh-routing-suite — injector + router-standard kit:",
+      "hot": "⭐ 2.9k",
+      "desc": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-",
+      "source": "github",
+      "tag": "PowerShell",
+      "url": "https://github.com/yjh051108/dsh-routing-suite"
+    },
+    {
+      "title": "cordiverse/paper: A Programming Paradigm for Spatiotemporal Composability",
+      "hot": "⭐ 1.9k",
+      "desc": "A Programming Paradigm for Spatiotemporal Composability",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/cordiverse/paper"
+    },
+    {
+      "title": "SMNETSTUDIO/WeChat-AI: ",
+      "hot": "⭐ 1.8k",
+      "desc": "SMNETSTUDIO/WeChat-AI",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/SMNETSTUDIO/WeChat-AI"
+    },
+    {
+      "title": "xoreaxeaxeax/skitter-creek-bath-salts: Unlocking _everything_ on the CPU with DR",
+      "hot": "⭐ 1.7k",
+      "desc": "Unlocking _everything_ on the CPU with DRAM scrambling",
+      "source": "github",
+      "tag": "C",
+      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts"
+    },
+    {
+      "title": "dmmulroy/anti-slop: Opinionated Oxlint rules for rejecting low-evidence TypeScri",
+      "hot": "⭐ 1.7k",
+      "desc": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/dmmulroy/anti-slop"
+    },
+    {
+      "title": "ccch1mneyyy/dsh-TUI: DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回",
+      "hot": "⭐ 1.6k",
+      "desc": "DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale ba",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/ccch1mneyyy/dsh-TUI"
+    },
+    {
+      "title": "gvzdv/claudish-to-english: ",
+      "hot": "⭐ 1.2k",
+      "desc": "gvzdv/claudish-to-english",
+      "source": "github",
+      "tag": "Shell",
+      "url": "https://github.com/gvzdv/claudish-to-english"
+    },
+    {
+      "title": "Leutenegger/book-to-skill: Turn any technical book PDF into a Claude Code skill ",
+      "hot": "⭐ 1.2k",
+      "desc": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/Leutenegger/book-to-skill"
+    },
+    {
+      "title": "milind-soni/OpenMausBot: Open Source Alternative to Grok Bot with a virtual mach",
+      "hot": "⭐ 1.1k",
+      "desc": "Open Source Alternative to Grok Bot with a virtual machine that bots can use",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/milind-soni/OpenMausBot"
     }
   ]
 }
