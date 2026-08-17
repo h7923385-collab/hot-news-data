@@ -1,169 +1,177 @@
 {
-  "updatedAt": "2026-08-17T14:19:08.689Z",
+  "updatedAt": "2026-08-17T14:49:34.585Z",
   "source": "live",
   "tech": [
+    {
+      "title": "Apple's App Tracking Transparency treated its own apps better than rivals",
+      "hot": "3.0m",
+      "desc": "bundeskartellamt.de",
+      "source": "tech",
+      "tag": "⬆️ 32 points",
+      "url": "https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html"
+    },
     {
       "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
       "hot": "3.0m",
       "desc": "blog.roboflow.com",
       "source": "tech",
-      "tag": "⬆️ 96 points",
+      "tag": "⬆️ 125 points",
       "url": "https://blog.roboflow.com/openai-gpt-5-6/"
     },
     {
-      "title": "Incident with Github.com",
+      "title": "A Preview of DuckDB v2.0",
       "hot": "3.0m",
+      "desc": "duckdb.org",
+      "source": "tech",
+      "tag": "⬆️ 30 points",
+      "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights"
+    },
+    {
+      "title": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+      "hot": "3.0m",
+      "desc": "wiz.io",
+      "source": "tech",
+      "tag": "⬆️ 13 points",
+      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug"
+    },
+    {
+      "title": "Incident with Github.com",
+      "hot": "2.9m",
       "desc": "githubstatus.com",
       "source": "tech",
-      "tag": "⬆️ 280 points",
+      "tag": "⬆️ 414 points",
       "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx"
     },
     {
       "title": "Show HN: Sokoban AI Solver",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "mkornreich.me",
       "source": "tech",
-      "tag": "⬆️ 20 points",
+      "tag": "⬆️ 28 points",
       "url": "https://mkornreich.me/projects/sokoban/"
-    },
-    {
-      "title": "Tell HN: GitHub Is Experiencing Degraded Performance",
-      "hot": "3.0m",
-      "desc": "news.ycombinator.com",
-      "source": "tech",
-      "tag": "⬆️ 69 points",
-      "url": "https://news.ycombinator.com/item?id=49330597"
-    },
-    {
-      "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
-      "hot": "2.9m",
-      "desc": "simonwillison.net",
-      "source": "tech",
-      "tag": "⬆️ 648 points",
-      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/"
-    },
-    {
-      "title": "GitHub down again? no PR access",
-      "hot": "2.9m",
-      "desc": "news.ycombinator.com",
-      "source": "tech",
-      "tag": "⬆️ 63 points",
-      "url": "https://news.ycombinator.com/item?id=49330632"
-    },
-    {
-      "title": "Show HN: 1667, a terminal UI for writing fiction with language models",
-      "hot": "2.9m",
-      "desc": "1667.ai",
-      "source": "tech",
-      "tag": "⬆️ 24 points",
-      "url": "https://1667.ai/"
-    },
-    {
-      "title": "How Go detects struct copies with sync.noCopy",
-      "hot": "2.9m",
-      "desc": "func25.dev",
-      "source": "tech",
-      "tag": "⬆️ 26 points",
-      "url": "https://func25.dev/posts/go-sync-nocopy/"
     },
     {
       "title": "My Ten Years in No Man's Sky",
       "hot": "2.9m",
       "desc": "nmsspot.com",
       "source": "tech",
-      "tag": "⬆️ 14 points",
+      "tag": "⬆️ 35 points",
       "url": "https://nmsspot.com/2026/08/09/my-ten-years-in-no-mans-sky/"
     },
     {
-      "title": "On A.I. regulation and messaging",
+      "title": "GitHub down again? no PR access",
       "hot": "2.9m",
-      "desc": "twitter.com",
+      "desc": "news.ycombinator.com",
       "source": "tech",
-      "tag": "⬆️ 160 points",
-      "url": "https://twitter.com/DarioAmodei/status/2088758816376807762"
+      "tag": "⬆️ 113 points",
+      "url": "https://news.ycombinator.com/item?id=49330632"
+    },
+    {
+      "title": "How to disable or avoid intrusive AI",
+      "hot": "2.9m",
+      "desc": "librarian.net",
+      "source": "tech",
+      "tag": "⬆️ 9 points",
+      "url": "https://www.librarian.net/notoai/"
+    },
+    {
+      "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
+      "hot": "2.9m",
+      "desc": "simonwillison.net",
+      "source": "tech",
+      "tag": "⬆️ 662 points",
+      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/"
+    },
+    {
+      "title": "How to put 170 atoms in an atom",
+      "hot": "2.9m",
+      "desc": "signoregalilei.com",
+      "source": "tech",
+      "tag": "⬆️ 5 points",
+      "url": "https://signoregalilei.com/2026/08/02/how-to-put-170-atoms-in-an-atom/"
+    },
+    {
+      "title": "How Go detects struct copies with sync.noCopy",
+      "hot": "2.8m",
+      "desc": "func25.dev",
+      "source": "tech",
+      "tag": "⬆️ 35 points",
+      "url": "https://func25.dev/posts/go-sync-nocopy/"
+    },
+    {
+      "title": "Ask HN: Alternatives to GitHub",
+      "hot": "2.8m",
+      "desc": "news.ycombinator.com",
+      "source": "tech",
+      "tag": "⬆️ 61 points",
+      "url": "https://news.ycombinator.com/item?id=49331033"
     },
     {
       "title": "Stripe to Buy OpenRouter for $7B",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "bloomberg.com",
       "source": "tech",
-      "tag": "⬆️ 53 points",
+      "tag": "⬆️ 83 points",
       "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion"
-    },
-    {
-      "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
-      "hot": "2.8m",
-      "desc": "daringfireball.net",
-      "source": "tech",
-      "tag": "⬆️ 504 points",
-      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing"
-    },
-    {
-      "title": "Show HN: Desktopcolors.com – A museum for solid background colors of classic OS",
-      "hot": "2.8m",
-      "desc": "desktopcolors.com",
-      "source": "tech",
-      "tag": "⬆️ 69 points",
-      "url": "https://desktopcolors.com"
-    },
-    {
-      "title": "Cialis is an erectile dysfunction drug. Could it also help you live longer?",
-      "hot": "2.8m",
-      "desc": "npr.org",
-      "source": "tech",
-      "tag": "⬆️ 26 points",
-      "url": "https://www.npr.org/2026/08/17/nx-s1-5928263/cialis-viagra-tadalafil-longevity-heart-health"
     },
     {
       "title": "Mexico Crackdown on Coastal Development Underway",
       "hot": "2.8m",
       "desc": "yucatanmagazine.com",
       "source": "tech",
-      "tag": "⬆️ 36 points",
+      "tag": "⬆️ 47 points",
       "url": "https://yucatanmagazine.com/mexico-crackdown-on-coastal-development/"
     },
     {
-      "title": "A third world engineer responds to “RISC-V: They should have known better”",
+      "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
       "hot": "2.8m",
-      "desc": "rvembedded.com",
+      "desc": "404media.co",
       "source": "tech",
-      "tag": "⬆️ 569 points",
-      "url": "https://rvembedded.com/blog_post/12/"
+      "tag": "⬆️ 35 points",
+      "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/"
     },
     {
-      "title": "How I developed an Am29000 C compiler and web browser",
+      "title": "Show HN: Eve Software Factory",
       "hot": "2.8m",
-      "desc": "nanochess.org",
+      "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 4 points",
-      "url": "https://nanochess.org/am29000_c_compiler_web_browser.html"
+      "tag": "⬆️ 3 points",
+      "url": "https://github.com/vercel-labs/eve-software-factory-template/tree/main"
     },
     {
-      "title": "Reticulum – Decentralized Mesh Network",
+      "title": "On A.I. regulation and messaging",
       "hot": "2.7m",
-      "desc": "reticulum.network",
+      "desc": "twitter.com",
       "source": "tech",
-      "tag": "⬆️ 172 points",
-      "url": "https://reticulum.network/"
+      "tag": "⬆️ 170 points",
+      "url": "https://twitter.com/DarioAmodei/status/2088758816376807762"
     },
     {
-      "title": "Claude: System Prompts",
+      "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
       "hot": "2.7m",
-      "desc": "platform.claude.com",
+      "desc": "daringfireball.net",
       "source": "tech",
-      "tag": "⬆️ 714 points",
-      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts"
+      "tag": "⬆️ 534 points",
+      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing"
     },
     {
-      "title": "Linear algebra done right",
+      "title": "Show HN: Desktopcolors.com – A museum for solid background colors of classic OS",
       "hot": "2.7m",
-      "desc": "linear.axler.net",
+      "desc": "desktopcolors.com",
       "source": "tech",
-      "tag": "⬆️ 146 points",
-      "url": "https://linear.axler.net/"
+      "tag": "⬆️ 75 points",
+      "url": "https://desktopcolors.com"
     }
   ],
   "space": [
+    {
+      "title": "Total solar eclipse 2026 (Official ESA broadcast)",
+      "hot": "8/17",
+      "desc": "We broadcast live from the Observatorio Astrofísico de Javalambre in Spain as a total solar eclipse crossed Europe on 12 August 2026. ",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Total_solar_eclipse_2026_Official_ESA_broadcast"
+    },
     {
       "title": "L3Harris names space sector leader Sam Mehta CEO after Kubasik steps down",
       "hot": "8/17",
@@ -275,20 +283,12 @@
       "source": "space",
       "tag": "NASASpaceflight",
       "url": "https://www.nasaspaceflight.com/2026/08/firefly-block-alpha-eclipse-progress/"
-    },
-    {
-      "title": "U.S. defense agencies tap three companies for satellite disposal study",
-      "hot": "8/16",
-      "desc": "\nFirefly, D-Orbit and Katalyst will compete to show how commercial operators could capture and remove aging spacecraft\nThe post U.S. defense agencies ",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/u-s-defense-agencies-tap-three-companies-for-satellite-disposal-study/"
     }
   ],
   "dev": [
     {
       "title": "Meme Monday",
-      "hot": "❤️ 8 💬 5",
+      "hot": "❤️ 9 💬 6",
       "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
       "source": "dev",
       "tag": "discuss,  jokes",
@@ -450,7 +450,7 @@
   "github": [
     {
       "title": "deepseek-ai/deepseek-harness: DeepSeek Harness: Everything is a Plugin.",
-      "hot": "⭐ 146.8k",
+      "hot": "⭐ 147.1k",
       "desc": "DeepSeek Harness: Everything is a Plugin.",
       "source": "github",
       "tag": "TypeScript",
@@ -458,7 +458,7 @@
     },
     {
       "title": "guillaumemeyer/watermarks-remover: Strip multi-vendor AI provenance marks: Unico",
-      "hot": "⭐ 12.9k",
+      "hot": "⭐ 13.0k",
       "desc": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "source": "github",
       "tag": "Python",
@@ -506,7 +506,7 @@
     },
     {
       "title": "dmmulroy/anti-slop: Opinionated Oxlint rules for rejecting low-evidence TypeScri",
-      "hot": "⭐ 2.1k",
+      "hot": "⭐ 2.2k",
       "desc": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
       "source": "github",
       "tag": "TypeScript",
