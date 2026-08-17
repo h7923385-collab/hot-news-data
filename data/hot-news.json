@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T22:09:33.589Z",
+  "updatedAt": "2026-08-17T22:45:36.854Z",
   "source": "live",
   "dev": [
     {
@@ -163,169 +163,23 @@
       "url": "https://dev.to/mrviduus/nobody-alerts-on-silence-wiring-sentry-into-an-llm-pipeline-12lo"
     }
   ],
-  "tech": [
-    {
-      "title": "GPU Offload in Rust: Portable, Safe, and Fast",
-      "hot": "3.0m",
-      "desc": "arxiv.org",
-      "source": "tech",
-      "tag": "⬆️ 111 points",
-      "url": "https://arxiv.org/abs/2608.13759"
-    },
-    {
-      "title": "A Preview of DuckDB v2.0",
-      "hot": "3.0m",
-      "desc": "duckdb.org",
-      "source": "tech",
-      "tag": "⬆️ 482 points",
-      "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights"
-    },
-    {
-      "title": "AI;DR (AI; Didn't Read)",
-      "hot": "3.0m",
-      "desc": "rickmanelius.com",
-      "source": "tech",
-      "tag": "⬆️ 398 points",
-      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read"
-    },
-    {
-      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
-      "hot": "3.0m",
-      "desc": "wiz.io",
-      "source": "tech",
-      "tag": "⬆️ 283 points",
-      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug"
-    },
-    {
-      "title": "Incident with Github.com",
-      "hot": "2.9m",
-      "desc": "githubstatus.com",
-      "source": "tech",
-      "tag": "⬆️ 458 points",
-      "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx"
-    },
-    {
-      "title": "The Origin of Consciousness (2008)",
-      "hot": "2.9m",
-      "desc": "blog.plover.com",
-      "source": "tech",
-      "tag": "⬆️ 32 points",
-      "url": "https://blog.plover.com/brain/Jaynes.html"
-    },
-    {
-      "title": "Sun Clock",
-      "hot": "2.9m",
-      "desc": "sunclock.net",
-      "source": "tech",
-      "tag": "⬆️ 141 points",
-      "url": "https://sunclock.net/"
-    },
-    {
-      "title": "How to disable or avoid intrusive AI",
-      "hot": "2.9m",
-      "desc": "librarian.net",
-      "source": "tech",
-      "tag": "⬆️ 217 points",
-      "url": "https://www.librarian.net/notoai/"
-    },
-    {
-      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-      "hot": "2.9m",
-      "desc": "blog.roboflow.com",
-      "source": "tech",
-      "tag": "⬆️ 279 points",
-      "url": "https://blog.roboflow.com/openai-gpt-5-6/"
-    },
-    {
-      "title": "Olo (Color)",
-      "hot": "2.9m",
-      "desc": "en.wikipedia.org",
-      "source": "tech",
-      "tag": "⬆️ 245 points",
-      "url": "https://en.wikipedia.org/wiki/Olo_(color)"
-    },
-    {
-      "title": "Judge sets framework for Nine PBS to retrieve archival data",
-      "hot": "2.9m",
-      "desc": "current.org",
-      "source": "tech",
-      "tag": "⬆️ 95 points",
-      "url": "https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/"
-    },
-    {
-      "title": "Roboflow Playground: Try and Compare 30 Computer Vision Models",
-      "hot": "2.8m",
-      "desc": "blog.roboflow.com",
-      "source": "tech",
-      "tag": "⬆️ 28 points",
-      "url": "https://blog.roboflow.com/roboflow-playground/"
-    },
-    {
-      "title": "An update on leaving Gmail for Fastmail",
-      "hot": "2.8m",
-      "desc": "moddedbear.com",
-      "source": "tech",
-      "tag": "⬆️ 65 points",
-      "url": "https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/"
-    },
-    {
-      "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
-      "hot": "2.8m",
-      "desc": "speko.ai",
-      "source": "tech",
-      "tag": "⬆️ 80 points",
-      "url": "https://speko.ai/"
-    },
-    {
-      "title": "Marketers are Addicted to Bad Data (2020)",
-      "hot": "2.8m",
-      "desc": "jacquescorbytuech.com",
-      "source": "tech",
-      "tag": "⬆️ 32 points",
-      "url": "https://www.jacquescorbytuech.com/writing/marketers-addicted-bad-data"
-    },
-    {
-      "title": "India has paved the way for charging merchants a fee on UPI transactions",
-      "hot": "2.8m",
-      "desc": "bbc.com",
-      "source": "tech",
-      "tag": "⬆️ 69 points",
-      "url": "https://www.bbc.com/news/articles/c8xnwqe00v1o"
-    },
-    {
-      "title": "Ask HN: Alternatives to GitHub",
-      "hot": "2.8m",
-      "desc": "news.ycombinator.com",
-      "source": "tech",
-      "tag": "⬆️ 445 points",
-      "url": "https://news.ycombinator.com/item?id=49331033"
-    },
-    {
-      "title": "A simple fix for LLM tail latency",
-      "hot": "2.7m",
-      "desc": "engineering.myhoai.com",
-      "source": "tech",
-      "tag": "⬆️ 19 points",
-      "url": "https://engineering.myhoai.com/posts/a-simple-fix-for-llm-tail-latency/"
-    },
-    {
-      "title": "A particle made of force: physicists say they've found mysterious 'glueball'",
-      "hot": "2.7m",
-      "desc": "nature.com",
-      "source": "tech",
-      "tag": "⬆️ 75 points",
-      "url": "https://www.nature.com/articles/d41586-026-02498-1"
-    },
-    {
-      "title": "Intriguing Stories in Computer Science",
-      "hot": "2.7m",
-      "desc": "inventwithpython.com",
-      "source": "tech",
-      "tag": "⬆️ 5 points",
-      "url": "https://inventwithpython.com/blog/intriguing-stories-in-cs.html"
-    }
-  ],
   "space": [
+    {
+      "title": "Launch Preview: Chang’e 7 headlines week of Chinese and Starlink launches",
+      "hot": "8/17",
+      "desc": "After last week’s Chang Zheng 7A launch failure, China returns to action with the high-profile…\nThe post Launch Preview: Chang’e 7 headlines week of C",
+      "source": "space",
+      "tag": "NASASpaceflight",
+      "url": "https://www.nasaspaceflight.com/2026/08/launch-preview-081726/"
+    },
+    {
+      "title": "HEO to use Planet satellites for non-Earth imaging",
+      "hot": "8/17",
+      "desc": "\nHEO, the Australian company that uses Earth observation satellites to take images of other spacecraft, has signed an agreement with Planet to access ",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/heo-to-use-planet-satellites-for-non-earth-imaging/"
+    },
     {
       "title": "New EU sanctions target leaders of Russia’s space industry",
       "hot": "8/17",
@@ -429,28 +283,174 @@
       "source": "space",
       "tag": "SpaceNews",
       "url": "https://spacenews.com/seops-adds-second-waymaker-rideshare-mission/"
+    }
+  ],
+  "tech": [
+    {
+      "title": "Bluesky draws its logo on screenshots",
+      "hot": "3.0m",
+      "desc": "timmarinin.net",
+      "source": "tech",
+      "tag": "⬆️ 36 points",
+      "url": "https://timmarinin.net/2026/bluesky-screenshots/"
     },
     {
-      "title": "There's a huge launch crunch right now, and it will probably get worse",
-      "hot": "8/17",
-      "desc": "What happens if the Falcon rockets stop flying?",
-      "source": "space",
-      "tag": "Arstechnica",
-      "url": "https://arstechnica.com/space/2026/08/theres-a-huge-launch-crunch-right-now-and-it-will-probably-get-worse/"
+      "title": "GPU Offload in Rust: Portable, Safe, and Fast",
+      "hot": "3.0m",
+      "desc": "arxiv.org",
+      "source": "tech",
+      "tag": "⬆️ 128 points",
+      "url": "https://arxiv.org/abs/2608.13759"
     },
     {
-      "title": "A rocket crashed into the moon. It was harmless, but the next one might not be.",
-      "hot": "8/17",
-      "desc": "\nEarlier this month, a discarded SpaceX Falcon 9 upper stage crashed into the lunar surface at 8,700 kilometers per hour. This was not a controlled la",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/a-rocket-crashed-into-the-moon-it-was-harmless-but-the-next-one-might-not-be/"
+      "title": "A Preview of DuckDB v2.0",
+      "hot": "3.0m",
+      "desc": "duckdb.org",
+      "source": "tech",
+      "tag": "⬆️ 492 points",
+      "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights"
+    },
+    {
+      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+      "hot": "3.0m",
+      "desc": "wiz.io",
+      "source": "tech",
+      "tag": "⬆️ 291 points",
+      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug"
+    },
+    {
+      "title": "Incident with Github.com",
+      "hot": "2.9m",
+      "desc": "githubstatus.com",
+      "source": "tech",
+      "tag": "⬆️ 476 points",
+      "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx"
+    },
+    {
+      "title": "AI;DR (AI; Didn't Read)",
+      "hot": "2.9m",
+      "desc": "rickmanelius.com",
+      "source": "tech",
+      "tag": "⬆️ 453 points",
+      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read"
+    },
+    {
+      "title": "Fairphone 6 and PostmarketOS working main camera",
+      "hot": "2.9m",
+      "desc": "catcrafts.net",
+      "source": "tech",
+      "tag": "⬆️ 20 points",
+      "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera"
+    },
+    {
+      "title": "Intriguing Stories in Computer Science",
+      "hot": "2.9m",
+      "desc": "inventwithpython.com",
+      "source": "tech",
+      "tag": "⬆️ 15 points",
+      "url": "https://inventwithpython.com/blog/intriguing-stories-in-cs.html"
+    },
+    {
+      "title": "How to disable or avoid intrusive AI",
+      "hot": "2.9m",
+      "desc": "librarian.net",
+      "source": "tech",
+      "tag": "⬆️ 227 points",
+      "url": "https://www.librarian.net/notoai/"
+    },
+    {
+      "title": "Sun Clock",
+      "hot": "2.9m",
+      "desc": "sunclock.net",
+      "source": "tech",
+      "tag": "⬆️ 149 points",
+      "url": "https://sunclock.net/"
+    },
+    {
+      "title": "Olo (Color)",
+      "hot": "2.9m",
+      "desc": "en.wikipedia.org",
+      "source": "tech",
+      "tag": "⬆️ 258 points",
+      "url": "https://en.wikipedia.org/wiki/Olo_(color)"
+    },
+    {
+      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+      "hot": "2.8m",
+      "desc": "blog.roboflow.com",
+      "source": "tech",
+      "tag": "⬆️ 287 points",
+      "url": "https://blog.roboflow.com/openai-gpt-5-6/"
+    },
+    {
+      "title": "Judge sets framework for Nine PBS to retrieve archival data",
+      "hot": "2.8m",
+      "desc": "current.org",
+      "source": "tech",
+      "tag": "⬆️ 103 points",
+      "url": "https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/"
+    },
+    {
+      "title": "Quake Shareware, a CD-ROM just a little too full",
+      "hot": "2.8m",
+      "desc": "fabiensanglard.net",
+      "source": "tech",
+      "tag": "⬆️ 9 points",
+      "url": "https://fabiensanglard.net/quake_shareware_cd/index.html"
+    },
+    {
+      "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+      "hot": "2.8m",
+      "desc": "speko.ai",
+      "source": "tech",
+      "tag": "⬆️ 81 points",
+      "url": "https://speko.ai/"
+    },
+    {
+      "title": "Roboflow Playground: Try and Compare 30 Computer Vision Models",
+      "hot": "2.8m",
+      "desc": "blog.roboflow.com",
+      "source": "tech",
+      "tag": "⬆️ 31 points",
+      "url": "https://blog.roboflow.com/roboflow-playground/"
+    },
+    {
+      "title": "A particle made of force: physicists say they've found mysterious 'glueball'",
+      "hot": "2.8m",
+      "desc": "nature.com",
+      "source": "tech",
+      "tag": "⬆️ 83 points",
+      "url": "https://www.nature.com/articles/d41586-026-02498-1"
+    },
+    {
+      "title": "Ask HN: Alternatives to GitHub",
+      "hot": "2.7m",
+      "desc": "news.ycombinator.com",
+      "source": "tech",
+      "tag": "⬆️ 457 points",
+      "url": "https://news.ycombinator.com/item?id=49331033"
+    },
+    {
+      "title": "A simple fix for LLM tail latency",
+      "hot": "2.7m",
+      "desc": "engineering.myhoai.com",
+      "source": "tech",
+      "tag": "⬆️ 24 points",
+      "url": "https://engineering.myhoai.com/posts/a-simple-fix-for-llm-tail-latency/"
+    },
+    {
+      "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
+      "hot": "2.7m",
+      "desc": "artificialanalysis.ai",
+      "source": "tech",
+      "tag": "⬆️ 263 points",
+      "url": "https://artificialanalysis.ai/models/qwen3-8-27b"
     }
   ],
   "github": [
     {
       "title": "deepseek-ai/deepseek-harness: DeepSeek Harness: Everything is a Plugin.",
-      "hot": "⭐ 149.5k",
+      "hot": "⭐ 149.6k",
       "desc": "DeepSeek Harness: Everything is a Plugin.",
       "source": "github",
       "tag": "TypeScript",
@@ -474,7 +474,7 @@
     },
     {
       "title": "awesome-dsh-plugin/awesome-dsh-plugin: A curated list of plugins for DeepSeek Ha",
-      "hot": "⭐ 7.5k",
+      "hot": "⭐ 7.6k",
       "desc": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
       "source": "github",
       "tag": "Python",
@@ -482,7 +482,7 @@
     },
     {
       "title": "yjh051108/dsh-routing-suite: dsh-routing-suite — injector + router-standard kit:",
-      "hot": "⭐ 5.0k",
+      "hot": "⭐ 5.1k",
       "desc": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-",
       "source": "github",
       "tag": "PowerShell",
