@@ -1,14 +1,6 @@
 {
   "data": [
     {
-      "title": "[Dev Log][Python] Create short videos from photos and clips with Gemini 3.7 Flash: ReelCraft",
-      "hot": "❤️ 9 💬 2",
-      "desc": "Preface:   It all started with a misunderstanding.  I noticed a new page in the Gemini API...",
-      "source": "dev",
-      "tag": "ai,  gemini",
-      "url": "https://dev.to/gde/dev-logpython-create-short-videos-from-photos-and-clips-with-gemini-37-flash-reelcraft-1gc6"
-    },
-    {
       "title": "It's always Doom https://ood.dev/posts/doom/",
       "hot": "❤️ 4 💬 0",
       "desc": "...",
@@ -23,14 +15,6 @@
       "source": "dev",
       "tag": "flutter,  dart",
       "url": "https://dev.to/gde/riverpod-to-blocsignal-incremental-migration-and-zero-codegen-signals-for-flutter-1gdp"
-    },
-    {
-      "title": "I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.",
-      "hot": "❤️ 37 💬 48",
-      "desc": "Update 08/15 0.2.0 Released   github.com/deghosal-2026/agent-tooltrust · pip install agent-tooltrust...",
-      "source": "dev",
-      "tag": "ai,  agents",
-      "url": "https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb"
     },
     {
       "title": "Hey all! I’m Jem, the DEV Community Program Coordinator",
@@ -50,27 +34,11 @@
     },
     {
       "title": "I Joined dev.to because...",
-      "hot": "❤️ 135 💬 112",
+      "hot": "❤️ 136 💬 113",
       "desc": "Why not?     Just kidding, there is more to it. Just thought it flows well with the title...",
       "source": "dev",
       "tag": "discuss,  community",
       "url": "https://dev.to/francistrdev/i-joined-devto-because-fl0"
-    },
-    {
-      "title": "Looker's Native MCP Server with Claude Code",
-      "hot": "❤️ 9 💬 0",
-      "desc": "Looker hosts its own MCP server now. This walks through connecting Claude Code to it, pairing it with...",
-      "source": "dev",
-      "tag": "mcp,  looker",
-      "url": "https://dev.to/gde/lookers-native-mcp-server-with-claude-code-11j8"
-    },
-    {
-      "title": "Do I Still Need a Monkey Patch for Gemini Live?",
-      "hot": "❤️ 10 💬 2",
-      "desc": "No. And deleting 187 lines of it was the single biggest benefit of moving to ADK 2.x — but it was not...",
-      "source": "dev",
-      "tag": "python,  googleadk",
-      "url": "https://dev.to/gde/do-i-still-need-a-monkey-patch-for-gemini-live-4c3e"
     },
     {
       "title": "Serving Gemma 4 2B on a Single TPU v5e Chip with MCP and Antigravity CLI",
@@ -97,6 +65,14 @@
       "url": "https://dev.to/gde/mcp-configuration-for-looker-with-codex-30e1"
     },
     {
+      "title": "I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.",
+      "hot": "❤️ 39 💬 48",
+      "desc": "Update 08/15 0.2.0 Released   github.com/deghosal-2026/agent-tooltrust · pip install agent-tooltrust...",
+      "source": "dev",
+      "tag": "ai,  agents",
+      "url": "https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb"
+    },
+    {
       "title": "My (not so pretty) journey in tech",
       "hot": "❤️ 27 💬 7",
       "desc": "Ever since I joined the platform, I wanted to post about a topic I was really passionate about....",
@@ -106,7 +82,7 @@
     },
     {
       "title": "Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity",
-      "hot": "❤️ 18 💬 4",
+      "hot": "❤️ 19 💬 4",
       "desc": "How to rescue abandoned open-source projects, modernize build systems, and generate multi-architecture Docker images (x8",
       "source": "dev",
       "tag": "opensource,  devops",
@@ -129,6 +105,22 @@
       "url": "https://dev.to/gde/vibecoding-eventmatch-built-with-antigravity-adk-and-gemini-2gc7"
     },
     {
+      "title": "[Dev Log][Python] Create short videos from photos and clips with Gemini 3.7 Flash: ReelCraft",
+      "hot": "❤️ 10 💬 2",
+      "desc": "Preface:   It all started with a misunderstanding.  I noticed a new page in the Gemini API...",
+      "source": "dev",
+      "tag": "ai,  gemini",
+      "url": "https://dev.to/gde/dev-logpython-create-short-videos-from-photos-and-clips-with-gemini-37-flash-reelcraft-1gc6"
+    },
+    {
+      "title": "Looker's Native MCP Server with Claude Code",
+      "hot": "❤️ 10 💬 0",
+      "desc": "Looker hosts its own MCP server now. This walks through connecting Claude Code to it, pairing it with...",
+      "source": "dev",
+      "tag": "mcp,  looker",
+      "url": "https://dev.to/gde/lookers-native-mcp-server-with-claude-code-11j8"
+    },
+    {
       "title": "Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU",
       "hot": "❤️ 12 💬 0",
       "desc": "A field report on serving Gemma 4 E2B under vLLM on AWS G5g — the only aarch64 + SM 7.5 hardware there is. No published ",
@@ -138,7 +130,7 @@
     },
     {
       "title": "Dart 3.13 Primary Constructors + BlocSignal: Boilerplate-Free Reactive Architecture",
-      "hot": "❤️ 15 💬 0",
+      "hot": "❤️ 16 💬 0",
       "desc": "Discover how Dart 3.13 primary constructors, 'this' constructor bodies, and constructor shorthands transform BlocSignal ",
       "source": "dev",
       "tag": "flutter,  dart",
@@ -159,7 +151,15 @@
       "source": "dev",
       "tag": "Dev.to",
       "url": "https://dev.to/jess/jem-has-quietly-been-working-behind-the-scenes-here-at-dev-for-years-and-im-so-happy-that-they-129e"
+    },
+    {
+      "title": "Nobody Alerts on Silence: Wiring Sentry Into an LLM Pipeline",
+      "hot": "❤️ 15 💬 4",
+      "desc": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry.   🔨 #bugsmash,...",
+      "source": "dev",
+      "tag": "devchallenge,  bugsmash",
+      "url": "https://dev.to/mrviduus/nobody-alerts-on-silence-wiring-sentry-into-an-llm-pipeline-12lo"
     }
   ],
-  "updatedAt": "2026-08-17T09:04:28.929Z"
+  "updatedAt": "2026-08-17T10:01:45.288Z"
 }
