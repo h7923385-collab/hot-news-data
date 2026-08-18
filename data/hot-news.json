@@ -1,169 +1,23 @@
 {
-  "updatedAt": "2026-08-18T09:02:51.944Z",
+  "updatedAt": "2026-08-18T09:54:11.902Z",
   "source": "live",
-  "tech": [
-    {
-      "title": "Linux 7.3 improves performance when running out of vRAM",
-      "hot": "3.0m",
-      "desc": "pixelcluster.dev",
-      "source": "tech",
-      "tag": "⬆️ 16 points",
-      "url": "https://pixelcluster.dev/VRAM-Overcommit/"
-    },
-    {
-      "title": "How Bluesky draws its logo on screenshots",
-      "hot": "3.0m",
-      "desc": "timmarinin.net",
-      "source": "tech",
-      "tag": "⬆️ 478 points",
-      "url": "https://timmarinin.net/2026/bluesky-screenshots/"
-    },
-    {
-      "title": "GPT-5.6 Sol Pricing Cut by 50%",
-      "hot": "3.0m",
-      "desc": "openrouter.ai",
-      "source": "tech",
-      "tag": "⬆️ 416 points",
-      "url": "https://openrouter.ai/openai/gpt-5.6-sol"
-    },
-    {
-      "title": "Quake Shareware, a CD-ROM just a little too full",
-      "hot": "3.0m",
-      "desc": "fabiensanglard.net",
-      "source": "tech",
-      "tag": "⬆️ 327 points",
-      "url": "https://fabiensanglard.net/quake_shareware_cd/index.html"
-    },
-    {
-      "title": "Fairphone 6 and PostmarketOS working main camera",
-      "hot": "2.9m",
-      "desc": "catcrafts.net",
-      "source": "tech",
-      "tag": "⬆️ 184 points",
-      "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera"
-    },
-    {
-      "title": "A Preview of DuckDB v2.0",
-      "hot": "2.9m",
-      "desc": "duckdb.org",
-      "source": "tech",
-      "tag": "⬆️ 628 points",
-      "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights"
-    },
-    {
-      "title": "The Benchmarkpocalypse",
-      "hot": "2.9m",
-      "desc": "danluu.com",
-      "source": "tech",
-      "tag": "⬆️ 90 points",
-      "url": "https://danluu.com/benchpocalypse/"
-    },
-    {
-      "title": "Ranking the Most Brilliantly Colored Birds with Data",
-      "hot": "2.9m",
-      "desc": "moultano.wordpress.com",
-      "source": "tech",
-      "tag": "⬆️ 11 points",
-      "url": "https://moultano.wordpress.com/2026/08/14/fairly-ranking-the-most-brilliant-birds/"
-    },
-    {
-      "title": "Shattered skeleton is first confirmed death from trebuchet",
-      "hot": "2.9m",
-      "desc": "science.org",
-      "source": "tech",
-      "tag": "⬆️ 65 points",
-      "url": "https://www.science.org/content/article/shattered-skeleton-scottish-castle-first-confirmed-death-trebuchet"
-    },
-    {
-      "title": "Rethinking Database Programming",
-      "hot": "2.9m",
-      "desc": "acadia.engineering",
-      "source": "tech",
-      "tag": "⬆️ 12 points",
-      "url": "https://acadia.engineering/blog/rethinking-database-programming"
-    },
-    {
-      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
-      "hot": "2.9m",
-      "desc": "wiz.io",
-      "source": "tech",
-      "tag": "⬆️ 368 points",
-      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug"
-    },
-    {
-      "title": "Olo (Color)",
-      "hot": "2.8m",
-      "desc": "en.wikipedia.org",
-      "source": "tech",
-      "tag": "⬆️ 425 points",
-      "url": "https://en.wikipedia.org/wiki/Olo_(color)"
-    },
-    {
-      "title": "GPU Offload in Rust: Portable, Safe, and Fast",
-      "hot": "2.8m",
-      "desc": "arxiv.org",
-      "source": "tech",
-      "tag": "⬆️ 209 points",
-      "url": "https://arxiv.org/abs/2608.13759"
-    },
-    {
-      "title": "Climbing Guide as a Shared Infrastructure",
-      "hot": "2.8m",
-      "desc": "irz.fr",
-      "source": "tech",
-      "tag": "⬆️ 14 points",
-      "url": "https://irz.fr/en/articles/openclimbing-open-guide-en/"
-    },
-    {
-      "title": "The Road to MS-DOS 2.0",
-      "hot": "2.8m",
-      "desc": "nemanjatrifunovic.substack.com",
-      "source": "tech",
-      "tag": "⬆️ 68 points",
-      "url": "https://nemanjatrifunovic.substack.com/p/the-road-to-ms-dos-2"
-    },
-    {
-      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-      "hot": "2.8m",
-      "desc": "blog.roboflow.com",
-      "source": "tech",
-      "tag": "⬆️ 338 points",
-      "url": "https://blog.roboflow.com/openai-gpt-5-6/"
-    },
-    {
-      "title": "An update on leaving Gmail for Fastmail",
-      "hot": "2.8m",
-      "desc": "moddedbear.com",
-      "source": "tech",
-      "tag": "⬆️ 224 points",
-      "url": "https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/"
-    },
-    {
-      "title": "Exercise intensity modulates interorgan communication and is associated with",
-      "hot": "2.7m",
-      "desc": "cell.com",
-      "source": "tech",
-      "tag": "⬆️ 13 points",
-      "url": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue"
-    },
-    {
-      "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
-      "hot": "2.7m",
-      "desc": "responsiblestatecraft.org",
-      "source": "tech",
-      "tag": "⬆️ 460 points",
-      "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/"
-    },
-    {
-      "title": "Judge sets framework for Nine PBS to retrieve archival data",
-      "hot": "2.7m",
-      "desc": "current.org",
-      "source": "tech",
-      "tag": "⬆️ 164 points",
-      "url": "https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/"
-    }
-  ],
   "space": [
+    {
+      "title": "Hera's Mars flyby guided impact study of Deimos moon",
+      "hot": "8/18",
+      "desc": "From the ESA Blogs.",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/Space_Safety/Hera/Hera_s_Mars_flyby_guided_impact_study_of_Deimos_moon"
+    },
+    {
+      "title": "NRO to expand use of HawkEye 360’s satellite intelligence",
+      "hot": "8/18",
+      "desc": "\nNRO contract increases U.S. government access to satellite data used to locate radars, ships and other electronic emitters\nThe post NRO to expand use",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/nro-to-expand-use-of-hawkeye-360s-satellite-intelligence/"
+    },
     {
       "title": "Phoenix 3: concept study for a reusable European spacecraft",
       "hot": "8/18",
@@ -267,28 +121,12 @@
       "source": "space",
       "tag": "NASA",
       "url": "https://science.nasa.gov/missions/hubble/hubble-solves-merger-mystery-from-milky-ways-early-years/"
-    },
-    {
-      "title": "Hubble & Gaia solve our galaxy's merger mystery",
-      "hot": "8/17",
-      "desc": "Our home galaxy, the Milky Way, grew to its current size in part by consuming smaller galaxies. Now, new data from the NASA/ESA Hubble Space Telescope",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Hubble_Gaia_solve_our_galaxy_s_merger_mystery"
-    },
-    {
-      "title": "Total solar eclipse 2026 (Official ESA broadcast)",
-      "hot": "8/17",
-      "desc": "We broadcast live from the Observatorio Astrofísico de Javalambre in Spain as a total solar eclipse crossed Europe on 12 August 2026. ",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Total_solar_eclipse_2026_Official_ESA_broadcast"
     }
   ],
   "github": [
     {
       "title": "deepseek-ai/deepseek-harness: DeepSeek Harness: Everything is a Plugin.",
-      "hot": "⭐ 156.1k",
+      "hot": "⭐ 156.6k",
       "desc": "DeepSeek Harness: Everything is a Plugin.",
       "source": "github",
       "tag": "TypeScript",
@@ -304,7 +142,7 @@
     },
     {
       "title": "anywhere-labs/deepseek-harness-desktop: 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决",
-      "hot": "⭐ 12.8k",
+      "hot": "⭐ 12.9k",
       "desc": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
       "source": "github",
       "tag": "TypeScript",
@@ -312,7 +150,7 @@
     },
     {
       "title": "awesome-dsh-plugin/awesome-dsh-plugin: A curated list of plugins for DeepSeek Ha",
-      "hot": "⭐ 8.1k",
+      "hot": "⭐ 8.2k",
       "desc": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
       "source": "github",
       "tag": "Python",
@@ -320,7 +158,7 @@
     },
     {
       "title": "yjh051108/dsh-routing-suite: dsh-routing-suite — injector + router-standard kit:",
-      "hot": "⭐ 5.7k",
+      "hot": "⭐ 5.8k",
       "desc": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-",
       "source": "github",
       "tag": "PowerShell",
@@ -407,15 +245,169 @@
       "url": "https://github.com/milind-soni/OpenMausBot"
     }
   ],
-  "dev": [
+  "tech": [
     {
-      "title": "Coding agents got boring the moment we built a really good one.",
-      "hot": "❤️ 8 💬 3",
-      "desc": "MESSAGE FROM BACKBOARD.IO Co-Founder Rob Imbeault:  Coding agents got boring the moment we built a...",
-      "source": "dev",
-      "tag": "agents,  ai",
-      "url": "https://dev.to/backboardio/coding-agents-got-boring-the-moment-we-built-a-really-good-one-1mc4"
+      "title": "Linux 7.3 improves performance when running out of vRAM",
+      "hot": "3.0m",
+      "desc": "pixelcluster.dev",
+      "source": "tech",
+      "tag": "⬆️ 90 points",
+      "url": "https://pixelcluster.dev/VRAM-Overcommit/"
     },
+    {
+      "title": "How Bluesky draws its logo on screenshots",
+      "hot": "3.0m",
+      "desc": "timmarinin.net",
+      "source": "tech",
+      "tag": "⬆️ 507 points",
+      "url": "https://timmarinin.net/2026/bluesky-screenshots/"
+    },
+    {
+      "title": "GPT-5.6 Sol Pricing Cut by 50%",
+      "hot": "3.0m",
+      "desc": "openrouter.ai",
+      "source": "tech",
+      "tag": "⬆️ 437 points",
+      "url": "https://openrouter.ai/openai/gpt-5.6-sol"
+    },
+    {
+      "title": "Quake Shareware, a CD-ROM just a little too full",
+      "hot": "3.0m",
+      "desc": "fabiensanglard.net",
+      "source": "tech",
+      "tag": "⬆️ 346 points",
+      "url": "https://fabiensanglard.net/quake_shareware_cd/index.html"
+    },
+    {
+      "title": "Rethinking Database Programming",
+      "hot": "2.9m",
+      "desc": "acadia.engineering",
+      "source": "tech",
+      "tag": "⬆️ 30 points",
+      "url": "https://acadia.engineering/blog/rethinking-database-programming"
+    },
+    {
+      "title": "Fairphone 6 and PostmarketOS working main camera",
+      "hot": "2.9m",
+      "desc": "catcrafts.net",
+      "source": "tech",
+      "tag": "⬆️ 194 points",
+      "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera"
+    },
+    {
+      "title": "Ranking the Most Brilliantly Colored Birds with Data",
+      "hot": "2.9m",
+      "desc": "moultano.wordpress.com",
+      "source": "tech",
+      "tag": "⬆️ 19 points",
+      "url": "https://moultano.wordpress.com/2026/08/14/fairly-ranking-the-most-brilliant-birds/"
+    },
+    {
+      "title": "The Benchmarkpocalypse",
+      "hot": "2.9m",
+      "desc": "danluu.com",
+      "source": "tech",
+      "tag": "⬆️ 101 points",
+      "url": "https://danluu.com/benchpocalypse/"
+    },
+    {
+      "title": "A Preview of DuckDB v2.0",
+      "hot": "2.9m",
+      "desc": "duckdb.org",
+      "source": "tech",
+      "tag": "⬆️ 639 points",
+      "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights"
+    },
+    {
+      "title": "Exercise intensity modulates interorgan communication and is associated with",
+      "hot": "2.9m",
+      "desc": "cell.com",
+      "source": "tech",
+      "tag": "⬆️ 28 points",
+      "url": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue"
+    },
+    {
+      "title": "IBM Simon (1994): the original smartphone, explained in its own ad [video]",
+      "hot": "2.9m",
+      "desc": "youtube.com",
+      "source": "tech",
+      "tag": "⬆️ 24 points",
+      "url": "https://www.youtube.com/watch?v=xoTFywZpPcc"
+    },
+    {
+      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+      "hot": "2.8m",
+      "desc": "wiz.io",
+      "source": "tech",
+      "tag": "⬆️ 374 points",
+      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug"
+    },
+    {
+      "title": "Shattered skeleton is first confirmed death from trebuchet",
+      "hot": "2.8m",
+      "desc": "science.org",
+      "source": "tech",
+      "tag": "⬆️ 69 points",
+      "url": "https://www.science.org/content/article/shattered-skeleton-scottish-castle-first-confirmed-death-trebuchet"
+    },
+    {
+      "title": "Olo (Color)",
+      "hot": "2.8m",
+      "desc": "en.wikipedia.org",
+      "source": "tech",
+      "tag": "⬆️ 440 points",
+      "url": "https://en.wikipedia.org/wiki/Olo_(color)"
+    },
+    {
+      "title": "GPU Offload in Rust: Portable, Safe, and Fast",
+      "hot": "2.8m",
+      "desc": "arxiv.org",
+      "source": "tech",
+      "tag": "⬆️ 214 points",
+      "url": "https://arxiv.org/abs/2608.13759"
+    },
+    {
+      "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+      "hot": "2.8m",
+      "desc": "responsiblestatecraft.org",
+      "source": "tech",
+      "tag": "⬆️ 495 points",
+      "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/"
+    },
+    {
+      "title": "The Road to MS-DOS 2.0",
+      "hot": "2.8m",
+      "desc": "nemanjatrifunovic.substack.com",
+      "source": "tech",
+      "tag": "⬆️ 75 points",
+      "url": "https://nemanjatrifunovic.substack.com/p/the-road-to-ms-dos-2"
+    },
+    {
+      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+      "hot": "2.7m",
+      "desc": "blog.roboflow.com",
+      "source": "tech",
+      "tag": "⬆️ 339 points",
+      "url": "https://blog.roboflow.com/openai-gpt-5-6/"
+    },
+    {
+      "title": "An update on leaving Gmail for Fastmail",
+      "hot": "2.7m",
+      "desc": "moddedbear.com",
+      "source": "tech",
+      "tag": "⬆️ 232 points",
+      "url": "https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/"
+    },
+    {
+      "title": "Repair Cafe – Fix Your Broken Items",
+      "hot": "2.7m",
+      "desc": "repaircafe.org",
+      "source": "tech",
+      "tag": "⬆️ 107 points",
+      "url": "https://www.repaircafe.org/"
+    }
+  ],
+  "dev": [
     {
       "title": "It's always Doom https://ood.dev/posts/doom/",
       "hot": "❤️ 4 💬 0",
@@ -423,6 +415,14 @@
       "source": "dev",
       "tag": "gamedev,  programming",
       "url": "https://dev.to/ben/its-always-doom-httpsooddevpostsdoom-4fpi"
+    },
+    {
+      "title": "Coding agents got boring the moment we built a really good one.",
+      "hot": "❤️ 9 💬 3",
+      "desc": "MESSAGE FROM BACKBOARD.IO Co-Founder Rob Imbeault:  Coding agents got boring the moment we built a...",
+      "source": "dev",
+      "tag": "agents,  ai",
+      "url": "https://dev.to/backboardio/coding-agents-got-boring-the-moment-we-built-a-really-good-one-1mc4"
     },
     {
       "title": "Meme Monday",
@@ -458,7 +458,7 @@
     },
     {
       "title": "I Joined dev.to because...",
-      "hot": "❤️ 136 💬 116",
+      "hot": "❤️ 136 💬 118",
       "desc": "Why not?     Just kidding, there is more to it. Just thought it flows well with the title...",
       "source": "dev",
       "tag": "discuss,  community",
