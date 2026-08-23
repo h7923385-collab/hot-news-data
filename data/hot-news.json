@@ -1,183 +1,21 @@
 {
-  "updatedAt": "2026-08-23T00:27:18.926Z",
+  "updatedAt": "2026-08-23T02:07:17.194Z",
   "source": "live",
-  "dev": [
-    {
-      "title": "Bridging the AI Cutoff: Teaching Coding Agents Every Dart Feature from 1.0 to 3.14",
-      "hot": "❤️ 5 💬 0",
-      "desc": "How to eliminate LLM training cutoff gaps in Dart and Flutter, modernize legacy codebases, and install open agent skills",
-      "source": "dev",
-      "tag": "dart,  flutter",
-      "url": "https://dev.to/gde/bridging-the-ai-cutoff-teaching-coding-agents-every-dart-feature-from-10-to-314-3752"
-    },
-    {
-      "title": "HTML is getting cool again: Meet the Invoker Commands API",
-      "hot": "❤️ 17 💬 5",
-      "desc": "For years, frontend development has had a slightly embarrassing relationship with HTML. We all read...",
-      "source": "dev",
-      "tag": "webdev,  a11y",
-      "url": "https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367"
-    },
-    {
-      "title": "Greatness Is Forged by Limitation",
-      "hot": "❤️ 58 💬 34",
-      "desc": "Can't believe I spent 2 weeks writing this.  Last week, I gave a talk at a Cursor community event...",
-      "source": "dev",
-      "tag": "ai,  programming",
-      "url": "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20"
-    },
-    {
-      "title": "When to Use Bloc vs. Cubit vs. Signal: An Architectural Decision Guide",
-      "hot": "❤️ 5 💬 0",
-      "desc": "Stop guessing how to structure your Flutter state. Here is a definitive, 4-tier decision rubric comparing raw Signals, C",
-      "source": "dev",
-      "tag": "flutter,  dart",
-      "url": "https://dev.to/gde/when-to-use-bloc-vs-cubit-vs-signal-an-architectural-decision-guide-2911"
-    },
-    {
-      "title": "What was your win this week?!",
-      "hot": "❤️ 23 💬 18",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "weeklyretro,  discuss",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-1330"
-    },
-    {
-      "title": "Coding agents got boring the moment we built a really good one.",
-      "hot": "❤️ 9 💬 4",
-      "desc": "MESSAGE FROM BACKBOARD.IO Co-Founder Rob Imbeault:  Coding agents got boring the moment we built a...",
-      "source": "dev",
-      "tag": "agents,  ai",
-      "url": "https://dev.to/backboardio/coding-agents-got-boring-the-moment-we-built-a-really-good-one-1mc4"
-    },
-    {
-      "title": "What I Get to Forget About Riverpod Now That I Have BlocSignal",
-      "hot": "❤️ 5 💬 0",
-      "desc": "The greatest upgrade in developer experience isn't what you have to learn—it's the mental gymnastics you get to unlearn.",
-      "source": "dev",
-      "tag": "flutter,  dart",
-      "url": "https://dev.to/gde/what-i-get-to-forget-about-riverpod-now-that-i-have-blocsignal-1be5"
-    },
-    {
-      "title": "Git Gud!",
-      "hot": "❤️ 122 💬 55",
-      "desc": "You heard me.    Alright, that was mean lol. Though based on the title, you probably already knew the...",
-      "source": "dev",
-      "tag": "discuss,  community",
-      "url": "https://dev.to/francistrdev/git-gud-4e6g"
-    },
-    {
-      "title": "I Write Less Code Than I Used To. That May Be the Point.",
-      "hot": "❤️ 26 💬 18",
-      "desc": "Over the last year, my day-to-day job has changed in a way I am still trying to understand. I am...",
-      "source": "dev",
-      "tag": "ai,  programming",
-      "url": "https://dev.to/marcosomma/i-write-less-code-than-i-used-to-that-may-be-the-point-3kk"
-    },
-    {
-      "title": "Hey all! I’m Jem, the DEV Community Program Coordinator",
-      "hot": "❤️ 159 💬 63",
-      "desc": "It feels good to finally be writing this.  I've been working part-time behind the scenes at DEV for...",
-      "source": "dev",
-      "tag": "meta",
-      "url": "https://dev.to/devteam/hey-all-im-jem-the-dev-community-program-coordinator-2g2"
-    },
-    {
-      "title": "Building a viral Imax ticketing app that never crashes",
-      "hot": "❤️ 10 💬 0",
-      "desc": "When 150,000 tickets went on sale for The Odyssey in 70mm IMAX, they sold out almost instantly. But...",
-      "source": "dev",
-      "tag": "googlecloud,  temporal",
-      "url": "https://dev.to/googleai/building-a-viral-imax-ticketing-app-that-never-crashes-4d58"
-    },
-    {
-      "title": "Building Enterprise Storage, Backups & Cosign Image Security in Go & Flutter with Google Antigravity",
-      "hot": "❤️ 5 💬 0",
-      "desc": "Building Enterprise Storage, Point-in-Time Backups &amp; Cosign Image Security in Go &amp;...",
-      "source": "dev",
-      "tag": "gubernator,  docker",
-      "url": "https://dev.to/gde/building-enterprise-storage-backups-cosign-image-security-in-go-flutter-with-google-antigravity-3ao3"
-    },
-    {
-      "title": "My First Engineering Job Is Teaching Me Something I Didn't Expect",
-      "hot": "❤️ 65 💬 32",
-      "desc": "Well, first real job and I still haven't gotten used to waking up for a 6:30 AM shift... I've been...",
-      "source": "dev",
-      "tag": "learning,  career",
-      "url": "https://dev.to/itsugo/my-first-engineering-job-is-teaching-me-something-i-didnt-expect-l96"
-    },
-    {
-      "title": "Engineering: Dreams, or Self-Actualization?",
-      "hot": "❤️ 27 💬 6",
-      "desc": "At what point did you start to think you were an engineer?  An engineer. What a lofty,...",
-      "source": "dev",
-      "tag": "webdev,  mentalhealth",
-      "url": "https://dev.to/annavi11arrea1/engineering-dreams-or-self-actualization-41ok"
-    },
-    {
-      "title": "Ichiraku Ramen — A Cozy Japanese Restaurant Landing Page 🍜🌸",
-      "hot": "❤️ 83 💬 61",
-      "desc": "This is a submission for Frontend Challenge - Comfort Food Edition, Perfect Landing              What...",
-      "source": "dev",
-      "tag": "devchallenge,  frontendchallenge",
-      "url": "https://dev.to/gamya_m/ichiraku-ramen-a-cozy-japanese-restaurant-landing-page-3pb8"
-    },
-    {
-      "title": "My AI Content Journey",
-      "hot": "❤️ 23 💬 6",
-      "desc": "I apologize ahead of time, what follows has no tooling applied to it. No grammar checks, no AI, and...",
-      "source": "dev",
-      "tag": "ai,  webdev",
-      "url": "https://dev.to/playfulprogramming/my-ai-content-journey-1b8p"
-    },
-    {
-      "title": "State Management in Front-end Web Development: Mutators",
-      "hot": "❤️ 23 💬 0",
-      "desc": "Libraries like Valtio and Pinia for Vue use a mutator pattern instead of the actions, dispatch, and...",
-      "source": "dev",
-      "tag": "webdev,  react",
-      "url": "https://dev.to/abbeyperini/state-management-in-front-end-web-development-mutators-24gp"
-    },
-    {
-      "title": "I Joined dev.to because...",
-      "hot": "❤️ 140 💬 125",
-      "desc": "Why not?     Just kidding, there is more to it. Just thought it flows well with the title...",
-      "source": "dev",
-      "tag": "discuss,  community",
-      "url": "https://dev.to/francistrdev/i-joined-devto-because-fl0"
-    },
-    {
-      "title": "Redefining the Role of Google Apps Script in the Era of Generative AI",
-      "hot": "❤️ 7 💬 0",
-      "desc": "Abstract   Generative AI and autonomous agents do not obsolete Google Apps Script (GAS);...",
-      "source": "dev",
-      "tag": "ai,  gemini",
-      "url": "https://dev.to/gde/redefining-the-role-of-google-apps-script-in-the-era-of-generative-ai-43ke"
-    },
-    {
-      "title": "Breaking the Multimodal Barrier: Exploring Gemini Omni and My Time with GDG Calabar",
-      "hot": "❤️ 11 💬 3",
-      "desc": "The energy following a major Google I/O announcement always ripples through the developer ecosystem,...",
-      "source": "dev",
-      "tag": "ai,  videoproduction",
-      "url": "https://dev.to/gde/breaking-the-multimodal-barrier-exploring-gemini-omni-and-my-time-with-gdg-calabar-569o"
-    }
-  ],
   "tech": [
     {
-      "title": "Scrap",
+      "title": "Figmimic – A bookmarklet to copy any webpage into Figma as editable layers",
       "hot": "3.0m",
-      "desc": "twitter.com",
+      "desc": "marcua.net",
       "source": "tech",
-      "tag": "⬆️ 283 points",
-      "url": "https://twitter.com/moxie/status/2091218652133732491"
+      "tag": "⬆️ 30 points",
+      "url": "https://marcua.net/minitools/figmimic/"
     },
     {
       "title": "NanoGPT Speedrun Frontier",
       "hot": "3.0m",
       "desc": "primeintellect.ai",
       "source": "tech",
-      "tag": "⬆️ 29 points",
+      "tag": "⬆️ 45 points",
       "url": "https://www.primeintellect.ai/research/nanogpt-speedrun"
     },
     {
@@ -185,144 +23,144 @@
       "hot": "3.0m",
       "desc": "forum.level1techs.com",
       "source": "tech",
-      "tag": "⬆️ 158 points",
+      "tag": "⬆️ 186 points",
       "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917"
     },
     {
-      "title": "NetBSD and my life (2005)",
+      "title": "Scrap (2006)",
       "hot": "3.0m",
-      "desc": "mail-index.netbsd.org",
+      "desc": "twitter.com",
       "source": "tech",
-      "tag": "⬆️ 86 points",
-      "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html"
-    },
-    {
-      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
-      "hot": "2.9m",
-      "desc": "quantumi.sh",
-      "source": "tech",
-      "tag": "⬆️ 289 points",
-      "url": "https://quantumi.sh/public/labs.html"
+      "tag": "⬆️ 315 points",
+      "url": "https://twitter.com/moxie/status/2091218652133732491"
     },
     {
       "title": "Hister – A private, full content search index that you control",
       "hot": "2.9m",
       "desc": "hister.org",
       "source": "tech",
-      "tag": "⬆️ 214 points",
+      "tag": "⬆️ 240 points",
       "url": "https://hister.org/"
     },
     {
-      "title": "RF Cafe",
+      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
       "hot": "2.9m",
-      "desc": "rfcafe.com",
+      "desc": "quantumi.sh",
       "source": "tech",
-      "tag": "⬆️ 140 points",
-      "url": "https://www.rfcafe.com/"
+      "tag": "⬆️ 310 points",
+      "url": "https://quantumi.sh/public/labs.html"
+    },
+    {
+      "title": "NetBSD and my life (2005)",
+      "hot": "2.9m",
+      "desc": "mail-index.netbsd.org",
+      "source": "tech",
+      "tag": "⬆️ 97 points",
+      "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html"
     },
     {
       "title": "typ.ing",
       "hot": "2.9m",
       "desc": "typ.ing",
       "source": "tech",
-      "tag": "⬆️ 164 points",
+      "tag": "⬆️ 186 points",
       "url": "https://typ.ing/"
     },
     {
-      "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
+      "title": "Software Engineering in the Agentic Era",
       "hot": "2.9m",
+      "desc": "simonwillison.net",
+      "source": "tech",
+      "tag": "⬆️ 8 points",
+      "url": "https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/"
+    },
+    {
+      "title": "RF Cafe",
+      "hot": "2.9m",
+      "desc": "rfcafe.com",
+      "source": "tech",
+      "tag": "⬆️ 151 points",
+      "url": "https://www.rfcafe.com/"
+    },
+    {
+      "title": "I set a trap for a book-marketing scammer (2025)",
+      "hot": "2.9m",
+      "desc": "rwwgreene.substack.com",
+      "source": "tech",
+      "tag": "⬆️ 7 points",
+      "url": "https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing"
+    },
+    {
+      "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
+      "hot": "2.8m",
       "desc": "reuters.com",
       "source": "tech",
-      "tag": "⬆️ 96 points",
+      "tag": "⬆️ 110 points",
       "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/"
     },
     {
       "title": "A Friendly Introduction to Racket",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "geometridae.bearblog.dev",
       "source": "tech",
-      "tag": "⬆️ 180 points",
+      "tag": "⬆️ 195 points",
       "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/"
     },
     {
       "title": "ATProto spaces: A new extension to ATProto that enables non-public data",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "atproto.com",
       "source": "tech",
-      "tag": "⬆️ 101 points",
+      "tag": "⬆️ 113 points",
       "url": "https://atproto.com/blog/atproto-spaces-alpha"
+    },
+    {
+      "title": "Reading Maps – Journeys from fiction drawn on the real world",
+      "hot": "2.8m",
+      "desc": "readingmaps.com",
+      "source": "tech",
+      "tag": "⬆️ 7 points",
+      "url": "https://readingmaps.com/"
     },
     {
       "title": "hdiutil is deprecated in macOS 27 Golden Gate",
       "hot": "2.8m",
       "desc": "lapcatsoftware.com",
       "source": "tech",
-      "tag": "⬆️ 153 points",
+      "tag": "⬆️ 162 points",
       "url": "https://lapcatsoftware.com/articles/2026/8/7.html"
-    },
-    {
-      "title": "One night in Uzbekistan: Why was this one data point so influential?",
-      "hot": "2.8m",
-      "desc": "statmodeling.stat.columbia.edu",
-      "source": "tech",
-      "tag": "⬆️ 72 points",
-      "url": "https://statmodeling.stat.columbia.edu/2026/08/20/we-couldnt-reproduce-their-findings-and-realized-that-it-was-all-driven-by-weird-data-from-uzbekistan/"
-    },
-    {
-      "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
-      "hot": "2.8m",
-      "desc": "bbc.com",
-      "source": "tech",
-      "tag": "⬆️ 451 points",
-      "url": "https://www.bbc.com/news/articles/cvgvyy4x2mvo"
     },
     {
       "title": "Munder Difflin – Agent harness to run an office of your clones",
       "hot": "2.8m",
       "desc": "munderdiffl.in",
       "source": "tech",
-      "tag": "⬆️ 244 points",
+      "tag": "⬆️ 253 points",
       "url": "https://munderdiffl.in/"
     },
     {
+      "title": "One night in Uzbekistan: Why was this one data point so influential?",
+      "hot": "2.7m",
+      "desc": "statmodeling.stat.columbia.edu",
+      "source": "tech",
+      "tag": "⬆️ 77 points",
+      "url": "https://statmodeling.stat.columbia.edu/2026/08/20/we-couldnt-reproduce-their-findings-and-realized-that-it-was-all-driven-by-weird-data-from-uzbekistan/"
+    },
+    {
+      "title": "US Military newspaper editor voices censorship fears after being fired",
+      "hot": "2.7m",
+      "desc": "bbc.com",
+      "source": "tech",
+      "tag": "⬆️ 40 points",
+      "url": "https://www.bbc.com/news/articles/cm2g23ng8p4o"
+    },
+    {
       "title": "A week of using Codex more than Claude",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "allaboutcoding.ghinda.com",
       "source": "tech",
-      "tag": "⬆️ 115 points",
+      "tag": "⬆️ 131 points",
       "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/"
-    },
-    {
-      "title": "Thinking in Python by Bruce Eckel",
-      "hot": "2.8m",
-      "desc": "thinkinginpython.com",
-      "source": "tech",
-      "tag": "⬆️ 38 points",
-      "url": "https://thinkinginpython.com/"
-    },
-    {
-      "title": "English ↔ Claudish Translator",
-      "hot": "2.7m",
-      "desc": "programasweights.com",
-      "source": "tech",
-      "tag": "⬆️ 46 points",
-      "url": "https://programasweights.com/claudish"
-    },
-    {
-      "title": "What's in a PowerPoint File?",
-      "hot": "2.7m",
-      "desc": "editide.com",
-      "source": "tech",
-      "tag": "⬆️ 51 points",
-      "url": "https://editide.com/blog/what-is-a-pptx-file/"
-    },
-    {
-      "title": "Conway's Game of Life in real life",
-      "hot": "2.7m",
-      "desc": "blog.coredump.cx",
-      "source": "tech",
-      "tag": "⬆️ 26 points",
-      "url": "https://blog.coredump.cx/p/conways-game-of-life-in-real-life"
     }
   ],
   "space": [
@@ -530,7 +368,7 @@
     },
     {
       "title": "browser-use/macos-harness: The simplest, thinnest harness that gives an LLM comp",
-      "hot": "⭐ 708",
+      "hot": "⭐ 709",
       "desc": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
       "source": "github",
       "tag": "Python",
@@ -538,7 +376,7 @@
     },
     {
       "title": "Spielewoy/autoprompt-skill: Autoprompt is a coding-agent skill that cuts failure",
-      "hot": "⭐ 706",
+      "hot": "⭐ 709",
       "desc": "Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
       "source": "github",
       "tag": "JavaScript",
@@ -567,6 +405,168 @@
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/Leutenegger/coldcard-airgap"
+    }
+  ],
+  "dev": [
+    {
+      "title": "Bridging the AI Cutoff: Teaching Coding Agents Every Dart Feature from 1.0 to 3.14",
+      "hot": "❤️ 7 💬 0",
+      "desc": "How to eliminate LLM training cutoff gaps in Dart and Flutter, modernize legacy codebases, and install open agent skills",
+      "source": "dev",
+      "tag": "dart,  flutter",
+      "url": "https://dev.to/gde/bridging-the-ai-cutoff-teaching-coding-agents-every-dart-feature-from-10-to-314-3752"
+    },
+    {
+      "title": "HTML is getting cool again: Meet the Invoker Commands API",
+      "hot": "❤️ 19 💬 5",
+      "desc": "For years, frontend development has had a slightly embarrassing relationship with HTML. We all read...",
+      "source": "dev",
+      "tag": "webdev,  a11y",
+      "url": "https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367"
+    },
+    {
+      "title": "Greatness Is Forged by Limitation",
+      "hot": "❤️ 58 💬 34",
+      "desc": "Can't believe I spent 2 weeks writing this.  Last week, I gave a talk at a Cursor community event...",
+      "source": "dev",
+      "tag": "ai,  programming",
+      "url": "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20"
+    },
+    {
+      "title": "When to Use Bloc vs. Cubit vs. Signal: An Architectural Decision Guide",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Stop guessing how to structure your Flutter state. Here is a definitive, 4-tier decision rubric comparing raw Signals, C",
+      "source": "dev",
+      "tag": "flutter,  dart",
+      "url": "https://dev.to/gde/when-to-use-bloc-vs-cubit-vs-signal-an-architectural-decision-guide-2911"
+    },
+    {
+      "title": "What was your win this week?!",
+      "hot": "❤️ 23 💬 18",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "weeklyretro,  discuss",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-1330"
+    },
+    {
+      "title": "Coding agents got boring the moment we built a really good one.",
+      "hot": "❤️ 9 💬 4",
+      "desc": "MESSAGE FROM BACKBOARD.IO Co-Founder Rob Imbeault:  Coding agents got boring the moment we built a...",
+      "source": "dev",
+      "tag": "agents,  ai",
+      "url": "https://dev.to/backboardio/coding-agents-got-boring-the-moment-we-built-a-really-good-one-1mc4"
+    },
+    {
+      "title": "What I Get to Forget About Riverpod Now That I Have BlocSignal",
+      "hot": "❤️ 5 💬 0",
+      "desc": "The greatest upgrade in developer experience isn't what you have to learn—it's the mental gymnastics you get to unlearn.",
+      "source": "dev",
+      "tag": "flutter,  dart",
+      "url": "https://dev.to/gde/what-i-get-to-forget-about-riverpod-now-that-i-have-blocsignal-1be5"
+    },
+    {
+      "title": "Git Gud!",
+      "hot": "❤️ 122 💬 55",
+      "desc": "You heard me.    Alright, that was mean lol. Though based on the title, you probably already knew the...",
+      "source": "dev",
+      "tag": "discuss,  community",
+      "url": "https://dev.to/francistrdev/git-gud-4e6g"
+    },
+    {
+      "title": "I Write Less Code Than I Used To. That May Be the Point.",
+      "hot": "❤️ 26 💬 18",
+      "desc": "Over the last year, my day-to-day job has changed in a way I am still trying to understand. I am...",
+      "source": "dev",
+      "tag": "ai,  programming",
+      "url": "https://dev.to/marcosomma/i-write-less-code-than-i-used-to-that-may-be-the-point-3kk"
+    },
+    {
+      "title": "Hey all! I’m Jem, the DEV Community Program Coordinator",
+      "hot": "❤️ 159 💬 63",
+      "desc": "It feels good to finally be writing this.  I've been working part-time behind the scenes at DEV for...",
+      "source": "dev",
+      "tag": "meta",
+      "url": "https://dev.to/devteam/hey-all-im-jem-the-dev-community-program-coordinator-2g2"
+    },
+    {
+      "title": "Building a viral Imax ticketing app that never crashes",
+      "hot": "❤️ 10 💬 0",
+      "desc": "When 150,000 tickets went on sale for The Odyssey in 70mm IMAX, they sold out almost instantly. But...",
+      "source": "dev",
+      "tag": "googlecloud,  temporal",
+      "url": "https://dev.to/googleai/building-a-viral-imax-ticketing-app-that-never-crashes-4d58"
+    },
+    {
+      "title": "Building Enterprise Storage, Backups & Cosign Image Security in Go & Flutter with Google Antigravity",
+      "hot": "❤️ 5 💬 0",
+      "desc": "Building Enterprise Storage, Point-in-Time Backups &amp; Cosign Image Security in Go &amp;...",
+      "source": "dev",
+      "tag": "gubernator,  docker",
+      "url": "https://dev.to/gde/building-enterprise-storage-backups-cosign-image-security-in-go-flutter-with-google-antigravity-3ao3"
+    },
+    {
+      "title": "My First Engineering Job Is Teaching Me Something I Didn't Expect",
+      "hot": "❤️ 65 💬 32",
+      "desc": "Well, first real job and I still haven't gotten used to waking up for a 6:30 AM shift... I've been...",
+      "source": "dev",
+      "tag": "learning,  career",
+      "url": "https://dev.to/itsugo/my-first-engineering-job-is-teaching-me-something-i-didnt-expect-l96"
+    },
+    {
+      "title": "Engineering: Dreams, or Self-Actualization?",
+      "hot": "❤️ 27 💬 6",
+      "desc": "At what point did you start to think you were an engineer?  An engineer. What a lofty,...",
+      "source": "dev",
+      "tag": "webdev,  mentalhealth",
+      "url": "https://dev.to/annavi11arrea1/engineering-dreams-or-self-actualization-41ok"
+    },
+    {
+      "title": "My AI Content Journey",
+      "hot": "❤️ 23 💬 7",
+      "desc": "I apologize ahead of time, what follows has no tooling applied to it. No grammar checks, no AI, and...",
+      "source": "dev",
+      "tag": "ai,  webdev",
+      "url": "https://dev.to/playfulprogramming/my-ai-content-journey-1b8p"
+    },
+    {
+      "title": "Ichiraku Ramen — A Cozy Japanese Restaurant Landing Page 🍜🌸",
+      "hot": "❤️ 83 💬 61",
+      "desc": "This is a submission for Frontend Challenge - Comfort Food Edition, Perfect Landing              What...",
+      "source": "dev",
+      "tag": "devchallenge,  frontendchallenge",
+      "url": "https://dev.to/gamya_m/ichiraku-ramen-a-cozy-japanese-restaurant-landing-page-3pb8"
+    },
+    {
+      "title": "State Management in Front-end Web Development: Mutators",
+      "hot": "❤️ 24 💬 0",
+      "desc": "Libraries like Valtio and Pinia for Vue use a mutator pattern instead of the actions, dispatch, and...",
+      "source": "dev",
+      "tag": "webdev,  react",
+      "url": "https://dev.to/abbeyperini/state-management-in-front-end-web-development-mutators-24gp"
+    },
+    {
+      "title": "I Joined dev.to because...",
+      "hot": "❤️ 140 💬 125",
+      "desc": "Why not?     Just kidding, there is more to it. Just thought it flows well with the title...",
+      "source": "dev",
+      "tag": "discuss,  community",
+      "url": "https://dev.to/francistrdev/i-joined-devto-because-fl0"
+    },
+    {
+      "title": "Redefining the Role of Google Apps Script in the Era of Generative AI",
+      "hot": "❤️ 7 💬 0",
+      "desc": "Abstract   Generative AI and autonomous agents do not obsolete Google Apps Script (GAS);...",
+      "source": "dev",
+      "tag": "ai,  gemini",
+      "url": "https://dev.to/gde/redefining-the-role-of-google-apps-script-in-the-era-of-generative-ai-43ke"
+    },
+    {
+      "title": "Breaking the Multimodal Barrier: Exploring Gemini Omni and My Time with GDG Calabar",
+      "hot": "❤️ 11 💬 3",
+      "desc": "The energy following a major Google I/O announcement always ripples through the developer ecosystem,...",
+      "source": "dev",
+      "tag": "ai,  videoproduction",
+      "url": "https://dev.to/gde/breaking-the-multimodal-barrier-exploring-gemini-omni-and-my-time-with-gdg-calabar-569o"
     }
   ]
 }
