@@ -1,191 +1,29 @@
 {
-  "updatedAt": "2026-08-24T10:24:10.749Z",
+  "updatedAt": "2026-08-24T10:58:17.958Z",
   "source": "live",
-  "dev": [
-    {
-      "title": "HTML is getting cool again: Meet the Invoker Commands API",
-      "hot": "❤️ 23 💬 13",
-      "desc": "For years, frontend development has had a slightly embarrassing relationship with HTML. We all read...",
-      "source": "dev",
-      "tag": "webdev,  a11y",
-      "url": "https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367"
-    },
-    {
-      "title": "Coding agents got boring the moment we built a really good one.",
-      "hot": "❤️ 9 💬 4",
-      "desc": "MESSAGE FROM BACKBOARD.IO Co-Founder Rob Imbeault:  Coding agents got boring the moment we built a...",
-      "source": "dev",
-      "tag": "agents,  ai",
-      "url": "https://dev.to/backboardio/coding-agents-got-boring-the-moment-we-built-a-really-good-one-1mc4"
-    },
-    {
-      "title": "Git Gud!",
-      "hot": "❤️ 123 💬 56",
-      "desc": "You heard me.    Alright, that was mean lol. Though based on the title, you probably already knew the...",
-      "source": "dev",
-      "tag": "discuss,  community",
-      "url": "https://dev.to/francistrdev/git-gud-4e6g"
-    },
-    {
-      "title": "Bridging the AI Cutoff: Teaching Coding Agents Every Dart Feature from 1.0 to 3.14",
-      "hot": "❤️ 8 💬 0",
-      "desc": "How to eliminate LLM training cutoff gaps in Dart and Flutter, modernize legacy codebases, and install open agent skills",
-      "source": "dev",
-      "tag": "dart,  flutter",
-      "url": "https://dev.to/gde/bridging-the-ai-cutoff-teaching-coding-agents-every-dart-feature-from-10-to-314-3752"
-    },
-    {
-      "title": "Greatness Is Forged by Limitation",
-      "hot": "❤️ 75 💬 38",
-      "desc": "Can't believe I spent 2 weeks writing this.  Last week, I gave a talk at a Cursor community event...",
-      "source": "dev",
-      "tag": "ai,  programming",
-      "url": "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20"
-    },
-    {
-      "title": "Hey all! I’m Jem, the DEV Community Program Coordinator",
-      "hot": "❤️ 164 💬 63",
-      "desc": "It feels good to finally be writing this.  I've been working part-time behind the scenes at DEV for...",
-      "source": "dev",
-      "tag": "meta",
-      "url": "https://dev.to/devteam/hey-all-im-jem-the-dev-community-program-coordinator-2g2"
-    },
-    {
-      "title": "My First Engineering Job Is Teaching Me Something I Didn't Expect",
-      "hot": "❤️ 67 💬 38",
-      "desc": "Well, first real job and I still haven't gotten used to waking up for a 6:30 AM shift... I've been...",
-      "source": "dev",
-      "tag": "learning,  career",
-      "url": "https://dev.to/itsugo/my-first-engineering-job-is-teaching-me-something-i-didnt-expect-l96"
-    },
-    {
-      "title": "What was your win this week?!",
-      "hot": "❤️ 29 💬 27",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "weeklyretro,  discuss",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-1330"
-    },
-    {
-      "title": "Ichiraku Ramen — A Cozy Japanese Restaurant Landing Page 🍜🌸",
-      "hot": "❤️ 88 💬 61",
-      "desc": "This is a submission for Frontend Challenge - Comfort Food Edition, Perfect Landing              What...",
-      "source": "dev",
-      "tag": "devchallenge,  frontendchallenge",
-      "url": "https://dev.to/gamya_m/ichiraku-ramen-a-cozy-japanese-restaurant-landing-page-3pb8"
-    },
-    {
-      "title": "I Joined dev.to because...",
-      "hot": "❤️ 140 💬 125",
-      "desc": "Why not?     Just kidding, there is more to it. Just thought it flows well with the title...",
-      "source": "dev",
-      "tag": "discuss,  community",
-      "url": "https://dev.to/francistrdev/i-joined-devto-because-fl0"
-    },
-    {
-      "title": "Breaking the Multimodal Barrier: Exploring Gemini Omni and My Time with GDG Calabar",
-      "hot": "❤️ 11 💬 5",
-      "desc": "The energy following a major Google I/O announcement always ripples through the developer ecosystem,...",
-      "source": "dev",
-      "tag": "ai,  videoproduction",
-      "url": "https://dev.to/gde/breaking-the-multimodal-barrier-exploring-gemini-omni-and-my-time-with-gdg-calabar-569o"
-    },
-    {
-      "title": "What was your win this week??",
-      "hot": "❤️ 65 💬 61",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "weeklyretro,  discuss",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-23ob"
-    },
-    {
-      "title": "What I Get to Forget About Riverpod Now That I Have BlocSignal",
-      "hot": "❤️ 7 💬 2",
-      "desc": "The greatest upgrade in developer experience isn't what you have to learn—it's the mental gymnastics you get to unlearn.",
-      "source": "dev",
-      "tag": "flutter,  dart",
-      "url": "https://dev.to/gde/what-i-get-to-forget-about-riverpod-now-that-i-have-blocsignal-1be5"
-    },
-    {
-      "title": "Backend Engineer (Me) Ships a Browser Game With One Unintentional System Requirement: My Monitor",
-      "hot": "❤️ 90 💬 57",
-      "desc": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.           Prefer...",
-      "source": "dev",
-      "tag": "devchallenge,  bugsmash",
-      "url": "https://dev.to/georgekobaidze/backend-engineer-me-ships-a-browser-game-with-one-unintentional-system-requirement-my-monitor-1ojd"
-    },
-    {
-      "title": "When to Use Bloc vs. Cubit vs. Signal: An Architectural Decision Guide",
-      "hot": "❤️ 7 💬 0",
-      "desc": "Stop guessing how to structure your Flutter state. Here is a definitive, 4-tier decision rubric comparing raw Signals, C",
-      "source": "dev",
-      "tag": "flutter,  dart",
-      "url": "https://dev.to/gde/when-to-use-bloc-vs-cubit-vs-signal-an-architectural-decision-guide-2911"
-    },
-    {
-      "title": "I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.",
-      "hot": "❤️ 48 💬 48",
-      "desc": "Update 08/15 0.2.0 Released   github.com/deghosal-2026/agent-tooltrust · pip install agent-tooltrust...",
-      "source": "dev",
-      "tag": "ai,  agents",
-      "url": "https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb"
-    },
-    {
-      "title": "Building a viral Imax ticketing app that never crashes",
-      "hot": "❤️ 11 💬 0",
-      "desc": "When 150,000 tickets went on sale for The Odyssey in 70mm IMAX, they sold out almost instantly. But...",
-      "source": "dev",
-      "tag": "googlecloud,  temporal",
-      "url": "https://dev.to/googleai/building-a-viral-imax-ticketing-app-that-never-crashes-4d58"
-    },
-    {
-      "title": "Building Enterprise Storage, Backups & Cosign Image Security in Go & Flutter with Google Antigravity",
-      "hot": "❤️ 7 💬 0",
-      "desc": "Building Enterprise Storage, Point-in-Time Backups &amp; Cosign Image Security in Go &amp;...",
-      "source": "dev",
-      "tag": "gubernator,  docker",
-      "url": "https://dev.to/gde/building-enterprise-storage-backups-cosign-image-security-in-go-flutter-with-google-antigravity-3ao3"
-    },
-    {
-      "title": "Three Clouds, One Brief: What Actually Differs Between ADK, Strands and Agent Framework",
-      "hot": "❤️ 8 💬 0",
-      "desc": "All three hyperscalers now ship an agent framework, and all three speak A2A. The protocol page will...",
-      "source": "dev",
-      "tag": "a2a,  aiagents",
-      "url": "https://dev.to/gde/three-clouds-one-brief-what-actually-differs-between-adk-strands-and-agent-framework-2kgc"
-    },
-    {
-      "title": "ADK Beyond Its Own Tests: What Happens When Your Agent Answers a Client That Is Not ADK",
-      "hot": "❤️ 7 💬 0",
-      "desc": "One ADK agent on Cloud Run, serving A2A to clients built on Strands and Microsoft Agent Framework, next to two agents th",
-      "source": "dev",
-      "tag": "googlecloud,  gemini",
-      "url": "https://dev.to/gde/adk-beyond-its-own-tests-what-happens-when-your-agent-answers-a-client-that-is-not-adk-6f9"
-    }
-  ],
   "tech": [
-    {
-      "title": "Everything I own, owned",
-      "hot": "3.0m",
-      "desc": "schlarp.com",
-      "source": "tech",
-      "tag": "⬆️ 942 points",
-      "url": "https://schlarp.com/posts/everything-i-own-owned/"
-    },
     {
       "title": "I were 17, I'd learn how to build LLMs from scratch",
       "hot": "3.0m",
       "desc": "twitter.com",
       "source": "tech",
-      "tag": "⬆️ 132 points",
+      "tag": "⬆️ 159 points",
       "url": "https://twitter.com/paulg/status/2091544343589060625"
+    },
+    {
+      "title": "Everything I own, owned",
+      "hot": "3.0m",
+      "desc": "schlarp.com",
+      "source": "tech",
+      "tag": "⬆️ 981 points",
+      "url": "https://schlarp.com/posts/everything-i-own-owned/"
     },
     {
       "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
       "hot": "3.0m",
       "desc": "medicine.washu.edu",
       "source": "tech",
-      "tag": "⬆️ 48 points",
+      "tag": "⬆️ 61 points",
       "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/"
     },
     {
@@ -193,7 +31,7 @@
       "hot": "3.0m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 40 points",
+      "tag": "⬆️ 48 points",
       "url": "https://github.com/thiagotigaz/ocr-it"
     },
     {
@@ -201,63 +39,71 @@
       "hot": "2.9m",
       "desc": "ft.com",
       "source": "tech",
-      "tag": "⬆️ 532 points",
+      "tag": "⬆️ 548 points",
       "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245"
-    },
-    {
-      "title": "How I find problems to solve as a staff engineer",
-      "hot": "2.9m",
-      "desc": "lalitm.com",
-      "source": "tech",
-      "tag": "⬆️ 418 points",
-      "url": "https://lalitm.com/post/find-problems-staff-engineer/"
     },
     {
       "title": "Executable Is a SQLite Database",
       "hot": "2.9m",
       "desc": "fzakaria.com",
       "source": "tech",
-      "tag": "⬆️ 84 points",
+      "tag": "⬆️ 103 points",
       "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database"
+    },
+    {
+      "title": "Fast drilldown dashboards from a single Parquet file",
+      "hot": "2.9m",
+      "desc": "hamiltonulmer.com",
+      "source": "tech",
+      "tag": "⬆️ 19 points",
+      "url": "https://www.hamiltonulmer.com/customer-dashboards-r2-hyparquet/"
+    },
+    {
+      "title": "How I find problems to solve as a staff engineer",
+      "hot": "2.9m",
+      "desc": "lalitm.com",
+      "source": "tech",
+      "tag": "⬆️ 423 points",
+      "url": "https://lalitm.com/post/find-problems-staff-engineer/"
     },
     {
       "title": "Andreessen Horowitz is investing billions into a bleak future",
       "hot": "2.9m",
       "desc": "modelrepublic.org",
       "source": "tech",
-      "tag": "⬆️ 159 points",
+      "tag": "⬆️ 185 points",
       "url": "https://www.modelrepublic.org/articles/a16z-portfolio"
-    },
-    {
-      "title": "The Future Belongs to the Weird",
-      "hot": "2.9m",
-      "desc": "essays.georgestrakhov.com",
-      "source": "tech",
-      "tag": "⬆️ 8 points",
-      "url": "https://essays.georgestrakhov.com/weird/"
-    },
-    {
-      "title": "Woman stranded in Spain after UK's eVisa system mistakes her for twin sister",
-      "hot": "2.9m",
-      "desc": "theguardian.com",
-      "source": "tech",
-      "tag": "⬆️ 22 points",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/24/woman-stranded-spain-uk-evisa-system-mistakes-twin-sister"
     },
     {
       "title": "I built a low-latency AI companion that plays Skyrim with me",
       "hot": "2.9m",
       "desc": "pantel.is",
       "source": "tech",
-      "tag": "⬆️ 167 points",
+      "tag": "⬆️ 177 points",
       "url": "https://pantel.is/projects/ai-gaming-companion/"
+    },
+    {
+      "title": "Woman stranded in Spain after UK's eVisa system mistakes her for twin sister",
+      "hot": "2.9m",
+      "desc": "theguardian.com",
+      "source": "tech",
+      "tag": "⬆️ 34 points",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/24/woman-stranded-spain-uk-evisa-system-mistakes-twin-sister"
+    },
+    {
+      "title": "The Future Belongs to the Weird",
+      "hot": "2.8m",
+      "desc": "essays.georgestrakhov.com",
+      "source": "tech",
+      "tag": "⬆️ 14 points",
+      "url": "https://essays.georgestrakhov.com/weird/"
     },
     {
       "title": "New EU-wide product repair rules come into force",
       "hot": "2.8m",
       "desc": "rte.ie",
       "source": "tech",
-      "tag": "⬆️ 129 points",
+      "tag": "⬆️ 143 points",
       "url": "https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/"
     },
     {
@@ -265,7 +111,7 @@
       "hot": "2.8m",
       "desc": "blog.elis.cc",
       "source": "tech",
-      "tag": "⬆️ 307 points",
+      "tag": "⬆️ 310 points",
       "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/"
     },
     {
@@ -273,7 +119,7 @@
       "hot": "2.8m",
       "desc": "fabiensanglard.net",
       "source": "tech",
-      "tag": "⬆️ 315 points",
+      "tag": "⬆️ 321 points",
       "url": "https://fabiensanglard.net/agent.md/index.html"
     },
     {
@@ -281,23 +127,15 @@
       "hot": "2.8m",
       "desc": "earendil.com",
       "source": "tech",
-      "tag": "⬆️ 453 points",
+      "tag": "⬆️ 461 points",
       "url": "https://earendil.com/posts/what-is-a-harness/"
-    },
-    {
-      "title": "Fast drilldown dashboards from a single Parquet file",
-      "hot": "2.8m",
-      "desc": "hamiltonulmer.com",
-      "source": "tech",
-      "tag": "⬆️ 9 points",
-      "url": "https://www.hamiltonulmer.com/customer-dashboards-r2-hyparquet/"
     },
     {
       "title": "How Complex Systems Fail (1998)",
       "hot": "2.8m",
       "desc": "how.complexsystems.fail",
       "source": "tech",
-      "tag": "⬆️ 318 points",
+      "tag": "⬆️ 325 points",
       "url": "https://how.complexsystems.fail/"
     },
     {
@@ -305,24 +143,24 @@
       "hot": "2.7m",
       "desc": "afro.who.int",
       "source": "tech",
-      "tag": "⬆️ 52 points",
+      "tag": "⬆️ 58 points",
       "url": "https://www.afro.who.int/countries/democratic-republic-of-congo/news/over-5200-cases-recorded-democratic-republic-congocrosses100-days-ebola-outbreak-declaration"
-    },
-    {
-      "title": "Malware infects Android-based automotive head unit firmware",
-      "hot": "2.7m",
-      "desc": "securelist.com",
-      "source": "tech",
-      "tag": "⬆️ 243 points",
-      "url": "https://securelist.com/android-head-unit-malware/121106/"
     },
     {
       "title": "AI Chip Architectures",
       "hot": "2.7m",
       "desc": "jepeake.com",
       "source": "tech",
-      "tag": "⬆️ 82 points",
+      "tag": "⬆️ 89 points",
       "url": "https://www.jepeake.com/ai-chip-architectures"
+    },
+    {
+      "title": "Malware infects Android-based automotive head unit firmware",
+      "hot": "2.7m",
+      "desc": "securelist.com",
+      "source": "tech",
+      "tag": "⬆️ 245 points",
+      "url": "https://securelist.com/android-head-unit-malware/121106/"
     }
   ],
   "space": [
@@ -514,7 +352,7 @@
     },
     {
       "title": "MeteorNOX/DeepSeek-Balance-Whale-Widget: DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼",
-      "hot": "⭐ 803",
+      "hot": "⭐ 808",
       "desc": "DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装",
       "source": "github",
       "tag": "JavaScript",
@@ -522,7 +360,7 @@
     },
     {
       "title": "Spielewoy/autoprompt-skill: Autoprompt is a coding-agent skill that cuts failure",
-      "hot": "⭐ 792",
+      "hot": "⭐ 793",
       "desc": "Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
       "source": "github",
       "tag": "JavaScript",
@@ -530,7 +368,7 @@
     },
     {
       "title": "cclank/lanshu-create-ai-presenter-video: Provider-neutral Codex Skill for produc",
-      "hot": "⭐ 765",
+      "hot": "⭐ 767",
       "desc": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
       "source": "github",
       "tag": "Python",
@@ -546,7 +384,7 @@
     },
     {
       "title": "browser-use/macos-harness: The simplest, thinnest harness that gives an LLM comp",
-      "hot": "⭐ 736",
+      "hot": "⭐ 737",
       "desc": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
       "source": "github",
       "tag": "Python",
@@ -567,6 +405,168 @@
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/SigmanticAI/apex-inference-chip"
+    }
+  ],
+  "dev": [
+    {
+      "title": "HTML is getting cool again: Meet the Invoker Commands API",
+      "hot": "❤️ 23 💬 13",
+      "desc": "For years, frontend development has had a slightly embarrassing relationship with HTML. We all read...",
+      "source": "dev",
+      "tag": "webdev,  a11y",
+      "url": "https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367"
+    },
+    {
+      "title": "Coding agents got boring the moment we built a really good one.",
+      "hot": "❤️ 9 💬 4",
+      "desc": "MESSAGE FROM BACKBOARD.IO Co-Founder Rob Imbeault:  Coding agents got boring the moment we built a...",
+      "source": "dev",
+      "tag": "agents,  ai",
+      "url": "https://dev.to/backboardio/coding-agents-got-boring-the-moment-we-built-a-really-good-one-1mc4"
+    },
+    {
+      "title": "Git Gud!",
+      "hot": "❤️ 123 💬 56",
+      "desc": "You heard me.    Alright, that was mean lol. Though based on the title, you probably already knew the...",
+      "source": "dev",
+      "tag": "discuss,  community",
+      "url": "https://dev.to/francistrdev/git-gud-4e6g"
+    },
+    {
+      "title": "Bridging the AI Cutoff: Teaching Coding Agents Every Dart Feature from 1.0 to 3.14",
+      "hot": "❤️ 8 💬 0",
+      "desc": "How to eliminate LLM training cutoff gaps in Dart and Flutter, modernize legacy codebases, and install open agent skills",
+      "source": "dev",
+      "tag": "dart,  flutter",
+      "url": "https://dev.to/gde/bridging-the-ai-cutoff-teaching-coding-agents-every-dart-feature-from-10-to-314-3752"
+    },
+    {
+      "title": "Greatness Is Forged by Limitation",
+      "hot": "❤️ 75 💬 38",
+      "desc": "Can't believe I spent 2 weeks writing this.  Last week, I gave a talk at a Cursor community event...",
+      "source": "dev",
+      "tag": "ai,  programming",
+      "url": "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20"
+    },
+    {
+      "title": "Hey all! I’m Jem, the DEV Community Program Coordinator",
+      "hot": "❤️ 164 💬 63",
+      "desc": "It feels good to finally be writing this.  I've been working part-time behind the scenes at DEV for...",
+      "source": "dev",
+      "tag": "meta",
+      "url": "https://dev.to/devteam/hey-all-im-jem-the-dev-community-program-coordinator-2g2"
+    },
+    {
+      "title": "My First Engineering Job Is Teaching Me Something I Didn't Expect",
+      "hot": "❤️ 67 💬 38",
+      "desc": "Well, first real job and I still haven't gotten used to waking up for a 6:30 AM shift... I've been...",
+      "source": "dev",
+      "tag": "learning,  career",
+      "url": "https://dev.to/itsugo/my-first-engineering-job-is-teaching-me-something-i-didnt-expect-l96"
+    },
+    {
+      "title": "What was your win this week?!",
+      "hot": "❤️ 29 💬 27",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "weeklyretro,  discuss",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-1330"
+    },
+    {
+      "title": "Ichiraku Ramen — A Cozy Japanese Restaurant Landing Page 🍜🌸",
+      "hot": "❤️ 88 💬 62",
+      "desc": "This is a submission for Frontend Challenge - Comfort Food Edition, Perfect Landing              What...",
+      "source": "dev",
+      "tag": "devchallenge,  frontendchallenge",
+      "url": "https://dev.to/gamya_m/ichiraku-ramen-a-cozy-japanese-restaurant-landing-page-3pb8"
+    },
+    {
+      "title": "I Joined dev.to because...",
+      "hot": "❤️ 140 💬 125",
+      "desc": "Why not?     Just kidding, there is more to it. Just thought it flows well with the title...",
+      "source": "dev",
+      "tag": "discuss,  community",
+      "url": "https://dev.to/francistrdev/i-joined-devto-because-fl0"
+    },
+    {
+      "title": "Breaking the Multimodal Barrier: Exploring Gemini Omni and My Time with GDG Calabar",
+      "hot": "❤️ 11 💬 5",
+      "desc": "The energy following a major Google I/O announcement always ripples through the developer ecosystem,...",
+      "source": "dev",
+      "tag": "ai,  videoproduction",
+      "url": "https://dev.to/gde/breaking-the-multimodal-barrier-exploring-gemini-omni-and-my-time-with-gdg-calabar-569o"
+    },
+    {
+      "title": "What I Get to Forget About Riverpod Now That I Have BlocSignal",
+      "hot": "❤️ 7 💬 2",
+      "desc": "The greatest upgrade in developer experience isn't what you have to learn—it's the mental gymnastics you get to unlearn.",
+      "source": "dev",
+      "tag": "flutter,  dart",
+      "url": "https://dev.to/gde/what-i-get-to-forget-about-riverpod-now-that-i-have-blocsignal-1be5"
+    },
+    {
+      "title": "What was your win this week??",
+      "hot": "❤️ 66 💬 61",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "weeklyretro,  discuss",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-23ob"
+    },
+    {
+      "title": "Backend Engineer (Me) Ships a Browser Game With One Unintentional System Requirement: My Monitor",
+      "hot": "❤️ 90 💬 57",
+      "desc": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.           Prefer...",
+      "source": "dev",
+      "tag": "devchallenge,  bugsmash",
+      "url": "https://dev.to/georgekobaidze/backend-engineer-me-ships-a-browser-game-with-one-unintentional-system-requirement-my-monitor-1ojd"
+    },
+    {
+      "title": "When to Use Bloc vs. Cubit vs. Signal: An Architectural Decision Guide",
+      "hot": "❤️ 7 💬 0",
+      "desc": "Stop guessing how to structure your Flutter state. Here is a definitive, 4-tier decision rubric comparing raw Signals, C",
+      "source": "dev",
+      "tag": "flutter,  dart",
+      "url": "https://dev.to/gde/when-to-use-bloc-vs-cubit-vs-signal-an-architectural-decision-guide-2911"
+    },
+    {
+      "title": "I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.",
+      "hot": "❤️ 48 💬 48",
+      "desc": "Update 08/15 0.2.0 Released   github.com/deghosal-2026/agent-tooltrust · pip install agent-tooltrust...",
+      "source": "dev",
+      "tag": "ai,  agents",
+      "url": "https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb"
+    },
+    {
+      "title": "Building a viral Imax ticketing app that never crashes",
+      "hot": "❤️ 11 💬 0",
+      "desc": "When 150,000 tickets went on sale for The Odyssey in 70mm IMAX, they sold out almost instantly. But...",
+      "source": "dev",
+      "tag": "googlecloud,  temporal",
+      "url": "https://dev.to/googleai/building-a-viral-imax-ticketing-app-that-never-crashes-4d58"
+    },
+    {
+      "title": "I Write Less Code Than I Used To. That May Be the Point.",
+      "hot": "❤️ 30 💬 28",
+      "desc": "Over the last year, my day-to-day job has changed in a way I am still trying to understand. I am...",
+      "source": "dev",
+      "tag": "ai,  programming",
+      "url": "https://dev.to/marcosomma/i-write-less-code-than-i-used-to-that-may-be-the-point-3kk"
+    },
+    {
+      "title": "Building Enterprise Storage, Backups & Cosign Image Security in Go & Flutter with Google Antigravity",
+      "hot": "❤️ 7 💬 0",
+      "desc": "Building Enterprise Storage, Point-in-Time Backups &amp; Cosign Image Security in Go &amp;...",
+      "source": "dev",
+      "tag": "gubernator,  docker",
+      "url": "https://dev.to/gde/building-enterprise-storage-backups-cosign-image-security-in-go-flutter-with-google-antigravity-3ao3"
+    },
+    {
+      "title": "Three Clouds, One Brief: What Actually Differs Between ADK, Strands and Agent Framework",
+      "hot": "❤️ 8 💬 0",
+      "desc": "All three hyperscalers now ship an agent framework, and all three speak A2A. The protocol page will...",
+      "source": "dev",
+      "tag": "a2a,  aiagents",
+      "url": "https://dev.to/gde/three-clouds-one-brief-what-actually-differs-between-adk-strands-and-agent-framework-2kgc"
     }
   ]
 }
