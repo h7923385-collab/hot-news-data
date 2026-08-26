@@ -1,175 +1,13 @@
 {
-  "updatedAt": "2026-08-26T05:00:48.839Z",
+  "updatedAt": "2026-08-26T05:54:49.732Z",
   "source": "live",
-  "dev": [
-    {
-      "title": "What Do You Do While AI Codes?",
-      "hot": "❤️ 22 💬 18",
-      "desc": "AI coding agents leave you with 5-to-20-minute gaps all day. Five real ways I fill them — and the one \"quick\" habit that",
-      "source": "dev",
-      "tag": "discuss,  ai",
-      "url": "https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k"
-    },
-    {
-      "title": "comiCSS #255: Yellow",
-      "hot": "❤️ 11 💬 0",
-      "desc": "comiCSS cartoon for August 24, 2026",
-      "source": "dev",
-      "tag": "css,  webdev",
-      "url": "https://dev.to/alvaromontoro/comicss-255-yellow-1bj"
-    },
-    {
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 18 💬 10",
-      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
-      "source": "dev",
-      "tag": "top7,  discuss",
-      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4h3f"
-    },
-    {
-      "title": "AI Evals at a Glance: Heatmaps for Stakeholders",
-      "hot": "❤️ 10 💬 0",
-      "desc": "Visualizing AI evals with Inspect Viz   Welcome back to our blog series on running,...",
-      "source": "dev",
-      "tag": "ai,  llm",
-      "url": "https://dev.to/googleai/ai-evals-at-a-glance-heatmaps-for-stakeholders-2mki"
-    },
-    {
-      "title": "Building E-commerce AI Agents on MongoDB with CrewAI",
-      "hot": "❤️ 5 💬 1",
-      "desc": "AI-powered shopping agents are becoming a real differentiator for e-commerce teams. A 2026 Stord...",
-      "source": "dev",
-      "tag": "ai,  mongodb",
-      "url": "https://dev.to/mongodb/building-e-commerce-ai-agents-on-mongodb-with-crewai-4n8p"
-    },
-    {
-      "title": "Tech webinar: How to control costs & measure ROI for Claude Code on GCP - 9/1 12pm PT.",
-      "hot": "❤️ 13 💬 0",
-      "desc": "If your team is running or planning to deploy Claude Code on Google Cloud, managing spend and...",
-      "source": "dev",
-      "tag": "Dev.to",
-      "url": "https://dev.to/googleai/tech-webinar-how-to-control-costs-measure-roi-for-claude-code-on-gcp-91-12pm-pt-1m3b"
-    },
-    {
-      "title": "Wiring the Reasoning Loop: Gemini + Neo4j + MCP for Multi-Hop AI Agents",
-      "hot": "❤️ 11 💬 0",
-      "desc": "Standard Retrieval-Augmented Generation (RAG) solved the initial LLM hallucination problem by...",
-      "source": "dev",
-      "tag": "ai,  gcp",
-      "url": "https://dev.to/gde/wiring-the-reasoning-loop-gemini-neo4j-mcp-for-multi-hop-ai-agents-51p9"
-    },
-    {
-      "title": "Coding agents got boring the moment we built a really good one.",
-      "hot": "❤️ 9 💬 4",
-      "desc": "MESSAGE FROM BACKBOARD.IO Co-Founder Rob Imbeault:  Coding agents got boring the moment we built a...",
-      "source": "dev",
-      "tag": "agents,  ai",
-      "url": "https://dev.to/backboardio/coding-agents-got-boring-the-moment-we-built-a-really-good-one-1mc4"
-    },
-    {
-      "title": "Mix and Match: One Agent, Three Clouds, One Protocol",
-      "hot": "❤️ 10 💬 1",
-      "desc": "The same research agent built three times — Google ADK on Cloud Run, Strands on Bedrock AgentCore, Agent Framework on Co",
-      "source": "dev",
-      "tag": "a2a,  aiagents",
-      "url": "https://dev.to/gde/mix-and-match-one-agent-three-clouds-one-protocol-4e5l"
-    },
-    {
-      "title": "Meme Monday",
-      "hot": "❤️ 29 💬 15",
-      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
-      "source": "dev",
-      "tag": "discuss,  watercooler",
-      "url": "https://dev.to/ben/meme-monday-385f"
-    },
-    {
-      "title": "The data is in: AI is how developers learn now",
-      "hot": "❤️ 18 💬 0",
-      "desc": "AI is now the most common way that new developers learn.  We all knew AI was having an impact on...",
-      "source": "dev",
-      "tag": "ai,  career",
-      "url": "https://blog.mlh.com/the-data-is-in-ai-is-how-developers-learn-now-28p4"
-    },
-    {
-      "title": "HTML is getting cool again: Meet the Invoker Commands API",
-      "hot": "❤️ 35 💬 16",
-      "desc": "For years, frontend development has had a slightly embarrassing relationship with HTML. We all read...",
-      "source": "dev",
-      "tag": "webdev,  a11y",
-      "url": "https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367"
-    },
-    {
-      "title": "Mix and Match: Serving an ADK Agent to AWS and Azure",
-      "hot": "❤️ 8 💬 0",
-      "desc": "A Google ADK agent on Cloud Run, serving A2A to clients that are not ADK — a Strands agent on Bedrock AgentCore and an A",
-      "source": "dev",
-      "tag": "googlecloud,  gemini",
-      "url": "https://dev.to/gde/mix-and-match-serving-an-adk-agent-to-aws-and-azure-161f"
-    },
-    {
-      "title": "Greatness Is Forged by Limitation",
-      "hot": "❤️ 80 💬 38",
-      "desc": "Can't believe I spent 2 weeks writing this.  Last week, I gave a talk at a Cursor community event...",
-      "source": "dev",
-      "tag": "ai,  programming",
-      "url": "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20"
-    },
-    {
-      "title": "Git Gud!",
-      "hot": "❤️ 125 💬 56",
-      "desc": "You heard me.    Alright, that was mean lol. Though based on the title, you probably already knew the...",
-      "source": "dev",
-      "tag": "discuss,  community",
-      "url": "https://dev.to/francistrdev/git-gud-4e6g"
-    },
-    {
-      "title": "Hey all! I’m Jem, the DEV Community Program Coordinator",
-      "hot": "❤️ 171 💬 63",
-      "desc": "It feels good to finally be writing this.  I've been working part-time behind the scenes at DEV for...",
-      "source": "dev",
-      "tag": "meta",
-      "url": "https://dev.to/devteam/hey-all-im-jem-the-dev-community-program-coordinator-2g2"
-    },
-    {
-      "title": "My First Engineering Job Is Teaching Me Something I Didn't Expect",
-      "hot": "❤️ 68 💬 39",
-      "desc": "Well, first real job and I still haven't gotten used to waking up for a 6:30 AM shift... I've been...",
-      "source": "dev",
-      "tag": "learning,  career",
-      "url": "https://dev.to/itsugo/my-first-engineering-job-is-teaching-me-something-i-didnt-expect-l96"
-    },
-    {
-      "title": "I Joined dev.to because...",
-      "hot": "❤️ 141 💬 125",
-      "desc": "Why not?     Just kidding, there is more to it. Just thought it flows well with the title...",
-      "source": "dev",
-      "tag": "discuss,  community",
-      "url": "https://dev.to/francistrdev/i-joined-devto-because-fl0"
-    },
-    {
-      "title": "Ichiraku Ramen — A Cozy Japanese Restaurant Landing Page 🍜🌸",
-      "hot": "❤️ 89 💬 62",
-      "desc": "This is a submission for Frontend Challenge - Comfort Food Edition, Perfect Landing              What...",
-      "source": "dev",
-      "tag": "devchallenge,  frontendchallenge",
-      "url": "https://dev.to/gamya_m/ichiraku-ramen-a-cozy-japanese-restaurant-landing-page-3pb8"
-    },
-    {
-      "title": "What was your win this week??",
-      "hot": "❤️ 66 💬 62",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "weeklyretro,  discuss",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-23ob"
-    }
-  ],
   "tech": [
     {
       "title": "Apple introduces M6 and M5 Ultra",
       "hot": "3.0m",
       "desc": "apple.com",
       "source": "tech",
-      "tag": "⬆️ 1029 points",
+      "tag": "⬆️ 1051 points",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/"
     },
     {
@@ -177,7 +15,7 @@
       "hot": "3.0m",
       "desc": "fda.gov",
       "source": "tech",
-      "tag": "⬆️ 324 points",
+      "tag": "⬆️ 339 points",
       "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar"
     },
     {
@@ -185,95 +23,103 @@
       "hot": "3.0m",
       "desc": "newsletter.semianalysis.com",
       "source": "tech",
-      "tag": "⬆️ 386 points",
+      "tag": "⬆️ 408 points",
       "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia"
     },
     {
-      "title": "New Mac Studio with M5 Max and M5 Ultra",
+      "title": "Queryable Executables",
       "hot": "3.0m",
+      "desc": "fzakaria.com",
+      "source": "tech",
+      "tag": "⬆️ 82 points",
+      "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables"
+    },
+    {
+      "title": "New Mac Studio with M5 Max and M5 Ultra",
+      "hot": "2.9m",
       "desc": "apple.com",
       "source": "tech",
-      "tag": "⬆️ 726 points",
+      "tag": "⬆️ 737 points",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/"
     },
     {
-      "title": "Queryable Executables",
+      "title": "Students prefer Gemini over ChatGPT and Claude for AI essays in blind tests",
       "hot": "2.9m",
-      "desc": "fzakaria.com",
+      "desc": "studyarena.com",
       "source": "tech",
-      "tag": "⬆️ 58 points",
-      "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables"
+      "tag": "⬆️ 16 points",
+      "url": "https://studyarena.com/blog/chatgpt-vs-claude-vs-gemini-college-essays-2026"
     },
     {
       "title": "Black hole singularity is a surface not a point",
       "hot": "2.9m",
       "desc": "arxiv.org",
       "source": "tech",
-      "tag": "⬆️ 213 points",
+      "tag": "⬆️ 218 points",
       "url": "https://arxiv.org/abs/2608.21590"
-    },
-    {
-      "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 48 points",
-      "url": "https://github.com/runetes/maiao"
     },
     {
       "title": "New Mac mini, featuring M6 and M5 Pro",
       "hot": "2.9m",
       "desc": "apple.com",
       "source": "tech",
-      "tag": "⬆️ 457 points",
+      "tag": "⬆️ 466 points",
       "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/"
     },
     {
-      "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
+      "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
       "hot": "2.9m",
-      "desc": "sethmlarson.dev",
+      "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 89 points",
-      "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability"
+      "tag": "⬆️ 55 points",
+      "url": "https://github.com/runetes/maiao"
+    },
+    {
+      "title": "Stalking the Wily Hacker: 40 years later – Cliff Stoll [video]",
+      "hot": "2.9m",
+      "desc": "youtube.com",
+      "source": "tech",
+      "tag": "⬆️ 9 points",
+      "url": "https://www.youtube.com/watch?v=656058JxTM0"
     },
     {
       "title": "C2PA Cameras Do Not Survive Contact with Reality",
       "hot": "2.9m",
       "desc": "da.vidbuchanan.co.uk",
       "source": "tech",
-      "tag": "⬆️ 107 points",
+      "tag": "⬆️ 113 points",
       "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html"
-    },
-    {
-      "title": "Nitter and XCancel receive cease and desist notices",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 727 points",
-      "url": "https://github.com/zedeus/nitter/issues/1442"
     },
     {
       "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
       "hot": "2.8m",
       "desc": "arxiv.org",
       "source": "tech",
-      "tag": "⬆️ 9 points",
+      "tag": "⬆️ 17 points",
       "url": "https://arxiv.org/abs/2607.21503"
     },
     {
-      "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+      "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
+      "hot": "2.8m",
+      "desc": "sethmlarson.dev",
+      "source": "tech",
+      "tag": "⬆️ 92 points",
+      "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability"
+    },
+    {
+      "title": "Nitter and XCancel receive cease and desist notices",
       "hot": "2.8m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 70 points",
-      "url": "https://github.com/swimmingbrain/texbrain"
+      "tag": "⬆️ 765 points",
+      "url": "https://github.com/zedeus/nitter/issues/1442"
     },
     {
       "title": "Building a backyard office, the build and cost breakdown",
       "hot": "2.8m",
       "desc": "imkylelambert.com",
       "source": "tech",
-      "tag": "⬆️ 296 points",
+      "tag": "⬆️ 310 points",
       "url": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown"
     },
     {
@@ -281,48 +127,40 @@
       "hot": "2.8m",
       "desc": "nil.wallyjones.com",
       "source": "tech",
-      "tag": "⬆️ 138 points",
+      "tag": "⬆️ 144 points",
       "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/"
     },
     {
-      "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
+      "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
       "hot": "2.8m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 74 points",
+      "url": "https://github.com/swimmingbrain/texbrain"
+    },
+    {
+      "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
+      "hot": "2.7m",
       "desc": "e360.yale.edu",
       "source": "tech",
-      "tag": "⬆️ 290 points",
+      "tag": "⬆️ 294 points",
       "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs"
     },
     {
       "title": "Tooltips need a delay, and then they need to skip it",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "blog.master.dev",
       "source": "tech",
-      "tag": "⬆️ 134 points",
+      "tag": "⬆️ 142 points",
       "url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/"
-    },
-    {
-      "title": "Show HN: LatticeDB – Like SQLite but for graph databases",
-      "hot": "2.7m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 128 points",
-      "url": "https://github.com/jeffhajewski/latticedb"
     },
     {
       "title": "Don't Wordle",
       "hot": "2.7m",
       "desc": "dontwordle.com",
       "source": "tech",
-      "tag": "⬆️ 324 points",
+      "tag": "⬆️ 328 points",
       "url": "https://dontwordle.com/"
-    },
-    {
-      "title": "Dolly Parton has died",
-      "hot": "2.7m",
-      "desc": "theguardian.com",
-      "source": "tech",
-      "tag": "⬆️ 1329 points",
-      "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead"
     }
   ],
   "space": [
@@ -482,7 +320,7 @@
     },
     {
       "title": "cclank/lanshu-create-ai-presenter-video: Provider-neutral Codex Skill for produc",
-      "hot": "⭐ 932",
+      "hot": "⭐ 934",
       "desc": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
       "source": "github",
       "tag": "Python",
@@ -490,7 +328,7 @@
     },
     {
       "title": "nateherkai/scroll-craft: Claude Code skill for premium scroll-driven websites. S",
-      "hot": "⭐ 925",
+      "hot": "⭐ 928",
       "desc": "Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.",
       "source": "github",
       "tag": "JavaScript",
@@ -506,11 +344,19 @@
     },
     {
       "title": "ApodexAI/FrontierAgent: 🧩 FrontierAgent, our agent framework, open-sourced alon",
-      "hot": "⭐ 686",
+      "hot": "⭐ 711",
       "desc": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/ApodexAI/FrontierAgent"
+    },
+    {
+      "title": "amagine-ai/Amagine3D: Amagine3D: From hardware requirements to editable 3D desig",
+      "hot": "⭐ 642",
+      "desc": "Amagine3D: From hardware requirements to editable 3D designs",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/amagine-ai/Amagine3D"
     },
     {
       "title": "missuo/herdrm: Native macOS console for herdr — all your coding agents and their",
@@ -521,16 +367,8 @@
       "url": "https://github.com/missuo/herdrm"
     },
     {
-      "title": "amagine-ai/Amagine3D: Amagine3D: From hardware requirements to editable 3D desig",
-      "hot": "⭐ 596",
-      "desc": "Amagine3D: From hardware requirements to editable 3D designs",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/amagine-ai/Amagine3D"
-    },
-    {
       "title": "bryllim/workout-guide: 302 open exercise illustrations and a framework-neutral n",
-      "hot": "⭐ 561",
+      "hot": "⭐ 570",
       "desc": "302 open exercise illustrations and a framework-neutral npm package by Bryl Lim",
       "source": "github",
       "tag": "Astro",
@@ -538,7 +376,7 @@
     },
     {
       "title": "Zyrexnn/Cybermes: Autonomous Offensive Security, Bug Bounty & Red Teaming Agent ",
-      "hot": "⭐ 557",
+      "hot": "⭐ 558",
       "desc": "Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orc",
       "source": "github",
       "tag": "Python",
@@ -567,6 +405,168 @@
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/xdreizein666/getcontact-cli"
+    }
+  ],
+  "dev": [
+    {
+      "title": "What Do You Do While AI Codes?",
+      "hot": "❤️ 22 💬 19",
+      "desc": "AI coding agents leave you with 5-to-20-minute gaps all day. Five real ways I fill them — and the one \"quick\" habit that",
+      "source": "dev",
+      "tag": "discuss,  ai",
+      "url": "https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k"
+    },
+    {
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "hot": "❤️ 18 💬 10",
+      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+      "source": "dev",
+      "tag": "top7,  discuss",
+      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4h3f"
+    },
+    {
+      "title": "AI Evals at a Glance: Heatmaps for Stakeholders",
+      "hot": "❤️ 10 💬 0",
+      "desc": "Visualizing AI evals with Inspect Viz   Welcome back to our blog series on running,...",
+      "source": "dev",
+      "tag": "ai,  llm",
+      "url": "https://dev.to/googleai/ai-evals-at-a-glance-heatmaps-for-stakeholders-2mki"
+    },
+    {
+      "title": "Building E-commerce AI Agents on MongoDB with CrewAI",
+      "hot": "❤️ 6 💬 1",
+      "desc": "AI-powered shopping agents are becoming a real differentiator for e-commerce teams. A 2026 Stord...",
+      "source": "dev",
+      "tag": "ai,  mongodb",
+      "url": "https://dev.to/mongodb/building-e-commerce-ai-agents-on-mongodb-with-crewai-4n8p"
+    },
+    {
+      "title": "Tech webinar: How to control costs & measure ROI for Claude Code on GCP - 9/1 12pm PT.",
+      "hot": "❤️ 13 💬 0",
+      "desc": "If your team is running or planning to deploy Claude Code on Google Cloud, managing spend and...",
+      "source": "dev",
+      "tag": "Dev.to",
+      "url": "https://dev.to/googleai/tech-webinar-how-to-control-costs-measure-roi-for-claude-code-on-gcp-91-12pm-pt-1m3b"
+    },
+    {
+      "title": "comiCSS #255: Yellow",
+      "hot": "❤️ 12 💬 0",
+      "desc": "comiCSS cartoon for August 24, 2026",
+      "source": "dev",
+      "tag": "css,  webdev",
+      "url": "https://dev.to/alvaromontoro/comicss-255-yellow-1bj"
+    },
+    {
+      "title": "Wiring the Reasoning Loop: Gemini + Neo4j + MCP for Multi-Hop AI Agents",
+      "hot": "❤️ 11 💬 0",
+      "desc": "Standard Retrieval-Augmented Generation (RAG) solved the initial LLM hallucination problem by...",
+      "source": "dev",
+      "tag": "ai,  gcp",
+      "url": "https://dev.to/gde/wiring-the-reasoning-loop-gemini-neo4j-mcp-for-multi-hop-ai-agents-51p9"
+    },
+    {
+      "title": "Coding agents got boring the moment we built a really good one.",
+      "hot": "❤️ 9 💬 4",
+      "desc": "MESSAGE FROM BACKBOARD.IO Co-Founder Rob Imbeault:  Coding agents got boring the moment we built a...",
+      "source": "dev",
+      "tag": "agents,  ai",
+      "url": "https://dev.to/backboardio/coding-agents-got-boring-the-moment-we-built-a-really-good-one-1mc4"
+    },
+    {
+      "title": "Mix and Match: One Agent, Three Clouds, One Protocol",
+      "hot": "❤️ 10 💬 1",
+      "desc": "The same research agent built three times — Google ADK on Cloud Run, Strands on Bedrock AgentCore, Agent Framework on Co",
+      "source": "dev",
+      "tag": "a2a,  aiagents",
+      "url": "https://dev.to/gde/mix-and-match-one-agent-three-clouds-one-protocol-4e5l"
+    },
+    {
+      "title": "Meme Monday",
+      "hot": "❤️ 29 💬 15",
+      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
+      "source": "dev",
+      "tag": "discuss,  watercooler",
+      "url": "https://dev.to/ben/meme-monday-385f"
+    },
+    {
+      "title": "The data is in: AI is how developers learn now",
+      "hot": "❤️ 18 💬 0",
+      "desc": "AI is now the most common way that new developers learn.  We all knew AI was having an impact on...",
+      "source": "dev",
+      "tag": "ai,  career",
+      "url": "https://blog.mlh.com/the-data-is-in-ai-is-how-developers-learn-now-28p4"
+    },
+    {
+      "title": "HTML is getting cool again: Meet the Invoker Commands API",
+      "hot": "❤️ 35 💬 16",
+      "desc": "For years, frontend development has had a slightly embarrassing relationship with HTML. We all read...",
+      "source": "dev",
+      "tag": "webdev,  a11y",
+      "url": "https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367"
+    },
+    {
+      "title": "Mix and Match: Serving an ADK Agent to AWS and Azure",
+      "hot": "❤️ 8 💬 0",
+      "desc": "A Google ADK agent on Cloud Run, serving A2A to clients that are not ADK — a Strands agent on Bedrock AgentCore and an A",
+      "source": "dev",
+      "tag": "googlecloud,  gemini",
+      "url": "https://dev.to/gde/mix-and-match-serving-an-adk-agent-to-aws-and-azure-161f"
+    },
+    {
+      "title": "Greatness Is Forged by Limitation",
+      "hot": "❤️ 80 💬 38",
+      "desc": "Can't believe I spent 2 weeks writing this.  Last week, I gave a talk at a Cursor community event...",
+      "source": "dev",
+      "tag": "ai,  programming",
+      "url": "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20"
+    },
+    {
+      "title": "Git Gud!",
+      "hot": "❤️ 125 💬 56",
+      "desc": "You heard me.    Alright, that was mean lol. Though based on the title, you probably already knew the...",
+      "source": "dev",
+      "tag": "discuss,  community",
+      "url": "https://dev.to/francistrdev/git-gud-4e6g"
+    },
+    {
+      "title": "Hey all! I’m Jem, the DEV Community Program Coordinator",
+      "hot": "❤️ 171 💬 63",
+      "desc": "It feels good to finally be writing this.  I've been working part-time behind the scenes at DEV for...",
+      "source": "dev",
+      "tag": "meta",
+      "url": "https://dev.to/devteam/hey-all-im-jem-the-dev-community-program-coordinator-2g2"
+    },
+    {
+      "title": "My First Engineering Job Is Teaching Me Something I Didn't Expect",
+      "hot": "❤️ 68 💬 39",
+      "desc": "Well, first real job and I still haven't gotten used to waking up for a 6:30 AM shift... I've been...",
+      "source": "dev",
+      "tag": "learning,  career",
+      "url": "https://dev.to/itsugo/my-first-engineering-job-is-teaching-me-something-i-didnt-expect-l96"
+    },
+    {
+      "title": "I Joined dev.to because...",
+      "hot": "❤️ 141 💬 125",
+      "desc": "Why not?     Just kidding, there is more to it. Just thought it flows well with the title...",
+      "source": "dev",
+      "tag": "discuss,  community",
+      "url": "https://dev.to/francistrdev/i-joined-devto-because-fl0"
+    },
+    {
+      "title": "Ichiraku Ramen — A Cozy Japanese Restaurant Landing Page 🍜🌸",
+      "hot": "❤️ 89 💬 62",
+      "desc": "This is a submission for Frontend Challenge - Comfort Food Edition, Perfect Landing              What...",
+      "source": "dev",
+      "tag": "devchallenge,  frontendchallenge",
+      "url": "https://dev.to/gamya_m/ichiraku-ramen-a-cozy-japanese-restaurant-landing-page-3pb8"
+    },
+    {
+      "title": "What was your win this week??",
+      "hot": "❤️ 66 💬 62",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "weeklyretro,  discuss",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-23ob"
     }
   ]
 }
