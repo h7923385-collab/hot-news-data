@@ -1,36 +1,36 @@
 {
   "data": [
     {
-      "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Learn how GKE decouples binary rollouts from API finalization to safely test and roll back Kubernetes minor version upgr",
+      "title": "What was your win this week?!",
+      "hot": "❤️ 16 💬 8",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
-      "tag": "kubernetes,  ai",
-      "url": "https://dev.to/googlecloud/two-step-control-plane-upgrades-in-gke-how-minor-version-rollbacks-work-under-the-hood-i1l"
+      "tag": "weeklyretro,  discuss",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-51oc"
     },
     {
       "title": "What Do You Do While AI Codes?",
-      "hot": "❤️ 91 💬 76",
+      "hot": "❤️ 109 💬 84",
       "desc": "AI coding agents leave you with 5-to-20-minute gaps all day. Five real ways I fill them — and the one \"quick\" habit that",
       "source": "dev",
       "tag": "discuss,  ai",
       "url": "https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k"
     },
     {
-      "title": "The agent posted successfully. To the wrong account.",
-      "hot": "❤️ 22 💬 15",
-      "desc": "Back in July I wrote about what it takes to wire an AI agent into social platforms: six OAuth flows,...",
+      "title": "Stop Wrestling with ASR: The Complete Guide to Gemini 3.5 Transcribe 🎙️",
+      "hot": "❤️ 11 💬 0",
+      "desc": "You’ve probably used Gemini to analyze hours of video, summarize podcasts, or answer questions from...",
       "source": "dev",
-      "tag": "ai,  api",
-      "url": "https://dev.to/eugeniya_ivanova_4a58eadc/the-agent-posted-successfully-to-the-wrong-account-3kf3"
+      "tag": "ai,  stt",
+      "url": "https://dev.to/googleai/stop-wrestling-with-asr-the-complete-guide-to-gemini-35-transcribe-1m6i"
     },
     {
-      "title": "[Go in Practice] Writing Modern Go with AI: Testing JetBrains go-modern-guidelines and Refactoring a 1,039-line main.go",
-      "hot": "❤️ 8 💬 1",
-      "desc": "Background   In the AI era, even I delegate most of my code optimization or writing tasks...",
+      "title": "Kubeflow Without Kubernetes? Deploy a Complete MLOps Suite in 60 Seconds with Gubernator",
+      "hot": "❤️ 10 💬 1",
+      "desc": "Run JupyterLab, MLflow, MinIO S3, and Ollama Inference on a lightweight cluster using pure Docker Compose and <2GB RAM.",
       "source": "dev",
-      "tag": "ai,  go",
-      "url": "https://dev.to/gde/go-in-practice-writing-modern-go-with-ai-testing-jetbrains-go-modern-guidelines-and-refactoring-151o"
+      "tag": "gubernator,  docker",
+      "url": "https://dev.to/gde/kubeflow-without-kubernetes-deploy-a-complete-mlops-suite-in-60-seconds-with-gubernator-3moo"
     },
     {
       "title": "FutureBuilder and StreamBuilder as Anti-Patterns: Why Your Async Boundary Should Be Far Away From Your Views",
@@ -41,20 +41,36 @@
       "url": "https://dev.to/gde/futurebuilder-and-streambuilder-as-anti-patterns-why-your-async-boundary-should-be-far-away-from-1d8g"
     },
     {
-      "title": "Cross Cloud A2A Agent Card Field Comparison",
+      "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
       "hot": "❤️ 6 💬 0",
+      "desc": "Learn how GKE decouples binary rollouts from API finalization to safely test and roll back Kubernetes minor version upgr",
+      "source": "dev",
+      "tag": "kubernetes,  ai",
+      "url": "https://dev.to/googlecloud/two-step-control-plane-upgrades-in-gke-how-minor-version-rollbacks-work-under-the-hood-i1l"
+    },
+    {
+      "title": "Cross Cloud A2A Agent Card Field Comparison",
+      "hot": "❤️ 7 💬 0",
       "desc": "Comparing Agent Cards with A2A - This tutorial aims to fetch the agent card from A2A agents running...",
       "source": "dev",
       "tag": "a2a,  multicloud",
       "url": "https://dev.to/gde/cross-cloud-a2a-agent-card-field-comparison-2hod"
     },
     {
-      "title": "Vector Search Is Still the Memory Layer Agents Actually Need",
-      "hot": "❤️ 5 💬 3",
-      "desc": "When I was working on Vector Search with JavaScript, vector search was a hot topic. By the time the ...",
+      "title": "The agent posted successfully. To the wrong account.",
+      "hot": "❤️ 24 💬 19",
+      "desc": "Back in July I wrote about what it takes to wire an AI agent into social platforms: six OAuth flows,...",
       "source": "dev",
-      "tag": "ai,  llm",
-      "url": "https://dev.to/bengreenberg/vector-search-is-still-the-memory-layer-agents-actually-need-50dn"
+      "tag": "ai,  api",
+      "url": "https://dev.to/eugeniya_ivanova_4a58eadc/the-agent-posted-successfully-to-the-wrong-account-3kf3"
+    },
+    {
+      "title": "[Go in Practice] Writing Modern Go with AI: Testing JetBrains go-modern-guidelines and Refactoring a 1,039-line main.go",
+      "hot": "❤️ 9 💬 1",
+      "desc": "Background   In the AI era, even I delegate most of my code optimization or writing tasks...",
+      "source": "dev",
+      "tag": "ai,  go",
+      "url": "https://dev.to/gde/go-in-practice-writing-modern-go-with-ai-testing-jetbrains-go-modern-guidelines-and-refactoring-151o"
     },
     {
       "title": "comiCSS #255: Yellow",
@@ -71,6 +87,14 @@
       "source": "dev",
       "tag": "gemma,  angular",
       "url": "https://dev.to/gde/go-completely-offline-build-a-privacy-first-personal-finance-assistant-with-litert-and-gemma-4-542g"
+    },
+    {
+      "title": "Vector Search Is Still the Memory Layer Agents Actually Need",
+      "hot": "❤️ 6 💬 4",
+      "desc": "When I was working on Vector Search with JavaScript, vector search was a hot topic. By the time the ...",
+      "source": "dev",
+      "tag": "ai,  llm",
+      "url": "https://dev.to/bengreenberg/vector-search-is-still-the-memory-layer-agents-actually-need-50dn"
     },
     {
       "title": "Go Completely Offline: Build a Privacy-First Personal Finance Assistant with LiteRT and Gemma 4",
@@ -106,7 +130,7 @@
     },
     {
       "title": "Introducing AI Disclosure on DEV: Tools for Nuance, Clarity, and Better Feeds",
-      "hot": "❤️ 82 💬 23",
+      "hot": "❤️ 87 💬 23",
       "desc": "We're introducing structured AI disclosure tiers to foster transparency, preserve human connection, and give you control",
       "source": "dev",
       "tag": "showdev,  announcements",
@@ -115,18 +139,10 @@
     {
       "title": "Mix and Match: One Agent, Three Clouds, One Protocol",
       "hot": "❤️ 10 💬 1",
-      "desc": "The same research agent built three times �� Google ADK on Cloud Run, Strands on Bedrock AgentCore, Agent Framework on C",
+      "desc": "The same research agent built three times — Google ADK on Cloud Run, Strands on Bedrock AgentCore, Agent Framework on Co",
       "source": "dev",
       "tag": "a2a,  aiagents",
       "url": "https://dev.to/gde/mix-and-match-one-agent-three-clouds-one-protocol-4e5l"
-    },
-    {
-      "title": "Welcome Thread - v390",
-      "hot": "❤️ 30 💬 124",
-      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
-      "source": "dev",
-      "tag": "welcome",
-      "url": "https://dev.to/devteam/welcome-thread-v390-1bic"
     },
     {
       "title": "I Counted the Attack Vectors in Our AI Stack and Now I Can't Sleep",
@@ -137,29 +153,13 @@
       "url": "https://dev.to/jon_at_backboardio/i-counted-the-attack-vectors-in-our-ai-stack-and-now-i-cant-sleep-155o"
     },
     {
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 26 💬 17",
-      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
-      "source": "dev",
-      "tag": "top7,  discuss",
-      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4h3f"
-    },
-    {
       "title": "Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy",
       "hot": "❤️ 6 💬 0",
       "desc": "Discover how GKE ClusterNetworkPolicy enables platform teams to establish global security guardrails without hindering d",
       "source": "dev",
       "tag": "kubernetes,  ai",
       "url": "https://dev.to/googlecloud/taking-control-of-cluster-security-a-deep-dive-into-gke-clusternetworkpolicy-536c"
-    },
-    {
-      "title": "Mix and Match: Serving an ADK Agent to AWS and Azure",
-      "hot": "❤️ 8 💬 0",
-      "desc": "A Google ADK agent on Cloud Run, serving A2A to clients that are not ADK — a Strands agent on Bedrock AgentCore and an A",
-      "source": "dev",
-      "tag": "googlecloud,  gemini",
-      "url": "https://dev.to/gde/mix-and-match-serving-an-adk-agent-to-aws-and-azure-161f"
     }
   ],
-  "updatedAt": "2026-08-28T04:57:54.122Z"
+  "updatedAt": "2026-08-28T17:06:11.595Z"
 }
