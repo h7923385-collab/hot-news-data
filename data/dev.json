@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "What was your win this week?!",
-      "hot": "❤️ 16 💬 8",
+      "hot": "❤️ 24 💬 17",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "weeklyretro,  discuss",
@@ -10,7 +10,7 @@
     },
     {
       "title": "What Do You Do While AI Codes?",
-      "hot": "❤️ 109 💬 84",
+      "hot": "❤️ 112 💬 93",
       "desc": "AI coding agents leave you with 5-to-20-minute gaps all day. Five real ways I fill them — and the one \"quick\" habit that",
       "source": "dev",
       "tag": "discuss,  ai",
@@ -18,7 +18,7 @@
     },
     {
       "title": "Stop Wrestling with ASR: The Complete Guide to Gemini 3.5 Transcribe 🎙️",
-      "hot": "❤️ 11 💬 0",
+      "hot": "❤️ 32 💬 0",
       "desc": "You’ve probably used Gemini to analyze hours of video, summarize podcasts, or answer questions from...",
       "source": "dev",
       "tag": "ai,  stt",
@@ -26,19 +26,11 @@
     },
     {
       "title": "Kubeflow Without Kubernetes? Deploy a Complete MLOps Suite in 60 Seconds with Gubernator",
-      "hot": "❤️ 10 💬 1",
+      "hot": "❤️ 11 💬 1",
       "desc": "Run JupyterLab, MLflow, MinIO S3, and Ollama Inference on a lightweight cluster using pure Docker Compose and <2GB RAM.",
       "source": "dev",
       "tag": "gubernator,  docker",
       "url": "https://dev.to/gde/kubeflow-without-kubernetes-deploy-a-complete-mlops-suite-in-60-seconds-with-gubernator-3moo"
-    },
-    {
-      "title": "FutureBuilder and StreamBuilder as Anti-Patterns: Why Your Async Boundary Should Be Far Away From Your Views",
-      "hot": "❤️ 8 💬 1",
-      "desc": "Discover why using FutureBuilder and StreamBuilder inside Flutter widget trees breaks separation of concerns, triggers a",
-      "source": "dev",
-      "tag": "flutter,  dart",
-      "url": "https://dev.to/gde/futurebuilder-and-streambuilder-as-anti-patterns-why-your-async-boundary-should-be-far-away-from-1d8g"
     },
     {
       "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
@@ -58,7 +50,7 @@
     },
     {
       "title": "The agent posted successfully. To the wrong account.",
-      "hot": "❤️ 24 💬 19",
+      "hot": "❤️ 26 💬 19",
       "desc": "Back in July I wrote about what it takes to wire an AI agent into social platforms: six OAuth flows,...",
       "source": "dev",
       "tag": "ai,  api",
@@ -71,6 +63,14 @@
       "source": "dev",
       "tag": "ai,  go",
       "url": "https://dev.to/gde/go-in-practice-writing-modern-go-with-ai-testing-jetbrains-go-modern-guidelines-and-refactoring-151o"
+    },
+    {
+      "title": "FutureBuilder and StreamBuilder as Anti-Patterns: Why Your Async Boundary Should Be Far Away From Your Views",
+      "hot": "❤️ 9 💬 1",
+      "desc": "Discover why using FutureBuilder and StreamBuilder inside Flutter widget trees breaks separation of concerns, triggers a",
+      "source": "dev",
+      "tag": "flutter,  dart",
+      "url": "https://dev.to/gde/futurebuilder-and-streambuilder-as-anti-patterns-why-your-async-boundary-should-be-far-away-from-1d8g"
     },
     {
       "title": "comiCSS #255: Yellow",
@@ -90,7 +90,7 @@
     },
     {
       "title": "Vector Search Is Still the Memory Layer Agents Actually Need",
-      "hot": "❤️ 6 💬 4",
+      "hot": "❤️ 7 💬 5",
       "desc": "When I was working on Vector Search with JavaScript, vector search was a hot topic. By the time the ...",
       "source": "dev",
       "tag": "ai,  llm",
@@ -103,14 +103,6 @@
       "source": "dev",
       "tag": "gemma,  ai",
       "url": "https://dev.to/railsstudent/go-completely-offline-build-a-privacy-first-personal-finance-assistant-with-litert-and-gemma-4-227l"
-    },
-    {
-      "title": "Building E-commerce AI Agents on MongoDB with CrewAI",
-      "hot": "❤️ 7 💬 1",
-      "desc": "AI-powered shopping agents are becoming a real differentiator for e-commerce teams. A 2026 Stord...",
-      "source": "dev",
-      "tag": "ai,  mongodb",
-      "url": "https://dev.to/mongodb/building-e-commerce-ai-agents-on-mongodb-with-crewai-4n8p"
     },
     {
       "title": "Wiring the Reasoning Loop: Gemini + Neo4j + MCP for Multi-Hop AI Agents",
@@ -127,14 +119,6 @@
       "source": "dev",
       "tag": "agents,  ai",
       "url": "https://dev.to/backboardio/coding-agents-got-boring-the-moment-we-built-a-really-good-one-1mc4"
-    },
-    {
-      "title": "Introducing AI Disclosure on DEV: Tools for Nuance, Clarity, and Better Feeds",
-      "hot": "❤️ 87 💬 23",
-      "desc": "We're introducing structured AI disclosure tiers to foster transparency, preserve human connection, and give you control",
-      "source": "dev",
-      "tag": "showdev,  announcements",
-      "url": "https://dev.to/devteam/introducing-ai-disclosure-on-dev-tools-for-nuance-clarity-and-better-feeds-34mk"
     },
     {
       "title": "Mix and Match: One Agent, Three Clouds, One Protocol",
@@ -159,7 +143,23 @@
       "source": "dev",
       "tag": "kubernetes,  ai",
       "url": "https://dev.to/googlecloud/taking-control-of-cluster-security-a-deep-dive-into-gke-clusternetworkpolicy-536c"
+    },
+    {
+      "title": "Mix and Match: Serving an ADK Agent to AWS and Azure",
+      "hot": "❤️ 8 💬 0",
+      "desc": "A Google ADK agent on Cloud Run, serving A2A to clients that are not ADK — a Strands agent on Bedrock AgentCore and an A",
+      "source": "dev",
+      "tag": "googlecloud,  gemini",
+      "url": "https://dev.to/gde/mix-and-match-serving-an-adk-agent-to-aws-and-azure-161f"
+    },
+    {
+      "title": "Git Gud!",
+      "hot": "❤️ 126 💬 58",
+      "desc": "You heard me.    Alright, that was mean lol. Though based on the title, you probably already knew the...",
+      "source": "dev",
+      "tag": "discuss,  community",
+      "url": "https://dev.to/francistrdev/git-gud-4e6g"
     }
   ],
-  "updatedAt": "2026-08-28T17:06:11.595Z"
+  "updatedAt": "2026-08-29T01:01:18.205Z"
 }
