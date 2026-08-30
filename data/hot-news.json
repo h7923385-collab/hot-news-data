@@ -1,331 +1,299 @@
 {
-  "updatedAt": "2026-08-30T10:45:07.694Z",
+  "updatedAt": "2026-08-30T15:04:28.903Z",
   "source": "live",
-  "dev": [
-    {
-      "title": "What was your win this week?!",
-      "hot": "❤️ 40 💬 26",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "weeklyretro,  discuss",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-51oc"
-    },
-    {
-      "title": "Stop Wrestling with ASR: The Complete Guide to Gemini 3.5 Transcribe 🎙️",
-      "hot": "❤️ 34 💬 0",
-      "desc": "You’ve probably used Gemini to analyze hours of video, summarize podcasts, or answer questions from...",
-      "source": "dev",
-      "tag": "ai,  stt",
-      "url": "https://dev.to/googleai/stop-wrestling-with-asr-the-complete-guide-to-gemini-35-transcribe-1m6i"
-    },
-    {
-      "title": "Kubeflow Without Kubernetes? Deploy a Complete MLOps Suite in 60 Seconds with Gubernator",
-      "hot": "❤️ 11 💬 1",
-      "desc": "Run JupyterLab, MLflow, MinIO S3, and Ollama Inference on a lightweight cluster using pure Docker Compose and <2GB RAM.",
-      "source": "dev",
-      "tag": "gubernator,  docker",
-      "url": "https://dev.to/gde/kubeflow-without-kubernetes-deploy-a-complete-mlops-suite-in-60-seconds-with-gubernator-3moo"
-    },
-    {
-      "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Learn how GKE decouples binary rollouts from API finalization to safely test and roll back Kubernetes minor version upgr",
-      "source": "dev",
-      "tag": "kubernetes,  ai",
-      "url": "https://dev.to/googlecloud/two-step-control-plane-upgrades-in-gke-how-minor-version-rollbacks-work-under-the-hood-i1l"
-    },
-    {
-      "title": "Cross Cloud A2A Agent Card Field Comparison",
-      "hot": "❤️ 7 💬 0",
-      "desc": "Comparing Agent Cards with A2A - This tutorial aims to fetch the agent card from A2A agents running...",
-      "source": "dev",
-      "tag": "a2a,  multicloud",
-      "url": "https://dev.to/gde/cross-cloud-a2a-agent-card-field-comparison-2hod"
-    },
-    {
-      "title": "What Do You Do While AI Codes?",
-      "hot": "❤️ 130 💬 127",
-      "desc": "AI coding agents leave you with 5-to-20-minute gaps all day. Five real ways I fill them — and the one \"quick\" habit that",
-      "source": "dev",
-      "tag": "discuss,  ai",
-      "url": "https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k"
-    },
-    {
-      "title": "FutureBuilder and StreamBuilder as Anti-Patterns: Why Your Async Boundary Should Be Far Away From Your Views",
-      "hot": "❤️ 9 💬 1",
-      "desc": "Discover why using FutureBuilder and StreamBuilder inside Flutter widget trees breaks separation of concerns, triggers a",
-      "source": "dev",
-      "tag": "flutter,  dart",
-      "url": "https://dev.to/gde/futurebuilder-and-streambuilder-as-anti-patterns-why-your-async-boundary-should-be-far-away-from-1d8g"
-    },
-    {
-      "title": "comiCSS #255: Yellow",
-      "hot": "❤️ 14 💬 0",
-      "desc": "comiCSS cartoon for August 24, 2026",
-      "source": "dev",
-      "tag": "css,  webdev",
-      "url": "https://dev.to/alvaromontoro/comicss-255-yellow-1bj"
-    },
-    {
-      "title": "Go Completely Offline: Build a Privacy-First Personal Finance Assistant with LiteRT and Gemma 4",
-      "hot": "❤️ 5 💬 0",
-      "desc": "Imagine having a personal financial planner that analyzes your sensitive transaction history, flags...",
-      "source": "dev",
-      "tag": "gemma,  ai",
-      "url": "https://dev.to/railsstudent/go-completely-offline-build-a-privacy-first-personal-finance-assistant-with-litert-and-gemma-4-227l"
-    },
-    {
-      "title": "Wiring the Reasoning Loop: Gemini + Neo4j + MCP for Multi-Hop AI Agents",
-      "hot": "❤️ 11 💬 0",
-      "desc": "Standard Retrieval-Augmented Generation (RAG) solved the initial LLM hallucination problem by...",
-      "source": "dev",
-      "tag": "ai,  gcp",
-      "url": "https://dev.to/gde/wiring-the-reasoning-loop-gemini-neo4j-mcp-for-multi-hop-ai-agents-51p9"
-    },
-    {
-      "title": "Coding agents got boring the moment we built a really good one.",
-      "hot": "❤️ 9 💬 4",
-      "desc": "MESSAGE FROM BACKBOARD.IO Co-Founder Rob Imbeault:  Coding agents got boring the moment we built a...",
-      "source": "dev",
-      "tag": "agents,  ai",
-      "url": "https://dev.to/backboardio/coding-agents-got-boring-the-moment-we-built-a-really-good-one-1mc4"
-    },
-    {
-      "title": "Mix and Match: One Agent, Three Clouds, One Protocol",
-      "hot": "❤️ 10 💬 1",
-      "desc": "The same research agent built three times — Google ADK on Cloud Run, Strands on Bedrock AgentCore, Agent Framework on Co",
-      "source": "dev",
-      "tag": "a2a,  aiagents",
-      "url": "https://dev.to/gde/mix-and-match-one-agent-three-clouds-one-protocol-4e5l"
-    },
-    {
-      "title": "I Counted the Attack Vectors in Our AI Stack and Now I Can't Sleep",
-      "hot": "❤️ 14 💬 3",
-      "desc": "so a while back i did something i do not recommend before bed.  i counted the vendors in a normal...",
-      "source": "dev",
-      "tag": "aiops,  ai",
-      "url": "https://dev.to/jon_at_backboardio/i-counted-the-attack-vectors-in-our-ai-stack-and-now-i-cant-sleep-155o"
-    },
-    {
-      "title": "Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Discover how GKE ClusterNetworkPolicy enables platform teams to establish global security guardrails without hindering d",
-      "source": "dev",
-      "tag": "kubernetes,  ai",
-      "url": "https://dev.to/googlecloud/taking-control-of-cluster-security-a-deep-dive-into-gke-clusternetworkpolicy-536c"
-    },
-    {
-      "title": "Mix and Match: Serving an ADK Agent to AWS and Azure",
-      "hot": "❤️ 8 💬 0",
-      "desc": "A Google ADK agent on Cloud Run, serving A2A to clients that are not ADK — a Strands agent on Bedrock AgentCore and an A",
-      "source": "dev",
-      "tag": "googlecloud,  gemini",
-      "url": "https://dev.to/gde/mix-and-match-serving-an-adk-agent-to-aws-and-azure-161f"
-    },
-    {
-      "title": "The agent posted successfully. To the wrong account.",
-      "hot": "❤️ 26 💬 21",
-      "desc": "Back in July I wrote about what it takes to wire an AI agent into social platforms: six OAuth flows,...",
-      "source": "dev",
-      "tag": "ai,  api",
-      "url": "https://dev.to/eugeniya_ivanova_4a58eadc/the-agent-posted-successfully-to-the-wrong-account-3kf3"
-    },
-    {
-      "title": "Git Gud!",
-      "hot": "❤️ 127 💬 58",
-      "desc": "You heard me.    Alright, that was mean lol. Though based on the title, you probably already knew the...",
-      "source": "dev",
-      "tag": "discuss,  community",
-      "url": "https://dev.to/francistrdev/git-gud-4e6g"
-    },
-    {
-      "title": "Vector Search Is Still the Memory Layer Agents Actually Need",
-      "hot": "❤️ 7 💬 7",
-      "desc": "When I was working on Vector Search with JavaScript, vector search was a hot topic. By the time the ...",
-      "source": "dev",
-      "tag": "ai,  llm",
-      "url": "https://dev.to/bengreenberg/vector-search-is-still-the-memory-layer-agents-actually-need-50dn"
-    },
-    {
-      "title": "[Go in Practice] Writing Modern Go with AI: Testing JetBrains go-modern-guidelines and Refactoring a 1,039-line main.go",
-      "hot": "❤️ 9 💬 2",
-      "desc": "Background   In the AI era, even I delegate most of my code optimization or writing tasks...",
-      "source": "dev",
-      "tag": "ai,  go",
-      "url": "https://dev.to/gde/go-in-practice-writing-modern-go-with-ai-testing-jetbrains-go-modern-guidelines-and-refactoring-151o"
-    },
-    {
-      "title": "Greatness Is Forged by Limitation",
-      "hot": "❤️ 80 💬 42",
-      "desc": "Can't believe I spent 2 weeks writing this.  Last week, I gave a talk at a Cursor community event...",
-      "source": "dev",
-      "tag": "ai,  programming",
-      "url": "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20"
-    }
-  ],
   "tech": [
     {
-      "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+      "title": "Creepy Crawlies",
       "hot": "3.0m",
-      "desc": "arxiv.org",
+      "desc": "people.kernel.org",
       "source": "tech",
-      "tag": "⬆️ 54 points",
-      "url": "https://arxiv.org/abs/1804.07389"
+      "tag": "⬆️ 60 points",
+      "url": "https://people.kernel.org/monsieuricon/creepy-crawlies"
     },
     {
-      "title": "Spark: Sparklines in your shell",
+      "title": "Hacking IKEA Furniture",
       "hot": "3.0m",
-      "desc": "git.zx2c4.com",
+      "desc": "greenlightning.eu",
       "source": "tech",
-      "tag": "⬆️ 8 points",
-      "url": "https://git.zx2c4.com/spark/about/"
+      "tag": "⬆️ 106 points",
+      "url": "https://greenlightning.eu/diy/hacking-ikea-furniture/"
+    },
+    {
+      "title": "No AI Fridays",
+      "hot": "3.0m",
+      "desc": "noaifridays.com",
+      "source": "tech",
+      "tag": "⬆️ 89 points",
+      "url": "https://noaifridays.com/"
+    },
+    {
+      "title": "Casey Muratori – The Root of the Root of All Evil – BSC 2026 [video]",
+      "hot": "3.0m",
+      "desc": "youtube.com",
+      "source": "tech",
+      "tag": "⬆️ 145 points",
+      "url": "https://www.youtube.com/watch?v=hpj6r6CjJf8"
+    },
+    {
+      "title": "What my dad taught me about AI coding in the 90s",
+      "hot": "2.9m",
+      "desc": "askmike.org",
+      "source": "tech",
+      "tag": "⬆️ 63 points",
+      "url": "https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad/"
     },
     {
       "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "qubes-os.org",
       "source": "tech",
-      "tag": "⬆️ 31 points",
+      "tag": "⬆️ 124 points",
       "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/"
     },
     {
+      "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+      "hot": "2.9m",
+      "desc": "arxiv.org",
+      "source": "tech",
+      "tag": "⬆️ 145 points",
+      "url": "https://arxiv.org/abs/1804.07389"
+    },
+    {
+      "title": "An implementation of Conway's Game of Life for Windows 3.1x and later",
+      "hot": "2.9m",
+      "desc": "muppetlabs.com",
+      "source": "tech",
+      "tag": "⬆️ 30 points",
+      "url": "https://www.muppetlabs.com/~breadbox/software/windows.html"
+    },
+    {
+      "title": "When Fruit Is Scarce, These Monkeys Hunt Animals",
+      "hot": "2.9m",
+      "desc": "smithsonianmag.com",
+      "source": "tech",
+      "tag": "⬆️ 12 points",
+      "url": "https://www.smithsonianmag.com/smart-news/when-fruit-is-scarce-these-monkeys-hunt-animals-the-behavior-may-offer-clues-about-the-origins-of-humans-meat-eating-habits-180989412/"
+    },
+    {
+      "title": "Emacs vs. Vim 2026: 24.3% vs. 8% Usage, 20x Memory Gap",
+      "hot": "2.9m",
+      "desc": "tech-insider.org",
+      "source": "tech",
+      "tag": "⬆️ 5 points",
+      "url": "https://tech-insider.org/emacs-vs-vim-2026/"
+    },
+    {
       "title": "Brits would quite like their private messages to stay private",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "theregister.com",
       "source": "tech",
-      "tag": "⬆️ 64 points",
+      "tag": "⬆️ 256 points",
       "url": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994"
     },
     {
-      "title": "Everyone Should Build Their Own Network Stack",
-      "hot": "2.9m",
-      "desc": "blog.lyc8503.net",
-      "source": "tech",
-      "tag": "⬆️ 7 points",
-      "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet/"
-    },
-    {
       "title": "RISC-V is now officially supported by CPython",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "blog.python.org",
       "source": "tech",
-      "tag": "⬆️ 175 points",
+      "tag": "⬆️ 241 points",
       "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/"
     },
     {
-      "title": "Xcena and Samsung's Near Memory Compute CXL Device",
-      "hot": "2.9m",
-      "desc": "chipsandcheese.com",
-      "source": "tech",
-      "tag": "⬆️ 14 points",
-      "url": "https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs"
-    },
-    {
-      "title": "Hy4 preview",
-      "hot": "2.9m",
-      "desc": "tencent.com",
-      "source": "tech",
-      "tag": "⬆️ 308 points",
-      "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/"
-    },
-    {
-      "title": "FreeCORE TrueNAS Core – Continued",
-      "hot": "2.9m",
-      "desc": "freecore.org",
-      "source": "tech",
-      "tag": "⬆️ 103 points",
-      "url": "https://freecore.org/"
-    },
-    {
-      "title": "Bug Blindness",
-      "hot": "2.9m",
-      "desc": "danluu.com",
-      "source": "tech",
-      "tag": "⬆️ 268 points",
-      "url": "https://danluu.com/bug-blind/"
-    },
-    {
-      "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
-      "hot": "2.9m",
-      "desc": "tomshardware.com",
-      "source": "tech",
-      "tag": "⬆️ 308 points",
-      "url": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt"
-    },
-    {
-      "title": "The Einstein-Szilard Refrigerator",
+      "title": "monty-go: Pure-Go wrapper for Pydantic's Monty Python Interpreter",
       "hot": "2.8m",
-      "desc": "invention.si.edu",
+      "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 36 points",
-      "url": "https://invention.si.edu/invention-stories/einstein-szilard-refrigerator"
+      "tag": "⬆️ 26 points",
+      "url": "https://github.com/fugue-labs/monty-go"
     },
     {
-      "title": "Tether: iMessage, SMS, etc. on Linux",
+      "title": "Europe's summer drought is so extreme that desertification is a growing threat",
       "hot": "2.8m",
-      "desc": "zackbartel.com",
+      "desc": "fortune.com",
       "source": "tech",
-      "tag": "⬆️ 466 points",
-      "url": "https://zackbartel.com/blog/2026/08/tether/"
+      "tag": "⬆️ 17 points",
+      "url": "https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/"
     },
     {
       "title": "JupyterGIS 0.16: a grammar of graphics for maps, and collaborative story maps",
       "hot": "2.8m",
       "desc": "blog.jupyter.org",
       "source": "tech",
-      "tag": "⬆️ 23 points",
+      "tag": "⬆️ 68 points",
       "url": "https://blog.jupyter.org/jupytergis-0-16-new-visualization-capabilities-collaborative-story-maps-and-more-03e6b78bacc0"
     },
     {
-      "title": "Benjamin Franklin's Alter Egos Gave Him the Most Freedom",
+      "title": "Automating Immersive Reading",
       "hot": "2.8m",
-      "desc": "smithsonianmag.com",
+      "desc": "smoores.dev",
       "source": "tech",
-      "tag": "⬆️ 71 points",
-      "url": "https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/"
+      "tag": "⬆️ 33 points",
+      "url": "https://smoores.dev/post/automating_immersive_reading/"
     },
     {
-      "title": "Nancy Grace Roman Space Telescope",
+      "title": "Hy4 preview",
       "hot": "2.8m",
-      "desc": "science.nasa.gov",
+      "desc": "tencent.com",
       "source": "tech",
-      "tag": "⬆️ 201 points",
-      "url": "https://science.nasa.gov/mission/roman-space-telescope/"
+      "tag": "⬆️ 354 points",
+      "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/"
     },
     {
-      "title": "Benchmarking Pocket-Scale Inference",
-      "hot": "2.8m",
-      "desc": "artificialanalysis.ai",
-      "source": "tech",
-      "tag": "⬆️ 49 points",
-      "url": "https://artificialanalysis.ai/hardware-inference-stack/mobile-phones"
-    },
-    {
-      "title": "Creating Teensy ELF Executables for Linux (Or, \"Size Is Everything\") (1999)",
+      "title": "Xcena and Samsung's Near Memory Compute CXL Device",
       "hot": "2.7m",
-      "desc": "muppetlabs.com",
+      "desc": "chipsandcheese.com",
       "source": "tech",
-      "tag": "⬆️ 48 points",
-      "url": "https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html"
+      "tag": "⬆️ 43 points",
+      "url": "https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs"
     },
     {
-      "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+      "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
       "hot": "2.7m",
-      "desc": "abc.net.au",
+      "desc": "tomshardware.com",
       "source": "tech",
-      "tag": "⬆️ 4 points",
-      "url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766"
+      "tag": "⬆️ 505 points",
+      "url": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt"
     },
     {
-      "title": "SQLite as a Document Database (2020)",
+      "title": "The Einstein-Szilard Refrigerator (2020)",
       "hot": "2.7m",
-      "desc": "dgl.cx",
+      "desc": "invention.si.edu",
       "source": "tech",
-      "tag": "⬆️ 214 points",
-      "url": "https://dgl.cx/2020/06/sqlite-json-support"
+      "tag": "⬆️ 78 points",
+      "url": "https://invention.si.edu/invention-stories/einstein-szilard-refrigerator"
+    }
+  ],
+  "github": [
+    {
+      "title": "sapientinc/PRAXIST: Autonomous research system for measurable, computer-executab",
+      "hot": "⭐ 4.5k",
+      "desc": "Autonomous research system for measurable, computer-executable research.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/sapientinc/PRAXIST"
+    },
+    {
+      "title": "HEJustinSun/my-girlfriend-jingtian-latex: ",
+      "hot": "⭐ 4.1k",
+      "desc": "HEJustinSun/my-girlfriend-jingtian-latex",
+      "source": "github",
+      "tag": "TeX",
+      "url": "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex"
+    },
+    {
+      "title": "b-nnett/grok-bot-0.18-reconstructed: Unofficial source-oriented reconstruction a",
+      "hot": "⭐ 3.4k",
+      "desc": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed"
+    },
+    {
+      "title": "tobi/walgit: ",
+      "hot": "⭐ 2.3k",
+      "desc": "tobi/walgit",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/tobi/walgit"
+    },
+    {
+      "title": "XiaoDuoYa/codex-with-chatgpt: ChatGPT thinks. Codex works. Use ChatGPT as the pl",
+      "hot": "⭐ 1.3k",
+      "desc": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt"
+    },
+    {
+      "title": "wide-trace/open-higgsfield: A studio for image and video generation — one prompt",
+      "hot": "⭐ 1.1k",
+      "desc": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/wide-trace/open-higgsfield"
+    },
+    {
+      "title": "MetaMask-AI/metamask-desktop: 🌐 🔌 The MetaMask desktop app enables browsing Et",
+      "hot": "⭐ 1.0k",
+      "desc": "🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites",
+      "source": "github",
+      "tag": "CSS",
+      "url": "https://github.com/MetaMask-AI/metamask-desktop"
+    },
+    {
+      "title": "bryllim/workout-guide: 302 open exercise illustrations and a framework-neutral n",
+      "hot": "⭐ 1.0k",
+      "desc": "302 open exercise illustrations and a framework-neutral npm package by Bryl Lim",
+      "source": "github",
+      "tag": "Astro",
+      "url": "https://github.com/bryllim/workout-guide"
+    },
+    {
+      "title": "Tencent/WeMM-Embedding: WeMM-Embedding is a family of universal multimodal embed",
+      "hot": "⭐ 926",
+      "desc": "WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retr",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/Tencent/WeMM-Embedding"
+    },
+    {
+      "title": "themartiano/try-omarchy: Run Omarchy on MacOS without any setup.",
+      "hot": "⭐ 920",
+      "desc": "Run Omarchy on MacOS without any setup.",
+      "source": "github",
+      "tag": "Swift",
+      "url": "https://github.com/themartiano/try-omarchy"
+    },
+    {
+      "title": "amosblomqvist/learn: My AI learning system.",
+      "hot": "⭐ 853",
+      "desc": "My AI learning system.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/amosblomqvist/learn"
+    },
+    {
+      "title": "Nanako0129/sepia: De-AI writing skill for Claude Code, Codex, Grok Build, and An",
+      "hot": "⭐ 839",
+      "desc": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professio",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/Nanako0129/sepia"
+    },
+    {
+      "title": "ShadowAqueduct/watermark-remover: Purge multi-vendor AI watermarks: clean Unicod",
+      "hot": "⭐ 835",
+      "desc": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HT",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/ShadowAqueduct/watermark-remover"
+    },
+    {
+      "title": "tradecatlabs/shulihuazixuecongshu: ",
+      "hot": "⭐ 750",
+      "desc": "tradecatlabs/shulihuazixuecongshu",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/tradecatlabs/shulihuazixuecongshu"
+    },
+    {
+      "title": "yding-git/personal-edge-proxy: A practical multi-inbound, multi-outbound persona",
+      "hot": "⭐ 695",
+      "desc": "A practical multi-inbound, multi-outbound personal proxy setup with Xray, Hysteria2, REALITY Vision, WARP and optional static SOCKS5 routing.",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/yding-git/personal-edge-proxy"
     }
   ],
   "space": [
+    {
+      "title": "NASA’s Dark Universe-Seeking Nancy Grace Roman Space Telescope Launches",
+      "hot": "8/30",
+      "desc": "Now on a three-month, million-mile journey to its final orbit, NASA’s Nancy Grace Roman Space Telescope will soon reveal the universe’s darkest secret",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/"
+    },
     {
       "title": "Roman Space Telescope, NASA’s next ‘great observatory,’ poised for Sunday launch",
       "hot": "8/29",
@@ -337,7 +305,7 @@
     {
       "title": "NASA, SpaceX set to launch the Nancy Grace Roman Space Telescope from Florida on Sunday",
       "hot": "8/29",
-      "desc": "NASA and SpaceX are set for the launch of NASA’s next great space observatory —…\nThe post NASA, SpaceX set to launch the Nancy Grace Roman Space Teles",
+      "desc": "NASA and SpaceX are set for the launch of NASA’s next great space observatory —…\r\nThe post NASA, SpaceX set to launch the Nancy Grace Roman Space Tele",
       "source": "space",
       "tag": "NASASpaceflight",
       "url": "https://www.nasaspaceflight.com/2026/08/roman-telescope-launch/"
@@ -353,7 +321,7 @@
     {
       "title": "ESA awards first European Launcher Challenge contracts",
       "hot": "8/29",
-      "desc": "The European Space Agency has signed the first contracts under its European Launcher Challenge, committing…\nThe post ESA awards first European Launche",
+      "desc": "The European Space Agency has signed the first contracts under its European Launcher Challenge, committing…\r\nThe post ESA awards first European Launch",
       "source": "space",
       "tag": "NASASpaceflight",
       "url": "https://www.nasaspaceflight.com/2026/08/esa-european-launcher-challenge-contracts/"
@@ -437,136 +405,168 @@
       "source": "space",
       "tag": "ESA",
       "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Ariane_6_launch_with_MTG-I2_highlights"
-    },
-    {
-      "title": "Rocket Report: Europe splashes some cash on launch startups; Pallas-1 nears debut",
-      "hot": "8/28",
-      "desc": "\"From here on, Starlink missions out of Florida will fly on Starship.\"",
-      "source": "space",
-      "tag": "Arstechnica",
-      "url": "https://arstechnica.com/space/2026/08/rocket-report-europe-splashes-some-cash-on-launch-startups-pallas-1-nears-debut/"
     }
   ],
-  "github": [
+  "dev": [
     {
-      "title": "HEJustinSun/my-girlfriend-jingtian-latex: ",
-      "hot": "⭐ 4.1k",
-      "desc": "HEJustinSun/my-girlfriend-jingtian-latex",
-      "source": "github",
-      "tag": "TeX",
-      "url": "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex"
+      "title": "What was your win this week?!",
+      "hot": "❤️ 40 💬 26",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "weeklyretro,  discuss",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-51oc"
     },
     {
-      "title": "b-nnett/grok-bot-0.18-reconstructed: Unofficial source-oriented reconstruction a",
-      "hot": "⭐ 3.4k",
-      "desc": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed"
+      "title": "Stop Wrestling with ASR: The Complete Guide to Gemini 3.5 Transcribe 🎙️",
+      "hot": "❤️ 34 💬 0",
+      "desc": "You’ve probably used Gemini to analyze hours of video, summarize podcasts, or answer questions from...",
+      "source": "dev",
+      "tag": "ai,  stt",
+      "url": "https://dev.to/googleai/stop-wrestling-with-asr-the-complete-guide-to-gemini-35-transcribe-1m6i"
     },
     {
-      "title": "sapientinc/PRAXIST: Autonomous research system for measurable, computer-executab",
-      "hot": "⭐ 3.2k",
-      "desc": "Autonomous research system for measurable, computer-executable research.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/sapientinc/PRAXIST"
+      "title": "Kubeflow Without Kubernetes? Deploy a Complete MLOps Suite in 60 Seconds with Gubernator",
+      "hot": "❤️ 11 💬 1",
+      "desc": "Run JupyterLab, MLflow, MinIO S3, and Ollama Inference on a lightweight cluster using pure Docker Compose and <2GB RAM.",
+      "source": "dev",
+      "tag": "gubernator,  docker",
+      "url": "https://dev.to/gde/kubeflow-without-kubernetes-deploy-a-complete-mlops-suite-in-60-seconds-with-gubernator-3moo"
     },
     {
-      "title": "tobi/walgit: ",
-      "hot": "⭐ 2.3k",
-      "desc": "tobi/walgit",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/tobi/walgit"
+      "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Learn how GKE decouples binary rollouts from API finalization to safely test and roll back Kubernetes minor version upgr",
+      "source": "dev",
+      "tag": "kubernetes,  ai",
+      "url": "https://dev.to/googlecloud/two-step-control-plane-upgrades-in-gke-how-minor-version-rollbacks-work-under-the-hood-i1l"
     },
     {
-      "title": "XiaoDuoYa/codex-with-chatgpt: ChatGPT thinks. Codex works. Use ChatGPT as the pl",
-      "hot": "⭐ 1.2k",
-      "desc": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt"
+      "title": "Cross Cloud A2A Agent Card Field Comparison",
+      "hot": "❤️ 7 💬 0",
+      "desc": "Comparing Agent Cards with A2A - This tutorial aims to fetch the agent card from A2A agents running...",
+      "source": "dev",
+      "tag": "a2a,  multicloud",
+      "url": "https://dev.to/gde/cross-cloud-a2a-agent-card-field-comparison-2hod"
     },
     {
-      "title": "wide-trace/open-higgsfield: A studio for image and video generation — one prompt",
-      "hot": "⭐ 1.0k",
-      "desc": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/wide-trace/open-higgsfield"
+      "title": "What Do You Do While AI Codes?",
+      "hot": "❤️ 130 💬 128",
+      "desc": "AI coding agents leave you with 5-to-20-minute gaps all day. Five real ways I fill them — and the one \"quick\" habit that",
+      "source": "dev",
+      "tag": "discuss,  ai",
+      "url": "https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k"
     },
     {
-      "title": "bryllim/workout-guide: 302 open exercise illustrations and a framework-neutral n",
-      "hot": "⭐ 1.0k",
-      "desc": "302 open exercise illustrations and a framework-neutral npm package by Bryl Lim",
-      "source": "github",
-      "tag": "Astro",
-      "url": "https://github.com/bryllim/workout-guide"
+      "title": "comiCSS #255: Yellow",
+      "hot": "❤️ 14 💬 0",
+      "desc": "comiCSS cartoon for August 24, 2026",
+      "source": "dev",
+      "tag": "css,  webdev",
+      "url": "https://dev.to/alvaromontoro/comicss-255-yellow-1bj"
     },
     {
-      "title": "Tencent/WeMM-Embedding: WeMM-Embedding is a family of universal multimodal embed",
-      "hot": "⭐ 918",
-      "desc": "WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retr",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/Tencent/WeMM-Embedding"
+      "title": "Wiring the Reasoning Loop: Gemini + Neo4j + MCP for Multi-Hop AI Agents",
+      "hot": "❤️ 11 💬 0",
+      "desc": "Standard Retrieval-Augmented Generation (RAG) solved the initial LLM hallucination problem by...",
+      "source": "dev",
+      "tag": "ai,  gcp",
+      "url": "https://dev.to/gde/wiring-the-reasoning-loop-gemini-neo4j-mcp-for-multi-hop-ai-agents-51p9"
     },
     {
-      "title": "MetaMask-AI/metamask-desktop: 🌐 🔌 The MetaMask desktop app enables browsing Et",
-      "hot": "⭐ 908",
-      "desc": "🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites",
-      "source": "github",
-      "tag": "CSS",
-      "url": "https://github.com/MetaMask-AI/metamask-desktop"
+      "title": "Coding agents got boring the moment we built a really good one.",
+      "hot": "❤️ 9 💬 4",
+      "desc": "MESSAGE FROM BACKBOARD.IO Co-Founder Rob Imbeault:  Coding agents got boring the moment we built a...",
+      "source": "dev",
+      "tag": "agents,  ai",
+      "url": "https://dev.to/backboardio/coding-agents-got-boring-the-moment-we-built-a-really-good-one-1mc4"
     },
     {
-      "title": "themartiano/try-omarchy: Run Omarchy on MacOS without any setup.",
-      "hot": "⭐ 908",
-      "desc": "Run Omarchy on MacOS without any setup.",
-      "source": "github",
-      "tag": "Swift",
-      "url": "https://github.com/themartiano/try-omarchy"
+      "title": "Mix and Match: One Agent, Three Clouds, One Protocol",
+      "hot": "❤️ 10 💬 1",
+      "desc": "The same research agent built three times — Google ADK on Cloud Run, Strands on Bedrock AgentCore, Agent Framework on Co",
+      "source": "dev",
+      "tag": "a2a,  aiagents",
+      "url": "https://dev.to/gde/mix-and-match-one-agent-three-clouds-one-protocol-4e5l"
     },
     {
-      "title": "ShadowAqueduct/watermark-remover: Purge multi-vendor AI watermarks: clean Unicod",
-      "hot": "⭐ 835",
-      "desc": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HT",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/ShadowAqueduct/watermark-remover"
+      "title": "I Counted the Attack Vectors in Our AI Stack and Now I Can't Sleep",
+      "hot": "❤️ 14 💬 3",
+      "desc": "so a while back i did something i do not recommend before bed.  i counted the vendors in a normal...",
+      "source": "dev",
+      "tag": "aiops,  ai",
+      "url": "https://dev.to/jon_at_backboardio/i-counted-the-attack-vectors-in-our-ai-stack-and-now-i-cant-sleep-155o"
     },
     {
-      "title": "amosblomqvist/learn: My AI learning system.",
-      "hot": "⭐ 822",
-      "desc": "My AI learning system.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/amosblomqvist/learn"
+      "title": "Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Discover how GKE ClusterNetworkPolicy enables platform teams to establish global security guardrails without hindering d",
+      "source": "dev",
+      "tag": "kubernetes,  ai",
+      "url": "https://dev.to/googlecloud/taking-control-of-cluster-security-a-deep-dive-into-gke-clusternetworkpolicy-536c"
     },
     {
-      "title": "Nanako0129/sepia: De-AI writing skill for Claude Code, Codex, Grok Build, and An",
-      "hot": "⭐ 803",
-      "desc": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professio",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/Nanako0129/sepia"
+      "title": "Mix and Match: Serving an ADK Agent to AWS and Azure",
+      "hot": "❤️ 8 💬 0",
+      "desc": "A Google ADK agent on Cloud Run, serving A2A to clients that are not ADK — a Strands agent on Bedrock AgentCore and an A",
+      "source": "dev",
+      "tag": "googlecloud,  gemini",
+      "url": "https://dev.to/gde/mix-and-match-serving-an-adk-agent-to-aws-and-azure-161f"
     },
     {
-      "title": "tradecatlabs/shulihuazixuecongshu: ",
-      "hot": "⭐ 724",
-      "desc": "tradecatlabs/shulihuazixuecongshu",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/tradecatlabs/shulihuazixuecongshu"
+      "title": "The agent posted successfully. To the wrong account.",
+      "hot": "❤️ 26 💬 21",
+      "desc": "Back in July I wrote about what it takes to wire an AI agent into social platforms: six OAuth flows,...",
+      "source": "dev",
+      "tag": "ai,  api",
+      "url": "https://dev.to/eugeniya_ivanova_4a58eadc/the-agent-posted-successfully-to-the-wrong-account-3kf3"
     },
     {
-      "title": "yding-git/personal-edge-proxy: A practical multi-inbound, multi-outbound persona",
-      "hot": "⭐ 693",
-      "desc": "A practical multi-inbound, multi-outbound personal proxy setup with Xray, Hysteria2, REALITY Vision, WARP and optional static SOCKS5 routing.",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/yding-git/personal-edge-proxy"
+      "title": "Git Gud!",
+      "hot": "❤️ 127 💬 58",
+      "desc": "You heard me.    Alright, that was mean lol. Though based on the title, you probably already knew the...",
+      "source": "dev",
+      "tag": "discuss,  community",
+      "url": "https://dev.to/francistrdev/git-gud-4e6g"
+    },
+    {
+      "title": "Vector Search Is Still the Memory Layer Agents Actually Need",
+      "hot": "❤️ 7 💬 7",
+      "desc": "When I was working on Vector Search with JavaScript, vector search was a hot topic. By the time the ...",
+      "source": "dev",
+      "tag": "ai,  llm",
+      "url": "https://dev.to/bengreenberg/vector-search-is-still-the-memory-layer-agents-actually-need-50dn"
+    },
+    {
+      "title": "[Go in Practice] Writing Modern Go with AI: Testing JetBrains go-modern-guidelines and Refactoring a 1,039-line main.go",
+      "hot": "❤️ 9 💬 2",
+      "desc": "Background   In the AI era, even I delegate most of my code optimization or writing tasks...",
+      "source": "dev",
+      "tag": "ai,  go",
+      "url": "https://dev.to/gde/go-in-practice-writing-modern-go-with-ai-testing-jetbrains-go-modern-guidelines-and-refactoring-151o"
+    },
+    {
+      "title": "FutureBuilder and StreamBuilder as Anti-Patterns: Why Your Async Boundary Should Be Far Away From Your Views",
+      "hot": "❤️ 10 💬 1",
+      "desc": "Discover why using FutureBuilder and StreamBuilder inside Flutter widget trees breaks separation of concerns, triggers a",
+      "source": "dev",
+      "tag": "flutter,  dart",
+      "url": "https://dev.to/gde/futurebuilder-and-streambuilder-as-anti-patterns-why-your-async-boundary-should-be-far-away-from-1d8g"
+    },
+    {
+      "title": "Greatness Is Forged by Limitation",
+      "hot": "❤️ 80 💬 42",
+      "desc": "Can't believe I spent 2 weeks writing this.  Last week, I gave a talk at a Cursor community event...",
+      "source": "dev",
+      "tag": "ai,  programming",
+      "url": "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20"
+    },
+    {
+      "title": "Hey all! I’m Jem, the DEV Community Program Coordinator",
+      "hot": "❤️ 176 💬 66",
+      "desc": "It feels good to finally be writing this.  I've been working part-time behind the scenes at DEV for...",
+      "source": "dev",
+      "tag": "meta",
+      "url": "https://dev.to/devteam/hey-all-im-jem-the-dev-community-program-coordinator-2g2"
     }
   ]
 }
