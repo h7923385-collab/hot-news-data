@@ -10,7 +10,7 @@
     },
     {
       "title": "Overcoming Dart's Single Inheritance Wall: Composable CubitSignalMixin & BlocSignalMixin in Flutter",
-      "hot": "❤️ 8 💬 0",
+      "hot": "❤️ 10 💬 0",
       "desc": "Discover how CubitSignalMixin and BlocSignalMixin allow any existing Flutter controller, domain repository, or enterpris",
       "source": "dev",
       "tag": "flutter,  dart",
@@ -18,19 +18,11 @@
     },
     {
       "title": "What should the next Weekend Challenge theme be??",
-      "hot": "❤️ 21 💬 3",
+      "hot": "❤️ 23 💬 5",
       "desc": "The next DEV Weekend Challenge launches next week, and we have some ideas up our sleeves, but we...",
       "source": "dev",
       "tag": "devchallenge,  weekendchallenge",
       "url": "https://dev.to/devteam/what-should-the-next-weekend-challenge-theme-be-3mha"
-    },
-    {
-      "title": "Grand Central Station: Why BLoC, Riverpod, and BlocSignal Are Now True Peers",
-      "hot": "❤️ 7 💬 0",
-      "desc": "Discover why Flutter state management is no longer an all-or-nothing choice. Explore how BlocSignal, Classic BLoC, and R",
-      "source": "dev",
-      "tag": "flutter,  dart",
-      "url": "https://dev.to/gde/grand-central-station-why-bloc-riverpod-and-blocsignal-are-now-true-peers-3fd8"
     },
     {
       "title": "Unlocking workload rightsizing visibility on GKE: How VPA decision logs bring observability to autoscaling",
@@ -41,28 +33,12 @@
       "url": "https://dev.to/googlecloud/unlocking-workload-rightsizing-visibility-on-gke-how-vpa-decision-logs-bring-observability-to-17md"
     },
     {
-      "title": "Stop Wrestling with ASR: The Complete Guide to Gemini 3.5 Transcribe 🎙️",
-      "hot": "❤️ 34 💬 0",
-      "desc": "You’ve probably used Gemini to analyze hours of video, summarize podcasts, or answer questions from...",
-      "source": "dev",
-      "tag": "ai,  stt",
-      "url": "https://dev.to/googleai/stop-wrestling-with-asr-the-complete-guide-to-gemini-35-transcribe-1m6i"
-    },
-    {
       "title": "Kubeflow Without Kubernetes? Deploy a Complete MLOps Suite in 60 Seconds with Gubernator",
       "hot": "❤️ 11 💬 1",
       "desc": "Run JupyterLab, MLflow, MinIO S3, and Ollama Inference on a lightweight cluster using pure Docker Compose and <2GB RAM.",
       "source": "dev",
       "tag": "gubernator,  docker",
       "url": "https://dev.to/gde/kubeflow-without-kubernetes-deploy-a-complete-mlops-suite-in-60-seconds-with-gubernator-3moo"
-    },
-    {
-      "title": "Taking Advantage of Gemini Managed Agents with Google Apps Script",
-      "hot": "❤️ 5 💬 0",
-      "desc": "Breaking the Limits of GAS with Direct Cloud-to-Cloud Streaming in Persistent Linux...",
-      "source": "dev",
-      "tag": "googleappsscript,  gemini",
-      "url": "https://dev.to/gde/taking-advantage-of-gemini-managed-agents-with-google-apps-script-5cdp"
     },
     {
       "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
@@ -82,7 +58,7 @@
     },
     {
       "title": "What was your win this week?!",
-      "hot": "❤️ 44 💬 29",
+      "hot": "❤️ 44 💬 33",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "weeklyretro,  discuss",
@@ -97,16 +73,16 @@
       "url": "https://dev.to/ndcodes/16-posts-started-commenting-then-got-the-shield-bk3"
     },
     {
-      "title": "Gemma 4 in Pure JAX: What Ports from TPU to GPU, and What Doesn't",
+      "title": "Taking Advantage of Gemini Managed Agents with Google Apps Script",
       "hot": "❤️ 6 💬 0",
-      "desc": "This article is about running a hand-written Gemma 4 port in pure JAX on three different...",
+      "desc": "Breaking the Limits of GAS with Direct Cloud-to-Cloud Streaming in Persistent Linux...",
       "source": "dev",
-      "tag": "gemma,  jax",
-      "url": "https://dev.to/gde/gemma-4-in-pure-jax-what-ports-from-tpu-to-gpu-and-what-doesnt-3m09"
+      "tag": "googleappsscript,  gemini",
+      "url": "https://dev.to/gde/taking-advantage-of-gemini-managed-agents-with-google-apps-script-5cdp"
     },
     {
       "title": "What Do You Do While AI Codes?",
-      "hot": "❤️ 136 💬 129",
+      "hot": "❤️ 138 💬 130",
       "desc": "AI coding agents leave you with 5-to-20-minute gaps all day. Five real ways I fill them — and the one \"quick\" habit that",
       "source": "dev",
       "tag": "discuss,  ai",
@@ -119,6 +95,14 @@
       "source": "dev",
       "tag": "antigravity,  vscode",
       "url": "https://dev.to/gdg/google-antigravity-comes-to-vs-code-agentic-coding-without-leaving-your-editor-2nkg"
+    },
+    {
+      "title": "Grand Central Station: Why BLoC, Riverpod, and BlocSignal Are Now True Peers",
+      "hot": "❤️ 9 💬 0",
+      "desc": "Discover why Flutter state management is no longer an all-or-nothing choice. Explore how BlocSignal, Classic BLoC, and R",
+      "source": "dev",
+      "tag": "flutter,  dart",
+      "url": "https://dev.to/gde/grand-central-station-why-bloc-riverpod-and-blocsignal-are-now-true-peers-3fd8"
     },
     {
       "title": "Accelerating JVM startup on GKE: How VPA CPU startup boost eliminates ongoing resource waste",
@@ -145,21 +129,37 @@
       "url": "https://dev.to/gde/wiring-the-reasoning-loop-gemini-neo4j-mcp-for-multi-hop-ai-agents-51p9"
     },
     {
-      "title": "Mechanically Eliminating FutureBuilder & StreamBuilder: Universal Signal, Future, and Stream Adapters in BlocSignal",
-      "hot": "❤️ 7 💬 0",
-      "desc": "Learn how BlocSignal 1.1.0 introduces symmetrical .toBlocSignal() and .toAsyncBlocSignal() adapters for Signals, Futures",
-      "source": "dev",
-      "tag": "flutter,  dart",
-      "url": "https://dev.to/gde/mechanically-eliminating-futurebuilder-streambuilder-universal-signal-future-and-stream-3imf"
-    },
-    {
       "title": "Coding agents got boring the moment we built a really good one.",
       "hot": "❤️ 9 💬 4",
       "desc": "MESSAGE FROM BACKBOARD.IO Co-Founder Rob Imbeault:  Coding agents got boring the moment we built a...",
       "source": "dev",
       "tag": "agents,  ai",
       "url": "https://dev.to/backboardio/coding-agents-got-boring-the-moment-we-built-a-really-good-one-1mc4"
+    },
+    {
+      "title": "Mix and Match: One Agent, Three Clouds, One Protocol",
+      "hot": "❤️ 10 💬 1",
+      "desc": "The same research agent built three times — Google ADK on Cloud Run, Strands on Bedrock AgentCore, Agent Framework on Co",
+      "source": "dev",
+      "tag": "a2a,  aiagents",
+      "url": "https://dev.to/gde/mix-and-match-one-agent-three-clouds-one-protocol-4e5l"
+    },
+    {
+      "title": "I Counted the Attack Vectors in Our AI Stack and Now I Can't Sleep",
+      "hot": "❤️ 14 💬 3",
+      "desc": "so a while back i did something i do not recommend before bed.  i counted the vendors in a normal...",
+      "source": "dev",
+      "tag": "aiops,  ai",
+      "url": "https://dev.to/jon_at_backboardio/i-counted-the-attack-vectors-in-our-ai-stack-and-now-i-cant-sleep-155o"
+    },
+    {
+      "title": "Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Discover how GKE ClusterNetworkPolicy enables platform teams to establish global security guardrails without hindering d",
+      "source": "dev",
+      "tag": "kubernetes,  ai",
+      "url": "https://dev.to/googlecloud/taking-control-of-cluster-security-a-deep-dive-into-gke-clusternetworkpolicy-536c"
     }
   ],
-  "updatedAt": "2026-08-31T02:31:00.079Z"
+  "updatedAt": "2026-08-31T08:56:15.028Z"
 }

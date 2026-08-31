@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T02:31:00.079Z",
+  "updatedAt": "2026-08-31T08:56:15.028Z",
   "source": "live",
   "dev": [
     {
@@ -12,7 +12,7 @@
     },
     {
       "title": "Overcoming Dart's Single Inheritance Wall: Composable CubitSignalMixin & BlocSignalMixin in Flutter",
-      "hot": "❤️ 8 💬 0",
+      "hot": "❤️ 10 💬 0",
       "desc": "Discover how CubitSignalMixin and BlocSignalMixin allow any existing Flutter controller, domain repository, or enterpris",
       "source": "dev",
       "tag": "flutter,  dart",
@@ -20,19 +20,11 @@
     },
     {
       "title": "What should the next Weekend Challenge theme be??",
-      "hot": "❤️ 21 💬 3",
+      "hot": "❤️ 23 💬 5",
       "desc": "The next DEV Weekend Challenge launches next week, and we have some ideas up our sleeves, but we...",
       "source": "dev",
       "tag": "devchallenge,  weekendchallenge",
       "url": "https://dev.to/devteam/what-should-the-next-weekend-challenge-theme-be-3mha"
-    },
-    {
-      "title": "Grand Central Station: Why BLoC, Riverpod, and BlocSignal Are Now True Peers",
-      "hot": "❤️ 7 💬 0",
-      "desc": "Discover why Flutter state management is no longer an all-or-nothing choice. Explore how BlocSignal, Classic BLoC, and R",
-      "source": "dev",
-      "tag": "flutter,  dart",
-      "url": "https://dev.to/gde/grand-central-station-why-bloc-riverpod-and-blocsignal-are-now-true-peers-3fd8"
     },
     {
       "title": "Unlocking workload rightsizing visibility on GKE: How VPA decision logs bring observability to autoscaling",
@@ -43,28 +35,12 @@
       "url": "https://dev.to/googlecloud/unlocking-workload-rightsizing-visibility-on-gke-how-vpa-decision-logs-bring-observability-to-17md"
     },
     {
-      "title": "Stop Wrestling with ASR: The Complete Guide to Gemini 3.5 Transcribe 🎙️",
-      "hot": "❤️ 34 💬 0",
-      "desc": "You’ve probably used Gemini to analyze hours of video, summarize podcasts, or answer questions from...",
-      "source": "dev",
-      "tag": "ai,  stt",
-      "url": "https://dev.to/googleai/stop-wrestling-with-asr-the-complete-guide-to-gemini-35-transcribe-1m6i"
-    },
-    {
       "title": "Kubeflow Without Kubernetes? Deploy a Complete MLOps Suite in 60 Seconds with Gubernator",
       "hot": "❤️ 11 💬 1",
       "desc": "Run JupyterLab, MLflow, MinIO S3, and Ollama Inference on a lightweight cluster using pure Docker Compose and <2GB RAM.",
       "source": "dev",
       "tag": "gubernator,  docker",
       "url": "https://dev.to/gde/kubeflow-without-kubernetes-deploy-a-complete-mlops-suite-in-60-seconds-with-gubernator-3moo"
-    },
-    {
-      "title": "Taking Advantage of Gemini Managed Agents with Google Apps Script",
-      "hot": "❤️ 5 💬 0",
-      "desc": "Breaking the Limits of GAS with Direct Cloud-to-Cloud Streaming in Persistent Linux...",
-      "source": "dev",
-      "tag": "googleappsscript,  gemini",
-      "url": "https://dev.to/gde/taking-advantage-of-gemini-managed-agents-with-google-apps-script-5cdp"
     },
     {
       "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
@@ -84,7 +60,7 @@
     },
     {
       "title": "What was your win this week?!",
-      "hot": "❤️ 44 💬 29",
+      "hot": "❤️ 44 💬 33",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "weeklyretro,  discuss",
@@ -99,16 +75,16 @@
       "url": "https://dev.to/ndcodes/16-posts-started-commenting-then-got-the-shield-bk3"
     },
     {
-      "title": "Gemma 4 in Pure JAX: What Ports from TPU to GPU, and What Doesn't",
+      "title": "Taking Advantage of Gemini Managed Agents with Google Apps Script",
       "hot": "❤️ 6 💬 0",
-      "desc": "This article is about running a hand-written Gemma 4 port in pure JAX on three different...",
+      "desc": "Breaking the Limits of GAS with Direct Cloud-to-Cloud Streaming in Persistent Linux...",
       "source": "dev",
-      "tag": "gemma,  jax",
-      "url": "https://dev.to/gde/gemma-4-in-pure-jax-what-ports-from-tpu-to-gpu-and-what-doesnt-3m09"
+      "tag": "googleappsscript,  gemini",
+      "url": "https://dev.to/gde/taking-advantage-of-gemini-managed-agents-with-google-apps-script-5cdp"
     },
     {
       "title": "What Do You Do While AI Codes?",
-      "hot": "❤️ 136 💬 129",
+      "hot": "❤️ 138 💬 130",
       "desc": "AI coding agents leave you with 5-to-20-minute gaps all day. Five real ways I fill them — and the one \"quick\" habit that",
       "source": "dev",
       "tag": "discuss,  ai",
@@ -121,6 +97,14 @@
       "source": "dev",
       "tag": "antigravity,  vscode",
       "url": "https://dev.to/gdg/google-antigravity-comes-to-vs-code-agentic-coding-without-leaving-your-editor-2nkg"
+    },
+    {
+      "title": "Grand Central Station: Why BLoC, Riverpod, and BlocSignal Are Now True Peers",
+      "hot": "❤️ 9 💬 0",
+      "desc": "Discover why Flutter state management is no longer an all-or-nothing choice. Explore how BlocSignal, Classic BLoC, and R",
+      "source": "dev",
+      "tag": "flutter,  dart",
+      "url": "https://dev.to/gde/grand-central-station-why-bloc-riverpod-and-blocsignal-are-now-true-peers-3fd8"
     },
     {
       "title": "Accelerating JVM startup on GKE: How VPA CPU startup boost eliminates ongoing resource waste",
@@ -147,307 +131,55 @@
       "url": "https://dev.to/gde/wiring-the-reasoning-loop-gemini-neo4j-mcp-for-multi-hop-ai-agents-51p9"
     },
     {
-      "title": "Mechanically Eliminating FutureBuilder & StreamBuilder: Universal Signal, Future, and Stream Adapters in BlocSignal",
-      "hot": "❤️ 7 💬 0",
-      "desc": "Learn how BlocSignal 1.1.0 introduces symmetrical .toBlocSignal() and .toAsyncBlocSignal() adapters for Signals, Futures",
-      "source": "dev",
-      "tag": "flutter,  dart",
-      "url": "https://dev.to/gde/mechanically-eliminating-futurebuilder-streambuilder-universal-signal-future-and-stream-3imf"
-    },
-    {
       "title": "Coding agents got boring the moment we built a really good one.",
       "hot": "❤️ 9 💬 4",
       "desc": "MESSAGE FROM BACKBOARD.IO Co-Founder Rob Imbeault:  Coding agents got boring the moment we built a...",
       "source": "dev",
       "tag": "agents,  ai",
       "url": "https://dev.to/backboardio/coding-agents-got-boring-the-moment-we-built-a-really-good-one-1mc4"
-    }
-  ],
-  "tech": [
-    {
-      "title": "“I just chose words carefully”",
-      "hot": "3.0m",
-      "desc": "unsung.aresluna.org",
-      "source": "tech",
-      "tag": "⬆️ 319 points",
-      "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/"
     },
     {
-      "title": "Understanding ChatGPT Work",
-      "hot": "3.0m",
-      "desc": "simonwillison.net",
-      "source": "tech",
-      "tag": "⬆️ 30 points",
-      "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/"
+      "title": "Mix and Match: One Agent, Three Clouds, One Protocol",
+      "hot": "❤️ 10 💬 1",
+      "desc": "The same research agent built three times — Google ADK on Cloud Run, Strands on Bedrock AgentCore, Agent Framework on Co",
+      "source": "dev",
+      "tag": "a2a,  aiagents",
+      "url": "https://dev.to/gde/mix-and-match-one-agent-three-clouds-one-protocol-4e5l"
     },
     {
-      "title": "Creepy Crawlies",
-      "hot": "3.0m",
-      "desc": "people.kernel.org",
-      "source": "tech",
-      "tag": "⬆️ 944 points",
-      "url": "https://people.kernel.org/monsieuricon/creepy-crawlies"
+      "title": "I Counted the Attack Vectors in Our AI Stack and Now I Can't Sleep",
+      "hot": "❤️ 14 💬 3",
+      "desc": "so a while back i did something i do not recommend before bed.  i counted the vendors in a normal...",
+      "source": "dev",
+      "tag": "aiops,  ai",
+      "url": "https://dev.to/jon_at_backboardio/i-counted-the-attack-vectors-in-our-ai-stack-and-now-i-cant-sleep-155o"
     },
     {
-      "title": "Matrox: Graphics for Professionals",
-      "hot": "3.0m",
-      "desc": "abortretry.fail",
-      "source": "tech",
-      "tag": "⬆️ 29 points",
-      "url": "https://www.abortretry.fail/p/matrox"
-    },
-    {
-      "title": "Haiku R1/beta6 has been released",
-      "hot": "2.9m",
-      "desc": "haiku-os.org",
-      "source": "tech",
-      "tag": "⬆️ 261 points",
-      "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6"
-    },
-    {
-      "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
-      "hot": "2.9m",
-      "desc": "righto.com",
-      "source": "tech",
-      "tag": "⬆️ 81 points",
-      "url": "https://www.righto.com/2026/08/spacelab-core-memory.html"
-    },
-    {
-      "title": "Show HN: NFC Energy-Harvesting PCB Business Card with an MCU",
-      "hot": "2.9m",
-      "desc": "wilsonharper.net",
-      "source": "tech",
-      "tag": "⬆️ 111 points",
-      "url": "https://wilsonharper.net/projects/businesscard/"
-    },
-    {
-      "title": "Sort branches by last commit date",
-      "hot": "2.9m",
-      "desc": "ryangreenberg.com",
-      "source": "tech",
-      "tag": "⬆️ 90 points",
-      "url": "https://ryangreenberg.com/til/git-branches-by-commit-date/"
-    },
-    {
-      "title": "Continuous Diffusion Language Models (CDLM's)",
-      "hot": "2.9m",
-      "desc": "sander.ai",
-      "source": "tech",
-      "tag": "⬆️ 60 points",
-      "url": "https://sander.ai/2026/08/24/continuous-dlms.html"
-    },
-    {
-      "title": "Commercially Available Bike Generators Are Not Sustainable (2011)",
-      "hot": "2.9m",
-      "desc": "solar.lowtechmagazine.com",
-      "source": "tech",
-      "tag": "⬆️ 31 points",
-      "url": "https://solar.lowtechmagazine.com/2011/05/bike-powered-electricity-generators-are-not-sustainable/"
-    },
-    {
-      "title": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 73 points",
-      "url": "https://github.com/KodeMunkie/sm750hdmifb"
-    },
-    {
-      "title": "Relm4 makes developing beautiful cross-platform applications idiomatic",
-      "hot": "2.8m",
-      "desc": "relm4.org",
-      "source": "tech",
-      "tag": "⬆️ 14 points",
-      "url": "https://relm4.org/"
-    },
-    {
-      "title": "Hacking IKEA Furniture",
-      "hot": "2.8m",
-      "desc": "greenlightning.eu",
-      "source": "tech",
-      "tag": "⬆️ 272 points",
-      "url": "https://greenlightning.eu/diy/hacking-ikea-furniture/"
-    },
-    {
-      "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
-      "hot": "2.8m",
-      "desc": "komoroske.com",
-      "source": "tech",
-      "tag": "⬆️ 132 points",
-      "url": "https://komoroske.com/slime-mold/"
-    },
-    {
-      "title": "How to build a diffusion language model",
-      "hot": "2.8m",
-      "desc": "kuleshov-group.github.io",
-      "source": "tech",
-      "tag": "⬆️ 9 points",
-      "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/"
-    },
-    {
-      "title": "Dad’s Custom Atari Peripherals",
-      "hot": "2.8m",
-      "desc": "goto10retro.com",
-      "source": "tech",
-      "tag": "⬆️ 101 points",
-      "url": "https://www.goto10retro.com/p/dads-custom-atari-peripherals"
-    },
-    {
-      "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
-      "hot": "2.8m",
-      "desc": "qubes-os.org",
-      "source": "tech",
-      "tag": "⬆️ 208 points",
-      "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/"
-    },
-    {
-      "title": "Zig: Pointer Stability for ArrayLists",
-      "hot": "2.7m",
-      "desc": "ziglang.org",
-      "source": "tech",
-      "tag": "⬆️ 87 points",
-      "url": "https://ziglang.org/devlog/2026/#2026-08-27"
-    },
-    {
-      "title": "Adding a directional cost bias to a TSP heuristic reveals better local optima",
-      "hot": "2.7m",
-      "desc": "tsp.uncledroid.app",
-      "source": "tech",
-      "tag": "⬆️ 4 points",
-      "url": "https://tsp.uncledroid.app"
-    },
-    {
-      "title": "Startup Anti-Patterns",
-      "hot": "2.7m",
-      "desc": "itamarnovick.com",
-      "source": "tech",
-      "tag": "⬆️ 84 points",
-      "url": "https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/"
-    }
-  ],
-  "github": [
-    {
-      "title": "sapientinc/PRAXIST: Autonomous research system for measurable, computer-executab",
-      "hot": "⭐ 4.5k",
-      "desc": "Autonomous research system for measurable, computer-executable research.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/sapientinc/PRAXIST"
-    },
-    {
-      "title": "HEJustinSun/my-girlfriend-jingtian-latex: ",
-      "hot": "⭐ 4.1k",
-      "desc": "HEJustinSun/my-girlfriend-jingtian-latex",
-      "source": "github",
-      "tag": "TeX",
-      "url": "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex"
-    },
-    {
-      "title": "XiaoDuoYa/codex-with-chatgpt: ChatGPT thinks. Codex works. Use ChatGPT as the pl",
-      "hot": "⭐ 1.4k",
-      "desc": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt"
-    },
-    {
-      "title": "MetaMask-AI/metamask-desktop: 🌐 🔌 The MetaMask desktop app enables browsing Et",
-      "hot": "⭐ 1.2k",
-      "desc": "🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites",
-      "source": "github",
-      "tag": "CSS",
-      "url": "https://github.com/MetaMask-AI/metamask-desktop"
-    },
-    {
-      "title": "wide-trace/open-higgsfield: A studio for image and video generation — one prompt",
-      "hot": "⭐ 1.1k",
-      "desc": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/wide-trace/open-higgsfield"
-    },
-    {
-      "title": "bryllim/workout-guide: 302 open exercise illustrations and a framework-neutral n",
-      "hot": "⭐ 1.0k",
-      "desc": "302 open exercise illustrations and a framework-neutral npm package by Bryl Lim",
-      "source": "github",
-      "tag": "Astro",
-      "url": "https://github.com/bryllim/workout-guide"
-    },
-    {
-      "title": "Tencent/WeMM-Embedding: WeMM-Embedding is a family of universal multimodal embed",
-      "hot": "⭐ 942",
-      "desc": "WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retr",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/Tencent/WeMM-Embedding"
-    },
-    {
-      "title": "Nanako0129/sepia: De-AI writing skill for Claude Code, Codex, Grok Build, and An",
-      "hot": "⭐ 930",
-      "desc": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professio",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/Nanako0129/sepia"
-    },
-    {
-      "title": "amosblomqvist/learn: My AI learning system.",
-      "hot": "⭐ 918",
-      "desc": "My AI learning system.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/amosblomqvist/learn"
-    },
-    {
-      "title": "tradecatlabs/shulihuazixuecongshu: ",
-      "hot": "⭐ 801",
-      "desc": "tradecatlabs/shulihuazixuecongshu",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/tradecatlabs/shulihuazixuecongshu"
-    },
-    {
-      "title": "kacperkapusciak/goldie: ✨ agentic app store previews and screenshots",
-      "hot": "⭐ 739",
-      "desc": "✨ agentic app store previews and screenshots",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/kacperkapusciak/goldie"
-    },
-    {
-      "title": "jub0t/WolfCut: Free & Open-Source CapCut replacement.",
-      "hot": "⭐ 722",
-      "desc": "Free & Open-Source CapCut replacement.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/jub0t/WolfCut"
-    },
-    {
-      "title": "cbrock84/headcount: An agent organization for Claude Code, structured as a compa",
-      "hot": "⭐ 712",
-      "desc": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.",
-      "source": "github",
-      "tag": "Markdown",
-      "url": "https://github.com/cbrock84/headcount"
-    },
-    {
-      "title": "yding-git/personal-edge-proxy: A practical multi-inbound, multi-outbound persona",
-      "hot": "⭐ 699",
-      "desc": "A practical multi-inbound, multi-outbound personal proxy setup with Xray, Hysteria2, REALITY Vision, WARP and optional static SOCKS5 routing.",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/yding-git/personal-edge-proxy"
-    },
-    {
-      "title": "jprx/darwin-vm: Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 an",
-      "hot": "⭐ 627",
-      "desc": "Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/jprx/darwin-vm"
+      "title": "Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Discover how GKE ClusterNetworkPolicy enables platform teams to establish global security guardrails without hindering d",
+      "source": "dev",
+      "tag": "kubernetes,  ai",
+      "url": "https://dev.to/googlecloud/taking-control-of-cluster-security-a-deep-dive-into-gke-clusternetworkpolicy-536c"
     }
   ],
   "space": [
+    {
+      "title": "Roman lifts off on a mission to survey the infrared sky",
+      "hot": "8/31",
+      "desc": "NASA’s Nancy Grace Roman Space Telescope lifted off on a SpaceX Falcon Heavy rocket from NASA’s Kennedy Space Center in Florida, USA, at 07:26 EDT / 1",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Roman_lifts_off_on_a_mission_to_survey_the_infrared_sky"
+    },
+    {
+      "title": "APOD: 2026 August 31 – Launch of the Roman Space Telescope",
+      "hot": "8/31",
+      "desc": "APOD Science APOD APOD: 2026 August 31 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture ",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/image-article/apod-2026-august-31-launch-of-the-roman-space-telescope/"
+    },
     {
       "title": "SLS picks up the pace, four vehicles in production",
       "hot": "8/31",
@@ -551,22 +283,290 @@
       "source": "space",
       "tag": "NASA",
       "url": "https://www.nasa.gov/image-article/nasas-artemis-ii-crew-receives-congressional-space-medal-of-honor/"
+    }
+  ],
+  "tech": [
+    {
+      "title": "“I just chose words carefully”",
+      "hot": "3.0m",
+      "desc": "unsung.aresluna.org",
+      "source": "tech",
+      "tag": "⬆️ 743 points",
+      "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/"
     },
     {
-      "title": "NASA Awards First Prize in Phase 2 of Agency’s LunaRecycle Challenge",
-      "hot": "8/28",
-      "desc": "NASA named a team from the Massachusetts Institute of Technology (MIT) as the first prize winner for Phase 2 of the agency’s LunaRecycle Challenge, wh",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-awards-first-prize-in-phase-2-of-agencys-lunarecycle-challenge/"
+      "title": "P99 0 ms* autocomplete for 240M domain names",
+      "hot": "3.0m",
+      "desc": "ruurtjan.com",
+      "source": "tech",
+      "tag": "⬆️ 103 points",
+      "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names"
     },
     {
-      "title": "Trump Honors Artemis II Crew, Signs Executive Order to Establish a U.S. Space Academy",
-      "hot": "8/28",
-      "desc": "President Trump signed an Executive Order today during a ceremony honoring the Artemis II crew that will create a NASA-led U.S. Space Academy to “enco",
-      "source": "space",
-      "tag": "SpacePolicyOnline.com",
-      "url": "https://spacepolicyonline.com/news/trump-honors-artemis-ii-crew-signs-executive-order-to-establish-a-u-s-space-academy/"
+      "title": "Creepy Crawlies",
+      "hot": "3.0m",
+      "desc": "people.kernel.org",
+      "source": "tech",
+      "tag": "⬆️ 1131 points",
+      "url": "https://people.kernel.org/monsieuricon/creepy-crawlies"
+    },
+    {
+      "title": "My hobby of building miniatures and taking pretty pictures",
+      "hot": "3.0m",
+      "desc": "sandyuraz.com",
+      "source": "tech",
+      "tag": "⬆️ 108 points",
+      "url": "https://sandyuraz.com/blogs/tiny-cafe/"
+    },
+    {
+      "title": "Highlighting My Code Based on How Much I Care",
+      "hot": "2.9m",
+      "desc": "hank.bond",
+      "source": "tech",
+      "tag": "⬆️ 36 points",
+      "url": "https://hank.bond/posts/highlighting-my-code-based-on-how-much-i-care/"
+    },
+    {
+      "title": "A 12TB Steam \"teraleak\" spills more than a decade of lost PC gaming history",
+      "hot": "2.9m",
+      "desc": "arstechnica.com",
+      "source": "tech",
+      "tag": "⬆️ 85 points",
+      "url": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/"
+    },
+    {
+      "title": "Matrox: Graphics for Professionals",
+      "hot": "2.9m",
+      "desc": "abortretry.fail",
+      "source": "tech",
+      "tag": "⬆️ 104 points",
+      "url": "https://www.abortretry.fail/p/matrox"
+    },
+    {
+      "title": "Understanding ChatGPT Work",
+      "hot": "2.9m",
+      "desc": "simonwillison.net",
+      "source": "tech",
+      "tag": "⬆️ 172 points",
+      "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/"
+    },
+    {
+      "title": "Haiku R1/beta6 has been released",
+      "hot": "2.9m",
+      "desc": "haiku-os.org",
+      "source": "tech",
+      "tag": "⬆️ 312 points",
+      "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6"
+    },
+    {
+      "title": "How to build a diffusion language model",
+      "hot": "2.9m",
+      "desc": "kuleshov-group.github.io",
+      "source": "tech",
+      "tag": "⬆️ 83 points",
+      "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/"
+    },
+    {
+      "title": "Transfer files over an Ethernet patch cable",
+      "hot": "2.9m",
+      "desc": "maurycyz.com",
+      "source": "tech",
+      "tag": "⬆️ 74 points",
+      "url": "https://maurycyz.com/misc/etherfiles/"
+    },
+    {
+      "title": "What 2000 Buried Underpants Revealed About Where Soil Is Most Alive",
+      "hot": "2.8m",
+      "desc": "studyfinds.com",
+      "source": "tech",
+      "tag": "⬆️ 11 points",
+      "url": "https://studyfinds.com/what-2000-buried-underpants-revealed-about-where-soil-is-most-alive/"
+    },
+    {
+      "title": "It takes 5 cloud services to hear my doorbell",
+      "hot": "2.8m",
+      "desc": "blog.vghaisas.com",
+      "source": "tech",
+      "tag": "⬆️ 145 points",
+      "url": "https://blog.vghaisas.com/rube-goldberg-doorbell/"
+    },
+    {
+      "title": "Show HN: NFC Energy-Harvesting PCB Business Card with an MCU",
+      "hot": "2.8m",
+      "desc": "wilsonharper.net",
+      "source": "tech",
+      "tag": "⬆️ 166 points",
+      "url": "https://wilsonharper.net/projects/businesscard/"
+    },
+    {
+      "title": "OpenClaw 2.0, Accidentally",
+      "hot": "2.8m",
+      "desc": "openclaw.ai",
+      "source": "tech",
+      "tag": "⬆️ 84 points",
+      "url": "https://openclaw.ai/blog/openclaw-2-accidentally"
+    },
+    {
+      "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
+      "hot": "2.8m",
+      "desc": "righto.com",
+      "source": "tech",
+      "tag": "⬆️ 104 points",
+      "url": "https://www.righto.com/2026/08/spacelab-core-memory.html"
+    },
+    {
+      "title": "Formalization of the Solution to the Hopf Problem",
+      "hot": "2.8m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 4 points",
+      "url": "https://github.com/plby/HopfProblem"
+    },
+    {
+      "title": "Hacking IKEA Furniture",
+      "hot": "2.7m",
+      "desc": "greenlightning.eu",
+      "source": "tech",
+      "tag": "⬆️ 312 points",
+      "url": "https://greenlightning.eu/diy/hacking-ikea-furniture/"
+    },
+    {
+      "title": "Sort branches by last commit date",
+      "hot": "2.7m",
+      "desc": "ryangreenberg.com",
+      "source": "tech",
+      "tag": "⬆️ 118 points",
+      "url": "https://ryangreenberg.com/til/git-branches-by-commit-date/"
+    },
+    {
+      "title": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
+      "hot": "2.7m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 107 points",
+      "url": "https://github.com/KodeMunkie/sm750hdmifb"
+    }
+  ],
+  "github": [
+    {
+      "title": "sapientinc/PRAXIST: Autonomous research system for measurable, computer-executab",
+      "hot": "⭐ 4.8k",
+      "desc": "Autonomous research system for measurable, computer-executable research.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/sapientinc/PRAXIST"
+    },
+    {
+      "title": "HEJustinSun/my-girlfriend-jingtian-latex: ",
+      "hot": "⭐ 4.2k",
+      "desc": "HEJustinSun/my-girlfriend-jingtian-latex",
+      "source": "github",
+      "tag": "TeX",
+      "url": "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex"
+    },
+    {
+      "title": "XiaoDuoYa/codex-with-chatgpt: ChatGPT thinks. Codex works. Use ChatGPT as the pl",
+      "hot": "⭐ 1.6k",
+      "desc": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt"
+    },
+    {
+      "title": "MetaMask-AI/metamask-desktop: 🌐 🔌 The MetaMask desktop app enables browsing Et",
+      "hot": "⭐ 1.2k",
+      "desc": "🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites",
+      "source": "github",
+      "tag": "CSS",
+      "url": "https://github.com/MetaMask-AI/metamask-desktop"
+    },
+    {
+      "title": "wide-trace/open-higgsfield: A studio for image and video generation — one prompt",
+      "hot": "⭐ 1.1k",
+      "desc": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/wide-trace/open-higgsfield"
+    },
+    {
+      "title": "Nanako0129/sepia: De-AI writing skill for Claude Code, Codex, Grok Build, and An",
+      "hot": "⭐ 1.0k",
+      "desc": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professio",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/Nanako0129/sepia"
+    },
+    {
+      "title": "bryllim/workout-guide: 302 open exercise illustrations and a framework-neutral n",
+      "hot": "⭐ 1.0k",
+      "desc": "302 open exercise illustrations and a framework-neutral npm package by Bryl Lim",
+      "source": "github",
+      "tag": "Astro",
+      "url": "https://github.com/bryllim/workout-guide"
+    },
+    {
+      "title": "Tencent/WeMM-Embedding: WeMM-Embedding is a family of universal multimodal embed",
+      "hot": "⭐ 955",
+      "desc": "WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retr",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/Tencent/WeMM-Embedding"
+    },
+    {
+      "title": "amosblomqvist/learn: My AI learning system.",
+      "hot": "⭐ 948",
+      "desc": "My AI learning system.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/amosblomqvist/learn"
+    },
+    {
+      "title": "kacperkapusciak/goldie: ✨ agentic app store previews and screenshots",
+      "hot": "⭐ 872",
+      "desc": "✨ agentic app store previews and screenshots",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/kacperkapusciak/goldie"
+    },
+    {
+      "title": "tradecatlabs/shulihuazixuecongshu: ",
+      "hot": "⭐ 815",
+      "desc": "tradecatlabs/shulihuazixuecongshu",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/tradecatlabs/shulihuazixuecongshu"
+    },
+    {
+      "title": "jub0t/Concat: Free & Open-Source CapCut replacement.",
+      "hot": "⭐ 777",
+      "desc": "Free & Open-Source CapCut replacement.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/jub0t/Concat"
+    },
+    {
+      "title": "cbrock84/headcount: An agent organization for Claude Code, structured as a compa",
+      "hot": "⭐ 758",
+      "desc": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.",
+      "source": "github",
+      "tag": "Markdown",
+      "url": "https://github.com/cbrock84/headcount"
+    },
+    {
+      "title": "yding-git/personal-edge-proxy: A practical multi-inbound, multi-outbound persona",
+      "hot": "⭐ 708",
+      "desc": "A practical multi-inbound, multi-outbound personal proxy setup with Xray, Hysteria2, REALITY Vision, WARP and optional static SOCKS5 routing.",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/yding-git/personal-edge-proxy"
+    },
+    {
+      "title": "chrisgreg/boop: A tiny, self-hosted notification inbox for developers. Something",
+      "hot": "⭐ 649",
+      "desc": "A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone.",
+      "source": "github",
+      "tag": "Go",
+      "url": "https://github.com/chrisgreg/boop"
     }
   ]
 }
