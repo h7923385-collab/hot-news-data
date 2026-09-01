@@ -1,7 +1,15 @@
 {
-  "updatedAt": "2026-09-01T10:33:49.025Z",
+  "updatedAt": "2026-09-01T15:14:27.230Z",
   "source": "live",
   "dev": [
+    {
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "hot": "❤️ 21 💬 3",
+      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+      "source": "dev",
+      "tag": "top7,  discuss",
+      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2aic"
+    },
     {
       "title": "Overcoming Dart's Single Inheritance Wall: Composable CubitSignalMixin & BlocSignalMixin in Flutter",
       "hot": "❤️ 10 💬 0",
@@ -59,14 +67,6 @@
       "url": "https://dev.to/gde/cross-cloud-a2a-agent-card-field-comparison-2hod"
     },
     {
-      "title": "What was your win this week?!",
-      "hot": "❤️ 46 💬 38",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "weeklyretro,  discuss",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-51oc"
-    },
-    {
       "title": "Production Flutter Networking Without the Boilerplate: Reactive Repositories with BlocSignal",
       "hot": "❤️ 8 💬 0",
       "desc": "Learn how to structure production-grade networking in Flutter without the traditional boilerplate. Combine Dio or HTTP c",
@@ -76,7 +76,7 @@
     },
     {
       "title": "What Do You Do While AI Codes?",
-      "hot": "❤️ 138 💬 133",
+      "hot": "❤️ 139 💬 133",
       "desc": "AI coding agents leave you with 5-to-20-minute gaps all day. Five real ways I fill them — and the one \"quick\" habit that",
       "source": "dev",
       "tag": "discuss,  ai",
@@ -84,7 +84,7 @@
     },
     {
       "title": "What should the next Weekend Challenge theme be??",
-      "hot": "❤️ 29 💬 8",
+      "hot": "❤️ 34 💬 8",
       "desc": "The next DEV Weekend Challenge launches next week, and we have some ideas up our sleeves, but we...",
       "source": "dev",
       "tag": "devchallenge,  weekendchallenge",
@@ -163,7 +163,307 @@
       "url": "https://dev.to/jon_at_backboardio/i-counted-the-attack-vectors-in-our-ai-stack-and-now-i-cant-sleep-155o"
     }
   ],
+  "tech": [
+    {
+      "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+      "hot": "3.0m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 489 points",
+      "url": "https://github.com/ankidroid/Anki-Android/issues/21656"
+    },
+    {
+      "title": "Urban Congestion Pricing and the Response Times of Emergency Medical Services",
+      "hot": "3.0m",
+      "desc": "nber.org",
+      "source": "tech",
+      "tag": "⬆️ 15 points",
+      "url": "https://www.nber.org/digest/202609/urban-congestion-pricing-and-response-times-emergency-medical-services"
+    },
+    {
+      "title": "Io_uring Without Readahead",
+      "hot": "3.0m",
+      "desc": "frn.sh",
+      "source": "tech",
+      "tag": "⬆️ 42 points",
+      "url": "https://frn.sh/io-uring/"
+    },
+    {
+      "title": "Ask HN: Who is hiring? (September 2026)",
+      "hot": "3.0m",
+      "desc": "news.ycombinator.com",
+      "source": "tech",
+      "tag": "⬆️ 13 points",
+      "url": "https://news.ycombinator.com/item?id=49522897"
+    },
+    {
+      "title": "44% on ARC-AGI-1 in 67 cents",
+      "hot": "2.9m",
+      "desc": "mvakde.github.io",
+      "source": "tech",
+      "tag": "⬆️ 225 points",
+      "url": "https://mvakde.github.io/blog/44-on-arc-1/"
+    },
+    {
+      "title": "American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career",
+      "hot": "2.9m",
+      "desc": "simpleflying.com",
+      "source": "tech",
+      "tag": "⬆️ 218 points",
+      "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/"
+    },
+    {
+      "title": "Fastpotify",
+      "hot": "2.9m",
+      "desc": "fastpotify.rocks",
+      "source": "tech",
+      "tag": "⬆️ 645 points",
+      "url": "https://fastpotify.rocks/"
+    },
+    {
+      "title": "Saab Enters Collaborative Combat Aircraft Race with High-End Concept",
+      "hot": "2.9m",
+      "desc": "aviationweek.com",
+      "source": "tech",
+      "tag": "⬆️ 28 points",
+      "url": "https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept"
+    },
+    {
+      "title": "Fractal Jittered Voronoi Partitions",
+      "hot": "2.9m",
+      "desc": "boristhebrave.com",
+      "source": "tech",
+      "tag": "⬆️ 32 points",
+      "url": "https://www.boristhebrave.com/2026/08/29/fractal-jittered-voronoi-partitions/"
+    },
+    {
+      "title": "Tmp.0ut Volume 5",
+      "hot": "2.9m",
+      "desc": "tmpout.sh",
+      "source": "tech",
+      "tag": "⬆️ 148 points",
+      "url": "https://tmpout.sh/5/"
+    },
+    {
+      "title": "Introducing Ad Blocker for Firefox on iOS",
+      "hot": "2.9m",
+      "desc": "blog.mozilla.org",
+      "source": "tech",
+      "tag": "⬆️ 32 points",
+      "url": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/"
+    },
+    {
+      "title": "Restroom Archive",
+      "hot": "2.8m",
+      "desc": "restroomarchive.com",
+      "source": "tech",
+      "tag": "⬆️ 245 points",
+      "url": "https://restroomarchive.com"
+    },
+    {
+      "title": "GPU World",
+      "hot": "2.8m",
+      "desc": "gpuworld.org",
+      "source": "tech",
+      "tag": "⬆️ 332 points",
+      "url": "https://www.gpuworld.org/"
+    },
+    {
+      "title": "Playa Phone",
+      "hot": "2.8m",
+      "desc": "playaphone.com",
+      "source": "tech",
+      "tag": "⬆️ 699 points",
+      "url": "https://playaphone.com/"
+    },
+    {
+      "title": "I turned my security cameras into an automatic bird identification system",
+      "hot": "2.8m",
+      "desc": "jasontucker.blog",
+      "source": "tech",
+      "tag": "⬆️ 568 points",
+      "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/"
+    },
+    {
+      "title": "DIY – Build a Potato Box (2022)",
+      "hot": "2.8m",
+      "desc": "rebootedmom.com",
+      "source": "tech",
+      "tag": "⬆️ 25 points",
+      "url": "https://www.rebootedmom.com/build-a-potato-box/"
+    },
+    {
+      "title": "We Are Rebuilding Monica",
+      "hot": "2.8m",
+      "desc": "monicahq.com",
+      "source": "tech",
+      "tag": "⬆️ 7 points",
+      "url": "https://www.monicahq.com/en/blog/we-are-rebuilding-monica/"
+    },
+    {
+      "title": "Terence Tao explains 6 essential mathematical concepts [video]",
+      "hot": "2.7m",
+      "desc": "youtube.com",
+      "source": "tech",
+      "tag": "⬆️ 535 points",
+      "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE"
+    },
+    {
+      "title": "CollectWise (YC F24) Is Hiring",
+      "hot": "2.7m",
+      "desc": "ycombinator.com",
+      "source": "tech",
+      "tag": "⬆️ 1 points",
+      "url": "https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer"
+    },
+    {
+      "title": "RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3",
+      "hot": "2.7m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 125 points",
+      "url": "https://github.com/fregacmols/RotaryCell"
+    }
+  ],
+  "github": [
+    {
+      "title": "sapientinc/PRAXIST: Autonomous research system for measurable, computer-executab",
+      "hot": "⭐ 5.9k",
+      "desc": "Autonomous research system for measurable, computer-executable research.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/sapientinc/PRAXIST"
+    },
+    {
+      "title": "XiaoDuoYa/codex-with-chatgpt: ChatGPT thinks. Codex works. Use ChatGPT as the pl",
+      "hot": "⭐ 2.1k",
+      "desc": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt"
+    },
+    {
+      "title": "Nanako0129/sepia: De-AI writing skill for any Agent Skills-compatible agent (77+",
+      "hot": "⭐ 1.3k",
+      "desc": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigr",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/Nanako0129/sepia"
+    },
+    {
+      "title": "crmne/fastpotify: Spotify, native and fast. One lightweight Rust app for your wh",
+      "hot": "⭐ 1.3k",
+      "desc": "Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/crmne/fastpotify"
+    },
+    {
+      "title": "MetaMask-AI/metamask-desktop: 🌐 🔌 The MetaMask desktop app enables browsing Et",
+      "hot": "⭐ 1.2k",
+      "desc": "🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites",
+      "source": "github",
+      "tag": "CSS",
+      "url": "https://github.com/MetaMask-AI/metamask-desktop"
+    },
+    {
+      "title": "wide-trace/open-higgsfield: A studio for image and video generation — one prompt",
+      "hot": "⭐ 1.2k",
+      "desc": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/wide-trace/open-higgsfield"
+    },
+    {
+      "title": "Tencent/WeMM-Embedding: WeMM-Embedding is a family of universal multimodal embed",
+      "hot": "⭐ 1.0k",
+      "desc": "WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retr",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/Tencent/WeMM-Embedding"
+    },
+    {
+      "title": "jub0t/Concat: Free & Open-Source CapCut replacement. (formerly WolfCut)",
+      "hot": "⭐ 1.0k",
+      "desc": "Free & Open-Source CapCut replacement. (formerly WolfCut)",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/jub0t/Concat"
+    },
+    {
+      "title": "damejan80/tokentab: A CLI that reads Claude Code, Codex, and Gemini CLI session ",
+      "hot": "⭐ 987",
+      "desc": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/damejan80/tokentab"
+    },
+    {
+      "title": "cbrock84/headcount: An agent organization for Claude Code, structured as a compa",
+      "hot": "⭐ 912",
+      "desc": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.",
+      "source": "github",
+      "tag": "Markdown",
+      "url": "https://github.com/cbrock84/headcount"
+    },
+    {
+      "title": "tradecatlabs/shulihuazixuecongshu: ",
+      "hot": "⭐ 840",
+      "desc": "tradecatlabs/shulihuazixuecongshu",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/tradecatlabs/shulihuazixuecongshu"
+    },
+    {
+      "title": "jprx/darwin-vm: Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 an",
+      "hot": "⭐ 829",
+      "desc": "Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/jprx/darwin-vm"
+    },
+    {
+      "title": "GangTailorUpgrade/CoomeRtool: Coomer Tool",
+      "hot": "⭐ 766",
+      "desc": "Coomer Tool",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/GangTailorUpgrade/CoomeRtool"
+    },
+    {
+      "title": "chrisgreg/boop: A tiny, self-hosted notification inbox for developers. Something",
+      "hot": "⭐ 673",
+      "desc": "A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone.",
+      "source": "github",
+      "tag": "Go",
+      "url": "https://github.com/chrisgreg/boop"
+    },
+    {
+      "title": "hkqr/my-free-code: Open-source multi-provider AI gateway for Claude Code and oth",
+      "hot": "⭐ 617",
+      "desc": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local m",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/hkqr/my-free-code"
+    }
+  ],
   "space": [
+    {
+      "title": "It turns out that Orion's much-maligned heat shield performed really well",
+      "hot": "9/1",
+      "desc": "Independent safety officials also have high praise for changes by NASA leadership.",
+      "source": "space",
+      "tag": "Arstechnica",
+      "url": "https://arstechnica.com/space/2026/09/it-turns-out-that-orions-much-maligned-heat-shield-performed-really-well/"
+    },
+    {
+      "title": "PLD Space Adds €108 million to Series C Funding Round",
+      "hot": "9/1",
+      "desc": "Spanish launch services provider PLD Space has secured an additional €108 million in funding, extending the Series C round to €288 million. The compan",
+      "source": "space",
+      "tag": "European Spaceflight",
+      "url": "https://europeanspaceflight.com/pld-space-adds-e108-million-to-series-c-funding-round/"
+    },
     {
       "title": "Private group wants to launch \"cheapest possible\" mission to Alpha Centauri",
       "hot": "9/1",
@@ -207,7 +507,7 @@
     {
       "title": "Launch Preview: Array of international launches planned this week",
       "hot": "8/31",
-      "desc": "Six missions are scheduled to launch from launch sites across the globe this week. After…\nThe post Launch Preview: Array of international launches pla",
+      "desc": "Six missions are scheduled to launch from launch sites across the globe this week. After…\r\nThe post Launch Preview: Array of international launches pl",
       "source": "space",
       "tag": "NASASpaceflight",
       "url": "https://www.nasaspaceflight.com/2026/08/launch-preview-083126/"
@@ -267,306 +567,6 @@
       "source": "space",
       "tag": "ESA",
       "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/What_happened_this_month_at_the_European_Space_Agency_August_2026"
-    },
-    {
-      "title": "Roman Commissioning",
-      "hot": "8/31",
-      "desc": "Where is Roman? Roman is making its three-month journey from Earth to Sun-Earth Lagrange Point 2, or L2. Along the way, Roman is undergoing a process ",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/missions/roman-space-telescope/roman-commissioning/"
-    },
-    {
-      "title": "Nepal flash flood imaged by satellites",
-      "hot": "8/31",
-      "desc": "With thousands of emergency responders conducting search-and-rescue operations following the catastrophic flash flood that struck northern Nepal on 26",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2/Nepal_flash_flood_imaged_by_satellites"
-    }
-  ],
-  "github": [
-    {
-      "title": "sapientinc/PRAXIST: Autonomous research system for measurable, computer-executab",
-      "hot": "⭐ 5.7k",
-      "desc": "Autonomous research system for measurable, computer-executable research.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/sapientinc/PRAXIST"
-    },
-    {
-      "title": "HEJustinSun/my-girlfriend-jingtian-latex: ",
-      "hot": "⭐ 4.2k",
-      "desc": "HEJustinSun/my-girlfriend-jingtian-latex",
-      "source": "github",
-      "tag": "TeX",
-      "url": "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex"
-    },
-    {
-      "title": "XiaoDuoYa/codex-with-chatgpt: ChatGPT thinks. Codex works. Use ChatGPT as the pl",
-      "hot": "⭐ 2.0k",
-      "desc": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt"
-    },
-    {
-      "title": "Nanako0129/sepia: De-AI writing skill for any Agent Skills-compatible agent (77+",
-      "hot": "⭐ 1.3k",
-      "desc": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigr",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/Nanako0129/sepia"
-    },
-    {
-      "title": "MetaMask-AI/metamask-desktop: 🌐 🔌 The MetaMask desktop app enables browsing Et",
-      "hot": "⭐ 1.2k",
-      "desc": "🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites",
-      "source": "github",
-      "tag": "CSS",
-      "url": "https://github.com/MetaMask-AI/metamask-desktop"
-    },
-    {
-      "title": "wide-trace/open-higgsfield: A studio for image and video generation — one prompt",
-      "hot": "⭐ 1.2k",
-      "desc": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/wide-trace/open-higgsfield"
-    },
-    {
-      "title": "crmne/fastpotify: Spotify, native and fast. One lightweight Rust app for your wh",
-      "hot": "⭐ 1.1k",
-      "desc": "Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/crmne/fastpotify"
-    },
-    {
-      "title": "Tencent/WeMM-Embedding: WeMM-Embedding is a family of universal multimodal embed",
-      "hot": "⭐ 1.0k",
-      "desc": "WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retr",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/Tencent/WeMM-Embedding"
-    },
-    {
-      "title": "jub0t/Concat: Free & Open-Source CapCut replacement. (formerly WolfCut)",
-      "hot": "⭐ 980",
-      "desc": "Free & Open-Source CapCut replacement. (formerly WolfCut)",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/jub0t/Concat"
-    },
-    {
-      "title": "cbrock84/headcount: An agent organization for Claude Code, structured as a compa",
-      "hot": "⭐ 894",
-      "desc": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.",
-      "source": "github",
-      "tag": "Markdown",
-      "url": "https://github.com/cbrock84/headcount"
-    },
-    {
-      "title": "damejan80/tokentab: A CLI that reads Claude Code, Codex, and Gemini CLI session ",
-      "hot": "⭐ 850",
-      "desc": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/damejan80/tokentab"
-    },
-    {
-      "title": "tradecatlabs/shulihuazixuecongshu: ",
-      "hot": "⭐ 836",
-      "desc": "tradecatlabs/shulihuazixuecongshu",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/tradecatlabs/shulihuazixuecongshu"
-    },
-    {
-      "title": "jprx/darwin-vm: Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 an",
-      "hot": "⭐ 773",
-      "desc": "Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/jprx/darwin-vm"
-    },
-    {
-      "title": "GangTailorUpgrade/CoomeRtool: Coomer Tool",
-      "hot": "⭐ 720",
-      "desc": "Coomer Tool",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/GangTailorUpgrade/CoomeRtool"
-    },
-    {
-      "title": "chrisgreg/boop: A tiny, self-hosted notification inbox for developers. Something",
-      "hot": "⭐ 672",
-      "desc": "A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone.",
-      "source": "github",
-      "tag": "Go",
-      "url": "https://github.com/chrisgreg/boop"
-    }
-  ],
-  "tech": [
-    {
-      "title": "GPU World",
-      "hot": "3.0m",
-      "desc": "gpuworld.org",
-      "source": "tech",
-      "tag": "⬆️ 248 points",
-      "url": "https://www.gpuworld.org/"
-    },
-    {
-      "title": "Fastpotify",
-      "hot": "3.0m",
-      "desc": "fastpotify.rocks",
-      "source": "tech",
-      "tag": "⬆️ 415 points",
-      "url": "https://fastpotify.rocks/"
-    },
-    {
-      "title": "44% on ARC-AGI-1 in 67 cents",
-      "hot": "3.0m",
-      "desc": "mvakde.github.io",
-      "source": "tech",
-      "tag": "⬆️ 16 points",
-      "url": "https://mvakde.github.io/blog/44-on-arc-1/"
-    },
-    {
-      "title": "American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career",
-      "hot": "3.0m",
-      "desc": "simpleflying.com",
-      "source": "tech",
-      "tag": "⬆️ 51 points",
-      "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/"
-    },
-    {
-      "title": "Tmp.0ut Volume 5",
-      "hot": "2.9m",
-      "desc": "tmpout.sh",
-      "source": "tech",
-      "tag": "⬆️ 75 points",
-      "url": "https://tmpout.sh/5/"
-    },
-    {
-      "title": "Polishing Cloth Updated",
-      "hot": "2.9m",
-      "desc": "512pixels.net",
-      "source": "tech",
-      "tag": "⬆️ 31 points",
-      "url": "https://512pixels.net/2026/08/polishing-cloth-updated/"
-    },
-    {
-      "title": "Restroom Archive",
-      "hot": "2.9m",
-      "desc": "restroomarchive.com",
-      "source": "tech",
-      "tag": "⬆️ 134 points",
-      "url": "https://restroomarchive.com"
-    },
-    {
-      "title": "Playa Phone",
-      "hot": "2.9m",
-      "desc": "playaphone.com",
-      "source": "tech",
-      "tag": "⬆️ 640 points",
-      "url": "https://playaphone.com/"
-    },
-    {
-      "title": "I turned my security cameras into an automatic bird identification system",
-      "hot": "2.9m",
-      "desc": "jasontucker.blog",
-      "source": "tech",
-      "tag": "⬆️ 507 points",
-      "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/"
-    },
-    {
-      "title": "Terence Tao explains 6 essential mathematical concepts [video]",
-      "hot": "2.9m",
-      "desc": "youtube.com",
-      "source": "tech",
-      "tag": "⬆️ 438 points",
-      "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE"
-    },
-    {
-      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
-      "hot": "2.9m",
-      "desc": "youtube.com",
-      "source": "tech",
-      "tag": "⬆️ 331 points",
-      "url": "https://www.youtube.com/watch?v=3YtygAx_C6A"
-    },
-    {
-      "title": "CollectWise (YC F24) Is Hiring",
-      "hot": "2.8m",
-      "desc": "ycombinator.com",
-      "source": "tech",
-      "tag": "⬆️ 1 points",
-      "url": "https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer"
-    },
-    {
-      "title": "Dwarf Fortress is getting the mother of all magic updates",
-      "hot": "2.8m",
-      "desc": "rockpapershotgun.com",
-      "source": "tech",
-      "tag": "⬆️ 422 points",
-      "url": "https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe"
-    },
-    {
-      "title": "RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3",
-      "hot": "2.8m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 64 points",
-      "url": "https://github.com/fregacmols/RotaryCell"
-    },
-    {
-      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-      "hot": "2.8m",
-      "desc": "macrumors.com",
-      "source": "tech",
-      "tag": "⬆️ 417 points",
-      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/"
-    },
-    {
-      "title": "Evidence of Fraud in an Influential Study About Procrastination",
-      "hot": "2.8m",
-      "desc": "datacolada.org",
-      "source": "tech",
-      "tag": "⬆️ 246 points",
-      "url": "https://datacolada.org/138"
-    },
-    {
-      "title": "Global Trade and the United States Navy",
-      "hot": "2.8m",
-      "desc": "acoup.blog",
-      "source": "tech",
-      "tag": "⬆️ 12 points",
-      "url": "https://acoup.blog/2026/08/28/collections-global-trade-and-united-states-navy/"
-    },
-    {
-      "title": "Show HN: Laser Graffiti",
-      "hot": "2.7m",
-      "desc": "laser.consti.de",
-      "source": "tech",
-      "tag": "⬆️ 196 points",
-      "url": "https://laser.consti.de"
-    },
-    {
-      "title": "I think the military commissary's freezers were hacked",
-      "hot": "2.7m",
-      "desc": "signalandsilence.substack.com",
-      "source": "tech",
-      "tag": "⬆️ 347 points",
-      "url": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary"
-    },
-    {
-      "title": "Cheap GPS jammers are filling the world with navigation dead zones",
-      "hot": "2.7m",
-      "desc": "wsj.com",
-      "source": "tech",
-      "tag": "⬆️ 141 points",
-      "url": "https://www.wsj.com/tech/gps-jammers-dead-zones-e76f3261"
     }
   ]
 }
