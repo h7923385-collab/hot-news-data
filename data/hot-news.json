@@ -1,15 +1,7 @@
 {
-  "updatedAt": "2026-09-02T01:08:42.403Z",
+  "updatedAt": "2026-09-02T05:57:49.823Z",
   "source": "live",
   "dev": [
-    {
-      "title": "How to Design AI Evaluations You Can Actually Trust",
-      "hot": "❤️ 22 💬 5",
-      "desc": "As part of my work at Google, we are publishing a suite of Agent Skills for Google products and...",
-      "source": "dev",
-      "tag": "ai,  evals",
-      "url": "https://dev.to/googleai/how-to-design-ai-evaluations-you-can-actually-trust-41c3"
-    },
     {
       "title": "The job description already changed. We're not coders anymore, but couriers.",
       "hot": "❤️ 3 💬 0",
@@ -20,19 +12,11 @@
     },
     {
       "title": "Preptember is here!! Plan a Fest for your local community.",
-      "hot": "❤️ 36 💬 0",
+      "hot": "❤️ 37 💬 1",
       "desc": "September marks the official start of Preptember, a month dedicated to organizers planning local...",
       "source": "dev",
       "tag": "hacktoberfest,  ai",
       "url": "https://blog.mlh.com/preptember-is-here-plan-a-fest-for-your-local-community-5ce3"
-    },
-    {
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 27 💬 6",
-      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
-      "source": "dev",
-      "tag": "top7,  discuss",
-      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2aic"
     },
     {
       "title": "Overcoming Dart's Single Inheritance Wall: Composable CubitSignalMixin & BlocSignalMixin in Flutter",
@@ -41,6 +25,22 @@
       "source": "dev",
       "tag": "flutter,  dart",
       "url": "https://dev.to/gde/overcoming-darts-single-inheritance-wall-composable-cubitsignalmixin-blocsignalmixin-in-flutter-43bf"
+    },
+    {
+      "title": "How to Design AI Evaluations You Can Actually Trust",
+      "hot": "❤️ 23 💬 6",
+      "desc": "As part of my work at Google, we are publishing a suite of Agent Skills for Google products and...",
+      "source": "dev",
+      "tag": "ai,  evals",
+      "url": "https://dev.to/googleai/how-to-design-ai-evaluations-you-can-actually-trust-41c3"
+    },
+    {
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "hot": "❤️ 27 💬 6",
+      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+      "source": "dev",
+      "tag": "top7,  discuss",
+      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2aic"
     },
     {
       "title": "Native CORS support on GKE Gateway: Offloading cross-origin policy management to infrastructure",
@@ -84,7 +84,7 @@
     },
     {
       "title": "Meme Monday",
-      "hot": "❤️ 22 💬 14",
+      "hot": "❤️ 23 💬 14",
       "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
       "source": "dev",
       "tag": "discuss,  jokes",
@@ -131,14 +131,6 @@
       "url": "https://dev.to/googlecloud/accelerating-jvm-startup-on-gke-how-vpa-cpu-startup-boost-eliminates-ongoing-resource-waste-33i2"
     },
     {
-      "title": "Why AI Websites All Look the Same and How to Build Something Different",
-      "hot": "❤️ 12 💬 0",
-      "desc": "If you've built a website with AI recently, there is a good chance it looks familiar. Maybe you have...",
-      "source": "dev",
-      "tag": "ai,  webdev",
-      "url": "https://dev.to/gdg/why-ai-websites-all-look-the-same-and-how-to-build-something-different-1gan"
-    },
-    {
       "title": "Wiring the Reasoning Loop: Gemini + Neo4j + MCP for Multi-Hop AI Agents",
       "hot": "❤️ 11 💬 0",
       "desc": "Standard Retrieval-Augmented Generation (RAG) solved the initial LLM hallucination problem by...",
@@ -161,6 +153,176 @@
       "source": "dev",
       "tag": "a2a,  aiagents",
       "url": "https://dev.to/gde/mix-and-match-one-agent-three-clouds-one-protocol-4e5l"
+    },
+    {
+      "title": "Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Discover how GKE ClusterNetworkPolicy enables platform teams to establish global security guardrails without hindering d",
+      "source": "dev",
+      "tag": "kubernetes,  ai",
+      "url": "https://dev.to/googlecloud/taking-control-of-cluster-security-a-deep-dive-into-gke-clusternetworkpolicy-536c"
+    }
+  ],
+  "tech": [
+    {
+      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+      "hot": "3.0m",
+      "desc": "anthropic.com",
+      "source": "tech",
+      "tag": "⬆️ 1082 points",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1"
+    },
+    {
+      "title": "True Rate of Unemployment",
+      "hot": "3.0m",
+      "desc": "lisep.org",
+      "source": "tech",
+      "tag": "⬆️ 116 points",
+      "url": "https://www.lisep.org/tru"
+    },
+    {
+      "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
+      "hot": "3.0m",
+      "desc": "arxiv.org",
+      "source": "tech",
+      "tag": "⬆️ 36 points",
+      "url": "https://arxiv.org/abs/2608.29530"
+    },
+    {
+      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+      "hot": "3.0m",
+      "desc": "danluu.com",
+      "source": "tech",
+      "tag": "⬆️ 577 points",
+      "url": "https://danluu.com/zitron/"
+    },
+    {
+      "title": "Fine, I'll build my own text editor",
+      "hot": "2.9m",
+      "desc": "dbushell.com",
+      "source": "tech",
+      "tag": "⬆️ 40 points",
+      "url": "https://dbushell.com/2026/09/01/text-editor/"
+    },
+    {
+      "title": "WebFPGA",
+      "hot": "2.9m",
+      "desc": "webfpga.io",
+      "source": "tech",
+      "tag": "⬆️ 25 points",
+      "url": "https://webfpga.io/"
+    },
+    {
+      "title": "My local model setup on an M4 Pro Mac Mini",
+      "hot": "2.9m",
+      "desc": "lws.io",
+      "source": "tech",
+      "tag": "⬆️ 130 points",
+      "url": "https://lws.io/blog/my-local-model-setup/"
+    },
+    {
+      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+      "hot": "2.9m",
+      "desc": "krebsonsecurity.com",
+      "source": "tech",
+      "tag": "⬆️ 123 points",
+      "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/"
+    },
+    {
+      "title": "The efficient frontier of LLM inference",
+      "hot": "2.9m",
+      "desc": "baseten.co",
+      "source": "tech",
+      "tag": "⬆️ 83 points",
+      "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/"
+    },
+    {
+      "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+      "hot": "2.9m",
+      "desc": "masteranza.github.io",
+      "source": "tech",
+      "tag": "⬆️ 94 points",
+      "url": "https://masteranza.github.io/weedout/"
+    },
+    {
+      "title": "Introducing Ad Blocker for Firefox on iOS",
+      "hot": "2.9m",
+      "desc": "blog.mozilla.org",
+      "source": "tech",
+      "tag": "⬆️ 383 points",
+      "url": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/"
+    },
+    {
+      "title": "Sonic Pi",
+      "hot": "2.8m",
+      "desc": "sonic-pi.net",
+      "source": "tech",
+      "tag": "⬆️ 85 points",
+      "url": "https://sonic-pi.net/"
+    },
+    {
+      "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+      "hot": "2.8m",
+      "desc": "simonwillison.net",
+      "source": "tech",
+      "tag": "⬆️ 329 points",
+      "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/"
+    },
+    {
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "hot": "2.8m",
+      "desc": "openai.com",
+      "source": "tech",
+      "tag": "⬆️ 116 points",
+      "url": "https://openai.com/index/path-to-astra/"
+    },
+    {
+      "title": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
+      "hot": "2.8m",
+      "desc": "hnmatchmaker.com",
+      "source": "tech",
+      "tag": "⬆️ 65 points",
+      "url": "https://hnmatchmaker.com/"
+    },
+    {
+      "title": "Movie Scene Map – 13,312 films, series, games, anime and manga",
+      "hot": "2.8m",
+      "desc": "moviescenemap.com",
+      "source": "tech",
+      "tag": "⬆️ 195 points",
+      "url": "https://moviescenemap.com/"
+    },
+    {
+      "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
+      "hot": "2.8m",
+      "desc": "norirobotics.com",
+      "source": "tech",
+      "tag": "⬆️ 128 points",
+      "url": "https://www.norirobotics.com/"
+    },
+    {
+      "title": "The creator of Jujutsu has joined ERSC",
+      "hot": "2.7m",
+      "desc": "ersc.io",
+      "source": "tech",
+      "tag": "⬆️ 210 points",
+      "url": "https://ersc.io/blog/martin-joins-ersc"
+    },
+    {
+      "title": "Ambient CSS v3 – Blender meets CSS",
+      "hot": "2.7m",
+      "desc": "ambientcss.vercel.app",
+      "source": "tech",
+      "tag": "⬆️ 225 points",
+      "url": "https://ambientcss.vercel.app/"
+    },
+    {
+      "title": "Forgotten History of Small Nuclear Reactors (2015)",
+      "hot": "2.7m",
+      "desc": "spectrum.ieee.org",
+      "source": "tech",
+      "tag": "⬆️ 21 points",
+      "url": "https://spectrum.ieee.org/the-forgotten-history-of-small-nuclear-reactors"
     }
   ],
   "space": [
@@ -285,172 +447,10 @@
       "url": "https://science.nasa.gov/earth/earth-observatory/september-2026-satellite-puzzler/"
     }
   ],
-  "tech": [
-    {
-      "title": "Hang on to Your Firefox",
-      "hot": "3.0m",
-      "desc": "newsonaut.com",
-      "source": "tech",
-      "tag": "⬆️ 405 points",
-      "url": "https://www.newsonaut.com/articles/hang-on-to-your-firefox"
-    },
-    {
-      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-      "hot": "3.0m",
-      "desc": "anthropic.com",
-      "source": "tech",
-      "tag": "⬆️ 905 points",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1"
-    },
-    {
-      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-      "hot": "3.0m",
-      "desc": "danluu.com",
-      "source": "tech",
-      "tag": "⬆️ 394 points",
-      "url": "https://danluu.com/zitron/"
-    },
-    {
-      "title": "The efficient frontier of LLM inference",
-      "hot": "3.0m",
-      "desc": "baseten.co",
-      "source": "tech",
-      "tag": "⬆️ 26 points",
-      "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/"
-    },
-    {
-      "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
-      "hot": "2.9m",
-      "desc": "masteranza.github.io",
-      "source": "tech",
-      "tag": "⬆️ 46 points",
-      "url": "https://masteranza.github.io/weedout/"
-    },
-    {
-      "title": "My local model setup on an M4 Pro Mac Mini",
-      "hot": "2.9m",
-      "desc": "lws.io",
-      "source": "tech",
-      "tag": "⬆️ 47 points",
-      "url": "https://lws.io/blog/my-local-model-setup/"
-    },
-    {
-      "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 828 points",
-      "url": "https://github.com/ankidroid/Anki-Android/issues/21656"
-    },
-    {
-      "title": "Introducing Ad Blocker for Firefox on iOS",
-      "hot": "2.9m",
-      "desc": "blog.mozilla.org",
-      "source": "tech",
-      "tag": "⬆️ 293 points",
-      "url": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/"
-    },
-    {
-      "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
-      "hot": "2.9m",
-      "desc": "simonwillison.net",
-      "source": "tech",
-      "tag": "⬆️ 232 points",
-      "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/"
-    },
-    {
-      "title": "Path to Astra: critical capabilities and frontier safeguards",
-      "hot": "2.9m",
-      "desc": "openai.com",
-      "source": "tech",
-      "tag": "⬆️ 84 points",
-      "url": "https://openai.com/index/path-to-astra/"
-    },
-    {
-      "title": "The creator of Jujutsu has joined ERSC",
-      "hot": "2.9m",
-      "desc": "ersc.io",
-      "source": "tech",
-      "tag": "⬆️ 178 points",
-      "url": "https://ersc.io/blog/martin-joins-ersc"
-    },
-    {
-      "title": "Sonic Pi",
-      "hot": "2.8m",
-      "desc": "sonic-pi.net",
-      "source": "tech",
-      "tag": "⬆️ 26 points",
-      "url": "https://sonic-pi.net/"
-    },
-    {
-      "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
-      "hot": "2.8m",
-      "desc": "tomverbeure.github.io",
-      "source": "tech",
-      "tag": "⬆️ 81 points",
-      "url": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html"
-    },
-    {
-      "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
-      "hot": "2.8m",
-      "desc": "norirobotics.com",
-      "source": "tech",
-      "tag": "⬆️ 112 points",
-      "url": "https://www.norirobotics.com/"
-    },
-    {
-      "title": "Building an interactive instrument for a one-of-a-kind festival",
-      "hot": "2.8m",
-      "desc": "benholmen.com",
-      "source": "tech",
-      "tag": "⬆️ 6 points",
-      "url": "https://benholmen.com/blog/halfmoon-chimes/"
-    },
-    {
-      "title": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
-      "hot": "2.8m",
-      "desc": "hnmatchmaker.com",
-      "source": "tech",
-      "tag": "⬆️ 36 points",
-      "url": "https://hnmatchmaker.com/"
-    },
-    {
-      "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
-      "hot": "2.8m",
-      "desc": "mvakde.github.io",
-      "source": "tech",
-      "tag": "⬆️ 568 points",
-      "url": "https://mvakde.github.io/blog/44-on-arc-1/"
-    },
-    {
-      "title": "Ambient CSS v3 – Blender meets CSS",
-      "hot": "2.7m",
-      "desc": "ambientcss.vercel.app",
-      "source": "tech",
-      "tag": "⬆️ 191 points",
-      "url": "https://ambientcss.vercel.app/"
-    },
-    {
-      "title": "Movie Scene Map – 13,312 films, series, games, anime and manga",
-      "hot": "2.7m",
-      "desc": "moviescenemap.com",
-      "source": "tech",
-      "tag": "⬆️ 147 points",
-      "url": "https://moviescenemap.com/"
-    },
-    {
-      "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
-      "hot": "2.7m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 139 points",
-      "url": "https://github.com/carloslfu/slotstream"
-    }
-  ],
   "github": [
     {
       "title": "sapientinc/PRAXIST: Autonomous research system for measurable, computer-executab",
-      "hot": "⭐ 6.2k",
+      "hot": "⭐ 6.3k",
       "desc": "Autonomous research system for measurable, computer-executable research.",
       "source": "github",
       "tag": "Python",
@@ -458,7 +458,7 @@
     },
     {
       "title": "XiaoDuoYa/codex-with-chatgpt: ChatGPT thinks. Codex works. Use ChatGPT as the pl",
-      "hot": "⭐ 2.1k",
+      "hot": "⭐ 2.2k",
       "desc": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
       "source": "github",
       "tag": "TypeScript",
@@ -466,7 +466,7 @@
     },
     {
       "title": "crmne/fastpotify: Spotify, native and fast. One lightweight Rust app for your wh",
-      "hot": "⭐ 1.5k",
+      "hot": "⭐ 1.6k",
       "desc": "Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
       "source": "github",
       "tag": "Rust",
@@ -506,7 +506,7 @@
     },
     {
       "title": "cbrock84/headcount: An agent organization for Claude Code, structured as a compa",
-      "hot": "⭐ 951",
+      "hot": "⭐ 977",
       "desc": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.",
       "source": "github",
       "tag": "Markdown",
@@ -514,7 +514,7 @@
     },
     {
       "title": "jprx/darwin-vm: Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 an",
-      "hot": "⭐ 880",
+      "hot": "⭐ 896",
       "desc": "Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.",
       "source": "github",
       "tag": "Python",
@@ -522,7 +522,7 @@
     },
     {
       "title": "tradecatlabs/shulihuazixuecongshu: ",
-      "hot": "⭐ 843",
+      "hot": "⭐ 851",
       "desc": "tradecatlabs/shulihuazixuecongshu",
       "source": "github",
       "tag": "Python",
@@ -530,7 +530,7 @@
     },
     {
       "title": "GangTailorUpgrade/CoomeRtool: Coomer Tool",
-      "hot": "⭐ 823",
+      "hot": "⭐ 845",
       "desc": "Coomer Tool",
       "source": "github",
       "tag": "Python",
@@ -538,7 +538,7 @@
     },
     {
       "title": "chrisgreg/boop: A tiny, self-hosted notification inbox for developers. Something",
-      "hot": "⭐ 677",
+      "hot": "⭐ 679",
       "desc": "A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone.",
       "source": "github",
       "tag": "Go",
@@ -546,27 +546,27 @@
     },
     {
       "title": "soirihiroka/shrimply: you're telling me a shrimp made this video?",
-      "hot": "⭐ 656",
+      "hot": "⭐ 671",
       "desc": "you're telling me a shrimp made this video?",
       "source": "github",
       "tag": "Rust",
       "url": "https://github.com/soirihiroka/shrimply"
     },
     {
-      "title": "hkqr/my-free-code: Open-source multi-provider AI gateway for Claude Code and oth",
-      "hot": "⭐ 617",
-      "desc": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local m",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/hkqr/my-free-code"
-    },
-    {
       "title": "Git-Agni/prod-FARM-IOS-Core: A farm of real iPhones, run from your Mac. Open-sou",
-      "hot": "⭐ 588",
+      "hot": "⭐ 657",
       "desc": "A farm of real iPhones, run from your Mac. Open-source iOS device automation with live control, a Postgres-backed scheduler, and TikTok workflows. Sel",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/Git-Agni/prod-FARM-IOS-Core"
+    },
+    {
+      "title": "hkqr/my-free-code: Open-source multi-provider AI gateway for Claude Code and oth",
+      "hot": "⭐ 618",
+      "desc": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local m",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/hkqr/my-free-code"
     }
   ]
 }
