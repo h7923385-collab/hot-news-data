@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "20 Agentic AI Terms Every Developer Should Know (Explained Simply)",
-      "hot": "❤️ 54 💬 22",
+      "hot": "❤️ 68 💬 27",
       "desc": "Do you ever feel like the AI world has moved forward a little too quickly?&nbsp;You hear about...",
       "source": "dev",
       "tag": "ai,  agents",
@@ -10,7 +10,7 @@
     },
     {
       "title": "I Built My First AWS Agent Workflow, and the Hardest Part Was Getting It to Stop Assuming Things",
-      "hot": "❤️ 26 💬 5",
+      "hot": "❤️ 35 💬 7",
       "desc": "TL;DR  I recently finished a project from Udacity's Future AWS Agent Engineer Nanodegree Program,...",
       "source": "dev",
       "tag": "discuss,  aws",
@@ -18,35 +18,59 @@
     },
     {
       "title": "AI-assisted genealogy",
-      "hot": "❤️ 12 💬 0",
+      "hot": "❤️ 13 💬 0",
       "desc": "My son recently came to me to brag about using AI to find our ancestors. While the results were...",
       "source": "dev",
       "tag": "ai,  codingassistant",
       "url": "https://dev.to/nfrankel/ai-assisted-genealogy-9cn"
     },
     {
-      "title": "Your First AI Agent: A Beginner's Guide to Building an AI Trend finder with ADK",
-      "hot": "❤️ 9 💬 0",
-      "desc": "The world of AI agents is moving at lightning speed. Keeping up with the latest trends, new...",
+      "title": "Taming Flutter Infinite Scroll: Why 3 Lines of async* Missed the Point, and How BlocSignal Fixes It",
+      "hot": "❤️ 5 💬 0",
+      "desc": "Explore why using async* generators for infinite scroll pagination in Flutter hides subtle concurrency crashes, and disc",
       "source": "dev",
-      "tag": "agents,  ai",
-      "url": "https://dev.to/googleai/your-first-ai-agent-a-beginners-guide-to-building-an-ai-trend-finder-with-adk-5f8k"
+      "tag": "flutter,  dart",
+      "url": "https://dev.to/gde/taming-flutter-infinite-scroll-why-3-lines-of-async-missed-the-point-and-how-blocsignal-fixes-it-3n48"
     },
     {
       "title": "Your First Multi-agent system: A Beginner's Guide to Building an AI Trend finder with ADK",
-      "hot": "❤️ 5 💬 0",
+      "hot": "❤️ 6 💬 0",
       "desc": "Welcome back to our series on building the ultimate AI research assistant for our AI agent podcast!...",
       "source": "dev",
       "tag": "ai,  agents",
       "url": "https://dev.to/googleai/your-first-multi-agent-system-a-beginners-guide-to-building-an-ai-trend-finder-with-adk-48jp"
     },
     {
+      "title": "ChromeOS Lookalikes, Two Ways: One With Drivers, One Without",
+      "hot": "❤️ 6 💬 0",
+      "desc": "chromeos-boot holds two unrelated scripts under one name: stage seeds a real Crostini container from a private bucket, f",
+      "source": "dev",
+      "tag": "chromeos,  linux",
+      "url": "https://dev.to/gde/chromeos-lookalikes-two-ways-one-with-drivers-one-without-83m"
+    },
+    {
+      "title": "Taming Flutter Infinite Scroll (Part 2): Turning ScrollController into a Reactive State Machine with CubitSignalMixin",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Discover how to eliminate Flutter StatefulWidget boilerplate and overcome Dart's single-inheritance wall by combining Sc",
+      "source": "dev",
+      "tag": "flutter,  dart",
+      "url": "https://dev.to/gde/taming-flutter-infinite-scroll-part-2-turning-scrollcontroller-into-a-reactive-state-machine-cgh"
+    },
+    {
       "title": "Build a Long-Running Agent in the Cloud for $5.70/Month",
-      "hot": "❤️ 16 💬 1",
+      "hot": "❤️ 17 💬 1",
       "desc": "How do you run an autonomous AI agent in the cloud 24/7 for just $5.70 a month?  I recently wanted to...",
       "source": "dev",
       "tag": "agents,  ai",
       "url": "https://dev.to/googleai/build-a-long-running-agent-in-the-cloud-for-570month-113c"
+    },
+    {
+      "title": "Your First AI Agent: A Beginner's Guide to Building an AI Trend finder with ADK",
+      "hot": "❤️ 15 💬 0",
+      "desc": "The world of AI agents is moving at lightning speed. Keeping up with the latest trends, new...",
+      "source": "dev",
+      "tag": "agents,  ai",
+      "url": "https://dev.to/googleai/your-first-ai-agent-a-beginners-guide-to-building-an-ai-trend-finder-with-adk-5f8k"
     },
     {
       "title": "[AI in Practice] Building a Dynamic LINE Group Buying Bot with Edit and Unsend Webhooks",
@@ -65,14 +89,6 @@
       "url": "https://dev.to/devteam/introducing-community-gems-celebrating-human-curation-and-the-best-of-our-community-58c8"
     },
     {
-      "title": "How to Write Reliable Rubrics for LLM-as-a-Judge Evaluations",
-      "hot": "❤️ 26 💬 2",
-      "desc": "Follow up to Part 1: How to Design AI Evaluations You Can Actually Trust  At Google, we are...",
-      "source": "dev",
-      "tag": "ai,  evals",
-      "url": "https://dev.to/googleai/how-to-write-reliable-rubrics-for-llm-as-a-judge-evaluations-ndp"
-    },
-    {
       "title": "What is harness engineering and why should I care?",
       "hot": "❤️ 24 💬 0",
       "desc": "How do you ship a software product with 0 lines of manually-written code?  A friend...",
@@ -87,14 +103,6 @@
       "source": "dev",
       "tag": "flutter,  dart",
       "url": "https://dev.to/gde/overcoming-darts-single-inheritance-wall-composable-cubitsignalmixin-blocsignalmixin-in-flutter-43bf"
-    },
-    {
-      "title": "Streamline Publishing with a Claude Code Skill",
-      "hot": "❤️ 17 💬 2",
-      "desc": "A Claude Code skill that turns one markdown file into dev.to, AWS Builder Center, Medium and LinkedIn versions, checks t",
-      "source": "dev",
-      "tag": "claudecode,  writing",
-      "url": "https://dev.to/gde/streamline-publishing-with-a-claude-code-skill-1bdn"
     },
     {
       "title": "Kubeflow Without Kubernetes? Deploy a Complete MLOps Suite in 60 Seconds with Gubernator",
@@ -145,21 +153,13 @@
       "url": "https://dev.to/canro91/the-job-description-already-changed-were-not-coders-anymore-but-couriers-40eg"
     },
     {
-      "title": "Preptember is here!! Plan a Fest for your local community.",
-      "hot": "❤️ 44 💬 3",
-      "desc": "September marks the official start of Preptember, a month dedicated to organizers planning local...",
+      "title": "How to Write Reliable Rubrics for LLM-as-a-Judge Evaluations",
+      "hot": "❤️ 27 💬 2",
+      "desc": "Follow up to Part 1: How to Design AI Evaluations You Can Actually Trust  At Google, we are...",
       "source": "dev",
-      "tag": "hacktoberfest,  ai",
-      "url": "https://blog.mlh.com/preptember-is-here-plan-a-fest-for-your-local-community-5ce3"
-    },
-    {
-      "title": "Hearing the Mountain's Roar: How Antigravity CLI's AI Agents & IoT Data Track Volcanic Shockwaves",
-      "hot": "❤️ 7 💬 0",
-      "desc": "Turning 29k home weather stations and Gemini AI agents into a 15-minute volcanic warning...",
-      "source": "dev",
-      "tag": "Dev.to",
-      "url": "https://dev.to/gde/hearing-the-mountains-roar-how-antigravity-clis-ai-agents-iot-data-track-volcanic-shockwaves-13hp"
+      "tag": "ai,  evals",
+      "url": "https://dev.to/googleai/how-to-write-reliable-rubrics-for-llm-as-a-judge-evaluations-ndp"
     }
   ],
-  "updatedAt": "2026-09-03T18:08:28.810Z"
+  "updatedAt": "2026-09-03T21:08:50.983Z"
 }
