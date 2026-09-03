@@ -1,13 +1,191 @@
 {
-  "updatedAt": "2026-09-03T05:56:20.862Z",
+  "updatedAt": "2026-09-03T10:20:52.411Z",
   "source": "live",
+  "dev": [
+    {
+      "title": "💎 Introducing Community Gems: Celebrating Human Curation and the Best of Our Community",
+      "hot": "❤️ 65 💬 14",
+      "desc": "In an internet full of noise, infinite scrolls, and algorithmically generated content, finding...",
+      "source": "dev",
+      "tag": "meta,  community",
+      "url": "https://dev.to/devteam/introducing-community-gems-celebrating-human-curation-and-the-best-of-our-community-58c8"
+    },
+    {
+      "title": "How to Write Reliable Rubrics for LLM-as-a-Judge Evaluations",
+      "hot": "❤️ 24 💬 1",
+      "desc": "Follow up to Part 1: How to Design AI Evaluations You Can Actually Trust  At Google, we are...",
+      "source": "dev",
+      "tag": "ai,  evals",
+      "url": "https://dev.to/googleai/how-to-write-reliable-rubrics-for-llm-as-a-judge-evaluations-ndp"
+    },
+    {
+      "title": "What is harness engineering and why should I care?",
+      "hot": "❤️ 22 💬 0",
+      "desc": "How do you ship a software product with 0 lines of manually-written code?  A friend...",
+      "source": "dev",
+      "tag": "ai,  agents",
+      "url": "https://dev.to/googleai/what-is-harness-engineering-and-why-should-i-care-8n0"
+    },
+    {
+      "title": "Overcoming Dart's Single Inheritance Wall: Composable CubitSignalMixin & BlocSignalMixin in Flutter",
+      "hot": "❤️ 10 💬 0",
+      "desc": "Discover how CubitSignalMixin and BlocSignalMixin allow any existing Flutter controller, domain repository, or enterpris",
+      "source": "dev",
+      "tag": "flutter,  dart",
+      "url": "https://dev.to/gde/overcoming-darts-single-inheritance-wall-composable-cubitsignalmixin-blocsignalmixin-in-flutter-43bf"
+    },
+    {
+      "title": "Hearing the Mountain's Roar: How Antigravity CLI's AI Agents & IoT Data Track Volcanic Shockwaves",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Turning 29k home weather stations and Gemini AI agents into a 15-minute volcanic warning...",
+      "source": "dev",
+      "tag": "Dev.to",
+      "url": "https://dev.to/gde/hearing-the-mountains-roar-how-antigravity-clis-ai-agents-iot-data-track-volcanic-shockwaves-13hp"
+    },
+    {
+      "title": "Welcome Thread - v391",
+      "hot": "❤️ 19 💬 77",
+      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
+      "source": "dev",
+      "tag": "welcome",
+      "url": "https://dev.to/sloan/welcome-thread-v391-13l0"
+    },
+    {
+      "title": "Claude Fable 5.1 is now available on Agent Platform!",
+      "hot": "❤️ 8 💬 0",
+      "desc": "Claude Fable 5.1 is officially available in the Model Garden on Agent Platform.  Built for...",
+      "source": "dev",
+      "tag": "claude,  googlecloud",
+      "url": "https://dev.to/googleai/claude-fable-51-is-now-available-on-agent-platform-1b16"
+    },
+    {
+      "title": "Streamline Publishing with a Claude Code Skill",
+      "hot": "❤️ 16 💬 1",
+      "desc": "A Claude Code skill that turns one markdown file into dev.to, AWS Builder Center, Medium and LinkedIn versions, checks t",
+      "source": "dev",
+      "tag": "claudecode,  writing",
+      "url": "https://dev.to/gde/streamline-publishing-with-a-claude-code-skill-1bdn"
+    },
+    {
+      "title": "Kubeflow Without Kubernetes? Deploy a Complete MLOps Suite in 60 Seconds with Gubernator",
+      "hot": "❤️ 11 💬 1",
+      "desc": "Run JupyterLab, MLflow, MinIO S3, and Ollama Inference on a lightweight cluster using pure Docker Compose and <2GB RAM.",
+      "source": "dev",
+      "tag": "gubernator,  docker",
+      "url": "https://dev.to/gde/kubeflow-without-kubernetes-deploy-a-complete-mlops-suite-in-60-seconds-with-gubernator-3moo"
+    },
+    {
+      "title": "Three Gemma 4 Deployments on One T4G for Under $3: What the Runtime Changes, and What It Doesn't",
+      "hot": "❤️ 8 💬 2",
+      "desc": "vLLM, JAX and PyTorch serving the same Gemma 4 E2B checkpoint on the same AWS G5g GPU, on one harness and one statistic.",
+      "source": "dev",
+      "tag": "aws,  machinelearning",
+      "url": "https://dev.to/gde/three-gemma-4-deployments-on-one-t4g-for-under-3-what-the-runtime-changes-and-what-it-doesnt-jo3"
+    },
+    {
+      "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Learn how GKE decouples binary rollouts from API finalization to safely test and roll back Kubernetes minor version upgr",
+      "source": "dev",
+      "tag": "kubernetes,  ai",
+      "url": "https://dev.to/googlecloud/two-step-control-plane-upgrades-in-gke-how-minor-version-rollbacks-work-under-the-hood-i1l"
+    },
+    {
+      "title": "Cross Cloud A2A Agent Card Field Comparison",
+      "hot": "❤️ 7 💬 0",
+      "desc": "Comparing Agent Cards with A2A - This tutorial aims to fetch the agent card from A2A agents running...",
+      "source": "dev",
+      "tag": "a2a,  multicloud",
+      "url": "https://dev.to/gde/cross-cloud-a2a-agent-card-field-comparison-2hod"
+    },
+    {
+      "title": "Build Real-Time Client-Side TTS in Angular Using Firebase AI Logic and Gemini",
+      "hot": "❤️ 10 💬 0",
+      "desc": "In my previous article on Dev.to, I showed how to build expressive text-to-speech using Gemini and...",
+      "source": "dev",
+      "tag": "angular,  gemma",
+      "url": "https://dev.to/gde/build-real-time-client-side-tts-in-angular-using-firebase-ai-logic-and-gemini-37hc"
+    },
+    {
+      "title": "The job description already changed. We're not coders anymore, but couriers.",
+      "hot": "❤️ 3 💬 1",
+      "desc": "re: Couriers, Not Coders (Syntax Isn't The Edge Anymore)                                       ...",
+      "source": "dev",
+      "tag": "career,  coding",
+      "url": "https://dev.to/canro91/the-job-description-already-changed-were-not-coders-anymore-but-couriers-40eg"
+    },
+    {
+      "title": "Preptember is here!! Plan a Fest for your local community.",
+      "hot": "❤️ 44 💬 3",
+      "desc": "September marks the official start of Preptember, a month dedicated to organizers planning local...",
+      "source": "dev",
+      "tag": "hacktoberfest,  ai",
+      "url": "https://blog.mlh.com/preptember-is-here-plan-a-fest-for-your-local-community-5ce3"
+    },
+    {
+      "title": "How to Design AI Evaluations You Can Actually Trust",
+      "hot": "❤️ 40 💬 6",
+      "desc": "As part of my work at Google, we are publishing a suite of Agent Skills for Google products and...",
+      "source": "dev",
+      "tag": "ai,  evals",
+      "url": "https://dev.to/googleai/how-to-design-ai-evaluations-you-can-actually-trust-41c3"
+    },
+    {
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "hot": "❤️ 29 💬 7",
+      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+      "source": "dev",
+      "tag": "top7,  discuss",
+      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2aic"
+    },
+    {
+      "title": "Step up to the Sheets: AI Eval Export and Illustrating Data",
+      "hot": "❤️ 17 💬 0",
+      "desc": "Welcome to part three of our series about designing, analyzing and visualizing AI Evals! As with the...",
+      "source": "dev",
+      "tag": "ai,  python",
+      "url": "https://dev.to/googleai/step-up-to-the-sheets-ai-eval-export-and-illustrating-data-bak"
+    },
+    {
+      "title": "Automate Flutter's New Split Package Migration with AI Agent Skills",
+      "hot": "❤️ 10 💬 1",
+      "desc": "How to use dart-sdk-skills to empower your AI coding agent to seamlessly migrate Flutter projects to standalone material",
+      "source": "dev",
+      "tag": "flutter,  dart",
+      "url": "https://dev.to/gde/automate-flutters-new-split-package-migration-with-ai-agent-skills-bn2"
+    },
+    {
+      "title": "What Do You Do While AI Codes?",
+      "hot": "❤️ 147 💬 138",
+      "desc": "AI coding agents leave you with 5-to-20-minute gaps all day. Five real ways I fill them — and the one \"quick\" habit that",
+      "source": "dev",
+      "tag": "discuss,  ai",
+      "url": "https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k"
+    }
+  ],
   "tech": [
+    {
+      "title": "Pre-Release of Polars 2.0",
+      "hot": "3.0m",
+      "desc": "pola.rs",
+      "source": "tech",
+      "tag": "⬆️ 153 points",
+      "url": "https://pola.rs/posts/announcing-polars-2/"
+    },
+    {
+      "title": "The Browser's Main Thread Is Expensive",
+      "hot": "3.0m",
+      "desc": "kciter.so",
+      "source": "tech",
+      "tag": "⬆️ 66 points",
+      "url": "https://kciter.so/posts/the-expensive-main-thread/en/"
+    },
     {
       "title": "Muse Spark 1.3",
       "hot": "3.0m",
       "desc": "developer.meta.com",
       "source": "tech",
-      "tag": "⬆️ 494 points",
+      "tag": "⬆️ 586 points",
       "url": "https://developer.meta.com/ai/models/muse-spark/"
     },
     {
@@ -15,87 +193,79 @@
       "hot": "3.0m",
       "desc": "blog.google",
       "source": "tech",
-      "tag": "⬆️ 939 points",
+      "tag": "⬆️ 1030 points",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/"
     },
     {
-      "title": "Holden's Lightning Flight",
-      "hot": "3.0m",
-      "desc": "en.wikipedia.org",
-      "source": "tech",
-      "tag": "⬆️ 115 points",
-      "url": "https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight"
-    },
-    {
-      "title": "Google avoids a breakup of its ad tech business",
-      "hot": "3.0m",
-      "desc": "nytimes.com",
-      "source": "tech",
-      "tag": "⬆️ 332 points",
-      "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html"
-    },
-    {
-      "title": "Creating Backup Storage Sucks",
+      "title": "Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2016)",
       "hot": "2.9m",
-      "desc": "smarmelling.com",
+      "desc": "scienceblog.com",
       "source": "tech",
-      "tag": "⬆️ 22 points",
-      "url": "https://smarmelling.com/posts/creating-backup-storage-sucks.html"
-    },
-    {
-      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-      "hot": "2.9m",
-      "desc": "trellner.com",
-      "source": "tech",
-      "tag": "⬆️ 359 points",
-      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/"
-    },
-    {
-      "title": "The shrinking landscape of linguistic diversity in the age of LLMs",
-      "hot": "2.9m",
-      "desc": "nature.com",
-      "source": "tech",
-      "tag": "⬆️ 101 points",
-      "url": "https://www.nature.com/articles/s41562-026-02550-0"
+      "tag": "⬆️ 56 points",
+      "url": "https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/"
     },
     {
       "title": "The Computer Museum of America reclamation project",
       "hot": "2.9m",
       "desc": "computer-museum.org",
       "source": "tech",
-      "tag": "⬆️ 7 points",
+      "tag": "⬆️ 47 points",
       "url": "https://computer-museum.org/wp/"
     },
     {
-      "title": "Reverse Engineering Unknown File Formats with ImHex",
+      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
       "hot": "2.9m",
-      "desc": "werwolv.net",
+      "desc": "trellner.com",
       "source": "tech",
-      "tag": "⬆️ 155 points",
-      "url": "https://werwolv.net/posts/file_format_reverse_engineering/"
+      "tag": "⬆️ 420 points",
+      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/"
     },
     {
-      "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
+      "title": "Google avoids a breakup of its ad tech business",
       "hot": "2.9m",
-      "desc": "news.ycombinator.com",
+      "desc": "nytimes.com",
       "source": "tech",
-      "tag": "⬆️ 45 points",
-      "url": "https://news.ycombinator.com/item?id=49543530"
+      "tag": "⬆️ 390 points",
+      "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html"
+    },
+    {
+      "title": "Holden's Lightning Flight",
+      "hot": "2.9m",
+      "desc": "en.wikipedia.org",
+      "source": "tech",
+      "tag": "⬆️ 161 points",
+      "url": "https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight"
     },
     {
       "title": "Can I opt out of my input or output data being used for training?",
       "hot": "2.9m",
       "desc": "help.mistral.ai",
       "source": "tech",
-      "tag": "⬆️ 410 points",
+      "tag": "⬆️ 445 points",
       "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training"
+    },
+    {
+      "title": "Reverse Engineering Unknown File Formats with ImHex",
+      "hot": "2.9m",
+      "desc": "werwolv.net",
+      "source": "tech",
+      "tag": "⬆️ 207 points",
+      "url": "https://werwolv.net/posts/file_format_reverse_engineering/"
+    },
+    {
+      "title": "What I Learned from My Mom (1941-2026)",
+      "hot": "2.8m",
+      "desc": "experimentalliving.substack.com",
+      "source": "tech",
+      "tag": "⬆️ 9 points",
+      "url": "https://experimentalliving.substack.com/p/what-i-learned-from-my-mom-1941-2026"
     },
     {
       "title": "Higher Multipoles of the Cow",
       "hot": "2.8m",
       "desc": "arxiv.org",
       "source": "tech",
-      "tag": "⬆️ 36 points",
+      "tag": "⬆️ 74 points",
       "url": "https://arxiv.org/abs/2504.00506"
     },
     {
@@ -103,67 +273,75 @@
       "hot": "2.8m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 192 points",
+      "tag": "⬆️ 250 points",
       "url": "https://github.com/PhiloLabs/fable51-worlds"
+    },
+    {
+      "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
+      "hot": "2.8m",
+      "desc": "news.ycombinator.com",
+      "source": "tech",
+      "tag": "⬆️ 63 points",
+      "url": "https://news.ycombinator.com/item?id=49543530"
     },
     {
       "title": "Biggest dark matter detector spots a single weird particle",
       "hot": "2.8m",
       "desc": "science.org",
       "source": "tech",
-      "tag": "⬆️ 270 points",
+      "tag": "⬆️ 299 points",
       "url": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle"
     },
     {
-      "title": "Wendell Berry has died",
-      "hot": "2.8m",
-      "desc": "nytimes.com",
-      "source": "tech",
-      "tag": "⬆️ 166 points",
-      "url": "https://www.nytimes.com/2026/08/31/us/wendell-berry-dead.html"
-    },
-    {
-      "title": "Engineering of the fastest WebAssembly interpreters",
-      "hot": "2.8m",
-      "desc": "wasmi-labs.github.io",
-      "source": "tech",
-      "tag": "⬆️ 73 points",
-      "url": "https://wasmi-labs.github.io/blog/posts/wasmi-v2.0/"
-    },
-    {
-      "title": "Show HN: OwnTime – a chess clock for your day's priorities",
-      "hot": "2.8m",
-      "desc": "owntime.app",
-      "source": "tech",
-      "tag": "⬆️ 33 points",
-      "url": "https://owntime.app/"
-    },
-    {
       "title": "Aging brains blend memories together instead of just forgetting them",
-      "hot": "2.7m",
+      "hot": "2.8m",
       "desc": "studyfinds.com",
       "source": "tech",
-      "tag": "⬆️ 245 points",
+      "tag": "⬆️ 287 points",
       "url": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/"
+    },
+    {
+      "title": "Wendell Berry has died",
+      "hot": "2.7m",
+      "desc": "nytimes.com",
+      "source": "tech",
+      "tag": "⬆️ 190 points",
+      "url": "https://www.nytimes.com/2026/08/31/us/wendell-berry-dead.html"
     },
     {
       "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
       "hot": "2.7m",
       "desc": "admiralcloudberg.medium.com",
       "source": "tech",
-      "tag": "⬆️ 109 points",
+      "tag": "⬆️ 141 points",
       "url": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7"
     },
     {
-      "title": "Reasons robotics is hard",
+      "title": "Engineering of the fastest WebAssembly interpreters",
       "hot": "2.7m",
-      "desc": "secondthoughts.ai",
+      "desc": "wasmi-labs.github.io",
       "source": "tech",
-      "tag": "⬆️ 70 points",
-      "url": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard"
+      "tag": "⬆️ 98 points",
+      "url": "https://wasmi-labs.github.io/blog/posts/wasmi-v2.0/"
     }
   ],
   "space": [
+    {
+      "title": "Hubble's superbubble scene",
+      "hot": "9/3",
+      "desc": "This sprawling cosmic vista and subject of today’s ESA/Hubble Picture of the Month comes from the Large Magellanic Cloud (LMC). The LMC is the largest",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Hubble_s_superbubble_scene"
+    },
+    {
+      "title": "ArcSpace to Demo On-Orbit Welding Tech in 2027",
+      "hot": "9/3",
+      "desc": "With its announcement that it had secured €2 million in new funding, French startup ArcSpace announced plans to test an automated welding system in or",
+      "source": "space",
+      "tag": "European Spaceflight",
+      "url": "https://europeanspaceflight.com/arcspace-to-demo-on-orbit-welding-tech-in-2027/"
+    },
     {
       "title": "APOD: 2026 September 3 – The Eclipse and the Stork",
       "hot": "9/3",
@@ -221,6 +399,14 @@
       "url": "https://www.esa.int/Science_Exploration/Space_Science/Hubble_tracks_new_decagon_encircling_Saturn_s_south_pole"
     },
     {
+      "title": "FLEX and Sentinel-3C sealed within Vega-C fairing",
+      "hot": "9/2",
+      "desc": "At Europe’s Spaceport in French Guiana, preparations for one of the year’s most anticipated Earth-observation launches are entering their final stages",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_sealed_within_Vega-C_fairing"
+    },
+    {
       "title": "Rising Over Louisiana",
       "hot": "9/2",
       "desc": "On Aug. 28, 2026 (the evening of Aug. 27 in some time zones), the Moon passed into Earth’s shadow, creating a deep partial lunar eclipse. At the momen",
@@ -259,30 +445,6 @@
       "source": "space",
       "tag": "European Spaceflight",
       "url": "https://europeanspaceflight.com/hyimpulse-extends-series-a-funding-round-by-e50-million/"
-    },
-    {
-      "title": "Cluster’s encore for reentry science a success",
-      "hot": "9/2",
-      "desc": "The Cluster mission danced its final dance as Tango reentered the atmosphere on 1 September, at 23:30:31 CEST. The end of the Cluster mission in 2024 ",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/Space_Safety/Space_Debris/Cluster_s_encore_for_reentry_science_a_success"
-    },
-    {
-      "title": "ESA’s first lunar rover rolls forward",
-      "hot": "9/2",
-      "desc": "Yesterday evening, during a signing ceremony at the Space for Inspiration event in Copenhagen, Denmark, the European Space Agency (ESA) and ispace-Eur",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ESA_s_first_lunar_rover_rolls_forward"
-    },
-    {
-      "title": "APOD: 2026 September 2 – Solar Eclipses and Culture",
-      "hot": "9/2",
-      "desc": "APOD Science APOD APOD: 2026 September 2 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Pictur",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-2-solar-eclipses-and-culture/"
     }
   ],
   "github": [
@@ -296,7 +458,7 @@
     },
     {
       "title": "crmne/fastpotify: Spotify, native and fast. One lightweight Rust app for your wh",
-      "hot": "⭐ 2.4k",
+      "hot": "⭐ 2.5k",
       "desc": "Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
       "source": "github",
       "tag": "Rust",
@@ -343,8 +505,16 @@
       "url": "https://github.com/cbrock84/headcount"
     },
     {
+      "title": "anthropics/commerce-agents: Reference blueprint for building shopping and mercha",
+      "hot": "⭐ 1.0k",
+      "desc": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/anthropics/commerce-agents"
+    },
+    {
       "title": "jprx/darwin-vm: Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 an",
-      "hot": "⭐ 960",
+      "hot": "⭐ 968",
       "desc": "Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.",
       "source": "github",
       "tag": "Python",
@@ -352,7 +522,7 @@
     },
     {
       "title": "GangTailorUpgrade/undress-service: Dress AI Sponsor",
-      "hot": "⭐ 945",
+      "hot": "⭐ 964",
       "desc": "Dress AI Sponsor",
       "source": "github",
       "tag": "Python",
@@ -360,7 +530,7 @@
     },
     {
       "title": "tradecatlabs/shulihuazixuecongshu: ",
-      "hot": "⭐ 860",
+      "hot": "⭐ 861",
       "desc": "tradecatlabs/shulihuazixuecongshu",
       "source": "github",
       "tag": "Python",
@@ -368,205 +538,35 @@
     },
     {
       "title": "Git-Agni/prod-FARM-IOS-Core: A farm of real iPhones, run from your Mac. Open-sou",
-      "hot": "⭐ 787",
+      "hot": "⭐ 801",
       "desc": "A farm of real iPhones, run from your Mac. Open-source iOS device automation with live control, a Postgres-backed scheduler, and TikTok workflows. Sel",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/Git-Agni/prod-FARM-IOS-Core"
     },
     {
-      "title": "brayonpi/hexstellar: Turn any AI agent into a computational researcher. HexStell",
-      "hot": "⭐ 729",
-      "desc": "Turn any AI agent into a computational researcher. HexStellar Cortex delivers software-accelerated optimization, quantum computing, scientific computi",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/brayonpi/hexstellar"
-    },
-    {
       "title": "rakanki911/DLSS5-Swapper: DLSS 5 Swapper is a powerful, easy-to-use tool for ins",
-      "hot": "⭐ 713",
+      "hot": "⭐ 797",
       "desc": "DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automa",
       "source": "github",
       "tag": "JavaScript",
       "url": "https://github.com/rakanki911/DLSS5-Swapper"
     },
     {
-      "title": "anthropics/commerce-agents: Reference blueprint for building shopping and mercha",
-      "hot": "⭐ 701",
-      "desc": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
+      "title": "shadcn-ui/cn: cn is a new engine for Tailwind class merging and conflict resolut",
+      "hot": "⭐ 770",
+      "desc": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× fast",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/shadcn-ui/cn"
+    },
+    {
+      "title": "brayonpi/hexstellar: Turn any AI agent into a computational researcher. HexStell",
+      "hot": "⭐ 752",
+      "desc": "Turn any AI agent into a computational researcher. HexStellar Cortex delivers software-accelerated optimization, quantum computing, scientific computi",
       "source": "github",
       "tag": "Python",
-      "url": "https://github.com/anthropics/commerce-agents"
-    },
-    {
-      "title": "chrisgreg/boop: A tiny, self-hosted notification inbox for developers. Something",
-      "hot": "⭐ 688",
-      "desc": "A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone.",
-      "source": "github",
-      "tag": "Go",
-      "url": "https://github.com/chrisgreg/boop"
-    }
-  ],
-  "dev": [
-    {
-      "title": "💎 Introducing Community Gems: Celebrating Human Curation and the Best of Our Community",
-      "hot": "❤️ 61 💬 14",
-      "desc": "In an internet full of noise, infinite scrolls, and algorithmically generated content, finding...",
-      "source": "dev",
-      "tag": "meta,  community",
-      "url": "https://dev.to/devteam/introducing-community-gems-celebrating-human-curation-and-the-best-of-our-community-58c8"
-    },
-    {
-      "title": "How to Write Reliable Rubrics for LLM-as-a-Judge Evaluations",
-      "hot": "❤️ 23 💬 0",
-      "desc": "Follow up to Part 1: How to Design AI Evaluations You Can Actually Trust  At Google, we are...",
-      "source": "dev",
-      "tag": "ai,  evals",
-      "url": "https://dev.to/googleai/how-to-write-reliable-rubrics-for-llm-as-a-judge-evaluations-ndp"
-    },
-    {
-      "title": "What is harness engineering and why should I care?",
-      "hot": "❤️ 19 💬 0",
-      "desc": "How do you ship a software product with 0 lines of manually-written code?  A friend...",
-      "source": "dev",
-      "tag": "ai,  agents",
-      "url": "https://dev.to/googleai/what-is-harness-engineering-and-why-should-i-care-8n0"
-    },
-    {
-      "title": "Overcoming Dart's Single Inheritance Wall: Composable CubitSignalMixin & BlocSignalMixin in Flutter",
-      "hot": "❤️ 10 💬 0",
-      "desc": "Discover how CubitSignalMixin and BlocSignalMixin allow any existing Flutter controller, domain repository, or enterpris",
-      "source": "dev",
-      "tag": "flutter,  dart",
-      "url": "https://dev.to/gde/overcoming-darts-single-inheritance-wall-composable-cubitsignalmixin-blocsignalmixin-in-flutter-43bf"
-    },
-    {
-      "title": "Preptember is here!! Plan a Fest for your local community.",
-      "hot": "❤️ 43 💬 3",
-      "desc": "September marks the official start of Preptember, a month dedicated to organizers planning local...",
-      "source": "dev",
-      "tag": "hacktoberfest,  ai",
-      "url": "https://blog.mlh.com/preptember-is-here-plan-a-fest-for-your-local-community-5ce3"
-    },
-    {
-      "title": "Hearing the Mountain's Roar: How Antigravity CLI's AI Agents & IoT Data Track Volcanic Shockwaves",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Turning 29k home weather stations and Gemini AI agents into a 15-minute volcanic warning...",
-      "source": "dev",
-      "tag": "Dev.to",
-      "url": "https://dev.to/gde/hearing-the-mountains-roar-how-antigravity-clis-ai-agents-iot-data-track-volcanic-shockwaves-13hp"
-    },
-    {
-      "title": "Welcome Thread - v391",
-      "hot": "❤️ 16 💬 49",
-      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
-      "source": "dev",
-      "tag": "welcome",
-      "url": "https://dev.to/sloan/welcome-thread-v391-13l0"
-    },
-    {
-      "title": "Claude Fable 5.1 is now available on Agent Platform!",
-      "hot": "❤️ 8 💬 0",
-      "desc": "Claude Fable 5.1 is officially available in the Model Garden on Agent Platform.  Built for...",
-      "source": "dev",
-      "tag": "claude,  googlecloud",
-      "url": "https://dev.to/googleai/claude-fable-51-is-now-available-on-agent-platform-1b16"
-    },
-    {
-      "title": "Elevating Antigravity agent skills, Part 2: Image generation",
-      "hot": "❤️ 16 💬 0",
-      "desc": "By coupling native image generation directly with structured prompt synthesis, you turn your AI agent...",
-      "source": "dev",
-      "tag": "ai,  agentskills",
-      "url": "https://dev.to/googleai/elevating-antigravity-agent-skills-part-2-image-generation-2jno"
-    },
-    {
-      "title": "Streamline Publishing with a Claude Code Skill",
-      "hot": "❤️ 16 💬 1",
-      "desc": "A Claude Code skill that turns one markdown file into dev.to, AWS Builder Center, Medium and LinkedIn versions, checks t",
-      "source": "dev",
-      "tag": "claudecode,  writing",
-      "url": "https://dev.to/gde/streamline-publishing-with-a-claude-code-skill-1bdn"
-    },
-    {
-      "title": "Kubeflow Without Kubernetes? Deploy a Complete MLOps Suite in 60 Seconds with Gubernator",
-      "hot": "❤️ 11 💬 1",
-      "desc": "Run JupyterLab, MLflow, MinIO S3, and Ollama Inference on a lightweight cluster using pure Docker Compose and <2GB RAM.",
-      "source": "dev",
-      "tag": "gubernator,  docker",
-      "url": "https://dev.to/gde/kubeflow-without-kubernetes-deploy-a-complete-mlops-suite-in-60-seconds-with-gubernator-3moo"
-    },
-    {
-      "title": "Three Gemma 4 Deployments on One T4G for Under $3: What the Runtime Changes, and What It Doesn't",
-      "hot": "❤️ 7 💬 1",
-      "desc": "vLLM, JAX and PyTorch serving the same Gemma 4 E2B checkpoint on the same AWS G5g GPU, on one harness and one statistic.",
-      "source": "dev",
-      "tag": "aws,  machinelearning",
-      "url": "https://dev.to/gde/three-gemma-4-deployments-on-one-t4g-for-under-3-what-the-runtime-changes-and-what-it-doesnt-jo3"
-    },
-    {
-      "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Learn how GKE decouples binary rollouts from API finalization to safely test and roll back Kubernetes minor version upgr",
-      "source": "dev",
-      "tag": "kubernetes,  ai",
-      "url": "https://dev.to/googlecloud/two-step-control-plane-upgrades-in-gke-how-minor-version-rollbacks-work-under-the-hood-i1l"
-    },
-    {
-      "title": "Cross Cloud A2A Agent Card Field Comparison",
-      "hot": "❤️ 7 💬 0",
-      "desc": "Comparing Agent Cards with A2A - This tutorial aims to fetch the agent card from A2A agents running...",
-      "source": "dev",
-      "tag": "a2a,  multicloud",
-      "url": "https://dev.to/gde/cross-cloud-a2a-agent-card-field-comparison-2hod"
-    },
-    {
-      "title": "Build Real-Time Client-Side TTS in Angular Using Firebase AI Logic and Gemini",
-      "hot": "❤️ 10 💬 0",
-      "desc": "In my previous article on Dev.to, I showed how to build expressive text-to-speech using Gemini and...",
-      "source": "dev",
-      "tag": "angular,  gemma",
-      "url": "https://dev.to/gde/build-real-time-client-side-tts-in-angular-using-firebase-ai-logic-and-gemini-37hc"
-    },
-    {
-      "title": "The job description already changed. We're not coders anymore, but couriers.",
-      "hot": "❤️ 3 💬 1",
-      "desc": "re: Couriers, Not Coders (Syntax Isn't The Edge Anymore)                                       ...",
-      "source": "dev",
-      "tag": "career,  coding",
-      "url": "https://dev.to/canro91/the-job-description-already-changed-were-not-coders-anymore-but-couriers-40eg"
-    },
-    {
-      "title": "How to Design AI Evaluations You Can Actually Trust",
-      "hot": "❤️ 40 💬 6",
-      "desc": "As part of my work at Google, we are publishing a suite of Agent Skills for Google products and...",
-      "source": "dev",
-      "tag": "ai,  evals",
-      "url": "https://dev.to/googleai/how-to-design-ai-evaluations-you-can-actually-trust-41c3"
-    },
-    {
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 29 💬 7",
-      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
-      "source": "dev",
-      "tag": "top7,  discuss",
-      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2aic"
-    },
-    {
-      "title": "Step up to the Sheets: AI Eval Export and Illustrating Data",
-      "hot": "❤️ 17 💬 0",
-      "desc": "Welcome to part three of our series about designing, analyzing and visualizing AI Evals! As with the...",
-      "source": "dev",
-      "tag": "ai,  python",
-      "url": "https://dev.to/googleai/step-up-to-the-sheets-ai-eval-export-and-illustrating-data-bak"
-    },
-    {
-      "title": "Automate Flutter's New Split Package Migration with AI Agent Skills",
-      "hot": "❤️ 10 💬 1",
-      "desc": "How to use dart-sdk-skills to empower your AI coding agent to seamlessly migrate Flutter projects to standalone material",
-      "source": "dev",
-      "tag": "flutter,  dart",
-      "url": "https://dev.to/gde/automate-flutters-new-split-package-migration-with-ai-agent-skills-bn2"
+      "url": "https://github.com/brayonpi/hexstellar"
     }
   ]
 }
