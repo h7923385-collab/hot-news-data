@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-04T18:29:38.008Z",
+  "updatedAt": "2026-09-04T20:55:22.352Z",
   "source": "live",
   "dev": [
     {
       "title": "20 Agentic AI Terms Every Developer Should Know (Explained Simply)",
-      "hot": "❤️ 111 💬 48",
+      "hot": "❤️ 116 💬 50",
       "desc": "Do you ever feel like the AI world has moved forward a little too quickly?&nbsp;You hear about...",
       "source": "dev",
       "tag": "ai,  agents",
@@ -20,7 +20,7 @@
     },
     {
       "title": "What was your win this week?",
-      "hot": "❤️ 16 💬 5",
+      "hot": "❤️ 16 💬 8",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "weeklyretro",
@@ -60,7 +60,7 @@
     },
     {
       "title": "I Built My First AWS Agent Workflow, and the Hardest Part Was Getting It to Stop Assuming Things",
-      "hot": "❤️ 67 💬 22",
+      "hot": "❤️ 70 💬 23",
       "desc": "TL;DR  I recently finished a project from Udacity's Future AWS Agent Engineer Nanodegree Program,...",
       "source": "dev",
       "tag": "discuss,  aws",
@@ -83,14 +83,6 @@
       "url": "https://dev.to/gde/kong-ai-gateway-20-on-google-cloud-securing-gke-cloud-run-and-vertex-ai-219o"
     },
     {
-      "title": "Build a Long-Running Agent in the Cloud for $5.70/Month",
-      "hot": "❤️ 20 💬 1",
-      "desc": "How do you run an autonomous AI agent in the cloud 24/7 for just $5.70 a month?  I recently wanted to...",
-      "source": "dev",
-      "tag": "agents,  ai",
-      "url": "https://dev.to/googleai/build-a-long-running-agent-in-the-cloud-for-570month-113c"
-    },
-    {
       "title": "Your First AI Agent: A Beginner's Guide to Building an AI Trend finder with ADK",
       "hot": "❤️ 17 💬 0",
       "desc": "The world of AI agents is moving at lightning speed. Keeping up with the latest trends, new...",
@@ -100,7 +92,7 @@
     },
     {
       "title": "Join our DEV Weekend Challenge: Generosity Edition! $1,000 in Prizes Across FIVE Winners. Submissions Due September 7 at 6:59 AM UTC.",
-      "hot": "❤️ 42 💬 7",
+      "hot": "❤️ 45 💬 7",
       "desc": "We're back with another DEV Weekend Challenge, a short bite-sized challenge planned to fit into your...",
       "source": "dev",
       "tag": "devchallenge,  weekendchallenge",
@@ -155,6 +147,14 @@
       "url": "https://dev.to/gde/three-gemma-4-deployments-on-one-t4g-for-under-3-what-the-runtime-changes-and-what-it-doesnt-jo3"
     },
     {
+      "title": "Build a Long-Running Agent in the Cloud for $5.70/Month",
+      "hot": "❤️ 20 💬 2",
+      "desc": "How do you run an autonomous AI agent in the cloud 24/7 for just $5.70 a month?  I recently wanted to...",
+      "source": "dev",
+      "tag": "agents,  ai",
+      "url": "https://dev.to/googleai/build-a-long-running-agent-in-the-cloud-for-570month-113c"
+    },
+    {
       "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
       "hot": "❤️ 6 💬 0",
       "desc": "Learn how GKE decouples binary rollouts from API finalization to safely test and roll back Kubernetes minor version upgr",
@@ -165,167 +165,183 @@
   ],
   "tech": [
     {
+      "title": "Formalizing Fermat's Last Theorem",
+      "hot": "3.0m",
+      "desc": "anthropic.com",
+      "source": "tech",
+      "tag": "⬆️ 262 points",
+      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem"
+    },
+    {
       "title": "Discovery of a new OpenAI agent message board",
       "hot": "3.0m",
       "desc": "collusion.wiki",
       "source": "tech",
-      "tag": "⬆️ 1053 points",
+      "tag": "⬆️ 1284 points",
       "url": "https://collusion.wiki/"
     },
     {
-      "title": "Show HN: Open-Source eInk Bike Computer",
+      "title": "Shutting down our public encrypted DNS",
       "hot": "3.0m",
+      "desc": "mullvad.net",
+      "source": "tech",
+      "tag": "⬆️ 128 points",
+      "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead"
+    },
+    {
+      "title": "Can AI design circuit boards yet?",
+      "hot": "3.0m",
+      "desc": "eebench.org",
+      "source": "tech",
+      "tag": "⬆️ 42 points",
+      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/"
+    },
+    {
+      "title": "Show HN: Open-Source eInk Bike Computer",
+      "hot": "2.9m",
       "desc": "opentrailpaper.com",
       "source": "tech",
-      "tag": "⬆️ 69 points",
+      "tag": "⬆️ 163 points",
       "url": "https://opentrailpaper.com"
     },
     {
-      "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
-      "hot": "3.0m",
-      "desc": "github.blog",
+      "title": "Government Rails Site Hit Hours After CVE Patch",
+      "hot": "2.9m",
+      "desc": "rietta.com",
       "source": "tech",
-      "tag": "⬆️ 31 points",
-      "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/"
+      "tag": "⬆️ 37 points",
+      "url": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/"
+    },
+    {
+      "title": "An open DNS recursive service for free security and high privacy",
+      "hot": "2.9m",
+      "desc": "quad9.net",
+      "source": "tech",
+      "tag": "⬆️ 13 points",
+      "url": "https://quad9.net/"
+    },
+    {
+      "title": "The Rust React Compiler is now native in Vite",
+      "hot": "2.9m",
+      "desc": "blog.master.dev",
+      "source": "tech",
+      "tag": "⬆️ 64 points",
+      "url": "https://blog.master.dev/react-now-rusted-all-the-way-out/"
     },
     {
       "title": "IBM Bob",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "bob.ibm.com",
       "source": "tech",
-      "tag": "⬆️ 139 points",
+      "tag": "⬆️ 185 points",
       "url": "https://bob.ibm.com/"
-    },
-    {
-      "title": "GPT-6 Astra",
-      "hot": "2.9m",
-      "desc": "openai.com",
-      "source": "tech",
-      "tag": "⬆️ 2091 points",
-      "url": "https://openai.com/index/gpt-6-astra/"
-    },
-    {
-      "title": "Solving the Jane Street reverse engineering challenge",
-      "hot": "2.9m",
-      "desc": "jestoph.com",
-      "source": "tech",
-      "tag": "⬆️ 315 points",
-      "url": "https://jestoph.com/2026/09/04/jane-street-challenge.html"
-    },
-    {
-      "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages",
-      "hot": "2.9m",
-      "desc": "wired.com",
-      "source": "tech",
-      "tag": "⬆️ 77 points",
-      "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/"
-    },
-    {
-      "title": "Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive",
-      "hot": "2.9m",
-      "desc": "torrentfreak.com",
-      "source": "tech",
-      "tag": "⬆️ 80 points",
-      "url": "https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/"
     },
     {
       "title": "deSEC – Free Secure DNS",
       "hot": "2.9m",
       "desc": "desec.io",
       "source": "tech",
-      "tag": "⬆️ 30 points",
+      "tag": "⬆️ 81 points",
       "url": "https://desec.io/"
     },
     {
-      "title": "The Two Abstractions of System Design: Hide or Reduce",
+      "title": "Solving the Jane Street reverse engineering challenge",
       "hot": "2.9m",
-      "desc": "muratbuffalo.blogspot.com",
+      "desc": "jestoph.com",
       "source": "tech",
-      "tag": "⬆️ 80 points",
-      "url": "http://muratbuffalo.blogspot.com/2026/05/the-two-abstractions-of-system-design.html"
+      "tag": "⬆️ 354 points",
+      "url": "https://jestoph.com/2026/09/04/jane-street-challenge.html"
     },
     {
-      "title": "Elevator of the Year Winner Modernization of the Metropolis Trust Building",
-      "hot": "2.9m",
-      "desc": "starelevator.com",
-      "source": "tech",
-      "tag": "⬆️ 117 points",
-      "url": "https://www.starelevator.com/projects/star-elevator-modernization-of-the-metropolis-trust-building"
-    },
-    {
-      "title": "Getting Started with AT Protocol",
+      "title": "Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive",
       "hot": "2.8m",
-      "desc": "bnb.im",
+      "desc": "torrentfreak.com",
       "source": "tech",
-      "tag": "⬆️ 37 points",
-      "url": "https://bnb.im/posts/atproto-essential-resources/"
+      "tag": "⬆️ 214 points",
+      "url": "https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/"
+    },
+    {
+      "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
+      "hot": "2.8m",
+      "desc": "github.blog",
+      "source": "tech",
+      "tag": "⬆️ 44 points",
+      "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/"
     },
     {
       "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
       "hot": "2.8m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 14 points",
+      "tag": "⬆️ 63 points",
       "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md"
     },
     {
-      "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
+      "title": "How to Create a Tor Exit Node",
       "hot": "2.8m",
-      "desc": "productrise.app",
+      "desc": "madpsy.uk",
       "source": "tech",
-      "tag": "⬆️ 315 points",
-      "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products"
-    },
-    {
-      "title": "People that worked on the same idea for decades",
-      "hot": "2.8m",
-      "desc": "nityasnotes.com",
-      "source": "tech",
-      "tag": "⬆️ 5 points",
-      "url": "https://nityasnotes.com/writing/decades/"
-    },
-    {
-      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
-      "hot": "2.8m",
-      "desc": "inference-docs.cerebras.ai",
-      "source": "tech",
-      "tag": "⬆️ 665 points",
-      "url": "https://inference-docs.cerebras.ai/models/overview"
+      "tag": "⬆️ 6 points",
+      "url": "https://madpsy.uk/how-to-create-a-tor-exit-node/"
     },
     {
       "title": "Corporate America is getting hooked on open-source AI",
       "hot": "2.8m",
       "desc": "nytimes.com",
       "source": "tech",
-      "tag": "⬆️ 163 points",
+      "tag": "⬆️ 216 points",
       "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html"
     },
     {
-      "title": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
-      "hot": "2.7m",
-      "desc": "twitter.com",
+      "title": "People that worked on the same idea for decades",
+      "hot": "2.8m",
+      "desc": "nityasnotes.com",
       "source": "tech",
-      "tag": "⬆️ 23 points",
-      "url": "https://twitter.com/ggerganov/status/2095897173376618881"
+      "tag": "⬆️ 34 points",
+      "url": "https://nityasnotes.com/writing/decades/"
     },
     {
-      "title": "SubImage (YC W25) Is Hiring a Founding Engineer in SF",
+      "title": "\"Next-token predictor\" is the wrong mental model for LLMs",
       "hot": "2.7m",
-      "desc": "ycombinator.com",
+      "desc": "gmcgoldr.github.io",
       "source": "tech",
-      "tag": "⬆️ 1 points",
-      "url": "https://www.ycombinator.com/companies/subimage/jobs/NCTFgKK-founding-engineer"
+      "tag": "⬆️ 24 points",
+      "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html"
     },
     {
-      "title": "Restoring 5 GHz Wi-Fi on an LG C5 by changing its webOS region",
+      "title": "Fermat's Last Theorem in Lean 4",
       "hot": "2.7m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 43 points",
-      "url": "https://github.com/hawshemi/lg-c5-webos25-region-change"
+      "tag": "⬆️ 10 points",
+      "url": "https://github.com/anthropics/fermats-last-theorem"
+    },
+    {
+      "title": "Elevator of the Year: Modernization of the Metropolis Trust Building",
+      "hot": "2.7m",
+      "desc": "starelevator.com",
+      "source": "tech",
+      "tag": "⬆️ 131 points",
+      "url": "https://www.starelevator.com/projects/star-elevator-modernization-of-the-metropolis-trust-building"
     }
   ],
   "space": [
+    {
+      "title": "Blue Origin expands test and launch sites across the Cape",
+      "hot": "9/4",
+      "desc": "Blue Origin is expanding its Kennedy Space Center and Cape Canaveral footprint on multiple fronts,…\nThe post Blue Origin expands test and launch sites",
+      "source": "space",
+      "tag": "NASASpaceflight",
+      "url": "https://www.nasaspaceflight.com/2026/09/blue-origin-expands-test-launch-cape/"
+    },
+    {
+      "title": "NASA Ames Fire Department Aircraft Firefighting Training",
+      "hot": "9/4",
+      "desc": "The fire department at NASA’s Ames Research Center in California’s Silicon Valley will perform training on the Moffett Federal Airfield beginning Tues",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/news-release/nasa-ames-fire-department-aircraft-firefighting-training/"
+    },
     {
       "title": "NASA Hosts Virtual Artemis Webinar for Blind, Low-Vision Community",
       "hot": "9/4",
@@ -429,22 +445,6 @@
       "source": "space",
       "tag": "SpaceNews",
       "url": "https://spacenews.com/schiess-takes-command-of-space-force-as-the-service-prepares-for-expansion/"
-    },
-    {
-      "title": "NASA to Cover Progress 96 Spacecraft Launch, Docking",
-      "hot": "9/3",
-      "desc": "NASA will provide live coverage of the launch and docking of a Roscosmos cargo spacecraft carrying about three tons of food, fuel, and supplies for th",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/news-release/nasa-to-cover-progress-96-spacecraft-launch-docking/"
-    },
-    {
-      "title": "Curiosity Blog, Sols 4988-4994: More New Tricks for an Old Dog",
-      "hot": "9/3",
-      "desc": "Written by Michelle Minitti, MAHLI Deputy Principal Investigator Earth planning date: Friday, Aug. 21, 2026 After Curiosity’s 14 years on the surface,",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4988-4994-more-new-tricks-for-an-old-dog/"
     }
   ],
   "github": [
@@ -473,20 +473,20 @@
       "url": "https://github.com/anthropics/commerce-agents"
     },
     {
-      "title": "rakanki911/DLSS5-Swapper: DLSS 5 Swapper is a powerful, easy-to-use tool for ins",
-      "hot": "⭐ 1.4k",
-      "desc": "DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automa",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/rakanki911/DLSS5-Swapper"
-    },
-    {
       "title": "lnkiai/m3e-canvas: Sketch Material 3 Expressive screens in the browser and turn ",
-      "hot": "⭐ 1.4k",
+      "hot": "⭐ 1.6k",
       "desc": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/lnkiai/m3e-canvas"
+    },
+    {
+      "title": "rakanki911/DLSS5-Swapper: DLSS 5 Swapper is a powerful, easy-to-use tool for ins",
+      "hot": "⭐ 1.5k",
+      "desc": "DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automa",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/rakanki911/DLSS5-Swapper"
     },
     {
       "title": "cbrock84/headcount: An agent organization for Claude Code, structured as a compa",
@@ -530,7 +530,7 @@
     },
     {
       "title": "2akouwu/reverify: Anti-hallucination for AI agents that read binaries. The model",
-      "hot": "⭐ 866",
+      "hot": "⭐ 875",
       "desc": "Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the re",
       "source": "github",
       "tag": "Python",
@@ -538,7 +538,7 @@
     },
     {
       "title": "chrisgreg/boop: A tiny, self-hosted notification inbox for developers. Something",
-      "hot": "⭐ 714",
+      "hot": "⭐ 715",
       "desc": "A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone.",
       "source": "github",
       "tag": "Go",
@@ -546,7 +546,7 @@
     },
     {
       "title": "jlrouzies-fr/DLSS5-Feeder: DLSS 5 neural rendering in D3D11/D12/Vulkan games tha",
-      "hot": "⭐ 710",
+      "hot": "⭐ 712",
       "desc": "DLSS 5 neural rendering in D3D11/D12/Vulkan games that ship without any DLSS — feeds a synthetic DLAA contract (ReShade depth + motion vectors) to the",
       "source": "github",
       "tag": "C++",
@@ -554,7 +554,7 @@
     },
     {
       "title": "MSNightmare/FalconFlank: Crowdstrike Falcon 0day Privilege Escalation Vulnerabil",
-      "hot": "⭐ 488",
+      "hot": "⭐ 493",
       "desc": "Crowdstrike Falcon 0day Privilege Escalation Vulnerability",
       "source": "github",
       "tag": "C",
@@ -562,7 +562,7 @@
     },
     {
       "title": "Merserk/dlss5-visual-enhancer: DLSS 5 Neural Video & Image Enhancer with Frame I",
-      "hot": "⭐ 479",
+      "hot": "⭐ 483",
       "desc": "DLSS 5 Neural Video & Image Enhancer with Frame Interpolation",
       "source": "github",
       "tag": "Python",
