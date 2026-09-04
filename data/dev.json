@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "20 Agentic AI Terms Every Developer Should Know (Explained Simply)",
-      "hot": "❤️ 75 💬 27",
+      "hot": "❤️ 77 💬 29",
       "desc": "Do you ever feel like the AI world has moved forward a little too quickly?&nbsp;You hear about...",
       "source": "dev",
       "tag": "ai,  agents",
@@ -10,7 +10,7 @@
     },
     {
       "title": "I Built My First AWS Agent Workflow, and the Hardest Part Was Getting It to Stop Assuming Things",
-      "hot": "❤️ 45 💬 8",
+      "hot": "❤️ 49 💬 13",
       "desc": "TL;DR  I recently finished a project from Udacity's Future AWS Agent Engineer Nanodegree Program,...",
       "source": "dev",
       "tag": "discuss,  aws",
@@ -18,7 +18,7 @@
     },
     {
       "title": "AI-assisted genealogy",
-      "hot": "❤️ 14 💬 0",
+      "hot": "❤️ 16 💬 0",
       "desc": "My son recently came to me to brag about using AI to find our ancestors. While the results were...",
       "source": "dev",
       "tag": "ai,  codingassistant",
@@ -33,20 +33,20 @@
       "url": "https://dev.to/gde/taming-flutter-infinite-scroll-part-2-turning-scrollcontroller-into-a-reactive-state-machine-cgh"
     },
     {
-      "title": "Taming Flutter Infinite Scroll: Why 3 Lines of async* Missed the Point, and How BlocSignal Fixes It",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Explore why using async* generators for infinite scroll pagination in Flutter hides subtle concurrency crashes, and disc",
-      "source": "dev",
-      "tag": "flutter,  dart",
-      "url": "https://dev.to/gde/taming-flutter-infinite-scroll-why-3-lines-of-async-missed-the-point-and-how-blocsignal-fixes-it-3n48"
-    },
-    {
       "title": "ChromeOS Lookalikes, Two Ways: One With Drivers, One Without",
       "hot": "❤️ 7 💬 0",
       "desc": "chromeos-boot holds two unrelated scripts under one name: stage seeds a real Crostini container from a private bucket, f",
       "source": "dev",
       "tag": "chromeos,  linux",
       "url": "https://dev.to/gde/chromeos-lookalikes-two-ways-one-with-drivers-one-without-83m"
+    },
+    {
+      "title": "Taming Flutter Infinite Scroll: Why 3 Lines of async* Missed the Point, and How BlocSignal Fixes It",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Explore why using async* generators for infinite scroll pagination in Flutter hides subtle concurrency crashes, and disc",
+      "source": "dev",
+      "tag": "flutter,  dart",
+      "url": "https://dev.to/gde/taming-flutter-infinite-scroll-why-3-lines-of-async-missed-the-point-and-how-blocsignal-fixes-it-3n48"
     },
     {
       "title": "Your First AI Agent: A Beginner's Guide to Building an AI Trend finder with ADK",
@@ -57,12 +57,20 @@
       "url": "https://dev.to/googleai/your-first-ai-agent-a-beginners-guide-to-building-an-ai-trend-finder-with-adk-5f8k"
     },
     {
-      "title": "Build a Long-Running Agent in the Cloud for $5.70/Month",
-      "hot": "❤️ 17 💬 1",
-      "desc": "How do you run an autonomous AI agent in the cloud 24/7 for just $5.70 a month?  I recently wanted to...",
+      "title": "Join our DEV Weekend Challenge: Generosity Edition! $1,000 in Prizes Across FIVE Winners. Submissions Due September 7 at 6:59 AM UTC.",
+      "hot": "❤️ 22 💬 1",
+      "desc": "We're back with another DEV Weekend Challenge, a short bite-sized challenge planned to fit into your...",
       "source": "dev",
-      "tag": "agents,  ai",
-      "url": "https://dev.to/googleai/build-a-long-running-agent-in-the-cloud-for-570month-113c"
+      "tag": "devchallenge,  weekendchallenge",
+      "url": "https://dev.to/devteam/join-our-dev-weekend-challenge-generosity-edition-1000-in-prizes-across-five-winners-20en"
+    },
+    {
+      "title": "Kong AI Gateway 2.0 on Google Cloud: Securing GKE, Cloud Run, and Vertex AI(Agent Platform)",
+      "hot": "❤️ 9 💬 0",
+      "desc": "Most teams running on Google Cloud don't pick one compute model and stay there. Some services live...",
+      "source": "dev",
+      "tag": "ai,  googlecloud",
+      "url": "https://dev.to/gde/kong-ai-gateway-20-on-google-cloud-securing-gke-cloud-run-and-vertex-ai-219o"
     },
     {
       "title": "Your First Multi-agent system: A Beginner's Guide to Building an AI Trend finder with ADK",
@@ -79,6 +87,14 @@
       "source": "dev",
       "tag": "api,  development",
       "url": "https://dev.to/gde/ai-in-practice-building-a-dynamic-line-group-buying-bot-with-edit-and-unsend-webhooks-1clh"
+    },
+    {
+      "title": "Build a Long-Running Agent in the Cloud for $5.70/Month",
+      "hot": "❤️ 20 💬 1",
+      "desc": "How do you run an autonomous AI agent in the cloud 24/7 for just $5.70 a month?  I recently wanted to...",
+      "source": "dev",
+      "tag": "agents,  ai",
+      "url": "https://dev.to/googleai/build-a-long-running-agent-in-the-cloud-for-570month-113c"
     },
     {
       "title": "💎 Introducing Community Gems: Celebrating Human Curation and the Best of Our Community",
@@ -143,23 +159,7 @@
       "source": "dev",
       "tag": "angular,  gemma",
       "url": "https://dev.to/gde/build-real-time-client-side-tts-in-angular-using-firebase-ai-logic-and-gemini-37hc"
-    },
-    {
-      "title": "The job description already changed. We're not coders anymore, but couriers.",
-      "hot": "❤️ 3 💬 1",
-      "desc": "re: Couriers, Not Coders (Syntax Isn't The Edge Anymore)                                       ...",
-      "source": "dev",
-      "tag": "career,  coding",
-      "url": "https://dev.to/canro91/the-job-description-already-changed-were-not-coders-anymore-but-couriers-40eg"
-    },
-    {
-      "title": "How to Write Reliable Rubrics for LLM-as-a-Judge Evaluations",
-      "hot": "❤️ 27 💬 2",
-      "desc": "Follow up to Part 1: How to Design AI Evaluations You Can Actually Trust  At Google, we are...",
-      "source": "dev",
-      "tag": "ai,  evals",
-      "url": "https://dev.to/googleai/how-to-write-reliable-rubrics-for-llm-as-a-judge-evaluations-ndp"
     }
   ],
-  "updatedAt": "2026-09-04T01:05:05.954Z"
+  "updatedAt": "2026-09-04T06:02:51.590Z"
 }
