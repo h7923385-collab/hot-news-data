@@ -1,6 +1,46 @@
 {
   "data": [
     {
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "hot": "❤️ 37 💬 18",
+      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+      "source": "dev",
+      "tag": "top7,  discuss",
+      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-40ma"
+    },
+    {
+      "title": "Stop rebuilding from scratch: cache Docker layers on Cloud Build",
+      "hot": "❤️ 8 💬 0",
+      "desc": "Cloud Build runs on ephemeral workers, so your Docker cache vanishes on every run. Here's how to persist it in Artifact ",
+      "source": "dev",
+      "tag": "docker,  googlecloud",
+      "url": "https://dev.to/gde/stop-rebuilding-from-scratch-cache-docker-layers-on-cloud-build-41m0"
+    },
+    {
+      "title": "Interactive AI Eval Dashboards with Data Studio",
+      "hot": "❤️ 8 💬 2",
+      "desc": "Welcome to the final entry of our series about designing, analyzing and visualizing AI evals! As with...",
+      "source": "dev",
+      "tag": "ai,  datascience",
+      "url": "https://dev.to/googleai/interactive-ai-eval-dashboards-with-data-studio-1kl9"
+    },
+    {
+      "title": "Bidirectional Writeback for Apache Iceberg via Google Sheets: Serverless Lakehouse Console",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Turn Google Sheets into a Fully Interactive, Differential ACID Mutation Console for Apache Iceberg...",
+      "source": "dev",
+      "tag": "googleworkspace,  googlecloud",
+      "url": "https://dev.to/gde/bidirectional-writeback-for-apache-iceberg-via-google-sheets-serverless-lakehouse-console-14ic"
+    },
+    {
+      "title": "Serverless Multimodal Vector Search on Apache Iceberg via Google Apps Script",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Turn Google Drive into an AI-Powered Lakehouse Vector Engine across Converted PDFs, Binary Images,...",
+      "source": "dev",
+      "tag": "googleworkspace,  googlecloud",
+      "url": "https://dev.to/gde/serverless-multimodal-vector-search-on-apache-iceberg-via-google-apps-script-4fg"
+    },
+    {
       "title": "My Grandmother Ran Ajo. I Built the Version Where the Pot Can't Walk Away",
       "hot": "❤️ 40 💬 2",
       "desc": "This is a submission for Weekend Challenge: Generosity Edition           What I Built   My late...",
@@ -23,22 +63,6 @@
       "source": "dev",
       "tag": "devchallenge,  weekendchallenge",
       "url": "https://dev.to/fm/boonfest-the-anti-sloth-game-where-generosity-means-survival-3pg8"
-    },
-    {
-      "title": "The Unbreakable Shopping Cart: Pairing BlocSignal with Fast Immutable Collections (FIC) for Bulletproof Flutter Apps",
-      "hot": "❤️ 8 💬 1",
-      "desc": "Eliminate in-place mutation bugs, corrupted undo stacks, defensive copying overhead, and skipped Flutter rebuilds by pai",
-      "source": "dev",
-      "tag": "flutter,  dart",
-      "url": "https://dev.to/gde/the-unbreakable-shopping-cart-pairing-blocsignal-with-fast-immutable-collections-fic-for-1pn2"
-    },
-    {
-      "title": "What was your win this week?",
-      "hot": "❤️ 34 💬 34",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "weeklyretro",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-1mo8"
     },
     {
       "title": "Building With AI When You Don't Know Architecture: A Survival Guide",
@@ -74,7 +98,7 @@
     },
     {
       "title": "AI Engineering Is Easy. Changing How We Work Is Hard",
-      "hot": "❤️ 43 💬 35",
+      "hot": "❤️ 44 💬 37",
       "desc": "AI engineering sounds fancy. New terms are everywhere: agentic development, AI-native engineering,...",
       "source": "dev",
       "tag": "ai,  agents",
@@ -105,6 +129,14 @@
       "url": "https://dev.to/googleai/claude-fable-51-is-now-available-on-agent-platform-1b16"
     },
     {
+      "title": "The Unbreakable Shopping Cart: Pairing BlocSignal with Fast Immutable Collections (FIC) for Bulletproof Flutter Apps",
+      "hot": "❤️ 8 💬 3",
+      "desc": "Eliminate in-place mutation bugs, corrupted undo stacks, defensive copying overhead, and skipped Flutter rebuilds by pai",
+      "source": "dev",
+      "tag": "flutter,  dart",
+      "url": "https://dev.to/gde/the-unbreakable-shopping-cart-pairing-blocsignal-with-fast-immutable-collections-fic-for-1pn2"
+    },
+    {
       "title": "Elevating Antigravity agent skills, Part 2: Image generation",
       "hot": "❤️ 16 💬 0",
       "desc": "By coupling native image generation directly with structured prompt synthesis, you turn your AI agent...",
@@ -127,39 +159,7 @@
       "source": "dev",
       "tag": "discuss,  aws",
       "url": "https://dev.to/hemapriya_kanagala/i-built-my-first-aws-agent-workflow-and-the-hardest-part-was-getting-it-to-stop-assuming-things-8fg"
-    },
-    {
-      "title": "ChromeOS Lookalikes, Two Ways: One With Drivers, One Without",
-      "hot": "❤️ 8 💬 1",
-      "desc": "chromeos-boot holds two unrelated scripts under one name: stage seeds a real Crostini container from a private bucket, f",
-      "source": "dev",
-      "tag": "chromeos,  linux",
-      "url": "https://dev.to/gde/chromeos-lookalikes-two-ways-one-with-drivers-one-without-83m"
-    },
-    {
-      "title": "Seven Iceberg REST Catalogs: What They Declare, and What They Serve",
-      "hot": "❤️ 7 💬 3",
-      "desc": "One request suite against seven Apache Iceberg REST catalog implementations — Polaris, BigLake, Glue, S3 Tables, Unity, ",
-      "source": "dev",
-      "tag": "iceberg,  lakehouse",
-      "url": "https://dev.to/gde/seven-iceberg-rest-catalogs-what-they-declare-and-what-they-serve-40oj"
-    },
-    {
-      "title": "Accelerating JVM startup on GKE: How VPA CPU startup boost eliminates ongoing resource waste",
-      "hot": "❤️ 5 💬 0",
-      "desc": "Learn how GKE VerticalPodAutoscaler (VPA) CPU Startup Boost cuts JVM cold starts and eliminates ongoing CPU waste using ",
-      "source": "dev",
-      "tag": "kubernetes,  ai",
-      "url": "https://dev.to/googlecloud/accelerating-jvm-startup-on-gke-how-vpa-cpu-startup-boost-eliminates-ongoing-resource-waste-33i2"
-    },
-    {
-      "title": "Beyond Clean Architecture: The Iceberg Pattern for Real-Time Flutter Apps with BlocSignal",
-      "hot": "❤️ 5 💬 1",
-      "desc": "Discover why Uncle Bob's Clean Architecture breaks down in real-time cloud apps, and learn how the Iceberg Pattern pairs",
-      "source": "dev",
-      "tag": "flutter,  dart",
-      "url": "https://dev.to/gde/beyond-clean-architecture-the-iceberg-pattern-for-real-time-flutter-apps-with-blocsignal-3l84"
     }
   ],
-  "updatedAt": "2026-09-08T13:55:53.750Z"
+  "updatedAt": "2026-09-08T17:38:05.634Z"
 }
