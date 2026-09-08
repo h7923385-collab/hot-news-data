@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-08T09:51:29.061Z",
+  "updatedAt": "2026-09-08T13:55:53.750Z",
   "source": "live",
   "dev": [
     {
       "title": "My Grandmother Ran Ajo. I Built the Version Where the Pot Can't Walk Away",
-      "hot": "❤️ 39 💬 2",
+      "hot": "❤️ 40 💬 2",
       "desc": "This is a submission for Weekend Challenge: Generosity Edition           What I Built   My late...",
       "source": "dev",
       "tag": "weekendchallenge,  devchallenge",
@@ -12,7 +12,7 @@
     },
     {
       "title": "20 Agentic AI Terms Every Developer Should Know (Explained Simply)",
-      "hot": "❤️ 209 💬 108",
+      "hot": "❤️ 211 💬 108",
       "desc": "Do you ever feel like the AI world has moved forward a little too quickly?&nbsp;You hear about...",
       "source": "dev",
       "tag": "ai,  agents",
@@ -27,14 +27,6 @@
       "url": "https://dev.to/fm/boonfest-the-anti-sloth-game-where-generosity-means-survival-3pg8"
     },
     {
-      "title": "AI Engineering Is Easy. Changing How We Work Is Hard",
-      "hot": "❤️ 41 💬 33",
-      "desc": "AI engineering sounds fancy. New terms are everywhere: agentic development, AI-native engineering,...",
-      "source": "dev",
-      "tag": "ai,  agents",
-      "url": "https://dev.to/ujja/ai-engineering-is-easy-changing-how-we-work-is-hard-39j4"
-    },
-    {
       "title": "The Unbreakable Shopping Cart: Pairing BlocSignal with Fast Immutable Collections (FIC) for Bulletproof Flutter Apps",
       "hot": "❤️ 8 💬 1",
       "desc": "Eliminate in-place mutation bugs, corrupted undo stacks, defensive copying overhead, and skipped Flutter rebuilds by pai",
@@ -44,7 +36,7 @@
     },
     {
       "title": "What was your win this week?",
-      "hot": "❤️ 34 💬 33",
+      "hot": "❤️ 34 💬 34",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "weeklyretro",
@@ -52,27 +44,11 @@
     },
     {
       "title": "Building With AI When You Don't Know Architecture: A Survival Guide",
-      "hot": "❤️ 128 💬 77",
+      "hot": "❤️ 130 💬 78",
       "desc": "Let me describe a moment you might recognize.  You had an idea for an app. You didn't know how to...",
       "source": "dev",
       "tag": "ai,  beginners",
       "url": "https://dev.to/james_anderson_h/building-with-ai-when-you-dont-know-architecture-a-survival-guide-1ma3"
-    },
-    {
-      "title": "Kubeflow Without Kubernetes? Deploy a Complete MLOps Suite in 60 Seconds with Gubernator",
-      "hot": "❤️ 11 💬 1",
-      "desc": "Run JupyterLab, MLflow, MinIO S3, and Ollama Inference on a lightweight cluster using pure Docker Compose and <2GB RAM.",
-      "source": "dev",
-      "tag": "gubernator,  docker",
-      "url": "https://dev.to/gde/kubeflow-without-kubernetes-deploy-a-complete-mlops-suite-in-60-seconds-with-gubernator-3moo"
-    },
-    {
-      "title": "Unifying Google Workspace and Apache Iceberg: Serverless Lakehouse Management",
-      "hot": "❤️ 7 💬 0",
-      "desc": "Turn Google Sheets into a Petabyte Lakehouse with Sub-Second ACID Queries.             ...",
-      "source": "dev",
-      "tag": "googleworkspace,  googlecloud",
-      "url": "https://dev.to/gde/unifying-google-workspace-and-apache-iceberg-serverless-lakehouse-management-ep3"
     },
     {
       "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
@@ -97,6 +73,14 @@
       "source": "dev",
       "tag": "career,  coding",
       "url": "https://dev.to/canro91/the-job-description-already-changed-were-not-coders-anymore-but-couriers-40eg"
+    },
+    {
+      "title": "AI Engineering Is Easy. Changing How We Work Is Hard",
+      "hot": "❤️ 43 💬 35",
+      "desc": "AI engineering sounds fancy. New terms are everywhere: agentic development, AI-native engineering,...",
+      "source": "dev",
+      "tag": "ai,  agents",
+      "url": "https://dev.to/ujja/ai-engineering-is-easy-changing-how-we-work-is-hard-39j4"
     },
     {
       "title": "Step up to the Sheets: AI Eval Export and Illustrating Data",
@@ -139,6 +123,14 @@
       "url": "https://dev.to/gde/grand-central-station-why-bloc-riverpod-and-blocsignal-are-now-true-peers-3fd8"
     },
     {
+      "title": "I Built My First AWS Agent Workflow, and the Hardest Part Was Getting It to Stop Assuming Things",
+      "hot": "❤️ 89 💬 36",
+      "desc": "TL;DR  I recently finished a project from Udacity's Future AWS Agent Engineer Nanodegree Program,...",
+      "source": "dev",
+      "tag": "discuss,  aws",
+      "url": "https://dev.to/hemapriya_kanagala/i-built-my-first-aws-agent-workflow-and-the-hardest-part-was-getting-it-to-stop-assuming-things-8fg"
+    },
+    {
       "title": "ChromeOS Lookalikes, Two Ways: One With Drivers, One Without",
       "hot": "❤️ 8 💬 1",
       "desc": "chromeos-boot holds two unrelated scripts under one name: stage seeds a real Crostini container from a private bucket, f",
@@ -161,131 +153,195 @@
       "source": "dev",
       "tag": "kubernetes,  ai",
       "url": "https://dev.to/googlecloud/accelerating-jvm-startup-on-gke-how-vpa-cpu-startup-boost-eliminates-ongoing-resource-waste-33i2"
+    },
+    {
+      "title": "Beyond Clean Architecture: The Iceberg Pattern for Real-Time Flutter Apps with BlocSignal",
+      "hot": "❤️ 5 💬 1",
+      "desc": "Discover why Uncle Bob's Clean Architecture breaks down in real-time cloud apps, and learn how the Iceberg Pattern pairs",
+      "source": "dev",
+      "tag": "flutter,  dart",
+      "url": "https://dev.to/gde/beyond-clean-architecture-the-iceberg-pattern-for-real-time-flutter-apps-with-blocsignal-3l84"
     }
   ],
-  "github": [
+  "tech": [
     {
-      "title": "lnkiai/m3e-canvas: Sketch Material 3 Expressive screens in the browser and turn ",
-      "hot": "⭐ 4.9k",
-      "desc": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/lnkiai/m3e-canvas"
+      "title": "Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare",
+      "hot": "3.0m",
+      "desc": "ciphercue.com",
+      "source": "tech",
+      "tag": "⬆️ 279 points",
+      "url": "https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten"
     },
     {
-      "title": "anthropics/commerce-agents: Reference blueprint for building shopping and mercha",
-      "hot": "⭐ 2.5k",
-      "desc": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/anthropics/commerce-agents"
+      "title": "Show HN: Copperhead – Hardware as Fast as Software",
+      "hot": "3.0m",
+      "desc": "copperhead.sh",
+      "source": "tech",
+      "tag": "⬆️ 17 points",
+      "url": "https://copperhead.sh/"
     },
     {
-      "title": "ashemag/human-atlas: Open-source 3D anatomy explorer: 2,234 selectable BodyParts",
-      "hot": "⭐ 2.2k",
-      "desc": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/ashemag/human-atlas"
+      "title": "Antiquated HTML Snippets and Artefacts",
+      "hot": "3.0m",
+      "desc": "vale.rocks",
+      "source": "tech",
+      "tag": "⬆️ 123 points",
+      "url": "https://vale.rocks/posts/html-relics"
     },
     {
-      "title": "Rion-Wu-tech/wechat-intelligence-hub: Local-first WeChat intelligence system wit",
-      "hot": "⭐ 1.9k",
-      "desc": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracki",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub"
+      "title": "DaVinci Resolve 21.1",
+      "hot": "3.0m",
+      "desc": "blackmagicdesign.com",
+      "source": "tech",
+      "tag": "⬆️ 5 points",
+      "url": "https://www.blackmagicdesign.com/media/release/20260908-03"
     },
     {
-      "title": "pierrenade/short-video-generator-AI: Free open-source project designed for turni",
-      "hot": "⭐ 1.2k",
-      "desc": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in o",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/pierrenade/short-video-generator-AI"
+      "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
+      "hot": "2.9m",
+      "desc": "mcpherrin.ca",
+      "source": "tech",
+      "tag": "⬆️ 411 points",
+      "url": "https://mcpherrin.ca/2026/09/07/rsa.html"
     },
     {
-      "title": "EverettFish/holo-card-studio: Turn the user's description or uploaded reference ",
-      "hot": "⭐ 1.0k",
-      "desc": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subj",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/EverettFish/holo-card-studio"
+      "title": "Why getting your hands dirty is good for you",
+      "hot": "2.9m",
+      "desc": "bbc.com",
+      "source": "tech",
+      "tag": "⬆️ 114 points",
+      "url": "https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks"
     },
     {
-      "title": "vinzdg/codenotch: A macOS app that pins usage limits from Claude Code, Cursor, C",
-      "hot": "⭐ 983",
-      "desc": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
-      "source": "github",
-      "tag": "Swift",
-      "url": "https://github.com/vinzdg/codenotch"
+      "title": "There's a new \"Google Jail\" for independent wikis",
+      "hot": "2.9m",
+      "desc": "weirdgloop.org",
+      "source": "tech",
+      "tag": "⬆️ 311 points",
+      "url": "https://weirdgloop.org/blog/google-jail"
     },
     {
-      "title": "anthropics/fermats-last-theorem: ",
-      "hot": "⭐ 955",
-      "desc": "anthropics/fermats-last-theorem",
-      "source": "github",
-      "tag": "Lean",
-      "url": "https://github.com/anthropics/fermats-last-theorem"
+      "title": "Picolibrary: A Small Press",
+      "hot": "2.9m",
+      "desc": "novalis.org",
+      "source": "tech",
+      "tag": "⬆️ 20 points",
+      "url": "https://novalis.org/blog/2026-08-31-picolibrary-a-very-small-press.html"
     },
     {
-      "title": "danielblnc/DLSS-NR-on-AMD: Run DLSS 5 Neural Rendering on your AMD GPU. Magic!",
-      "hot": "⭐ 888",
-      "desc": "Run DLSS 5 Neural Rendering on your AMD GPU. Magic!",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/danielblnc/DLSS-NR-on-AMD"
+      "title": "End-to-end infrastructure for training and inferencing open weight models",
+      "hot": "2.9m",
+      "desc": "docs.appliedcompute.com",
+      "source": "tech",
+      "tag": "⬆️ 40 points",
+      "url": "https://docs.appliedcompute.com"
     },
     {
-      "title": "yczz/oc-english: 养成类游戏英语学习",
-      "hot": "⭐ 853",
-      "desc": "养成类游戏英语学习",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/yczz/oc-english"
+      "title": "TALA Is Open-Source",
+      "hot": "2.9m",
+      "desc": "d2lang.com",
+      "source": "tech",
+      "tag": "⬆️ 268 points",
+      "url": "https://d2lang.com/blog/tala-is-open-source/"
     },
     {
-      "title": "ahujasid/camera-to-blender: Take a photo of real objects, and paste them in Blen",
-      "hot": "⭐ 754",
-      "desc": "Take a photo of real objects, and paste them in Blender",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/ahujasid/camera-to-blender"
+      "title": "Ask HN: Are others seeing Google's reCAPTCHA rejecting Firefox users?",
+      "hot": "2.9m",
+      "desc": "news.ycombinator.com",
+      "source": "tech",
+      "tag": "⬆️ 107 points",
+      "url": "https://news.ycombinator.com/item?id=49555592"
     },
     {
-      "title": "Albert-Weasker/niubigeo: Open-source AI brand visibility and competitor reports",
-      "hot": "⭐ 704",
-      "desc": "Open-source AI brand visibility and competitor reports",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/Albert-Weasker/niubigeo"
+      "title": "We built our house for LAN parties (2024)",
+      "hot": "2.8m",
+      "desc": "lanparty.house",
+      "source": "tech",
+      "tag": "⬆️ 265 points",
+      "url": "https://lanparty.house/"
     },
     {
-      "title": "KJGX66F/usque-custom-pro: 基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、C",
-      "hot": "⭐ 644",
-      "desc": "基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/KJGX66F/usque-custom-pro"
+      "title": "PISA 2025 Students' reading and mathematics performance declined across the OECD",
+      "hot": "2.8m",
+      "desc": "oecd.org",
+      "source": "tech",
+      "tag": "⬆️ 70 points",
+      "url": "https://www.oecd.org/en/about/news/press-releases/2026/09/pisa-2025-students-reading-and-mathematics-performance-declined-sharply-across-the-oecd.html"
     },
     {
-      "title": "nahrek/polyledger: Resumable Polymarket indexer: CLOB market metadata plus on-ch",
-      "hot": "⭐ 621",
-      "desc": "Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/nahrek/polyledger"
+      "title": "How well do agents use test/verification techniques?",
+      "hot": "2.8m",
+      "desc": "danluu.com",
+      "source": "tech",
+      "tag": "⬆️ 129 points",
+      "url": "https://danluu.com/agentic-testing/"
     },
     {
-      "title": "tigerless-labs/agent-memory: ",
-      "hot": "⭐ 587",
-      "desc": "tigerless-labs/agent-memory",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/tigerless-labs/agent-memory"
+      "title": "Mistral raises €3B",
+      "hot": "2.8m",
+      "desc": "mistral.ai",
+      "source": "tech",
+      "tag": "⬆️ 634 points",
+      "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/"
+    },
+    {
+      "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
+      "hot": "2.8m",
+      "desc": "newsroom.arm.com",
+      "source": "tech",
+      "tag": "⬆️ 67 points",
+      "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics"
+    },
+    {
+      "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
+      "hot": "2.8m",
+      "desc": "virtualizationhowto.com",
+      "source": "tech",
+      "tag": "⬆️ 233 points",
+      "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/"
+    },
+    {
+      "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
+      "hot": "2.7m",
+      "desc": "lax-skyline.parcelscope.net",
+      "source": "tech",
+      "tag": "⬆️ 317 points",
+      "url": "https://lax-skyline.parcelscope.net/"
+    },
+    {
+      "title": "Extracting Steering Vectors from J space",
+      "hot": "2.7m",
+      "desc": "darshanmakwana412.github.io",
+      "source": "tech",
+      "tag": "⬆️ 3 points",
+      "url": "https://darshanmakwana412.github.io/2026/09/extracting-steering-vectors-from-j-space/"
+    },
+    {
+      "title": "WeatherNext 3",
+      "hot": "2.7m",
+      "desc": "deepmind.google",
+      "source": "tech",
+      "tag": "⬆️ 377 points",
+      "url": "https://deepmind.google/science/weathernext/"
     }
   ],
   "space": [
+    {
+      "title": "Stoke Space sets debut launch target, reveals plans for larger rocket",
+      "hot": "9/8",
+      "desc": "The space economy will grow exactly as fast as we can launch rockets.",
+      "source": "space",
+      "tag": "Arstechnica",
+      "url": "https://arstechnica.com/space/2026/09/stoke-space-sets-debut-launch-target-reveals-plans-for-larger-rocket/"
+    },
+    {
+      "title": "HyImpulse Could Attempt Second SR75 Flight as Early as 5 October",
+      "hot": "9/8",
+      "desc": "Maritime and aviation notices indicate that HyImpulse could attempt the second flight of its SR75 suborbital rocket from SaxaVord Spaceport in Scotlan",
+      "source": "space",
+      "tag": "European Spaceflight",
+      "url": "https://europeanspaceflight.com/hyimpulse-could-attempt-second-sr75-flight-as-early-as-5-october/"
+    },
     {
       "title": "Anak Krakatau eruption by Sentinel-3",
       "hot": "9/8",
@@ -389,184 +445,128 @@
       "source": "space",
       "tag": "NASASpaceflight",
       "url": "https://www.nasaspaceflight.com/2026/09/starbase-infrastructure-spacex-flight-14/"
-    },
-    {
-      "title": "Cape neighbors Stoke and Relativity advance LC-14 and LC-16 toward first flights",
-      "hot": "9/6",
-      "desc": "Along Missile Row at Cape Canaveral Space Force Station, Stoke Space and Relativity Space are…\r\nThe post Cape neighbors Stoke and Relativity advance L",
-      "source": "space",
-      "tag": "NASASpaceflight",
-      "url": "https://www.nasaspaceflight.com/2026/09/cape-neighbors-stoke-relativity-advance-lc-14-lc-16/"
-    },
-    {
-      "title": "Isar Aerospace Completes First Successful Spectrum Flight",
-      "hot": "9/6",
-      "desc": "German launch services provider Isar Aerospace has completed the first successful launch of its Spectrum rocket, deploying five CubeSats into low Eart",
-      "source": "space",
-      "tag": "European Spaceflight",
-      "url": "https://europeanspaceflight.com/isar-aerospace-completes-first-successful-spectrum-flight/"
     }
   ],
-  "tech": [
+  "github": [
     {
-      "title": "Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare",
-      "hot": "3.0m",
-      "desc": "ciphercue.com",
-      "source": "tech",
-      "tag": "⬆️ 55 points",
-      "url": "https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten"
+      "title": "lnkiai/m3e-canvas: Sketch Material 3 Expressive screens in the browser and turn ",
+      "hot": "⭐ 5.0k",
+      "desc": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/lnkiai/m3e-canvas"
     },
     {
-      "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
-      "hot": "3.0m",
-      "desc": "mcpherrin.ca",
-      "source": "tech",
-      "tag": "⬆️ 330 points",
-      "url": "https://mcpherrin.ca/2026/09/07/rsa.html"
+      "title": "anthropics/commerce-agents: Reference blueprint for building shopping and mercha",
+      "hot": "⭐ 2.5k",
+      "desc": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/anthropics/commerce-agents"
     },
     {
-      "title": "We built our house for LAN parties",
-      "hot": "3.0m",
-      "desc": "lanparty.house",
-      "source": "tech",
-      "tag": "⬆️ 81 points",
-      "url": "https://lanparty.house/"
+      "title": "ashemag/human-atlas: Open-source 3D anatomy explorer: 2,234 selectable BodyParts",
+      "hot": "⭐ 2.3k",
+      "desc": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/ashemag/human-atlas"
     },
     {
-      "title": "Mistral raises €3B",
-      "hot": "3.0m",
-      "desc": "mistral.ai",
-      "source": "tech",
-      "tag": "⬆️ 451 points",
-      "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/"
+      "title": "Rion-Wu-tech/wechat-intelligence-hub: Local-first WeChat intelligence system wit",
+      "hot": "⭐ 1.9k",
+      "desc": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracki",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub"
     },
     {
-      "title": "There's a new \"Google Jail\" for independent wikis",
-      "hot": "2.9m",
-      "desc": "weirdgloop.org",
-      "source": "tech",
-      "tag": "⬆️ 141 points",
-      "url": "https://weirdgloop.org/blog/google-jail"
+      "title": "Albert-Weasker/niubigeo: Open-source AI brand visibility and competitor reports",
+      "hot": "⭐ 1.3k",
+      "desc": "Open-source AI brand visibility and competitor reports",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/Albert-Weasker/niubigeo"
     },
     {
-      "title": "Multi-Agents LLM Financial Trading Framework",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 49 points",
-      "url": "https://github.com/TauricResearch/TradingAgents"
+      "title": "EverettFish/holo-card-studio: Turn the user's description or uploaded reference ",
+      "hot": "⭐ 1.1k",
+      "desc": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subj",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/EverettFish/holo-card-studio"
     },
     {
-      "title": "TALA Is Open-Source",
-      "hot": "2.9m",
-      "desc": "d2lang.com",
-      "source": "tech",
-      "tag": "⬆️ 223 points",
-      "url": "https://d2lang.com/blog/tala-is-open-source/"
+      "title": "vinzdg/codenotch: A macOS app that pins usage limits from Claude Code, Cursor, C",
+      "hot": "⭐ 1.0k",
+      "desc": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
+      "source": "github",
+      "tag": "Swift",
+      "url": "https://github.com/vinzdg/codenotch"
     },
     {
-      "title": "How well do agents use test/verification techniques?",
-      "hot": "2.9m",
-      "desc": "danluu.com",
-      "source": "tech",
-      "tag": "⬆️ 84 points",
-      "url": "https://danluu.com/agentic-testing/"
+      "title": "anthropics/fermats-last-theorem: ",
+      "hot": "⭐ 962",
+      "desc": "anthropics/fermats-last-theorem",
+      "source": "github",
+      "tag": "Lean",
+      "url": "https://github.com/anthropics/fermats-last-theorem"
     },
     {
-      "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
-      "hot": "2.9m",
-      "desc": "newsroom.arm.com",
-      "source": "tech",
-      "tag": "⬆️ 41 points",
-      "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics"
+      "title": "danielblnc/DLSS-NR-on-AMD: Run DLSS 5 Neural Rendering on your AMD GPU. Magic!",
+      "hot": "⭐ 908",
+      "desc": "Run DLSS 5 Neural Rendering on your AMD GPU. Magic!",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/danielblnc/DLSS-NR-on-AMD"
     },
     {
-      "title": "We have a year to fix security everywhere",
-      "hot": "2.9m",
-      "desc": "jyn.dev",
-      "source": "tech",
-      "tag": "⬆️ 227 points",
-      "url": "https://jyn.dev/a-year-to-fix-security/"
+      "title": "yczz/oc-english: 养成类游戏英语学习",
+      "hot": "⭐ 853",
+      "desc": "养成类游戏英语学习",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/yczz/oc-english"
     },
     {
-      "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
-      "hot": "2.9m",
-      "desc": "lax-skyline.parcelscope.net",
-      "source": "tech",
-      "tag": "⬆️ 291 points",
-      "url": "https://lax-skyline.parcelscope.net/"
+      "title": "ahujasid/camera-to-blender: Take a photo of real objects, and paste them in Blen",
+      "hot": "⭐ 765",
+      "desc": "Take a photo of real objects, and paste them in Blender",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/ahujasid/camera-to-blender"
     },
     {
-      "title": "My Feed, My Way",
-      "hot": "2.8m",
-      "desc": "pm.gov.au",
-      "source": "tech",
-      "tag": "⬆️ 118 points",
-      "url": "https://www.pm.gov.au/media/my-feed-my-way"
+      "title": "KJGX66F/usque-custom-pro: 基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、C",
+      "hot": "⭐ 657",
+      "desc": "基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/KJGX66F/usque-custom-pro"
     },
     {
-      "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
-      "hot": "2.8m",
-      "desc": "virtualizationhowto.com",
-      "source": "tech",
-      "tag": "⬆️ 198 points",
-      "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/"
+      "title": "nahrek/polyledger: Resumable Polymarket indexer: CLOB market metadata plus on-ch",
+      "hot": "⭐ 621",
+      "desc": "Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/nahrek/polyledger"
     },
     {
-      "title": "Jellyfin 12.0",
-      "hot": "2.8m",
-      "desc": "jellyfin.org",
-      "source": "tech",
-      "tag": "⬆️ 368 points",
-      "url": "https://jellyfin.org/posts/jellyfin-release-12.0/"
+      "title": "tigerless-labs/agent-memory: ",
+      "hot": "⭐ 612",
+      "desc": "tigerless-labs/agent-memory",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/tigerless-labs/agent-memory"
     },
     {
-      "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
-      "hot": "2.8m",
-      "desc": "rohanadwankar.github.io",
-      "source": "tech",
-      "tag": "⬆️ 29 points",
-      "url": "https://rohanadwankar.github.io/posts/platforms.html"
-    },
-    {
-      "title": "216M Spy TVs – The LG Smart TV Problem [video]",
-      "hot": "2.8m",
-      "desc": "youtube.com",
-      "source": "tech",
-      "tag": "⬆️ 760 points",
-      "url": "https://www.youtube.com/watch?v=6IFVTcM28KA"
-    },
-    {
-      "title": "Understanding Computer Memory Architecture and SSD Internals",
-      "hot": "2.8m",
-      "desc": "codingpirate.com",
-      "source": "tech",
-      "tag": "⬆️ 39 points",
-      "url": "https://codingpirate.com/understanding-computer-memory-architecture-ac9320110787"
-    },
-    {
-      "title": "WeatherNext 3",
-      "hot": "2.7m",
-      "desc": "deepmind.google",
-      "source": "tech",
-      "tag": "⬆️ 324 points",
-      "url": "https://deepmind.google/science/weathernext/"
-    },
-    {
-      "title": "Scientists observe Einstein's gravity in the quantum world",
-      "hot": "2.7m",
-      "desc": "ox.ac.uk",
-      "source": "tech",
-      "tag": "⬆️ 221 points",
-      "url": "https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world"
-    },
-    {
-      "title": "John Margolies' photographs of roadside America",
-      "hot": "2.7m",
-      "desc": "publicdomainreview.org",
-      "source": "tech",
-      "tag": "⬆️ 81 points",
-      "url": "https://publicdomainreview.org/collection/john-margolies-photographs-of-roadside-america/"
+      "title": "Jarvis322/macos-sysdata: See what is really inside macOS System Data and delete ",
+      "hot": "⭐ 584",
+      "desc": "See what is really inside macOS System Data and delete it, item by item, from the menu bar.",
+      "source": "github",
+      "tag": "Swift",
+      "url": "https://github.com/Jarvis322/macos-sysdata"
     }
   ]
 }
