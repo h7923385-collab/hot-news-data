@@ -1,30 +1,21 @@
 {
-  "updatedAt": "2026-09-08T17:38:05.634Z",
+  "updatedAt": "2026-09-08T20:21:04.719Z",
   "source": "live",
-  "space": [
-    {
-      "title": "暂无 space 数据",
-      "hot": "",
-      "desc": "数据加载中，请稍后刷新",
-      "source": "space",
-      "tag": "loading"
-    }
-  ],
   "tech": [
     {
-      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "title": "100s of flights cancelled at UK airports due to ATC issue",
       "hot": "3.0m",
-      "desc": "openai.com",
+      "desc": "bbc.com",
       "source": "tech",
-      "tag": "⬆️ 131 points",
-      "url": "https://openai.com/index/navier-stokes-solution/"
+      "tag": "⬆️ 71 points",
+      "url": "https://www.bbc.com/news/live/c6x2z0yy32ejt"
     },
     {
       "title": "Google DeepMind Releases AlphaGenome Atlas",
       "hot": "3.0m",
       "desc": "blog.google",
       "source": "tech",
-      "tag": "⬆️ 218 points",
+      "tag": "⬆️ 389 points",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/"
     },
     {
@@ -32,31 +23,55 @@
       "hot": "3.0m",
       "desc": "blackmagicdesign.com",
       "source": "tech",
-      "tag": "⬆️ 230 points",
+      "tag": "⬆️ 297 points",
       "url": "https://www.blackmagicdesign.com/media/release/20260908-03"
     },
     {
-      "title": "Making Teenagers Read Newspapers. A Nationwide Experiment in French High Schools",
-      "hot": "3.0m",
-      "desc": "cepr.org",
-      "source": "tech",
-      "tag": "⬆️ 24 points",
-      "url": "https://cepr.org/publications/dp21706"
-    },
-    {
       "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
-      "hot": "2.9m",
+      "hot": "3.0m",
       "desc": "quesma.com",
       "source": "tech",
-      "tag": "⬆️ 84 points",
+      "tag": "⬆️ 158 points",
       "url": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/"
+    },
+    {
+      "title": "Muse: Meta's personal AI agent, features and capabilities",
+      "hot": "2.9m",
+      "desc": "ai.meta.com",
+      "source": "tech",
+      "tag": "⬆️ 101 points",
+      "url": "https://ai.meta.com/muse/"
+    },
+    {
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "hot": "2.9m",
+      "desc": "openai.com",
+      "source": "tech",
+      "tag": "⬆️ 763 points",
+      "url": "https://openai.com/index/navier-stokes-solution/"
+    },
+    {
+      "title": "Show HN: LLM Attention Visualization",
+      "hot": "2.9m",
+      "desc": "ishamf.dev",
+      "source": "tech",
+      "tag": "⬆️ 69 points",
+      "url": "https://ishamf.dev/p/llm-attention-visualizer/"
+    },
+    {
+      "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 195 points",
+      "url": "https://github.com/ayghri/i-have-adhd"
     },
     {
       "title": "The Helicopter with Radioactive Blades",
       "hot": "2.9m",
       "desc": "hackaday.com",
       "source": "tech",
-      "tag": "⬆️ 59 points",
+      "tag": "⬆️ 113 points",
       "url": "https://hackaday.com/2026/09/07/the-helicopter-with-radioactive-blades/"
     },
     {
@@ -64,118 +79,94 @@
       "hot": "2.9m",
       "desc": "events.ycombinator.com",
       "source": "tech",
-      "tag": "⬆️ 18 points",
+      "tag": "⬆️ 57 points",
       "url": "https://events.ycombinator.com/yc-early-access-fall-26"
     },
     {
-      "title": "Connecting the Machines",
+      "title": "ChatGPT Images 2.5",
       "hot": "2.9m",
+      "desc": "openai.com",
+      "source": "tech",
+      "tag": "⬆️ 196 points",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5/"
+    },
+    {
+      "title": "Connecting the Machines",
+      "hot": "2.8m",
       "desc": "herdr.dev",
       "source": "tech",
-      "tag": "⬆️ 19 points",
+      "tag": "⬆️ 54 points",
       "url": "https://herdr.dev/blog/connecting-the-machines/"
     },
     {
-      "title": "Show HN: LLM Attention Visualization",
-      "hot": "2.9m",
-      "desc": "ishamf.dev",
+      "title": "Implementation of GCC's Nested Functions (vs. C++ Lambdas)",
+      "hot": "2.8m",
+      "desc": "uecker.codeberg.page",
       "source": "tech",
-      "tag": "⬆️ 15 points",
-      "url": "https://ishamf.dev/p/llm-attention-visualizer/"
+      "tag": "⬆️ 19 points",
+      "url": "https://uecker.codeberg.page/2026-09-05.html"
+    },
+    {
+      "title": "Replacing a Rust Enum with a 64-Bit Word Made My Interpreter 17% Faster",
+      "hot": "2.8m",
+      "desc": "pointersgonewild.com",
+      "source": "tech",
+      "tag": "⬆️ 38 points",
+      "url": "https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/"
     },
     {
       "title": "Show HN: Copperhead – Hardware as Fast as Software",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "copperhead.sh",
       "source": "tech",
-      "tag": "⬆️ 142 points",
+      "tag": "⬆️ 174 points",
       "url": "https://copperhead.sh/"
-    },
-    {
-      "title": "C*: Unifying Programming and Verification in C",
-      "hot": "2.9m",
-      "desc": "arxiv.org",
-      "source": "tech",
-      "tag": "⬆️ 30 points",
-      "url": "https://arxiv.org/abs/2504.02246"
-    },
-    {
-      "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
-      "hot": "2.8m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 89 points",
-      "url": "https://github.com/ayghri/i-have-adhd"
-    },
-    {
-      "title": "LG TVs caught spying even when offline or on standby",
-      "hot": "2.8m",
-      "desc": "theverge.com",
-      "source": "tech",
-      "tag": "⬆️ 133 points",
-      "url": "https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus"
     },
     {
       "title": "The two Christian saints who are the Buddha",
       "hot": "2.8m",
       "desc": "signoregalilei.com",
       "source": "tech",
-      "tag": "⬆️ 105 points",
+      "tag": "⬆️ 161 points",
       "url": "https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/"
     },
     {
-      "title": "ZX Spectrum: Experimenting with 1-Bit Sound",
+      "title": "C*: Unifying Programming and Verification in C",
       "hot": "2.8m",
+      "desc": "arxiv.org",
+      "source": "tech",
+      "tag": "⬆️ 51 points",
+      "url": "https://arxiv.org/abs/2504.02246"
+    },
+    {
+      "title": "Function Arguments Are Not Function Colors",
+      "hot": "2.7m",
+      "desc": "jerf.org",
+      "source": "tech",
+      "tag": "⬆️ 11 points",
+      "url": "https://jerf.org/iri/post/2026/func_args_are_not_colors/"
+    },
+    {
+      "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+      "hot": "2.7m",
+      "desc": "cims.nyu.edu",
+      "source": "tech",
+      "tag": "⬆️ 727 points",
+      "url": "https://cims.nyu.edu/~tristanb/statement.pdf"
+    },
+    {
+      "title": "ZX Spectrum: Experimenting with 1-Bit Sound",
+      "hot": "2.7m",
       "desc": "bumbershootsoft.wordpress.com",
       "source": "tech",
-      "tag": "⬆️ 47 points",
+      "tag": "⬆️ 72 points",
       "url": "https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/"
-    },
-    {
-      "title": "AlphaGenome Atlas predictive map of every DNA letter change in the human genome",
-      "hot": "2.8m",
-      "desc": "deepmind.google",
-      "source": "tech",
-      "tag": "⬆️ 43 points",
-      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/"
-    },
-    {
-      "title": "Paramount Caught Using 'Astroturf' Group to Drum Up Fake Support for Merger",
-      "hot": "2.8m",
-      "desc": "techdirt.com",
-      "source": "tech",
-      "tag": "⬆️ 179 points",
-      "url": "https://www.techdirt.com/2026/09/08/paramount-caught-using-astroturf-group-to-drum-up-fake-support-for-merger/"
-    },
-    {
-      "title": "DHS 'Predictive Policing' Unit Is Analyzing Americans' Financial Habits",
-      "hot": "2.7m",
-      "desc": "404media.co",
-      "source": "tech",
-      "tag": "⬆️ 189 points",
-      "url": "https://www.404media.co/a-secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-and-pulling-them-over/"
-    },
-    {
-      "title": "Getting your hands dirty is good for you",
-      "hot": "2.7m",
-      "desc": "bbc.com",
-      "source": "tech",
-      "tag": "⬆️ 162 points",
-      "url": "https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks"
-    },
-    {
-      "title": "Disappointed Optimists",
-      "hot": "2.7m",
-      "desc": "cwodtke.com",
-      "source": "tech",
-      "tag": "⬆️ 33 points",
-      "url": "https://cwodtke.com/disappointed-optimists/"
     }
   ],
   "github": [
     {
       "title": "lnkiai/m3e-canvas: Sketch Material 3 Expressive screens in the browser and turn ",
-      "hot": "⭐ 5.1k",
+      "hot": "⭐ 5.2k",
       "desc": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
       "source": "github",
       "tag": "TypeScript",
@@ -199,7 +190,7 @@
     },
     {
       "title": "Albert-Weasker/niubigeo: Open-source AI brand visibility and competitor reports",
-      "hot": "⭐ 2.0k",
+      "hot": "⭐ 2.2k",
       "desc": "Open-source AI brand visibility and competitor reports",
       "source": "github",
       "tag": "TypeScript",
@@ -231,7 +222,7 @@
     },
     {
       "title": "anthropics/fermats-last-theorem: ",
-      "hot": "⭐ 968",
+      "hot": "⭐ 971",
       "desc": "anthropics/fermats-last-theorem",
       "source": "github",
       "tag": "Lean",
@@ -239,7 +230,7 @@
     },
     {
       "title": "danielblnc/DLSS-NR-on-AMD: Run DLSS 5 Neural Rendering on your AMD GPU. Magic!",
-      "hot": "⭐ 920",
+      "hot": "⭐ 927",
       "desc": "Run DLSS 5 Neural Rendering on your AMD GPU. Magic!",
       "source": "github",
       "tag": "GitHub",
@@ -255,7 +246,7 @@
     },
     {
       "title": "ahujasid/camera-to-blender: Take a photo of real objects, and paste them in Blen",
-      "hot": "⭐ 770",
+      "hot": "⭐ 771",
       "desc": "Take a photo of real objects, and paste them in Blender",
       "source": "github",
       "tag": "JavaScript",
@@ -263,11 +254,19 @@
     },
     {
       "title": "KJGX66F/usque-custom-pro: 基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、C",
-      "hot": "⭐ 669",
-      "desc": "基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
+      "hot": "⭐ 670",
+      "desc": "基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能��流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
       "source": "github",
       "tag": "JavaScript",
       "url": "https://github.com/KJGX66F/usque-custom-pro"
+    },
+    {
+      "title": "kajisho5/ffmpeg-skill: ",
+      "hot": "⭐ 662",
+      "desc": "kajisho5/ffmpeg-skill",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/kajisho5/ffmpeg-skill"
     },
     {
       "title": "nahrek/polyledger: Resumable Polymarket indexer: CLOB market metadata plus on-ch",
@@ -278,17 +277,9 @@
       "url": "https://github.com/nahrek/polyledger"
     },
     {
-      "title": "kajisho5/ffmpeg-skill: ",
-      "hot": "⭐ 616",
-      "desc": "kajisho5/ffmpeg-skill",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/kajisho5/ffmpeg-skill"
-    },
-    {
-      "title": "tigerless-labs/agent-memory: ",
-      "hot": "⭐ 612",
-      "desc": "tigerless-labs/agent-memory",
+      "title": "tigerless-labs/agent-memory: Long-term memory runtime for AI agents — plain Mark",
+      "hot": "⭐ 615",
+      "desc": "Long-term memory runtime for AI agents — plain Markdown as the source of truth, local ranked retrieval, and an independent sleep-time Manage layer. Cl",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/tigerless-labs/agent-memory"
@@ -297,7 +288,7 @@
   "dev": [
     {
       "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 37 💬 18",
+      "hot": "❤️ 40 💬 20",
       "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
       "source": "dev",
       "tag": "top7,  discuss",
@@ -345,7 +336,7 @@
     },
     {
       "title": "20 Agentic AI Terms Every Developer Should Know (Explained Simply)",
-      "hot": "❤️ 211 💬 108",
+      "hot": "❤️ 211 💬 109",
       "desc": "Do you ever feel like the AI world has moved forward a little too quickly?&nbsp;You hear about...",
       "source": "dev",
       "tag": "ai,  agents",
@@ -393,7 +384,7 @@
     },
     {
       "title": "AI Engineering Is Easy. Changing How We Work Is Hard",
-      "hot": "❤️ 44 💬 37",
+      "hot": "❤️ 45 💬 37",
       "desc": "AI engineering sounds fancy. New terms are everywhere: agentic development, AI-native engineering,...",
       "source": "dev",
       "tag": "ai,  agents",
@@ -449,11 +440,133 @@
     },
     {
       "title": "I Built My First AWS Agent Workflow, and the Hardest Part Was Getting It to Stop Assuming Things",
-      "hot": "❤️ 89 💬 36",
+      "hot": "❤️ 91 💬 37",
       "desc": "TL;DR  I recently finished a project from Udacity's Future AWS Agent Engineer Nanodegree Program,...",
       "source": "dev",
       "tag": "discuss,  aws",
       "url": "https://dev.to/hemapriya_kanagala/i-built-my-first-aws-agent-workflow-and-the-hardest-part-was-getting-it-to-stop-assuming-things-8fg"
+    }
+  ],
+  "space": [
+    {
+      "title": "NASA Calls for Proposals to Accelerate Lunar Surface Technologies",
+      "hot": "9/8",
+      "desc": "NASA is seeking proposals to advance the technology and infrastructure needed to explore the Moon and establish a Moon Base in the lunar South Pole re",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/news-release/nasa-calls-for-proposals-to-accelerate-lunar-surface-technologies/"
+    },
+    {
+      "title": "Superbubble in the Large Magellanic Cloud",
+      "hot": "9/8",
+      "desc": "NASA’s Hubble Space Telescope captures a photogenic nebula, N44, in the Large Magellanic Cloud in this Sept. 3, 2026, image. N44 is dominated by two f",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/image-article/superbubble-in-the-large-magellanic-cloud/"
+    },
+    {
+      "title": "The Exploration Company Raises $450 Million in Series C Funding",
+      "hot": "9/8",
+      "desc": "European space logistics startup The Exploration Company has raised $450 million (€387 million) in a Series C funding round to support the development",
+      "source": "space",
+      "tag": "European Spaceflight",
+      "url": "https://europeanspaceflight.com/the-exploration-company-raises-450-million-in-series-c-funding/"
+    },
+    {
+      "title": "NASA Technique for Manipulating Satellite Photos Now Reveals Ancient Images",
+      "hot": "9/8",
+      "desc": "Algorithm NASA first applied to satellite imagery is now used to peer into antiquity",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-technique-for-manipulating-satellite-photos-now-reveals-ancient-images/"
+    },
+    {
+      "title": "1,000 Museum Visitors Dive Into NASA Sea Level Science on World Ocean Day",
+      "hot": "9/8",
+      "desc": "More than 1,000 visitors explored NASA sea level science firsthand during World Ocean Day at the University of Georgia Aquarium on Skidaway Island on ",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/learning-resources/science-activation/1000-museum-visitors-dive-into-nasa-sea-level-science-on-world-ocean-day/"
+    },
+    {
+      "title": "NASA’s Hubble, Webb Find Far-out Solar System Objects ‘Remember’ Past",
+      "hot": "9/8",
+      "desc": "For the first time, scientists used the joint power of NASA’s Hubble and James Webb Space Telescopes to study some of the most far-flung bodies in our",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-webb-find-far-out-solar-system-objects-remember-past/"
+    },
+    {
+      "title": "Stoke Space sets debut launch target, reveals plans for larger rocket",
+      "hot": "9/8",
+      "desc": "The space economy will grow exactly as fast as we can launch rockets.",
+      "source": "space",
+      "tag": "Arstechnica",
+      "url": "https://arstechnica.com/space/2026/09/stoke-space-sets-debut-launch-target-reveals-plans-for-larger-rocket/"
+    },
+    {
+      "title": "HyImpulse Could Attempt Second SR75 Flight as Early as 5 October",
+      "hot": "9/8",
+      "desc": "Maritime and aviation notices indicate that HyImpulse could attempt the second flight of its SR75 suborbital rocket from SaxaVord Spaceport in Scotlan",
+      "source": "space",
+      "tag": "European Spaceflight",
+      "url": "https://europeanspaceflight.com/hyimpulse-could-attempt-second-sr75-flight-as-early-as-5-october/"
+    },
+    {
+      "title": "Anak Krakatau eruption by Sentinel-3",
+      "hot": "9/8",
+      "desc": "From the ESA Blogs.",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Anak_Krakatau_eruption_by_Sentinel-3"
+    },
+    {
+      "title": "APOD: 2026 September 8 – Hubble: Decagon Around Saturn’s South Pole",
+      "hot": "9/8",
+      "desc": "APOD Science APOD APOD: 2026 September 8 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Pictur",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/image-article/apod-2026-september-8-hubble-decagon-around-saturns-south-pole/"
+    },
+    {
+      "title": "The Otherworldly Geology of Vasquez Rocks",
+      "hot": "9/8",
+      "desc": "Layers of sedimentary rock that jut from the Soledad Basin at surprising angles have long enthralled television and film producers, including the team",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/earth/earth-observatory/the-otherworldly-geology-of-vasquez-rocks/"
+    },
+    {
+      "title": "Launch Preview: Soyuz, CZ-8A, and Falcon 9 to launch from sites around the world",
+      "hot": "9/7",
+      "desc": "Five orbital launches are expected this week. Two Falcon 9s are expected to launch from…\r\nThe post Launch Preview: Soyuz, CZ-8A, and Falcon 9 to launc",
+      "source": "space",
+      "tag": "NASASpaceflight",
+      "url": "https://www.nasaspaceflight.com/2026/09/launch-preview-090726/"
+    },
+    {
+      "title": "Artemis III SLS stacking advances as Orion results confirm trajectory fix",
+      "hot": "9/7",
+      "desc": "Teams at NASA’s Kennedy Space Center have pushed Artemis III Space Launch System hardware another…\r\nThe post Artemis III SLS stacking advances as Orio",
+      "source": "space",
+      "tag": "NASASpaceflight",
+      "url": "https://www.nasaspaceflight.com/2026/09/artemis-iii-sls-stacking-artemis-ii-orion-fix/"
+    },
+    {
+      "title": "Isar Aerospace Soars to Orbit On Historic Second Launch",
+      "hot": "9/7",
+      "desc": "Isar Aerospace's second flight was a major improvement, becoming the first successful satellite launch from continental Europe.",
+      "source": "space",
+      "tag": "Space Scout",
+      "url": "https://www.spacescout.info/2026/09/isar-aerospace-soars-to-orbit-on-historic-second-launch/"
+    },
+    {
+      "title": "BepiColombo begins Mercury arrival with MTM separation success",
+      "hot": "9/7",
+      "desc": "On 3 September 2026 at 15:49 CEST, the European Space Agency's BepiColombo Mission Control Team at the European Space Operations Centre (ESOC) receive",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/Enabling_Support/Operations/BepiColombo_begins_Mercury_arrival_with_MTM_separation_success"
     }
   ]
 }
