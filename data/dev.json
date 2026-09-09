@@ -1,22 +1,6 @@
 {
   "data": [
     {
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 54 💬 25",
-      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
-      "source": "dev",
-      "tag": "top7,  discuss",
-      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-40ma"
-    },
-    {
-      "title": "Stop rebuilding from scratch: cache Docker layers on Cloud Build",
-      "hot": "❤️ 9 💬 0",
-      "desc": "Cloud Build runs on ephemeral workers, so your Docker cache vanishes on every run. Here's how to persist it in Artifact ",
-      "source": "dev",
-      "tag": "docker,  googlecloud",
-      "url": "https://dev.to/gde/stop-rebuilding-from-scratch-cache-docker-layers-on-cloud-build-41m0"
-    },
-    {
       "title": "Bidirectional Writeback for Apache Iceberg via Google Sheets: Serverless Lakehouse Console",
       "hot": "❤️ 6 💬 0",
       "desc": "Turn Google Sheets into a Fully Interactive, Differential ACID Mutation Console for Apache Iceberg...",
@@ -33,6 +17,14 @@
       "url": "https://dev.to/gde/serverless-multimodal-vector-search-on-apache-iceberg-via-google-apps-script-4fg"
     },
     {
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "hot": "❤️ 55 💬 25",
+      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+      "source": "dev",
+      "tag": "top7,  discuss",
+      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-40ma"
+    },
+    {
       "title": "Interactive AI Eval Dashboards with Data Studio",
       "hot": "❤️ 9 💬 2",
       "desc": "Welcome to the final entry of our series about designing, analyzing and visualizing AI evals! As with...",
@@ -42,7 +34,7 @@
     },
     {
       "title": "20 Agentic AI Terms Every Developer Should Know (Explained Simply)",
-      "hot": "❤️ 212 💬 110",
+      "hot": "❤️ 215 💬 110",
       "desc": "Do you ever feel like the AI world has moved forward a little too quickly?&nbsp;You hear about...",
       "source": "dev",
       "tag": "ai,  agents",
@@ -55,6 +47,14 @@
       "source": "dev",
       "tag": "devchallenge,  weekendchallenge",
       "url": "https://dev.to/fm/boonfest-the-anti-sloth-game-where-generosity-means-survival-3pg8"
+    },
+    {
+      "title": "Stop rebuilding from scratch: cache Docker layers on Cloud Build",
+      "hot": "❤️ 9 💬 0",
+      "desc": "Cloud Build runs on ephemeral workers, so your Docker cache vanishes on every run. Here's how to persist it in Artifact ",
+      "source": "dev",
+      "tag": "docker,  googlecloud",
+      "url": "https://dev.to/gde/stop-rebuilding-from-scratch-cache-docker-layers-on-cloud-build-41m0"
     },
     {
       "title": "My Grandmother Ran Ajo. I Built the Version Where the Pot Can't Walk Away",
@@ -154,12 +154,12 @@
     },
     {
       "title": "I Built My First AWS Agent Workflow, and the Hardest Part Was Getting It to Stop Assuming Things",
-      "hot": "❤️ 91 💬 37",
+      "hot": "❤️ 92 💬 38",
       "desc": "TL;DR  I recently finished a project from Udacity's Future AWS Agent Engineer Nanodegree Program,...",
       "source": "dev",
       "tag": "discuss,  aws",
       "url": "https://dev.to/hemapriya_kanagala/i-built-my-first-aws-agent-workflow-and-the-hardest-part-was-getting-it-to-stop-assuming-things-8fg"
     }
   ],
-  "updatedAt": "2026-09-09T05:24:43.628Z"
+  "updatedAt": "2026-09-09T09:55:03.734Z"
 }
