@@ -1,20 +1,36 @@
 {
   "data": [
     {
+      "title": "4 pitfalls of loop engineering (and how to fix them)",
+      "hot": "❤️ 7 💬 1",
+      "desc": "Perhaps you've heard the term Loop Engineering: instead of solving a problem by hand, you build a...",
+      "source": "dev",
+      "tag": "ai,  agents",
+      "url": "https://dev.to/googleai/4-pitfalls-of-loop-engineering-and-how-to-fix-them-1ji2"
+    },
+    {
+      "title": "Four Debian 13 Boxes, One Brief: 1,923 Packages on Metal, 328 in the Cloud",
+      "hot": "❤️ 6 💬 0",
+      "desc": "The same Debian 13 on a laptop and on AWS, GCE and Azure. The cloud images ship 328-350 packages against 1,923 on metal,",
+      "source": "dev",
+      "tag": "debian,  linux",
+      "url": "https://dev.to/gde/four-debian-13-boxes-one-brief-1923-packages-on-metal-328-in-the-cloud-and-the-backup-gpt-cc2"
+    },
+    {
+      "title": "The Modern Pitch for BlocSignal: Why Engineering Leads Are Moving to Reactive Primitives",
+      "hot": "❤️ 7 💬 0",
+      "desc": "A comprehensive guide for tech leads, staff architects, and engineering managers evaluating BlocSignal: cutting through ",
+      "source": "dev",
+      "tag": "flutter,  dart",
+      "url": "https://dev.to/gde/the-modern-pitch-for-blocsignal-why-engineering-leads-are-moving-to-reactive-primitives-5d5h"
+    },
+    {
       "title": "Welcome Thread - v 392",
-      "hot": "❤️ 12 💬 34",
+      "hot": "❤️ 13 💬 42",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
       "url": "https://dev.to/sloan/welcome-thread-v-392-1kj4"
-    },
-    {
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 56 💬 25",
-      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
-      "source": "dev",
-      "tag": "top7,  discuss",
-      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-40ma"
     },
     {
       "title": "Interactive AI Eval Dashboards with Data Studio",
@@ -26,11 +42,19 @@
     },
     {
       "title": "20 Agentic AI Terms Every Developer Should Know (Explained Simply)",
-      "hot": "❤️ 216 💬 114",
+      "hot": "❤️ 217 💬 115",
       "desc": "Do you ever feel like the AI world has moved forward a little too quickly?&nbsp;You hear about...",
       "source": "dev",
       "tag": "ai,  agents",
       "url": "https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii"
+    },
+    {
+      "title": "The Cable Buys Headroom: 91% of a USB 2.0 Bus, 3.6% of a Thunderbolt One",
+      "hot": "❤️ 8 💬 0",
+      "desc": "The best USB 2.0 pass in 45 tethering records used 91% of what that bus can usably carry. The same link on a SuperSpeed ",
+      "source": "dev",
+      "tag": "linux,  networking",
+      "url": "https://dev.to/gde/the-cable-buys-headroom-91-of-a-usb-20-bus-36-of-a-thunderbolt-one-563n"
     },
     {
       "title": "Stop rebuilding from scratch: cache Docker layers on Cloud Build",
@@ -47,6 +71,14 @@
       "source": "dev",
       "tag": "weekendchallenge,  devchallenge",
       "url": "https://dev.to/dannwaneri/my-grandmother-ran-ajo-i-built-the-version-where-the-pot-cant-walk-away-5gkn"
+    },
+    {
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "hot": "❤️ 56 💬 25",
+      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+      "source": "dev",
+      "tag": "top7,  discuss",
+      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-40ma"
     },
     {
       "title": "Bidirectional Writeback for Apache Iceberg via Google Sheets: Serverless Lakehouse Console",
@@ -127,39 +159,7 @@
       "source": "dev",
       "tag": "flutter,  dart",
       "url": "https://dev.to/gde/the-unbreakable-shopping-cart-pairing-blocsignal-with-fast-immutable-collections-fic-for-1pn2"
-    },
-    {
-      "title": "Claude Fable 5.1 is now available on Agent Platform!",
-      "hot": "❤️ 9 💬 0",
-      "desc": "Claude Fable 5.1 is officially available in the Model Garden on Agent Platform.  Built for...",
-      "source": "dev",
-      "tag": "claude,  googlecloud",
-      "url": "https://dev.to/googleai/claude-fable-51-is-now-available-on-agent-platform-1b16"
-    },
-    {
-      "title": "Elevating Antigravity agent skills, Part 2: Image generation",
-      "hot": "❤️ 16 💬 0",
-      "desc": "By coupling native image generation directly with structured prompt synthesis, you turn your AI agent...",
-      "source": "dev",
-      "tag": "ai,  agentskills",
-      "url": "https://dev.to/googleai/elevating-antigravity-agent-skills-part-2-image-generation-2jno"
-    },
-    {
-      "title": "Grand Central Station: Why BLoC, Riverpod, and BlocSignal Are Now True Peers",
-      "hot": "❤️ 9 💬 0",
-      "desc": "Discover why Flutter state management is no longer an all-or-nothing choice. Explore how BlocSignal, Classic BLoC, and R",
-      "source": "dev",
-      "tag": "flutter,  dart",
-      "url": "https://dev.to/gde/grand-central-station-why-bloc-riverpod-and-blocsignal-are-now-true-peers-3fd8"
-    },
-    {
-      "title": "I Built My First AWS Agent Workflow, and the Hardest Part Was Getting It to Stop Assuming Things",
-      "hot": "❤️ 99 💬 42",
-      "desc": "TL;DR  I recently finished a project from Udacity's Future AWS Agent Engineer Nanodegree Program,...",
-      "source": "dev",
-      "tag": "discuss,  aws",
-      "url": "https://dev.to/hemapriya_kanagala/i-built-my-first-aws-agent-workflow-and-the-hardest-part-was-getting-it-to-stop-assuming-things-8fg"
     }
   ],
-  "updatedAt": "2026-09-09T22:04:44.737Z"
+  "updatedAt": "2026-09-10T00:20:11.146Z"
 }
