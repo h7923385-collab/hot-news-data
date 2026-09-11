@@ -1,20 +1,12 @@
 {
   "data": [
     {
-      "title": "Four Debian 13 Boxes, One Brief: 1,923 Packages on Metal, 328 in the Cloud",
-      "hot": "❤️ 8 💬 2",
-      "desc": "The same Debian 13 on a laptop and on AWS, GCE and Azure. The cloud images ship 328-350 packages against 1,923 on metal,",
+      "title": "What was your win this week??",
+      "hot": "❤️ 14 💬 4",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
-      "tag": "debian,  linux",
-      "url": "https://dev.to/gde/four-debian-13-boxes-one-brief-1923-packages-on-metal-328-in-the-cloud-and-the-backup-gpt-cc2"
-    },
-    {
-      "title": "Gemma 4 on an 2021 4 GB Laptop GPU: QAT Takes It From 9.5 GiB to 1.6",
-      "hot": "❤️ 9 💬 3",
-      "desc": "Step-by-step: running Google's quantization-aware-trained Gemma 4 E2B on a 10th-gen Core i7 laptop with a 4 GB GTX 1650 ",
-      "source": "dev",
-      "tag": "gemma,  llamacpp",
-      "url": "https://dev.to/gde/gemma-4-on-an-old-4-gb-laptop-gpu-qat-takes-it-from-95-gib-to-16-b5l"
+      "tag": "weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-5amk"
     },
     {
       "title": "is Graph Engineering just reinventing systems architecture for the AI age?",
@@ -41,6 +33,14 @@
       "url": "https://dev.to/googleai/4-pitfalls-of-loop-engineering-and-how-to-fix-them-1ji2"
     },
     {
+      "title": "DEV Weekend Challenge: Dog Days Edition Winner Announcement Delayed",
+      "hot": "❤️ 6 💬 6",
+      "desc": "Hey all, we have a quick update for everyone who participated in the DEV Weekend Challenge: Dog Days...",
+      "source": "dev",
+      "tag": "devchallenge,  weekendchallenge",
+      "url": "https://dev.to/devteam/dev-weekend-challenge-dog-days-edition-winner-announcement-delayed-36f0"
+    },
+    {
       "title": "Congrats to the Frontend Challenge: Comfort Food Edition Winners!",
       "hot": "❤️ 52 💬 25",
       "desc": "We are so excited to announce the winners of our Frontend Challenge: Comfort Food Edition!  This...",
@@ -49,12 +49,12 @@
       "url": "https://dev.to/devteam/congrats-to-the-frontend-challenge-comfort-food-edition-winners-1l8"
     },
     {
-      "title": "DEV Weekend Challenge: Dog Days Edition Winner Announcement Delayed",
-      "hot": "❤️ 5 💬 6",
-      "desc": "Hey all, we have a quick update for everyone who participated in the DEV Weekend Challenge: Dog Days...",
+      "title": "Gemma 4 on an 2021 4 GB Laptop GPU: QAT Takes It From 9.5 GiB to 1.6",
+      "hot": "❤️ 10 💬 3",
+      "desc": "Step-by-step: running Google's quantization-aware-trained Gemma 4 E2B on a 10th-gen Core i7 laptop with a 4 GB GTX 1650 ",
       "source": "dev",
-      "tag": "devchallenge,  weekendchallenge",
-      "url": "https://dev.to/devteam/dev-weekend-challenge-dog-days-edition-winner-announcement-delayed-36f0"
+      "tag": "gemma,  llamacpp",
+      "url": "https://dev.to/gde/gemma-4-on-an-old-4-gb-laptop-gpu-qat-takes-it-from-95-gib-to-16-b5l"
     },
     {
       "title": "Interactive AI Eval Dashboards with Data Studio",
@@ -73,20 +73,12 @@
       "url": "https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii"
     },
     {
-      "title": "Welcome Thread - v 392",
-      "hot": "❤️ 28 💬 160",
-      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
+      "title": "Four Debian 13 Boxes, One Brief: 1,923 Packages on Metal, 328 in the Cloud",
+      "hot": "❤️ 9 💬 2",
+      "desc": "The same Debian 13 on a laptop and on AWS, GCE and Azure. The cloud images ship 328-350 packages against 1,923 on metal,",
       "source": "dev",
-      "tag": "welcome",
-      "url": "https://dev.to/sloan/welcome-thread-v-392-1kj4"
-    },
-    {
-      "title": "The Cable Buys Headroom: 91% of a USB 2.0 Bus, 3.6% of a Thunderbolt One",
-      "hot": "❤️ 11 💬 1",
-      "desc": "The best USB 2.0 pass in 45 tethering records used 91% of what that bus can usably carry. The same link on a SuperSpeed ",
-      "source": "dev",
-      "tag": "linux,  networking",
-      "url": "https://dev.to/gde/the-cable-buys-headroom-91-of-a-usb-20-bus-36-of-a-thunderbolt-one-563n"
+      "tag": "debian,  linux",
+      "url": "https://dev.to/gde/four-debian-13-boxes-one-brief-1923-packages-on-metal-328-in-the-cloud-and-the-backup-gpt-cc2"
     },
     {
       "title": "Bidirectional Writeback for Apache Iceberg via Google Sheets: Serverless Lakehouse Console",
@@ -129,6 +121,14 @@
       "url": "https://dev.to/gde/cross-cloud-a2a-agent-card-field-comparison-2hod"
     },
     {
+      "title": "Welcome Thread - v 392",
+      "hot": "❤️ 34 💬 174",
+      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
+      "source": "dev",
+      "tag": "welcome",
+      "url": "https://dev.to/sloan/welcome-thread-v-392-1kj4"
+    },
+    {
       "title": "AI Engineering Is Easy. Changing How We Work Is Hard",
       "hot": "❤️ 47 💬 49",
       "desc": "AI engineering sounds fancy. New terms are everywhere: agentic development, AI-native engineering,...",
@@ -137,8 +137,16 @@
       "url": "https://dev.to/ujja/ai-engineering-is-easy-changing-how-we-work-is-hard-39j4"
     },
     {
+      "title": "The Cable Buys Headroom: 91% of a USB 2.0 Bus, 3.6% of a Thunderbolt One",
+      "hot": "❤️ 12 💬 1",
+      "desc": "The best USB 2.0 pass in 45 tethering records used 91% of what that bus can usably carry. The same link on a SuperSpeed ",
+      "source": "dev",
+      "tag": "linux,  networking",
+      "url": "https://dev.to/gde/the-cable-buys-headroom-91-of-a-usb-20-bus-36-of-a-thunderbolt-one-563n"
+    },
+    {
       "title": "Stop rebuilding from scratch: cache Docker layers on Cloud Build",
-      "hot": "❤️ 9 💬 1",
+      "hot": "❤️ 10 💬 1",
       "desc": "Cloud Build runs on ephemeral workers, so your Docker cache vanishes on every run. Here's how to persist it in Artifact ",
       "source": "dev",
       "tag": "docker,  googlecloud",
@@ -151,15 +159,7 @@
       "source": "dev",
       "tag": "ai,  python",
       "url": "https://dev.to/googleai/step-up-to-the-sheets-ai-eval-export-and-illustrating-data-bak"
-    },
-    {
-      "title": "What Do You Do While AI Codes?",
-      "hot": "❤️ 148 💬 139",
-      "desc": "AI coding agents leave you with 5-to-20-minute gaps all day. Five real ways I fill them — and the one \"quick\" habit that",
-      "source": "dev",
-      "tag": "discuss,  ai",
-      "url": "https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k"
     }
   ],
-  "updatedAt": "2026-09-11T11:51:36.371Z"
+  "updatedAt": "2026-09-11T15:17:11.671Z"
 }
