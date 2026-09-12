@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "What was your win this week??",
-      "hot": "❤️ 30 💬 31",
+      "hot": "❤️ 32 💬 35",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "weeklyretro",
@@ -33,14 +33,6 @@
       "url": "https://dev.to/gde/the-modern-pitch-for-blocsignal-why-engineering-leads-are-moving-to-reactive-primitives-5d5h"
     },
     {
-      "title": "Autoscaling Docker Containers Without Kubernetes: How Gubernator Scales CPU & GPU Workloads Automatically",
-      "hot": "❤️ 7 💬 3",
-      "desc": "Discover how Gubernator delivers declarative Horizontal Pod Autoscaling (HPA) for plain Docker Compose stacks with CPU a",
-      "source": "dev",
-      "tag": "devops,  docker",
-      "url": "https://dev.to/gde/autoscaling-docker-containers-without-kubernetes-how-gubernator-scales-cpu-gpu-workloads-1p0b"
-    },
-    {
       "title": "DEV Weekend Challenge: Dog Days Edition Winner Announcement Delayed",
       "hot": "❤️ 7 💬 6",
       "desc": "Hey all, we have a quick update for everyone who participated in the DEV Weekend Challenge: Dog Days...",
@@ -55,14 +47,6 @@
       "source": "dev",
       "tag": "gemma,  llamacpp",
       "url": "https://dev.to/gde/gemma-4-on-an-old-4-gb-laptop-gpu-qat-takes-it-from-95-gib-to-16-b5l"
-    },
-    {
-      "title": "2B Gemma 4 Deployment with Cloud Run, NVIDIA L4, MCP SDK 2.x, and Claude Code",
-      "hot": "❤️ 7 💬 1",
-      "desc": "Step by step deployment of Gemma 4 E2B to a Cloud Run NVIDIA L4 GPU with vLLM, managed by a Python MCP server migrated t",
-      "source": "dev",
-      "tag": "mcp,  gemma",
-      "url": "https://dev.to/gde/2b-gemma-4-deployment-with-cloud-run-nvidia-l4-mcp-sdk-2x-and-claude-code-4ml3"
     },
     {
       "title": "Interactive AI Eval Dashboards with Data Studio",
@@ -97,6 +81,14 @@
       "url": "https://dev.to/googleai/4-pitfalls-of-loop-engineering-and-how-to-fix-them-1ji2"
     },
     {
+      "title": "Autoscaling Docker Containers Without Kubernetes: How Gubernator Scales CPU & GPU Workloads Automatically",
+      "hot": "❤️ 7 💬 3",
+      "desc": "Discover how Gubernator delivers declarative Horizontal Pod Autoscaling (HPA) for plain Docker Compose stacks with CPU a",
+      "source": "dev",
+      "tag": "devops,  docker",
+      "url": "https://dev.to/gde/autoscaling-docker-containers-without-kubernetes-how-gubernator-scales-cpu-gpu-workloads-1p0b"
+    },
+    {
       "title": "Congrats to the Frontend Challenge: Comfort Food Edition Winners!",
       "hot": "❤️ 52 💬 30",
       "desc": "We are so excited to announce the winners of our Frontend Challenge: Comfort Food Edition!  This...",
@@ -111,6 +103,14 @@
       "source": "dev",
       "tag": "ai,  agents",
       "url": "https://dev.to/googleai/is-graph-engineering-just-reinventing-systems-architecture-for-the-ai-age-2427"
+    },
+    {
+      "title": "2B Gemma 4 Deployment with Cloud Run, NVIDIA L4, MCP SDK 2.x, and Claude Code",
+      "hot": "❤️ 8 💬 1",
+      "desc": "Step by step deployment of Gemma 4 E2B to a Cloud Run NVIDIA L4 GPU with vLLM, managed by a Python MCP server migrated t",
+      "source": "dev",
+      "tag": "mcp,  gemma",
+      "url": "https://dev.to/gde/2b-gemma-4-deployment-with-cloud-run-nvidia-l4-mcp-sdk-2x-and-claude-code-4ml3"
     },
     {
       "title": "Taking Advantage of Cloud Run Sandboxes with Google Apps Script for Google Workspace",
@@ -146,7 +146,7 @@
     },
     {
       "title": "Welcome Thread - v 392",
-      "hot": "❤️ 43 💬 212",
+      "hot": "❤️ 44 💬 218",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
@@ -161,5 +161,5 @@
       "url": "https://dev.to/googlecloud/two-step-control-plane-upgrades-in-gke-how-minor-version-rollbacks-work-under-the-hood-i1l"
     }
   ],
-  "updatedAt": "2026-09-12T09:46:04.714Z"
+  "updatedAt": "2026-09-12T13:11:02.198Z"
 }
