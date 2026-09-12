@@ -10,7 +10,7 @@
     },
     {
       "title": "FastMCP Is Now MCPServer: Migrating a Python MCP Server to the MCP SDK 2.x",
-      "hot": "❤️ 8 💬 1",
+      "hot": "❤️ 9 💬 1",
       "desc": "Step-by-step: moving a FastMCP server to the MCP Python SDK 2.x — what broke, what changed, what did not, and a redeploy",
       "source": "dev",
       "tag": "mcp,  python",
@@ -18,19 +18,11 @@
     },
     {
       "title": "The Symmetry of State: Why Flutter Deserves context.value and context.state",
-      "hot": "❤️ 7 💬 1",
+      "hot": "❤️ 8 💬 1",
       "desc": "Eliminating the widget builder tax, closure fatigue, and the context.watch trap in Flutter: how 1:1 symmetry between con",
       "source": "dev",
       "tag": "flutter,  dart",
       "url": "https://dev.to/gde/the-symmetry-of-state-why-flutter-deserves-contextvalue-and-contextstate-4250"
-    },
-    {
-      "title": "Autoscaling Docker Containers Without Kubernetes: How Gubernator Scales CPU & GPU Workloads Automatically",
-      "hot": "❤️ 6 💬 2",
-      "desc": "Discover how Gubernator delivers declarative Horizontal Pod Autoscaling (HPA) for plain Docker Compose stacks with CPU a",
-      "source": "dev",
-      "tag": "devops,  docker",
-      "url": "https://dev.to/gde/autoscaling-docker-containers-without-kubernetes-how-gubernator-scales-cpu-gpu-workloads-1p0b"
     },
     {
       "title": "The Modern Pitch for BlocSignal: Why Engineering Leads Are Moving to Reactive Primitives",
@@ -39,6 +31,14 @@
       "source": "dev",
       "tag": "flutter,  dart",
       "url": "https://dev.to/gde/the-modern-pitch-for-blocsignal-why-engineering-leads-are-moving-to-reactive-primitives-5d5h"
+    },
+    {
+      "title": "Autoscaling Docker Containers Without Kubernetes: How Gubernator Scales CPU & GPU Workloads Automatically",
+      "hot": "❤️ 7 💬 2",
+      "desc": "Discover how Gubernator delivers declarative Horizontal Pod Autoscaling (HPA) for plain Docker Compose stacks with CPU a",
+      "source": "dev",
+      "tag": "devops,  docker",
+      "url": "https://dev.to/gde/autoscaling-docker-containers-without-kubernetes-how-gubernator-scales-cpu-gpu-workloads-1p0b"
     },
     {
       "title": "DEV Weekend Challenge: Dog Days Edition Winner Announcement Delayed",
@@ -55,14 +55,6 @@
       "source": "dev",
       "tag": "gemma,  llamacpp",
       "url": "https://dev.to/gde/gemma-4-on-an-old-4-gb-laptop-gpu-qat-takes-it-from-95-gib-to-16-b5l"
-    },
-    {
-      "title": "is Graph Engineering just reinventing systems architecture for the AI age?",
-      "hot": "❤️ 8 💬 4",
-      "desc": "Bringing backend predictability to multi-agent systems  I've been hearing the phrase \"graph...",
-      "source": "dev",
-      "tag": "ai,  agents",
-      "url": "https://dev.to/googleai/is-graph-engineering-just-reinventing-systems-architecture-for-the-ai-age-2427"
     },
     {
       "title": "2B Gemma 4 Deployment with Cloud Run, NVIDIA L4, MCP SDK 2.x, and Claude Code",
@@ -113,6 +105,14 @@
       "url": "https://dev.to/devteam/congrats-to-the-frontend-challenge-comfort-food-edition-winners-1l8"
     },
     {
+      "title": "is Graph Engineering just reinventing systems architecture for the AI age?",
+      "hot": "❤️ 9 💬 4",
+      "desc": "Bringing backend predictability to multi-agent systems  I've been hearing the phrase \"graph...",
+      "source": "dev",
+      "tag": "ai,  agents",
+      "url": "https://dev.to/googleai/is-graph-engineering-just-reinventing-systems-architecture-for-the-ai-age-2427"
+    },
+    {
       "title": "Taking Advantage of Cloud Run Sandboxes with Google Apps Script for Google Workspace",
       "hot": "❤️ 6 💬 1",
       "desc": "Deterministic Sub-Second Python and Bash Execution, Zero-Trust gVisor Isolation, and Zero...",
@@ -161,5 +161,5 @@
       "url": "https://dev.to/gde/cross-cloud-a2a-agent-card-field-comparison-2hod"
     }
   ],
-  "updatedAt": "2026-09-11T23:22:42.239Z"
+  "updatedAt": "2026-09-12T01:15:55.225Z"
 }
