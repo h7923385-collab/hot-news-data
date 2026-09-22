@@ -1,55 +1,7 @@
 {
-  "updatedAt": "2026-09-22T05:32:06.336Z",
+  "updatedAt": "2026-09-22T10:23:45.135Z",
   "source": "live",
   "dev": [
-    {
-      "title": "Architecting a Resilient DevSecOps Pipeline for Enterprise AI Agents",
-      "hot": "❤️ 18 💬 6",
-      "desc": "A four-stage DevSecOps CI/CD architecture for securing enterprise AI agents with GitHub Actions, secret scanning, AI-ass",
-      "source": "dev",
-      "tag": "ai,  devsecops",
-      "url": "https://dev.to/gde/architecting-a-resilient-devsecops-pipeline-for-enterprise-ai-agents-on4"
-    },
-    {
-      "title": "Congrats to the DEV Weekend Challenge: Dog Days Edition Winners!",
-      "hot": "❤️ 70 💬 29",
-      "desc": "The results are in for our DEV Weekend Challenge: Dog Days Edition! Thank you for your patience while...",
-      "source": "dev",
-      "tag": "devchallenge,  weekendchallenge",
-      "url": "https://dev.to/devteam/congrats-to-the-dev-weekend-challenge-dog-days-edition-winners-300g"
-    },
-    {
-      "title": "Dart Enhanced Enums Are Secretly Factories: Unlocking Constructor Tearoffs",
-      "hot": "❤️ 6 💬 2",
-      "desc": "How combining Dart's Enhanced Enums with constructor tearoffs turns simple enum values into self-instantiating, type-saf",
-      "source": "dev",
-      "tag": "dart,  flutter",
-      "url": "https://dev.to/gde/dart-enhanced-enums-are-secretly-factories-unlocking-constructor-tearoffs-54n9"
-    },
-    {
-      "title": "Stop Paying the build_runner Tax: Why I Refuse to Use Mockito in Modern Dart",
-      "hot": "❤️ 7 💬 0",
-      "desc": "Why code-generated mocks ruin developer velocity in modern Dart and Flutter, and how switching to mocktail restores true",
-      "source": "dev",
-      "tag": "dart,  flutter",
-      "url": "https://dev.to/gde/stop-paying-the-buildrunner-tax-why-i-refuse-to-use-mockito-in-modern-dart-4cif"
-    },
-    {
-      "title": "Share State Across Dart Isolates Without Losing Your Mind: Enter shared_map",
-      "hot": "❤️ 7 💬 0",
-      "desc": "How to bypass tedious SendPort/ReceivePort plumbing and share synchronized in-memory state across Dart Isolates using th",
-      "source": "dev",
-      "tag": "dart,  flutter",
-      "url": "https://dev.to/gde/share-state-across-dart-isolates-without-losing-your-mind-enter-sharedmap-221b"
-    },
-    {
-      "title": "A 16-second clock drift falsely tripped my trading bot's kill switch. A postmortem.",
-      "hot": "❤️ 4 💬 0",
-      "desc": "My PC clock ran 16 seconds ahead of the exchange. Signature validation failed, a \"helpful\" fallback computed equity from",
-      "source": "dev",
-      "tag": "python,  debugging",
-      "url": "https://dev.to/wataru_suda_d295dab9cca4f/a-16-second-clock-drift-falsely-tripped-my-trading-bots-kill-switch-a-postmortem-4k2f"
-    },
     {
       "title": "One Iceberg MCP Server, Seven Catalogs: What It Takes to Reach Each One",
       "hot": "❤️ 9 💬 0",
@@ -59,12 +11,44 @@
       "url": "https://dev.to/gde/one-iceberg-mcp-server-seven-catalogs-what-it-takes-to-reach-each-one-2605"
     },
     {
+      "title": "Architecting a Resilient DevSecOps Pipeline for Enterprise AI Agents",
+      "hot": "❤️ 19 💬 6",
+      "desc": "A four-stage DevSecOps CI/CD architecture for securing enterprise AI agents with GitHub Actions, secret scanning, AI-ass",
+      "source": "dev",
+      "tag": "ai,  devsecops",
+      "url": "https://dev.to/gde/architecting-a-resilient-devsecops-pipeline-for-enterprise-ai-agents-on4"
+    },
+    {
       "title": "What was your win this week?!",
-      "hot": "❤️ 65 💬 42",
+      "hot": "❤️ 66 💬 42",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "weeklyretro",
       "url": "https://dev.to/devteam/what-was-your-win-this-week-2hcb"
+    },
+    {
+      "title": "Dart Enhanced Enums Are Secretly Factories: Unlocking Constructor Tearoffs",
+      "hot": "❤️ 8 💬 2",
+      "desc": "How combining Dart's Enhanced Enums with constructor tearoffs turns simple enum values into self-instantiating, type-saf",
+      "source": "dev",
+      "tag": "dart,  flutter",
+      "url": "https://dev.to/gde/dart-enhanced-enums-are-secretly-factories-unlocking-constructor-tearoffs-54n9"
+    },
+    {
+      "title": "Stop Paying the build_runner Tax: Why I Refuse to Use Mockito in Modern Dart",
+      "hot": "❤️ 9 💬 0",
+      "desc": "Why code-generated mocks ruin developer velocity in modern Dart and Flutter, and how switching to mocktail restores true",
+      "source": "dev",
+      "tag": "dart,  flutter",
+      "url": "https://dev.to/gde/stop-paying-the-buildrunner-tax-why-i-refuse-to-use-mockito-in-modern-dart-4cif"
+    },
+    {
+      "title": "Share State Across Dart Isolates Without Losing Your Mind: Enter shared_map",
+      "hot": "❤️ 8 💬 0",
+      "desc": "How to bypass tedious SendPort/ReceivePort plumbing and share synchronized in-memory state across Dart Isolates using th",
+      "source": "dev",
+      "tag": "dart,  flutter",
+      "url": "https://dev.to/gde/share-state-across-dart-isolates-without-losing-your-mind-enter-sharedmap-221b"
     },
     {
       "title": "The Symmetry of State: Why Flutter Deserves context.value and context.state",
@@ -75,12 +59,28 @@
       "url": "https://dev.to/gde/the-symmetry-of-state-why-flutter-deserves-contextvalue-and-contextstate-4250"
     },
     {
+      "title": "A 16-second clock drift falsely tripped my trading bot's kill switch. A postmortem.",
+      "hot": "❤️ 4 💬 1",
+      "desc": "My PC clock ran 16 seconds ahead of the exchange. Signature validation failed, a \"helpful\" fallback computed equity from",
+      "source": "dev",
+      "tag": "python,  debugging",
+      "url": "https://dev.to/wataru_suda_d295dab9cca4f/a-16-second-clock-drift-falsely-tripped-my-trading-bots-kill-switch-a-postmortem-4k2f"
+    },
+    {
       "title": "Build in the VM, Think on the Mac GPU: Debian 13 on Apple container With a Local Gemma 4",
       "hot": "❤️ 9 💬 1",
       "desc": "Apple's container CLI 1.4.1 cannot boot the official debian:13 image as a machine, because it has no /sbin/init. A small",
       "source": "dev",
       "tag": "debian,  macos",
       "url": "https://dev.to/gde/build-in-the-vm-think-on-the-mac-gpu-debian-13-on-apple-container-with-a-local-gemma-4-2d8b"
+    },
+    {
+      "title": "Congrats to the DEV Weekend Challenge: Dog Days Edition Winners!",
+      "hot": "❤️ 72 💬 29",
+      "desc": "The results are in for our DEV Weekend Challenge: Dog Days Edition! Thank you for your patience while...",
+      "source": "dev",
+      "tag": "devchallenge,  weekendchallenge",
+      "url": "https://dev.to/devteam/congrats-to-the-dev-weekend-challenge-dog-days-edition-winners-300g"
     },
     {
       "title": "Gemma 4 on an 2021 4 GB Laptop GPU: QAT Takes It From 9.5 GiB to 1.6",
@@ -123,16 +123,8 @@
       "url": "https://dev.to/gde/nano-banana-2-lite-revisited-mcp-20-the-new-interactions-api-and-three-agent-clis-37g5"
     },
     {
-      "title": "Harness engineering doesn't mean building your own harness",
-      "hot": "❤️ 8 💬 4",
-      "desc": "It means giving the agent enough context to do the right thing  For this week's Agent Factory...",
-      "source": "dev",
-      "tag": "agents,  ai",
-      "url": "https://dev.to/annthurium/harness-engineering-doesnt-mean-building-your-own-harness-16pk"
-    },
-    {
       "title": "20 Agentic AI Terms Every Developer Should Know (Explained Simply)",
-      "hot": "❤️ 224 💬 115",
+      "hot": "❤️ 225 💬 115",
       "desc": "Do you ever feel like the AI world has moved forward a little too quickly?&nbsp;You hear about...",
       "source": "dev",
       "tag": "ai,  agents",
@@ -161,15 +153,39 @@
       "source": "dev",
       "tag": "amd,  mcp",
       "url": "https://dev.to/gde/an-mi300x-over-mcp-what-the-matrix-cores-execute-and-what-they-dont-1me9"
+    },
+    {
+      "title": "Dev Opportunity Radar #17: $138K Amazon Hackathon, Stanford's Code in Place X, and Dev3Pack Hackathon",
+      "hot": "❤️ 73 💬 14",
+      "desc": "TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...",
+      "source": "dev",
+      "tag": "discuss,  community",
+      "url": "https://dev.to/devengers/dev-opportunity-radar-17-138k-amazon-hackathon-stanfords-code-in-place-x-and-dev3pack-4imm"
     }
   ],
   "tech": [
+    {
+      "title": "Can gzip be a language model?",
+      "hot": "3.0m",
+      "desc": "nathan.rs",
+      "source": "tech",
+      "tag": "⬆️ 151 points",
+      "url": "https://nathan.rs/posts/gzip-lm/"
+    },
+    {
+      "title": "AMD's random number generator can't generate a 0?",
+      "hot": "3.0m",
+      "desc": "board.flatassembler.net",
+      "source": "tech",
+      "tag": "⬆️ 36 points",
+      "url": "https://board.flatassembler.net/topic.php?t=24261"
+    },
     {
       "title": "MiMo v2.6",
       "hot": "3.0m",
       "desc": "mimo.xiaomi.com",
       "source": "tech",
-      "tag": "⬆️ 709 points",
+      "tag": "⬆️ 912 points",
       "url": "https://mimo.xiaomi.com/mimo-v2-6"
     },
     {
@@ -177,158 +193,142 @@
       "hot": "3.0m",
       "desc": "brand.io",
       "source": "tech",
-      "tag": "⬆️ 260 points",
+      "tag": "⬆️ 452 points",
       "url": "https://brand.io/article/spymarks/"
     },
     {
-      "title": "Transformers Explained Visually",
-      "hot": "3.0m",
-      "desc": "poloclub.github.io",
+      "title": "Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences",
+      "hot": "2.9m",
+      "desc": "norwegianscitechnews.com",
       "source": "tech",
-      "tag": "⬆️ 289 points",
-      "url": "https://poloclub.github.io/transformer-explainer/"
+      "tag": "⬆️ 38 points",
+      "url": "https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/"
     },
     {
-      "title": "What Sun got wrong",
-      "hot": "3.0m",
-      "desc": "bcantrill.dtrace.org",
+      "title": "I said no and Apple said yes",
+      "hot": "2.9m",
+      "desc": "dbushell.com",
       "source": "tech",
-      "tag": "⬆️ 548 points",
-      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/"
+      "tag": "⬆️ 158 points",
+      "url": "https://dbushell.com/2026/09/22/apple-intelligence/"
+    },
+    {
+      "title": "Transformers Explained Visually",
+      "hot": "2.9m",
+      "desc": "poloclub.github.io",
+      "source": "tech",
+      "tag": "⬆️ 420 points",
+      "url": "https://poloclub.github.io/transformer-explainer/"
     },
     {
       "title": "Attention is all you have",
       "hot": "2.9m",
       "desc": "alicegg.tech",
       "source": "tech",
-      "tag": "⬆️ 669 points",
+      "tag": "⬆️ 818 points",
       "url": "https://alicegg.tech/2026/09/21/attention"
+    },
+    {
+      "title": "What Sun got wrong",
+      "hot": "2.9m",
+      "desc": "bcantrill.dtrace.org",
+      "source": "tech",
+      "tag": "⬆️ 594 points",
+      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/"
+    },
+    {
+      "title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
+      "hot": "2.9m",
+      "desc": "artificialanalysis.ai",
+      "source": "tech",
+      "tag": "⬆️ 71 points",
+      "url": "https://artificialanalysis.ai/models/mimo-v2-6-pro"
     },
     {
       "title": "I don't want to read what you didn't write",
       "hot": "2.9m",
       "desc": "blog.colinbreck.com",
       "source": "tech",
-      "tag": "⬆️ 484 points",
+      "tag": "⬆️ 697 points",
       "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/"
     },
     {
-      "title": "NASA’s Mars Sample Return mission is dead",
-      "hot": "2.9m",
-      "desc": "science.org",
-      "source": "tech",
-      "tag": "⬆️ 354 points",
-      "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead"
-    },
-    {
       "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "linear.app",
       "source": "tech",
-      "tag": "⬆️ 183 points",
+      "tag": "⬆️ 246 points",
       "url": "https://linear.app/now/ci-bottleneck-reworked"
     },
     {
       "title": "Looking forward to Git 2.56 – and 3.0",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "lwn.net",
       "source": "tech",
-      "tag": "⬆️ 68 points",
+      "tag": "⬆️ 131 points",
       "url": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/"
     },
     {
-      "title": "Claude Status – Elevated errors for multiple models",
-      "hot": "2.9m",
-      "desc": "status.claude.com",
-      "source": "tech",
-      "tag": "⬆️ 88 points",
-      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh"
-    },
-    {
       "title": "Divide by depth for instant 3D",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "gabrieloc.com",
       "source": "tech",
-      "tag": "⬆️ 110 points",
+      "tag": "⬆️ 157 points",
       "url": "https://gabrieloc.com/2026/09/15/perspective.html"
     },
     {
-      "title": "Where Rust actually is in Windows 11",
+      "title": "NASA’s Mars Sample Return mission is dead",
       "hot": "2.8m",
-      "desc": "hunterworks.software",
+      "desc": "science.org",
       "source": "tech",
-      "tag": "⬆️ 6 points",
-      "url": "https://hunterworks.software/teardowns/rust-in-windows-11"
+      "tag": "⬆️ 389 points",
+      "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead"
     },
     {
-      "title": "Socrates vs. the Written Word (2011)",
+      "title": "Claude Status – Elevated errors for multiple models",
       "hot": "2.8m",
-      "desc": "wondermark.com",
+      "desc": "status.claude.com",
       "source": "tech",
-      "tag": "⬆️ 28 points",
-      "url": "https://wondermark.com/socrates-vs-writing/"
+      "tag": "⬆️ 115 points",
+      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh"
     },
     {
-      "title": "The Advisory Group on Mathematics and Artificial Intelligence",
+      "title": "Engineering Memory: On learning to memorize first 100 digits of pi (2024)",
       "hot": "2.8m",
-      "desc": "terrytao.wordpress.com",
-      "source": "tech",
-      "tag": "⬆️ 114 points",
-      "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/"
-    },
-    {
-      "title": "PDF Forgeries Are Surprisingly Rare (2022)",
-      "hot": "2.8m",
-      "desc": "gwern.net",
-      "source": "tech",
-      "tag": "⬆️ 19 points",
-      "url": "https://gwern.net/blog/2022/pdf-forgery"
-    },
-    {
-      "title": "Truman World",
-      "hot": "2.8m",
-      "desc": "trumanworld.live",
+      "desc": "gregorygundersen.com",
       "source": "tech",
       "tag": "⬆️ 17 points",
-      "url": "https://trumanworld.live"
+      "url": "https://gregorygundersen.com/blog/2024/12/21/engineering-memory/"
     },
     {
-      "title": "First Shader from Zero in Godot 4",
-      "hot": "2.8m",
-      "desc": "gdquest.com",
-      "source": "tech",
-      "tag": "⬆️ 52 points",
-      "url": "https://www.gdquest.com/library/first_shader_godot4_portal/"
-    },
-    {
-      "title": "Frontier AI on Your Own Hardware",
+      "title": "What It's Like to Work in One of America's Data Centers",
       "hot": "2.7m",
-      "desc": "timdettmers.com",
+      "desc": "wsj.com",
       "source": "tech",
-      "tag": "⬆️ 131 points",
-      "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/"
+      "tag": "⬆️ 12 points",
+      "url": "https://www.wsj.com/business/what-its-like-to-work-in-one-of-americas-data-centers-b4358003"
     },
     {
-      "title": "How do traffic signals work? (2019)",
+      "title": "A font that reads what you wrote",
       "hot": "2.7m",
-      "desc": "practical.engineering",
+      "desc": "rohanadwankar.github.io",
       "source": "tech",
-      "tag": "⬆️ 75 points",
-      "url": "https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work"
+      "tag": "⬆️ 7 points",
+      "url": "https://rohanadwankar.github.io/posts/semfont.html"
     },
     {
-      "title": "Epoll and Kqueue: How Operating Systems Learned to Wait Efficiently",
+      "title": "JavaFX 27 Native Image on a Raspberry Pi 5",
       "hot": "2.7m",
-      "desc": "thecodinggopher.substack.com",
+      "desc": "ennerf.github.io",
       "source": "tech",
-      "tag": "⬆️ 4 points",
-      "url": "https://thecodinggopher.substack.com/p/epoll-and-kqueue-how-operating-systems"
+      "tag": "⬆️ 3 points",
+      "url": "https://ennerf.github.io/2026/09/18/JavaFX-27-Native-Image-on-a-Raspberry-Pi-5.html"
     }
   ],
   "github": [
     {
       "title": "browser-use/jev-ultrafast: Fastest and cheapest web agent",
-      "hot": "⭐ 16.4k",
+      "hot": "⭐ 17.2k",
       "desc": "Fastest and cheapest web agent",
       "source": "github",
       "tag": "Python",
@@ -336,7 +336,7 @@
     },
     {
       "title": "NandhaKishorM/laya: ",
-      "hot": "⭐ 11.8k",
+      "hot": "⭐ 13.5k",
       "desc": "NandhaKishorM/laya",
       "source": "github",
       "tag": "Python",
@@ -344,7 +344,7 @@
     },
     {
       "title": "tamaratran/fast-jev-compaction: Claude Code plugin that replaces the compaction ",
-      "hot": "⭐ 6.1k",
+      "hot": "⭐ 6.2k",
       "desc": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are d",
       "source": "github",
       "tag": "TypeScript",
@@ -352,31 +352,31 @@
     },
     {
       "title": "zai-org/ZCode: Z.ai's coding agent harness. Powerful, intelligent, extensible.",
-      "hot": "⭐ 5.9k",
+      "hot": "⭐ 6.1k",
       "desc": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/zai-org/ZCode"
     },
     {
-      "title": "robbietilton/Compositor: The Photoshop alternative for Mac",
-      "hot": "⭐ 4.5k",
-      "desc": "The Photoshop alternative for Mac",
-      "source": "github",
-      "tag": "Swift",
-      "url": "https://github.com/robbietilton/Compositor"
-    },
-    {
       "title": "mizorewww/laya-mlx: Native MLX runtime for Laya typed decision models — 7–14 ms ",
-      "hot": "⭐ 4.3k",
+      "hot": "⭐ 4.7k",
       "desc": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/mizorewww/laya-mlx"
     },
     {
+      "title": "robbietilton/Compositor: The Photoshop alternative for Mac",
+      "hot": "⭐ 4.6k",
+      "desc": "The Photoshop alternative for Mac",
+      "source": "github",
+      "tag": "Swift",
+      "url": "https://github.com/robbietilton/Compositor"
+    },
+    {
       "title": "TheoLeeCJ/SemIf: Semantic ifs from open models, on a 3090 at home. Independent; ",
-      "hot": "⭐ 3.4k",
+      "hot": "⭐ 3.5k",
       "desc": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
       "source": "github",
       "tag": "Python",
@@ -384,11 +384,19 @@
     },
     {
       "title": "jaredpalmer/kev: tiny Jev-like family of decision models built on top of Qwen3.5",
-      "hot": "⭐ 2.7k",
+      "hot": "⭐ 2.9k",
       "desc": "tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/jaredpalmer/kev"
+    },
+    {
+      "title": "jev-chat/jev-chat-jarvis: 装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你",
+      "hot": "⭐ 2.7k",
+      "desc": "装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+      "source": "github",
+      "tag": "Kotlin",
+      "url": "https://github.com/jev-chat/jev-chat-jarvis"
     },
     {
       "title": "mcncarl/jianying-headless: Private source preview: native Jianying drafts, isola",
@@ -397,6 +405,14 @@
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/mcncarl/jianying-headless"
+    },
+    {
+      "title": "Mak5er/AirCard: Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)",
+      "hot": "⭐ 2.4k",
+      "desc": "Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)",
+      "source": "github",
+      "tag": "Swift",
+      "url": "https://github.com/Mak5er/AirCard"
     },
     {
       "title": "jarrodwatts/jev-trader: One AI trade decision every Monad block. Jev on Kuru MON",
@@ -415,24 +431,8 @@
       "url": "https://github.com/TianyuCodings/NanoJev"
     },
     {
-      "title": "Mak5er/AirCard: Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)",
-      "hot": "⭐ 1.8k",
-      "desc": "Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)",
-      "source": "github",
-      "tag": "Swift",
-      "url": "https://github.com/Mak5er/AirCard"
-    },
-    {
-      "title": "jev-chat/jev-chat-jarvis: 装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你",
-      "hot": "⭐ 1.7k",
-      "desc": "装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
-      "source": "github",
-      "tag": "Kotlin",
-      "url": "https://github.com/jev-chat/jev-chat-jarvis"
-    },
-    {
       "title": "bespokelabsai/nimble: Local typed decisions, contrastive data curation, and mode",
-      "hot": "⭐ 1.5k",
+      "hot": "⭐ 1.6k",
       "desc": "Local typed decisions, contrastive data curation, and model evaluation.",
       "source": "github",
       "tag": "Python",
@@ -467,7 +467,7 @@
     {
       "title": "Launch Preview: Electron, Falcon 9, and Starship set for launches",
       "hot": "9/21",
-      "desc": "A total of five orbital launches are scheduled this week. SpaceX will launch its Falcon…\nThe post Launch Preview: Electron, Falcon 9, and Starship set",
+      "desc": "A total of five orbital launches are scheduled this week. SpaceX will launch its Falcon…\r\nThe post Launch Preview: Electron, Falcon 9, and Starship se",
       "source": "space",
       "tag": "NASASpaceflight",
       "url": "https://www.nasaspaceflight.com/2026/09/launch-preview-092126/"
@@ -499,7 +499,7 @@
     {
       "title": "Exolaunch, Space Cargo book Starship Starfall missions",
       "hot": "9/21",
-      "desc": "SpaceX’s disk-shaped Starfall reentry capsule, first flown on Falcon 9 in June, now has two…\nThe post Exolaunch, Space Cargo book Starship Starfall mi",
+      "desc": "SpaceX’s disk-shaped Starfall reentry capsule, first flown on Falcon 9 in June, now has two…\r\nThe post Exolaunch, Space Cargo book Starship Starfall m",
       "source": "space",
       "tag": "NASASpaceflight",
       "url": "https://www.nasaspaceflight.com/2026/09/exolaunch-space-cargo-starship-starfall/"
