@@ -1,14 +1,6 @@
 {
   "data": [
     {
-      "title": "One Iceberg MCP Server, Seven Catalogs: What It Takes to Reach Each One",
-      "hot": "❤️ 9 💬 0",
-      "desc": "Step by step: one Python MCP server with four read-only Apache Iceberg tools, pointed at Polaris, BigLake, OneLake, Glue",
-      "source": "dev",
-      "tag": "mcp,  iceberg",
-      "url": "https://dev.to/gde/one-iceberg-mcp-server-seven-catalogs-what-it-takes-to-reach-each-one-2605"
-    },
-    {
       "title": "Architecting a Resilient DevSecOps Pipeline for Enterprise AI Agents",
       "hot": "❤️ 19 💬 6",
       "desc": "A four-stage DevSecOps CI/CD architecture for securing enterprise AI agents with GitHub Actions, secret scanning, AI-ass",
@@ -34,7 +26,7 @@
     },
     {
       "title": "Stop Paying the build_runner Tax: Why I Refuse to Use Mockito in Modern Dart",
-      "hot": "❤️ 9 💬 0",
+      "hot": "❤️ 10 💬 0",
       "desc": "Why code-generated mocks ruin developer velocity in modern Dart and Flutter, and how switching to mocktail restores true",
       "source": "dev",
       "tag": "dart,  flutter",
@@ -58,7 +50,7 @@
     },
     {
       "title": "A 16-second clock drift falsely tripped my trading bot's kill switch. A postmortem.",
-      "hot": "❤️ 4 💬 1",
+      "hot": "❤️ 5 💬 1",
       "desc": "My PC clock ran 16 seconds ahead of the exchange. Signature validation failed, a \"helpful\" fallback computed equity from",
       "source": "dev",
       "tag": "python,  debugging",
@@ -74,11 +66,19 @@
     },
     {
       "title": "Congrats to the DEV Weekend Challenge: Dog Days Edition Winners!",
-      "hot": "❤️ 72 💬 29",
+      "hot": "❤️ 74 💬 29",
       "desc": "The results are in for our DEV Weekend Challenge: Dog Days Edition! Thank you for your patience while...",
       "source": "dev",
       "tag": "devchallenge,  weekendchallenge",
       "url": "https://dev.to/devteam/congrats-to-the-dev-weekend-challenge-dog-days-edition-winners-300g"
+    },
+    {
+      "title": "One Iceberg MCP Server, Seven Catalogs: What It Takes to Reach Each One",
+      "hot": "❤️ 10 💬 0",
+      "desc": "Step by step: one Python MCP server with four read-only Apache Iceberg tools, pointed at Polaris, BigLake, OneLake, Glue",
+      "source": "dev",
+      "tag": "mcp,  iceberg",
+      "url": "https://dev.to/gde/one-iceberg-mcp-server-seven-catalogs-what-it-takes-to-reach-each-one-2605"
     },
     {
       "title": "Gemma 4 on an 2021 4 GB Laptop GPU: QAT Takes It From 9.5 GiB to 1.6",
@@ -103,14 +103,6 @@
       "source": "dev",
       "tag": "mentalhealth,  techtalks",
       "url": "https://dev.to/amandamayfield/the-beauty-and-terror-of-negative-feedback-2g4d"
-    },
-    {
-      "title": "The Only Container Orchestrator with Built-In Compliance: How Gubernator Enforces ENS, NIS 2, DORA, CIS Benchmark, and ISO 27001",
-      "hot": "❤️ 8 💬 0",
-      "desc": "Discover how Gubernator revolutionizes container orchestration by natively baking in ENS RD 311/2022, EU NIS 2, EU DORA ",
-      "source": "dev",
-      "tag": "security,  devops",
-      "url": "https://dev.to/gde/the-only-container-orchestrator-with-built-in-compliance-how-gubernator-enforces-ens-nis-2-cis-mbf"
     },
     {
       "title": "Nano Banana 2 Lite, Revisited: MCP 2.0, the New Interactions API, and Three Agent CLIs",
@@ -159,7 +151,15 @@
       "source": "dev",
       "tag": "discuss,  community",
       "url": "https://dev.to/devengers/dev-opportunity-radar-17-138k-amazon-hackathon-stanfords-code-in-place-x-and-dev3pack-4imm"
+    },
+    {
+      "title": "How AI Actually Calls an API? Tool Calling Explained from Scratch",
+      "hot": "❤️ 34 💬 12",
+      "desc": "In the previous post, we taught a model to read our documents. It could search a pile of files and...",
+      "source": "dev",
+      "tag": "ai,  mcp",
+      "url": "https://dev.to/aws/how-ai-actually-calls-an-api-tool-calling-explained-from-scratch-4lf8"
     }
   ],
-  "updatedAt": "2026-09-22T10:23:45.135Z"
+  "updatedAt": "2026-09-22T15:02:46.049Z"
 }
