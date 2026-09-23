@@ -33,14 +33,6 @@
       "url": "https://dev.to/gde/stop-paying-the-buildrunner-tax-why-i-refuse-to-use-mockito-in-modern-dart-4cif"
     },
     {
-      "title": "Share State Across Dart Isolates Without Losing Your Mind: Enter shared_map",
-      "hot": "❤️ 8 💬 0",
-      "desc": "How to bypass tedious SendPort/ReceivePort plumbing and share synchronized in-memory state across Dart Isolates using th",
-      "source": "dev",
-      "tag": "dart,  flutter",
-      "url": "https://dev.to/gde/share-state-across-dart-isolates-without-losing-your-mind-enter-sharedmap-221b"
-    },
-    {
       "title": "The Symmetry of State: Why Flutter Deserves context.value and context.state",
       "hot": "❤️ 8 💬 1",
       "desc": "Eliminating the widget builder tax, closure fatigue, and the context.watch trap in Flutter: how 1:1 symmetry between con",
@@ -73,36 +65,12 @@
       "url": "https://dev.to/devteam/congrats-to-the-dev-weekend-challenge-dog-days-edition-winners-300g"
     },
     {
-      "title": "One Iceberg MCP Server, Seven Catalogs: What It Takes to Reach Each One",
-      "hot": "❤️ 10 💬 0",
-      "desc": "Step by step: one Python MCP server with four read-only Apache Iceberg tools, pointed at Polaris, BigLake, OneLake, Glue",
-      "source": "dev",
-      "tag": "mcp,  iceberg",
-      "url": "https://dev.to/gde/one-iceberg-mcp-server-seven-catalogs-what-it-takes-to-reach-each-one-2605"
-    },
-    {
       "title": "Gemma 4 on an 2021 4 GB Laptop GPU: QAT Takes It From 9.5 GiB to 1.6",
       "hot": "❤️ 10 💬 3",
       "desc": "Step-by-step: running Google's quantization-aware-trained Gemma 4 E2B on a 10th-gen Core i7 laptop with a 4 GB GTX 1650 ",
       "source": "dev",
       "tag": "gemma,  llamacpp",
       "url": "https://dev.to/gde/gemma-4-on-an-old-4-gb-laptop-gpu-qat-takes-it-from-95-gib-to-16-b5l"
-    },
-    {
-      "title": "Valid Schema, Wrong Content: Using Jev to Guard a Google ADK Agent",
-      "hot": "❤️ 8 💬 1",
-      "desc": "Schema-valid is not content-correct · Part 1/3           It starts with a storyboard a...",
-      "source": "dev",
-      "tag": "googlecloud,  adk",
-      "url": "https://dev.to/gde/valid-schema-wrong-content-using-jev-to-guard-a-google-adk-agent-57o6"
-    },
-    {
-      "title": "The beauty and terror of negative feedback",
-      "hot": "❤️ 21 💬 9",
-      "desc": "Giving my first conference talk recently was an absolute thrill. I was excited, not overly nervous,...",
-      "source": "dev",
-      "tag": "mentalhealth,  techtalks",
-      "url": "https://dev.to/amandamayfield/the-beauty-and-terror-of-negative-feedback-2g4d"
     },
     {
       "title": "Nano Banana 2 Lite, Revisited: MCP 2.0, the New Interactions API, and Three Agent CLIs",
@@ -114,11 +82,19 @@
     },
     {
       "title": "What was your win this week?!",
-      "hot": "❤️ 67 💬 46",
+      "hot": "❤️ 67 💬 47",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "weeklyretro",
       "url": "https://dev.to/devteam/what-was-your-win-this-week-2hcb"
+    },
+    {
+      "title": "Share State Across Dart Isolates Without Losing Your Mind: Enter shared_map",
+      "hot": "❤️ 9 💬 0",
+      "desc": "How to bypass tedious SendPort/ReceivePort plumbing and share synchronized in-memory state across Dart Isolates using th",
+      "source": "dev",
+      "tag": "dart,  flutter",
+      "url": "https://dev.to/gde/share-state-across-dart-isolates-without-losing-your-mind-enter-sharedmap-221b"
     },
     {
       "title": "20 Agentic AI Terms Every Developer Should Know (Explained Simply)",
@@ -154,12 +130,36 @@
     },
     {
       "title": "How AI Actually Calls an API? Tool Calling Explained from Scratch",
-      "hot": "❤️ 35 💬 13",
+      "hot": "❤️ 36 💬 13",
       "desc": "In the previous post, we taught a model to read our documents. It could search a pile of files and...",
       "source": "dev",
       "tag": "ai,  mcp",
       "url": "https://dev.to/aws/how-ai-actually-calls-an-api-tool-calling-explained-from-scratch-4lf8"
+    },
+    {
+      "title": "Welcome Thread - v 393",
+      "hot": "❤️ 95 💬 478",
+      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
+      "source": "dev",
+      "tag": "welcome",
+      "url": "https://dev.to/sloan/welcome-thread-v-393-5f09"
+    },
+    {
+      "title": "One Iceberg MCP Server, Seven Catalogs: What It Takes to Reach Each One",
+      "hot": "❤️ 10 💬 0",
+      "desc": "Step by step: one Python MCP server with four read-only Apache Iceberg tools, pointed at Polaris, BigLake, OneLake, Glue",
+      "source": "dev",
+      "tag": "mcp,  iceberg",
+      "url": "https://dev.to/gde/one-iceberg-mcp-server-seven-catalogs-what-it-takes-to-reach-each-one-2605"
+    },
+    {
+      "title": "2B Gemma 4 Deployment with Cloud Run, NVIDIA L4, MCP SDK 2.x, and Claude Code",
+      "hot": "❤️ 8 💬 1",
+      "desc": "Step by step deployment of Gemma 4 E2B to a Cloud Run NVIDIA L4 GPU with vLLM, managed by a Python MCP server migrated t",
+      "source": "dev",
+      "tag": "mcp,  gemma",
+      "url": "https://dev.to/gde/2b-gemma-4-deployment-with-cloud-run-nvidia-l4-mcp-sdk-2x-and-claude-code-4ml3"
     }
   ],
-  "updatedAt": "2026-09-22T23:52:38.232Z"
+  "updatedAt": "2026-09-23T01:54:14.814Z"
 }
