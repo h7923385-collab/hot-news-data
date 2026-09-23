@@ -2,11 +2,27 @@
   "data": [
     {
       "title": "I Turned DEV.to Into a Walkable 3D Library — Debugging It Has Been a Nightmare",
-      "hot": "❤️ 39 💬 11",
+      "hot": "❤️ 43 💬 13",
       "desc": "DEV Library is my idea of first-person 3D reimagining of DEV.to. Not a themed scene with some...",
       "source": "dev",
       "tag": "buildinpublic,  webdev",
       "url": "https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd"
+    },
+    {
+      "title": "Disappeared Since March: Taking a Long Break Was My Best Decision Yet",
+      "hot": "❤️ 41 💬 11",
+      "desc": "If you checked my profile recently, you probably noticed my page has been completely quiet since...",
+      "source": "dev",
+      "tag": "Dev.to",
+      "url": "https://dev.to/maame-codes/disappeared-since-march-taking-a-long-break-was-my-best-decision-yet-1n45"
+    },
+    {
+      "title": "A 4 GB Laptop GPU vs a 6-Core CPU on Gemma 4, Re-Measured in ABBA Order: 4.1x",
+      "hot": "❤️ 7 💬 0",
+      "desc": "Gemma 4 E2B q4_0 served by llama.cpp on one laptop, CPU-only and on a GTX 1650 Ti, rebuilt on CUDA 13.4 and re-measured ",
+      "source": "dev",
+      "tag": "gemma,  llamacpp",
+      "url": "https://dev.to/gde/a-4-gb-laptop-gpu-vs-a-6-core-cpu-on-gemma-4-re-measured-in-abba-order-41x-5g56"
     },
     {
       "title": "The Grand Unifying Architecture of Frontend",
@@ -17,12 +33,12 @@
       "url": "https://dev.to/playfulprogramming/the-grand-unifying-architecture-of-frontend-bhk"
     },
     {
-      "title": "A 4 GB Laptop GPU vs a 6-Core CPU on Gemma 4, Re-Measured in ABBA Order: 4.1x",
-      "hot": "❤️ 7 💬 0",
-      "desc": "Gemma 4 E2B q4_0 served by llama.cpp on one laptop, CPU-only and on a GTX 1650 Ti, rebuilt on CUDA 13.4 and re-measured ",
+      "title": "Deploying LiteLLM: An Open-Source AI Gateway",
+      "hot": "❤️ 2 💬 0",
+      "desc": "LiteLLM is an open-source AI gateway that provides a unified, OpenAI-compatible API for over 100...",
       "source": "dev",
-      "tag": "gemma,  llamacpp",
-      "url": "https://dev.to/gde/a-4-gb-laptop-gpu-vs-a-6-core-cpu-on-gemma-4-re-measured-in-abba-order-41x-5g56"
+      "tag": "ai,  llm",
+      "url": "https://dev.to/vultr/deploying-litellm-an-open-source-ai-gateway-2idp"
     },
     {
       "title": "The missing layer in AI tooling: sharing what your assistant already knows",
@@ -34,19 +50,19 @@
     },
     {
       "title": "Welcome Thread - v 394",
-      "hot": "❤️ 14 💬 10",
+      "hot": "❤️ 14 💬 16",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
       "url": "https://dev.to/sloan/welcome-thread-v-394-22l2"
     },
     {
-      "title": "What Nobody Is Using in Your Google Cloud Projects, and What It Costs",
-      "hot": "❤️ 11 💬 1",
-      "desc": "A local-first CLI that scans Google Cloud projects for unused resources, prices each one from the Cloud Billing Catalog ",
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "hot": "❤️ 20 💬 12",
+      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
       "source": "dev",
-      "tag": "googlecloud,  python",
-      "url": "https://dev.to/gde/what-nobody-is-using-in-your-google-cloud-projects-and-what-it-costs-1k0"
+      "tag": "top7,  discuss",
+      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2agl"
     },
     {
       "title": "Production RAG on the Lakehouse with BigQuery Vector Search and Apache Iceberg",
@@ -55,14 +71,6 @@
       "source": "dev",
       "tag": "lakehouse,  bigquery",
       "url": "https://dev.to/gde/production-rag-on-the-lakehouse-with-bigquery-vector-search-and-apache-iceberg-5g3"
-    },
-    {
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 19 💬 7",
-      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
-      "source": "dev",
-      "tag": "top7,  discuss",
-      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2agl"
     },
     {
       "title": "Gemma 4 on a Tesla T4, Part 2: The Minimum GCE VM and a Script to Drive It",
@@ -74,11 +82,19 @@
     },
     {
       "title": "Claude Opus 5.5 is now available on Google Cloud",
-      "hot": "❤️ 14 💬 0",
+      "hot": "❤️ 15 💬 0",
       "desc": "Everyday complex tasks? No problem. Opus 5.5 handles long-running coding and knowledge work while...",
       "source": "dev",
       "tag": "claude,  googlecloud",
       "url": "https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh"
+    },
+    {
+      "title": "What Nobody Is Using in Your Google Cloud Projects, and What It Costs",
+      "hot": "❤️ 12 💬 1",
+      "desc": "A local-first CLI that scans Google Cloud projects for unused resources, prices each one from the Cloud Billing Catalog ",
+      "source": "dev",
+      "tag": "googlecloud,  python",
+      "url": "https://dev.to/gde/what-nobody-is-using-in-your-google-cloud-projects-and-what-it-costs-1k0"
     },
     {
       "title": "Congrats to the DEV Weekend Challenge: Dog Days Edition Winners!",
@@ -106,7 +122,7 @@
     },
     {
       "title": "What was your win this week?!",
-      "hot": "❤️ 71 💬 58",
+      "hot": "❤️ 76 💬 58",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "weeklyretro",
@@ -143,23 +159,7 @@
       "source": "dev",
       "tag": "ai,  agents",
       "url": "https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii"
-    },
-    {
-      "title": "A 16-second clock drift falsely tripped my trading bot's kill switch. A postmortem.",
-      "hot": "❤️ 5 💬 4",
-      "desc": "My PC clock ran 16 seconds ahead of the exchange. Signature validation failed, a \"helpful\" fallback computed equity from",
-      "source": "dev",
-      "tag": "python,  debugging",
-      "url": "https://dev.to/wataru_suda_d295dab9cca4f/a-16-second-clock-drift-falsely-tripped-my-trading-bots-kill-switch-a-postmortem-4k2f"
-    },
-    {
-      "title": "What Happens When AI Outgrows the Tests We Use to Measure It?",
-      "hot": "❤️ 126 💬 42",
-      "desc": "TL;DR  GPT-6 Astra has started another familiar AI conversation. The model is more capable, Jensen...",
-      "source": "dev",
-      "tag": "discuss,  ai",
-      "url": "https://dev.to/hemapriya_kanagala/what-happens-when-ai-outgrows-the-tests-we-use-to-measure-it-30al"
     }
   ],
-  "updatedAt": "2026-09-23T17:16:36.657Z"
+  "updatedAt": "2026-09-23T20:31:38.716Z"
 }
