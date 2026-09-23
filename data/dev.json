@@ -1,44 +1,84 @@
 {
   "data": [
     {
+      "title": "I Turned DEV.to Into a Walkable 3D Library — Debugging It Has Been a Nightmare",
+      "hot": "❤️ 39 💬 11",
+      "desc": "DEV Library is my idea of first-person 3D reimagining of DEV.to. Not a themed scene with some...",
+      "source": "dev",
+      "tag": "buildinpublic,  webdev",
+      "url": "https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd"
+    },
+    {
+      "title": "The Grand Unifying Architecture of Frontend",
+      "hot": "❤️ 16 💬 2",
+      "desc": "I used to joke that the history of frontend development could be retraced by following the argument...",
+      "source": "dev",
+      "tag": "webdev,  javascript",
+      "url": "https://dev.to/playfulprogramming/the-grand-unifying-architecture-of-frontend-bhk"
+    },
+    {
+      "title": "A 4 GB Laptop GPU vs a 6-Core CPU on Gemma 4, Re-Measured in ABBA Order: 4.1x",
+      "hot": "❤️ 7 💬 0",
+      "desc": "Gemma 4 E2B q4_0 served by llama.cpp on one laptop, CPU-only and on a GTX 1650 Ti, rebuilt on CUDA 13.4 and re-measured ",
+      "source": "dev",
+      "tag": "gemma,  llamacpp",
+      "url": "https://dev.to/gde/a-4-gb-laptop-gpu-vs-a-6-core-cpu-on-gemma-4-re-measured-in-abba-order-41x-5g56"
+    },
+    {
+      "title": "The missing layer in AI tooling: sharing what your assistant already knows",
+      "hot": "❤️ 12 💬 5",
+      "desc": "It took my AI months to learn how I think, code, and ship. When a teammate joined the project, their...",
+      "source": "dev",
+      "tag": "ai,  opensource",
+      "url": "https://dev.to/uri_shmueli_a403e7acc04a8/the-missing-layer-in-ai-tooling-sharing-what-your-assistant-already-knows-1nch"
+    },
+    {
+      "title": "Welcome Thread - v 394",
+      "hot": "❤️ 14 💬 10",
+      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
+      "source": "dev",
+      "tag": "welcome",
+      "url": "https://dev.to/sloan/welcome-thread-v-394-22l2"
+    },
+    {
+      "title": "What Nobody Is Using in Your Google Cloud Projects, and What It Costs",
+      "hot": "❤️ 11 💬 1",
+      "desc": "A local-first CLI that scans Google Cloud projects for unused resources, prices each one from the Cloud Billing Catalog ",
+      "source": "dev",
+      "tag": "googlecloud,  python",
+      "url": "https://dev.to/gde/what-nobody-is-using-in-your-google-cloud-projects-and-what-it-costs-1k0"
+    },
+    {
+      "title": "Production RAG on the Lakehouse with BigQuery Vector Search and Apache Iceberg",
+      "hot": "❤️ 7 💬 0",
+      "desc": "As teams rush to build with Generative AI, they're creating a dangerous chasm between their data and...",
+      "source": "dev",
+      "tag": "lakehouse,  bigquery",
+      "url": "https://dev.to/gde/production-rag-on-the-lakehouse-with-bigquery-vector-search-and-apache-iceberg-5g3"
+    },
+    {
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "hot": "❤️ 19 💬 7",
+      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+      "source": "dev",
+      "tag": "top7,  discuss",
+      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2agl"
+    },
+    {
+      "title": "Gemma 4 on a Tesla T4, Part 2: The Minimum GCE VM and a Script to Drive It",
+      "hot": "❤️ 12 💬 0",
+      "desc": "Building the smallest Compute Engine VM that serves Gemma 4 E2B on one Tesla T4, installing the driver and vLLM after bo",
+      "source": "dev",
+      "tag": "gemma,  vllm",
+      "url": "https://dev.to/gde/gemma-4-on-a-tesla-t4-part-2-the-minimum-gce-vm-and-a-script-to-drive-it-3gk1"
+    },
+    {
       "title": "Claude Opus 5.5 is now available on Google Cloud",
-      "hot": "❤️ 8 💬 0",
+      "hot": "❤️ 14 💬 0",
       "desc": "Everyday complex tasks? No problem. Opus 5.5 handles long-running coding and knowledge work while...",
       "source": "dev",
       "tag": "claude,  googlecloud",
       "url": "https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh"
-    },
-    {
-      "title": "Dart Enhanced Enums Are Secretly Factories: Unlocking Constructor Tearoffs",
-      "hot": "❤️ 8 💬 2",
-      "desc": "How combining Dart's Enhanced Enums with constructor tearoffs turns simple enum values into self-instantiating, type-saf",
-      "source": "dev",
-      "tag": "dart,  flutter",
-      "url": "https://dev.to/gde/dart-enhanced-enums-are-secretly-factories-unlocking-constructor-tearoffs-54n9"
-    },
-    {
-      "title": "Stop Paying the build_runner Tax: Why I Refuse to Use Mockito in Modern Dart",
-      "hot": "❤️ 10 💬 0",
-      "desc": "Why code-generated mocks ruin developer velocity in modern Dart and Flutter, and how switching to mocktail restores true",
-      "source": "dev",
-      "tag": "dart,  flutter",
-      "url": "https://dev.to/gde/stop-paying-the-buildrunner-tax-why-i-refuse-to-use-mockito-in-modern-dart-4cif"
-    },
-    {
-      "title": "The Symmetry of State: Why Flutter Deserves context.value and context.state",
-      "hot": "❤️ 8 💬 1",
-      "desc": "Eliminating the widget builder tax, closure fatigue, and the context.watch trap in Flutter: how 1:1 symmetry between con",
-      "source": "dev",
-      "tag": "flutter,  dart",
-      "url": "https://dev.to/gde/the-symmetry-of-state-why-flutter-deserves-contextvalue-and-contextstate-4250"
-    },
-    {
-      "title": "Build in the VM, Think on the Mac GPU: Debian 13 on Apple container With a Local Gemma 4",
-      "hot": "❤️ 9 💬 1",
-      "desc": "Apple's container CLI 1.4.1 cannot boot the official debian:13 image as a machine, because it has no /sbin/init. A small",
-      "source": "dev",
-      "tag": "debian,  macos",
-      "url": "https://dev.to/gde/build-in-the-vm-think-on-the-mac-gpu-debian-13-on-apple-container-with-a-local-gemma-4-2d8b"
     },
     {
       "title": "Congrats to the DEV Weekend Challenge: Dog Days Edition Winners!",
@@ -49,32 +89,48 @@
       "url": "https://dev.to/devteam/congrats-to-the-dev-weekend-challenge-dog-days-edition-winners-300g"
     },
     {
-      "title": "Gemma 4 on an 2021 4 GB Laptop GPU: QAT Takes It From 9.5 GiB to 1.6",
-      "hot": "❤️ 10 💬 3",
-      "desc": "Step-by-step: running Google's quantization-aware-trained Gemma 4 E2B on a 10th-gen Core i7 laptop with a 4 GB GTX 1650 ",
-      "source": "dev",
-      "tag": "gemma,  llamacpp",
-      "url": "https://dev.to/gde/gemma-4-on-an-old-4-gb-laptop-gpu-qat-takes-it-from-95-gib-to-16-b5l"
-    },
-    {
       "title": "Architecting a Resilient DevSecOps Pipeline for Enterprise AI Agents",
-      "hot": "❤️ 21 💬 8",
+      "hot": "❤️ 22 💬 8",
       "desc": "A four-stage DevSecOps CI/CD architecture for securing enterprise AI agents with GitHub Actions, secret scanning, AI-ass",
       "source": "dev",
       "tag": "ai,  devsecops",
       "url": "https://dev.to/gde/architecting-a-resilient-devsecops-pipeline-for-enterprise-ai-agents-on4"
     },
     {
+      "title": "MCP vs. API Explained: Do We Still Need APIs After MCP?",
+      "hot": "❤️ 10 💬 11",
+      "desc": "No. MCP doesn't replace APIs — it sits on top of them. An MCP server is, almost always, a thin...",
+      "source": "dev",
+      "tag": "ai,  api",
+      "url": "https://dev.to/thesnehamk/mcp-vs-api-explained-do-we-still-need-apis-after-mcp-2kkk"
+    },
+    {
       "title": "What was your win this week?!",
-      "hot": "❤️ 71 💬 53",
+      "hot": "❤️ 71 💬 58",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "weeklyretro",
       "url": "https://dev.to/devteam/what-was-your-win-this-week-2hcb"
     },
     {
+      "title": "Dart Enhanced Enums Are Secretly Factories: Unlocking Constructor Tearoffs",
+      "hot": "❤️ 9 💬 2",
+      "desc": "How combining Dart's Enhanced Enums with constructor tearoffs turns simple enum values into self-instantiating, type-saf",
+      "source": "dev",
+      "tag": "dart,  flutter",
+      "url": "https://dev.to/gde/dart-enhanced-enums-are-secretly-factories-unlocking-constructor-tearoffs-54n9"
+    },
+    {
+      "title": "Stop Paying the build_runner Tax: Why I Refuse to Use Mockito in Modern Dart",
+      "hot": "❤️ 11 💬 0",
+      "desc": "Why code-generated mocks ruin developer velocity in modern Dart and Flutter, and how switching to mocktail restores true",
+      "source": "dev",
+      "tag": "dart,  flutter",
+      "url": "https://dev.to/gde/stop-paying-the-buildrunner-tax-why-i-refuse-to-use-mockito-in-modern-dart-4cif"
+    },
+    {
       "title": "Share State Across Dart Isolates Without Losing Your Mind: Enter shared_map",
-      "hot": "❤️ 9 💬 0",
+      "hot": "❤️ 10 💬 0",
       "desc": "How to bypass tedious SendPort/ReceivePort plumbing and share synchronized in-memory state across Dart Isolates using th",
       "source": "dev",
       "tag": "dart,  flutter",
@@ -82,7 +138,7 @@
     },
     {
       "title": "20 Agentic AI Terms Every Developer Should Know (Explained Simply)",
-      "hot": "❤️ 225 💬 115",
+      "hot": "❤️ 226 💬 115",
       "desc": "Do you ever feel like the AI world has moved forward a little too quickly?&nbsp;You hear about...",
       "source": "dev",
       "tag": "ai,  agents",
@@ -103,63 +159,7 @@
       "source": "dev",
       "tag": "discuss,  ai",
       "url": "https://dev.to/hemapriya_kanagala/what-happens-when-ai-outgrows-the-tests-we-use-to-measure-it-30al"
-    },
-    {
-      "title": "An MI300X Over MCP: What the Matrix Cores Execute, and What They Don't",
-      "hot": "❤️ 12 💬 5",
-      "desc": "One AMD Instinct MI300X on AMD Developer Cloud, managed entirely through a tag-scoped Python MCP server, with every figu",
-      "source": "dev",
-      "tag": "amd,  mcp",
-      "url": "https://dev.to/gde/an-mi300x-over-mcp-what-the-matrix-cores-execute-and-what-they-dont-1me9"
-    },
-    {
-      "title": "How AI Actually Calls an API? Tool Calling Explained from Scratch",
-      "hot": "❤️ 37 💬 14",
-      "desc": "In the previous post, we taught a model to read our documents. It could search a pile of files and...",
-      "source": "dev",
-      "tag": "ai,  mcp",
-      "url": "https://dev.to/aws/how-ai-actually-calls-an-api-tool-calling-explained-from-scratch-4lf8"
-    },
-    {
-      "title": "Welcome Thread - v 393",
-      "hot": "❤️ 101 💬 516",
-      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
-      "source": "dev",
-      "tag": "welcome",
-      "url": "https://dev.to/sloan/welcome-thread-v-393-5f09"
-    },
-    {
-      "title": "One Iceberg MCP Server, Seven Catalogs: What It Takes to Reach Each One",
-      "hot": "❤️ 10 💬 0",
-      "desc": "Step by step: one Python MCP server with four read-only Apache Iceberg tools, pointed at Polaris, BigLake, OneLake, Glue",
-      "source": "dev",
-      "tag": "mcp,  iceberg",
-      "url": "https://dev.to/gde/one-iceberg-mcp-server-seven-catalogs-what-it-takes-to-reach-each-one-2605"
-    },
-    {
-      "title": "2B Gemma 4 Deployment with Cloud Run, NVIDIA L4, MCP SDK 2.x, and Claude Code",
-      "hot": "❤️ 8 💬 1",
-      "desc": "Step by step deployment of Gemma 4 E2B to a Cloud Run NVIDIA L4 GPU with vLLM, managed by a Python MCP server migrated t",
-      "source": "dev",
-      "tag": "mcp,  gemma",
-      "url": "https://dev.to/gde/2b-gemma-4-deployment-with-cloud-run-nvidia-l4-mcp-sdk-2x-and-claude-code-4ml3"
-    },
-    {
-      "title": "Valid Schema, Wrong Content: Using Jev to Guard a Google ADK Agent",
-      "hot": "❤️ 8 💬 1",
-      "desc": "Schema-valid is not content-correct · Part 1/3           It starts with a storyboard a...",
-      "source": "dev",
-      "tag": "googlecloud,  adk",
-      "url": "https://dev.to/gde/valid-schema-wrong-content-using-jev-to-guard-a-google-adk-agent-57o6"
-    },
-    {
-      "title": "How we built a desktop companion robot with Gemma 4 and Raspberry Pi",
-      "hot": "❤️ 42 💬 7",
-      "desc": "The behind-the-scenes story of how we built DinoDesk AI—a privacy-first, LEGO dino companion robot powered by a hybrid L",
-      "source": "dev",
-      "tag": "raspberrypi,  gemma",
-      "url": "https://dev.to/googleai/how-we-built-a-desktop-companion-robot-with-gemma-4-and-raspberry-pi-2oke"
     }
   ],
-  "updatedAt": "2026-09-23T12:20:56.525Z"
+  "updatedAt": "2026-09-23T17:16:36.657Z"
 }
