@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "Disappeared Since March: Taking a Long Break Was My Best Decision Yet",
-      "hot": "❤️ 47 💬 15",
+      "hot": "❤️ 56 💬 16",
       "desc": "If you checked my profile recently, you probably noticed my page has been completely quiet since...",
       "source": "dev",
       "tag": "Dev.to",
@@ -10,7 +10,7 @@
     },
     {
       "title": "I Turned DEV.to Into a Walkable 3D Library — Debugging It Has Been a Nightmare",
-      "hot": "❤️ 51 💬 13",
+      "hot": "❤️ 54 💬 14",
       "desc": "DEV Library is my idea of first-person 3D reimagining of DEV.to. Not a themed scene with some...",
       "source": "dev",
       "tag": "buildinpublic,  webdev",
@@ -18,7 +18,7 @@
     },
     {
       "title": "Welcome Thread - v 394",
-      "hot": "❤️ 20 💬 48",
+      "hot": "❤️ 25 💬 74",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
@@ -26,23 +26,15 @@
     },
     {
       "title": "A 4 GB Laptop GPU vs a 6-Core CPU on Gemma 4, Re-Measured in ABBA Order: 4.1x",
-      "hot": "❤️ 8 💬 1",
+      "hot": "❤️ 9 💬 1",
       "desc": "Gemma 4 E2B q4_0 served by llama.cpp on one laptop, CPU-only and on a GTX 1650 Ti, rebuilt on CUDA 13.4 and re-measured ",
       "source": "dev",
       "tag": "gemma,  llamacpp",
       "url": "https://dev.to/gde/a-4-gb-laptop-gpu-vs-a-6-core-cpu-on-gemma-4-re-measured-in-abba-order-41x-5g56"
     },
     {
-      "title": "Join the Kaggle Benchmarking Challenge: $2,500 in Prizes for FIVE Winners!",
-      "hot": "❤️ 83 💬 3",
-      "desc": "We're excited to team up with Kaggle for a brand new challenge!  Running through October 11, the...",
-      "source": "dev",
-      "tag": "devchallenge,  kagglebenchmarkchallenge",
-      "url": "https://dev.to/devteam/join-the-kaggle-benchmarking-challenge-2500-in-prizes-for-five-winners-18ml"
-    },
-    {
       "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 24 💬 15",
+      "hot": "❤️ 24 💬 20",
       "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
       "source": "dev",
       "tag": "top7,  discuss",
@@ -57,12 +49,12 @@
       "url": "https://dev.to/vultr/deploying-litellm-an-open-source-ai-gateway-2idp"
     },
     {
-      "title": "Production RAG on the Lakehouse with BigQuery Vector Search and Apache Iceberg",
-      "hot": "❤️ 7 💬 0",
-      "desc": "As teams rush to build with Generative AI, they're creating a dangerous chasm between their data and...",
+      "title": "Join the Kaggle Benchmarking Challenge: $2,500 in Prizes for FIVE Winners!",
+      "hot": "❤️ 93 💬 6",
+      "desc": "We're excited to team up with Kaggle for a brand new challenge!  Running through October 11, the...",
       "source": "dev",
-      "tag": "lakehouse,  bigquery",
-      "url": "https://dev.to/gde/production-rag-on-the-lakehouse-with-bigquery-vector-search-and-apache-iceberg-5g3"
+      "tag": "devchallenge,  kagglebenchmarkchallenge",
+      "url": "https://dev.to/devteam/join-the-kaggle-benchmarking-challenge-2500-in-prizes-for-five-winners-18ml"
     },
     {
       "title": "The Grand Unifying Architecture of Frontend",
@@ -71,14 +63,6 @@
       "source": "dev",
       "tag": "webdev,  javascript",
       "url": "https://dev.to/playfulprogramming/the-grand-unifying-architecture-of-frontend-bhk"
-    },
-    {
-      "title": "Gemma 4 on a Tesla T4, Part 2: The Minimum GCE VM and a Script to Drive It",
-      "hot": "❤️ 12 💬 0",
-      "desc": "Building the smallest Compute Engine VM that serves Gemma 4 E2B on one Tesla T4, installing the driver and vLLM after bo",
-      "source": "dev",
-      "tag": "gemma,  vllm",
-      "url": "https://dev.to/gde/gemma-4-on-a-tesla-t4-part-2-the-minimum-gce-vm-and-a-script-to-drive-it-3gk1"
     },
     {
       "title": "Claude Opus 5.5 is now available on Google Cloud",
@@ -90,7 +74,7 @@
     },
     {
       "title": "The missing layer in AI tooling: sharing what your assistant already knows",
-      "hot": "❤️ 12 💬 10",
+      "hot": "❤️ 12 💬 11",
       "desc": "It took my AI months to learn how I think, code, and ship. When a teammate joined the project, their...",
       "source": "dev",
       "tag": "ai,  opensource",
@@ -103,6 +87,22 @@
       "source": "dev",
       "tag": "googlecloud,  python",
       "url": "https://dev.to/gde/what-nobody-is-using-in-your-google-cloud-projects-and-what-it-costs-1k0"
+    },
+    {
+      "title": "Production RAG on the Lakehouse with BigQuery Vector Search and Apache Iceberg",
+      "hot": "❤️ 8 💬 0",
+      "desc": "As teams rush to build with Generative AI, they're creating a dangerous chasm between their data and...",
+      "source": "dev",
+      "tag": "lakehouse,  bigquery",
+      "url": "https://dev.to/gde/production-rag-on-the-lakehouse-with-bigquery-vector-search-and-apache-iceberg-5g3"
+    },
+    {
+      "title": "Gemma 4 on a Tesla T4, Part 2: The Minimum GCE VM and a Script to Drive It",
+      "hot": "❤️ 13 💬 0",
+      "desc": "Building the smallest Compute Engine VM that serves Gemma 4 E2B on one Tesla T4, installing the driver and vLLM after bo",
+      "source": "dev",
+      "tag": "gemma,  vllm",
+      "url": "https://dev.to/gde/gemma-4-on-a-tesla-t4-part-2-the-minimum-gce-vm-and-a-script-to-drive-it-3gk1"
     },
     {
       "title": "Congrats to the DEV Weekend Challenge: Dog Days Edition Winners!",
@@ -161,5 +161,5 @@
       "url": "https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii"
     }
   ],
-  "updatedAt": "2026-09-24T06:28:52.431Z"
+  "updatedAt": "2026-09-24T12:03:02.984Z"
 }
