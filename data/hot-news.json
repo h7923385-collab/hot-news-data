@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T17:21:57.079Z",
+  "updatedAt": "2026-09-24T20:34:11.184Z",
   "source": "live",
   "dev": [
     {
@@ -11,8 +11,16 @@
       "url": "https://dev.to/maame-codes/disappeared-since-march-taking-a-long-break-was-my-best-decision-yet-1n45"
     },
     {
+      "title": "This video is about how this video was made",
+      "hot": "❤️ 11 💬 1",
+      "desc": "This video (the script, the voice timings, the source code, the storyboard, the briefs the subagents...",
+      "source": "dev",
+      "tag": "ai,  claude",
+      "url": "https://dev.to/peter/this-video-is-about-how-this-video-was-made-42hl"
+    },
+    {
       "title": "I Turned DEV.to Into a Walkable 3D Library — Debugging It Has Been a Nightmare",
-      "hot": "❤️ 54 💬 15",
+      "hot": "❤️ 54 💬 18",
       "desc": "DEV Library is my idea of first-person 3D reimagining of DEV.to. Not a themed scene with some...",
       "source": "dev",
       "tag": "buildinpublic,  webdev",
@@ -20,15 +28,23 @@
     },
     {
       "title": "Welcome Thread - v 394",
-      "hot": "❤️ 32 💬 102",
+      "hot": "❤️ 32 💬 113",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
       "url": "https://dev.to/sloan/welcome-thread-v-394-22l2"
     },
     {
+      "title": "Congrats to the Summer Bug Smash Winners!",
+      "hot": "❤️ 26 💬 7",
+      "desc": "We are thrilled to announce the winners of DEV's Big Summer Bug Smash powered by Sentry!  This...",
+      "source": "dev",
+      "tag": "devchallenge,  bugsmash",
+      "url": "https://dev.to/devteam/congrats-to-the-summer-bug-smash-winners-50ei"
+    },
+    {
       "title": "Running a Jev-Style Decision Model on One TPU v6e: What Fits, What It Costs, and What Changes From a GPU",
-      "hot": "❤️ 6 💬 0",
+      "hot": "❤️ 7 💬 0",
       "desc": "Gemma 4 E2B, E4B, 12B and a 26B-A4B fp8 build read by their label probabilities with vLLM on one TPU v6e chip, checked a",
       "source": "dev",
       "tag": "gemma,  googlecloud",
@@ -36,19 +52,11 @@
     },
     {
       "title": "Equip your agent with Google Cloud best practices using google-cloud-developer plugin",
-      "hot": "❤️ 5 💬 0",
+      "hot": "❤️ 5 💬 2",
       "desc": "Coding agents in your terminal can scaffold microservices in seconds. But what happens when your...",
       "source": "dev",
       "tag": "ai,  agents",
       "url": "https://dev.to/googleai/equip-your-agent-with-google-cloud-best-practices-using-google-cloud-developer-plugin-1bm1"
-    },
-    {
-      "title": "A 4 GB Laptop GPU vs a 6-Core CPU on Gemma 4, Re-Measured in ABBA Order: 4.1x",
-      "hot": "❤️ 9 💬 2",
-      "desc": "Gemma 4 E2B q4_0 served by llama.cpp on one laptop, CPU-only and on a GTX 1650 Ti, rebuilt on CUDA 13.4 and re-measured ",
-      "source": "dev",
-      "tag": "gemma,  llamacpp",
-      "url": "https://dev.to/gde/a-4-gb-laptop-gpu-vs-a-6-core-cpu-on-gemma-4-re-measured-in-abba-order-41x-5g56"
     },
     {
       "title": "Deploying LiteLLM: An Open-Source AI Gateway",
@@ -60,19 +68,11 @@
     },
     {
       "title": "Join the Kaggle Benchmarking Challenge: $2,500 in Prizes for FIVE Winners!",
-      "hot": "❤️ 103 💬 7",
+      "hot": "❤️ 106 💬 9",
       "desc": "We're excited to team up with Kaggle for a brand new challenge!  Running through October 11, the...",
       "source": "dev",
       "tag": "devchallenge,  kagglebenchmarkchallenge",
       "url": "https://dev.to/devteam/join-the-kaggle-benchmarking-challenge-2500-in-prizes-for-five-winners-18ml"
-    },
-    {
-      "title": "Jev After Eight Days of Independent Tests: Level With Mid-Price LLMs, Behind the Frontier",
-      "hot": "❤️ 8 💬 0",
-      "desc": "What the independent measurements of TypeSafe's Jev found in its first eight days: arXiv preprints, GitHub evaluations a",
-      "source": "dev",
-      "tag": "ai,  machinelearning",
-      "url": "https://dev.to/gde/jev-after-eight-days-of-independent-tests-level-with-mid-price-llms-behind-the-frontier-1kln"
     },
     {
       "title": "Plain Gemma 4 26B vs Jev on One EC2 L4: 2.1 Points Behind Overall, Level on Yes/No, 4.5 Behind on Multiple Choice",
@@ -81,6 +81,14 @@
       "source": "dev",
       "tag": "gemma,  aws",
       "url": "https://dev.to/gde/plain-gemma-4-26b-vs-jev-on-one-ec2-l4-21-points-behind-overall-level-on-yesno-45-behind-on-15k6"
+    },
+    {
+      "title": "Jev After Eight Days of Independent Tests: Level With Mid-Price LLMs, Behind the Frontier",
+      "hot": "❤️ 8 💬 0",
+      "desc": "What the independent measurements of TypeSafe's Jev found in its first eight days: arXiv preprints, GitHub evaluations a",
+      "source": "dev",
+      "tag": "ai,  machinelearning",
+      "url": "https://dev.to/gde/jev-after-eight-days-of-independent-tests-level-with-mid-price-llms-behind-the-frontier-1kln"
     },
     {
       "title": "The Grand Unifying Architecture of Frontend",
@@ -99,14 +107,6 @@
       "url": "https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh"
     },
     {
-      "title": "The missing layer in AI tooling: sharing what your assistant already knows",
-      "hot": "❤️ 12 💬 15",
-      "desc": "It took my AI months to learn how I think, code, and ship. When a teammate joined the project, their...",
-      "source": "dev",
-      "tag": "ai,  opensource",
-      "url": "https://dev.to/uri_shmueli_a403e7acc04a8/the-missing-layer-in-ai-tooling-sharing-what-your-assistant-already-knows-1nch"
-    },
-    {
       "title": "Top 7 Featured DEV Posts of the Week",
       "hot": "❤️ 26 💬 22",
       "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
@@ -115,12 +115,12 @@
       "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2agl"
     },
     {
-      "title": "What Nobody Is Using in Your Google Cloud Projects, and What It Costs",
-      "hot": "❤️ 12 💬 1",
-      "desc": "A local-first CLI that scans Google Cloud projects for unused resources, prices each one from the Cloud Billing Catalog ",
+      "title": "A 4 GB Laptop GPU vs a 6-Core CPU on Gemma 4, Re-Measured in ABBA Order: 4.1x",
+      "hot": "❤️ 9 💬 2",
+      "desc": "Gemma 4 E2B q4_0 served by llama.cpp on one laptop, CPU-only and on a GTX 1650 Ti, rebuilt on CUDA 13.4 and re-measured ",
       "source": "dev",
-      "tag": "googlecloud,  python",
-      "url": "https://dev.to/gde/what-nobody-is-using-in-your-google-cloud-projects-and-what-it-costs-1k0"
+      "tag": "gemma,  llamacpp",
+      "url": "https://dev.to/gde/a-4-gb-laptop-gpu-vs-a-6-core-cpu-on-gemma-4-re-measured-in-abba-order-41x-5g56"
     },
     {
       "title": "Production RAG on the Lakehouse with BigQuery Vector Search and Apache Iceberg",
@@ -131,20 +131,20 @@
       "url": "https://dev.to/gde/production-rag-on-the-lakehouse-with-bigquery-vector-search-and-apache-iceberg-5g3"
     },
     {
-      "title": "Gemma 4 on a Tesla T4, Part 2: The Minimum GCE VM and a Script to Drive It",
-      "hot": "❤️ 13 💬 0",
-      "desc": "Building the smallest Compute Engine VM that serves Gemma 4 E2B on one Tesla T4, installing the driver and vLLM after bo",
-      "source": "dev",
-      "tag": "gemma,  vllm",
-      "url": "https://dev.to/gde/gemma-4-on-a-tesla-t4-part-2-the-minimum-gce-vm-and-a-script-to-drive-it-3gk1"
-    },
-    {
       "title": "Congrats to the DEV Weekend Challenge: Dog Days Edition Winners!",
       "hot": "❤️ 81 💬 30",
       "desc": "The results are in for our DEV Weekend Challenge: Dog Days Edition! Thank you for your patience while...",
       "source": "dev",
       "tag": "devchallenge,  weekendchallenge",
       "url": "https://dev.to/devteam/congrats-to-the-dev-weekend-challenge-dog-days-edition-winners-300g"
+    },
+    {
+      "title": "The missing layer in AI tooling: sharing what your assistant already knows",
+      "hot": "❤️ 12 💬 16",
+      "desc": "It took my AI months to learn how I think, code, and ship. When a teammate joined the project, their...",
+      "source": "dev",
+      "tag": "ai,  opensource",
+      "url": "https://dev.to/uri_shmueli_a403e7acc04a8/the-missing-layer-in-ai-tooling-sharing-what-your-assistant-already-knows-1nch"
     },
     {
       "title": "Architecting a Resilient DevSecOps Pipeline for Enterprise AI Agents",
@@ -155,177 +155,23 @@
       "url": "https://dev.to/gde/architecting-a-resilient-devsecops-pipeline-for-enterprise-ai-agents-on4"
     },
     {
-      "title": "What was your win this week?!",
-      "hot": "❤️ 76 💬 58",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "title": "What Nobody Is Using in Your Google Cloud Projects, and What It Costs",
+      "hot": "❤️ 12 💬 1",
+      "desc": "A local-first CLI that scans Google Cloud projects for unused resources, prices each one from the Cloud Billing Catalog ",
       "source": "dev",
-      "tag": "weeklyretro",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-2hcb"
-    }
-  ],
-  "tech": [
-    {
-      "title": "F-Droid 2.0",
-      "hot": "3.0m",
-      "desc": "f-droid.org",
-      "source": "tech",
-      "tag": "⬆️ 303 points",
-      "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html"
-    },
-    {
-      "title": "Two-tier encryption in the UK",
-      "hot": "3.0m",
-      "desc": "macanorak.com",
-      "source": "tech",
-      "tag": "⬆️ 241 points",
-      "url": "https://macanorak.com/two-tier-encryption-in-the-uk/"
-    },
-    {
-      "title": "Nokia Design Archive (2025)",
-      "hot": "3.0m",
-      "desc": "repo.aalto.fi",
-      "source": "tech",
-      "tag": "⬆️ 173 points",
-      "url": "https://repo.aalto.fi/index.php?name=SO_b66a9391-dcf8-4399-8e87-611f84c3fc4c"
-    },
-    {
-      "title": "GitHub has not removed malicious imitation software after 3 weeks",
-      "hot": "3.0m",
-      "desc": "successfulsoftware.net",
-      "source": "tech",
-      "tag": "⬆️ 100 points",
-      "url": "https://successfulsoftware.net/2026/09/24/github-has-not-removed-malicious-imitation-software-after-3-weeks/"
-    },
-    {
-      "title": "Linux support is coming to Snapdragon X2 series",
-      "hot": "2.9m",
-      "desc": "qualcomm.com",
-      "source": "tech",
-      "tag": "⬆️ 570 points",
-      "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux"
-    },
-    {
-      "title": "B5-BJ2 – Ice Cream Barges – Concrete Ship Constructors (2023)",
-      "hot": "2.9m",
-      "desc": "thecretefleet.com",
-      "source": "tech",
-      "tag": "⬆️ 7 points",
-      "url": "https://thecretefleet.com/blog/f/b5-bj2---ice-cream-barges---concrete-ship-constructors"
-    },
-    {
-      "title": "WaveDigger: Dig into wireless signals to discover their physical locations",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 18 points",
-      "url": "https://github.com/christianrowlands/wavedigger"
-    },
-    {
-      "title": "The science of Monkey Island: can grog dissolve a metal mug that fast?",
-      "hot": "2.9m",
-      "desc": "jgeekstudies.org",
-      "source": "tech",
-      "tag": "⬆️ 86 points",
-      "url": "https://jgeekstudies.org/2026/09/23/the-science-of-monkey-island-can-grog-actually-dissolve-a-metal-mug-that-fast/"
-    },
-    {
-      "title": "Ideas on modernizing the open-source desktop",
-      "hot": "2.9m",
-      "desc": "lwn.net",
-      "source": "tech",
-      "tag": "⬆️ 323 points",
-      "url": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/"
-    },
-    {
-      "title": "Experiencing writing at our recent Chinese calligraphy workshop",
-      "hot": "2.9m",
-      "desc": "viewsproject.wordpress.com",
-      "source": "tech",
-      "tag": "⬆️ 4 points",
-      "url": "https://viewsproject.wordpress.com/2026/09/06/chinese-calligraphy-workshop/"
-    },
-    {
-      "title": "Federal judge orders Texas to air condition all prisons by the end of 2029",
-      "hot": "2.9m",
-      "desc": "texastribune.org",
-      "source": "tech",
-      "tag": "⬆️ 38 points",
-      "url": "https://www.texastribune.org/2026/09/22/texas-prison-air-conditioning-lawsuit-ruling/"
-    },
-    {
-      "title": "RAM: the forgotten history (2024)",
-      "hot": "2.8m",
-      "desc": "blog.coredump.cx",
-      "source": "tech",
-      "tag": "⬆️ 94 points",
-      "url": "https://blog.coredump.cx/p/memory-the-forgotten-history"
-    },
-    {
-      "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
-      "hot": "2.8m",
-      "desc": "blog.arxiv.org",
-      "source": "tech",
-      "tag": "⬆️ 280 points",
-      "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/"
-    },
-    {
-      "title": "S.F. Democratic Party stands behind Flock surveillance cameras in vote",
-      "hot": "2.8m",
-      "desc": "missionlocal.org",
-      "source": "tech",
-      "tag": "⬆️ 12 points",
-      "url": "https://missionlocal.org/2026/09/san-francisco-democratic-party-flock-cameras/"
-    },
-    {
-      "title": "Enjoy Every Sandwich",
-      "hot": "2.8m",
-      "desc": "bradmontague.substack.com",
-      "source": "tech",
-      "tag": "⬆️ 144 points",
-      "url": "https://bradmontague.substack.com/p/enjoy-every-sandwich"
-    },
-    {
-      "title": "When the Debugger Lies",
-      "hot": "2.8m",
-      "desc": "danielmangum.com",
-      "source": "tech",
-      "tag": "⬆️ 52 points",
-      "url": "https://danielmangum.com/posts/when-the-debugger-lies/"
-    },
-    {
-      "title": "Coulomb's law remains tricky to test at home",
-      "hot": "2.8m",
-      "desc": "chillphysicsenjoyer.substack.com",
-      "source": "tech",
-      "tag": "⬆️ 16 points",
-      "url": "https://chillphysicsenjoyer.substack.com/p/coulombs-law-remains-tricky-to-test"
-    },
-    {
-      "title": "The newest ESP32 can run Linux and it's getting close to a Raspberry Pi",
-      "hot": "2.7m",
-      "desc": "xda-developers.com",
-      "source": "tech",
-      "tag": "⬆️ 162 points",
-      "url": "https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/"
-    },
-    {
-      "title": "VSCode's SSH Agent Is Bananas (2025)",
-      "hot": "2.7m",
-      "desc": "fly.io",
-      "source": "tech",
-      "tag": "⬆️ 293 points",
-      "url": "https://fly.io/blog/vscode-ssh-wtf/"
-    },
-    {
-      "title": "Contrastive Language Models",
-      "hot": "2.7m",
-      "desc": "contrastive-lm.notion.site",
-      "source": "tech",
-      "tag": "⬆️ 143 points",
-      "url": "https://contrastive-lm.notion.site/"
+      "tag": "googlecloud,  python",
+      "url": "https://dev.to/gde/what-nobody-is-using-in-your-google-cloud-projects-and-what-it-costs-1k0"
     }
   ],
   "space": [
+    {
+      "title": "NASA Unveils Winning Designs for Mars Space Food Systems Challenge",
+      "hot": "9/24",
+      "desc": "NASA announced the winners of the Deep Space Food Challenge: Mars to Table Thursday, with the top $300,000 prize being awarded to Chinyere Ukeje of Ph",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-unveils-winning-designs-for-mars-space-food-systems-challenge/"
+    },
     {
       "title": "NASA’s Machines for Mars Make Beer Bubbly",
       "hot": "9/24",
@@ -437,20 +283,174 @@
       "source": "space",
       "tag": "NASA",
       "url": "https://science.nasa.gov/image-article/apod-2026-september-24-the-ghosts-of-five-supernovas/"
+    }
+  ],
+  "tech": [
+    {
+      "title": "F-Droid 2.0",
+      "hot": "3.0m",
+      "desc": "f-droid.org",
+      "source": "tech",
+      "tag": "⬆️ 659 points",
+      "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html"
     },
     {
-      "title": "Cloudy Cloak Over the Northwest",
-      "hot": "9/24",
-      "desc": "A low-lying cloud layer brought autumn ambience to western Washington and Oregon, while mountainous areas near the coast remained above the pall.",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/earth/earth-observatory/cloudy-cloak-over-the-northwest/"
+      "title": "Show HN: Make cursed fonts like Times New Bastard",
+      "hot": "3.0m",
+      "desc": "bastardica.mitpit.com",
+      "source": "tech",
+      "tag": "⬆️ 219 points",
+      "url": "https://bastardica.mitpit.com"
+    },
+    {
+      "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+      "hot": "3.0m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 120 points",
+      "url": "https://github.com/devdotfast/whiteboard"
+    },
+    {
+      "title": "Fearless SIMD v1.0",
+      "hot": "3.0m",
+      "desc": "linebender.org",
+      "source": "tech",
+      "tag": "⬆️ 98 points",
+      "url": "https://linebender.org/blog/fearless-simd-1-0/"
+    },
+    {
+      "title": "Rails World 2026 Opening Keynote [video]",
+      "hot": "2.9m",
+      "desc": "youtube.com",
+      "source": "tech",
+      "tag": "⬆️ 142 points",
+      "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY"
+    },
+    {
+      "title": "My weird new hobby: Wandering around Tokyo on Google Maps",
+      "hot": "2.9m",
+      "desc": "ahmedhossamdev.com",
+      "source": "tech",
+      "tag": "⬆️ 113 points",
+      "url": "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/"
+    },
+    {
+      "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+      "hot": "2.9m",
+      "desc": "resobscura.substack.com",
+      "source": "tech",
+      "tag": "⬆️ 16 points",
+      "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical"
+    },
+    {
+      "title": "Book review: Is parallel programming hard, and, if so, what can you do about it?",
+      "hot": "2.9m",
+      "desc": "ahelwer.ca",
+      "source": "tech",
+      "tag": "⬆️ 54 points",
+      "url": "https://ahelwer.ca/post/2026-09-21-concurrency-textbook/"
+    },
+    {
+      "title": "The forgotten battle of East Lansing",
+      "hot": "2.9m",
+      "desc": "eastlansinginfo.news",
+      "source": "tech",
+      "tag": "⬆️ 57 points",
+      "url": "https://eastlansinginfo.news/the-forgotten-battle-of-east-lansing/"
+    },
+    {
+      "title": "Stable (YC W20) Is Hiring Product Engineers",
+      "hot": "2.9m",
+      "desc": "usestable.com",
+      "source": "tech",
+      "tag": "⬆️ 1 points",
+      "url": "https://www.usestable.com/careers/product-engineer"
+    },
+    {
+      "title": "Sourcehut account takeover via build logs (XSS in ansi2html)",
+      "hot": "2.9m",
+      "desc": "blog.arusekk.pl",
+      "source": "tech",
+      "tag": "⬆️ 7 points",
+      "url": "https://blog.arusekk.pl/posts/srht-account-takeover/"
+    },
+    {
+      "title": "Why is the liver so weirdly regenerative?",
+      "hot": "2.8m",
+      "desc": "dynomight.substack.com",
+      "source": "tech",
+      "tag": "⬆️ 102 points",
+      "url": "https://dynomight.substack.com/p/liver"
+    },
+    {
+      "title": "Forging 1024-bit RSA signatures in nearly SNFS time [pdf]",
+      "hot": "2.8m",
+      "desc": "eprint.iacr.org",
+      "source": "tech",
+      "tag": "⬆️ 32 points",
+      "url": "https://eprint.iacr.org/2026/2131.pdf"
+    },
+    {
+      "title": "Two-tier encryption in the UK",
+      "hot": "2.8m",
+      "desc": "macanorak.com",
+      "source": "tech",
+      "tag": "⬆️ 328 points",
+      "url": "https://macanorak.com/two-tier-encryption-in-the-uk/"
+    },
+    {
+      "title": "Google’s Project Suncatcher to put ML infrastructure in space",
+      "hot": "2.8m",
+      "desc": "blog.google",
+      "source": "tech",
+      "tag": "⬆️ 44 points",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/"
+    },
+    {
+      "title": "Geothermal heat map of US hot springs",
+      "hot": "2.8m",
+      "desc": "soakingsprings.com",
+      "source": "tech",
+      "tag": "⬆️ 45 points",
+      "url": "https://www.soakingsprings.com/hot-springs/geothermal-map"
+    },
+    {
+      "title": "Creatine uptake enhances antitumor immunity",
+      "hot": "2.8m",
+      "desc": "cell.com",
+      "source": "tech",
+      "tag": "⬆️ 113 points",
+      "url": "https://www.cell.com/iscience/fulltext/S2589-0042(26)00811-4"
+    },
+    {
+      "title": "WaveDigger: Dig into wireless signals to discover their physical locations",
+      "hot": "2.7m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 70 points",
+      "url": "https://github.com/christianrowlands/wavedigger"
+    },
+    {
+      "title": "Security auditing in the age of (good enough) AI",
+      "hot": "2.7m",
+      "desc": "blog.trailofbits.com",
+      "source": "tech",
+      "tag": "⬆️ 39 points",
+      "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/"
+    },
+    {
+      "title": "Web-based IBM 1620 emulator and IPL-V from 1963",
+      "hot": "2.7m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 42 points",
+      "url": "https://github.com/pkimpel/retro-1620"
     }
   ],
   "github": [
     {
       "title": "NandhaKishorM/laya: Non-autoregressive System 1 decision engine. Typed choice, s",
-      "hot": "⭐ 22.6k",
+      "hot": "⭐ 22.8k",
       "desc": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with ",
       "source": "github",
       "tag": "Python",
@@ -465,20 +465,20 @@
       "url": "https://github.com/tamaratran/fast-jev-compaction"
     },
     {
+      "title": "jaredpalmer/kev: Jev-like family of decision models built on top of Qwen3.5/3.8 ",
+      "hot": "⭐ 6.7k",
+      "desc": "Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/jaredpalmer/kev"
+    },
+    {
       "title": "zai-org/ZCode: Z.ai's coding agent harness. Powerful, intelligent, extensible.",
       "hot": "⭐ 6.7k",
       "desc": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/zai-org/ZCode"
-    },
-    {
-      "title": "jaredpalmer/kev: tiny Jev-like family of decision models built on top of Qwen3.5",
-      "hot": "⭐ 6.7k",
-      "desc": "tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/jaredpalmer/kev"
     },
     {
       "title": "mizorewww/laya-mlx: Native MLX runtime for Laya typed decision models — 7–14 ms ",
@@ -490,7 +490,7 @@
     },
     {
       "title": "jev-chat/jev-chat-jarvis: 装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入",
-      "hot": "⭐ 5.9k",
+      "hot": "⭐ 6.0k",
       "desc": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
       "source": "github",
       "tag": "Kotlin",
@@ -554,7 +554,7 @@
     },
     {
       "title": "driceroland/Search: A small, fast WebKit browser for macOS, by Office Commun.",
-      "hot": "⭐ 1.1k",
+      "hot": "⭐ 1.2k",
       "desc": "A small, fast WebKit browser for macOS, by Office Commun.",
       "source": "github",
       "tag": "Swift",
@@ -562,7 +562,7 @@
     },
     {
       "title": "deepopen-com/deepopen: 非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, no",
-      "hot": "⭐ 950",
+      "hot": "⭐ 998",
       "desc": "非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. ",
       "source": "github",
       "tag": "Python",
