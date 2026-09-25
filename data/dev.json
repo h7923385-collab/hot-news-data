@@ -10,7 +10,7 @@
     },
     {
       "title": "I Turned DEV.to Into a Walkable 3D Library — Debugging It Has Been a Nightmare",
-      "hot": "❤️ 57 💬 20",
+      "hot": "❤️ 60 💬 23",
       "desc": "DEV Library is my idea of first-person 3D reimagining of DEV.to. Not a themed scene with some...",
       "source": "dev",
       "tag": "buildinpublic,  webdev",
@@ -26,7 +26,7 @@
     },
     {
       "title": "Welcome Thread - v 394",
-      "hot": "❤️ 33 💬 123",
+      "hot": "❤️ 39 💬 138",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
@@ -34,7 +34,7 @@
     },
     {
       "title": "Congrats to the Summer Bug Smash Winners!",
-      "hot": "❤️ 29 💬 10",
+      "hot": "❤️ 32 💬 13",
       "desc": "We are thrilled to announce the winners of DEV's Big Summer Bug Smash powered by Sentry!  This...",
       "source": "dev",
       "tag": "devchallenge,  bugsmash",
@@ -42,7 +42,7 @@
     },
     {
       "title": "Running a Jev-Style Decision Model on One TPU v6e: What Fits, What It Costs, and What Changes From a GPU",
-      "hot": "❤️ 8 💬 0",
+      "hot": "❤️ 9 💬 0",
       "desc": "Gemma 4 E2B, E4B, 12B and a 26B-A4B fp8 build read by their label probabilities with vLLM on one TPU v6e chip, checked a",
       "source": "dev",
       "tag": "gemma,  googlecloud",
@@ -57,28 +57,12 @@
       "url": "https://dev.to/googleai/equip-your-agent-with-google-cloud-best-practices-using-google-cloud-developer-plugin-1bm1"
     },
     {
-      "title": "Join the Kaggle Benchmarking Challenge: $2,500 in Prizes for FIVE Winners!",
-      "hot": "❤️ 108 💬 9",
-      "desc": "We're excited to team up with Kaggle for a brand new challenge!  Running through October 11, the...",
-      "source": "dev",
-      "tag": "devchallenge,  kagglebenchmarkchallenge",
-      "url": "https://dev.to/devteam/join-the-kaggle-benchmarking-challenge-2500-in-prizes-for-five-winners-18ml"
-    },
-    {
       "title": "Plain Gemma 4 26B vs Jev on One EC2 L4: 2.1 Points Behind Overall, Level on Yes/No, 4.5 Behind on Multiple Choice",
       "hot": "❤️ 6 💬 0",
       "desc": "Plain Gemma 4 26B read by its label probabilities against DiffusionGemma's one-step read, both as community 4-bit (AWQ) ",
       "source": "dev",
       "tag": "gemma,  aws",
       "url": "https://dev.to/gde/plain-gemma-4-26b-vs-jev-on-one-ec2-l4-21-points-behind-overall-level-on-yesno-45-behind-on-15k6"
-    },
-    {
-      "title": "Jev After Eight Days of Independent Tests: Level With Mid-Price LLMs, Behind the Frontier",
-      "hot": "❤️ 8 💬 0",
-      "desc": "What the independent measurements of TypeSafe's Jev found in its first eight days: arXiv preprints, GitHub evaluations a",
-      "source": "dev",
-      "tag": "ai,  machinelearning",
-      "url": "https://dev.to/gde/jev-after-eight-days-of-independent-tests-level-with-mid-price-llms-behind-the-frontier-1kln"
     },
     {
       "title": "The Grand Unifying Architecture of Frontend",
@@ -113,6 +97,22 @@
       "url": "https://dev.to/gde/a-4-gb-laptop-gpu-vs-a-6-core-cpu-on-gemma-4-re-measured-in-abba-order-41x-5g56"
     },
     {
+      "title": "Join the Kaggle Benchmarking Challenge: $2,500 in Prizes for FIVE Winners!",
+      "hot": "❤️ 110 💬 10",
+      "desc": "We're excited to team up with Kaggle for a brand new challenge!  Running through October 11, the...",
+      "source": "dev",
+      "tag": "devchallenge,  kagglebenchmarkchallenge",
+      "url": "https://dev.to/devteam/join-the-kaggle-benchmarking-challenge-2500-in-prizes-for-five-winners-18ml"
+    },
+    {
+      "title": "Jev After Eight Days of Independent Tests: Level With Mid-Price LLMs, Behind the Frontier",
+      "hot": "❤️ 9 💬 0",
+      "desc": "What the independent measurements of TypeSafe's Jev found in its first eight days: arXiv preprints, GitHub evaluations a",
+      "source": "dev",
+      "tag": "ai,  machinelearning",
+      "url": "https://dev.to/gde/jev-after-eight-days-of-independent-tests-level-with-mid-price-llms-behind-the-frontier-1kln"
+    },
+    {
       "title": "Deploying LiteLLM: An Open-Source AI Gateway",
       "hot": "❤️ 9 💬 2",
       "desc": "LiteLLM is an open-source AI gateway that provides a unified, OpenAI-compatible API for over 100...",
@@ -145,21 +145,21 @@
       "url": "https://dev.to/uri_shmueli_a403e7acc04a8/the-missing-layer-in-ai-tooling-sharing-what-your-assistant-already-knows-1nch"
     },
     {
-      "title": "Architecting a Resilient DevSecOps Pipeline for Enterprise AI Agents",
-      "hot": "❤️ 22 💬 8",
-      "desc": "A four-stage DevSecOps CI/CD architecture for securing enterprise AI agents with GitHub Actions, secret scanning, AI-ass",
-      "source": "dev",
-      "tag": "ai,  devsecops",
-      "url": "https://dev.to/gde/architecting-a-resilient-devsecops-pipeline-for-enterprise-ai-agents-on4"
-    },
-    {
       "title": "What Nobody Is Using in Your Google Cloud Projects, and What It Costs",
       "hot": "❤️ 12 💬 1",
       "desc": "A local-first CLI that scans Google Cloud projects for unused resources, prices each one from the Cloud Billing Catalog ",
       "source": "dev",
       "tag": "googlecloud,  python",
       "url": "https://dev.to/gde/what-nobody-is-using-in-your-google-cloud-projects-and-what-it-costs-1k0"
+    },
+    {
+      "title": "What was your win this week?!",
+      "hot": "❤️ 76 💬 58",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-2hcb"
     }
   ],
-  "updatedAt": "2026-09-25T02:00:12.698Z"
+  "updatedAt": "2026-09-25T07:58:58.730Z"
 }
