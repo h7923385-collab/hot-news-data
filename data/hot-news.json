@@ -1,7 +1,493 @@
 {
-  "updatedAt": "2026-09-25T07:58:58.730Z",
+  "updatedAt": "2026-09-25T13:13:28.942Z",
   "source": "live",
+  "dev": [
+    {
+      "title": "Disappeared Since March: Taking a Long Break Was My Best Decision Yet",
+      "hot": "❤️ 61 💬 17",
+      "desc": "If you checked my profile recently, you probably noticed my page has been completely quiet since...",
+      "source": "dev",
+      "tag": "Dev.to",
+      "url": "https://dev.to/maame-codes/disappeared-since-march-taking-a-long-break-was-my-best-decision-yet-1n45"
+    },
+    {
+      "title": "What was your win this week!?",
+      "hot": "❤️ 5 💬 0",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-odj"
+    },
+    {
+      "title": "This video is about how this video was made",
+      "hot": "❤️ 18 💬 4",
+      "desc": "This video (the script, the voice timings, the source code, the storyboard, the briefs the subagents...",
+      "source": "dev",
+      "tag": "ai,  claude",
+      "url": "https://dev.to/peter/this-video-is-about-how-this-video-was-made-42hl"
+    },
+    {
+      "title": "Congrats to the Summer Bug Smash Winners!",
+      "hot": "❤️ 33 💬 15",
+      "desc": "We are thrilled to announce the winners of DEV's Big Summer Bug Smash powered by Sentry!  This...",
+      "source": "dev",
+      "tag": "devchallenge,  bugsmash",
+      "url": "https://dev.to/devteam/congrats-to-the-summer-bug-smash-winners-50ei"
+    },
+    {
+      "title": "I Turned DEV.to Into a Walkable 3D Library — Debugging It Has Been a Nightmare",
+      "hot": "❤️ 60 💬 23",
+      "desc": "DEV Library is my idea of first-person 3D reimagining of DEV.to. Not a themed scene with some...",
+      "source": "dev",
+      "tag": "buildinpublic,  webdev",
+      "url": "https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd"
+    },
+    {
+      "title": "Running a Jev-Style Decision Model on One TPU v6e: What Fits, What It Costs, and What Changes From a GPU",
+      "hot": "❤️ 9 💬 0",
+      "desc": "Gemma 4 E2B, E4B, 12B and a 26B-A4B fp8 build read by their label probabilities with vLLM on one TPU v6e chip, checked a",
+      "source": "dev",
+      "tag": "gemma,  googlecloud",
+      "url": "https://dev.to/gde/running-a-jev-style-decision-model-on-one-tpu-v6e-what-fits-what-it-costs-and-what-changes-from-1j0g"
+    },
+    {
+      "title": "The Grand Unifying Architecture of Frontend",
+      "hot": "❤️ 17 💬 2",
+      "desc": "I used to joke that the history of frontend development could be retraced by following the argument...",
+      "source": "dev",
+      "tag": "webdev,  javascript",
+      "url": "https://dev.to/playfulprogramming/the-grand-unifying-architecture-of-frontend-bhk"
+    },
+    {
+      "title": "Claude Opus 5.5 is now available on Google Cloud",
+      "hot": "❤️ 15 💬 0",
+      "desc": "Everyday complex tasks? No problem. Opus 5.5 handles long-running coding and knowledge work while...",
+      "source": "dev",
+      "tag": "claude,  googlecloud",
+      "url": "https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh"
+    },
+    {
+      "title": "Welcome Thread - v 394",
+      "hot": "❤️ 41 💬 168",
+      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
+      "source": "dev",
+      "tag": "welcome",
+      "url": "https://dev.to/sloan/welcome-thread-v-394-22l2"
+    },
+    {
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "hot": "❤️ 26 💬 22",
+      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+      "source": "dev",
+      "tag": "top7,  discuss",
+      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2agl"
+    },
+    {
+      "title": "Equip your agent with Google Cloud best practices using google-cloud-developer plugin",
+      "hot": "❤️ 6 💬 3",
+      "desc": "Coding agents in your terminal can scaffold microservices in seconds. But what happens when your...",
+      "source": "dev",
+      "tag": "ai,  agents",
+      "url": "https://dev.to/googleai/equip-your-agent-with-google-cloud-best-practices-using-google-cloud-developer-plugin-1bm1"
+    },
+    {
+      "title": "A 4 GB Laptop GPU vs a 6-Core CPU on Gemma 4, Re-Measured in ABBA Order: 4.1x",
+      "hot": "❤️ 9 💬 2",
+      "desc": "Gemma 4 E2B q4_0 served by llama.cpp on one laptop, CPU-only and on a GTX 1650 Ti, rebuilt on CUDA 13.4 and re-measured ",
+      "source": "dev",
+      "tag": "gemma,  llamacpp",
+      "url": "https://dev.to/gde/a-4-gb-laptop-gpu-vs-a-6-core-cpu-on-gemma-4-re-measured-in-abba-order-41x-5g56"
+    },
+    {
+      "title": "Join the Kaggle Benchmarking Challenge: $2,500 in Prizes for FIVE Winners!",
+      "hot": "❤️ 117 💬 12",
+      "desc": "We're excited to team up with Kaggle for a brand new challenge!  Running through October 11, the...",
+      "source": "dev",
+      "tag": "devchallenge,  kagglebenchmarkchallenge",
+      "url": "https://dev.to/devteam/join-the-kaggle-benchmarking-challenge-2500-in-prizes-for-five-winners-18ml"
+    },
+    {
+      "title": "Jev After Eight Days of Independent Tests: Level With Mid-Price LLMs, Behind the Frontier",
+      "hot": "❤️ 9 💬 0",
+      "desc": "What the independent measurements of TypeSafe's Jev found in its first eight days: arXiv preprints, GitHub evaluations a",
+      "source": "dev",
+      "tag": "ai,  machinelearning",
+      "url": "https://dev.to/gde/jev-after-eight-days-of-independent-tests-level-with-mid-price-llms-behind-the-frontier-1kln"
+    },
+    {
+      "title": "Plain Gemma 4 26B vs Jev on One EC2 L4: 2.1 Points Behind Overall, Level on Yes/No, 4.5 Behind on Multiple Choice",
+      "hot": "❤️ 7 💬 0",
+      "desc": "Plain Gemma 4 26B read by its label probabilities against DiffusionGemma's one-step read, both as community 4-bit (AWQ) ",
+      "source": "dev",
+      "tag": "gemma,  aws",
+      "url": "https://dev.to/gde/plain-gemma-4-26b-vs-jev-on-one-ec2-l4-21-points-behind-overall-level-on-yesno-45-behind-on-15k6"
+    },
+    {
+      "title": "Deploying LiteLLM: An Open-Source AI Gateway",
+      "hot": "❤️ 9 💬 2",
+      "desc": "LiteLLM is an open-source AI gateway that provides a unified, OpenAI-compatible API for over 100...",
+      "source": "dev",
+      "tag": "ai,  llm",
+      "url": "https://dev.to/vultr/deploying-litellm-an-open-source-ai-gateway-2idp"
+    },
+    {
+      "title": "Production RAG on the Lakehouse with BigQuery Vector Search and Apache Iceberg",
+      "hot": "❤️ 8 💬 0",
+      "desc": "As teams rush to build with Generative AI, they're creating a dangerous chasm between their data and...",
+      "source": "dev",
+      "tag": "lakehouse,  bigquery",
+      "url": "https://dev.to/gde/production-rag-on-the-lakehouse-with-bigquery-vector-search-and-apache-iceberg-5g3"
+    },
+    {
+      "title": "Congrats to the DEV Weekend Challenge: Dog Days Edition Winners!",
+      "hot": "❤️ 81 💬 30",
+      "desc": "The results are in for our DEV Weekend Challenge: Dog Days Edition! Thank you for your patience while...",
+      "source": "dev",
+      "tag": "devchallenge,  weekendchallenge",
+      "url": "https://dev.to/devteam/congrats-to-the-dev-weekend-challenge-dog-days-edition-winners-300g"
+    },
+    {
+      "title": "The missing layer in AI tooling: sharing what your assistant already knows",
+      "hot": "❤️ 12 💬 16",
+      "desc": "It took my AI months to learn how I think, code, and ship. When a teammate joined the project, their...",
+      "source": "dev",
+      "tag": "ai,  opensource",
+      "url": "https://dev.to/uri_shmueli_a403e7acc04a8/the-missing-layer-in-ai-tooling-sharing-what-your-assistant-already-knows-1nch"
+    },
+    {
+      "title": "What Nobody Is Using in Your Google Cloud Projects, and What It Costs",
+      "hot": "❤️ 12 💬 1",
+      "desc": "A local-first CLI that scans Google Cloud projects for unused resources, prices each one from the Cloud Billing Catalog ",
+      "source": "dev",
+      "tag": "googlecloud,  python",
+      "url": "https://dev.to/gde/what-nobody-is-using-in-your-google-cloud-projects-and-what-it-costs-1k0"
+    }
+  ],
+  "tech": [
+    {
+      "title": "Dutch governments builds alternative for Microsoft based on NixOS",
+      "hot": "3.0m",
+      "desc": "dawo.community",
+      "source": "tech",
+      "tag": "⬆️ 487 points",
+      "url": "https://www.dawo.community/en/"
+    },
+    {
+      "title": "Platform-Independent SIMD in Go",
+      "hot": "3.0m",
+      "desc": "go.dev",
+      "source": "tech",
+      "tag": "⬆️ 53 points",
+      "url": "https://go.dev/blog/simd-experiment"
+    },
+    {
+      "title": "I'm Tired of Being on the Network",
+      "hot": "3.0m",
+      "desc": "matduggan.com",
+      "source": "tech",
+      "tag": "⬆️ 23 points",
+      "url": "https://matduggan.com/im-tired-of-being-on-the-network/"
+    },
+    {
+      "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
+      "hot": "3.0m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 49 points",
+      "url": "https://github.com/git-bug/git-bug"
+    },
+    {
+      "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
+      "hot": "2.9m",
+      "desc": "nyaa.sh",
+      "source": "tech",
+      "tag": "⬆️ 122 points",
+      "url": "https://nyaa.sh/reviews/mac-mini-m6-emulation"
+    },
+    {
+      "title": "Ink and Switch Interactive Homepage",
+      "hot": "2.9m",
+      "desc": "inkandswitch.com",
+      "source": "tech",
+      "tag": "⬆️ 72 points",
+      "url": "https://www.inkandswitch.com/"
+    },
+    {
+      "title": "F-Droid 2.0",
+      "hot": "2.9m",
+      "desc": "f-droid.org",
+      "source": "tech",
+      "tag": "⬆️ 1309 points",
+      "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html"
+    },
+    {
+      "title": "Topcoat is pushing the boundary of server applications with Rust",
+      "hot": "2.9m",
+      "desc": "tokio.rs",
+      "source": "tech",
+      "tag": "⬆️ 29 points",
+      "url": "https://tokio.rs/blog/2026-09-24-topcoat-server-applications"
+    },
+    {
+      "title": "CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2",
+      "hot": "2.9m",
+      "desc": "safateam.com",
+      "source": "tech",
+      "tag": "⬆️ 70 points",
+      "url": "https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2"
+    },
+    {
+      "title": "Show HN: Make cursed fonts like Times New Bastard",
+      "hot": "2.9m",
+      "desc": "bastardica.mitpit.com",
+      "source": "tech",
+      "tag": "⬆️ 752 points",
+      "url": "https://bastardica.mitpit.com"
+    },
+    {
+      "title": "Special Projects (2016)",
+      "hot": "2.9m",
+      "desc": "openai.com",
+      "source": "tech",
+      "tag": "⬆️ 40 points",
+      "url": "https://openai.com/index/special-projects/"
+    },
+    {
+      "title": "Boards of Casio",
+      "hot": "2.8m",
+      "desc": "ambionix.com",
+      "source": "tech",
+      "tag": "⬆️ 16 points",
+      "url": "https://www.ambionix.com/blog/boards-of-casio/"
+    },
+    {
+      "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+      "hot": "2.8m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 338 points",
+      "url": "https://github.com/devdotfast/whiteboard"
+    },
+    {
+      "title": "Amiga Screens: A Primer",
+      "hot": "2.8m",
+      "desc": "datagubbe.se",
+      "source": "tech",
+      "tag": "⬆️ 32 points",
+      "url": "https://www.datagubbe.se/amscr/"
+    },
+    {
+      "title": "Oracle on the hook to pay data centre investors even if site has no electricity",
+      "hot": "2.8m",
+      "desc": "ft.com",
+      "source": "tech",
+      "tag": "⬆️ 79 points",
+      "url": "https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016"
+    },
+    {
+      "title": "Show HN: Agentic CUDA Kernel Optimizer",
+      "hot": "2.8m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 21 points",
+      "url": "https://github.com/bertaye/agentic-cuda-optimizer"
+    },
+    {
+      "title": "Why is the liver so weirdly regenerative?",
+      "hot": "2.8m",
+      "desc": "dynomight.substack.com",
+      "source": "tech",
+      "tag": "⬆️ 452 points",
+      "url": "https://dynomight.substack.com/p/liver"
+    },
+    {
+      "title": "The Mafia may be keeping fentanyl out of Italy",
+      "hot": "2.7m",
+      "desc": "economist.com",
+      "source": "tech",
+      "tag": "⬆️ 118 points",
+      "url": "https://economist.com/europe/2026/09/24/the-mafia-may-be-keeping-fentanyl-out-of-italy"
+    },
+    {
+      "title": "2DWillNeverDie",
+      "hot": "2.7m",
+      "desc": "2dwillneverdie.com",
+      "source": "tech",
+      "tag": "⬆️ 270 points",
+      "url": "https://2dwillneverdie.com/"
+    },
+    {
+      "title": "What About Rails?",
+      "hot": "2.7m",
+      "desc": "jardo.dev",
+      "source": "tech",
+      "tag": "⬆️ 118 points",
+      "url": "https://jardo.dev/what-about-rails"
+    }
+  ],
+  "github": [
+    {
+      "title": "NandhaKishorM/laya: Non-autoregressive System 1 decision engine. Typed choice, s",
+      "hot": "⭐ 24.0k",
+      "desc": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with ",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/NandhaKishorM/laya"
+    },
+    {
+      "title": "zai-org/ZCode: Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+      "hot": "⭐ 6.8k",
+      "desc": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/zai-org/ZCode"
+    },
+    {
+      "title": "jev-chat/jev-chat-jarvis: 装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入",
+      "hot": "⭐ 6.5k",
+      "desc": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+      "source": "github",
+      "tag": "Kotlin",
+      "url": "https://github.com/jev-chat/jev-chat-jarvis"
+    },
+    {
+      "title": "mizorewww/laya-mlx: Native MLX runtime for Laya typed decision models — 7–14 ms ",
+      "hot": "⭐ 6.3k",
+      "desc": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/mizorewww/laya-mlx"
+    },
+    {
+      "title": "unreallabsai/unreal-agent: Async-first agent harness",
+      "hot": "⭐ 1.9k",
+      "desc": "Async-first agent harness",
+      "source": "github",
+      "tag": "Go",
+      "url": "https://github.com/unreallabsai/unreal-agent"
+    },
+    {
+      "title": "bespokelabsai/nimble: Local typed decisions, contrastive data curation, and mode",
+      "hot": "⭐ 1.8k",
+      "desc": "Local typed decisions, contrastive data curation, and model evaluation.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/bespokelabsai/nimble"
+    },
+    {
+      "title": "mizorewww/laya-coreml: Local Laya typed decisions on Apple Core ML and Neural En",
+      "hot": "⭐ 1.4k",
+      "desc": "Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decisions on M3 Max, reproducible speed and energy benchma",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/mizorewww/laya-coreml"
+    },
+    {
+      "title": "newliver666/apk-reverse: Suitable for Android APK reverse engineering analysis",
+      "hot": "⭐ 1.4k",
+      "desc": "Suitable for Android APK reverse engineering analysis",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/newliver666/apk-reverse"
+    },
+    {
+      "title": "driceroland/Search: A small, fast WebKit browser for macOS, by Office Commun.",
+      "hot": "⭐ 1.4k",
+      "desc": "A small, fast WebKit browser for macOS, by Office Commun.",
+      "source": "github",
+      "tag": "Swift",
+      "url": "https://github.com/driceroland/Search"
+    },
+    {
+      "title": "Contrastive-LM/CLM: ",
+      "hot": "⭐ 1.1k",
+      "desc": "Contrastive-LM/CLM",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/Contrastive-LM/CLM"
+    },
+    {
+      "title": "deepopen-com/deepopen: 非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, no",
+      "hot": "⭐ 1.0k",
+      "desc": "非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. ",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/deepopen-com/deepopen"
+    },
+    {
+      "title": "mikehasa/golive-skill: Take your agent-built product live: hosting, database, do",
+      "hot": "⭐ 929",
+      "desc": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node ",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/mikehasa/golive-skill"
+    },
+    {
+      "title": "Lumid-Off/AirCard-Windows: ",
+      "hot": "⭐ 901",
+      "desc": "Lumid-Off/AirCard-Windows",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/Lumid-Off/AirCard-Windows"
+    },
+    {
+      "title": "pallavi-shekhar/ai-engineering-interview-questions-company-wise: Your Cheat Shee",
+      "hot": "⭐ 887",
+      "desc": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
+      "source": "github",
+      "tag": "Markdown",
+      "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise"
+    },
+    {
+      "title": "heyjunpenn/awesome-jev: A verified, community-maintained catalog of 916 open-sou",
+      "hot": "⭐ 822",
+      "desc": "A verified, community-maintained catalog of 916 open-source projects built with Jev.",
+      "source": "github",
+      "tag": "Astro",
+      "url": "https://github.com/heyjunpenn/awesome-jev"
+    }
+  ],
   "space": [
+    {
+      "title": "Three Earth Explorer candidates go forward",
+      "hot": "9/25",
+      "desc": "From the ESA Blogs.",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Three_Earth_Explorer_candidates_go_forward"
+    },
+    {
+      "title": "Rocket Report: Era of cheap launch is over? Astra sets early 2027. target for return",
+      "hot": "9/25",
+      "desc": "\"The customer got comfortable with a high reliability and a low price.\"",
+      "source": "space",
+      "tag": "Arstechnica",
+      "url": "https://arstechnica.com/space/2026/09/rocket-report-era-of-cheap-launch-is-over-astra-sets-early-2027-target-for-return/"
+    },
+    {
+      "title": "ESA and the EU partner with Museo Galileo on new exhibition",
+      "hot": "9/25",
+      "desc": "The European Space Agency (ESA), Italy’s Museo Galileo - Institute and Museum of the History of Science, and the European Commission (EC) have partner",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/ESA_and_the_EU_partner_with_Museo_Galileo_on_new_exhibition"
+    },
+    {
+      "title": "Earth from Space: Venetian Lagoon",
+      "hot": "9/25",
+      "desc": "From the ESA Blogs.",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Earth_from_Space_Venetian_Lagoon"
+    },
+    {
+      "title": "MIRROR robot reflects future of in-orbit assembly",
+      "hot": "9/25",
+      "desc": "Like a climber, selecting and adjusting its grip on the next hold and slowly moving across a rockface, the robot seen here crawls across a dark labora",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/MIRROR_robot_reflects_future_of_in-orbit_assembly"
+    },
     {
       "title": "Callisto Reusable Rocket Demonstrator Takes Shape Ahead of 2027 Hop Test",
       "hot": "9/25",
@@ -81,492 +567,6 @@
       "source": "space",
       "tag": "NASA",
       "url": "https://www.nasa.gov/image-article/practicing-for-safe-landings-on-the-moon-and-beyond/"
-    },
-    {
-      "title": "True or false on space industry trends with Pacôme Révillon",
-      "hot": "9/24",
-      "desc": "\nIn this episode, SpaceNews’ Mike Gruss and Novaspace CEO Pacôme Révillon look at what to expect from the space industry in the next year by playing a",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/true-or-false-on-space-industry-trends-with-pacome-revillon/"
-    },
-    {
-      "title": "US-India Satellite Captures Time-lapse Video of Volcanic Eruption",
-      "hot": "9/24",
-      "desc": "Like tendrils on a vine, lava spreads out from the northern crater of Krasheninnikov, a volcano pair on the Pacific coast of Russia’s Kamchatka Penins",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/missions/nisar/us-india-satellite-captures-time-lapse-video-of-volcanic-eruption/"
-    },
-    {
-      "title": "Moog Completes ISO Class 8 Clean Room at Niagara Falls Facility to Expand Thruster Production",
-      "hot": "9/24",
-      "desc": "\nEast Aurora, NY — Moog Inc. (NYSE: MOG.A and MOG.B) announced the completion and commissioning of a new ISO Class 8 certified clean room at its Niaga",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/moog-completes-iso-class-8-clean-room-at-niagara-falls-facility-to-expand-thruster-production/"
-    },
-    {
-      "title": "NASA chief concerned China may deny access to parts of South Pole",
-      "hot": "9/24",
-      "desc": "\"If you come up short with who comes down the ladder first, the impact is felt around the world.\"",
-      "source": "space",
-      "tag": "Arstechnica",
-      "url": "https://arstechnica.com/space/2026/09/nasa-chief-concerned-china-may-deny-access-to-parts-of-south-pole/"
-    },
-    {
-      "title": "NASA to Study Human Health, Performance During Crew-13 Mission",
-      "hot": "9/24",
-      "desc": "During NASA’s SpaceX Crew‑13 mission aboard the International Space Station, astronauts will support a series of biomedical and human performance inve",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/humans-in-space/nasa-to-study-human-health-performance-during-crew-13-mission/"
-    }
-  ],
-  "tech": [
-    {
-      "title": "F-Droid 2.0",
-      "hot": "3.0m",
-      "desc": "f-droid.org",
-      "source": "tech",
-      "tag": "⬆️ 1181 points",
-      "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html"
-    },
-    {
-      "title": "CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2",
-      "hot": "3.0m",
-      "desc": "safateam.com",
-      "source": "tech",
-      "tag": "⬆️ 16 points",
-      "url": "https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2"
-    },
-    {
-      "title": "Show HN: Make cursed fonts like Times New Bastard",
-      "hot": "3.0m",
-      "desc": "bastardica.mitpit.com",
-      "source": "tech",
-      "tag": "⬆️ 653 points",
-      "url": "https://bastardica.mitpit.com"
-    },
-    {
-      "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
-      "hot": "3.0m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 286 points",
-      "url": "https://github.com/devdotfast/whiteboard"
-    },
-    {
-      "title": "Why is the liver so weirdly regenerative?",
-      "hot": "2.9m",
-      "desc": "dynomight.substack.com",
-      "source": "tech",
-      "tag": "⬆️ 379 points",
-      "url": "https://dynomight.substack.com/p/liver"
-    },
-    {
-      "title": "2DWillNeverDie",
-      "hot": "2.9m",
-      "desc": "2dwillneverdie.com",
-      "source": "tech",
-      "tag": "⬆️ 211 points",
-      "url": "https://2dwillneverdie.com/"
-    },
-    {
-      "title": "The Efficiency-Throughput Gap with GitHub Copilot",
-      "hot": "2.9m",
-      "desc": "cacm.acm.org",
-      "source": "tech",
-      "tag": "⬆️ 4 points",
-      "url": "https://cacm.acm.org/research/beyond-the-hype-the-efficiency-throughput-gap-with-github-copilot/"
-    },
-    {
-      "title": "Rails World 2026 Opening Keynote [video]",
-      "hot": "2.9m",
-      "desc": "youtube.com",
-      "source": "tech",
-      "tag": "⬆️ 317 points",
-      "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY"
-    },
-    {
-      "title": "Fearless SIMD v1.0",
-      "hot": "2.9m",
-      "desc": "linebender.org",
-      "source": "tech",
-      "tag": "⬆️ 247 points",
-      "url": "https://linebender.org/blog/fearless-simd-1-0/"
-    },
-    {
-      "title": "Toyota is taking the Corolla electric",
-      "hot": "2.9m",
-      "desc": "electrek.co",
-      "source": "tech",
-      "tag": "⬆️ 312 points",
-      "url": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/"
-    },
-    {
-      "title": "My weird new hobby: Wandering around Tokyo on Google Maps",
-      "hot": "2.9m",
-      "desc": "ahmedhossamdev.com",
-      "source": "tech",
-      "tag": "⬆️ 307 points",
-      "url": "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/"
-    },
-    {
-      "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
-      "hot": "2.8m",
-      "desc": "resobscura.substack.com",
-      "source": "tech",
-      "tag": "⬆️ 125 points",
-      "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical"
-    },
-    {
-      "title": "Google’s Project Suncatcher to put ML infrastructure in space",
-      "hot": "2.8m",
-      "desc": "blog.google",
-      "source": "tech",
-      "tag": "⬆️ 172 points",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/"
-    },
-    {
-      "title": "Two-tier encryption in the UK",
-      "hot": "2.8m",
-      "desc": "macanorak.com",
-      "source": "tech",
-      "tag": "⬆️ 437 points",
-      "url": "https://macanorak.com/two-tier-encryption-in-the-uk/"
-    },
-    {
-      "title": "Jev Based Code Review",
-      "hot": "2.8m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 14 points",
-      "url": "https://github.com/egma-ai/jev-code-reviewer"
-    },
-    {
-      "title": "Writing Parquet files using Haskell",
-      "hot": "2.8m",
-      "desc": "datahaskell.org",
-      "source": "tech",
-      "tag": "⬆️ 54 points",
-      "url": "https://www.datahaskell.org/blog/2026/09/18/writing-parquet-files-using-haskell.html"
-    },
-    {
-      "title": "Opus 5.5 is good at explainer videos",
-      "hot": "2.8m",
-      "desc": "launchvideo.io",
-      "source": "tech",
-      "tag": "⬆️ 229 points",
-      "url": "https://launchvideo.io"
-    },
-    {
-      "title": "Book review: Is parallel programming hard, and, if so, what can you do about it?",
-      "hot": "2.7m",
-      "desc": "ahelwer.ca",
-      "source": "tech",
-      "tag": "⬆️ 117 points",
-      "url": "https://ahelwer.ca/post/2026-09-21-concurrency-textbook/"
-    },
-    {
-      "title": "The Board Game of the Alpha Nerds (2014)",
-      "hot": "2.7m",
-      "desc": "grantland.com",
-      "source": "tech",
-      "tag": "⬆️ 80 points",
-      "url": "https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/"
-    },
-    {
-      "title": "California is chasing wealth that has feet",
-      "hot": "2.7m",
-      "desc": "blog.landeconomics.org",
-      "source": "tech",
-      "tag": "⬆️ 226 points",
-      "url": "https://blog.landeconomics.org/p/california-is-chasing-wealth-that"
-    }
-  ],
-  "github": [
-    {
-      "title": "NandhaKishorM/laya: Non-autoregressive System 1 decision engine. Typed choice, s",
-      "hot": "⭐ 23.6k",
-      "desc": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with ",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/NandhaKishorM/laya"
-    },
-    {
-      "title": "zai-org/ZCode: Z.ai's coding agent harness. Powerful, intelligent, extensible.",
-      "hot": "⭐ 6.7k",
-      "desc": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/zai-org/ZCode"
-    },
-    {
-      "title": "jev-chat/jev-chat-jarvis: 装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入",
-      "hot": "⭐ 6.3k",
-      "desc": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
-      "source": "github",
-      "tag": "Kotlin",
-      "url": "https://github.com/jev-chat/jev-chat-jarvis"
-    },
-    {
-      "title": "mizorewww/laya-mlx: Native MLX runtime for Laya typed decision models — 7–14 ms ",
-      "hot": "⭐ 6.3k",
-      "desc": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/mizorewww/laya-mlx"
-    },
-    {
-      "title": "unreallabsai/unreal-agent: Async-first agent harness",
-      "hot": "⭐ 1.9k",
-      "desc": "Async-first agent harness",
-      "source": "github",
-      "tag": "Go",
-      "url": "https://github.com/unreallabsai/unreal-agent"
-    },
-    {
-      "title": "bespokelabsai/nimble: Local typed decisions, contrastive data curation, and mode",
-      "hot": "⭐ 1.8k",
-      "desc": "Local typed decisions, contrastive data curation, and model evaluation.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/bespokelabsai/nimble"
-    },
-    {
-      "title": "mizorewww/laya-coreml: Local Laya typed decisions on Apple Core ML and Neural En",
-      "hot": "⭐ 1.4k",
-      "desc": "Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decisions on M3 Max, reproducible speed and energy benchma",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/mizorewww/laya-coreml"
-    },
-    {
-      "title": "newliver666/apk-reverse: Suitable for Android APK reverse engineering analysis",
-      "hot": "⭐ 1.4k",
-      "desc": "Suitable for Android APK reverse engineering analysis",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/newliver666/apk-reverse"
-    },
-    {
-      "title": "driceroland/Search: A small, fast WebKit browser for macOS, by Office Commun.",
-      "hot": "⭐ 1.3k",
-      "desc": "A small, fast WebKit browser for macOS, by Office Commun.",
-      "source": "github",
-      "tag": "Swift",
-      "url": "https://github.com/driceroland/Search"
-    },
-    {
-      "title": "deepopen-com/deepopen: 非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, no",
-      "hot": "⭐ 1.0k",
-      "desc": "非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. ",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/deepopen-com/deepopen"
-    },
-    {
-      "title": "Contrastive-LM/CLM: ",
-      "hot": "⭐ 967",
-      "desc": "Contrastive-LM/CLM",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/Contrastive-LM/CLM"
-    },
-    {
-      "title": "mikehasa/golive-skill: Take your agent-built product live: hosting, database, do",
-      "hot": "⭐ 912",
-      "desc": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node ",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/mikehasa/golive-skill"
-    },
-    {
-      "title": "Lumid-Off/AirCard-Windows: ",
-      "hot": "⭐ 889",
-      "desc": "Lumid-Off/AirCard-Windows",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/Lumid-Off/AirCard-Windows"
-    },
-    {
-      "title": "heyjunpenn/awesome-jev: A verified, community-maintained catalog of 916 open-sou",
-      "hot": "⭐ 814",
-      "desc": "A verified, community-maintained catalog of 916 open-source projects built with Jev.",
-      "source": "github",
-      "tag": "Astro",
-      "url": "https://github.com/heyjunpenn/awesome-jev"
-    },
-    {
-      "title": "kerpopule/hermes-jev-skills: Jev-powered model routing, memory, compaction, skil",
-      "hot": "⭐ 797",
-      "desc": "Jev-powered model routing, memory, compaction, skill selection, computer and browser use for Hermes agents (also Claude Code and Codex)",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/kerpopule/hermes-jev-skills"
-    }
-  ],
-  "dev": [
-    {
-      "title": "Disappeared Since March: Taking a Long Break Was My Best Decision Yet",
-      "hot": "❤️ 56 💬 17",
-      "desc": "If you checked my profile recently, you probably noticed my page has been completely quiet since...",
-      "source": "dev",
-      "tag": "Dev.to",
-      "url": "https://dev.to/maame-codes/disappeared-since-march-taking-a-long-break-was-my-best-decision-yet-1n45"
-    },
-    {
-      "title": "I Turned DEV.to Into a Walkable 3D Library — Debugging It Has Been a Nightmare",
-      "hot": "❤️ 60 💬 23",
-      "desc": "DEV Library is my idea of first-person 3D reimagining of DEV.to. Not a themed scene with some...",
-      "source": "dev",
-      "tag": "buildinpublic,  webdev",
-      "url": "https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd"
-    },
-    {
-      "title": "This video is about how this video was made",
-      "hot": "❤️ 17 💬 3",
-      "desc": "This video (the script, the voice timings, the source code, the storyboard, the briefs the subagents...",
-      "source": "dev",
-      "tag": "ai,  claude",
-      "url": "https://dev.to/peter/this-video-is-about-how-this-video-was-made-42hl"
-    },
-    {
-      "title": "Welcome Thread - v 394",
-      "hot": "❤️ 39 💬 138",
-      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
-      "source": "dev",
-      "tag": "welcome",
-      "url": "https://dev.to/sloan/welcome-thread-v-394-22l2"
-    },
-    {
-      "title": "Congrats to the Summer Bug Smash Winners!",
-      "hot": "❤️ 32 💬 13",
-      "desc": "We are thrilled to announce the winners of DEV's Big Summer Bug Smash powered by Sentry!  This...",
-      "source": "dev",
-      "tag": "devchallenge,  bugsmash",
-      "url": "https://dev.to/devteam/congrats-to-the-summer-bug-smash-winners-50ei"
-    },
-    {
-      "title": "Running a Jev-Style Decision Model on One TPU v6e: What Fits, What It Costs, and What Changes From a GPU",
-      "hot": "❤️ 9 💬 0",
-      "desc": "Gemma 4 E2B, E4B, 12B and a 26B-A4B fp8 build read by their label probabilities with vLLM on one TPU v6e chip, checked a",
-      "source": "dev",
-      "tag": "gemma,  googlecloud",
-      "url": "https://dev.to/gde/running-a-jev-style-decision-model-on-one-tpu-v6e-what-fits-what-it-costs-and-what-changes-from-1j0g"
-    },
-    {
-      "title": "Equip your agent with Google Cloud best practices using google-cloud-developer plugin",
-      "hot": "❤️ 6 💬 2",
-      "desc": "Coding agents in your terminal can scaffold microservices in seconds. But what happens when your...",
-      "source": "dev",
-      "tag": "ai,  agents",
-      "url": "https://dev.to/googleai/equip-your-agent-with-google-cloud-best-practices-using-google-cloud-developer-plugin-1bm1"
-    },
-    {
-      "title": "Plain Gemma 4 26B vs Jev on One EC2 L4: 2.1 Points Behind Overall, Level on Yes/No, 4.5 Behind on Multiple Choice",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Plain Gemma 4 26B read by its label probabilities against DiffusionGemma's one-step read, both as community 4-bit (AWQ) ",
-      "source": "dev",
-      "tag": "gemma,  aws",
-      "url": "https://dev.to/gde/plain-gemma-4-26b-vs-jev-on-one-ec2-l4-21-points-behind-overall-level-on-yesno-45-behind-on-15k6"
-    },
-    {
-      "title": "The Grand Unifying Architecture of Frontend",
-      "hot": "❤️ 17 💬 2",
-      "desc": "I used to joke that the history of frontend development could be retraced by following the argument...",
-      "source": "dev",
-      "tag": "webdev,  javascript",
-      "url": "https://dev.to/playfulprogramming/the-grand-unifying-architecture-of-frontend-bhk"
-    },
-    {
-      "title": "Claude Opus 5.5 is now available on Google Cloud",
-      "hot": "❤️ 15 💬 0",
-      "desc": "Everyday complex tasks? No problem. Opus 5.5 handles long-running coding and knowledge work while...",
-      "source": "dev",
-      "tag": "claude,  googlecloud",
-      "url": "https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh"
-    },
-    {
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 26 💬 22",
-      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
-      "source": "dev",
-      "tag": "top7,  discuss",
-      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2agl"
-    },
-    {
-      "title": "A 4 GB Laptop GPU vs a 6-Core CPU on Gemma 4, Re-Measured in ABBA Order: 4.1x",
-      "hot": "❤️ 9 💬 2",
-      "desc": "Gemma 4 E2B q4_0 served by llama.cpp on one laptop, CPU-only and on a GTX 1650 Ti, rebuilt on CUDA 13.4 and re-measured ",
-      "source": "dev",
-      "tag": "gemma,  llamacpp",
-      "url": "https://dev.to/gde/a-4-gb-laptop-gpu-vs-a-6-core-cpu-on-gemma-4-re-measured-in-abba-order-41x-5g56"
-    },
-    {
-      "title": "Join the Kaggle Benchmarking Challenge: $2,500 in Prizes for FIVE Winners!",
-      "hot": "❤️ 110 💬 10",
-      "desc": "We're excited to team up with Kaggle for a brand new challenge!  Running through October 11, the...",
-      "source": "dev",
-      "tag": "devchallenge,  kagglebenchmarkchallenge",
-      "url": "https://dev.to/devteam/join-the-kaggle-benchmarking-challenge-2500-in-prizes-for-five-winners-18ml"
-    },
-    {
-      "title": "Jev After Eight Days of Independent Tests: Level With Mid-Price LLMs, Behind the Frontier",
-      "hot": "❤️ 9 💬 0",
-      "desc": "What the independent measurements of TypeSafe's Jev found in its first eight days: arXiv preprints, GitHub evaluations a",
-      "source": "dev",
-      "tag": "ai,  machinelearning",
-      "url": "https://dev.to/gde/jev-after-eight-days-of-independent-tests-level-with-mid-price-llms-behind-the-frontier-1kln"
-    },
-    {
-      "title": "Deploying LiteLLM: An Open-Source AI Gateway",
-      "hot": "❤️ 9 💬 2",
-      "desc": "LiteLLM is an open-source AI gateway that provides a unified, OpenAI-compatible API for over 100...",
-      "source": "dev",
-      "tag": "ai,  llm",
-      "url": "https://dev.to/vultr/deploying-litellm-an-open-source-ai-gateway-2idp"
-    },
-    {
-      "title": "Production RAG on the Lakehouse with BigQuery Vector Search and Apache Iceberg",
-      "hot": "❤️ 8 💬 0",
-      "desc": "As teams rush to build with Generative AI, they're creating a dangerous chasm between their data and...",
-      "source": "dev",
-      "tag": "lakehouse,  bigquery",
-      "url": "https://dev.to/gde/production-rag-on-the-lakehouse-with-bigquery-vector-search-and-apache-iceberg-5g3"
-    },
-    {
-      "title": "Congrats to the DEV Weekend Challenge: Dog Days Edition Winners!",
-      "hot": "❤️ 81 💬 30",
-      "desc": "The results are in for our DEV Weekend Challenge: Dog Days Edition! Thank you for your patience while...",
-      "source": "dev",
-      "tag": "devchallenge,  weekendchallenge",
-      "url": "https://dev.to/devteam/congrats-to-the-dev-weekend-challenge-dog-days-edition-winners-300g"
-    },
-    {
-      "title": "The missing layer in AI tooling: sharing what your assistant already knows",
-      "hot": "❤️ 12 💬 16",
-      "desc": "It took my AI months to learn how I think, code, and ship. When a teammate joined the project, their...",
-      "source": "dev",
-      "tag": "ai,  opensource",
-      "url": "https://dev.to/uri_shmueli_a403e7acc04a8/the-missing-layer-in-ai-tooling-sharing-what-your-assistant-already-knows-1nch"
-    },
-    {
-      "title": "What Nobody Is Using in Your Google Cloud Projects, and What It Costs",
-      "hot": "❤️ 12 💬 1",
-      "desc": "A local-first CLI that scans Google Cloud projects for unused resources, prices each one from the Cloud Billing Catalog ",
-      "source": "dev",
-      "tag": "googlecloud,  python",
-      "url": "https://dev.to/gde/what-nobody-is-using-in-your-google-cloud-projects-and-what-it-costs-1k0"
-    },
-    {
-      "title": "What was your win this week?!",
-      "hot": "❤️ 76 💬 58",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "weeklyretro",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-2hcb"
     }
   ]
 }
