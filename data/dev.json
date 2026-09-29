@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "Count It or Compute It: When a Tool Returns Rows, the Models That Count Them Right Spend the Tokens",
-      "hot": "❤️ 5 💬 1",
+      "hot": "❤️ 5 💬 3",
       "desc": "A Kaggle benchmark of the step agents rarely test: counting what a tool returns. Ten models, 68 questions, one tool that",
       "source": "dev",
       "tag": "devchallenge,  kagglechallenge",
@@ -17,8 +17,16 @@
       "url": "https://dev.to/asyncinnovator/i-connected-a-fruit-fly-connectome-to-tic-tac-toe-with-a-minimax-safety-net-5bc0"
     },
     {
+      "title": "How to Build a Real-Time Voice AI Agent with the Gemini Live API",
+      "hot": "❤️ 5 💬 0",
+      "desc": "This post was originally posted on X, by Annie Wang, Developer Relations Engineer, Google Cloud and...",
+      "source": "dev",
+      "tag": "voiceai,  ai",
+      "url": "https://dev.to/googleai/how-to-build-a-real-time-voice-ai-agent-with-the-gemini-live-api-1dhe"
+    },
+    {
       "title": "Meme Monday",
-      "hot": "❤️ 9 💬 11",
+      "hot": "❤️ 9 💬 13",
       "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
       "source": "dev",
       "tag": "discuss,  watercooler",
@@ -31,6 +39,14 @@
       "source": "dev",
       "tag": "Dev.to",
       "url": "https://dev.to/googleai/claude-sonnet-55-is-now-available-on-google-cloud-168h"
+    },
+    {
+      "title": "7 ways to lock down AI agent sandboxes in production (beyond Docker containers)",
+      "hot": "❤️ 5 💬 0",
+      "desc": "Running an autonomous coding or ops agent directly on your laptop feels like a superpower for the...",
+      "source": "dev",
+      "tag": "agents,  sandbox",
+      "url": "https://dev.to/googleai/7-ways-to-lock-down-ai-agent-sandboxes-in-production-beyond-docker-containers-2bg3"
     },
     {
       "title": "The Sand in the Oyster: Why Riverpod Was Needed, and Why You Don't Need It Any More",
@@ -130,7 +146,7 @@
     },
     {
       "title": "Welcome Thread - v 394",
-      "hot": "❤️ 70 💬 373",
+      "hot": "❤️ 70 💬 378",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
@@ -143,23 +159,7 @@
       "source": "dev",
       "tag": "gemma,  llamacpp",
       "url": "https://dev.to/gde/a-4-gb-laptop-gpu-vs-a-6-core-cpu-on-gemma-4-re-measured-in-abba-order-41x-5g56"
-    },
-    {
-      "title": "An introverted dev in an extroverted world",
-      "hot": "❤️ 34 💬 29",
-      "desc": "\"Explain it to me in dev terms.\"  My social battery has a rate limit.  The world isn't made for...",
-      "source": "dev",
-      "tag": "watercooler,  career",
-      "url": "https://dev.to/ikrame-ih/an-introverted-dev-in-an-extroverted-world-4p04"
-    },
-    {
-      "title": "Two Iceberg Clients, One Protocol: Where the Time Goes",
-      "hot": "❤️ 7 💬 0",
-      "desc": "Step by step: timing the Rust and Python Iceberg REST clients on the same operations, on a local catalog and on BigLake ",
-      "source": "dev",
-      "tag": "rust,  python",
-      "url": "https://dev.to/gde/two-iceberg-clients-one-protocol-where-the-time-goes-4g88"
     }
   ],
-  "updatedAt": "2026-09-28T20:36:54.713Z"
+  "updatedAt": "2026-09-29T00:38:34.801Z"
 }

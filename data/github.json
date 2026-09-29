@@ -1,28 +1,12 @@
 {
   "data": [
     {
-      "title": "jev-chat/jev-chat-jarvis: 装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入",
-      "hot": "⭐ 6.9k",
-      "desc": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
-      "source": "github",
-      "tag": "Kotlin",
-      "url": "https://github.com/jev-chat/jev-chat-jarvis"
-    },
-    {
       "title": "Contrastive-LM/CLM: ",
       "hot": "⭐ 2.3k",
       "desc": "Contrastive-LM/CLM",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/Contrastive-LM/CLM"
-    },
-    {
-      "title": "unreallabsai/unreal-agent: Async-first agent harness",
-      "hot": "⭐ 2.0k",
-      "desc": "Async-first agent harness",
-      "source": "github",
-      "tag": "Go",
-      "url": "https://github.com/unreallabsai/unreal-agent"
     },
     {
       "title": "tobi/disktree: A treemap for finding and removing what fills your disk, for Omar",
@@ -34,7 +18,7 @@
     },
     {
       "title": "mexicat/pdoom-video: Code-rendered music video for \"I'm Upping My P(doom)\"",
-      "hot": "⭐ 1.7k",
+      "hot": "⭐ 1.8k",
       "desc": "Code-rendered music video for \"I'm Upping My P(doom)\"",
       "source": "github",
       "tag": "TypeScript",
@@ -49,6 +33,14 @@
       "url": "https://github.com/yetone/magpie"
     },
     {
+      "title": "dzhng/jevgrep: Find code by asking what it does. A CLI for coding agents that us",
+      "hot": "⭐ 1.4k",
+      "desc": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/dzhng/jevgrep"
+    },
+    {
       "title": "JohnHeibel/PDoomVideo: Source code for the Claude Opus 5.5 music video for I'm U",
       "hot": "⭐ 1.4k",
       "desc": "Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)",
@@ -57,20 +49,12 @@
       "url": "https://github.com/JohnHeibel/PDoomVideo"
     },
     {
-      "title": "dzhng/jevgrep: Find code by asking what it does. A CLI for coding agents that us",
-      "hot": "⭐ 1.3k",
-      "desc": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+      "title": "Niko1221/Strata: Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click i",
+      "hot": "⭐ 1.1k",
+      "desc": "Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost,",
       "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/dzhng/jevgrep"
-    },
-    {
-      "title": "deepopen-com/deepopen: 非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, no",
-      "hot": "⭐ 1.0k",
-      "desc": "非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. ",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/deepopen-com/deepopen"
+      "tag": "C++",
+      "url": "https://github.com/Niko1221/Strata"
     },
     {
       "title": "mikehasa/golive-skill: Take your agent-built product live: hosting, database, do",
@@ -89,16 +73,8 @@
       "url": "https://github.com/kryvora-network/kryvora-node"
     },
     {
-      "title": "Niko1221/Strata: Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click i",
-      "hot": "⭐ 991",
-      "desc": "Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost,",
-      "source": "github",
-      "tag": "C++",
-      "url": "https://github.com/Niko1221/Strata"
-    },
-    {
       "title": "852wa/JIZURA: 歌詞から文字PVを自動で組み立てるブラウザアプリ",
-      "hot": "⭐ 956",
+      "hot": "⭐ 958",
       "desc": "歌詞から文字PVを自動で組み立てるブラウザアプリ",
       "source": "github",
       "tag": "HTML",
@@ -106,7 +82,7 @@
     },
     {
       "title": "dgreenheck/tidewater: Coastal town built with Opus 5.5",
-      "hot": "⭐ 900",
+      "hot": "⭐ 913",
       "desc": "Coastal town built with Opus 5.5",
       "source": "github",
       "tag": "JavaScript",
@@ -119,7 +95,31 @@
       "source": "github",
       "tag": "JavaScript",
       "url": "https://github.com/riba2534/claude-opus-5-5-demo"
+    },
+    {
+      "title": "ollaya-dev/ollaya: Run open decision models locally: pull and serve Laya, decide",
+      "hot": "⭐ 878",
+      "desc": "Run open decision models locally: pull and serve Laya, decider, NLI and GLiClass behind a TypeSafe-compatible API. Ollama for decision models.",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/ollaya-dev/ollaya"
+    },
+    {
+      "title": "feitangyuan/onetake: Motion films that never cut to the next slide: every beat g",
+      "hot": "⭐ 836",
+      "desc": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Clau",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/feitangyuan/onetake"
+    },
+    {
+      "title": "supermemoryai/company-brain: Open-sourcing our company brain - A teammate in you",
+      "hot": "⭐ 797",
+      "desc": "Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/supermemoryai/company-brain"
     }
   ],
-  "updatedAt": "2026-09-28T20:36:54.713Z"
+  "updatedAt": "2026-09-29T00:38:34.801Z"
 }
