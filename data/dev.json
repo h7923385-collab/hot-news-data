@@ -1,12 +1,165 @@
 {
   "data": [
     {
-      "title": "暂无 dev 数据",
-      "hot": "",
-      "desc": "数据加载中，请稍后刷新",
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "hot": "❤️ 34 💬 9",
+      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
       "source": "dev",
-      "tag": "loading"
+      "tag": "top7,  discuss",
+      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3egf"
+    },
+    {
+      "title": "Count It or Compute It: When a Tool Returns Rows, the Models That Count Them Right Spend the Tokens",
+      "hot": "❤️ 12 💬 4",
+      "desc": "A Kaggle benchmark of the step agents rarely test: counting what a tool returns. Ten models, 68 questions, one tool that",
+      "source": "dev",
+      "tag": "devchallenge,  kagglechallenge",
+      "url": "https://dev.to/gde/count-it-or-compute-it-when-a-tool-returns-rows-the-models-that-count-them-right-spend-the-tokens-2hae"
+    },
+    {
+      "title": "Meme Monday",
+      "hot": "❤️ 13 💬 19",
+      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
+      "source": "dev",
+      "tag": "discuss,  watercooler",
+      "url": "https://dev.to/ben/meme-monday-2com"
+    },
+    {
+      "title": "How to Build a Real-Time Voice AI Agent with the Gemini Live API",
+      "hot": "❤️ 8 💬 0",
+      "desc": "This post was originally posted on X, by Annie Wang, Developer Relations Engineer, Google Cloud and...",
+      "source": "dev",
+      "tag": "voiceai,  ai",
+      "url": "https://dev.to/googleai/how-to-build-a-real-time-voice-ai-agent-with-the-gemini-live-api-1dhe"
+    },
+    {
+      "title": "Claude Sonnet 5.5 is now available on Google Cloud",
+      "hot": "❤️ 13 💬 2",
+      "desc": "Designed for coding and knowledge work, it helps you build features, and create clean work...",
+      "source": "dev",
+      "tag": "Dev.to",
+      "url": "https://dev.to/googleai/claude-sonnet-55-is-now-available-on-google-cloud-168h"
+    },
+    {
+      "title": "7 ways to lock down AI agent sandboxes in production (beyond Docker containers)",
+      "hot": "❤️ 7 💬 0",
+      "desc": "Running an autonomous coding or ops agent directly on your laptop feels like a superpower for the...",
+      "source": "dev",
+      "tag": "agents,  sandbox",
+      "url": "https://dev.to/googleai/7-ways-to-lock-down-ai-agent-sandboxes-in-production-beyond-docker-containers-2bg3"
+    },
+    {
+      "title": "Disappeared Since March: Taking a Long Break Was My Best Decision Yet",
+      "hot": "❤️ 83 💬 31",
+      "desc": "If you checked my profile recently, you probably noticed my page has been completely quiet since...",
+      "source": "dev",
+      "tag": "Dev.to",
+      "url": "https://dev.to/maame-codes/disappeared-since-march-taking-a-long-break-was-my-best-decision-yet-1n45"
+    },
+    {
+      "title": "I connected a fruit fly connectome to tic-tac-toe (with a minimax safety net)",
+      "hot": "❤️ 15 💬 4",
+      "desc": "Scientists have mapped the whole nervous system of a fruit fly: every neuron and every connection, in...",
+      "source": "dev",
+      "tag": "python,  opensource",
+      "url": "https://dev.to/asyncinnovator/i-connected-a-fruit-fly-connectome-to-tic-tac-toe-with-a-minimax-safety-net-5bc0"
+    },
+    {
+      "title": "Claude Opus 5.5 is now available on Google Cloud",
+      "hot": "❤️ 15 💬 0",
+      "desc": "Everyday complex tasks? No problem. Opus 5.5 handles long-running coding and knowledge work while...",
+      "source": "dev",
+      "tag": "claude,  googlecloud",
+      "url": "https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh"
+    },
+    {
+      "title": "I Built a Better Codex Pet Than OpenAI Did",
+      "hot": "❤️ 40 💬 8",
+      "desc": "Sometimes you just have to let the agent cook.           Mika vs. a multi-billion-dollar...",
+      "source": "dev",
+      "tag": "opensource,  python",
+      "url": "https://dev.to/mikachu/i-built-a-better-codex-pet-than-openai-did-eib"
+    },
+    {
+      "title": "The Sand in the Oyster: Why Riverpod Was Needed, and Why You Don't Need It Any More",
+      "hot": "❤️ 10 💬 1",
+      "desc": "The hidden mechanical flaw in Flutter's InheritedWidget that forced the creation of Riverpod, why escaping the widget tr",
+      "source": "dev",
+      "tag": "flutter,  dart",
+      "url": "https://dev.to/gde/the-sand-in-the-oyster-why-riverpod-was-needed-and-why-you-dont-need-it-any-more-204o"
+    },
+    {
+      "title": "Your Type Guard Can Silently Drift from Your TypeScript Type 🔧",
+      "hot": "❤️ 71 💬 28",
+      "desc": "Hoi hoi! 👋  I'm @nyaomaru, a frontend engineer just back from a short vacation on Texel, a small...",
+      "source": "dev",
+      "tag": "typescript,  javascript",
+      "url": "https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57"
+    },
+    {
+      "title": "Claude on Google Cloud workshop | NYC | 9/30",
+      "hot": "❤️ 14 💬 1",
+      "desc": "On Wednesday, September 30, Anthropic and Google Cloud are co-hosting a hands-on developer workshop...",
+      "source": "dev",
+      "tag": "eventsinyourcity,  claude",
+      "url": "https://dev.to/googleai/claude-on-google-cloud-workshop-nyc-930-17jl"
+    },
+    {
+      "title": "Deploying LiteLLM: An Open-Source AI Gateway",
+      "hot": "❤️ 9 💬 2",
+      "desc": "LiteLLM is an open-source AI gateway that provides a unified, OpenAI-compatible API for over 100...",
+      "source": "dev",
+      "tag": "ai,  llm",
+      "url": "https://dev.to/vultr/deploying-litellm-an-open-source-ai-gateway-2idp"
+    },
+    {
+      "title": "I Turned DEV.to Into a Walkable 3D Library — Debugging It Has Been a Nightmare",
+      "hot": "❤️ 75 💬 31",
+      "desc": "DEV Library is my idea of first-person 3D reimagining of DEV.to. Not a themed scene with some...",
+      "source": "dev",
+      "tag": "buildinpublic,  webdev",
+      "url": "https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd"
+    },
+    {
+      "title": "8 Posts by Women on DEV That Deserve More Than a Once-a-Year Spotlight",
+      "hot": "❤️ 67 💬 25",
+      "desc": "We went looking for good posts by women on DEV. Not \"inspirational,\" not \"diverse\" but just genuinely...",
+      "source": "dev",
+      "tag": "wecoded,  womenintech",
+      "url": "https://dev.to/sheships/8-posts-by-women-on-dev-that-deserve-more-than-a-once-a-year-spotlight-27dc"
+    },
+    {
+      "title": "Congrats to the DEV Weekend Challenge: Dog Days Edition Winners!",
+      "hot": "❤️ 81 💬 30",
+      "desc": "The results are in for our DEV Weekend Challenge: Dog Days Edition! Thank you for your patience while...",
+      "source": "dev",
+      "tag": "devchallenge,  weekendchallenge",
+      "url": "https://dev.to/devteam/congrats-to-the-dev-weekend-challenge-dog-days-edition-winners-300g"
+    },
+    {
+      "title": "Welcome Thread - v 394",
+      "hot": "❤️ 83 💬 475",
+      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
+      "source": "dev",
+      "tag": "welcome",
+      "url": "https://dev.to/sloan/welcome-thread-v-394-22l2"
+    },
+    {
+      "title": "A 4 GB Laptop GPU vs a 6-Core CPU on Gemma 4, Re-Measured in ABBA Order: 4.1x",
+      "hot": "❤️ 10 💬 2",
+      "desc": "Gemma 4 E2B q4_0 served by llama.cpp on one laptop, CPU-only and on a GTX 1650 Ti, rebuilt on CUDA 13.4 and re-measured ",
+      "source": "dev",
+      "tag": "gemma,  llamacpp",
+      "url": "https://dev.to/gde/a-4-gb-laptop-gpu-vs-a-6-core-cpu-on-gemma-4-re-measured-in-abba-order-41x-5g56"
+    },
+    {
+      "title": "An introverted dev in an extroverted world",
+      "hot": "❤️ 34 💬 29",
+      "desc": "\"Explain it to me in dev terms.\"  My social battery has a rate limit.  The world isn't made for...",
+      "source": "dev",
+      "tag": "watercooler,  career",
+      "url": "https://dev.to/ikrame-ih/an-introverted-dev-in-an-extroverted-world-4p04"
     }
   ],
-  "updatedAt": "2026-09-29T13:08:18.129Z"
+  "updatedAt": "2026-09-29T18:42:49.365Z"
 }

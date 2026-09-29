@@ -1,169 +1,387 @@
 {
-  "updatedAt": "2026-09-29T13:08:18.129Z",
+  "updatedAt": "2026-09-29T18:42:49.365Z",
   "source": "live",
-  "tech": [
+  "dev": [
     {
-      "title": "You Are No Longer Invited to Dinner",
-      "hot": "3.0m",
-      "desc": "derekthompson.org",
-      "source": "tech",
-      "tag": "⬆️ 209 points",
-      "url": "https://www.derekthompson.org/p/the-death-of-the-american-host"
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "hot": "❤️ 34 💬 9",
+      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+      "source": "dev",
+      "tag": "top7,  discuss",
+      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3egf"
     },
     {
-      "title": "Delhi Cut Electricity Loss from 50 to 5 Percent",
+      "title": "Count It or Compute It: When a Tool Returns Rows, the Models That Count Them Right Spend the Tokens",
+      "hot": "❤️ 12 💬 4",
+      "desc": "A Kaggle benchmark of the step agents rarely test: counting what a tool returns. Ten models, 68 questions, one tool that",
+      "source": "dev",
+      "tag": "devchallenge,  kagglechallenge",
+      "url": "https://dev.to/gde/count-it-or-compute-it-when-a-tool-returns-rows-the-models-that-count-them-right-spend-the-tokens-2hae"
+    },
+    {
+      "title": "Meme Monday",
+      "hot": "❤️ 13 💬 19",
+      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
+      "source": "dev",
+      "tag": "discuss,  watercooler",
+      "url": "https://dev.to/ben/meme-monday-2com"
+    },
+    {
+      "title": "How to Build a Real-Time Voice AI Agent with the Gemini Live API",
+      "hot": "❤️ 8 💬 0",
+      "desc": "This post was originally posted on X, by Annie Wang, Developer Relations Engineer, Google Cloud and...",
+      "source": "dev",
+      "tag": "voiceai,  ai",
+      "url": "https://dev.to/googleai/how-to-build-a-real-time-voice-ai-agent-with-the-gemini-live-api-1dhe"
+    },
+    {
+      "title": "Claude Sonnet 5.5 is now available on Google Cloud",
+      "hot": "❤️ 13 💬 2",
+      "desc": "Designed for coding and knowledge work, it helps you build features, and create clean work...",
+      "source": "dev",
+      "tag": "Dev.to",
+      "url": "https://dev.to/googleai/claude-sonnet-55-is-now-available-on-google-cloud-168h"
+    },
+    {
+      "title": "7 ways to lock down AI agent sandboxes in production (beyond Docker containers)",
+      "hot": "❤️ 7 💬 0",
+      "desc": "Running an autonomous coding or ops agent directly on your laptop feels like a superpower for the...",
+      "source": "dev",
+      "tag": "agents,  sandbox",
+      "url": "https://dev.to/googleai/7-ways-to-lock-down-ai-agent-sandboxes-in-production-beyond-docker-containers-2bg3"
+    },
+    {
+      "title": "Disappeared Since March: Taking a Long Break Was My Best Decision Yet",
+      "hot": "❤️ 83 💬 31",
+      "desc": "If you checked my profile recently, you probably noticed my page has been completely quiet since...",
+      "source": "dev",
+      "tag": "Dev.to",
+      "url": "https://dev.to/maame-codes/disappeared-since-march-taking-a-long-break-was-my-best-decision-yet-1n45"
+    },
+    {
+      "title": "I connected a fruit fly connectome to tic-tac-toe (with a minimax safety net)",
+      "hot": "❤️ 15 💬 4",
+      "desc": "Scientists have mapped the whole nervous system of a fruit fly: every neuron and every connection, in...",
+      "source": "dev",
+      "tag": "python,  opensource",
+      "url": "https://dev.to/asyncinnovator/i-connected-a-fruit-fly-connectome-to-tic-tac-toe-with-a-minimax-safety-net-5bc0"
+    },
+    {
+      "title": "Claude Opus 5.5 is now available on Google Cloud",
+      "hot": "❤️ 15 💬 0",
+      "desc": "Everyday complex tasks? No problem. Opus 5.5 handles long-running coding and knowledge work while...",
+      "source": "dev",
+      "tag": "claude,  googlecloud",
+      "url": "https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh"
+    },
+    {
+      "title": "I Built a Better Codex Pet Than OpenAI Did",
+      "hot": "❤️ 40 💬 8",
+      "desc": "Sometimes you just have to let the agent cook.           Mika vs. a multi-billion-dollar...",
+      "source": "dev",
+      "tag": "opensource,  python",
+      "url": "https://dev.to/mikachu/i-built-a-better-codex-pet-than-openai-did-eib"
+    },
+    {
+      "title": "The Sand in the Oyster: Why Riverpod Was Needed, and Why You Don't Need It Any More",
+      "hot": "❤️ 10 💬 1",
+      "desc": "The hidden mechanical flaw in Flutter's InheritedWidget that forced the creation of Riverpod, why escaping the widget tr",
+      "source": "dev",
+      "tag": "flutter,  dart",
+      "url": "https://dev.to/gde/the-sand-in-the-oyster-why-riverpod-was-needed-and-why-you-dont-need-it-any-more-204o"
+    },
+    {
+      "title": "Your Type Guard Can Silently Drift from Your TypeScript Type 🔧",
+      "hot": "❤️ 71 💬 28",
+      "desc": "Hoi hoi! 👋  I'm @nyaomaru, a frontend engineer just back from a short vacation on Texel, a small...",
+      "source": "dev",
+      "tag": "typescript,  javascript",
+      "url": "https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57"
+    },
+    {
+      "title": "Claude on Google Cloud workshop | NYC | 9/30",
+      "hot": "❤️ 14 💬 1",
+      "desc": "On Wednesday, September 30, Anthropic and Google Cloud are co-hosting a hands-on developer workshop...",
+      "source": "dev",
+      "tag": "eventsinyourcity,  claude",
+      "url": "https://dev.to/googleai/claude-on-google-cloud-workshop-nyc-930-17jl"
+    },
+    {
+      "title": "Deploying LiteLLM: An Open-Source AI Gateway",
+      "hot": "❤️ 9 💬 2",
+      "desc": "LiteLLM is an open-source AI gateway that provides a unified, OpenAI-compatible API for over 100...",
+      "source": "dev",
+      "tag": "ai,  llm",
+      "url": "https://dev.to/vultr/deploying-litellm-an-open-source-ai-gateway-2idp"
+    },
+    {
+      "title": "I Turned DEV.to Into a Walkable 3D Library — Debugging It Has Been a Nightmare",
+      "hot": "❤️ 75 💬 31",
+      "desc": "DEV Library is my idea of first-person 3D reimagining of DEV.to. Not a themed scene with some...",
+      "source": "dev",
+      "tag": "buildinpublic,  webdev",
+      "url": "https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd"
+    },
+    {
+      "title": "8 Posts by Women on DEV That Deserve More Than a Once-a-Year Spotlight",
+      "hot": "❤️ 67 💬 25",
+      "desc": "We went looking for good posts by women on DEV. Not \"inspirational,\" not \"diverse\" but just genuinely...",
+      "source": "dev",
+      "tag": "wecoded,  womenintech",
+      "url": "https://dev.to/sheships/8-posts-by-women-on-dev-that-deserve-more-than-a-once-a-year-spotlight-27dc"
+    },
+    {
+      "title": "Congrats to the DEV Weekend Challenge: Dog Days Edition Winners!",
+      "hot": "❤️ 81 💬 30",
+      "desc": "The results are in for our DEV Weekend Challenge: Dog Days Edition! Thank you for your patience while...",
+      "source": "dev",
+      "tag": "devchallenge,  weekendchallenge",
+      "url": "https://dev.to/devteam/congrats-to-the-dev-weekend-challenge-dog-days-edition-winners-300g"
+    },
+    {
+      "title": "Welcome Thread - v 394",
+      "hot": "❤️ 83 💬 475",
+      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
+      "source": "dev",
+      "tag": "welcome",
+      "url": "https://dev.to/sloan/welcome-thread-v-394-22l2"
+    },
+    {
+      "title": "A 4 GB Laptop GPU vs a 6-Core CPU on Gemma 4, Re-Measured in ABBA Order: 4.1x",
+      "hot": "❤️ 10 💬 2",
+      "desc": "Gemma 4 E2B q4_0 served by llama.cpp on one laptop, CPU-only and on a GTX 1650 Ti, rebuilt on CUDA 13.4 and re-measured ",
+      "source": "dev",
+      "tag": "gemma,  llamacpp",
+      "url": "https://dev.to/gde/a-4-gb-laptop-gpu-vs-a-6-core-cpu-on-gemma-4-re-measured-in-abba-order-41x-5g56"
+    },
+    {
+      "title": "An introverted dev in an extroverted world",
+      "hot": "❤️ 34 💬 29",
+      "desc": "\"Explain it to me in dev terms.\"  My social battery has a rate limit.  The world isn't made for...",
+      "source": "dev",
+      "tag": "watercooler,  career",
+      "url": "https://dev.to/ikrame-ih/an-introverted-dev-in-an-extroverted-world-4p04"
+    }
+  ],
+  "tech": [
+    {
+      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+      "hot": "3.0m",
+      "desc": "openai.com",
+      "source": "tech",
+      "tag": "⬆️ 393 points",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol/"
+    },
+    {
+      "title": "Dots: Always-on agents",
+      "hot": "3.0m",
+      "desc": "openai.com",
+      "source": "tech",
+      "tag": "⬆️ 282 points",
+      "url": "https://openai.com/index/introducing-dots/"
+    },
+    {
+      "title": "Tcl/Tk 9.1 Released",
+      "hot": "3.0m",
+      "desc": "tcl-lang.org",
+      "source": "tech",
+      "tag": "⬆️ 76 points",
+      "url": "https://www.tcl-lang.org/software/tcltk/9.1.html"
+    },
+    {
+      "title": "How Delhi cut electricity loss from 50 to 5 percent",
       "hot": "3.0m",
       "desc": "spectrum.ieee.org",
       "source": "tech",
-      "tag": "⬆️ 23 points",
+      "tag": "⬆️ 342 points",
       "url": "https://spectrum.ieee.org/delhi-electricity-loss"
     },
     {
-      "title": "AI companies leak data to advertisers [pdf]",
-      "hot": "3.0m",
+      "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
+      "hot": "2.9m",
+      "desc": "eff.org",
+      "source": "tech",
+      "tag": "⬆️ 254 points",
+      "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising"
+    },
+    {
+      "title": "New PlayStation 5 Console Jailbreak Released",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 61 points",
+      "url": "https://github.com/ntfargo/Relapse-Exploit"
+    },
+    {
+      "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
+      "hot": "2.9m",
       "desc": "jorgegarciaherrero.com",
       "source": "tech",
-      "tag": "⬆️ 211 points",
+      "tag": "⬆️ 385 points",
       "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf"
     },
     {
-      "title": "Jeeves. Reasoning improves Jev-like decision models",
-      "hot": "3.0m",
-      "desc": "github.com",
+      "title": "NAND-16: a computer built from 277,248 NAND gates",
+      "hot": "2.9m",
+      "desc": "somethingbig.ai",
       "source": "tech",
-      "tag": "⬆️ 73 points",
-      "url": "https://github.com/PostHog/jeeves"
+      "tag": "⬆️ 18 points",
+      "url": "https://somethingbig.ai/computer"
     },
     {
-      "title": "500k facial scans at UK stations yield no arrests, 1 false positive",
+      "title": "Virus Stole a Human Gene and Won't Let Go of It",
       "hot": "2.9m",
-      "desc": "theguardian.com",
+      "desc": "nytimes.com",
       "source": "tech",
-      "tag": "⬆️ 126 points",
-      "url": "https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive"
+      "tag": "⬆️ 30 points",
+      "url": "https://www.nytimes.com/2026/09/28/science/virus-molluscum-human-gene.html"
     },
     {
-      "title": "Using any C++ library in Godot",
+      "title": "Walking Men",
       "hot": "2.9m",
-      "desc": "blog.conan.io",
+      "desc": "bookofjoe2.blogspot.com",
       "source": "tech",
-      "tag": "⬆️ 79 points",
-      "url": "https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html"
-    },
-    {
-      "title": "US sanctions force The Netherlands off Microsoft and toward alternative NixOS",
-      "hot": "2.9m",
-      "desc": "tomshardware.com",
-      "source": "tech",
-      "tag": "⬆️ 102 points",
-      "url": "https://www.tomshardware.com/software/the-netherlands-is-rolling-alternative-nixos-based-software-ecosystem-after-u-s-sanctions-on-icc-took-microsoft-off-the-table-trial-programs-running-now-first-release-expected-at-end-of-2027"
+      "tag": "⬆️ 57 points",
+      "url": "https://bookofjoe2.blogspot.com/2026/09/walking-men.html"
     },
     {
       "title": "Without the Hot Air",
       "hot": "2.9m",
       "desc": "withouthotair.com",
       "source": "tech",
-      "tag": "⬆️ 3 points",
+      "tag": "⬆️ 105 points",
       "url": "https://www.withouthotair.com/"
     },
     {
-      "title": "Phyllotaxis: An audio-reactive LED display",
-      "hot": "2.9m",
-      "desc": "jagi.studio",
-      "source": "tech",
-      "tag": "⬆️ 176 points",
-      "url": "https://jagi.studio/posts/phyllotaxis/"
-    },
-    {
-      "title": "Booted up in 1993, this server still runs – but not for much longer (2017)",
-      "hot": "2.9m",
-      "desc": "computerworld.com",
-      "source": "tech",
-      "tag": "⬆️ 106 points",
-      "url": "https://www.computerworld.com/article/1673071/booted-up-in-1993-this-server-still-runs-but-not-for-much-longer-2.html"
-    },
-    {
-      "title": "The systems that no one will test",
-      "hot": "2.9m",
-      "desc": "blog.christianperone.com",
-      "source": "tech",
-      "tag": "⬆️ 98 points",
-      "url": "https://blog.christianperone.com/2026/09/the-systems-that-no-one-will-test/"
-    },
-    {
-      "title": "California farmers are struggling to sell grapes as demand for wine drops",
-      "hot": "2.8m",
-      "desc": "kqed.org",
-      "source": "tech",
-      "tag": "⬆️ 277 points",
-      "url": "https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops"
-    },
-    {
-      "title": "Show HN: Raven – The harness of harnesses, built for RSI",
+      "title": "Jeeves. Reasoning improves Jev-like decision models",
       "hot": "2.8m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 14 points",
-      "url": "https://github.com/EverMind-AI/Raven"
+      "tag": "⬆️ 193 points",
+      "url": "https://github.com/PostHog/jeeves"
     },
     {
-      "title": "Startup Nights 2026 is comming up on 5-6 Nov. in Switzerland",
+      "title": "Phyllotaxis: An audio-reactive LED display",
       "hot": "2.8m",
-      "desc": "startup-nights.ch",
+      "desc": "jagi.studio",
       "source": "tech",
-      "tag": "⬆️ 33 points",
-      "url": "https://www.startup-nights.ch/event/"
+      "tag": "⬆️ 225 points",
+      "url": "https://jagi.studio/posts/phyllotaxis/"
     },
     {
-      "title": "Software occlusion culling in Block Game",
+      "title": "DevDay 2026 Recap",
       "hot": "2.8m",
-      "desc": "enikofox.com",
+      "desc": "openai.com",
       "source": "tech",
       "tag": "⬆️ 47 points",
-      "url": "https://enikofox.com/posts/software-rendered-occlusion-culling-in-block-game/"
+      "url": "https://openai.com/index/devday-2026-recap/"
     },
     {
-      "title": "Four CHI '26 papers I wish I wrote",
+      "title": "ChatGPT Pro 500",
       "hot": "2.8m",
-      "desc": "countingfromzero.blog",
+      "desc": "help.openai.com",
       "source": "tech",
-      "tag": "⬆️ 21 points",
-      "url": "https://countingfromzero.blog/2026/04/24/four-chi-26-papers-i-wish-i-wrote/"
+      "tag": "⬆️ 115 points",
+      "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers"
     },
     {
-      "title": "Pirating the Pirates",
+      "title": "You are no longer invited to dinner",
       "hot": "2.8m",
-      "desc": "mubi.com",
+      "desc": "derekthompson.org",
       "source": "tech",
-      "tag": "⬆️ 630 points",
-      "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates"
+      "tag": "⬆️ 590 points",
+      "url": "https://www.derekthompson.org/p/the-death-of-the-american-host"
     },
     {
-      "title": "Tank Body Problem",
-      "hot": "2.7m",
-      "desc": "jimsitu.com",
+      "title": "Using any C++ library in Godot",
+      "hot": "2.8m",
+      "desc": "blog.conan.io",
       "source": "tech",
-      "tag": "⬆️ 136 points",
-      "url": "http://www.jimsitu.com"
+      "tag": "⬆️ 140 points",
+      "url": "https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html"
     },
     {
-      "title": "The Beatles have permeated research papers across academic disciplines",
+      "title": "Digital Audio on the ZX Spectrum's 1-Bit Beeper",
       "hot": "2.7m",
-      "desc": "phys.org",
+      "desc": "bumbershootsoft.wordpress.com",
       "source": "tech",
-      "tag": "⬆️ 4 points",
-      "url": "https://phys.org/news/2026-09-beatles-permeated-papers-academic-disciplines.html"
+      "tag": "⬆️ 43 points",
+      "url": "https://bumbershootsoft.wordpress.com/2026/09/26/digital-audio-on-the-zx-spectrums-1-bit-beeper/"
     },
     {
-      "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+      "title": "A Staff Engineer's Guide to Inventing Work",
       "hot": "2.7m",
-      "desc": "stateofutopia.com",
+      "desc": "sujithjay.com",
       "source": "tech",
-      "tag": "⬆️ 262 points",
-      "url": "https://stateofutopia.com/experiments/microllmlab/"
+      "tag": "⬆️ 73 points",
+      "url": "https://sujithjay.com/inventing-work"
+    },
+    {
+      "title": "The End of a Fair Price: Dynamic Pricing and the Normalization of Gouging",
+      "hot": "2.7m",
+      "desc": "prospect.org",
+      "source": "tech",
+      "tag": "⬆️ 15 points",
+      "url": "https://prospect.org/2026/09/29/oct-2026-battling-an-army-of-price-setters-owens-review/"
     }
   ],
   "space": [
+    {
+      "title": "NASA has a Dragon dilemma, and there appear to be no good answers",
+      "hot": "9/29",
+      "desc": "So is SpaceX just being selfish, or what?",
+      "source": "space",
+      "tag": "Arstechnica",
+      "url": "https://arstechnica.com/space/2026/09/nasa-has-a-dragon-dilemma-and-there-appear-to-be-no-good-answers/"
+    },
+    {
+      "title": "Terran Orbital Names Jamin Brown Chief Operating Officer",
+      "hot": "9/29",
+      "desc": "\nIRVINE, Calif. – Sept. 29, 2026 – Terran Orbital, a Lockheed Martin company and a global leader in satellite-based solutions primarily serving the ae",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/terran-orbital-names-jamin-brown-chief-operating-officer/"
+    },
+    {
+      "title": "Crew-13 Rocket and Spacecraft at Launch Pad",
+      "hot": "9/29",
+      "desc": "Ahead of NASA’s SpaceX Crew-13 mission launch, a SpaceX Falcon 9 rocket and Dragon spacecraft are vertical at the launch pad of Space Launch Complex 4",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/image-article/crew-13-rocket-and-spacecraft-at-launch-pad/"
+    },
+    {
+      "title": "Starship Orbits Earth, Returns Early",
+      "hot": "9/29",
+      "desc": "Although technical issues cut the mission short, Starship achieved most of its objectives, including its first deployment of an operational payload in",
+      "source": "space",
+      "tag": "Space Scout",
+      "url": "https://www.spacescout.info/2026/09/starship-orbits-earth-returns-early/"
+    },
+    {
+      "title": "NSTGRO 2026",
+      "hot": "9/29",
+      "desc": "NSTGRO Homepage Eleanor ZimmermannMichigan Technological UniversityRadiative Passive Processing Technology for Offworld Resource Separation (RaPPTORS)",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/directorates/stmd/space-tech-research-grants/nstgro/nstgro-2026/"
+    },
+    {
+      "title": "CNES Publishes Call for New Rocket Launch Tracking Turrets for French Guiana",
+      "hot": "9/29",
+      "desc": "The French space agency CNES has issued a call for new automated optical tracking systems for the Guiana Space Centre. The new system will need to be ",
+      "source": "space",
+      "tag": "European Spaceflight",
+      "url": "https://europeanspaceflight.com/cnes-publishes-call-for-new-rocket-launch-tracking-turrets-for-french-guiana/"
+    },
+    {
+      "title": "Under the Microscope: NASA-Made Material for Moon Manufacturing",
+      "hot": "9/29",
+      "desc": "Photos taken using a microscope reveal the colorful, kaleidoscope-like crystal structure of a new NASA-made material that could be used for manufactur",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/image-article/nasa-made-material-moon-manufacturing/"
+    },
     {
       "title": "If AI cannot be trusted in a classroom, why should it be trusted in orbit?",
       "hot": "9/29",
@@ -171,6 +389,14 @@
       "source": "space",
       "tag": "SpaceNews",
       "url": "https://spacenews.com/if-ai-cannot-be-trusted-in-a-classroom-why-should-it-be-trusted-in-orbit/"
+    },
+    {
+      "title": "ESA investigates potential future European-led orbital outpost",
+      "hot": "9/29",
+      "desc": "As part of the preparation for the end of utilisation of the International Space Station (ISS), the European Space Agency (ESA) awarded a contract to ",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ESA_investigates_potential_future_European-led_orbital_outpost"
     },
     {
       "title": "Galaxies in a cosmic house of mirrors",
@@ -219,100 +445,36 @@
       "source": "space",
       "tag": "Spaceflight Now",
       "url": "https://spaceflightnow.com/2026/09/29/nasa-plans-unpiloted-starliner-test-flight-at-end-of-year/"
-    },
-    {
-      "title": "October’s Night Sky Notes: Spooky Stargazing",
-      "hot": "9/28",
-      "desc": "The Ghoul Located within the constellation Perseus lies a star called Algol, also known as ‘Demon Star’ or ‘The Ghoul’. You can spot this star during ",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/spooky-stargazing/"
-    },
-    {
-      "title": "Boeing \"incredibly excited\" to serve as nation's only astronaut transportation",
-      "hot": "9/28",
-      "desc": "\"We couldn't provide detailed pricing to the CLD suppliers.\"",
-      "source": "space",
-      "tag": "Arstechnica",
-      "url": "https://arstechnica.com/space/2026/09/boeing-incredibly-excited-to-serve-as-nations-only-astronaut-transportation/"
-    },
-    {
-      "title": "NASA, Boeing outline Starliner’s return path to ISS crew rotations",
-      "hot": "9/28",
-      "desc": "NASA and Boeing have laid out a revised path for Starliner that puts an uncrewed…\r\nThe post NASA, Boeing outline Starliner’s return path to ISS crew r",
-      "source": "space",
-      "tag": "NASASpaceflight",
-      "url": "https://www.nasaspaceflight.com/2026/09/nasa-boeing-starliners-return-iss-crew/"
-    },
-    {
-      "title": "Starship returns to Earth; rocket splashes down north of Hawaii after three-hour flight",
-      "hot": "9/28",
-      "desc": "The Super Heavy first stage booster, generating some 16 million pounds of thrust — twice the power of NASA's Space Launch System moon rocket — rapidly",
-      "source": "space",
-      "tag": "Spaceflight Now",
-      "url": "https://spaceflightnow.com/2026/09/28/starship-returns-to-earth-rocket-splashes-down-north-of-hawaii-after-three-hour-flight/"
-    },
-    {
-      "title": "NASA, Boeing Share Update on Commercial Starliner Development Plans",
-      "hot": "9/28",
-      "desc": "On Monday, NASA and Boeing provided an update on the company’s Starliner spacecraft, including adding additional crew missions and certifying a new ro",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/news-release/nasa-boeing-share-update-on-commercial-starliner-development-plans/"
-    },
-    {
-      "title": "NASA Armstrong Celebrates 80 Years of Flight Innovation",
-      "hot": "9/28",
-      "desc": "On Sept. 30, 1946, five National Advisory Committee of Aeronautics (NACA) engineers arrived at Muroc Army Airfield in California’s high desert to achi",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/news-release/nasa-armstrong-celebrates-80-years-of-flight-innovation/"
-    },
-    {
-      "title": "Starship Achieves Orbit for the First Time",
-      "hot": "9/28",
-      "desc": "The flight did not go exactly as planned, but SpaceX’s Starship Integrated Flight Test-14 did make it into orbit for the first time today and deployed",
-      "source": "space",
-      "tag": "SpacePolicyOnline.com",
-      "url": "https://spacepolicyonline.com/news/starship-achieves-orbit-for-the-first-time/"
-    },
-    {
-      "title": "NASA Highlights Lessons Learned From Swift Boost Mission",
-      "hot": "9/28",
-      "desc": "A commercial mission to boost NASA’s Swift observatory concluded without raising the spacecraft’s orbit, but the agency and industry vendor gained val",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/missions/swift/nasa-highlights-lessons-learned-from-swift-boost-mission/"
     }
   ],
   "github": [
     {
-      "title": "KKKKhazix/AIHOT: 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
-      "hot": "⭐ 2.5k",
-      "desc": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+      "title": "KKKKhazix/AIHOT: 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你��行业热点站。",
+      "hot": "⭐ 2.9k",
+      "desc": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你��行业热点站。",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/KKKKhazix/AIHOT"
     },
     {
-      "title": "Contrastive-LM/CLM: ",
-      "hot": "⭐ 2.4k",
-      "desc": "Contrastive-LM/CLM",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/Contrastive-LM/CLM"
-    },
-    {
       "title": "yetone/magpie: Every agent's model. One place. Codex on DeepSeek, Claude Code on",
-      "hot": "⭐ 2.0k",
+      "hot": "⭐ 2.5k",
       "desc": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
       "source": "github",
       "tag": "Go",
       "url": "https://github.com/yetone/magpie"
     },
     {
+      "title": "Contrastive-LM/CLM: ",
+      "hot": "⭐ 2.5k",
+      "desc": "Contrastive-LM/CLM",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/Contrastive-LM/CLM"
+    },
+    {
       "title": "mexicat/pdoom-video: Code-rendered music video for \"I'm Upping My P(doom)\"",
-      "hot": "⭐ 1.9k",
+      "hot": "⭐ 2.0k",
       "desc": "Code-rendered music video for \"I'm Upping My P(doom)\"",
       "source": "github",
       "tag": "TypeScript",
@@ -328,11 +490,19 @@
     },
     {
       "title": "dzhng/jevgrep: Find code by asking what it does. A CLI for coding agents that us",
-      "hot": "⭐ 1.6k",
+      "hot": "⭐ 1.7k",
       "desc": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/dzhng/jevgrep"
+    },
+    {
+      "title": "Niko1221/Strata: Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click i",
+      "hot": "⭐ 1.6k",
+      "desc": "Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost,",
+      "source": "github",
+      "tag": "C++",
+      "url": "https://github.com/Niko1221/Strata"
     },
     {
       "title": "JohnHeibel/PDoomVideo: Source code for the Claude Opus 5.5 music video for I'm U",
@@ -343,12 +513,12 @@
       "url": "https://github.com/JohnHeibel/PDoomVideo"
     },
     {
-      "title": "Niko1221/Strata: Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click i",
-      "hot": "⭐ 1.4k",
-      "desc": "Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost,",
+      "title": "kryvora-network/kryvora-node: Reference client daemon and verification worker fo",
+      "hot": "⭐ 1.1k",
+      "desc": "Reference client daemon and verification worker for Kryvora Network nodes.",
       "source": "github",
-      "tag": "C++",
-      "url": "https://github.com/Niko1221/Strata"
+      "tag": "Go",
+      "url": "https://github.com/kryvora-network/kryvora-node"
     },
     {
       "title": "mikehasa/golive-skill: Take your agent-built product live: hosting, database, do",
@@ -359,14 +529,6 @@
       "url": "https://github.com/mikehasa/golive-skill"
     },
     {
-      "title": "kryvora-network/kryvora-node: Reference client daemon and verification worker fo",
-      "hot": "⭐ 1.1k",
-      "desc": "Reference client daemon and verification worker for Kryvora Network nodes.",
-      "source": "github",
-      "tag": "Go",
-      "url": "https://github.com/kryvora-network/kryvora-node"
-    },
-    {
       "title": "852wa/JIZURA: 歌詞から文字PVを自動で組み立てるブラウザアプリ",
       "hot": "⭐ 1.1k",
       "desc": "歌詞から文字PVを自動で組み立てるブラウザアプリ",
@@ -375,45 +537,36 @@
       "url": "https://github.com/852wa/JIZURA"
     },
     {
-      "title": "dgreenheck/tidewater: Coastal town built with Opus 5.5",
-      "hot": "⭐ 953",
-      "desc": "Coastal town built with Opus 5.5",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/dgreenheck/tidewater"
-    },
-    {
-      "title": "ollaya-dev/ollaya: Run open decision models locally: pull and serve Laya, decide",
-      "hot": "⭐ 941",
-      "desc": "Run open decision models locally: pull and serve Laya, decider, NLI and GLiClass behind a TypeSafe-compatible API. Ollama for decision models.",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/ollaya-dev/ollaya"
-    },
-    {
       "title": "feitangyuan/onetake: Motion films that never cut to the next slide: every beat g",
-      "hot": "⭐ 936",
+      "hot": "⭐ 968",
       "desc": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Clau",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/feitangyuan/onetake"
     },
     {
-      "title": "riba2534/claude-opus-5-5-demo: claude-opus-5-5-demo",
-      "hot": "⭐ 912",
-      "desc": "claude-opus-5-5-demo",
+      "title": "ollaya-dev/ollaya: Run open decision models locally: pull and serve Laya, decide",
+      "hot": "⭐ 965",
+      "desc": "Run open decision models locally: pull and serve Laya, decider, NLI and GLiClass behind a TypeSafe-compatible API. Ollama for decision models.",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/ollaya-dev/ollaya"
+    },
+    {
+      "title": "firelex/jeff: Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification",
+      "hot": "⭐ 960",
+      "desc": "Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/firelex/jeff"
+    },
+    {
+      "title": "dgreenheck/tidewater: Coastal town built with Opus 5.5",
+      "hot": "⭐ 960",
+      "desc": "Coastal town built with Opus 5.5",
       "source": "github",
       "tag": "JavaScript",
-      "url": "https://github.com/riba2534/claude-opus-5-5-demo"
-    }
-  ],
-  "dev": [
-    {
-      "title": "暂无 dev 数据",
-      "hot": "",
-      "desc": "数据加载中，请稍后刷新",
-      "source": "dev",
-      "tag": "loading"
+      "url": "https://github.com/dgreenheck/tidewater"
     }
   ]
 }
