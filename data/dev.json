@@ -1,6 +1,22 @@
 {
   "data": [
     {
+      "title": "Gemma 4 on a Tesla T4, Part 3: Int4 Embeddings Serve E2B in 2.86 GiB at 2.30x bf16",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Google's QAT Gemma 4 E2B keeps its embedding tables in bf16, and on a Tesla T4 they are most of the model. Packing them ",
+      "source": "dev",
+      "tag": "gemma,  vllm",
+      "url": "https://dev.to/gde/gemma-4-on-a-tesla-t4-part-3-int4-embeddings-serve-e2b-in-286-gib-at-230x-bf16-3kch"
+    },
+    {
+      "title": "Welcome Thread - v 395",
+      "hot": "❤️ 5 💬 3",
+      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
+      "source": "dev",
+      "tag": "welcome",
+      "url": "https://dev.to/sloan/welcome-thread-v-395-55m"
+    },
+    {
       "title": "Top 7 Featured DEV Posts of the Week",
       "hot": "❤️ 43 💬 11",
       "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
@@ -9,16 +25,8 @@
       "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3egf"
     },
     {
-      "title": "How to Build a Real-Time Voice AI Agent with the Gemini Live API",
-      "hot": "❤️ 8 💬 0",
-      "desc": "This post was originally posted on X, by Annie Wang, Developer Relations Engineer, Google Cloud and...",
-      "source": "dev",
-      "tag": "voiceai,  ai",
-      "url": "https://dev.to/googleai/how-to-build-a-real-time-voice-ai-agent-with-the-gemini-live-api-1dhe"
-    },
-    {
       "title": "Count It or Compute It: When a Tool Returns Rows, the Models That Count Them Right Spend the Tokens",
-      "hot": "❤️ 15 💬 5",
+      "hot": "❤️ 15 💬 4",
       "desc": "A Kaggle benchmark of the step agents rarely test: counting what a tool returns. Ten models, 68 questions, one tool that",
       "source": "dev",
       "tag": "devchallenge,  kagglechallenge",
@@ -49,14 +57,6 @@
       "url": "https://dev.to/maame-codes/disappeared-since-march-taking-a-long-break-was-my-best-decision-yet-1n45"
     },
     {
-      "title": "I connected a fruit fly connectome to tic-tac-toe (with a minimax safety net)",
-      "hot": "❤️ 15 💬 4",
-      "desc": "Scientists have mapped the whole nervous system of a fruit fly: every neuron and every connection, in...",
-      "source": "dev",
-      "tag": "python,  opensource",
-      "url": "https://dev.to/asyncinnovator/i-connected-a-fruit-fly-connectome-to-tic-tac-toe-with-a-minimax-safety-net-5bc0"
-    },
-    {
       "title": "Claude Opus 5.5 is now available on Google Cloud",
       "hot": "❤️ 15 💬 0",
       "desc": "Everyday complex tasks? No problem. Opus 5.5 handles long-running coding and knowledge work while...",
@@ -65,20 +65,20 @@
       "url": "https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh"
     },
     {
-      "title": "I Built a Better Codex Pet Than OpenAI Did",
-      "hot": "❤️ 42 💬 8",
-      "desc": "Sometimes you just have to let the agent cook.           Mika vs. a multi-billion-dollar...",
-      "source": "dev",
-      "tag": "opensource,  python",
-      "url": "https://dev.to/mikachu/i-built-a-better-codex-pet-than-openai-did-eib"
-    },
-    {
       "title": "Meme Monday",
       "hot": "❤️ 13 💬 19",
       "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
       "source": "dev",
       "tag": "discuss,  watercooler",
       "url": "https://dev.to/ben/meme-monday-2com"
+    },
+    {
+      "title": "How to Build a Real-Time Voice AI Agent with the Gemini Live API",
+      "hot": "❤️ 9 💬 0",
+      "desc": "This post was originally posted on X, by Annie Wang, Developer Relations Engineer, Google Cloud and...",
+      "source": "dev",
+      "tag": "voiceai,  ai",
+      "url": "https://dev.to/googleai/how-to-build-a-real-time-voice-ai-agent-with-the-gemini-live-api-1dhe"
     },
     {
       "title": "The Sand in the Oyster: Why Riverpod Was Needed, and Why You Don't Need It Any More",
@@ -121,6 +121,14 @@
       "url": "https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd"
     },
     {
+      "title": "I connected a fruit fly connectome to tic-tac-toe (with a minimax safety net)",
+      "hot": "❤️ 15 💬 6",
+      "desc": "Scientists have mapped the whole nervous system of a fruit fly: every neuron and every connection, in...",
+      "source": "dev",
+      "tag": "python,  opensource",
+      "url": "https://dev.to/asyncinnovator/i-connected-a-fruit-fly-connectome-to-tic-tac-toe-with-a-minimax-safety-net-5bc0"
+    },
+    {
       "title": "8 Posts by Women on DEV That Deserve More Than a Once-a-Year Spotlight",
       "hot": "❤️ 68 💬 25",
       "desc": "We went looking for good posts by women on DEV. Not \"inspirational,\" not \"diverse\" but just genuinely...",
@@ -138,7 +146,7 @@
     },
     {
       "title": "Welcome Thread - v 394",
-      "hot": "❤️ 89 💬 506",
+      "hot": "❤️ 92 💬 528",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
@@ -151,15 +159,7 @@
       "source": "dev",
       "tag": "gemma,  llamacpp",
       "url": "https://dev.to/gde/a-4-gb-laptop-gpu-vs-a-6-core-cpu-on-gemma-4-re-measured-in-abba-order-41x-5g56"
-    },
-    {
-      "title": "An introverted dev in an extroverted world",
-      "hot": "❤️ 34 💬 29",
-      "desc": "\"Explain it to me in dev terms.\"  My social battery has a rate limit.  The world isn't made for...",
-      "source": "dev",
-      "tag": "watercooler,  career",
-      "url": "https://dev.to/ikrame-ih/an-introverted-dev-in-an-extroverted-world-4p04"
     }
   ],
-  "updatedAt": "2026-09-30T07:32:16.757Z"
+  "updatedAt": "2026-09-30T14:16:35.354Z"
 }
