@@ -1,6 +1,54 @@
 {
   "data": [
     {
+      "title": "What was your win this week?",
+      "hot": "❤️ 30 💬 16",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-4jli"
+    },
+    {
+      "title": "Rediscovering the Schwartzian Transform: Why I Had to Comment on a Flutter Performance Article",
+      "hot": "❤️ 6 💬 0",
+      "desc": "When a Flutter developer tackled a UI freeze sorting 10,000 timeline events, they unwittingly reinvented a 30-year-old c",
+      "source": "dev",
+      "tag": "dart,  flutter",
+      "url": "https://dev.to/gde/rediscovering-the-schwartzian-transform-why-i-had-to-comment-on-a-flutter-performance-article-30l0"
+    },
+    {
+      "title": "Gemma 4 at Over 70 Tokens/s on a 2021 Laptop's 4 GB GPU: The Live Demo, Step by Step",
+      "hot": "❤️ 8 💬 0",
+      "desc": "The live demo, step by step: Gemma 4 E2B answering at 76 tok/s from a GTX 1650 Ti with 4 GB of memory, and the exact re-",
+      "source": "dev",
+      "tag": "gemma,  llamacpp",
+      "url": "https://dev.to/gde/gemma-4-at-over-70-tokenss-on-a-2021-laptops-4-gb-gpu-the-live-demo-step-by-step-52hg"
+    },
+    {
+      "title": "Gemma 4 QAT on One TPU v5e: What Runs and What Doesn't",
+      "hot": "❤️ 2 💬 0",
+      "desc": "Google's quantization-aware-trained Gemma 4 weights, repacked into int4 and int8 formats vLLM serves on TPU, on one v5e ",
+      "source": "dev",
+      "tag": "gemma,  googlecloud",
+      "url": "https://dev.to/gde/gemma-4-qat-on-one-tpu-v5e-what-runs-and-what-doesnt-2gii"
+    },
+    {
+      "title": "Building Sarrera: Self-Hosted Enterprise AI Inference Gateway with RBAC, Token Quotas & Telemetry",
+      "hot": "❤️ 8 💬 0",
+      "desc": "How to deploy a private, local AI gateway for engineering teams using LiteLLM, Caddy, Langfuse, and Open WebUI with mult",
+      "source": "dev",
+      "tag": "ai,  devops",
+      "url": "https://dev.to/gde/building-sarrera-self-hosted-enterprise-ai-inference-gateway-with-rbac-token-quotas-telemetry-316o"
+    },
+    {
+      "title": "Hacktoberfest 2026 DEV Challenges: Five Challenges, One Prompt, a New Theme Every Week",
+      "hot": "❤️ 46 💬 3",
+      "desc": "Hacktoberfest is here, and this October we're running five DEV Challenges back to back.  Every...",
+      "source": "dev",
+      "tag": "devchallenge,  hf26challenge",
+      "url": "https://dev.to/devteam/hacktoberfest-2026-dev-challenges-five-challenges-one-prompt-a-new-theme-every-week-1e54"
+    },
+    {
       "title": "The Physics of Socratic Prompting: Somatic Recoil, Chess Alpha-Beta, & The NLP Meta-Model",
       "hot": "❤️ 15 💬 4",
       "desc": "Why scalar RLHF fails at credit assignment, why barking direct code fixes turns you into an exhausted human compiler, an",
@@ -9,24 +57,8 @@
       "url": "https://dev.to/gde/the-physics-of-socratic-prompting-somatic-recoil-chess-alpha-beta-the-nlp-meta-model-2b6e"
     },
     {
-      "title": "Join the Hacktoberfest Weekend Challenge: Build for a Friend! $2,450 in Prizes Across 17 Winners. Submissions Due October 5 at 6:59 AM UTC.",
-      "hot": "❤️ 85 💬 20",
-      "desc": "Hacktoberfest is here, and so is the first of our five Hacktoberfest DEV Challenges: a Weekend...",
-      "source": "dev",
-      "tag": "devchallenge,  weekendchallenge",
-      "url": "https://dev.to/devteam/join-the-hacktoberfest-weekend-challenge-build-for-a-friend-2450-in-prizes-across-17-winners-1aj5"
-    },
-    {
-      "title": "Hacktoberfest 2026 DEV Challenges: Five Challenges, One Prompt, a New Theme Every Week",
-      "hot": "❤️ 44 💬 3",
-      "desc": "Hacktoberfest is here, and this October we're running five DEV Challenges back to back.  Every...",
-      "source": "dev",
-      "tag": "devchallenge,  hf26challenge",
-      "url": "https://dev.to/devteam/hacktoberfest-2026-dev-challenges-five-challenges-one-prompt-a-new-theme-every-week-1e54"
-    },
-    {
       "title": "Everything You Need To Know About Hacktoberfest 2026: AI Belongs to Everyone 🎃",
-      "hot": "❤️ 64 💬 6",
+      "hot": "❤️ 69 💬 7",
       "desc": "It's October 1st, which means Hacktoberfest 2026 is officially live! 🎉  This year looks a little...",
       "source": "dev",
       "tag": "hacktoberfest,  opensource",
@@ -47,6 +79,14 @@
       "source": "dev",
       "tag": "ai,  gemini",
       "url": "https://dev.to/ben/gemini-4-argon-5g2l"
+    },
+    {
+      "title": "Join the Hacktoberfest Weekend Challenge: Build for a Friend! $2,450 in Prizes Across 17 Winners. Submissions Due October 5 at 6:59 AM UTC.",
+      "hot": "❤️ 116 💬 32",
+      "desc": "Hacktoberfest is here, and so is the first of our five Hacktoberfest DEV Challenges: a Weekend...",
+      "source": "dev",
+      "tag": "devchallenge,  weekendchallenge",
+      "url": "https://dev.to/devteam/join-the-hacktoberfest-weekend-challenge-build-for-a-friend-2450-in-prizes-across-17-winners-1aj5"
     },
     {
       "title": "Gemma 4 on a Tesla T4, Part 3: Int4 Embeddings Serve E2B in 2.86 GiB at 2.30x bf16",
@@ -97,14 +137,6 @@
       "url": "https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh"
     },
     {
-      "title": "Welcome Thread - v 395",
-      "hot": "❤️ 56 💬 406",
-      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
-      "source": "dev",
-      "tag": "welcome",
-      "url": "https://dev.to/sloan/welcome-thread-v-395-55m"
-    },
-    {
       "title": "The Sand in the Oyster: Why Riverpod Was Needed, and Why You Don't Need It Any More",
       "hot": "❤️ 10 💬 1",
       "desc": "The hidden mechanical flaw in Flutter's InheritedWidget that forced the creation of Riverpod, why escaping the widget tr",
@@ -127,39 +159,7 @@
       "source": "dev",
       "tag": "eventsinyourcity,  claude",
       "url": "https://dev.to/googleai/claude-on-google-cloud-workshop-nyc-930-17jl"
-    },
-    {
-      "title": "Your Type Guard Can Silently Drift from Your TypeScript Type 🔧",
-      "hot": "❤️ 75 💬 28",
-      "desc": "Hoi hoi! 👋  I'm @nyaomaru, a frontend engineer just back from a short vacation on Texel, a small...",
-      "source": "dev",
-      "tag": "typescript,  javascript",
-      "url": "https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57"
-    },
-    {
-      "title": "Deploying LiteLLM: An Open-Source AI Gateway",
-      "hot": "❤️ 9 💬 2",
-      "desc": "LiteLLM is an open-source AI gateway that provides a unified, OpenAI-compatible API for over 100...",
-      "source": "dev",
-      "tag": "ai,  llm",
-      "url": "https://dev.to/vultr/deploying-litellm-an-open-source-ai-gateway-2idp"
-    },
-    {
-      "title": "I connected a fruit fly connectome to tic-tac-toe (with a minimax safety net)",
-      "hot": "❤️ 15 💬 6",
-      "desc": "Scientists have mapped the whole nervous system of a fruit fly: every neuron and every connection, in...",
-      "source": "dev",
-      "tag": "python,  opensource",
-      "url": "https://dev.to/asyncinnovator/i-connected-a-fruit-fly-connectome-to-tic-tac-toe-with-a-minimax-safety-net-5bc0"
-    },
-    {
-      "title": "8 Posts by Women on DEV That Deserve More Than a Once-a-Year Spotlight",
-      "hot": "❤️ 69 💬 25",
-      "desc": "We went looking for good posts by women on DEV. Not \"inspirational,\" not \"diverse\" but just genuinely...",
-      "source": "dev",
-      "tag": "wecoded,  womenintech",
-      "url": "https://dev.to/sheships/8-posts-by-women-on-dev-that-deserve-more-than-a-once-a-year-spotlight-27dc"
     }
   ],
-  "updatedAt": "2026-10-02T12:56:45.277Z"
+  "updatedAt": "2026-10-02T18:07:12.660Z"
 }
