@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "What was your win this week?",
-      "hot": "❤️ 49 💬 36",
+      "hot": "❤️ 49 💬 39",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "weeklyretro",
@@ -10,27 +10,11 @@
     },
     {
       "title": "Rediscovering the Schwartzian Transform: Why I Had to Comment on a Flutter Performance Article",
-      "hot": "❤️ 8 💬 0",
+      "hot": "❤️ 9 💬 0",
       "desc": "When a Flutter developer tackled a UI freeze sorting 10,000 timeline events, they unwittingly reinvented a 30-year-old c",
       "source": "dev",
       "tag": "dart,  flutter",
       "url": "https://dev.to/gde/rediscovering-the-schwartzian-transform-why-i-had-to-comment-on-a-flutter-performance-article-30l0"
-    },
-    {
-      "title": "Repacked QAT Gemma 4 on One TPU v5e: 12B Serves at 675 Tokens per Second",
-      "hot": "❤️ 8 💬 0",
-      "desc": "Google's quantization-aware-trained Gemma 4 weights, repacked into int4 and int8 formats vLLM serves on TPU. On one v5e ",
-      "source": "dev",
-      "tag": "gemma,  googlecloud",
-      "url": "https://dev.to/gde/repacked-qat-gemma-4-on-one-tpu-v5e-12b-serves-at-675-tokens-per-second-15dd"
-    },
-    {
-      "title": "Gemma 4 QAT on One TPU v5e: What Runs and What Doesn't",
-      "hot": "❤️ 4 💬 0",
-      "desc": "Google's quantization-aware-trained Gemma 4 weights, repacked into int4 and int8 formats vLLM serves on TPU, on one v5e ",
-      "source": "dev",
-      "tag": "gemma,  googlecloud",
-      "url": "https://dev.to/gde/gemma-4-qat-on-one-tpu-v5e-what-runs-and-what-doesnt-2gii"
     },
     {
       "title": "Building Sarrera: Self-Hosted Enterprise AI Inference Gateway with RBAC, Token Quotas & Telemetry",
@@ -63,6 +47,22 @@
       "source": "dev",
       "tag": "aws,  sagemaker",
       "url": "https://dev.to/gde/gemma-4-on-amazon-sagemaker-the-nvidia-t4-decodes-at-08x-of-the-l4-with-the-same-answers-19m4"
+    },
+    {
+      "title": "Repacked QAT Gemma 4 on One TPU v5e: 12B Serves at 675 Tokens per Second",
+      "hot": "❤️ 8 💬 0",
+      "desc": "Google's quantization-aware-trained Gemma 4 weights, repacked into int4 and int8 formats vLLM serves on TPU. On one v5e ",
+      "source": "dev",
+      "tag": "gemma,  googlecloud",
+      "url": "https://dev.to/gde/repacked-qat-gemma-4-on-one-tpu-v5e-12b-serves-at-675-tokens-per-second-15dd"
+    },
+    {
+      "title": "Gemma 4 QAT on One TPU v5e: What Runs and What Doesn't",
+      "hot": "❤️ 5 💬 0",
+      "desc": "Google's quantization-aware-trained Gemma 4 weights, repacked into int4 and int8 formats vLLM serves on TPU, on one v5e ",
+      "source": "dev",
+      "tag": "gemma,  googlecloud",
+      "url": "https://dev.to/gde/gemma-4-qat-on-one-tpu-v5e-what-runs-and-what-doesnt-2gii"
     },
     {
       "title": "Gemini 4 Argon\r\n\r\nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
@@ -98,7 +98,7 @@
     },
     {
       "title": "Everything You Need To Know About Hacktoberfest 2026: AI Belongs to Everyone 🎃",
-      "hot": "❤️ 75 💬 10",
+      "hot": "❤️ 78 💬 12",
       "desc": "It's October 1st, which means Hacktoberfest 2026 is officially live! 🎉  This year looks a little...",
       "source": "dev",
       "tag": "hacktoberfest,  opensource",
@@ -130,7 +130,7 @@
     },
     {
       "title": "Join the Hacktoberfest Weekend Challenge: Build for a Friend! $2,450 in Prizes Across 17 Winners. Submissions Due October 5 at 6:59 AM UTC.",
-      "hot": "❤️ 153 💬 39",
+      "hot": "❤️ 170 💬 46",
       "desc": "Hacktoberfest is here, and so is the first of our five Hacktoberfest DEV Challenges: a Weekend...",
       "source": "dev",
       "tag": "devchallenge,  weekendchallenge",
@@ -153,13 +153,13 @@
       "url": "https://dev.to/annavi11arrea1/social-ferris-wheel-sanity-is-the-hub-2m7j"
     },
     {
-      "title": "Count It or Compute It: When a Tool Returns Rows, the Models That Count Them Right Spend the Tokens",
-      "hot": "❤️ 15 💬 5",
-      "desc": "A Kaggle benchmark of the step agents rarely test: counting what a tool returns. Ten models, 68 questions, one tool that",
+      "title": "Claude on Google Cloud workshop | NYC | 9/30",
+      "hot": "❤️ 14 💬 1",
+      "desc": "On Wednesday, September 30, Anthropic and Google Cloud are co-hosting a hands-on developer workshop...",
       "source": "dev",
-      "tag": "devchallenge,  kagglechallenge",
-      "url": "https://dev.to/gde/count-it-or-compute-it-when-a-tool-returns-rows-the-models-that-count-them-right-spend-the-tokens-2hae"
+      "tag": "eventsinyourcity,  claude",
+      "url": "https://dev.to/googleai/claude-on-google-cloud-workshop-nyc-930-17jl"
     }
   ],
-  "updatedAt": "2026-10-03T06:39:03.892Z"
+  "updatedAt": "2026-10-03T12:06:02.429Z"
 }
