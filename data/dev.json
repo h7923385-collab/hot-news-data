@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "What was your win this week?",
-      "hot": "❤️ 40 💬 24",
+      "hot": "❤️ 46 💬 29",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "weeklyretro",
@@ -10,7 +10,7 @@
     },
     {
       "title": "Rediscovering the Schwartzian Transform: Why I Had to Comment on a Flutter Performance Article",
-      "hot": "❤️ 7 💬 0",
+      "hot": "❤️ 8 💬 0",
       "desc": "When a Flutter developer tackled a UI freeze sorting 10,000 timeline events, they unwittingly reinvented a 30-year-old c",
       "source": "dev",
       "tag": "dart,  flutter",
@@ -18,7 +18,7 @@
     },
     {
       "title": "Repacked QAT Gemma 4 on One TPU v5e: 12B Serves at 675 Tokens per Second",
-      "hot": "❤️ 7 💬 0",
+      "hot": "❤️ 8 💬 0",
       "desc": "Google's quantization-aware-trained Gemma 4 weights, repacked into int4 and int8 formats vLLM serves on TPU. On one v5e ",
       "source": "dev",
       "tag": "gemma,  googlecloud",
@@ -33,14 +33,6 @@
       "url": "https://dev.to/gde/gemma-4-qat-on-one-tpu-v5e-what-runs-and-what-doesnt-2gii"
     },
     {
-      "title": "Gemma 4 at Over 70 Tokens/s on a 2021 Laptop's 4 GB GPU: The Live Demo, Step by Step",
-      "hot": "❤️ 8 💬 0",
-      "desc": "The live demo, step by step: Gemma 4 E2B answering at 76 tok/s from a GTX 1650 Ti with 4 GB of memory, and the exact re-",
-      "source": "dev",
-      "tag": "gemma,  llamacpp",
-      "url": "https://dev.to/gde/gemma-4-at-over-70-tokenss-on-a-2021-laptops-4-gb-gpu-the-live-demo-step-by-step-52hg"
-    },
-    {
       "title": "Building Sarrera: Self-Hosted Enterprise AI Inference Gateway with RBAC, Token Quotas & Telemetry",
       "hot": "❤️ 8 💬 0",
       "desc": "How to deploy a private, local AI gateway for engineering teams using LiteLLM, Caddy, Langfuse, and Open WebUI with mult",
@@ -49,8 +41,16 @@
       "url": "https://dev.to/gde/building-sarrera-self-hosted-enterprise-ai-inference-gateway-with-rbac-token-quotas-telemetry-316o"
     },
     {
+      "title": "Gemma 4 at Over 70 Tokens/s on a 2021 Laptop's 4 GB GPU: The Live Demo, Step by Step",
+      "hot": "❤️ 9 💬 0",
+      "desc": "The live demo, step by step: Gemma 4 E2B answering at 76 tok/s from a GTX 1650 Ti with 4 GB of memory, and the exact re-",
+      "source": "dev",
+      "tag": "gemma,  llamacpp",
+      "url": "https://dev.to/gde/gemma-4-at-over-70-tokenss-on-a-2021-laptops-4-gb-gpu-the-live-demo-step-by-step-52hg"
+    },
+    {
       "title": "Hacktoberfest 2026 DEV Challenges: Five Challenges, One Prompt, a New Theme Every Week",
-      "hot": "❤️ 46 💬 3",
+      "hot": "❤️ 48 💬 3",
       "desc": "Hacktoberfest is here, and this October we're running five DEV Challenges back to back.  Every...",
       "source": "dev",
       "tag": "devchallenge,  hf26challenge",
@@ -82,7 +82,7 @@
     },
     {
       "title": "Join the Hacktoberfest Weekend Challenge: Build for a Friend! $2,450 in Prizes Across 17 Winners. Submissions Due October 5 at 6:59 AM UTC.",
-      "hot": "❤️ 134 💬 38",
+      "hot": "❤️ 143 💬 39",
       "desc": "Hacktoberfest is here, and so is the first of our five Hacktoberfest DEV Challenges: a Weekend...",
       "source": "dev",
       "tag": "devchallenge,  weekendchallenge",
@@ -106,7 +106,7 @@
     },
     {
       "title": "Everything You Need To Know About Hacktoberfest 2026: AI Belongs to Everyone 🎃",
-      "hot": "❤️ 69 💬 10",
+      "hot": "❤️ 74 💬 10",
       "desc": "It's October 1st, which means Hacktoberfest 2026 is officially live! 🎉  This year looks a little...",
       "source": "dev",
       "tag": "hacktoberfest,  opensource",
@@ -161,5 +161,5 @@
       "url": "https://dev.to/annavi11arrea1/social-ferris-wheel-sanity-is-the-hub-2m7j"
     }
   ],
-  "updatedAt": "2026-10-02T22:22:33.115Z"
+  "updatedAt": "2026-10-03T01:14:49.211Z"
 }
