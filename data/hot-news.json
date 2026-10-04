@@ -1,173 +1,335 @@
 {
-  "updatedAt": "2026-10-03T22:28:24.911Z",
+  "updatedAt": "2026-10-04T01:46:07.168Z",
   "source": "live",
+  "dev": [
+    {
+      "title": "What was your win this week?",
+      "hot": "❤️ 65 💬 51",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-4jli"
+    },
+    {
+      "title": "Rediscovering the Schwartzian Transform: Why I Had to Comment on a Flutter Performance Article",
+      "hot": "❤️ 10 💬 0",
+      "desc": "When a Flutter developer tackled a UI freeze sorting 10,000 timeline events, they unwittingly reinvented a 30-year-old c",
+      "source": "dev",
+      "tag": "dart,  flutter",
+      "url": "https://dev.to/gde/rediscovering-the-schwartzian-transform-why-i-had-to-comment-on-a-flutter-performance-article-30l0"
+    },
+    {
+      "title": "The Physics of Socratic Prompting: Somatic Recoil, Chess Alpha-Beta, & The NLP Meta-Model",
+      "hot": "❤️ 15 💬 4",
+      "desc": "Why scalar RLHF fails at credit assignment, why barking direct code fixes turns you into an exhausted human compiler, an",
+      "source": "dev",
+      "tag": "ai,  programming",
+      "url": "https://dev.to/gde/the-physics-of-socratic-prompting-somatic-recoil-chess-alpha-beta-the-nlp-meta-model-2b6e"
+    },
+    {
+      "title": "Gemma 4 on Amazon SageMaker: The NVIDIA T4 Decodes at 0.8x of the L4 With the Same Answers",
+      "hot": "❤️ 15 💬 1",
+      "desc": "Gemma 4's 4-bit builds on SageMaker's smallest GPU, an NVIDIA T4, against the L4: a Turing patch for vLLM, the host imag",
+      "source": "dev",
+      "tag": "aws,  sagemaker",
+      "url": "https://dev.to/gde/gemma-4-on-amazon-sagemaker-the-nvidia-t4-decodes-at-08x-of-the-l4-with-the-same-answers-19m4"
+    },
+    {
+      "title": "Repacked QAT Gemma 4 on One TPU v5e: 12B Serves at 675 Tokens per Second",
+      "hot": "❤️ 8 💬 0",
+      "desc": "Google's quantization-aware-trained Gemma 4 weights, repacked into int4 and int8 formats vLLM serves on TPU. On one v5e ",
+      "source": "dev",
+      "tag": "gemma,  googlecloud",
+      "url": "https://dev.to/gde/repacked-qat-gemma-4-on-one-tpu-v5e-12b-serves-at-675-tokens-per-second-15dd"
+    },
+    {
+      "title": "Gemma 4 QAT on One TPU v5e: What Runs and What Doesn't",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Google's quantization-aware-trained Gemma 4 weights, repacked into int4 and int8 formats vLLM serves on TPU, on one v5e ",
+      "source": "dev",
+      "tag": "gemma,  googlecloud",
+      "url": "https://dev.to/gde/gemma-4-qat-on-one-tpu-v5e-what-runs-and-what-doesnt-2gii"
+    },
+    {
+      "title": "Gemma 4 at Over 70 Tokens/s on a 2021 Laptop's 4 GB GPU: The Live Demo, Step by Step",
+      "hot": "❤️ 9 💬 0",
+      "desc": "The live demo, step by step: Gemma 4 E2B answering at 76 tok/s from a GTX 1650 Ti with 4 GB of memory, and the exact re-",
+      "source": "dev",
+      "tag": "gemma,  llamacpp",
+      "url": "https://dev.to/gde/gemma-4-at-over-70-tokenss-on-a-2021-laptops-4-gb-gpu-the-live-demo-step-by-step-52hg"
+    },
+    {
+      "title": "Gemini 4 Argon\r\n\r\nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "hot": "❤️ 5 💬 2",
+      "desc": "...",
+      "source": "dev",
+      "tag": "ai,  gemini",
+      "url": "https://dev.to/ben/gemini-4-argon-5g2l"
+    },
+    {
+      "title": "Building Sarrera: Self-Hosted Enterprise AI Inference Gateway with RBAC, Token Quotas & Telemetry",
+      "hot": "❤️ 9 💬 0",
+      "desc": "How to deploy a private, local AI gateway for engineering teams using LiteLLM, Caddy, Langfuse, and Open WebUI with mult",
+      "source": "dev",
+      "tag": "ai,  devops",
+      "url": "https://dev.to/gde/building-sarrera-self-hosted-enterprise-ai-inference-gateway-with-rbac-token-quotas-telemetry-316o"
+    },
+    {
+      "title": "Gemma 4 on a Tesla T4, Part 3: Int4 Embeddings Serve E2B in 2.86 GiB at 2.30x bf16",
+      "hot": "❤️ 9 💬 0",
+      "desc": "Google's QAT Gemma 4 E2B keeps its embedding tables in bf16, and on a Tesla T4 they are most of the model. Packing them ",
+      "source": "dev",
+      "tag": "gemma,  vllm",
+      "url": "https://dev.to/gde/gemma-4-on-a-tesla-t4-part-3-int4-embeddings-serve-e2b-in-286-gib-at-230x-bf16-3kch"
+    },
+    {
+      "title": "Hacktoberfest 2026 DEV Challenges: Five Challenges, One Prompt, a New Theme Every Week",
+      "hot": "❤️ 49 💬 3",
+      "desc": "Hacktoberfest is here, and this October we're running five DEV Challenges back to back.  Every...",
+      "source": "dev",
+      "tag": "devchallenge,  hf26challenge",
+      "url": "https://dev.to/devteam/hacktoberfest-2026-dev-challenges-five-challenges-one-prompt-a-new-theme-every-week-1e54"
+    },
+    {
+      "title": "Everything You Need To Know About Hacktoberfest 2026: AI Belongs to Everyone 🎃",
+      "hot": "❤️ 80 💬 12",
+      "desc": "It's October 1st, which means Hacktoberfest 2026 is officially live! 🎉  This year looks a little...",
+      "source": "dev",
+      "tag": "hacktoberfest,  opensource",
+      "url": "https://blog.mlh.com/everything-you-need-to-know-about-hacktoberfest-2026-ai-belongs-to-everyone-mdk"
+    },
+    {
+      "title": "Claude Sonnet 5.5 is now available on Google Cloud",
+      "hot": "❤️ 13 💬 2",
+      "desc": "Designed for coding and knowledge work, it helps you build features, and create clean work...",
+      "source": "dev",
+      "tag": "Dev.to",
+      "url": "https://dev.to/googleai/claude-sonnet-55-is-now-available-on-google-cloud-168h"
+    },
+    {
+      "title": "7 ways to lock down AI agent sandboxes in production (beyond Docker containers)",
+      "hot": "❤️ 7 💬 0",
+      "desc": "Running an autonomous coding or ops agent directly on your laptop feels like a superpower for the...",
+      "source": "dev",
+      "tag": "agents,  sandbox",
+      "url": "https://dev.to/googleai/7-ways-to-lock-down-ai-agent-sandboxes-in-production-beyond-docker-containers-2bg3"
+    },
+    {
+      "title": "Disappeared Since March: Taking a Long Break Was My Best Decision Yet",
+      "hot": "❤️ 84 💬 31",
+      "desc": "If you checked my profile recently, you probably noticed my page has been completely quiet since...",
+      "source": "dev",
+      "tag": "Dev.to",
+      "url": "https://dev.to/maame-codes/disappeared-since-march-taking-a-long-break-was-my-best-decision-yet-1n45"
+    },
+    {
+      "title": "Join the Hacktoberfest Weekend Challenge: Build for a Friend! $2,450 in Prizes Across 17 Winners. Submissions Due October 5 at 6:59 AM UTC.",
+      "hot": "❤️ 200 💬 61",
+      "desc": "Hacktoberfest is here, and so is the first of our five Hacktoberfest DEV Challenges: a Weekend...",
+      "source": "dev",
+      "tag": "devchallenge,  weekendchallenge",
+      "url": "https://dev.to/devteam/join-the-hacktoberfest-weekend-challenge-build-for-a-friend-2450-in-prizes-across-17-winners-1aj5"
+    },
+    {
+      "title": "Claude Opus 5.5 is now available on Google Cloud",
+      "hot": "❤️ 15 💬 0",
+      "desc": "Everyday complex tasks? No problem. Opus 5.5 handles long-running coding and knowledge work while...",
+      "source": "dev",
+      "tag": "claude,  googlecloud",
+      "url": "https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh"
+    },
+    {
+      "title": "A wine cellar that remembers what you used to believe",
+      "hot": "❤️ 29 💬 2",
+      "desc": "This is a submission for the Sanity Challenge, Path Two: Vibe-Code Something Strange           What I...",
+      "source": "dev",
+      "tag": "sanitychallenge,  devchallenge",
+      "url": "https://dev.to/kenwalger/a-wine-cellar-that-remembers-what-you-used-to-believe-4i55"
+    },
+    {
+      "title": "🎡 Social Ferris Wheel: Sanity is the Hub",
+      "hot": "❤️ 30 💬 2",
+      "desc": "This is a submission for the Sanity Challenge, Path Two: Vibe-Code Something Strange             What...",
+      "source": "dev",
+      "tag": "devchallenge,  sanitychallenge",
+      "url": "https://dev.to/annavi11arrea1/social-ferris-wheel-sanity-is-the-hub-2m7j"
+    },
+    {
+      "title": "Claude on Google Cloud workshop | NYC | 9/30",
+      "hot": "❤️ 14 💬 1",
+      "desc": "On Wednesday, September 30, Anthropic and Google Cloud are co-hosting a hands-on developer workshop...",
+      "source": "dev",
+      "tag": "eventsinyourcity,  claude",
+      "url": "https://dev.to/googleai/claude-on-google-cloud-workshop-nyc-930-17jl"
+    }
+  ],
   "tech": [
+    {
+      "title": "We're going to need default hard budget caps on pretty much everything",
+      "hot": "3.0m",
+      "desc": "simonwillison.net",
+      "source": "tech",
+      "tag": "⬆️ 142 points",
+      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/"
+    },
     {
       "title": "Hole Punch: Sling your spaceship around gravitational fields",
       "hot": "3.0m",
       "desc": "notoriousbfg.com",
       "source": "tech",
-      "tag": "⬆️ 159 points",
+      "tag": "⬆️ 232 points",
       "url": "https://notoriousbfg.com/hole-punch/"
     },
     {
-      "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+      "title": "Treachery in the Rodin Museum 3D scan verdict",
       "hot": "3.0m",
-      "desc": "claude.dev",
+      "desc": "cosmowenman.substack.com",
       "source": "tech",
-      "tag": "⬆️ 107 points",
-      "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/"
+      "tag": "⬆️ 78 points",
+      "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict"
+    },
+    {
+      "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+      "hot": "3.0m",
+      "desc": "phoronix.com",
+      "source": "tech",
+      "tag": "⬆️ 127 points",
+      "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU"
+    },
+    {
+      "title": "Bob Cringely Has Died",
+      "hot": "2.9m",
+      "desc": "news.ycombinator.com",
+      "source": "tech",
+      "tag": "⬆️ 48 points",
+      "url": "https://news.ycombinator.com/item?id=49949438"
     },
     {
       "title": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "whec.com",
       "source": "tech",
-      "tag": "⬆️ 101 points",
+      "tag": "⬆️ 148 points",
       "url": "https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/"
     },
     {
       "title": "Reasons I didn't become an EMT, ranked",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "ben.stolovitz.com",
       "source": "tech",
-      "tag": "⬆️ 16 points",
+      "tag": "⬆️ 87 points",
       "url": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/"
-    },
-    {
-      "title": "New York City should carefully measure a new tree",
-      "hot": "2.9m",
-      "desc": "blog.willmeye.rs",
-      "source": "tech",
-      "tag": "⬆️ 14 points",
-      "url": "https://blog.willmeye.rs/new-york-city-should-carefully-measure-a-new-tree/"
     },
     {
       "title": "Kolibri: A Sovereign Open-Weight Model",
       "hot": "2.9m",
       "desc": "aleph-alpha.com",
       "source": "tech",
-      "tag": "⬆️ 459 points",
+      "tag": "⬆️ 510 points",
       "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/"
     },
     {
-      "title": "We want you to build the next Git platform on Cloudflare",
+      "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
       "hot": "2.9m",
-      "desc": "blog.cloudflare.com",
+      "desc": "theguardian.com",
       "source": "tech",
-      "tag": "⬆️ 76 points",
-      "url": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/"
+      "tag": "⬆️ 134 points",
+      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken"
     },
     {
-      "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
+      "title": "Math's pedagogical curse – Grant Sanderson [video]",
       "hot": "2.9m",
-      "desc": "pipod.dev",
+      "desc": "youtube.com",
       "source": "tech",
-      "tag": "⬆️ 63 points",
-      "url": "https://pipod.dev/"
+      "tag": "⬆️ 8 points",
+      "url": "https://www.youtube.com/watch?v=UOuxo6SA8Uc"
     },
     {
-      "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+      "title": "Your body of work thinks back at you",
       "hot": "2.9m",
-      "desc": "phoronix.com",
+      "desc": "photoni.st",
       "source": "tech",
-      "tag": "⬆️ 24 points",
-      "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU"
+      "tag": "⬆️ 21 points",
+      "url": "https://photoni.st/index.php/2026/09/25/your-body-of-work-thinks-back-at-you/"
+    },
+    {
+      "title": "New York City should carefully measure a new tree",
+      "hot": "2.8m",
+      "desc": "blog.willmeye.rs",
+      "source": "tech",
+      "tag": "⬆️ 43 points",
+      "url": "https://blog.willmeye.rs/new-york-city-should-carefully-measure-a-new-tree/"
+    },
+    {
+      "title": "Show HN: Thoreau BASIC – What if BASIC hadn't gone out of fashion?",
+      "hot": "2.8m",
+      "desc": "thoreaubasic.com",
+      "source": "tech",
+      "tag": "⬆️ 32 points",
+      "url": "https://thoreaubasic.com/"
     },
     {
       "title": "FTL: A new operating system for clouds",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "ftl-os.org",
       "source": "tech",
-      "tag": "⬆️ 134 points",
+      "tag": "⬆️ 148 points",
       "url": "https://ftl-os.org/"
     },
     {
-      "title": "Gboard Conveyor Belt Version",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 8 points",
-      "url": "https://github.com/google/mozc-devices/tree/main/mozc-conveyorbelt"
-    },
-    {
-      "title": "Treachery in the Rodin Museum 3D scan verdict",
+      "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
       "hot": "2.8m",
-      "desc": "cosmowenman.substack.com",
+      "desc": "claude.dev",
       "source": "tech",
-      "tag": "⬆️ 7 points",
-      "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict"
-    },
-    {
-      "title": "RSS Feed Best Practices (2022)",
-      "hot": "2.8m",
-      "desc": "kevincox.ca",
-      "source": "tech",
-      "tag": "⬆️ 25 points",
-      "url": "https://kevincox.ca/2022/05/06/rss-feed-best-practices/"
+      "tag": "⬆️ 158 points",
+      "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/"
     },
     {
       "title": "Federal judge calls Flock 'indiscriminate mass surveillance'",
       "hot": "2.8m",
       "desc": "techcrunch.com",
       "source": "tech",
-      "tag": "⬆️ 16 points",
+      "tag": "⬆️ 299 points",
       "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/"
     },
     {
-      "title": "Surely you have ultra-wideband radios on your bins too?",
+      "title": "Docker has always used microVMs (well since 2016)",
       "hot": "2.8m",
-      "desc": "sjg.io",
+      "desc": "dave.recoil.org",
       "source": "tech",
       "tag": "⬆️ 20 points",
-      "url": "https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/"
+      "url": "https://dave.recoil.org/docker-has-always-used-microvms/"
     },
     {
-      "title": "RetailReady (YC W24) Is Hiring",
-      "hot": "2.8m",
-      "desc": "ycombinator.com",
-      "source": "tech",
-      "tag": "⬆️ 1 points",
-      "url": "https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations"
-    },
-    {
-      "title": "Woking Electrical Control Room (2016)",
-      "hot": "2.8m",
-      "desc": "darbiansphotography.com",
-      "source": "tech",
-      "tag": "⬆️ 116 points",
-      "url": "http://www.darbiansphotography.com/woking-electrical-control-room-urbex"
-    },
-    {
-      "title": "Vx – One Language, Every Chip",
+      "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
       "hot": "2.7m",
-      "desc": "vxlang.org",
+      "desc": "pipod.dev",
       "source": "tech",
-      "tag": "⬆️ 49 points",
-      "url": "https://vxlang.org/"
+      "tag": "⬆️ 77 points",
+      "url": "https://pipod.dev/"
     },
     {
-      "title": "Watson Jr. memo about CDC 6600 (1963)",
+      "title": "Apple's \"Clean Design\" Is Stupidity When It Comes to Hiding Fire Extinguishers",
       "hot": "2.7m",
-      "desc": "computerhistory.org",
+      "desc": "gadgetreview.com",
       "source": "tech",
-      "tag": "⬆️ 4 points",
-      "url": "https://www.computerhistory.org/revolution/supercomputers/10/33/62"
+      "tag": "⬆️ 27 points",
+      "url": "https://www.gadgetreview.com/apples-clean-design-is-stupidity-when-it-comes-to-hiding-fire-extinguishers"
     },
     {
-      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+      "title": "Agents don't need memory, they need documentation",
       "hot": "2.7m",
-      "desc": "fortune.com",
+      "desc": "liao.gg",
       "source": "tech",
-      "tag": "⬆️ 17 points",
-      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/"
+      "tag": "⬆️ 56 points",
+      "url": "https://liao.gg/blog/agents-dont-need-memory"
     }
   ],
   "github": [
     {
-      "title": "KKKKhazix/AIHOT: 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你���行业热点站。",
+      "title": "KKKKhazix/AIHOT: 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的��业热点站。",
       "hot": "⭐ 5.4k",
-      "desc": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你���行业热点站。",
+      "desc": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的��业热点站。",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/KKKKhazix/AIHOT"
@@ -198,27 +360,11 @@
     },
     {
       "title": "CopilotKit/OpenDots: Your always-on AI coworkers that move between text, calls, ",
-      "hot": "⭐ 2.4k",
+      "hot": "⭐ 2.5k",
       "desc": "Your always-on AI coworkers that move between text, calls, and Slack.",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/CopilotKit/OpenDots"
-    },
-    {
-      "title": "dzhng/jevgrep: Find code by asking what it does. A CLI for coding agents that us",
-      "hot": "⭐ 2.2k",
-      "desc": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/dzhng/jevgrep"
-    },
-    {
-      "title": "kaankiziltug/logo-design-skill: A comprehensive logo-design skill for Claude, Ge",
-      "hot": "⭐ 1.7k",
-      "desc": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo r",
-      "source": "github",
-      "tag": "HTML",
-      "url": "https://github.com/kaankiziltug/logo-design-skill"
     },
     {
       "title": "yihui-dev/awesome-opus5-5-videos: A growing collection of viral videos made with",
@@ -227,14 +373,6 @@
       "source": "github",
       "tag": "GitHub",
       "url": "https://github.com/yihui-dev/awesome-opus5-5-videos"
-    },
-    {
-      "title": "feitangyuan/onetake: Motion films that never cut to the next slide: every beat g",
-      "hot": "⭐ 1.4k",
-      "desc": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Clau",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/feitangyuan/onetake"
     },
     {
       "title": "wy51ai/floorplan-3d: ",
@@ -246,7 +384,7 @@
     },
     {
       "title": "firelex/jeff: Millisecond decisions, any domain: a 0.8B open \"System 1\" model th",
-      "hot": "⭐ 1.3k",
+      "hot": "⭐ 1.4k",
       "desc": "Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoR",
       "source": "github",
       "tag": "Python",
@@ -269,20 +407,44 @@
       "url": "https://github.com/edenfunf/reelmimic"
     },
     {
+      "title": "CAPCOM-TD-OSS/REDox: High-performance, token-based structured data engine for .N",
+      "hot": "⭐ 986",
+      "desc": "High-performance, token-based structured data engine for .NET. A core component of REX, the technology behind CAPCOM's next-generation game engine.",
+      "source": "github",
+      "tag": "C#",
+      "url": "https://github.com/CAPCOM-TD-OSS/REDox"
+    },
+    {
       "title": "echris6/motion-video-kit: Claude Code skill kit for premium AI-assisted business",
-      "hot": "⭐ 980",
+      "hot": "⭐ 982",
       "desc": "Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound des",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/echris6/motion-video-kit"
     },
     {
-      "title": "CAPCOM-TD-OSS/REDox: High-performance, token-based structured data engine for .N",
-      "hot": "⭐ 974",
-      "desc": "High-performance, token-based structured data engine for .NET. A core component of REX, the technology behind CAPCOM's next-generation game engine.",
+      "title": "facebookincubator/muse-gadget-sdk: Open source SDK to build Muse gadgets",
+      "hot": "⭐ 867",
+      "desc": "Open source SDK to build Muse gadgets",
       "source": "github",
-      "tag": "C#",
-      "url": "https://github.com/CAPCOM-TD-OSS/REDox"
+      "tag": "C",
+      "url": "https://github.com/facebookincubator/muse-gadget-sdk"
+    },
+    {
+      "title": "chasmlol/SkyCraft: Play Skyrim as a Minecraft player: Minecraft physics, invento",
+      "hot": "⭐ 761",
+      "desc": "Play Skyrim as a Minecraft player: Minecraft physics, inventory, blocks and combat inside Skyrim's world (SKSE plugin + Fabric mod).",
+      "source": "github",
+      "tag": "C++",
+      "url": "https://github.com/chasmlol/SkyCraft"
+    },
+    {
+      "title": "openai/mcp-extensions: Build plugins that feel like native, first-class features",
+      "hot": "⭐ 727",
+      "desc": "Build plugins that feel like native, first-class features of ChatGPT.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/openai/mcp-extensions"
     }
   ],
   "space": [
@@ -405,168 +567,6 @@
       "source": "space",
       "tag": "ESA",
       "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Typhoon_Surigae"
-    }
-  ],
-  "dev": [
-    {
-      "title": "What was your win this week?",
-      "hot": "❤️ 65 💬 50",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "weeklyretro",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-4jli"
-    },
-    {
-      "title": "Rediscovering the Schwartzian Transform: Why I Had to Comment on a Flutter Performance Article",
-      "hot": "❤️ 10 💬 0",
-      "desc": "When a Flutter developer tackled a UI freeze sorting 10,000 timeline events, they unwittingly reinvented a 30-year-old c",
-      "source": "dev",
-      "tag": "dart,  flutter",
-      "url": "https://dev.to/gde/rediscovering-the-schwartzian-transform-why-i-had-to-comment-on-a-flutter-performance-article-30l0"
-    },
-    {
-      "title": "The Physics of Socratic Prompting: Somatic Recoil, Chess Alpha-Beta, & The NLP Meta-Model",
-      "hot": "❤️ 15 💬 4",
-      "desc": "Why scalar RLHF fails at credit assignment, why barking direct code fixes turns you into an exhausted human compiler, an",
-      "source": "dev",
-      "tag": "ai,  programming",
-      "url": "https://dev.to/gde/the-physics-of-socratic-prompting-somatic-recoil-chess-alpha-beta-the-nlp-meta-model-2b6e"
-    },
-    {
-      "title": "Gemma 4 on Amazon SageMaker: The NVIDIA T4 Decodes at 0.8x of the L4 With the Same Answers",
-      "hot": "❤️ 15 💬 1",
-      "desc": "Gemma 4's 4-bit builds on SageMaker's smallest GPU, an NVIDIA T4, against the L4: a Turing patch for vLLM, the host imag",
-      "source": "dev",
-      "tag": "aws,  sagemaker",
-      "url": "https://dev.to/gde/gemma-4-on-amazon-sagemaker-the-nvidia-t4-decodes-at-08x-of-the-l4-with-the-same-answers-19m4"
-    },
-    {
-      "title": "Repacked QAT Gemma 4 on One TPU v5e: 12B Serves at 675 Tokens per Second",
-      "hot": "❤️ 8 💬 0",
-      "desc": "Google's quantization-aware-trained Gemma 4 weights, repacked into int4 and int8 formats vLLM serves on TPU. On one v5e ",
-      "source": "dev",
-      "tag": "gemma,  googlecloud",
-      "url": "https://dev.to/gde/repacked-qat-gemma-4-on-one-tpu-v5e-12b-serves-at-675-tokens-per-second-15dd"
-    },
-    {
-      "title": "Gemma 4 QAT on One TPU v5e: What Runs and What Doesn't",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Google's quantization-aware-trained Gemma 4 weights, repacked into int4 and int8 formats vLLM serves on TPU, on one v5e ",
-      "source": "dev",
-      "tag": "gemma,  googlecloud",
-      "url": "https://dev.to/gde/gemma-4-qat-on-one-tpu-v5e-what-runs-and-what-doesnt-2gii"
-    },
-    {
-      "title": "Gemma 4 at Over 70 Tokens/s on a 2021 Laptop's 4 GB GPU: The Live Demo, Step by Step",
-      "hot": "❤️ 9 💬 0",
-      "desc": "The live demo, step by step: Gemma 4 E2B answering at 76 tok/s from a GTX 1650 Ti with 4 GB of memory, and the exact re-",
-      "source": "dev",
-      "tag": "gemma,  llamacpp",
-      "url": "https://dev.to/gde/gemma-4-at-over-70-tokenss-on-a-2021-laptops-4-gb-gpu-the-live-demo-step-by-step-52hg"
-    },
-    {
-      "title": "Gemini 4 Argon\r\n\r\nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
-      "hot": "❤️ 5 💬 2",
-      "desc": "...",
-      "source": "dev",
-      "tag": "ai,  gemini",
-      "url": "https://dev.to/ben/gemini-4-argon-5g2l"
-    },
-    {
-      "title": "Building Sarrera: Self-Hosted Enterprise AI Inference Gateway with RBAC, Token Quotas & Telemetry",
-      "hot": "❤️ 9 💬 0",
-      "desc": "How to deploy a private, local AI gateway for engineering teams using LiteLLM, Caddy, Langfuse, and Open WebUI with mult",
-      "source": "dev",
-      "tag": "ai,  devops",
-      "url": "https://dev.to/gde/building-sarrera-self-hosted-enterprise-ai-inference-gateway-with-rbac-token-quotas-telemetry-316o"
-    },
-    {
-      "title": "Gemma 4 on a Tesla T4, Part 3: Int4 Embeddings Serve E2B in 2.86 GiB at 2.30x bf16",
-      "hot": "❤️ 9 💬 0",
-      "desc": "Google's QAT Gemma 4 E2B keeps its embedding tables in bf16, and on a Tesla T4 they are most of the model. Packing them ",
-      "source": "dev",
-      "tag": "gemma,  vllm",
-      "url": "https://dev.to/gde/gemma-4-on-a-tesla-t4-part-3-int4-embeddings-serve-e2b-in-286-gib-at-230x-bf16-3kch"
-    },
-    {
-      "title": "Hacktoberfest 2026 DEV Challenges: Five Challenges, One Prompt, a New Theme Every Week",
-      "hot": "❤️ 49 💬 3",
-      "desc": "Hacktoberfest is here, and this October we're running five DEV Challenges back to back.  Every...",
-      "source": "dev",
-      "tag": "devchallenge,  hf26challenge",
-      "url": "https://dev.to/devteam/hacktoberfest-2026-dev-challenges-five-challenges-one-prompt-a-new-theme-every-week-1e54"
-    },
-    {
-      "title": "Everything You Need To Know About Hacktoberfest 2026: AI Belongs to Everyone 🎃",
-      "hot": "❤️ 80 💬 12",
-      "desc": "It's October 1st, which means Hacktoberfest 2026 is officially live! 🎉  This year looks a little...",
-      "source": "dev",
-      "tag": "hacktoberfest,  opensource",
-      "url": "https://blog.mlh.com/everything-you-need-to-know-about-hacktoberfest-2026-ai-belongs-to-everyone-mdk"
-    },
-    {
-      "title": "Claude Sonnet 5.5 is now available on Google Cloud",
-      "hot": "❤️ 13 💬 2",
-      "desc": "Designed for coding and knowledge work, it helps you build features, and create clean work...",
-      "source": "dev",
-      "tag": "Dev.to",
-      "url": "https://dev.to/googleai/claude-sonnet-55-is-now-available-on-google-cloud-168h"
-    },
-    {
-      "title": "7 ways to lock down AI agent sandboxes in production (beyond Docker containers)",
-      "hot": "❤️ 7 💬 0",
-      "desc": "Running an autonomous coding or ops agent directly on your laptop feels like a superpower for the...",
-      "source": "dev",
-      "tag": "agents,  sandbox",
-      "url": "https://dev.to/googleai/7-ways-to-lock-down-ai-agent-sandboxes-in-production-beyond-docker-containers-2bg3"
-    },
-    {
-      "title": "Disappeared Since March: Taking a Long Break Was My Best Decision Yet",
-      "hot": "❤️ 84 💬 31",
-      "desc": "If you checked my profile recently, you probably noticed my page has been completely quiet since...",
-      "source": "dev",
-      "tag": "Dev.to",
-      "url": "https://dev.to/maame-codes/disappeared-since-march-taking-a-long-break-was-my-best-decision-yet-1n45"
-    },
-    {
-      "title": "Join the Hacktoberfest Weekend Challenge: Build for a Friend! $2,450 in Prizes Across 17 Winners. Submissions Due October 5 at 6:59 AM UTC.",
-      "hot": "❤️ 196 💬 57",
-      "desc": "Hacktoberfest is here, and so is the first of our five Hacktoberfest DEV Challenges: a Weekend...",
-      "source": "dev",
-      "tag": "devchallenge,  weekendchallenge",
-      "url": "https://dev.to/devteam/join-the-hacktoberfest-weekend-challenge-build-for-a-friend-2450-in-prizes-across-17-winners-1aj5"
-    },
-    {
-      "title": "Claude Opus 5.5 is now available on Google Cloud",
-      "hot": "❤️ 15 💬 0",
-      "desc": "Everyday complex tasks? No problem. Opus 5.5 handles long-running coding and knowledge work while...",
-      "source": "dev",
-      "tag": "claude,  googlecloud",
-      "url": "https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh"
-    },
-    {
-      "title": "A wine cellar that remembers what you used to believe",
-      "hot": "❤️ 29 💬 2",
-      "desc": "This is a submission for the Sanity Challenge, Path Two: Vibe-Code Something Strange           What I...",
-      "source": "dev",
-      "tag": "sanitychallenge,  devchallenge",
-      "url": "https://dev.to/kenwalger/a-wine-cellar-that-remembers-what-you-used-to-believe-4i55"
-    },
-    {
-      "title": "🎡 Social Ferris Wheel: Sanity is the Hub",
-      "hot": "❤️ 30 💬 2",
-      "desc": "This is a submission for the Sanity Challenge, Path Two: Vibe-Code Something Strange             What...",
-      "source": "dev",
-      "tag": "devchallenge,  sanitychallenge",
-      "url": "https://dev.to/annavi11arrea1/social-ferris-wheel-sanity-is-the-hub-2m7j"
-    },
-    {
-      "title": "Claude on Google Cloud workshop | NYC | 9/30",
-      "hot": "❤️ 14 💬 1",
-      "desc": "On Wednesday, September 30, Anthropic and Google Cloud are co-hosting a hands-on developer workshop...",
-      "source": "dev",
-      "tag": "eventsinyourcity,  claude",
-      "url": "https://dev.to/googleai/claude-on-google-cloud-workshop-nyc-930-17jl"
     }
   ]
 }
