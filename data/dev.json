@@ -1,12 +1,52 @@
 {
   "data": [
     {
+      "title": "Why you still need a Website Portfolio, even though everyone can Vibe Code it.",
+      "hot": "❤️ 45 💬 16",
+      "desc": "If you have been following me for a long time, you already know I have been holding off my Portfolio...",
+      "source": "dev",
+      "tag": "discuss,  community",
+      "url": "https://dev.to/francistrdev/why-you-still-need-a-website-portfolio-even-though-everyone-can-vibe-code-it-e63"
+    },
+    {
+      "title": "Meme Monday",
+      "hot": "❤️ 20 💬 20",
+      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
+      "source": "dev",
+      "tag": "discuss,  jokes",
+      "url": "https://dev.to/ben/meme-monday-3ib7"
+    },
+    {
       "title": "What was your win this week?",
-      "hot": "❤️ 79 💬 79",
+      "hot": "❤️ 84 💬 90",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "weeklyretro",
       "url": "https://dev.to/devteam/what-was-your-win-this-week-4jli"
+    },
+    {
+      "title": "Publishing Markdown to Substack from an Agent Skill",
+      "hot": "❤️ 10 💬 0",
+      "desc": "Substack has no publishing API, its editor has no tables, and a link around inline code is dropped on paste. A step by s",
+      "source": "dev",
+      "tag": "substack,  writing",
+      "url": "https://dev.to/gde/publishing-markdown-to-substack-from-an-agent-skill-258f"
+    },
+    {
+      "title": "MCP Configuration for Google Workspace with Claude Code",
+      "hot": "❤️ 10 💬 0",
+      "desc": "Connect Claude Code to Google's eight remote Workspace MCP servers (Gmail, Drive, Docs, Sheets, Slides, Calendar, Chat a",
+      "source": "dev",
+      "tag": "claudecode,  mcp",
+      "url": "https://dev.to/gde/mcp-configuration-for-google-workspace-with-claude-code-11om"
+    },
+    {
+      "title": "Join the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass! $2,450 in Prizes Across 17 Winners.",
+      "hot": "❤️ 7 💬 3",
+      "desc": "Week 1 of our five Hacktoberfest DEV Challenges starts today! Running through October 11, the...",
+      "source": "dev",
+      "tag": "devchallenge,  hf26challenge",
+      "url": "https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-week-1-touch-grass-2450-in-prizes-across-17-4pom"
     },
     {
       "title": "Rediscovering the Schwartzian Transform: Why I Had to Comment on a Flutter Performance Article",
@@ -15,6 +55,14 @@
       "source": "dev",
       "tag": "dart,  flutter",
       "url": "https://dev.to/gde/rediscovering-the-schwartzian-transform-why-i-had-to-comment-on-a-flutter-performance-article-30l0"
+    },
+    {
+      "title": "Event-Driven AI at Cloud Scale: High-Throughput Stream Classification with Pub/Sub, Dataflow, and Jev",
+      "hot": "❤️ 13 💬 0",
+      "desc": "How to turn millions of events per hour into typed, confidence-scored decisions, without a...",
+      "source": "dev",
+      "tag": "ai,  googlecloud",
+      "url": "https://dev.to/gde/event-driven-ai-at-cloud-scale-high-throughput-stream-classification-with-pubsub-dataflow-and-12ic"
     },
     {
       "title": "The Physics of Socratic Prompting: Somatic Recoil, Chess Alpha-Beta, & The NLP Meta-Model",
@@ -39,14 +87,6 @@
       "source": "dev",
       "tag": "gemma,  googlecloud",
       "url": "https://dev.to/gde/repacked-qat-gemma-4-on-one-tpu-v5e-12b-serves-at-675-tokens-per-second-15dd"
-    },
-    {
-      "title": "Gemma 4 QAT on One TPU v5e: What Runs and What Doesn't",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Google's quantization-aware-trained Gemma 4 weights, repacked into int4 and int8 formats vLLM serves on TPU, on one v5e ",
-      "source": "dev",
-      "tag": "gemma,  googlecloud",
-      "url": "https://dev.to/gde/gemma-4-qat-on-one-tpu-v5e-what-runs-and-what-doesnt-2gii"
     },
     {
       "title": "Gemma 4 at Over 70 Tokens/s on a 2021 Laptop's 4 GB GPU: The Live Demo, Step by Step",
@@ -74,7 +114,7 @@
     },
     {
       "title": "Views Measure Views",
-      "hot": "❤️ 24 💬 8",
+      "hot": "❤️ 27 💬 9",
       "desc": "Nine years in, I finally worked out what else to count.  A writer I follow, Sylwia Laskowska,...",
       "source": "dev",
       "tag": "career,  writing",
@@ -119,47 +159,7 @@
       "source": "dev",
       "tag": "eventsinyourcity,  claude",
       "url": "https://dev.to/googleai/claude-on-google-cloud-workshop-nyc-930-17jl"
-    },
-    {
-      "title": "Your Type Guard Can Silently Drift from Your TypeScript Type 🔧",
-      "hot": "❤️ 81 💬 28",
-      "desc": "Hoi hoi! 👋  I'm @nyaomaru, a frontend engineer just back from a short vacation on Texel, a small...",
-      "source": "dev",
-      "tag": "typescript,  javascript",
-      "url": "https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57"
-    },
-    {
-      "title": "Hacktoberfest 2026 DEV Challenges: Five Challenges, One Prompt, a New Theme Every Week",
-      "hot": "❤️ 50 💬 3",
-      "desc": "Hacktoberfest is here, and this October we're running five DEV Challenges back to back.  Every...",
-      "source": "dev",
-      "tag": "devchallenge,  hf26challenge",
-      "url": "https://dev.to/devteam/hacktoberfest-2026-dev-challenges-five-challenges-one-prompt-a-new-theme-every-week-1e54"
-    },
-    {
-      "title": "Everything You Need To Know About Hacktoberfest 2026: AI Belongs to Everyone 🎃",
-      "hot": "❤️ 101 💬 15",
-      "desc": "It's October 1st, which means Hacktoberfest 2026 is officially live! 🎉  This year looks a little...",
-      "source": "dev",
-      "tag": "hacktoberfest,  opensource",
-      "url": "https://blog.mlh.com/everything-you-need-to-know-about-hacktoberfest-2026-ai-belongs-to-everyone-mdk"
-    },
-    {
-      "title": "Deploying LiteLLM: An Open-Source AI Gateway",
-      "hot": "❤️ 9 💬 2",
-      "desc": "LiteLLM is an open-source AI gateway that provides a unified, OpenAI-compatible API for over 100...",
-      "source": "dev",
-      "tag": "ai,  llm",
-      "url": "https://dev.to/vultr/deploying-litellm-an-open-source-ai-gateway-2idp"
-    },
-    {
-      "title": "Building Sarrera: Self-Hosted Enterprise AI Inference Gateway with RBAC, Token Quotas & Telemetry",
-      "hot": "❤️ 10 💬 0",
-      "desc": "How to deploy a private, local AI gateway for engineering teams using LiteLLM, Caddy, Langfuse, and Open WebUI with mult",
-      "source": "dev",
-      "tag": "ai,  devops",
-      "url": "https://dev.to/gde/building-sarrera-self-hosted-enterprise-ai-inference-gateway-with-rbac-token-quotas-telemetry-316o"
     }
   ],
-  "updatedAt": "2026-10-05T09:25:33.817Z"
+  "updatedAt": "2026-10-05T18:36:16.266Z"
 }
