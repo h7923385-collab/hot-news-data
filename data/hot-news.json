@@ -1,42 +1,34 @@
 {
-  "updatedAt": "2026-10-06T13:41:22.874Z",
+  "updatedAt": "2026-10-06T19:08:31.152Z",
   "source": "live",
   "dev": [
     {
       "title": "Why you still need a Website Portfolio, even though everyone can Vibe Code it.",
-      "hot": "❤️ 98 💬 30",
+      "hot": "❤️ 111 💬 40",
       "desc": "If you have been following me for a long time, you already know that I have been holding off on my...",
       "source": "dev",
       "tag": "discuss,  community",
       "url": "https://dev.to/francistrdev/why-you-still-need-a-website-portfolio-even-though-everyone-can-vibe-code-it-e63"
     },
     {
-      "title": "Meme Monday",
-      "hot": "❤️ 40 💬 27",
-      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
-      "source": "dev",
-      "tag": "discuss,  jokes",
-      "url": "https://dev.to/ben/meme-monday-3ib7"
-    },
-    {
       "title": "Build a Tiny Virtual Pet on Arduino in 60 Minutes 🐾",
-      "hot": "❤️ 19 💬 2",
+      "hot": "❤️ 24 💬 8",
       "desc": "Turn an Arduino Uno Q into Kiku, a Tamagotchi-style virtual pet with an animated LED face, moods, and keyboard controls.",
       "source": "dev",
       "tag": "arduino,  beginners",
       "url": "https://dev.to/heraistudio/build-a-tiny-virtual-pet-on-arduino-in-60-minutes-2cf"
     },
     {
-      "title": "Activating Your Data Layer for Production-Ready AI",
-      "hot": "❤️ 9 💬 0",
-      "desc": "When discussing applications and systems using generative AI and the new opportunities they present,...",
+      "title": "Meme Monday",
+      "hot": "❤️ 40 💬 28",
+      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
       "source": "dev",
-      "tag": "database,  googlecloud",
-      "url": "https://dev.to/googleai/activating-your-data-layer-for-production-ready-ai-p3e"
+      "tag": "discuss,  jokes",
+      "url": "https://dev.to/ben/meme-monday-3ib7"
     },
     {
       "title": "Publishing Markdown to Substack from an Agent Skill",
-      "hot": "❤️ 16 💬 2",
+      "hot": "❤️ 16 💬 4",
       "desc": "Substack has no publishing API, its editor has no tables, and a link around inline code is dropped on paste. A step by s",
       "source": "dev",
       "tag": "substack,  writing",
@@ -44,107 +36,43 @@
     },
     {
       "title": "Join the Hacktoberfest Open-Source AI Challenge: Touch Grass! $2,450 in Prizes Across 17 Winners.",
-      "hot": "❤️ 102 💬 25",
+      "hot": "❤️ 109 💬 32",
       "desc": "Week 1 of our five Hacktoberfest DEV Challenges starts today! Running through October 11, the...",
       "source": "dev",
       "tag": "devchallenge,  hf26challenge",
       "url": "https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-week-1-touch-grass-2450-in-prizes-across-17-4pom"
     },
     {
-      "title": "Rediscovering the Schwartzian Transform: Why I Had to Comment on a Flutter Performance Article",
-      "hot": "❤️ 10 💬 0",
-      "desc": "When a Flutter developer tackled a UI freeze sorting 10,000 timeline events, they unwittingly reinvented a 30-year-old c",
+      "title": "Activating Your Data Layer for Production-Ready AI",
+      "hot": "❤️ 9 💬 1",
+      "desc": "When discussing applications and systems using generative AI and the new opportunities they present,...",
       "source": "dev",
-      "tag": "dart,  flutter",
-      "url": "https://dev.to/gde/rediscovering-the-schwartzian-transform-why-i-had-to-comment-on-a-flutter-performance-article-30l0"
-    },
-    {
-      "title": "MCP Configuration for Google Workspace with Claude Code",
-      "hot": "❤️ 13 💬 0",
-      "desc": "Connect Claude Code to Google's eight remote Workspace MCP servers (Gmail, Drive, Docs, Sheets, Slides, Calendar, Chat a",
-      "source": "dev",
-      "tag": "claudecode,  mcp",
-      "url": "https://dev.to/gde/mcp-configuration-for-google-workspace-with-claude-code-11om"
-    },
-    {
-      "title": "The Physics of Socratic Prompting: Somatic Recoil, Chess Alpha-Beta, & The NLP Meta-Model",
-      "hot": "❤️ 15 💬 4",
-      "desc": "Why scalar RLHF fails at credit assignment, why barking direct code fixes turns you into an exhausted human compiler, an",
-      "source": "dev",
-      "tag": "ai,  programming",
-      "url": "https://dev.to/gde/the-physics-of-socratic-prompting-somatic-recoil-chess-alpha-beta-the-nlp-meta-model-2b6e"
-    },
-    {
-      "title": "Gemma 4 on Amazon SageMaker: The NVIDIA T4 Decodes at 0.8x of the L4 With the Same Answers",
-      "hot": "❤️ 15 💬 1",
-      "desc": "Gemma 4's 4-bit builds on SageMaker's smallest GPU, an NVIDIA T4, against the L4: a Turing patch for vLLM, the host imag",
-      "source": "dev",
-      "tag": "aws,  sagemaker",
-      "url": "https://dev.to/gde/gemma-4-on-amazon-sagemaker-the-nvidia-t4-decodes-at-08x-of-the-l4-with-the-same-answers-19m4"
-    },
-    {
-      "title": "Repacked QAT Gemma 4 on One TPU v5e: 12B Serves at 675 Tokens per Second",
-      "hot": "❤️ 8 💬 0",
-      "desc": "Google's quantization-aware-trained Gemma 4 weights, repacked into int4 and int8 formats vLLM serves on TPU. On one v5e ",
-      "source": "dev",
-      "tag": "gemma,  googlecloud",
-      "url": "https://dev.to/gde/repacked-qat-gemma-4-on-one-tpu-v5e-12b-serves-at-675-tokens-per-second-15dd"
-    },
-    {
-      "title": "Gemma 4 at Over 70 Tokens/s on a 2021 Laptop's 4 GB GPU: The Live Demo, Step by Step",
-      "hot": "❤️ 9 💬 0",
-      "desc": "The live demo, step by step: Gemma 4 E2B answering at 76 tok/s from a GTX 1650 Ti with 4 GB of memory, and the exact re-",
-      "source": "dev",
-      "tag": "gemma,  llamacpp",
-      "url": "https://dev.to/gde/gemma-4-at-over-70-tokenss-on-a-2021-laptops-4-gb-gpu-the-live-demo-step-by-step-52hg"
-    },
-    {
-      "title": "Gemini 4 Argon\r\n\r\nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
-      "hot": "❤️ 5 💬 2",
-      "desc": "...",
-      "source": "dev",
-      "tag": "ai,  gemini",
-      "url": "https://dev.to/ben/gemini-4-argon-5g2l"
+      "tag": "database,  googlecloud",
+      "url": "https://dev.to/googleai/activating-your-data-layer-for-production-ready-ai-p3e"
     },
     {
       "title": "What was your win this week?",
-      "hot": "❤️ 88 💬 101",
+      "hot": "❤️ 89 💬 113",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "weeklyretro",
       "url": "https://dev.to/devteam/what-was-your-win-this-week-4jli"
     },
     {
-      "title": "Gemma 4 on a Tesla T4, Part 3: Int4 Embeddings Serve E2B in 2.86 GiB at 2.30x bf16",
-      "hot": "❤️ 9 💬 0",
-      "desc": "Google's QAT Gemma 4 E2B keeps its embedding tables in bf16, and on a Tesla T4 they are most of the model. Packing them ",
+      "title": "MCP Configuration for Google Workspace with Claude Code",
+      "hot": "❤️ 13 💬 2",
+      "desc": "Connect Claude Code to Google's eight remote Workspace MCP servers (Gmail, Drive, Docs, Sheets, Slides, Calendar, Chat a",
       "source": "dev",
-      "tag": "gemma,  vllm",
-      "url": "https://dev.to/gde/gemma-4-on-a-tesla-t4-part-3-int4-embeddings-serve-e2b-in-286-gib-at-230x-bf16-3kch"
-    },
-    {
-      "title": "Views Measure Views",
-      "hot": "❤️ 27 💬 9",
-      "desc": "Nine years in, I finally worked out what else to count.  A writer I follow, Sylwia Laskowska,...",
-      "source": "dev",
-      "tag": "career,  writing",
-      "url": "https://dev.to/kenwalger/views-measure-views-4co7"
+      "tag": "claudecode,  mcp",
+      "url": "https://dev.to/gde/mcp-configuration-for-google-workspace-with-claude-code-11om"
     },
     {
       "title": "Event-Driven AI at Cloud Scale: High-Throughput Stream Classification with Pub/Sub, Dataflow, and Jev",
-      "hot": "❤️ 14 💬 0",
+      "hot": "❤️ 14 💬 1",
       "desc": "How to turn millions of events per hour into typed, confidence-scored decisions, without a...",
       "source": "dev",
       "tag": "ai,  googlecloud",
       "url": "https://dev.to/gde/event-driven-ai-at-cloud-scale-high-throughput-stream-classification-with-pubsub-dataflow-and-12ic"
-    },
-    {
-      "title": "Claude Sonnet 5.5 is now available on Google Cloud",
-      "hot": "❤️ 13 💬 2",
-      "desc": "Designed for coding and knowledge work, it helps you build features, and create clean work...",
-      "source": "dev",
-      "tag": "Dev.to",
-      "url": "https://dev.to/googleai/claude-sonnet-55-is-now-available-on-google-cloud-168h"
     },
     {
       "title": "7 ways to lock down AI agent sandboxes in production (beyond Docker containers)",
@@ -161,36 +89,230 @@
       "source": "dev",
       "tag": "Dev.to",
       "url": "https://dev.to/maame-codes/disappeared-since-march-taking-a-long-break-was-my-best-decision-yet-1n45"
+    },
+    {
+      "title": "Claude Opus 5.5 is now available on Google Cloud",
+      "hot": "❤️ 15 💬 0",
+      "desc": "Everyday complex tasks? No problem. Opus 5.5 handles long-running coding and knowledge work while...",
+      "source": "dev",
+      "tag": "claude,  googlecloud",
+      "url": "https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh"
+    },
+    {
+      "title": "Claude on Google Cloud workshop | NYC | 9/30",
+      "hot": "❤️ 14 💬 1",
+      "desc": "On Wednesday, September 30, Anthropic and Google Cloud are co-hosting a hands-on developer workshop...",
+      "source": "dev",
+      "tag": "eventsinyourcity,  claude",
+      "url": "https://dev.to/googleai/claude-on-google-cloud-workshop-nyc-930-17jl"
+    },
+    {
+      "title": "Your Type Guard Can Silently Drift from Your TypeScript Type 🔧",
+      "hot": "❤️ 81 💬 28",
+      "desc": "Hoi hoi! 👋  I'm @nyaomaru, a frontend engineer just back from a short vacation on Texel, a small...",
+      "source": "dev",
+      "tag": "typescript,  javascript",
+      "url": "https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57"
+    },
+    {
+      "title": "Views Measure Views",
+      "hot": "❤️ 27 💬 12",
+      "desc": "Nine years in, I finally worked out what else to count.  A writer I follow, Sylwia Laskowska,...",
+      "source": "dev",
+      "tag": "career,  writing",
+      "url": "https://dev.to/kenwalger/views-measure-views-4co7"
+    },
+    {
+      "title": "Deploying LiteLLM: An Open-Source AI Gateway",
+      "hot": "❤️ 9 💬 2",
+      "desc": "LiteLLM is an open-source AI gateway that provides a unified, OpenAI-compatible API for over 100...",
+      "source": "dev",
+      "tag": "ai,  llm",
+      "url": "https://dev.to/vultr/deploying-litellm-an-open-source-ai-gateway-2idp"
+    },
+    {
+      "title": "Repacked QAT Gemma 4 on One TPU v5e: 12B Serves at 675 Tokens per Second",
+      "hot": "❤️ 8 💬 1",
+      "desc": "Google's quantization-aware-trained Gemma 4 weights, repacked into int4 and int8 formats vLLM serves on TPU. On one v5e ",
+      "source": "dev",
+      "tag": "gemma,  googlecloud",
+      "url": "https://dev.to/gde/repacked-qat-gemma-4-on-one-tpu-v5e-12b-serves-at-675-tokens-per-second-15dd"
+    },
+    {
+      "title": "I Turned DEV.to Into a Walkable 3D Library — Debugging It Has Been a Nightmare",
+      "hot": "❤️ 85 💬 31",
+      "desc": "DEV Library is my idea of first-person 3D reimagining of DEV.to. Not a themed scene with some...",
+      "source": "dev",
+      "tag": "buildinpublic,  webdev",
+      "url": "https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd"
+    },
+    {
+      "title": "Building an Offline Arduino UNO Q Cyberdeck That Identifies Birdsong and Draws Vintage Field Notes",
+      "hot": "❤️ 26 💬 5",
+      "desc": "In this post, I walk through B.L.O.O.M. (Bridging Local Observations, Openly Mapped), an offline...",
+      "source": "dev",
+      "tag": "arduino,  iot",
+      "url": "https://dev.to/cloudinary/building-an-offline-arduino-uno-q-cyberdeck-that-identifies-birdsong-and-draws-vintage-field-notes-1cjg"
+    },
+    {
+      "title": "Congrats to the DEV Weekend Challenge: Dog Days Edition Winners!",
+      "hot": "❤️ 81 💬 30",
+      "desc": "The results are in for our DEV Weekend Challenge: Dog Days Edition! Thank you for your patience while...",
+      "source": "dev",
+      "tag": "devchallenge,  weekendchallenge",
+      "url": "https://dev.to/devteam/congrats-to-the-dev-weekend-challenge-dog-days-edition-winners-300g"
+    }
+  ],
+  "space": [
+    {
+      "title": "NASA to Cover Northrop Grumman CRS-24 Spacecraft Departure",
+      "hot": "10/6",
+      "desc": "After delivering more than 11,000 pounds of supplies, science experiments, and other cargo to the International Space Station for NASA, Northrop Grumm",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/news-release/nasa-to-cover-northrop-grumman-crs-24-spacecraft-departure/"
+    },
+    {
+      "title": "October 2026 Satellite Puzzler",
+      "hot": "10/6",
+      "desc": "Your challenge is to tell us the location of the satellite image and why it is interesting.",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/earth/earth-observatory/october-2026-satellite-puzzler/"
+    },
+    {
+      "title": "Lunar Grounding Challenge",
+      "hot": "10/6",
+      "desc": "As an astronaut traverses the lunar South Pole, tribocharging from walking on the lunar surface and plasma charging from the ambient plasma generate e",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/lunar-grounding-challenge/"
+    },
+    {
+      "title": "NASA Glenn Invites Phase 1 Proposals for Aerospace Power Systems Laboratory",
+      "hot": "10/6",
+      "desc": "NASA’s Glenn Research Center in Cleveland is seeking Phase 1 proposals for the design and construction of the Aerospace Power Systems Laboratory. The ",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/news-release/nasa-glenn-invites-phase-1-proposals-for-aerospace-power-systems-laboratory/"
+    },
+    {
+      "title": "Astronomers Solve Cosmic Cold Case with NASA Hubble Data",
+      "hot": "10/6",
+      "desc": "Diligent sleuthing by astronomers uncovered a surprising chemical clue that indicates the white dwarf star HS 0209+0832 may host a second-generation p",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/image-article/astronomers-solve-cosmic-cold-case-with-nasa-hubble-data/"
+    },
+    {
+      "title": "Why is NASA bringing 7,500 contractors back to work as civil servants?",
+      "hot": "10/6",
+      "desc": "\"The administrator's directive is a coherent and necessary vision for the future.\"",
+      "source": "space",
+      "tag": "Arstechnica",
+      "url": "https://arstechnica.com/space/2026/10/why-is-nasa-bringing-7500-contractors-back-to-work-as-civil-servants/"
+    },
+    {
+      "title": "NASA’s Curiosity Rover Catches Stunning Martian Dawn",
+      "hot": "10/6",
+      "desc": "A newly released panorama captured by NASA’s Curiosity rover offers the most detailed view yet of distant, wind-carved Martian cliffs, highlighting fe",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-rover-catches-stunning-martian-dawn/"
+    },
+    {
+      "title": "ESA at IAC 2026 – Day 2",
+      "hot": "10/6",
+      "desc": "International cooperation remained at the heart of ESA’s participation in the 77th International Astronautical Congress (IAC) in Antalya, Türkiye, as ",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/About_Us/Corporate_news/ESA_at_IAC_2026_Day_2"
+    },
+    {
+      "title": "The EU Extends SALTO Deadline Again as Themis Hop Test Slips",
+      "hot": "10/6",
+      "desc": "The European Commission has extended the deadline for the SALTO reusable launcher project to the end of 2026, giving the programme another three month",
+      "source": "space",
+      "tag": "European Spaceflight",
+      "url": "https://europeanspaceflight.com/the-eu-extends-salto-deadline-again-as-themis-hop-test-slips/"
+    },
+    {
+      "title": "NASA’s Webb Captures Commotion From Nebula’s Stellar Jets",
+      "hot": "10/6",
+      "desc": "A cauldron of cosmic creation is being revealed in a new image from NASA’s James Webb Space Telescope. Webb has unveiled numerous stars formerly hidde",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/missions/webb/nasas-webb-captures-commotion-from-nebulas-stellar-jets/"
+    },
+    {
+      "title": "Webb captures commotion from nebula’s stellar jets",
+      "hot": "10/6",
+      "desc": "From the ESA Blogs.",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Webb_captures_commotion_from_nebula_s_stellar_jets"
+    },
+    {
+      "title": "NASA progress with SLS vehicles for upcoming Artemis missions",
+      "hot": "10/6",
+      "desc": "NASA has stacked the center segments of both Artemis III solid rocket boosters on Mobile…\nThe post NASA progress with SLS vehicles for upcoming Artemi",
+      "source": "space",
+      "tag": "NASASpaceflight",
+      "url": "https://www.nasaspaceflight.com/2026/10/nasa-progress-sls-artemis/"
+    },
+    {
+      "title": "How to record rocket emissions",
+      "hot": "10/6",
+      "desc": "A research aircraft chased a sub-orbital rocket launch in Sweden to see how space agencies can better monitor and understand emissions in our atmosphe",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/Enabling_Support/Space_Transportation/How_to_record_rocket_emissions"
+    },
+    {
+      "title": "Watch Sophie Adenot return to Earth",
+      "hot": "10/6",
+      "desc": "On 7 October 2026, ESA astronaut Sophie Adenot and her Crew-12 crewmates will undock from the International Space Station at around 12:05 GMT/14:05 CE",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Watch_Sophie_Adenot_return_to_Earth"
+    },
+    {
+      "title": "European rover trains for Mars in the desert",
+      "hot": "10/6",
+      "desc": "For eight days, a Mars rover prototype travelled 220 metres across a barren landscape, following commands from a science team some 1200 kilometres awa",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/European_rover_trains_for_Mars_in_the_desert"
     }
   ],
   "github": [
     {
       "title": "rehan-remade/universal-modder: Point Claude at any game. Skills, tools and the f",
-      "hot": "⭐ 4.3k",
+      "hot": "⭐ 4.5k",
       "desc": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/rehan-remade/universal-modder"
     },
     {
-      "title": "CopilotKit/OpenDots: Your always-on AI coworkers that move between text, calls, ",
-      "hot": "⭐ 3.8k",
-      "desc": "Your always-on AI coworkers that move between text, calls, and Slack.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/CopilotKit/OpenDots"
-    },
-    {
       "title": "storytold/photocraft: An open-source, clean-room reimplementation of Adobe Photo",
-      "hot": "⭐ 2.8k",
+      "hot": "⭐ 4.2k",
       "desc": "An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
       "source": "github",
       "tag": "Rust",
       "url": "https://github.com/storytold/photocraft"
     },
     {
+      "title": "CopilotKit/OpenDots: Your always-on AI coworkers that move between text, calls, ",
+      "hot": "⭐ 3.9k",
+      "desc": "Your always-on AI coworkers that move between text, calls, and Slack.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/CopilotKit/OpenDots"
+    },
+    {
       "title": "omlahore/RemoveMacAI: Turn off Apple Intelligence on macOS 27 and get its disk s",
-      "hot": "⭐ 2.7k",
+      "hot": "⭐ 3.0k",
       "desc": "Turn off Apple Intelligence on macOS 27 and get its disk space back. One command, fully reversible.",
       "source": "github",
       "tag": "Swift",
@@ -206,7 +328,7 @@
     },
     {
       "title": "nykooi1/vibe-wise: A Claude Code plugin that helps you learn how to build while ",
-      "hot": "⭐ 2.2k",
+      "hot": "⭐ 2.4k",
       "desc": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
       "source": "github",
       "tag": "Python",
@@ -214,7 +336,7 @@
     },
     {
       "title": "QingYunA/answer-me-with-html: Answer me with HTML — an agent skill that answers ",
-      "hot": "⭐ 1.6k",
+      "hot": "⭐ 1.7k",
       "desc": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
       "source": "github",
       "tag": "JavaScript",
@@ -230,7 +352,7 @@
     },
     {
       "title": "kargulstudio/sales-crm: ",
-      "hot": "⭐ 1.5k",
+      "hot": "⭐ 1.6k",
       "desc": "kargulstudio/sales-crm",
       "source": "github",
       "tag": "TypeScript",
@@ -254,11 +376,19 @@
     },
     {
       "title": "BlueHeisenberg/SCSKiller: Kill shader compilation stutter before you play. Compi",
-      "hot": "⭐ 1.1k",
+      "hot": "⭐ 1.2k",
       "desc": "Kill shader compilation stutter before you play. Compiles your games' shaders into the GPU driver's cache ahead of time. Windows, NVIDIA and AMD.",
       "source": "github",
       "tag": "C#",
       "url": "https://github.com/BlueHeisenberg/SCSKiller"
+    },
+    {
+      "title": "deadinside28/bloodborne_pc: ",
+      "hot": "⭐ 1.1k",
+      "desc": "deadinside28/bloodborne_pc",
+      "source": "github",
+      "tag": "C++",
+      "url": "https://github.com/deadinside28/bloodborne_pc"
     },
     {
       "title": "CAPCOM-TD-OSS/REDox: High-performance, token-based structured data engine for .N",
@@ -269,304 +399,174 @@
       "url": "https://github.com/CAPCOM-TD-OSS/REDox"
     },
     {
-      "title": "chasmlol/SkyCraft: Play Skyrim as a Minecraft player: Minecraft physics, invento",
-      "hot": "⭐ 1.0k",
-      "desc": "Play Skyrim as a Minecraft player: Minecraft physics, inventory, blocks and combat inside Skyrim's world (SKSE plugin + Fabric mod).",
+      "title": "storytold/filmcraft: An open-source, clean-room reimplementation of Adobe Premie",
+      "hot": "⭐ 1.1k",
+      "desc": "An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust.",
       "source": "github",
-      "tag": "C++",
-      "url": "https://github.com/chasmlol/SkyCraft"
-    },
-    {
-      "title": "deadinside28/bloodborne_pc: ",
-      "hot": "⭐ 961",
-      "desc": "deadinside28/bloodborne_pc",
-      "source": "github",
-      "tag": "C++",
-      "url": "https://github.com/deadinside28/bloodborne_pc"
-    }
-  ],
-  "space": [
-    {
-      "title": "Webb captures commotion from nebula’s stellar jets",
-      "hot": "10/6",
-      "desc": "From the ESA Blogs.",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Webb_captures_commotion_from_nebula_s_stellar_jets"
-    },
-    {
-      "title": "NASA’s Webb Captures Commotion From Nebula’s Stellar Jets",
-      "hot": "10/6",
-      "desc": "A cauldron of cosmic creation is being revealed in a new image from NASA’s James Webb Space Telescope. Webb has unveiled numerous stars formerly hidde",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/missions/webb/nasas-webb-captures-commotion-from-nebulas-stellar-jets/"
-    },
-    {
-      "title": "NASA progress with SLS vehicles for upcoming Artemis missions",
-      "hot": "10/6",
-      "desc": "NASA has stacked the center segments of both Artemis III solid rocket boosters on Mobile…\nThe post NASA progress with SLS vehicles for upcoming Artemi",
-      "source": "space",
-      "tag": "NASASpaceflight",
-      "url": "https://www.nasaspaceflight.com/2026/10/nasa-progress-sls-artemis/"
-    },
-    {
-      "title": "How to record rocket emissions",
-      "hot": "10/6",
-      "desc": "A research aircraft chased a sub-orbital rocket launch in Sweden to see how space agencies can better monitor and understand emissions in our atmosphe",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/Enabling_Support/Space_Transportation/How_to_record_rocket_emissions"
-    },
-    {
-      "title": "European rover trains for Mars in the desert",
-      "hot": "10/6",
-      "desc": "For eight days, a Mars rover prototype travelled 220 metres across a barren landscape, following commands from a science team some 1200 kilometres awa",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/European_rover_trains_for_Mars_in_the_desert"
-    },
-    {
-      "title": "APOD: 2026 October 6 – A Complete Auroral Oval from SMILE",
-      "hot": "10/6",
-      "desc": "APOD Science APOD APOD: 2026 October 6 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Pictur",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-6-a-complete-auroral-oval-from-smile/"
-    },
-    {
-      "title": "The Beaver Brown Waters of Rupert Bay",
-      "hot": "10/6",
-      "desc": "Dissolved organic matter and suspended sediment mingle in the southernmost extent of James Bay.",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/earth/earth-observatory/the-beaver-brown-waters-of-rupert-bay/"
-    },
-    {
-      "title": "Curiosity Blog, Sols 5029-5035: Back in the Lab",
-      "hot": "10/6",
-      "desc": "Written by Michelle Minitti, MAHLI Deputy Principal Investigator Earth planning date: Friday, Oct. 1, 2026 The majority of Curiosity plans involve mos",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5029-5035-back-in-the-lab/"
-    },
-    {
-      "title": "A Journey to the Depths of Ancient Mars?",
-      "hot": "10/6",
-      "desc": "Written by Alex Jones, Ph.D. candidate at Imperial College London Sept. 29, 2026 After spending the last six months exploring “Lac de Charmes,” a regi",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/blog/a-journey-to-the-depths-of-ancient-mars/"
-    },
-    {
-      "title": "NASA to Stream SpaceX Crew-12 Return, Splashdown Live",
-      "hot": "10/5",
-      "desc": "NASA and SpaceX are targeting no earlier than 8:05 a.m. EDT, Wednesday, Oct. 7, for the undocking of the agency’s SpaceX Crew-12 mission from the Inte",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/news-release/nasa-to-stream-spacex-crew-12-return-splashdown-live/"
-    },
-    {
-      "title": "Launch Preview: Flights from South Korea, China, USA planned for this week",
-      "hot": "10/5",
-      "desc": "On the heels of an impactful few days of launches from SpaceX, this week shapes…\r\nThe post Launch Preview: Flights from South Korea, China, USA planne",
-      "source": "space",
-      "tag": "NASASpaceflight",
-      "url": "https://www.nasaspaceflight.com/2026/10/launch-preview-100526/"
-    },
-    {
-      "title": "Resource competition intensifies with surge in megaconstellations",
-      "hot": "10/5",
-      "desc": "\nAmazon wants more than 5,000 satellites in orbit. Blue Origin has proposed another 5,400. Chinese companies have filed plans encompassing vastly more",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/resource-competition-intensifies-with-surge-in-megaconstellations/"
-    },
-    {
-      "title": "ESA at IAC 2026 – Day 1",
-      "hot": "10/5",
-      "desc": "Stronger European capabilities and deeper international cooperation were at the heart of ESA’s first day at the 77th International Astronautical Congr",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/About_Us/Corporate_news/ESA_at_IAC_2026_Day_1"
-    },
-    {
-      "title": "NASA Astronaut Christina Koch at Eagles vs. Rams",
-      "hot": "10/5",
-      "desc": "NASA astronaut and mission specialist of the agency’s Artemis II mission, Christina Koch, leads the fans in singing the Eagles Fight Song from the fie",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/image-article/nasa-astronaut-christina-koch-at-eagles-vs-rams/"
-    },
-    {
-      "title": "NASA Testing Aims at Supercooled Large Droplet Aviation Safety",
-      "hot": "10/5",
-      "desc": "NASA is leveraging its expertise and enhancing its test facilities to help address a rare but persistent aviation hazard: icing that occurs when aircr",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/image-article/nasa-testing-aims-at-supercooled-large-droplet-aviation-safety/"
+      "tag": "Rust",
+      "url": "https://github.com/storytold/filmcraft"
     }
   ],
   "tech": [
     {
       "title": "Mistral Large 4",
       "hot": "3.0m",
-      "desc": "docs.mistral.ai",
+      "desc": "mistral.ai",
       "source": "tech",
-      "tag": "⬆️ 198 points",
-      "url": "https://docs.mistral.ai/models/mistral-large-4-0"
+      "tag": "⬆️ 1166 points",
+      "url": "https://mistral.ai/news/mistral-large-4/\\"
+    },
+    {
+      "title": "Nobel Prize in Physics 2026: Francis Halzen",
+      "hot": "3.0m",
+      "desc": "nobelprize.org",
+      "source": "tech",
+      "tag": "⬆️ 415 points",
+      "url": "https://www.nobelprize.org/prizes/physics/2026/"
     },
     {
       "title": "Release of Polars 2.0",
       "hot": "3.0m",
       "desc": "pola.rs",
       "source": "tech",
-      "tag": "⬆️ 88 points",
+      "tag": "⬆️ 332 points",
       "url": "https://pola.rs/posts/release-polars-2/"
     },
     {
-      "title": "Nobel Prize in Physics goes to Francis Halzen",
+      "title": "Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol",
       "hot": "3.0m",
-      "desc": "nobelprize.org",
+      "desc": "mihai.dinculescu.dev",
       "source": "tech",
-      "tag": "⬆️ 230 points",
-      "url": "https://www.nobelprize.org/prizes/physics/2026/"
+      "tag": "⬆️ 100 points",
+      "url": "https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/"
     },
     {
-      "title": "Mistral Large 4: \"Le Chonk\"",
-      "hot": "3.0m",
-      "desc": "mistral.ai",
-      "source": "tech",
-      "tag": "⬆️ 22 points",
-      "url": "https://mistral.ai/news/mistral-large-4/"
-    },
-    {
-      "title": "JetBrains reported a net financial loss first time in its tracked history",
+      "title": "Benchmark in Milliseconds",
       "hot": "2.9m",
-      "desc": "helgilibrary.com",
+      "desc": "matklad.github.io",
       "source": "tech",
-      "tag": "⬆️ 190 points",
-      "url": "https://www.helgilibrary.com/companies/jetbrains"
-    },
-    {
-      "title": "Mathematics of Geothermal Energy",
-      "hot": "2.9m",
-      "desc": "ebsco.com",
-      "source": "tech",
-      "tag": "⬆️ 7 points",
-      "url": "https://www.ebsco.com/research-starters/power-and-energy/mathematics-geothermal-energy/"
+      "tag": "⬆️ 86 points",
+      "url": "https://matklad.github.io/2026/10/05/benchmark-milliseconds.html"
     },
     {
       "title": "Gleam doesn't compile to Erlang source anymore",
       "hot": "2.9m",
       "desc": "gleam.run",
       "source": "tech",
-      "tag": "⬆️ 113 points",
+      "tag": "⬆️ 229 points",
       "url": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/"
     },
     {
-      "title": "Nature's capacity to 'bounce back' when species are lost is vastly overestimated",
+      "title": "Mathematics of Geothermal Energy",
       "hot": "2.9m",
-      "desc": "phys.org",
+      "desc": "ebsco.com",
       "source": "tech",
-      "tag": "⬆️ 75 points",
-      "url": "https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html"
+      "tag": "⬆️ 51 points",
+      "url": "https://www.ebsco.com/research-starters/power-and-energy/mathematics-geothermal-energy/"
     },
     {
-      "title": "Meta's Muse Is an Adorable Privacy and Security Dumpster Fire",
+      "title": "AI is now capable of developing its own inference hardware",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 142 points",
+      "url": "https://github.com/FeSens/openTPU"
+    },
+    {
+      "title": "Meta’s Muse is an adorable privacy and security dumpster fire",
       "hot": "2.9m",
       "desc": "techdirt.com",
       "source": "tech",
-      "tag": "⬆️ 40 points",
+      "tag": "⬆️ 323 points",
       "url": "https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/"
     },
     {
-      "title": "Beam: Reflection's 501B open-weight model",
+      "title": "Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer",
       "hot": "2.9m",
+      "desc": "peterszentkiralyi.eu",
+      "source": "tech",
+      "tag": "⬆️ 34 points",
+      "url": "https://peterszentkiralyi.eu/darkplug/"
+    },
+    {
+      "title": "Subquadratic 3SUM and Subcubic APSP",
+      "hot": "2.9m",
+      "desc": "arxiv.org",
+      "source": "tech",
+      "tag": "⬆️ 45 points",
+      "url": "https://arxiv.org/abs/2610.06783"
+    },
+    {
+      "title": "Former German spy chief arrested for attempted treason",
+      "hot": "2.8m",
+      "desc": "reuters.com",
+      "source": "tech",
+      "tag": "⬆️ 61 points",
+      "url": "https://www.reuters.com/business/finance/former-german-spy-chief-detained-suspicion-espionage-treason-bild-reports-2026-10-06/"
+    },
+    {
+      "title": "Beam: Reflection's 501B open-weight model",
+      "hot": "2.8m",
       "desc": "reflection.ai",
       "source": "tech",
-      "tag": "⬆️ 484 points",
+      "tag": "⬆️ 522 points",
       "url": "https://reflection.ai/blog/introducing-beam"
     },
     {
+      "title": "Nature's capacity to 'bounce back' when species are lost is vastly overestimated",
+      "hot": "2.8m",
+      "desc": "phys.org",
+      "source": "tech",
+      "tag": "⬆️ 248 points",
+      "url": "https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html"
+    },
+    {
+      "title": "The Early History of Smalltalk (1993)",
+      "hot": "2.8m",
+      "desc": "worrydream.com",
+      "source": "tech",
+      "tag": "⬆️ 66 points",
+      "url": "https://worrydream.com/EarlyHistoryOfSmalltalk/"
+    },
+    {
+      "title": "California Closed the Montana License Plate Loophole",
+      "hot": "2.8m",
+      "desc": "thedrive.com",
+      "source": "tech",
+      "tag": "⬆️ 29 points",
+      "url": "https://www.thedrive.com/news/heres-how-california-closed-the-montana-license-plate-loophole"
+    },
+    {
+      "title": "Show HN: Parseable, an open observability datalake, handles 100M time-series/min",
+      "hot": "2.8m",
+      "desc": "parseable.com",
+      "source": "tech",
+      "tag": "⬆️ 53 points",
+      "url": "https://www.parseable.com"
+    },
+    {
+      "title": "I'm the AGI that's wiping out humanity",
+      "hot": "2.7m",
+      "desc": "ajmoon.com",
+      "source": "tech",
+      "tag": "⬆️ 84 points",
+      "url": "https://ajmoon.com/posts/im-the-agi-thats-wiping-out-humanity-heres-how"
+    },
+    {
       "title": "Find the flattest route between any two points in SF",
-      "hot": "2.9m",
+      "hot": "2.7m",
       "desc": "flattensf.com",
       "source": "tech",
-      "tag": "⬆️ 242 points",
+      "tag": "⬆️ 283 points",
       "url": "https://flattensf.com/"
     },
     {
       "title": "Dust: Pretraining Transformers Without Backpropagation",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "qlabs.sh",
       "source": "tech",
-      "tag": "⬆️ 234 points",
+      "tag": "⬆️ 256 points",
       "url": "https://qlabs.sh/research/dust"
-    },
-    {
-      "title": "World's First enhanced geothermal power plant completed in just 23 months",
-      "hot": "2.8m",
-      "desc": "techcrunch.com",
-      "source": "tech",
-      "tag": "⬆️ 46 points",
-      "url": "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/"
-    },
-    {
-      "title": "Friendship ended with Deno, now Node is my best friend",
-      "hot": "2.8m",
-      "desc": "dbushell.com",
-      "source": "tech",
-      "tag": "⬆️ 227 points",
-      "url": "https://dbushell.com/2026/10/03/deno-to-node/"
-    },
-    {
-      "title": "Accountability mechanisms can be joyful (2024)",
-      "hot": "2.8m",
-      "desc": "liquidbrain.net",
-      "source": "tech",
-      "tag": "⬆️ 59 points",
-      "url": "https://liquidbrain.net/blog/accountability-and-joy/"
-    },
-    {
-      "title": "Mistral Large 4",
-      "hot": "2.8m",
-      "desc": "twitter.com",
-      "source": "tech",
-      "tag": "⬆️ 28 points",
-      "url": "https://twitter.com/MistralAI/status/2107456586813730854"
-    },
-    {
-      "title": "Web Search API",
-      "hot": "2.8m",
-      "desc": "developers.cloudflare.com",
-      "source": "tech",
-      "tag": "⬆️ 567 points",
-      "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/"
-    },
-    {
-      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-      "hot": "2.7m",
-      "desc": "vals.ai",
-      "source": "tech",
-      "tag": "⬆️ 404 points",
-      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors"
-    },
-    {
-      "title": "ASOS app users receive push notifications apparently sent by hackers",
-      "hot": "2.7m",
-      "desc": "bbc.co.uk",
-      "source": "tech",
-      "tag": "⬆️ 50 points",
-      "url": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o"
-    },
-    {
-      "title": "Testing 12 different Zigbee temperature/humidity sensors",
-      "hot": "2.7m",
-      "desc": "smarthomescene.com",
-      "source": "tech",
-      "tag": "⬆️ 152 points",
-      "url": "https://smarthomescene.com/reviews/best-selling-zigbee-temperature-sensors-tested/"
     }
   ]
 }

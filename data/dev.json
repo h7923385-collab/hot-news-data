@@ -2,39 +2,31 @@
   "data": [
     {
       "title": "Why you still need a Website Portfolio, even though everyone can Vibe Code it.",
-      "hot": "❤️ 98 💬 30",
+      "hot": "❤️ 111 💬 40",
       "desc": "If you have been following me for a long time, you already know that I have been holding off on my...",
       "source": "dev",
       "tag": "discuss,  community",
       "url": "https://dev.to/francistrdev/why-you-still-need-a-website-portfolio-even-though-everyone-can-vibe-code-it-e63"
     },
     {
-      "title": "Meme Monday",
-      "hot": "❤️ 40 💬 27",
-      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
-      "source": "dev",
-      "tag": "discuss,  jokes",
-      "url": "https://dev.to/ben/meme-monday-3ib7"
-    },
-    {
       "title": "Build a Tiny Virtual Pet on Arduino in 60 Minutes 🐾",
-      "hot": "❤️ 19 💬 2",
+      "hot": "❤️ 24 💬 8",
       "desc": "Turn an Arduino Uno Q into Kiku, a Tamagotchi-style virtual pet with an animated LED face, moods, and keyboard controls.",
       "source": "dev",
       "tag": "arduino,  beginners",
       "url": "https://dev.to/heraistudio/build-a-tiny-virtual-pet-on-arduino-in-60-minutes-2cf"
     },
     {
-      "title": "Activating Your Data Layer for Production-Ready AI",
-      "hot": "❤️ 9 💬 0",
-      "desc": "When discussing applications and systems using generative AI and the new opportunities they present,...",
+      "title": "Meme Monday",
+      "hot": "❤️ 40 💬 28",
+      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
       "source": "dev",
-      "tag": "database,  googlecloud",
-      "url": "https://dev.to/googleai/activating-your-data-layer-for-production-ready-ai-p3e"
+      "tag": "discuss,  jokes",
+      "url": "https://dev.to/ben/meme-monday-3ib7"
     },
     {
       "title": "Publishing Markdown to Substack from an Agent Skill",
-      "hot": "❤️ 16 💬 2",
+      "hot": "❤️ 16 💬 4",
       "desc": "Substack has no publishing API, its editor has no tables, and a link around inline code is dropped on paste. A step by s",
       "source": "dev",
       "tag": "substack,  writing",
@@ -42,107 +34,43 @@
     },
     {
       "title": "Join the Hacktoberfest Open-Source AI Challenge: Touch Grass! $2,450 in Prizes Across 17 Winners.",
-      "hot": "❤️ 102 💬 25",
+      "hot": "❤️ 109 💬 32",
       "desc": "Week 1 of our five Hacktoberfest DEV Challenges starts today! Running through October 11, the...",
       "source": "dev",
       "tag": "devchallenge,  hf26challenge",
       "url": "https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-week-1-touch-grass-2450-in-prizes-across-17-4pom"
     },
     {
-      "title": "Rediscovering the Schwartzian Transform: Why I Had to Comment on a Flutter Performance Article",
-      "hot": "❤️ 10 💬 0",
-      "desc": "When a Flutter developer tackled a UI freeze sorting 10,000 timeline events, they unwittingly reinvented a 30-year-old c",
+      "title": "Activating Your Data Layer for Production-Ready AI",
+      "hot": "❤️ 9 💬 1",
+      "desc": "When discussing applications and systems using generative AI and the new opportunities they present,...",
       "source": "dev",
-      "tag": "dart,  flutter",
-      "url": "https://dev.to/gde/rediscovering-the-schwartzian-transform-why-i-had-to-comment-on-a-flutter-performance-article-30l0"
-    },
-    {
-      "title": "MCP Configuration for Google Workspace with Claude Code",
-      "hot": "❤️ 13 💬 0",
-      "desc": "Connect Claude Code to Google's eight remote Workspace MCP servers (Gmail, Drive, Docs, Sheets, Slides, Calendar, Chat a",
-      "source": "dev",
-      "tag": "claudecode,  mcp",
-      "url": "https://dev.to/gde/mcp-configuration-for-google-workspace-with-claude-code-11om"
-    },
-    {
-      "title": "The Physics of Socratic Prompting: Somatic Recoil, Chess Alpha-Beta, & The NLP Meta-Model",
-      "hot": "❤️ 15 💬 4",
-      "desc": "Why scalar RLHF fails at credit assignment, why barking direct code fixes turns you into an exhausted human compiler, an",
-      "source": "dev",
-      "tag": "ai,  programming",
-      "url": "https://dev.to/gde/the-physics-of-socratic-prompting-somatic-recoil-chess-alpha-beta-the-nlp-meta-model-2b6e"
-    },
-    {
-      "title": "Gemma 4 on Amazon SageMaker: The NVIDIA T4 Decodes at 0.8x of the L4 With the Same Answers",
-      "hot": "❤️ 15 💬 1",
-      "desc": "Gemma 4's 4-bit builds on SageMaker's smallest GPU, an NVIDIA T4, against the L4: a Turing patch for vLLM, the host imag",
-      "source": "dev",
-      "tag": "aws,  sagemaker",
-      "url": "https://dev.to/gde/gemma-4-on-amazon-sagemaker-the-nvidia-t4-decodes-at-08x-of-the-l4-with-the-same-answers-19m4"
-    },
-    {
-      "title": "Repacked QAT Gemma 4 on One TPU v5e: 12B Serves at 675 Tokens per Second",
-      "hot": "❤️ 8 💬 0",
-      "desc": "Google's quantization-aware-trained Gemma 4 weights, repacked into int4 and int8 formats vLLM serves on TPU. On one v5e ",
-      "source": "dev",
-      "tag": "gemma,  googlecloud",
-      "url": "https://dev.to/gde/repacked-qat-gemma-4-on-one-tpu-v5e-12b-serves-at-675-tokens-per-second-15dd"
-    },
-    {
-      "title": "Gemma 4 at Over 70 Tokens/s on a 2021 Laptop's 4 GB GPU: The Live Demo, Step by Step",
-      "hot": "❤️ 9 💬 0",
-      "desc": "The live demo, step by step: Gemma 4 E2B answering at 76 tok/s from a GTX 1650 Ti with 4 GB of memory, and the exact re-",
-      "source": "dev",
-      "tag": "gemma,  llamacpp",
-      "url": "https://dev.to/gde/gemma-4-at-over-70-tokenss-on-a-2021-laptops-4-gb-gpu-the-live-demo-step-by-step-52hg"
-    },
-    {
-      "title": "Gemini 4 Argon\r\n\r\nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
-      "hot": "❤️ 5 💬 2",
-      "desc": "...",
-      "source": "dev",
-      "tag": "ai,  gemini",
-      "url": "https://dev.to/ben/gemini-4-argon-5g2l"
+      "tag": "database,  googlecloud",
+      "url": "https://dev.to/googleai/activating-your-data-layer-for-production-ready-ai-p3e"
     },
     {
       "title": "What was your win this week?",
-      "hot": "❤️ 88 💬 101",
+      "hot": "❤️ 89 💬 113",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "weeklyretro",
       "url": "https://dev.to/devteam/what-was-your-win-this-week-4jli"
     },
     {
-      "title": "Gemma 4 on a Tesla T4, Part 3: Int4 Embeddings Serve E2B in 2.86 GiB at 2.30x bf16",
-      "hot": "❤️ 9 💬 0",
-      "desc": "Google's QAT Gemma 4 E2B keeps its embedding tables in bf16, and on a Tesla T4 they are most of the model. Packing them ",
+      "title": "MCP Configuration for Google Workspace with Claude Code",
+      "hot": "❤️ 13 💬 2",
+      "desc": "Connect Claude Code to Google's eight remote Workspace MCP servers (Gmail, Drive, Docs, Sheets, Slides, Calendar, Chat a",
       "source": "dev",
-      "tag": "gemma,  vllm",
-      "url": "https://dev.to/gde/gemma-4-on-a-tesla-t4-part-3-int4-embeddings-serve-e2b-in-286-gib-at-230x-bf16-3kch"
-    },
-    {
-      "title": "Views Measure Views",
-      "hot": "❤️ 27 💬 9",
-      "desc": "Nine years in, I finally worked out what else to count.  A writer I follow, Sylwia Laskowska,...",
-      "source": "dev",
-      "tag": "career,  writing",
-      "url": "https://dev.to/kenwalger/views-measure-views-4co7"
+      "tag": "claudecode,  mcp",
+      "url": "https://dev.to/gde/mcp-configuration-for-google-workspace-with-claude-code-11om"
     },
     {
       "title": "Event-Driven AI at Cloud Scale: High-Throughput Stream Classification with Pub/Sub, Dataflow, and Jev",
-      "hot": "❤️ 14 💬 0",
+      "hot": "❤️ 14 💬 1",
       "desc": "How to turn millions of events per hour into typed, confidence-scored decisions, without a...",
       "source": "dev",
       "tag": "ai,  googlecloud",
       "url": "https://dev.to/gde/event-driven-ai-at-cloud-scale-high-throughput-stream-classification-with-pubsub-dataflow-and-12ic"
-    },
-    {
-      "title": "Claude Sonnet 5.5 is now available on Google Cloud",
-      "hot": "❤️ 13 💬 2",
-      "desc": "Designed for coding and knowledge work, it helps you build features, and create clean work...",
-      "source": "dev",
-      "tag": "Dev.to",
-      "url": "https://dev.to/googleai/claude-sonnet-55-is-now-available-on-google-cloud-168h"
     },
     {
       "title": "7 ways to lock down AI agent sandboxes in production (beyond Docker containers)",
@@ -159,7 +87,79 @@
       "source": "dev",
       "tag": "Dev.to",
       "url": "https://dev.to/maame-codes/disappeared-since-march-taking-a-long-break-was-my-best-decision-yet-1n45"
+    },
+    {
+      "title": "Claude Opus 5.5 is now available on Google Cloud",
+      "hot": "❤️ 15 💬 0",
+      "desc": "Everyday complex tasks? No problem. Opus 5.5 handles long-running coding and knowledge work while...",
+      "source": "dev",
+      "tag": "claude,  googlecloud",
+      "url": "https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh"
+    },
+    {
+      "title": "Claude on Google Cloud workshop | NYC | 9/30",
+      "hot": "❤️ 14 💬 1",
+      "desc": "On Wednesday, September 30, Anthropic and Google Cloud are co-hosting a hands-on developer workshop...",
+      "source": "dev",
+      "tag": "eventsinyourcity,  claude",
+      "url": "https://dev.to/googleai/claude-on-google-cloud-workshop-nyc-930-17jl"
+    },
+    {
+      "title": "Your Type Guard Can Silently Drift from Your TypeScript Type 🔧",
+      "hot": "❤️ 81 💬 28",
+      "desc": "Hoi hoi! 👋  I'm @nyaomaru, a frontend engineer just back from a short vacation on Texel, a small...",
+      "source": "dev",
+      "tag": "typescript,  javascript",
+      "url": "https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57"
+    },
+    {
+      "title": "Views Measure Views",
+      "hot": "❤️ 27 💬 12",
+      "desc": "Nine years in, I finally worked out what else to count.  A writer I follow, Sylwia Laskowska,...",
+      "source": "dev",
+      "tag": "career,  writing",
+      "url": "https://dev.to/kenwalger/views-measure-views-4co7"
+    },
+    {
+      "title": "Deploying LiteLLM: An Open-Source AI Gateway",
+      "hot": "❤️ 9 💬 2",
+      "desc": "LiteLLM is an open-source AI gateway that provides a unified, OpenAI-compatible API for over 100...",
+      "source": "dev",
+      "tag": "ai,  llm",
+      "url": "https://dev.to/vultr/deploying-litellm-an-open-source-ai-gateway-2idp"
+    },
+    {
+      "title": "Repacked QAT Gemma 4 on One TPU v5e: 12B Serves at 675 Tokens per Second",
+      "hot": "❤️ 8 💬 1",
+      "desc": "Google's quantization-aware-trained Gemma 4 weights, repacked into int4 and int8 formats vLLM serves on TPU. On one v5e ",
+      "source": "dev",
+      "tag": "gemma,  googlecloud",
+      "url": "https://dev.to/gde/repacked-qat-gemma-4-on-one-tpu-v5e-12b-serves-at-675-tokens-per-second-15dd"
+    },
+    {
+      "title": "I Turned DEV.to Into a Walkable 3D Library — Debugging It Has Been a Nightmare",
+      "hot": "❤️ 85 💬 31",
+      "desc": "DEV Library is my idea of first-person 3D reimagining of DEV.to. Not a themed scene with some...",
+      "source": "dev",
+      "tag": "buildinpublic,  webdev",
+      "url": "https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd"
+    },
+    {
+      "title": "Building an Offline Arduino UNO Q Cyberdeck That Identifies Birdsong and Draws Vintage Field Notes",
+      "hot": "❤️ 26 💬 5",
+      "desc": "In this post, I walk through B.L.O.O.M. (Bridging Local Observations, Openly Mapped), an offline...",
+      "source": "dev",
+      "tag": "arduino,  iot",
+      "url": "https://dev.to/cloudinary/building-an-offline-arduino-uno-q-cyberdeck-that-identifies-birdsong-and-draws-vintage-field-notes-1cjg"
+    },
+    {
+      "title": "Congrats to the DEV Weekend Challenge: Dog Days Edition Winners!",
+      "hot": "❤️ 81 💬 30",
+      "desc": "The results are in for our DEV Weekend Challenge: Dog Days Edition! Thank you for your patience while...",
+      "source": "dev",
+      "tag": "devchallenge,  weekendchallenge",
+      "url": "https://dev.to/devteam/congrats-to-the-dev-weekend-challenge-dog-days-edition-winners-300g"
     }
   ],
-  "updatedAt": "2026-10-06T13:41:22.874Z"
+  "updatedAt": "2026-10-06T19:08:31.152Z"
 }
