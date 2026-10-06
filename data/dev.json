@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "Why you still need a Website Portfolio, even though everyone can Vibe Code it.",
-      "hot": "❤️ 79 💬 25",
+      "hot": "❤️ 98 💬 30",
       "desc": "If you have been following me for a long time, you already know that I have been holding off on my...",
       "source": "dev",
       "tag": "discuss,  community",
@@ -10,7 +10,7 @@
     },
     {
       "title": "Meme Monday",
-      "hot": "❤️ 33 💬 24",
+      "hot": "❤️ 40 💬 27",
       "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
       "source": "dev",
       "tag": "discuss,  jokes",
@@ -18,35 +18,11 @@
     },
     {
       "title": "Build a Tiny Virtual Pet on Arduino in 60 Minutes 🐾",
-      "hot": "❤️ 13 💬 1",
+      "hot": "❤️ 19 💬 2",
       "desc": "Turn an Arduino Uno Q into Kiku, a Tamagotchi-style virtual pet with an animated LED face, moods, and keyboard controls.",
       "source": "dev",
       "tag": "arduino,  beginners",
       "url": "https://dev.to/heraistudio/build-a-tiny-virtual-pet-on-arduino-in-60-minutes-2cf"
-    },
-    {
-      "title": "What was your win this week?",
-      "hot": "❤️ 85 💬 95",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "weeklyretro",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-4jli"
-    },
-    {
-      "title": "Publishing Markdown to Substack from an Agent Skill",
-      "hot": "❤️ 13 💬 1",
-      "desc": "Substack has no publishing API, its editor has no tables, and a link around inline code is dropped on paste. A step by s",
-      "source": "dev",
-      "tag": "substack,  writing",
-      "url": "https://dev.to/gde/publishing-markdown-to-substack-from-an-agent-skill-258f"
-    },
-    {
-      "title": "Join the Hacktoberfest Open-Source AI Challenge: Touch Grass! $2,450 in Prizes Across 17 Winners.",
-      "hot": "❤️ 83 💬 12",
-      "desc": "Week 1 of our five Hacktoberfest DEV Challenges starts today! Running through October 11, the...",
-      "source": "dev",
-      "tag": "devchallenge,  hf26challenge",
-      "url": "https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-week-1-touch-grass-2450-in-prizes-across-17-4pom"
     },
     {
       "title": "Activating Your Data Layer for Production-Ready AI",
@@ -55,6 +31,22 @@
       "source": "dev",
       "tag": "database,  googlecloud",
       "url": "https://dev.to/googleai/activating-your-data-layer-for-production-ready-ai-p3e"
+    },
+    {
+      "title": "Publishing Markdown to Substack from an Agent Skill",
+      "hot": "❤️ 16 💬 2",
+      "desc": "Substack has no publishing API, its editor has no tables, and a link around inline code is dropped on paste. A step by s",
+      "source": "dev",
+      "tag": "substack,  writing",
+      "url": "https://dev.to/gde/publishing-markdown-to-substack-from-an-agent-skill-258f"
+    },
+    {
+      "title": "Join the Hacktoberfest Open-Source AI Challenge: Touch Grass! $2,450 in Prizes Across 17 Winners.",
+      "hot": "❤️ 102 💬 25",
+      "desc": "Week 1 of our five Hacktoberfest DEV Challenges starts today! Running through October 11, the...",
+      "source": "dev",
+      "tag": "devchallenge,  hf26challenge",
+      "url": "https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-week-1-touch-grass-2450-in-prizes-across-17-4pom"
     },
     {
       "title": "Rediscovering the Schwartzian Transform: Why I Had to Comment on a Flutter Performance Article",
@@ -66,19 +58,11 @@
     },
     {
       "title": "MCP Configuration for Google Workspace with Claude Code",
-      "hot": "❤️ 12 💬 0",
+      "hot": "❤️ 13 💬 0",
       "desc": "Connect Claude Code to Google's eight remote Workspace MCP servers (Gmail, Drive, Docs, Sheets, Slides, Calendar, Chat a",
       "source": "dev",
       "tag": "claudecode,  mcp",
       "url": "https://dev.to/gde/mcp-configuration-for-google-workspace-with-claude-code-11om"
-    },
-    {
-      "title": "Event-Driven AI at Cloud Scale: High-Throughput Stream Classification with Pub/Sub, Dataflow, and Jev",
-      "hot": "❤️ 13 💬 0",
-      "desc": "How to turn millions of events per hour into typed, confidence-scored decisions, without a...",
-      "source": "dev",
-      "tag": "ai,  googlecloud",
-      "url": "https://dev.to/gde/event-driven-ai-at-cloud-scale-high-throughput-stream-classification-with-pubsub-dataflow-and-12ic"
     },
     {
       "title": "The Physics of Socratic Prompting: Somatic Recoil, Chess Alpha-Beta, & The NLP Meta-Model",
@@ -121,6 +105,14 @@
       "url": "https://dev.to/ben/gemini-4-argon-5g2l"
     },
     {
+      "title": "What was your win this week?",
+      "hot": "❤️ 88 💬 101",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-4jli"
+    },
+    {
       "title": "Gemma 4 on a Tesla T4, Part 3: Int4 Embeddings Serve E2B in 2.86 GiB at 2.30x bf16",
       "hot": "❤️ 9 💬 0",
       "desc": "Google's QAT Gemma 4 E2B keeps its embedding tables in bf16, and on a Tesla T4 they are most of the model. Packing them ",
@@ -135,6 +127,14 @@
       "source": "dev",
       "tag": "career,  writing",
       "url": "https://dev.to/kenwalger/views-measure-views-4co7"
+    },
+    {
+      "title": "Event-Driven AI at Cloud Scale: High-Throughput Stream Classification with Pub/Sub, Dataflow, and Jev",
+      "hot": "❤️ 14 💬 0",
+      "desc": "How to turn millions of events per hour into typed, confidence-scored decisions, without a...",
+      "source": "dev",
+      "tag": "ai,  googlecloud",
+      "url": "https://dev.to/gde/event-driven-ai-at-cloud-scale-high-throughput-stream-classification-with-pubsub-dataflow-and-12ic"
     },
     {
       "title": "Claude Sonnet 5.5 is now available on Google Cloud",
@@ -161,5 +161,5 @@
       "url": "https://dev.to/maame-codes/disappeared-since-march-taking-a-long-break-was-my-best-decision-yet-1n45"
     }
   ],
-  "updatedAt": "2026-10-06T06:34:17.490Z"
+  "updatedAt": "2026-10-06T13:41:22.874Z"
 }
