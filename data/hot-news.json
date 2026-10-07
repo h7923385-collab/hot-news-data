@@ -1,331 +1,39 @@
 {
-  "updatedAt": "2026-10-07T02:29:50.504Z",
+  "updatedAt": "2026-10-07T09:03:40.755Z",
   "source": "live",
-  "dev": [
-    {
-      "title": "Why you still need a Website Portfolio, even though everyone can Vibe Code it.",
-      "hot": "❤️ 121 💬 49",
-      "desc": "If you have been following me for a long time, you already know that I have been holding off on my...",
-      "source": "dev",
-      "tag": "discuss,  community",
-      "url": "https://dev.to/francistrdev/why-you-still-need-a-website-portfolio-even-though-everyone-can-vibe-code-it-e63"
-    },
-    {
-      "title": "Build a Tiny Virtual Pet on Arduino in 60 Minutes 🐾",
-      "hot": "❤️ 27 💬 11",
-      "desc": "Turn an Arduino Uno Q into Kiku, a Tamagotchi-style virtual pet with an animated LED face, moods, and keyboard controls.",
-      "source": "dev",
-      "tag": "arduino,  beginners",
-      "url": "https://dev.to/heraistudio/build-a-tiny-virtual-pet-on-arduino-in-60-minutes-2cf"
-    },
-    {
-      "title": "Run, Hunt, Hack: Join the Cloud Run Hackathon on Product Hunt",
-      "hot": "❤️ 5 💬 0",
-      "desc": "Got a cool side project running on your local machine? This is your chance to make it live and have...",
-      "source": "dev",
-      "tag": "hackathon,  cloud",
-      "url": "https://dev.to/googlecloud/run-hunt-hack-join-the-cloud-run-hackathon-on-product-hunt-3cc"
-    },
-    {
-      "title": "Meme Monday",
-      "hot": "❤️ 41 💬 28",
-      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
-      "source": "dev",
-      "tag": "discuss,  jokes",
-      "url": "https://dev.to/ben/meme-monday-3ib7"
-    },
-    {
-      "title": "stop-using-complex-urls-for-your-demos.us-central1.run.app",
-      "hot": "❤️ 5 💬 0",
-      "desc": "Wish you had a custom domain for all of your demos and AI prototypes? When you deploy your apps with...",
-      "source": "dev",
-      "tag": "googlecloud,  cloud",
-      "url": "https://dev.to/googleai/stop-using-complex-urls-for-your-demosus-central1runapp-2efd"
-    },
-    {
-      "title": "Publishing Markdown to Substack from an Agent Skill",
-      "hot": "❤️ 16 💬 4",
-      "desc": "Substack has no publishing API, its editor has no tables, and a link around inline code is dropped on paste. A step by s",
-      "source": "dev",
-      "tag": "substack,  writing",
-      "url": "https://dev.to/gde/publishing-markdown-to-substack-from-an-agent-skill-258f"
-    },
-    {
-      "title": "Activating Your Data Layer for Production-Ready AI",
-      "hot": "❤️ 9 💬 1",
-      "desc": "When discussing applications and systems using generative AI and the new opportunities they present,...",
-      "source": "dev",
-      "tag": "database,  googlecloud",
-      "url": "https://dev.to/googleai/activating-your-data-layer-for-production-ready-ai-p3e"
-    },
-    {
-      "title": "What was your win this week?",
-      "hot": "❤️ 88 💬 113",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "weeklyretro",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-4jli"
-    },
-    {
-      "title": "Join the Hacktoberfest Open-Source AI Challenge: Touch Grass! $2,450 in Prizes Across 17 Winners.",
-      "hot": "❤️ 113 💬 34",
-      "desc": "Week 1 of our five Hacktoberfest DEV Challenges starts today! Running through October 11, the...",
-      "source": "dev",
-      "tag": "devchallenge,  hf26challenge",
-      "url": "https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-week-1-touch-grass-2450-in-prizes-across-17-4pom"
-    },
-    {
-      "title": "MCP Configuration for Google Workspace with Claude Code",
-      "hot": "❤️ 13 💬 2",
-      "desc": "Connect Claude Code to Google's eight remote Workspace MCP servers (Gmail, Drive, Docs, Sheets, Slides, Calendar, Chat a",
-      "source": "dev",
-      "tag": "claudecode,  mcp",
-      "url": "https://dev.to/gde/mcp-configuration-for-google-workspace-with-claude-code-11om"
-    },
-    {
-      "title": "Event-Driven AI at Cloud Scale: High-Throughput Stream Classification with Pub/Sub, Dataflow, and Jev",
-      "hot": "❤️ 14 💬 1",
-      "desc": "How to turn millions of events per hour into typed, confidence-scored decisions, without a...",
-      "source": "dev",
-      "tag": "ai,  googlecloud",
-      "url": "https://dev.to/gde/event-driven-ai-at-cloud-scale-high-throughput-stream-classification-with-pubsub-dataflow-and-12ic"
-    },
-    {
-      "title": "Disappeared Since March: Taking a Long Break Was My Best Decision Yet",
-      "hot": "❤️ 84 💬 31",
-      "desc": "If you checked my profile recently, you probably noticed my page has been completely quiet since...",
-      "source": "dev",
-      "tag": "Dev.to",
-      "url": "https://dev.to/maame-codes/disappeared-since-march-taking-a-long-break-was-my-best-decision-yet-1n45"
-    },
-    {
-      "title": "Claude Opus 5.5 is now available on Google Cloud",
-      "hot": "❤️ 15 💬 0",
-      "desc": "Everyday complex tasks? No problem. Opus 5.5 handles long-running coding and knowledge work while...",
-      "source": "dev",
-      "tag": "claude,  googlecloud",
-      "url": "https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh"
-    },
-    {
-      "title": "Views Measure Views",
-      "hot": "❤️ 27 💬 14",
-      "desc": "Nine years in, I finally worked out what else to count.  A writer I follow, Sylwia Laskowska,...",
-      "source": "dev",
-      "tag": "career,  writing",
-      "url": "https://dev.to/kenwalger/views-measure-views-4co7"
-    },
-    {
-      "title": "Claude on Google Cloud workshop | NYC | 9/30",
-      "hot": "❤️ 14 💬 1",
-      "desc": "On Wednesday, September 30, Anthropic and Google Cloud are co-hosting a hands-on developer workshop...",
-      "source": "dev",
-      "tag": "eventsinyourcity,  claude",
-      "url": "https://dev.to/googleai/claude-on-google-cloud-workshop-nyc-930-17jl"
-    },
-    {
-      "title": "Your Type Guard Can Silently Drift from Your TypeScript Type 🔧",
-      "hot": "❤️ 81 💬 28",
-      "desc": "Hoi hoi! 👋  I'm @nyaomaru, a frontend engineer just back from a short vacation on Texel, a small...",
-      "source": "dev",
-      "tag": "typescript,  javascript",
-      "url": "https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57"
-    },
-    {
-      "title": "Deploying LiteLLM: An Open-Source AI Gateway",
-      "hot": "❤️ 9 💬 2",
-      "desc": "LiteLLM is an open-source AI gateway that provides a unified, OpenAI-compatible API for over 100...",
-      "source": "dev",
-      "tag": "ai,  llm",
-      "url": "https://dev.to/vultr/deploying-litellm-an-open-source-ai-gateway-2idp"
-    },
-    {
-      "title": "🎡 Social Ferris Wheel: Sanity is the Hub",
-      "hot": "❤️ 31 💬 7",
-      "desc": "This is a submission for the Sanity Challenge, Path Two: Vibe-Code Something Strange             What...",
-      "source": "dev",
-      "tag": "devchallenge,  sanitychallenge",
-      "url": "https://dev.to/annavi11arrea1/social-ferris-wheel-sanity-is-the-hub-2m7j"
-    },
-    {
-      "title": "Repacked QAT Gemma 4 on One TPU v5e: 12B Serves at 675 Tokens per Second",
-      "hot": "❤️ 8 💬 1",
-      "desc": "Google's quantization-aware-trained Gemma 4 weights, repacked into int4 and int8 formats vLLM serves on TPU. On one v5e ",
-      "source": "dev",
-      "tag": "gemma,  googlecloud",
-      "url": "https://dev.to/gde/repacked-qat-gemma-4-on-one-tpu-v5e-12b-serves-at-675-tokens-per-second-15dd"
-    },
-    {
-      "title": "I Turned DEV.to Into a Walkable 3D Library — Debugging It Has Been a Nightmare",
-      "hot": "❤️ 85 💬 31",
-      "desc": "DEV Library is my idea of first-person 3D reimagining of DEV.to. Not a themed scene with some...",
-      "source": "dev",
-      "tag": "buildinpublic,  webdev",
-      "url": "https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd"
-    }
-  ],
-  "tech": [
-    {
-      "title": "Sharing AI progress in mathematics",
-      "hot": "3.0m",
-      "desc": "openai.com",
-      "source": "tech",
-      "tag": "⬆️ 470 points",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/"
-    },
-    {
-      "title": "Mistral Large 4",
-      "hot": "3.0m",
-      "desc": "mistral.ai",
-      "source": "tech",
-      "tag": "⬆️ 1605 points",
-      "url": "https://mistral.ai/news/mistral-large-4/\\"
-    },
-    {
-      "title": "Decisions API is in public beta",
-      "hot": "3.0m",
-      "desc": "developers.openai.com",
-      "source": "tech",
-      "tag": "⬆️ 158 points",
-      "url": "https://developers.openai.com/api/docs/guides/decisions"
-    },
-    {
-      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
-      "hot": "3.0m",
-      "desc": "penguin-mail.com",
-      "source": "tech",
-      "tag": "⬆️ 78 points",
-      "url": "https://penguin-mail.com/"
-    },
-    {
-      "title": "Couple was swatted 55 times in 2 years over a post about Norm Macdonald",
-      "hot": "2.9m",
-      "desc": "cbc.ca",
-      "source": "tech",
-      "tag": "⬆️ 58 points",
-      "url": "https://www.cbc.ca/radio/asithappens/milwaukee-swatting-couple-9.7370118"
-    },
-    {
-      "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
-      "hot": "2.9m",
-      "desc": "blog.google",
-      "source": "tech",
-      "tag": "⬆️ 228 points",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/"
-    },
-    {
-      "title": "Nobel Prize in Physics 2026: Francis Halzen",
-      "hot": "2.9m",
-      "desc": "nobelprize.org",
-      "source": "tech",
-      "tag": "⬆️ 535 points",
-      "url": "https://www.nobelprize.org/prizes/physics/2026/"
-    },
-    {
-      "title": "Strands Decider 2B: a small, open-source, decision model",
-      "hot": "2.9m",
-      "desc": "strandsagents.com",
-      "source": "tech",
-      "tag": "⬆️ 4 points",
-      "url": "https://strandsagents.com/blog/introducing-strands-decider/"
-    },
-    {
-      "title": "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 114 points",
-      "url": "https://github.com/boykopovar/AnyPS5"
-    },
-    {
-      "title": "The cost of lies: A Mineserver story",
-      "hot": "2.9m",
-      "desc": "jeremyreimer.com",
-      "source": "tech",
-      "tag": "⬆️ 6 points",
-      "url": "https://www.jeremyreimer.com/rockets-item.lsp?f=true&p=272"
-    },
-    {
-      "title": "OpenTPU – An open-source AI accelerator, developed by AI",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 239 points",
-      "url": "https://github.com/FeSens/openTPU"
-    },
-    {
-      "title": "Claude Code’s suggested message feature: I think the real customer is the model",
-      "hot": "2.8m",
-      "desc": "zohaib.cc",
-      "source": "tech",
-      "tag": "⬆️ 109 points",
-      "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature"
-    },
-    {
-      "title": "State of Devs 2026",
-      "hot": "2.8m",
-      "desc": "2026.stateofdevs.com",
-      "source": "tech",
-      "tag": "⬆️ 78 points",
-      "url": "https://2026.stateofdevs.com/en-US/"
-    },
-    {
-      "title": "ESP32-C3 Adblock",
-      "hot": "2.8m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 3 points",
-      "url": "https://github.com/M-Abozaid/esp32-c3-adblock"
-    },
-    {
-      "title": "Integer multiplication below n log n",
-      "hot": "2.8m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 68 points",
-      "url": "https://github.com/openai/math/tree/main/preprints/Integer-multiplication-below-n-log-n-September-23-2026"
-    },
-    {
-      "title": "Jev-Driven SRE Diagnosis: What Worked and What Failed",
-      "hot": "2.8m",
-      "desc": "sregym.com",
-      "source": "tech",
-      "tag": "⬆️ 3 points",
-      "url": "https://www.sregym.com/blog/jev-driven-sre-diagnosis"
-    },
-    {
-      "title": "Utah to let AI examine patients and prescribe medication without human oversight",
-      "hot": "2.8m",
-      "desc": "techspot.com",
-      "source": "tech",
-      "tag": "⬆️ 76 points",
-      "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html"
-    },
-    {
-      "title": "Paramount Skydance has completed its $111B merger with Warner Bros. Discovery",
-      "hot": "2.7m",
-      "desc": "arstechnica.com",
-      "source": "tech",
-      "tag": "⬆️ 183 points",
-      "url": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/"
-    },
-    {
-      "title": "When random is not actually random enough",
-      "hot": "2.7m",
-      "desc": "ersc.io",
-      "source": "tech",
-      "tag": "⬆️ 32 points",
-      "url": "https://ersc.io/blog/when-random-isnt-random-enough"
-    },
-    {
-      "title": "UniEvo-VL: Self-Distillation Training for Multimodal Model Self-Improvement",
-      "hot": "2.7m",
-      "desc": "arxiv.org",
-      "source": "tech",
-      "tag": "⬆️ 11 points",
-      "url": "https://arxiv.org/abs/2609.38721"
-    }
-  ],
   "space": [
+    {
+      "title": "ArianeGroup Completes Second Themis Wet Dress Rehearsal",
+      "hot": "10/7",
+      "desc": "The European Space Agency announced that ArianeGroup and Swedish Space Corporation completed a second wet dress rehearsal of the Themis reusable rocke",
+      "source": "space",
+      "tag": "European Spaceflight",
+      "url": "https://europeanspaceflight.com/arianegroup-completes-second-themis-wet-dress-rehearsal/"
+    },
+    {
+      "title": "When the Sun turns black",
+      "hot": "10/7",
+      "desc": "From the ESA Blogs.",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/When_the_Sun_turns_black"
+    },
+    {
+      "title": "APOD: 2026 October 7 – Supernova Remnant Pa 30",
+      "hot": "10/7",
+      "desc": "APOD Science APOD APOD: 2026 October 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture ",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-7-supernova-remnant-pa-30/"
+    },
+    {
+      "title": "Arctic Sea Ice Shrinks to Its 2026 Minimum",
+      "hot": "10/7",
+      "desc": "Satellite records show Arctic sea ice covering less of the ocean in both winter and summer.",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/earth/earth-observatory/arctic-sea-ice-shrinks-to-its-2026-minimum/"
+    },
     {
       "title": "Crew-12 set to depart the ISS after eighth months in orbit",
       "hot": "10/6",
@@ -413,84 +121,222 @@
       "source": "space",
       "tag": "ESA",
       "url": "https://www.esa.int/About_Us/Corporate_news/ESA_at_IAC_2026_Day_2"
+    }
+  ],
+  "tech": [
+    {
+      "title": "Sharing AI progress in mathematics",
+      "hot": "3.0m",
+      "desc": "openai.com",
+      "source": "tech",
+      "tag": "⬆️ 883 points",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/"
     },
     {
-      "title": "The EU Extends SALTO Deadline Again as Themis Hop Test Slips",
-      "hot": "10/6",
-      "desc": "The European Commission has extended the deadline for the SALTO reusable launcher project to the end of 2026, giving the programme another three month",
-      "source": "space",
-      "tag": "European Spaceflight",
-      "url": "https://europeanspaceflight.com/the-eu-extends-salto-deadline-again-as-themis-hop-test-slips/"
+      "title": "Strands Decider 2B: a small, open-source, decision model",
+      "hot": "3.0m",
+      "desc": "strandsagents.com",
+      "source": "tech",
+      "tag": "⬆️ 166 points",
+      "url": "https://strandsagents.com/blog/introducing-strands-decider/"
     },
     {
-      "title": "Webb captures commotion from nebula’s stellar jets",
-      "hot": "10/6",
-      "desc": "From the ESA Blogs.",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Webb_captures_commotion_from_nebula_s_stellar_jets"
+      "title": "Decisions API is in public beta",
+      "hot": "3.0m",
+      "desc": "developers.openai.com",
+      "source": "tech",
+      "tag": "⬆️ 279 points",
+      "url": "https://developers.openai.com/api/docs/guides/decisions"
     },
     {
-      "title": "NASA’s Webb Captures Commotion From Nebula’s Stellar Jets",
-      "hot": "10/6",
-      "desc": "A cauldron of cosmic creation is being revealed in a new image from NASA’s James Webb Space Telescope. Webb has unveiled numerous stars formerly hidde",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/missions/webb/nasas-webb-captures-commotion-from-nebulas-stellar-jets/"
+      "title": "The art of defusing a second world war bomb",
+      "hot": "3.0m",
+      "desc": "theguardian.com",
+      "source": "tech",
+      "tag": "⬆️ 57 points",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb"
     },
     {
-      "title": "NASA progress with SLS vehicles for upcoming Artemis missions",
-      "hot": "10/6",
-      "desc": "NASA has stacked the center segments of both Artemis III solid rocket boosters on Mobile…\nThe post NASA progress with SLS vehicles for upcoming Artemi",
-      "source": "space",
-      "tag": "NASASpaceflight",
-      "url": "https://www.nasaspaceflight.com/2026/10/nasa-progress-sls-artemis/"
+      "title": "Mistral Large 4",
+      "hot": "2.9m",
+      "desc": "mistral.ai",
+      "source": "tech",
+      "tag": "⬆️ 1792 points",
+      "url": "https://mistral.ai/news/mistral-large-4/\\"
+    },
+    {
+      "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+      "hot": "2.9m",
+      "desc": "blog.google",
+      "source": "tech",
+      "tag": "⬆️ 313 points",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/"
+    },
+    {
+      "title": "ESP32-C3 Adblock",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 88 points",
+      "url": "https://github.com/M-Abozaid/esp32-c3-adblock"
+    },
+    {
+      "title": "What is Codemode",
+      "hot": "2.9m",
+      "desc": "lucumr.pocoo.org",
+      "source": "tech",
+      "tag": "⬆️ 76 points",
+      "url": "https://lucumr.pocoo.org/2026/10/6/codemode/"
+    },
+    {
+      "title": "Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 21 points",
+      "url": "https://github.com/shader-effects-inc/shaders"
+    },
+    {
+      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
+      "hot": "2.9m",
+      "desc": "penguin-mail.com",
+      "source": "tech",
+      "tag": "⬆️ 173 points",
+      "url": "https://penguin-mail.com/"
+    },
+    {
+      "title": "The Legend of the Paper Crane",
+      "hot": "2.9m",
+      "desc": "mazdastories.com",
+      "source": "tech",
+      "tag": "⬆️ 13 points",
+      "url": "https://mazdastories.com/en_us/inspire/paper-cranes-into-the-fold/"
+    },
+    {
+      "title": "The cost of lies: A Mineserver story",
+      "hot": "2.8m",
+      "desc": "jeremyreimer.com",
+      "source": "tech",
+      "tag": "⬆️ 98 points",
+      "url": "https://www.jeremyreimer.com/rockets-item.lsp?f=true&p=272"
+    },
+    {
+      "title": "La Cueva BBS in Mexico in 1993 (session replay)",
+      "hot": "2.8m",
+      "desc": "nanochess.org",
+      "source": "tech",
+      "tag": "⬆️ 50 points",
+      "url": "https://nanochess.org/la_cueva_bbs.html"
+    },
+    {
+      "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+      "hot": "2.8m",
+      "desc": "zohaib.cc",
+      "source": "tech",
+      "tag": "⬆️ 195 points",
+      "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature"
+    },
+    {
+      "title": "Gallery of Processor Cache Effects",
+      "hot": "2.8m",
+      "desc": "igoro.com",
+      "source": "tech",
+      "tag": "⬆️ 6 points",
+      "url": "https://igoro.com/archive/gallery-of-processor-cache-effects/"
+    },
+    {
+      "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
+      "hot": "2.8m",
+      "desc": "news.ycombinator.com",
+      "source": "tech",
+      "tag": "⬆️ 212 points",
+      "url": "https://news.ycombinator.com/item?id=49982498"
+    },
+    {
+      "title": "OpenTPU – An open-source AI accelerator, developed by AI",
+      "hot": "2.8m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 288 points",
+      "url": "https://github.com/FeSens/openTPU"
+    },
+    {
+      "title": "Jev-Driven SRE Diagnosis: What Worked and What Failed",
+      "hot": "2.7m",
+      "desc": "sregym.com",
+      "source": "tech",
+      "tag": "⬆️ 32 points",
+      "url": "https://www.sregym.com/blog/jev-driven-sre-diagnosis"
+    },
+    {
+      "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
+      "hot": "2.7m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 19 points",
+      "url": "https://github.com/nano-muse/nanoMuse"
+    },
+    {
+      "title": "Treg (OpenRouter for Tools)",
+      "hot": "2.7m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 27 points",
+      "url": "https://github.com/superdesigndev/treg"
     }
   ],
   "github": [
     {
       "title": "storytold/photocraft: An open-source, clean-room reimplementation of Adobe Photo",
-      "hot": "⭐ 7.4k",
+      "hot": "⭐ 11.0k",
       "desc": "An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
       "source": "github",
       "tag": "Rust",
       "url": "https://github.com/storytold/photocraft"
     },
     {
-      "title": "rehan-remade/universal-modder: Point Claude at any game. Skills, tools and the f",
-      "hot": "⭐ 4.7k",
-      "desc": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/rehan-remade/universal-modder"
-    },
-    {
       "title": "openai/math: ",
-      "hot": "⭐ 2.7k",
+      "hot": "⭐ 5.9k",
       "desc": "openai/math",
       "source": "github",
       "tag": "Lean",
       "url": "https://github.com/openai/math"
     },
     {
-      "title": "QingYunA/answer-me-with-html: Answer me with HTML — an agent skill that answers ",
-      "hot": "⭐ 1.8k",
-      "desc": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "title": "rehan-remade/universal-modder: Point Claude at any game. Skills, tools and the f",
+      "hot": "⭐ 4.8k",
+      "desc": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated",
       "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/QingYunA/answer-me-with-html"
+      "tag": "Python",
+      "url": "https://github.com/rehan-remade/universal-modder"
     },
     {
       "title": "storytold/filmcraft: An open-source, clean-room reimplementation of Adobe Premie",
-      "hot": "⭐ 1.7k",
+      "hot": "⭐ 2.2k",
       "desc": "An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust.",
       "source": "github",
       "tag": "Rust",
       "url": "https://github.com/storytold/filmcraft"
     },
     {
+      "title": "QingYunA/answer-me-with-html: Answer me with HTML — an agent skill that answers ",
+      "hot": "⭐ 1.9k",
+      "desc": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/QingYunA/answer-me-with-html"
+    },
+    {
+      "title": "storytold/lightcraft: An open-source, clean-room reimplementation of Adobe Light",
+      "hot": "⭐ 1.7k",
+      "desc": "An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust.",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/storytold/lightcraft"
+    },
+    {
       "title": "nanaism/yomiyasu: AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-",
-      "hot": "⭐ 1.6k",
+      "hot": "⭐ 1.7k",
       "desc": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
       "source": "github",
       "tag": "Python",
@@ -513,28 +359,28 @@
       "url": "https://github.com/facebookincubator/muse-gadget-sdk"
     },
     {
-      "title": "storytold/lightcraft: An open-source, clean-room reimplementation of Adobe Light",
-      "hot": "⭐ 1.3k",
-      "desc": "An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust.",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/storytold/lightcraft"
-    },
-    {
-      "title": "deadinside28/bloodborne_pc: ",
-      "hot": "⭐ 1.3k",
-      "desc": "deadinside28/bloodborne_pc",
-      "source": "github",
-      "tag": "C++",
-      "url": "https://github.com/deadinside28/bloodborne_pc"
-    },
-    {
       "title": "storytold/printcraft: An open-source, clean-room reimplementation of Adobe Acrob",
-      "hot": "⭐ 1.2k",
+      "hot": "⭐ 1.6k",
       "desc": "An open-source, clean-room reimplementation of Adobe Acrobat built in pure Rust",
       "source": "github",
       "tag": "Rust",
       "url": "https://github.com/storytold/printcraft"
+    },
+    {
+      "title": "storytold/vectorcraft: An open-source, clean-room reimplementation of Adobe Illu",
+      "hot": "⭐ 1.4k",
+      "desc": "An open-source, clean-room reimplementation of Adobe Illustrator, built in pure Rust.",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/storytold/vectorcraft"
+    },
+    {
+      "title": "deadinside28/bloodborne_pc: ",
+      "hot": "⭐ 1.4k",
+      "desc": "deadinside28/bloodborne_pc",
+      "source": "github",
+      "tag": "C++",
+      "url": "https://github.com/deadinside28/bloodborne_pc"
     },
     {
       "title": "CAPCOM-TD-OSS/REDox: High-performance, token-based structured data engine for .N",
@@ -545,12 +391,12 @@
       "url": "https://github.com/CAPCOM-TD-OSS/REDox"
     },
     {
-      "title": "storytold/vectorcraft: An open-source, clean-room reimplementation of Adobe Illu",
+      "title": "storytold/effectcraft: ",
       "hot": "⭐ 1.1k",
-      "desc": "An open-source, clean-room reimplementation of Adobe Illustrator, built in pure Rust.",
+      "desc": "storytold/effectcraft",
       "source": "github",
       "tag": "Rust",
-      "url": "https://github.com/storytold/vectorcraft"
+      "url": "https://github.com/storytold/effectcraft"
     },
     {
       "title": "chasmlol/SkyCraft: Play Skyrim as a Minecraft player: Minecraft physics, invento",
@@ -559,14 +405,168 @@
       "source": "github",
       "tag": "C++",
       "url": "https://github.com/chasmlol/SkyCraft"
+    }
+  ],
+  "dev": [
+    {
+      "title": "Why you still need a Website Portfolio, even though everyone can Vibe Code it.",
+      "hot": "❤️ 133 💬 55",
+      "desc": "If you have been following me for a long time, you already know that I have been holding off on my...",
+      "source": "dev",
+      "tag": "discuss,  community",
+      "url": "https://dev.to/francistrdev/why-you-still-need-a-website-portfolio-even-though-everyone-can-vibe-code-it-e63"
     },
     {
-      "title": "storytold/effectcraft: ",
-      "hot": "⭐ 867",
-      "desc": "storytold/effectcraft",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/storytold/effectcraft"
+      "title": "Meme Monday",
+      "hot": "❤️ 41 💬 30",
+      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
+      "source": "dev",
+      "tag": "discuss,  jokes",
+      "url": "https://dev.to/ben/meme-monday-3ib7"
+    },
+    {
+      "title": "Run, Hunt, Hack: Join the Cloud Run Hackathon on Product Hunt",
+      "hot": "❤️ 6 💬 1",
+      "desc": "Got a cool side project running on your local machine? This is your chance to make it live and have...",
+      "source": "dev",
+      "tag": "hackathon,  cloud",
+      "url": "https://dev.to/googlecloud/run-hunt-hack-join-the-cloud-run-hackathon-on-product-hunt-3cc"
+    },
+    {
+      "title": "stop-using-complex-urls-for-your-demos.us-central1.run.app",
+      "hot": "❤️ 10 💬 0",
+      "desc": "Wish you had a custom domain for all of your demos and AI prototypes? When you deploy your apps with...",
+      "source": "dev",
+      "tag": "googlecloud,  cloud",
+      "url": "https://dev.to/googleai/stop-using-complex-urls-for-your-demosus-central1runapp-2efd"
+    },
+    {
+      "title": "Build a Tiny Virtual Pet on Arduino in 60 Minutes 🐾",
+      "hot": "❤️ 32 💬 12",
+      "desc": "Turn an Arduino Uno Q into Kiku, a Tamagotchi-style virtual pet with an animated LED face, moods, and keyboard controls.",
+      "source": "dev",
+      "tag": "arduino,  beginners",
+      "url": "https://dev.to/heraistudio/build-a-tiny-virtual-pet-on-arduino-in-60-minutes-2cf"
+    },
+    {
+      "title": "What was your win this week?",
+      "hot": "❤️ 105 💬 123",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-4jli"
+    },
+    {
+      "title": "Publishing Markdown to Substack from an Agent Skill",
+      "hot": "❤️ 17 💬 5",
+      "desc": "Substack has no publishing API, its editor has no tables, and a link around inline code is dropped on paste. A step by s",
+      "source": "dev",
+      "tag": "substack,  writing",
+      "url": "https://dev.to/gde/publishing-markdown-to-substack-from-an-agent-skill-258f"
+    },
+    {
+      "title": "Join the Hacktoberfest Open-Source AI Challenge: Touch Grass! $2,450 in Prizes Across 17 Winners.",
+      "hot": "❤️ 143 💬 39",
+      "desc": "Week 1 of our five Hacktoberfest DEV Challenges starts today! Running through October 11, the...",
+      "source": "dev",
+      "tag": "devchallenge,  hf26challenge",
+      "url": "https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-week-1-touch-grass-2450-in-prizes-across-17-4pom"
+    },
+    {
+      "title": "Activating Your Data Layer for Production-Ready AI",
+      "hot": "❤️ 11 💬 2",
+      "desc": "When discussing applications and systems using generative AI and the new opportunities they present,...",
+      "source": "dev",
+      "tag": "database,  googlecloud",
+      "url": "https://dev.to/googleai/activating-your-data-layer-for-production-ready-ai-p3e"
+    },
+    {
+      "title": "MCP Configuration for Google Workspace with Claude Code",
+      "hot": "❤️ 13 💬 2",
+      "desc": "Connect Claude Code to Google's eight remote Workspace MCP servers (Gmail, Drive, Docs, Sheets, Slides, Calendar, Chat a",
+      "source": "dev",
+      "tag": "claudecode,  mcp",
+      "url": "https://dev.to/gde/mcp-configuration-for-google-workspace-with-claude-code-11om"
+    },
+    {
+      "title": "Event-Driven AI at Cloud Scale: High-Throughput Stream Classification with Pub/Sub, Dataflow, and Jev",
+      "hot": "❤️ 14 💬 1",
+      "desc": "How to turn millions of events per hour into typed, confidence-scored decisions, without a...",
+      "source": "dev",
+      "tag": "ai,  googlecloud",
+      "url": "https://dev.to/gde/event-driven-ai-at-cloud-scale-high-throughput-stream-classification-with-pubsub-dataflow-and-12ic"
+    },
+    {
+      "title": "Disappeared Since March: Taking a Long Break Was My Best Decision Yet",
+      "hot": "❤️ 84 💬 31",
+      "desc": "If you checked my profile recently, you probably noticed my page has been completely quiet since...",
+      "source": "dev",
+      "tag": "Dev.to",
+      "url": "https://dev.to/maame-codes/disappeared-since-march-taking-a-long-break-was-my-best-decision-yet-1n45"
+    },
+    {
+      "title": "Claude Opus 5.5 is now available on Google Cloud",
+      "hot": "❤️ 15 💬 0",
+      "desc": "Everyday complex tasks? No problem. Opus 5.5 handles long-running coding and knowledge work while...",
+      "source": "dev",
+      "tag": "claude,  googlecloud",
+      "url": "https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh"
+    },
+    {
+      "title": "Views Measure Views",
+      "hot": "❤️ 29 💬 15",
+      "desc": "Nine years in, I finally worked out what else to count.  A writer I follow, Sylwia Laskowska,...",
+      "source": "dev",
+      "tag": "career,  writing",
+      "url": "https://dev.to/kenwalger/views-measure-views-4co7"
+    },
+    {
+      "title": "Claude on Google Cloud workshop | NYC | 9/30",
+      "hot": "❤️ 14 💬 1",
+      "desc": "On Wednesday, September 30, Anthropic and Google Cloud are co-hosting a hands-on developer workshop...",
+      "source": "dev",
+      "tag": "eventsinyourcity,  claude",
+      "url": "https://dev.to/googleai/claude-on-google-cloud-workshop-nyc-930-17jl"
+    },
+    {
+      "title": "Your Type Guard Can Silently Drift from Your TypeScript Type 🔧",
+      "hot": "❤️ 81 💬 28",
+      "desc": "Hoi hoi! 👋  I'm @nyaomaru, a frontend engineer just back from a short vacation on Texel, a small...",
+      "source": "dev",
+      "tag": "typescript,  javascript",
+      "url": "https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57"
+    },
+    {
+      "title": "Deploying LiteLLM: An Open-Source AI Gateway",
+      "hot": "❤️ 9 💬 2",
+      "desc": "LiteLLM is an open-source AI gateway that provides a unified, OpenAI-compatible API for over 100...",
+      "source": "dev",
+      "tag": "ai,  llm",
+      "url": "https://dev.to/vultr/deploying-litellm-an-open-source-ai-gateway-2idp"
+    },
+    {
+      "title": "Repacked QAT Gemma 4 on One TPU v5e: 12B Serves at 675 Tokens per Second",
+      "hot": "❤️ 8 💬 1",
+      "desc": "Google's quantization-aware-trained Gemma 4 weights, repacked into int4 and int8 formats vLLM serves on TPU. On one v5e ",
+      "source": "dev",
+      "tag": "gemma,  googlecloud",
+      "url": "https://dev.to/gde/repacked-qat-gemma-4-on-one-tpu-v5e-12b-serves-at-675-tokens-per-second-15dd"
+    },
+    {
+      "title": "🎡 Social Ferris Wheel: Sanity is the Hub",
+      "hot": "❤️ 33 💬 7",
+      "desc": "This is a submission for the Sanity Challenge, Path Two: Vibe-Code Something Strange             What...",
+      "source": "dev",
+      "tag": "devchallenge,  sanitychallenge",
+      "url": "https://dev.to/annavi11arrea1/social-ferris-wheel-sanity-is-the-hub-2m7j"
+    },
+    {
+      "title": "I Turned DEV.to Into a Walkable 3D Library — Debugging It Has Been a Nightmare",
+      "hot": "❤️ 85 💬 31",
+      "desc": "DEV Library is my idea of first-person 3D reimagining of DEV.to. Not a themed scene with some...",
+      "source": "dev",
+      "tag": "buildinpublic,  webdev",
+      "url": "https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd"
     }
   ]
 }
