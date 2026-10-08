@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "Why you still need a Website Portfolio, even though everyone can Vibe Code it.",
-      "hot": "❤️ 186 💬 111",
+      "hot": "❤️ 208 💬 127",
       "desc": "If you have been following me for a long time, you already know that I have been holding off on my...",
       "source": "dev",
       "tag": "discuss,  community",
@@ -10,23 +10,23 @@
     },
     {
       "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 44 💬 21",
+      "hot": "❤️ 45 💬 21",
       "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
       "source": "dev",
       "tag": "top7,  discuss",
       "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1682"
     },
     {
-      "title": "Run, Hunt, Hack: Join the Cloud Run Hackathon on Product Hunt",
-      "hot": "❤️ 18 💬 2",
-      "desc": "Got a cool side project running on your local machine? This is your chance to make it live and have...",
+      "title": "Making cross-platform local AI easier with llamadart",
+      "hot": "❤️ 8 💬 1",
+      "desc": "My writing assistant could talk to Gemini. The missing piece was using it without a connection.  That...",
       "source": "dev",
-      "tag": "hackathon,  cloud",
-      "url": "https://dev.to/googlecloud/run-hunt-hack-join-the-cloud-run-hackathon-on-product-hunt-3cc"
+      "tag": "dart,  flutter",
+      "url": "https://dev.to/gde/making-cross-platform-local-ai-easier-with-llamadart-2l4k"
     },
     {
       "title": "Welcome Thread - v 396",
-      "hot": "❤️ 18 💬 94",
+      "hot": "❤️ 26 💬 138",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
@@ -34,7 +34,7 @@
     },
     {
       "title": "Meme Monday",
-      "hot": "❤️ 46 💬 34",
+      "hot": "❤️ 47 💬 35",
       "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
       "source": "dev",
       "tag": "discuss,  jokes",
@@ -50,7 +50,7 @@
     },
     {
       "title": "Build a Tiny Virtual Pet on Arduino in 60 Minutes 🐾",
-      "hot": "❤️ 36 💬 15",
+      "hot": "❤️ 37 💬 15",
       "desc": "Turn an Arduino Uno Q into Kiku, a Tamagotchi-style virtual pet with an animated LED face, moods, and keyboard controls.",
       "source": "dev",
       "tag": "arduino,  beginners",
@@ -65,12 +65,12 @@
       "url": "https://dev.to/devteam/what-was-your-win-this-week-4jli"
     },
     {
-      "title": "Publishing Markdown to Substack from an Agent Skill",
-      "hot": "❤️ 17 💬 5",
-      "desc": "Substack has no publishing API, its editor has no tables, and a link around inline code is dropped on paste. A step by s",
+      "title": "Run, Hunt, Hack: Join the Cloud Run Hackathon on Product Hunt",
+      "hot": "❤️ 18 💬 2",
+      "desc": "Got a cool side project running on your local machine? This is your chance to make it live and have...",
       "source": "dev",
-      "tag": "substack,  writing",
-      "url": "https://dev.to/gde/publishing-markdown-to-substack-from-an-agent-skill-258f"
+      "tag": "hackathon,  cloud",
+      "url": "https://dev.to/googlecloud/run-hunt-hack-join-the-cloud-run-hackathon-on-product-hunt-3cc"
     },
     {
       "title": "stop-using-complex-urls-for-your-demos.us-central1.run.app",
@@ -81,36 +81,12 @@
       "url": "https://dev.to/googleai/stop-using-complex-urls-for-your-demosus-central1runapp-2efd"
     },
     {
-      "title": "Activating Your Data Layer for Production-Ready AI",
-      "hot": "❤️ 19 💬 2",
-      "desc": "When discussing applications and systems using generative AI and the new opportunities they present,...",
-      "source": "dev",
-      "tag": "database,  googlecloud",
-      "url": "https://dev.to/googleai/activating-your-data-layer-for-production-ready-ai-p3e"
-    },
-    {
       "title": "Gemma 4 Inference on AWS: Bedrock, SageMaker, GPUs, Inferentia and Trainium Behind One Strands Agent",
       "hot": "❤️ 16 💬 1",
       "desc": "A step by step survey of six ways to serve a model on AWS, from a managed API to your own Neuron chip, driven by one Str",
       "source": "dev",
       "tag": "aws,  ai",
       "url": "https://dev.to/gde/gemma-4-inference-on-aws-bedrock-sagemaker-gpus-inferentia-and-trainium-behind-one-strands-agent-2lnm"
-    },
-    {
-      "title": "MCP Configuration for Google Workspace with Claude Code",
-      "hot": "❤️ 13 💬 2",
-      "desc": "Connect Claude Code to Google's eight remote Workspace MCP servers (Gmail, Drive, Docs, Sheets, Slides, Calendar, Chat a",
-      "source": "dev",
-      "tag": "claudecode,  mcp",
-      "url": "https://dev.to/gde/mcp-configuration-for-google-workspace-with-claude-code-11om"
-    },
-    {
-      "title": "Event-Driven AI at Cloud Scale: High-Throughput Stream Classification with Pub/Sub, Dataflow, and Jev",
-      "hot": "❤️ 14 💬 1",
-      "desc": "How to turn millions of events per hour into typed, confidence-scored decisions, without a...",
-      "source": "dev",
-      "tag": "ai,  googlecloud",
-      "url": "https://dev.to/gde/event-driven-ai-at-cloud-scale-high-throughput-stream-classification-with-pubsub-dataflow-and-12ic"
     },
     {
       "title": "Disappeared Since March: Taking a Long Break Was My Best Decision Yet",
@@ -129,37 +105,61 @@
       "url": "https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh"
     },
     {
+      "title": "Publishing Markdown to Substack from an Agent Skill",
+      "hot": "❤️ 17 💬 5",
+      "desc": "Substack has no publishing API, its editor has no tables, and a link around inline code is dropped on paste. A step by s",
+      "source": "dev",
+      "tag": "substack,  writing",
+      "url": "https://dev.to/gde/publishing-markdown-to-substack-from-an-agent-skill-258f"
+    },
+    {
       "title": "Join the Hacktoberfest Open-Source AI Challenge: Touch Grass! $2,450 in Prizes Across 17 Winners.",
-      "hot": "❤️ 173 💬 44",
+      "hot": "❤️ 180 💬 47",
       "desc": "Week 1 of our five Hacktoberfest DEV Challenges starts today! Running through October 11, the...",
       "source": "dev",
       "tag": "devchallenge,  hf26challenge",
       "url": "https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-week-1-touch-grass-2450-in-prizes-across-17-4pom"
     },
     {
+      "title": "Activating Your Data Layer for Production-Ready AI",
+      "hot": "❤️ 20 💬 3",
+      "desc": "When discussing applications and systems using generative AI and the new opportunities they present,...",
+      "source": "dev",
+      "tag": "database,  googlecloud",
+      "url": "https://dev.to/googleai/activating-your-data-layer-for-production-ready-ai-p3e"
+    },
+    {
       "title": "Views Measure Views",
-      "hot": "❤️ 30 💬 18",
+      "hot": "❤️ 31 💬 18",
       "desc": "Nine years in, I finally worked out what else to count.  A writer I follow, Sylwia Laskowska,...",
       "source": "dev",
       "tag": "career,  writing",
       "url": "https://dev.to/kenwalger/views-measure-views-4co7"
     },
     {
+      "title": "MCP Configuration for Google Workspace with Claude Code",
+      "hot": "❤️ 13 💬 2",
+      "desc": "Connect Claude Code to Google's eight remote Workspace MCP servers (Gmail, Drive, Docs, Sheets, Slides, Calendar, Chat a",
+      "source": "dev",
+      "tag": "claudecode,  mcp",
+      "url": "https://dev.to/gde/mcp-configuration-for-google-workspace-with-claude-code-11om"
+    },
+    {
+      "title": "Event-Driven AI at Cloud Scale: High-Throughput Stream Classification with Pub/Sub, Dataflow, and Jev",
+      "hot": "❤️ 15 💬 1",
+      "desc": "How to turn millions of events per hour into typed, confidence-scored decisions, without a...",
+      "source": "dev",
+      "tag": "ai,  googlecloud",
+      "url": "https://dev.to/gde/event-driven-ai-at-cloud-scale-high-throughput-stream-classification-with-pubsub-dataflow-and-12ic"
+    },
+    {
       "title": "Your Type Guard Can Silently Drift from Your TypeScript Type 🔧",
-      "hot": "❤️ 81 💬 34",
+      "hot": "❤️ 81 💬 38",
       "desc": "Hoi hoi! 👋  I'm @nyaomaru, a frontend engineer just back from a short vacation on Texel, a small...",
       "source": "dev",
       "tag": "typescript,  javascript",
       "url": "https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57"
-    },
-    {
-      "title": "Claude on Google Cloud workshop | NYC | 9/30",
-      "hot": "❤️ 14 💬 1",
-      "desc": "On Wednesday, September 30, Anthropic and Google Cloud are co-hosting a hands-on developer workshop...",
-      "source": "dev",
-      "tag": "eventsinyourcity,  claude",
-      "url": "https://dev.to/googleai/claude-on-google-cloud-workshop-nyc-930-17jl"
     }
   ],
-  "updatedAt": "2026-10-08T07:34:00.836Z"
+  "updatedAt": "2026-10-08T14:58:23.351Z"
 }
