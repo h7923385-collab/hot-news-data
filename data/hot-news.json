@@ -1,334 +1,172 @@
 {
-  "updatedAt": "2026-10-09T13:52:45.442Z",
+  "updatedAt": "2026-10-09T19:04:48.098Z",
   "source": "live",
-  "dev": [
-    {
-      "title": "Why you still need a Website Portfolio, even though everyone can Vibe Code it.",
-      "hot": "❤️ 229 💬 159",
-      "desc": "If you have been following me for a long time, you already know that I have been holding off on my...",
-      "source": "dev",
-      "tag": "discuss,  community",
-      "url": "https://dev.to/francistrdev/why-you-still-need-a-website-portfolio-even-though-everyone-can-vibe-code-it-e63"
-    },
-    {
-      "title": "I got Jev to zero mistakes. I'm still using Flash-Lite.",
-      "hot": "❤️ 33 💬 4",
-      "desc": "Jev is a brilliant decision model. Gemini Flash-Lite is the model nobody talks about, and it’s fast,...",
-      "source": "dev",
-      "tag": "ai,  gemini",
-      "url": "https://dev.to/theycallmeswift/i-got-jev-to-zero-mistakes-im-still-using-flash-lite-2mo7"
-    },
-    {
-      "title": "What was your win this week??",
-      "hot": "❤️ 5 💬 0",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "weeklyretro",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-1l3f"
-    },
-    {
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 51 💬 25",
-      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
-      "source": "dev",
-      "tag": "top7,  discuss",
-      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1682"
-    },
-    {
-      "title": "Gemma 4 E2B on an AMD MI300X: Which Weight Format Should You Serve?",
-      "hot": "❤️ 8 💬 2",
-      "desc": "Ten builds of Gemma 4 E2B (bf16, fp8 in both E4M3 flavours, int8 W8A8 and int4 W4A16, each with and without int4 embeddi",
-      "source": "dev",
-      "tag": "gemma,  amd",
-      "url": "https://dev.to/gde/gemma-4-e2b-on-an-amd-mi300x-which-weight-format-should-you-serve-1a01"
-    },
-    {
-      "title": "Meme Monday",
-      "hot": "❤️ 48 💬 35",
-      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
-      "source": "dev",
-      "tag": "discuss,  jokes",
-      "url": "https://dev.to/ben/meme-monday-3ib7"
-    },
-    {
-      "title": "Build a Tiny Virtual Pet on Arduino in 60 Minutes 🐾",
-      "hot": "❤️ 38 💬 15",
-      "desc": "Turn an Arduino Uno Q into Kiku, a Tamagotchi-style virtual pet with an animated LED face, moods, and keyboard controls.",
-      "source": "dev",
-      "tag": "arduino,  beginners",
-      "url": "https://dev.to/heraistudio/build-a-tiny-virtual-pet-on-arduino-in-60-minutes-2cf"
-    },
-    {
-      "title": "What was your win this week?",
-      "hot": "❤️ 115 💬 133",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "weeklyretro",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-4jli"
-    },
-    {
-      "title": "Making cross-platform local AI easier with llamadart",
-      "hot": "❤️ 8 💬 2",
-      "desc": "My writing assistant could talk to Gemini. The missing piece was using it without a connection.  That...",
-      "source": "dev",
-      "tag": "dart,  flutter",
-      "url": "https://dev.to/gde/making-cross-platform-local-ai-easier-with-llamadart-2l4k"
-    },
-    {
-      "title": "Run, Hunt, Hack: Join the Cloud Run Hackathon on Product Hunt",
-      "hot": "❤️ 18 💬 2",
-      "desc": "Got a cool side project running on your local machine? This is your chance to make it live and have...",
-      "source": "dev",
-      "tag": "hackathon,  cloud",
-      "url": "https://dev.to/googlecloud/run-hunt-hack-join-the-cloud-run-hackathon-on-product-hunt-3cc"
-    },
-    {
-      "title": "Claude Haiku 5.5 is available on Google Cloud",
-      "hot": "❤️ 11 💬 0",
-      "desc": "Hey developers!   If you’ve been building autonomous agents or multi-agent orchestrations, you...",
-      "source": "dev",
-      "tag": "claude,  googlecloud",
-      "url": "https://dev.to/googleai/claude-haiku-55-is-available-on-google-cloud-4gn0"
-    },
-    {
-      "title": "Disappeared Since March: Taking a Long Break Was My Best Decision Yet",
-      "hot": "❤️ 84 💬 31",
-      "desc": "If you checked my profile recently, you probably noticed my page has been completely quiet since...",
-      "source": "dev",
-      "tag": "Dev.to",
-      "url": "https://dev.to/maame-codes/disappeared-since-march-taking-a-long-break-was-my-best-decision-yet-1n45"
-    },
-    {
-      "title": "Welcome Thread - v 396",
-      "hot": "❤️ 34 💬 277",
-      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
-      "source": "dev",
-      "tag": "welcome",
-      "url": "https://dev.to/sloan/welcome-thread-v-396-ih4"
-    },
-    {
-      "title": "Claude Opus 5.5 is now available on Google Cloud",
-      "hot": "❤️ 15 💬 0",
-      "desc": "Everyday complex tasks? No problem. Opus 5.5 handles long-running coding and knowledge work while...",
-      "source": "dev",
-      "tag": "claude,  googlecloud",
-      "url": "https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh"
-    },
-    {
-      "title": "Publishing Markdown to Substack from an Agent Skill",
-      "hot": "❤️ 18 💬 5",
-      "desc": "Substack has no publishing API, its editor has no tables, and a link around inline code is dropped on paste. A step by s",
-      "source": "dev",
-      "tag": "substack,  writing",
-      "url": "https://dev.to/gde/publishing-markdown-to-substack-from-an-agent-skill-258f"
-    },
-    {
-      "title": "stop-using-complex-urls-for-your-demos.us-central1.run.app",
-      "hot": "❤️ 26 💬 1",
-      "desc": "Wish you had a custom domain for all of your demos and AI prototypes? When you deploy your apps with...",
-      "source": "dev",
-      "tag": "googlecloud,  cloud",
-      "url": "https://dev.to/googleai/stop-using-complex-urls-for-your-demosus-central1runapp-2efd"
-    },
-    {
-      "title": "Join the Hacktoberfest Open-Source AI Challenge: Touch Grass! $2,450 in Prizes Across 17 Winners.",
-      "hot": "❤️ 208 💬 52",
-      "desc": "Week 1 of our five Hacktoberfest DEV Challenges starts today! Running through October 11, the...",
-      "source": "dev",
-      "tag": "devchallenge,  hf26challenge",
-      "url": "https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-week-1-touch-grass-2450-in-prizes-across-17-4pom"
-    },
-    {
-      "title": "Activating Your Data Layer for Production-Ready AI",
-      "hot": "❤️ 21 💬 3",
-      "desc": "When discussing applications and systems using generative AI and the new opportunities they present,...",
-      "source": "dev",
-      "tag": "database,  googlecloud",
-      "url": "https://dev.to/googleai/activating-your-data-layer-for-production-ready-ai-p3e"
-    },
-    {
-      "title": "Views Measure Views",
-      "hot": "❤️ 36 💬 20",
-      "desc": "Nine years in, I finally worked out what else to count.  A writer I follow, Sylwia Laskowska,...",
-      "source": "dev",
-      "tag": "career,  writing",
-      "url": "https://dev.to/kenwalger/views-measure-views-4co7"
-    },
-    {
-      "title": "Gemma 4 Inference on AWS: Bedrock, SageMaker, GPUs, Inferentia and Trainium Behind One Strands Agent",
-      "hot": "❤️ 16 💬 2",
-      "desc": "A step by step survey of six ways to serve a model on AWS, from a managed API to your own Neuron chip, driven by one Str",
-      "source": "dev",
-      "tag": "aws,  ai",
-      "url": "https://dev.to/gde/gemma-4-inference-on-aws-bedrock-sagemaker-gpus-inferentia-and-trainium-behind-one-strands-agent-2lnm"
-    }
-  ],
   "tech": [
     {
-      "title": "Deno Is Joining Cloudflare",
+      "title": "Cloudflare acquires Deno",
       "hot": "3.0m",
       "desc": "deno.com",
       "source": "tech",
-      "tag": "⬆️ 184 points",
+      "tag": "⬆️ 794 points",
       "url": "https://deno.com/blog/cloudflare"
+    },
+    {
+      "title": "M7.6 Earthquake in Panama",
+      "hot": "3.0m",
+      "desc": "earthquake.usgs.gov",
+      "source": "tech",
+      "tag": "⬆️ 52 points",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive"
     },
     {
       "title": "Our $445M Series D",
       "hot": "3.0m",
       "desc": "oxide.computer",
       "source": "tech",
-      "tag": "⬆️ 79 points",
+      "tag": "⬆️ 437 points",
       "url": "https://oxide.computer/blog/our-445m-series-d"
     },
     {
-      "title": "Let your AI agents paint big arrows, boxes and text on your screen",
+      "title": "TypeSafe a Raises $870M at a $7.5B",
       "hot": "3.0m",
-      "desc": "github.com",
+      "desc": "typesafe.ai",
       "source": "tech",
-      "tag": "⬆️ 163 points",
-      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen"
+      "tag": "⬆️ 55 points",
+      "url": "https://typesafe.ai/blog/series-ai"
     },
     {
-      "title": "I'm in a Meeting",
-      "hot": "3.0m",
+      "title": "Triple-A Minesweeper",
+      "hot": "2.9m",
+      "desc": "minesweeper.mikelacher.com",
+      "source": "tech",
+      "tag": "⬆️ 109 points",
+      "url": "https://minesweeper.mikelacher.com/"
+    },
+    {
+      "title": "You Might Want to Try Being Less Creative",
+      "hot": "2.9m",
+      "desc": "blog.bawolf.com",
+      "source": "tech",
+      "tag": "⬆️ 13 points",
+      "url": "https://blog.bawolf.com/p/you-might-want-to-try-being-less"
+    },
+    {
+      "title": "Sorry, I'm in a meeting",
+      "hot": "2.9m",
       "desc": "iminafleeting.com",
       "source": "tech",
-      "tag": "⬆️ 181 points",
+      "tag": "⬆️ 558 points",
       "url": "https://iminafleeting.com/"
     },
     {
-      "title": "Nobel Peace Prize for 2026 to Navanethem \"NAVI\" Pillay",
+      "title": "I Pointed AI at 400 Years of Archives. It Found a Forgotten Meteorites and More",
+      "hot": "2.9m",
+      "desc": "jessewaites.com",
+      "source": "tech",
+      "tag": "⬆️ 28 points",
+      "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/"
+    },
+    {
+      "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 317 points",
+      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen"
+    },
+    {
+      "title": "Nobel Peace Prize for 2026 to Navanethem Pillay",
       "hot": "2.9m",
       "desc": "nobelprize.org",
       "source": "tech",
-      "tag": "⬆️ 188 points",
+      "tag": "⬆️ 357 points",
       "url": "https://www.nobelprize.org/prizes/peace/2026/press-release/"
     },
     {
-      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+      "title": "Show HN: See *almost* any carriers phone settings",
       "hot": "2.9m",
+      "desc": "carrierexplode.com",
+      "source": "tech",
+      "tag": "⬆️ 16 points",
+      "url": "https://carrierexplode.com/"
+    },
+    {
+      "title": "Part of a police code for describing suspects",
+      "hot": "2.8m",
+      "desc": "researchgate.net",
+      "source": "tech",
+      "tag": "⬆️ 7 points",
+      "url": "https://www.researchgate.net/figure/Part-of-a-police-code-for-describing-suspects_fig4_228844649"
+    },
+    {
+      "title": "Germany transforms former coal mines into Europe's largest lake landscape",
+      "hot": "2.8m",
+      "desc": "euronews.com",
+      "source": "tech",
+      "tag": "⬆️ 134 points",
+      "url": "https://www.euronews.com/2026/04/14/almost-like-lake-como-germany-transforms-former-coal-mines-into-europes-largest-lake-lands"
+    },
+    {
+      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+      "hot": "2.8m",
       "desc": "dgt.is",
       "source": "tech",
-      "tag": "⬆️ 885 points",
+      "tag": "⬆️ 1017 points",
       "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/"
     },
     {
-      "title": "Once: Cache CLI Commands",
-      "hot": "2.9m",
-      "desc": "github.com",
+      "title": "'Wallace and Gromit,' 90% Alone",
+      "hot": "2.8m",
+      "desc": "animationobsessive.substack.com",
       "source": "tech",
-      "tag": "⬆️ 35 points",
-      "url": "https://github.com/alex0ptr/once"
+      "tag": "⬆️ 49 points",
+      "url": "https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone"
     },
     {
       "title": "Whistle: Speech to Text in 16.9 MB",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "cactuscompute.com",
       "source": "tech",
-      "tag": "⬆️ 824 points",
+      "tag": "⬆️ 895 points",
       "url": "https://cactuscompute.com/blog/whistle"
     },
     {
-      "title": "MXC - a sandboxed code execution system",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 86 points",
-      "url": "https://github.com/microsoft/mxc"
-    },
-    {
-      "title": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
-      "hot": "2.9m",
-      "desc": "washingtonpost.com",
-      "source": "tech",
-      "tag": "⬆️ 41 points",
-      "url": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/"
-    },
-    {
       "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "dexerto.com",
       "source": "tech",
-      "tag": "⬆️ 793 points",
+      "tag": "⬆️ 904 points",
       "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/"
     },
     {
-      "title": "Meadows – a small language for stock-and-flow diagrams that run",
-      "hot": "2.8m",
-      "desc": "lorezzed.github.io",
+      "title": "Training Text-to-Image Models Without a VAE",
+      "hot": "2.7m",
+      "desc": "linum.ai",
       "source": "tech",
-      "tag": "⬆️ 5 points",
-      "url": "https://lorezzed.github.io/meadows/"
-    },
-    {
-      "title": "Keyboard differences between Windows and Macs",
-      "hot": "2.8m",
-      "desc": "unsung.aresluna.org",
-      "source": "tech",
-      "tag": "⬆️ 214 points",
-      "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/"
+      "tag": "⬆️ 24 points",
+      "url": "https://www.linum.ai/field-notes/pyramid-jit"
     },
     {
       "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "antonfrolov.substack.com",
       "source": "tech",
-      "tag": "⬆️ 739 points",
+      "tag": "⬆️ 856 points",
       "url": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my"
     },
     {
       "title": "Yes, and",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "htmx.org",
       "source": "tech",
-      "tag": "⬆️ 550 points",
+      "tag": "⬆️ 681 points",
       "url": "https://htmx.org/essays/yes-and/"
-    },
-    {
-      "title": "Theranos.world",
-      "hot": "2.8m",
-      "desc": "theranos.world",
-      "source": "tech",
-      "tag": "⬆️ 492 points",
-      "url": "https://www.theranos.world/"
-    },
-    {
-      "title": "The Hetzner Cloud network stack – history and technical overview",
-      "hot": "2.8m",
-      "desc": "hetzner.com",
-      "source": "tech",
-      "tag": "⬆️ 31 points",
-      "url": "https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/"
-    },
-    {
-      "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
-      "hot": "2.7m",
-      "desc": "techcrunch.com",
-      "source": "tech",
-      "tag": "⬆️ 99 points",
-      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/"
-    },
-    {
-      "title": "The value of not getting to the point (2015)",
-      "hot": "2.7m",
-      "desc": "ken.arneson.name",
-      "source": "tech",
-      "tag": "⬆️ 190 points",
-      "url": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/"
-    },
-    {
-      "title": "Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?",
-      "hot": "2.7m",
-      "desc": "news.ycombinator.com",
-      "source": "tech",
-      "tag": "⬆️ 292 points",
-      "url": "https://news.ycombinator.com/item?id=49985548"
     }
   ],
   "github": [
     {
       "title": "openai/math: ",
-      "hot": "⭐ 12.8k",
+      "hot": "⭐ 13.0k",
       "desc": "openai/math",
       "source": "github",
       "tag": "Lean",
@@ -352,7 +190,7 @@
     },
     {
       "title": "mhtsec/ARTEX: AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
-      "hot": "⭐ 1.9k",
+      "hot": "⭐ 2.1k",
       "desc": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
       "source": "github",
       "tag": "Go",
@@ -367,6 +205,14 @@
       "url": "https://github.com/facebookincubator/muse-gadget-sdk"
     },
     {
+      "title": "nullmoth/nvidia-macos-driver: Metal driver for NVIDIA GeForce RTX cards on macOS",
+      "hot": "⭐ 1.8k",
+      "desc": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/nullmoth/nvidia-macos-driver"
+    },
+    {
       "title": "kargulstudio/sales-crm: ",
       "hot": "⭐ 1.7k",
       "desc": "kargulstudio/sales-crm",
@@ -375,20 +221,20 @@
       "url": "https://github.com/kargulstudio/sales-crm"
     },
     {
-      "title": "nullmoth/nvidia-macos-driver: Metal driver for NVIDIA GeForce RTX cards on macOS",
-      "hot": "⭐ 1.7k",
-      "desc": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/nullmoth/nvidia-macos-driver"
-    },
-    {
       "title": "zhongerxin/iPhone-use: 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
-      "hot": "⭐ 1.4k",
+      "hot": "⭐ 1.6k",
       "desc": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/zhongerxin/iPhone-use"
+    },
+    {
+      "title": "storytold/wordcraft: An open-source, clean-room reimplementation of Microsoft Wo",
+      "hot": "⭐ 1.5k",
+      "desc": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/storytold/wordcraft"
     },
     {
       "title": "Jakeschincariol/replica-skill: Eleven free Claude skills that clone any app: rev",
@@ -399,12 +245,20 @@
       "url": "https://github.com/Jakeschincariol/replica-skill"
     },
     {
-      "title": "storytold/wordcraft: An open-source, clean-room reimplementation of Microsoft Wo",
+      "title": "LosaLosSantos/aurelio-finance: Open-source personal finance app with an AI finan",
+      "hot": "⭐ 1.3k",
+      "desc": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/LosaLosSantos/aurelio-finance"
+    },
+    {
+      "title": "storytold/cadcraft: CADCraft: computer-aided design and drafting — an open-sourc",
       "hot": "⭐ 1.2k",
-      "desc": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+      "desc": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
       "source": "github",
       "tag": "Rust",
-      "url": "https://github.com/storytold/wordcraft"
+      "url": "https://github.com/storytold/cadcraft"
     },
     {
       "title": "alejandrobujan/tendedero: Screenshots, hung out to dry. A tiny native macOS app ",
@@ -416,7 +270,7 @@
     },
     {
       "title": "LoreanXavier/pt-pc: Native PC port of P.T. (runs from your own PS4 game files)",
-      "hot": "⭐ 1.1k",
+      "hot": "⭐ 1.2k",
       "desc": "Native PC port of P.T. (runs from your own PS4 game files)",
       "source": "github",
       "tag": "C++",
@@ -429,25 +283,41 @@
       "source": "github",
       "tag": "Go",
       "url": "https://github.com/mizorewww/x_gift_bot"
-    },
-    {
-      "title": "storytold/cadcraft: CADCraft: computer-aided design and drafting — an open-sourc",
-      "hot": "⭐ 1.1k",
-      "desc": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/storytold/cadcraft"
-    },
-    {
-      "title": "sganggs/Stronghold-Protocol: 明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
-      "hot": "⭐ 1.0k",
-      "desc": "明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/sganggs/Stronghold-Protocol"
     }
   ],
   "space": [
+    {
+      "title": "NASA Seeks US Industry Plans for Commercial Space Stations",
+      "hot": "10/9",
+      "desc": "NASA is advancing American leadership in space by taking the next step toward a future where commercial space stations lead the way in low Earth orbit",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/"
+    },
+    {
+      "title": "NASA Demonstrates Next-Generation Heat Shield Technologies",
+      "hot": "10/9",
+      "desc": "NASA is testing heat shields that can keep astronauts safe as they return from missions to the Moon and Mars in an unusual way: by taking out the tras",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies/"
+    },
+    {
+      "title": "Ship 40 Returns Home as Ship 42 gets more Cryo Proof Testing",
+      "hot": "10/9",
+      "desc": "Ship 42 for Flight 15 has headed back out to Massey’s for more cryo-proof testing…\nThe post Ship 40 Returns Home as Ship 42 gets more Cryo Proof Testi",
+      "source": "space",
+      "tag": "NASASpaceflight",
+      "url": "https://www.nasaspaceflight.com/2026/10/ship-40-returns-ship-42-more-testing/"
+    },
+    {
+      "title": "Cosmic House of Mirrors",
+      "hot": "10/9",
+      "desc": "Galaxies warp and multiply as if in a house of mirrors in this image from NASA’s James Webb Space Telescope released on Sept. 29, 2026. The brilliant ",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/image-article/cosmic-house-of-mirrors/"
+    },
     {
       "title": "Italy Explores Building an Artificial Gravity Research Platform in Orbit",
       "hot": "10/9",
@@ -471,6 +341,14 @@
       "source": "space",
       "tag": "Arstechnica",
       "url": "https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine/"
+    },
+    {
+      "title": "Farewell to the Fluid Science Laboratory after 18 years in orbit",
+      "hot": "10/9",
+      "desc": "On 9 October, astronauts on the International Space Station begin supporting the final decommissioning of ESA's Fluid Science Laboratory (FSL), one of",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Farewell_to_the_Fluid_Science_Laboratory_after_18_years_in_orbit"
     },
     {
       "title": "Earth from Space: Namibia’s biggest salt pan",
@@ -527,46 +405,168 @@
       "source": "space",
       "tag": "NASA",
       "url": "https://www.nasa.gov/centers-and-facilities/ames/nasas-sspicy-mission-to-demonstrate-in-space-inspection-technologies/"
+    }
+  ],
+  "dev": [
+    {
+      "title": "Dev Opportunity Radar #20: $2M AI Reasoning Challenge, PayPal AI Hackathon, and Coinbase Analytics Challenge",
+      "hot": "❤️ 68 💬 9",
+      "desc": "TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...",
+      "source": "dev",
+      "tag": "discuss,  community",
+      "url": "https://dev.to/devengers/dev-opportunity-radar-20-2m-ai-reasoning-challenge-paypal-ai-hackathon-and-coinbase-analytics-1fec"
     },
     {
-      "title": "Crew-12 Returns to Earth",
-      "hot": "10/8",
-      "desc": "The SpaceX Crew Dragon Freedom spacecraft is seen moments before splashing down in the Pacific Ocean off the coast of California in this Oct. 8, 2026,",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/image-article/crew-12-returns-to-earth/"
+      "title": "I got Jev to zero mistakes. I'm still using Flash-Lite.",
+      "hot": "❤️ 33 💬 10",
+      "desc": "Jev is a brilliant decision model. Gemini Flash-Lite is the model nobody talks about, and it’s fast,...",
+      "source": "dev",
+      "tag": "ai,  gemini",
+      "url": "https://dev.to/theycallmeswift/i-got-jev-to-zero-mistakes-im-still-using-flash-lite-2mo7"
     },
     {
-      "title": "NASA’s SPHEREx Telescope Sees Menagerie of Brown Dwarfs",
-      "hot": "10/8",
-      "desc": "NASA’s SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer) space telescope is shedding light on bro",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/missions/spherex/nasas-spherex-telescope-sees-menagerie-of-brown-dwarfs/"
+      "title": "Congrats to Our First MLH x DEV Writing Challenge Winner!",
+      "hot": "❤️ 5 💬 1",
+      "desc": "We just wrapped the very first month of the MLH x DEV Writing Challenge, our new way of celebrating...",
+      "source": "dev",
+      "tag": "mlhacks,  devchallenge",
+      "url": "https://dev.to/devteam/congrats-to-our-first-mlh-x-dev-writing-challenge-winner-1c4l"
     },
     {
-      "title": "Webb Measures Distance to Farthest Fast Radio Burst, Suggesting Origin",
-      "hot": "10/8",
-      "desc": "First discovered in 2007, fast radio bursts are enigmatic, millisecond-long flashes of radio emission from the distant universe. Their origin remains ",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/missions/webb/webb-measures-distance-to-farthest-fast-radio-burst-suggesting-origin/"
+      "title": "Llama Village: a virtual world powered by local AI with llamadart",
+      "hot": "❤️ 15 💬 5",
+      "desc": "Llama Village in motion. The characters’ dialogue is generated by an on-device model.  Watch the...",
+      "source": "dev",
+      "tag": "flutter,  ai",
+      "url": "https://dev.to/gde/llama-village-a-virtual-world-powered-by-local-ai-with-llamadart-3lmi"
     },
     {
-      "title": "NASA’s SpaceX Crew‑12 Splashes Down, Sets Briefing to Discuss Mission",
-      "hot": "10/8",
-      "desc": "After more than seven months aboard the International Space Station, NASA’s SpaceX Crew-12 mission safely splashed down Thursday in the Pacific Ocean ",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/news-release/nasas-spacex-crew-12-splashes-down-sets-briefing-to-discuss-mission/"
+      "title": "What was your win this week??",
+      "hot": "❤️ 20 💬 6",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-1l3f"
     },
     {
-      "title": "Splashdown confirmed for Sophie Adenot",
-      "hot": "10/8",
-      "desc": "ESA astronaut Sophie Adenot returned to Earth with Crew-12 after her nearly eight-month εpsilon mission to the International Space Station, splashing ",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Splashdown_confirmed_for_Sophie_Adenot"
+      "title": "Gemma 4 From E2B to 31B on an AMD MI300X: fp8 Overtakes bf16 From 12B Up",
+      "hot": "❤️ 7 💬 0",
+      "desc": "Every Gemma 4 size from E2B to 31B served on one AMD Instinct MI300X in bf16, fp8, int8 W8A8 and int4 W4A16, on the same",
+      "source": "dev",
+      "tag": "gemma,  amd",
+      "url": "https://dev.to/gde/gemma-4-from-e2b-to-31b-on-an-amd-mi300x-fp8-overtakes-bf16-from-12b-up-h4e"
+    },
+    {
+      "title": "Why you still need a Website Portfolio, even though everyone can Vibe Code it.",
+      "hot": "❤️ 236 💬 166",
+      "desc": "If you have been following me for a long time, you already know that I have been holding off on my...",
+      "source": "dev",
+      "tag": "discuss,  community",
+      "url": "https://dev.to/francistrdev/why-you-still-need-a-website-portfolio-even-though-everyone-can-vibe-code-it-e63"
+    },
+    {
+      "title": "Stuart Feldman Was Right in 1976: Why Your AI Agent Needs a Makefile, Not a 20-Step Prompt",
+      "hot": "❤️ 12 💬 11",
+      "desc": "How replacing fragile linear prompt checklists with a 50-year-old declarative build graph eliminates agent amnesia, enab",
+      "source": "dev",
+      "tag": "ai,  programming",
+      "url": "https://dev.to/gde/stuart-feldman-was-right-in-1976-why-your-ai-agent-needs-a-makefile-not-a-20-step-prompt-5bn2"
+    },
+    {
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "hot": "❤️ 51 💬 25",
+      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+      "source": "dev",
+      "tag": "top7,  discuss",
+      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1682"
+    },
+    {
+      "title": "Gemma 4 E2B on an AMD MI300X: Which Weight Format Should You Serve?",
+      "hot": "❤️ 8 💬 3",
+      "desc": "Ten builds of Gemma 4 E2B (bf16, fp8 in both E4M3 flavours, int8 W8A8 and int4 W4A16, each with and without int4 embeddi",
+      "source": "dev",
+      "tag": "gemma,  amd",
+      "url": "https://dev.to/gde/gemma-4-e2b-on-an-amd-mi300x-which-weight-format-should-you-serve-1a01"
+    },
+    {
+      "title": "Meme Monday",
+      "hot": "❤️ 48 💬 35",
+      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
+      "source": "dev",
+      "tag": "discuss,  jokes",
+      "url": "https://dev.to/ben/meme-monday-3ib7"
+    },
+    {
+      "title": "Build a Tiny Virtual Pet on Arduino in 60 Minutes 🐾",
+      "hot": "❤️ 40 💬 15",
+      "desc": "Turn an Arduino Uno Q into Kiku, a Tamagotchi-style virtual pet with an animated LED face, moods, and keyboard controls.",
+      "source": "dev",
+      "tag": "arduino,  beginners",
+      "url": "https://dev.to/heraistudio/build-a-tiny-virtual-pet-on-arduino-in-60-minutes-2cf"
+    },
+    {
+      "title": "What was your win this week?",
+      "hot": "❤️ 115 💬 133",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-4jli"
+    },
+    {
+      "title": "Making cross-platform local AI easier with llamadart",
+      "hot": "❤️ 8 💬 5",
+      "desc": "My writing assistant could talk to Gemini. The missing piece was using it without a connection.  That...",
+      "source": "dev",
+      "tag": "dart,  flutter",
+      "url": "https://dev.to/gde/making-cross-platform-local-ai-easier-with-llamadart-2l4k"
+    },
+    {
+      "title": "Run, Hunt, Hack: Join the Cloud Run Hackathon on Product Hunt",
+      "hot": "❤️ 18 💬 2",
+      "desc": "Got a cool side project running on your local machine? This is your chance to make it live and have...",
+      "source": "dev",
+      "tag": "hackathon,  cloud",
+      "url": "https://dev.to/googlecloud/run-hunt-hack-join-the-cloud-run-hackathon-on-product-hunt-3cc"
+    },
+    {
+      "title": "Claude Haiku 5.5 is available on Google Cloud",
+      "hot": "❤️ 11 💬 0",
+      "desc": "Hey developers!   If you’ve been building autonomous agents or multi-agent orchestrations, you...",
+      "source": "dev",
+      "tag": "claude,  googlecloud",
+      "url": "https://dev.to/googleai/claude-haiku-55-is-available-on-google-cloud-4gn0"
+    },
+    {
+      "title": "Welcome Thread - v 396",
+      "hot": "❤️ 43 💬 335",
+      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
+      "source": "dev",
+      "tag": "welcome",
+      "url": "https://dev.to/sloan/welcome-thread-v-396-ih4"
+    },
+    {
+      "title": "Claude Opus 5.5 is now available on Google Cloud",
+      "hot": "❤️ 15 💬 0",
+      "desc": "Everyday complex tasks? No problem. Opus 5.5 handles long-running coding and knowledge work while...",
+      "source": "dev",
+      "tag": "claude,  googlecloud",
+      "url": "https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh"
+    },
+    {
+      "title": "Disappeared Since March: Taking a Long Break Was My Best Decision Yet",
+      "hot": "❤️ 85 💬 31",
+      "desc": "If you checked my profile recently, you probably noticed my page has been completely quiet since...",
+      "source": "dev",
+      "tag": "Dev.to",
+      "url": "https://dev.to/maame-codes/disappeared-since-march-taking-a-long-break-was-my-best-decision-yet-1n45"
+    },
+    {
+      "title": "Publishing Markdown to Substack from an Agent Skill",
+      "hot": "❤️ 18 💬 5",
+      "desc": "Substack has no publishing API, its editor has no tables, and a link around inline code is dropped on paste. A step by s",
+      "source": "dev",
+      "tag": "substack,  writing",
+      "url": "https://dev.to/gde/publishing-markdown-to-substack-from-an-agent-skill-258f"
     }
   ]
 }
