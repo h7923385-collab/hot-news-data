@@ -1,14 +1,22 @@
 {
-  "updatedAt": "2026-10-08T20:27:10.959Z",
+  "updatedAt": "2026-10-09T00:30:36.505Z",
   "source": "live",
   "dev": [
     {
       "title": "Why you still need a Website Portfolio, even though everyone can Vibe Code it.",
-      "hot": "❤️ 213 💬 136",
+      "hot": "❤️ 215 💬 146",
       "desc": "If you have been following me for a long time, you already know that I have been holding off on my...",
       "source": "dev",
       "tag": "discuss,  community",
       "url": "https://dev.to/francistrdev/why-you-still-need-a-website-portfolio-even-though-everyone-can-vibe-code-it-e63"
+    },
+    {
+      "title": "I got Jev to zero mistakes. I'm still using Flash-Lite.",
+      "hot": "❤️ 13 💬 1",
+      "desc": "Jev is a brilliant decision model. Gemini Flash-Lite is the model nobody talks about, and it’s fast,...",
+      "source": "dev",
+      "tag": "ai,  gemini",
+      "url": "https://dev.to/theycallmeswift/i-got-jev-to-zero-mistakes-im-still-using-flash-lite-2mo7"
     },
     {
       "title": "Gemma 4 E2B on an AMD MI300X: Which Weight Format Should You Serve?",
@@ -51,16 +59,8 @@
       "url": "https://dev.to/heraistudio/build-a-tiny-virtual-pet-on-arduino-in-60-minutes-2cf"
     },
     {
-      "title": "Claude Haiku 5.5 is available on Google Cloud",
-      "hot": "❤️ 10 💬 0",
-      "desc": "Hey developers!   If you’ve been building autonomous agents or multi-agent orchestrations, you...",
-      "source": "dev",
-      "tag": "claude,  googlecloud",
-      "url": "https://dev.to/googleai/claude-haiku-55-is-available-on-google-cloud-4gn0"
-    },
-    {
       "title": "What was your win this week?",
-      "hot": "❤️ 115 💬 132",
+      "hot": "❤️ 115 💬 133",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "weeklyretro",
@@ -68,7 +68,7 @@
     },
     {
       "title": "Welcome Thread - v 396",
-      "hot": "❤️ 29 💬 192",
+      "hot": "❤️ 29 💬 203",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
@@ -76,7 +76,7 @@
     },
     {
       "title": "stop-using-complex-urls-for-your-demos.us-central1.run.app",
-      "hot": "❤️ 25 💬 1",
+      "hot": "❤️ 26 💬 1",
       "desc": "Wish you had a custom domain for all of your demos and AI prototypes? When you deploy your apps with...",
       "source": "dev",
       "tag": "googlecloud,  cloud",
@@ -97,6 +97,14 @@
       "source": "dev",
       "tag": "aws,  ai",
       "url": "https://dev.to/gde/gemma-4-inference-on-aws-bedrock-sagemaker-gpus-inferentia-and-trainium-behind-one-strands-agent-2lnm"
+    },
+    {
+      "title": "Claude Haiku 5.5 is available on Google Cloud",
+      "hot": "❤️ 11 💬 0",
+      "desc": "Hey developers!   If you’ve been building autonomous agents or multi-agent orchestrations, you...",
+      "source": "dev",
+      "tag": "claude,  googlecloud",
+      "url": "https://dev.to/googleai/claude-haiku-55-is-available-on-google-cloud-4gn0"
     },
     {
       "title": "Disappeared Since March: Taking a Long Break Was My Best Decision Yet",
@@ -124,7 +132,7 @@
     },
     {
       "title": "Join the Hacktoberfest Open-Source AI Challenge: Touch Grass! $2,450 in Prizes Across 17 Winners.",
-      "hot": "❤️ 181 💬 47",
+      "hot": "❤️ 189 💬 48",
       "desc": "Week 1 of our five Hacktoberfest DEV Challenges starts today! Running through October 11, the...",
       "source": "dev",
       "tag": "devchallenge,  hf26challenge",
@@ -132,7 +140,7 @@
     },
     {
       "title": "Activating Your Data Layer for Production-Ready AI",
-      "hot": "❤️ 20 💬 3",
+      "hot": "❤️ 21 💬 3",
       "desc": "When discussing applications and systems using generative AI and the new opportunities they present,...",
       "source": "dev",
       "tag": "database,  googlecloud",
@@ -153,301 +161,187 @@
       "source": "dev",
       "tag": "claudecode,  mcp",
       "url": "https://dev.to/gde/mcp-configuration-for-google-workspace-with-claude-code-11om"
-    },
-    {
-      "title": "Event-Driven AI at Cloud Scale: High-Throughput Stream Classification with Pub/Sub, Dataflow, and Jev",
-      "hot": "❤️ 15 💬 1",
-      "desc": "How to turn millions of events per hour into typed, confidence-scored decisions, without a...",
-      "source": "dev",
-      "tag": "ai,  googlecloud",
-      "url": "https://dev.to/gde/event-driven-ai-at-cloud-scale-high-throughput-stream-classification-with-pubsub-dataflow-and-12ic"
     }
   ],
   "tech": [
+    {
+      "title": "OpenAI, the Partition Principle, and Mathematics",
+      "hot": "3.0m",
+      "desc": "karagila.org",
+      "source": "tech",
+      "tag": "⬆️ 38 points",
+      "url": "https://karagila.org/2026/openai-pp/"
+    },
     {
       "title": "Whistle: Speech to Text in 16.9 MB",
       "hot": "3.0m",
       "desc": "cactuscompute.com",
       "source": "tech",
-      "tag": "⬆️ 285 points",
+      "tag": "⬆️ 492 points",
       "url": "https://cactuscompute.com/blog/whistle"
     },
     {
-      "title": "The value of not getting to the point (2015)",
-      "hot": "3.0m",
-      "desc": "ken.arneson.name",
-      "source": "tech",
-      "tag": "⬆️ 40 points",
-      "url": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/"
-    },
-    {
-      "title": "Theranos.World",
+      "title": "Theranos.world",
       "hot": "3.0m",
       "desc": "theranos.world",
       "source": "tech",
-      "tag": "⬆️ 38 points",
+      "tag": "⬆️ 237 points",
       "url": "https://www.theranos.world/"
     },
     {
-      "title": "Show HN: Making a flexible \"neon\" t-shirt with LED filaments",
-      "hot": "3.0m",
-      "desc": "scottbezek.blogspot.com",
-      "source": "tech",
-      "tag": "⬆️ 31 points",
-      "url": "http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html"
-    },
-    {
-      "title": "Show HN: K10s – A Clickable Kubernetes TUI (Go, Bubble Tea)",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 48 points",
-      "url": "https://github.com/p10node/k10s"
-    },
-    {
       "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
-      "hot": "2.9m",
+      "hot": "3.0m",
       "desc": "dgt.is",
       "source": "tech",
-      "tag": "⬆️ 79 points",
+      "tag": "⬆️ 357 points",
       "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/"
-    },
-    {
-      "title": "A Terminal Protocol for Program Status (OSC 7501)",
-      "hot": "2.9m",
-      "desc": "mitchellh.com",
-      "source": "tech",
-      "tag": "⬆️ 24 points",
-      "url": "https://mitchellh.com/writing/program-status-osc7501"
-    },
-    {
-      "title": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
-      "hot": "2.9m",
-      "desc": "openrouter.ai",
-      "source": "tech",
-      "tag": "⬆️ 56 points",
-      "url": "https://openrouter.ai/stepfun/step-5-preview"
     },
     {
       "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
       "hot": "2.9m",
       "desc": "dexerto.com",
       "source": "tech",
-      "tag": "⬆️ 134 points",
+      "tag": "⬆️ 356 points",
       "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/"
     },
     {
-      "title": "Beauty in DVD Menus",
+      "title": "Show HN: SVG Spark – 10 client-side SVG design and dev tools",
       "hot": "2.9m",
-      "desc": "vale.rocks",
+      "desc": "svg-spark.vercel.app",
       "source": "tech",
-      "tag": "⬆️ 207 points",
-      "url": "https://vale.rocks/posts/dvd-menus"
+      "tag": "⬆️ 9 points",
+      "url": "https://svg-spark.vercel.app/"
     },
     {
-      "title": "OpenAI annualised revenues $20B less than previously signalled",
+      "title": "The value of not getting to the point (2015)",
       "hot": "2.9m",
-      "desc": "cnbc.com",
+      "desc": "ken.arneson.name",
       "source": "tech",
-      "tag": "⬆️ 266 points",
-      "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html"
+      "tag": "⬆️ 103 points",
+      "url": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/"
     },
     {
-      "title": "The dawn of the age of the exoskeleton",
-      "hot": "2.8m",
-      "desc": "theconversation.com",
+      "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
+      "hot": "2.9m",
+      "desc": "antonfrolov.substack.com",
       "source": "tech",
-      "tag": "⬆️ 20 points",
-      "url": "https://theconversation.com/the-dawn-of-the-age-of-the-exoskeleton-281804"
+      "tag": "⬆️ 341 points",
+      "url": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my"
     },
     {
-      "title": "ETH-68: Ethernet Audio Interface for Linux",
-      "hot": "2.8m",
-      "desc": "naturalsystems.io",
+      "title": "AI-ready biological data: $1.8B global commitment",
+      "hot": "2.9m",
+      "desc": "biohub.org",
       "source": "tech",
-      "tag": "⬆️ 23 points",
-      "url": "https://naturalsystems.io/eth68"
+      "tag": "⬆️ 56 points",
+      "url": "https://biohub.org/news/virtual-biology-initiative-expansion/"
+    },
+    {
+      "title": "Yes, and",
+      "hot": "2.9m",
+      "desc": "htmx.org",
+      "source": "tech",
+      "tag": "⬆️ 132 points",
+      "url": "https://htmx.org/essays/yes-and/"
+    },
+    {
+      "title": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)",
+      "hot": "2.9m",
+      "desc": "frontiersin.org",
+      "source": "tech",
+      "tag": "⬆️ 136 points",
+      "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full"
+    },
+    {
+      "title": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
+      "hot": "2.8m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 3 points",
+      "url": "https://github.com/edrisranjbar/lifeos"
+    },
+    {
+      "title": "A Terminal Protocol for Program Status (OSC 7501)",
+      "hot": "2.8m",
+      "desc": "mitchellh.com",
+      "source": "tech",
+      "tag": "⬆️ 84 points",
+      "url": "https://mitchellh.com/writing/program-status-osc7501"
     },
     {
       "title": "A 5.3M-year-old deep-sea whale necropolis in the Diamantina Zone",
       "hot": "2.8m",
       "desc": "nature.com",
       "source": "tech",
-      "tag": "⬆️ 29 points",
+      "tag": "⬆️ 75 points",
       "url": "https://www.nature.com/articles/s41586-026-10546-z"
     },
     {
-      "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
+      "title": "ETH-68: Ethernet Audio Interface for Linux",
       "hot": "2.8m",
-      "desc": "antonfrolov.substack.com",
+      "desc": "naturalsystems.io",
       "source": "tech",
-      "tag": "⬆️ 119 points",
-      "url": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my"
+      "tag": "⬆️ 75 points",
+      "url": "https://naturalsystems.io/eth68"
+    },
+    {
+      "title": "Beauty in DVD Menus",
+      "hot": "2.8m",
+      "desc": "vale.rocks",
+      "source": "tech",
+      "tag": "⬆️ 247 points",
+      "url": "https://vale.rocks/posts/dvd-menus"
+    },
+    {
+      "title": "Show HN: Jevman – AI decision models play Pac-Man",
+      "hot": "2.8m",
+      "desc": "opper.ai",
+      "source": "tech",
+      "tag": "⬆️ 20 points",
+      "url": "https://opper.ai/jevman-benchmark/"
+    },
+    {
+      "title": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
+      "hot": "2.7m",
+      "desc": "openrouter.ai",
+      "source": "tech",
+      "tag": "⬆️ 80 points",
+      "url": "https://openrouter.ai/stepfun/step-5-preview"
     },
     {
       "title": "OLED burn-in test: 30-month update",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "techspot.com",
       "source": "tech",
-      "tag": "⬆️ 45 points",
+      "tag": "⬆️ 93 points",
       "url": "https://www.techspot.com/article/3178-oled-burn-in-test/"
     },
     {
-      "title": "“Math 2.0” will need to value mathematical progress more holistically",
-      "hot": "2.8m",
-      "desc": "mathstodon.xyz",
-      "source": "tech",
-      "tag": "⬆️ 577 points",
-      "url": "https://mathstodon.xyz/@tao/117395269325940185"
-    },
-    {
-      "title": "DuckDB Ducklake",
+      "title": "Show HN: Making a flexible \"neon\" t-shirt with LED filaments",
       "hot": "2.7m",
-      "desc": "github.com",
+      "desc": "scottbezek.blogspot.com",
       "source": "tech",
-      "tag": "⬆️ 62 points",
-      "url": "https://github.com/duckdb/ducklake"
-    },
-    {
-      "title": "Trump administration is suspending Microsoft from a green card program",
-      "hot": "2.7m",
-      "desc": "apnews.com",
-      "source": "tech",
-      "tag": "⬆️ 698 points",
-      "url": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea"
-    },
-    {
-      "title": "Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age",
-      "hot": "2.7m",
-      "desc": "smithsonianmag.com",
-      "source": "tech",
-      "tag": "⬆️ 77 points",
-      "url": "https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/"
-    }
-  ],
-  "github": [
-    {
-      "title": "openai/math: ",
-      "hot": "⭐ 11.9k",
-      "desc": "openai/math",
-      "source": "github",
-      "tag": "Lean",
-      "url": "https://github.com/openai/math"
-    },
-    {
-      "title": "storytold/effectcraft: ",
-      "hot": "⭐ 2.6k",
-      "desc": "storytold/effectcraft",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/storytold/effectcraft"
-    },
-    {
-      "title": "alchaincyf/huashu-art-motion: 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
-      "hot": "⭐ 2.4k",
-      "desc": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/alchaincyf/huashu-art-motion"
-    },
-    {
-      "title": "QingYunA/answer-me-with-html: Answer me with HTML — an agent skill that answers ",
-      "hot": "⭐ 2.3k",
-      "desc": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/QingYunA/answer-me-with-html"
-    },
-    {
-      "title": "deadinside28/bloodborne_pc: ",
-      "hot": "⭐ 1.9k",
-      "desc": "deadinside28/bloodborne_pc",
-      "source": "github",
-      "tag": "C++",
-      "url": "https://github.com/deadinside28/bloodborne_pc"
-    },
-    {
-      "title": "facebookincubator/muse-gadget-sdk: Open source SDK to build Muse gadgets",
-      "hot": "⭐ 1.8k",
-      "desc": "Open source SDK to build Muse gadgets",
-      "source": "github",
-      "tag": "C",
-      "url": "https://github.com/facebookincubator/muse-gadget-sdk"
-    },
-    {
-      "title": "kargulstudio/sales-crm: ",
-      "hot": "⭐ 1.7k",
-      "desc": "kargulstudio/sales-crm",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/kargulstudio/sales-crm"
-    },
-    {
-      "title": "storytold/designcraft: ",
-      "hot": "⭐ 1.5k",
-      "desc": "storytold/designcraft",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/storytold/designcraft"
-    },
-    {
-      "title": "lucasmarkes/hairline: Six isometric line figures that answer the pointer. For Re",
-      "hot": "⭐ 1.3k",
-      "desc": "Six isometric line figures that answer the pointer. For React and for anything with a DOM.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/lucasmarkes/hairline"
-    },
-    {
-      "title": "mizorewww/x_gift_bot: X Premium gift CLI and redemption site",
-      "hot": "⭐ 1.1k",
-      "desc": "X Premium gift CLI and redemption site",
-      "source": "github",
-      "tag": "Go",
-      "url": "https://github.com/mizorewww/x_gift_bot"
-    },
-    {
-      "title": "Jakeschincariol/replica-skill: Eleven free Claude skills that clone any app: rev",
-      "hot": "⭐ 1.0k",
-      "desc": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/Jakeschincariol/replica-skill"
-    },
-    {
-      "title": "sganggs/Stronghold-Protocol: 明日方舟「卫戍协议：盟约��非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
-      "hot": "⭐ 999",
-      "desc": "明日方舟「卫戍协议：盟约��非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/sganggs/Stronghold-Protocol"
-    },
-    {
-      "title": "alejandrobujan/tendedero: Screenshots, hung out to dry. A tiny native macOS app ",
-      "hot": "⭐ 956",
-      "desc": "Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.",
-      "source": "github",
-      "tag": "Swift",
-      "url": "https://github.com/alejandrobujan/tendedero"
-    },
-    {
-      "title": "LoreanXavier/pt-pc: Native PC port of P.T. (runs from your own PS4 game files)",
-      "hot": "⭐ 928",
-      "desc": "Native PC port of P.T. (runs from your own PS4 game files)",
-      "source": "github",
-      "tag": "C++",
-      "url": "https://github.com/LoreanXavier/pt-pc"
-    },
-    {
-      "title": "nullmoth/nvidia-macos-driver: Metal driver for NVIDIA GeForce RTX cards on macOS",
-      "hot": "⭐ 894",
-      "desc": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/nullmoth/nvidia-macos-driver"
+      "tag": "⬆️ 94 points",
+      "url": "http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html"
     }
   ],
   "space": [
+    {
+      "title": "Crew-12 Back on Earth as ISS Keeps Busy",
+      "hot": "10/8",
+      "desc": "NASA’s Crew-12 mission splashed down in the Pacific Ocean off the coast of California this morning, bringing the 237-day mission to an end. Their repl",
+      "source": "space",
+      "tag": "SpacePolicyOnline.com",
+      "url": "https://spacepolicyonline.com/news/crew-12-back-on-earth-as-iss-keeps-busy/"
+    },
+    {
+      "title": "NASA Briefing to Highlight Contributions to Martian Moons Mission",
+      "hot": "10/8",
+      "desc": "Media are invited to join NASA for a media teleconference at 4 p.m. EDT, Thursday, Oct. 15, to preview the agency’s contributions to JAXA’s (Japan Aer",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/news-release/nasa-briefing-to-highlight-contributions-to-martian-moons-mission/"
+    },
     {
       "title": "NASA Announces Bold Science Initiatives for America’s Golden Age Summit",
       "hot": "10/8",
@@ -551,22 +445,128 @@
       "source": "space",
       "tag": "ESA",
       "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-3/Sentinel-3C_returns_its_first_views_of_Earth"
+    }
+  ],
+  "github": [
+    {
+      "title": "openai/math: ",
+      "hot": "⭐ 12.1k",
+      "desc": "openai/math",
+      "source": "github",
+      "tag": "Lean",
+      "url": "https://github.com/openai/math"
     },
     {
-      "title": "Solar Orbiter tracks origin of mysterious magnetic switchbacks",
-      "hot": "10/8",
-      "desc": "The European Space Agency-led Solar Orbiter spacecraft has flown through an S-shaped kink known as a ‘switchback’ in the solar wind’s magnetic field. ",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks"
+      "title": "alchaincyf/huashu-art-motion: 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
+      "hot": "⭐ 2.4k",
+      "desc": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/alchaincyf/huashu-art-motion"
     },
     {
-      "title": "The director’s take: telling Galileo’s story through film",
-      "hot": "10/8",
-      "desc": "In 2025, to celebrate thirty years of satellite navigation in Europe, the European Space Agency (ESA) commissioned a documentary to capture the histor",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/Applications/Satellite_navigation/The_director_s_take_telling_Galileo_s_story_through_film"
+      "title": "QingYunA/answer-me-with-html: Answer me with HTML — an agent skill that answers ",
+      "hot": "⭐ 2.3k",
+      "desc": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/QingYunA/answer-me-with-html"
+    },
+    {
+      "title": "facebookincubator/muse-gadget-sdk: Open source SDK to build Muse gadgets",
+      "hot": "⭐ 1.8k",
+      "desc": "Open source SDK to build Muse gadgets",
+      "source": "github",
+      "tag": "C",
+      "url": "https://github.com/facebookincubator/muse-gadget-sdk"
+    },
+    {
+      "title": "kargulstudio/sales-crm: ",
+      "hot": "⭐ 1.7k",
+      "desc": "kargulstudio/sales-crm",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/kargulstudio/sales-crm"
+    },
+    {
+      "title": "mizorewww/x_gift_bot: X Premium gift CLI and redemption site",
+      "hot": "⭐ 1.1k",
+      "desc": "X Premium gift CLI and redemption site",
+      "source": "github",
+      "tag": "Go",
+      "url": "https://github.com/mizorewww/x_gift_bot"
+    },
+    {
+      "title": "Jakeschincariol/replica-skill: Eleven free Claude skills that clone any app: rev",
+      "hot": "⭐ 1.1k",
+      "desc": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/Jakeschincariol/replica-skill"
+    },
+    {
+      "title": "nullmoth/nvidia-macos-driver: Metal driver for NVIDIA GeForce RTX cards on macOS",
+      "hot": "⭐ 1.1k",
+      "desc": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/nullmoth/nvidia-macos-driver"
+    },
+    {
+      "title": "sganggs/Stronghold-Protocol: 明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
+      "hot": "⭐ 1.0k",
+      "desc": "明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/sganggs/Stronghold-Protocol"
+    },
+    {
+      "title": "alejandrobujan/tendedero: Screenshots, hung out to dry. A tiny native macOS app ",
+      "hot": "⭐ 996",
+      "desc": "Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.",
+      "source": "github",
+      "tag": "Swift",
+      "url": "https://github.com/alejandrobujan/tendedero"
+    },
+    {
+      "title": "LoreanXavier/pt-pc: Native PC port of P.T. (runs from your own PS4 game files)",
+      "hot": "⭐ 985",
+      "desc": "Native PC port of P.T. (runs from your own PS4 game files)",
+      "source": "github",
+      "tag": "C++",
+      "url": "https://github.com/LoreanXavier/pt-pc"
+    },
+    {
+      "title": "storytold/wordcraft: An open-source, clean-room reimplementation of Microsoft Wo",
+      "hot": "⭐ 814",
+      "desc": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/storytold/wordcraft"
+    },
+    {
+      "title": "rauchg/gdp-ts: ",
+      "hot": "⭐ 761",
+      "desc": "rauchg/gdp-ts",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/rauchg/gdp-ts"
+    },
+    {
+      "title": "storytold/cadcraft: CADCraft: computer-aided design and drafting — an open-sourc",
+      "hot": "⭐ 755",
+      "desc": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/storytold/cadcraft"
+    },
+    {
+      "title": "shadany7824/playgta5: A source code for playgta5.com.",
+      "hot": "⭐ 713",
+      "desc": "A source code for playgta5.com.",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/shadany7824/playgta5"
     }
   ]
 }
