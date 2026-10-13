@@ -1,35 +1,83 @@
 {
   "data": [
     {
+      "title": "Gemini 4 Argon",
+      "hot": "3.0m",
+      "desc": "deepmind.google",
+      "source": "tech",
+      "tag": "⬆️ 717 points",
+      "url": "https://deepmind.google/models/gemini/"
+    },
+    {
+      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+      "hot": "3.0m",
+      "desc": "guitoro.com",
+      "source": "tech",
+      "tag": "⬆️ 70 points",
+      "url": "https://guitoro.com/"
+    },
+    {
+      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+      "hot": "3.0m",
+      "desc": "bleepingcomputer.com",
+      "source": "tech",
+      "tag": "⬆️ 196 points",
+      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/"
+    },
+    {
       "title": "Apple HomeView",
       "hot": "3.0m",
       "desc": "apple.com",
       "source": "tech",
-      "tag": "⬆️ 275 points",
+      "tag": "⬆️ 577 points",
       "url": "https://www.apple.com/apple-homeview/"
     },
     {
+      "title": "Redesigning source control at Anthropic",
+      "hot": "2.9m",
+      "desc": "anthropic.com",
+      "source": "tech",
+      "tag": "⬆️ 319 points",
+      "url": "https://www.anthropic.com/engineering/redesigning-source-control"
+    },
+    {
+      "title": "Thunderbird for iOS",
+      "hot": "2.9m",
+      "desc": "blog.thunderbird.net",
+      "source": "tech",
+      "tag": "⬆️ 245 points",
+      "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/"
+    },
+    {
       "title": "11 year old unsoundness bugs found in Rust borrow checker",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 449 points",
+      "tag": "⬆️ 614 points",
       "url": "https://github.com/rust-lang/rust/issues/164250"
     },
     {
-      "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
-      "hot": "3.0m",
-      "desc": "machinelearning.apple.com",
+      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+      "hot": "2.9m",
+      "desc": "sammystraus.com",
       "source": "tech",
-      "tag": "⬆️ 133 points",
-      "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud"
+      "tag": "⬆️ 181 points",
+      "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic"
+    },
+    {
+      "title": "Firefox Enterprise",
+      "hot": "2.9m",
+      "desc": "firefox.com",
+      "source": "tech",
+      "tag": "⬆️ 513 points",
+      "url": "https://www.firefox.com/en-US/enterprise/"
     },
     {
       "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "eg2.haku.sh",
       "source": "tech",
-      "tag": "⬆️ 243 points",
+      "tag": "⬆️ 356 points",
       "url": "https://eg2.haku.sh/"
     },
     {
@@ -37,129 +85,81 @@
       "hot": "2.9m",
       "desc": "apple.com",
       "source": "tech",
-      "tag": "⬆️ 61 points",
+      "tag": "⬆️ 227 points",
       "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/"
     },
     {
-      "title": "A Visual Intro to Complex Numbers",
-      "hot": "2.9m",
-      "desc": "photonlines.substack.com",
+      "title": "The United Kingdom generates less electricity per person than in the 1970s",
+      "hot": "2.8m",
+      "desc": "ourworldindata.org",
       "source": "tech",
-      "tag": "⬆️ 52 points",
-      "url": "https://photonlines.substack.com/p/a-visual-intro-to-complex-numbers"
+      "tag": "⬆️ 114 points",
+      "url": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak"
     },
     {
-      "title": "BB(10)  Graham's Number",
-      "hot": "2.9m",
+      "title": "MIT class project turns into an FDA-cleared treatment for tremors",
+      "hot": "2.8m",
+      "desc": "news.mit.edu",
+      "source": "tech",
+      "tag": "⬆️ 89 points",
+      "url": "https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002"
+    },
+    {
+      "title": "Coris (YC S22) Is Hiring Back End Engineer",
+      "hot": "2.8m",
+      "desc": "ycombinator.com",
+      "source": "tech",
+      "tag": "⬆️ 1 points",
+      "url": "https://www.ycombinator.com/companies/coris/jobs/h0nDly8-backend-engineer-ai-native-risk-infrastructure-integrations"
+    },
+    {
+      "title": "Gemini 4 Argon for Robotics",
+      "hot": "2.8m",
+      "desc": "developers.googleblog.com",
+      "source": "tech",
+      "tag": "⬆️ 139 points",
+      "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/"
+    },
+    {
+      "title": "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",
+      "hot": "2.8m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 29 points",
-      "url": "https://github.com/jeff87654/busy-beaver/blob/main/BB10/1RB0RA_1LC1LF_1RD0LB_1RA1LE_1LI0LC_0RG1LD_1RH1LG_1LC0RG_0LJ0LI_1RZ0LC.md"
-    },
-    {
-      "title": "Hittite royal archive found in Turkey",
-      "hot": "2.9m",
-      "desc": "thehistoryblog.com",
-      "source": "tech",
-      "tag": "⬆️ 238 points",
-      "url": "https://www.thehistoryblog.com/archives/77107"
-    },
-    {
-      "title": "Show HN: Use your OpenAI subscription to create audiobooks",
-      "hot": "2.9m",
-      "desc": "pdftomp3.com",
-      "source": "tech",
-      "tag": "⬆️ 115 points",
-      "url": "https://pdftomp3.com/connect-ai/"
-    },
-    {
-      "title": "AI is a tool and using it well takes skill",
-      "hot": "2.9m",
-      "desc": "yyhh.org",
-      "source": "tech",
-      "tag": "⬆️ 535 points",
-      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/"
-    },
-    {
-      "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
-      "hot": "2.9m",
-      "desc": "blog.character.ai",
-      "source": "tech",
-      "tag": "⬆️ 119 points",
-      "url": "https://blog.character.ai/an-update-on-character-ai/"
-    },
-    {
-      "title": "Mozilla Introduces Firefox Enterprise",
-      "hot": "2.8m",
-      "desc": "firefox.com",
-      "source": "tech",
-      "tag": "⬆️ 270 points",
-      "url": "https://www.firefox.com/en-US/enterprise/"
-    },
-    {
-      "title": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades",
-      "hot": "2.8m",
-      "desc": "bloomberg.com",
-      "source": "tech",
-      "tag": "⬆️ 315 points",
-      "url": "https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran"
-    },
-    {
-      "title": "The baffling intelligence of a single cell (2024)",
-      "hot": "2.8m",
-      "desc": "jsomers.net",
-      "source": "tech",
-      "tag": "⬆️ 359 points",
-      "url": "https://jsomers.net/e-coli-chemotaxis/"
-    },
-    {
-      "title": "GLM-Legal",
-      "hot": "2.8m",
-      "desc": "z.ai",
-      "source": "tech",
-      "tag": "⬆️ 636 points",
-      "url": "https://z.ai/blog/glm-legal"
-    },
-    {
-      "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
-      "hot": "2.8m",
-      "desc": "tomshardware.com",
-      "source": "tech",
-      "tag": "⬆️ 824 points",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident"
+      "tag": "⬆️ 17 points",
+      "url": "https://github.com/LargeModGames/spotatui"
     },
     {
       "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
       "hot": "2.8m",
       "desc": "9to5mac.com",
       "source": "tech",
-      "tag": "⬆️ 20 points",
+      "tag": "⬆️ 104 points",
       "url": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/"
     },
     {
-      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+      "title": "Hiking the world in search of rare cheeses",
       "hot": "2.7m",
-      "desc": "intel.com",
+      "desc": "bbc.com",
       "source": "tech",
-      "tag": "⬆️ 281 points",
-      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html"
+      "tag": "⬆️ 20 points",
+      "url": "https://www.bbc.com/travel/article/20261007-the-man-hiking-the-world-in-search-of-rare-cheeses"
     },
     {
-      "title": "A Modern Web App in C",
+      "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
       "hot": "2.7m",
-      "desc": "prophitt.me",
+      "desc": "machinelearning.apple.com",
       "source": "tech",
-      "tag": "⬆️ 660 points",
-      "url": "https://prophitt.me/writing/a-modern-web-app-in-c"
+      "tag": "⬆️ 200 points",
+      "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud"
     },
     {
-      "title": "Document Review with Unsiloed and TypeSafe Jev",
+      "title": "Show HN: XY Music Notation",
       "hot": "2.7m",
-      "desc": "unsiloed.ai",
+      "desc": "music.xy.dev",
       "source": "tech",
-      "tag": "⬆️ 35 points",
-      "url": "https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev"
+      "tag": "⬆️ 29 points",
+      "url": "https://music.xy.dev/"
     }
   ],
-  "updatedAt": "2026-10-13T15:30:09.815Z"
+  "updatedAt": "2026-10-13T20:46:03.680Z"
 }
