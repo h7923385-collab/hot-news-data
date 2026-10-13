@@ -1,55 +1,7 @@
 {
-  "updatedAt": "2026-10-13T01:27:51.589Z",
+  "updatedAt": "2026-10-13T07:58:09.931Z",
   "source": "live",
   "dev": [
-    {
-      "title": "What LLMs 'Know' That You Don't Know They Know: Stop Inventing Prompt DSLs and Ride 50 Years of Unix Pre-Training Gravity",
-      "hot": "❤️ 27 💬 32",
-      "desc": "Why did a 1976 Makefile (Part 3.6) and a 1983 Unix init.d directory (Part 3.7) outperform 2,000 lines of English prompt ",
-      "source": "dev",
-      "tag": "ai,  programming",
-      "url": "https://dev.to/gde/what-llms-know-that-you-dont-know-they-know-stop-inventing-prompt-dsls-and-ride-50-years-of-2bl6"
-    },
-    {
-      "title": "Local embeddings with llamadart: how llamas share secrets",
-      "hot": "❤️ 7 💬 0",
-      "desc": "Beyond chat with llamadart · Part 2    Llama Village, where five llamas share a world without sharing...",
-      "source": "dev",
-      "tag": "dart,  ai",
-      "url": "https://dev.to/gde/local-embeddings-with-llamadart-how-llamas-share-secrets-46o"
-    },
-    {
-      "title": "THE UNHEARD: A Game That Sends You Outside, Teaches a Machine to Listen, and Makes It Prove Every Word",
-      "hot": "❤️ 16 💬 0",
-      "desc": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass          ...",
-      "source": "dev",
-      "tag": "devchallenge,  hf26challenge",
-      "url": "https://dev.to/iclaldogan/the-unheard-a-game-that-sends-you-outside-teaches-a-machine-to-listen-and-makes-it-prove-every-43go"
-    },
-    {
-      "title": "If You Never Do Anything Else to Fix Your Prompts, Do This One Thing",
-      "hot": "❤️ 11 💬 4",
-      "desc": "Why do LLMs confidently invent APIs that have never existed in the history of the universe? It is not a memory defect. A",
-      "source": "dev",
-      "tag": "ai,  programming",
-      "url": "https://dev.to/gde/if-you-never-do-anything-else-to-fix-your-prompts-do-this-one-thing-3069"
-    },
-    {
-      "title": "Meme Monday",
-      "hot": "❤️ 18 💬 11",
-      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
-      "source": "dev",
-      "tag": "discuss,  watercooler",
-      "url": "https://dev.to/ben/meme-monday-4e47"
-    },
-    {
-      "title": "Join the Hacktoberfest Open-Source AI Challenge: Side Hustle! $2,550 in Prizes Across 18 Winners.",
-      "hot": "❤️ 54 💬 2",
-      "desc": "Week 2 of our five Hacktoberfest DEV Challenges starts today! Running through October 18, the...",
-      "source": "dev",
-      "tag": "devchallenge,  hf26challenge",
-      "url": "https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-side-hustle-2550-in-prizes-across-18-winners-55ba"
-    },
     {
       "title": "Safe Autonomy in Kubernetes: Building AI Troubleshooting Agents with Google Cloud and Human-in-the-Loop Controls",
       "hot": "❤️ 10 💬 0",
@@ -59,12 +11,12 @@
       "url": "https://dev.to/gde/safe-autonomy-in-kubernetes-building-ai-troubleshooting-agents-with-google-cloud-and-h8l"
     },
     {
-      "title": "Your Agent Paid. That Does Not Mean It Should Have.",
-      "hot": "❤️ 8 💬 2",
-      "desc": "An AI agent is writing a report and needs one data point. The API answers: this costs five cents. The...",
+      "title": "One Weekend: 3,000 Open-Source AI Projects",
+      "hot": "❤️ 48 💬 4",
+      "desc": "Every October for the past twelve years, developers around the world have taken part in...",
       "source": "dev",
-      "tag": "aie,  fintech",
-      "url": "https://dev.to/dailycontext/your-agent-paid-that-does-not-mean-it-should-have-2dnd"
+      "tag": "aie,  hacktoberfest",
+      "url": "https://dev.to/dailycontext/one-weekend-3000-open-source-ai-projects-3g65"
     },
     {
       "title": "It's Not the Model, It's You",
@@ -75,28 +27,20 @@
       "url": "https://dev.to/dailycontext/its-not-the-model-its-you-1ngi"
     },
     {
+      "title": "Local embeddings with llamadart: how llamas share secrets",
+      "hot": "❤️ 9 💬 0",
+      "desc": "Beyond chat with llamadart · Part 2    Llama Village, where five llamas share a world without sharing...",
+      "source": "dev",
+      "tag": "dart,  ai",
+      "url": "https://dev.to/gde/local-embeddings-with-llamadart-how-llamas-share-secrets-46o"
+    },
+    {
       "title": "ROI That Survives the Second Question",
       "hot": "❤️ 5 💬 0",
       "desc": "Judgment is the scarce resource in a world where intelligence is becoming a commodity. A business can...",
       "source": "dev",
       "tag": "aie,  productivity",
       "url": "https://dev.to/dailycontext/roi-that-survives-the-second-question-4na0"
-    },
-    {
-      "title": "You Should Know About System One Models",
-      "hot": "❤️ 15 💬 2",
-      "desc": "Production AI usually looks like this: stuff context into a prompt, ask a large language model a...",
-      "source": "dev",
-      "tag": "jev,  ai",
-      "url": "https://dev.to/dailycontext/you-should-know-about-system-one-models-3a9a"
-    },
-    {
-      "title": "One Weekend: 3,000 Open-Source AI Projects",
-      "hot": "❤️ 37 💬 4",
-      "desc": "Every October for the past twelve years, developers around the world have taken part in...",
-      "source": "dev",
-      "tag": "aie,  hacktoberfest",
-      "url": "https://dev.to/dailycontext/one-weekend-3000-open-source-ai-projects-3g65"
     },
     {
       "title": "Your Guide to AI Engineer New York 2026",
@@ -123,28 +67,28 @@
       "url": "https://dev.to/dailycontext/ab-testing-ai-products-is-weird-576h"
     },
     {
+      "title": "Join the Hacktoberfest Open-Source AI Challenge: Side Hustle! $2,550 in Prizes Across 18 Winners.",
+      "hot": "❤️ 98 💬 11",
+      "desc": "Week 2 of our five Hacktoberfest DEV Challenges starts today! Running through October 18, the...",
+      "source": "dev",
+      "tag": "devchallenge,  hf26challenge",
+      "url": "https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-side-hustle-2550-in-prizes-across-18-winners-55ba"
+    },
+    {
+      "title": "Meme Monday",
+      "hot": "❤️ 23 💬 12",
+      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
+      "source": "dev",
+      "tag": "discuss,  watercooler",
+      "url": "https://dev.to/ben/meme-monday-4e47"
+    },
+    {
       "title": "Does your agent have ID?",
       "hot": "❤️ 10 💬 2",
       "desc": "Last month, an AI agent in Denmark booked a coffee tasting and paid for it. Danske Bank and...",
       "source": "dev",
       "tag": "aie,  ai",
       "url": "https://dev.to/dailycontext/does-your-agent-have-id-58ok"
-    },
-    {
-      "title": "Welcome to AI Engineer New York",
-      "hot": "❤️ 16 💬 1",
-      "desc": "Welcome to New York City. Whether you came from a few blocks away or flew in from the other side of...",
-      "source": "dev",
-      "tag": "ai,  aie",
-      "url": "https://dev.to/dailycontext/welcome-to-ai-engineer-new-york-bh0"
-    },
-    {
-      "title": "Building AI Analysts for Wall Street: A Q&A with Compound Co-Founder Yijia Liang",
-      "hot": "❤️ 8 💬 0",
-      "desc": "Building AI Analysts for Wall Street: A Q&amp;A with Compound Co-Founder Yijia Liang   Ahead...",
-      "source": "dev",
-      "tag": "aie,  qanda",
-      "url": "https://dev.to/dailycontext/building-ai-analysts-for-wall-street-a-qa-with-compound-co-founder-yijia-liang-29c3"
     },
     {
       "title": "Q&A with Al Chen, Software Engineering Leader at Cisco",
@@ -155,177 +99,265 @@
       "url": "https://dev.to/dailycontext/qa-with-al-chen-software-engineering-leader-at-cisco-jj7"
     },
     {
+      "title": "Building AI Analysts for Wall Street: A Q&A with Compound Co-Founder Yijia Liang",
+      "hot": "❤️ 8 💬 0",
+      "desc": "Building AI Analysts for Wall Street: A Q&amp;A with Compound Co-Founder Yijia Liang   Ahead...",
+      "source": "dev",
+      "tag": "aie,  qanda",
+      "url": "https://dev.to/dailycontext/building-ai-analysts-for-wall-street-a-qa-with-compound-co-founder-yijia-liang-29c3"
+    },
+    {
       "title": "Why Smaller AI Models Can Win in the Enterprise",
       "hot": "❤️ 8 💬 0",
       "desc": "Three engineering lessons from building a 1-billion-parameter foundation model for enterprise fraud detection.",
       "source": "dev",
       "tag": "aie,  machinelearning",
       "url": "https://dev.to/dailycontext/why-smaller-ai-models-can-win-in-the-enterprise-1m57"
+    },
+    {
+      "title": "A World Worth Understanding",
+      "hot": "❤️ 6 💬 0",
+      "desc": "We think the people who make software are endlessly interesting.  We want to meet them, hear their...",
+      "source": "dev",
+      "tag": "aie,  career",
+      "url": "https://dev.to/dailycontext/a-world-worth-understanding-f08"
+    },
+    {
+      "title": "What LLMs 'Know' That You Don't Know They Know: Stop Inventing Prompt DSLs and Ride 50 Years of Unix Pre-Training Gravity",
+      "hot": "❤️ 27 💬 35",
+      "desc": "Why did a 1976 Makefile (Part 3.6) and a 1983 Unix init.d directory (Part 3.7) outperform 2,000 lines of English prompt ",
+      "source": "dev",
+      "tag": "ai,  programming",
+      "url": "https://dev.to/gde/what-llms-know-that-you-dont-know-they-know-stop-inventing-prompt-dsls-and-ride-50-years-of-2bl6"
+    },
+    {
+      "title": "Dev Opportunity Radar #20: $2M AI Reasoning Challenge, PayPal AI Hackathon, and Coinbase Analytics Challenge",
+      "hot": "❤️ 102 💬 21",
+      "desc": "TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...",
+      "source": "dev",
+      "tag": "discuss,  community",
+      "url": "https://dev.to/devengers/dev-opportunity-radar-20-2m-ai-reasoning-challenge-paypal-ai-hackathon-and-coinbase-analytics-1fec"
+    },
+    {
+      "title": "If You Never Do Anything Else to Fix Your Prompts, Do This One Thing",
+      "hot": "❤️ 12 💬 4",
+      "desc": "Why do LLMs confidently invent APIs that have never existed in the history of the universe? It is not a memory defect. A",
+      "source": "dev",
+      "tag": "ai,  programming",
+      "url": "https://dev.to/gde/if-you-never-do-anything-else-to-fix-your-prompts-do-this-one-thing-3069"
+    },
+    {
+      "title": "THE UNHEARD: A Game That Sends You Outside, Teaches a Machine to Listen, and Makes It Prove Every Word",
+      "hot": "❤️ 21 💬 2",
+      "desc": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass          ...",
+      "source": "dev",
+      "tag": "devchallenge,  hf26challenge",
+      "url": "https://dev.to/iclaldogan/the-unheard-a-game-that-sends-you-outside-teaches-a-machine-to-listen-and-makes-it-prove-every-43go"
+    },
+    {
+      "title": "Why you still need a Website Portfolio, even though everyone can Vibe Code it.",
+      "hot": "❤️ 252 💬 246",
+      "desc": "If you have been following me for a long time, you already know that I have been holding off on my...",
+      "source": "dev",
+      "tag": "discuss,  community",
+      "url": "https://dev.to/francistrdev/why-you-still-need-a-website-portfolio-even-though-everyone-can-vibe-code-it-e63"
     }
   ],
   "tech": [
     {
-      "title": "Blood cells from 80-year-old donor become stem cells with molecular age under 20",
+      "title": "The baffling intelligence of a single cell (2024)",
       "hot": "3.0m",
-      "desc": "doi.org",
+      "desc": "jsomers.net",
       "source": "tech",
-      "tag": "⬆️ 80 points",
-      "url": "https://doi.org/10.1111/acel.70751"
-    },
-    {
-      "title": "GPT-6 Astra Helped Me Jailbreak My Kindle",
-      "hot": "3.0m",
-      "desc": "nirajrajgor.com",
-      "source": "tech",
-      "tag": "⬆️ 84 points",
-      "url": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai"
+      "tag": "⬆️ 227 points",
+      "url": "https://jsomers.net/e-coli-chemotaxis/"
     },
     {
       "title": "GLM-Legal",
       "hot": "3.0m",
       "desc": "z.ai",
       "source": "tech",
-      "tag": "⬆️ 422 points",
+      "tag": "⬆️ 535 points",
       "url": "https://z.ai/blog/glm-legal"
     },
     {
-      "title": "Who Is Vfmaddrnd231pd?",
-      "hot": "3.0m",
-      "desc": "purplesyringa.moe",
-      "source": "tech",
-      "tag": "⬆️ 109 points",
-      "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/"
-    },
-    {
-      "title": "A Modern Web App in C",
-      "hot": "2.9m",
-      "desc": "prophitt.me",
-      "source": "tech",
-      "tag": "⬆️ 389 points",
-      "url": "https://prophitt.me/writing/a-modern-web-app-in-c"
-    },
-    {
       "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-      "hot": "2.9m",
+      "hot": "3.0m",
       "desc": "intel.com",
       "source": "tech",
-      "tag": "⬆️ 52 points",
+      "tag": "⬆️ 181 points",
       "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html"
     },
     {
-      "title": "The baffling intelligence of a single cell (2024)",
-      "hot": "2.9m",
-      "desc": "jsomers.net",
+      "title": "A Modern Web App in C",
+      "hot": "3.0m",
+      "desc": "prophitt.me",
       "source": "tech",
-      "tag": "⬆️ 28 points",
-      "url": "https://jsomers.net/e-coli-chemotaxis/"
+      "tag": "⬆️ 532 points",
+      "url": "https://prophitt.me/writing/a-modern-web-app-in-c"
     },
     {
       "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
       "hot": "2.9m",
       "desc": "tomshardware.com",
       "source": "tech",
-      "tag": "⬆️ 435 points",
+      "tag": "⬆️ 640 points",
       "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident"
     },
     {
-      "title": "Making big downloads resumable in Firefox",
+      "title": "Who is vfmaddrnd231pd?",
       "hot": "2.9m",
-      "desc": "lunarwatcher.codeberg.page",
+      "desc": "purplesyringa.moe",
       "source": "tech",
-      "tag": "⬆️ 86 points",
-      "url": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html"
-    },
-    {
-      "title": "Phreak.ing – Internet Phone Switch",
-      "hot": "2.9m",
-      "desc": "phreak.ing",
-      "source": "tech",
-      "tag": "⬆️ 68 points",
-      "url": "https://phreak.ing/"
+      "tag": "⬆️ 185 points",
+      "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/"
     },
     {
       "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
       "hot": "2.9m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 25 points",
+      "tag": "⬆️ 119 points",
       "url": "https://github.com/prabanta-dev/janas"
+    },
+    {
+      "title": "Making big downloads resumable in Firefox",
+      "hot": "2.9m",
+      "desc": "lunarwatcher.codeberg.page",
+      "source": "tech",
+      "tag": "⬆️ 179 points",
+      "url": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html"
+    },
+    {
+      "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 335 points",
+      "url": "https://github.com/h0m3us3r/w1700k-sdr"
+    },
+    {
+      "title": "A look at the math that OpenAI claims computes faster Fourier transforms",
+      "hot": "2.9m",
+      "desc": "argmin.net",
+      "source": "tech",
+      "tag": "⬆️ 113 points",
+      "url": "https://www.argmin.net/p/faster-fourier-transforms"
+    },
+    {
+      "title": "Auto Research: Integer multiplication below n log n",
+      "hot": "2.9m",
+      "desc": "app.getsupers.com",
+      "source": "tech",
+      "tag": "⬆️ 53 points",
+      "url": "https://app.getsupers.com/auto-research"
+    },
+    {
+      "title": "AI is a tool and using it well takes skill",
+      "hot": "2.8m",
+      "desc": "yyhh.org",
+      "source": "tech",
+      "tag": "⬆️ 373 points",
+      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/"
     },
     {
       "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
       "hot": "2.8m",
       "desc": "news.ycombinator.com",
       "source": "tech",
-      "tag": "⬆️ 99 points",
+      "tag": "⬆️ 129 points",
       "url": "https://news.ycombinator.com/item?id=50059096"
     },
     {
-      "title": "Writing a Demoscene Intro for the ZX Spectrum",
+      "title": "Denmark set to allow return of 'physical force' in school",
       "hot": "2.8m",
-      "desc": "markround.com",
+      "desc": "lemonde.fr",
       "source": "tech",
-      "tag": "⬆️ 76 points",
-      "url": "https://www.markround.com/blog/2026/zx-spectrum-intro"
-    },
-    {
-      "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
-      "hot": "2.8m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 256 points",
-      "url": "https://github.com/h0m3us3r/w1700k-sdr"
+      "tag": "⬆️ 38 points",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/10/denmark-set-to-allow-the-return-of-physical-force-to-maintain-order-in-schools_6758443_4.html"
     },
     {
       "title": "Citroen revives the 2CV for an electric age",
       "hot": "2.8m",
       "desc": "bbc.com",
       "source": "tech",
-      "tag": "⬆️ 265 points",
+      "tag": "⬆️ 320 points",
       "url": "https://www.bbc.com/news/articles/c620r33plgppo"
     },
     {
-      "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+      "title": "Phreak.ing – Internet Phone Switch",
       "hot": "2.8m",
+      "desc": "phreak.ing",
+      "source": "tech",
+      "tag": "⬆️ 124 points",
+      "url": "https://phreak.ing/"
+    },
+    {
+      "title": "AI models can provably hide arbitrary capabilities",
+      "hot": "2.8m",
+      "desc": "arxiv.org",
+      "source": "tech",
+      "tag": "⬆️ 182 points",
+      "url": "https://arxiv.org/abs/2610.13928"
+    },
+    {
+      "title": "Writing a Demoscene Intro for the ZX Spectrum",
+      "hot": "2.7m",
+      "desc": "markround.com",
+      "source": "tech",
+      "tag": "⬆️ 116 points",
+      "url": "https://www.markround.com/blog/2026/zx-spectrum-intro"
+    },
+    {
+      "title": "Solar panels that plug into your wall",
+      "hot": "2.7m",
+      "desc": "nationalgeographic.com",
+      "source": "tech",
+      "tag": "⬆️ 177 points",
+      "url": "https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy"
+    },
+    {
+      "title": "Show HN: An experimental pattern-first DAW that supports MCP",
+      "hot": "2.7m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 452 points",
-      "url": "https://github.com/openai/codex/issues/48195"
-    },
-    {
-      "title": "Auto Research: Integer multiplication below n log n",
-      "hot": "2.8m",
-      "desc": "app.getsupers.com",
-      "source": "tech",
-      "tag": "⬆️ 5 points",
-      "url": "https://app.getsupers.com/auto-research"
-    },
-    {
-      "title": "AI is a tool and using it well takes skill",
-      "hot": "2.7m",
-      "desc": "yyhh.org",
-      "source": "tech",
-      "tag": "⬆️ 225 points",
-      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/"
-    },
-    {
-      "title": "Secret of Orange Cats Revealed After 60-Year Search",
-      "hot": "2.7m",
-      "desc": "sciencealert.com",
-      "source": "tech",
-      "tag": "⬆️ 225 points",
-      "url": "https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search"
-    },
-    {
-      "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
-      "hot": "2.7m",
-      "desc": "taylor.town",
-      "source": "tech",
-      "tag": "⬆️ 138 points",
-      "url": "https://taylor.town/kk-ai-2026"
+      "tag": "⬆️ 50 points",
+      "url": "https://github.com/andrewfader/blokkily"
     }
   ],
   "space": [
+    {
+      "title": "Norway Details Funding Allocation for Second Andøya Launch Pad",
+      "hot": "10/13",
+      "desc": "The Norwegian government has detailed plans to finance a second orbital launch pad at Andøya Spaceport, an initiative the country’s Minister of Trade ",
+      "source": "space",
+      "tag": "European Spaceflight",
+      "url": "https://europeanspaceflight.com/norway-details-funding-allocation-for-second-andoya-launch-pad/"
+    },
+    {
+      "title": "APOD: 2026 October 13 – Desert Stairway to Heaven",
+      "hot": "10/13",
+      "desc": "APOD Science APOD APOD: 2026 October 13 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-13-desert-stairway-to-heaven/"
+    },
+    {
+      "title": "An Impact Structure With Legs",
+      "hot": "10/13",
+      "desc": "If the thought of extraterrestrial objects crashing into Earth weren’t creepy enough, behold Australia’s Spider Crater.",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/earth/earth-observatory/an-impact-structure-with-legs/"
+    },
+    {
+      "title": "Live coverage: NASA, SpaceX to launch new solar arrays, 6,300 pounds of cargo to the space station",
+      "hot": "10/13",
+      "desc": "Liftoff of the Falcon 9 rocket from pad 40 at Cape Canaveral Space Force Station is scheduled for 6:33 a.m. EDT (1033 UTC) on Tuesday, Oct. 13. The Ca",
+      "source": "space",
+      "tag": "Spaceflight Now",
+      "url": "https://spaceflightnow.com/2026/10/13/live-coverage-nasa-spacex-to-launch-new-solar-arrays-6300-pounds-of-cargo-to-the-space-station/"
+    },
     {
       "title": "SpaceX Falcon 9 rocket to launch 27 Starlink satellites into orbit from California",
       "hot": "10/12",
@@ -351,20 +383,20 @@
       "url": "https://science.nasa.gov/missions/station/nasas-spacex-crs-35-mission-to-launch-health-research/"
     },
     {
-      "title": "Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission.",
-      "hot": "10/12",
-      "desc": "\nMDA Space, a global leader in communications satellites, Earth and space observation, space exploration and infrastructure, will utilize Jena-Optroni",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/jena-optronik-is-proud-to-partner-with-mda-space-for-its-first-astro-hp-mission/"
-    },
-    {
       "title": "Welcome home, Sophie Adenot",
       "hot": "10/12",
       "desc": "After 237 days and over 3,700 orbits around Earth aboard the International Space Station, Sophie Adenot is back on Earth!",
       "source": "space",
       "tag": "ESA",
       "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Welcome_home_Sophie_Adenot"
+    },
+    {
+      "title": "Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission.",
+      "hot": "10/12",
+      "desc": "\nMDA Space, a global leader in communications satellites, Earth and space observation, space exploration and infrastructure, will utilize Jena-Optroni",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/jena-optronik-is-proud-to-partner-with-mda-space-for-its-first-astro-hp-mission/"
     },
     {
       "title": "ExoMars rover twin rehearses first drive",
@@ -413,44 +445,12 @@
       "source": "space",
       "tag": "NASA",
       "url": "https://science.nasa.gov/image-article/apod-2026-october-12-jupiter-and-the-moons/"
-    },
-    {
-      "title": "Antarctic Sea Ice Grows to Its 2026 Maximum",
-      "hot": "10/12",
-      "desc": "The ice reached its third-lowest maximum extent since satellite observations began.",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/earth/earth-observatory/antarctic-sea-ice-grows-to-its-2026-maximum/"
-    },
-    {
-      "title": "Webb and Hubble observe stellar nurseries, galaxies, and gravitational lensing in new images",
-      "hot": "10/11",
-      "desc": "Teams using the James Webb Space Telescope and the Hubble Space Telescope — both jointly…\r\nThe post Webb and Hubble observe stellar nurseries, galaxie",
-      "source": "space",
-      "tag": "NASASpaceflight",
-      "url": "https://www.nasaspaceflight.com/2026/10/jwst-hubble-images-1026/"
-    },
-    {
-      "title": "What’s Happening in Space Policy October 11-17, 2026",
-      "hot": "10/11",
-      "desc": "Here is SpacePolicyOnline.com’s list of space policy events for the week of October 11-17, 2026 and any insight we can offer about them. The House and",
-      "source": "space",
-      "tag": "SpacePolicyOnline.com",
-      "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-11-17-2026/"
-    },
-    {
-      "title": "Blue Origin Advances LC-36 Rebuild for Year-End New Glenn Return to Flight",
-      "hot": "10/11",
-      "desc": "Four months after Blue Origin’s New Glenn rocket exploded on the launch pad, the company…\r\nThe post Blue Origin Advances LC-36 Rebuild for Year-End Ne",
-      "source": "space",
-      "tag": "NASASpaceflight",
-      "url": "https://www.nasaspaceflight.com/2026/10/blue-origin-lc-36-rebuild-new-glenn/"
     }
   ],
   "github": [
     {
       "title": "openai/math: ",
-      "hot": "⭐ 14.4k",
+      "hot": "⭐ 14.5k",
       "desc": "openai/math",
       "source": "github",
       "tag": "Lean",
@@ -458,7 +458,7 @@
     },
     {
       "title": "storytold/wordcraft: An open-source, clean-room reimplementation of Microsoft Wo",
-      "hot": "⭐ 9.2k",
+      "hot": "⭐ 9.8k",
       "desc": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
       "source": "github",
       "tag": "Rust",
@@ -466,7 +466,7 @@
     },
     {
       "title": "wheresryan22/anatomy: An agent skill for creating detailed, interactive isometri",
-      "hot": "⭐ 6.3k",
+      "hot": "⭐ 7.0k",
       "desc": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with opt",
       "source": "github",
       "tag": "JavaScript",
@@ -474,31 +474,31 @@
     },
     {
       "title": "storytold/gridcraft: GridCraft: an open-source, clean-room spreadsheet (Microsof",
-      "hot": "⭐ 3.8k",
+      "hot": "⭐ 4.0k",
       "desc": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
       "source": "github",
       "tag": "Rust",
       "url": "https://github.com/storytold/gridcraft"
     },
     {
-      "title": "alchaincyf/huashu-art-motion: 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
-      "hot": "⭐ 3.6k",
-      "desc": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/alchaincyf/huashu-art-motion"
-    },
-    {
       "title": "mhtsec/ARTEX: AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
-      "hot": "⭐ 3.6k",
+      "hot": "⭐ 3.7k",
       "desc": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
       "source": "github",
       "tag": "Go",
       "url": "https://github.com/mhtsec/ARTEX"
     },
     {
+      "title": "alchaincyf/huashu-art-motion: 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
+      "hot": "⭐ 3.7k",
+      "desc": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/alchaincyf/huashu-art-motion"
+    },
+    {
       "title": "storytold/cadcraft: CADCraft: computer-aided design and drafting — an open-sourc",
-      "hot": "⭐ 3.5k",
+      "hot": "⭐ 3.7k",
       "desc": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
       "source": "github",
       "tag": "Rust",
@@ -514,7 +514,7 @@
     },
     {
       "title": "LosaLosSantos/aurelio-finance: Open-source personal finance app with an AI finan",
-      "hot": "⭐ 2.9k",
+      "hot": "⭐ 3.0k",
       "desc": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
       "source": "github",
       "tag": "Python",
@@ -522,7 +522,7 @@
     },
     {
       "title": "nullmoth/nvidia-macos-driver: Metal driver for NVIDIA GeForce RTX cards on macOS",
-      "hot": "⭐ 2.7k",
+      "hot": "⭐ 2.8k",
       "desc": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
       "source": "github",
       "tag": "Rust",
@@ -530,7 +530,7 @@
     },
     {
       "title": "storytold/deckcraft: Presentations and slide shows: an open-source, clean-room r",
-      "hot": "⭐ 2.6k",
+      "hot": "⭐ 2.7k",
       "desc": "Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps.",
       "source": "github",
       "tag": "Rust",
@@ -561,12 +561,12 @@
       "url": "https://github.com/alejandrobujan/tendedero"
     },
     {
-      "title": "noahdunnagan/fsearch: Whole-disk file search for macOS: fuzzy names, typo tolera",
+      "title": "ARahim3/DigUp: Search your Mac by what's in your files: photos, PDFs, recordings",
       "hot": "⭐ 2.0k",
-      "desc": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
+      "desc": "Search your Mac by what's in your files: photos, PDFs, recordings, videos and code. On-device, built on Google DeepMind's EmbeddingGemma 2.",
       "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/noahdunnagan/fsearch"
+      "tag": "Swift",
+      "url": "https://github.com/ARahim3/DigUp"
     }
   ]
 }
