@@ -10,7 +10,7 @@
     },
     {
       "title": "Design for Churn",
-      "hot": "❤️ 32 💬 1",
+      "hot": "❤️ 32 💬 2",
       "desc": "The biggest design shift of the AI era isn’t about who writes the code. It’s about how long the code...",
       "source": "dev",
       "tag": "aie,  design",
@@ -18,7 +18,7 @@
     },
     {
       "title": "Building Better Agents through End-to-End Evals",
-      "hot": "❤️ 34 💬 3",
+      "hot": "❤️ 34 💬 5",
       "desc": "Deeply understand the task at hand   The biggest mistake teams make with agents is...",
       "source": "dev",
       "tag": "ai,  agents",
@@ -26,7 +26,7 @@
     },
     {
       "title": "Requests, Promises, Assertions, and Declarations: Rewriting Our AI Agent Workflow as a 1986 'Committed Speech' Machine",
-      "hot": "❤️ 11 💬 4",
+      "hot": "❤️ 11 💬 5",
       "desc": "Why do 200-line agent prompts, Asimov's Three Laws, and sequential pre-landing checklists all fail the same way? How Fer",
       "source": "dev",
       "tag": "ai,  programming",
@@ -34,7 +34,7 @@
     },
     {
       "title": "Memory Isn’t Learning: Why AI Agents Keep Making the Same Mistakes",
-      "hot": "❤️ 15 💬 2",
+      "hot": "❤️ 15 💬 4",
       "desc": "Have you ever told your AI agent something important, only to realize a few conversations later that...",
       "source": "dev",
       "tag": "ai,  agents",
@@ -42,7 +42,7 @@
     },
     {
       "title": "The Model Is the Easy Part",
-      "hot": "❤️ 19 💬 2",
+      "hot": "❤️ 19 💬 3",
       "desc": "We spent the past few months on a question that sounds simple: what does it actually take to move a...",
       "source": "dev",
       "tag": "ai,  llm",
@@ -57,6 +57,14 @@
       "url": "https://dev.to/dailycontext/your-financial-agent-passed-every-eval-can-you-defend-its-decision-1npg"
     },
     {
+      "title": "An Agent’s Plan Isn’t Permission",
+      "hot": "❤️ 21 💬 5",
+      "desc": "When a coding agent investigates a production bug, it might need to read a repository, query logs,...",
+      "source": "dev",
+      "tag": "ai,  agents",
+      "url": "https://dev.to/dailycontext/an-agents-plan-isnt-permission-5cf8"
+    },
+    {
       "title": "Are You Smarter Than a Fruit Fly?",
       "hot": "❤️ 18 💬 1",
       "desc": "Google mapped the complete male fruit fly brain, and my first question to an agent was “Can this run...",
@@ -65,16 +73,8 @@
       "url": "https://dev.to/dailycontext/are-you-smarter-than-a-fruit-fly-2c04"
     },
     {
-      "title": "An Agent’s Plan Isn’t Permission",
-      "hot": "❤️ 21 💬 4",
-      "desc": "When a coding agent investigates a production bug, it might need to read a repository, query logs,...",
-      "source": "dev",
-      "tag": "ai,  agents",
-      "url": "https://dev.to/dailycontext/an-agents-plan-isnt-permission-5cf8"
-    },
-    {
       "title": "💅 Keyboard Makeover",
-      "hot": "❤️ 61 💬 28",
+      "hot": "❤️ 62 💬 30",
       "desc": "I have had this interesting piece of psychedelic looking vinyl for some time. Today I finally found a...",
       "source": "dev",
       "tag": "mentalhealth,  craft",
@@ -105,6 +105,14 @@
       "url": "https://dev.to/gde/i-built-a-cozy-60-fps-ai-agent-bakery-game-to-teach-rag-guardrails-context-caching-multi-agent-2ek"
     },
     {
+      "title": "A Data Company in an AI World",
+      "hot": "❤️ 11 💬 1",
+      "desc": "Anekha Sokhal spent nearly a decade trading energy derivatives at JP Morgan, then came to the US on a...",
+      "source": "dev",
+      "tag": "ai,  finance",
+      "url": "https://dev.to/dailycontext/a-data-company-in-an-ai-world-5bf4"
+    },
+    {
       "title": "Nobody’s winning the AI race yet",
       "hot": "❤️ 16 💬 1",
       "desc": "By Ryan Swift  Yesterday, Google finally released its Gemini 4 Argon model for public use. It’s...",
@@ -129,14 +137,6 @@
       "url": "https://dev.to/dailycontext/beyond-the-prompt-box-how-bloomberg-is-architecting-the-era-of-multiplayer-ai-569a"
     },
     {
-      "title": "A Data Company in an AI World",
-      "hot": "❤️ 11 💬 1",
-      "desc": "Anekha Sokhal spent nearly a decade trading energy derivatives at JP Morgan, then came to the US on a...",
-      "source": "dev",
-      "tag": "ai,  finance",
-      "url": "https://dev.to/dailycontext/a-data-company-in-an-ai-world-5bf4"
-    },
-    {
       "title": "Inside the $30-a-Week Self-Improving Agents Eliminating Enterprise Back-Office Friction",
       "hot": "❤️ 12 💬 1",
       "desc": "In the high-stakes world of enterprise AI engineering, the default assumption is that reliability...",
@@ -145,21 +145,21 @@
       "url": "https://dev.to/dailycontext/inside-the-30-a-week-self-improving-agents-eliminating-enterprise-back-office-friction-c4p"
     },
     {
-      "title": "Operational intelligence is sociotechnical",
-      "hot": "❤️ 45 💬 1",
-      "desc": "A scan of the Slack channels for a recent private equity deployment of Clonal (our operational...",
-      "source": "dev",
-      "tag": "ai,  fintech",
-      "url": "https://dev.to/dailycontext/operational-intelligence-is-sociotechnical-1627"
-    },
-    {
       "title": "For Agents, Waiting is the Hardest Part",
       "hot": "❤️ 15 💬 4",
       "desc": "Many engineers rightfully view every step in a financial workflow as a potential point of failure,...",
       "source": "dev",
       "tag": "ai,  agents",
       "url": "https://dev.to/dailycontext/for-agents-waiting-is-the-hardest-part-30ik"
+    },
+    {
+      "title": "Operational intelligence is sociotechnical",
+      "hot": "❤️ 46 💬 1",
+      "desc": "A scan of the Slack channels for a recent private equity deployment of Clonal (our operational...",
+      "source": "dev",
+      "tag": "ai,  fintech",
+      "url": "https://dev.to/dailycontext/operational-intelligence-is-sociotechnical-1627"
     }
   ],
-  "updatedAt": "2026-10-14T21:57:53.274Z"
+  "updatedAt": "2026-10-15T00:14:15.262Z"
 }
