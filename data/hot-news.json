@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T02:07:07.308Z",
+  "updatedAt": "2026-10-16T07:21:06.499Z",
   "source": "live",
   "dev": [
     {
@@ -17,14 +17,6 @@
       "source": "dev",
       "tag": "ai,  llm",
       "url": "https://dev.to/dailycontext/the-model-is-the-easy-part-19gh"
-    },
-    {
-      "title": "Gemma 4 on a Used 8 GB RTX 3050: 116 Tokens/s for One User, 618 for 64",
-      "hot": "❤️ 9 💬 2",
-      "desc": "Gemma 4 E2B and E4B on a used RTX 3050 OEM in an old desktop, step by step: single-user speed, the full 131k context, co",
-      "source": "dev",
-      "tag": "gemma,  llamacpp",
-      "url": "https://dev.to/gde/gemma-4-on-a-used-8-gb-rtx-3050-116-tokenss-for-one-user-618-for-64-k6h"
     },
     {
       "title": "Local image generation with llamadart for the Llama Village storybook",
@@ -59,14 +51,6 @@
       "url": "https://dev.to/dailycontext/are-you-smarter-than-a-fruit-fly-2c04"
     },
     {
-      "title": "DuckLess: serverless DuckDB on Google Cloud, in your own project",
-      "hot": "❤️ 8 💬 0",
-      "desc": "Serverless DuckDB on Google Cloud, in your own project. Files on GCS, tables in BigQuery (read and write), what I measur",
-      "source": "dev",
-      "tag": "duckdb,  googlecloud",
-      "url": "https://dev.to/gde/duckless-serverless-duckdb-on-google-cloud-in-your-own-project-4o5a"
-    },
-    {
       "title": "Requests, Promises, Assertions, and Declarations: Rewriting Our AI Agent Workflow as a 1986 'Committed Speech' Machine",
       "hot": "❤️ 20 💬 17",
       "desc": "Why do 200-line agent prompts, Asimov's Three Laws, and sequential pre-landing checklists all fail the same way? How Fer",
@@ -99,6 +83,14 @@
       "url": "https://dev.to/dailycontext/design-for-churn-5c6h"
     },
     {
+      "title": "DuckLess: serverless DuckDB on Google Cloud, in your own project",
+      "hot": "❤️ 10 💬 1",
+      "desc": "Serverless DuckDB on Google Cloud, in your own project. Files on GCS, tables in BigQuery (read and write), what I measur",
+      "source": "dev",
+      "tag": "duckdb,  googlecloud",
+      "url": "https://dev.to/gde/duckless-serverless-duckdb-on-google-cloud-in-your-own-project-4o5a"
+    },
+    {
       "title": "Beyond the Prompt Box: How Bloomberg is Architecting the Era of “Multiplayer AI”",
       "hot": "❤️ 27 💬 2",
       "desc": "For financial technology institutions operating at enterprise scale, the initial wave of Generative...",
@@ -113,14 +105,6 @@
       "source": "dev",
       "tag": "ai,  gemini",
       "url": "https://dev.to/dailycontext/nobodys-winning-the-ai-race-yet-24h4"
-    },
-    {
-      "title": "A Data Company in an AI World",
-      "hot": "❤️ 13 💬 1",
-      "desc": "Anekha Sokhal spent nearly a decade trading energy derivatives at JP Morgan, then came to the US on a...",
-      "source": "dev",
-      "tag": "ai,  finance",
-      "url": "https://dev.to/dailycontext/a-data-company-in-an-ai-world-5bf4"
     },
     {
       "title": "What a 48-Hour Hackathon Can Do for LLM Reliability",
@@ -161,6 +145,22 @@
       "source": "dev",
       "tag": "googlecloud,  ai",
       "url": "https://dev.to/gde/six-months-after-cloud-next-26-a-builders-tour-of-the-gemini-enterprise-agent-platform-3hib"
+    },
+    {
+      "title": "AlphaEvolve and Gemini: Autonomous Algorithm Discovery for Unified Disaster Prediction",
+      "hot": "❤️ 18 💬 0",
+      "desc": "📄 Published Paper (Open Access on Zenodo): Autonomous Discovery of Unified Multi-Hazard Prediction...",
+      "source": "dev",
+      "tag": "ai,  gemini",
+      "url": "https://dev.to/gde/alphaevolve-and-gemini-autonomous-algorithm-discovery-for-unified-disaster-prediction-20f4"
+    },
+    {
+      "title": "LangChainJS and Gemini 4 Argon: What's here and what's coming?",
+      "hot": "❤️ 21 💬 0",
+      "desc": "Google has released the latest version in the Gemini family, Gemini 4 Argon, and I was fortunate...",
+      "source": "dev",
+      "tag": "ai,  gemini",
+      "url": "https://dev.to/gde/langchainjs-and-gemini-4-argon-whats-here-and-whats-coming-2kod"
     }
   ],
   "tech": [
@@ -169,285 +169,187 @@
       "hot": "3.0m",
       "desc": "research.meta.ai",
       "source": "tech",
-      "tag": "⬆️ 626 points",
+      "tag": "⬆️ 767 points",
       "url": "https://research.meta.ai/blog/muse-spark-open"
+    },
+    {
+      "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
+      "hot": "3.0m",
+      "desc": "niemanlab.org",
+      "source": "tech",
+      "tag": "⬆️ 202 points",
+      "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/"
+    },
+    {
+      "title": "'500-hour' Order of the Sinking Star is as complex and exhausting as it sounds",
+      "hot": "3.0m",
+      "desc": "polygon.com",
+      "source": "tech",
+      "tag": "⬆️ 103 points",
+      "url": "https://www.polygon.com/order-of-the-sinking-star-impressions/"
     },
     {
       "title": "RPKI now protects 70% of internet routes",
       "hot": "3.0m",
       "desc": "ipinfo.io",
       "source": "tech",
-      "tag": "⬆️ 36 points",
+      "tag": "⬆️ 120 points",
       "url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes"
     },
     {
-      "title": "What I Self-Host",
-      "hot": "3.0m",
-      "desc": "viceconsole.fyi",
-      "source": "tech",
-      "tag": "⬆️ 275 points",
-      "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/"
-    },
-    {
       "title": "Neural networks are clean",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "already-clean.goodfire.com",
       "source": "tech",
-      "tag": "⬆️ 510 points",
+      "tag": "⬆️ 636 points",
       "url": "https://already-clean.goodfire.com/"
     },
     {
-      "title": "Business accounts will consent to Meta scraping their websites Starting Oct. 30",
+      "title": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
       "hot": "2.9m",
-      "desc": "niemanlab.org",
+      "desc": "youtube.com",
       "source": "tech",
-      "tag": "⬆️ 35 points",
-      "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/"
+      "tag": "⬆️ 154 points",
+      "url": "https://www.youtube.com/watch?v=sjNpfz4UzqU"
     },
     {
-      "title": "Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat",
+      "title": "What I self-host",
       "hot": "2.9m",
-      "desc": "pcmag.com",
+      "desc": "viceconsole.fyi",
       "source": "tech",
-      "tag": "⬆️ 50 points",
-      "url": "https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge"
+      "tag": "⬆️ 426 points",
+      "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/"
     },
     {
-      "title": "Tesla Roadster",
+      "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
       "hot": "2.9m",
-      "desc": "tesla.com",
+      "desc": "support.withings.com",
       "source": "tech",
-      "tag": "⬆️ 123 points",
-      "url": "https://www.tesla.com/roadster"
+      "tag": "⬆️ 252 points",
+      "url": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts"
     },
     {
       "title": "Wayland desktop for Linux with skeuomorphic design",
       "hot": "2.9m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 512 points",
+      "tag": "⬆️ 583 points",
       "url": "https://github.com/fyzugx/DEsk"
     },
     {
-      "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
+      "title": "BIPM decides to stop adding leap seconds to UTC",
       "hot": "2.9m",
-      "desc": "thereallo.dev",
+      "desc": "bipm.org",
       "source": "tech",
-      "tag": "⬆️ 238 points",
-      "url": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup"
+      "tag": "⬆️ 156 points",
+      "url": "https://www.bipm.org/en/cgpm-2026/resolution-5"
     },
     {
       "title": "Jev meets the Trolley Problem",
       "hot": "2.9m",
       "desc": "zachlandes.com",
       "source": "tech",
-      "tag": "⬆️ 313 points",
+      "tag": "⬆️ 424 points",
       "url": "https://zachlandes.com/trolley-problem/"
     },
     {
-      "title": "BeBox is a Haiku application that emulates Be Inc.'s BeBox",
-      "hot": "2.9m",
+      "title": "Any window from your Mac, on your iPhone and iPad",
+      "hot": "2.8m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 26 points",
-      "url": "https://github.com/johnrash/bebox"
+      "tag": "⬆️ 127 points",
+      "url": "https://github.com/Saffsanity/sill"
     },
     {
-      "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
+      "title": "Last rites for Gentoo's Chromium package",
       "hot": "2.8m",
-      "desc": "citizenlab.ca",
+      "desc": "lwn.net",
       "source": "tech",
-      "tag": "⬆️ 396 points",
-      "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/"
+      "tag": "⬆️ 7 points",
+      "url": "https://lwn.net/Articles/1097760/"
+    },
+    {
+      "title": "Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat",
+      "hot": "2.8m",
+      "desc": "pcmag.com",
+      "source": "tech",
+      "tag": "⬆️ 117 points",
+      "url": "https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge"
+    },
+    {
+      "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
+      "hot": "2.8m",
+      "desc": "thereallo.dev",
+      "source": "tech",
+      "tag": "⬆️ 313 points",
+      "url": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup"
+    },
+    {
+      "title": "Comparing Chromium Development at Google and Igalia",
+      "hot": "2.8m",
+      "desc": "lwn.net",
+      "source": "tech",
+      "tag": "⬆️ 37 points",
+      "url": "https://lwn.net/Articles/1094721/"
     },
     {
       "title": "Krea 3 – An image model built for editing at scale",
       "hot": "2.8m",
       "desc": "krea.ai",
       "source": "tech",
-      "tag": "⬆️ 254 points",
+      "tag": "⬆️ 291 points",
       "url": "https://www.krea.ai/krea-3"
     },
     {
-      "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
-      "hot": "2.8m",
-      "desc": "support.withings.com",
-      "source": "tech",
-      "tag": "⬆️ 165 points",
-      "url": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts"
-    },
-    {
       "title": "Celebrating 70 Years of Fortran",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "fortran-lang.org",
       "source": "tech",
-      "tag": "⬆️ 219 points",
+      "tag": "⬆️ 258 points",
       "url": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/"
     },
     {
-      "title": "Major ICQ security hole (1998)",
-      "hot": "2.8m",
-      "desc": "opennet.ru",
-      "source": "tech",
-      "tag": "⬆️ 43 points",
-      "url": "https://opennet.ru/base/maillist/169.txt.html"
-    },
-    {
-      "title": "Why I Wrote PGP (1991, revised 1999)",
-      "hot": "2.8m",
-      "desc": "philzimmermann.com",
-      "source": "tech",
-      "tag": "⬆️ 113 points",
-      "url": "https://philzimmermann.com/EN/essays/WhyIWrotePGP.html"
-    },
-    {
-      "title": "E Ink Kaleido 4",
+      "title": "BeBox is a Haiku application that emulates Be Inc.'s BeBox",
       "hot": "2.7m",
-      "desc": "eink.com",
+      "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 132 points",
-      "url": "https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4"
+      "tag": "⬆️ 51 points",
+      "url": "https://github.com/johnrash/bebox"
     },
     {
-      "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
+      "title": "New York City's iconic horse-drawn carriages expected to take their last trot",
       "hot": "2.7m",
-      "desc": "libreboot.org",
+      "desc": "cnn.com",
       "source": "tech",
-      "tag": "⬆️ 253 points",
-      "url": "https://libreboot.org/news/libreboot2610.html"
-    },
-    {
-      "title": "Delta’s Biscoff cookies were supposed to be temporary",
-      "hot": "2.7m",
-      "desc": "seriouseats.com",
-      "source": "tech",
-      "tag": "⬆️ 183 points",
-      "url": "https://www.seriouseats.com/biscoff-history-12168161"
-    }
-  ],
-  "github": [
-    {
-      "title": "jhaizhou-ops/d2r-mobile: Open-source iOS / macOS compatibility layer for Diablo ",
-      "hot": "⭐ 3.2k",
-      "desc": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on ",
-      "source": "github",
-      "tag": "C",
-      "url": "https://github.com/jhaizhou-ops/d2r-mobile"
-    },
-    {
-      "title": "storytold/craft-launcher: The Craft App Launcher",
-      "hot": "⭐ 2.9k",
-      "desc": "The Craft App Launcher",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/storytold/craft-launcher"
-    },
-    {
-      "title": "onehumanbeing/esp32-iphone-agent: Let an AI model use a real iPhone with a $7 ES",
-      "hot": "⭐ 2.5k",
-      "desc": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no j",
-      "source": "github",
-      "tag": "C",
-      "url": "https://github.com/onehumanbeing/esp32-iphone-agent"
-    },
-    {
-      "title": "liseami/CCBaga: ",
-      "hot": "⭐ 2.3k",
-      "desc": "liseami/CCBaga",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/liseami/CCBaga"
-    },
-    {
-      "title": "Arekejoker/qwen21-nsfw-pose-skill: Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSF",
-      "hot": "⭐ 2.1k",
-      "desc": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill"
-    },
-    {
-      "title": "storytold/figcraft: FigCraft: interface design and prototyping; an open-source, ",
-      "hot": "⭐ 1.4k",
-      "desc": "FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/storytold/figcraft"
-    },
-    {
-      "title": "HeyPuter/everything: We're rebuilding and open-sourcing the world’s software fro",
-      "hot": "⭐ 1.3k",
-      "desc": "We're rebuilding and open-sourcing the world’s software from scratch.",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/HeyPuter/everything"
-    },
-    {
-      "title": "shaongitbd/doory: Open source canva alternative",
-      "hot": "⭐ 1.3k",
-      "desc": "Open source canva alternative",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/shaongitbd/doory"
-    },
-    {
-      "title": "opengeos/RustGIS: A fast, free and open-source GIS in pure Rust.",
-      "hot": "⭐ 1.2k",
-      "desc": "A fast, free and open-source GIS in pure Rust.",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/opengeos/RustGIS"
-    },
-    {
-      "title": "ahwootech/BRUTAL: A free, open source C# framework for making games, or your own",
-      "hot": "⭐ 1.2k",
-      "desc": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries arou",
-      "source": "github",
-      "tag": "C#",
-      "url": "https://github.com/ahwootech/BRUTAL"
-    },
-    {
-      "title": "rociiu/talorys: Your personal AI agent in your own Cloudflare account. Chat, mem",
-      "hot": "⭐ 1.2k",
-      "desc": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talor",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/rociiu/talorys"
-    },
-    {
-      "title": "chenglou/handwired: Turn your regular JavaScript code into a neural net.",
-      "hot": "⭐ 1.1k",
-      "desc": "Turn your regular JavaScript code into a neural net.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/chenglou/handwired"
-    },
-    {
-      "title": "marclou/mailcheap: Newsletters where you pay for the emails you send, not for do",
-      "hot": "⭐ 1.1k",
-      "desc": "Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/marclou/mailcheap"
-    },
-    {
-      "title": "zhuyansen/new-term-radar: Daily radar for new AI terms: names of new models, pro",
-      "hot": "⭐ 1.0k",
-      "desc": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/zhuyansen/new-term-radar"
-    },
-    {
-      "title": "deeplethe/solid-glass: A design system for AI applications. Material, physical, ",
-      "hot": "⭐ 1.0k",
-      "desc": "A design system for AI applications. Material, physical, tactile, technical.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/deeplethe/solid-glass"
+      "tag": "⬆️ 5 points",
+      "url": "https://www.cnn.com/2026/10/13/us/nyc-horse-carriage-ban"
     }
   ],
   "space": [
+    {
+      "title": "APOD: 2026 October 16 – Chasing the International Space Station",
+      "hot": "10/16",
+      "desc": "APOD Science APOD APOD: 2026 October 16 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-16-chasing-the-international-space-station/"
+    },
+    {
+      "title": "Isaias Dims the Gulf Coast",
+      "hot": "10/16",
+      "desc": "High-definition images of nighttime lights show where the hurricane knocked out power along the Florida Panhandle and how quickly the lights came back",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/earth/earth-observatory/isaias-dims-the-gulf-coast/"
+    },
+    {
+      "title": "Carbon Fibre Troubles Force Rocket Lab to Delay Neutron Debut to No Earlier Than 2027",
+      "hot": "10/16",
+      "desc": "Rocket Lab has delayed its Neutron launch vehicle once again after carbon fibre manufacturing problems…\nThe post Carbon Fibre Troubles Force Rocket La",
+      "source": "space",
+      "tag": "NASASpaceflight",
+      "url": "https://www.nasaspaceflight.com/2026/10/carbon-fibre-force-rocket-lab-delay-neutron-debut/"
+    },
     {
       "title": "JAXA’S MMX Mars Mission Readies for Launch with Two NASA Instruments",
       "hot": "10/16",
@@ -543,30 +445,128 @@
       "source": "space",
       "tag": "NASA",
       "url": "https://www.nasa.gov/image-article/chandra-finds-possible-origin-of-treble-clef-waves/"
+    }
+  ],
+  "github": [
+    {
+      "title": "jhaizhou-ops/d2r-mobile: Open-source iOS / macOS compatibility layer for Diablo ",
+      "hot": "⭐ 3.3k",
+      "desc": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on ",
+      "source": "github",
+      "tag": "C",
+      "url": "https://github.com/jhaizhou-ops/d2r-mobile"
     },
     {
-      "title": "Agile Space Industries Expands to Seattle Area with New Bellevue Office",
-      "hot": "10/15",
-      "desc": "\nBELLEVUE, Wash., Oct. 15, 2026 — Agile Space Industries, a leading provider of in-space chemical propulsion solutions, has expanded into the Seattle ",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/agile-space-industries-expands-to-seattle-area-with-new-bellevue-office/"
+      "title": "storytold/craft-launcher: The Craft App Launcher",
+      "hot": "⭐ 2.9k",
+      "desc": "The Craft App Launcher",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/storytold/craft-launcher"
     },
     {
-      "title": "Arianespace Targets 23 Nov Ariane 6 Return Following Reported Turbopump Fix",
-      "hot": "10/15",
-      "desc": "Arianespace has announced that the next Ariane 6 launch will take place no earlier than 23 November, marking the rocket’s return to flight after groun",
-      "source": "space",
-      "tag": "European Spaceflight",
-      "url": "https://europeanspaceflight.com/arianespace-targets-23-nov-ariane-6-return-following-reported-turbopump-fix/"
+      "title": "onehumanbeing/esp32-iphone-agent: Let an AI model use a real iPhone with a $7 ES",
+      "hot": "⭐ 2.7k",
+      "desc": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no j",
+      "source": "github",
+      "tag": "C",
+      "url": "https://github.com/onehumanbeing/esp32-iphone-agent"
     },
     {
-      "title": "Trace Gas Orbiter — Facts and figures",
-      "hot": "10/15",
-      "desc": "From the ESA Blogs.",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Trace_Gas_Orbiter_Facts_and_figures"
+      "title": "liseami/CCBaga: ",
+      "hot": "⭐ 2.4k",
+      "desc": "liseami/CCBaga",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/liseami/CCBaga"
+    },
+    {
+      "title": "Arekejoker/qwen21-nsfw-pose-skill: Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSF",
+      "hot": "⭐ 2.2k",
+      "desc": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill"
+    },
+    {
+      "title": "storytold/figcraft: FigCraft: interface design and prototyping; an open-source, ",
+      "hot": "⭐ 1.5k",
+      "desc": "FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/storytold/figcraft"
+    },
+    {
+      "title": "HeyPuter/everything: We're rebuilding and open-sourcing the world’s software fro",
+      "hot": "⭐ 1.4k",
+      "desc": "We're rebuilding and open-sourcing the world’s software from scratch.",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/HeyPuter/everything"
+    },
+    {
+      "title": "shaongitbd/doory: Open source canva alternative",
+      "hot": "⭐ 1.4k",
+      "desc": "Open source canva alternative",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/shaongitbd/doory"
+    },
+    {
+      "title": "ahwootech/BRUTAL: A free, open source C# framework for making games, or your own",
+      "hot": "⭐ 1.3k",
+      "desc": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries arou",
+      "source": "github",
+      "tag": "C#",
+      "url": "https://github.com/ahwootech/BRUTAL"
+    },
+    {
+      "title": "opengeos/RustGIS: A fast, free and open-source GIS in pure Rust.",
+      "hot": "⭐ 1.3k",
+      "desc": "A fast, free and open-source GIS in pure Rust.",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/opengeos/RustGIS"
+    },
+    {
+      "title": "chenglou/handwired: Turn your regular JavaScript code into a neural net.",
+      "hot": "⭐ 1.2k",
+      "desc": "Turn your regular JavaScript code into a neural net.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/chenglou/handwired"
+    },
+    {
+      "title": "rociiu/talorys: Your personal AI agent in your own Cloudflare account. Chat, mem",
+      "hot": "⭐ 1.2k",
+      "desc": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talor",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/rociiu/talorys"
+    },
+    {
+      "title": "deeplethe/solid-glass: A design system for AI applications. Material, physical, ",
+      "hot": "⭐ 1.2k",
+      "desc": "A design system for AI applications. Material, physical, tactile, technical.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/deeplethe/solid-glass"
+    },
+    {
+      "title": "marclou/mailcheap: Newsletters where you pay for the emails you send, not for do",
+      "hot": "⭐ 1.1k",
+      "desc": "Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/marclou/mailcheap"
+    },
+    {
+      "title": "zhuyansen/new-term-radar: Daily radar for new AI terms: names of new models, pro",
+      "hot": "⭐ 1.0k",
+      "desc": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/zhuyansen/new-term-radar"
     }
   ]
 }
