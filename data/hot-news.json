@@ -1,22 +1,14 @@
 {
-  "updatedAt": "2026-10-16T19:59:26.954Z",
+  "updatedAt": "2026-10-16T22:31:19.672Z",
   "source": "live",
   "dev": [
     {
       "title": "Dev Opportunity Radar #21: $500K Y Combinator Funding, Bolt Builders Week, and AI Safety Research Residency",
-      "hot": "❤️ 29 💬 3",
+      "hot": "❤️ 37 💬 5",
       "desc": "TL;DR  Welcome back to Dev Opportunity Radar!  This is a weekly series where I share opportunities,...",
       "source": "dev",
       "tag": "discuss,  community",
       "url": "https://dev.to/devengers/dev-opportunity-radar-21-500k-y-combinator-funding-bolt-builders-week-and-ai-safety-research-12b8"
-    },
-    {
-      "title": "What was your win this week?!",
-      "hot": "❤️ 6 💬 10",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "weeklyretro",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-36am"
     },
     {
       "title": "How I Feel about the Grace Hopper Celebration Getting Cancelled",
@@ -25,6 +17,14 @@
       "source": "dev",
       "tag": "wecoded,  news",
       "url": "https://dev.to/jess/how-i-feel-about-the-grace-hopper-celebration-getting-cancelled-3l2k"
+    },
+    {
+      "title": "What was your win this week?!",
+      "hot": "❤️ 7 💬 12",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-36am"
     },
     {
       "title": "Don't Assume Your Cloud T4 Runs at Spec: Gemma 4 Decode Falls 7% as the Card Warms",
@@ -44,7 +44,7 @@
     },
     {
       "title": "Congrats to the Hacktoberfest Open-Source AI Challenge: Touch Grass Winners!",
-      "hot": "❤️ 26 💬 13",
+      "hot": "❤️ 26 💬 14",
       "desc": "We are so excited to announce the winners of the Hacktoberfest Open-Source AI Challenge: Touch...",
       "source": "dev",
       "tag": "devchallenge,  hf26challenge",
@@ -52,7 +52,7 @@
     },
     {
       "title": "Building Production-Ready Open-Weights AI Agents with Gemma, Google ADK, and Cloud Run GPUs",
-      "hot": "❤️ 8 💬 0",
+      "hot": "❤️ 8 💬 1",
       "desc": "How I designed, connected, scaled, governed, evaluated, and QLoRA fine-tuned an enterprise SecOps & FinOps agent on Goog",
       "source": "dev",
       "tag": "googlecloud,  ai",
@@ -163,169 +163,15 @@
       "url": "https://dev.to/gde/gemini-4-under-the-microscope-red-teaming-ai-agents-and-deterministic-dual-port-remote-control-4567"
     }
   ],
-  "tech": [
-    {
-      "title": "Tesla Roadster",
-      "hot": "3.0m",
-      "desc": "tesla.com",
-      "source": "tech",
-      "tag": "⬆️ 718 points",
-      "url": "https://www.tesla.com/roadster"
-    },
-    {
-      "title": "Claude reveals ECDSA curve origins",
-      "hot": "3.0m",
-      "desc": "anthropic.com",
-      "source": "tech",
-      "tag": "⬆️ 220 points",
-      "url": "https://www.anthropic.com/research/ecdsa-curve-origins"
-    },
-    {
-      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-      "hot": "3.0m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 56 points",
-      "url": "https://github.com/cobanov/PS5LM"
-    },
-    {
-      "title": "JPEG XL vs. AVIF for web use-cases",
-      "hot": "3.0m",
-      "desc": "jakearchibald.com",
-      "source": "tech",
-      "tag": "⬆️ 126 points",
-      "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/"
-    },
-    {
-      "title": "Waymo in Toronto",
-      "hot": "2.9m",
-      "desc": "waymo.com",
-      "source": "tech",
-      "tag": "⬆️ 137 points",
-      "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/"
-    },
-    {
-      "title": "The Fatal Flaw of 911",
-      "hot": "2.9m",
-      "desc": "themarshallproject.org",
-      "source": "tech",
-      "tag": "⬆️ 10 points",
-      "url": "https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health"
-    },
-    {
-      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-      "hot": "2.9m",
-      "desc": "mercor.com",
-      "source": "tech",
-      "tag": "⬆️ 248 points",
-      "url": "https://www.mercor.com/research/labor-index/benchmark-map/"
-    },
-    {
-      "title": "Designing more efficient quantum circuits with Claude",
-      "hot": "2.9m",
-      "desc": "anthropic.com",
-      "source": "tech",
-      "tag": "⬆️ 40 points",
-      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits"
-    },
-    {
-      "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
-      "hot": "2.9m",
-      "desc": "machinelearning.apple.com",
-      "source": "tech",
-      "tag": "⬆️ 211 points",
-      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference"
-    },
-    {
-      "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
-      "hot": "2.9m",
-      "desc": "arrl.org",
-      "source": "tech",
-      "tag": "⬆️ 85 points",
-      "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear"
-    },
-    {
-      "title": "/dev/null: social network for developers",
-      "hot": "2.9m",
-      "desc": "dev-null.sh",
-      "source": "tech",
-      "tag": "⬆️ 57 points",
-      "url": "https://dev-null.sh"
-    },
-    {
-      "title": "Piramidal (YC W24) Is Hiring",
-      "hot": "2.8m",
-      "desc": "job-boards.greenhouse.io",
-      "source": "tech",
-      "tag": "⬆️ 1 points",
-      "url": "https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009"
-    },
-    {
-      "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
-      "hot": "2.8m",
-      "desc": "calif.io",
-      "source": "tech",
-      "tag": "⬆️ 138 points",
-      "url": "https://calif.io/research/big-fish"
-    },
-    {
-      "title": "Show HN: Gemini 4 Argon plays StarCraft",
-      "hot": "2.8m",
-      "desc": "starskirmish.com",
-      "source": "tech",
-      "tag": "⬆️ 148 points",
-      "url": "https://starskirmish.com/bench/v0-2/"
-    },
-    {
-      "title": "C++26: The New Debugging Header",
-      "hot": "2.8m",
-      "desc": "sandordargo.com",
-      "source": "tech",
-      "tag": "⬆️ 10 points",
-      "url": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging"
-    },
-    {
-      "title": "What on Earth Is Dekton?",
-      "hot": "2.8m",
-      "desc": "worksinprogress.news",
-      "source": "tech",
-      "tag": "⬆️ 103 points",
-      "url": "https://www.worksinprogress.news/p/porcelain"
-    },
-    {
-      "title": "Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",
-      "hot": "2.8m",
-      "desc": "cbsnews.com",
-      "source": "tech",
-      "tag": "⬆️ 83 points",
-      "url": "https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/"
-    },
-    {
-      "title": "Anthropic assigned highest junk credit rating in June",
-      "hot": "2.7m",
-      "desc": "ft.com",
-      "source": "tech",
-      "tag": "⬆️ 85 points",
-      "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d"
-    },
-    {
-      "title": "I Love Software Rendering",
-      "hot": "2.7m",
-      "desc": "jamesfmackenzie.com",
-      "source": "tech",
-      "tag": "⬆️ 254 points",
-      "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/"
-    },
-    {
-      "title": "How the Claude Code team does code review",
-      "hot": "2.7m",
-      "desc": "claude.dev",
-      "source": "tech",
-      "tag": "⬆️ 46 points",
-      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/"
-    }
-  ],
   "space": [
+    {
+      "title": "NASA Names Stephen Cash Marshall Space Flight Center Director",
+      "hot": "10/16",
+      "desc": "NASA Administrator Jared Isaacman has named Stephen Cash director of the agency’s Marshall Space Flight Center in Huntsville, Alabama, effective Monda",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/"
+    },
     {
       "title": "Artemis II Heat Shield After Splashdown",
       "hot": "10/16",
@@ -437,14 +283,6 @@
       "source": "space",
       "tag": "Spaceflight Now",
       "url": "https://spaceflightnow.com/2026/10/15/live-coverage-spacex-to-launch-classified-payload-for-u-s-space-force/"
-    },
-    {
-      "title": "NASA Satellites Observe Historic 2026 El Niño",
-      "hot": "10/15",
-      "desc": "A phenomenon rarer than a solar eclipse and more powerful than any single storm system is unfolding this fall, and NASA is tracking it closely. El Niñ",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/earth/nasa-satellites-observe-historic-2026-el-nino/"
     }
   ],
   "github": [
@@ -490,7 +328,7 @@
     },
     {
       "title": "storytold/figcraft: FigCraft: interface design and prototyping; an open-source, ",
-      "hot": "⭐ 1.9k",
+      "hot": "⭐ 2.0k",
       "desc": "FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust",
       "source": "github",
       "tag": "Rust",
@@ -505,20 +343,20 @@
       "url": "https://github.com/HeyPuter/everything"
     },
     {
-      "title": "chenglou/handwired: Turn your regular JavaScript code into a neural net.",
-      "hot": "⭐ 1.5k",
-      "desc": "Turn your regular JavaScript code into a neural net.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/chenglou/handwired"
-    },
-    {
       "title": "ahwootech/BRUTAL: A free, open source C# framework for making games, or your own",
       "hot": "⭐ 1.5k",
       "desc": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries arou",
       "source": "github",
       "tag": "C#",
       "url": "https://github.com/ahwootech/BRUTAL"
+    },
+    {
+      "title": "chenglou/handwired: Turn your regular JavaScript code into a neural net.",
+      "hot": "⭐ 1.5k",
+      "desc": "Turn your regular JavaScript code into a neural net.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/chenglou/handwired"
     },
     {
       "title": "shaongitbd/doory: Open source canva alternative",
@@ -546,7 +384,7 @@
     },
     {
       "title": "rociiu/talorys: Your personal AI agent in your own Cloudflare account. Chat, mem",
-      "hot": "⭐ 1.2k",
+      "hot": "⭐ 1.3k",
       "desc": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talor",
       "source": "github",
       "tag": "TypeScript",
@@ -567,6 +405,168 @@
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/zhuyansen/new-term-radar"
+    }
+  ],
+  "tech": [
+    {
+      "title": "Tesla Roadster",
+      "hot": "3.0m",
+      "desc": "tesla.com",
+      "source": "tech",
+      "tag": "⬆️ 1010 points",
+      "url": "https://www.tesla.com/roadster"
+    },
+    {
+      "title": "Claude reveals ECDSA curve origins",
+      "hot": "3.0m",
+      "desc": "anthropic.com",
+      "source": "tech",
+      "tag": "⬆️ 515 points",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins"
+    },
+    {
+      "title": "FLUX 3 Image Klein",
+      "hot": "3.0m",
+      "desc": "bfl.ai",
+      "source": "tech",
+      "tag": "⬆️ 70 points",
+      "url": "https://bfl.ai/blog/flux-3-image-klein"
+    },
+    {
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "hot": "3.0m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 134 points",
+      "url": "https://github.com/cobanov/PS5LM"
+    },
+    {
+      "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+      "hot": "2.9m",
+      "desc": "arrl.org",
+      "source": "tech",
+      "tag": "⬆️ 126 points",
+      "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear"
+    },
+    {
+      "title": "Waymo in Toronto",
+      "hot": "2.9m",
+      "desc": "waymo.com",
+      "source": "tech",
+      "tag": "⬆️ 219 points",
+      "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/"
+    },
+    {
+      "title": "Wireless magnetic millirobots that deliver medicine inside the beating heart",
+      "hot": "2.9m",
+      "desc": "hub.jhu.edu",
+      "source": "tech",
+      "tag": "⬆️ 35 points",
+      "url": "https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/"
+    },
+    {
+      "title": "Designing more efficient quantum circuits with Claude",
+      "hot": "2.9m",
+      "desc": "anthropic.com",
+      "source": "tech",
+      "tag": "⬆️ 75 points",
+      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits"
+    },
+    {
+      "title": "C++26: The New Debugging Header",
+      "hot": "2.9m",
+      "desc": "sandordargo.com",
+      "source": "tech",
+      "tag": "⬆️ 40 points",
+      "url": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging"
+    },
+    {
+      "title": "How the Claude Code team does code review",
+      "hot": "2.9m",
+      "desc": "claude.dev",
+      "source": "tech",
+      "tag": "⬆️ 160 points",
+      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/"
+    },
+    {
+      "title": "You could have invented transformers from memory",
+      "hot": "2.9m",
+      "desc": "alexwang.ai",
+      "source": "tech",
+      "tag": "⬆️ 61 points",
+      "url": "https://alexwang.ai/posts/associative-memory/"
+    },
+    {
+      "title": "JPEG XL vs. AVIF for web use-cases",
+      "hot": "2.8m",
+      "desc": "jakearchibald.com",
+      "source": "tech",
+      "tag": "⬆️ 169 points",
+      "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/"
+    },
+    {
+      "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+      "hot": "2.8m",
+      "desc": "machinelearning.apple.com",
+      "source": "tech",
+      "tag": "⬆️ 241 points",
+      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference"
+    },
+    {
+      "title": "I never authorized an integration that scans my secrets",
+      "hot": "2.8m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 115 points",
+      "url": "https://github.com/home-assistant/home-assistant.io/issues/49314"
+    },
+    {
+      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "hot": "2.8m",
+      "desc": "mercor.com",
+      "source": "tech",
+      "tag": "⬆️ 339 points",
+      "url": "https://www.mercor.com/research/labor-index/benchmark-map/"
+    },
+    {
+      "title": "Monte-Carlo Simulations",
+      "hot": "2.8m",
+      "desc": "eli.thegreenplace.net",
+      "source": "tech",
+      "tag": "⬆️ 43 points",
+      "url": "https://eli.thegreenplace.net/2026/monte-carlo-simulations/"
+    },
+    {
+      "title": "Piramidal (YC W24) Is Hiring",
+      "hot": "2.8m",
+      "desc": "job-boards.greenhouse.io",
+      "source": "tech",
+      "tag": "⬆️ 1 points",
+      "url": "https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009"
+    },
+    {
+      "title": "PGO or not PGO this is the dilemma. Step 2",
+      "hot": "2.7m",
+      "desc": "percona.com",
+      "source": "tech",
+      "tag": "⬆️ 8 points",
+      "url": "https://www.percona.com/blog/pgo-or-not-pgo-this-is-the-dilemma-step-2/"
+    },
+    {
+      "title": "/dev/null: social network for developers",
+      "hot": "2.7m",
+      "desc": "dev-null.sh",
+      "source": "tech",
+      "tag": "⬆️ 101 points",
+      "url": "https://dev-null.sh"
+    },
+    {
+      "title": "Show HN: Gemini 4 Argon plays StarCraft",
+      "hot": "2.7m",
+      "desc": "starskirmish.com",
+      "source": "tech",
+      "tag": "⬆️ 174 points",
+      "url": "https://starskirmish.com/bench/v0-2/"
     }
   ]
 }
