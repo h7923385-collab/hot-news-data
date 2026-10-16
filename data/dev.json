@@ -1,28 +1,84 @@
 {
   "data": [
     {
+      "title": "Dev Opportunity Radar #21: $500K Y Combinator Funding, Bolt Builders Week, and AI Safety Research Residency",
+      "hot": "❤️ 29 💬 3",
+      "desc": "TL;DR  Welcome back to Dev Opportunity Radar!  This is a weekly series where I share opportunities,...",
+      "source": "dev",
+      "tag": "discuss,  community",
+      "url": "https://dev.to/devengers/dev-opportunity-radar-21-500k-y-combinator-funding-bolt-builders-week-and-ai-safety-research-12b8"
+    },
+    {
+      "title": "What was your win this week?!",
+      "hot": "❤️ 6 💬 10",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-36am"
+    },
+    {
       "title": "How I Feel about the Grace Hopper Celebration Getting Cancelled",
-      "hot": "❤️ 90 💬 10",
+      "hot": "❤️ 93 💬 11",
       "desc": "The Grace Hopper Celebration has been around since 1994, and for a lot of people, it's the event for...",
       "source": "dev",
       "tag": "wecoded,  news",
       "url": "https://dev.to/jess/how-i-feel-about-the-grace-hopper-celebration-getting-cancelled-3l2k"
     },
     {
-      "title": "The Model Is the Easy Part",
-      "hot": "❤️ 20 💬 3",
-      "desc": "We spent the past few months on a question that sounds simple: what does it actually take to move a...",
+      "title": "Don't Assume Your Cloud T4 Runs at Spec: Gemma 4 Decode Falls 7% as the Card Warms",
+      "hot": "❤️ 7 💬 0",
+      "desc": "The same Tesla T4 on the same Google Cloud VM decoded Gemma 4 E2B at 115 tokens/s at 45 °C and 107 at 77 °C. The card si",
       "source": "dev",
-      "tag": "ai,  llm",
-      "url": "https://dev.to/dailycontext/the-model-is-the-easy-part-19gh"
+      "tag": "nvidia,  googlecloud",
+      "url": "https://dev.to/gde/dont-assume-your-cloud-t4-runs-at-spec-gemma-4-decode-falls-7-as-the-card-warms-3fd3"
     },
     {
-      "title": "Cómo construí ora-tui: Un gestor en consola (TUI) en Go sin dependencias para Oracle RAC y Single Instance",
+      "title": "Do Drafters Work on Small Models? Gemma 4 E2B and E4B on Two Small GPUs",
       "hot": "❤️ 6 💬 0",
-      "desc": "Descubre cómo diseñar una interfaz TUI en Go con marcos Unicode (┌─┐ / ╔═╗), auto-descubrimiento de clusters Oracle RAC ",
+      "desc": "Yes. Speculative decoding with Google's 59 MB QAT multi-token prediction (MTP) drafters speeds up Gemma 4 E4B 1.72x and ",
       "source": "dev",
-      "tag": "go,  oracle",
-      "url": "https://dev.to/gde/como-construi-ora-tui-un-gestor-en-consola-tui-en-go-sin-dependencias-para-oracle-rac-y-single-1gc5"
+      "tag": "gemma,  llamacpp",
+      "url": "https://dev.to/gde/do-drafters-work-on-small-models-gemma-4-e2b-and-e4b-on-two-small-gpus-1b4g"
+    },
+    {
+      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge: Touch Grass Winners!",
+      "hot": "❤️ 26 💬 13",
+      "desc": "We are so excited to announce the winners of the Hacktoberfest Open-Source AI Challenge: Touch...",
+      "source": "dev",
+      "tag": "devchallenge,  hf26challenge",
+      "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-touch-grass-winners-152c"
+    },
+    {
+      "title": "Building Production-Ready Open-Weights AI Agents with Gemma, Google ADK, and Cloud Run GPUs",
+      "hot": "❤️ 8 💬 0",
+      "desc": "How I designed, connected, scaled, governed, evaluated, and QLoRA fine-tuned an enterprise SecOps & FinOps agent on Goog",
+      "source": "dev",
+      "tag": "googlecloud,  ai",
+      "url": "https://dev.to/gde/building-production-ready-open-weights-ai-agents-with-gemma-google-adk-and-cloud-run-gpus-2mfg"
+    },
+    {
+      "title": "[AI in Practice] Upgrading from Gemini 3.5/3.6 to Gemini 4 Argon: Migration Notes and Pitfalls for LINE Bot Developers",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Background   I have a LINE Bot that I use every day, linebot-helper-python. I use it daily...",
+      "source": "dev",
+      "tag": "ai,  api",
+      "url": "https://dev.to/gde/ai-in-practice-upgrading-from-gemini-3536-to-gemini-4-argon-migration-notes-and-pitfalls-for-hli"
+    },
+    {
+      "title": "Requests, Promises, Assertions, and Declarations: Rewriting Our AI Agent Workflow as a 1986 'Committed Speech' Machine",
+      "hot": "❤️ 20 💬 19",
+      "desc": "Why do 200-line agent prompts, Asimov's Three Laws, and sequential pre-landing checklists all fail the same way? How Fer",
+      "source": "dev",
+      "tag": "ai,  programming",
+      "url": "https://dev.to/gde/requests-promises-assertions-and-declarations-rewriting-our-ai-agent-workflow-as-a-1986-4k4c"
+    },
+    {
+      "title": "Building ora-tui with Google Antigravity & Gemini 4 Argon: An MS-DOS Retro TUI & OpenTelemetry Exporter for Oracle RAC, DB & SAN Multipath",
+      "hot": "❤️ 6 💬 0",
+      "desc": "How I pair-programmed with Google Antigravity powered by Gemini 4 Argon to build a zero-dependency Go TUI and OpenTeleme",
+      "source": "dev",
+      "tag": "oracle,  go",
+      "url": "https://dev.to/gde/building-ora-tui-with-google-antigravity-gemini-4-argon-an-ms-dos-retro-tui-opentelemetry-4d02"
     },
     {
       "title": "Are You Smarter Than a Fruit Fly?",
@@ -31,22 +87,6 @@
       "source": "dev",
       "tag": "ai,  codereview",
       "url": "https://dev.to/dailycontext/are-you-smarter-than-a-fruit-fly-2c04"
-    },
-    {
-      "title": "Requests, Promises, Assertions, and Declarations: Rewriting Our AI Agent Workflow as a 1986 'Committed Speech' Machine",
-      "hot": "❤️ 20 💬 17",
-      "desc": "Why do 200-line agent prompts, Asimov's Three Laws, and sequential pre-landing checklists all fail the same way? How Fer",
-      "source": "dev",
-      "tag": "ai,  programming",
-      "url": "https://dev.to/gde/requests-promises-assertions-and-declarations-rewriting-our-ai-agent-workflow-as-a-1986-4k4c"
-    },
-    {
-      "title": "Inside the $30-a-Week Self-Improving Agents Eliminating Enterprise Back-Office Friction",
-      "hot": "❤️ 12 💬 1",
-      "desc": "In the high-stakes world of enterprise AI engineering, the default assumption is that reliability...",
-      "source": "dev",
-      "tag": "ai,  agents",
-      "url": "https://dev.to/dailycontext/inside-the-30-a-week-self-improving-agents-eliminating-enterprise-back-office-friction-c4p"
     },
     {
       "title": "The AI Data Paradox: The Safer You Make the Data, the Worse the AI Gets",
@@ -66,7 +106,7 @@
     },
     {
       "title": "DuckLess: serverless DuckDB on Google Cloud, in your own project",
-      "hot": "❤️ 10 💬 1",
+      "hot": "❤️ 11 💬 1",
       "desc": "Serverless DuckDB on Google Cloud, in your own project. Files on GCS, tables in BigQuery (read and write), what I measur",
       "source": "dev",
       "tag": "duckdb,  googlecloud",
@@ -79,14 +119,6 @@
       "source": "dev",
       "tag": "tutorial,  ai",
       "url": "https://dev.to/gde/local-image-generation-with-llamadart-for-the-llama-village-storybook-p28"
-    },
-    {
-      "title": "Your AI Agent Just Got a Passport: Agent Identity on Google Cloud and the Redeploy Trap Nobody Talks About",
-      "hot": "❤️ 9 💬 1",
-      "desc": "Why your agents need their own identity   Most teams run every AI agent under one shared...",
-      "source": "dev",
-      "tag": "ai,  discuss",
-      "url": "https://dev.to/gde/your-ai-agent-just-got-a-passport-agent-identity-on-google-cloud-and-the-redeploy-trap-nobody-52ip"
     },
     {
       "title": "Beyond the Prompt Box: How Bloomberg is Architecting the Era of “Multiplayer AI”",
@@ -121,45 +153,13 @@
       "url": "https://dev.to/dailycontext/operational-intelligence-is-sociotechnical-1627"
     },
     {
-      "title": "Where to Spend Your Week at AI Engineer New York",
-      "hot": "❤️ 14 💬 4",
-      "desc": "AI Engineer New York has 137 sessions on the schedule and up to five running at any given moment....",
-      "source": "dev",
-      "tag": "aie,  agents",
-      "url": "https://dev.to/dailycontext/where-to-spend-your-week-at-ai-engineer-new-york-3lg"
-    },
-    {
       "title": "Gemini 4 Under the Microscope: Red-Teaming AI Agents and Deterministic Dual-Port Remote Control Gemini 4 Architecture Banner",
       "hot": "❤️ 20 💬 0",
       "desc": "🎯 What You'll Learn     Gemini 4 Native Architecture Leap: How to leverage Deep Reasoning...",
       "source": "dev",
       "tag": "gemini,  agents",
       "url": "https://dev.to/gde/gemini-4-under-the-microscope-red-teaming-ai-agents-and-deterministic-dual-port-remote-control-4567"
-    },
-    {
-      "title": "Six Months After Cloud Next ‘26: A Builder’s Tour of the Gemini Enterprise Agent Platform",
-      "hot": "❤️ 7 💬 0",
-      "desc": "What actually shipped across Build, Scale, Govern, and Optimize — and what I'd tell a team starting...",
-      "source": "dev",
-      "tag": "googlecloud,  ai",
-      "url": "https://dev.to/gde/six-months-after-cloud-next-26-a-builders-tour-of-the-gemini-enterprise-agent-platform-3hib"
-    },
-    {
-      "title": "Building Better Agents through End-to-End Evals",
-      "hot": "❤️ 36 💬 10",
-      "desc": "Deeply understand the task at hand   The biggest mistake teams make with agents is...",
-      "source": "dev",
-      "tag": "ai,  agents",
-      "url": "https://dev.to/dailycontext/building-better-agents-through-end-to-end-evals-pgh"
-    },
-    {
-      "title": "AlphaEvolve and Gemini: Autonomous Algorithm Discovery for Unified Disaster Prediction",
-      "hot": "❤️ 18 💬 0",
-      "desc": "📄 Published Paper (Open Access on Zenodo): Autonomous Discovery of Unified Multi-Hazard Prediction...",
-      "source": "dev",
-      "tag": "ai,  gemini",
-      "url": "https://dev.to/gde/alphaevolve-and-gemini-autonomous-algorithm-discovery-for-unified-disaster-prediction-20f4"
     }
   ],
-  "updatedAt": "2026-10-16T17:00:48.171Z"
+  "updatedAt": "2026-10-16T19:59:26.954Z"
 }
