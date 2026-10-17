@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-17T16:31:20.005Z",
+  "updatedAt": "2026-10-17T18:53:51.470Z",
   "source": "live",
   "dev": [
     {
       "title": "Dev Opportunity Radar #21: $500K Y Combinator Funding, Bolt Builders Week, and AI Safety Research Residency",
-      "hot": "❤️ 69 💬 6",
+      "hot": "❤️ 72 💬 6",
       "desc": "TL;DR  Welcome back to Dev Opportunity Radar!  This is a weekly series where I share opportunities,...",
       "source": "dev",
       "tag": "discuss,  community",
@@ -28,7 +28,7 @@
     },
     {
       "title": "Don't Assume Your Cloud T4 Runs at Spec: Gemma 4 Decode Falls 7% as the Card Warms",
-      "hot": "❤️ 8 💬 2",
+      "hot": "❤️ 9 💬 2",
       "desc": "The same Tesla T4 on the same Google Cloud VM decoded Gemma 4 E2B at 115 tokens/s at 45 °C and 107 at 77 °C. The card si",
       "source": "dev",
       "tag": "nvidia,  googlecloud",
@@ -36,7 +36,7 @@
     },
     {
       "title": "Do Drafters Work on Small Models? Gemma 4 E2B and E4B on Two Small GPUs",
-      "hot": "❤️ 7 💬 3",
+      "hot": "❤️ 8 💬 3",
       "desc": "Yes. Speculative decoding with Google's 59 MB QAT multi-token prediction (MTP) drafters speeds up Gemma 4 E4B 1.72x and ",
       "source": "dev",
       "tag": "gemma,  llamacpp",
@@ -51,14 +51,6 @@
       "url": "https://dev.to/dailycontext/are-you-smarter-than-a-fruit-fly-2c04"
     },
     {
-      "title": "The AI Data Paradox: The Safer You Make the Data, the Worse the AI Gets",
-      "hot": "❤️ 12 💬 4",
-      "desc": "AI engineers spend enormous amounts of time tweaking small things to achieve bigger gains. Energy is...",
-      "source": "dev",
-      "tag": "ai,  data",
-      "url": "https://dev.to/dailycontext/the-ai-data-paradox-the-safer-you-make-the-data-the-worse-the-ai-gets-1ek7"
-    },
-    {
       "title": "Design for Churn",
       "hot": "❤️ 48 💬 8",
       "desc": "The biggest design shift of the AI era isn’t about who writes the code. It’s about how long the code...",
@@ -68,7 +60,7 @@
     },
     {
       "title": "Congrats to the Hacktoberfest Open-Source AI Challenge: Touch Grass Winners!",
-      "hot": "❤️ 36 💬 18",
+      "hot": "❤️ 36 💬 20",
       "desc": "We are so excited to announce the winners of the Hacktoberfest Open-Source AI Challenge: Touch...",
       "source": "dev",
       "tag": "devchallenge,  hf26challenge",
@@ -76,7 +68,7 @@
     },
     {
       "title": "Building Production-Ready Open-Weights AI Agents with Gemma, Google ADK, and Cloud Run GPUs",
-      "hot": "❤️ 15 💬 4",
+      "hot": "❤️ 16 💬 4",
       "desc": "How I designed, connected, scaled, governed, evaluated, and QLoRA fine-tuned an enterprise SecOps & FinOps agent on Goog",
       "source": "dev",
       "tag": "googlecloud,  ai",
@@ -84,7 +76,7 @@
     },
     {
       "title": "[AI in Practice] Upgrading from Gemini 3.5/3.6 to Gemini 4 Argon: Migration Notes and Pitfalls for LINE Bot Developers",
-      "hot": "❤️ 7 💬 0",
+      "hot": "❤️ 8 💬 0",
       "desc": "Background   I have a LINE Bot that I use every day, linebot-helper-python. I use it daily...",
       "source": "dev",
       "tag": "ai,  api",
@@ -161,128 +153,14 @@
       "source": "dev",
       "tag": "googlecloud,  ai",
       "url": "https://dev.to/gde/six-months-after-cloud-next-26-a-builders-tour-of-the-gemini-enterprise-agent-platform-3hib"
-    }
-  ],
-  "github": [
-    {
-      "title": "jhaizhou-ops/d2r-mobile: Open-source iOS / macOS compatibility layer for Diablo ",
-      "hot": "⭐ 3.7k",
-      "desc": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on ",
-      "source": "github",
-      "tag": "C",
-      "url": "https://github.com/jhaizhou-ops/d2r-mobile"
     },
     {
-      "title": "onehumanbeing/esp32-iphone-agent: Let an AI model use a real iPhone with a $7 ES",
-      "hot": "⭐ 3.0k",
-      "desc": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no j",
-      "source": "github",
-      "tag": "C",
-      "url": "https://github.com/onehumanbeing/esp32-iphone-agent"
-    },
-    {
-      "title": "Arekejoker/qwen21-nsfw-pose-skill: Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSF",
-      "hot": "⭐ 2.6k",
-      "desc": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill"
-    },
-    {
-      "title": "liseami/CCBaga: ",
-      "hot": "⭐ 2.5k",
-      "desc": "liseami/CCBaga",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/liseami/CCBaga"
-    },
-    {
-      "title": "HeyPuter/everything: We're rebuilding and open-sourcing the world’s software fro",
-      "hot": "⭐ 2.0k",
-      "desc": "We're rebuilding and open-sourcing the world’s software from scratch.",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/HeyPuter/everything"
-    },
-    {
-      "title": "ahwootech/BRUTAL: A free, open source C# framework for making games, or your own",
-      "hot": "⭐ 1.7k",
-      "desc": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries arou",
-      "source": "github",
-      "tag": "C#",
-      "url": "https://github.com/ahwootech/BRUTAL"
-    },
-    {
-      "title": "deeplethe/solid-glass: A design system for AI applications. Material, physical, ",
-      "hot": "⭐ 1.7k",
-      "desc": "A design system for AI applications. Material, physical, tactile, technical.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/deeplethe/solid-glass"
-    },
-    {
-      "title": "chenglou/handwired: Turn your regular JavaScript code into a neural net.",
-      "hot": "⭐ 1.7k",
-      "desc": "Turn your regular JavaScript code into a neural net.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/chenglou/handwired"
-    },
-    {
-      "title": "shaongitbd/doory: Open source canva alternative",
-      "hot": "⭐ 1.5k",
-      "desc": "Open source canva alternative",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/shaongitbd/doory"
-    },
-    {
-      "title": "opengeos/RustGIS: A fast, free and open-source GIS in pure Rust.",
-      "hot": "⭐ 1.5k",
-      "desc": "A fast, free and open-source GIS in pure Rust.",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/opengeos/RustGIS"
-    },
-    {
-      "title": "rociiu/talorys: Your personal AI agent in your own Cloudflare account. Chat, mem",
-      "hot": "⭐ 1.3k",
-      "desc": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talor",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/rociiu/talorys"
-    },
-    {
-      "title": "marclou/mailcheap: Newsletters where you pay for the emails you send, not for do",
-      "hot": "⭐ 1.2k",
-      "desc": "Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/marclou/mailcheap"
-    },
-    {
-      "title": "Supermedo/uncharted_pc: Uncharted: The Nathan Drake Collection running natively ",
-      "hot": "⭐ 1.2k",
-      "desc": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
-      "source": "github",
-      "tag": "C++",
-      "url": "https://github.com/Supermedo/uncharted_pc"
-    },
-    {
-      "title": "feder-cr/git-ai: Git designed for AI agents.",
-      "hot": "⭐ 1.1k",
-      "desc": "Git designed for AI agents.",
-      "source": "github",
-      "tag": "Go",
-      "url": "https://github.com/feder-cr/git-ai"
-    },
-    {
-      "title": "Caho1/open-claude-ui: 基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬",
-      "hot": "⭐ 1.1k",
-      "desc": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/Caho1/open-claude-ui"
+      "title": "Building Better Agents through End-to-End Evals",
+      "hot": "❤️ 36 💬 10",
+      "desc": "Deeply understand the task at hand   The biggest mistake teams make with agents is...",
+      "source": "dev",
+      "tag": "ai,  agents",
+      "url": "https://dev.to/dailycontext/building-better-agents-through-end-to-end-evals-pgh"
     }
   ],
   "space": [
@@ -409,164 +287,286 @@
   ],
   "tech": [
     {
-      "title": "Making Chicken Transparent Using Dorito Dust",
+      "title": "Development statistics for the 7.2 kernel",
+      "hot": "3.0m",
+      "desc": "lwn.net",
+      "source": "tech",
+      "tag": "⬆️ 74 points",
+      "url": "https://lwn.net/Articles/1088776/"
+    },
+    {
+      "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
+      "hot": "3.0m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 35 points",
+      "url": "https://github.com/antirez/c64-hw-simulator"
+    },
+    {
+      "title": "Making chicken transparent using Dorito dust",
       "hot": "3.0m",
       "desc": "chillphysicsenjoyer.substack.com",
       "source": "tech",
-      "tag": "⬆️ 88 points",
+      "tag": "⬆️ 177 points",
       "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using"
     },
     {
-      "title": "DeepSeek-v4.1-Flash-1017",
+      "title": "Furifont, a Japanese font that shows furigana",
       "hot": "3.0m",
+      "desc": "furifont.antfu.me",
+      "source": "tech",
+      "tag": "⬆️ 91 points",
+      "url": "https://furifont.antfu.me/"
+    },
+    {
+      "title": "Qwen3.8-27B on the iPhone 18 Neural Engine at 15–70 tok/s (1.5 bpw)",
+      "hot": "2.9m",
+      "desc": "twitter.com",
+      "source": "tech",
+      "tag": "⬆️ 11 points",
+      "url": "https://twitter.com/anemll/status/2111517143087067309"
+    },
+    {
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "hot": "2.9m",
       "desc": "huggingface.co",
       "source": "tech",
-      "tag": "⬆️ 359 points",
+      "tag": "⬆️ 493 points",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
     },
     {
-      "title": "Solar surpasses nuclear power globally for first time – pv magazine Global",
-      "hot": "3.0m",
+      "title": "Solar surpasses nuclear power globally for first time",
+      "hot": "2.9m",
       "desc": "pv-magazine.com",
       "source": "tech",
-      "tag": "⬆️ 191 points",
+      "tag": "⬆️ 322 points",
       "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/"
     },
     {
+      "title": "tsc-ts: TypeScript written in TypeScript",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 12 points",
+      "url": "https://github.com/vercel-labs/tsc-ts"
+    },
+    {
+      "title": "Vintage Cassettes: 1963-2010",
+      "hot": "2.9m",
+      "desc": "vintagecassettes.com",
+      "source": "tech",
+      "tag": "⬆️ 15 points",
+      "url": "http://vintagecassettes.com/"
+    },
+    {
+      "title": "Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers",
+      "hot": "2.9m",
+      "desc": "artie.com",
+      "source": "tech",
+      "tag": "⬆️ 1 points",
+      "url": "https://www.artie.com/careers"
+    },
+    {
       "title": "Rendering pretty sky in Around The World game",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "frozenfractal.com",
       "source": "tech",
-      "tag": "⬆️ 54 points",
+      "tag": "⬆️ 96 points",
       "url": "https://frozenfractal.com/blog/2026/10/12/around-the-world-34-a-pretty-sky/"
     },
     {
-      "title": "Super Intelligence",
-      "hot": "2.9m",
-      "desc": "si.gov",
-      "source": "tech",
-      "tag": "⬆️ 55 points",
-      "url": "https://www.si.gov/"
-    },
-    {
-      "title": "The First Candid",
-      "hot": "2.9m",
-      "desc": "newyorker.com",
-      "source": "tech",
-      "tag": "⬆️ 27 points",
-      "url": "https://www.newyorker.com/magazine/2026/10/19/the-first-candid"
-    },
-    {
-      "title": "A Tudor Life in the Time of Plague",
-      "hot": "2.9m",
-      "desc": "historytoday.com",
-      "source": "tech",
-      "tag": "⬆️ 17 points",
-      "url": "https://www.historytoday.com/archive/history-matters/tudor-life-time-plague"
-    },
-    {
-      "title": "Tesla Roadster",
-      "hot": "2.9m",
-      "desc": "tesla.com",
-      "source": "tech",
-      "tag": "⬆️ 1564 points",
-      "url": "https://www.tesla.com/roadster"
-    },
-    {
-      "title": "Ultramarine 1 Flash",
-      "hot": "2.9m",
-      "desc": "paperinstruments.com",
-      "source": "tech",
-      "tag": "⬆️ 333 points",
-      "url": "https://www.paperinstruments.com/ultramarine"
-    },
-    {
-      "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 28 points",
-      "url": "https://github.com/mikroverk/esp32sim"
-    },
-    {
-      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-      "hot": "2.9m",
-      "desc": "llmspeed.dev",
-      "source": "tech",
-      "tag": "⬆️ 186 points",
-      "url": "https://llmspeed.dev/"
-    },
-    {
-      "title": "MapQuest will now show you where Flock cameras are in your neighborhood",
+      "title": "OpenAI discloses four more rogue incidents",
       "hot": "2.8m",
-      "desc": "engadget.com",
+      "desc": "fortune.com",
       "source": "tech",
-      "tag": "⬆️ 104 points",
-      "url": "https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/"
+      "tag": "⬆️ 90 points",
+      "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/"
     },
     {
-      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "title": "OpenCode Hacked: User credentials leaked",
       "hot": "2.8m",
-      "desc": "github.com",
+      "desc": "twitter.com",
       "source": "tech",
-      "tag": "⬆️ 339 points",
-      "url": "https://github.com/cobanov/PS5LM"
+      "tag": "⬆️ 67 points",
+      "url": "https://twitter.com/opencode/status/2111516673953935833"
     },
     {
       "title": "You could have invented transformers from memory",
       "hot": "2.8m",
       "desc": "alexwang.ai",
       "source": "tech",
-      "tag": "⬆️ 402 points",
+      "tag": "⬆️ 433 points",
       "url": "https://alexwang.ai/posts/associative-memory/"
     },
     {
-      "title": "We Still Use Paper",
+      "title": "Ultramarine 1 Flash",
       "hot": "2.8m",
-      "desc": "humanpro.co",
+      "desc": "paperinstruments.com",
+      "source": "tech",
+      "tag": "⬆️ 357 points",
+      "url": "https://www.paperinstruments.com/ultramarine"
+    },
+    {
+      "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
+      "hot": "2.8m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 62 points",
+      "url": "https://github.com/mikroverk/esp32sim"
+    },
+    {
+      "title": "Show HN: High-quality duck audio synthesizer",
+      "hot": "2.8m",
+      "desc": "celphase.github.io",
+      "source": "tech",
+      "tag": "⬆️ 25 points",
+      "url": "https://celphase.github.io/duck-pond/"
+    },
+    {
+      "title": "A Tudor life in the time of plague (2020)",
+      "hot": "2.7m",
+      "desc": "historytoday.com",
+      "source": "tech",
+      "tag": "⬆️ 31 points",
+      "url": "https://www.historytoday.com/archive/history-matters/tudor-life-time-plague"
+    },
+    {
+      "title": "A skeptic's first contact with Kubernetes (2024)",
+      "hot": "2.7m",
+      "desc": "blog.davidv.dev",
+      "source": "tech",
+      "tag": "⬆️ 19 points",
+      "url": "https://blog.davidv.dev/posts/first-contact-with-k8s/"
+    },
+    {
+      "title": "The First Candid",
+      "hot": "2.7m",
+      "desc": "newyorker.com",
       "source": "tech",
       "tag": "⬆️ 37 points",
-      "url": "https://humanpro.co/articles/we-still-use-paper/"
+      "url": "https://www.newyorker.com/magazine/2026/10/19/the-first-candid"
+    }
+  ],
+  "github": [
+    {
+      "title": "jhaizhou-ops/d2r-mobile: Open-source iOS / macOS compatibility layer for Diablo ",
+      "hot": "⭐ 3.7k",
+      "desc": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on ",
+      "source": "github",
+      "tag": "C",
+      "url": "https://github.com/jhaizhou-ops/d2r-mobile"
     },
     {
-      "title": "Claude reveals ECDSA curve origins",
-      "hot": "2.8m",
-      "desc": "anthropic.com",
-      "source": "tech",
-      "tag": "⬆️ 970 points",
-      "url": "https://www.anthropic.com/research/ecdsa-curve-origins"
+      "title": "onehumanbeing/esp32-iphone-agent: Let an AI model use a real iPhone with a $7 ES",
+      "hot": "⭐ 3.0k",
+      "desc": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no j",
+      "source": "github",
+      "tag": "C",
+      "url": "https://github.com/onehumanbeing/esp32-iphone-agent"
     },
     {
-      "title": "Intuitive concurrent programming in any language",
-      "hot": "2.8m",
-      "desc": "lf-lang.org",
-      "source": "tech",
-      "tag": "⬆️ 105 points",
-      "url": "https://www.lf-lang.org/"
+      "title": "Arekejoker/qwen21-nsfw-pose-skill: Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSF",
+      "hot": "⭐ 2.6k",
+      "desc": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill"
     },
     {
-      "title": "Tell HN: Remember to migrate away from .name domain",
-      "hot": "2.7m",
-      "desc": "news.ycombinator.com",
-      "source": "tech",
-      "tag": "⬆️ 80 points",
-      "url": "https://news.ycombinator.com/item?id=50089577"
+      "title": "liseami/CCBaga: ",
+      "hot": "⭐ 2.6k",
+      "desc": "liseami/CCBaga",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/liseami/CCBaga"
     },
     {
-      "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
-      "hot": "2.7m",
-      "desc": "machinelearning.apple.com",
-      "source": "tech",
-      "tag": "⬆️ 342 points",
-      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference"
+      "title": "HeyPuter/everything: We're rebuilding and open-sourcing the world’s software fro",
+      "hot": "⭐ 2.0k",
+      "desc": "We're rebuilding and open-sourcing the world’s software from scratch.",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/HeyPuter/everything"
     },
     {
-      "title": "Recipes Are Moving from Maven Central to the Code Genome Project",
-      "hot": "2.7m",
-      "desc": "docs.openrewrite.org",
-      "source": "tech",
-      "tag": "⬆️ 35 points",
-      "url": "https://docs.openrewrite.org/reference/latest-versions-of-every-openrewrite-module"
+      "title": "ahwootech/BRUTAL: A free, open source C# framework for making games, or your own",
+      "hot": "⭐ 1.8k",
+      "desc": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries arou",
+      "source": "github",
+      "tag": "C#",
+      "url": "https://github.com/ahwootech/BRUTAL"
+    },
+    {
+      "title": "deeplethe/solid-glass: A design system for AI applications. Material, physical, ",
+      "hot": "⭐ 1.7k",
+      "desc": "A design system for AI applications. Material, physical, tactile, technical.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/deeplethe/solid-glass"
+    },
+    {
+      "title": "chenglou/handwired: Turn your regular JavaScript code into a neural net.",
+      "hot": "⭐ 1.7k",
+      "desc": "Turn your regular JavaScript code into a neural net.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/chenglou/handwired"
+    },
+    {
+      "title": "shaongitbd/doory: Open source canva alternative",
+      "hot": "⭐ 1.5k",
+      "desc": "Open source canva alternative",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/shaongitbd/doory"
+    },
+    {
+      "title": "opengeos/RustGIS: A fast, free and open-source GIS in pure Rust.",
+      "hot": "⭐ 1.5k",
+      "desc": "A fast, free and open-source GIS in pure Rust.",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/opengeos/RustGIS"
+    },
+    {
+      "title": "rociiu/talorys: Your personal AI agent in your own Cloudflare account. Chat, mem",
+      "hot": "⭐ 1.3k",
+      "desc": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talor",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/rociiu/talorys"
+    },
+    {
+      "title": "Supermedo/uncharted_pc: Uncharted: The Nathan Drake Collection running natively ",
+      "hot": "⭐ 1.2k",
+      "desc": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
+      "source": "github",
+      "tag": "C++",
+      "url": "https://github.com/Supermedo/uncharted_pc"
+    },
+    {
+      "title": "marclou/mailcheap: Newsletters where you pay for the emails you send, not for do",
+      "hot": "⭐ 1.2k",
+      "desc": "Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/marclou/mailcheap"
+    },
+    {
+      "title": "Caho1/open-claude-ui: 基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬",
+      "hot": "⭐ 1.1k",
+      "desc": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/Caho1/open-claude-ui"
+    },
+    {
+      "title": "feder-cr/git-ai: Git designed for AI agents.",
+      "hot": "⭐ 1.1k",
+      "desc": "Git designed for AI agents.",
+      "source": "github",
+      "tag": "Go",
+      "url": "https://github.com/feder-cr/git-ai"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "Dev Opportunity Radar #21: $500K Y Combinator Funding, Bolt Builders Week, and AI Safety Research Residency",
-      "hot": "❤️ 69 💬 6",
+      "hot": "❤️ 72 💬 6",
       "desc": "TL;DR  Welcome back to Dev Opportunity Radar!  This is a weekly series where I share opportunities,...",
       "source": "dev",
       "tag": "discuss,  community",
@@ -26,7 +26,7 @@
     },
     {
       "title": "Don't Assume Your Cloud T4 Runs at Spec: Gemma 4 Decode Falls 7% as the Card Warms",
-      "hot": "❤️ 8 💬 2",
+      "hot": "❤️ 9 💬 2",
       "desc": "The same Tesla T4 on the same Google Cloud VM decoded Gemma 4 E2B at 115 tokens/s at 45 °C and 107 at 77 °C. The card si",
       "source": "dev",
       "tag": "nvidia,  googlecloud",
@@ -34,7 +34,7 @@
     },
     {
       "title": "Do Drafters Work on Small Models? Gemma 4 E2B and E4B on Two Small GPUs",
-      "hot": "❤️ 7 💬 3",
+      "hot": "❤️ 8 💬 3",
       "desc": "Yes. Speculative decoding with Google's 59 MB QAT multi-token prediction (MTP) drafters speeds up Gemma 4 E4B 1.72x and ",
       "source": "dev",
       "tag": "gemma,  llamacpp",
@@ -49,14 +49,6 @@
       "url": "https://dev.to/dailycontext/are-you-smarter-than-a-fruit-fly-2c04"
     },
     {
-      "title": "The AI Data Paradox: The Safer You Make the Data, the Worse the AI Gets",
-      "hot": "❤️ 12 💬 4",
-      "desc": "AI engineers spend enormous amounts of time tweaking small things to achieve bigger gains. Energy is...",
-      "source": "dev",
-      "tag": "ai,  data",
-      "url": "https://dev.to/dailycontext/the-ai-data-paradox-the-safer-you-make-the-data-the-worse-the-ai-gets-1ek7"
-    },
-    {
       "title": "Design for Churn",
       "hot": "❤️ 48 💬 8",
       "desc": "The biggest design shift of the AI era isn’t about who writes the code. It’s about how long the code...",
@@ -66,7 +58,7 @@
     },
     {
       "title": "Congrats to the Hacktoberfest Open-Source AI Challenge: Touch Grass Winners!",
-      "hot": "❤️ 36 💬 18",
+      "hot": "❤️ 36 💬 20",
       "desc": "We are so excited to announce the winners of the Hacktoberfest Open-Source AI Challenge: Touch...",
       "source": "dev",
       "tag": "devchallenge,  hf26challenge",
@@ -74,7 +66,7 @@
     },
     {
       "title": "Building Production-Ready Open-Weights AI Agents with Gemma, Google ADK, and Cloud Run GPUs",
-      "hot": "❤️ 15 💬 4",
+      "hot": "❤️ 16 💬 4",
       "desc": "How I designed, connected, scaled, governed, evaluated, and QLoRA fine-tuned an enterprise SecOps & FinOps agent on Goog",
       "source": "dev",
       "tag": "googlecloud,  ai",
@@ -82,7 +74,7 @@
     },
     {
       "title": "[AI in Practice] Upgrading from Gemini 3.5/3.6 to Gemini 4 Argon: Migration Notes and Pitfalls for LINE Bot Developers",
-      "hot": "❤️ 7 💬 0",
+      "hot": "❤️ 8 💬 0",
       "desc": "Background   I have a LINE Bot that I use every day, linebot-helper-python. I use it daily...",
       "source": "dev",
       "tag": "ai,  api",
@@ -159,7 +151,15 @@
       "source": "dev",
       "tag": "googlecloud,  ai",
       "url": "https://dev.to/gde/six-months-after-cloud-next-26-a-builders-tour-of-the-gemini-enterprise-agent-platform-3hib"
+    },
+    {
+      "title": "Building Better Agents through End-to-End Evals",
+      "hot": "❤️ 36 💬 10",
+      "desc": "Deeply understand the task at hand   The biggest mistake teams make with agents is...",
+      "source": "dev",
+      "tag": "ai,  agents",
+      "url": "https://dev.to/dailycontext/building-better-agents-through-end-to-end-evals-pgh"
     }
   ],
-  "updatedAt": "2026-10-17T16:31:20.005Z"
+  "updatedAt": "2026-10-17T18:53:51.470Z"
 }
