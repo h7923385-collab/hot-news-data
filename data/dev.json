@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "Dev Opportunity Radar #21: $500K Y Combinator Funding, Bolt Builders Week, and AI Safety Research Residency",
-      "hot": "❤️ 57 💬 6",
+      "hot": "❤️ 67 💬 6",
       "desc": "TL;DR  Welcome back to Dev Opportunity Radar!  This is a weekly series where I share opportunities,...",
       "source": "dev",
       "tag": "discuss,  community",
@@ -17,6 +17,14 @@
       "url": "https://dev.to/jess/how-i-feel-about-the-grace-hopper-celebration-getting-cancelled-3l2k"
     },
     {
+      "title": "What was your win this week?!",
+      "hot": "❤️ 16 💬 16",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-36am"
+    },
+    {
       "title": "Don't Assume Your Cloud T4 Runs at Spec: Gemma 4 Decode Falls 7% as the Card Warms",
       "hot": "❤️ 7 💬 1",
       "desc": "The same Tesla T4 on the same Google Cloud VM decoded Gemma 4 E2B at 115 tokens/s at 45 °C and 107 at 77 °C. The card si",
@@ -26,35 +34,11 @@
     },
     {
       "title": "Do Drafters Work on Small Models? Gemma 4 E2B and E4B on Two Small GPUs",
-      "hot": "❤️ 7 💬 0",
+      "hot": "❤️ 7 💬 1",
       "desc": "Yes. Speculative decoding with Google's 59 MB QAT multi-token prediction (MTP) drafters speeds up Gemma 4 E4B 1.72x and ",
       "source": "dev",
       "tag": "gemma,  llamacpp",
       "url": "https://dev.to/gde/do-drafters-work-on-small-models-gemma-4-e2b-and-e4b-on-two-small-gpus-1b4g"
-    },
-    {
-      "title": "What was your win this week?!",
-      "hot": "❤️ 13 💬 12",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "weeklyretro",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-36am"
-    },
-    {
-      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge: Touch Grass Winners!",
-      "hot": "❤️ 34 💬 16",
-      "desc": "We are so excited to announce the winners of the Hacktoberfest Open-Source AI Challenge: Touch...",
-      "source": "dev",
-      "tag": "devchallenge,  hf26challenge",
-      "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-touch-grass-winners-152c"
-    },
-    {
-      "title": "Building Production-Ready Open-Weights AI Agents with Gemma, Google ADK, and Cloud Run GPUs",
-      "hot": "❤️ 10 💬 2",
-      "desc": "How I designed, connected, scaled, governed, evaluated, and QLoRA fine-tuned an enterprise SecOps & FinOps agent on Goog",
-      "source": "dev",
-      "tag": "googlecloud,  ai",
-      "url": "https://dev.to/gde/building-production-ready-open-weights-ai-agents-with-gemma-google-adk-and-cloud-run-gpus-2mfg"
     },
     {
       "title": "Are You Smarter Than a Fruit Fly?",
@@ -79,6 +63,22 @@
       "source": "dev",
       "tag": "aie,  design",
       "url": "https://dev.to/dailycontext/design-for-churn-5c6h"
+    },
+    {
+      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge: Touch Grass Winners!",
+      "hot": "❤️ 35 💬 16",
+      "desc": "We are so excited to announce the winners of the Hacktoberfest Open-Source AI Challenge: Touch...",
+      "source": "dev",
+      "tag": "devchallenge,  hf26challenge",
+      "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-touch-grass-winners-152c"
+    },
+    {
+      "title": "Building Production-Ready Open-Weights AI Agents with Gemma, Google ADK, and Cloud Run GPUs",
+      "hot": "❤️ 10 💬 4",
+      "desc": "How I designed, connected, scaled, governed, evaluated, and QLoRA fine-tuned an enterprise SecOps & FinOps agent on Goog",
+      "source": "dev",
+      "tag": "googlecloud,  ai",
+      "url": "https://dev.to/gde/building-production-ready-open-weights-ai-agents-with-gemma-google-adk-and-cloud-run-gpus-2mfg"
     },
     {
       "title": "[AI in Practice] Upgrading from Gemini 3.5/3.6 to Gemini 4 Argon: Migration Notes and Pitfalls for LINE Bot Developers",
@@ -161,5 +161,5 @@
       "url": "https://dev.to/gde/six-months-after-cloud-next-26-a-builders-tour-of-the-gemini-enterprise-agent-platform-3hib"
     }
   ],
-  "updatedAt": "2026-10-17T05:05:47.446Z"
+  "updatedAt": "2026-10-17T09:30:09.007Z"
 }
