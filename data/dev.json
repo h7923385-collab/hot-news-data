@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "Dev Opportunity Radar #21: $500K Y Combinator Funding, Bolt Builders Week, and AI Safety Research Residency",
-      "hot": "❤️ 37 💬 5",
+      "hot": "❤️ 48 💬 5",
       "desc": "TL;DR  Welcome back to Dev Opportunity Radar!  This is a weekly series where I share opportunities,...",
       "source": "dev",
       "tag": "discuss,  community",
@@ -10,7 +10,7 @@
     },
     {
       "title": "How I Feel about the Grace Hopper Celebration Getting Cancelled",
-      "hot": "❤️ 93 💬 11",
+      "hot": "❤️ 94 💬 11",
       "desc": "The Grace Hopper Celebration has been around since 1994, and for a lot of people, it's the event for...",
       "source": "dev",
       "tag": "wecoded,  news",
@@ -26,7 +26,7 @@
     },
     {
       "title": "Don't Assume Your Cloud T4 Runs at Spec: Gemma 4 Decode Falls 7% as the Card Warms",
-      "hot": "❤️ 7 💬 0",
+      "hot": "❤️ 7 💬 1",
       "desc": "The same Tesla T4 on the same Google Cloud VM decoded Gemma 4 E2B at 115 tokens/s at 45 °C and 107 at 77 °C. The card si",
       "source": "dev",
       "tag": "nvidia,  googlecloud",
@@ -34,7 +34,7 @@
     },
     {
       "title": "Do Drafters Work on Small Models? Gemma 4 E2B and E4B on Two Small GPUs",
-      "hot": "❤️ 6 💬 0",
+      "hot": "❤️ 7 💬 0",
       "desc": "Yes. Speculative decoding with Google's 59 MB QAT multi-token prediction (MTP) drafters speeds up Gemma 4 E4B 1.72x and ",
       "source": "dev",
       "tag": "gemma,  llamacpp",
@@ -42,7 +42,7 @@
     },
     {
       "title": "Congrats to the Hacktoberfest Open-Source AI Challenge: Touch Grass Winners!",
-      "hot": "❤️ 26 💬 14",
+      "hot": "❤️ 28 💬 14",
       "desc": "We are so excited to announce the winners of the Hacktoberfest Open-Source AI Challenge: Touch...",
       "source": "dev",
       "tag": "devchallenge,  hf26challenge",
@@ -50,7 +50,7 @@
     },
     {
       "title": "Building Production-Ready Open-Weights AI Agents with Gemma, Google ADK, and Cloud Run GPUs",
-      "hot": "❤️ 8 💬 1",
+      "hot": "❤️ 9 💬 1",
       "desc": "How I designed, connected, scaled, governed, evaluated, and QLoRA fine-tuned an enterprise SecOps & FinOps agent on Goog",
       "source": "dev",
       "tag": "googlecloud,  ai",
@@ -71,14 +71,6 @@
       "source": "dev",
       "tag": "ai,  programming",
       "url": "https://dev.to/gde/requests-promises-assertions-and-declarations-rewriting-our-ai-agent-workflow-as-a-1986-4k4c"
-    },
-    {
-      "title": "Building ora-tui with Google Antigravity & Gemini 4 Argon: An MS-DOS Retro TUI & OpenTelemetry Exporter for Oracle RAC, DB & SAN Multipath",
-      "hot": "❤️ 6 💬 0",
-      "desc": "How I pair-programmed with Google Antigravity powered by Gemini 4 Argon to build a zero-dependency Go TUI and OpenTeleme",
-      "source": "dev",
-      "tag": "oracle,  go",
-      "url": "https://dev.to/gde/building-ora-tui-with-google-antigravity-gemini-4-argon-an-ms-dos-retro-tui-opentelemetry-4d02"
     },
     {
       "title": "Are You Smarter Than a Fruit Fly?",
@@ -103,6 +95,14 @@
       "source": "dev",
       "tag": "aie,  design",
       "url": "https://dev.to/dailycontext/design-for-churn-5c6h"
+    },
+    {
+      "title": "Building ora-tui with Google Antigravity & Gemini 4 Argon: An MS-DOS Retro TUI & OpenTelemetry Exporter for Oracle RAC, DB & SAN Multipath",
+      "hot": "❤️ 7 💬 0",
+      "desc": "How I pair-programmed with Google Antigravity powered by Gemini 4 Argon to build a zero-dependency Go TUI and OpenTeleme",
+      "source": "dev",
+      "tag": "oracle,  go",
+      "url": "https://dev.to/gde/building-ora-tui-with-google-antigravity-gemini-4-argon-an-ms-dos-retro-tui-opentelemetry-4d02"
     },
     {
       "title": "DuckLess: serverless DuckDB on Google Cloud, in your own project",
@@ -161,5 +161,5 @@
       "url": "https://dev.to/gde/gemini-4-under-the-microscope-red-teaming-ai-agents-and-deterministic-dual-port-remote-control-4567"
     }
   ],
-  "updatedAt": "2026-10-16T22:31:19.672Z"
+  "updatedAt": "2026-10-17T00:50:03.397Z"
 }
