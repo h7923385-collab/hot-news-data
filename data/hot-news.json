@@ -1,14 +1,22 @@
 {
-  "updatedAt": "2026-10-17T23:12:53.710Z",
+  "updatedAt": "2026-10-18T01:14:17.873Z",
   "source": "live",
   "dev": [
     {
       "title": "Dev Opportunity Radar #21: $500K Y Combinator Funding, Bolt Builders Week, and AI Safety Research Residency",
-      "hot": "❤️ 73 💬 6",
+      "hot": "❤️ 74 💬 6",
       "desc": "TL;DR  Welcome back to Dev Opportunity Radar!  This is a weekly series where I share opportunities,...",
       "source": "dev",
       "tag": "discuss,  community",
       "url": "https://dev.to/devengers/dev-opportunity-radar-21-500k-y-combinator-funding-bolt-builders-week-and-ai-safety-research-12b8"
+    },
+    {
+      "title": "What was your win this week?!",
+      "hot": "❤️ 21 💬 24",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-36am"
     },
     {
       "title": "Don't Assume Your Cloud T4 Runs at Spec: Gemma 4 Decode Falls 7% as the Card Warms",
@@ -19,14 +27,6 @@
       "url": "https://dev.to/gde/dont-assume-your-cloud-t4-runs-at-spec-gemma-4-decode-falls-7-as-the-card-warms-3fd3"
     },
     {
-      "title": "What was your win this week?!",
-      "hot": "❤️ 21 💬 23",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "weeklyretro",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-36am"
-    },
-    {
       "title": "Do Drafters Work on Small Models? Gemma 4 E2B and E4B on Two Small GPUs",
       "hot": "❤️ 8 💬 3",
       "desc": "Yes. Speculative decoding with Google's 59 MB QAT multi-token prediction (MTP) drafters speeds up Gemma 4 E4B 1.72x and ",
@@ -35,28 +35,12 @@
       "url": "https://dev.to/gde/do-drafters-work-on-small-models-gemma-4-e2b-and-e4b-on-two-small-gpus-1b4g"
     },
     {
-      "title": "Are You Smarter Than a Fruit Fly?",
-      "hot": "❤️ 19 💬 1",
-      "desc": "Google mapped the complete male fruit fly brain, and my first question to an agent was “Can this run...",
-      "source": "dev",
-      "tag": "ai,  codereview",
-      "url": "https://dev.to/dailycontext/are-you-smarter-than-a-fruit-fly-2c04"
-    },
-    {
       "title": "Design for Churn",
       "hot": "❤️ 48 💬 8",
       "desc": "The biggest design shift of the AI era isn’t about who writes the code. It’s about how long the code...",
       "source": "dev",
       "tag": "aie,  design",
       "url": "https://dev.to/dailycontext/design-for-churn-5c6h"
-    },
-    {
-      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge: Touch Grass Winners!",
-      "hot": "❤️ 36 💬 20",
-      "desc": "We are so excited to announce the winners of the Hacktoberfest Open-Source AI Challenge: Touch...",
-      "source": "dev",
-      "tag": "devchallenge,  hf26challenge",
-      "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-touch-grass-winners-152c"
     },
     {
       "title": "[AI in Practice] Upgrading from Gemini 3.5/3.6 to Gemini 4 Argon: Migration Notes and Pitfalls for LINE Bot Developers",
@@ -161,6 +145,22 @@
       "source": "dev",
       "tag": "ai,  gemini",
       "url": "https://dev.to/gde/langchainjs-and-gemini-4-argon-whats-here-and-whats-coming-2kod"
+    },
+    {
+      "title": "Requests, Promises, Assertions, and Declarations: Rewriting Our AI Agent Workflow as a 1986 'Committed Speech' Machine",
+      "hot": "❤️ 21 💬 24",
+      "desc": "Why do 200-line agent prompts, Asimov's Three Laws, and sequential pre-landing checklists all fail the same way? How Fer",
+      "source": "dev",
+      "tag": "ai,  programming",
+      "url": "https://dev.to/gde/requests-promises-assertions-and-declarations-rewriting-our-ai-agent-workflow-as-a-1986-4k4c"
+    },
+    {
+      "title": "How I Feel about the Grace Hopper Celebration Getting Cancelled",
+      "hot": "❤️ 96 💬 11",
+      "desc": "The Grace Hopper Celebration has been around since 1994, and for a lot of people, it's the event for...",
+      "source": "dev",
+      "tag": "wecoded,  news",
+      "url": "https://dev.to/jess/how-i-feel-about-the-grace-hopper-celebration-getting-cancelled-3l2k"
     }
   ],
   "tech": [
@@ -169,23 +169,15 @@
       "hot": "3.0m",
       "desc": "nature.com",
       "source": "tech",
-      "tag": "⬆️ 250 points",
+      "tag": "⬆️ 309 points",
       "url": "https://www.nature.com/articles/d41586-026-03266-x"
-    },
-    {
-      "title": "\"I'm Not Going to Have Blood on My Hands\"",
-      "hot": "3.0m",
-      "desc": "cjr.org",
-      "source": "tech",
-      "tag": "⬆️ 34 points",
-      "url": "https://www.cjr.org/the-interview/nicole-noren-espn-producer-quit-protest-sports-betting-gambling-addiction-draftkings-im-not-going-to-have-blood-on-my-hands.php"
     },
     {
       "title": "Dam removals are bringing fish back across the northeastern United States",
       "hot": "3.0m",
       "desc": "smithsonianmag.com",
       "source": "tech",
-      "tag": "⬆️ 137 points",
+      "tag": "⬆️ 184 points",
       "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/"
     },
     {
@@ -193,23 +185,15 @@
       "hot": "3.0m",
       "desc": "furifont.antfu.me",
       "source": "tech",
-      "tag": "⬆️ 221 points",
+      "tag": "⬆️ 258 points",
       "url": "https://furifont.antfu.me/"
     },
     {
-      "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 122 points",
-      "url": "https://github.com/antirez/c64-hw-simulator"
-    },
-    {
       "title": "DeepSeek-v4.1-Flash-1017",
-      "hot": "2.9m",
+      "hot": "3.0m",
       "desc": "huggingface.co",
       "source": "tech",
-      "tag": "⬆️ 646 points",
+      "tag": "⬆️ 696 points",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
     },
     {
@@ -217,15 +201,23 @@
       "hot": "2.9m",
       "desc": "pele.run",
       "source": "tech",
-      "tag": "⬆️ 169 points",
+      "tag": "⬆️ 228 points",
       "url": "https://pele.run/"
+    },
+    {
+      "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 141 points",
+      "url": "https://github.com/antirez/c64-hw-simulator"
     },
     {
       "title": "Making chicken transparent using Dorito dust",
       "hot": "2.9m",
       "desc": "chillphysicsenjoyer.substack.com",
       "source": "tech",
-      "tag": "⬆️ 236 points",
+      "tag": "⬆️ 251 points",
       "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using"
     },
     {
@@ -233,7 +225,7 @@
       "hot": "2.9m",
       "desc": "thunk.blog",
       "source": "tech",
-      "tag": "⬆️ 16 points",
+      "tag": "⬆️ 43 points",
       "url": "https://thunk.blog/posts/types-of-types-haskell-kind-system/"
     },
     {
@@ -241,88 +233,96 @@
       "hot": "2.9m",
       "desc": "numismaticnews.net",
       "source": "tech",
-      "tag": "⬆️ 180 points",
+      "tag": "⬆️ 225 points",
       "url": "https://www.numismaticnews.net/gold-now-top-u-s-export"
     },
     {
-      "title": "JDK 28",
-      "hot": "2.9m",
-      "desc": "openjdk.org",
-      "source": "tech",
-      "tag": "⬆️ 10 points",
-      "url": "https://openjdk.org/projects/jdk/28/"
-    },
-    {
-      "title": "Source code of the Estonian online voting system",
-      "hot": "2.8m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 128 points",
-      "url": "https://github.com/valimised/ivxv"
-    },
-    {
-      "title": "Microsoft and CMU team up to train early career software engineers",
-      "hot": "2.8m",
-      "desc": "cs.cmu.edu",
-      "source": "tech",
-      "tag": "⬆️ 48 points",
-      "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise"
-    },
-    {
       "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
-      "hot": "2.8m",
+      "hot": "2.9m",
       "desc": "doctor-seo.net",
       "source": "tech",
-      "tag": "⬆️ 57 points",
+      "tag": "⬆️ 82 points",
       "url": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/"
     },
     {
-      "title": "Codex Desktop continuously generates Crashpad pending dumps",
-      "hot": "2.8m",
+      "title": "Source code of the Estonian online voting system",
+      "hot": "2.9m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 44 points",
-      "url": "https://github.com/openai/codex/issues/25921"
-    },
-    {
-      "title": "Solar surpasses nuclear power globally for first time",
-      "hot": "2.8m",
-      "desc": "pv-magazine.com",
-      "source": "tech",
-      "tag": "⬆️ 441 points",
-      "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/"
+      "tag": "⬆️ 160 points",
+      "url": "https://github.com/valimised/ivxv"
     },
     {
       "title": "Show HN: High-quality duck audio synthesizer",
       "hot": "2.8m",
       "desc": "celphase.github.io",
       "source": "tech",
-      "tag": "⬆️ 62 points",
+      "tag": "⬆️ 84 points",
       "url": "https://celphase.github.io/duck-pond/"
     },
     {
-      "title": "Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers",
-      "hot": "2.7m",
-      "desc": "artie.com",
-      "source": "tech",
-      "tag": "⬆️ 1 points",
-      "url": "https://www.artie.com/careers"
-    },
-    {
       "title": "You could have invented transformers from memory",
-      "hot": "2.7m",
+      "hot": "2.8m",
       "desc": "alexwang.ai",
       "source": "tech",
-      "tag": "⬆️ 477 points",
+      "tag": "⬆️ 500 points",
       "url": "https://alexwang.ai/posts/associative-memory/"
     },
     {
+      "title": "Each step of decoding a PNG (2022)",
+      "hot": "2.8m",
+      "desc": "iter.ca",
+      "source": "tech",
+      "tag": "⬆️ 11 points",
+      "url": "https://iter.ca/post/png/"
+    },
+    {
+      "title": "Solar surpasses nuclear power globally for first time",
+      "hot": "2.8m",
+      "desc": "pv-magazine.com",
+      "source": "tech",
+      "tag": "⬆️ 475 points",
+      "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/"
+    },
+    {
+      "title": "Codex Desktop continuously generates Crashpad pending dumps",
+      "hot": "2.8m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 66 points",
+      "url": "https://github.com/openai/codex/issues/25921"
+    },
+    {
       "title": "Laser Fault Injection on a Budget: RP2350 Edition",
-      "hot": "2.7m",
+      "hot": "2.8m",
       "desc": "courk.cc",
       "source": "tech",
-      "tag": "⬆️ 33 points",
+      "tag": "⬆️ 43 points",
       "url": "https://courk.cc/rp2350-challenge-laser"
+    },
+    {
+      "title": "Show HN: Parin – A 2D game engine between raylib and Godot, written in Dlang",
+      "hot": "2.7m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 45 points",
+      "url": "https://github.com/Kapendev/parin"
+    },
+    {
+      "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
+      "hot": "2.7m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 122 points",
+      "url": "https://github.com/mikroverk/esp32sim"
+    },
+    {
+      "title": "I Became a Citizen of Japan",
+      "hot": "2.7m",
+      "desc": "derekwessman.com",
+      "source": "tech",
+      "tag": "⬆️ 144 points",
+      "url": "https://www.derekwessman.com/blog-1/natural"
     }
   ],
   "space": [
@@ -482,7 +482,7 @@
     },
     {
       "title": "HeyPuter/everything: We're rebuilding and open-sourcing the world’s software fro",
-      "hot": "⭐ 2.0k",
+      "hot": "⭐ 2.1k",
       "desc": "We're rebuilding and open-sourcing the world’s software from scratch.",
       "source": "github",
       "tag": "JavaScript",
@@ -513,44 +513,20 @@
       "url": "https://github.com/chenglou/handwired"
     },
     {
-      "title": "shaongitbd/doory: Open source canva alternative",
-      "hot": "⭐ 1.5k",
-      "desc": "Open source canva alternative",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/shaongitbd/doory"
-    },
-    {
-      "title": "opengeos/RustGIS: A fast, free and open-source GIS in pure Rust.",
-      "hot": "⭐ 1.5k",
-      "desc": "A fast, free and open-source GIS in pure Rust.",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/opengeos/RustGIS"
-    },
-    {
-      "title": "rociiu/talorys: Your personal AI agent in your own Cloudflare account. Chat, mem",
-      "hot": "⭐ 1.3k",
-      "desc": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talor",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/rociiu/talorys"
-    },
-    {
       "title": "Supermedo/uncharted_pc: Uncharted: The Nathan Drake Collection running natively ",
-      "hot": "⭐ 1.2k",
+      "hot": "⭐ 1.3k",
       "desc": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
       "source": "github",
       "tag": "C++",
       "url": "https://github.com/Supermedo/uncharted_pc"
     },
     {
-      "title": "marclou/mailcheap: Newsletters where you pay for the emails you send, not for do",
-      "hot": "⭐ 1.2k",
-      "desc": "Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-",
+      "title": "Caho1/open-claude-ui: 基于 REA 深度拆解并高保真还��� Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 ",
+      "hot": "⭐ 1.1k",
+      "desc": "基于 REA 深度拆解并高保真还��� Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互��理算法，附带 3000+ 行逆向分析手册。",
       "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/marclou/mailcheap"
+      "tag": "TypeScript",
+      "url": "https://github.com/Caho1/open-claude-ui"
     },
     {
       "title": "feder-cr/git-ai: Git designed for AI agents.",
@@ -561,12 +537,36 @@
       "url": "https://github.com/feder-cr/git-ai"
     },
     {
-      "title": "Caho1/open-claude-ui: 基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬",
+      "title": "chenwei810/Semiconductor_Manufacturing_Introduction: Introduction to Semiconduct",
       "hot": "⭐ 1.1k",
-      "desc": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
+      "desc": "Introduction to Semiconductor Manufacturing",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/chenwei810/Semiconductor_Manufacturing_Introduction"
+    },
+    {
+      "title": "zhuyansen/new-term-radar: Daily radar for new AI terms: names of new models, pro",
+      "hot": "⭐ 1.1k",
+      "desc": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/zhuyansen/new-term-radar"
+    },
+    {
+      "title": "AjncSystem/ShadowOfTheColossus-PC: Native Windows port of Shadow of the Colossus",
+      "hot": "⭐ 984",
+      "desc": "Native Windows port of Shadow of the Colossus (PS4, CUSA08809) - bring your own game dump. Port nativo para PC.",
+      "source": "github",
+      "tag": "C++",
+      "url": "https://github.com/AjncSystem/ShadowOfTheColossus-PC"
+    },
+    {
+      "title": "outcrawlai/scout: Scout: the open-source browser agent, by Outcrawl. Mirrored au",
+      "hot": "⭐ 939",
+      "desc": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
       "source": "github",
       "tag": "TypeScript",
-      "url": "https://github.com/Caho1/open-claude-ui"
+      "url": "https://github.com/outcrawlai/scout"
     }
   ]
 }
