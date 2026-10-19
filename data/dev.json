@@ -2,23 +2,63 @@
   "data": [
     {
       "title": "Promise Delivered: Welcome to the DEV Hall of Fame (65 Authors, 65 Masterpieces)",
-      "hot": "❤️ 139 💬 71",
+      "hot": "❤️ 160 💬 74",
       "desc": "Status: Promise delivered ✅              The Doors Are Open   A little over a month ago, I published...",
       "source": "dev",
       "tag": "community,  discuss",
       "url": "https://dev.to/georgekobaidze/promise-delivered-welcome-to-the-dev-hall-of-fame-65-authors-65-masterpieces-15fa"
     },
     {
+      "title": "Stress-Testing Gemini 4 Argon: Building a 3D Flutter Kart Game in 15 Prompts with Zero Assets",
+      "hot": "❤️ 7 💬 0",
+      "desc": "Most AI coding benchmarks test standard web apps or CRUD dashboards. Frontier models can already...",
+      "source": "dev",
+      "tag": "flutter,  ai",
+      "url": "https://dev.to/gde/stress-testing-gemini-4-argon-building-a-3d-flutter-kart-game-in-15-prompts-with-zero-assets-55ha"
+    },
+    {
+      "title": "Can a 26B MoE Run on an 8 GB GPU? Gemma 4 26B A4B on an RTX 3050",
+      "hot": "❤️ 5 💬 0",
+      "desc": "Gemma 4 26B A4B, a 14.4 GB mixture-of-experts model, serves from an 8 GB RTX 3050 with most of its experts in system RAM",
+      "source": "dev",
+      "tag": "gemma,  llamacpp",
+      "url": "https://dev.to/gde/can-a-26b-moe-run-on-an-8-gb-gpu-gemma-4-26b-a4b-on-an-rtx-3050-2efn"
+    },
+    {
       "title": "Meme Monday",
-      "hot": "❤️ 16 💬 11",
+      "hot": "❤️ 27 💬 18",
       "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
       "source": "dev",
       "tag": "discuss,  watercooler",
       "url": "https://dev.to/ben/meme-monday-2hle"
     },
     {
+      "title": "Natural Languages Have Design Trade-offs Too: Georgian Is Dynamically Typed, English Is Statically Typed",
+      "hot": "❤️ 106 💬 57",
+      "desc": "Table of Contents    How This Started  Feature #1: Articles (or the Lack of Them)   The...",
+      "source": "dev",
+      "tag": "programming,  writing",
+      "url": "https://dev.to/georgekobaidze/natural-languages-have-design-trade-offs-too-georgian-is-dynamically-typed-english-is-statically-emi"
+    },
+    {
+      "title": "Comparing Qwen and Gemma on the Low End: Qwen Is Faster Without Drafting, Gemma Has Better Quality",
+      "hot": "❤️ 13 💬 0",
+      "desc": "Step-by-step: serving Qwen3.5-2B with llama.cpp on an 8 GB RTX 3050 and a 4 GB GTX 1650 Ti beside Gemma 4 E2B, checking ",
+      "source": "dev",
+      "tag": "gemma,  qwen",
+      "url": "https://dev.to/gde/comparing-qwen-and-gemma-on-the-low-end-qwen-is-faster-without-drafting-gemma-has-better-quality-30bo"
+    },
+    {
+      "title": "What was your win this week?!",
+      "hot": "❤️ 30 💬 36",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-36am"
+    },
+    {
       "title": "Dev Opportunity Radar #21: $500K Y Combinator Funding, Bolt Builders Week, and AI Safety Research Residency",
-      "hot": "❤️ 88 💬 9",
+      "hot": "❤️ 89 💬 9",
       "desc": "TL;DR  Welcome back to Dev Opportunity Radar!  This is a weekly series where I share opportunities,...",
       "source": "dev",
       "tag": "discuss,  community",
@@ -49,14 +89,6 @@
       "url": "https://dev.to/gde/duckless-serverless-duckdb-on-google-cloud-in-your-own-project-4o5a"
     },
     {
-      "title": "What was your win this week?!",
-      "hot": "❤️ 24 💬 29",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "weeklyretro",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-36am"
-    },
-    {
       "title": "Nobody’s winning the AI race yet",
       "hot": "❤️ 17 💬 2",
       "desc": "By Ryan Swift  Yesterday, Google finally released its Gemini 4 Argon model for public use. It’s...",
@@ -74,7 +106,7 @@
     },
     {
       "title": "How I Feel about the Grace Hopper Celebration Getting Cancelled",
-      "hot": "❤️ 99 💬 13",
+      "hot": "❤️ 100 💬 14",
       "desc": "The Grace Hopper Celebration has been around since 1994, and for a lot of people, it's the event for...",
       "source": "dev",
       "tag": "wecoded,  news",
@@ -87,14 +119,6 @@
       "source": "dev",
       "tag": "ai,  agents",
       "url": "https://dev.to/dailycontext/your-financial-agent-passed-every-eval-can-you-defend-its-decision-1npg"
-    },
-    {
-      "title": "Q&A with Al Chen, Software Engineering Leader at Cisco",
-      "hot": "❤️ 9 💬 0",
-      "desc": "We interviewed Al Chen for year's AI Engineer NYC event. Al is a Software Engineering Leader at...",
-      "source": "dev",
-      "tag": "aie,  ai",
-      "url": "https://dev.to/dailycontext/qa-with-al-chen-software-engineering-leader-at-cisco-jj7"
     },
     {
       "title": "Why Smaller AI Models Can Win in the Enterprise",
@@ -113,6 +137,14 @@
       "url": "https://dev.to/dailycontext/a-world-worth-understanding-f08"
     },
     {
+      "title": "Q&A with Al Chen, Software Engineering Leader at Cisco",
+      "hot": "❤️ 9 💬 0",
+      "desc": "We interviewed Al Chen for year's AI Engineer NYC event. Al is a Software Engineering Leader at...",
+      "source": "dev",
+      "tag": "aie,  ai",
+      "url": "https://dev.to/dailycontext/qa-with-al-chen-software-engineering-leader-at-cisco-jj7"
+    },
+    {
       "title": "💅 Keyboard Makeover",
       "hot": "❤️ 83 💬 36",
       "desc": "I have had this interesting piece of psychedelic looking vinyl for some time. Today I finally found a...",
@@ -127,39 +159,7 @@
       "source": "dev",
       "tag": "gemma,  llamacpp",
       "url": "https://dev.to/gde/do-drafters-work-on-small-models-gemma-4-e2b-and-e4b-on-two-small-gpus-1b4g"
-    },
-    {
-      "title": "🌑 Blue October",
-      "hot": "❤️ 26 💬 6",
-      "desc": "TLDR: A brief summary of how I got here.             The Mindset   For the last 3 years, I have been...",
-      "source": "dev",
-      "tag": "webdev,  programming",
-      "url": "https://dev.to/annavi11arrea1/blue-october-1jia"
-    },
-    {
-      "title": "Small Apache-2.0 Models Against Gemma 4 E2B on One TPU v5e: Which Ones Keep Up?",
-      "hot": "❤️ 21 💬 3",
-      "desc": "Fourteen Apache-2.0 and MIT open-weight models that fit one TPU v5e chip, served one after another through vLLM on the s",
-      "source": "dev",
-      "tag": "tpu,  vllm",
-      "url": "https://dev.to/gde/small-apache-20-models-against-gemma-4-e2b-on-one-tpu-v5e-which-ones-keep-up-mm4"
-    },
-    {
-      "title": "Why you still need a Website Portfolio, even though everyone can Vibe Code it.",
-      "hot": "❤️ 257 💬 249",
-      "desc": "If you have been following me for a long time, you already know that I have been holding off on my...",
-      "source": "dev",
-      "tag": "discuss,  community",
-      "url": "https://dev.to/francistrdev/why-you-still-need-a-website-portfolio-even-though-everyone-can-vibe-code-it-e63"
-    },
-    {
-      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge: Touch Grass Winners!",
-      "hot": "❤️ 39 💬 20",
-      "desc": "We are so excited to announce the winners of the Hacktoberfest Open-Source AI Challenge: Touch...",
-      "source": "dev",
-      "tag": "devchallenge,  hf26challenge",
-      "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-touch-grass-winners-152c"
     }
   ],
-  "updatedAt": "2026-10-19T14:22:35.926Z"
+  "updatedAt": "2026-10-19T20:00:53.767Z"
 }
