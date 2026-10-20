@@ -9,20 +9,20 @@
       "url": "https://dev.to/georgekobaidze/promise-delivered-welcome-to-the-dev-hall-of-fame-65-authors-65-masterpieces-15fa"
     },
     {
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 9 💬 0",
-      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
-      "source": "dev",
-      "tag": "top7,  discuss",
-      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-13ii"
-    },
-    {
       "title": "Stress-Testing Gemini 4 Argon: Building a 3D Flutter Kart Game in 15 Prompts with Zero Assets",
-      "hot": "❤️ 15 💬 2",
+      "hot": "❤️ 15 💬 3",
       "desc": "Most AI coding benchmarks test standard web apps or CRUD dashboards. Frontier models can already...",
       "source": "dev",
       "tag": "flutter,  ai",
       "url": "https://dev.to/gde/stress-testing-gemini-4-argon-building-a-3d-flutter-kart-game-in-15-prompts-with-zero-assets-55ha"
+    },
+    {
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "hot": "❤️ 41 💬 10",
+      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+      "source": "dev",
+      "tag": "top7,  discuss",
+      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-13ii"
     },
     {
       "title": "Can a 26B MoE Run on an 8 GB GPU? Gemma 4 26B A4B on an RTX 3050",
@@ -34,7 +34,7 @@
     },
     {
       "title": "Join the Hacktoberfest Open-Source AI Challenge: Slow and Steady! $2,850 in Prizes Across 21 Winners.",
-      "hot": "❤️ 67 💬 10",
+      "hot": "❤️ 68 💬 10",
       "desc": "Week 3 of our five Hacktoberfest DEV Challenges starts today! Running through October 25, the...",
       "source": "dev",
       "tag": "devchallenge,  hf26challenge",
@@ -42,31 +42,15 @@
     },
     {
       "title": "Natural Languages Have Design Trade-offs Too: Georgian Is Dynamically Typed, English Is Statically Typed",
-      "hot": "❤️ 119 💬 63",
+      "hot": "❤️ 125 💬 63",
       "desc": "Table of Contents    How This Started  Feature #1: Articles (or the Lack of Them)   The...",
       "source": "dev",
       "tag": "programming,  writing",
       "url": "https://dev.to/georgekobaidze/natural-languages-have-design-trade-offs-too-georgian-is-dynamically-typed-english-is-statically-emi"
     },
     {
-      "title": "Meme Monday",
-      "hot": "❤️ 41 💬 28",
-      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
-      "source": "dev",
-      "tag": "discuss,  watercooler",
-      "url": "https://dev.to/ben/meme-monday-2hle"
-    },
-    {
-      "title": "What was your win this week?!",
-      "hot": "❤️ 31 💬 37",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "weeklyretro",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-36am"
-    },
-    {
       "title": "Dev Opportunity Radar #21: $500K Y Combinator Funding, Bolt Builders Week, and AI Safety Research Residency",
-      "hot": "❤️ 90 💬 9",
+      "hot": "❤️ 91 💬 9",
       "desc": "TL;DR  Welcome back to Dev Opportunity Radar!  This is a weekly series where I share opportunities,...",
       "source": "dev",
       "tag": "discuss,  community",
@@ -113,6 +97,14 @@
       "url": "https://dev.to/jess/how-i-feel-about-the-grace-hopper-celebration-getting-cancelled-3l2k"
     },
     {
+      "title": "Q&A with Al Chen, Software Engineering Leader at Cisco",
+      "hot": "❤️ 9 💬 0",
+      "desc": "We interviewed Al Chen for year's AI Engineer NYC event. Al is a Software Engineering Leader at...",
+      "source": "dev",
+      "tag": "aie,  ai",
+      "url": "https://dev.to/dailycontext/qa-with-al-chen-software-engineering-leader-at-cisco-jj7"
+    },
+    {
       "title": "Why Smaller AI Models Can Win in the Enterprise",
       "hot": "❤️ 8 💬 0",
       "desc": "Three engineering lessons from building a 1-billion-parameter foundation model for enterprise fraud detection.",
@@ -127,14 +119,6 @@
       "source": "dev",
       "tag": "aie,  career",
       "url": "https://dev.to/dailycontext/a-world-worth-understanding-f08"
-    },
-    {
-      "title": "Q&A with Al Chen, Software Engineering Leader at Cisco",
-      "hot": "❤️ 9 💬 0",
-      "desc": "We interviewed Al Chen for year's AI Engineer NYC event. Al is a Software Engineering Leader at...",
-      "source": "dev",
-      "tag": "aie,  ai",
-      "url": "https://dev.to/dailycontext/qa-with-al-chen-software-engineering-leader-at-cisco-jj7"
     },
     {
       "title": "💅 Keyboard Makeover",
@@ -153,13 +137,29 @@
       "url": "https://dev.to/gde/do-drafters-work-on-small-models-gemma-4-e2b-and-e4b-on-two-small-gpus-1b4g"
     },
     {
+      "title": "Meme Monday",
+      "hot": "❤️ 41 💬 29",
+      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
+      "source": "dev",
+      "tag": "discuss,  watercooler",
+      "url": "https://dev.to/ben/meme-monday-2hle"
+    },
+    {
       "title": "🌑 Blue October",
       "hot": "❤️ 26 💬 6",
       "desc": "TLDR: A brief summary of how I got here.             The Mindset   For the last 3 years, I have been...",
       "source": "dev",
       "tag": "webdev,  programming",
       "url": "https://dev.to/annavi11arrea1/blue-october-1jia"
+    },
+    {
+      "title": "Comparing Qwen and Gemma on the Low End: Qwen Is Faster Without Drafting, Gemma Has Better Quality",
+      "hot": "❤️ 14 💬 0",
+      "desc": "Step-by-step: serving Qwen3.5-2B with llama.cpp on an 8 GB RTX 3050 and a 4 GB GTX 1650 Ti beside Gemma 4 E2B, checking ",
+      "source": "dev",
+      "tag": "gemma,  qwen",
+      "url": "https://dev.to/gde/comparing-qwen-and-gemma-on-the-low-end-qwen-is-faster-without-drafting-gemma-has-better-quality-30bo"
     }
   ],
-  "updatedAt": "2026-10-20T13:03:45.131Z"
+  "updatedAt": "2026-10-20T18:01:18.222Z"
 }
