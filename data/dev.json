@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "Promise Delivered: Welcome to the DEV Hall of Fame (65 Authors, 65 Masterpieces)",
-      "hot": "❤️ 168 💬 77",
+      "hot": "❤️ 168 💬 78",
       "desc": "Status: Promise delivered ✅              The Doors Are Open   A little over a month ago, I published...",
       "source": "dev",
       "tag": "community,  discuss",
@@ -10,7 +10,7 @@
     },
     {
       "title": "Stress-Testing Gemini 4 Argon: Building a 3D Flutter Kart Game in 15 Prompts with Zero Assets",
-      "hot": "❤️ 10 💬 1",
+      "hot": "❤️ 11 💬 1",
       "desc": "Most AI coding benchmarks test standard web apps or CRUD dashboards. Frontier models can already...",
       "source": "dev",
       "tag": "flutter,  ai",
@@ -18,7 +18,7 @@
     },
     {
       "title": "Can a 26B MoE Run on an 8 GB GPU? Gemma 4 26B A4B on an RTX 3050",
-      "hot": "❤️ 5 💬 0",
+      "hot": "❤️ 6 💬 0",
       "desc": "Gemma 4 26B A4B, a 14.4 GB mixture-of-experts model, serves from an 8 GB RTX 3050 with most of its experts in system RAM",
       "source": "dev",
       "tag": "gemma,  llamacpp",
@@ -26,7 +26,7 @@
     },
     {
       "title": "Join the Hacktoberfest Open-Source AI Challenge: Slow and Steady! $2,850 in Prizes Across 21 Winners.",
-      "hot": "❤️ 42 💬 3",
+      "hot": "❤️ 44 💬 2",
       "desc": "Week 3 of our five Hacktoberfest DEV Challenges starts today! Running through October 25, the...",
       "source": "dev",
       "tag": "devchallenge,  hf26challenge",
@@ -55,14 +55,6 @@
       "source": "dev",
       "tag": "programming,  writing",
       "url": "https://dev.to/georgekobaidze/natural-languages-have-design-trade-offs-too-georgian-is-dynamically-typed-english-is-statically-emi"
-    },
-    {
-      "title": "Comparing Qwen and Gemma on the Low End: Qwen Is Faster Without Drafting, Gemma Has Better Quality",
-      "hot": "❤️ 13 💬 0",
-      "desc": "Step-by-step: serving Qwen3.5-2B with llama.cpp on an 8 GB RTX 3050 and a 4 GB GTX 1650 Ti beside Gemma 4 E2B, checking ",
-      "source": "dev",
-      "tag": "gemma,  qwen",
-      "url": "https://dev.to/gde/comparing-qwen-and-gemma-on-the-low-end-qwen-is-faster-without-drafting-gemma-has-better-quality-30bo"
     },
     {
       "title": "Autonomous agent loops with Gemini 4 Argon and GKE Agent Sandbox: Running untrusted code safely at scale",
@@ -121,14 +113,6 @@
       "url": "https://dev.to/jess/how-i-feel-about-the-grace-hopper-celebration-getting-cancelled-3l2k"
     },
     {
-      "title": "Your Financial Agent Passed Every Eval. Can You Defend Its Decision?",
-      "hot": "❤️ 18 💬 4",
-      "desc": "In audit, the opinion is the product, and an opinion is only as good as its basis. Being right isn’t...",
-      "source": "dev",
-      "tag": "ai,  agents",
-      "url": "https://dev.to/dailycontext/your-financial-agent-passed-every-eval-can-you-defend-its-decision-1npg"
-    },
-    {
       "title": "Why Smaller AI Models Can Win in the Enterprise",
       "hot": "❤️ 8 💬 0",
       "desc": "Three engineering lessons from building a 1-billion-parameter foundation model for enterprise fraud detection.",
@@ -159,7 +143,23 @@
       "source": "dev",
       "tag": "mentalhealth,  craft",
       "url": "https://dev.to/annavi11arrea1/keyboard-makeover-i6a"
+    },
+    {
+      "title": "Do Drafters Work on Small Models? Gemma 4 E2B and E4B on Two Small GPUs",
+      "hot": "❤️ 8 💬 3",
+      "desc": "Yes. Speculative decoding with Google's 59 MB QAT multi-token prediction (MTP) drafters speeds up Gemma 4 E4B 1.72x and ",
+      "source": "dev",
+      "tag": "gemma,  llamacpp",
+      "url": "https://dev.to/gde/do-drafters-work-on-small-models-gemma-4-e2b-and-e4b-on-two-small-gpus-1b4g"
+    },
+    {
+      "title": "🌑 Blue October",
+      "hot": "❤️ 26 💬 6",
+      "desc": "TLDR: A brief summary of how I got here.             The Mindset   For the last 3 years, I have been...",
+      "source": "dev",
+      "tag": "webdev,  programming",
+      "url": "https://dev.to/annavi11arrea1/blue-october-1jia"
     }
   ],
-  "updatedAt": "2026-10-19T23:48:39.168Z"
+  "updatedAt": "2026-10-20T02:12:46.931Z"
 }

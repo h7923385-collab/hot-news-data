@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-19T23:48:39.168Z",
+  "updatedAt": "2026-10-20T02:12:46.931Z",
   "source": "live",
   "dev": [
     {
       "title": "Promise Delivered: Welcome to the DEV Hall of Fame (65 Authors, 65 Masterpieces)",
-      "hot": "❤️ 168 💬 77",
+      "hot": "❤️ 168 💬 78",
       "desc": "Status: Promise delivered ✅              The Doors Are Open   A little over a month ago, I published...",
       "source": "dev",
       "tag": "community,  discuss",
@@ -12,7 +12,7 @@
     },
     {
       "title": "Stress-Testing Gemini 4 Argon: Building a 3D Flutter Kart Game in 15 Prompts with Zero Assets",
-      "hot": "❤️ 10 💬 1",
+      "hot": "❤️ 11 💬 1",
       "desc": "Most AI coding benchmarks test standard web apps or CRUD dashboards. Frontier models can already...",
       "source": "dev",
       "tag": "flutter,  ai",
@@ -20,7 +20,7 @@
     },
     {
       "title": "Can a 26B MoE Run on an 8 GB GPU? Gemma 4 26B A4B on an RTX 3050",
-      "hot": "❤️ 5 💬 0",
+      "hot": "❤️ 6 💬 0",
       "desc": "Gemma 4 26B A4B, a 14.4 GB mixture-of-experts model, serves from an 8 GB RTX 3050 with most of its experts in system RAM",
       "source": "dev",
       "tag": "gemma,  llamacpp",
@@ -28,7 +28,7 @@
     },
     {
       "title": "Join the Hacktoberfest Open-Source AI Challenge: Slow and Steady! $2,850 in Prizes Across 21 Winners.",
-      "hot": "❤️ 42 💬 3",
+      "hot": "❤️ 44 💬 2",
       "desc": "Week 3 of our five Hacktoberfest DEV Challenges starts today! Running through October 25, the...",
       "source": "dev",
       "tag": "devchallenge,  hf26challenge",
@@ -57,14 +57,6 @@
       "source": "dev",
       "tag": "programming,  writing",
       "url": "https://dev.to/georgekobaidze/natural-languages-have-design-trade-offs-too-georgian-is-dynamically-typed-english-is-statically-emi"
-    },
-    {
-      "title": "Comparing Qwen and Gemma on the Low End: Qwen Is Faster Without Drafting, Gemma Has Better Quality",
-      "hot": "❤️ 13 💬 0",
-      "desc": "Step-by-step: serving Qwen3.5-2B with llama.cpp on an 8 GB RTX 3050 and a 4 GB GTX 1650 Ti beside Gemma 4 E2B, checking ",
-      "source": "dev",
-      "tag": "gemma,  qwen",
-      "url": "https://dev.to/gde/comparing-qwen-and-gemma-on-the-low-end-qwen-is-faster-without-drafting-gemma-has-better-quality-30bo"
     },
     {
       "title": "Autonomous agent loops with Gemini 4 Argon and GKE Agent Sandbox: Running untrusted code safely at scale",
@@ -123,14 +115,6 @@
       "url": "https://dev.to/jess/how-i-feel-about-the-grace-hopper-celebration-getting-cancelled-3l2k"
     },
     {
-      "title": "Your Financial Agent Passed Every Eval. Can You Defend Its Decision?",
-      "hot": "❤️ 18 💬 4",
-      "desc": "In audit, the opinion is the product, and an opinion is only as good as its basis. Being right isn’t...",
-      "source": "dev",
-      "tag": "ai,  agents",
-      "url": "https://dev.to/dailycontext/your-financial-agent-passed-every-eval-can-you-defend-its-decision-1npg"
-    },
-    {
       "title": "Why Smaller AI Models Can Win in the Enterprise",
       "hot": "❤️ 8 💬 0",
       "desc": "Three engineering lessons from building a 1-billion-parameter foundation model for enterprise fraud detection.",
@@ -161,29 +145,321 @@
       "source": "dev",
       "tag": "mentalhealth,  craft",
       "url": "https://dev.to/annavi11arrea1/keyboard-makeover-i6a"
+    },
+    {
+      "title": "Do Drafters Work on Small Models? Gemma 4 E2B and E4B on Two Small GPUs",
+      "hot": "❤️ 8 💬 3",
+      "desc": "Yes. Speculative decoding with Google's 59 MB QAT multi-token prediction (MTP) drafters speeds up Gemma 4 E4B 1.72x and ",
+      "source": "dev",
+      "tag": "gemma,  llamacpp",
+      "url": "https://dev.to/gde/do-drafters-work-on-small-models-gemma-4-e2b-and-e4b-on-two-small-gpus-1b4g"
+    },
+    {
+      "title": "🌑 Blue October",
+      "hot": "❤️ 26 💬 6",
+      "desc": "TLDR: A brief summary of how I got here.             The Mindset   For the last 3 years, I have been...",
+      "source": "dev",
+      "tag": "webdev,  programming",
+      "url": "https://dev.to/annavi11arrea1/blue-october-1jia"
+    }
+  ],
+  "tech": [
+    {
+      "title": "Lula supporters protest against Meta to denounce its 'electoral interference'",
+      "hot": "3.0m",
+      "desc": "efe.com",
+      "source": "tech",
+      "tag": "⬆️ 103 points",
+      "url": "https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/"
+    },
+    {
+      "title": "MiniMax M3.1 Flash",
+      "hot": "3.0m",
+      "desc": "minimax.io",
+      "source": "tech",
+      "tag": "⬆️ 389 points",
+      "url": "https://www.minimax.io/blog/minimax-m31f"
+    },
+    {
+      "title": "I built a drone with only one motor [video]",
+      "hot": "3.0m",
+      "desc": "youtube.com",
+      "source": "tech",
+      "tag": "⬆️ 394 points",
+      "url": "https://www.youtube.com/watch?v=Ndftcft6XhU"
+    },
+    {
+      "title": "Wine ported to OpenBSD",
+      "hot": "3.0m",
+      "desc": "marc.info",
+      "source": "tech",
+      "tag": "⬆️ 508 points",
+      "url": "https://marc.info/?l=openbsd-ports&m=179236125692175"
+    },
+    {
+      "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
+      "hot": "2.9m",
+      "desc": "bsd.network",
+      "source": "tech",
+      "tag": "⬆️ 93 points",
+      "url": "https://bsd.network/@brynet/117407035545900963"
+    },
+    {
+      "title": "Weball: Play Katamari on Websites",
+      "hot": "2.9m",
+      "desc": "funwithcomputervision.com",
+      "source": "tech",
+      "tag": "⬆️ 61 points",
+      "url": "https://www.funwithcomputervision.com/weball/"
+    },
+    {
+      "title": "RuneScape Bench: MMOs for Agents [video]",
+      "hot": "2.9m",
+      "desc": "youtube.com",
+      "source": "tech",
+      "tag": "⬆️ 158 points",
+      "url": "https://www.youtube.com/watch?v=cNm4zyUtWj0"
+    },
+    {
+      "title": "It's still ok to enjoy programming",
+      "hot": "2.9m",
+      "desc": "chriskiehl.com",
+      "source": "tech",
+      "tag": "⬆️ 449 points",
+      "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming"
+    },
+    {
+      "title": "Android apps running native on macOS",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 263 points",
+      "url": "https://github.com/kksimp/Mac.apk"
+    },
+    {
+      "title": "One Hash Bloom Filters",
+      "hot": "2.9m",
+      "desc": "calabro.io",
+      "source": "tech",
+      "tag": "⬆️ 55 points",
+      "url": "https://calabro.io/ohbf"
+    },
+    {
+      "title": "France's supermarket fridges were vulnerable online for months",
+      "hot": "2.9m",
+      "desc": "ipinfo.io",
+      "source": "tech",
+      "tag": "⬆️ 62 points",
+      "url": "https://ipinfo.io/blog/france-fridges-hack"
+    },
+    {
+      "title": "Ukraine claims first drone evacuation of wounded soldier",
+      "hot": "2.8m",
+      "desc": "nbcnews.com",
+      "source": "tech",
+      "tag": "⬆️ 127 points",
+      "url": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310"
+    },
+    {
+      "title": "Putting Linux on my RTX Spark laptop because I don't have a Microsoft account",
+      "hot": "2.8m",
+      "desc": "josie.lol",
+      "source": "tech",
+      "tag": "⬆️ 184 points",
+      "url": "https://josie.lol/blog/linux-rtx-spark"
+    },
+    {
+      "title": "Timestral: Mistral's time-series foundation models",
+      "hot": "2.8m",
+      "desc": "mistral.ai",
+      "source": "tech",
+      "tag": "⬆️ 556 points",
+      "url": "https://mistral.ai/news/timestral/"
+    },
+    {
+      "title": "What If Video Games Came on VHS? One Modder Is Finding Out",
+      "hot": "2.8m",
+      "desc": "gardinerbryant.com",
+      "source": "tech",
+      "tag": "⬆️ 9 points",
+      "url": "https://gardinerbryant.com/what-if-video-games-came-on-vhs/"
+    },
+    {
+      "title": "An ad-free Android TV",
+      "hot": "2.8m",
+      "desc": "cretezy.com",
+      "source": "tech",
+      "tag": "⬆️ 24 points",
+      "url": "https://cretezy.com/2026/ad-free-android-tv"
+    },
+    {
+      "title": "Starcraft: Ashfall",
+      "hot": "2.8m",
+      "desc": "starcraft-shooter-2026.pages.dev",
+      "source": "tech",
+      "tag": "⬆️ 326 points",
+      "url": "https://starcraft-shooter-2026.pages.dev/"
+    },
+    {
+      "title": "“bonsoir, Elliot”: How abliterated models can get you pwned",
+      "hot": "2.7m",
+      "desc": "projectdiscovery.io",
+      "source": "tech",
+      "tag": "⬆️ 35 points",
+      "url": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned"
+    },
+    {
+      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+      "hot": "2.7m",
+      "desc": "redact.dev",
+      "source": "tech",
+      "tag": "⬆️ 29 points",
+      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions"
+    },
+    {
+      "title": "Alternatives to animal testing are finally taking off",
+      "hot": "2.7m",
+      "desc": "spectrum.ieee.org",
+      "source": "tech",
+      "tag": "⬆️ 323 points",
+      "url": "https://spectrum.ieee.org/alternatives-to-animal-testing"
+    }
+  ],
+  "space": [
+    {
+      "title": "Curiosity Blog, Sols 5036-5042: Watching the Clouds Go By",
+      "hot": "10/20",
+      "desc": "Written by Alex Innanen, Atmospheric Scientist at York University Earth planning date: Friday, Oct. 9, 2026 Happy New Mars Year! We mark the start of ",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5036-5042-watching-the-clouds-go-by/"
+    },
+    {
+      "title": "JAXA’s MMX Enroute to Mars To Return Samples of Phobos",
+      "hot": "10/20",
+      "desc": "The Japan Aerospace Exploration Agency successfully launch the Martian Moons eXploration (MMX) mission this afternoon EDT. MMX will not land on Mars, ",
+      "source": "space",
+      "tag": "SpacePolicyOnline.com",
+      "url": "https://spacepolicyonline.com/news/jaxas-mmx-enroute-to-mars-to-return-samples-of-phobos/"
+    },
+    {
+      "title": "NASA Improves Shock, Vibration Analysis",
+      "hot": "10/19",
+      "desc": "Rockets vibrate, shake, and flex intensely as they climb into space, and spacecraft packed with delicate scientific instruments must survive those for",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/centers-and-facilities/kennedy/nasa-improves-shock-vibration-analysis/"
+    },
+    {
+      "title": "Software",
+      "hot": "10/19",
+      "desc": "Research teams at NASA’s Glenn Research Center are involved in developing theory and software to predict the noise from aircraft engines. This softwar",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-software/"
+    },
+    {
+      "title": "Experimental Facilities",
+      "hot": "10/19",
+      "desc": "Research teams at the NASA Glenn Research Center perform experiments in world-class facilities such as the 9- by 15-Foot Low-Speed Wind Tunnel (9 x15 ",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-experimental-facilities/"
+    },
+    {
+      "title": "NASA’s Simulated Mars Crew Marks One Year Inside Habitat",
+      "hot": "10/19",
+      "desc": "The four crew members in NASA’s simulated Mars mission have spent the past year living and working in isolation in a confined habitat at NASA’s Johnso",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/humans-in-space/nasas-simulated-mars-crew-marks-one-year-inside-habitat/"
+    },
+    {
+      "title": "Instrumentation",
+      "hot": "10/19",
+      "desc": "To measure airflow and sound, research teams at the NASA Glenn Research Center use special instrumentation like particle image velocimetry, hot wire a",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/centers-and-facilities/glenn/instrumentation-2/"
+    },
+    {
+      "title": "Instrumentation",
+      "hot": "10/19",
+      "desc": "To measure airflow and sound, research teams at the NASA Glenn Research Center use special instrumentation like particle image velocimetry, hot wire a",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-instrumentation/"
+    },
+    {
+      "title": "UARX Space troubleshoots anomalies on maiden OTV Flight",
+      "hot": "10/19",
+      "desc": "\nSAN FRANCISCO –Spanish startup UARX Space is remedying anomalies identified during the maiden flight of OSSIE-D, an orbital transfer vehicle (OTV) la",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/uarx-space-troubleshoots-anomalies-on-maiden-otv-flight/"
+    },
+    {
+      "title": "Martian Dawn",
+      "hot": "10/19",
+      "desc": "NASA’s Curiosity captures the dawn on Mars – as well as elongated ridges formed by wind erosion, or yardangs – in this close-up from a panorama releas",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/image-article/martian-dawn/"
+    },
+    {
+      "title": "Japanese MMX mission set for launch to study Martian moons",
+      "hot": "10/19",
+      "desc": "The Japanese Aerospace Exploration Agency (JAXA) is poised to launch a planetary probe to Mars’s…\nThe post Japanese MMX mission set for launch to stud",
+      "source": "space",
+      "tag": "NASASpaceflight",
+      "url": "https://www.nasaspaceflight.com/2026/10/mmx-launch/"
+    },
+    {
+      "title": "US political uncertainty complicates long-term Artemis commitments, Polish minister says",
+      "hot": "10/19",
+      "desc": "Political and budgetary uncertainty in the United States poses a risk to long-term planning for space exploration programmes, according to a Polish go",
+      "source": "space",
+      "tag": "European Spaceflight",
+      "url": "https://europeanspaceflight.com/us-political-uncertainty-complicates-long-term-artemis-commitments-polish-minister-says/"
+    },
+    {
+      "title": "PLD Space begins system-level testing of Miura 5 as first three vehicles take shape",
+      "hot": "10/19",
+      "desc": "PLD Space has entered a new phase ahead of the first demonstration flight of its…\nThe post PLD Space begins system-level testing of Miura 5 as first t",
+      "source": "space",
+      "tag": "NASASpaceflight",
+      "url": "https://www.nasaspaceflight.com/2026/10/pld-system-level-testing-miura-5-three-vehicles/"
+    },
+    {
+      "title": "A Mars-velous decade: Celebrating ten years of TGO",
+      "hot": "10/19",
+      "desc": "Ten years after arriving at Mars, ESA’s ExoMars Trace Gas Orbiter (TGO) has grown far beyond its original ambitions. From revealing the martian atmosp",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/Enabling_Support/Operations/A_Mars-velous_decade_Celebrating_ten_years_of_TGO"
+    },
+    {
+      "title": "Euclid discovers new comet",
+      "hot": "10/19",
+      "desc": "The European Space Agency’s Euclid space telescope has discovered its first previously unknown comet, in images taken between 16 and 24 September 2026",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_new_comet"
     }
   ],
   "github": [
     {
       "title": "Gathin23/cleanyourtv: Debloat any Android or Google TV over Wi-Fi and get an App",
-      "hot": "⭐ 5.1k",
+      "hot": "⭐ 5.6k",
       "desc": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
       "source": "github",
       "tag": "Java",
       "url": "https://github.com/Gathin23/cleanyourtv"
     },
     {
-      "title": "jhaizhou-ops/d2r-mobile: Open-source iOS / macOS compatibility layer for Diablo ",
-      "hot": "⭐ 4.0k",
-      "desc": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on ",
-      "source": "github",
-      "tag": "C",
-      "url": "https://github.com/jhaizhou-ops/d2r-mobile"
-    },
-    {
       "title": "Arekejoker/qwen21-nsfw-pose-skill: Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSF",
       "hot": "⭐ 3.4k",
-      "desc": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+      "desc": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 ��势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill"
@@ -198,19 +474,11 @@
     },
     {
       "title": "HeyPuter/everything: We're rebuilding and open-sourcing the world’s software fro",
-      "hot": "⭐ 2.3k",
+      "hot": "⭐ 2.5k",
       "desc": "We're rebuilding and open-sourcing the world’s software from scratch.",
       "source": "github",
       "tag": "JavaScript",
       "url": "https://github.com/HeyPuter/everything"
-    },
-    {
-      "title": "deeplethe/solid-glass: A design system for AI applications. Material, physical, ",
-      "hot": "⭐ 2.3k",
-      "desc": "A design system for AI applications. Material, physical, tactile, technical.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/deeplethe/solid-glass"
     },
     {
       "title": "ahwootech/BRUTAL: A free, open source C# framework for making games, or your own",
@@ -221,20 +489,20 @@
       "url": "https://github.com/ahwootech/BRUTAL"
     },
     {
+      "title": "ly05010419/MacNativeGames: ",
+      "hot": "⭐ 1.8k",
+      "desc": "ly05010419/MacNativeGames",
+      "source": "github",
+      "tag": "C",
+      "url": "https://github.com/ly05010419/MacNativeGames"
+    },
+    {
       "title": "chenglou/handwired: Turn your regular JavaScript code into a neural net.",
       "hot": "⭐ 1.8k",
       "desc": "Turn your regular JavaScript code into a neural net.",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/chenglou/handwired"
-    },
-    {
-      "title": "ly05010419/MacNativeGames: ",
-      "hot": "⭐ 1.7k",
-      "desc": "ly05010419/MacNativeGames",
-      "source": "github",
-      "tag": "C",
-      "url": "https://github.com/ly05010419/MacNativeGames"
     },
     {
       "title": "Supermedo/uncharted_pc: Uncharted: The Nathan Drake Collection running natively ",
@@ -246,214 +514,59 @@
     },
     {
       "title": "Leonxlnx/earshot: Ears for coding agents: let AI hear, review and make sound. CP",
-      "hot": "⭐ 1.5k",
+      "hot": "⭐ 1.6k",
       "desc": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/Leonxlnx/earshot"
     },
     {
-      "title": "rohit267/net-merge: Use all your network adapters at once on Windows/Linux/Mac: ",
-      "hot": "⭐ 1.4k",
-      "desc": "Use all your network adapters at once on Windows/Linux/Mac: per-connection load balancing over Wi-Fi, Ethernet and phone/USB tethers (TUN + Wintun)",
-      "source": "github",
-      "tag": "Go",
-      "url": "https://github.com/rohit267/net-merge"
-    },
-    {
       "title": "Caho1/open-claude-ui: 基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬",
-      "hot": "⭐ 1.2k",
+      "hot": "⭐ 1.3k",
       "desc": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/Caho1/open-claude-ui"
     },
     {
-      "title": "AjncSystem/ShadowOfTheColossus-PC: Native Windows port of Shadow of the Colossus",
-      "hot": "⭐ 1.2k",
-      "desc": "Native Windows port of Shadow of the Colossus (PS4, CUSA08809) - bring your own game dump. Port nativo para PC.",
+      "title": "xscreensaver-official/xscreensaver: There is no official XScreenSaver GitHub rep",
+      "hot": "⭐ 1.0k",
+      "desc": "There is no official XScreenSaver GitHub repository.",
       "source": "github",
-      "tag": "C++",
-      "url": "https://github.com/AjncSystem/ShadowOfTheColossus-PC"
+      "tag": "GitHub",
+      "url": "https://github.com/xscreensaver-official/xscreensaver"
     },
     {
-      "title": "zhuyansen/new-term-radar: Daily radar for new AI terms: names of new models, pro",
-      "hot": "⭐ 1.1k",
-      "desc": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+      "title": "aicodeking/leanrea: One 8 KB skill that replaces REA (Reverse Engineer Anything)",
+      "hot": "⭐ 998",
+      "desc": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
       "source": "github",
       "tag": "Python",
-      "url": "https://github.com/zhuyansen/new-term-radar"
-    }
-  ],
-  "tech": [
-    {
-      "title": "MiniMax M3.1 Flash",
-      "hot": "3.0m",
-      "desc": "minimax.io",
-      "source": "tech",
-      "tag": "⬆️ 340 points",
-      "url": "https://www.minimax.io/blog/minimax-m31f"
+      "url": "https://github.com/aicodeking/leanrea"
     },
     {
-      "title": "I built a drone with only one motor [video]",
-      "hot": "3.0m",
-      "desc": "youtube.com",
-      "source": "tech",
-      "tag": "⬆️ 331 points",
-      "url": "https://www.youtube.com/watch?v=Ndftcft6XhU"
+      "title": "xiaoyang111222/cn-math-taxonomy: 中小学数学知识图谱 + 前置诊断：课标对齐、人教版一–九年级、531 知识点、2271 题、自",
+      "hot": "⭐ 982",
+      "desc": "中小学数学知识图谱 + 前置诊断：课标对齐、人教版一–九年级、531 知识点、2271 题、自适应诊断",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy"
     },
     {
-      "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
-      "hot": "3.0m",
-      "desc": "bsd.network",
-      "source": "tech",
-      "tag": "⬆️ 58 points",
-      "url": "https://bsd.network/@brynet/117407035545900963"
+      "title": "Tencent-Hunyuan/Hy-Memory: ",
+      "hot": "⭐ 976",
+      "desc": "Tencent-Hunyuan/Hy-Memory",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/Tencent-Hunyuan/Hy-Memory"
     },
     {
-      "title": "Wine ported to OpenBSD",
-      "hot": "3.0m",
-      "desc": "marc.info",
-      "source": "tech",
-      "tag": "⬆️ 482 points",
-      "url": "https://marc.info/?l=openbsd-ports&m=179236125692175"
-    },
-    {
-      "title": "RuneScape Bench: MMOs for Agents [video]",
-      "hot": "2.9m",
-      "desc": "youtube.com",
-      "source": "tech",
-      "tag": "⬆️ 136 points",
-      "url": "https://www.youtube.com/watch?v=cNm4zyUtWj0"
-    },
-    {
-      "title": "Putting Linux on my RTX Spark laptop because I don't have a Microsoft account",
-      "hot": "2.9m",
-      "desc": "josie.lol",
-      "source": "tech",
-      "tag": "⬆️ 148 points",
-      "url": "https://josie.lol/blog/linux-rtx-spark"
-    },
-    {
-      "title": "Android apps running native on macOS",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 235 points",
-      "url": "https://github.com/kksimp/Mac.apk"
-    },
-    {
-      "title": "It's still ok to enjoy programming",
-      "hot": "2.9m",
-      "desc": "chriskiehl.com",
-      "source": "tech",
-      "tag": "⬆️ 398 points",
-      "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming"
-    },
-    {
-      "title": "One Hash Bloom Filters",
-      "hot": "2.9m",
-      "desc": "calabro.io",
-      "source": "tech",
-      "tag": "⬆️ 22 points",
-      "url": "https://calabro.io/ohbf"
-    },
-    {
-      "title": "Timestral: Mistral's time-series foundation models",
-      "hot": "2.9m",
-      "desc": "mistral.ai",
-      "source": "tech",
-      "tag": "⬆️ 529 points",
-      "url": "https://mistral.ai/news/timestral/"
-    },
-    {
-      "title": "Starcraft: Ashfall",
-      "hot": "2.9m",
-      "desc": "starcraft-shooter-2026.pages.dev",
-      "source": "tech",
-      "tag": "⬆️ 266 points",
-      "url": "https://starcraft-shooter-2026.pages.dev/"
-    },
-    {
-      "title": "The fire retardant in the seafood chain",
-      "hot": "2.8m",
-      "desc": "insideclimatenews.org",
-      "source": "tech",
-      "tag": "⬆️ 96 points",
-      "url": "https://insideclimatenews.org/news/14102026/ethoxyquin-fire-retardant-in-seafood-chain/"
-    },
-    {
-      "title": "Drupal is now light-years ahead of its reputation",
-      "hot": "2.8m",
-      "desc": "dri.es",
-      "source": "tech",
-      "tag": "⬆️ 14 points",
-      "url": "https://dri.es/state-of-drupal-presentation-september-2026"
-    },
-    {
-      "title": "Alternatives to animal testing are finally taking off",
-      "hot": "2.8m",
-      "desc": "spectrum.ieee.org",
-      "source": "tech",
-      "tag": "⬆️ 308 points",
-      "url": "https://spectrum.ieee.org/alternatives-to-animal-testing"
-    },
-    {
-      "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
-      "hot": "2.8m",
-      "desc": "news.ycombinator.com",
-      "source": "tech",
-      "tag": "⬆️ 223 points",
-      "url": "https://news.ycombinator.com/item?id=50151036"
-    },
-    {
-      "title": "Credit where credit is due",
-      "hot": "2.8m",
-      "desc": "thefloatingcontinent.com",
-      "source": "tech",
-      "tag": "⬆️ 54 points",
-      "url": "https://thefloatingcontinent.com/blog/credit-is-due/"
-    },
-    {
-      "title": "Agentic Monitoring",
-      "hot": "2.8m",
-      "desc": "benjamincongdon.me",
-      "source": "tech",
-      "tag": "⬆️ 22 points",
-      "url": "https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/"
-    },
-    {
-      "title": "The reverts will continue until morale improves",
-      "hot": "2.7m",
-      "desc": "peter.eisentraut.org",
-      "source": "tech",
-      "tag": "⬆️ 176 points",
-      "url": "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves"
-    },
-    {
-      "title": "Evidence (YC S21) Is Hiring Software Engineers",
-      "hot": "2.7m",
-      "desc": "evidence.dev",
-      "source": "tech",
-      "tag": "⬆️ 1 points",
-      "url": "https://evidence.dev/jobs"
-    },
-    {
-      "title": "The End of Rationing",
-      "hot": "2.7m",
-      "desc": "sanketsaurav.com",
-      "source": "tech",
-      "tag": "⬆️ 21 points",
-      "url": "https://sanketsaurav.com/writing/end-of-rationing"
-    }
-  ],
-  "space": [
-    {
-      "title": "暂无 space 数据",
-      "hot": "",
-      "desc": "数据加载中，请稍后刷新",
-      "source": "space",
-      "tag": "loading"
+      "title": "OpenMOSS/MOSS-Image: Official repository for MOSS-Image, a 5B-parameter base DiT",
+      "hot": "⭐ 956",
+      "desc": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/OpenMOSS/MOSS-Image"
     }
   ]
 }
