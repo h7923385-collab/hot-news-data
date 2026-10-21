@@ -2,11 +2,19 @@
   "data": [
     {
       "title": "Promise Delivered: Welcome to the DEV Hall of Fame (65 Authors, 65 Masterpieces)",
-      "hot": "❤️ 188 💬 96",
+      "hot": "❤️ 194 💬 99",
       "desc": "Status: Promise delivered ✅              The Doors Are Open   A little over a month ago, I published...",
       "source": "dev",
       "tag": "community,  discuss",
       "url": "https://dev.to/georgekobaidze/promise-delivered-welcome-to-the-dev-hall-of-fame-65-authors-65-masterpieces-15fa"
+    },
+    {
+      "title": "Welcome Thread - v 398",
+      "hot": "❤️ 17 💬 16",
+      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
+      "source": "dev",
+      "tag": "welcome",
+      "url": "https://dev.to/sloan/welcome-thread-v-398-10a6"
     },
     {
       "title": "Stress-Testing Gemini 4 Argon: Building a 3D Flutter Kart Game in 15 Prompts with Zero Assets",
@@ -17,6 +25,14 @@
       "url": "https://dev.to/gde/stress-testing-gemini-4-argon-building-a-3d-flutter-kart-game-in-15-prompts-with-zero-assets-55ha"
     },
     {
+      "title": "Generative UI Without the Async Tax: Introducing bloc_signals_genui 1.0",
+      "hot": "❤️ 16 💬 19",
+      "desc": "Why we built a pure-Dart, 0ms synchronous Generative UI state machine on top of Google's official A2UI protocol—supporti",
+      "source": "dev",
+      "tag": "flutter,  dart",
+      "url": "https://dev.to/gde/generative-ui-without-the-async-tax-introducing-blocsignalsgenui-10-3gge"
+    },
+    {
       "title": "Natural Languages Have Design Trade-offs Too: Georgian Is Dynamically Typed, English Is Statically Typed",
       "hot": "❤️ 134 💬 63",
       "desc": "Table of Contents    How This Started  Feature #1: Articles (or the Lack of Them)   The...",
@@ -25,12 +41,44 @@
       "url": "https://dev.to/georgekobaidze/natural-languages-have-design-trade-offs-too-georgian-is-dynamically-typed-english-is-statically-emi"
     },
     {
+      "title": "Multi-Model Agentic Workflows: Claude Opus 5.5 & Sonnet 5.5 Land in Google Antigravity 🚀",
+      "hot": "❤️ 10 💬 3",
+      "desc": "Different software engineering problems require different model strengths. While a quick lint fix or...",
+      "source": "dev",
+      "tag": "claude,  cloud",
+      "url": "https://dev.to/googleai/multi-model-agentic-workflows-claude-opus-55-sonnet-55-land-in-google-antigravity-2kmb"
+    },
+    {
       "title": "Top 7 Featured DEV Posts of the Week",
       "hot": "❤️ 56 💬 25",
       "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
       "source": "dev",
       "tag": "top7,  discuss",
       "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-13ii"
+    },
+    {
+      "title": "Automated incident triage on GKE with Gemini 4 Argon and Model Context Protocol: Correlating cluster events and VPA logs",
+      "hot": "❤️ 5 💬 0",
+      "desc": "Automate root-cause incident triage on GKE by combining Gemini 4 Argon multi-step reasoning with the GKE Model Context P",
+      "source": "dev",
+      "tag": "kubernetes,  ai",
+      "url": "https://dev.to/googlecloud/automated-incident-triage-on-gke-with-gemini-4-argon-and-model-context-protocol-correlating-24eb"
+    },
+    {
+      "title": "A Dense 31B on an 8 GB GPU: Gemma 4 31B on an RTX 3050",
+      "hot": "❤️ 8 💬 0",
+      "desc": "Gemma 4 31B, a dense 17.7 GB model, serves from an 8 GB RTX 3050 with 40 of its 60 layers in system RAM: the highest GSM",
+      "source": "dev",
+      "tag": "gemma,  llamacpp",
+      "url": "https://dev.to/gde/a-dense-31b-on-an-8-gb-gpu-gemma-4-31b-on-an-rtx-3050-26p9"
+    },
+    {
+      "title": "Building a cross-platform Flutter festival assistant with llamadart",
+      "hot": "❤️ 8 💬 1",
+      "desc": "Beyond chat with llamadart · Part 5  Rain starts falling over the village. Dash asks Mo, “Where are...",
+      "source": "dev",
+      "tag": "flutter,  tutorial",
+      "url": "https://dev.to/gde/building-a-cross-platform-flutter-festival-assistant-with-llamadart-2dml"
     },
     {
       "title": "Building ora-tui with Google Antigravity & Gemini 4 Argon: An MS-DOS Retro TUI & OpenTelemetry Exporter for Oracle RAC, DB & SAN Multipath",
@@ -58,7 +106,7 @@
     },
     {
       "title": "Can a 26B MoE Run on an 8 GB GPU? Gemma 4 26B A4B on an RTX 3050",
-      "hot": "❤️ 10 💬 1",
+      "hot": "❤️ 10 💬 2",
       "desc": "Gemma 4 26B A4B, a 14.4 GB mixture-of-experts model, serves from an 8 GB RTX 3050 with most of its experts in system RAM",
       "source": "dev",
       "tag": "gemma,  llamacpp",
@@ -66,7 +114,7 @@
     },
     {
       "title": "Join the Hacktoberfest Open-Source AI Challenge: Slow and Steady! $2,850 in Prizes Across 21 Winners.",
-      "hot": "❤️ 78 💬 13",
+      "hot": "❤️ 82 💬 15",
       "desc": "Week 3 of our five Hacktoberfest DEV Challenges starts today! Running through October 25, the...",
       "source": "dev",
       "tag": "devchallenge,  hf26challenge",
@@ -111,55 +159,7 @@
       "source": "dev",
       "tag": "aie,  career",
       "url": "https://dev.to/dailycontext/a-world-worth-understanding-f08"
-    },
-    {
-      "title": "💅 Keyboard Makeover",
-      "hot": "❤️ 83 💬 36",
-      "desc": "I have had this interesting piece of psychedelic looking vinyl for some time. Today I finally found a...",
-      "source": "dev",
-      "tag": "mentalhealth,  craft",
-      "url": "https://dev.to/annavi11arrea1/keyboard-makeover-i6a"
-    },
-    {
-      "title": "Do Drafters Work on Small Models? Gemma 4 E2B and E4B on Two Small GPUs",
-      "hot": "❤️ 8 💬 3",
-      "desc": "Yes. Speculative decoding with Google's 59 MB QAT multi-token prediction (MTP) drafters speeds up Gemma 4 E4B 1.72x and ",
-      "source": "dev",
-      "tag": "gemma,  llamacpp",
-      "url": "https://dev.to/gde/do-drafters-work-on-small-models-gemma-4-e2b-and-e4b-on-two-small-gpus-1b4g"
-    },
-    {
-      "title": "Meme Monday",
-      "hot": "❤️ 41 💬 29",
-      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
-      "source": "dev",
-      "tag": "discuss,  watercooler",
-      "url": "https://dev.to/ben/meme-monday-2hle"
-    },
-    {
-      "title": "🌑 Blue October",
-      "hot": "❤️ 26 💬 6",
-      "desc": "TLDR: A brief summary of how I got here.             The Mindset   For the last 3 years, I have been...",
-      "source": "dev",
-      "tag": "webdev,  programming",
-      "url": "https://dev.to/annavi11arrea1/blue-october-1jia"
-    },
-    {
-      "title": "Comparing Qwen and Gemma on the Low End: Qwen Is Faster Without Drafting, Gemma Has Better Quality",
-      "hot": "❤️ 14 💬 0",
-      "desc": "Step-by-step: serving Qwen3.5-2B with llama.cpp on an 8 GB RTX 3050 and a 4 GB GTX 1650 Ti beside Gemma 4 E2B, checking ",
-      "source": "dev",
-      "tag": "gemma,  qwen",
-      "url": "https://dev.to/gde/comparing-qwen-and-gemma-on-the-low-end-qwen-is-faster-without-drafting-gemma-has-better-quality-30bo"
-    },
-    {
-      "title": "Small Apache-2.0 Models Against Gemma 4 E2B on One TPU v5e: Which Ones Keep Up?",
-      "hot": "❤️ 21 💬 3",
-      "desc": "Fourteen Apache-2.0 and MIT open-weight models that fit one TPU v5e chip, served one after another through vLLM on the s",
-      "source": "dev",
-      "tag": "tpu,  vllm",
-      "url": "https://dev.to/gde/small-apache-20-models-against-gemma-4-e2b-on-one-tpu-v5e-which-ones-keep-up-mm4"
     }
   ],
-  "updatedAt": "2026-10-21T10:20:24.665Z"
+  "updatedAt": "2026-10-21T15:23:32.689Z"
 }
