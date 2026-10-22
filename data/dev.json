@@ -1,20 +1,36 @@
 {
   "data": [
     {
-      "title": "I Got Tired of Coming into my Lab to Check the Pressure of my Cryocooler so I Built a Tool to do it for Me",
-      "hot": "❤️ 50 💬 9",
+      "title": "Don't Be a Proxy Between Me and Your AI",
+      "hot": "❤️ 44 💬 26",
+      "desc": "I've had this conversation more times than I'd like to admit.  I raise a technical question in a...",
+      "source": "dev",
+      "tag": "ai,  discuss",
+      "url": "https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn"
+    },
+    {
+      "title": "I Got Tired of Coming Into My Lab To Check the Pressure of My Cryocooler so I Built a Tool To Do It for Me",
+      "hot": "❤️ 52 💬 12",
       "desc": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady          ...",
       "source": "dev",
       "tag": "devchallenge,  hf26challenge",
       "url": "https://dev.to/pahorton/i-got-tired-of-coming-into-my-lab-to-check-the-pressure-of-my-cryocooler-so-i-built-a-tool-to-do-it-4ob7"
     },
     {
-      "title": "Don't Be a Proxy Between Me and Your AI",
-      "hot": "❤️ 27 💬 24",
-      "desc": "I've had this conversation more times than I'd like to admit.  I raise a technical question in a...",
+      "title": "Congrats to the Sanity Challenge Winners!",
+      "hot": "❤️ 26 💬 11",
+      "desc": "We are thrilled to announce the winners of the Sanity Challenge, our partnership with Sanity built...",
       "source": "dev",
-      "tag": "ai,  discuss",
-      "url": "https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn"
+      "tag": "devchallenge,  sanitychallenge",
+      "url": "https://dev.to/devteam/congrats-to-the-sanity-challenge-winners-1140"
+    },
+    {
+      "title": "Scaling stateful Gemini 4 Argon agent sessions on GKE: Connection draining, startup boost, and session persistence",
+      "hot": "❤️ 9 💬 0",
+      "desc": "Architect GKE for long-running Gemini 4 Argon agent sessions using VPA CPU startup boost, GCPBackendPolicy connection dr",
+      "source": "dev",
+      "tag": "kubernetes,  ai",
+      "url": "https://dev.to/googlecloud/scaling-stateful-gemini-4-argon-agent-sessions-on-gke-connection-draining-startup-boost-and-13ln"
     },
     {
       "title": "Building a Cross-Model Collaborative Workflow with Google Antigravity",
@@ -42,7 +58,7 @@
     },
     {
       "title": "Promise Delivered: Welcome to the DEV Hall of Fame (65 Authors, 65 Masterpieces)",
-      "hot": "❤️ 210 💬 104",
+      "hot": "❤️ 212 💬 104",
       "desc": "Status: Promise delivered ✅              The Doors Are Open   A little over a month ago, I published...",
       "source": "dev",
       "tag": "community,  discuss",
@@ -74,7 +90,7 @@
     },
     {
       "title": "Generative UI Without the Async Tax: Introducing bloc_signals_genui 1.0",
-      "hot": "❤️ 18 💬 27",
+      "hot": "❤️ 18 💬 28",
       "desc": "Why we built a pure-Dart, 0ms synchronous Generative UI state machine on top of Google's official A2UI protocol—supporti",
       "source": "dev",
       "tag": "flutter,  dart",
@@ -105,14 +121,6 @@
       "url": "https://dev.to/googlecloud/autonomous-agent-loops-with-gemini-4-argon-and-gke-agent-sandbox-running-untrusted-code-safely-at-2k60"
     },
     {
-      "title": "Can a 26B MoE Run on an 8 GB GPU? Gemma 4 26B A4B on an RTX 3050",
-      "hot": "❤️ 10 💬 2",
-      "desc": "Gemma 4 26B A4B, a 14.4 GB mixture-of-experts model, serves from an 8 GB RTX 3050 with most of its experts in system RAM",
-      "source": "dev",
-      "tag": "gemma,  llamacpp",
-      "url": "https://dev.to/gde/can-a-26b-moe-run-on-an-8-gb-gpu-gemma-4-26b-a4b-on-an-rtx-3050-2efn"
-    },
-    {
       "title": "How I Feel about the Grace Hopper Celebration Getting Cancelled",
       "hot": "❤️ 101 💬 14",
       "desc": "The Grace Hopper Celebration has been around since 1994, and for a lot of people, it's the event for...",
@@ -122,7 +130,7 @@
     },
     {
       "title": "Welcome Thread - v 398",
-      "hot": "❤️ 33 💬 104",
+      "hot": "❤️ 36 💬 124",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
@@ -151,15 +159,7 @@
       "source": "dev",
       "tag": "aie,  machinelearning",
       "url": "https://dev.to/dailycontext/why-smaller-ai-models-can-win-in-the-enterprise-1m57"
-    },
-    {
-      "title": "Do Drafters Work on Small Models? Gemma 4 E2B and E4B on Two Small GPUs",
-      "hot": "❤️ 8 💬 3",
-      "desc": "Yes. Speculative decoding with Google's 59 MB QAT multi-token prediction (MTP) drafters speeds up Gemma 4 E4B 1.72x and ",
-      "source": "dev",
-      "tag": "gemma,  llamacpp",
-      "url": "https://dev.to/gde/do-drafters-work-on-small-models-gemma-4-e2b-and-e4b-on-two-small-gpus-1b4g"
     }
   ],
-  "updatedAt": "2026-10-22T15:41:47.109Z"
+  "updatedAt": "2026-10-22T19:34:09.916Z"
 }
