@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-21T22:29:58.964Z",
+  "updatedAt": "2026-10-22T00:48:02.104Z",
   "source": "live",
   "dev": [
     {
       "title": "I Got Tired of Coming into my Lab to Check the Pressure of my Cryocooler so I Built a Tool to do it for Me",
-      "hot": "❤️ 35 💬 4",
+      "hot": "❤️ 39 💬 5",
       "desc": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady          ...",
       "source": "dev",
       "tag": "devchallenge,  hf26challenge",
@@ -12,7 +12,7 @@
     },
     {
       "title": "Promise Delivered: Welcome to the DEV Hall of Fame (65 Authors, 65 Masterpieces)",
-      "hot": "❤️ 201 💬 100",
+      "hot": "❤️ 200 💬 100",
       "desc": "Status: Promise delivered ✅              The Doors Are Open   A little over a month ago, I published...",
       "source": "dev",
       "tag": "community,  discuss",
@@ -20,7 +20,7 @@
     },
     {
       "title": "SlothSRE (NapOps): An Overnight Gemma 4 & ADK Agent That Compresses 418 Lines of 3 AM Alerts into a 2-Line Morning Digest",
-      "hot": "❤️ 6 💬 0",
+      "hot": "❤️ 8 💬 0",
       "desc": "How I built a local-first open-weights Gemma 4, Google ADK, and Sentry Agent Tracing pipeline that deduplicates overnigh",
       "source": "dev",
       "tag": "devchallenge,  hf26challenge",
@@ -28,7 +28,7 @@
     },
     {
       "title": "Generative UI Without the Async Tax: Introducing bloc_signals_genui 1.0",
-      "hot": "❤️ 17 💬 21",
+      "hot": "❤️ 18 💬 21",
       "desc": "Why we built a pure-Dart, 0ms synchronous Generative UI state machine on top of Google's official A2UI protocol—supporti",
       "source": "dev",
       "tag": "flutter,  dart",
@@ -43,14 +43,6 @@
       "url": "https://dev.to/googlecloud/multi-tier-model-routing-on-gke-balancing-gemini-4-argon-reasoning-depth-with-latency-and-cost-21fo"
     },
     {
-      "title": "Stress-Testing Gemini 4 Argon: Building a 3D Flutter Kart Game in 15 Prompts with Zero Assets",
-      "hot": "❤️ 15 💬 3",
-      "desc": "Most AI coding benchmarks test standard web apps or CRUD dashboards. Frontier models can already...",
-      "source": "dev",
-      "tag": "flutter,  ai",
-      "url": "https://dev.to/gde/stress-testing-gemini-4-argon-building-a-3d-flutter-kart-game-in-15-prompts-with-zero-assets-55ha"
-    },
-    {
       "title": "Welcome Thread - v 398",
       "hot": "❤️ 24 💬 49",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
@@ -60,7 +52,7 @@
     },
     {
       "title": "Natural Languages Have Design Trade-offs Too: Georgian Is Dynamically Typed, English Is Statically Typed",
-      "hot": "❤️ 135 💬 64",
+      "hot": "❤️ 137 💬 64",
       "desc": "Table of Contents    How This Started  Feature #1: Articles (or the Lack of Them)   The...",
       "source": "dev",
       "tag": "programming,  writing",
@@ -131,14 +123,6 @@
       "url": "https://dev.to/gde/can-a-26b-moe-run-on-an-8-gb-gpu-gemma-4-26b-a4b-on-an-rtx-3050-2efn"
     },
     {
-      "title": "Don't Assume Your Cloud T4 Runs at Spec: Gemma 4 Decode Falls 7% as the Card Warms",
-      "hot": "❤️ 10 💬 4",
-      "desc": "The same Tesla T4 on the same Google Cloud VM decoded Gemma 4 E2B at 115 tokens/s at 45 °C and 107 at 77 °C. The card si",
-      "source": "dev",
-      "tag": "nvidia,  googlecloud",
-      "url": "https://dev.to/gde/dont-assume-your-cloud-t4-runs-at-spec-gemma-4-decode-falls-7-as-the-card-warms-3fd3"
-    },
-    {
       "title": "How I Feel about the Grace Hopper Celebration Getting Cancelled",
       "hot": "❤️ 101 💬 14",
       "desc": "The Grace Hopper Celebration has been around since 1994, and for a lot of people, it's the event for...",
@@ -161,9 +145,317 @@
       "source": "dev",
       "tag": "aie,  machinelearning",
       "url": "https://dev.to/dailycontext/why-smaller-ai-models-can-win-in-the-enterprise-1m57"
+    },
+    {
+      "title": "A World Worth Understanding",
+      "hot": "❤️ 6 💬 0",
+      "desc": "We think the people who make software are endlessly interesting.  We want to meet them, hear their...",
+      "source": "dev",
+      "tag": "aie,  career",
+      "url": "https://dev.to/dailycontext/a-world-worth-understanding-f08"
+    },
+    {
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "hot": "❤️ 57 💬 27",
+      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+      "source": "dev",
+      "tag": "top7,  discuss",
+      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-13ii"
+    }
+  ],
+  "tech": [
+    {
+      "title": "Railway Security Disclosure",
+      "hot": "3.0m",
+      "desc": "blog.railway.com",
+      "source": "tech",
+      "tag": "⬆️ 274 points",
+      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st"
+    },
+    {
+      "title": "mitmproxy adds --emudhra option",
+      "hot": "3.0m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 65 points",
+      "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b"
+    },
+    {
+      "title": "There isn't an easy exploit for this PHP vulnerability",
+      "hot": "3.0m",
+      "desc": "eliastaylor.com",
+      "source": "tech",
+      "tag": "⬆️ 81 points",
+      "url": "https://eliastaylor.com/noexploit/"
+    },
+    {
+      "title": "Today's PHP security release, and how we're strengthening security",
+      "hot": "3.0m",
+      "desc": "thephp.foundation",
+      "source": "tech",
+      "tag": "⬆️ 667 points",
+      "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/"
+    },
+    {
+      "title": "GitLab Critical Patch Release",
+      "hot": "2.9m",
+      "desc": "docs.gitlab.com",
+      "source": "tech",
+      "tag": "⬆️ 235 points",
+      "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/"
+    },
+    {
+      "title": "Google's Rust Style Guide",
+      "hot": "2.9m",
+      "desc": "google.github.io",
+      "source": "tech",
+      "tag": "⬆️ 187 points",
+      "url": "https://google.github.io/styleguide/rustguide.html"
+    },
+    {
+      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+      "hot": "2.9m",
+      "desc": "safedep.io",
+      "source": "tech",
+      "tag": "⬆️ 423 points",
+      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/"
+    },
+    {
+      "title": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
+      "hot": "2.9m",
+      "desc": "scotthelme.co.uk",
+      "source": "tech",
+      "tag": "⬆️ 837 points",
+      "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/"
+    },
+    {
+      "title": "No More Icons in Every Menu by Default",
+      "hot": "2.9m",
+      "desc": "blog.jim-nielsen.com",
+      "source": "tech",
+      "tag": "⬆️ 151 points",
+      "url": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/"
+    },
+    {
+      "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+      "hot": "2.9m",
+      "desc": "cnbc.com",
+      "source": "tech",
+      "tag": "⬆️ 338 points",
+      "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html"
+    },
+    {
+      "title": "Why Windows 11 still ships with Windows 95's memory manager hidden inside it",
+      "hot": "2.9m",
+      "desc": "windowslatest.com",
+      "source": "tech",
+      "tag": "⬆️ 126 points",
+      "url": "https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/"
+    },
+    {
+      "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
+      "hot": "2.8m",
+      "desc": "bbc.com",
+      "source": "tech",
+      "tag": "⬆️ 147 points",
+      "url": "https://www.bbc.com/news/articles/cp814l80pw2o"
+    },
+    {
+      "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
+      "hot": "2.8m",
+      "desc": "openai.com",
+      "source": "tech",
+      "tag": "⬆️ 229 points",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/"
+    },
+    {
+      "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
+      "hot": "2.8m",
+      "desc": "duckdb.org",
+      "source": "tech",
+      "tag": "⬆️ 358 points",
+      "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200"
+    },
+    {
+      "title": "Claude Duet",
+      "hot": "2.8m",
+      "desc": "claude.com",
+      "source": "tech",
+      "tag": "⬆️ 301 points",
+      "url": "https://claude.com/product/claude-duet"
+    },
+    {
+      "title": "OpenAI models are coming to Google Cloud",
+      "hot": "2.8m",
+      "desc": "openai.com",
+      "source": "tech",
+      "tag": "⬆️ 227 points",
+      "url": "https://openai.com/index/openai-models-google-cloud/"
+    },
+    {
+      "title": "Code is clay now",
+      "hot": "2.8m",
+      "desc": "albertodenia.com",
+      "source": "tech",
+      "tag": "⬆️ 70 points",
+      "url": "https://www.albertodenia.com/writing/code-is-clay-now"
+    },
+    {
+      "title": "EA is shutting down BioWare",
+      "hot": "2.7m",
+      "desc": "theverge.com",
+      "source": "tech",
+      "tag": "⬆️ 501 points",
+      "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware"
+    },
+    {
+      "title": "Chain of Thought for Humans",
+      "hot": "2.7m",
+      "desc": "boristhebrave.com",
+      "source": "tech",
+      "tag": "⬆️ 9 points",
+      "url": "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/"
+    },
+    {
+      "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
+      "hot": "2.7m",
+      "desc": "apnews.com",
+      "source": "tech",
+      "tag": "⬆️ 166 points",
+      "url": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488"
+    }
+  ],
+  "github": [
+    {
+      "title": "Gathin23/cleanyourtv: Debloat any Android or Google TV over Wi-Fi and get an App",
+      "hot": "⭐ 19.2k",
+      "desc": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+      "source": "github",
+      "tag": "Java",
+      "url": "https://github.com/Gathin23/cleanyourtv"
+    },
+    {
+      "title": "deepseek-ai/DeepInfer: DeepInfer: High-performance, large-scale inference framew",
+      "hot": "⭐ 17.9k",
+      "desc": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/deepseek-ai/DeepInfer"
+    },
+    {
+      "title": "ly05010419/MacNativeGames: ",
+      "hot": "⭐ 3.9k",
+      "desc": "ly05010419/MacNativeGames",
+      "source": "github",
+      "tag": "C",
+      "url": "https://github.com/ly05010419/MacNativeGames"
+    },
+    {
+      "title": "simbasjungles/free-my-tv: A fast, ad-free home screen for Google TV. Open source",
+      "hot": "⭐ 2.7k",
+      "desc": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
+      "source": "github",
+      "tag": "Java",
+      "url": "https://github.com/simbasjungles/free-my-tv"
+    },
+    {
+      "title": "pengchujin/aerial-tv: 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvO",
+      "hot": "⭐ 2.1k",
+      "desc": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+      "source": "github",
+      "tag": "Kotlin",
+      "url": "https://github.com/pengchujin/aerial-tv"
+    },
+    {
+      "title": "Leonxlnx/earshot: Ears for coding agents: let AI hear, review and make sound. CP",
+      "hot": "⭐ 2.1k",
+      "desc": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/Leonxlnx/earshot"
+    },
+    {
+      "title": "xiaoyang111222/cn-math-taxonomy: 中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中、高",
+      "hot": "⭐ 2.0k",
+      "desc": "中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中、高中），课标对齐、人教版，1503 知识点、6159 题、自适应诊断",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy"
+    },
+    {
+      "title": "chenglou/handwired: Turn your regular JavaScript code into a neural net.",
+      "hot": "⭐ 1.9k",
+      "desc": "Turn your regular JavaScript code into a neural net.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/chenglou/handwired"
+    },
+    {
+      "title": "Supermedo/uncharted_pc: Uncharted: The Nathan Drake Collection running natively ",
+      "hot": "⭐ 1.8k",
+      "desc": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
+      "source": "github",
+      "tag": "C++",
+      "url": "https://github.com/Supermedo/uncharted_pc"
+    },
+    {
+      "title": "JoasASantos/REA-Prompts: REAP - Prompts for you to use REA (Reverse Engineer Any",
+      "hot": "⭐ 1.3k",
+      "desc": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/JoasASantos/REA-Prompts"
+    },
+    {
+      "title": "aicodeking/leanrea: One 8 KB skill that replaces REA (Reverse Engineer Anything)",
+      "hot": "⭐ 1.3k",
+      "desc": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/aicodeking/leanrea"
+    },
+    {
+      "title": "OpenMOSS/MOSS-Image: Official repository for MOSS-Image, a 5B-parameter base DiT",
+      "hot": "⭐ 1.3k",
+      "desc": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/OpenMOSS/MOSS-Image"
+    },
+    {
+      "title": "alchaincyf/huashu-motion: 让你的agent一键直出商业级产品宣传片：会作曲，能指着画面��。Commercial-grade laun",
+      "hot": "⭐ 1.3k",
+      "desc": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面��。Commercial-grade launch films by your coding agent — point at the frame to change it.",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/alchaincyf/huashu-motion"
+    },
+    {
+      "title": "Ansub/tv-detox: Make an old Android TV fast again with Claude Code or Codex: a t",
+      "hot": "⭐ 1.2k",
+      "desc": "Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up",
+      "source": "github",
+      "tag": "Java",
+      "url": "https://github.com/Ansub/tv-detox"
+    },
+    {
+      "title": "humblemuzzu/dumbtv: ",
+      "hot": "⭐ 1.2k",
+      "desc": "humblemuzzu/dumbtv",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/humblemuzzu/dumbtv"
     }
   ],
   "space": [
+    {
+      "title": "Faster to Science: A Letter to the Science Community",
+      "hot": "10/22",
+      "desc": "NASA Science wants to deliver science faster, so we’re changing how we compete and select missions. On Monday, October 26, we will host a virtual NASA",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/"
+    },
     {
       "title": "NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions",
       "hot": "10/21",
@@ -275,298 +567,6 @@
       "source": "space",
       "tag": "SpaceNews",
       "url": "https://spacenews.com/summer-of-quantum-building-momentum-for-space-based-qkd/"
-    },
-    {
-      "title": "Finding Our Way: Inside the Galileo Project: 2 - The people behind the signal",
-      "hot": "10/21",
-      "desc": "At its heart, Galileo is a story about people: engineers, operators and programme leaders working across Europe, united by a shared mission to strengt",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Finding_Our_Way_Inside_the_Galileo_Project_2_-_The_people_behind_the_signal"
-    }
-  ],
-  "tech": [
-    {
-      "title": "Railway Security Disclosure",
-      "hot": "3.0m",
-      "desc": "blog.railway.com",
-      "source": "tech",
-      "tag": "⬆️ 64 points",
-      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st"
-    },
-    {
-      "title": "Today's PHP security release, and how we're strengthening security",
-      "hot": "3.0m",
-      "desc": "thephp.foundation",
-      "source": "tech",
-      "tag": "⬆️ 578 points",
-      "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/"
-    },
-    {
-      "title": "GitLab Critical Patch Release",
-      "hot": "3.0m",
-      "desc": "docs.gitlab.com",
-      "source": "tech",
-      "tag": "⬆️ 169 points",
-      "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/"
-    },
-    {
-      "title": "No More Icons in Every Menu by Default",
-      "hot": "3.0m",
-      "desc": "blog.jim-nielsen.com",
-      "source": "tech",
-      "tag": "⬆️ 61 points",
-      "url": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/"
-    },
-    {
-      "title": "AWS rates PHP RCE as Important so Amazon Linux 2023 patch may take 20 days",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 75 points",
-      "url": "https://github.com/amazonlinux/amazon-linux-2023/issues/1148"
-    },
-    {
-      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-      "hot": "2.9m",
-      "desc": "safedep.io",
-      "source": "tech",
-      "tag": "⬆️ 372 points",
-      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/"
-    },
-    {
-      "title": "Why Windows 11 still ships with Windows 95's memory manager hidden inside it",
-      "hot": "2.9m",
-      "desc": "windowslatest.com",
-      "source": "tech",
-      "tag": "⬆️ 102 points",
-      "url": "https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/"
-    },
-    {
-      "title": "Claude Duet",
-      "hot": "2.9m",
-      "desc": "claude.com",
-      "source": "tech",
-      "tag": "⬆️ 240 points",
-      "url": "https://claude.com/product/claude-duet"
-    },
-    {
-      "title": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
-      "hot": "2.9m",
-      "desc": "scotthelme.co.uk",
-      "source": "tech",
-      "tag": "⬆️ 788 points",
-      "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/"
-    },
-    {
-      "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
-      "hot": "2.9m",
-      "desc": "cnbc.com",
-      "source": "tech",
-      "tag": "⬆️ 255 points",
-      "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html"
-    },
-    {
-      "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
-      "hot": "2.9m",
-      "desc": "duckdb.org",
-      "source": "tech",
-      "tag": "⬆️ 339 points",
-      "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200"
-    },
-    {
-      "title": "EA is shutting down BioWare",
-      "hot": "2.8m",
-      "desc": "theverge.com",
-      "source": "tech",
-      "tag": "⬆️ 437 points",
-      "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware"
-    },
-    {
-      "title": "Google's Rust Style Guide",
-      "hot": "2.8m",
-      "desc": "google.github.io",
-      "source": "tech",
-      "tag": "⬆️ 123 points",
-      "url": "https://google.github.io/styleguide/rustguide.html"
-    },
-    {
-      "title": "The Rise and Fall of the Plasma Screen",
-      "hot": "2.8m",
-      "desc": "construction-physics.com",
-      "source": "tech",
-      "tag": "⬆️ 8 points",
-      "url": "https://www.construction-physics.com/p/the-rise-and-fall-of-the-plasma-screen"
-    },
-    {
-      "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
-      "hot": "2.8m",
-      "desc": "openai.com",
-      "source": "tech",
-      "tag": "⬆️ 212 points",
-      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/"
-    },
-    {
-      "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
-      "hot": "2.8m",
-      "desc": "bbc.com",
-      "source": "tech",
-      "tag": "⬆️ 128 points",
-      "url": "https://www.bbc.com/news/articles/cp814l80pw2o"
-    },
-    {
-      "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
-      "hot": "2.8m",
-      "desc": "apnews.com",
-      "source": "tech",
-      "tag": "⬆️ 154 points",
-      "url": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488"
-    },
-    {
-      "title": "OpenAI models are coming to Google Cloud",
-      "hot": "2.7m",
-      "desc": "openai.com",
-      "source": "tech",
-      "tag": "⬆️ 197 points",
-      "url": "https://openai.com/index/openai-models-google-cloud/"
-    },
-    {
-      "title": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
-      "hot": "2.7m",
-      "desc": "oist.jp",
-      "source": "tech",
-      "tag": "⬆️ 83 points",
-      "url": "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs"
-    },
-    {
-      "title": "PHP 8.2.35",
-      "hot": "2.7m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 942 points",
-      "url": "https://github.com/php/php-src/releases/tag/php-8.2.35"
-    }
-  ],
-  "github": [
-    {
-      "title": "Gathin23/cleanyourtv: Debloat any Android or Google TV over Wi-Fi and get an App",
-      "hot": "⭐ 18.8k",
-      "desc": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
-      "source": "github",
-      "tag": "Java",
-      "url": "https://github.com/Gathin23/cleanyourtv"
-    },
-    {
-      "title": "deepseek-ai/DeepInfer: DeepInfer: High-performance, large-scale inference framew",
-      "hot": "⭐ 17.7k",
-      "desc": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/deepseek-ai/DeepInfer"
-    },
-    {
-      "title": "ly05010419/MacNativeGames: ",
-      "hot": "⭐ 3.8k",
-      "desc": "ly05010419/MacNativeGames",
-      "source": "github",
-      "tag": "C",
-      "url": "https://github.com/ly05010419/MacNativeGames"
-    },
-    {
-      "title": "simbasjungles/free-my-tv: A fast, ad-free home screen for Google TV. Open source",
-      "hot": "⭐ 2.7k",
-      "desc": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
-      "source": "github",
-      "tag": "Java",
-      "url": "https://github.com/simbasjungles/free-my-tv"
-    },
-    {
-      "title": "ahwootech/BRUTAL: A free, open source C# framework for making games, or your own",
-      "hot": "⭐ 2.1k",
-      "desc": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries arou",
-      "source": "github",
-      "tag": "C#",
-      "url": "https://github.com/ahwootech/BRUTAL"
-    },
-    {
-      "title": "Leonxlnx/earshot: Ears for coding agents: let AI hear, review and make sound. CP",
-      "hot": "⭐ 2.0k",
-      "desc": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/Leonxlnx/earshot"
-    },
-    {
-      "title": "pengchujin/aerial-tv: 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvO",
-      "hot": "⭐ 2.0k",
-      "desc": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
-      "source": "github",
-      "tag": "Kotlin",
-      "url": "https://github.com/pengchujin/aerial-tv"
-    },
-    {
-      "title": "xiaoyang111222/cn-math-taxonomy: 中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中、高",
-      "hot": "⭐ 1.9k",
-      "desc": "中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中、高中），课标对齐、人教版，1503 知识点、6159 题、自适应诊断",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy"
-    },
-    {
-      "title": "chenglou/handwired: Turn your regular JavaScript code into a neural net.",
-      "hot": "⭐ 1.9k",
-      "desc": "Turn your regular JavaScript code into a neural net.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/chenglou/handwired"
-    },
-    {
-      "title": "Supermedo/uncharted_pc: Uncharted: The Nathan Drake Collection running natively ",
-      "hot": "⭐ 1.8k",
-      "desc": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
-      "source": "github",
-      "tag": "C++",
-      "url": "https://github.com/Supermedo/uncharted_pc"
-    },
-    {
-      "title": "JoasASantos/REA-Prompts: REAP - Prompts for you to use REA (Reverse Engineer Any",
-      "hot": "⭐ 1.3k",
-      "desc": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/JoasASantos/REA-Prompts"
-    },
-    {
-      "title": "Caho1/open-claude-ui: 基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬",
-      "hot": "⭐ 1.3k",
-      "desc": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/Caho1/open-claude-ui"
-    },
-    {
-      "title": "OpenMOSS/MOSS-Image: Official repository for MOSS-Image, a 5B-parameter base DiT",
-      "hot": "⭐ 1.3k",
-      "desc": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/OpenMOSS/MOSS-Image"
-    },
-    {
-      "title": "aicodeking/leanrea: One 8 KB skill that replaces REA (Reverse Engineer Anything)",
-      "hot": "⭐ 1.3k",
-      "desc": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/aicodeking/leanrea"
-    },
-    {
-      "title": "alchaincyf/huashu-motion: 让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launc",
-      "hot": "⭐ 1.3k",
-      "desc": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/alchaincyf/huashu-motion"
     }
   ]
 }
