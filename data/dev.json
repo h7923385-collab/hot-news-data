@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "Don't Be a Proxy Between Me and Your AI",
-      "hot": "❤️ 55 💬 34",
+      "hot": "❤️ 65 💬 38",
       "desc": "I've had this conversation more times than I'd like to admit.  I raise a technical question in a...",
       "source": "dev",
       "tag": "ai,  discuss",
@@ -17,20 +17,44 @@
       "url": "https://dev.to/pahorton/i-got-tired-of-coming-into-my-lab-to-check-the-pressure-of-my-cryocooler-so-i-built-a-tool-to-do-it-4ob7"
     },
     {
+      "title": "Comic Studio AI: Turning Voice & Text Prompts into 4-Panel Comics with Google AI Studio, Gemini & Imagen",
+      "hot": "❤️ 6 💬 0",
+      "desc": "This post is my submission for DEV Education Track: Build Apps with Google AI Studio.             ...",
+      "source": "dev",
+      "tag": "deved,  learngoogleaistudio",
+      "url": "https://dev.to/gde/comic-studio-ai-turning-voice-text-prompts-into-4-panel-comics-with-google-ai-studio-gemini--2npc"
+    },
+    {
+      "title": "926 Steps, Two Lobotomies, and Zero Nudges: Flight-Testing the Commitment Machine Across Gemini, Claude, and GPT-OSS",
+      "hot": "❤️ 11 💬 7",
+      "desc": "A 2026 Harvard study of 718 companies found that AI agents write 30% more code and close zero additional tickets because",
+      "source": "dev",
+      "tag": "ai,  programming",
+      "url": "https://dev.to/gde/926-steps-two-lobotomies-and-zero-nudges-flight-testing-the-commitment-machine-across-gemini-55ca"
+    },
+    {
+      "title": "Building a Multimodal, Suggestion-Based AI Writing Coach with Gemini and Google Docs",
+      "hot": "❤️ 8 💬 1",
+      "desc": "When we use generative AI to proofread our daily writing—whether technical reports, business...",
+      "source": "dev",
+      "tag": "ai,  gemini",
+      "url": "https://dev.to/gde/building-a-multimodal-suggestion-based-ai-writing-coach-with-gemini-and-google-docs-ea4"
+    },
+    {
+      "title": "What was your win this week!?",
+      "hot": "❤️ 15 💬 2",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-4ipe"
+    },
+    {
       "title": "SlothSRE (NapOps): An Overnight Gemma 4 & ADK Agent That Compresses 418 Lines of 3 AM Alerts into a 2-Line Morning Digest",
       "hot": "❤️ 9 💬 0",
       "desc": "How I built a local-first open-weights Gemma 4, Google ADK, and Sentry Agent Tracing pipeline that deduplicates overnigh",
       "source": "dev",
       "tag": "devchallenge,  hf26challenge",
       "url": "https://dev.to/gde/slothsre-napops-an-overnight-gemma-4-adk-agent-that-compresses-418-lines-of-3-am-alerts-into-a-1pk6"
-    },
-    {
-      "title": "Multi-tier model routing on GKE: balancing Gemini 4 Argon reasoning depth with latency and cost",
-      "hot": "❤️ 11 💬 1",
-      "desc": "Build a high-throughput model routing gateway on GKE to dynamically route requests between Gemini 4 Argon, Gemini 3.8 Fl",
-      "source": "dev",
-      "tag": "kubernetes,  ai",
-      "url": "https://dev.to/googlecloud/multi-tier-model-routing-on-gke-balancing-gemini-4-argon-reasoning-depth-with-latency-and-cost-21fo"
     },
     {
       "title": "Promise Delivered: Welcome to the DEV Hall of Fame (65 Authors, 65 Masterpieces)",
@@ -49,6 +73,14 @@
       "url": "https://dev.to/gde/building-a-cross-model-collaborative-workflow-with-google-antigravity-2jj5"
     },
     {
+      "title": "Building a Multi-Agent Token Usage Widget in Under 500 KB",
+      "hot": "❤️ 6 💬 0",
+      "desc": "How we built a 483 KB zero-WebKit macOS Universal Binary and a single-file Ubuntu HUD with...",
+      "source": "dev",
+      "tag": "gemini,  agents",
+      "url": "https://dev.to/gde/building-a-multi-agent-token-usage-widget-in-under-500-kb-1fih"
+    },
+    {
       "title": "Scaling stateful Gemini 4 Argon agent sessions on GKE: Connection draining, startup boost, and session persistence",
       "hot": "❤️ 11 💬 0",
       "desc": "Architect GKE for long-running Gemini 4 Argon agent sessions using VPA CPU startup boost, GCPBackendPolicy connection dr",
@@ -58,7 +90,7 @@
     },
     {
       "title": "Congrats to the Sanity Challenge Winners!",
-      "hot": "❤️ 28 💬 15",
+      "hot": "❤️ 34 💬 15",
       "desc": "We are thrilled to announce the winners of the Sanity Challenge, our partnership with Sanity built...",
       "source": "dev",
       "tag": "devchallenge,  sanitychallenge",
@@ -71,14 +103,6 @@
       "source": "dev",
       "tag": "programming,  writing",
       "url": "https://dev.to/georgekobaidze/natural-languages-have-design-trade-offs-too-georgian-is-dynamically-typed-english-is-statically-emi"
-    },
-    {
-      "title": "Multi-Model Agentic Workflows: Claude Opus 5.5 & Sonnet 5.5 Land in Google Antigravity 🚀",
-      "hot": "❤️ 10 💬 3",
-      "desc": "Different software engineering problems require different model strengths. While a quick lint fix or...",
-      "source": "dev",
-      "tag": "claude,  cloud",
-      "url": "https://dev.to/googleai/multi-model-agentic-workflows-claude-opus-55-sonnet-55-land-in-google-antigravity-2kmb"
     },
     {
       "title": "Automated incident triage on GKE with Gemini 4 Argon and Model Context Protocol: Correlating cluster events and VPA logs",
@@ -95,6 +119,14 @@
       "source": "dev",
       "tag": "flutter,  dart",
       "url": "https://dev.to/gde/generative-ui-without-the-async-tax-introducing-blocsignalsgenui-10-3gge"
+    },
+    {
+      "title": "Two ways to build with Claude models on Google Cloud!",
+      "hot": "❤️ 7 💬 0",
+      "desc": "Choose Claude Models on Google Cloud (Google managed) for in-boundary security, regional data...",
+      "source": "dev",
+      "tag": "claude,  google",
+      "url": "https://dev.to/googleai/two-ways-to-build-with-claude-models-on-google-cloud-1mfe"
     },
     {
       "title": "Building ora-tui with Google Antigravity & Gemini 4 Argon: An MS-DOS Retro TUI & OpenTelemetry Exporter for Oracle RAC, DB & SAN Multipath",
@@ -127,39 +159,7 @@
       "source": "dev",
       "tag": "wecoded,  news",
       "url": "https://dev.to/jess/how-i-feel-about-the-grace-hopper-celebration-getting-cancelled-3l2k"
-    },
-    {
-      "title": "Welcome Thread - v 398",
-      "hot": "❤️ 41 💬 179",
-      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
-      "source": "dev",
-      "tag": "welcome",
-      "url": "https://dev.to/sloan/welcome-thread-v-398-10a6"
-    },
-    {
-      "title": "Q&A with Al Chen, Software Engineering Leader at Cisco",
-      "hot": "❤️ 9 💬 0",
-      "desc": "We interviewed Al Chen for year's AI Engineer NYC event. Al is a Software Engineering Leader at...",
-      "source": "dev",
-      "tag": "aie,  ai",
-      "url": "https://dev.to/dailycontext/qa-with-al-chen-software-engineering-leader-at-cisco-jj7"
-    },
-    {
-      "title": "A World Worth Understanding",
-      "hot": "❤️ 6 💬 0",
-      "desc": "We think the people who make software are endlessly interesting.  We want to meet them, hear their...",
-      "source": "dev",
-      "tag": "aie,  career",
-      "url": "https://dev.to/dailycontext/a-world-worth-understanding-f08"
-    },
-    {
-      "title": "Why Smaller AI Models Can Win in the Enterprise",
-      "hot": "❤️ 8 💬 0",
-      "desc": "Three engineering lessons from building a 1-billion-parameter foundation model for enterprise fraud detection.",
-      "source": "dev",
-      "tag": "aie,  machinelearning",
-      "url": "https://dev.to/dailycontext/why-smaller-ai-models-can-win-in-the-enterprise-1m57"
     }
   ],
-  "updatedAt": "2026-10-23T11:51:28.191Z"
+  "updatedAt": "2026-10-23T15:57:03.442Z"
 }
