@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-22T22:48:23.180Z",
+  "updatedAt": "2026-10-23T01:02:37.978Z",
   "source": "live",
   "dev": [
     {
       "title": "Don't Be a Proxy Between Me and Your AI",
-      "hot": "❤️ 46 💬 26",
+      "hot": "❤️ 50 💬 26",
       "desc": "I've had this conversation more times than I'd like to admit.  I raise a technical question in a...",
       "source": "dev",
       "tag": "ai,  discuss",
@@ -12,7 +12,7 @@
     },
     {
       "title": "I Got Tired of Coming Into My Lab To Check the Pressure of My Cryocooler so I Built a Tool To Do It for Me",
-      "hot": "❤️ 55 💬 15",
+      "hot": "❤️ 55 💬 17",
       "desc": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady          ...",
       "source": "dev",
       "tag": "devchallenge,  hf26challenge",
@@ -20,7 +20,7 @@
     },
     {
       "title": "Scaling stateful Gemini 4 Argon agent sessions on GKE: Connection draining, startup boost, and session persistence",
-      "hot": "❤️ 9 💬 0",
+      "hot": "❤️ 10 💬 0",
       "desc": "Architect GKE for long-running Gemini 4 Argon agent sessions using VPA CPU startup boost, GCPBackendPolicy connection dr",
       "source": "dev",
       "tag": "kubernetes,  ai",
@@ -28,19 +28,11 @@
     },
     {
       "title": "Congrats to the Sanity Challenge Winners!",
-      "hot": "❤️ 26 💬 13",
+      "hot": "❤️ 27 💬 13",
       "desc": "We are thrilled to announce the winners of the Sanity Challenge, our partnership with Sanity built...",
       "source": "dev",
       "tag": "devchallenge,  sanitychallenge",
       "url": "https://dev.to/devteam/congrats-to-the-sanity-challenge-winners-1140"
-    },
-    {
-      "title": "Building a Cross-Model Collaborative Workflow with Google Antigravity",
-      "hot": "❤️ 7 💬 0",
-      "desc": "Orchestrating Multiple AI Agents in Parallel via Custom Skills   Series 1/2: Multi-Model...",
-      "source": "dev",
-      "tag": "gemini,  devtools",
-      "url": "https://dev.to/gde/building-a-cross-model-collaborative-workflow-with-google-antigravity-2jj5"
     },
     {
       "title": "SlothSRE (NapOps): An Overnight Gemma 4 & ADK Agent That Compresses 418 Lines of 3 AM Alerts into a 2-Line Morning Digest",
@@ -59,8 +51,16 @@
       "url": "https://dev.to/googlecloud/multi-tier-model-routing-on-gke-balancing-gemini-4-argon-reasoning-depth-with-latency-and-cost-21fo"
     },
     {
+      "title": "Building a Cross-Model Collaborative Workflow with Google Antigravity",
+      "hot": "❤️ 8 💬 0",
+      "desc": "Orchestrating Multiple AI Agents in Parallel via Custom Skills   Series 1/2: Multi-Model...",
+      "source": "dev",
+      "tag": "gemini,  devtools",
+      "url": "https://dev.to/gde/building-a-cross-model-collaborative-workflow-with-google-antigravity-2jj5"
+    },
+    {
       "title": "Promise Delivered: Welcome to the DEV Hall of Fame (65 Authors, 65 Masterpieces)",
-      "hot": "❤️ 213 💬 105",
+      "hot": "❤️ 215 💬 105",
       "desc": "Status: Promise delivered ✅              The Doors Are Open   A little over a month ago, I published...",
       "source": "dev",
       "tag": "community,  discuss",
@@ -132,7 +132,7 @@
     },
     {
       "title": "Welcome Thread - v 398",
-      "hot": "❤️ 36 💬 130",
+      "hot": "❤️ 36 💬 132",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
@@ -161,6 +161,168 @@
       "source": "dev",
       "tag": "aie,  machinelearning",
       "url": "https://dev.to/dailycontext/why-smaller-ai-models-can-win-in-the-enterprise-1m57"
+    }
+  ],
+  "tech": [
+    {
+      "title": "Quad9 (DNS Resolver) to Exit France",
+      "hot": "3.0m",
+      "desc": "quad9.net",
+      "source": "tech",
+      "tag": "⬆️ 983 points",
+      "url": "https://quad9.net/news/blog/au-revoir-france/"
+    },
+    {
+      "title": "Docker Is Weird",
+      "hot": "3.0m",
+      "desc": "codeandcake.dev",
+      "source": "tech",
+      "tag": "⬆️ 48 points",
+      "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird"
+    },
+    {
+      "title": "LLMs are making formal software verification feasible at a much larger scale",
+      "hot": "3.0m",
+      "desc": "anthropic.com",
+      "source": "tech",
+      "tag": "⬆️ 74 points",
+      "url": "https://www.anthropic.com/research/formal-verification"
+    },
+    {
+      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "hot": "3.0m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 289 points",
+      "url": "https://github.com/NVIDIA/OpenShell"
+    },
+    {
+      "title": "Woman faces six years in prison over Cash App account she never opened",
+      "hot": "2.9m",
+      "desc": "techspot.com",
+      "source": "tech",
+      "tag": "⬆️ 479 points",
+      "url": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html"
+    },
+    {
+      "title": "Every AI model has the same \"controversial\" take on humans",
+      "hot": "2.9m",
+      "desc": "modelcompare.ai",
+      "source": "tech",
+      "tag": "⬆️ 223 points",
+      "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans"
+    },
+    {
+      "title": "Getting ready to operate GNU Taler in Germany",
+      "hot": "2.9m",
+      "desc": "taler.net",
+      "source": "tech",
+      "tag": "⬆️ 221 points",
+      "url": "https://www.taler.net/en/news/2026-13.html"
+    },
+    {
+      "title": "Run full iOS 16.5 firmware on Android Devices",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 318 points",
+      "url": "https://github.com/oosexgang/hackios-xnu-kernel"
+    },
+    {
+      "title": "Jailbreaking the Switch 2",
+      "hot": "2.9m",
+      "desc": "pepsipu.com",
+      "source": "tech",
+      "tag": "⬆️ 708 points",
+      "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/"
+    },
+    {
+      "title": "Mapping the Northern Sky",
+      "hot": "2.9m",
+      "desc": "maps.com",
+      "source": "tech",
+      "tag": "⬆️ 9 points",
+      "url": "https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/"
+    },
+    {
+      "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 122 points",
+      "url": "https://github.com/maxilevi/project-hedra/tree/pre-ai"
+    },
+    {
+      "title": "What Is Gridifcation",
+      "hot": "2.8m",
+      "desc": "musicalform.substack.com",
+      "source": "tech",
+      "tag": "⬆️ 397 points",
+      "url": "https://musicalform.substack.com/p/what-is-gridifcation"
+    },
+    {
+      "title": "eMudhra to exit global SSL/TLS certificate business",
+      "hot": "2.8m",
+      "desc": "emudhra.com",
+      "source": "tech",
+      "tag": "⬆️ 917 points",
+      "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business"
+    },
+    {
+      "title": "Railpass",
+      "hot": "2.8m",
+      "desc": "train.samismith.com",
+      "source": "tech",
+      "tag": "⬆️ 40 points",
+      "url": "https://train.samismith.com/"
+    },
+    {
+      "title": "AI and the Enclosure of the Scientific Commons",
+      "hot": "2.8m",
+      "desc": "arxiv.org",
+      "source": "tech",
+      "tag": "⬆️ 106 points",
+      "url": "https://arxiv.org/abs/2610.27251"
+    },
+    {
+      "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
+      "hot": "2.8m",
+      "desc": "news.ycombinator.com",
+      "source": "tech",
+      "tag": "⬆️ 352 points",
+      "url": "https://news.ycombinator.com/item?id=50193416"
+    },
+    {
+      "title": "Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions",
+      "hot": "2.8m",
+      "desc": "vanityfair.com",
+      "source": "tech",
+      "tag": "⬆️ 303 points",
+      "url": "https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations"
+    },
+    {
+      "title": "AI compute is the new oil–and needs a new market",
+      "hot": "2.7m",
+      "desc": "economist.com",
+      "source": "tech",
+      "tag": "⬆️ 7 points",
+      "url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market"
+    },
+    {
+      "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you bought",
+      "hot": "2.7m",
+      "desc": "arstechnica.com",
+      "source": "tech",
+      "tag": "⬆️ 194 points",
+      "url": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/"
+    },
+    {
+      "title": "How to Design Flowers",
+      "hot": "2.7m",
+      "desc": "asimov.press",
+      "source": "tech",
+      "tag": "⬆️ 14 points",
+      "url": "https://www.asimov.press/p/flowers"
     }
   ],
   "space": [
@@ -285,172 +447,10 @@
       "url": "https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/"
     }
   ],
-  "tech": [
-    {
-      "title": "Quad9 (DNS Resolver) to Exit France",
-      "hot": "3.0m",
-      "desc": "quad9.net",
-      "source": "tech",
-      "tag": "⬆️ 881 points",
-      "url": "https://quad9.net/news/blog/au-revoir-france/"
-    },
-    {
-      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-      "hot": "3.0m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 244 points",
-      "url": "https://github.com/NVIDIA/OpenShell"
-    },
-    {
-      "title": "Getting ready to operate GNU Taler in Germany",
-      "hot": "3.0m",
-      "desc": "taler.net",
-      "source": "tech",
-      "tag": "⬆️ 197 points",
-      "url": "https://www.taler.net/en/news/2026-13.html"
-    },
-    {
-      "title": "Show HN: Run full iOS 16.5 firmware on Android Devices",
-      "hot": "3.0m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 281 points",
-      "url": "https://github.com/oosexgang/hackios-xnu-kernel"
-    },
-    {
-      "title": "Woman faces six years in prison over Cash App account she never opened",
-      "hot": "2.9m",
-      "desc": "techspot.com",
-      "source": "tech",
-      "tag": "⬆️ 387 points",
-      "url": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html"
-    },
-    {
-      "title": "Every AI model has the same \"controversial\" take on humans",
-      "hot": "2.9m",
-      "desc": "modelcompare.ai",
-      "source": "tech",
-      "tag": "⬆️ 156 points",
-      "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans"
-    },
-    {
-      "title": "AI and the Enclosure of the Scientific Commons",
-      "hot": "2.9m",
-      "desc": "arxiv.org",
-      "source": "tech",
-      "tag": "⬆️ 89 points",
-      "url": "https://arxiv.org/abs/2610.27251"
-    },
-    {
-      "title": "Jailbreaking the Switch 2",
-      "hot": "2.9m",
-      "desc": "pepsipu.com",
-      "source": "tech",
-      "tag": "⬆️ 669 points",
-      "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/"
-    },
-    {
-      "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 91 points",
-      "url": "https://github.com/maxilevi/project-hedra/tree/pre-ai"
-    },
-    {
-      "title": "What Is Gridifcation",
-      "hot": "2.9m",
-      "desc": "musicalform.substack.com",
-      "source": "tech",
-      "tag": "⬆️ 378 points",
-      "url": "https://musicalform.substack.com/p/what-is-gridifcation"
-    },
-    {
-      "title": "eMudhra to exit global SSL/TLS certificate business",
-      "hot": "2.9m",
-      "desc": "emudhra.com",
-      "source": "tech",
-      "tag": "⬆️ 880 points",
-      "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business"
-    },
-    {
-      "title": "Railpass",
-      "hot": "2.8m",
-      "desc": "train.samismith.com",
-      "source": "tech",
-      "tag": "⬆️ 11 points",
-      "url": "https://train.samismith.com/"
-    },
-    {
-      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-      "hot": "2.8m",
-      "desc": "simedw.com",
-      "source": "tech",
-      "tag": "⬆️ 484 points",
-      "url": "https://simedw.com/2026/10/21/world-model-terminal/"
-    },
-    {
-      "title": "Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions",
-      "hot": "2.8m",
-      "desc": "vanityfair.com",
-      "source": "tech",
-      "tag": "⬆️ 91 points",
-      "url": "https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations"
-    },
-    {
-      "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
-      "hot": "2.8m",
-      "desc": "news.ycombinator.com",
-      "source": "tech",
-      "tag": "⬆️ 285 points",
-      "url": "https://news.ycombinator.com/item?id=50193416"
-    },
-    {
-      "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you bought",
-      "hot": "2.8m",
-      "desc": "arstechnica.com",
-      "source": "tech",
-      "tag": "⬆️ 151 points",
-      "url": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/"
-    },
-    {
-      "title": "Show HN: Replacing CAPTCHAs with adaptive proof-of-work in WordPress",
-      "hot": "2.8m",
-      "desc": "wordpress.org",
-      "source": "tech",
-      "tag": "⬆️ 5 points",
-      "url": "https://wordpress.org/plugins/gdpr-compliant-recaptcha-for-all-forms/"
-    },
-    {
-      "title": "A farewell to Arc browser",
-      "hot": "2.7m",
-      "desc": "arc.net",
-      "source": "tech",
-      "tag": "⬆️ 208 points",
-      "url": "https://arc.net/"
-    },
-    {
-      "title": "Dungeon Generation in the Gnomish Mines of NetHack",
-      "hot": "2.7m",
-      "desc": "boristhebrave.com",
-      "source": "tech",
-      "tag": "⬆️ 109 points",
-      "url": "https://www.boristhebrave.com/2026/10/18/dungeon-generation-in-the-gnomish-mines-of-nethack/"
-    },
-    {
-      "title": "Show HN: Uberblok – an interactive museum of ZFS internals",
-      "hot": "2.7m",
-      "desc": "uberblok.storagebits.workers.dev",
-      "source": "tech",
-      "tag": "⬆️ 65 points",
-      "url": "https://uberblok.storagebits.workers.dev/"
-    }
-  ],
   "github": [
     {
       "title": "Gathin23/cleanyourtv: Debloat any Android or Google TV over Wi-Fi and get an App",
-      "hot": "⭐ 23.8k",
+      "hot": "⭐ 24.1k",
       "desc": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
       "source": "github",
       "tag": "Java",
@@ -458,7 +458,7 @@
     },
     {
       "title": "deepseek-ai/DeepInfer: DeepInfer: High-performance, large-scale inference framew",
-      "hot": "⭐ 19.8k",
+      "hot": "⭐ 19.9k",
       "desc": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
       "source": "github",
       "tag": "Python",
@@ -482,35 +482,19 @@
     },
     {
       "title": "pengchujin/aerial-tv: 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvO",
-      "hot": "⭐ 3.0k",
+      "hot": "⭐ 3.1k",
       "desc": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
       "source": "github",
       "tag": "Kotlin",
       "url": "https://github.com/pengchujin/aerial-tv"
     },
     {
-      "title": "xiaoyang111222/cn-math-taxonomy: 数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条",
+      "title": "xiaoyang111222/cn-math-taxonomy: 数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点���2403",
       "hot": "⭐ 2.2k",
-      "desc": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
+      "desc": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点���2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/xiaoyang111222/cn-math-taxonomy"
-    },
-    {
-      "title": "Leonxlnx/earshot: Ears for coding agents: let AI hear, review and make sound. CP",
-      "hot": "⭐ 2.1k",
-      "desc": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/Leonxlnx/earshot"
-    },
-    {
-      "title": "chenglou/handwired: Turn your regular JavaScript code into a neural net.",
-      "hot": "⭐ 1.9k",
-      "desc": "Turn your regular JavaScript code into a neural net.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/chenglou/handwired"
     },
     {
       "title": "tek-sys-hub/Rubix-lang: The 100% Pure x86-64 Assembly Systems Language",
@@ -519,14 +503,6 @@
       "source": "github",
       "tag": "Assembly",
       "url": "https://github.com/tek-sys-hub/Rubix-lang"
-    },
-    {
-      "title": "Supermedo/uncharted_pc: Uncharted: The Nathan Drake Collection running natively ",
-      "hot": "⭐ 1.9k",
-      "desc": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
-      "source": "github",
-      "tag": "C++",
-      "url": "https://github.com/Supermedo/uncharted_pc"
     },
     {
       "title": "ikow/php2shell-poc: CVE-2026-109618/109619 — 5 RCE chains + detection rules (Sur",
@@ -561,12 +537,36 @@
       "url": "https://github.com/alchaincyf/huashu-motion"
     },
     {
-      "title": "ctresb/leis: Todas as leis do Brasil",
+      "title": "aicodeking/leanrea: One 8 KB skill that replaces REA (Reverse Engineer Anything)",
       "hot": "⭐ 1.4k",
-      "desc": "Todas as leis do Brasil",
+      "desc": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/aicodeking/leanrea"
+    },
+    {
+      "title": "humblemuzzu/dumbtv: Take the ads, tracking and clutter out of your Fire TV over ",
+      "hot": "⭐ 1.3k",
+      "desc": "Take the ads, tracking and clutter out of your Fire TV over ADB, no root. Every step can be undone. Comes with its own open-source home screen.",
+      "source": "github",
+      "tag": "Java",
+      "url": "https://github.com/humblemuzzu/dumbtv"
+    },
+    {
+      "title": "Ansub/tv-detox: Make an old Android TV fast again with Claude Code or Codex: a t",
+      "hot": "⭐ 1.3k",
+      "desc": "Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up",
+      "source": "github",
+      "tag": "Java",
+      "url": "https://github.com/Ansub/tv-detox"
+    },
+    {
+      "title": "xscreensaver-official/xscreensaver: There is no official XScreenSaver GitHub rep",
+      "hot": "⭐ 1.1k",
+      "desc": "There is no official XScreenSaver GitHub repository.",
       "source": "github",
       "tag": "GitHub",
-      "url": "https://github.com/ctresb/leis"
+      "url": "https://github.com/xscreensaver-official/xscreensaver"
     }
   ]
 }
