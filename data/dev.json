@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "926 Steps, Two Lobotomies, and Zero Nudges: Flight-Testing the Commitment Machine Across Gemini, Claude, and GPT-OSS",
-      "hot": "❤️ 14 💬 35",
+      "hot": "❤️ 15 💬 37",
       "desc": "A 2026 Harvard study of 718 companies found that AI agents write 30% more code and close zero additional tickets because",
       "source": "dev",
       "tag": "ai,  programming",
@@ -10,7 +10,7 @@
     },
     {
       "title": "Don't Be a Proxy Between Me and Your AI",
-      "hot": "❤️ 73 💬 45",
+      "hot": "❤️ 77 💬 47",
       "desc": "I've had this conversation more times than I'd like to admit.  I raise a technical question in a...",
       "source": "dev",
       "tag": "ai,  discuss",
@@ -47,14 +47,6 @@
       "source": "dev",
       "tag": "devchallenge,  hf26challenge",
       "url": "https://dev.to/pahorton/i-got-tired-of-coming-into-my-lab-to-check-the-pressure-of-my-cryocooler-so-i-built-a-tool-to-do-it-4ob7"
-    },
-    {
-      "title": "Scaling stateful Gemini 4 Argon agent sessions on GKE: Connection draining, startup boost, and session persistence",
-      "hot": "❤️ 11 💬 0",
-      "desc": "Architect GKE for long-running Gemini 4 Argon agent sessions using VPA CPU startup boost, GCPBackendPolicy connection dr",
-      "source": "dev",
-      "tag": "kubernetes,  ai",
-      "url": "https://dev.to/googlecloud/scaling-stateful-gemini-4-argon-agent-sessions-on-gke-connection-draining-startup-boost-and-13ln"
     },
     {
       "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle Winners!",
@@ -159,7 +151,15 @@
       "source": "dev",
       "tag": "wecoded,  news",
       "url": "https://dev.to/jess/how-i-feel-about-the-grace-hopper-celebration-getting-cancelled-3l2k"
+    },
+    {
+      "title": "Multi-tier model routing on GKE: balancing Gemini 4 Argon reasoning depth with latency and cost",
+      "hot": "❤️ 12 💬 1",
+      "desc": "Build a high-throughput model routing gateway on GKE to dynamically route requests between Gemini 4 Argon, Gemini 3.8 Fl",
+      "source": "dev",
+      "tag": "kubernetes,  ai",
+      "url": "https://dev.to/googlecloud/multi-tier-model-routing-on-gke-balancing-gemini-4-argon-reasoning-depth-with-latency-and-cost-21fo"
     }
   ],
-  "updatedAt": "2026-10-24T19:52:11.777Z"
+  "updatedAt": "2026-10-24T22:00:13.633Z"
 }
