@@ -1,331 +1,15 @@
 {
-  "updatedAt": "2026-10-25T17:22:47.108Z",
+  "updatedAt": "2026-10-25T19:46:42.478Z",
   "source": "live",
-  "dev": [
-    {
-      "title": "Don't Be a Proxy Between Me and Your AI",
-      "hot": "❤️ 81 💬 50",
-      "desc": "I've had this conversation more times than I'd like to admit.  I raise a technical question in a...",
-      "source": "dev",
-      "tag": "ai,  discuss",
-      "url": "https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn"
-    },
-    {
-      "title": "Comic Studio AI: Turning Voice & Text Prompts into 4-Panel Comics with Google AI Studio, Gemini & Imagen",
-      "hot": "❤️ 8 💬 0",
-      "desc": "How I built a voice-and-text-to-4-panel comic generator with Google AI Studio, Gemini structured outputs, a teacher scri",
-      "source": "dev",
-      "tag": "deved,  learngoogleaistudio",
-      "url": "https://dev.to/gde/comic-studio-ai-turning-voice-text-prompts-into-4-panel-comics-with-google-ai-studio-gemini--2npc"
-    },
-    {
-      "title": "Building a Cross-Model Collaborative Workflow with Google Antigravity",
-      "hot": "❤️ 8 💬 0",
-      "desc": "Orchestrating Multiple AI Agents in Parallel via Custom Skills   Series 1/2: Multi-Model...",
-      "source": "dev",
-      "tag": "gemini,  devtools",
-      "url": "https://dev.to/gde/building-a-cross-model-collaborative-workflow-with-google-antigravity-2jj5"
-    },
-    {
-      "title": "I Got Tired of Coming Into My Lab To Check the Pressure of My Cryocooler so I Built a Tool To Do It for Me",
-      "hot": "❤️ 58 💬 22",
-      "desc": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady          ...",
-      "source": "dev",
-      "tag": "devchallenge,  hf26challenge",
-      "url": "https://dev.to/pahorton/i-got-tired-of-coming-into-my-lab-to-check-the-pressure-of-my-cryocooler-so-i-built-a-tool-to-do-it-4ob7"
-    },
-    {
-      "title": "926 Steps, Two Lobotomies, and Zero Nudges: Flight-Testing the Commitment Machine Across Gemini, Claude, and GPT-OSS",
-      "hot": "❤️ 15 💬 44",
-      "desc": "A 2026 Harvard study of 718 companies found that AI agents write 30% more code and close zero additional tickets because",
-      "source": "dev",
-      "tag": "ai,  programming",
-      "url": "https://dev.to/gde/926-steps-two-lobotomies-and-zero-nudges-flight-testing-the-commitment-machine-across-gemini-55ca"
-    },
-    {
-      "title": "Promise Delivered: Welcome to the DEV Hall of Fame (65 Authors, 65 Masterpieces)",
-      "hot": "❤️ 225 💬 125",
-      "desc": "Status: Promise delivered ✅              The Doors Are Open   A little over a month ago, I published...",
-      "source": "dev",
-      "tag": "community,  discuss",
-      "url": "https://dev.to/georgekobaidze/promise-delivered-welcome-to-the-dev-hall-of-fame-65-authors-65-masterpieces-15fa"
-    },
-    {
-      "title": "Automated incident triage on GKE with Gemini 4 Argon and Model Context Protocol: Correlating cluster events and VPA logs",
-      "hot": "❤️ 5 💬 0",
-      "desc": "Automate root-cause incident triage on GKE by combining Gemini 4 Argon multi-step reasoning with the GKE Model Context P",
-      "source": "dev",
-      "tag": "kubernetes,  ai",
-      "url": "https://dev.to/googlecloud/automated-incident-triage-on-gke-with-gemini-4-argon-and-model-context-protocol-correlating-24eb"
-    },
-    {
-      "title": "Generative UI Without the Async Tax: Introducing bloc_signals_genui 1.0",
-      "hot": "❤️ 19 💬 28",
-      "desc": "Why we built a pure-Dart, 0ms synchronous Generative UI state machine on top of Google's official A2UI protocol—supporti",
-      "source": "dev",
-      "tag": "flutter,  dart",
-      "url": "https://dev.to/gde/generative-ui-without-the-async-tax-introducing-blocsignalsgenui-10-3gge"
-    },
-    {
-      "title": "Two ways to build with Claude models on Google Cloud!",
-      "hot": "❤️ 8 💬 0",
-      "desc": "Choose Claude Models on Google Cloud (Google managed) for in-boundary security, regional data...",
-      "source": "dev",
-      "tag": "claude,  google",
-      "url": "https://dev.to/googleai/two-ways-to-build-with-claude-models-on-google-cloud-1mfe"
-    },
-    {
-      "title": "Natural Languages Have Design Trade-offs Too: Georgian Is Dynamically Typed, English Is Statically Typed",
-      "hot": "❤️ 141 💬 64",
-      "desc": "Table of Contents    How This Started  Feature #1: Articles (or the Lack of Them)   The...",
-      "source": "dev",
-      "tag": "programming,  writing",
-      "url": "https://dev.to/georgekobaidze/natural-languages-have-design-trade-offs-too-georgian-is-dynamically-typed-english-is-statically-emi"
-    },
-    {
-      "title": "Building a Multi-Agent Token Usage Widget in Under 500 KB",
-      "hot": "❤️ 9 💬 4",
-      "desc": "How we built a 483 KB zero-WebKit macOS Universal Binary and a single-file Ubuntu HUD with...",
-      "source": "dev",
-      "tag": "gemini,  agents",
-      "url": "https://dev.to/gde/building-a-multi-agent-token-usage-widget-in-under-500-kb-1fih"
-    },
-    {
-      "title": "Building ora-tui with Google Antigravity & Gemini 4 Argon: An MS-DOS Retro TUI & OpenTelemetry Exporter for Oracle RAC, DB & SAN Multipath",
-      "hot": "❤️ 8 💬 0",
-      "desc": "How I pair-programmed with Google Antigravity powered by Gemini 4 Argon to build a zero-dependency Go TUI and OpenTeleme",
-      "source": "dev",
-      "tag": "oracle,  go",
-      "url": "https://dev.to/gde/building-ora-tui-with-google-antigravity-gemini-4-argon-an-ms-dos-retro-tui-opentelemetry-4d02"
-    },
-    {
-      "title": "DuckLess: serverless DuckDB on Google Cloud, in your own project",
-      "hot": "❤️ 11 💬 1",
-      "desc": "Serverless DuckDB on Google Cloud, in your own project. Files on GCS, tables in BigQuery (read and write), what I measur",
-      "source": "dev",
-      "tag": "duckdb,  googlecloud",
-      "url": "https://dev.to/gde/duckless-serverless-duckdb-on-google-cloud-in-your-own-project-4o5a"
-    },
-    {
-      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle Winners!",
-      "hot": "❤️ 59 💬 10",
-      "desc": "We're excited to announce the winners of the Hacktoberfest Open-Source AI Challenge Week 2: Side...",
-      "source": "dev",
-      "tag": "devchallenge,  hf26challenge",
-      "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-2-side-hustle-winners-2i33"
-    },
-    {
-      "title": "What was your win this week!?",
-      "hot": "❤️ 27 💬 7",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "weeklyretro",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-4ipe"
-    },
-    {
-      "title": "Autonomous agent loops with Gemini 4 Argon and GKE Agent Sandbox: Running untrusted code safely at scale",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Run untrusted LLM-generated Python and Bash code safely at scale using Gemini 4 Argon and GKE Agent Sandbox with gVisor ",
-      "source": "dev",
-      "tag": "kubernetes,  ai",
-      "url": "https://dev.to/googlecloud/autonomous-agent-loops-with-gemini-4-argon-and-gke-agent-sandbox-running-untrusted-code-safely-at-2k60"
-    },
-    {
-      "title": "Building a Multimodal, Suggestion-Based AI Writing Coach with Gemini and Google Docs",
-      "hot": "❤️ 12 💬 14",
-      "desc": "When we use generative AI to proofread our daily writing—whether technical reports, business...",
-      "source": "dev",
-      "tag": "ai,  gemini",
-      "url": "https://dev.to/gde/building-a-multimodal-suggestion-based-ai-writing-coach-with-gemini-and-google-docs-ea4"
-    },
-    {
-      "title": "Congrats to the Sanity Challenge Winners!",
-      "hot": "❤️ 35 💬 18",
-      "desc": "We are thrilled to announce the winners of the Sanity Challenge, our partnership with Sanity built...",
-      "source": "dev",
-      "tag": "devchallenge,  sanitychallenge",
-      "url": "https://dev.to/devteam/congrats-to-the-sanity-challenge-winners-1140"
-    },
-    {
-      "title": "How I Feel about the Grace Hopper Celebration Getting Cancelled",
-      "hot": "❤️ 101 💬 14",
-      "desc": "The Grace Hopper Celebration has been around since 1994, and for a lot of people, it's the event for...",
-      "source": "dev",
-      "tag": "wecoded,  news",
-      "url": "https://dev.to/jess/how-i-feel-about-the-grace-hopper-celebration-getting-cancelled-3l2k"
-    },
-    {
-      "title": "Multi-tier model routing on GKE: balancing Gemini 4 Argon reasoning depth with latency and cost",
-      "hot": "❤️ 12 💬 1",
-      "desc": "Build a high-throughput model routing gateway on GKE to dynamically route requests between Gemini 4 Argon, Gemini 3.8 Fl",
-      "source": "dev",
-      "tag": "kubernetes,  ai",
-      "url": "https://dev.to/googlecloud/multi-tier-model-routing-on-gke-balancing-gemini-4-argon-reasoning-depth-with-latency-and-cost-21fo"
-    }
-  ],
-  "tech": [
-    {
-      "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
-      "hot": "3.0m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 153 points",
-      "url": "https://github.com/ihhub/fheroes2"
-    },
-    {
-      "title": "We should be more ambitious with the software we build",
-      "hot": "3.0m",
-      "desc": "danluu.com",
-      "source": "tech",
-      "tag": "⬆️ 617 points",
-      "url": "https://danluu.com/ambitious/"
-    },
-    {
-      "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
-      "hot": "3.0m",
-      "desc": "bigwhalehunting.com",
-      "source": "tech",
-      "tag": "⬆️ 110 points",
-      "url": "https://bigwhalehunting.com/workforce/"
-    },
-    {
-      "title": "Cerebras Deploys Trillion-Parameter AI Models",
-      "hot": "3.0m",
-      "desc": "cerebras.ai",
-      "source": "tech",
-      "tag": "⬆️ 300 points",
-      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras"
-    },
-    {
-      "title": "A few thoughts on intensity (2024)",
-      "hot": "2.9m",
-      "desc": "tylerhogge.com",
-      "source": "tech",
-      "tag": "⬆️ 46 points",
-      "url": "https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/"
-    },
-    {
-      "title": "Bring Back the Cool Save File Screens",
-      "hot": "2.9m",
-      "desc": "scabshack.lol",
-      "source": "tech",
-      "tag": "⬆️ 26 points",
-      "url": "https://scabshack.lol/posts/bring-back-the-cool-save-file-screens"
-    },
-    {
-      "title": "VCF Southwest 2026, but Edited on Silicon Graphics for '90s TV [video]",
-      "hot": "2.9m",
-      "desc": "youtube.com",
-      "source": "tech",
-      "tag": "⬆️ 5 points",
-      "url": "https://www.youtube.com/watch?v=46wxttvq9qY"
-    },
-    {
-      "title": "A Mathematician Reads the AI Future",
-      "hot": "2.9m",
-      "desc": "theatlantic.com",
-      "source": "tech",
-      "tag": "⬆️ 18 points",
-      "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/"
-    },
-    {
-      "title": "Samsung TV privacy issues",
-      "hot": "2.9m",
-      "desc": "twitter.com",
-      "source": "tech",
-      "tag": "⬆️ 553 points",
-      "url": "https://twitter.com/log4j/status/2113014142600953868?s=46"
-    },
-    {
-      "title": "How Japanese Dried Bonito Is Made",
-      "hot": "2.9m",
-      "desc": "kottke.org",
-      "source": "tech",
-      "tag": "⬆️ 149 points",
-      "url": "https://kottke.org/26/10/how-japanese-dried-bonito-is-made"
-    },
-    {
-      "title": "The Goose Programming Language",
-      "hot": "2.9m",
-      "desc": "aardappel.github.io",
-      "source": "tech",
-      "tag": "⬆️ 520 points",
-      "url": "https://aardappel.github.io/goose/"
-    },
-    {
-      "title": "Reverse engineer of PC-98 Touhou games retires",
-      "hot": "2.8m",
-      "desc": "rec98.nmlgc.net",
-      "source": "tech",
-      "tag": "⬆️ 56 points",
-      "url": "https://rec98.nmlgc.net/blog/2026-10-05"
-    },
-    {
-      "title": "Anthropic Wanted to Replace Engineers. Instead, They Shot Their Own Customers",
-      "hot": "2.8m",
-      "desc": "techbronerd.substack.com",
-      "source": "tech",
-      "tag": "⬆️ 29 points",
-      "url": "https://techbronerd.substack.com/p/openai-and-anthropic-wanted-to-replace"
-    },
-    {
-      "title": "SpeedCrunch 1.1",
-      "hot": "2.8m",
-      "desc": "speedcrunch.org",
-      "source": "tech",
-      "tag": "⬆️ 203 points",
-      "url": "https://www.speedcrunch.org/"
-    },
-    {
-      "title": "Active incident at Dreamhost forcing password reset",
-      "hot": "2.8m",
-      "desc": "dreamhoststatus.com",
-      "source": "tech",
-      "tag": "⬆️ 9 points",
-      "url": "https://www.dreamhoststatus.com/"
-    },
-    {
-      "title": "Small Programs and Languages",
-      "hot": "2.8m",
-      "desc": "ratfactor.com",
-      "source": "tech",
-      "tag": "⬆️ 167 points",
-      "url": "https://ratfactor.com/cards/pl-small"
-    },
-    {
-      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-      "hot": "2.8m",
-      "desc": "edjefferson.com",
-      "source": "tech",
-      "tag": "⬆️ 1635 points",
-      "url": "https://edjefferson.com/localwiki/"
-    },
-    {
-      "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
-      "hot": "2.7m",
-      "desc": "techspot.com",
-      "source": "tech",
-      "tag": "⬆️ 100 points",
-      "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html"
-    },
-    {
-      "title": "Flapping Airplanes",
-      "hot": "2.7m",
-      "desc": "flappingairplanes.com",
-      "source": "tech",
-      "tag": "⬆️ 3 points",
-      "url": "https://flappingairplanes.com/"
-    },
-    {
-      "title": "Broccoli2Shell: Brotli decoder RCE in Node.js, Python and more",
-      "hot": "2.7m",
-      "desc": "broccoli2shell.com",
-      "source": "tech",
-      "tag": "⬆️ 372 points",
-      "url": "https://broccoli2shell.com/"
-    }
-  ],
   "space": [
+    {
+      "title": "Possible Roberts Road Expansion as SpaceX pushes for Flight 16",
+      "hot": "10/25",
+      "desc": "As SpaceX prepares to fly Flight 15 in November, with a successful Static Fire test…\nThe post Possible Roberts Road Expansion as SpaceX pushes for Fli",
+      "source": "space",
+      "tag": "NASASpaceflight",
+      "url": "https://www.nasaspaceflight.com/2026/10/roberts-road-expansion-flight-16/"
+    },
     {
       "title": "APOD: 2026 October 25 – Dark Matter in a Simulated Universe",
       "hot": "10/25",
@@ -437,20 +121,174 @@
       "source": "space",
       "tag": "Arstechnica",
       "url": "https://arstechnica.com/space/2026/10/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready/"
+    }
+  ],
+  "dev": [
+    {
+      "title": "Don't Be a Proxy Between Me and Your AI",
+      "hot": "❤️ 81 💬 50",
+      "desc": "I've had this conversation more times than I'd like to admit.  I raise a technical question in a...",
+      "source": "dev",
+      "tag": "ai,  discuss",
+      "url": "https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn"
     },
     {
-      "title": "Earth from Space: The pink city",
-      "hot": "10/23",
-      "desc": "From the ESA Blogs.",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_The_pink_city"
+      "title": "Comic Studio AI: Turning Voice & Text Prompts into 4-Panel Comics with Google AI Studio, Gemini & Imagen",
+      "hot": "❤️ 8 💬 0",
+      "desc": "How I built a voice-and-text-to-4-panel comic generator with Google AI Studio, Gemini structured outputs, a teacher scri",
+      "source": "dev",
+      "tag": "deved,  learngoogleaistudio",
+      "url": "https://dev.to/gde/comic-studio-ai-turning-voice-text-prompts-into-4-panel-comics-with-google-ai-studio-gemini--2npc"
+    },
+    {
+      "title": "Building a Cross-Model Collaborative Workflow with Google Antigravity",
+      "hot": "❤️ 8 💬 0",
+      "desc": "Orchestrating Multiple AI Agents in Parallel via Custom Skills   Series 1/2: Multi-Model...",
+      "source": "dev",
+      "tag": "gemini,  devtools",
+      "url": "https://dev.to/gde/building-a-cross-model-collaborative-workflow-with-google-antigravity-2jj5"
+    },
+    {
+      "title": "I Got Tired of Coming Into My Lab To Check the Pressure of My Cryocooler so I Built a Tool To Do It for Me",
+      "hot": "❤️ 58 💬 22",
+      "desc": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady          ...",
+      "source": "dev",
+      "tag": "devchallenge,  hf26challenge",
+      "url": "https://dev.to/pahorton/i-got-tired-of-coming-into-my-lab-to-check-the-pressure-of-my-cryocooler-so-i-built-a-tool-to-do-it-4ob7"
+    },
+    {
+      "title": "926 Steps, Two Lobotomies, and Zero Nudges: Flight-Testing the Commitment Machine Across Gemini, Claude, and GPT-OSS",
+      "hot": "❤️ 20 💬 44",
+      "desc": "A 2026 Harvard study of 718 companies found that AI agents write 30% more code and close zero additional tickets because",
+      "source": "dev",
+      "tag": "ai,  programming",
+      "url": "https://dev.to/gde/926-steps-two-lobotomies-and-zero-nudges-flight-testing-the-commitment-machine-across-gemini-55ca"
+    },
+    {
+      "title": "Promise Delivered: Welcome to the DEV Hall of Fame (65 Authors, 65 Masterpieces)",
+      "hot": "❤️ 225 💬 125",
+      "desc": "Status: Promise delivered ✅              The Doors Are Open   A little over a month ago, I published...",
+      "source": "dev",
+      "tag": "community,  discuss",
+      "url": "https://dev.to/georgekobaidze/promise-delivered-welcome-to-the-dev-hall-of-fame-65-authors-65-masterpieces-15fa"
+    },
+    {
+      "title": "Automated incident triage on GKE with Gemini 4 Argon and Model Context Protocol: Correlating cluster events and VPA logs",
+      "hot": "❤️ 5 💬 0",
+      "desc": "Automate root-cause incident triage on GKE by combining Gemini 4 Argon multi-step reasoning with the GKE Model Context P",
+      "source": "dev",
+      "tag": "kubernetes,  ai",
+      "url": "https://dev.to/googlecloud/automated-incident-triage-on-gke-with-gemini-4-argon-and-model-context-protocol-correlating-24eb"
+    },
+    {
+      "title": "Generative UI Without the Async Tax: Introducing bloc_signals_genui 1.0",
+      "hot": "❤️ 19 💬 28",
+      "desc": "Why we built a pure-Dart, 0ms synchronous Generative UI state machine on top of Google's official A2UI protocol—supporti",
+      "source": "dev",
+      "tag": "flutter,  dart",
+      "url": "https://dev.to/gde/generative-ui-without-the-async-tax-introducing-blocsignalsgenui-10-3gge"
+    },
+    {
+      "title": "Two ways to build with Claude models on Google Cloud!",
+      "hot": "❤️ 8 💬 0",
+      "desc": "Choose Claude Models on Google Cloud (Google managed) for in-boundary security, regional data...",
+      "source": "dev",
+      "tag": "claude,  google",
+      "url": "https://dev.to/googleai/two-ways-to-build-with-claude-models-on-google-cloud-1mfe"
+    },
+    {
+      "title": "Natural Languages Have Design Trade-offs Too: Georgian Is Dynamically Typed, English Is Statically Typed",
+      "hot": "❤️ 141 💬 64",
+      "desc": "Table of Contents    How This Started  Feature #1: Articles (or the Lack of Them)   The...",
+      "source": "dev",
+      "tag": "programming,  writing",
+      "url": "https://dev.to/georgekobaidze/natural-languages-have-design-trade-offs-too-georgian-is-dynamically-typed-english-is-statically-emi"
+    },
+    {
+      "title": "Building a Multi-Agent Token Usage Widget in Under 500 KB",
+      "hot": "❤️ 9 💬 4",
+      "desc": "How we built a 483 KB zero-WebKit macOS Universal Binary and a single-file Ubuntu HUD with...",
+      "source": "dev",
+      "tag": "gemini,  agents",
+      "url": "https://dev.to/gde/building-a-multi-agent-token-usage-widget-in-under-500-kb-1fih"
+    },
+    {
+      "title": "Building ora-tui with Google Antigravity & Gemini 4 Argon: An MS-DOS Retro TUI & OpenTelemetry Exporter for Oracle RAC, DB & SAN Multipath",
+      "hot": "❤️ 8 💬 0",
+      "desc": "How I pair-programmed with Google Antigravity powered by Gemini 4 Argon to build a zero-dependency Go TUI and OpenTeleme",
+      "source": "dev",
+      "tag": "oracle,  go",
+      "url": "https://dev.to/gde/building-ora-tui-with-google-antigravity-gemini-4-argon-an-ms-dos-retro-tui-opentelemetry-4d02"
+    },
+    {
+      "title": "DuckLess: serverless DuckDB on Google Cloud, in your own project",
+      "hot": "❤️ 11 💬 1",
+      "desc": "Serverless DuckDB on Google Cloud, in your own project. Files on GCS, tables in BigQuery (read and write), what I measur",
+      "source": "dev",
+      "tag": "duckdb,  googlecloud",
+      "url": "https://dev.to/gde/duckless-serverless-duckdb-on-google-cloud-in-your-own-project-4o5a"
+    },
+    {
+      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle Winners!",
+      "hot": "❤️ 60 💬 10",
+      "desc": "We're excited to announce the winners of the Hacktoberfest Open-Source AI Challenge Week 2: Side...",
+      "source": "dev",
+      "tag": "devchallenge,  hf26challenge",
+      "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-2-side-hustle-winners-2i33"
+    },
+    {
+      "title": "What was your win this week!?",
+      "hot": "❤️ 27 💬 7",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-4ipe"
+    },
+    {
+      "title": "Autonomous agent loops with Gemini 4 Argon and GKE Agent Sandbox: Running untrusted code safely at scale",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Run untrusted LLM-generated Python and Bash code safely at scale using Gemini 4 Argon and GKE Agent Sandbox with gVisor ",
+      "source": "dev",
+      "tag": "kubernetes,  ai",
+      "url": "https://dev.to/googlecloud/autonomous-agent-loops-with-gemini-4-argon-and-gke-agent-sandbox-running-untrusted-code-safely-at-2k60"
+    },
+    {
+      "title": "Building a Multimodal, Suggestion-Based AI Writing Coach with Gemini and Google Docs",
+      "hot": "❤️ 12 💬 14",
+      "desc": "When we use generative AI to proofread our daily writing—whether technical reports, business...",
+      "source": "dev",
+      "tag": "ai,  gemini",
+      "url": "https://dev.to/gde/building-a-multimodal-suggestion-based-ai-writing-coach-with-gemini-and-google-docs-ea4"
+    },
+    {
+      "title": "Congrats to the Sanity Challenge Winners!",
+      "hot": "❤️ 35 💬 18",
+      "desc": "We are thrilled to announce the winners of the Sanity Challenge, our partnership with Sanity built...",
+      "source": "dev",
+      "tag": "devchallenge,  sanitychallenge",
+      "url": "https://dev.to/devteam/congrats-to-the-sanity-challenge-winners-1140"
+    },
+    {
+      "title": "How I Feel about the Grace Hopper Celebration Getting Cancelled",
+      "hot": "❤️ 101 💬 14",
+      "desc": "The Grace Hopper Celebration has been around since 1994, and for a lot of people, it's the event for...",
+      "source": "dev",
+      "tag": "wecoded,  news",
+      "url": "https://dev.to/jess/how-i-feel-about-the-grace-hopper-celebration-getting-cancelled-3l2k"
+    },
+    {
+      "title": "Multi-tier model routing on GKE: balancing Gemini 4 Argon reasoning depth with latency and cost",
+      "hot": "❤️ 12 💬 1",
+      "desc": "Build a high-throughput model routing gateway on GKE to dynamically route requests between Gemini 4 Argon, Gemini 3.8 Fl",
+      "source": "dev",
+      "tag": "kubernetes,  ai",
+      "url": "https://dev.to/googlecloud/multi-tier-model-routing-on-gke-balancing-gemini-4-argon-reasoning-depth-with-latency-and-cost-21fo"
     }
   ],
   "github": [
     {
       "title": "Zagitta/gpu-unlock: Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards",
-      "hot": "⭐ 5.8k",
+      "hot": "⭐ 6.2k",
       "desc": "Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents",
       "source": "github",
       "tag": "C",
@@ -458,7 +296,7 @@
     },
     {
       "title": "pengchujin/aerial-tv: 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvO",
-      "hot": "⭐ 4.9k",
+      "hot": "⭐ 5.0k",
       "desc": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
       "source": "github",
       "tag": "Kotlin",
@@ -474,11 +312,19 @@
     },
     {
       "title": "xiaoyang111222/cn-math-taxonomy: 数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条",
-      "hot": "⭐ 3.6k",
+      "hot": "⭐ 3.7k",
       "desc": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/xiaoyang111222/cn-math-taxonomy"
+    },
+    {
+      "title": "JustAResearcher/gpu-unlock-ada: GPU tensor unlock source for RTX 4090 and experi",
+      "hot": "⭐ 2.4k",
+      "desc": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
+      "source": "github",
+      "tag": "C",
+      "url": "https://github.com/JustAResearcher/gpu-unlock-ada"
     },
     {
       "title": "JoasASantos/REA-Prompts: REAP - Prompts for you to use REA (Reverse Engineer Any",
@@ -487,14 +333,6 @@
       "source": "github",
       "tag": "GitHub",
       "url": "https://github.com/JoasASantos/REA-Prompts"
-    },
-    {
-      "title": "JustAResearcher/gpu-unlock-ada: GPU tensor unlock source for RTX 4090 and experi",
-      "hot": "⭐ 2.3k",
-      "desc": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
-      "source": "github",
-      "tag": "C",
-      "url": "https://github.com/JustAResearcher/gpu-unlock-ada"
     },
     {
       "title": "EthanArbuckle/fairplay-decrypt: Offline FairPlay App Store IPA decryption with i",
@@ -537,6 +375,14 @@
       "url": "https://github.com/alchaincyf/huashu-motion"
     },
     {
+      "title": "humblemuzzu/dumbtv: Take the ads, tracking and clutter out of your Fire TV over ",
+      "hot": "⭐ 1.6k",
+      "desc": "Take the ads, tracking and clutter out of your Fire TV over ADB, no root. Every step can be undone. Comes with its own open-source home screen.",
+      "source": "github",
+      "tag": "Java",
+      "url": "https://github.com/humblemuzzu/dumbtv"
+    },
+    {
       "title": "Ansub/tv-detox: Make an old Android TV fast again with Claude Code or Codex: a t",
       "hot": "⭐ 1.6k",
       "desc": "Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up",
@@ -545,28 +391,182 @@
       "url": "https://github.com/Ansub/tv-detox"
     },
     {
-      "title": "humblemuzzu/dumbtv: Take the ads, tracking and clutter out of your Fire TV over ",
-      "hot": "⭐ 1.5k",
-      "desc": "Take the ads, tracking and clutter out of your Fire TV over ADB, no root. Every step can be undone. Comes with its own open-source home screen.",
-      "source": "github",
-      "tag": "Java",
-      "url": "https://github.com/humblemuzzu/dumbtv"
-    },
-    {
       "title": "Jakeschincariol/day-trader-skill: 11 Claude skills for day trading: scan thousan",
-      "hot": "⭐ 1.4k",
+      "hot": "⭐ 1.5k",
       "desc": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/Jakeschincariol/day-trader-skill"
     },
     {
-      "title": "9bie/php2shell-bypass-aslr-exp: A php2shell exploit that requires no modificatio",
+      "title": "oosexgang/hackios-xnu-kernel: ",
       "hot": "⭐ 1.4k",
-      "desc": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
+      "desc": "oosexgang/hackios-xnu-kernel",
       "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/9bie/php2shell-bypass-aslr-exp"
+      "tag": "C",
+      "url": "https://github.com/oosexgang/hackios-xnu-kernel"
+    }
+  ],
+  "tech": [
+    {
+      "title": "Dolly Parton's Imagination Library",
+      "hot": "3.0m",
+      "desc": "imaginationlibrary.com",
+      "source": "tech",
+      "tag": "⬆️ 122 points",
+      "url": "https://imaginationlibrary.com/"
+    },
+    {
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "hot": "3.0m",
+      "desc": "lynchlab.net",
+      "source": "tech",
+      "tag": "⬆️ 210 points",
+      "url": "https://lynchlab.net/llm-skin-cancer"
+    },
+    {
+      "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+      "hot": "3.0m",
+      "desc": "talkweb.eu",
+      "source": "tech",
+      "tag": "⬆️ 208 points",
+      "url": "https://talkweb.eu/openweb/4558/"
+    },
+    {
+      "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+      "hot": "3.0m",
+      "desc": "theintercept.com",
+      "source": "tech",
+      "tag": "⬆️ 152 points",
+      "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/"
+    },
+    {
+      "title": "JetBrains Thinkrail",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 43 points",
+      "url": "https://github.com/JetBrains/thinkrail"
+    },
+    {
+      "title": "VCF Southwest 2026, but Edited on Silicon Graphics for '90s TV [video]",
+      "hot": "2.9m",
+      "desc": "youtube.com",
+      "source": "tech",
+      "tag": "⬆️ 28 points",
+      "url": "https://www.youtube.com/watch?v=46wxttvq9qY"
+    },
+    {
+      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+      "hot": "2.9m",
+      "desc": "dailycal.org",
+      "source": "tech",
+      "tag": "⬆️ 104 points",
+      "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html"
+    },
+    {
+      "title": "We should be more ambitious with the software we build",
+      "hot": "2.9m",
+      "desc": "danluu.com",
+      "source": "tech",
+      "tag": "⬆️ 686 points",
+      "url": "https://danluu.com/ambitious/"
+    },
+    {
+      "title": "Active incident at Dreamhost forcing password reset",
+      "hot": "2.9m",
+      "desc": "dreamhoststatus.com",
+      "source": "tech",
+      "tag": "⬆️ 64 points",
+      "url": "https://www.dreamhoststatus.com/"
+    },
+    {
+      "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
+      "hot": "2.9m",
+      "desc": "huggingface.co",
+      "source": "tech",
+      "tag": "⬆️ 11 points",
+      "url": "https://huggingface.co/destined/hurston-1"
+    },
+    {
+      "title": "Recreate the Apollo Guidance Computer",
+      "hot": "2.9m",
+      "desc": "raspberrypi.com",
+      "source": "tech",
+      "tag": "⬆️ 19 points",
+      "url": "https://www.raspberrypi.com/news/recreate-the-apollo-guidance-computer/"
+    },
+    {
+      "title": "Dijkstra vs. A* vs. Contraction Hierarchies",
+      "hot": "2.8m",
+      "desc": "arcadedb.com",
+      "source": "tech",
+      "tag": "⬆️ 8 points",
+      "url": "https://arcadedb.com/route-planning.html"
+    },
+    {
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "hot": "2.8m",
+      "desc": "cerebras.ai",
+      "source": "tech",
+      "tag": "⬆️ 331 points",
+      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras"
+    },
+    {
+      "title": "UTS #39: Unicode Security Mechanisms",
+      "hot": "2.8m",
+      "desc": "unicode.org",
+      "source": "tech",
+      "tag": "⬆️ 9 points",
+      "url": "https://unicode.org/reports/tr39/"
+    },
+    {
+      "title": "Sabre Wulf Remastered",
+      "hot": "2.8m",
+      "desc": "gp-64.com",
+      "source": "tech",
+      "tag": "⬆️ 49 points",
+      "url": "https://gp-64.com/swr/"
+    },
+    {
+      "title": "Bring Back the Cool Save File Screens",
+      "hot": "2.8m",
+      "desc": "scabshack.lol",
+      "source": "tech",
+      "tag": "⬆️ 55 points",
+      "url": "https://scabshack.lol/posts/bring-back-the-cool-save-file-screens"
+    },
+    {
+      "title": "Root shell on Samsung TV",
+      "hot": "2.8m",
+      "desc": "twitter.com",
+      "source": "tech",
+      "tag": "⬆️ 660 points",
+      "url": "https://twitter.com/log4j/status/2113014142600953868?s=46"
+    },
+    {
+      "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
+      "hot": "2.7m",
+      "desc": "bigwhalehunting.com",
+      "source": "tech",
+      "tag": "⬆️ 147 points",
+      "url": "https://bigwhalehunting.com/workforce/"
+    },
+    {
+      "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
+      "hot": "2.7m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 181 points",
+      "url": "https://github.com/ihhub/fheroes2"
+    },
+    {
+      "title": "The Goose Programming Language",
+      "hot": "2.7m",
+      "desc": "aardappel.github.io",
+      "source": "tech",
+      "tag": "⬆️ 538 points",
+      "url": "https://aardappel.github.io/goose/"
     }
   ]
 }
