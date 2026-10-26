@@ -2,11 +2,35 @@
   "data": [
     {
       "title": "🐾 DEV Pet Corner #3: Show Us Your Pets!",
-      "hot": "❤️ 45 💬 2",
+      "hot": "❤️ 51 💬 3",
       "desc": "TL;DR  DEV Pet Corner is back for another Sunday! It's a weekly series where we take a little break...",
       "source": "dev",
       "tag": "discuss,  community",
       "url": "https://dev.to/hemapriya_kanagala/dev-pet-corner-3-show-us-your-pets-35n"
+    },
+    {
+      "title": "Meme Monday",
+      "hot": "❤️ 18 💬 10",
+      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
+      "source": "dev",
+      "tag": "discuss,  watercooler",
+      "url": "https://dev.to/ben/meme-monday-18k"
+    },
+    {
+      "title": "Why bloc.add(...) Isn't What You Think: Synchronous Event Fast-Paths and 0ms Form Bindings",
+      "hot": "❤️ 8 💬 2",
+      "desc": "Why classic BLoC's StreamController forces an asynchronous microtask tax, how BlocSignal executes synchronous event hand",
+      "source": "dev",
+      "tag": "flutter,  dart",
+      "url": "https://dev.to/gde/why-blocadd-isnt-what-you-think-synchronous-event-fast-paths-and-0ms-form-bindings-6o"
+    },
+    {
+      "title": "Let It Die: The Lazy Email Agent on TabPFN, Gemma and Temporal",
+      "hot": "❤️ 17 💬 11",
+      "desc": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady          ...",
+      "source": "dev",
+      "tag": "devchallenge,  hf26challenge",
+      "url": "https://dev.to/khushighosh/let-it-die-the-lazy-email-agent-on-tabpfn-gemma-and-temporal-10o0"
     },
     {
       "title": "Comic Studio AI: Turning Voice & Text Prompts into 4-Panel Comics with Google AI Studio, Gemini & Imagen",
@@ -17,20 +41,20 @@
       "url": "https://dev.to/gde/comic-studio-ai-turning-voice-text-prompts-into-4-panel-comics-with-google-ai-studio-gemini--2npc"
     },
     {
-      "title": "Let It Die: The Lazy Email Agent on TabPFN, Gemma and Temporal",
-      "hot": "❤️ 17 💬 9",
-      "desc": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady          ...",
+      "title": "The Best Prompt Rule Is the One You Delete: Moving AI Guardrails Out of Markdown and Into Git Locks, Linux insmod, and 15ms Compiler Auto-Fixes",
+      "hot": "❤️ 6 💬 7",
+      "desc": "Every rule that stays in a prompt eventually bloats, blurs, or gets gamed by the model. When systems engineers and an au",
       "source": "dev",
-      "tag": "devchallenge,  hf26challenge",
-      "url": "https://dev.to/khushighosh/let-it-die-the-lazy-email-agent-on-tabpfn-gemma-and-temporal-10o0"
+      "tag": "ai,  programming",
+      "url": "https://dev.to/gde/the-best-prompt-rule-is-the-one-you-delete-moving-ai-guardrails-out-of-markdown-and-into-git-5a5h"
     },
     {
-      "title": "Building a Cross-Model Collaborative Workflow with Google Antigravity",
-      "hot": "❤️ 8 💬 0",
-      "desc": "Orchestrating Multiple AI Agents in Parallel via Custom Skills   Series 1/2: Multi-Model...",
+      "title": "Inference on Google Cloud: Precision, Memory and Capacity on TPU, from v5e to Ironwood",
+      "hot": "❤️ 8 💬 1",
+      "desc": "The companion to the talk: what the number format, memory bandwidth, slice shape and capacity rules do to Gemma 4 on Clo",
       "source": "dev",
-      "tag": "gemini,  devtools",
-      "url": "https://dev.to/gde/building-a-cross-model-collaborative-workflow-with-google-antigravity-2jj5"
+      "tag": "googlecloud,  tpu",
+      "url": "https://dev.to/gde/inference-on-google-cloud-precision-memory-and-capacity-on-tpu-from-v5e-to-ironwood-5dlf"
     },
     {
       "title": "926 Steps, Two Lobotomies, and Zero Nudges: Flight-Testing the Commitment Machine Across Gemini, Claude, and GPT-OSS",
@@ -41,6 +65,14 @@
       "url": "https://dev.to/gde/926-steps-two-lobotomies-and-zero-nudges-flight-testing-the-commitment-machine-across-gemini-55ca"
     },
     {
+      "title": "Don't Be a Proxy Between Me and Your AI",
+      "hot": "❤️ 127 💬 88",
+      "desc": "I've had this conversation more times than I'd like to admit.  I raise a technical question in a...",
+      "source": "dev",
+      "tag": "ai,  discuss",
+      "url": "https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn"
+    },
+    {
       "title": "Promise Delivered: Welcome to the DEV Hall of Fame (65 Authors, 65 Masterpieces)",
       "hot": "❤️ 225 💬 125",
       "desc": "Status: Promise delivered ✅              The Doors Are Open   A little over a month ago, I published...",
@@ -49,12 +81,12 @@
       "url": "https://dev.to/georgekobaidze/promise-delivered-welcome-to-the-dev-hall-of-fame-65-authors-65-masterpieces-15fa"
     },
     {
-      "title": "Don't Be a Proxy Between Me and Your AI",
-      "hot": "❤️ 115 💬 81",
-      "desc": "I've had this conversation more times than I'd like to admit.  I raise a technical question in a...",
+      "title": "Postmortem: The Tuesday Our AI Bill Had No Owner",
+      "hot": "❤️ 14 💬 6",
+      "desc": "I've read a lot of postmortems. The best ones aren't about blame. They're about the gap between what...",
       "source": "dev",
-      "tag": "ai,  discuss",
-      "url": "https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn"
+      "tag": "discuss,  vertexai",
+      "url": "https://dev.to/gde/postmortem-the-tuesday-our-ai-bill-had-no-owner-34pd"
     },
     {
       "title": "Automated incident triage on GKE with Gemini 4 Argon and Model Context Protocol: Correlating cluster events and VPA logs",
@@ -89,12 +121,28 @@
       "url": "https://dev.to/gde/building-a-multi-agent-token-usage-widget-in-under-500-kb-1fih"
     },
     {
+      "title": "Trick, Treat, and Code: Highlighting GDGC VTU's Best Halloween Hacks 🕸️💻",
+      "hot": "❤️ 13 💬 0",
+      "desc": "#GDGCVTU #HalloweenDevChallenge #TrickOrTreat      Hello Developers,  That's a wrap on...",
+      "source": "dev",
+      "tag": "ai,  opensource",
+      "url": "https://dev.to/gdg/trick-treat-and-code-highlighting-gdgc-vtus-best-halloween-hacks-4hpf"
+    },
+    {
       "title": "Building ora-tui with Google Antigravity & Gemini 4 Argon: An MS-DOS Retro TUI & OpenTelemetry Exporter for Oracle RAC, DB & SAN Multipath",
       "hot": "❤️ 8 💬 0",
       "desc": "How I pair-programmed with Google Antigravity powered by Gemini 4 Argon to build a zero-dependency Go TUI and OpenTeleme",
       "source": "dev",
       "tag": "oracle,  go",
       "url": "https://dev.to/gde/building-ora-tui-with-google-antigravity-gemini-4-argon-an-ms-dos-retro-tui-opentelemetry-4d02"
+    },
+    {
+      "title": "[Agent Platform in Action (6)] Towards Production-Grade AI Agent Ops: Building Full-Stack Observable LINE Agents with agents-cli",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Recap: The Five-Stage Evolution from Local Prototype to Cloud Production-Grade AI...",
+      "source": "dev",
+      "tag": "ai,  cloud",
+      "url": "https://dev.to/gde/agent-platform-in-action-6-towards-production-grade-ai-agent-ops-building-full-stack-38aa"
     },
     {
       "title": "DuckLess: serverless DuckDB on Google Cloud, in your own project",
@@ -105,61 +153,13 @@
       "url": "https://dev.to/gde/duckless-serverless-duckdb-on-google-cloud-in-your-own-project-4o5a"
     },
     {
-      "title": "Autonomous agent loops with Gemini 4 Argon and GKE Agent Sandbox: Running untrusted code safely at scale",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Run untrusted LLM-generated Python and Bash code safely at scale using Gemini 4 Argon and GKE Agent Sandbox with gVisor ",
+      "title": "GPT-6 Is Coming to Google Cloud. Is Your AI Bill Ready?",
+      "hot": "❤️ 10 💬 1",
+      "desc": "Picture this.  It's a few weeks from now. GPT-6 goes GA on Google Cloud. Five teams in your company...",
       "source": "dev",
-      "tag": "kubernetes,  ai",
-      "url": "https://dev.to/googlecloud/autonomous-agent-loops-with-gemini-4-argon-and-gke-agent-sandbox-running-untrusted-code-safely-at-2k60"
-    },
-    {
-      "title": "Building a Multimodal, Suggestion-Based AI Writing Coach with Gemini and Google Docs",
-      "hot": "❤️ 12 💬 14",
-      "desc": "When we use generative AI to proofread our daily writing—whether technical reports, business...",
-      "source": "dev",
-      "tag": "ai,  gemini",
-      "url": "https://dev.to/gde/building-a-multimodal-suggestion-based-ai-writing-coach-with-gemini-and-google-docs-ea4"
-    },
-    {
-      "title": "How I Feel about the Grace Hopper Celebration Getting Cancelled",
-      "hot": "❤️ 101 💬 14",
-      "desc": "The Grace Hopper Celebration has been around since 1994, and for a lot of people, it's the event for...",
-      "source": "dev",
-      "tag": "wecoded,  news",
-      "url": "https://dev.to/jess/how-i-feel-about-the-grace-hopper-celebration-getting-cancelled-3l2k"
-    },
-    {
-      "title": "Multi-tier model routing on GKE: balancing Gemini 4 Argon reasoning depth with latency and cost",
-      "hot": "❤️ 12 💬 1",
-      "desc": "Build a high-throughput model routing gateway on GKE to dynamically route requests between Gemini 4 Argon, Gemini 3.8 Fl",
-      "source": "dev",
-      "tag": "kubernetes,  ai",
-      "url": "https://dev.to/googlecloud/multi-tier-model-routing-on-gke-balancing-gemini-4-argon-reasoning-depth-with-latency-and-cost-21fo"
-    },
-    {
-      "title": "I Got Tired of Coming Into My Lab To Check the Pressure of My Cryocooler so I Built a Tool To Do It for Me",
-      "hot": "❤️ 60 💬 23",
-      "desc": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady          ...",
-      "source": "dev",
-      "tag": "devchallenge,  hf26challenge",
-      "url": "https://dev.to/pahorton/i-got-tired-of-coming-into-my-lab-to-check-the-pressure-of-my-cryocooler-so-i-built-a-tool-to-do-it-4ob7"
-    },
-    {
-      "title": "Q&A with Al Chen, Software Engineering Leader at Cisco",
-      "hot": "❤️ 9 💬 0",
-      "desc": "We interviewed Al Chen for year's AI Engineer NYC event. Al is a Software Engineering Leader at...",
-      "source": "dev",
-      "tag": "aie,  ai",
-      "url": "https://dev.to/dailycontext/qa-with-al-chen-software-engineering-leader-at-cisco-jj7"
-    },
-    {
-      "title": "A World Worth Understanding",
-      "hot": "❤️ 6 💬 0",
-      "desc": "We think the people who make software are endlessly interesting.  We want to meet them, hear their...",
-      "source": "dev",
-      "tag": "aie,  career",
-      "url": "https://dev.to/dailycontext/a-world-worth-understanding-f08"
+      "tag": "googlecloud,  ai",
+      "url": "https://dev.to/gde/gpt-6-is-coming-to-google-cloud-is-your-ai-bill-ready-j7l"
     }
   ],
-  "updatedAt": "2026-10-26T11:18:21.920Z"
+  "updatedAt": "2026-10-26T17:28:08.994Z"
 }
