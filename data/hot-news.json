@@ -1,10 +1,18 @@
 {
-  "updatedAt": "2026-10-27T11:06:27.013Z",
+  "updatedAt": "2026-10-27T16:44:18.908Z",
   "source": "live",
   "dev": [
     {
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "hot": "❤️ 31 💬 9",
+      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+      "source": "dev",
+      "tag": "top7,  discuss",
+      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2h0f"
+    },
+    {
       "title": "Join the Hacktoberfest Open-Source AI Challenge: Ghost in the Machine! $2,850 in Prizes Across 21 Winners.",
-      "hot": "❤️ 42 💬 9",
+      "hot": "❤️ 48 💬 10",
       "desc": "Week 4 of our Hacktoberfest DEV Challenges starts today, and it's our final challenge of the series!...",
       "source": "dev",
       "tag": "devchallenge,  hf26challenge",
@@ -20,7 +28,7 @@
     },
     {
       "title": "Meme Monday",
-      "hot": "❤️ 27 💬 19",
+      "hot": "❤️ 27 💬 22",
       "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
       "source": "dev",
       "tag": "discuss,  watercooler",
@@ -28,7 +36,7 @@
     },
     {
       "title": "🐾 DEV Pet Corner #3: Show Us Your Pets!",
-      "hot": "❤️ 58 💬 10",
+      "hot": "❤️ 61 💬 10",
       "desc": "TL;DR  DEV Pet Corner is back for another Sunday! It's a weekly series where we take a little break...",
       "source": "dev",
       "tag": "discuss,  community",
@@ -44,7 +52,7 @@
     },
     {
       "title": "Don't Be a Proxy Between Me and Your AI",
-      "hot": "❤️ 139 💬 93",
+      "hot": "❤️ 140 💬 112",
       "desc": "I've had this conversation more times than I'd like to admit.  I raise a technical question in a...",
       "source": "dev",
       "tag": "ai,  discuss",
@@ -60,7 +68,7 @@
     },
     {
       "title": "Promise Delivered: Welcome to the DEV Hall of Fame (65 Authors, 65 Masterpieces)",
-      "hot": "❤️ 224 💬 125",
+      "hot": "❤️ 225 💬 129",
       "desc": "Status: Promise delivered ✅              The Doors Are Open   A little over a month ago, I published...",
       "source": "dev",
       "tag": "community,  discuss",
@@ -92,7 +100,7 @@
     },
     {
       "title": "Natural Languages Have Design Trade-offs Too: Georgian Is Dynamically Typed, English Is Statically Typed",
-      "hot": "❤️ 140 💬 64",
+      "hot": "❤️ 140 💬 66",
       "desc": "Table of Contents    How This Started  Feature #1: Articles (or the Lack of Them)   The...",
       "source": "dev",
       "tag": "programming,  writing",
@@ -153,179 +161,49 @@
       "source": "dev",
       "tag": "kubernetes,  ai",
       "url": "https://dev.to/googlecloud/autonomous-agent-loops-with-gemini-4-argon-and-gke-agent-sandbox-running-untrusted-code-safely-at-2k60"
-    },
-    {
-      "title": "Multi-tier model routing on GKE: balancing Gemini 4 Argon reasoning depth with latency and cost",
-      "hot": "❤️ 12 💬 1",
-      "desc": "Build a high-throughput model routing gateway on GKE to dynamically route requests between Gemini 4 Argon, Gemini 3.8 Fl",
-      "source": "dev",
-      "tag": "kubernetes,  ai",
-      "url": "https://dev.to/googlecloud/multi-tier-model-routing-on-gke-balancing-gemini-4-argon-reasoning-depth-with-latency-and-cost-21fo"
-    }
-  ],
-  "tech": [
-    {
-      "title": "Roblox downloaded 145GB models from us (including adult content) without asking",
-      "hot": "3.0m",
-      "desc": "open3dlab.com",
-      "source": "tech",
-      "tag": "⬆️ 47 points",
-      "url": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/"
-    },
-    {
-      "title": "The Mythical Man-Month in the Age of AI",
-      "hot": "3.0m",
-      "desc": "j11g.com",
-      "source": "tech",
-      "tag": "⬆️ 173 points",
-      "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai"
-    },
-    {
-      "title": "Three new discoveries in mathematics, computer science, and physics",
-      "hot": "3.0m",
-      "desc": "openai.com",
-      "source": "tech",
-      "tag": "⬆️ 943 points",
-      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/"
-    },
-    {
-      "title": "The Exponential Time Hypothesis Is False [pdf]",
-      "hot": "3.0m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 646 points",
-      "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf"
-    },
-    {
-      "title": "Show HN: Encarta 95 Web",
-      "hot": "2.9m",
-      "desc": "benwinding.github.io",
-      "source": "tech",
-      "tag": "⬆️ 51 points",
-      "url": "https://benwinding.github.io/encarta_95_web/#/article/Art"
-    },
-    {
-      "title": "New 'Circadian' Subtype of Depression Affecting 1 in 4 Patients",
-      "hot": "2.9m",
-      "desc": "sciencealert.com",
-      "source": "tech",
-      "tag": "⬆️ 65 points",
-      "url": "https://www.sciencealert.com/researchers-identify-new-circadian-subtype-of-depression-affecting-1-in-4-patients"
-    },
-    {
-      "title": "I will no longer upload to NEW",
-      "hot": "2.9m",
-      "desc": "lists.debian.org",
-      "source": "tech",
-      "tag": "⬆️ 64 points",
-      "url": "https://lists.debian.org/debian-devel/2026/10/msg00263.html"
-    },
-    {
-      "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
-      "hot": "2.9m",
-      "desc": "magazine.sebastianraschka.com",
-      "source": "tech",
-      "tag": "⬆️ 722 points",
-      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models"
-    },
-    {
-      "title": "Oldest GUI application that still runs on Windows 11",
-      "hot": "2.9m",
-      "desc": "blog.enlyth.com",
-      "source": "tech",
-      "tag": "⬆️ 444 points",
-      "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/"
-    },
-    {
-      "title": "Writing about pratt parsing so I remember it",
-      "hot": "2.9m",
-      "desc": "unix.dog",
-      "source": "tech",
-      "tag": "⬆️ 40 points",
-      "url": "https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html"
-    },
-    {
-      "title": "I still teach OpenGL ES 3.0",
-      "hot": "2.9m",
-      "desc": "eliasfarhan.ch",
-      "source": "tech",
-      "tag": "⬆️ 73 points",
-      "url": "https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html"
-    },
-    {
-      "title": "Solar power is becoming bigger than nuclear",
-      "hot": "2.8m",
-      "desc": "bbc.com",
-      "source": "tech",
-      "tag": "⬆️ 351 points",
-      "url": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear"
-    },
-    {
-      "title": "Type Server Protocol",
-      "hot": "2.8m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 248 points",
-      "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md"
-    },
-    {
-      "title": "CSS-Tricks has a new owner",
-      "hot": "2.8m",
-      "desc": "css-tricks.com",
-      "source": "tech",
-      "tag": "⬆️ 488 points",
-      "url": "https://css-tricks.com/css-tricks-has-a-new-owner/"
-    },
-    {
-      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-      "hot": "2.8m",
-      "desc": "blog.cloudflare.com",
-      "source": "tech",
-      "tag": "⬆️ 142 points",
-      "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/"
-    },
-    {
-      "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
-      "hot": "2.8m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 93 points",
-      "url": "https://github.com/otya128/winevdm"
-    },
-    {
-      "title": "A Printer Printing onto Paper",
-      "hot": "2.8m",
-      "desc": "twitter.com",
-      "source": "tech",
-      "tag": "⬆️ 135 points",
-      "url": "https://twitter.com/macrofying/status/2112904628509528219"
-    },
-    {
-      "title": "How to grow a cacao tree at home (2024)",
-      "hot": "2.7m",
-      "desc": "cocoterra.com",
-      "source": "tech",
-      "tag": "⬆️ 80 points",
-      "url": "https://www.cocoterra.com/guide-on-how-to-grow-chocolate-at-home/"
-    },
-    {
-      "title": "New iPad mini",
-      "hot": "2.7m",
-      "desc": "apple.com",
-      "source": "tech",
-      "tag": "⬆️ 214 points",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/"
-    },
-    {
-      "title": "LimonOS Custom x86-64 Kernel",
-      "hot": "2.7m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 13 points",
-      "url": "https://github.com/AnonimusShamshiAlex/LimonOS"
     }
   ],
   "space": [
+    {
+      "title": "ESA’s INVICTUS Hypersonic Programme Clears First Major Review",
+      "hot": "10/27",
+      "desc": "The European Space Agency’s (ESA) INVICTUS hypersonic aircraft programme has cleared its first major requirements review and moved into the next phase",
+      "source": "space",
+      "tag": "European Spaceflight",
+      "url": "https://europeanspaceflight.com/esas-invictus-hypersonic-programme-clears-first-major-review/"
+    },
+    {
+      "title": "First light: Hera resolves two asteroids instead of one",
+      "hot": "10/27",
+      "desc": "The European Space Agency’s Hera spacecraft for planetary defence has resolved its two target asteroids separately for the very first time, revealing ",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/Space_Safety/Hera/First_light_Hera_resolves_two_asteroids_instead_of_one"
+    },
+    {
+      "title": "Russian Military Satellite Flies Within Kilometer of American Satellite Supporting Ukrainian Military",
+      "hot": "10/27",
+      "desc": "This is the first known instance of a satellite conducting a close rendezvous with a non-consenting target, and likely represents a serious violation ",
+      "source": "space",
+      "tag": "Space Scout",
+      "url": "https://www.spacescout.info/2026/10/russian-military-satellite-flies-within-kilometer-of-american-satellite-supporting-ukrainian-military/"
+    },
+    {
+      "title": "Starliner to Return to Flight by January, Fly Crew in 2028",
+      "hot": "10/27",
+      "desc": "On September 28, NASA and Boeing provided an update on the Starliner spacecraft’s Return to Flight, progress made since the",
+      "source": "space",
+      "tag": "Space Scout",
+      "url": "https://www.spacescout.info/2026/10/starliner-to-return-to-flight-by-january-fly-crew-in-2028/"
+    },
+    {
+      "title": "Craft Prospect kicks off PERSEUS project to advance optical communications for space",
+      "hot": "10/27",
+      "desc": "\nCraft Prospect is working with Fraunhofer Centre for Applied Photonics (Fraunhofer CAP) and Vector Photonics on a new project exploring the potential",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/craft-prospect-kicks-off-perseus-project-to-advance-optical-communications-for-space/"
+    },
     {
       "title": "ESA procures four new Galileo Second Generation satellites",
       "hot": "10/27",
@@ -405,60 +283,182 @@
       "source": "space",
       "tag": "NASA",
       "url": "https://science.nasa.gov/photojournal/neo-surveyors-sunshade-gets-inspected/"
+    }
+  ],
+  "tech": [
+    {
+      "title": "Genie 4",
+      "hot": "3.0m",
+      "desc": "deepmind.google",
+      "source": "tech",
+      "tag": "⬆️ 111 points",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
     },
     {
-      "title": "Solar Cells Inspected on NASA’s NEO Surveyor",
-      "hot": "10/26",
-      "desc": "Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission is inspected by a technician at BAE Systems Space & Mission Systems ",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/photojournal/solar-cells-inspected-on-nasas-neo-surveyor/"
+      "title": "New iMac with M6",
+      "hot": "3.0m",
+      "desc": "apple.com",
+      "source": "tech",
+      "tag": "⬆️ 144 points",
+      "url": "https://www.apple.com/imac/"
     },
     {
-      "title": "Flexell Space Establishes French Subsidiary to Strengthen European Presence",
-      "hot": "10/26",
-      "desc": "\n– Paris-based FLEXELL SPACE FRANCE SAS creates a local business hub in Europe– New entity to support ongoing contract and volume-production discussio",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/flexell-space-establishes-french-subsidiary-to-strengthen-european-presence/"
+      "title": "Python's experimental JIT to be removed",
+      "hot": "3.0m",
+      "desc": "lwn.net",
+      "source": "tech",
+      "tag": "⬆️ 280 points",
+      "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/"
     },
     {
-      "title": "NASA SEES Interns Tackle Real-World Challenges in Lunar Exploration",
-      "hot": "10/26",
-      "desc": "The NASA STEM (Science, Technology, Engineering, and Mathematics) Enhancement in Earth Science (SEES) Internship Program at the University of Texas Ce",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/learning-resources/science-activation/nasa-sees-interns-tackle-real-world-challenges-in-lunar-exploration/"
+      "title": "Wikipedia's Cleanup of AI-Generated Content",
+      "hot": "3.0m",
+      "desc": "spectrum.ieee.org",
+      "source": "tech",
+      "tag": "⬆️ 261 points",
+      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup"
     },
     {
-      "title": "NASA Invites Media to Moon Landing Simulation Experience in California",
-      "hot": "10/26",
-      "desc": "Members of the media are invited to tour a new lunar landing simulator at NASA’s Ames Research Center in California's Silicon Valley on Thursday, Oct.",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-moon-landing-simulation-experience-in-california/"
+      "title": "The US government is hiding secret court ruling about how it spies on Americans",
+      "hot": "2.9m",
+      "desc": "wired.com",
+      "source": "tech",
+      "tag": "⬆️ 308 points",
+      "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/"
     },
     {
-      "title": "NASA’s X-59 Aircraft and Test Pilot",
-      "hot": "10/26",
-      "desc": "NASA test pilot Mike Lippert poses for a photo ahead of his first time flying the agency’s X-59 quiet supersonic research aircraft on Oct. 21, 2026. T",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/image-article/nasas-x-59-aircraft-and-test-pilot/"
+      "title": "Why Micron Is Suddenly Ditching 4F² DRAM as Rivals Double Down",
+      "hot": "2.9m",
+      "desc": "hothardware.com",
+      "source": "tech",
+      "tag": "⬆️ 57 points",
+      "url": "https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram"
+    },
+    {
+      "title": "Here be monsters: What do you still need to know when agents do the work?",
+      "hot": "2.9m",
+      "desc": "blog.adrq.dev",
+      "source": "tech",
+      "tag": "⬆️ 85 points",
+      "url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work"
+    },
+    {
+      "title": "Viral Polls Are Not Representative Polls",
+      "hot": "2.9m",
+      "desc": "kevinreuning.com",
+      "source": "tech",
+      "tag": "⬆️ 34 points",
+      "url": "https://kevinreuning.com/blog/polling_virality.html"
+    },
+    {
+      "title": "Classification of Finite Simple Groups Formalized in Lean",
+      "hot": "2.9m",
+      "desc": "cfsg.axiommath.ai",
+      "source": "tech",
+      "tag": "⬆️ 9 points",
+      "url": "https://cfsg.axiommath.ai/"
+    },
+    {
+      "title": "My video has unit tests",
+      "hot": "2.9m",
+      "desc": "pertiller.tech",
+      "source": "tech",
+      "tag": "⬆️ 18 points",
+      "url": "https://pertiller.tech/blog/my-video-written-in-code/"
+    },
+    {
+      "title": "PHP2Shell: Exploitation attempts and remediation trends",
+      "hot": "2.9m",
+      "desc": "wiz.io",
+      "source": "tech",
+      "tag": "⬆️ 140 points",
+      "url": "https://www.wiz.io/blog/php2shell-exploitation-so-far"
+    },
+    {
+      "title": "Three new discoveries in mathematics, computer science, and physics",
+      "hot": "2.8m",
+      "desc": "openai.com",
+      "source": "tech",
+      "tag": "⬆️ 1076 points",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/"
+    },
+    {
+      "title": "OpenLDK: Bringing the Java World into Common Lisp",
+      "hot": "2.8m",
+      "desc": "atgreen.github.io",
+      "source": "tech",
+      "tag": "⬆️ 18 points",
+      "url": "https://atgreen.github.io/repl-yell/posts/openldk-java-in-common-lisp/"
+    },
+    {
+      "title": "Apple introduces the new 14‑inch MacBook Pro with M6",
+      "hot": "2.8m",
+      "desc": "apple.com",
+      "source": "tech",
+      "tag": "⬆️ 25 points",
+      "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/"
+    },
+    {
+      "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+      "hot": "2.8m",
+      "desc": "stanforddaily.com",
+      "source": "tech",
+      "tag": "⬆️ 53 points",
+      "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/"
+    },
+    {
+      "title": "The Mythical Man-Month in the Age of AI",
+      "hot": "2.8m",
+      "desc": "j11g.com",
+      "source": "tech",
+      "tag": "⬆️ 352 points",
+      "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai"
+    },
+    {
+      "title": "Gforth 1.0",
+      "hot": "2.8m",
+      "desc": "gforth.org",
+      "source": "tech",
+      "tag": "⬆️ 105 points",
+      "url": "https://gforth.org/manual/1.0/NEWS.html"
+    },
+    {
+      "title": "A Stackless Floodfill Automaton",
+      "hot": "2.7m",
+      "desc": "t3x.org",
+      "source": "tech",
+      "tag": "⬆️ 22 points",
+      "url": "https://t3x.org/files/floodfill.pdf"
+    },
+    {
+      "title": "Is my data used for model training?",
+      "hot": "2.7m",
+      "desc": "privacy.claude.com",
+      "source": "tech",
+      "tag": "⬆️ 151 points",
+      "url": "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training"
+    },
+    {
+      "title": "The Exponential Time Hypothesis Is False [pdf]",
+      "hot": "2.7m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 750 points",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf"
     }
   ],
   "github": [
     {
-      "title": "pengchujin/aerial-tv: 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV ���面，没有广告，开机自动接管。A t",
-      "hot": "⭐ 6.5k",
-      "desc": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV ���面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+      "title": "pengchujin/aerial-tv: 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvO",
+      "hot": "⭐ 6.7k",
+      "desc": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
       "source": "github",
       "tag": "Kotlin",
       "url": "https://github.com/pengchujin/aerial-tv"
     },
     {
       "title": "JustAResearcher/gpu-unlock-ada: GPU tensor unlock source for RTX 4090 and experi",
-      "hot": "⭐ 4.1k",
+      "hot": "⭐ 4.2k",
       "desc": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
       "source": "github",
       "tag": "C",
@@ -466,11 +466,19 @@
     },
     {
       "title": "rddmwmddr/android-ad-cleaner: 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键",
-      "hot": "⭐ 2.8k",
+      "hot": "⭐ 3.1k",
       "desc": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner"
+    },
+    {
+      "title": "designfuchen/word-atlas: 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,2",
+      "hot": "⭐ 2.4k",
+      "desc": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/designfuchen/word-atlas"
     },
     {
       "title": "Jakeschincariol/day-trader-skill: 11 Claude skills for day trading: scan thousan",
@@ -481,16 +489,8 @@
       "url": "https://github.com/Jakeschincariol/day-trader-skill"
     },
     {
-      "title": "designfuchen/word-atlas: 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,2",
-      "hot": "⭐ 2.2k",
-      "desc": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/designfuchen/word-atlas"
-    },
-    {
       "title": "wesbos/3d-model-anything: Capture iPhone LiDAR and photos, reconstruct editable ",
-      "hot": "⭐ 2.1k",
+      "hot": "⭐ 2.2k",
       "desc": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
       "source": "github",
       "tag": "Swift",
@@ -505,6 +505,14 @@
       "url": "https://github.com/xevrion/hatchzip"
     },
     {
+      "title": "t3dotgg/tstack: The agent skills I use every day. Works with Claude Code and Cod",
+      "hot": "⭐ 1.9k",
+      "desc": "The agent skills I use every day. Works with Claude Code and Codex.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/t3dotgg/tstack"
+    },
+    {
       "title": "ikow/php2shell-poc: CVE-2026-109618/109619 — 5 RCE chains + detection rules (Sur",
       "hot": "⭐ 1.9k",
       "desc": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
@@ -513,12 +521,12 @@
       "url": "https://github.com/ikow/php2shell-poc"
     },
     {
-      "title": "t3dotgg/tstack: The agent skills I use every day. Works with Claude Code and Cod",
+      "title": "unclebob/ub-mode: ",
       "hot": "⭐ 1.8k",
-      "desc": "The agent skills I use every day. Works with Claude Code and Codex.",
+      "desc": "unclebob/ub-mode",
       "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/t3dotgg/tstack"
+      "tag": "GitHub",
+      "url": "https://github.com/unclebob/ub-mode"
     },
     {
       "title": "oosexgang/hackios-xnu-kernel: ",
@@ -527,14 +535,6 @@
       "source": "github",
       "tag": "C",
       "url": "https://github.com/oosexgang/hackios-xnu-kernel"
-    },
-    {
-      "title": "unclebob/ub-mode: ",
-      "hot": "⭐ 1.5k",
-      "desc": "unclebob/ub-mode",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/unclebob/ub-mode"
     },
     {
       "title": "9bie/php2shell-bypass-aslr-exp: A php2shell exploit that requires no modificatio",
