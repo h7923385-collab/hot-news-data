@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-27T21:01:07.525Z",
+  "updatedAt": "2026-10-28T00:34:50.182Z",
   "source": "live",
   "dev": [
     {
       "title": "Your DEV posts have a beautiful new share card ✨",
-      "hot": "❤️ 34 💬 8",
+      "hot": "❤️ 53 💬 9",
       "desc": "The image that shows up when you share a DEV post just got a brand-new look!  I got to work on...",
       "source": "dev",
       "tag": "devto,  showdev",
@@ -17,14 +17,6 @@
       "source": "dev",
       "tag": "top7,  discuss",
       "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2h0f"
-    },
-    {
-      "title": "Meme Monday",
-      "hot": "❤️ 27 💬 22",
-      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
-      "source": "dev",
-      "tag": "discuss,  watercooler",
-      "url": "https://dev.to/ben/meme-monday-18k"
     },
     {
       "title": "🐾 DEV Pet Corner #3: Show Us Your Pets!",
@@ -92,7 +84,7 @@
     },
     {
       "title": "Join the Hacktoberfest Open-Source AI Challenge: Ghost in the Machine! $2,850 in Prizes Across 21 Winners.",
-      "hot": "❤️ 54 💬 10",
+      "hot": "❤️ 55 💬 11",
       "desc": "Week 4 of our Hacktoberfest DEV Challenges starts today, and it's our final challenge of the series!...",
       "source": "dev",
       "tag": "devchallenge,  hf26challenge",
@@ -113,6 +105,14 @@
       "source": "dev",
       "tag": "devchallenge,  hf26challenge",
       "url": "https://dev.to/khushighosh/let-it-die-the-lazy-email-agent-on-tabpfn-gemma-and-temporal-10o0"
+    },
+    {
+      "title": "Meme Monday",
+      "hot": "❤️ 27 💬 22",
+      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
+      "source": "dev",
+      "tag": "discuss,  watercooler",
+      "url": "https://dev.to/ben/meme-monday-18k"
     },
     {
       "title": "The Best Prompt Rule Is the One You Delete: Moving AI Guardrails Out of Markdown and Into Git Locks, Linux insmod, and 15ms Compiler Auto-Fixes",
@@ -285,18 +285,172 @@
       "url": "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/"
     }
   ],
-  "github": [
+  "tech": [
     {
-      "title": "pengchujin/aerial-tv: 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvO",
-      "hot": "⭐ 6.7k",
-      "desc": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
-      "source": "github",
-      "tag": "Kotlin",
-      "url": "https://github.com/pengchujin/aerial-tv"
+      "title": "Genie 4",
+      "hot": "3.0m",
+      "desc": "deepmind.google",
+      "source": "tech",
+      "tag": "⬆️ 694 points",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
     },
     {
+      "title": "Ghostty 1.4",
+      "hot": "3.0m",
+      "desc": "ghostty.org",
+      "source": "tech",
+      "tag": "⬆️ 707 points",
+      "url": "https://ghostty.org/docs/install/release-notes/1-4-0"
+    },
+    {
+      "title": "Tailscale SSH: Investigation and remediation update",
+      "hot": "3.0m",
+      "desc": "tailscale.com",
+      "source": "tech",
+      "tag": "⬆️ 174 points",
+      "url": "https://tailscale.com/ssh-investigation-update"
+    },
+    {
+      "title": "Early progress on accelerating drug development with Claude",
+      "hot": "3.0m",
+      "desc": "anthropic.com",
+      "source": "tech",
+      "tag": "⬆️ 100 points",
+      "url": "https://www.anthropic.com/research/early-progress-drug-development"
+    },
+    {
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "hot": "2.9m",
+      "desc": "brangus.io",
+      "source": "tech",
+      "tag": "⬆️ 155 points",
+      "url": "https://www.brangus.io/survival-llm"
+    },
+    {
+      "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
+      "hot": "2.9m",
+      "desc": "bettascore.ai",
+      "source": "tech",
+      "tag": "⬆️ 37 points",
+      "url": "https://www.bettascore.ai/research/reliability-reviewers-vs-owners"
+    },
+    {
+      "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
+      "hot": "2.9m",
+      "desc": "bret.dk",
+      "source": "tech",
+      "tag": "⬆️ 84 points",
+      "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/"
+    },
+    {
+      "title": "Free daily JSON feed of Shanghai government subsidy notices",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 6 points",
+      "url": "https://github.com/ZhongGheart/china-policy-data"
+    },
+    {
+      "title": "New 14‑inch MacBook Pro with M6",
+      "hot": "2.9m",
+      "desc": "apple.com",
+      "source": "tech",
+      "tag": "⬆️ 272 points",
+      "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/"
+    },
+    {
+      "title": "81 Jokes for the ZX81",
+      "hot": "2.9m",
+      "desc": "spelk.press",
+      "source": "tech",
+      "tag": "⬆️ 15 points",
+      "url": "https://spelk.press/gb/products/81-jokes-for-the-zx81"
+    },
+    {
+      "title": "An examination of lost firefly species of the US and Canada",
+      "hot": "2.9m",
+      "desc": "journaloflostspecies.org",
+      "source": "tech",
+      "tag": "⬆️ 77 points",
+      "url": "https://journaloflostspecies.org/index.php/jls/article/view/37/33"
+    },
+    {
+      "title": "Four Months of Zig",
+      "hot": "2.8m",
+      "desc": "gracefulliberty.com",
+      "source": "tech",
+      "tag": "⬆️ 63 points",
+      "url": "https://gracefulliberty.com/articles/four-months-of-zig/"
+    },
+    {
+      "title": "Radio-tagged Monarch butterflies",
+      "hot": "2.8m",
+      "desc": "news.vt.edu",
+      "source": "tech",
+      "tag": "⬆️ 22 points",
+      "url": "https://news.vt.edu/articles/2026/10/cmi-monarchs.html"
+    },
+    {
+      "title": "Python's experimental JIT to be removed",
+      "hot": "2.8m",
+      "desc": "lwn.net",
+      "source": "tech",
+      "tag": "⬆️ 435 points",
+      "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/"
+    },
+    {
+      "title": "Wikipedia's Cleanup of AI-Generated Content",
+      "hot": "2.8m",
+      "desc": "spectrum.ieee.org",
+      "source": "tech",
+      "tag": "⬆️ 439 points",
+      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup"
+    },
+    {
+      "title": "Classification of Finite Simple Groups Formalized in Lean",
+      "hot": "2.8m",
+      "desc": "cfsg.axiommath.ai",
+      "source": "tech",
+      "tag": "⬆️ 159 points",
+      "url": "https://cfsg.axiommath.ai/"
+    },
+    {
+      "title": "New iMac with M6",
+      "hot": "2.8m",
+      "desc": "apple.com",
+      "source": "tech",
+      "tag": "⬆️ 304 points",
+      "url": "https://www.apple.com/imac/"
+    },
+    {
+      "title": "Hex Raises $100M",
+      "hot": "2.7m",
+      "desc": "hex.tech",
+      "source": "tech",
+      "tag": "⬆️ 39 points",
+      "url": "https://hex.tech/blog/hex-new-era/"
+    },
+    {
+      "title": "SS United States to be sunk as largest artificial reef",
+      "hot": "2.7m",
+      "desc": "divemagazine.com",
+      "source": "tech",
+      "tag": "⬆️ 62 points",
+      "url": "https://divemagazine.com/scuba-diving-news/ss-united-states-to-be-sunk-as-worlds-largest-artificial-reef-in-november"
+    },
+    {
+      "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
+      "hot": "2.7m",
+      "desc": "liquid.ai",
+      "source": "tech",
+      "tag": "⬆️ 113 points",
+      "url": "https://www.liquid.ai/blog/lfm3"
+    }
+  ],
+  "github": [
+    {
       "title": "JustAResearcher/gpu-unlock-ada: GPU tensor unlock source for RTX 4090 and experi",
-      "hot": "⭐ 4.2k",
+      "hot": "⭐ 4.3k",
       "desc": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
       "source": "github",
       "tag": "C",
@@ -304,7 +458,7 @@
     },
     {
       "title": "rddmwmddr/android-ad-cleaner: 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键",
-      "hot": "⭐ 3.2k",
+      "hot": "⭐ 3.3k",
       "desc": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
       "source": "github",
       "tag": "Python",
@@ -312,19 +466,19 @@
     },
     {
       "title": "designfuchen/word-atlas: 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,2",
-      "hot": "⭐ 2.4k",
+      "hot": "⭐ 2.5k",
       "desc": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/designfuchen/word-atlas"
     },
     {
-      "title": "Jakeschincariol/day-trader-skill: 11 Claude skills for day trading: scan thousan",
+      "title": "unclebob/ub-mode: ",
       "hot": "⭐ 2.3k",
-      "desc": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a",
+      "desc": "unclebob/ub-mode",
       "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/Jakeschincariol/day-trader-skill"
+      "tag": "GitHub",
+      "url": "https://github.com/unclebob/ub-mode"
     },
     {
       "title": "wesbos/3d-model-anything: Capture iPhone LiDAR and photos, reconstruct editable ",
@@ -341,14 +495,6 @@
       "source": "github",
       "tag": "Rust",
       "url": "https://github.com/xevrion/hatchzip"
-    },
-    {
-      "title": "unclebob/ub-mode: ",
-      "hot": "⭐ 2.1k",
-      "desc": "unclebob/ub-mode",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/unclebob/ub-mode"
     },
     {
       "title": "t3dotgg/tstack: The agent skills I use every day. Works with Claude Code and Cod",
@@ -405,168 +551,22 @@
       "source": "github",
       "tag": "Rust",
       "url": "https://github.com/colinhacks/reylo"
-    }
-  ],
-  "tech": [
-    {
-      "title": "Genie 4",
-      "hot": "3.0m",
-      "desc": "deepmind.google",
-      "source": "tech",
-      "tag": "⬆️ 531 points",
-      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
     },
     {
-      "title": "Ghostty 1.4.0",
-      "hot": "3.0m",
-      "desc": "ghostty.org",
-      "source": "tech",
-      "tag": "⬆️ 457 points",
-      "url": "https://ghostty.org/docs/install/release-notes/1-4-0"
+      "title": "morganlinton/BeautifulRust: Agent Skills that teach coding agents to write, revi",
+      "hot": "⭐ 1.3k",
+      "desc": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, ",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/morganlinton/BeautifulRust"
     },
     {
-      "title": "Tailscale SSH: Investigation and remediation update",
-      "hot": "3.0m",
-      "desc": "tailscale.com",
-      "source": "tech",
-      "tag": "⬆️ 68 points",
-      "url": "https://tailscale.com/ssh-investigation-update"
-    },
-    {
-      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-      "hot": "3.0m",
-      "desc": "brangus.io",
-      "source": "tech",
-      "tag": "⬆️ 46 points",
-      "url": "https://www.brangus.io/survival-llm"
-    },
-    {
-      "title": "New 14‑inch MacBook Pro with M6",
-      "hot": "2.9m",
-      "desc": "apple.com",
-      "source": "tech",
-      "tag": "⬆️ 183 points",
-      "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/"
-    },
-    {
-      "title": "An examination of lost firefly species of the US and Canada",
-      "hot": "2.9m",
-      "desc": "journaloflostspecies.org",
-      "source": "tech",
-      "tag": "⬆️ 23 points",
-      "url": "https://journaloflostspecies.org/index.php/jls/article/view/37/33"
-    },
-    {
-      "title": "Classification of Finite Simple Groups Formalized in Lean",
-      "hot": "2.9m",
-      "desc": "cfsg.axiommath.ai",
-      "source": "tech",
-      "tag": "⬆️ 121 points",
-      "url": "https://cfsg.axiommath.ai/"
-    },
-    {
-      "title": "New iMac with M6",
-      "hot": "2.9m",
-      "desc": "apple.com",
-      "source": "tech",
-      "tag": "⬆️ 255 points",
-      "url": "https://www.apple.com/imac/"
-    },
-    {
-      "title": "Python's experimental JIT to be removed",
-      "hot": "2.9m",
-      "desc": "lwn.net",
-      "source": "tech",
-      "tag": "⬆️ 384 points",
-      "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/"
-    },
-    {
-      "title": "Wikipedia's Cleanup of AI-Generated Content",
-      "hot": "2.9m",
-      "desc": "spectrum.ieee.org",
-      "source": "tech",
-      "tag": "⬆️ 388 points",
-      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup"
-    },
-    {
-      "title": "Three TLS Bugs in GoAhead",
-      "hot": "2.9m",
-      "desc": "foxio.io",
-      "source": "tech",
-      "tag": "⬆️ 34 points",
-      "url": "https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead"
-    },
-    {
-      "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
-      "hot": "2.8m",
-      "desc": "liquid.ai",
-      "source": "tech",
-      "tag": "⬆️ 75 points",
-      "url": "https://www.liquid.ai/blog/lfm3"
-    },
-    {
-      "title": "US Government is hiding a secret court ruling about how it spies on Americans",
-      "hot": "2.8m",
-      "desc": "wired.com",
-      "source": "tech",
-      "tag": "⬆️ 623 points",
-      "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/"
-    },
-    {
-      "title": "Why Micron Is Suddenly Ditching 4F² DRAM as Rivals Double Down",
-      "hot": "2.8m",
-      "desc": "hothardware.com",
-      "source": "tech",
-      "tag": "⬆️ 110 points",
-      "url": "https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram"
-    },
-    {
-      "title": "Four Months of Zig",
-      "hot": "2.8m",
-      "desc": "gracefulliberty.com",
-      "source": "tech",
-      "tag": "⬆️ 6 points",
-      "url": "https://gracefulliberty.com/articles/four-months-of-zig/"
-    },
-    {
-      "title": "Microsoft and others tell crypto platform not to tokenize their stocks",
-      "hot": "2.8m",
-      "desc": "gizmodo.com",
-      "source": "tech",
-      "tag": "⬆️ 86 points",
-      "url": "https://gizmodo.com/microsoft-mcdonalds-verizon-and-others-tell-crypto-platform-not-to-tokenize-their-stocks-2000830368"
-    },
-    {
-      "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
-      "hot": "2.8m",
-      "desc": "stanforddaily.com",
-      "source": "tech",
-      "tag": "⬆️ 323 points",
-      "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/"
-    },
-    {
-      "title": "Here be monsters: What do you still need to know when agents do the work?",
-      "hot": "2.7m",
-      "desc": "blog.adrq.dev",
-      "source": "tech",
-      "tag": "⬆️ 124 points",
-      "url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work"
-    },
-    {
-      "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
-      "hot": "2.7m",
-      "desc": "futurism.com",
-      "source": "tech",
-      "tag": "⬆️ 127 points",
-      "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova"
-    },
-    {
-      "title": "Rosettes and Other Hidden Traces of Hamburg's Tram",
-      "hot": "2.7m",
-      "desc": "alsterrunde.com",
-      "source": "tech",
-      "tag": "⬆️ 17 points",
-      "url": "https://alsterrunde.com/rosettes-and-other-hidden-traces-of-hamburgs-tram/"
+      "title": "enesozturk/dimensional-drawing: Create Apple style dimensional drawings of UI co",
+      "hot": "⭐ 1.2k",
+      "desc": "Create Apple style dimensional drawings of UI components.",
+      "source": "github",
+      "tag": "HTML",
+      "url": "https://github.com/enesozturk/dimensional-drawing"
     }
   ]
 }
