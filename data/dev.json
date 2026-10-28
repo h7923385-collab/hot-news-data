@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "Your DEV posts have a beautiful new share card ✨",
-      "hot": "❤️ 53 💬 9",
+      "hot": "❤️ 61 💬 12",
       "desc": "The image that shows up when you share a DEV post just got a brand-new look!  I got to work on...",
       "source": "dev",
       "tag": "devto,  showdev",
@@ -10,19 +10,11 @@
     },
     {
       "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 38 💬 11",
+      "hot": "❤️ 56 💬 17",
       "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
       "source": "dev",
       "tag": "top7,  discuss",
       "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2h0f"
-    },
-    {
-      "title": "🐾 DEV Pet Corner #3: Show Us Your Pets!",
-      "hot": "❤️ 61 💬 10",
-      "desc": "TL;DR  DEV Pet Corner is back for another Sunday! It's a weekly series where we take a little break...",
-      "source": "dev",
-      "tag": "discuss,  community",
-      "url": "https://dev.to/hemapriya_kanagala/dev-pet-corner-3-show-us-your-pets-35n"
     },
     {
       "title": "Inference on Google Cloud: Precision, Memory and Capacity on TPU, from v5e to Ironwood",
@@ -34,35 +26,19 @@
     },
     {
       "title": "Don't Be a Proxy Between Me and Your AI",
-      "hot": "❤️ 141 💬 114",
+      "hot": "❤️ 146 💬 123",
       "desc": "I've had this conversation more times than I'd like to admit.  I raise a technical question in a...",
       "source": "dev",
       "tag": "ai,  discuss",
       "url": "https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn"
     },
     {
-      "title": "Why bloc.add(...) Isn't What You Think: Synchronous Event Fast-Paths and 0ms Form Bindings",
-      "hot": "❤️ 18 💬 7",
-      "desc": "Why classic BLoC's StreamController forces an asynchronous microtask tax, how BlocSignal executes synchronous event hand",
-      "source": "dev",
-      "tag": "flutter,  dart",
-      "url": "https://dev.to/gde/why-blocadd-isnt-what-you-think-synchronous-event-fast-paths-and-0ms-form-bindings-6o"
-    },
-    {
       "title": "Promise Delivered: Welcome to the DEV Hall of Fame (65 Authors, 65 Masterpieces)",
-      "hot": "❤️ 225 💬 129",
+      "hot": "❤️ 227 💬 129",
       "desc": "Status: Promise delivered ✅              The Doors Are Open   A little over a month ago, I published...",
       "source": "dev",
       "tag": "community,  discuss",
       "url": "https://dev.to/georgekobaidze/promise-delivered-welcome-to-the-dev-hall-of-fame-65-authors-65-masterpieces-15fa"
-    },
-    {
-      "title": "Postmortem: The Tuesday Our AI Bill Had No Owner",
-      "hot": "❤️ 14 💬 10",
-      "desc": "I've read a lot of postmortems. The best ones aren't about blame. They're about the gap between what...",
-      "source": "dev",
-      "tag": "discuss,  vertexai",
-      "url": "https://dev.to/gde/postmortem-the-tuesday-our-ai-bill-had-no-owner-34pd"
     },
     {
       "title": "Automated incident triage on GKE with Gemini 4 Argon and Model Context Protocol: Correlating cluster events and VPA logs",
@@ -82,7 +58,7 @@
     },
     {
       "title": "Join the Hacktoberfest Open-Source AI Challenge: Ghost in the Machine! $2,850 in Prizes Across 21 Winners.",
-      "hot": "❤️ 55 💬 11",
+      "hot": "❤️ 61 💬 12",
       "desc": "Week 4 of our Hacktoberfest DEV Challenges starts today, and it's our final challenge of the series!...",
       "source": "dev",
       "tag": "devchallenge,  hf26challenge",
@@ -90,7 +66,7 @@
     },
     {
       "title": "Natural Languages Have Design Trade-offs Too: Georgian Is Dynamically Typed, English Is Statically Typed",
-      "hot": "❤️ 140 💬 66",
+      "hot": "❤️ 141 💬 66",
       "desc": "Table of Contents    How This Started  Feature #1: Articles (or the Lack of Them)   The...",
       "source": "dev",
       "tag": "programming,  writing",
@@ -98,7 +74,7 @@
     },
     {
       "title": "Let It Die: The Lazy Email Agent on TabPFN, Gemma and Temporal",
-      "hot": "❤️ 17 💬 14",
+      "hot": "❤️ 18 💬 14",
       "desc": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady          ...",
       "source": "dev",
       "tag": "devchallenge,  hf26challenge",
@@ -106,11 +82,19 @@
     },
     {
       "title": "Meme Monday",
-      "hot": "❤️ 27 💬 22",
+      "hot": "❤️ 28 💬 22",
       "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
       "source": "dev",
       "tag": "discuss,  watercooler",
       "url": "https://dev.to/ben/meme-monday-18k"
+    },
+    {
+      "title": "🐾 DEV Pet Corner #3: Show Us Your Pets!",
+      "hot": "❤️ 67 💬 14",
+      "desc": "TL;DR  DEV Pet Corner is back for another Sunday! It's a weekly series where we take a little break...",
+      "source": "dev",
+      "tag": "discuss,  community",
+      "url": "https://dev.to/hemapriya_kanagala/dev-pet-corner-3-show-us-your-pets-35n"
     },
     {
       "title": "The Best Prompt Rule Is the One You Delete: Moving AI Guardrails Out of Markdown and Into Git Locks, Linux insmod, and 15ms Compiler Auto-Fixes",
@@ -159,7 +143,23 @@
       "source": "dev",
       "tag": "googlecloud,  ai",
       "url": "https://dev.to/gde/gpt-6-is-coming-to-google-cloud-is-your-ai-bill-ready-j7l"
+    },
+    {
+      "title": "Autonomous agent loops with Gemini 4 Argon and GKE Agent Sandbox: Running untrusted code safely at scale",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Run untrusted LLM-generated Python and Bash code safely at scale using Gemini 4 Argon and GKE Agent Sandbox with gVisor ",
+      "source": "dev",
+      "tag": "kubernetes,  ai",
+      "url": "https://dev.to/googlecloud/autonomous-agent-loops-with-gemini-4-argon-and-gke-agent-sandbox-running-untrusted-code-safely-at-2k60"
+    },
+    {
+      "title": "Why bloc.add(...) Isn't What You Think: Synchronous Event Fast-Paths and 0ms Form Bindings",
+      "hot": "❤️ 18 💬 7",
+      "desc": "Why classic BLoC's StreamController forces an asynchronous microtask tax, how BlocSignal executes synchronous event hand",
+      "source": "dev",
+      "tag": "flutter,  dart",
+      "url": "https://dev.to/gde/why-blocadd-isnt-what-you-think-synchronous-event-fast-paths-and-0ms-form-bindings-6o"
     }
   ],
-  "updatedAt": "2026-10-28T00:34:50.182Z"
+  "updatedAt": "2026-10-28T06:23:05.106Z"
 }
