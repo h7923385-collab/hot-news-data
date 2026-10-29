@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-29T01:58:25.585Z",
+  "updatedAt": "2026-10-29T07:56:18.667Z",
   "source": "live",
   "dev": [
     {
       "title": "Your DEV posts have a beautiful new share card ✨",
-      "hot": "❤️ 78 💬 18",
+      "hot": "❤️ 84 💬 18",
       "desc": "The image that shows up when you share a DEV post just got a brand-new look!  I got to work on...",
       "source": "dev",
       "tag": "devto,  showdev",
@@ -20,7 +20,7 @@
     },
     {
       "title": "Welcome Thread - v399",
-      "hot": "❤️ 23 💬 81",
+      "hot": "❤️ 28 💬 105",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
@@ -36,7 +36,7 @@
     },
     {
       "title": "Your Laptop Might Replace Most of Your AI Bill",
-      "hot": "❤️ 9 💬 1",
+      "hot": "❤️ 10 💬 2",
       "desc": "I've never run an AI model on my own machine, and I assumed the cloud was the best way to get good...",
       "source": "dev",
       "tag": "ai,  llm",
@@ -51,14 +51,6 @@
       "url": "https://dev.to/gde/inference-on-google-cloud-precision-memory-and-capacity-on-tpu-from-v5e-to-ironwood-5dlf"
     },
     {
-      "title": "Don't Be a Proxy Between Me and Your AI",
-      "hot": "❤️ 146 💬 129",
-      "desc": "I've had this conversation more times than I'd like to admit.  I raise a technical question in a...",
-      "source": "dev",
-      "tag": "ai,  discuss",
-      "url": "https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn"
-    },
-    {
       "title": "Human-in-the-Loop Agents in Pure Dart: Genkit, MCP and an Approval Gate on Cloud Run",
       "hot": "❤️ 14 💬 6",
       "desc": "1. The problem: an agent that can spend money   Most agent demos stop at \"the model called a...",
@@ -68,11 +60,19 @@
     },
     {
       "title": "Shipping Flutter Web to Firebase When Your GitHub Actions Budget Hits Zero",
-      "hot": "❤️ 8 💬 6",
+      "hot": "❤️ 9 💬 7",
       "desc": "On October 18, right in the middle of shipping a multi-feature audit and a supplement tracker...",
       "source": "dev",
       "tag": "flutter,  firebase",
       "url": "https://dev.to/gde/shipping-flutter-web-to-firebase-when-your-github-actions-budget-hits-zero-2mi5"
+    },
+    {
+      "title": "Don't Be a Proxy Between Me and Your AI",
+      "hot": "❤️ 146 💬 129",
+      "desc": "I've had this conversation more times than I'd like to admit.  I raise a technical question in a...",
+      "source": "dev",
+      "tag": "ai,  discuss",
+      "url": "https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn"
     },
     {
       "title": "I approved the order. Then my Genkit Dart agent forgot its own tool.",
@@ -132,7 +132,7 @@
     },
     {
       "title": "🐾 DEV Pet Corner #3: Show Us Your Pets!",
-      "hot": "❤️ 67 💬 15",
+      "hot": "❤️ 68 💬 15",
       "desc": "TL;DR  DEV Pet Corner is back for another Sunday! It's a weekly series where we take a little break...",
       "source": "dev",
       "tag": "discuss,  community",
@@ -163,7 +163,323 @@
       "url": "https://dev.to/gde/duckless-serverless-duckdb-on-google-cloud-in-your-own-project-4o5a"
     }
   ],
+  "tech": [
+    {
+      "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+      "hot": "3.0m",
+      "desc": "divagr.com",
+      "source": "tech",
+      "tag": "⬆️ 358 points",
+      "url": "https://divagr.com/blog/qwenputer"
+    },
+    {
+      "title": "Why is this fingerprinting script creating bioweapons?",
+      "hot": "3.0m",
+      "desc": "nullpt.rs",
+      "source": "tech",
+      "tag": "⬆️ 1105 points",
+      "url": "https://nullpt.rs/fingerprinting-bioweapons"
+    },
+    {
+      "title": "We Won't \"Just Hang Out\"",
+      "hot": "3.0m",
+      "desc": "borretti.me",
+      "source": "tech",
+      "tag": "⬆️ 19 points",
+      "url": "https://borretti.me/article/we-wont-just-hang-out"
+    },
+    {
+      "title": "A new faster algorithm to compute 64-bit signed floor division",
+      "hot": "3.0m",
+      "desc": "benjoffe.com",
+      "source": "tech",
+      "tag": "⬆️ 41 points",
+      "url": "https://www.benjoffe.com/fast-floordiv"
+    },
+    {
+      "title": "A Health Update",
+      "hot": "2.9m",
+      "desc": "furbo.org",
+      "source": "tech",
+      "tag": "⬆️ 220 points",
+      "url": "https://furbo.org/2026/10/28/a-health-update/"
+    },
+    {
+      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+      "hot": "2.9m",
+      "desc": "alpinelinux.org",
+      "source": "tech",
+      "tag": "⬆️ 162 points",
+      "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html"
+    },
+    {
+      "title": "StackOverflow now gets fewer than 1000 questions a month",
+      "hot": "2.9m",
+      "desc": "data.stackexchange.com",
+      "source": "tech",
+      "tag": "⬆️ 351 points",
+      "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1"
+    },
+    {
+      "title": "Claude Code regularly sends each background agent’s transcript to its model",
+      "hot": "2.9m",
+      "desc": "gist.github.com",
+      "source": "tech",
+      "tag": "⬆️ 303 points",
+      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce"
+    },
+    {
+      "title": "OpenAI's agents talked to each other through the CPU Cache",
+      "hot": "2.9m",
+      "desc": "the-decoder.com",
+      "source": "tech",
+      "tag": "⬆️ 83 points",
+      "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/"
+    },
+    {
+      "title": "CNC Stone Carving",
+      "hot": "2.9m",
+      "desc": "carmelitegothic.com",
+      "source": "tech",
+      "tag": "⬆️ 457 points",
+      "url": "https://carmelitegothic.com/cnc-stone-carving/"
+    },
+    {
+      "title": "Getting debug access on a Brother printer over Telnet",
+      "hot": "2.9m",
+      "desc": "inventor7777.github.io",
+      "source": "tech",
+      "tag": "⬆️ 3 points",
+      "url": "https://inventor7777.github.io/blog/2026/10/22/debug-access-on-brother/"
+    },
+    {
+      "title": "TLP Is Not a Suggestion",
+      "hot": "2.8m",
+      "desc": "akamai.com",
+      "source": "tech",
+      "tag": "⬆️ 12 points",
+      "url": "https://www.akamai.com/blog/security-research/tlp-is-not-a-suggestion"
+    },
+    {
+      "title": "Gemini 4 Carbon",
+      "hot": "2.8m",
+      "desc": "blog.google",
+      "source": "tech",
+      "tag": "⬆️ 901 points",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+    },
+    {
+      "title": "Formlabs Studio 1 $699 Resin Printer",
+      "hot": "2.8m",
+      "desc": "formlabs.com",
+      "source": "tech",
+      "tag": "⬆️ 170 points",
+      "url": "https://formlabs.com/products/form-studio-1-basic-founders-edition/"
+    },
+    {
+      "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
+      "hot": "2.8m",
+      "desc": "circuithub.com",
+      "source": "tech",
+      "tag": "⬆️ 492 points",
+      "url": "https://www.circuithub.com/post/unveiling-the-grid"
+    },
+    {
+      "title": "Human-enhanced tsunami hazard in large lakes",
+      "hot": "2.8m",
+      "desc": "nature.com",
+      "source": "tech",
+      "tag": "⬆️ 30 points",
+      "url": "https://www.nature.com/articles/s41467-026-78272-8"
+    },
+    {
+      "title": "Treap (Cartesian Tree)",
+      "hot": "2.8m",
+      "desc": "cp-algorithms.com",
+      "source": "tech",
+      "tag": "⬆️ 15 points",
+      "url": "https://cp-algorithms.com/data_structures/treap.html"
+    },
+    {
+      "title": "Why birds can fly over Mount Everest (2020)",
+      "hot": "2.7m",
+      "desc": "lede-v2.nautil.us",
+      "source": "tech",
+      "tag": "⬆️ 139 points",
+      "url": "https://lede-v2.nautil.us/why-birds-can-fly-over-mount-everest-237864"
+    },
+    {
+      "title": "MacBook Pro with PROLED XDR Display and Touch",
+      "hot": "2.7m",
+      "desc": "apple.com",
+      "source": "tech",
+      "tag": "⬆️ 562 points",
+      "url": "https://www.apple.com/macbook-pro/proled-xdr-display/"
+    },
+    {
+      "title": "The 'else' keyword is probably a literal translation from German (2020)",
+      "hot": "2.7m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 98 points",
+      "url": "https://github.com/e-n-f/if-then-else/blob/master/if-then-else.md"
+    }
+  ],
+  "github": [
+    {
+      "title": "rddmwmddr/android-ad-cleaner: 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键",
+      "hot": "⭐ 4.5k",
+      "desc": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner"
+    },
+    {
+      "title": "JustAResearcher/gpu-unlock-ada: GPU tensor unlock source for RTX 4090 and experi",
+      "hot": "⭐ 4.5k",
+      "desc": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
+      "source": "github",
+      "tag": "C",
+      "url": "https://github.com/JustAResearcher/gpu-unlock-ada"
+    },
+    {
+      "title": "unclebob/ub-mode: ",
+      "hot": "⭐ 4.1k",
+      "desc": "unclebob/ub-mode",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/unclebob/ub-mode"
+    },
+    {
+      "title": "designfuchen/word-atlas: 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,2",
+      "hot": "⭐ 3.1k",
+      "desc": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/designfuchen/word-atlas"
+    },
+    {
+      "title": "interplains/Zero-Breach-Toolkit: Free, open-source, offline checks for traces of",
+      "hot": "⭐ 3.0k",
+      "desc": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/interplains/Zero-Breach-Toolkit"
+    },
+    {
+      "title": "anhao/ai-pose-gallery-zh: 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+      "hot": "⭐ 2.3k",
+      "desc": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+      "source": "github",
+      "tag": "HTML",
+      "url": "https://github.com/anhao/ai-pose-gallery-zh"
+    },
+    {
+      "title": "t3dotgg/tstack: The agent skills I use every day. Works with Claude Code and Cod",
+      "hot": "⭐ 2.3k",
+      "desc": "The agent skills I use every day. Works with Claude Code and Codex.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/t3dotgg/tstack"
+    },
+    {
+      "title": "oosexgang/hakios-xnu-kernel: ",
+      "hot": "⭐ 1.9k",
+      "desc": "oosexgang/hakios-xnu-kernel",
+      "source": "github",
+      "tag": "C",
+      "url": "https://github.com/oosexgang/hakios-xnu-kernel"
+    },
+    {
+      "title": "enesozturk/dimensional-drawing: Create Apple style dimensional drawings of UI co",
+      "hot": "⭐ 1.5k",
+      "desc": "Create Apple style dimensional drawings of UI components.",
+      "source": "github",
+      "tag": "HTML",
+      "url": "https://github.com/enesozturk/dimensional-drawing"
+    },
+    {
+      "title": "morganlinton/BeautifulRust: Agent Skills that teach coding agents to write, revi",
+      "hot": "⭐ 1.4k",
+      "desc": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, ",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/morganlinton/BeautifulRust"
+    },
+    {
+      "title": "andyhuo520/digital-human-koubo: AI digital-human talking-head videos from one ph",
+      "hot": "⭐ 1.4k",
+      "desc": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill fo",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/andyhuo520/digital-human-koubo"
+    },
+    {
+      "title": "DenisSergeevitch/ex-ussr-kinship-research: Evidence-first genealogy skill for AI",
+      "hot": "⭐ 1.2k",
+      "desc": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research"
+    },
+    {
+      "title": "Snapintosh/Snapintosh: EL2 hypervisor and toolchain that boots macOS on the ASUS",
+      "hot": "⭐ 1.0k",
+      "desc": "EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/Snapintosh/Snapintosh"
+    },
+    {
+      "title": "Motionsites-AI/claude-skill: Free Claude skill: make Claude build award-level, c",
+      "hot": "⭐ 989",
+      "desc": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/Motionsites-AI/claude-skill"
+    },
+    {
+      "title": "KillaBoi/StealMyBitcoin-PoC: A public release of the Steal My Bitcoin challenge",
+      "hot": "⭐ 989",
+      "desc": "A public release of the Steal My Bitcoin challenge",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC"
+    }
+  ],
   "space": [
+    {
+      "title": "UK MOD Awards £15 Million Orbital Warfare Project to Astroscale",
+      "hot": "10/29",
+      "desc": "Japanese space technology company Astroscale has officially announced that its UK-based subsidiary has been awarded a £15 million (€17.9 million) Mini",
+      "source": "space",
+      "tag": "European Spaceflight",
+      "url": "https://europeanspaceflight.com/uk-mod-awards-15-million-orbital-warfare-project-to-astroscale/"
+    },
+    {
+      "title": "APOD: 29 October 2026 – The Horns of Venus",
+      "hot": "10/29",
+      "desc": "APOD Science APOD APOD: 29 October 2026 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Pic",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/image-article/apod-29-october-2026-the-horns-of-venus/"
+    },
+    {
+      "title": "Arnab Strikes India",
+      "hot": "10/29",
+      "desc": "The first named storm of the North Indian Ocean’s cyclone season made landfall along the coast of Andhra Pradesh.",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/earth/earth-observatory/arnab-strikes-india/"
+    },
+    {
+      "title": "Caltech Names Artemis II Commander Reid Wiseman as NASA JPL Deputy",
+      "hot": "10/29",
+      "desc": "Artemis II Commander Reid Wiseman has been named Caltech associate vice president and deputy director of NASA’s Jet Propulsion Laboratory in Southern ",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy/"
+    },
     {
       "title": "Untied Launch Alliance announces mid-November return to flight for Vulcan rocket",
       "hot": "10/28",
@@ -171,6 +487,14 @@
       "source": "space",
       "tag": "Spaceflight Now",
       "url": "https://spaceflightnow.com/2026/10/28/untied-launch-alliance-announces-mid-november-return-to-flight-for-vulcan-rocket/"
+    },
+    {
+      "title": "United Launch Alliance announces mid-November return to flight for Vulcan rocket",
+      "hot": "10/28",
+      "desc": "The anticipated launch will be the first for the heavy-lift rocket since a mid-flight nozzle failure on a solid rocket booster. The rocket will carry ",
+      "source": "space",
+      "tag": "Spaceflight Now",
+      "url": "https://spaceflightnow.com/2026/10/28/united-launch-alliance-announces-mid-november-return-to-flight-for-vulcan-rocket/"
     },
     {
       "title": "NASA Welcomes Vietnam as Newest Artemis Accords Signatory",
@@ -243,330 +567,6 @@
       "source": "space",
       "tag": "SpaceNews",
       "url": "https://spacenews.com/flexell-space-and-satoro-agree-to-collaborate-on-in-orbit-demonstration-of-next-generation-space-solar-cells/"
-    },
-    {
-      "title": "New contracts to modernise Galileo ground segment for next generation",
-      "hot": "10/28",
-      "desc": "On 27 October 2026, Indra Space celebrated the signature of two contracts with the European Space Agency, European Commission and EU Agency for the Sp",
-      "source": "space",
-      "tag": "ESA",
-      "url": "https://www.esa.int/Applications/Satellite_navigation/New_contracts_to_modernise_Galileo_ground_segment_for_next_generation"
-    },
-    {
-      "title": "Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’",
-      "hot": "10/28",
-      "desc": "Written by Lucy Lim, Planetary Scientist at NASA’s Goddard Space Flight Center Earth planning date: Friday, Oct. 16, 2026 Following the Basque Lakes d",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/"
-    },
-    {
-      "title": "APOD: 2026 October 28 – The Mutual Occultation of Ganymede and Io",
-      "hot": "10/28",
-      "desc": "APOD Science APOD APOD: 2026 October 28 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Pic",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/"
-    },
-    {
-      "title": "The Land of the Standing-Up Rocks",
-      "hot": "10/28",
-      "desc": "A national monument since the 1920s, Chiricahua is America’s newest national park.",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/earth/earth-observatory/the-land-of-the-standing-up-rocks/"
-    },
-    {
-      "title": "Ukrainian startup, GomSpace test satellite for future communications network",
-      "hot": "10/27",
-      "desc": "\nThe companies said the experimental spacecraft, launched Oct. 1, could lead to a Ukrainian-controlled satellite network \nThe post Ukrainian startup, ",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/ukrainian-startup-gomspace-test-satellite-for-future-communications-network/"
-    }
-  ],
-  "tech": [
-    {
-      "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
-      "hot": "3.0m",
-      "desc": "divagr.com",
-      "source": "tech",
-      "tag": "⬆️ 66 points",
-      "url": "https://divagr.com/blog/qwenputer"
-    },
-    {
-      "title": "Why is this fingerprinting script creating bioweapons?",
-      "hot": "3.0m",
-      "desc": "nullpt.rs",
-      "source": "tech",
-      "tag": "⬆️ 858 points",
-      "url": "https://nullpt.rs/fingerprinting-bioweapons"
-    },
-    {
-      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
-      "hot": "3.0m",
-      "desc": "alpinelinux.org",
-      "source": "tech",
-      "tag": "⬆️ 77 points",
-      "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html"
-    },
-    {
-      "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
-      "hot": "3.0m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 32 points",
-      "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md"
-    },
-    {
-      "title": "A Health Update",
-      "hot": "2.9m",
-      "desc": "furbo.org",
-      "source": "tech",
-      "tag": "⬆️ 101 points",
-      "url": "https://furbo.org/2026/10/28/a-health-update/"
-    },
-    {
-      "title": "The first wired XR glasses powered by Android XR",
-      "hot": "2.9m",
-      "desc": "blog.google",
-      "source": "tech",
-      "tag": "⬆️ 25 points",
-      "url": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/"
-    },
-    {
-      "title": "CNC Stone Carving",
-      "hot": "2.9m",
-      "desc": "carmelitegothic.com",
-      "source": "tech",
-      "tag": "⬆️ 401 points",
-      "url": "https://carmelitegothic.com/cnc-stone-carving/"
-    },
-    {
-      "title": "Gemini 4 Carbon",
-      "hot": "2.9m",
-      "desc": "blog.google",
-      "source": "tech",
-      "tag": "⬆️ 812 points",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
-    },
-    {
-      "title": "Formlabs Studio 1 $699 Resin Printer",
-      "hot": "2.9m",
-      "desc": "formlabs.com",
-      "source": "tech",
-      "tag": "⬆️ 117 points",
-      "url": "https://formlabs.com/products/form-studio-1-basic-founders-edition/"
-    },
-    {
-      "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
-      "hot": "2.9m",
-      "desc": "circuithub.com",
-      "source": "tech",
-      "tag": "⬆️ 422 points",
-      "url": "https://www.circuithub.com/post/unveiling-the-grid"
-    },
-    {
-      "title": "MacBook Pro with PROLED XDR Display and Touch",
-      "hot": "2.9m",
-      "desc": "apple.com",
-      "source": "tech",
-      "tag": "⬆️ 504 points",
-      "url": "https://www.apple.com/macbook-pro/proled-xdr-display/"
-    },
-    {
-      "title": "Start Doing Graph Theory",
-      "hot": "2.8m",
-      "desc": "vertex.degree",
-      "source": "tech",
-      "tag": "⬆️ 586 points",
-      "url": "https://vertex.degree/"
-    },
-    {
-      "title": "How we made our MMDB files a 33% smaller",
-      "hot": "2.8m",
-      "desc": "ipinfo.io",
-      "source": "tech",
-      "tag": "⬆️ 13 points",
-      "url": "https://ipinfo.io/blog/how-made-mmdb-files-smaller"
-    },
-    {
-      "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-      "hot": "2.8m",
-      "desc": "surgehq.ai",
-      "source": "tech",
-      "tag": "⬆️ 203 points",
-      "url": "https://surgehq.ai/blog/dayjob-tax"
-    },
-    {
-      "title": "Why Birds Can Fly over Mount Everest",
-      "hot": "2.8m",
-      "desc": "lede-v2.nautil.us",
-      "source": "tech",
-      "tag": "⬆️ 71 points",
-      "url": "https://lede-v2.nautil.us/why-birds-can-fly-over-mount-everest-237864"
-    },
-    {
-      "title": "Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel",
-      "hot": "2.8m",
-      "desc": "nango.dev",
-      "source": "tech",
-      "tag": "⬆️ 1 points",
-      "url": "https://nango.dev/careers"
-    },
-    {
-      "title": "AlpineBSD",
-      "hot": "2.8m",
-      "desc": "wiki.alpinebsd.org",
-      "source": "tech",
-      "tag": "⬆️ 178 points",
-      "url": "https://wiki.alpinebsd.org"
-    },
-    {
-      "title": "Image generation has come a long way since August 2022",
-      "hot": "2.7m",
-      "desc": "hbrooks.com",
-      "source": "tech",
-      "tag": "⬆️ 35 points",
-      "url": "https://www.hbrooks.com/writing/image-generation-has-come-a-long-way"
-    },
-    {
-      "title": "Apple's git still trusts the compromised eMudhra certificates",
-      "hot": "2.7m",
-      "desc": "emudhra.we-have-a-problem.com",
-      "source": "tech",
-      "tag": "⬆️ 1045 points",
-      "url": "https://emudhra.we-have-a-problem.com/apple.html"
-    },
-    {
-      "title": "Spiders Spin 'Silk Dope' into Nature's Toughest Material",
-      "hot": "2.7m",
-      "desc": "quantamagazine.org",
-      "source": "tech",
-      "tag": "⬆️ 47 points",
-      "url": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/"
-    }
-  ],
-  "github": [
-    {
-      "title": "JustAResearcher/gpu-unlock-ada: GPU tensor unlock source for RTX 4090 and experi",
-      "hot": "⭐ 4.4k",
-      "desc": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
-      "source": "github",
-      "tag": "C",
-      "url": "https://github.com/JustAResearcher/gpu-unlock-ada"
-    },
-    {
-      "title": "rddmwmddr/android-ad-cleaner: 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键",
-      "hot": "⭐ 4.3k",
-      "desc": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/rddmwmddr/android-ad-cleaner"
-    },
-    {
-      "title": "unclebob/ub-mode: ",
-      "hot": "⭐ 3.8k",
-      "desc": "unclebob/ub-mode",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/unclebob/ub-mode"
-    },
-    {
-      "title": "designfuchen/word-atlas: 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,2",
-      "hot": "⭐ 3.1k",
-      "desc": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/designfuchen/word-atlas"
-    },
-    {
-      "title": "interplains/Zero-Breach-Toolkit: Free, open-source, offline checks for traces of",
-      "hot": "⭐ 2.8k",
-      "desc": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/interplains/Zero-Breach-Toolkit"
-    },
-    {
-      "title": "t3dotgg/tstack: The agent skills I use every day. Works with Claude Code and Cod",
-      "hot": "⭐ 2.3k",
-      "desc": "The agent skills I use every day. Works with Claude Code and Codex.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/t3dotgg/tstack"
-    },
-    {
-      "title": "anhao/ai-pose-gallery-zh: 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-      "hot": "⭐ 2.0k",
-      "desc": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-      "source": "github",
-      "tag": "HTML",
-      "url": "https://github.com/anhao/ai-pose-gallery-zh"
-    },
-    {
-      "title": "oosexgang/hakios-xnu-kernel: ",
-      "hot": "⭐ 1.9k",
-      "desc": "oosexgang/hakios-xnu-kernel",
-      "source": "github",
-      "tag": "C",
-      "url": "https://github.com/oosexgang/hakios-xnu-kernel"
-    },
-    {
-      "title": "enesozturk/dimensional-drawing: Create Apple style dimensional drawings of UI co",
-      "hot": "⭐ 1.4k",
-      "desc": "Create Apple style dimensional drawings of UI components.",
-      "source": "github",
-      "tag": "HTML",
-      "url": "https://github.com/enesozturk/dimensional-drawing"
-    },
-    {
-      "title": "morganlinton/BeautifulRust: Agent Skills that teach coding agents to write, revi",
-      "hot": "⭐ 1.4k",
-      "desc": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, ",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/morganlinton/BeautifulRust"
-    },
-    {
-      "title": "andyhuo520/digital-human-koubo: AI digital-human talking-head videos from one ph",
-      "hot": "⭐ 1.3k",
-      "desc": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill fo",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/andyhuo520/digital-human-koubo"
-    },
-    {
-      "title": "DenisSergeevitch/ex-ussr-kinship-research: Evidence-first genealogy skill for AI",
-      "hot": "⭐ 1.2k",
-      "desc": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research"
-    },
-    {
-      "title": "Snapintosh/Snapintosh: EL2 hypervisor and toolchain that boots macOS on the ASUS",
-      "hot": "⭐ 1.0k",
-      "desc": "EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/Snapintosh/Snapintosh"
-    },
-    {
-      "title": "KillaBoi/StealMyBitcoin-PoC: A public release of the Steal My Bitcoin challenge",
-      "hot": "⭐ 985",
-      "desc": "A public release of the Steal My Bitcoin challenge",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC"
-    },
-    {
-      "title": "assetnote/php2shell-scanner: High fidelity scanner for php2shell (CVE-2026-10961",
-      "hot": "⭐ 959",
-      "desc": "High fidelity scanner for php2shell (CVE-2026-109618 and CVE-2026-109619)",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/assetnote/php2shell-scanner"
     }
   ]
 }
