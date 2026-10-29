@@ -2,15 +2,39 @@
   "data": [
     {
       "title": "Your DEV posts have a beautiful new share card ✨",
-      "hot": "❤️ 100 💬 22",
+      "hot": "❤️ 111 💬 25",
       "desc": "The image that shows up when you share a DEV post just got a brand-new look!  I got to work on...",
       "source": "dev",
       "tag": "devto,  showdev",
       "url": "https://dev.to/devteam/your-dev-posts-have-a-beautiful-new-share-card-4be8"
     },
     {
+      "title": "Welcome to the Prompt Pad: AI Tips & Tricks with Rosendo Pili",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Keeping up with AI is a full-time job. Prompt Pad is here to help you keep up a little at a...",
+      "source": "dev",
+      "tag": "ai,  beginners",
+      "url": "https://blog.mlh.com/welcome-to-the-prompt-pad-ai-tips-tricks-with-rosendo-pili-2hkl"
+    },
+    {
+      "title": "Gemini 4 Carbon Is #1 on AA Index — Still Fairwind-Only: Cyber Benches, $2/$10 $4/$20, and What to Do Before the API",
+      "hot": "❤️ 4 💬 1",
+      "desc": "Google DeepMind’s Gemini 4 Carbon (Oct 28) claims AA Index v5.0 #1 at 59 and SOTA cyber benches — still Fairwind/cyber-d",
+      "source": "dev",
+      "tag": "ai,  llm",
+      "url": "https://dev.to/yong_yu_f98e15562e9b120a0/gemini-4-carbon-is-1-on-aa-index-still-fairwind-only-cyber-benches-210-420-and-what-to-b66"
+    },
+    {
+      "title": "AI Dev Weekly #32: GPT-6.1 Terra, Gemini Carbon, Kimi K3.1 and Copilot Fusion",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Week of Oct 23-29: GPT-6.1 Terra, restricted Gemini Carbon access, Kimi K3.1 Pro, Copilot Fusion and GitHub's agentic wo",
+      "source": "dev",
+      "tag": "aidevweekly,  gpt61terra",
+      "url": "https://dev.to/ai_made_tools/ai-dev-weekly-32-gpt-61-terra-gemini-carbon-kimi-k31-and-copilot-fusion-3mpi"
+    },
+    {
       "title": "Welcome Thread - v399",
-      "hot": "❤️ 30 💬 150",
+      "hot": "❤️ 35 💬 181",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
@@ -18,11 +42,19 @@
     },
     {
       "title": "Accuracy vs Speed: Gemma 4 E2B Quantization Tradeoffs, BF16 to Q2_K",
-      "hot": "❤️ 8 💬 3",
+      "hot": "❤️ 9 💬 3",
       "desc": "Gemma 4 E2B quantized from BF16 to Q2_K on one Tesla T4, every rung asked the same 250 GSM8K questions, and each answer ",
       "source": "dev",
       "tag": "devchallenge,  hf26challenge",
       "url": "https://dev.to/gde/accuracy-vs-speed-gemma-4-e2b-quantization-tradeoffs-bf16-to-q2k-aea"
+    },
+    {
+      "title": "Performance vs Quality: Gemma 4 E2B Quantization on an NVIDIA L4 and a Tesla T4",
+      "hot": "❤️ 6 💬 1",
+      "desc": "Gemma 4 E2B from BF16 to Q2_K, speed against GSM8K accuracy, on an AWS L4 with byte-identical GGUF files and the same ll",
+      "source": "dev",
+      "tag": "gemma,  llamacpp",
+      "url": "https://dev.to/gde/performance-vs-quality-gemma-4-e2b-quantization-on-an-nvidia-l4-and-a-tesla-t4-4b90"
     },
     {
       "title": "Your Laptop Might Replace Most of Your AI Bill",
@@ -82,7 +114,7 @@
     },
     {
       "title": "🐾 DEV Pet Corner #3: Show Us Your Pets!",
-      "hot": "❤️ 74 💬 15",
+      "hot": "❤️ 75 💬 15",
       "desc": "TL;DR  DEV Pet Corner is back for another Sunday! It's a weekly series where we take a little break...",
       "source": "dev",
       "tag": "discuss,  community",
@@ -127,39 +159,7 @@
       "source": "dev",
       "tag": "googlecloud,  ai",
       "url": "https://dev.to/gde/gpt-6-is-coming-to-google-cloud-is-your-ai-bill-ready-j7l"
-    },
-    {
-      "title": "Autonomous agent loops with Gemini 4 Argon and GKE Agent Sandbox: Running untrusted code safely at scale",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Run untrusted LLM-generated Python and Bash code safely at scale using Gemini 4 Argon and GKE Agent Sandbox with gVisor ",
-      "source": "dev",
-      "tag": "kubernetes,  ai",
-      "url": "https://dev.to/googlecloud/autonomous-agent-loops-with-gemini-4-argon-and-gke-agent-sandbox-running-untrusted-code-safely-at-2k60"
-    },
-    {
-      "title": "Human-in-the-Loop Agents in Pure Dart: Genkit, MCP and an Approval Gate on Cloud Run",
-      "hot": "❤️ 14 💬 7",
-      "desc": "1. The problem: an agent that can spend money   Most agent demos stop at \"the model called a...",
-      "source": "dev",
-      "tag": "dart,  flutter",
-      "url": "https://dev.to/gde/human-in-the-loop-agents-in-pure-dart-genkit-mcp-and-an-approval-gate-on-cloud-run-4gmc"
-    },
-    {
-      "title": "Why bloc.add(...) Isn't What You Think: Synchronous Event Fast-Paths and 0ms Form Bindings",
-      "hot": "❤️ 21 💬 7",
-      "desc": "Why classic BLoC's StreamController forces an asynchronous microtask tax, how BlocSignal executes synchronous event hand",
-      "source": "dev",
-      "tag": "flutter,  dart",
-      "url": "https://dev.to/gde/why-blocadd-isnt-what-you-think-synchronous-event-fast-paths-and-0ms-form-bindings-6o"
-    },
-    {
-      "title": "Shipping Flutter Web to Firebase When Your GitHub Actions Budget Hits Zero",
-      "hot": "❤️ 10 💬 7",
-      "desc": "On October 18, right in the middle of shipping a multi-feature audit and a supplement tracker...",
-      "source": "dev",
-      "tag": "flutter,  firebase",
-      "url": "https://dev.to/gde/shipping-flutter-web-to-firebase-when-your-github-actions-budget-hits-zero-2mi5"
     }
   ],
-  "updatedAt": "2026-10-29T14:44:53.394Z"
+  "updatedAt": "2026-10-29T19:55:05.379Z"
 }
