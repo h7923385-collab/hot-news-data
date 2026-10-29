@@ -10,23 +10,15 @@
     },
     {
       "title": "Accuracy vs Speed: Gemma 4 E2B Quantization Tradeoffs, BF16 to Q2_K",
-      "hot": "❤️ 8 💬 1",
+      "hot": "❤️ 8 💬 2",
       "desc": "Gemma 4 E2B quantized from BF16 to Q2_K on one Tesla T4, every rung asked the same 250 GSM8K questions, and each answer ",
       "source": "dev",
       "tag": "devchallenge,  hf26challenge",
       "url": "https://dev.to/gde/accuracy-vs-speed-gemma-4-e2b-quantization-tradeoffs-bf16-to-q2k-aea"
     },
     {
-      "title": "Your Laptop Might Replace Most of Your AI Bill",
-      "hot": "❤️ 9 💬 0",
-      "desc": "I've never run an AI model on my own machine, and I assumed the cloud was the best way to get good...",
-      "source": "dev",
-      "tag": "ai,  llm",
-      "url": "https://dev.to/auth0/your-laptop-might-replace-most-of-your-ai-bill-4o1f"
-    },
-    {
       "title": "Welcome Thread - v399",
-      "hot": "❤️ 22 💬 56",
+      "hot": "❤️ 23 💬 81",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
@@ -39,6 +31,14 @@
       "source": "dev",
       "tag": "gemma,  llamacpp",
       "url": "https://dev.to/gde/size-your-model-to-where-you-run-it-gemma-4-e2b-and-e4b-on-an-aws-l4-and-two-small-gpus-1d47"
+    },
+    {
+      "title": "Your Laptop Might Replace Most of Your AI Bill",
+      "hot": "❤️ 9 💬 1",
+      "desc": "I've never run an AI model on my own machine, and I assumed the cloud was the best way to get good...",
+      "source": "dev",
+      "tag": "ai,  llm",
+      "url": "https://dev.to/auth0/your-laptop-might-replace-most-of-your-ai-bill-4o1f"
     },
     {
       "title": "Inference on Google Cloud: Precision, Memory and Capacity on TPU, from v5e to Ironwood",
@@ -97,14 +97,6 @@
       "url": "https://dev.to/googlecloud/automated-incident-triage-on-gke-with-gemini-4-argon-and-model-context-protocol-correlating-24eb"
     },
     {
-      "title": "Join the Hacktoberfest Open-Source AI Challenge: Ghost in the Machine! $2,850 in Prizes Across 21 Winners.",
-      "hot": "❤️ 68 💬 17",
-      "desc": "Week 4 of our Hacktoberfest DEV Challenges starts today, and it's our final challenge of the series!...",
-      "source": "dev",
-      "tag": "devchallenge,  hf26challenge",
-      "url": "https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-ghost-in-the-machine-2850-in-prizes-across-21-3cho"
-    },
-    {
       "title": "Top 7 Featured DEV Posts of the Week",
       "hot": "❤️ 56 💬 25",
       "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
@@ -159,7 +151,15 @@
       "source": "dev",
       "tag": "ai,  cloud",
       "url": "https://dev.to/gde/agent-platform-in-action-6-towards-production-grade-ai-agent-ops-building-full-stack-38aa"
+    },
+    {
+      "title": "DuckLess: serverless DuckDB on Google Cloud, in your own project",
+      "hot": "❤️ 11 💬 1",
+      "desc": "Serverless DuckDB on Google Cloud, in your own project. Files on GCS, tables in BigQuery (read and write), what I measur",
+      "source": "dev",
+      "tag": "duckdb,  googlecloud",
+      "url": "https://dev.to/gde/duckless-serverless-duckdb-on-google-cloud-in-your-own-project-4o5a"
     }
   ],
-  "updatedAt": "2026-10-28T22:54:59.250Z"
+  "updatedAt": "2026-10-29T01:58:25.585Z"
 }
