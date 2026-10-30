@@ -2,19 +2,51 @@
   "data": [
     {
       "title": "Your DEV posts have a beautiful new share card ✨",
-      "hot": "❤️ 137 💬 30",
+      "hot": "❤️ 144 💬 31",
       "desc": "The image that shows up when you share a DEV post just got a brand-new look!  I got to work on...",
       "source": "dev",
       "tag": "devto,  showdev",
       "url": "https://dev.to/devteam/your-dev-posts-have-a-beautiful-new-share-card-4be8"
     },
     {
-      "title": "Welcome Thread - v399",
-      "hot": "❤️ 40 💬 223",
-      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
+      "title": "What was your win this week?",
+      "hot": "❤️ 14 💬 8",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
-      "tag": "welcome",
-      "url": "https://dev.to/sloan/welcome-thread-v400-fho"
+      "tag": "weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-47ci"
+    },
+    {
+      "title": "Is Tech Actually Welcoming to Beginners, or Do We Just Say It Is?",
+      "hot": "❤️ 40 💬 20",
+      "desc": "We hear it all the time in tech.  Everyone starts somewhere. There are no stupid questions. Don't be...",
+      "source": "dev",
+      "tag": "discuss,  beginners",
+      "url": "https://dev.to/sizzlebop/is-tech-actually-welcoming-to-beginners-or-do-we-just-say-it-is-3d6p"
+    },
+    {
+      "title": "Giving AI Pain: The Architecture of Synthetic Scars & The Rapid-Regret Miner",
+      "hot": "❤️ 12 💬 8",
+      "desc": "Why 90% of AI coding frustration comes from the Quota vs. Prompt-Compliance Death Loop, why Rich Sutton's Bitter Lesson ",
+      "source": "dev",
+      "tag": "ai,  programming",
+      "url": "https://dev.to/gde/giving-ai-pain-the-architecture-of-synthetic-scars-the-rapid-regret-miner-1740"
+    },
+    {
+      "title": "Four GPUs, One Quantization Ladder: Gemma 4 E2B From a 4 GB Laptop to an NVIDIA L4",
+      "hot": "❤️ 10 💬 1",
+      "desc": "Gemma 4 E2B from BF16 to Q2_K on a Tesla T4, an NVIDIA L4, a GTX 1650 laptop and an RTX 3050 desktop, with byte-identica",
+      "source": "dev",
+      "tag": "gemma,  llamacpp",
+      "url": "https://dev.to/gde/four-gpus-one-quantization-ladder-gemma-4-e2b-from-a-4-gb-laptop-to-an-nvidia-l4-4olp"
+    },
+    {
+      "title": "Build a production-style Autonomous SRE Command Center using Gemini 4 Argon",
+      "hot": "❤️ 12 💬 1",
+      "desc": "When a production Kubernetes cluster starts throwing 5xx errors , the hardest part of incident...",
+      "source": "dev",
+      "tag": "sre,  kubernetes",
+      "url": "https://dev.to/gde/build-a-production-style-autonomous-sre-command-center-using-gemini-4-argon-759"
     },
     {
       "title": "Welcome to the Prompt Pad: AI Tips & Tricks with Rosendo Pili",
@@ -33,6 +65,14 @@
       "url": "https://dev.to/gde/size-your-model-to-where-you-run-it-gemma-4-e2b-and-e4b-on-an-aws-l4-and-two-small-gpus-1d47"
     },
     {
+      "title": "Zero Trust CI/CD: Keyless Bitbucket Deployment on Google Cloud",
+      "hot": "❤️ 7 💬 1",
+      "desc": "Using static Service Account (SA) keys in CI/CD pipelines has long been a common method for...",
+      "source": "dev",
+      "tag": "devops,  cicd",
+      "url": "https://dev.to/gde/zero-trust-cicd-keyless-bitbucket-deployment-on-google-cloud-1ka1"
+    },
+    {
       "title": "Gemini 4 Carbon Is #1 on AA Index — Still Fairwind-Only: Cyber Benches, $2/$10 $4/$20, and What to Do Before the API",
       "hot": "❤️ 4 💬 3",
       "desc": "Google DeepMind’s Gemini 4 Carbon (Oct 28) claims AA Index v5.0 #1 at 59 and SOTA cyber benches — still Fairwind/cyber-d",
@@ -42,7 +82,7 @@
     },
     {
       "title": "AI Dev Weekly #32: GPT-6.1 Terra, Gemini Carbon, Kimi K3.1 and Copilot Fusion",
-      "hot": "❤️ 7 💬 0",
+      "hot": "❤️ 12 💬 1",
       "desc": "Week of Oct 23-29: GPT-6.1 Terra, restricted Gemini Carbon access, Kimi K3.1 Pro, Copilot Fusion and GitHub's agentic wo",
       "source": "dev",
       "tag": "aidevweekly,  gpt61terra",
@@ -65,16 +105,16 @@
       "url": "https://dev.to/gde/inference-on-google-cloud-precision-memory-and-capacity-on-tpu-from-v5e-to-ironwood-5dlf"
     },
     {
-      "title": "Accuracy vs Speed: Gemma 4 E2B Quantization Tradeoffs, BF16 to Q2_K",
-      "hot": "❤️ 10 💬 4",
-      "desc": "Gemma 4 E2B quantized from BF16 to Q2_K on one Tesla T4, every rung asked the same 250 GSM8K questions, and each answer ",
+      "title": "Welcome Thread - v399",
+      "hot": "❤️ 44 💬 244",
+      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
-      "tag": "devchallenge,  hf26challenge",
-      "url": "https://dev.to/gde/accuracy-vs-speed-gemma-4-e2b-quantization-tradeoffs-bf16-to-q2k-aea"
+      "tag": "welcome",
+      "url": "https://dev.to/sloan/welcome-thread-v400-fho"
     },
     {
       "title": "Don't Be a Proxy Between Me and Your AI",
-      "hot": "❤️ 148 💬 132",
+      "hot": "❤️ 149 💬 132",
       "desc": "I've had this conversation more times than I'd like to admit.  I raise a technical question in a...",
       "source": "dev",
       "tag": "ai,  discuss",
@@ -97,28 +137,12 @@
       "url": "https://dev.to/auth0/your-laptop-might-replace-most-of-your-ai-bill-4o1f"
     },
     {
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 56 💬 25",
-      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
-      "source": "dev",
-      "tag": "top7,  discuss",
-      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2h0f"
-    },
-    {
       "title": "Natural Languages Have Design Trade-offs Too: Georgian Is Dynamically Typed, English Is Statically Typed",
       "hot": "❤️ 141 💬 66",
       "desc": "Table of Contents    How This Started  Feature #1: Articles (or the Lack of Them)   The...",
       "source": "dev",
       "tag": "programming,  writing",
       "url": "https://dev.to/georgekobaidze/natural-languages-have-design-trade-offs-too-georgian-is-dynamically-typed-english-is-statically-emi"
-    },
-    {
-      "title": "Beyond Passive AI Rewrites and Vibe Coding in Google Docs",
-      "hot": "❤️ 7 💬 0",
-      "desc": "Scaling a Multimodal AI Writing and Code Review Coach Across Classrooms and Research Labs...",
-      "source": "dev",
-      "tag": "ai,  gemini",
-      "url": "https://dev.to/gde/beyond-passive-ai-rewrites-and-vibe-coding-in-google-docs-3db6"
     },
     {
       "title": "Building ora-tui with Google Antigravity & Gemini 4 Argon: An MS-DOS Retro TUI & OpenTelemetry Exporter for Oracle RAC, DB & SAN Multipath",
@@ -135,31 +159,7 @@
       "source": "dev",
       "tag": "ai,  cloud",
       "url": "https://dev.to/gde/agent-platform-in-action-6-towards-production-grade-ai-agent-ops-building-full-stack-38aa"
-    },
-    {
-      "title": "DuckLess: serverless DuckDB on Google Cloud, in your own project",
-      "hot": "❤️ 11 💬 1",
-      "desc": "Serverless DuckDB on Google Cloud, in your own project. Files on GCS, tables in BigQuery (read and write), what I measur",
-      "source": "dev",
-      "tag": "duckdb,  googlecloud",
-      "url": "https://dev.to/gde/duckless-serverless-duckdb-on-google-cloud-in-your-own-project-4o5a"
-    },
-    {
-      "title": "GPT-6 Is Coming to Google Cloud. Is Your AI Bill Ready?",
-      "hot": "❤️ 10 💬 1",
-      "desc": "Picture this.  It's a few weeks from now. GPT-6 goes GA on Google Cloud. Five teams in your company...",
-      "source": "dev",
-      "tag": "googlecloud,  ai",
-      "url": "https://dev.to/gde/gpt-6-is-coming-to-google-cloud-is-your-ai-bill-ready-j7l"
-    },
-    {
-      "title": "Autonomous agent loops with Gemini 4 Argon and GKE Agent Sandbox: Running untrusted code safely at scale",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Run untrusted LLM-generated Python and Bash code safely at scale using Gemini 4 Argon and GKE Agent Sandbox with gVisor ",
-      "source": "dev",
-      "tag": "kubernetes,  ai",
-      "url": "https://dev.to/googlecloud/autonomous-agent-loops-with-gemini-4-argon-and-gke-agent-sandbox-running-untrusted-code-safely-at-2k60"
     }
   ],
-  "updatedAt": "2026-10-30T10:15:06.524Z"
+  "updatedAt": "2026-10-30T16:44:17.003Z"
 }

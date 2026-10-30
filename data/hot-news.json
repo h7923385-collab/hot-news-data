@@ -1,22 +1,54 @@
 {
-  "updatedAt": "2026-10-30T10:15:06.524Z",
+  "updatedAt": "2026-10-30T16:44:17.003Z",
   "source": "live",
   "dev": [
     {
       "title": "Your DEV posts have a beautiful new share card ✨",
-      "hot": "❤️ 137 💬 30",
+      "hot": "❤️ 144 💬 31",
       "desc": "The image that shows up when you share a DEV post just got a brand-new look!  I got to work on...",
       "source": "dev",
       "tag": "devto,  showdev",
       "url": "https://dev.to/devteam/your-dev-posts-have-a-beautiful-new-share-card-4be8"
     },
     {
-      "title": "Welcome Thread - v399",
-      "hot": "❤️ 40 💬 223",
-      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
+      "title": "What was your win this week?",
+      "hot": "❤️ 14 💬 8",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
-      "tag": "welcome",
-      "url": "https://dev.to/sloan/welcome-thread-v400-fho"
+      "tag": "weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-47ci"
+    },
+    {
+      "title": "Is Tech Actually Welcoming to Beginners, or Do We Just Say It Is?",
+      "hot": "❤️ 40 💬 20",
+      "desc": "We hear it all the time in tech.  Everyone starts somewhere. There are no stupid questions. Don't be...",
+      "source": "dev",
+      "tag": "discuss,  beginners",
+      "url": "https://dev.to/sizzlebop/is-tech-actually-welcoming-to-beginners-or-do-we-just-say-it-is-3d6p"
+    },
+    {
+      "title": "Giving AI Pain: The Architecture of Synthetic Scars & The Rapid-Regret Miner",
+      "hot": "❤️ 12 💬 8",
+      "desc": "Why 90% of AI coding frustration comes from the Quota vs. Prompt-Compliance Death Loop, why Rich Sutton's Bitter Lesson ",
+      "source": "dev",
+      "tag": "ai,  programming",
+      "url": "https://dev.to/gde/giving-ai-pain-the-architecture-of-synthetic-scars-the-rapid-regret-miner-1740"
+    },
+    {
+      "title": "Four GPUs, One Quantization Ladder: Gemma 4 E2B From a 4 GB Laptop to an NVIDIA L4",
+      "hot": "❤️ 10 💬 1",
+      "desc": "Gemma 4 E2B from BF16 to Q2_K on a Tesla T4, an NVIDIA L4, a GTX 1650 laptop and an RTX 3050 desktop, with byte-identica",
+      "source": "dev",
+      "tag": "gemma,  llamacpp",
+      "url": "https://dev.to/gde/four-gpus-one-quantization-ladder-gemma-4-e2b-from-a-4-gb-laptop-to-an-nvidia-l4-4olp"
+    },
+    {
+      "title": "Build a production-style Autonomous SRE Command Center using Gemini 4 Argon",
+      "hot": "❤️ 12 💬 1",
+      "desc": "When a production Kubernetes cluster starts throwing 5xx errors , the hardest part of incident...",
+      "source": "dev",
+      "tag": "sre,  kubernetes",
+      "url": "https://dev.to/gde/build-a-production-style-autonomous-sre-command-center-using-gemini-4-argon-759"
     },
     {
       "title": "Welcome to the Prompt Pad: AI Tips & Tricks with Rosendo Pili",
@@ -35,6 +67,14 @@
       "url": "https://dev.to/gde/size-your-model-to-where-you-run-it-gemma-4-e2b-and-e4b-on-an-aws-l4-and-two-small-gpus-1d47"
     },
     {
+      "title": "Zero Trust CI/CD: Keyless Bitbucket Deployment on Google Cloud",
+      "hot": "❤️ 7 💬 1",
+      "desc": "Using static Service Account (SA) keys in CI/CD pipelines has long been a common method for...",
+      "source": "dev",
+      "tag": "devops,  cicd",
+      "url": "https://dev.to/gde/zero-trust-cicd-keyless-bitbucket-deployment-on-google-cloud-1ka1"
+    },
+    {
       "title": "Gemini 4 Carbon Is #1 on AA Index — Still Fairwind-Only: Cyber Benches, $2/$10 $4/$20, and What to Do Before the API",
       "hot": "❤️ 4 💬 3",
       "desc": "Google DeepMind’s Gemini 4 Carbon (Oct 28) claims AA Index v5.0 #1 at 59 and SOTA cyber benches — still Fairwind/cyber-d",
@@ -44,7 +84,7 @@
     },
     {
       "title": "AI Dev Weekly #32: GPT-6.1 Terra, Gemini Carbon, Kimi K3.1 and Copilot Fusion",
-      "hot": "❤️ 7 💬 0",
+      "hot": "❤️ 12 💬 1",
       "desc": "Week of Oct 23-29: GPT-6.1 Terra, restricted Gemini Carbon access, Kimi K3.1 Pro, Copilot Fusion and GitHub's agentic wo",
       "source": "dev",
       "tag": "aidevweekly,  gpt61terra",
@@ -67,16 +107,16 @@
       "url": "https://dev.to/gde/inference-on-google-cloud-precision-memory-and-capacity-on-tpu-from-v5e-to-ironwood-5dlf"
     },
     {
-      "title": "Accuracy vs Speed: Gemma 4 E2B Quantization Tradeoffs, BF16 to Q2_K",
-      "hot": "❤️ 10 💬 4",
-      "desc": "Gemma 4 E2B quantized from BF16 to Q2_K on one Tesla T4, every rung asked the same 250 GSM8K questions, and each answer ",
+      "title": "Welcome Thread - v399",
+      "hot": "❤️ 44 💬 244",
+      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
-      "tag": "devchallenge,  hf26challenge",
-      "url": "https://dev.to/gde/accuracy-vs-speed-gemma-4-e2b-quantization-tradeoffs-bf16-to-q2k-aea"
+      "tag": "welcome",
+      "url": "https://dev.to/sloan/welcome-thread-v400-fho"
     },
     {
       "title": "Don't Be a Proxy Between Me and Your AI",
-      "hot": "❤️ 148 💬 132",
+      "hot": "❤️ 149 💬 132",
       "desc": "I've had this conversation more times than I'd like to admit.  I raise a technical question in a...",
       "source": "dev",
       "tag": "ai,  discuss",
@@ -99,28 +139,12 @@
       "url": "https://dev.to/auth0/your-laptop-might-replace-most-of-your-ai-bill-4o1f"
     },
     {
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 56 💬 25",
-      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
-      "source": "dev",
-      "tag": "top7,  discuss",
-      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2h0f"
-    },
-    {
       "title": "Natural Languages Have Design Trade-offs Too: Georgian Is Dynamically Typed, English Is Statically Typed",
       "hot": "❤️ 141 💬 66",
       "desc": "Table of Contents    How This Started  Feature #1: Articles (or the Lack of Them)   The...",
       "source": "dev",
       "tag": "programming,  writing",
       "url": "https://dev.to/georgekobaidze/natural-languages-have-design-trade-offs-too-georgian-is-dynamically-typed-english-is-statically-emi"
-    },
-    {
-      "title": "Beyond Passive AI Rewrites and Vibe Coding in Google Docs",
-      "hot": "❤️ 7 💬 0",
-      "desc": "Scaling a Multimodal AI Writing and Code Review Coach Across Classrooms and Research Labs...",
-      "source": "dev",
-      "tag": "ai,  gemini",
-      "url": "https://dev.to/gde/beyond-passive-ai-rewrites-and-vibe-coding-in-google-docs-3db6"
     },
     {
       "title": "Building ora-tui with Google Antigravity & Gemini 4 Argon: An MS-DOS Retro TUI & OpenTelemetry Exporter for Oracle RAC, DB & SAN Multipath",
@@ -137,33 +161,73 @@
       "source": "dev",
       "tag": "ai,  cloud",
       "url": "https://dev.to/gde/agent-platform-in-action-6-towards-production-grade-ai-agent-ops-building-full-stack-38aa"
-    },
-    {
-      "title": "DuckLess: serverless DuckDB on Google Cloud, in your own project",
-      "hot": "❤️ 11 💬 1",
-      "desc": "Serverless DuckDB on Google Cloud, in your own project. Files on GCS, tables in BigQuery (read and write), what I measur",
-      "source": "dev",
-      "tag": "duckdb,  googlecloud",
-      "url": "https://dev.to/gde/duckless-serverless-duckdb-on-google-cloud-in-your-own-project-4o5a"
-    },
-    {
-      "title": "GPT-6 Is Coming to Google Cloud. Is Your AI Bill Ready?",
-      "hot": "❤️ 10 💬 1",
-      "desc": "Picture this.  It's a few weeks from now. GPT-6 goes GA on Google Cloud. Five teams in your company...",
-      "source": "dev",
-      "tag": "googlecloud,  ai",
-      "url": "https://dev.to/gde/gpt-6-is-coming-to-google-cloud-is-your-ai-bill-ready-j7l"
-    },
-    {
-      "title": "Autonomous agent loops with Gemini 4 Argon and GKE Agent Sandbox: Running untrusted code safely at scale",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Run untrusted LLM-generated Python and Bash code safely at scale using Gemini 4 Argon and GKE Agent Sandbox with gVisor ",
-      "source": "dev",
-      "tag": "kubernetes,  ai",
-      "url": "https://dev.to/googlecloud/autonomous-agent-loops-with-gemini-4-argon-and-gke-agent-sandbox-running-untrusted-code-safely-at-2k60"
     }
   ],
   "space": [
+    {
+      "title": "Analysts find looming launch crisis is \"more severe\" than anticipated",
+      "hot": "10/30",
+      "desc": "There's no evidence that Starship will launch traditional satellites, either.",
+      "source": "space",
+      "tag": "Arstechnica",
+      "url": "https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated/"
+    },
+    {
+      "title": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
+      "hot": "10/30",
+      "desc": "Intricate structures within the Cat’s Head Nebula are illuminated in this mid-infrared view from NASA’s James Webb Space Telescope released on Oct. 29",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/"
+    },
+    {
+      "title": "Turkey aims for first Moon-orbiting mission in 2027",
+      "hot": "10/30",
+      "desc": "This is the first of a pair of Turkish flights to the Moon. The first will be an orbiter with several scientific instruments and the second will be a ",
+      "source": "space",
+      "tag": "Spaceflight Now",
+      "url": "https://spaceflightnow.com/2026/10/30/turkey-aims-for-first-moon-orbiting-mission-in-2027/"
+    },
+    {
+      "title": "What happened this month at the European Space Agency? (October 2026)",
+      "hot": "10/30",
+      "desc": "October was a month of discoveries and milestones. ESA’s Rosalind Franklin rover team trained in Spain’s desert, preparing for Mars. Our Smile mission",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/What_happened_this_month_at_the_European_Space_Agency_October_2026"
+    },
+    {
+      "title": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
+      "hot": "10/30",
+      "desc": "NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space Te",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/"
+    },
+    {
+      "title": "Week in images: 26-30 October 2026",
+      "hot": "10/30",
+      "desc": "Week in images: 26-30 October 2026",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_26-30_October_2026"
+    },
+    {
+      "title": "Ground Qualification Testing Begins for Callisto Reusable Rocket Demonstrator",
+      "hot": "10/30",
+      "desc": "The French space agency CNES has announced the start of ground qualification testing for the Callisto reusable rocket demonstrator at the Guiana Space",
+      "source": "space",
+      "tag": "European Spaceflight",
+      "url": "https://europeanspaceflight.com/ground-qualification-testing-begins-for-callisto-reusable-rocket-demonstrator/"
+    },
+    {
+      "title": "November’s Night Sky Notes: Light-Day Away",
+      "hot": "10/30",
+      "desc": "Twin Travelers In 1977, NASA launched twin spacecraft Voyager 1 and 2, taking advantage of a once-every-175-year planetary alignment of the four large",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/"
+    },
     {
       "title": "Earth from Space: Champi’s eerie eye",
       "hot": "10/30",
@@ -219,238 +283,174 @@
       "source": "space",
       "tag": "Spaceflight Now",
       "url": "https://spaceflightnow.com/2026/10/29/spacewalking-astronauts-unfurl-upgraded-solar-array-to-boost-space-station-power/"
-    },
-    {
-      "title": "Halloween Aboard the International Space Station",
-      "hot": "10/29",
-      "desc": "Although no ghouls, goblins, or trick-or-treaters come knocking at the International Space Station’s front hatch, crew members aboard the orbiting lab",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station/"
-    },
-    {
-      "title": "Blue Origin attempts end of year return and eyes Artemis IV selection",
-      "hot": "10/29",
-      "desc": "With Blue Origin moving towards a potential return to flight by late 2026, NASA has…\nThe post Blue Origin attempts end of year return and eyes Artemis",
-      "source": "space",
-      "tag": "NASASpaceflight",
-      "url": "https://www.nasaspaceflight.com/2026/10/blue-origin-update-2/"
-    },
-    {
-      "title": "NASA-funded Study Details One of Oldest Mars Meteorites Ever Found",
-      "hot": "10/29",
-      "desc": "When a rose-colored meteorite was found in the Sahara Desert in 2022, no one knew how old it was or where it came from. Not until NASA-funded scientis",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/"
-    },
-    {
-      "title": "NASA Names Troy Asher Armstrong Flight Research Center Director",
-      "hot": "10/29",
-      "desc": "NASA Administrator Jared Isaacman has named Troy Asher director of the agency’s Armstrong Flight Research Center in Edwards, California. Asher, a vete",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/news-release/nasa-names-troy-asher-armstrong-flight-research-center-director/"
-    },
-    {
-      "title": "NIH–NASA QuSAFE Challenge",
-      "hot": "10/29",
-      "desc": "The Quantum-Enabled Predictive Preclinical NAMs for Toxicity and Safety (QuSAFE) Challenge, a collaboration between the National Institutes of Health ",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nih-nasa-qusafe-challenge/"
-    },
-    {
-      "title": "Envía tu nombre a Titán a bordo de la misión Dragonfly de la NASA",
-      "hot": "10/29",
-      "desc": "Read this release in English here. Puede que nunca llegues a surcar los cielos bajo las nubes o sobre las arenas orgánicas de la luna Titán de Saturno",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/news-release/envia-tu-nombre-a-titan-a-bordo-de-la-mision-dragonfly-de-la-nasa/"
-    },
-    {
-      "title": "Send Your Name to Titan Aboard NASA’s Dragonfly Mission",
-      "hot": "10/29",
-      "desc": "You may never soar under the clouds or over the organic sands of Saturn’s moon Titan, but your name can. NASA is inviting the public to send their nam",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/news-release/send-your-name-to-titan-aboard-nasas-dragonfly-mission/"
-    },
-    {
-      "title": "NASA’s ISAM State of Play: The Industry Standard for Space Servicing, Assembly, and Manufacturing",
-      "hot": "10/29",
-      "desc": "When companies began approaching NASA’s Langley Research Center, asking to be included in the In-Space Servicing, Assembly, and Manufacturing (ISAM) S",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/humans-in-space/commercial-space/nasas-isam-state-of-play-the-industry-standard-for-space-servicing-assembly-and-manufacturing/"
     }
   ],
   "tech": [
     {
-      "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+      "title": "AI Isn't Replacing SREs. It's Deskilling Them",
       "hot": "3.0m",
+      "desc": "newsletter.signoz.io",
+      "source": "tech",
+      "tag": "⬆️ 102 points",
+      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling"
+    },
+    {
+      "title": "Northflank Breached",
+      "hot": "3.0m",
+      "desc": "status.northflank.com",
+      "source": "tech",
+      "tag": "⬆️ 75 points",
+      "url": "https://status.northflank.com"
+    },
+    {
+      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "hot": "3.0m",
+      "desc": "phorion.io",
+      "source": "tech",
+      "tag": "⬆️ 349 points",
+      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/"
+    },
+    {
+      "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
+      "hot": "3.0m",
+      "desc": "binarysecurity.no",
+      "source": "tech",
+      "tag": "⬆️ 177 points",
+      "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case"
+    },
+    {
+      "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
+      "hot": "2.9m",
+      "desc": "progressives.house.gov",
+      "source": "tech",
+      "tag": "⬆️ 487 points",
+      "url": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead"
+    },
+    {
+      "title": "The Federated Code Forge",
+      "hot": "2.9m",
+      "desc": "tangled.org",
+      "source": "tech",
+      "tag": "⬆️ 24 points",
+      "url": "https://tangled.org/blog/forge/"
+    },
+    {
+      "title": "Medicare Will Pay $50k for Your Heart Attack. It Should Pay $100 to Prevent It",
+      "hot": "2.9m",
+      "desc": "medpagetoday.com",
+      "source": "tech",
+      "tag": "⬆️ 140 points",
+      "url": "https://www.medpagetoday.com/opinion/second-opinions/123553?trw=no"
+    },
+    {
+      "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+      "hot": "2.9m",
       "desc": "arkm.com",
       "source": "tech",
-      "tag": "⬆️ 1367 points",
+      "tag": "⬆️ 1677 points",
       "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8"
     },
     {
-      "title": "We're releasing the weights of Mistral Large 4",
-      "hot": "3.0m",
-      "desc": "mistral.ai",
+      "title": "I didn't know I was lacking in Vitamin D until I collapsed at work",
+      "hot": "2.9m",
+      "desc": "bbc.com",
       "source": "tech",
-      "tag": "⬆️ 1483 points",
-      "url": "https://mistral.ai/news/mistral-large-4-oss/"
+      "tag": "⬆️ 49 points",
+      "url": "https://www.bbc.com/news/articles/cm78pxxe55v0o"
+    },
+    {
+      "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
+      "hot": "2.9m",
+      "desc": "npr.org",
+      "source": "tech",
+      "tag": "⬆️ 28 points",
+      "url": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance"
+    },
+    {
+      "title": "The $6.3B Binance Hack Was Pulled Off in Just 20 Minutes",
+      "hot": "2.9m",
+      "desc": "wired.com",
+      "source": "tech",
+      "tag": "⬆️ 175 points",
+      "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/"
+    },
+    {
+      "title": "Polymarket 1h halt after vendor compromise; affected users will be 'made whole'",
+      "hot": "2.8m",
+      "desc": "nbcnews.com",
+      "source": "tech",
+      "tag": "⬆️ 27 points",
+      "url": "https://www.nbcnews.com/business/consumer/polymarket-trading-halt-hack-wallets-rcna606405"
+    },
+    {
+      "title": "Finding Panics with Call Graph Analyzer",
+      "hot": "2.8m",
+      "desc": "tweedegolf.nl",
+      "source": "tech",
+      "tag": "⬆️ 49 points",
+      "url": "https://tweedegolf.nl/en/blog/242/finding-panics-with-call-graph-analyzer/"
+    },
+    {
+      "title": "Geist Serif",
+      "hot": "2.8m",
+      "desc": "vercel.com",
+      "source": "tech",
+      "tag": "⬆️ 24 points",
+      "url": "https://vercel.com/blog/introducing-geist-serif"
+    },
+    {
+      "title": "Pell Puzzles Review",
+      "hot": "2.8m",
+      "desc": "dles.gg",
+      "source": "tech",
+      "tag": "⬆️ 5 points",
+      "url": "https://dles.gg/reviews/pell-puzzles"
     },
     {
       "title": "Gilgamesh by Simon Armitage review – an ancient epic is brilliantly translated",
-      "hot": "3.0m",
+      "hot": "2.8m",
       "desc": "theguardian.com",
       "source": "tech",
-      "tag": "⬆️ 34 points",
+      "tag": "⬆️ 139 points",
       "url": "https://www.theguardian.com/books/2026/oct/20/gilgamesh-by-simon-armitage-review-an-ancient-epic-is-brilliantly-translated-for-our-times"
     },
     {
-      "title": "How Do You Take a Picture of a Black Hole?",
-      "hot": "3.0m",
-      "desc": "quantamagazine.org",
-      "source": "tech",
-      "tag": "⬆️ 4 points",
-      "url": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/"
-    },
-    {
-      "title": "Cuis: The Modern Smalltalk-80",
-      "hot": "2.9m",
-      "desc": "cuis.st",
-      "source": "tech",
-      "tag": "⬆️ 121 points",
-      "url": "https://cuis.st/"
-    },
-    {
-      "title": "Herdr has released native app",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 208 points",
-      "url": "https://github.com/herdrdev/herdr-app"
-    },
-    {
-      "title": "I'm so bad at billiards that I ended up in the hyperbolic plane [video]",
-      "hot": "2.9m",
-      "desc": "youtube.com",
-      "source": "tech",
-      "tag": "⬆️ 131 points",
-      "url": "https://www.youtube.com/watch?v=kL9BTbIGxLg"
-    },
-    {
-      "title": "Astroterm: A Planetarium for Your Terminal",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 143 points",
-      "url": "https://github.com/da-luce/astroterm"
-    },
-    {
-      "title": "We ran AI agent swarms in Minecraft and Mindustry",
-      "hot": "2.9m",
-      "desc": "labs.ycombinator.com",
-      "source": "tech",
-      "tag": "⬆️ 293 points",
-      "url": "https://labs.ycombinator.com/projects/games/index.html"
-    },
-    {
-      "title": "'Elite North Korean hackers' blamed for $6.3B Binance hack",
-      "hot": "2.9m",
-      "desc": "theguardian.com",
-      "source": "tech",
-      "tag": "⬆️ 50 points",
-      "url": "https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates"
-    },
-    {
-      "title": "Wasmer (YC S19) Is Hiring OS/Hypervisor Experts in Europe",
-      "hot": "2.9m",
-      "desc": "workatastartup.com",
-      "source": "tech",
-      "tag": "⬆️ 1 points",
-      "url": "https://www.workatastartup.com/jobs/98722"
-    },
-    {
-      "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
-      "hot": "2.8m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 213 points",
-      "url": "https://github.com/SheepSeb/tinyworldformer"
-    },
-    {
-      "title": "H.264 Is Magic (2016)",
-      "hot": "2.8m",
-      "desc": "sidbala.com",
-      "source": "tech",
-      "tag": "⬆️ 438 points",
-      "url": "https://sidbala.com/h-264-is-magic/"
-    },
-    {
-      "title": "Show HN: I Turned DOOM into a Transformer",
-      "hot": "2.8m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 93 points",
-      "url": "https://github.com/mottopanikeiku/doomformer"
-    },
-    {
-      "title": "LLM Voice",
-      "hot": "2.8m",
-      "desc": "martinfowler.com",
-      "source": "tech",
-      "tag": "⬆️ 481 points",
-      "url": "https://martinfowler.com/bliki/LLM-Voice.html"
-    },
-    {
-      "title": "Artificial Analysis v5 and the benchmarker's dilemma",
-      "hot": "2.8m",
-      "desc": "interconnects.ai",
-      "source": "tech",
-      "tag": "⬆️ 14 points",
-      "url": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers"
-    },
-    {
-      "title": "Python on My Wrist",
-      "hot": "2.8m",
-      "desc": "tildeweb.nl",
-      "source": "tech",
-      "tag": "⬆️ 46 points",
-      "url": "https://tildeweb.nl/~michiel/python-on-my-wrist.html"
-    },
-    {
       "title": "Why a program doesn't work when run from a batch file, but works when clicked",
-      "hot": "2.7m",
+      "hot": "2.8m",
       "desc": "devblogs.microsoft.com",
       "source": "tech",
-      "tag": "⬆️ 23 points",
+      "tag": "⬆️ 86 points",
       "url": "https://devblogs.microsoft.com/oldnewthing/20261026-00/?p=112797/"
     },
     {
-      "title": "Pico CSS is no longer maintained",
+      "title": "Show HN: I built a multiplayer game where you're an aerial fighter cat",
+      "hot": "2.7m",
+      "desc": "catcopter.com",
+      "source": "tech",
+      "tag": "⬆️ 10 points",
+      "url": "https://catcopter.com"
+    },
+    {
+      "title": "Herdr has released native app",
       "hot": "2.7m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 143 points",
-      "url": "https://github.com/picocss/pico/discussions/754"
+      "tag": "⬆️ 313 points",
+      "url": "https://github.com/herdrdev/herdr-app"
     },
     {
-      "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
+      "title": "Compile-Time Dependent Types",
       "hot": "2.7m",
-      "desc": "news.ycombinator.com",
+      "desc": "thenumb.at",
       "source": "tech",
-      "tag": "⬆️ 69 points",
-      "url": "https://news.ycombinator.com/item?id=50291116"
+      "tag": "⬆️ 16 points",
+      "url": "https://thenumb.at/Syl-Intro/"
     }
   ],
   "github": [
     {
       "title": "unclebob/ub-mode: ",
-      "hot": "⭐ 5.1k",
+      "hot": "⭐ 5.3k",
       "desc": "unclebob/ub-mode",
       "source": "github",
       "tag": "GitHub",
@@ -458,7 +458,7 @@
     },
     {
       "title": "rddmwmddr/android-ad-cleaner: 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键",
-      "hot": "⭐ 4.9k",
+      "hot": "⭐ 5.0k",
       "desc": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
       "source": "github",
       "tag": "Python",
@@ -473,20 +473,20 @@
       "url": "https://github.com/JustAResearcher/gpu-unlock-ada"
     },
     {
-      "title": "interplains/Zero-Breach-Toolkit: Free, open-source, offline checks for traces of",
-      "hot": "⭐ 3.7k",
-      "desc": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/interplains/Zero-Breach-Toolkit"
-    },
-    {
       "title": "anhao/ai-pose-gallery-zh: 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-      "hot": "⭐ 3.6k",
+      "hot": "⭐ 3.9k",
       "desc": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
       "source": "github",
       "tag": "HTML",
       "url": "https://github.com/anhao/ai-pose-gallery-zh"
+    },
+    {
+      "title": "interplains/Zero-Breach-Toolkit: Free, open-source, offline checks for traces of",
+      "hot": "⭐ 3.8k",
+      "desc": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/interplains/Zero-Breach-Toolkit"
     },
     {
       "title": "designfuchen/word-atlas: 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,2",
@@ -498,11 +498,19 @@
     },
     {
       "title": "t3dotgg/tstack: The agent skills I use every day. Works with Claude Code and Cod",
-      "hot": "⭐ 2.4k",
+      "hot": "⭐ 2.5k",
       "desc": "The agent skills I use every day. Works with Claude Code and Codex.",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/t3dotgg/tstack"
+    },
+    {
+      "title": "ccch1mneyyy/dsh-Go: dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+      "hot": "⭐ 2.2k",
+      "desc": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+      "source": "github",
+      "tag": "Dart",
+      "url": "https://github.com/ccch1mneyyy/dsh-Go"
     },
     {
       "title": "enesozturk/dimensional-drawing: Create Apple style dimensional drawings of UI co",
@@ -522,19 +530,11 @@
     },
     {
       "title": "morganlinton/BeautifulRust: Agent Skills that teach coding agents to write, revi",
-      "hot": "⭐ 1.4k",
+      "hot": "⭐ 1.5k",
       "desc": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, ",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/morganlinton/BeautifulRust"
-    },
-    {
-      "title": "ccch1mneyyy/dsh-Go: dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
-      "hot": "⭐ 1.4k",
-      "desc": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
-      "source": "github",
-      "tag": "Dart",
-      "url": "https://github.com/ccch1mneyyy/dsh-Go"
     },
     {
       "title": "DenisSergeevitch/ex-ussr-kinship-research: Evidence-first genealogy skill for AI",
@@ -546,23 +546,23 @@
     },
     {
       "title": "qybaihe/bla: 🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protec",
-      "hot": "⭐ 1.1k",
+      "hot": "⭐ 1.3k",
       "desc": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/qybaihe/bla"
     },
     {
-      "title": "Motionsites-AI/claude-skill: Free Claude skill: make Claude build award-level, c",
-      "hot": "⭐ 1.1k",
-      "desc": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
+      "title": "valentderah/totk-pc-recomp: Static recompilation of The Legend of Zelda: Tears o",
+      "hot": "⭐ 1.2k",
+      "desc": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.",
       "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/Motionsites-AI/claude-skill"
+      "tag": "C",
+      "url": "https://github.com/valentderah/totk-pc-recomp"
     },
     {
       "title": "aschmelyun/print-my-profile-pic: Say cheese! Star this repo and your profile pic",
-      "hot": "⭐ 1.1k",
+      "hot": "⭐ 1.2k",
       "desc": "Say cheese! Star this repo and your profile picture gets printed out on a receipt printer.",
       "source": "github",
       "tag": "GitHub",
