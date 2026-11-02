@@ -1,8 +1,32 @@
 {
   "data": [
     {
+      "title": "Gemma 4 in Rust on TorchTPU: Hands On With Colab",
+      "hot": "❤️ 7 💬 0",
+      "desc": "A Rust crate reads the checkpoint, runs all 35 layers of Gemma 4 E2B and drives the decode loop on one TPU v5e chip in C",
+      "source": "dev",
+      "tag": "rust,  pytorch",
+      "url": "https://dev.to/gde/gemma-4-in-rust-on-torchtpu-hands-on-with-colab-44hi"
+    },
+    {
+      "title": "Securing an Angular Firebase AI App with Email/Password Authentication (Part 1: Emulator, AuthService, and Route Guard) [GDE]",
+      "hot": "❤️ 7 💬 2",
+      "desc": "Anyone with the public URL can use my tokens to perform image analysis and text-to-speech, which can...",
+      "source": "dev",
+      "tag": "angular,  firebase",
+      "url": "https://dev.to/gde/securing-an-angular-firebase-ai-app-with-emailpassword-authentication-part-1-emulator-4jm"
+    },
+    {
+      "title": "Prompt Pad: Frame Your Persona for Better AI Answers",
+      "hot": "❤️ 5 💬 0",
+      "desc": "Want better answers from AI? Start by telling it who to be.  In this episode of Prompt Pad,...",
+      "source": "dev",
+      "tag": "ai,  promptengineering",
+      "url": "https://blog.mlh.com/prompt-pad-frame-your-persona-for-better-ai-answers-eg3"
+    },
+    {
       "title": "What was your win this week?",
-      "hot": "❤️ 28 💬 28",
+      "hot": "❤️ 29 💬 31",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "weeklyretro",
@@ -10,7 +34,7 @@
     },
     {
       "title": "Giving AI Pain: The Architecture of Synthetic Scars & The Rapid-Regret Miner",
-      "hot": "❤️ 18 💬 33",
+      "hot": "❤️ 19 💬 33",
       "desc": "Why 90% of AI coding frustration comes from the Quota vs. Prompt-Compliance Death Loop, why Rich Sutton's Bitter Lesson ",
       "source": "dev",
       "tag": "ai,  programming",
@@ -18,11 +42,19 @@
     },
     {
       "title": "Singularity News :: CCG",
-      "hot": "❤️ 41 💬 12",
+      "hot": "❤️ 42 💬 12",
       "desc": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine    ...",
       "source": "dev",
       "tag": "devchallenge,  hf26challenge",
       "url": "https://dev.to/pengeszikra/singularity-news-ccg-5ejk"
+    },
+    {
+      "title": "All That Glisters Is Softmax: Shiny-Object Interns, Airplane-Magazine Execs, and Why AI Labs Can Only Bake In Half the Scars",
+      "hot": "❤️ 14 💬 12",
+      "desc": "Why do an eager intern with a Hacker News blog post, a C-level executive stepping off an airplane with an in-flight maga",
+      "source": "dev",
+      "tag": "ai,  programming",
+      "url": "https://dev.to/gde/all-that-glisters-is-softmax-shiny-object-interns-airplane-magazine-execs-and-why-ai-labs-can-18af"
     },
     {
       "title": "Your DEV posts have a beautiful new share card ✨",
@@ -33,20 +65,44 @@
       "url": "https://dev.to/devteam/your-dev-posts-have-a-beautiful-new-share-card-4be8"
     },
     {
-      "title": "Zero Trust CI/CD: Keyless Bitbucket Deployment on Google Cloud",
-      "hot": "❤️ 7 💬 1",
-      "desc": "Using static Service Account (SA) keys in CI/CD pipelines has long been a common method for...",
+      "title": "RackDoc DCIM v1.1: Background Multi-Protocol Heartbeat, 48-Port CAD Geometry, NOC Kiosk Mode & Decoupled Remote Connect",
+      "hot": "❤️ 7 💬 0",
+      "desc": "A deep dive into everything new in RackDoc DCIM v1.1: a 4-state background Heartbeat engine (Grey/Green/Orange/Red), ind",
       "source": "dev",
-      "tag": "devops,  cicd",
-      "url": "https://dev.to/gde/zero-trust-cicd-keyless-bitbucket-deployment-on-google-cloud-1ka1"
+      "tag": "dcim,  flutter",
+      "url": "https://dev.to/gde/rackdoc-dcim-v11-background-multi-protocol-heartbeat-48-port-cad-geometry-noc-kiosk-mode--2j7k"
     },
     {
-      "title": "Gemini 4 Carbon Is #1 on AA Index — Still Fairwind-Only: Cyber Benches, $2/$10 $4/$20, and What to Do Before the API",
-      "hot": "❤️ 4 💬 3",
-      "desc": "Google DeepMind’s Gemini 4 Carbon (Oct 28) claims AA Index v5.0 #1 at 59 and SOTA cyber benches — still Fairwind/cyber-d",
+      "title": "[Agent Platform in Action (7)] When ADK Go Graph Workflow Meets Google Research Harness (Part 1): Two-Layer Recursive Agent Fram",
+      "hot": "❤️ 7 💬 0",
+      "desc": "Foreword: After the AI Agent Goes Online, What is the Next Bottleneck?   Welcome back to...",
       "source": "dev",
-      "tag": "ai,  llm",
-      "url": "https://dev.to/yong_yu_f98e15562e9b120a0/gemini-4-carbon-is-1-on-aa-index-still-fairwind-only-cyber-benches-210-420-and-what-to-b66"
+      "tag": "agents,  ai",
+      "url": "https://dev.to/gde/agent-platform-in-action-7-when-adk-go-graph-workflow-meets-google-research-harness-part-1-28c1"
+    },
+    {
+      "title": "Profile Sprawl: Solving a Problem You Didn't Know You Had",
+      "hot": "❤️ 9 💬 0",
+      "desc": "Every public profile you own says something slightly different about you. A step by step guide to treating your bio as s",
+      "source": "dev",
+      "tag": "ai,  devtools",
+      "url": "https://dev.to/gde/profile-sprawl-solving-a-problem-you-didnt-know-you-had-19k5"
+    },
+    {
+      "title": "From `main.js` Leaks to Hidden Tailwind CSS v4 Bloat — How I Built `angular-bundle-guard` with Antigravity `/learn` [GDE]",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Day 33: From main.js Leaks to Hidden Tailwind CSS v4 Bloat — How I Built...",
+      "source": "dev",
+      "tag": "angular,  antigravity",
+      "url": "https://dev.to/gde/from-mainjs-leaks-to-hidden-tailwind-css-v4-bloat-how-i-built-angular-bundle-guard-with-geg"
+    },
+    {
+      "title": "Agent Skills Drift: A Feedback Loop for Keeping One True",
+      "hot": "❤️ 16 💬 5",
+      "desc": "An agent skill goes stale in six separate ways while its checks stay green. A step by step guide to measuring that drift",
+      "source": "dev",
+      "tag": "ai,  devtools",
+      "url": "https://dev.to/gde/agent-skills-drift-a-feedback-loop-for-keeping-one-true-2il7"
     },
     {
       "title": "Is Tech Actually Welcoming to Beginners, or Do We Just Say It Is?",
@@ -55,6 +111,14 @@
       "source": "dev",
       "tag": "discuss,  beginners",
       "url": "https://dev.to/sizzlebop/is-tech-actually-welcoming-to-beginners-or-do-we-just-say-it-is-3d6p"
+    },
+    {
+      "title": "Your Agent Changed Last Night and Nobody Deployed Anything: Skill Drift on Google Cloud Skill Registry",
+      "hot": "❤️ 8 💬 0",
+      "desc": "The incident that never shows up in your deploy log   Here is a scenario that's easy to...",
+      "source": "dev",
+      "tag": "googlecloud,  ai",
+      "url": "https://dev.to/gde/your-agent-changed-last-night-and-nobody-deployed-anything-skill-drift-on-google-cloud-skill-1mig"
     },
     {
       "title": "Don't Be a Proxy Between Me and Your AI",
@@ -71,14 +135,6 @@
       "source": "dev",
       "tag": "community,  discuss",
       "url": "https://dev.to/georgekobaidze/promise-delivered-welcome-to-the-dev-hall-of-fame-65-authors-65-masterpieces-15fa"
-    },
-    {
-      "title": "AI Dev Weekly #32: GPT-6.1 Terra, Gemini Carbon, Kimi K3.1 and Copilot Fusion",
-      "hot": "❤️ 13 💬 1",
-      "desc": "Week of Oct 23-29: GPT-6.1 Terra, restricted Gemini Carbon access, Kimi K3.1 Pro, Copilot Fusion and GitHub's agentic wo",
-      "source": "dev",
-      "tag": "aidevweekly,  gpt61terra",
-      "url": "https://dev.to/ai_made_tools/ai-dev-weekly-32-gpt-61-terra-gemini-carbon-kimi-k31-and-copilot-fusion-3mpi"
     },
     {
       "title": "Natural Languages Have Design Trade-offs Too: Georgian Is Dynamically Typed, English Is Statically Typed",
@@ -103,63 +159,7 @@
       "source": "dev",
       "tag": "ai,  cloud",
       "url": "https://dev.to/gde/agent-platform-in-action-6-towards-production-grade-ai-agent-ops-building-full-stack-38aa"
-    },
-    {
-      "title": "Accuracy vs Speed: Gemma 4 E2B Quantization Tradeoffs, BF16 to Q2_K",
-      "hot": "❤️ 11 💬 6",
-      "desc": "Gemma 4 E2B quantized from BF16 to Q2_K on one Tesla T4, every rung asked the same 250 GSM8K questions, and each answer ",
-      "source": "dev",
-      "tag": "devchallenge,  hf26challenge",
-      "url": "https://dev.to/gde/accuracy-vs-speed-gemma-4-e2b-quantization-tradeoffs-bf16-to-q2k-aea"
-    },
-    {
-      "title": "DuckLess: serverless DuckDB on Google Cloud, in your own project",
-      "hot": "❤️ 11 💬 1",
-      "desc": "Serverless DuckDB on Google Cloud, in your own project. Files on GCS, tables in BigQuery (read and write), what I measur",
-      "source": "dev",
-      "tag": "duckdb,  googlecloud",
-      "url": "https://dev.to/gde/duckless-serverless-duckdb-on-google-cloud-in-your-own-project-4o5a"
-    },
-    {
-      "title": "GPT-6 Is Coming to Google Cloud. Is Your AI Bill Ready?",
-      "hot": "❤️ 10 💬 1",
-      "desc": "Picture this.  It's a few weeks from now. GPT-6 goes GA on Google Cloud. Five teams in your company...",
-      "source": "dev",
-      "tag": "googlecloud,  ai",
-      "url": "https://dev.to/gde/gpt-6-is-coming-to-google-cloud-is-your-ai-bill-ready-j7l"
-    },
-    {
-      "title": "Autonomous agent loops with Gemini 4 Argon and GKE Agent Sandbox: Running untrusted code safely at scale",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Run untrusted LLM-generated Python and Bash code safely at scale using Gemini 4 Argon and GKE Agent Sandbox with gVisor ",
-      "source": "dev",
-      "tag": "kubernetes,  ai",
-      "url": "https://dev.to/googlecloud/autonomous-agent-loops-with-gemini-4-argon-and-gke-agent-sandbox-running-untrusted-code-safely-at-2k60"
-    },
-    {
-      "title": "Welcome Thread - v399",
-      "hot": "❤️ 62 💬 400",
-      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
-      "source": "dev",
-      "tag": "welcome",
-      "url": "https://dev.to/sloan/welcome-thread-v400-fho"
-    },
-    {
-      "title": "Human-in-the-Loop Agents in Pure Dart: Genkit, MCP and an Approval Gate on Cloud Run",
-      "hot": "❤️ 14 💬 11",
-      "desc": "1. The problem: an agent that can spend money   Most agent demos stop at \"the model called a...",
-      "source": "dev",
-      "tag": "dart,  flutter",
-      "url": "https://dev.to/gde/human-in-the-loop-agents-in-pure-dart-genkit-mcp-and-an-approval-gate-on-cloud-run-4gmc"
-    },
-    {
-      "title": "Why bloc.add(...) Isn't What You Think: Synchronous Event Fast-Paths and 0ms Form Bindings",
-      "hot": "❤️ 21 💬 7",
-      "desc": "Why classic BLoC's StreamController forces an asynchronous microtask tax, how BlocSignal executes synchronous event hand",
-      "source": "dev",
-      "tag": "flutter,  dart",
-      "url": "https://dev.to/gde/why-blocadd-isnt-what-you-think-synchronous-event-fast-paths-and-0ms-form-bindings-6o"
     }
   ],
-  "updatedAt": "2026-11-02T12:00:45.106Z"
+  "updatedAt": "2026-11-02T21:49:05.154Z"
 }
