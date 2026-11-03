@@ -1,20 +1,28 @@
 {
   "data": [
     {
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "hot": "❤️ 12 💬 8",
+      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+      "source": "dev",
+      "tag": "top7,  discuss",
+      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-cio"
+    },
+    {
+      "title": "Prompt Pad: Lock Your AI's Output Schema in Google AI Studio",
+      "hot": "❤️ 10 💬 0",
+      "desc": "If you've ever tried to parse an LLM response in code, you know the pain: the format changes slightly...",
+      "source": "dev",
+      "tag": "ai,  gemini",
+      "url": "https://blog.mlh.com/prompt-pad-lock-your-ais-output-schema-in-google-ai-studio-53io"
+    },
+    {
       "title": "Gemma 4 in Rust on TorchTPU: A Native TPU Rig With PyO3 and MCP",
-      "hot": "❤️ 12 💬 1",
+      "hot": "❤️ 13 💬 1",
       "desc": "Gemma 4 E2B with the model in Rust, served from a TPU v5e-1 VM through PyO3 and a C++ shim over ATen, with no tch and no",
       "source": "dev",
       "tag": "rust,  pytorch",
       "url": "https://dev.to/gde/gemma-4-in-rust-on-torchtpu-a-native-tpu-rig-with-pyo3-and-mcp-47j1"
-    },
-    {
-      "title": "Securing an Angular Firebase AI App with Email/Password Authentication (Part 1: Emulator, AuthService, and Route Guard) [GDE]",
-      "hot": "❤️ 7 💬 4",
-      "desc": "Anyone with the public URL can use my tokens to perform image analysis and text-to-speech, which can...",
-      "source": "dev",
-      "tag": "angular,  firebase",
-      "url": "https://dev.to/gde/securing-an-angular-firebase-ai-app-with-emailpassword-authentication-part-1-emulator-4jm"
     },
     {
       "title": "Prompt Pad: Frame Your Persona for Better AI Answers",
@@ -25,16 +33,8 @@
       "url": "https://blog.mlh.com/prompt-pad-frame-your-persona-for-better-ai-answers-eg3"
     },
     {
-      "title": "What was your win this week?",
-      "hot": "❤️ 30 💬 33",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "weeklyretro",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-47ci"
-    },
-    {
       "title": "Singularity News :: CCG",
-      "hot": "❤️ 42 💬 12",
+      "hot": "❤️ 45 💬 13",
       "desc": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine    ...",
       "source": "dev",
       "tag": "devchallenge,  hf26challenge",
@@ -50,19 +50,11 @@
     },
     {
       "title": "Your DEV posts have a beautiful new share card ✨",
-      "hot": "❤️ 167 💬 36",
+      "hot": "❤️ 172 💬 36",
       "desc": "The image that shows up when you share a DEV post just got a brand-new look!  I got to work on...",
       "source": "dev",
       "tag": "devto,  showdev",
       "url": "https://dev.to/devteam/your-dev-posts-have-a-beautiful-new-share-card-4be8"
-    },
-    {
-      "title": "RackDoc DCIM v1.1: Background Multi-Protocol Heartbeat, 48-Port CAD Geometry, NOC Kiosk Mode & Decoupled Remote Connect",
-      "hot": "❤️ 7 💬 0",
-      "desc": "A deep dive into everything new in RackDoc DCIM v1.1: a 4-state background Heartbeat engine (Grey/Green/Orange/Red), ind",
-      "source": "dev",
-      "tag": "dcim,  flutter",
-      "url": "https://dev.to/gde/rackdoc-dcim-v11-background-multi-protocol-heartbeat-48-port-cad-geometry-noc-kiosk-mode--2j7k"
     },
     {
       "title": "[Agent Platform in Action (7)] When ADK Go Graph Workflow Meets Google Research Harness (Part 1): Two-Layer Recursive Agent Fram",
@@ -89,16 +81,40 @@
       "url": "https://dev.to/gde/from-mainjs-leaks-to-hidden-tailwind-css-v4-bloat-how-i-built-angular-bundle-guard-with-geg"
     },
     {
+      "title": "Securing an Angular Firebase AI App with Email/Password Authentication (Part 1: Emulator, AuthService, and Route Guard) [GDE]",
+      "hot": "❤️ 7 💬 6",
+      "desc": "Anyone with the public URL can use my tokens to perform image analysis and text-to-speech, which can...",
+      "source": "dev",
+      "tag": "angular,  firebase",
+      "url": "https://dev.to/gde/securing-an-angular-firebase-ai-app-with-emailpassword-authentication-part-1-emulator-4jm"
+    },
+    {
       "title": "All That Glisters Is Softmax: Shiny-Object Interns, Airplane-Magazine Execs, and Why AI Labs Can Only Bake In Half the Scars",
-      "hot": "❤️ 14 💬 12",
+      "hot": "❤️ 15 💬 13",
       "desc": "Why do an eager intern with a Hacker News blog post, a C-level executive stepping off an airplane with an in-flight maga",
       "source": "dev",
       "tag": "ai,  programming",
       "url": "https://dev.to/gde/all-that-glisters-is-softmax-shiny-object-interns-airplane-magazine-execs-and-why-ai-labs-can-18af"
     },
     {
+      "title": "What was your win this week?",
+      "hot": "❤️ 30 💬 34",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-47ci"
+    },
+    {
+      "title": "RackDoc DCIM v1.1: Background Multi-Protocol Heartbeat, 48-Port CAD Geometry, NOC Kiosk Mode & Decoupled Remote Connect",
+      "hot": "❤️ 8 💬 0",
+      "desc": "A deep dive into everything new in RackDoc DCIM v1.1: a 4-state background Heartbeat engine (Grey/Green/Orange/Red), ind",
+      "source": "dev",
+      "tag": "dcim,  flutter",
+      "url": "https://dev.to/gde/rackdoc-dcim-v11-background-multi-protocol-heartbeat-48-port-cad-geometry-noc-kiosk-mode--2j7k"
+    },
+    {
       "title": "Giving AI Pain: The Architecture of Synthetic Scars & The Rapid-Regret Miner",
-      "hot": "❤️ 25 💬 36",
+      "hot": "❤️ 25 💬 38",
       "desc": "Why 90% of AI coding frustration comes from the Quota vs. Prompt-Compliance Death Loop, why Rich Sutton's Bitter Lesson ",
       "source": "dev",
       "tag": "ai,  programming",
@@ -121,6 +137,14 @@
       "url": "https://dev.to/georgekobaidze/promise-delivered-welcome-to-the-dev-hall-of-fame-65-authors-65-masterpieces-15fa"
     },
     {
+      "title": "Agent Skills Drift: A Feedback Loop for Keeping One True",
+      "hot": "❤️ 16 💬 9",
+      "desc": "An agent skill goes stale in six separate ways while its checks stay green. A step by step guide to measuring that drift",
+      "source": "dev",
+      "tag": "ai,  devtools",
+      "url": "https://dev.to/gde/agent-skills-drift-a-feedback-loop-for-keeping-one-true-2il7"
+    },
+    {
       "title": "Your Agent Changed Last Night and Nobody Deployed Anything: Skill Drift on Google Cloud Skill Registry",
       "hot": "❤️ 9 💬 1",
       "desc": "The incident that never shows up in your deploy log   Here is a scenario that's easy to...",
@@ -135,31 +159,7 @@
       "source": "dev",
       "tag": "programming,  writing",
       "url": "https://dev.to/georgekobaidze/natural-languages-have-design-trade-offs-too-georgian-is-dynamically-typed-english-is-statically-emi"
-    },
-    {
-      "title": "Agent Skills Drift: A Feedback Loop for Keeping One True",
-      "hot": "❤️ 16 💬 8",
-      "desc": "An agent skill goes stale in six separate ways while its checks stay green. A step by step guide to measuring that drift",
-      "source": "dev",
-      "tag": "ai,  devtools",
-      "url": "https://dev.to/gde/agent-skills-drift-a-feedback-loop-for-keeping-one-true-2il7"
-    },
-    {
-      "title": "Building ora-tui with Google Antigravity & Gemini 4 Argon: An MS-DOS Retro TUI & OpenTelemetry Exporter for Oracle RAC, DB & SAN Multipath",
-      "hot": "❤️ 8 💬 0",
-      "desc": "How I pair-programmed with Google Antigravity powered by Gemini 4 Argon to build a zero-dependency Go TUI and OpenTeleme",
-      "source": "dev",
-      "tag": "oracle,  go",
-      "url": "https://dev.to/gde/building-ora-tui-with-google-antigravity-gemini-4-argon-an-ms-dos-retro-tui-opentelemetry-4d02"
-    },
-    {
-      "title": "[Agent Platform in Action (6)] Towards Production-Grade AI Agent Ops: Building Full-Stack Observable LINE Agents with agents-cli",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Recap: The Five-Stage Evolution from Local Prototype to Cloud Production-Grade AI...",
-      "source": "dev",
-      "tag": "ai,  cloud",
-      "url": "https://dev.to/gde/agent-platform-in-action-6-towards-production-grade-ai-agent-ops-building-full-stack-38aa"
     }
   ],
-  "updatedAt": "2026-11-03T11:04:54.018Z"
+  "updatedAt": "2026-11-03T18:29:26.048Z"
 }
