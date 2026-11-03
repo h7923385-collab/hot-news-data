@@ -1,12 +1,12 @@
 {
   "data": [
     {
-      "title": "Gemma 4 in Rust on TorchTPU: Hands On With Colab",
-      "hot": "❤️ 7 💬 0",
-      "desc": "A Rust crate reads the checkpoint, runs all 35 layers of Gemma 4 E2B and drives the decode loop on one TPU v5e chip in C",
+      "title": "Gemma 4 in Rust on TorchTPU: A Native TPU Rig With PyO3 and MCP",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Gemma 4 E2B with the model in Rust, served from a TPU v5e-1 VM through PyO3 and a C++ shim over ATen, with no tch and no",
       "source": "dev",
       "tag": "rust,  pytorch",
-      "url": "https://dev.to/gde/gemma-4-in-rust-on-torchtpu-hands-on-with-colab-44hi"
+      "url": "https://dev.to/gde/gemma-4-in-rust-on-torchtpu-a-native-tpu-rig-with-pyo3-and-mcp-47j1"
     },
     {
       "title": "Securing an Angular Firebase AI App with Email/Password Authentication (Part 1: Emulator, AuthService, and Route Guard) [GDE]",
@@ -18,27 +18,27 @@
     },
     {
       "title": "Prompt Pad: Frame Your Persona for Better AI Answers",
-      "hot": "❤️ 5 💬 0",
+      "hot": "❤️ 17 💬 0",
       "desc": "Want better answers from AI? Start by telling it who to be.  In this episode of Prompt Pad,...",
       "source": "dev",
       "tag": "ai,  promptengineering",
       "url": "https://blog.mlh.com/prompt-pad-frame-your-persona-for-better-ai-answers-eg3"
     },
     {
+      "title": "Gemma 4 in Rust on TorchTPU: Hands On With Colab",
+      "hot": "❤️ 7 💬 0",
+      "desc": "A Rust crate reads the checkpoint, runs all 35 layers of Gemma 4 E2B and drives the decode loop on one TPU v5e chip in C",
+      "source": "dev",
+      "tag": "rust,  pytorch",
+      "url": "https://dev.to/gde/gemma-4-in-rust-on-torchtpu-hands-on-with-colab-44hi"
+    },
+    {
       "title": "What was your win this week?",
-      "hot": "❤️ 29 💬 31",
+      "hot": "❤️ 30 💬 31",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "weeklyretro",
       "url": "https://dev.to/devteam/what-was-your-win-this-week-47ci"
-    },
-    {
-      "title": "Giving AI Pain: The Architecture of Synthetic Scars & The Rapid-Regret Miner",
-      "hot": "❤️ 19 💬 33",
-      "desc": "Why 90% of AI coding frustration comes from the Quota vs. Prompt-Compliance Death Loop, why Rich Sutton's Bitter Lesson ",
-      "source": "dev",
-      "tag": "ai,  programming",
-      "url": "https://dev.to/gde/giving-ai-pain-the-architecture-of-synthetic-scars-the-rapid-regret-miner-1740"
     },
     {
       "title": "Singularity News :: CCG",
@@ -97,28 +97,20 @@
       "url": "https://dev.to/gde/from-mainjs-leaks-to-hidden-tailwind-css-v4-bloat-how-i-built-angular-bundle-guard-with-geg"
     },
     {
-      "title": "Agent Skills Drift: A Feedback Loop for Keeping One True",
-      "hot": "❤️ 16 💬 5",
-      "desc": "An agent skill goes stale in six separate ways while its checks stay green. A step by step guide to measuring that drift",
-      "source": "dev",
-      "tag": "ai,  devtools",
-      "url": "https://dev.to/gde/agent-skills-drift-a-feedback-loop-for-keeping-one-true-2il7"
-    },
-    {
-      "title": "Is Tech Actually Welcoming to Beginners, or Do We Just Say It Is?",
-      "hot": "❤️ 48 💬 51",
-      "desc": "We hear it all the time in tech.  Everyone starts somewhere. There are no stupid questions. Don't be...",
-      "source": "dev",
-      "tag": "discuss,  beginners",
-      "url": "https://dev.to/sizzlebop/is-tech-actually-welcoming-to-beginners-or-do-we-just-say-it-is-3d6p"
-    },
-    {
       "title": "Your Agent Changed Last Night and Nobody Deployed Anything: Skill Drift on Google Cloud Skill Registry",
       "hot": "❤️ 8 💬 0",
       "desc": "The incident that never shows up in your deploy log   Here is a scenario that's easy to...",
       "source": "dev",
       "tag": "googlecloud,  ai",
       "url": "https://dev.to/gde/your-agent-changed-last-night-and-nobody-deployed-anything-skill-drift-on-google-cloud-skill-1mig"
+    },
+    {
+      "title": "Giving AI Pain: The Architecture of Synthetic Scars & The Rapid-Regret Miner",
+      "hot": "❤️ 19 💬 33",
+      "desc": "Why 90% of AI coding frustration comes from the Quota vs. Prompt-Compliance Death Loop, why Rich Sutton's Bitter Lesson ",
+      "source": "dev",
+      "tag": "ai,  programming",
+      "url": "https://dev.to/gde/giving-ai-pain-the-architecture-of-synthetic-scars-the-rapid-regret-miner-1740"
     },
     {
       "title": "Don't Be a Proxy Between Me and Your AI",
@@ -145,6 +137,14 @@
       "url": "https://dev.to/georgekobaidze/natural-languages-have-design-trade-offs-too-georgian-is-dynamically-typed-english-is-statically-emi"
     },
     {
+      "title": "Agent Skills Drift: A Feedback Loop for Keeping One True",
+      "hot": "❤️ 16 💬 6",
+      "desc": "An agent skill goes stale in six separate ways while its checks stay green. A step by step guide to measuring that drift",
+      "source": "dev",
+      "tag": "ai,  devtools",
+      "url": "https://dev.to/gde/agent-skills-drift-a-feedback-loop-for-keeping-one-true-2il7"
+    },
+    {
       "title": "Building ora-tui with Google Antigravity & Gemini 4 Argon: An MS-DOS Retro TUI & OpenTelemetry Exporter for Oracle RAC, DB & SAN Multipath",
       "hot": "❤️ 8 💬 0",
       "desc": "How I pair-programmed with Google Antigravity powered by Gemini 4 Argon to build a zero-dependency Go TUI and OpenTeleme",
@@ -161,5 +161,5 @@
       "url": "https://dev.to/gde/agent-platform-in-action-6-towards-production-grade-ai-agent-ops-building-full-stack-38aa"
     }
   ],
-  "updatedAt": "2026-11-02T21:49:05.154Z"
+  "updatedAt": "2026-11-03T03:05:50.587Z"
 }
