@@ -1,26 +1,58 @@
 {
-  "updatedAt": "2026-11-04T18:42:57.781Z",
+  "updatedAt": "2026-11-04T23:58:36.700Z",
   "source": "live",
   "dev": [
     {
-      "title": "That's a Wrap on Hacktoberfest 2026! 🎃👻",
-      "hot": "❤️ 47 💬 11",
-      "desc": "Hacktoberfest 2026 wrapped up on October 31st! Thank you to everyone who built, hosted, mentored,...",
-      "source": "dev",
-      "tag": "hacktoberfest,  hf26challenge",
-      "url": "https://dev.to/devteam/thats-a-wrap-on-hacktoberfest-2026-148k"
-    },
-    {
       "title": "Let's see where you code!",
-      "hot": "❤️ 64 💬 13",
+      "hot": "❤️ 67 💬 22",
       "desc": "I’ve been writing a lot about AWS lately, so let’s take a breather. This is my little corner of the...",
       "source": "dev",
       "tag": "watercooler,  discuss",
       "url": "https://dev.to/maame-codes/lets-see-where-you-code-147"
     },
     {
+      "title": "That's a Wrap on Hacktoberfest 2026! 🎃👻",
+      "hot": "❤️ 53 💬 13",
+      "desc": "Hacktoberfest 2026 wrapped up on October 31st! Thank you to everyone who built, hosted, mentored,...",
+      "source": "dev",
+      "tag": "hacktoberfest,  hf26challenge",
+      "url": "https://dev.to/devteam/thats-a-wrap-on-hacktoberfest-2026-148k"
+    },
+    {
+      "title": "Join the Presage SmartSpectra SDK Challenge: $3,000 in Prizes Across 10 Winners!",
+      "hot": "❤️ 23 💬 4",
+      "desc": "We're excited to announce our newest challenge with Presage!  The Presage SmartSpectra SDK Challenge...",
+      "source": "dev",
+      "tag": "devchallenge,  presagechallenge",
+      "url": "https://dev.to/devteam/join-the-presage-smartspectra-sdk-challenge-3000-in-prizes-across-10-winners-1370"
+    },
+    {
+      "title": "Securing an Angular Firebase AI App with Email/Password Authentication (Part 3: Lightweight Home Screen, Lazy CDK Dialog, and Header Navigation)",
+      "hot": "❤️ 6 💬 0",
+      "desc": "We now have AuthService for authentication and SignInModalComponent for users to enter their email...",
+      "source": "dev",
+      "tag": "angular,  firebase",
+      "url": "https://dev.to/gde/securing-an-angular-firebase-ai-app-with-emailpassword-authentication-part-3-lightweight-home-17dg"
+    },
+    {
+      "title": "Gemma 4 E2B in JAX on One TPU v5e: bf16 or 4-Bit, Python or Rust, and How It Stands Against vLLM",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Gemma 4 E2B served three ways on one Cloud TPU v5e chip: a pure-JAX engine in Python, the same graph written in Rust and",
+      "source": "dev",
+      "tag": "jax,  tpu",
+      "url": "https://dev.to/gde/gemma-4-e2b-in-jax-on-one-tpu-v5e-bf16-or-4-bit-python-or-rust-and-how-it-stands-against-vllm-j72"
+    },
+    {
+      "title": "Leveling the Playing Field: Building a 100% Offline Kubernetes Docs RAG Exam Assistant with Web AI, Gemma 4, and WebGPU",
+      "hot": "❤️ 8 💬 0",
+      "desc": "How to enable fair, zero-cost, air-gapped AI assistance in technical classrooms and...",
+      "source": "dev",
+      "tag": "webai,  gemma",
+      "url": "https://dev.to/gde/leveling-the-playing-field-building-a-100-offline-kubernetes-docs-rag-exam-assistant-with-web-ai-53bi"
+    },
+    {
       "title": "Welcome Thread - v400",
-      "hot": "❤️ 13 💬 32",
+      "hot": "❤️ 14 💬 46",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
@@ -28,19 +60,27 @@
     },
     {
       "title": "Prompt Pad: What Is Open Source?",
-      "hot": "❤️ 8 💬 0",
+      "hot": "❤️ 14 💬 0",
       "desc": "Chances are you're already using open-source software without realizing it.  In this episode of...",
       "source": "dev",
       "tag": "opensource,  beginners",
       "url": "https://blog.mlh.com/prompt-pad-what-is-open-source-23k6"
     },
     {
-      "title": "Gemma 4 in Rust on TorchTPU: A Native TPU Rig With PyO3 and MCP",
-      "hot": "❤️ 13 💬 1",
-      "desc": "Gemma 4 E2B with the model in Rust, served from a TPU v5e-1 VM through PyO3 and a C++ shim over ATen, with no tch and no",
+      "title": "The A2A CLI and Rust: The Same Code, Three Ways to Serve It",
+      "hot": "❤️ 12 💬 3",
+      "desc": "A tour of the A2A CLI against Rust agents on A2A v1.0: the official Rust SDK, a plain stdin/stdout program wrapped by a2",
       "source": "dev",
-      "tag": "rust,  pytorch",
-      "url": "https://dev.to/gde/gemma-4-in-rust-on-torchtpu-a-native-tpu-rig-with-pyo3-and-mcp-47j1"
+      "tag": "rust,  a2a",
+      "url": "https://dev.to/gde/the-a2a-cli-and-rust-the-same-code-three-ways-to-serve-it-4el0"
+    },
+    {
+      "title": "What I Learned Managing a Full Project with Antigravity",
+      "hot": "❤️ 9 💬 0",
+      "desc": "How my workflow evolved from solo prompting in AI Studio to managing a multi-model AI team, running...",
+      "source": "dev",
+      "tag": "antigravity,  gemini",
+      "url": "https://dev.to/gde/what-i-learned-managing-a-full-project-with-antigravity-1ppc"
     },
     {
       "title": "Prompt Pad: Frame Your Persona for Better AI Answers",
@@ -49,6 +89,14 @@
       "source": "dev",
       "tag": "ai,  promptengineering",
       "url": "https://blog.mlh.com/prompt-pad-frame-your-persona-for-better-ai-answers-eg3"
+    },
+    {
+      "title": "Securing an Angular Firebase AI App with Email/Password Authentication (Part 2: Signal Forms Sign-In Modal) [GDE]",
+      "hot": "❤️ 6 💬 1",
+      "desc": "In this blog post, we build a Sign-In modal component (SignInModalComponent) using the stable Angular...",
+      "source": "dev",
+      "tag": "angular,  firebase",
+      "url": "https://dev.to/gde/securing-an-angular-firebase-ai-app-with-emailpassword-authentication-part-2-signal-forms-3ll9"
     },
     {
       "title": "Prompt Pad: Lock Your AI's Output Schema in Google AI Studio",
@@ -65,6 +113,14 @@
       "source": "dev",
       "tag": "rust,  pytorch",
       "url": "https://dev.to/gde/gemma-4-in-rust-on-torchtpu-hands-on-with-colab-44hi"
+    },
+    {
+      "title": "The Postcard That Ate Six Grammars: 1980 Smalltalk-80, 1976 Make, TDD, and the Four Attractors of Agentic Coding",
+      "hot": "❤️ 9 💬 8",
+      "desc": "Why maintaining six separate parsers for Make, Gherkin, EBNF, DOT, SysV, and prompt checklists collapsed into a single S",
+      "source": "dev",
+      "tag": "ai,  architecture",
+      "url": "https://dev.to/gde/the-postcard-that-ate-six-grammars-1980-smalltalk-80-1976-make-tdd-and-the-four-attractors-of-45me"
     },
     {
       "title": "[Agent Platform in Action (7)] When ADK Go Graph Workflow Meets Google Research Harness (Part 1): Two-Layer Recursive Agent Fram",
@@ -100,70 +156,216 @@
     },
     {
       "title": "Your DEV posts have a beautiful new share card ✨",
-      "hot": "❤️ 175 💬 36",
+      "hot": "❤️ 176 💬 36",
       "desc": "The image that shows up when you share a DEV post just got a brand-new look!  I got to work on...",
       "source": "dev",
       "tag": "devto,  showdev",
       "url": "https://dev.to/devteam/your-dev-posts-have-a-beautiful-new-share-card-4be8"
+    }
+  ],
+  "tech": [
+    {
+      "title": "Residential proxies detected on White House network",
+      "hot": "3.0m",
+      "desc": "layer3intel.com",
+      "source": "tech",
+      "tag": "⬆️ 503 points",
+      "url": "https://layer3intel.com/blog/residential-proxies-white-house-network"
     },
     {
-      "title": "All That Glisters Is Softmax: Shiny-Object Interns, Airplane-Magazine Execs, and Why AI Labs Can Only Bake In Half the Scars",
-      "hot": "❤️ 15 💬 17",
-      "desc": "Why do an eager intern with a Hacker News blog post, a C-level executive stepping off an airplane with an in-flight maga",
-      "source": "dev",
-      "tag": "ai,  programming",
-      "url": "https://dev.to/gde/all-that-glisters-is-softmax-shiny-object-interns-airplane-magazine-execs-and-why-ai-labs-can-18af"
+      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+      "hot": "3.0m",
+      "desc": "ricursive.com",
+      "source": "tech",
+      "tag": "⬆️ 197 points",
+      "url": "https://www.ricursive.com/ripple"
     },
     {
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 19 💬 13",
-      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
-      "source": "dev",
-      "tag": "top7,  discuss",
-      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-cio"
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "hot": "3.0m",
+      "desc": "spectrum.ieee.org",
+      "source": "tech",
+      "tag": "⬆️ 1014 points",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability"
     },
     {
-      "title": "Singularity News :: CCG",
-      "hot": "❤️ 49 💬 22",
-      "desc": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine    ...",
-      "source": "dev",
-      "tag": "devchallenge,  hf26challenge",
-      "url": "https://dev.to/pengeszikra/singularity-news-ccg-5ejk"
+      "title": "Insects don't swarm at LED lights",
+      "hot": "3.0m",
+      "desc": "birdsoutsidemywindow.org",
+      "source": "tech",
+      "tag": "⬆️ 143 points",
+      "url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/"
     },
     {
-      "title": "What was your win this week?",
-      "hot": "❤️ 33 💬 37",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "weeklyretro",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-47ci"
+      "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
+      "hot": "2.9m",
+      "desc": "icode4.coffee",
+      "source": "tech",
+      "tag": "⬆️ 37 points",
+      "url": "https://icode4.coffee/?p=1746"
     },
     {
-      "title": "RackDoc DCIM v1.1: Background Multi-Protocol Heartbeat, 48-Port CAD Geometry, NOC Kiosk Mode & Decoupled Remote Connect",
-      "hot": "❤️ 8 💬 0",
-      "desc": "A deep dive into everything new in RackDoc DCIM v1.1: a 4-state background Heartbeat engine (Grey/Green/Orange/Red), ind",
-      "source": "dev",
-      "tag": "dcim,  flutter",
-      "url": "https://dev.to/gde/rackdoc-dcim-v11-background-multi-protocol-heartbeat-48-port-cad-geometry-noc-kiosk-mode--2j7k"
+      "title": "A new Go API for JSON",
+      "hot": "2.9m",
+      "desc": "go.dev",
+      "source": "tech",
+      "tag": "⬆️ 201 points",
+      "url": "https://go.dev/blog/jsonv2"
     },
     {
-      "title": "Giving AI Pain: The Architecture of Synthetic Scars & The Rapid-Regret Miner",
-      "hot": "❤️ 25 💬 42",
-      "desc": "Why 90% of AI coding frustration comes from the Quota vs. Prompt-Compliance Death Loop, why Rich Sutton's Bitter Lesson ",
-      "source": "dev",
-      "tag": "ai,  programming",
-      "url": "https://dev.to/gde/giving-ai-pain-the-architecture-of-synthetic-scars-the-rapid-regret-miner-1740"
+      "title": "Kimi K3.1 Pro model weights are out",
+      "hot": "2.9m",
+      "desc": "huggingface.co",
+      "source": "tech",
+      "tag": "⬆️ 330 points",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
     },
     {
-      "title": "Don't Be a Proxy Between Me and Your AI",
-      "hot": "❤️ 149 💬 133",
-      "desc": "I've had this conversation more times than I'd like to admit.  I raise a technical question in a...",
-      "source": "dev",
-      "tag": "ai,  discuss",
-      "url": "https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn"
+      "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+      "hot": "2.9m",
+      "desc": "qualcomm.com",
+      "source": "tech",
+      "tag": "⬆️ 81 points",
+      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra"
+    },
+    {
+      "title": "Conductor is joining Meta",
+      "hot": "2.9m",
+      "desc": "conductor.build",
+      "source": "tech",
+      "tag": "⬆️ 83 points",
+      "url": "https://www.conductor.build/announcement"
+    },
+    {
+      "title": "Less Popular Than Coal",
+      "hot": "2.9m",
+      "desc": "argmin.net",
+      "source": "tech",
+      "tag": "⬆️ 28 points",
+      "url": "https://www.argmin.net/p/less-popular-than-coal"
+    },
+    {
+      "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+      "hot": "2.9m",
+      "desc": "news.ycombinator.com",
+      "source": "tech",
+      "tag": "⬆️ 64 points",
+      "url": "https://news.ycombinator.com/item?id=50368804"
+    },
+    {
+      "title": "Progress on provable inference for large language models",
+      "hot": "2.8m",
+      "desc": "anthropic.com",
+      "source": "tech",
+      "tag": "⬆️ 165 points",
+      "url": "https://www.anthropic.com/research/provable-inference"
+    },
+    {
+      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+      "hot": "2.8m",
+      "desc": "mindstudio.ai",
+      "source": "tech",
+      "tag": "⬆️ 581 points",
+      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop"
+    },
+    {
+      "title": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",
+      "hot": "2.8m",
+      "desc": "fireflyk64.github.io",
+      "source": "tech",
+      "tag": "⬆️ 91 points",
+      "url": "https://fireflyk64.github.io/wcmulti/"
+    },
+    {
+      "title": "Local privilege escalation vulnerabilities in Linux",
+      "hot": "2.8m",
+      "desc": "openai.com",
+      "source": "tech",
+      "tag": "⬆️ 10 points",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/"
+    },
+    {
+      "title": "Is Curiosity Good for Us?",
+      "hot": "2.8m",
+      "desc": "lrb.co.uk",
+      "source": "tech",
+      "tag": "⬆️ 10 points",
+      "url": "https://www.lrb.co.uk/the-paper/v48/n20/adam-phillips/is-curiosity-good-for-us"
+    },
+    {
+      "title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
+      "hot": "2.8m",
+      "desc": "99percentinvisible.org",
+      "source": "tech",
+      "tag": "⬆️ 242 points",
+      "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/"
+    },
+    {
+      "title": "Successful People (2013)",
+      "hot": "2.7m",
+      "desc": "blog.samaltman.com",
+      "source": "tech",
+      "tag": "⬆️ 12 points",
+      "url": "https://blog.samaltman.com/successful-people"
+    },
+    {
+      "title": "Show HN: Gauge – Open-Source CLI to recursively improve your docs",
+      "hot": "2.7m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 8 points",
+      "url": "https://github.com/gauge-sh/gauge-cli"
+    },
+    {
+      "title": "OpenAI to acquire Pierre Computer Company",
+      "hot": "2.7m",
+      "desc": "openai.com",
+      "source": "tech",
+      "tag": "⬆️ 157 points",
+      "url": "https://openai.com/index/openai-to-acquire-pierre/"
     }
   ],
   "space": [
+    {
+      "title": "Trump Issues “American Declaration of Freedom in Space”",
+      "hot": "11/4",
+      "desc": "President Trump issued a space proclamation yesterday. “The American Declaration of Freedom in Space” pledges that the United States will lead the exp",
+      "source": "space",
+      "tag": "SpacePolicyOnline.com",
+      "url": "https://spacepolicyonline.com/news/trump-issues-american-declaration-of-freedom-in-space/"
+    },
+    {
+      "title": "Elon Musk moved SpaceX to red Texas. Now it's blue. What happens next?",
+      "hot": "11/4",
+      "desc": "\"Data centers in space looking pretty appealing right now.\"",
+      "source": "space",
+      "tag": "Arstechnica",
+      "url": "https://arstechnica.com/space/2026/11/elon-musk-moved-spacex-to-red-texas-now-its-blue-what-happens-next/"
+    },
+    {
+      "title": "NASA Shares Plans to Accelerate Artemis, Return to Moon",
+      "hot": "11/4",
+      "desc": "In an update on Oct. 23, NASA Administrator Jared Isaacman and other agency leaders shared the agency’s path to returning Americans to the lunar surfa",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/"
+    },
+    {
+      "title": "NASA’s Neil Gehrels Swift Observatory reenters over Western Indonesia",
+      "hot": "11/4",
+      "desc": "NASA’s Neil Gehrels Swift Observatory plummeted back into Earth’s atmosphere Wednesday over western Indonesia, ending nearly 22 years in orbit for the",
+      "source": "space",
+      "tag": "Spaceflight Now",
+      "url": "https://spaceflightnow.com/2026/11/04/nasas-neil-gehrels-swift-observatory-reenters-over-western-indonesia/"
+    },
+    {
+      "title": "Trace Gas Orbiter discovers potential evidence of volcanic activity on Mars via atmospheric observations",
+      "hot": "11/4",
+      "desc": "Using data from the joint European and Russian ExoMars Trace Gas Orbiter at Mars, an…\nThe post Trace Gas Orbiter discovers potential evidence of volca",
+      "source": "space",
+      "tag": "NASASpaceflight",
+      "url": "https://www.nasaspaceflight.com/2026/11/tgo-volcanic-activity/"
+    },
     {
       "title": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
       "hot": "11/4",
@@ -191,7 +393,7 @@
     {
       "title": "“Blue Tsunami” Puts Democrats in Control of House and Senate Next Year",
       "hot": "11/4",
-      "desc": "Democratic victories in yesterday���s midterm elections are being touted not as a “Blue wave,” but a “Blue tsunami” as votes are counted throughout th",
+      "desc": "Democratic victories in yesterday’s midterm elections are being touted not as a “Blue wave,” but a “Blue tsunami” as votes are counted throughout the ",
       "source": "space",
       "tag": "SpacePolicyOnline.com",
       "url": "https://spacepolicyonline.com/news/blue-tsunami-puts-democrats-in-control-of-house-and-senate-next-year/"
@@ -221,236 +423,34 @@
       "url": "https://science.nasa.gov/earth/2026-ozone-hole/"
     },
     {
-      "title": "PLD Space Completes MIURA 5 Flight Termination System Test",
+      "title": "One geology step closer to the Moon",
       "hot": "11/4",
-      "desc": "Spanish launch services provider PLD Space has completed an explosive test of the flight termination system for its MIURA 5 rocket ahead of the vehicl",
-      "source": "space",
-      "tag": "European Spaceflight",
-      "url": "https://europeanspaceflight.com/pld-space-completes-miura-5-flight-termination-system-test/"
-    },
-    {
-      "title": "Time to wake up MetOp-SG-B1 weather satellite",
-      "hot": "11/4",
-      "desc": "Following a short period in storage after arriving at Europe’s Spaceport in French Guiana, the MetOp Second Generation-B1 satellite has been transferr",
+      "desc": "From the ESA Blogs.",
       "source": "space",
       "tag": "ESA",
-      "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/Time_to_wake_up_MetOp-SG-B1_weather_satellite"
+      "url": "https://www.esa.int/articles/about-us/directorates/human-and-robotic-exploration/astronauts/astronaut-training/one-geology-step-closer-to-the-moon"
     },
     {
-      "title": "APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342",
+      "title": "ExoMars rover twin rehearses first drive",
       "hot": "11/4",
-      "desc": "APOD Science APOD APOD: 2026 November 4 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Pic",
+      "desc": "From the ESA Blogs.",
       "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/"
+      "tag": "ESA",
+      "url": "https://www.esa.int/articles/what-we-do/explore-discover-space/mars/exomars-rover-twin-rehearses-first-drive"
     },
     {
-      "title": "Before the Dawn in America’s Heartland",
+      "title": "European rover trains for Mars in the desert",
       "hot": "11/4",
-      "desc": "With hardly a cloud in sight, astronauts had a sweeping view of nighttime lights in the U.S. Midwest.",
+      "desc": "From the ESA Blogs.",
       "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/earth/earth-observatory/before-the-dawn-in-americas-heartland/"
-    },
-    {
-      "title": "Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution",
-      "hot": "11/3",
-      "desc": "\nCzech company Spacemanic and Belgian optical leader Simera Sense are teaming up to deliver a new dual-use satellite solution that can compete with bi",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/simera-sense-and-spacemanic-to-collaborate-on-a-new-complete-dual-use-mission-solution/"
-    },
-    {
-      "title": "This space company is betting its future on a propellant available everywhere",
-      "hot": "11/3",
-      "desc": "Is that water in your spacecraft, or are you just happy to see the delta-V.",
-      "source": "space",
-      "tag": "Arstechnica",
-      "url": "https://arstechnica.com/space/2026/11/this-space-company-is-betting-its-future-on-a-propellant-available-everywhere/"
-    },
-    {
-      "title": "Astronaut and Earth",
-      "hot": "11/3",
-      "desc": "CSA (Canadian Space Agency) astronaut Joshua Kutryk is pictured during the Oct. 29, 2026, spacewalk. The International Space Station was soaring 267 m",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/image-article/astronaut-and-earth/"
-    },
-    {
-      "title": "TB 26-10 Printed Circuit Board Assembly Chip Resistor Body Cracking",
-      "hot": "11/3",
-      "desc": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov. Download PDF here Chip resistors are widely used in NASA ",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking/"
-    }
-  ],
-  "tech": [
-    {
-      "title": "AI is forcing us to pay off 40 years of technical debt",
-      "hot": "3.0m",
-      "desc": "spectrum.ieee.org",
-      "source": "tech",
-      "tag": "⬆️ 746 points",
-      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability"
-    },
-    {
-      "title": "Progress on provable inference for large language models",
-      "hot": "3.0m",
-      "desc": "anthropic.com",
-      "source": "tech",
-      "tag": "⬆️ 76 points",
-      "url": "https://www.anthropic.com/research/provable-inference"
-    },
-    {
-      "title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
-      "hot": "3.0m",
-      "desc": "99percentinvisible.org",
-      "source": "tech",
-      "tag": "⬆️ 163 points",
-      "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/"
-    },
-    {
-      "title": "A New Go API for JSON",
-      "hot": "3.0m",
-      "desc": "go.dev",
-      "source": "tech",
-      "tag": "⬆️ 20 points",
-      "url": "https://go.dev/blog/jsonv2"
-    },
-    {
-      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
-      "hot": "2.9m",
-      "desc": "mindstudio.ai",
-      "source": "tech",
-      "tag": "⬆️ 481 points",
-      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop"
-    },
-    {
-      "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
-      "hot": "2.9m",
-      "desc": "news.ycombinator.com",
-      "source": "tech",
-      "tag": "⬆️ 15 points",
-      "url": "https://news.ycombinator.com/item?id=50368804"
-    },
-    {
-      "title": "AMD expects to outsell Intel in Q4 for the first time in history",
-      "hot": "2.9m",
-      "desc": "tomshardware.com",
-      "source": "tech",
-      "tag": "⬆️ 238 points",
-      "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections"
-    },
-    {
-      "title": "North Korean fake job interview led to $6.3B Binance heist",
-      "hot": "2.9m",
-      "desc": "theregister.com",
-      "source": "tech",
-      "tag": "⬆️ 389 points",
-      "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398"
-    },
-    {
-      "title": "Verification Is Not Knowledge: Science needs more than answers",
-      "hot": "2.9m",
-      "desc": "blog.cosmos-institute.org",
-      "source": "tech",
-      "tag": "⬆️ 188 points",
-      "url": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge"
-    },
-    {
-      "title": "Show HN: I built a tool that prices a prebuilt PC part by part",
-      "hot": "2.9m",
-      "desc": "pcdealcheck.com",
-      "source": "tech",
-      "tag": "⬆️ 46 points",
-      "url": "https://pcdealcheck.com/"
-    },
-    {
-      "title": "BYD doubles its Brazil market share to 9.7% a year after opening its local plant",
-      "hot": "2.9m",
-      "desc": "bloomberg.com",
-      "source": "tech",
-      "tag": "⬆️ 39 points",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-03/china-s-byd-doubles-market-share-in-brazil-with-new-plant-eyed"
-    },
-    {
-      "title": "Kimi K3.1 Pro model weights are out",
-      "hot": "2.8m",
-      "desc": "huggingface.co",
-      "source": "tech",
-      "tag": "⬆️ 179 points",
-      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
-    },
-    {
-      "title": "Incident with Pull Requests, Git Operations and Issues",
-      "hot": "2.8m",
-      "desc": "githubstatus.com",
-      "source": "tech",
-      "tag": "⬆️ 218 points",
-      "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4"
-    },
-    {
-      "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
-      "hot": "2.8m",
-      "desc": "news.ycombinator.com",
-      "source": "tech",
-      "tag": "⬆️ 495 points",
-      "url": "https://news.ycombinator.com/item?id=50363461"
-    },
-    {
-      "title": "Tencent Hy4",
-      "hot": "2.8m",
-      "desc": "hy.tencent.ai",
-      "source": "tech",
-      "tag": "⬆️ 62 points",
-      "url": "https://hy.tencent.ai/research/hy4"
-    },
-    {
-      "title": "This Month in Ladybird – October 2026",
-      "hot": "2.8m",
-      "desc": "ladybird.org",
-      "source": "tech",
-      "tag": "⬆️ 28 points",
-      "url": "https://ladybird.org/newsletter/2026-10-31/"
-    },
-    {
-      "title": "Jelly Sheet",
-      "hot": "2.8m",
-      "desc": "mrdoob.github.io",
-      "source": "tech",
-      "tag": "⬆️ 408 points",
-      "url": "https://mrdoob.github.io/codevember-2026/01/"
-    },
-    {
-      "title": "Letting users trust their own MCP clients, without opening a phishing hole",
-      "hot": "2.7m",
-      "desc": "streamvessel.com",
-      "source": "tech",
-      "tag": "⬆️ 24 points",
-      "url": "https://streamvessel.com/blog/mcp-trusted-redirect-uris"
-    },
-    {
-      "title": "Adding Window Functions to a Spreadsheet",
-      "hot": "2.7m",
-      "desc": "getgrist.com",
-      "source": "tech",
-      "tag": "⬆️ 30 points",
-      "url": "https://www.getgrist.com/blog/running-totals-you-dont-have-to-chase/"
-    },
-    {
-      "title": "Kitty 0.50",
-      "hot": "2.7m",
-      "desc": "sw.kovidgoyal.net",
-      "source": "tech",
-      "tag": "⬆️ 316 points",
-      "url": "https://sw.kovidgoyal.net/kitty/changelog/#"
+      "tag": "ESA",
+      "url": "https://www.esa.int/articles/about-us/directorates/human-and-robotic-exploration/mars/european-rover-trains-for-mars-in-the-desert"
     }
   ],
   "github": [
     {
       "title": "deepseek-ai/dsh-superagent-prototype: Towards a More Autonomous Agent System",
-      "hot": "⭐ 18.4k",
+      "hot": "⭐ 18.5k",
       "desc": "Towards a More Autonomous Agent System",
       "source": "github",
       "tag": "TypeScript",
@@ -458,7 +458,7 @@
     },
     {
       "title": "storytold/craft-anything: Craft Anything: understand how any software works, and",
-      "hot": "⭐ 11.0k",
+      "hot": "⭐ 11.6k",
       "desc": "Craft Anything: understand how any software works, and craft your own.",
       "source": "github",
       "tag": "Rust",
@@ -466,7 +466,7 @@
     },
     {
       "title": "heydamir/unslop: A Claude skill that turns vibecoded, AI-looking UI into a desig",
-      "hot": "⭐ 8.4k",
+      "hot": "⭐ 8.6k",
       "desc": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
       "source": "github",
       "tag": "JavaScript",
@@ -490,11 +490,19 @@
     },
     {
       "title": "patch-gg/pixelfx: 244 pixel art effects, every one a small piece of code. Plus a",
-      "hot": "⭐ 4.6k",
+      "hot": "⭐ 4.7k",
       "desc": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
       "source": "github",
       "tag": "JavaScript",
       "url": "https://github.com/patch-gg/pixelfx"
+    },
+    {
+      "title": "Djihads80/Eglantine: VERY experimental Nintendo Switch 2 emulator",
+      "hot": "⭐ 3.6k",
+      "desc": "VERY experimental Nintendo Switch 2 emulator",
+      "source": "github",
+      "tag": "C++",
+      "url": "https://github.com/Djihads80/Eglantine"
     },
     {
       "title": "BryceYuuu/RUN: RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
@@ -505,16 +513,8 @@
       "url": "https://github.com/BryceYuuu/RUN"
     },
     {
-      "title": "Djihads80/Eglantine: VERY experimental Nintendo Switch 2 emulator",
-      "hot": "⭐ 3.5k",
-      "desc": "VERY experimental Nintendo Switch 2 emulator",
-      "source": "github",
-      "tag": "C++",
-      "url": "https://github.com/Djihads80/Eglantine"
-    },
-    {
       "title": "KKKKhazix/agent-autoloop: 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-      "hot": "⭐ 2.4k",
+      "hot": "⭐ 2.5k",
       "desc": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
       "source": "github",
       "tag": "TypeScript",

@@ -1,24 +1,56 @@
 {
   "data": [
     {
-      "title": "That's a Wrap on Hacktoberfest 2026! 🎃👻",
-      "hot": "❤️ 47 💬 11",
-      "desc": "Hacktoberfest 2026 wrapped up on October 31st! Thank you to everyone who built, hosted, mentored,...",
-      "source": "dev",
-      "tag": "hacktoberfest,  hf26challenge",
-      "url": "https://dev.to/devteam/thats-a-wrap-on-hacktoberfest-2026-148k"
-    },
-    {
       "title": "Let's see where you code!",
-      "hot": "❤️ 64 💬 13",
+      "hot": "❤️ 67 💬 22",
       "desc": "I’ve been writing a lot about AWS lately, so let’s take a breather. This is my little corner of the...",
       "source": "dev",
       "tag": "watercooler,  discuss",
       "url": "https://dev.to/maame-codes/lets-see-where-you-code-147"
     },
     {
+      "title": "That's a Wrap on Hacktoberfest 2026! 🎃👻",
+      "hot": "❤️ 53 💬 13",
+      "desc": "Hacktoberfest 2026 wrapped up on October 31st! Thank you to everyone who built, hosted, mentored,...",
+      "source": "dev",
+      "tag": "hacktoberfest,  hf26challenge",
+      "url": "https://dev.to/devteam/thats-a-wrap-on-hacktoberfest-2026-148k"
+    },
+    {
+      "title": "Join the Presage SmartSpectra SDK Challenge: $3,000 in Prizes Across 10 Winners!",
+      "hot": "❤️ 23 💬 4",
+      "desc": "We're excited to announce our newest challenge with Presage!  The Presage SmartSpectra SDK Challenge...",
+      "source": "dev",
+      "tag": "devchallenge,  presagechallenge",
+      "url": "https://dev.to/devteam/join-the-presage-smartspectra-sdk-challenge-3000-in-prizes-across-10-winners-1370"
+    },
+    {
+      "title": "Securing an Angular Firebase AI App with Email/Password Authentication (Part 3: Lightweight Home Screen, Lazy CDK Dialog, and Header Navigation)",
+      "hot": "❤️ 6 💬 0",
+      "desc": "We now have AuthService for authentication and SignInModalComponent for users to enter their email...",
+      "source": "dev",
+      "tag": "angular,  firebase",
+      "url": "https://dev.to/gde/securing-an-angular-firebase-ai-app-with-emailpassword-authentication-part-3-lightweight-home-17dg"
+    },
+    {
+      "title": "Gemma 4 E2B in JAX on One TPU v5e: bf16 or 4-Bit, Python or Rust, and How It Stands Against vLLM",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Gemma 4 E2B served three ways on one Cloud TPU v5e chip: a pure-JAX engine in Python, the same graph written in Rust and",
+      "source": "dev",
+      "tag": "jax,  tpu",
+      "url": "https://dev.to/gde/gemma-4-e2b-in-jax-on-one-tpu-v5e-bf16-or-4-bit-python-or-rust-and-how-it-stands-against-vllm-j72"
+    },
+    {
+      "title": "Leveling the Playing Field: Building a 100% Offline Kubernetes Docs RAG Exam Assistant with Web AI, Gemma 4, and WebGPU",
+      "hot": "❤️ 8 💬 0",
+      "desc": "How to enable fair, zero-cost, air-gapped AI assistance in technical classrooms and...",
+      "source": "dev",
+      "tag": "webai,  gemma",
+      "url": "https://dev.to/gde/leveling-the-playing-field-building-a-100-offline-kubernetes-docs-rag-exam-assistant-with-web-ai-53bi"
+    },
+    {
       "title": "Welcome Thread - v400",
-      "hot": "❤️ 13 💬 32",
+      "hot": "❤️ 14 💬 46",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
@@ -26,19 +58,27 @@
     },
     {
       "title": "Prompt Pad: What Is Open Source?",
-      "hot": "❤️ 8 💬 0",
+      "hot": "❤️ 14 💬 0",
       "desc": "Chances are you're already using open-source software without realizing it.  In this episode of...",
       "source": "dev",
       "tag": "opensource,  beginners",
       "url": "https://blog.mlh.com/prompt-pad-what-is-open-source-23k6"
     },
     {
-      "title": "Gemma 4 in Rust on TorchTPU: A Native TPU Rig With PyO3 and MCP",
-      "hot": "❤️ 13 💬 1",
-      "desc": "Gemma 4 E2B with the model in Rust, served from a TPU v5e-1 VM through PyO3 and a C++ shim over ATen, with no tch and no",
+      "title": "The A2A CLI and Rust: The Same Code, Three Ways to Serve It",
+      "hot": "❤️ 12 💬 3",
+      "desc": "A tour of the A2A CLI against Rust agents on A2A v1.0: the official Rust SDK, a plain stdin/stdout program wrapped by a2",
       "source": "dev",
-      "tag": "rust,  pytorch",
-      "url": "https://dev.to/gde/gemma-4-in-rust-on-torchtpu-a-native-tpu-rig-with-pyo3-and-mcp-47j1"
+      "tag": "rust,  a2a",
+      "url": "https://dev.to/gde/the-a2a-cli-and-rust-the-same-code-three-ways-to-serve-it-4el0"
+    },
+    {
+      "title": "What I Learned Managing a Full Project with Antigravity",
+      "hot": "❤️ 9 💬 0",
+      "desc": "How my workflow evolved from solo prompting in AI Studio to managing a multi-model AI team, running...",
+      "source": "dev",
+      "tag": "antigravity,  gemini",
+      "url": "https://dev.to/gde/what-i-learned-managing-a-full-project-with-antigravity-1ppc"
     },
     {
       "title": "Prompt Pad: Frame Your Persona for Better AI Answers",
@@ -47,6 +87,14 @@
       "source": "dev",
       "tag": "ai,  promptengineering",
       "url": "https://blog.mlh.com/prompt-pad-frame-your-persona-for-better-ai-answers-eg3"
+    },
+    {
+      "title": "Securing an Angular Firebase AI App with Email/Password Authentication (Part 2: Signal Forms Sign-In Modal) [GDE]",
+      "hot": "❤️ 6 💬 1",
+      "desc": "In this blog post, we build a Sign-In modal component (SignInModalComponent) using the stable Angular...",
+      "source": "dev",
+      "tag": "angular,  firebase",
+      "url": "https://dev.to/gde/securing-an-angular-firebase-ai-app-with-emailpassword-authentication-part-2-signal-forms-3ll9"
     },
     {
       "title": "Prompt Pad: Lock Your AI's Output Schema in Google AI Studio",
@@ -63,6 +111,14 @@
       "source": "dev",
       "tag": "rust,  pytorch",
       "url": "https://dev.to/gde/gemma-4-in-rust-on-torchtpu-hands-on-with-colab-44hi"
+    },
+    {
+      "title": "The Postcard That Ate Six Grammars: 1980 Smalltalk-80, 1976 Make, TDD, and the Four Attractors of Agentic Coding",
+      "hot": "❤️ 9 💬 8",
+      "desc": "Why maintaining six separate parsers for Make, Gherkin, EBNF, DOT, SysV, and prompt checklists collapsed into a single S",
+      "source": "dev",
+      "tag": "ai,  architecture",
+      "url": "https://dev.to/gde/the-postcard-that-ate-six-grammars-1980-smalltalk-80-1976-make-tdd-and-the-four-attractors-of-45me"
     },
     {
       "title": "[Agent Platform in Action (7)] When ADK Go Graph Workflow Meets Google Research Harness (Part 1): Two-Layer Recursive Agent Fram",
@@ -98,68 +154,12 @@
     },
     {
       "title": "Your DEV posts have a beautiful new share card ✨",
-      "hot": "❤️ 175 💬 36",
+      "hot": "❤️ 176 💬 36",
       "desc": "The image that shows up when you share a DEV post just got a brand-new look!  I got to work on...",
       "source": "dev",
       "tag": "devto,  showdev",
       "url": "https://dev.to/devteam/your-dev-posts-have-a-beautiful-new-share-card-4be8"
-    },
-    {
-      "title": "All That Glisters Is Softmax: Shiny-Object Interns, Airplane-Magazine Execs, and Why AI Labs Can Only Bake In Half the Scars",
-      "hot": "❤️ 15 💬 17",
-      "desc": "Why do an eager intern with a Hacker News blog post, a C-level executive stepping off an airplane with an in-flight maga",
-      "source": "dev",
-      "tag": "ai,  programming",
-      "url": "https://dev.to/gde/all-that-glisters-is-softmax-shiny-object-interns-airplane-magazine-execs-and-why-ai-labs-can-18af"
-    },
-    {
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 19 💬 13",
-      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
-      "source": "dev",
-      "tag": "top7,  discuss",
-      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-cio"
-    },
-    {
-      "title": "Singularity News :: CCG",
-      "hot": "❤️ 49 💬 22",
-      "desc": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine    ...",
-      "source": "dev",
-      "tag": "devchallenge,  hf26challenge",
-      "url": "https://dev.to/pengeszikra/singularity-news-ccg-5ejk"
-    },
-    {
-      "title": "What was your win this week?",
-      "hot": "❤️ 33 💬 37",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "weeklyretro",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-47ci"
-    },
-    {
-      "title": "RackDoc DCIM v1.1: Background Multi-Protocol Heartbeat, 48-Port CAD Geometry, NOC Kiosk Mode & Decoupled Remote Connect",
-      "hot": "❤️ 8 💬 0",
-      "desc": "A deep dive into everything new in RackDoc DCIM v1.1: a 4-state background Heartbeat engine (Grey/Green/Orange/Red), ind",
-      "source": "dev",
-      "tag": "dcim,  flutter",
-      "url": "https://dev.to/gde/rackdoc-dcim-v11-background-multi-protocol-heartbeat-48-port-cad-geometry-noc-kiosk-mode--2j7k"
-    },
-    {
-      "title": "Giving AI Pain: The Architecture of Synthetic Scars & The Rapid-Regret Miner",
-      "hot": "❤️ 25 💬 42",
-      "desc": "Why 90% of AI coding frustration comes from the Quota vs. Prompt-Compliance Death Loop, why Rich Sutton's Bitter Lesson ",
-      "source": "dev",
-      "tag": "ai,  programming",
-      "url": "https://dev.to/gde/giving-ai-pain-the-architecture-of-synthetic-scars-the-rapid-regret-miner-1740"
-    },
-    {
-      "title": "Don't Be a Proxy Between Me and Your AI",
-      "hot": "❤️ 149 💬 133",
-      "desc": "I've had this conversation more times than I'd like to admit.  I raise a technical question in a...",
-      "source": "dev",
-      "tag": "ai,  discuss",
-      "url": "https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn"
     }
   ],
-  "updatedAt": "2026-11-04T18:42:57.781Z"
+  "updatedAt": "2026-11-04T23:58:36.700Z"
 }
