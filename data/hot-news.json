@@ -1,38 +1,54 @@
 {
-  "updatedAt": "2026-11-05T12:47:56.761Z",
+  "updatedAt": "2026-11-05T20:19:22.594Z",
   "source": "live",
   "dev": [
     {
       "title": "Let's see where you code!",
-      "hot": "❤️ 71 💬 27",
+      "hot": "❤️ 75 💬 34",
       "desc": "I’ve been writing a lot about AWS lately, so let’s take a breather. This is my little corner of the...",
       "source": "dev",
       "tag": "watercooler,  discuss",
       "url": "https://dev.to/maame-codes/lets-see-where-you-code-147"
     },
     {
-      "title": "Securing an Angular Firebase AI App with Email/Password Authentication (Part 3: Lightweight Home Screen, Lazy CDK Dialog, and Header Navigation)",
-      "hot": "❤️ 6 💬 0",
-      "desc": "We now have AuthService for authentication and SignInModalComponent for users to enter their email...",
+      "title": "Crows, Moths, and Makefiles: How 300 Megabytes of Crow DNA Explains Why a 20-Kilobyte Scar File Outsmarts a Terabyte LLM",
+      "hot": "❤️ 16 💬 6",
+      "desc": "Why do New Caledonian crows bend wire into hooks with zero training while a trillion-parameter LLM flies straight into t",
       "source": "dev",
-      "tag": "angular,  firebase",
-      "url": "https://dev.to/gde/securing-an-angular-firebase-ai-app-with-emailpassword-authentication-part-3-lightweight-home-17dg"
+      "tag": "ai,  programming",
+      "url": "https://dev.to/gde/crows-moths-and-makefiles-how-300-megabytes-of-crow-dna-explains-why-a-20-kilobyte-scar-file-36a"
+    },
+    {
+      "title": "Android 17 on a 4.9 Kernel: LineageOS 24.0 on the Pixel 3a",
+      "hot": "❤️ 5 💬 0",
+      "desc": "The Pixel 3a runs LineageOS 24.0, Android 17, on its original 4.9 kernel with SELinux enforcing and Google apps. One ker",
+      "source": "dev",
+      "tag": "android,  linux",
+      "url": "https://dev.to/gde/android-17-on-a-49-kernel-lineageos-240-on-the-pixel-3a-1mok"
     },
     {
       "title": "That's a Wrap on Hacktoberfest 2026! 🎃👻",
-      "hot": "❤️ 60 💬 14",
+      "hot": "❤️ 61 💬 14",
       "desc": "Hacktoberfest 2026 wrapped up on October 31st! Thank you to everyone who built, hosted, mentored,...",
       "source": "dev",
       "tag": "hacktoberfest,  hf26challenge",
       "url": "https://dev.to/devteam/thats-a-wrap-on-hacktoberfest-2026-148k"
     },
     {
-      "title": "The A2A CLI and Rust: The Same Code, Three Ways to Serve It",
-      "hot": "❤️ 12 💬 3",
-      "desc": "A tour of the A2A CLI against Rust agents on A2A v1.0: the official Rust SDK, a plain stdin/stdout program wrapped by a2",
+      "title": "Thank you to everyone who pointed out the phishing posts we got yesterday. We're working on improved mechanisms to automatically reject those types of attacks.",
+      "hot": "❤️ 3 💬 0",
+      "desc": "A post by Ben Halpern",
       "source": "dev",
-      "tag": "rust,  a2a",
-      "url": "https://dev.to/gde/the-a2a-cli-and-rust-the-same-code-three-ways-to-serve-it-4el0"
+      "tag": "cybersecurity,  infosec",
+      "url": "https://dev.to/ben/thank-you-to-everyone-who-pointed-out-the-phishing-posts-we-got-yesterday-were-working-on-1h9b"
+    },
+    {
+      "title": "Find the production agent failures that every health check misses",
+      "hot": "❤️ 9 💬 2",
+      "desc": "AQuA is an open-source quality agent that surfaces the production failures your health checks miss and, when you ask, tr",
+      "source": "dev",
+      "tag": "agents,  ai",
+      "url": "https://dev.to/googlecloud/find-the-production-agent-failures-that-every-health-check-misses-39j8"
     },
     {
       "title": "Gemma 4 E2B in JAX on One TPU v5e: bf16 or 4-Bit, Python or Rust, and How It Stands Against vLLM",
@@ -43,12 +59,12 @@
       "url": "https://dev.to/gde/gemma-4-e2b-in-jax-on-one-tpu-v5e-bf16-or-4-bit-python-or-rust-and-how-it-stands-against-vllm-j72"
     },
     {
-      "title": "Welcome Thread - v400",
-      "hot": "❤️ 27 💬 95",
-      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
+      "title": "Securing an Angular Firebase AI App with Email/Password Authentication (Part 3: Lightweight Home Screen, Lazy CDK Dialog, and Header Navigation)",
+      "hot": "❤️ 7 💬 0",
+      "desc": "We now have AuthService for authentication and SignInModalComponent for users to enter their email...",
       "source": "dev",
-      "tag": "welcome",
-      "url": "https://dev.to/sloan/welcome-thread-v400-2e8m"
+      "tag": "angular,  firebase",
+      "url": "https://dev.to/gde/securing-an-angular-firebase-ai-app-with-emailpassword-authentication-part-3-lightweight-home-17dg"
     },
     {
       "title": "Leveling the Playing Field: Building a 100% Offline Kubernetes Docs RAG Exam Assistant with Web AI, Gemma 4, and WebGPU",
@@ -68,19 +84,11 @@
     },
     {
       "title": "Join the Presage SmartSpectra SDK Challenge: $3,000 in Prizes Across 10 Winners!",
-      "hot": "❤️ 59 💬 9",
+      "hot": "❤️ 78 💬 15",
       "desc": "We're excited to announce our newest challenge with Presage!  The Presage SmartSpectra SDK Challenge...",
       "source": "dev",
       "tag": "devchallenge,  presagechallenge",
       "url": "https://dev.to/devteam/join-the-presage-smartspectra-sdk-challenge-3000-in-prizes-across-10-winners-1370"
-    },
-    {
-      "title": "Prompt Pad: What Is Open Source?",
-      "hot": "❤️ 18 💬 3",
-      "desc": "Chances are you're already using open-source software without realizing it.  In this episode of...",
-      "source": "dev",
-      "tag": "opensource,  beginners",
-      "url": "https://blog.mlh.com/prompt-pad-what-is-open-source-23k6"
     },
     {
       "title": "Prompt Pad: Frame Your Persona for Better AI Answers",
@@ -123,20 +131,20 @@
       "url": "https://dev.to/gde/the-postcard-that-ate-six-grammars-1980-smalltalk-80-1976-make-tdd-and-the-four-attractors-of-45me"
     },
     {
-      "title": "Profile Sprawl: Solving a Problem You Didn't Know You Had",
-      "hot": "❤️ 9 💬 0",
-      "desc": "Every public profile you own says something slightly different about you. A step by step guide to treating your bio as s",
-      "source": "dev",
-      "tag": "ai,  devtools",
-      "url": "https://dev.to/gde/profile-sprawl-solving-a-problem-you-didnt-know-you-had-19k5"
-    },
-    {
       "title": "[Agent Platform in Action (7)] When ADK Go Graph Workflow Meets Google Research Harness (Part 1): Two-Layer Recursive Agent Fram",
       "hot": "❤️ 7 💬 0",
       "desc": "Foreword: After the AI Agent Goes Online, What is the Next Bottleneck?   Welcome back to...",
       "source": "dev",
       "tag": "agents,  ai",
       "url": "https://dev.to/gde/agent-platform-in-action-7-when-adk-go-graph-workflow-meets-google-research-harness-part-1-28c1"
+    },
+    {
+      "title": "Profile Sprawl: Solving a Problem You Didn't Know You Had",
+      "hot": "❤️ 9 💬 0",
+      "desc": "Every public profile you own says something slightly different about you. A step by step guide to treating your bio as s",
+      "source": "dev",
+      "tag": "ai,  devtools",
+      "url": "https://dev.to/gde/profile-sprawl-solving-a-problem-you-didnt-know-you-had-19k5"
     },
     {
       "title": "From `main.js` Leaks to Hidden Tailwind CSS v4 Bloat — How I Built `angular-bundle-guard` with Antigravity `/learn` [GDE]",
@@ -147,185 +155,225 @@
       "url": "https://dev.to/gde/from-mainjs-leaks-to-hidden-tailwind-css-v4-bloat-how-i-built-angular-bundle-guard-with-geg"
     },
     {
-      "title": "Securing an Angular Firebase AI App with Email/Password Authentication (Part 1: Emulator, AuthService, and Route Guard) [GDE]",
-      "hot": "❤️ 7 💬 9",
-      "desc": "Anyone with the public URL can use my tokens to perform image analysis and text-to-speech, which can...",
+      "title": "Welcome Thread - v400",
+      "hot": "❤️ 30 💬 135",
+      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
-      "tag": "angular,  firebase",
-      "url": "https://dev.to/gde/securing-an-angular-firebase-ai-app-with-emailpassword-authentication-part-1-emulator-4jm"
-    },
-    {
-      "title": "Your DEV posts have a beautiful new share card ✨",
-      "hot": "❤️ 176 💬 36",
-      "desc": "The image that shows up when you share a DEV post just got a brand-new look!  I got to work on...",
-      "source": "dev",
-      "tag": "devto,  showdev",
-      "url": "https://dev.to/devteam/your-dev-posts-have-a-beautiful-new-share-card-4be8"
+      "tag": "welcome",
+      "url": "https://dev.to/sloan/welcome-thread-v400-2e8m"
     }
   ],
   "tech": [
     {
-      "title": "Sshole",
+      "title": "sshole",
       "hot": "3.0m",
       "desc": "sshhole.com",
       "source": "tech",
-      "tag": "⬆️ 99 points",
+      "tag": "⬆️ 1891 points",
       "url": "https://sshhole.com"
     },
     {
-      "title": "Baidu released ERNIE 5.5 Flash Base",
+      "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
       "hot": "3.0m",
-      "desc": "ernie.baidu.com",
+      "desc": "alpinelinux.org",
       "source": "tech",
-      "tag": "⬆️ 85 points",
-      "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/"
+      "tag": "⬆️ 444 points",
+      "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/"
     },
     {
-      "title": "Residential proxies detected on White House network",
+      "title": "Window Sweaters",
       "hot": "3.0m",
-      "desc": "layer3intel.com",
-      "source": "tech",
-      "tag": "⬆️ 1132 points",
-      "url": "https://layer3intel.com/blog/residential-proxies-white-house-network"
-    },
-    {
-      "title": "Lemmings CSS Animation",
-      "hot": "3.0m",
-      "desc": "markblah.github.io",
-      "source": "tech",
-      "tag": "⬆️ 248 points",
-      "url": "https://markblah.github.io/lemmings/"
-    },
-    {
-      "title": "Awesome repositories are no longer awesome",
-      "hot": "2.9m",
-      "desc": "erikgahner.github.io",
-      "source": "tech",
-      "tag": "⬆️ 61 points",
-      "url": "https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/"
-    },
-    {
-      "title": "A thousand fewer paths to root",
-      "hot": "2.9m",
-      "desc": "openai.com",
-      "source": "tech",
-      "tag": "⬆️ 403 points",
-      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/"
-    },
-    {
-      "title": "Images 2.6",
-      "hot": "2.9m",
-      "desc": "openai.com",
-      "source": "tech",
-      "tag": "⬆️ 328 points",
-      "url": "https://openai.com/index/introducing-images-2-6/"
-    },
-    {
-      "title": "Kimi K3.1 Pro model weights are out",
-      "hot": "2.9m",
-      "desc": "huggingface.co",
-      "source": "tech",
-      "tag": "⬆️ 561 points",
-      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
-    },
-    {
-      "title": "Partial Operator Precedence",
-      "hot": "2.9m",
-      "desc": "ziglang.org",
-      "source": "tech",
-      "tag": "⬆️ 66 points",
-      "url": "https://ziglang.org/devlog/2026/#2026-10-24"
-    },
-    {
-      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
-      "hot": "2.9m",
-      "desc": "ricursive.com",
-      "source": "tech",
-      "tag": "⬆️ 308 points",
-      "url": "https://www.ricursive.com/ripple"
-    },
-    {
-      "title": "Spreading Liquid with Three.js",
-      "hot": "2.9m",
-      "desc": "mofu-dev.com",
-      "source": "tech",
-      "tag": "⬆️ 138 points",
-      "url": "https://mofu-dev.com/en/blog/fluid-foundation/"
-    },
-    {
-      "title": "A new Go API for JSON",
-      "hot": "2.8m",
-      "desc": "go.dev",
-      "source": "tech",
-      "tag": "⬆️ 342 points",
-      "url": "https://go.dev/blog/jsonv2"
-    },
-    {
-      "title": "TScert: A Sound Core for TypeScript",
-      "hot": "2.8m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 7 points",
-      "url": "https://github.com/cristianoc/TScert"
+      "tag": "⬆️ 117 points",
+      "url": "https://github.com/saragordic/window-sweaters"
     },
     {
-      "title": "Moment of Ruby: An Argument for Nothing",
-      "hot": "2.8m",
-      "desc": "aha.io",
+      "title": "Motorola Signature 27 with GrapheneOS support",
+      "hot": "3.0m",
+      "desc": "motorolanews.com",
       "source": "tech",
-      "tag": "⬆️ 36 points",
-      "url": "https://www.aha.io/engineering/articles/moment-of-ruby-an-argument-for-nothing"
+      "tag": "⬆️ 273 points",
+      "url": "https://motorolanews.com/motorola-signature-27-2/"
     },
     {
-      "title": "TextEdit vs. Pages",
-      "hot": "2.8m",
-      "desc": "leancrew.com",
+      "title": "The Hackintosh Reborn",
+      "hot": "2.9m",
+      "desc": "naut.ca",
       "source": "tech",
-      "tag": "⬆️ 31 points",
-      "url": "https://leancrew.com/all-this/2026/10/textedit-vs-pages/"
+      "tag": "⬆️ 29 points",
+      "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/"
     },
     {
-      "title": "Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio",
-      "hot": "2.8m",
-      "desc": "altera.com",
+      "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
+      "hot": "2.9m",
+      "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 40 points",
-      "url": "https://www.altera.com/newsroom/agilex-2x"
+      "tag": "⬆️ 44 points",
+      "url": "https://github.com/rivet-dev/rivet"
     },
     {
-      "title": "Insects don't swarm at LED lights",
-      "hot": "2.8m",
-      "desc": "birdsoutsidemywindow.org",
+      "title": "September in Servo: progress, rounded rectangles, and more",
+      "hot": "2.9m",
+      "desc": "servo.org",
       "source": "tech",
-      "tag": "⬆️ 279 points",
-      "url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/"
+      "tag": "⬆️ 140 points",
+      "url": "https://servo.org/blog/2026/11/05/september-in-servo/"
     },
     {
-      "title": "Being a kid making games in the early 2000s",
+      "title": "My psychophysics as a bilateral cochlear implant user",
+      "hot": "2.9m",
+      "desc": "claude.ai",
+      "source": "tech",
+      "tag": "⬆️ 120 points",
+      "url": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf"
+    },
+    {
+      "title": "The Lisp curse, now coming to your ecosystem",
+      "hot": "2.9m",
+      "desc": "javahippie.net",
+      "source": "tech",
+      "tag": "⬆️ 153 points",
+      "url": "https://javahippie.net/programming/llm/2026/03/05/the-lisp-curse-coming-to-your-ecosystem.html"
+    },
+    {
+      "title": "I wish tech companies knew more about me",
+      "hot": "2.9m",
+      "desc": "rakhim.exotext.com",
+      "source": "tech",
+      "tag": "⬆️ 185 points",
+      "url": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me"
+    },
+    {
+      "title": "Download your favourite YouTube videos",
+      "hot": "2.9m",
+      "desc": "criminallyvulgar.dev",
+      "source": "tech",
+      "tag": "⬆️ 204 points",
+      "url": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/"
+    },
+    {
+      "title": "Goodbye from Salon",
+      "hot": "2.8m",
+      "desc": "salon.com",
+      "source": "tech",
+      "tag": "⬆️ 44 points",
+      "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/"
+    },
+    {
+      "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
+      "hot": "2.8m",
+      "desc": "ycombinator.com",
+      "source": "tech",
+      "tag": "⬆️ 1 points",
+      "url": "https://www.ycombinator.com/companies/bild-ai/jobs"
+    },
+    {
+      "title": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
+      "hot": "2.8m",
+      "desc": "openssh.org",
+      "source": "tech",
+      "tag": "⬆️ 208 points",
+      "url": "https://www.openssh.org/releasenotes.html#10.6p2"
+    },
+    {
+      "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
+      "hot": "2.8m",
+      "desc": "linum.ai",
+      "source": "tech",
+      "tag": "⬆️ 81 points",
+      "url": "https://www.linum.ai/field-notes/pjit-21k"
+    },
+    {
+      "title": "Obscure audio codec is a perfect fit for the N64",
+      "hot": "2.8m",
+      "desc": "phoboslab.org",
+      "source": "tech",
+      "tag": "⬆️ 145 points",
+      "url": "https://phoboslab.org/log/2026/11/n64-ulc-codec"
+    },
+    {
+      "title": "The Stacks Project, Formalized in Lean",
+      "hot": "2.8m",
+      "desc": "axiommath.ai",
+      "source": "tech",
+      "tag": "⬆️ 44 points",
+      "url": "https://axiommath.ai/research/the-stacks-project-formalized/"
+    },
+    {
+      "title": "MCP Explained",
       "hot": "2.7m",
-      "desc": "jaytholen.net",
+      "desc": "mcp-explained.com",
       "source": "tech",
-      "tag": "⬆️ 42 points",
-      "url": "https://jaytholen.net/teengamedev/"
+      "tag": "⬆️ 183 points",
+      "url": "https://mcp-explained.com/"
     },
     {
-      "title": "OpenSSH 10.6p2 has been released with a workaround for a critical vulnerability",
+      "title": "NTS: Authenticated Time at Meta",
       "hot": "2.7m",
-      "desc": "hachyderm.io",
+      "desc": "engineering.fb.com",
       "source": "tech",
-      "tag": "⬆️ 68 points",
-      "url": "https://hachyderm.io/@damienmiller/117563026759098135"
+      "tag": "⬆️ 14 points",
+      "url": "https://engineering.fb.com/2026/10/06/production-engineering/nts-authenticated-time-at-meta/"
     },
     {
-      "title": "Conductor is joining Meta",
+      "title": "GPT-6 Astra covertly underperforms on safety research",
       "hot": "2.7m",
-      "desc": "conductor.build",
+      "desc": "alignment.openai.com",
       "source": "tech",
-      "tag": "⬆️ 187 points",
-      "url": "https://www.conductor.build/announcement"
+      "tag": "⬆️ 222 points",
+      "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/"
     }
   ],
   "space": [
+    {
+      "title": "Cork Takes the Heat So DRACO’s Data Can Survive",
+      "hot": "11/5",
+      "desc": "\nMozelos, Portugal, September 2, 2026 – Amorim Cork Solutions is contributing its P50 cork-based thermal protection material to DRACO, a European Spac",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/cork-takes-the-heat-so-dracos-data-can-survive/"
+    },
+    {
+      "title": "Midwestern City Lights",
+      "hot": "11/5",
+      "desc": "City lights from the Midwestern United States to the East Coast sparkle across the landscape a couple of hours before sunrise on Oct. 18, 2026. Major ",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/image-article/midwestern-city-lights/"
+    },
+    {
+      "title": "NASA Astronauts to Answer Questions from Florida Students",
+      "hot": "11/5",
+      "desc": "Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the Interna",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2/"
+    },
+    {
+      "title": "Building a ‘highway to the moon and back’ with Winnie Lai",
+      "hot": "11/5",
+      "desc": "\nIn this episode, SpaceNews’ Mike Gruss speaks with Winnie Lai, CEO of Auriga Space. They talk about how electromagnetic launch technology that “catap",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/building-a-highway-to-the-moon-and-back-with-winnie-lai/"
+    },
+    {
+      "title": "OHB Awarded €554 Million Contract for Next-Gen Sentinel-3 Satellite",
+      "hot": "11/5",
+      "desc": "German satellite manufacturer OHB has secured a €554 million contract from the European Space Agency (ESA) to develop the first Sentinel-3 Next Genera",
+      "source": "space",
+      "tag": "European Spaceflight",
+      "url": "https://europeanspaceflight.com/ohb-awarded-e554-million-contract-for-next-gen-sentinel-3-satellite/"
+    },
+    {
+      "title": "Hubble Learns Galactic History From Stars",
+      "hot": "11/5",
+      "desc": "This Hubble image features the sparkling collection of stars named Messier 30 (M30), also called NGC 7099.",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/"
+    },
     {
       "title": "APOD: 2026 November 5 – Enceladus in Silhouette",
       "hot": "11/5",
@@ -397,60 +445,12 @@
       "source": "space",
       "tag": "NASA",
       "url": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/"
-    },
-    {
-      "title": "NASA’s Neil Gehrels Swift Observatory reenters over Western Indonesia",
-      "hot": "11/4",
-      "desc": "NASA’s Neil Gehrels Swift Observatory plummeted back into Earth’s atmosphere Wednesday over western Indonesia, ending nearly 22 years in orbit for the",
-      "source": "space",
-      "tag": "Spaceflight Now",
-      "url": "https://spaceflightnow.com/2026/11/04/nasas-neil-gehrels-swift-observatory-reenters-over-western-indonesia/"
-    },
-    {
-      "title": "Trace Gas Orbiter discovers potential evidence of volcanic activity on Mars via atmospheric observations",
-      "hot": "11/4",
-      "desc": "Using data from the joint European and Russian ExoMars Trace Gas Orbiter at Mars, an…\r\nThe post Trace Gas Orbiter discovers potential evidence of volc",
-      "source": "space",
-      "tag": "NASASpaceflight",
-      "url": "https://www.nasaspaceflight.com/2026/11/tgo-volcanic-activity/"
-    },
-    {
-      "title": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
-      "hot": "11/4",
-      "desc": "NASA selected three companies on Wednesday to perform work to develop Ka-band space relay capability concepts that are compatible with current mission",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/"
-    },
-    {
-      "title": "“Blue Tsunami” Puts Democrats in Control of House and Senate Next Year",
-      "hot": "11/4",
-      "desc": "Democratic victories in yesterday’s midterm elections are being touted not as a “Blue wave,” but a “Blue tsunami” as votes are counted throughout the ",
-      "source": "space",
-      "tag": "SpacePolicyOnline.com",
-      "url": "https://spacepolicyonline.com/news/blue-tsunami-puts-democrats-in-control-of-house-and-senate-next-year-2/"
-    },
-    {
-      "title": "NASA Navigation Experiment Shows Promise for Planetary Landings",
-      "hot": "11/4",
-      "desc": "NASA successfully demonstrated technology designed to help spacecraft autonomously navigate to safe landing sites on the Moon and on other planets. An",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/"
-    },
-    {
-      "title": "“Blue Tsunami” Puts Democrats in Control of House and Senate Next Year",
-      "hot": "11/4",
-      "desc": "Democratic victories in yesterday’s midterm elections are being touted not as a “Blue wave,” but a “Blue tsunami” as votes are counted throughout the ",
-      "source": "space",
-      "tag": "SpacePolicyOnline.com",
-      "url": "https://spacepolicyonline.com/news/blue-tsunami-puts-democrats-in-control-of-house-and-senate-next-year/"
     }
   ],
   "github": [
     {
       "title": "deepseek-ai/dsh-superagent-prototype: Towards a More Autonomous Agent System",
-      "hot": "⭐ 19.2k",
+      "hot": "⭐ 19.4k",
       "desc": "Towards a More Autonomous Agent System",
       "source": "github",
       "tag": "TypeScript",
@@ -458,7 +458,7 @@
     },
     {
       "title": "storytold/craft-anything: Craft Anything: understand how any software works, and",
-      "hot": "⭐ 13.9k",
+      "hot": "⭐ 14.7k",
       "desc": "Craft Anything: understand how any software works, and craft your own.",
       "source": "github",
       "tag": "Rust",
@@ -466,7 +466,7 @@
     },
     {
       "title": "heydamir/unslop: A Claude skill that turns vibecoded, AI-looking UI into a desig",
-      "hot": "⭐ 9.2k",
+      "hot": "⭐ 9.7k",
       "desc": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
       "source": "github",
       "tag": "JavaScript",
@@ -474,7 +474,7 @@
     },
     {
       "title": "wangzan101/Mika: An on-device AI agent for Android that operates apps and the we",
-      "hot": "⭐ 7.0k",
+      "hot": "⭐ 7.1k",
       "desc": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
       "source": "github",
       "tag": "Kotlin",
@@ -482,7 +482,7 @@
     },
     {
       "title": "patch-gg/pixelfx: 244 pixel art effects, every one a small piece of code. Plus a",
-      "hot": "⭐ 5.1k",
+      "hot": "⭐ 5.2k",
       "desc": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
       "source": "github",
       "tag": "JavaScript",
@@ -490,7 +490,7 @@
     },
     {
       "title": "valentderah/totk-pc-recomp: Static recompilation of The Legend of Zelda: Tears o",
-      "hot": "⭐ 5.0k",
+      "hot": "⭐ 5.1k",
       "desc": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
       "source": "github",
       "tag": "C",
@@ -498,7 +498,7 @@
     },
     {
       "title": "Djihads80/Eglantine: VERY experimental Nintendo Switch 2 emulator",
-      "hot": "⭐ 4.1k",
+      "hot": "⭐ 4.3k",
       "desc": "VERY experimental Nintendo Switch 2 emulator",
       "source": "github",
       "tag": "C++",
@@ -514,7 +514,7 @@
     },
     {
       "title": "KKKKhazix/agent-autoloop: 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-      "hot": "⭐ 3.1k",
+      "hot": "⭐ 3.2k",
       "desc": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
       "source": "github",
       "tag": "TypeScript",
@@ -530,43 +530,43 @@
     },
     {
       "title": "paipiange/nvzhuang: 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自",
-      "hot": "⭐ 2.2k",
+      "hot": "⭐ 2.3k",
       "desc": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
       "source": "github",
       "tag": "HTML",
       "url": "https://github.com/paipiange/nvzhuang"
     },
     {
+      "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto: Google_AI_Pro_2Year_ZeroCost_Auto",
+      "hot": "⭐ 2.2k",
+      "desc": "Google_AI_Pro_2Year_ZeroCost_Auto",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto"
+    },
+    {
       "title": "elvarofficial/teardown: A Claude Code skill that turns any machine into a 3D sim",
-      "hot": "⭐ 2.0k",
+      "hot": "⭐ 2.2k",
       "desc": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
       "source": "github",
       "tag": "JavaScript",
       "url": "https://github.com/elvarofficial/teardown"
     },
     {
-      "title": "caru-ini/stack-diagram: Agent skill: describe your stack in a sentence, get an a",
-      "hot": "⭐ 1.8k",
-      "desc": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+      "title": "zortos293/Lichii: VERY experimental Nintendo Switch 2 emulator",
+      "hot": "⭐ 2.0k",
+      "desc": "VERY experimental Nintendo Switch 2 emulator",
       "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/caru-ini/stack-diagram"
+      "tag": "C++",
+      "url": "https://github.com/zortos293/Lichii"
     },
     {
-      "title": "govijr/terminal-mac: Entire MacOS running in your terminal.",
-      "hot": "⭐ 1.8k",
-      "desc": "Entire MacOS running in your terminal.",
-      "source": "github",
-      "tag": "Swift",
-      "url": "https://github.com/govijr/terminal-mac"
-    },
-    {
-      "title": "Pika-Labs/Pika-H3-Flex: Pika H3 Flex: video and audio generation inference",
-      "hot": "⭐ 1.7k",
-      "desc": "Pika H3 Flex: video and audio generation inference",
+      "title": "JuneYaooo/rea-video: Reverse-engineer any video, shot by shot: tells whether eac",
+      "hot": "⭐ 2.0k",
+      "desc": "Reverse-engineer any video, shot by shot: tells whether each shot was filmed, AI-generated or coded, how the captions, cuts and audio were made, and h",
       "source": "github",
       "tag": "Python",
-      "url": "https://github.com/Pika-Labs/Pika-H3-Flex"
+      "url": "https://github.com/JuneYaooo/rea-video"
     }
   ]
 }
