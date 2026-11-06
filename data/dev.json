@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "Congrats to the Kaggle Benchmarking Challenge Winners!",
-      "hot": "❤️ 101 💬 22",
+      "hot": "❤️ 111 💬 23",
       "desc": "A few weeks ago we teamed up with Kaggle to ask a deceptively simple question: how do you actually...",
       "source": "dev",
       "tag": "devchallenge,  kagglechallenge",
@@ -10,19 +10,51 @@
     },
     {
       "title": "What was your win this week?",
-      "hot": "❤️ 43 💬 15",
+      "hot": "❤️ 66 💬 38",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "weeklyretro",
       "url": "https://dev.to/devteam/what-was-your-win-this-week-28dh"
     },
     {
+      "title": "Want to make DEV your full-time job? We're hiring a Community Manager!",
+      "hot": "❤️ 37 💬 2",
+      "desc": "Hey friends 👋  Back in June, we posted about a Community Program Manager role. Thank you to everyone...",
+      "source": "dev",
+      "tag": "career,  meta",
+      "url": "https://dev.to/devteam/want-to-make-dev-your-full-time-job-were-hiring-a-community-manager-4p1f"
+    },
+    {
+      "title": "One Word, Two GPUs: Why Gemma 4 Answers the Same Question Differently on a Laptop and a Tesla T4",
+      "hot": "❤️ 14 💬 1",
+      "desc": "Same GGUF file, same llama.cpp build, greedy decoding, and a GTX 1650 Ti answers $20 where a Tesla T4 answers 2000. One ",
+      "source": "dev",
+      "tag": "gemma,  llamacpp",
+      "url": "https://dev.to/gde/one-word-two-gpus-why-gemma-4-answers-the-same-question-differently-on-a-laptop-and-a-tesla-t4-1dj2"
+    },
+    {
       "title": "Let's see where you code!",
-      "hot": "❤️ 83 💬 39",
+      "hot": "❤️ 84 💬 40",
       "desc": "I’ve been writing a lot about AWS lately, so let’s take a breather. This is my little corner of the...",
       "source": "dev",
       "tag": "watercooler,  discuss",
       "url": "https://dev.to/maame-codes/lets-see-where-you-code-147"
+    },
+    {
+      "title": "Containing the Autonomous Mind: Sub-Second Zero-Trust Execution with GKE Agent Sandbox",
+      "hot": "❤️ 17 💬 1",
+      "desc": "Why standard Kubernetes pods fail when AI agents start writing code and how to build a sub-second,...",
+      "source": "dev",
+      "tag": "ai,  googlecloud",
+      "url": "https://dev.to/gde/containing-the-autonomous-mind-sub-second-zero-trust-execution-with-gke-agent-sandbox-5e6b"
+    },
+    {
+      "title": "Prompt Pad: Show Your AI How to Respond with Few-Shot Examples",
+      "hot": "❤️ 12 💬 0",
+      "desc": "Want AI to answer in a specific way? Don't just tell it. Show it.  In this episode of Prompt Pad,...",
+      "source": "dev",
+      "tag": "ai,  beginners",
+      "url": "https://blog.mlh.com/prompt-pad-show-your-ai-how-to-respond-with-few-shot-examples-2869"
     },
     {
       "title": "Android 17 on a 4.9 Kernel: LineageOS 24.0 on the Pixel 3a",
@@ -89,6 +121,14 @@
       "url": "https://dev.to/googlecloud/find-the-production-agent-failures-that-every-health-check-misses-39j8"
     },
     {
+      "title": "The Fibonacci Spiral Is Secretly a Straight Line",
+      "hot": "❤️ 13 💬 2",
+      "desc": "I folded it, unfolded it, and watched it flip to the other side. A three.js experiment, the math...",
+      "source": "dev",
+      "tag": "threejs,  javascript",
+      "url": "https://dev.to/highflyer910/the-fibonacci-spiral-is-secretly-a-straight-line-4b4p"
+    },
+    {
       "title": "Securing an Angular Firebase AI App with Email/Password Authentication (Part 2: Signal Forms Sign-In Modal) [GDE]",
       "hot": "❤️ 6 💬 1",
       "desc": "In this blog post, we build a Sign-In modal component (SignInModalComponent) using the stable Angular...",
@@ -106,7 +146,7 @@
     },
     {
       "title": "That's a Wrap on Hacktoberfest 2026! 🎃👻",
-      "hot": "❤️ 62 💬 14",
+      "hot": "❤️ 65 💬 14",
       "desc": "Hacktoberfest 2026 wrapped up on October 31st! Thank you to everyone who built, hosted, mentored,...",
       "source": "dev",
       "tag": "hacktoberfest,  hf26challenge",
@@ -119,47 +159,7 @@
       "source": "dev",
       "tag": "rust,  pytorch",
       "url": "https://dev.to/gde/gemma-4-in-rust-on-torchtpu-hands-on-with-colab-44hi"
-    },
-    {
-      "title": "The Postcard That Ate Six Grammars: 1980 Smalltalk-80, 1976 Make, TDD, and the Four Attractors of Agentic Coding",
-      "hot": "❤️ 9 💬 8",
-      "desc": "Why maintaining six separate parsers for Make, Gherkin, EBNF, DOT, SysV, and prompt checklists collapsed into a single S",
-      "source": "dev",
-      "tag": "ai,  architecture",
-      "url": "https://dev.to/gde/the-postcard-that-ate-six-grammars-1980-smalltalk-80-1976-make-tdd-and-the-four-attractors-of-45me"
-    },
-    {
-      "title": "[Agent Platform in Action (7)] When ADK Go Graph Workflow Meets Google Research Harness (Part 1): Two-Layer Recursive Agent Fram",
-      "hot": "❤️ 7 💬 0",
-      "desc": "Foreword: After the AI Agent Goes Online, What is the Next Bottleneck?   Welcome back to...",
-      "source": "dev",
-      "tag": "agents,  ai",
-      "url": "https://dev.to/gde/agent-platform-in-action-7-when-adk-go-graph-workflow-meets-google-research-harness-part-1-28c1"
-    },
-    {
-      "title": "Profile Sprawl: Solving a Problem You Didn't Know You Had",
-      "hot": "❤️ 9 💬 0",
-      "desc": "Every public profile you own says something slightly different about you. A step by step guide to treating your bio as s",
-      "source": "dev",
-      "tag": "ai,  devtools",
-      "url": "https://dev.to/gde/profile-sprawl-solving-a-problem-you-didnt-know-you-had-19k5"
-    },
-    {
-      "title": "From `main.js` Leaks to Hidden Tailwind CSS v4 Bloat — How I Built `angular-bundle-guard` with Antigravity `/learn` [GDE]",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Day 33: From main.js Leaks to Hidden Tailwind CSS v4 Bloat — How I Built...",
-      "source": "dev",
-      "tag": "angular,  antigravity",
-      "url": "https://dev.to/gde/from-mainjs-leaks-to-hidden-tailwind-css-v4-bloat-how-i-built-angular-bundle-guard-with-geg"
-    },
-    {
-      "title": "Gemma 4 E2B in JAX on One TPU v5e: bf16 or 4-Bit, Python or Rust, and How It Stands Against vLLM",
-      "hot": "❤️ 11 💬 0",
-      "desc": "Gemma 4 E2B served three ways on one Cloud TPU v5e chip: a pure-JAX engine in Python, the same graph written in Rust and",
-      "source": "dev",
-      "tag": "jax,  tpu",
-      "url": "https://dev.to/gde/gemma-4-e2b-in-jax-on-one-tpu-v5e-bf16-or-4-bit-python-or-rust-and-how-it-stands-against-vllm-j72"
     }
   ],
-  "updatedAt": "2026-11-06T15:25:16.895Z"
+  "updatedAt": "2026-11-06T20:57:10.104Z"
 }
