@@ -1,70 +1,46 @@
 {
-  "updatedAt": "2026-11-06T07:37:44.193Z",
+  "updatedAt": "2026-11-06T15:25:16.895Z",
   "source": "live",
   "dev": [
     {
       "title": "Congrats to the Kaggle Benchmarking Challenge Winners!",
-      "hot": "❤️ 82 💬 16",
+      "hot": "❤️ 101 💬 22",
       "desc": "A few weeks ago we teamed up with Kaggle to ask a deceptively simple question: how do you actually...",
       "source": "dev",
       "tag": "devchallenge,  kagglechallenge",
       "url": "https://dev.to/devteam/congrats-to-the-kaggle-benchmarking-challenge-winners-2moh"
     },
     {
-      "title": "Crows, Moths, and Makefiles: How 300 Megabytes of Crow DNA Explains Why a 20-Kilobyte Scar File Outsmarts a Terabyte LLM",
-      "hot": "❤️ 16 💬 10",
-      "desc": "Why do New Caledonian crows bend wire into hooks with zero training while a trillion-parameter LLM flies straight into t",
+      "title": "What was your win this week?",
+      "hot": "❤️ 43 💬 15",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
-      "tag": "ai,  programming",
-      "url": "https://dev.to/gde/crows-moths-and-makefiles-how-300-megabytes-of-crow-dna-explains-why-a-20-kilobyte-scar-file-36a"
+      "tag": "weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-28dh"
     },
     {
       "title": "Let's see where you code!",
-      "hot": "❤️ 77 💬 36",
+      "hot": "❤️ 83 💬 39",
       "desc": "I’ve been writing a lot about AWS lately, so let’s take a breather. This is my little corner of the...",
       "source": "dev",
       "tag": "watercooler,  discuss",
       "url": "https://dev.to/maame-codes/lets-see-where-you-code-147"
     },
     {
-      "title": "That's a Wrap on Hacktoberfest 2026! 🎃👻",
-      "hot": "❤️ 61 💬 14",
-      "desc": "Hacktoberfest 2026 wrapped up on October 31st! Thank you to everyone who built, hosted, mentored,...",
-      "source": "dev",
-      "tag": "hacktoberfest,  hf26challenge",
-      "url": "https://dev.to/devteam/thats-a-wrap-on-hacktoberfest-2026-148k"
-    },
-    {
-      "title": "Thank you to everyone who pointed out the phishing posts we got yesterday. We're working on improved mechanisms to automatically reject those types of attacks.",
-      "hot": "❤️ 6 💬 1",
-      "desc": "A post by Ben Halpern",
-      "source": "dev",
-      "tag": "cybersecurity,  infosec",
-      "url": "https://dev.to/ben/thank-you-to-everyone-who-pointed-out-the-phishing-posts-we-got-yesterday-were-working-on-1h9b"
-    },
-    {
       "title": "Android 17 on a 4.9 Kernel: LineageOS 24.0 on the Pixel 3a",
-      "hot": "❤️ 9 💬 1",
+      "hot": "❤️ 10 💬 1",
       "desc": "The Pixel 3a runs LineageOS 24.0, Android 17, on its original 4.9 kernel with SELinux enforcing and Google apps. One ker",
       "source": "dev",
       "tag": "android,  linux",
       "url": "https://dev.to/gde/android-17-on-a-49-kernel-lineageos-240-on-the-pixel-3a-1mok"
     },
     {
-      "title": "Gemma 4 E2B in JAX on One TPU v5e: bf16 or 4-Bit, Python or Rust, and How It Stands Against vLLM",
-      "hot": "❤️ 10 💬 0",
-      "desc": "Gemma 4 E2B served three ways on one Cloud TPU v5e chip: a pure-JAX engine in Python, the same graph written in Rust and",
+      "title": "Crows, Moths, and Makefiles: How 300 Megabytes of Crow DNA Explains Why a 20-Kilobyte Scar File Outsmarts a Terabyte LLM",
+      "hot": "❤️ 18 💬 11",
+      "desc": "Why do New Caledonian crows bend wire into hooks with zero training while a trillion-parameter LLM flies straight into t",
       "source": "dev",
-      "tag": "jax,  tpu",
-      "url": "https://dev.to/gde/gemma-4-e2b-in-jax-on-one-tpu-v5e-bf16-or-4-bit-python-or-rust-and-how-it-stands-against-vllm-j72"
-    },
-    {
-      "title": "Who is building solutions with documents?",
-      "hot": "❤️ 6 💬 2",
-      "desc": "Digital transformation, anyone? ",
-      "source": "dev",
-      "tag": "discuss",
-      "url": "https://dev.to/missamarakay/who-is-building-solutions-for-documents-4d58"
+      "tag": "ai,  programming",
+      "url": "https://dev.to/gde/crows-moths-and-makefiles-how-300-megabytes-of-crow-dna-explains-why-a-20-kilobyte-scar-file-36a"
     },
     {
       "title": "Prompt Pad: What Are Open-Weight Models?",
@@ -73,14 +49,6 @@
       "source": "dev",
       "tag": "opensource,  ai",
       "url": "https://blog.mlh.com/prompt-pad-what-are-open-weight-models-1ghh"
-    },
-    {
-      "title": "Find the production agent failures that every health check misses",
-      "hot": "❤️ 9 💬 3",
-      "desc": "AQuA is an open-source quality agent that surfaces the production failures your health checks miss and, when you ask, tr",
-      "source": "dev",
-      "tag": "agents,  ai",
-      "url": "https://dev.to/googlecloud/find-the-production-agent-failures-that-every-health-check-misses-39j8"
     },
     {
       "title": "Leveling the Playing Field: Building a 100% Offline Kubernetes Docs RAG Exam Assistant with Web AI, Gemma 4, and WebGPU",
@@ -99,12 +67,28 @@
       "url": "https://dev.to/gde/what-i-learned-managing-a-full-project-with-antigravity-1ppc"
     },
     {
-      "title": "Prompt Pad: Frame Your Persona for Better AI Answers",
-      "hot": "❤️ 18 💬 0",
-      "desc": "Want better answers from AI? Start by telling it who to be.  In this episode of Prompt Pad,...",
+      "title": "Thank you to everyone who pointed out the phishing posts we got yesterday. We're working on improved mechanisms to automatically reject those types of attacks.",
+      "hot": "❤️ 11 💬 1",
+      "desc": "A post by Ben Halpern",
       "source": "dev",
-      "tag": "ai,  promptengineering",
-      "url": "https://blog.mlh.com/prompt-pad-frame-your-persona-for-better-ai-answers-eg3"
+      "tag": "cybersecurity,  infosec",
+      "url": "https://dev.to/ben/thank-you-to-everyone-who-pointed-out-the-phishing-posts-we-got-yesterday-were-working-on-1h9b"
+    },
+    {
+      "title": "Who is building solutions with documents?",
+      "hot": "❤️ 6 💬 3",
+      "desc": "Digital transformation, anyone? ",
+      "source": "dev",
+      "tag": "discuss",
+      "url": "https://dev.to/missamarakay/who-is-building-solutions-for-documents-4d58"
+    },
+    {
+      "title": "Find the production agent failures that every health check misses",
+      "hot": "❤️ 10 💬 4",
+      "desc": "AQuA is an open-source quality agent that surfaces the production failures your health checks miss and, when you ask, tr",
+      "source": "dev",
+      "tag": "agents,  ai",
+      "url": "https://dev.to/googlecloud/find-the-production-agent-failures-that-every-health-check-misses-39j8"
     },
     {
       "title": "Securing an Angular Firebase AI App with Email/Password Authentication (Part 2: Signal Forms Sign-In Modal) [GDE]",
@@ -123,20 +107,20 @@
       "url": "https://blog.mlh.com/prompt-pad-lock-your-ais-output-schema-in-google-ai-studio-53io"
     },
     {
+      "title": "That's a Wrap on Hacktoberfest 2026! 🎃👻",
+      "hot": "❤️ 62 💬 14",
+      "desc": "Hacktoberfest 2026 wrapped up on October 31st! Thank you to everyone who built, hosted, mentored,...",
+      "source": "dev",
+      "tag": "hacktoberfest,  hf26challenge",
+      "url": "https://dev.to/devteam/thats-a-wrap-on-hacktoberfest-2026-148k"
+    },
+    {
       "title": "Gemma 4 in Rust on TorchTPU: Hands On With Colab",
       "hot": "❤️ 8 💬 0",
       "desc": "A Rust crate reads the checkpoint, runs all 35 layers of Gemma 4 E2B and drives the decode loop on one TPU v5e chip in C",
       "source": "dev",
       "tag": "rust,  pytorch",
       "url": "https://dev.to/gde/gemma-4-in-rust-on-torchtpu-hands-on-with-colab-44hi"
-    },
-    {
-      "title": "Welcome Thread - v400",
-      "hot": "❤️ 32 💬 157",
-      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
-      "source": "dev",
-      "tag": "welcome",
-      "url": "https://dev.to/sloan/welcome-thread-v400-2e8m"
     },
     {
       "title": "The Postcard That Ate Six Grammars: 1980 Smalltalk-80, 1976 Make, TDD, and the Four Attractors of Agentic Coding",
@@ -161,9 +145,317 @@
       "source": "dev",
       "tag": "ai,  devtools",
       "url": "https://dev.to/gde/profile-sprawl-solving-a-problem-you-didnt-know-you-had-19k5"
+    },
+    {
+      "title": "From `main.js` Leaks to Hidden Tailwind CSS v4 Bloat — How I Built `angular-bundle-guard` with Antigravity `/learn` [GDE]",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Day 33: From main.js Leaks to Hidden Tailwind CSS v4 Bloat — How I Built...",
+      "source": "dev",
+      "tag": "angular,  antigravity",
+      "url": "https://dev.to/gde/from-mainjs-leaks-to-hidden-tailwind-css-v4-bloat-how-i-built-angular-bundle-guard-with-geg"
+    },
+    {
+      "title": "Gemma 4 E2B in JAX on One TPU v5e: bf16 or 4-Bit, Python or Rust, and How It Stands Against vLLM",
+      "hot": "❤️ 11 💬 0",
+      "desc": "Gemma 4 E2B served three ways on one Cloud TPU v5e chip: a pure-JAX engine in Python, the same graph written in Rust and",
+      "source": "dev",
+      "tag": "jax,  tpu",
+      "url": "https://dev.to/gde/gemma-4-e2b-in-jax-on-one-tpu-v5e-bf16-or-4-bit-python-or-rust-and-how-it-stands-against-vllm-j72"
+    }
+  ],
+  "tech": [
+    {
+      "title": "Gemini Omni 1.2 Flash",
+      "hot": "3.0m",
+      "desc": "blog.google",
+      "source": "tech",
+      "tag": "⬆️ 116 points",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
+    },
+    {
+      "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+      "hot": "3.0m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 430 points",
+      "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105"
+    },
+    {
+      "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+      "hot": "3.0m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 451 points",
+      "url": "https://github.com/ppmpreetham/BUI"
+    },
+    {
+      "title": "Claude Code sends your email address to websites",
+      "hot": "3.0m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 1394 points",
+      "url": "https://github.com/anthropics/claude-code/issues/107757"
+    },
+    {
+      "title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
+      "hot": "2.9m",
+      "desc": "jhr.pensoft.net",
+      "source": "tech",
+      "tag": "⬆️ 100 points",
+      "url": "https://jhr.pensoft.net/articles.php?id=9096"
+    },
+    {
+      "title": "sshole",
+      "hot": "2.9m",
+      "desc": "sshhole.com",
+      "source": "tech",
+      "tag": "⬆️ 2838 points",
+      "url": "https://sshhole.com"
+    },
+    {
+      "title": "FAA Begins Retiring Decades Old Floppy Disks from Air Traffic Control",
+      "hot": "2.9m",
+      "desc": "faa.gov",
+      "source": "tech",
+      "tag": "⬆️ 7 points",
+      "url": "https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air"
+    },
+    {
+      "title": "Kugelblitz – Mac-Native Google Earth Alternative",
+      "hot": "2.9m",
+      "desc": "apps.metaebene.me",
+      "source": "tech",
+      "tag": "⬆️ 169 points",
+      "url": "https://apps.metaebene.me/en/kugelblitz"
+    },
+    {
+      "title": "We've built an open-source feature flag server for 11 years",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 76 points",
+      "url": "https://github.com/Unleash/unleash"
+    },
+    {
+      "title": "Zero Hour: Telling time was a matter of survival and strategy during WWI (2014)",
+      "hot": "2.9m",
+      "desc": "laphamsquarterly.org",
+      "source": "tech",
+      "tag": "⬆️ 15 points",
+      "url": "https://www.laphamsquarterly.org/roundtable/zero-hour"
+    },
+    {
+      "title": "MS Paint Remote Code Execution Vulnerability",
+      "hot": "2.9m",
+      "desc": "cve.org",
+      "source": "tech",
+      "tag": "⬆️ 633 points",
+      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844"
+    },
+    {
+      "title": "University libraries are being swarmed by AI bots, putting public access at risk",
+      "hot": "2.8m",
+      "desc": "cbc.ca",
+      "source": "tech",
+      "tag": "⬆️ 35 points",
+      "url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287"
+    },
+    {
+      "title": "Mbodi AI (YC P25) Is Hiring Research and Robotic Engineers",
+      "hot": "2.8m",
+      "desc": "ycombinator.com",
+      "source": "tech",
+      "tag": "⬆️ 1 points",
+      "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs"
+    },
+    {
+      "title": "Lippitt-Knoster in Practice (Field Notes for Managing Complex Projects)",
+      "hot": "2.8m",
+      "desc": "sharedphysics.com",
+      "source": "tech",
+      "tag": "⬆️ 3 points",
+      "url": "https://sharedphysics.com/lippitt-knoster-in-practice-field-notes-for-managing-complex-projects/"
+    },
+    {
+      "title": "Multiplayer tanks that demolish real buildings from OpenStreetMap",
+      "hot": "2.8m",
+      "desc": "worldstrike.fun",
+      "source": "tech",
+      "tag": "⬆️ 120 points",
+      "url": "https://worldstrike.fun/"
+    },
+    {
+      "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
+      "hot": "2.8m",
+      "desc": "thereader.mitpress.mit.edu",
+      "source": "tech",
+      "tag": "⬆️ 198 points",
+      "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/"
+    },
+    {
+      "title": "Pwn.college",
+      "hot": "2.8m",
+      "desc": "pwn.college",
+      "source": "tech",
+      "tag": "⬆️ 237 points",
+      "url": "https://pwn.college/"
+    },
+    {
+      "title": "Hardcoded credentials and other issues in Tata Motors App",
+      "hot": "2.7m",
+      "desc": "cert-in.org.in",
+      "source": "tech",
+      "tag": "⬆️ 68 points",
+      "url": "https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2026-0537"
+    },
+    {
+      "title": "Chomsky and the Two Cultures of Statistical Learning",
+      "hot": "2.7m",
+      "desc": "norvig.com",
+      "source": "tech",
+      "tag": "⬆️ 43 points",
+      "url": "https://www.norvig.com/chomsky.html"
+    },
+    {
+      "title": "Britain to make salary disclosure in job ads mandatory",
+      "hot": "2.7m",
+      "desc": "reuters.com",
+      "source": "tech",
+      "tag": "⬆️ 436 points",
+      "url": "https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/"
+    }
+  ],
+  "github": [
+    {
+      "title": "deepseek-ai/dsh-superagent-prototype: Towards a More Autonomous Agent System",
+      "hot": "⭐ 20.1k",
+      "desc": "Towards a More Autonomous Agent System",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype"
+    },
+    {
+      "title": "storytold/craft-anything: Craft Anything: understand how any software works, and",
+      "hot": "⭐ 17.1k",
+      "desc": "Craft Anything: understand how any software works, and craft your own.",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/storytold/craft-anything"
+    },
+    {
+      "title": "patch-gg/pixelfx: 244 pixel art effects, every one a small piece of code. Plus a",
+      "hot": "⭐ 5.5k",
+      "desc": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/patch-gg/pixelfx"
+    },
+    {
+      "title": "KKKKhazix/agent-autoloop: 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "hot": "⭐ 3.6k",
+      "desc": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/KKKKhazix/agent-autoloop"
+    },
+    {
+      "title": "zortos293/Lichii: VERY experimental Nintendo Switch 2 emulator",
+      "hot": "⭐ 3.3k",
+      "desc": "VERY experimental Nintendo Switch 2 emulator",
+      "source": "github",
+      "tag": "C++",
+      "url": "https://github.com/zortos293/Lichii"
+    },
+    {
+      "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto: Google_AI_Pro_2Year_ZeroCost_Auto",
+      "hot": "⭐ 2.8k",
+      "desc": "Google_AI_Pro_2Year_ZeroCost_Auto",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto"
+    },
+    {
+      "title": "Verlintas/NOIR: 手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Androi",
+      "hot": "⭐ 2.7k",
+      "desc": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
+      "source": "github",
+      "tag": "Kotlin",
+      "url": "https://github.com/Verlintas/NOIR"
+    },
+    {
+      "title": "elvarofficial/teardown: A Claude Code skill that turns any machine into a 3D sim",
+      "hot": "⭐ 2.4k",
+      "desc": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/elvarofficial/teardown"
+    },
+    {
+      "title": "govijr/terminal-mac: Entire MacOS running in your terminal.",
+      "hot": "⭐ 2.1k",
+      "desc": "Entire MacOS running in your terminal.",
+      "source": "github",
+      "tag": "Swift",
+      "url": "https://github.com/govijr/terminal-mac"
+    },
+    {
+      "title": "mromidev/claude-animated-shorts: Free Claude skill: viral animated story shorts ",
+      "hot": "⭐ 2.0k",
+      "desc": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/mromidev/claude-animated-shorts"
+    },
+    {
+      "title": "caru-ini/stack-diagram: Agent skill: describe your stack in a sentence, get an a",
+      "hot": "⭐ 1.9k",
+      "desc": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/caru-ini/stack-diagram"
+    },
+    {
+      "title": "Arjun-Ingole/hop: Install Linux next to Windows without a USB stick",
+      "hot": "⭐ 1.6k",
+      "desc": "Install Linux next to Windows without a USB stick",
+      "source": "github",
+      "tag": "PowerShell",
+      "url": "https://github.com/Arjun-Ingole/hop"
+    },
+    {
+      "title": "wquguru/cicada: 知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android ",
+      "hot": "⭐ 1.5k",
+      "desc": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Wi",
+      "source": "github",
+      "tag": "Swift",
+      "url": "https://github.com/wquguru/cicada"
+    },
+    {
+      "title": "kevinraymond/florilegium: Procedurally generated Delft-blue floral page margins ",
+      "hot": "⭐ 1.5k",
+      "desc": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, with plants and visitors sampled from genomes and a TikZ library that also draws t",
+      "source": "github",
+      "tag": "TeX",
+      "url": "https://github.com/kevinraymond/florilegium"
+    },
+    {
+      "title": "Minireel/HGhub: YellowFruit third-party client",
+      "hot": "⭐ 1.5k",
+      "desc": "YellowFruit third-party client",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/Minireel/HGhub"
     }
   ],
   "space": [
+    {
+      "title": "Avio Scales Back Demonstrator Programme Amid Technical Challenges",
+      "hot": "11/6",
+      "desc": "Italian rocket manufacturer Avio has scaled back plans to develop two liquid-fuelled rocket demonstrators intended to validate technologies for a futu",
+      "source": "space",
+      "tag": "European Spaceflight",
+      "url": "https://europeanspaceflight.com/avio-scales-back-demonstrator-programme-amid-technical-challenges/"
+    },
     {
       "title": "APOD: 2026 November 6 – A Farewell to Swift",
       "hot": "11/6",
@@ -275,298 +567,6 @@
       "source": "space",
       "tag": "European Spaceflight",
       "url": "https://europeanspaceflight.com/ohb-awarded-e554-million-contract-for-next-gen-sentinel-3-satellite/"
-    },
-    {
-      "title": "Hubble Learns Galactic History From Stars",
-      "hot": "11/5",
-      "desc": "This Hubble image features the sparkling collection of stars named Messier 30 (M30), also called NGC 7099.",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/"
-    }
-  ],
-  "tech": [
-    {
-      "title": "Claude Code sends your email address to websites",
-      "hot": "3.0m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 943 points",
-      "url": "https://github.com/anthropics/claude-code/issues/107757"
-    },
-    {
-      "title": "sshole",
-      "hot": "3.0m",
-      "desc": "sshhole.com",
-      "source": "tech",
-      "tag": "⬆️ 2594 points",
-      "url": "https://sshhole.com"
-    },
-    {
-      "title": "MS Paint Remote Code Execution Vulnerability",
-      "hot": "3.0m",
-      "desc": "cve.org",
-      "source": "tech",
-      "tag": "⬆️ 478 points",
-      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844"
-    },
-    {
-      "title": "Pwn.college",
-      "hot": "3.0m",
-      "desc": "pwn.college",
-      "source": "tech",
-      "tag": "⬆️ 108 points",
-      "url": "https://pwn.college/"
-    },
-    {
-      "title": "Nvidia Kubernetes Engine (NVKE)",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 63 points",
-      "url": "https://github.com/dsx-ai-factory/nvke"
-    },
-    {
-      "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
-      "hot": "2.9m",
-      "desc": "thereader.mitpress.mit.edu",
-      "source": "tech",
-      "tag": "⬆️ 39 points",
-      "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/"
-    },
-    {
-      "title": "Inkling 2 Small",
-      "hot": "2.9m",
-      "desc": "thinkingmachines.ai",
-      "source": "tech",
-      "tag": "⬆️ 174 points",
-      "url": "https://thinkingmachines.ai/news/inkling-2-small/"
-    },
-    {
-      "title": "I struggle to believe that AI R&D is ingenious",
-      "hot": "2.9m",
-      "desc": "lesswrong.com",
-      "source": "tech",
-      "tag": "⬆️ 36 points",
-      "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL"
-    },
-    {
-      "title": "The Hackintosh Reborn",
-      "hot": "2.9m",
-      "desc": "naut.ca",
-      "source": "tech",
-      "tag": "⬆️ 291 points",
-      "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/"
-    },
-    {
-      "title": "Window Sweaters",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 310 points",
-      "url": "https://github.com/saragordic/window-sweaters"
-    },
-    {
-      "title": "Show HN: Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM",
-      "hot": "2.9m",
-      "desc": "firenook.dev",
-      "source": "tech",
-      "tag": "⬆️ 97 points",
-      "url": "https://firenook.dev/"
-    },
-    {
-      "title": "MoofTCP – A modern replacement for MacTCP on 68k Macs",
-      "hot": "2.8m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 39 points",
-      "url": "https://github.com/matthewmrichter/mooftcp"
-    },
-    {
-      "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
-      "hot": "2.8m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 92 points",
-      "url": "https://github.com/rivet-dev/rivet"
-    },
-    {
-      "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-      "hot": "2.8m",
-      "desc": "finance.yahoo.com",
-      "source": "tech",
-      "tag": "⬆️ 275 points",
-      "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html"
-    },
-    {
-      "title": "September in Servo: progress, rounded rectangles, and more",
-      "hot": "2.8m",
-      "desc": "servo.org",
-      "source": "tech",
-      "tag": "⬆️ 221 points",
-      "url": "https://servo.org/blog/2026/11/05/september-in-servo/"
-    },
-    {
-      "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
-      "hot": "2.8m",
-      "desc": "linum.ai",
-      "source": "tech",
-      "tag": "⬆️ 204 points",
-      "url": "https://www.linum.ai/field-notes/pjit-21k"
-    },
-    {
-      "title": "Motorola Signature 27 with GrapheneOS support",
-      "hot": "2.8m",
-      "desc": "motorolanews.com",
-      "source": "tech",
-      "tag": "⬆️ 452 points",
-      "url": "https://motorolanews.com/motorola-signature-27-2/"
-    },
-    {
-      "title": "I wish tech companies knew more about me",
-      "hot": "2.7m",
-      "desc": "rakhim.exotext.com",
-      "source": "tech",
-      "tag": "⬆️ 382 points",
-      "url": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me"
-    },
-    {
-      "title": "Download your favourite YouTube videos",
-      "hot": "2.7m",
-      "desc": "criminallyvulgar.dev",
-      "source": "tech",
-      "tag": "⬆️ 321 points",
-      "url": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/"
-    },
-    {
-      "title": "Goodbye from Salon",
-      "hot": "2.7m",
-      "desc": "salon.com",
-      "source": "tech",
-      "tag": "⬆️ 557 points",
-      "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/"
-    }
-  ],
-  "github": [
-    {
-      "title": "deepseek-ai/dsh-superagent-prototype: Towards a More Autonomous Agent System",
-      "hot": "⭐ 19.8k",
-      "desc": "Towards a More Autonomous Agent System",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype"
-    },
-    {
-      "title": "storytold/craft-anything: Craft Anything: understand how any software works, and",
-      "hot": "⭐ 16.0k",
-      "desc": "Craft Anything: understand how any software works, and craft your own.",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/storytold/craft-anything"
-    },
-    {
-      "title": "patch-gg/pixelfx: 244 pixel art effects, every one a small piece of code. Plus a",
-      "hot": "⭐ 5.4k",
-      "desc": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/patch-gg/pixelfx"
-    },
-    {
-      "title": "KKKKhazix/agent-autoloop: 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-      "hot": "⭐ 3.4k",
-      "desc": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/KKKKhazix/agent-autoloop"
-    },
-    {
-      "title": "zortos293/Lichii: VERY experimental Nintendo Switch 2 emulator",
-      "hot": "⭐ 2.7k",
-      "desc": "VERY experimental Nintendo Switch 2 emulator",
-      "source": "github",
-      "tag": "C++",
-      "url": "https://github.com/zortos293/Lichii"
-    },
-    {
-      "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto: Google_AI_Pro_2Year_ZeroCost_Auto",
-      "hot": "⭐ 2.6k",
-      "desc": "Google_AI_Pro_2Year_ZeroCost_Auto",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto"
-    },
-    {
-      "title": "Verlintas/NOIR: 手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Androi",
-      "hot": "⭐ 2.6k",
-      "desc": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
-      "source": "github",
-      "tag": "Kotlin",
-      "url": "https://github.com/Verlintas/NOIR"
-    },
-    {
-      "title": "elvarofficial/teardown: A Claude Code skill that turns any machine into a 3D sim",
-      "hot": "⭐ 2.3k",
-      "desc": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/elvarofficial/teardown"
-    },
-    {
-      "title": "govijr/terminal-mac: Entire MacOS running in your terminal.",
-      "hot": "⭐ 2.0k",
-      "desc": "Entire MacOS running in your terminal.",
-      "source": "github",
-      "tag": "Swift",
-      "url": "https://github.com/govijr/terminal-mac"
-    },
-    {
-      "title": "caru-ini/stack-diagram: Agent skill: describe your stack in a sentence, get an a",
-      "hot": "⭐ 1.9k",
-      "desc": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/caru-ini/stack-diagram"
-    },
-    {
-      "title": "mromidev/claude-animated-shorts: Free Claude skill: viral animated story shorts ",
-      "hot": "⭐ 1.9k",
-      "desc": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/mromidev/claude-animated-shorts"
-    },
-    {
-      "title": "Arjun-Ingole/hop: Install Linux next to Windows without a USB stick",
-      "hot": "⭐ 1.5k",
-      "desc": "Install Linux next to Windows without a USB stick",
-      "source": "github",
-      "tag": "PowerShell",
-      "url": "https://github.com/Arjun-Ingole/hop"
-    },
-    {
-      "title": "wquguru/cicada: 知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android ",
-      "hot": "⭐ 1.5k",
-      "desc": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Wi",
-      "source": "github",
-      "tag": "Swift",
-      "url": "https://github.com/wquguru/cicada"
-    },
-    {
-      "title": "kevinraymond/florilegium: Procedurally generated Delft-blue floral page margins ",
-      "hot": "⭐ 1.5k",
-      "desc": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, with plants and visitors sampled from genomes and a TikZ library that also draws t",
-      "source": "github",
-      "tag": "TeX",
-      "url": "https://github.com/kevinraymond/florilegium"
-    },
-    {
-      "title": "N1nEmAn/sapper-v2: Autonomous pentest legion — AI commander + worker swarm + lay",
-      "hot": "⭐ 1.4k",
-      "desc": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/N1nEmAn/sapper-v2"
     }
   ]
 }
