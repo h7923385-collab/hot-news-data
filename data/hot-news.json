@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-07T00:31:10.375Z",
+  "updatedAt": "2026-11-07T06:39:35.085Z",
   "source": "live",
   "dev": [
     {
       "title": "Congrats to the Kaggle Benchmarking Challenge Winners!",
-      "hot": "❤️ 111 💬 23",
+      "hot": "❤️ 114 💬 25",
       "desc": "A few weeks ago we teamed up with Kaggle to ask a deceptively simple question: how do you actually...",
       "source": "dev",
       "tag": "devchallenge,  kagglechallenge",
@@ -12,7 +12,7 @@
     },
     {
       "title": "What was your win this week?",
-      "hot": "❤️ 71 💬 39",
+      "hot": "❤️ 78 💬 43",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "weeklyretro",
@@ -20,7 +20,7 @@
     },
     {
       "title": "An Update on the Hacktoberfest Open-Source AI Challenge: Ghost in the Machine Winners",
-      "hot": "❤️ 22 💬 1",
+      "hot": "❤️ 45 💬 8",
       "desc": "Hey all, we have a quick update for everyone who participated in the Hacktoberfest Open-Source AI...",
       "source": "dev",
       "tag": "devchallenge,  hf26challenge",
@@ -36,7 +36,7 @@
     },
     {
       "title": "Let's see where you code!",
-      "hot": "❤️ 89 💬 42",
+      "hot": "❤️ 89 💬 43",
       "desc": "I’ve been writing a lot about AWS lately, so let’s take a breather. This is my little corner of the...",
       "source": "dev",
       "tag": "watercooler,  discuss",
@@ -44,7 +44,7 @@
     },
     {
       "title": "Want to make DEV your full-time job? We're hiring a Community Manager!",
-      "hot": "❤️ 56 💬 4",
+      "hot": "❤️ 72 💬 7",
       "desc": "Hey friends 👋  Back in June, we posted about a Community Program Manager role. Thank you to everyone...",
       "source": "dev",
       "tag": "career,  meta",
@@ -52,19 +52,11 @@
     },
     {
       "title": "Congrats to October's MLH x DEV Writing Challenge Winner!",
-      "hot": "❤️ 16 💬 1",
+      "hot": "❤️ 23 💬 2",
       "desc": "October's MLH x DEV Writing Challenge is a wrap! This is our way of celebrating MLH hackers who take...",
       "source": "dev",
       "tag": "devchallenge,  mlhacks",
       "url": "https://dev.to/devteam/congrats-to-octobers-mlh-x-dev-writing-challenge-winner-36a9"
-    },
-    {
-      "title": "Containing the Autonomous Mind: Sub-Second Zero-Trust Execution with GKE Agent Sandbox",
-      "hot": "❤️ 18 💬 1",
-      "desc": "Why standard Kubernetes pods fail when AI agents start writing code and how to build a sub-second,...",
-      "source": "dev",
-      "tag": "ai,  googlecloud",
-      "url": "https://dev.to/gde/containing-the-autonomous-mind-sub-second-zero-trust-execution-with-gke-agent-sandbox-5e6b"
     },
     {
       "title": "Prompt Pad: Show Your AI How to Respond with Few-Shot Examples",
@@ -81,6 +73,14 @@
       "source": "dev",
       "tag": "android,  linux",
       "url": "https://dev.to/gde/android-17-on-a-49-kernel-lineageos-240-on-the-pixel-3a-1mok"
+    },
+    {
+      "title": "Containing the Autonomous Mind: Sub-Second Zero-Trust Execution with GKE Agent Sandbox",
+      "hot": "❤️ 19 💬 1",
+      "desc": "Why standard Kubernetes pods fail when AI agents start writing code and how to build a sub-second,...",
+      "source": "dev",
+      "tag": "ai,  googlecloud",
+      "url": "https://dev.to/gde/containing-the-autonomous-mind-sub-second-zero-trust-execution-with-gke-agent-sandbox-5e6b"
     },
     {
       "title": "Crows, Moths, and Makefiles: How 300 Megabytes of Crow DNA Explains Why a 20-Kilobyte Scar File Outsmarts a Terabyte LLM",
@@ -140,7 +140,7 @@
     },
     {
       "title": "The Fibonacci Spiral Is Secretly a Straight Line",
-      "hot": "❤️ 13 💬 2",
+      "hot": "❤️ 14 💬 2",
       "desc": "I folded it, unfolded it, and watched it flip to the other side. A three.js experiment, the math...",
       "source": "dev",
       "tag": "threejs,  javascript",
@@ -163,7 +163,307 @@
       "url": "https://blog.mlh.com/prompt-pad-lock-your-ais-output-schema-in-google-ai-studio-53io"
     }
   ],
+  "tech": [
+    {
+      "title": "Libghostty 1.0",
+      "hot": "3.0m",
+      "desc": "mitchellh.com",
+      "source": "tech",
+      "tag": "⬆️ 467 points",
+      "url": "https://mitchellh.com/writing/libghostty-1-0"
+    },
+    {
+      "title": "Asahi Linux Progress Linux 7.3",
+      "hot": "3.0m",
+      "desc": "asahilinux.org",
+      "source": "tech",
+      "tag": "⬆️ 41 points",
+      "url": "https://asahilinux.org/2026/11/progress-report-7-3/"
+    },
+    {
+      "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
+      "hot": "3.0m",
+      "desc": "science.org",
+      "source": "tech",
+      "tag": "⬆️ 27 points",
+      "url": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals"
+    },
+    {
+      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+      "hot": "3.0m",
+      "desc": "hightouch.com",
+      "source": "tech",
+      "tag": "⬆️ 417 points",
+      "url": "https://hightouch.com/blog/llm-judges-identity-resolution"
+    },
+    {
+      "title": "Tesla to wind down Cybertruck production",
+      "hot": "2.9m",
+      "desc": "nbcnews.com",
+      "source": "tech",
+      "tag": "⬆️ 951 points",
+      "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817"
+    },
+    {
+      "title": "What do the next 4000 emoji look like?",
+      "hot": "2.9m",
+      "desc": "jenniferdaniel.substack.com",
+      "source": "tech",
+      "tag": "⬆️ 40 points",
+      "url": "https://jenniferdaniel.substack.com/p/what-do-the-next-4000-emoji-look"
+    },
+    {
+      "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
+      "hot": "2.9m",
+      "desc": "multifamilydive.com",
+      "source": "tech",
+      "tag": "⬆️ 88 points",
+      "url": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/"
+    },
+    {
+      "title": "The Flash C Compiler",
+      "hot": "2.9m",
+      "desc": "blog.adafruit.com",
+      "source": "tech",
+      "tag": "⬆️ 26 points",
+      "url": "https://blog.adafruit.com/2026/10/31/flash-c-compiler/"
+    },
+    {
+      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+      "hot": "2.9m",
+      "desc": "reuters.com",
+      "source": "tech",
+      "tag": "⬆️ 314 points",
+      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/"
+    },
+    {
+      "title": "Firecracker VM Escape: PwnEscape Part 2",
+      "hot": "2.9m",
+      "desc": "pwn.ai",
+      "source": "tech",
+      "tag": "⬆️ 210 points",
+      "url": "https://pwn.ai/blog/firecracker-escape"
+    },
+    {
+      "title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
+      "hot": "2.9m",
+      "desc": "smithsonianmag.com",
+      "source": "tech",
+      "tag": "⬆️ 64 points",
+      "url": "https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/"
+    },
+    {
+      "title": "The AI sell-off compared to well-known stock market crashes",
+      "hot": "2.8m",
+      "desc": "kadoa.com",
+      "source": "tech",
+      "tag": "⬆️ 48 points",
+      "url": "https://www.kadoa.com/companies/insights/ai-selloff-perspective"
+    },
+    {
+      "title": "Notes on San Marino",
+      "hot": "2.8m",
+      "desc": "mattlakeman.org",
+      "source": "tech",
+      "tag": "⬆️ 43 points",
+      "url": "https://mattlakeman.org/2026/11/05/notes-on-san-marino/"
+    },
+    {
+      "title": "AI is dramatically accelerating AI research",
+      "hot": "2.8m",
+      "desc": "planned-obsolescence.org",
+      "source": "tech",
+      "tag": "⬆️ 260 points",
+      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai"
+    },
+    {
+      "title": "Can GROUP BY still be optimized after all these years?",
+      "hot": "2.8m",
+      "desc": "pivotlake.io",
+      "source": "tech",
+      "tag": "⬆️ 66 points",
+      "url": "https://pivotlake.io/blog/know-your-limit-faster-top-k-aggregation/"
+    },
+    {
+      "title": "First steps in bare-metal programming using UEFI",
+      "hot": "2.8m",
+      "desc": "kevinboone.me",
+      "source": "tech",
+      "tag": "⬆️ 211 points",
+      "url": "https://kevinboone.me/efitest_index.html"
+    },
+    {
+      "title": "The great butter and cheese fire of 1991",
+      "hot": "2.8m",
+      "desc": "wisfarmer.com",
+      "source": "tech",
+      "tag": "⬆️ 3 points",
+      "url": "https://www.wisfarmer.com/story/opinion/columnists/2022/05/11/over-20-m-lbs-commodities-lost-great-butter-fire-1991/9650051002/"
+    },
+    {
+      "title": "Panthera: Ampere's CPU Performance Model",
+      "hot": "2.7m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 26 points",
+      "url": "https://github.com/AmpereComputing/panthera"
+    },
+    {
+      "title": "I toured Unitree's factory. I'm more bullish on the West",
+      "hot": "2.7m",
+      "desc": "josef.cn",
+      "source": "tech",
+      "tag": "⬆️ 91 points",
+      "url": "https://josef.cn/blog/unitree"
+    },
+    {
+      "title": "GitHub's new Git storage architecture",
+      "hot": "2.7m",
+      "desc": "github.blog",
+      "source": "tech",
+      "tag": "⬆️ 111 points",
+      "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/"
+    }
+  ],
+  "github": [
+    {
+      "title": "deepseek-ai/dsh-superagent-prototype: Towards a More Autonomous Agent System",
+      "hot": "⭐ 20.4k",
+      "desc": "Towards a More Autonomous Agent System",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype"
+    },
+    {
+      "title": "storytold/craft-anything: Craft Anything: understand how any software works, and",
+      "hot": "⭐ 18.7k",
+      "desc": "Craft Anything: understand how any software works, and craft your own.",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/storytold/craft-anything"
+    },
+    {
+      "title": "zortos293/Lichii: VERY experimental Nintendo Switch 2 emulator",
+      "hot": "⭐ 4.2k",
+      "desc": "VERY experimental Nintendo Switch 2 emulator",
+      "source": "github",
+      "tag": "C++",
+      "url": "https://github.com/zortos293/Lichii"
+    },
+    {
+      "title": "KKKKhazix/agent-autoloop: 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "hot": "⭐ 3.8k",
+      "desc": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/KKKKhazix/agent-autoloop"
+    },
+    {
+      "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto: Google_AI_Pro_2Year_ZeroCost_Auto",
+      "hot": "⭐ 2.9k",
+      "desc": "Google_AI_Pro_2Year_ZeroCost_Auto",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto"
+    },
+    {
+      "title": "Verlintas/NOIR: 手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Androi",
+      "hot": "⭐ 2.8k",
+      "desc": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
+      "source": "github",
+      "tag": "Kotlin",
+      "url": "https://github.com/Verlintas/NOIR"
+    },
+    {
+      "title": "govijr/terminal-mac: Entire MacOS running in your terminal.",
+      "hot": "⭐ 2.2k",
+      "desc": "Entire MacOS running in your terminal.",
+      "source": "github",
+      "tag": "Swift",
+      "url": "https://github.com/govijr/terminal-mac"
+    },
+    {
+      "title": "mromidev/claude-animated-shorts: Free Claude skill: viral animated story shorts ",
+      "hot": "⭐ 2.1k",
+      "desc": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/mromidev/claude-animated-shorts"
+    },
+    {
+      "title": "caru-ini/stack-diagram: Agent skill: describe your stack in a sentence, get an a",
+      "hot": "⭐ 2.0k",
+      "desc": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/caru-ini/stack-diagram"
+    },
+    {
+      "title": "Minireel/HGhub: YellowFruit third-party client",
+      "hot": "⭐ 1.8k",
+      "desc": "YellowFruit third-party client",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/Minireel/HGhub"
+    },
+    {
+      "title": "wquguru/cicada: 知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android ",
+      "hot": "⭐ 1.6k",
+      "desc": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Wi",
+      "source": "github",
+      "tag": "Swift",
+      "url": "https://github.com/wquguru/cicada"
+    },
+    {
+      "title": "s1dashu/quiet-md: Blazing-fast native notes app for macOS & Windows. Rust + GPUI",
+      "hot": "⭐ 1.2k",
+      "desc": "Blazing-fast native notes app for macOS & Windows. Rust + GPUI, local-first, compatible with Feishu/Lark DocxXML.",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/s1dashu/quiet-md"
+    },
+    {
+      "title": "JenkinWoo/sheeridVerify: ",
+      "hot": "⭐ 1.1k",
+      "desc": "JenkinWoo/sheeridVerify",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/JenkinWoo/sheeridVerify"
+    },
+    {
+      "title": "livliv-dev/player: A lightweight 2.5D character player for the web, with lip syn",
+      "hot": "⭐ 1.0k",
+      "desc": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/livliv-dev/player"
+    },
+    {
+      "title": "mmdoctor/google-pro-helper: ",
+      "hot": "⭐ 965",
+      "desc": "mmdoctor/google-pro-helper",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/mmdoctor/google-pro-helper"
+    }
+  ],
   "space": [
+    {
+      "title": "APOD: 2026 November 7 – De Gerlache-Kocher Massif",
+      "hot": "11/7",
+      "desc": "APOD Science APOD APOD: 2026 November 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/"
+    },
+    {
+      "title": "AST SpaceMobile unveils $1.3 billion engine deal with Firefly Aerospace to power new heavy-lift rocket",
+      "hot": "11/7",
+      "desc": "The company behind the Bluebird direct-to-cell satellite constellation said the addition of its own heavy-lift rocket is the final piece of its plans ",
+      "source": "space",
+      "tag": "Spaceflight Now",
+      "url": "https://spaceflightnow.com/2026/11/07/ast-spacemobile-unveils-1-3-billion-engine-deal-with-firefly-aerospace-to-power-new-heavy-lift-rocket/"
+    },
     {
       "title": "Falcon 9 to launch from California on classified mission for U.S. Space Force",
       "hot": "11/6",
@@ -267,306 +567,6 @@
       "source": "space",
       "tag": "Spaceflight Now",
       "url": "https://spaceflightnow.com/2026/11/05/as-it-happened-spacewalkers-install-space-stations-eighth-and-final-upgraded-solar-array/"
-    },
-    {
-      "title": "Spacewalkers complete five-year effort to upgrade space station power supply",
-      "hot": "11/5",
-      "desc": "Spacewalking astronauts Joshua Kutryk and Anil Menon unfurled the last of eight new solar arrays outside the International Space Station Thursday, wor",
-      "source": "space",
-      "tag": "Spaceflight Now",
-      "url": "https://spaceflightnow.com/2026/11/05/spacewalkers-complete-five-year-effort-to-upgrade-space-station-power-supply/"
-    },
-    {
-      "title": "CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission",
-      "hot": "11/5",
-      "desc": "\nCesiumAstro Inc., a global leader in space and defense communications systems and satellites, today announced the closing of $730 million in Series D",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission/"
-    }
-  ],
-  "tech": [
-    {
-      "title": "CATL Sodium Battery Hits LFP Cost Parity in 2026: 15,000 Cycles, 30-Year Life",
-      "hot": "3.0m",
-      "desc": "ievchina.com",
-      "source": "tech",
-      "tag": "⬆️ 87 points",
-      "url": "https://ievchina.com/energy-storage/catl-sodium-battery-cost-parity-lfp-2026-15000-cycles/"
-    },
-    {
-      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-      "hot": "3.0m",
-      "desc": "hightouch.com",
-      "source": "tech",
-      "tag": "⬆️ 295 points",
-      "url": "https://hightouch.com/blog/llm-judges-identity-resolution"
-    },
-    {
-      "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
-      "hot": "3.0m",
-      "desc": "community.openai.com",
-      "source": "tech",
-      "tag": "⬆️ 57 points",
-      "url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053"
-    },
-    {
-      "title": "Tesla to wind down Cybertruck production",
-      "hot": "3.0m",
-      "desc": "nbcnews.com",
-      "source": "tech",
-      "tag": "⬆️ 810 points",
-      "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817"
-    },
-    {
-      "title": "Firecracker VM Escape: PwnEscape Part 2",
-      "hot": "2.9m",
-      "desc": "pwn.ai",
-      "source": "tech",
-      "tag": "⬆️ 152 points",
-      "url": "https://pwn.ai/blog/firecracker-escape"
-    },
-    {
-      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
-      "hot": "2.9m",
-      "desc": "reuters.com",
-      "source": "tech",
-      "tag": "⬆️ 264 points",
-      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/"
-    },
-    {
-      "title": "AI is dramatically accelerating AI research",
-      "hot": "2.9m",
-      "desc": "planned-obsolescence.org",
-      "source": "tech",
-      "tag": "⬆️ 173 points",
-      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai"
-    },
-    {
-      "title": "First steps in bare-metal programming using UEFI",
-      "hot": "2.9m",
-      "desc": "kevinboone.me",
-      "source": "tech",
-      "tag": "⬆️ 173 points",
-      "url": "https://kevinboone.me/efitest_index.html"
-    },
-    {
-      "title": "Restaurant Delivery Payment-Skimming Campaign",
-      "hot": "2.9m",
-      "desc": "infohawk.com",
-      "source": "tech",
-      "tag": "⬆️ 76 points",
-      "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming"
-    },
-    {
-      "title": "Replit rebuilt its sandbox engine with microVMs",
-      "hot": "2.9m",
-      "desc": "frontier.replit.com",
-      "source": "tech",
-      "tag": "⬆️ 54 points",
-      "url": "https://frontier.replit.com/sandbox-engine-microvms-part-1/"
-    },
-    {
-      "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
-      "hot": "2.9m",
-      "desc": "crusoe.ai",
-      "source": "tech",
-      "tag": "⬆️ 30 points",
-      "url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update"
-    },
-    {
-      "title": "Memorilla: Latent Semantic Memory for LLMs",
-      "hot": "2.8m",
-      "desc": "arxiv.org",
-      "source": "tech",
-      "tag": "⬆️ 78 points",
-      "url": "https://arxiv.org/abs/2610.21375"
-    },
-    {
-      "title": "Devvm.dev: One VM for every project",
-      "hot": "2.8m",
-      "desc": "devvm.dev",
-      "source": "tech",
-      "tag": "⬆️ 99 points",
-      "url": "https://devvm.dev/"
-    },
-    {
-      "title": "Gemini Omni 1.2 Flash",
-      "hot": "2.8m",
-      "desc": "blog.google",
-      "source": "tech",
-      "tag": "⬆️ 291 points",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
-    },
-    {
-      "title": "Can GROUP BY still be optimized after all these years?",
-      "hot": "2.8m",
-      "desc": "pivotlake.io",
-      "source": "tech",
-      "tag": "⬆️ 7 points",
-      "url": "https://pivotlake.io/blog/know-your-limit-faster-top-k-aggregation/"
-    },
-    {
-      "title": "Size-It-Up (Game)",
-      "hot": "2.8m",
-      "desc": "magnitudle.com",
-      "source": "tech",
-      "tag": "⬆️ 64 points",
-      "url": "https://magnitudle.com/size-it-up"
-    },
-    {
-      "title": "Outbound SIP calling is now available to all organizations",
-      "hot": "2.8m",
-      "desc": "developers.openai.com",
-      "source": "tech",
-      "tag": "⬆️ 8 points",
-      "url": "https://developers.openai.com/api/docs/guides/voice-sip"
-    },
-    {
-      "title": "Annie Ernaux still feels like an outsider",
-      "hot": "2.7m",
-      "desc": "vulture.com",
-      "source": "tech",
-      "tag": "⬆️ 8 points",
-      "url": "https://www.vulture.com/article/annie-ernaux-interview-french-protests-nobel-prize.html"
-    },
-    {
-      "title": "Show HN: Waymark – A workflow engine that compiles jobs instead of replaying",
-      "hot": "2.7m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 34 points",
-      "url": "https://github.com/piercefreeman/waymark"
-    },
-    {
-      "title": "The Ubuntu 26.04 Rust sudo is not compatible with standard sudo",
-      "hot": "2.7m",
-      "desc": "utcc.utoronto.ca",
-      "source": "tech",
-      "tag": "⬆️ 133 points",
-      "url": "https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604RustSudoNotCompatible"
-    }
-  ],
-  "github": [
-    {
-      "title": "deepseek-ai/dsh-superagent-prototype: Towards a More Autonomous Agent System",
-      "hot": "⭐ 20.2k",
-      "desc": "Towards a More Autonomous Agent System",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype"
-    },
-    {
-      "title": "storytold/craft-anything: Craft Anything: understand how any software works, and",
-      "hot": "⭐ 18.0k",
-      "desc": "Craft Anything: understand how any software works, and craft your own.",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/storytold/craft-anything"
-    },
-    {
-      "title": "zortos293/Lichii: VERY experimental Nintendo Switch 2 emulator",
-      "hot": "⭐ 4.0k",
-      "desc": "VERY experimental Nintendo Switch 2 emulator",
-      "source": "github",
-      "tag": "C++",
-      "url": "https://github.com/zortos293/Lichii"
-    },
-    {
-      "title": "KKKKhazix/agent-autoloop: 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-      "hot": "⭐ 3.7k",
-      "desc": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/KKKKhazix/agent-autoloop"
-    },
-    {
-      "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto: Google_AI_Pro_2Year_ZeroCost_Auto",
-      "hot": "⭐ 2.9k",
-      "desc": "Google_AI_Pro_2Year_ZeroCost_Auto",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto"
-    },
-    {
-      "title": "Verlintas/NOIR: 手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Androi",
-      "hot": "⭐ 2.8k",
-      "desc": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
-      "source": "github",
-      "tag": "Kotlin",
-      "url": "https://github.com/Verlintas/NOIR"
-    },
-    {
-      "title": "govijr/terminal-mac: Entire MacOS running in your terminal.",
-      "hot": "⭐ 2.1k",
-      "desc": "Entire MacOS running in your terminal.",
-      "source": "github",
-      "tag": "Swift",
-      "url": "https://github.com/govijr/terminal-mac"
-    },
-    {
-      "title": "mromidev/claude-animated-shorts: Free Claude skill: viral animated story shorts ",
-      "hot": "⭐ 2.0k",
-      "desc": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/mromidev/claude-animated-shorts"
-    },
-    {
-      "title": "caru-ini/stack-diagram: Agent skill: describe your stack in a sentence, get an a",
-      "hot": "⭐ 2.0k",
-      "desc": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/caru-ini/stack-diagram"
-    },
-    {
-      "title": "Minireel/HGhub: YellowFruit third-party client",
-      "hot": "⭐ 1.6k",
-      "desc": "YellowFruit third-party client",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/Minireel/HGhub"
-    },
-    {
-      "title": "wquguru/cicada: 知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android ",
-      "hot": "⭐ 1.6k",
-      "desc": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Wi",
-      "source": "github",
-      "tag": "Swift",
-      "url": "https://github.com/wquguru/cicada"
-    },
-    {
-      "title": "s1dashu/quiet-md: Blazing-fast native notes app for macOS & Windows. Rust + GPUI",
-      "hot": "⭐ 1.2k",
-      "desc": "Blazing-fast native notes app for macOS & Windows. Rust + GPUI, local-first, compatible with Feishu/Lark DocxXML.",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/s1dashu/quiet-md"
-    },
-    {
-      "title": "livliv-dev/player: A lightweight 2.5D character player for the web, with lip syn",
-      "hot": "⭐ 956",
-      "desc": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/livliv-dev/player"
-    },
-    {
-      "title": "mmdoctor/google-pro-helper: ",
-      "hot": "⭐ 885",
-      "desc": "mmdoctor/google-pro-helper",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/mmdoctor/google-pro-helper"
-    },
-    {
-      "title": "Sandflow-ai/sand3d: 3D modeling in Python, built for LLMs.",
-      "hot": "⭐ 790",
-      "desc": "3D modeling in Python, built for LLMs.",
-      "source": "github",
-      "tag": "HTML",
-      "url": "https://github.com/Sandflow-ai/sand3d"
     }
   ]
 }
