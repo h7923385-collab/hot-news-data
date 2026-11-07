@@ -1,28 +1,20 @@
 {
   "data": [
     {
-      "title": "What was your win this week?",
-      "hot": "❤️ 80 💬 52",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "weeklyretro",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-28dh"
-    },
-    {
       "title": "Congrats to the Kaggle Benchmarking Challenge Winners!",
-      "hot": "❤️ 120 💬 25",
+      "hot": "❤️ 122 💬 25",
       "desc": "A few weeks ago we teamed up with Kaggle to ask a deceptively simple question: how do you actually...",
       "source": "dev",
       "tag": "devchallenge,  kagglechallenge",
       "url": "https://dev.to/devteam/congrats-to-the-kaggle-benchmarking-challenge-winners-2moh"
     },
     {
-      "title": "An Update on the Hacktoberfest Open-Source AI Challenge: Ghost in the Machine Winners",
-      "hot": "❤️ 51 💬 13",
-      "desc": "Hey all, we have a quick update for everyone who participated in the Hacktoberfest Open-Source AI...",
+      "title": "What was your win this week?",
+      "hot": "❤️ 83 💬 53",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
-      "tag": "devchallenge,  hf26challenge",
-      "url": "https://dev.to/devteam/an-update-on-the-hacktoberfest-open-source-ai-challenge-ghost-in-the-machine-winners-44bp"
+      "tag": "weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-28dh"
     },
     {
       "title": "Let's see where you code!",
@@ -34,19 +26,11 @@
     },
     {
       "title": "One Word, Two GPUs: Why Gemma 4 Answers the Same Question Differently on a Laptop and a Tesla T4",
-      "hot": "❤️ 18 💬 1",
+      "hot": "❤️ 20 💬 2",
       "desc": "Same GGUF file, same llama.cpp build, greedy decoding, and a GTX 1650 Ti answers $20 where a Tesla T4 answers 2000. One ",
       "source": "dev",
       "tag": "gemma,  llamacpp",
       "url": "https://dev.to/gde/one-word-two-gpus-why-gemma-4-answers-the-same-question-differently-on-a-laptop-and-a-tesla-t4-1dj2"
-    },
-    {
-      "title": "Prompt Pad: Show Your AI How to Respond with Few-Shot Examples",
-      "hot": "❤️ 14 💬 1",
-      "desc": "Want AI to answer in a specific way? Don't just tell it. Show it.  In this episode of Prompt Pad,...",
-      "source": "dev",
-      "tag": "ai,  beginners",
-      "url": "https://blog.mlh.com/prompt-pad-show-your-ai-how-to-respond-with-few-shot-examples-2869"
     },
     {
       "title": "Android 17 on a 4.9 Kernel: LineageOS 24.0 on the Pixel 3a",
@@ -58,7 +42,7 @@
     },
     {
       "title": "Want to make DEV your full-time job? We're hiring a Community Manager!",
-      "hot": "❤️ 77 💬 9",
+      "hot": "❤️ 83 💬 10",
       "desc": "Hey friends 👋  Back in June, we posted about a Community Program Manager role. Thank you to everyone...",
       "source": "dev",
       "tag": "career,  meta",
@@ -105,8 +89,16 @@
       "url": "https://dev.to/ben/thank-you-to-everyone-who-pointed-out-the-phishing-posts-we-got-yesterday-were-working-on-1h9b"
     },
     {
+      "title": "An Update on the Hacktoberfest Open-Source AI Challenge: Ghost in the Machine Winners",
+      "hot": "❤️ 61 💬 17",
+      "desc": "Hey all, we have a quick update for everyone who participated in the Hacktoberfest Open-Source AI...",
+      "source": "dev",
+      "tag": "devchallenge,  hf26challenge",
+      "url": "https://dev.to/devteam/an-update-on-the-hacktoberfest-open-source-ai-challenge-ghost-in-the-machine-winners-44bp"
+    },
+    {
       "title": "Congrats to October's MLH x DEV Writing Challenge Winner!",
-      "hot": "❤️ 33 💬 9",
+      "hot": "❤️ 34 💬 9",
       "desc": "October's MLH x DEV Writing Challenge is a wrap! This is our way of celebrating MLH hackers who take...",
       "source": "dev",
       "tag": "devchallenge,  mlhacks",
@@ -114,11 +106,19 @@
     },
     {
       "title": "Containing the Autonomous Mind: Sub-Second Zero-Trust Execution with GKE Agent Sandbox",
-      "hot": "❤️ 22 💬 1",
+      "hot": "❤️ 23 💬 1",
       "desc": "Why standard Kubernetes pods fail when AI agents start writing code and how to build a sub-second,...",
       "source": "dev",
       "tag": "ai,  googlecloud",
       "url": "https://dev.to/gde/containing-the-autonomous-mind-sub-second-zero-trust-execution-with-gke-agent-sandbox-5e6b"
+    },
+    {
+      "title": "Prompt Pad: Show Your AI How to Respond with Few-Shot Examples",
+      "hot": "❤️ 15 💬 1",
+      "desc": "Want AI to answer in a specific way? Don't just tell it. Show it.  In this episode of Prompt Pad,...",
+      "source": "dev",
+      "tag": "ai,  beginners",
+      "url": "https://blog.mlh.com/prompt-pad-show-your-ai-how-to-respond-with-few-shot-examples-2869"
     },
     {
       "title": "Who is building solutions with documents?",
@@ -137,14 +137,6 @@
       "url": "https://dev.to/googlecloud/find-the-production-agent-failures-that-every-health-check-misses-39j8"
     },
     {
-      "title": "The Fibonacci Spiral Is Secretly a Straight Line",
-      "hot": "❤️ 14 💬 2",
-      "desc": "I folded it, unfolded it, and watched it flip to the other side. A three.js experiment, the math...",
-      "source": "dev",
-      "tag": "threejs,  javascript",
-      "url": "https://dev.to/highflyer910/the-fibonacci-spiral-is-secretly-a-straight-line-4b4p"
-    },
-    {
       "title": "Securing an Angular Firebase AI App with Email/Password Authentication (Part 2: Signal Forms Sign-In Modal) [GDE]",
       "hot": "❤️ 6 💬 1",
       "desc": "In this blog post, we build a Sign-In modal component (SignInModalComponent) using the stable Angular...",
@@ -159,7 +151,15 @@
       "source": "dev",
       "tag": "ai,  gemini",
       "url": "https://blog.mlh.com/prompt-pad-lock-your-ais-output-schema-in-google-ai-studio-53io"
+    },
+    {
+      "title": "That's a Wrap on Hacktoberfest 2026! 🎃👻",
+      "hot": "❤️ 65 💬 14",
+      "desc": "Hacktoberfest 2026 wrapped up on October 31st! Thank you to everyone who built, hosted, mentored,...",
+      "source": "dev",
+      "tag": "hacktoberfest,  hf26challenge",
+      "url": "https://dev.to/devteam/thats-a-wrap-on-hacktoberfest-2026-148k"
     }
   ],
-  "updatedAt": "2026-11-07T13:37:01.102Z"
+  "updatedAt": "2026-11-07T18:21:31.791Z"
 }
