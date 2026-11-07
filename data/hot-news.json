@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T20:57:10.104Z",
+  "updatedAt": "2026-11-07T00:31:10.375Z",
   "source": "live",
   "dev": [
     {
@@ -12,23 +12,23 @@
     },
     {
       "title": "What was your win this week?",
-      "hot": "❤️ 66 💬 38",
+      "hot": "❤️ 71 💬 39",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "weeklyretro",
       "url": "https://dev.to/devteam/what-was-your-win-this-week-28dh"
     },
     {
-      "title": "Want to make DEV your full-time job? We're hiring a Community Manager!",
-      "hot": "❤️ 37 💬 2",
-      "desc": "Hey friends 👋  Back in June, we posted about a Community Program Manager role. Thank you to everyone...",
+      "title": "An Update on the Hacktoberfest Open-Source AI Challenge: Ghost in the Machine Winners",
+      "hot": "❤️ 22 💬 1",
+      "desc": "Hey all, we have a quick update for everyone who participated in the Hacktoberfest Open-Source AI...",
       "source": "dev",
-      "tag": "career,  meta",
-      "url": "https://dev.to/devteam/want-to-make-dev-your-full-time-job-were-hiring-a-community-manager-4p1f"
+      "tag": "devchallenge,  hf26challenge",
+      "url": "https://dev.to/devteam/an-update-on-the-hacktoberfest-open-source-ai-challenge-ghost-in-the-machine-winners-44bp"
     },
     {
       "title": "One Word, Two GPUs: Why Gemma 4 Answers the Same Question Differently on a Laptop and a Tesla T4",
-      "hot": "❤️ 14 💬 1",
+      "hot": "❤️ 15 💬 1",
       "desc": "Same GGUF file, same llama.cpp build, greedy decoding, and a GTX 1650 Ti answers $20 where a Tesla T4 answers 2000. One ",
       "source": "dev",
       "tag": "gemma,  llamacpp",
@@ -36,15 +36,31 @@
     },
     {
       "title": "Let's see where you code!",
-      "hot": "❤️ 84 💬 40",
+      "hot": "❤️ 89 💬 42",
       "desc": "I’ve been writing a lot about AWS lately, so let’s take a breather. This is my little corner of the...",
       "source": "dev",
       "tag": "watercooler,  discuss",
       "url": "https://dev.to/maame-codes/lets-see-where-you-code-147"
     },
     {
+      "title": "Want to make DEV your full-time job? We're hiring a Community Manager!",
+      "hot": "❤️ 56 💬 4",
+      "desc": "Hey friends 👋  Back in June, we posted about a Community Program Manager role. Thank you to everyone...",
+      "source": "dev",
+      "tag": "career,  meta",
+      "url": "https://dev.to/devteam/want-to-make-dev-your-full-time-job-were-hiring-a-community-manager-4p1f"
+    },
+    {
+      "title": "Congrats to October's MLH x DEV Writing Challenge Winner!",
+      "hot": "❤️ 16 💬 1",
+      "desc": "October's MLH x DEV Writing Challenge is a wrap! This is our way of celebrating MLH hackers who take...",
+      "source": "dev",
+      "tag": "devchallenge,  mlhacks",
+      "url": "https://dev.to/devteam/congrats-to-octobers-mlh-x-dev-writing-challenge-winner-36a9"
+    },
+    {
       "title": "Containing the Autonomous Mind: Sub-Second Zero-Trust Execution with GKE Agent Sandbox",
-      "hot": "❤️ 17 💬 1",
+      "hot": "❤️ 18 💬 1",
       "desc": "Why standard Kubernetes pods fail when AI agents start writing code and how to build a sub-second,...",
       "source": "dev",
       "tag": "ai,  googlecloud",
@@ -52,7 +68,7 @@
     },
     {
       "title": "Prompt Pad: Show Your AI How to Respond with Few-Shot Examples",
-      "hot": "❤️ 12 💬 0",
+      "hot": "❤️ 14 💬 1",
       "desc": "Want AI to answer in a specific way? Don't just tell it. Show it.  In this episode of Prompt Pad,...",
       "source": "dev",
       "tag": "ai,  beginners",
@@ -145,187 +161,25 @@
       "source": "dev",
       "tag": "ai,  gemini",
       "url": "https://blog.mlh.com/prompt-pad-lock-your-ais-output-schema-in-google-ai-studio-53io"
-    },
-    {
-      "title": "That's a Wrap on Hacktoberfest 2026! 🎃👻",
-      "hot": "❤️ 65 💬 14",
-      "desc": "Hacktoberfest 2026 wrapped up on October 31st! Thank you to everyone who built, hosted, mentored,...",
-      "source": "dev",
-      "tag": "hacktoberfest,  hf26challenge",
-      "url": "https://dev.to/devteam/thats-a-wrap-on-hacktoberfest-2026-148k"
-    },
-    {
-      "title": "Gemma 4 in Rust on TorchTPU: Hands On With Colab",
-      "hot": "❤️ 8 💬 0",
-      "desc": "A Rust crate reads the checkpoint, runs all 35 layers of Gemma 4 E2B and drives the decode loop on one TPU v5e chip in C",
-      "source": "dev",
-      "tag": "rust,  pytorch",
-      "url": "https://dev.to/gde/gemma-4-in-rust-on-torchtpu-hands-on-with-colab-44hi"
-    }
-  ],
-  "tech": [
-    {
-      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-      "hot": "3.0m",
-      "desc": "hightouch.com",
-      "source": "tech",
-      "tag": "⬆️ 80 points",
-      "url": "https://hightouch.com/blog/llm-judges-identity-resolution"
-    },
-    {
-      "title": "Firecracker VM Escape: PwnEscape Part 2",
-      "hot": "3.0m",
-      "desc": "pwn.ai",
-      "source": "tech",
-      "tag": "⬆️ 72 points",
-      "url": "https://pwn.ai/blog/firecracker-escape"
-    },
-    {
-      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
-      "hot": "3.0m",
-      "desc": "reuters.com",
-      "source": "tech",
-      "tag": "⬆️ 194 points",
-      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/"
-    },
-    {
-      "title": "Tesla to wind down Cybertruck production",
-      "hot": "3.0m",
-      "desc": "nbcnews.com",
-      "source": "tech",
-      "tag": "⬆️ 640 points",
-      "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817"
-    },
-    {
-      "title": "First steps in bare-metal programming using UEFI",
-      "hot": "2.9m",
-      "desc": "kevinboone.me",
-      "source": "tech",
-      "tag": "⬆️ 129 points",
-      "url": "https://kevinboone.me/efitest_index.html"
-    },
-    {
-      "title": "My first and last telegram was from Rebecca West",
-      "hot": "2.9m",
-      "desc": "thelampmagazine.com",
-      "source": "tech",
-      "tag": "⬆️ 19 points",
-      "url": "https://thelampmagazine.com/blog/rebecca-wests-nightingale"
-    },
-    {
-      "title": "Blender's UI and Runtime: Much Faster Than GPUI",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 628 points",
-      "url": "https://github.com/ppmpreetham/BUI"
-    },
-    {
-      "title": "Restaurant Delivery Payment-Skimming Campaign",
-      "hot": "2.9m",
-      "desc": "infohawk.com",
-      "source": "tech",
-      "tag": "⬆️ 25 points",
-      "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming"
-    },
-    {
-      "title": "Memorilla: Latent Semantic Memory for LLMs",
-      "hot": "2.9m",
-      "desc": "arxiv.org",
-      "source": "tech",
-      "tag": "⬆️ 43 points",
-      "url": "https://arxiv.org/abs/2610.21375"
-    },
-    {
-      "title": "Size-It-Up (Game)",
-      "hot": "2.9m",
-      "desc": "magnitudle.com",
-      "source": "tech",
-      "tag": "⬆️ 38 points",
-      "url": "https://magnitudle.com/size-it-up"
-    },
-    {
-      "title": "Gemini Omni 1.2 Flash",
-      "hot": "2.9m",
-      "desc": "blog.google",
-      "source": "tech",
-      "tag": "⬆️ 257 points",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
-    },
-    {
-      "title": "Replit rebuilt its sandbox engine with microVMs",
-      "hot": "2.8m",
-      "desc": "frontier.replit.com",
-      "source": "tech",
-      "tag": "⬆️ 15 points",
-      "url": "https://frontier.replit.com/sandbox-engine-microvms-part-1/"
-    },
-    {
-      "title": "Show HN: Agents infer Lego mechanisms from sources, then animate them",
-      "hot": "2.8m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 11 points",
-      "url": "https://github.com/anteloc/ldraw-mecha/tree/v0.5.0"
-    },
-    {
-      "title": "UpCodes (YC S17) is hiring SDR's to sell AI compliance software",
-      "hot": "2.8m",
-      "desc": "up.codes",
-      "source": "tech",
-      "tag": "⬆️ 1 points",
-      "url": "https://up.codes/careers?utm_source=HN"
-    },
-    {
-      "title": "Devvm.dev: One VM for every project",
-      "hot": "2.8m",
-      "desc": "devvm.dev",
-      "source": "tech",
-      "tag": "⬆️ 45 points",
-      "url": "https://devvm.dev/"
-    },
-    {
-      "title": "Deus Ex",
-      "hot": "2.8m",
-      "desc": "filfre.net",
-      "source": "tech",
-      "tag": "⬆️ 283 points",
-      "url": "https://www.filfre.net/2026/11/deus-ex/"
-    },
-    {
-      "title": "Show HN: Waymark – A workflow engine that compiles jobs instead of replaying",
-      "hot": "2.8m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 6 points",
-      "url": "https://github.com/piercefreeman/waymark"
-    },
-    {
-      "title": "40C3 halfnarp – Submit talk preferences to aid scheduling",
-      "hot": "2.7m",
-      "desc": "halfnarp.events.ccc.de",
-      "source": "tech",
-      "tag": "⬆️ 21 points",
-      "url": "https://halfnarp.events.ccc.de"
-    },
-    {
-      "title": "As the Japanese countryside empties out, wildlife is disappearing",
-      "hot": "2.7m",
-      "desc": "e360.yale.edu",
-      "source": "tech",
-      "tag": "⬆️ 41 points",
-      "url": "https://e360.yale.edu/digest/japan-depopulation-biodiversity"
-    },
-    {
-      "title": "How octopuses squeeze through too small gaps",
-      "hot": "2.7m",
-      "desc": "journals.biologists.com",
-      "source": "tech",
-      "tag": "⬆️ 20 points",
-      "url": "https://journals.biologists.com/jeb/article/229/21/jeb253615/373332/How-octopuses-squeeze-through-too-small-gaps"
     }
   ],
   "space": [
+    {
+      "title": "Falcon 9 to launch from California on classified mission for U.S. Space Force",
+      "hot": "11/6",
+      "desc": "Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 4:48 p.m. PST (7:48 p.m. EST / 0048 UTC). The mission is thought to be carrying sa",
+      "source": "space",
+      "tag": "Spaceflight Now",
+      "url": "https://spaceflightnow.com/2026/11/06/falcon-9-to-launch-from-california-on-classified-mission-for-u-s-space-force/"
+    },
+    {
+      "title": "Stoke Space evaluating expansion of Cape site for second Nova pad",
+      "hot": "11/6",
+      "desc": "Stoke Space has been granted Right of Entry by Space Launch Delta 45 to property…\nThe post Stoke Space evaluating expansion of Cape site for second No",
+      "source": "space",
+      "tag": "NASASpaceflight",
+      "url": "https://www.nasaspaceflight.com/2026/11/stoke-expansion-cape-second-nova/"
+    },
     {
       "title": "AST SpaceMobile is so desperate for launch they're building their own rocket",
       "hot": "11/6",
@@ -429,22 +283,168 @@
       "source": "space",
       "tag": "SpaceNews",
       "url": "https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission/"
+    }
+  ],
+  "tech": [
+    {
+      "title": "CATL Sodium Battery Hits LFP Cost Parity in 2026: 15,000 Cycles, 30-Year Life",
+      "hot": "3.0m",
+      "desc": "ievchina.com",
+      "source": "tech",
+      "tag": "⬆️ 87 points",
+      "url": "https://ievchina.com/energy-storage/catl-sodium-battery-cost-parity-lfp-2026-15000-cycles/"
     },
     {
-      "title": "Blue Origin unveils New Glenn GS3 third stage and Northstar booster engine",
-      "hot": "11/5",
-      "desc": "Blue Origin chief executive Dave Limp has unveiled a third stage for New Glenn and…\nThe post Blue Origin unveils New Glenn GS3 third stage and Northst",
-      "source": "space",
-      "tag": "NASASpaceflight",
-      "url": "https://www.nasaspaceflight.com/2026/11/blue-origin-new-glenn-gs3-northstar-engine/"
+      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+      "hot": "3.0m",
+      "desc": "hightouch.com",
+      "source": "tech",
+      "tag": "⬆️ 295 points",
+      "url": "https://hightouch.com/blog/llm-judges-identity-resolution"
     },
     {
-      "title": "Cork Takes the Heat So DRACO’s Data Can Survive",
-      "hot": "11/5",
-      "desc": "\nMozelos, Portugal, September 2, 2026 – Amorim Cork Solutions is contributing its P50 cork-based thermal protection material to DRACO, a European Spac",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/cork-takes-the-heat-so-dracos-data-can-survive/"
+      "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
+      "hot": "3.0m",
+      "desc": "community.openai.com",
+      "source": "tech",
+      "tag": "⬆️ 57 points",
+      "url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053"
+    },
+    {
+      "title": "Tesla to wind down Cybertruck production",
+      "hot": "3.0m",
+      "desc": "nbcnews.com",
+      "source": "tech",
+      "tag": "⬆️ 810 points",
+      "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817"
+    },
+    {
+      "title": "Firecracker VM Escape: PwnEscape Part 2",
+      "hot": "2.9m",
+      "desc": "pwn.ai",
+      "source": "tech",
+      "tag": "⬆️ 152 points",
+      "url": "https://pwn.ai/blog/firecracker-escape"
+    },
+    {
+      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+      "hot": "2.9m",
+      "desc": "reuters.com",
+      "source": "tech",
+      "tag": "⬆️ 264 points",
+      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/"
+    },
+    {
+      "title": "AI is dramatically accelerating AI research",
+      "hot": "2.9m",
+      "desc": "planned-obsolescence.org",
+      "source": "tech",
+      "tag": "⬆️ 173 points",
+      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai"
+    },
+    {
+      "title": "First steps in bare-metal programming using UEFI",
+      "hot": "2.9m",
+      "desc": "kevinboone.me",
+      "source": "tech",
+      "tag": "⬆️ 173 points",
+      "url": "https://kevinboone.me/efitest_index.html"
+    },
+    {
+      "title": "Restaurant Delivery Payment-Skimming Campaign",
+      "hot": "2.9m",
+      "desc": "infohawk.com",
+      "source": "tech",
+      "tag": "⬆️ 76 points",
+      "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming"
+    },
+    {
+      "title": "Replit rebuilt its sandbox engine with microVMs",
+      "hot": "2.9m",
+      "desc": "frontier.replit.com",
+      "source": "tech",
+      "tag": "⬆️ 54 points",
+      "url": "https://frontier.replit.com/sandbox-engine-microvms-part-1/"
+    },
+    {
+      "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
+      "hot": "2.9m",
+      "desc": "crusoe.ai",
+      "source": "tech",
+      "tag": "⬆️ 30 points",
+      "url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update"
+    },
+    {
+      "title": "Memorilla: Latent Semantic Memory for LLMs",
+      "hot": "2.8m",
+      "desc": "arxiv.org",
+      "source": "tech",
+      "tag": "⬆️ 78 points",
+      "url": "https://arxiv.org/abs/2610.21375"
+    },
+    {
+      "title": "Devvm.dev: One VM for every project",
+      "hot": "2.8m",
+      "desc": "devvm.dev",
+      "source": "tech",
+      "tag": "⬆️ 99 points",
+      "url": "https://devvm.dev/"
+    },
+    {
+      "title": "Gemini Omni 1.2 Flash",
+      "hot": "2.8m",
+      "desc": "blog.google",
+      "source": "tech",
+      "tag": "⬆️ 291 points",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
+    },
+    {
+      "title": "Can GROUP BY still be optimized after all these years?",
+      "hot": "2.8m",
+      "desc": "pivotlake.io",
+      "source": "tech",
+      "tag": "⬆️ 7 points",
+      "url": "https://pivotlake.io/blog/know-your-limit-faster-top-k-aggregation/"
+    },
+    {
+      "title": "Size-It-Up (Game)",
+      "hot": "2.8m",
+      "desc": "magnitudle.com",
+      "source": "tech",
+      "tag": "⬆️ 64 points",
+      "url": "https://magnitudle.com/size-it-up"
+    },
+    {
+      "title": "Outbound SIP calling is now available to all organizations",
+      "hot": "2.8m",
+      "desc": "developers.openai.com",
+      "source": "tech",
+      "tag": "⬆️ 8 points",
+      "url": "https://developers.openai.com/api/docs/guides/voice-sip"
+    },
+    {
+      "title": "Annie Ernaux still feels like an outsider",
+      "hot": "2.7m",
+      "desc": "vulture.com",
+      "source": "tech",
+      "tag": "⬆️ 8 points",
+      "url": "https://www.vulture.com/article/annie-ernaux-interview-french-protests-nobel-prize.html"
+    },
+    {
+      "title": "Show HN: Waymark – A workflow engine that compiles jobs instead of replaying",
+      "hot": "2.7m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 34 points",
+      "url": "https://github.com/piercefreeman/waymark"
+    },
+    {
+      "title": "The Ubuntu 26.04 Rust sudo is not compatible with standard sudo",
+      "hot": "2.7m",
+      "desc": "utcc.utoronto.ca",
+      "source": "tech",
+      "tag": "⬆️ 133 points",
+      "url": "https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604RustSudoNotCompatible"
     }
   ],
   "github": [
@@ -458,23 +458,15 @@
     },
     {
       "title": "storytold/craft-anything: Craft Anything: understand how any software works, and",
-      "hot": "⭐ 17.7k",
+      "hot": "⭐ 18.0k",
       "desc": "Craft Anything: understand how any software works, and craft your own.",
       "source": "github",
       "tag": "Rust",
       "url": "https://github.com/storytold/craft-anything"
     },
     {
-      "title": "patch-gg/pixelfx: 244 pixel art effects, every one a small piece of code. Plus a",
-      "hot": "⭐ 5.6k",
-      "desc": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/patch-gg/pixelfx"
-    },
-    {
       "title": "zortos293/Lichii: VERY experimental Nintendo Switch 2 emulator",
-      "hot": "⭐ 3.7k",
+      "hot": "⭐ 4.0k",
       "desc": "VERY experimental Nintendo Switch 2 emulator",
       "source": "github",
       "tag": "C++",
@@ -482,7 +474,7 @@
     },
     {
       "title": "KKKKhazix/agent-autoloop: 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-      "hot": "⭐ 3.6k",
+      "hot": "⭐ 3.7k",
       "desc": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
       "source": "github",
       "tag": "TypeScript",
@@ -498,19 +490,11 @@
     },
     {
       "title": "Verlintas/NOIR: 手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Androi",
-      "hot": "⭐ 2.7k",
+      "hot": "⭐ 2.8k",
       "desc": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
       "source": "github",
       "tag": "Kotlin",
       "url": "https://github.com/Verlintas/NOIR"
-    },
-    {
-      "title": "elvarofficial/teardown: A Claude Code skill that turns any machine into a 3D sim",
-      "hot": "⭐ 2.4k",
-      "desc": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/elvarofficial/teardown"
     },
     {
       "title": "govijr/terminal-mac: Entire MacOS running in your terminal.",
@@ -530,7 +514,7 @@
     },
     {
       "title": "caru-ini/stack-diagram: Agent skill: describe your stack in a sentence, get an a",
-      "hot": "⭐ 1.9k",
+      "hot": "⭐ 2.0k",
       "desc": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
       "source": "github",
       "tag": "TypeScript",
@@ -545,28 +529,44 @@
       "url": "https://github.com/Minireel/HGhub"
     },
     {
-      "title": "Arjun-Ingole/hop: Install Linux next to Windows without a USB stick",
-      "hot": "⭐ 1.6k",
-      "desc": "Install Linux next to Windows without a USB stick",
-      "source": "github",
-      "tag": "PowerShell",
-      "url": "https://github.com/Arjun-Ingole/hop"
-    },
-    {
       "title": "wquguru/cicada: 知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android ",
-      "hot": "⭐ 1.5k",
+      "hot": "⭐ 1.6k",
       "desc": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Wi",
       "source": "github",
       "tag": "Swift",
       "url": "https://github.com/wquguru/cicada"
     },
     {
-      "title": "kevinraymond/florilegium: Procedurally generated Delft-blue floral page margins ",
-      "hot": "⭐ 1.5k",
-      "desc": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, with plants and visitors sampled from genomes and a TikZ library that also draws t",
+      "title": "s1dashu/quiet-md: Blazing-fast native notes app for macOS & Windows. Rust + GPUI",
+      "hot": "⭐ 1.2k",
+      "desc": "Blazing-fast native notes app for macOS & Windows. Rust + GPUI, local-first, compatible with Feishu/Lark DocxXML.",
       "source": "github",
-      "tag": "TeX",
-      "url": "https://github.com/kevinraymond/florilegium"
+      "tag": "Rust",
+      "url": "https://github.com/s1dashu/quiet-md"
+    },
+    {
+      "title": "livliv-dev/player: A lightweight 2.5D character player for the web, with lip syn",
+      "hot": "⭐ 956",
+      "desc": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/livliv-dev/player"
+    },
+    {
+      "title": "mmdoctor/google-pro-helper: ",
+      "hot": "⭐ 885",
+      "desc": "mmdoctor/google-pro-helper",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/mmdoctor/google-pro-helper"
+    },
+    {
+      "title": "Sandflow-ai/sand3d: 3D modeling in Python, built for LLMs.",
+      "hot": "⭐ 790",
+      "desc": "3D modeling in Python, built for LLMs.",
+      "source": "github",
+      "tag": "HTML",
+      "url": "https://github.com/Sandflow-ai/sand3d"
     }
   ]
 }

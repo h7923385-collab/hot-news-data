@@ -10,23 +10,23 @@
     },
     {
       "title": "What was your win this week?",
-      "hot": "❤️ 66 💬 38",
+      "hot": "❤️ 71 💬 39",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "weeklyretro",
       "url": "https://dev.to/devteam/what-was-your-win-this-week-28dh"
     },
     {
-      "title": "Want to make DEV your full-time job? We're hiring a Community Manager!",
-      "hot": "❤️ 37 💬 2",
-      "desc": "Hey friends 👋  Back in June, we posted about a Community Program Manager role. Thank you to everyone...",
+      "title": "An Update on the Hacktoberfest Open-Source AI Challenge: Ghost in the Machine Winners",
+      "hot": "❤️ 22 💬 1",
+      "desc": "Hey all, we have a quick update for everyone who participated in the Hacktoberfest Open-Source AI...",
       "source": "dev",
-      "tag": "career,  meta",
-      "url": "https://dev.to/devteam/want-to-make-dev-your-full-time-job-were-hiring-a-community-manager-4p1f"
+      "tag": "devchallenge,  hf26challenge",
+      "url": "https://dev.to/devteam/an-update-on-the-hacktoberfest-open-source-ai-challenge-ghost-in-the-machine-winners-44bp"
     },
     {
       "title": "One Word, Two GPUs: Why Gemma 4 Answers the Same Question Differently on a Laptop and a Tesla T4",
-      "hot": "❤️ 14 💬 1",
+      "hot": "❤️ 15 💬 1",
       "desc": "Same GGUF file, same llama.cpp build, greedy decoding, and a GTX 1650 Ti answers $20 where a Tesla T4 answers 2000. One ",
       "source": "dev",
       "tag": "gemma,  llamacpp",
@@ -34,15 +34,31 @@
     },
     {
       "title": "Let's see where you code!",
-      "hot": "❤️ 84 💬 40",
+      "hot": "❤️ 89 💬 42",
       "desc": "I’ve been writing a lot about AWS lately, so let’s take a breather. This is my little corner of the...",
       "source": "dev",
       "tag": "watercooler,  discuss",
       "url": "https://dev.to/maame-codes/lets-see-where-you-code-147"
     },
     {
+      "title": "Want to make DEV your full-time job? We're hiring a Community Manager!",
+      "hot": "❤️ 56 💬 4",
+      "desc": "Hey friends 👋  Back in June, we posted about a Community Program Manager role. Thank you to everyone...",
+      "source": "dev",
+      "tag": "career,  meta",
+      "url": "https://dev.to/devteam/want-to-make-dev-your-full-time-job-were-hiring-a-community-manager-4p1f"
+    },
+    {
+      "title": "Congrats to October's MLH x DEV Writing Challenge Winner!",
+      "hot": "❤️ 16 💬 1",
+      "desc": "October's MLH x DEV Writing Challenge is a wrap! This is our way of celebrating MLH hackers who take...",
+      "source": "dev",
+      "tag": "devchallenge,  mlhacks",
+      "url": "https://dev.to/devteam/congrats-to-octobers-mlh-x-dev-writing-challenge-winner-36a9"
+    },
+    {
       "title": "Containing the Autonomous Mind: Sub-Second Zero-Trust Execution with GKE Agent Sandbox",
-      "hot": "❤️ 17 💬 1",
+      "hot": "❤️ 18 💬 1",
       "desc": "Why standard Kubernetes pods fail when AI agents start writing code and how to build a sub-second,...",
       "source": "dev",
       "tag": "ai,  googlecloud",
@@ -50,7 +66,7 @@
     },
     {
       "title": "Prompt Pad: Show Your AI How to Respond with Few-Shot Examples",
-      "hot": "❤️ 12 💬 0",
+      "hot": "❤️ 14 💬 1",
       "desc": "Want AI to answer in a specific way? Don't just tell it. Show it.  In this episode of Prompt Pad,...",
       "source": "dev",
       "tag": "ai,  beginners",
@@ -143,23 +159,7 @@
       "source": "dev",
       "tag": "ai,  gemini",
       "url": "https://blog.mlh.com/prompt-pad-lock-your-ais-output-schema-in-google-ai-studio-53io"
-    },
-    {
-      "title": "That's a Wrap on Hacktoberfest 2026! 🎃👻",
-      "hot": "❤️ 65 💬 14",
-      "desc": "Hacktoberfest 2026 wrapped up on October 31st! Thank you to everyone who built, hosted, mentored,...",
-      "source": "dev",
-      "tag": "hacktoberfest,  hf26challenge",
-      "url": "https://dev.to/devteam/thats-a-wrap-on-hacktoberfest-2026-148k"
-    },
-    {
-      "title": "Gemma 4 in Rust on TorchTPU: Hands On With Colab",
-      "hot": "❤️ 8 💬 0",
-      "desc": "A Rust crate reads the checkpoint, runs all 35 layers of Gemma 4 E2B and drives the decode loop on one TPU v5e chip in C",
-      "source": "dev",
-      "tag": "rust,  pytorch",
-      "url": "https://dev.to/gde/gemma-4-in-rust-on-torchtpu-hands-on-with-colab-44hi"
     }
   ],
-  "updatedAt": "2026-11-06T20:57:10.104Z"
+  "updatedAt": "2026-11-07T00:31:10.375Z"
 }
