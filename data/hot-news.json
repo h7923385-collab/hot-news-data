@@ -1,15 +1,7 @@
 {
-  "updatedAt": "2026-11-08T08:06:55.344Z",
+  "updatedAt": "2026-11-08T15:24:01.767Z",
   "source": "live",
   "dev": [
-    {
-      "title": "What was your win this week?",
-      "hot": "❤️ 86 💬 56",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "weeklyretro",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-28dh"
-    },
     {
       "title": "Congrats to the Kaggle Benchmarking Challenge Winners!",
       "hot": "❤️ 126 💬 25",
@@ -19,20 +11,12 @@
       "url": "https://dev.to/devteam/congrats-to-the-kaggle-benchmarking-challenge-winners-2moh"
     },
     {
-      "title": "Android 17 on a 4.9 Kernel: LineageOS 24.0 on the Pixel 3a",
-      "hot": "❤️ 10 💬 1",
-      "desc": "The Pixel 3a runs LineageOS 24.0, Android 17, on its original 4.9 kernel with SELinux enforcing and Google apps. One ker",
+      "title": "What was your win this week?",
+      "hot": "❤️ 88 💬 57",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
-      "tag": "android,  linux",
-      "url": "https://dev.to/gde/android-17-on-a-49-kernel-lineageos-240-on-the-pixel-3a-1mok"
-    },
-    {
-      "title": "Crows, Moths, and Makefiles: How 300 Megabytes of Crow DNA Explains Why a 20-Kilobyte Scar File Outsmarts a Terabyte LLM",
-      "hot": "❤️ 18 💬 11",
-      "desc": "Why do New Caledonian crows bend wire into hooks with zero training while a trillion-parameter LLM flies straight into t",
-      "source": "dev",
-      "tag": "ai,  programming",
-      "url": "https://dev.to/gde/crows-moths-and-makefiles-how-300-megabytes-of-crow-dna-explains-why-a-20-kilobyte-scar-file-36a"
+      "tag": "weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-28dh"
     },
     {
       "title": "Prompt Pad: What Are Open-Weight Models?",
@@ -99,12 +83,12 @@
       "url": "https://dev.to/googlecloud/find-the-production-agent-failures-that-every-health-check-misses-39j8"
     },
     {
-      "title": "Securing an Angular Firebase AI App with Email/Password Authentication (Part 2: Signal Forms Sign-In Modal) [GDE]",
-      "hot": "❤️ 6 💬 1",
-      "desc": "In this blog post, we build a Sign-In modal component (SignInModalComponent) using the stable Angular...",
+      "title": "One Word, Two GPUs: Why Gemma 4 Answers the Same Question Differently on a Laptop and a Tesla T4",
+      "hot": "❤️ 20 💬 4",
+      "desc": "Same GGUF file, same llama.cpp build, greedy decoding, and a GTX 1650 Ti answers $20 where a Tesla T4 answers 2000. One ",
       "source": "dev",
-      "tag": "angular,  firebase",
-      "url": "https://dev.to/gde/securing-an-angular-firebase-ai-app-with-emailpassword-authentication-part-2-signal-forms-3ll9"
+      "tag": "gemma,  llamacpp",
+      "url": "https://dev.to/gde/one-word-two-gpus-why-gemma-4-answers-the-same-question-differently-on-a-laptop-and-a-tesla-t4-1dj2"
     },
     {
       "title": "Prompt Pad: Lock Your AI's Output Schema in Google AI Studio",
@@ -113,14 +97,6 @@
       "source": "dev",
       "tag": "ai,  gemini",
       "url": "https://blog.mlh.com/prompt-pad-lock-your-ais-output-schema-in-google-ai-studio-53io"
-    },
-    {
-      "title": "One Word, Two GPUs: Why Gemma 4 Answers the Same Question Differently on a Laptop and a Tesla T4",
-      "hot": "❤️ 20 💬 3",
-      "desc": "Same GGUF file, same llama.cpp build, greedy decoding, and a GTX 1650 Ti answers $20 where a Tesla T4 answers 2000. One ",
-      "source": "dev",
-      "tag": "gemma,  llamacpp",
-      "url": "https://dev.to/gde/one-word-two-gpus-why-gemma-4-answers-the-same-question-differently-on-a-laptop-and-a-tesla-t4-1dj2"
     },
     {
       "title": "That's a Wrap on Hacktoberfest 2026! 🎃👻",
@@ -140,7 +116,7 @@
     },
     {
       "title": "Let's see where you code!",
-      "hot": "❤️ 94 💬 46",
+      "hot": "❤️ 96 💬 47",
       "desc": "I’ve been writing a lot about AWS lately, so let’s take a breather. This is my little corner of the...",
       "source": "dev",
       "tag": "watercooler,  discuss",
@@ -161,168 +137,30 @@
       "source": "dev",
       "tag": "ai,  devtools",
       "url": "https://dev.to/gde/profile-sprawl-solving-a-problem-you-didnt-know-you-had-19k5"
-    }
-  ],
-  "tech": [
-    {
-      "title": "Goodbye Claude, Hello Pi",
-      "hot": "3.0m",
-      "desc": "caleb.software",
-      "source": "tech",
-      "tag": "⬆️ 205 points",
-      "url": "https://caleb.software/posts/claude-to-pi.html"
     },
     {
-      "title": "What I run on my $10 USD OpenStick homelab",
-      "hot": "3.0m",
-      "desc": "blog.bosscher.ch",
-      "source": "tech",
-      "tag": "⬆️ 532 points",
-      "url": "https://blog.bosscher.ch/posts/openstick/"
+      "title": "From `main.js` Leaks to Hidden Tailwind CSS v4 Bloat — How I Built `angular-bundle-guard` with Antigravity `/learn` [GDE]",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Day 33: From main.js Leaks to Hidden Tailwind CSS v4 Bloat — How I Built...",
+      "source": "dev",
+      "tag": "angular,  antigravity",
+      "url": "https://dev.to/gde/from-mainjs-leaks-to-hidden-tailwind-css-v4-bloat-how-i-built-angular-bundle-guard-with-geg"
     },
     {
-      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-      "hot": "3.0m",
-      "desc": "apiiro.com",
-      "source": "tech",
-      "tag": "⬆️ 348 points",
-      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again"
+      "title": "Gemma 4 E2B in JAX on One TPU v5e: bf16 or 4-Bit, Python or Rust, and How It Stands Against vLLM",
+      "hot": "❤️ 11 💬 0",
+      "desc": "Gemma 4 E2B served three ways on one Cloud TPU v5e chip: a pure-JAX engine in Python, the same graph written in Rust and",
+      "source": "dev",
+      "tag": "jax,  tpu",
+      "url": "https://dev.to/gde/gemma-4-e2b-in-jax-on-one-tpu-v5e-bf16-or-4-bit-python-or-rust-and-how-it-stands-against-vllm-j72"
     },
     {
-      "title": "Kirlian Photography: Building Your Own Equipment",
-      "hot": "3.0m",
-      "desc": "imagesco.com",
-      "source": "tech",
-      "tag": "⬆️ 29 points",
-      "url": "https://imagesco.com/articles/kirlian/kirlian-photography.html"
-    },
-    {
-      "title": "Making any integer with four 2s (2025)",
-      "hot": "2.9m",
-      "desc": "eli.thegreenplace.net",
-      "source": "tech",
-      "tag": "⬆️ 121 points",
-      "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/"
-    },
-    {
-      "title": "Need for Speed Underground 2 online in the browser",
-      "hot": "2.9m",
-      "desc": "nfsu2.xyz",
-      "source": "tech",
-      "tag": "⬆️ 945 points",
-      "url": "https://nfsu2.xyz/"
-    },
-    {
-      "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
-      "hot": "2.9m",
-      "desc": "maxxbench.unlap.ai",
-      "source": "tech",
-      "tag": "⬆️ 288 points",
-      "url": "https://maxxbench.unlap.ai/research/why-maxxbench/"
-    },
-    {
-      "title": "Uranium cubes reveal why the German nuclear project failed",
-      "hot": "2.9m",
-      "desc": "arstechnica.com",
-      "source": "tech",
-      "tag": "⬆️ 115 points",
-      "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/"
-    },
-    {
-      "title": "GitHub New pull request overview page in public preview",
-      "hot": "2.9m",
-      "desc": "github.blog",
-      "source": "tech",
-      "tag": "⬆️ 124 points",
-      "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/"
-    },
-    {
-      "title": "Clj.rs – a Clojure dialect implemented in Rust",
-      "hot": "2.9m",
-      "desc": "clj.rs",
-      "source": "tech",
-      "tag": "⬆️ 6 points",
-      "url": "https://clj.rs/"
-    },
-    {
-      "title": "ISponsorBlockTV: SponsorBlock client for all YouTube TV clients",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 20 points",
-      "url": "https://github.com/dmunozv04/isponsorblocktv"
-    },
-    {
-      "title": "Every Mac comes with an (undocumented) family member classifier",
-      "hot": "2.8m",
-      "desc": "8rank.ai",
-      "source": "tech",
-      "tag": "⬆️ 696 points",
-      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph"
-    },
-    {
-      "title": "Consumer brain wave headsets threaten privacy",
-      "hot": "2.8m",
-      "desc": "science.org",
-      "source": "tech",
-      "tag": "⬆️ 27 points",
-      "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F"
-    },
-    {
-      "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
-      "hot": "2.8m",
-      "desc": "windowslatest.com",
-      "source": "tech",
-      "tag": "⬆️ 302 points",
-      "url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/"
-    },
-    {
-      "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
-      "hot": "2.8m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 223 points",
-      "url": "https://github.com/hedgerow-dev/coldframe"
-    },
-    {
-      "title": "Amsterdam School",
-      "hot": "2.8m",
-      "desc": "architecture-history.org",
-      "source": "tech",
-      "tag": "⬆️ 27 points",
-      "url": "https://architecture-history.org/schools/AMSTERDAM%20SCHOOL.html"
-    },
-    {
-      "title": "The end of Microsoft Research's AI Frontiers group",
-      "hot": "2.8m",
-      "desc": "hunch.net",
-      "source": "tech",
-      "tag": "⬆️ 446 points",
-      "url": "https://hunch.net/?p=13764006"
-    },
-    {
-      "title": "Commodore PET – The Worlds First Personal Computer",
-      "hot": "2.7m",
-      "desc": "commodore.ca",
-      "source": "tech",
-      "tag": "⬆️ 50 points",
-      "url": "https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/"
-    },
-    {
-      "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
-      "hot": "2.7m",
-      "desc": "theguardian.com",
-      "source": "tech",
-      "tag": "⬆️ 445 points",
-      "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you"
-    },
-    {
-      "title": "Turning every radio into a radar",
-      "hot": "2.7m",
-      "desc": "tiaminetworks.com",
-      "source": "tech",
-      "tag": "⬆️ 58 points",
-      "url": "https://tiaminetworks.com/turning-every-radio-into-a-radar/"
+      "title": "Want to make DEV your full-time job? We're hiring a Community Manager!",
+      "hot": "❤️ 86 💬 10",
+      "desc": "Hey friends 👋  Back in June, we posted about a Community Program Manager role. Thank you to everyone...",
+      "source": "dev",
+      "tag": "career,  meta",
+      "url": "https://dev.to/devteam/want-to-make-dev-your-full-time-job-were-hiring-a-community-manager-4p1f"
     }
   ],
   "space": [
@@ -447,18 +285,180 @@
       "url": "https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/"
     }
   ],
+  "tech": [
+    {
+      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "hot": "3.0m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 117 points",
+      "url": "https://github.com/synchopate/llama-modchip"
+    },
+    {
+      "title": "Quadrillion-parameter transformers and how to train them",
+      "hot": "3.0m",
+      "desc": "qlabs.sh",
+      "source": "tech",
+      "tag": "⬆️ 37 points",
+      "url": "https://qlabs.sh/research/parameters"
+    },
+    {
+      "title": "Porting Android 16 to my blind mother's keypad phone",
+      "hot": "3.0m",
+      "desc": "z1x.us",
+      "source": "tech",
+      "tag": "⬆️ 57 points",
+      "url": "https://z1x.us/blog/four-hundred-bucks-of-e-waste"
+    },
+    {
+      "title": "JIT bitmap text rendering for microcontrollers",
+      "hot": "3.0m",
+      "desc": "linebender.org",
+      "source": "tech",
+      "tag": "⬆️ 51 points",
+      "url": "https://linebender.org/blog/jit-bitmap-text/"
+    },
+    {
+      "title": "Person of Interest",
+      "hot": "2.9m",
+      "desc": "krthr.co",
+      "source": "tech",
+      "tag": "⬆️ 198 points",
+      "url": "https://krthr.co/person-of-interest/"
+    },
+    {
+      "title": "Goodbye Claude, Hello Pi",
+      "hot": "2.9m",
+      "desc": "caleb.software",
+      "source": "tech",
+      "tag": "⬆️ 487 points",
+      "url": "https://caleb.software/posts/claude-to-pi.html"
+    },
+    {
+      "title": "Writing as a Thinking Tool",
+      "hot": "2.9m",
+      "desc": "muratbuffalo.blogspot.com",
+      "source": "tech",
+      "tag": "⬆️ 33 points",
+      "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html"
+    },
+    {
+      "title": "JIT bitmap text rendering for microcontrollers",
+      "hot": "2.9m",
+      "desc": "linebender.org",
+      "source": "tech",
+      "tag": "⬆️ 4 points",
+      "url": "https://linebender.org/blog/jit-bitmap-text/"
+    },
+    {
+      "title": "What I run on my $10 USD OpenStick homelab",
+      "hot": "2.9m",
+      "desc": "blog.bosscher.ch",
+      "source": "tech",
+      "tag": "⬆️ 672 points",
+      "url": "https://blog.bosscher.ch/posts/openstick/"
+    },
+    {
+      "title": "Clj.rs – a Clojure dialect implemented in Rust",
+      "hot": "2.9m",
+      "desc": "clj.rs",
+      "source": "tech",
+      "tag": "⬆️ 104 points",
+      "url": "https://clj.rs/"
+    },
+    {
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "hot": "2.9m",
+      "desc": "apiiro.com",
+      "source": "tech",
+      "tag": "⬆️ 478 points",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again"
+    },
+    {
+      "title": "Earliest evidence of cannabis use found in ancient Siberian tomb",
+      "hot": "2.8m",
+      "desc": "cnn.com",
+      "source": "tech",
+      "tag": "⬆️ 31 points",
+      "url": "https://www.cnn.com/2026/11/05/science/ancient-cannabis-siberia-scli-intl"
+    },
+    {
+      "title": "Agent memory needs its OpenTelemetry moment",
+      "hot": "2.8m",
+      "desc": "lorekit.io",
+      "source": "tech",
+      "tag": "⬆️ 94 points",
+      "url": "https://www.lorekit.io/blog/open-agent-memory-format"
+    },
+    {
+      "title": "Finding Xanadu: Inside a JRPG classic translation 15 years in the making",
+      "hot": "2.8m",
+      "desc": "readonlymemo.com",
+      "source": "tech",
+      "tag": "⬆️ 49 points",
+      "url": "https://readonlymemo.com/legend-of-xanadu-pc-engine-fan-translation-interview-making-of/"
+    },
+    {
+      "title": "Need for Speed Underground 2 online in the browser",
+      "hot": "2.8m",
+      "desc": "nfsu2.xyz",
+      "source": "tech",
+      "tag": "⬆️ 1064 points",
+      "url": "https://nfsu2.xyz/"
+    },
+    {
+      "title": "New typeface using intricate designs from Shakespeare's First Folio (2023)",
+      "hot": "2.8m",
+      "desc": "itsnicethat.com",
+      "source": "tech",
+      "tag": "⬆️ 32 points",
+      "url": "https://www.itsnicethat.com/news/typeland-shakespeares-globe-amifer-folio-graphic-design-090323"
+    },
+    {
+      "title": "Consumer brain wave headsets threaten privacy",
+      "hot": "2.8m",
+      "desc": "science.org",
+      "source": "tech",
+      "tag": "⬆️ 91 points",
+      "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F"
+    },
+    {
+      "title": "Making any integer with four 2s (2025)",
+      "hot": "2.7m",
+      "desc": "eli.thegreenplace.net",
+      "source": "tech",
+      "tag": "⬆️ 172 points",
+      "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/"
+    },
+    {
+      "title": "Uranium cubes reveal why the German nuclear project failed",
+      "hot": "2.7m",
+      "desc": "arstechnica.com",
+      "source": "tech",
+      "tag": "⬆️ 173 points",
+      "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/"
+    },
+    {
+      "title": "Every Mac comes with an (undocumented) family member classifier",
+      "hot": "2.7m",
+      "desc": "8rank.ai",
+      "source": "tech",
+      "tag": "⬆️ 779 points",
+      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph"
+    }
+  ],
   "github": [
     {
-      "title": "KKKKhazix/agent-autoloop: 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦��，遇到拿不准的事才发卡片找你拍板。",
-      "hot": "⭐ 4.0k",
-      "desc": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦��，遇到拿不准的事才发卡片找你拍板。",
+      "title": "KKKKhazix/agent-autoloop: 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "hot": "⭐ 4.1k",
+      "desc": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/KKKKhazix/agent-autoloop"
     },
     {
       "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto: Google_AI_Pro_2Year_ZeroCost_Auto",
-      "hot": "⭐ 3.1k",
+      "hot": "⭐ 3.2k",
       "desc": "Google_AI_Pro_2Year_ZeroCost_Auto",
       "source": "github",
       "tag": "Python",
@@ -466,35 +466,35 @@
     },
     {
       "title": "Minireel/HGhub: YellowFruit third-party client",
-      "hot": "⭐ 2.6k",
+      "hot": "⭐ 2.8k",
       "desc": "YellowFruit third-party client",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/Minireel/HGhub"
     },
     {
-      "title": "govijr/terminal-mac: Entire MacOS running in your terminal.",
-      "hot": "⭐ 2.3k",
-      "desc": "Entire MacOS running in your terminal.",
+      "title": "NotRexed/Hookshot: A Native Recompilation Of The Legend Of Zelda: Ocarina Of Tim",
+      "hot": "⭐ 2.5k",
+      "desc": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
       "source": "github",
-      "tag": "Swift",
-      "url": "https://github.com/govijr/terminal-mac"
+      "tag": "C++",
+      "url": "https://github.com/NotRexed/Hookshot"
     },
     {
       "title": "mromidev/claude-animated-shorts: Free Claude skill: viral animated story shorts ",
-      "hot": "⭐ 2.3k",
+      "hot": "⭐ 2.4k",
       "desc": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/mromidev/claude-animated-shorts"
     },
     {
-      "title": "NotRexed/Hookshot: A Native Recompilation Of The Legend Of Zelda: Ocarina Of Tim",
-      "hot": "⭐ 2.1k",
-      "desc": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+      "title": "govijr/terminal-mac: Entire MacOS running in your terminal.",
+      "hot": "⭐ 2.4k",
+      "desc": "Entire MacOS running in your terminal.",
       "source": "github",
-      "tag": "C++",
-      "url": "https://github.com/NotRexed/Hookshot"
+      "tag": "Swift",
+      "url": "https://github.com/govijr/terminal-mac"
     },
     {
       "title": "caru-ini/stack-diagram: Agent skill: describe your stack in a sentence, get an a",
@@ -505,6 +505,14 @@
       "url": "https://github.com/caru-ini/stack-diagram"
     },
     {
+      "title": "wquguru/cicada: 知了 Cicada · 任何会议和直��的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android",
+      "hot": "⭐ 1.8k",
+      "desc": "知了 Cicada · 任何会议和直��的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, W",
+      "source": "github",
+      "tag": "Swift",
+      "url": "https://github.com/wquguru/cicada"
+    },
+    {
       "title": "JenkinWoo/sheeridVerify: ",
       "hot": "⭐ 1.8k",
       "desc": "JenkinWoo/sheeridVerify",
@@ -513,12 +521,12 @@
       "url": "https://github.com/JenkinWoo/sheeridVerify"
     },
     {
-      "title": "wquguru/cicada: 知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android ",
-      "hot": "⭐ 1.7k",
-      "desc": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Wi",
+      "title": "sarpstar/cinecode: Films made with code. Short films, long YouTube videos, ads, ",
+      "hot": "⭐ 1.4k",
+      "desc": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in ",
       "source": "github",
-      "tag": "Swift",
-      "url": "https://github.com/wquguru/cicada"
+      "tag": "Python",
+      "url": "https://github.com/sarpstar/cinecode"
     },
     {
       "title": "s1dashu/quiet-md: Blazing-fast native notes app for macOS & Windows. Rust + GPUI",
@@ -537,6 +545,14 @@
       "url": "https://github.com/livliv-dev/player"
     },
     {
+      "title": "Sandflow-ai/sand3d: 3D modeling in Python, built for LLMs.",
+      "hot": "⭐ 1.3k",
+      "desc": "3D modeling in Python, built for LLMs.",
+      "source": "github",
+      "tag": "HTML",
+      "url": "https://github.com/Sandflow-ai/sand3d"
+    },
+    {
       "title": "mmdoctor/google-pro-helper: ",
       "hot": "⭐ 1.2k",
       "desc": "mmdoctor/google-pro-helper",
@@ -545,28 +561,12 @@
       "url": "https://github.com/mmdoctor/google-pro-helper"
     },
     {
-      "title": "Sandflow-ai/sand3d: 3D modeling in Python, built for LLMs.",
+      "title": "CzJam/gjgjxweb: 《搞机工具箱》Web移植版",
       "hot": "⭐ 1.1k",
-      "desc": "3D modeling in Python, built for LLMs.",
+      "desc": "《搞机工具箱》Web移植版",
       "source": "github",
       "tag": "HTML",
-      "url": "https://github.com/Sandflow-ai/sand3d"
-    },
-    {
-      "title": "sarpstar/cinecode: Films made with code. Short films, long YouTube videos, ads, ",
-      "hot": "⭐ 1.1k",
-      "desc": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in ",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/sarpstar/cinecode"
-    },
-    {
-      "title": "libracoder/kiri: A small, fast container runtime for macOS, Windows and Linux",
-      "hot": "⭐ 978",
-      "desc": "A small, fast container runtime for macOS, Windows and Linux",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/libracoder/kiri"
+      "url": "https://github.com/CzJam/gjgjxweb"
     }
   ]
 }

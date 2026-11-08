@@ -1,14 +1,6 @@
 {
   "data": [
     {
-      "title": "What was your win this week?",
-      "hot": "❤️ 86 💬 56",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "weeklyretro",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-28dh"
-    },
-    {
       "title": "Congrats to the Kaggle Benchmarking Challenge Winners!",
       "hot": "❤️ 126 💬 25",
       "desc": "A few weeks ago we teamed up with Kaggle to ask a deceptively simple question: how do you actually...",
@@ -17,20 +9,12 @@
       "url": "https://dev.to/devteam/congrats-to-the-kaggle-benchmarking-challenge-winners-2moh"
     },
     {
-      "title": "Android 17 on a 4.9 Kernel: LineageOS 24.0 on the Pixel 3a",
-      "hot": "❤️ 10 💬 1",
-      "desc": "The Pixel 3a runs LineageOS 24.0, Android 17, on its original 4.9 kernel with SELinux enforcing and Google apps. One ker",
+      "title": "What was your win this week?",
+      "hot": "❤️ 88 💬 57",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
-      "tag": "android,  linux",
-      "url": "https://dev.to/gde/android-17-on-a-49-kernel-lineageos-240-on-the-pixel-3a-1mok"
-    },
-    {
-      "title": "Crows, Moths, and Makefiles: How 300 Megabytes of Crow DNA Explains Why a 20-Kilobyte Scar File Outsmarts a Terabyte LLM",
-      "hot": "❤️ 18 💬 11",
-      "desc": "Why do New Caledonian crows bend wire into hooks with zero training while a trillion-parameter LLM flies straight into t",
-      "source": "dev",
-      "tag": "ai,  programming",
-      "url": "https://dev.to/gde/crows-moths-and-makefiles-how-300-megabytes-of-crow-dna-explains-why-a-20-kilobyte-scar-file-36a"
+      "tag": "weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-28dh"
     },
     {
       "title": "Prompt Pad: What Are Open-Weight Models?",
@@ -97,12 +81,12 @@
       "url": "https://dev.to/googlecloud/find-the-production-agent-failures-that-every-health-check-misses-39j8"
     },
     {
-      "title": "Securing an Angular Firebase AI App with Email/Password Authentication (Part 2: Signal Forms Sign-In Modal) [GDE]",
-      "hot": "❤️ 6 💬 1",
-      "desc": "In this blog post, we build a Sign-In modal component (SignInModalComponent) using the stable Angular...",
+      "title": "One Word, Two GPUs: Why Gemma 4 Answers the Same Question Differently on a Laptop and a Tesla T4",
+      "hot": "❤️ 20 💬 4",
+      "desc": "Same GGUF file, same llama.cpp build, greedy decoding, and a GTX 1650 Ti answers $20 where a Tesla T4 answers 2000. One ",
       "source": "dev",
-      "tag": "angular,  firebase",
-      "url": "https://dev.to/gde/securing-an-angular-firebase-ai-app-with-emailpassword-authentication-part-2-signal-forms-3ll9"
+      "tag": "gemma,  llamacpp",
+      "url": "https://dev.to/gde/one-word-two-gpus-why-gemma-4-answers-the-same-question-differently-on-a-laptop-and-a-tesla-t4-1dj2"
     },
     {
       "title": "Prompt Pad: Lock Your AI's Output Schema in Google AI Studio",
@@ -111,14 +95,6 @@
       "source": "dev",
       "tag": "ai,  gemini",
       "url": "https://blog.mlh.com/prompt-pad-lock-your-ais-output-schema-in-google-ai-studio-53io"
-    },
-    {
-      "title": "One Word, Two GPUs: Why Gemma 4 Answers the Same Question Differently on a Laptop and a Tesla T4",
-      "hot": "❤️ 20 💬 3",
-      "desc": "Same GGUF file, same llama.cpp build, greedy decoding, and a GTX 1650 Ti answers $20 where a Tesla T4 answers 2000. One ",
-      "source": "dev",
-      "tag": "gemma,  llamacpp",
-      "url": "https://dev.to/gde/one-word-two-gpus-why-gemma-4-answers-the-same-question-differently-on-a-laptop-and-a-tesla-t4-1dj2"
     },
     {
       "title": "That's a Wrap on Hacktoberfest 2026! 🎃👻",
@@ -138,7 +114,7 @@
     },
     {
       "title": "Let's see where you code!",
-      "hot": "❤️ 94 💬 46",
+      "hot": "❤️ 96 💬 47",
       "desc": "I’ve been writing a lot about AWS lately, so let’s take a breather. This is my little corner of the...",
       "source": "dev",
       "tag": "watercooler,  discuss",
@@ -159,7 +135,31 @@
       "source": "dev",
       "tag": "ai,  devtools",
       "url": "https://dev.to/gde/profile-sprawl-solving-a-problem-you-didnt-know-you-had-19k5"
+    },
+    {
+      "title": "From `main.js` Leaks to Hidden Tailwind CSS v4 Bloat — How I Built `angular-bundle-guard` with Antigravity `/learn` [GDE]",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Day 33: From main.js Leaks to Hidden Tailwind CSS v4 Bloat — How I Built...",
+      "source": "dev",
+      "tag": "angular,  antigravity",
+      "url": "https://dev.to/gde/from-mainjs-leaks-to-hidden-tailwind-css-v4-bloat-how-i-built-angular-bundle-guard-with-geg"
+    },
+    {
+      "title": "Gemma 4 E2B in JAX on One TPU v5e: bf16 or 4-Bit, Python or Rust, and How It Stands Against vLLM",
+      "hot": "❤️ 11 💬 0",
+      "desc": "Gemma 4 E2B served three ways on one Cloud TPU v5e chip: a pure-JAX engine in Python, the same graph written in Rust and",
+      "source": "dev",
+      "tag": "jax,  tpu",
+      "url": "https://dev.to/gde/gemma-4-e2b-in-jax-on-one-tpu-v5e-bf16-or-4-bit-python-or-rust-and-how-it-stands-against-vllm-j72"
+    },
+    {
+      "title": "Want to make DEV your full-time job? We're hiring a Community Manager!",
+      "hot": "❤️ 86 💬 10",
+      "desc": "Hey friends 👋  Back in June, we posted about a Community Program Manager role. Thank you to everyone...",
+      "source": "dev",
+      "tag": "career,  meta",
+      "url": "https://dev.to/devteam/want-to-make-dev-your-full-time-job-were-hiring-a-community-manager-4p1f"
     }
   ],
-  "updatedAt": "2026-11-08T08:06:55.344Z"
+  "updatedAt": "2026-11-08T15:24:01.767Z"
 }
