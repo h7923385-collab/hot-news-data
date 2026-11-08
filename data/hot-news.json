@@ -1,15 +1,7 @@
 {
-  "updatedAt": "2026-11-07T22:04:21.530Z",
+  "updatedAt": "2026-11-08T01:33:18.916Z",
   "source": "live",
   "dev": [
-    {
-      "title": "Congrats to the Kaggle Benchmarking Challenge Winners!",
-      "hot": "❤️ 123 💬 25",
-      "desc": "A few weeks ago we teamed up with Kaggle to ask a deceptively simple question: how do you actually...",
-      "source": "dev",
-      "tag": "devchallenge,  kagglechallenge",
-      "url": "https://dev.to/devteam/congrats-to-the-kaggle-benchmarking-challenge-winners-2moh"
-    },
     {
       "title": "What was your win this week?",
       "hot": "❤️ 84 💬 54",
@@ -19,20 +11,12 @@
       "url": "https://dev.to/devteam/what-was-your-win-this-week-28dh"
     },
     {
-      "title": "Let's see where you code!",
-      "hot": "❤️ 89 💬 43",
-      "desc": "I’ve been writing a lot about AWS lately, so let’s take a breather. This is my little corner of the...",
+      "title": "Congrats to the Kaggle Benchmarking Challenge Winners!",
+      "hot": "❤️ 124 💬 25",
+      "desc": "A few weeks ago we teamed up with Kaggle to ask a deceptively simple question: how do you actually...",
       "source": "dev",
-      "tag": "watercooler,  discuss",
-      "url": "https://dev.to/maame-codes/lets-see-where-you-code-147"
-    },
-    {
-      "title": "One Word, Two GPUs: Why Gemma 4 Answers the Same Question Differently on a Laptop and a Tesla T4",
-      "hot": "❤️ 20 💬 2",
-      "desc": "Same GGUF file, same llama.cpp build, greedy decoding, and a GTX 1650 Ti answers $20 where a Tesla T4 answers 2000. One ",
-      "source": "dev",
-      "tag": "gemma,  llamacpp",
-      "url": "https://dev.to/gde/one-word-two-gpus-why-gemma-4-answers-the-same-question-differently-on-a-laptop-and-a-tesla-t4-1dj2"
+      "tag": "devchallenge,  kagglechallenge",
+      "url": "https://dev.to/devteam/congrats-to-the-kaggle-benchmarking-challenge-winners-2moh"
     },
     {
       "title": "Android 17 on a 4.9 Kernel: LineageOS 24.0 on the Pixel 3a",
@@ -41,14 +25,6 @@
       "source": "dev",
       "tag": "android,  linux",
       "url": "https://dev.to/gde/android-17-on-a-49-kernel-lineageos-240-on-the-pixel-3a-1mok"
-    },
-    {
-      "title": "Want to make DEV your full-time job? We're hiring a Community Manager!",
-      "hot": "❤️ 84 💬 10",
-      "desc": "Hey friends 👋  Back in June, we posted about a Community Program Manager role. Thank you to everyone...",
-      "source": "dev",
-      "tag": "career,  meta",
-      "url": "https://dev.to/devteam/want-to-make-dev-your-full-time-job-were-hiring-a-community-manager-4p1f"
     },
     {
       "title": "Crows, Moths, and Makefiles: How 300 Megabytes of Crow DNA Explains Why a 20-Kilobyte Scar File Outsmarts a Terabyte LLM",
@@ -89,14 +65,6 @@
       "source": "dev",
       "tag": "cybersecurity,  infosec",
       "url": "https://dev.to/ben/thank-you-to-everyone-who-pointed-out-the-phishing-posts-we-got-yesterday-were-working-on-1h9b"
-    },
-    {
-      "title": "An Update on the Hacktoberfest Open-Source AI Challenge: Ghost in the Machine Winners",
-      "hot": "❤️ 62 💬 17",
-      "desc": "Hey all, we have a quick update for everyone who participated in the Hacktoberfest Open-Source AI...",
-      "source": "dev",
-      "tag": "devchallenge,  hf26challenge",
-      "url": "https://dev.to/devteam/an-update-on-the-hacktoberfest-open-source-ai-challenge-ghost-in-the-machine-winners-44bp"
     },
     {
       "title": "Congrats to October's MLH x DEV Writing Challenge Winner!",
@@ -155,12 +123,44 @@
       "url": "https://blog.mlh.com/prompt-pad-lock-your-ais-output-schema-in-google-ai-studio-53io"
     },
     {
+      "title": "One Word, Two GPUs: Why Gemma 4 Answers the Same Question Differently on a Laptop and a Tesla T4",
+      "hot": "❤️ 20 💬 3",
+      "desc": "Same GGUF file, same llama.cpp build, greedy decoding, and a GTX 1650 Ti answers $20 where a Tesla T4 answers 2000. One ",
+      "source": "dev",
+      "tag": "gemma,  llamacpp",
+      "url": "https://dev.to/gde/one-word-two-gpus-why-gemma-4-answers-the-same-question-differently-on-a-laptop-and-a-tesla-t4-1dj2"
+    },
+    {
       "title": "That's a Wrap on Hacktoberfest 2026! 🎃👻",
       "hot": "❤️ 65 💬 14",
       "desc": "Hacktoberfest 2026 wrapped up on October 31st! Thank you to everyone who built, hosted, mentored,...",
       "source": "dev",
       "tag": "hacktoberfest,  hf26challenge",
       "url": "https://dev.to/devteam/thats-a-wrap-on-hacktoberfest-2026-148k"
+    },
+    {
+      "title": "Gemma 4 in Rust on TorchTPU: Hands On With Colab",
+      "hot": "❤️ 8 💬 0",
+      "desc": "A Rust crate reads the checkpoint, runs all 35 layers of Gemma 4 E2B and drives the decode loop on one TPU v5e chip in C",
+      "source": "dev",
+      "tag": "rust,  pytorch",
+      "url": "https://dev.to/gde/gemma-4-in-rust-on-torchtpu-hands-on-with-colab-44hi"
+    },
+    {
+      "title": "Let's see where you code!",
+      "hot": "❤️ 90 💬 43",
+      "desc": "I’ve been writing a lot about AWS lately, so let’s take a breather. This is my little corner of the...",
+      "source": "dev",
+      "tag": "watercooler,  discuss",
+      "url": "https://dev.to/maame-codes/lets-see-where-you-code-147"
+    },
+    {
+      "title": "[Agent Platform in Action (7)] When ADK Go Graph Workflow Meets Google Research Harness (Part 1): Two-Layer Recursive Agent Fram",
+      "hot": "❤️ 7 💬 0",
+      "desc": "Foreword: After the AI Agent Goes Online, What is the Next Bottleneck?   Welcome back to...",
+      "source": "dev",
+      "tag": "agents,  ai",
+      "url": "https://dev.to/gde/agent-platform-in-action-7-when-adk-go-graph-workflow-meets-google-research-harness-part-1-28c1"
     }
   ],
   "tech": [
@@ -169,7 +169,7 @@
       "hot": "3.0m",
       "desc": "hunch.net",
       "source": "tech",
-      "tag": "⬆️ 256 points",
+      "tag": "⬆️ 378 points",
       "url": "https://hunch.net/?p=13764006"
     },
     {
@@ -177,182 +177,158 @@
       "hot": "3.0m",
       "desc": "blog.bosscher.ch",
       "source": "tech",
-      "tag": "⬆️ 201 points",
+      "tag": "⬆️ 333 points",
       "url": "https://blog.bosscher.ch/posts/openstick/"
+    },
+    {
+      "title": "GitHub New pull request overview page in public preview",
+      "hot": "3.0m",
+      "desc": "github.blog",
+      "source": "tech",
+      "tag": "⬆️ 55 points",
+      "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/"
     },
     {
       "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
       "hot": "3.0m",
       "desc": "theguardian.com",
       "source": "tech",
-      "tag": "⬆️ 246 points",
+      "tag": "⬆️ 352 points",
       "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you"
     },
     {
-      "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
-      "hot": "3.0m",
-      "desc": "github.com",
+      "title": "Making any integer with four 2s (2025)",
+      "hot": "2.9m",
+      "desc": "eli.thegreenplace.net",
       "source": "tech",
-      "tag": "⬆️ 149 points",
-      "url": "https://github.com/hedgerow-dev/coldframe"
+      "tag": "⬆️ 54 points",
+      "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/"
+    },
+    {
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "hot": "2.9m",
+      "desc": "apiiro.com",
+      "source": "tech",
+      "tag": "⬆️ 173 points",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again"
     },
     {
       "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
       "hot": "2.9m",
       "desc": "maxxbench.unlap.ai",
       "source": "tech",
-      "tag": "⬆️ 130 points",
+      "tag": "⬆️ 202 points",
       "url": "https://maxxbench.unlap.ai/research/why-maxxbench/"
+    },
+    {
+      "title": "Uranium cubes reveal why the German nuclear project failed",
+      "hot": "2.9m",
+      "desc": "arstechnica.com",
+      "source": "tech",
+      "tag": "⬆️ 65 points",
+      "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/"
+    },
+    {
+      "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 192 points",
+      "url": "https://github.com/hedgerow-dev/coldframe"
     },
     {
       "title": "Need for Speed Underground 2 online in the browser",
       "hot": "2.9m",
       "desc": "nfsu2.xyz",
       "source": "tech",
-      "tag": "⬆️ 703 points",
+      "tag": "⬆️ 816 points",
       "url": "https://nfsu2.xyz/"
     },
     {
-      "title": "Show HN: Where Were We",
+      "title": "Commodore PET – The Worlds First Personal Computer",
       "hot": "2.9m",
-      "desc": "wherewerewe.app",
+      "desc": "commodore.ca",
       "source": "tech",
       "tag": "⬆️ 16 points",
-      "url": "https://wherewerewe.app/"
+      "url": "https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/"
     },
     {
-      "title": "Five memorable books about programming (2008)",
-      "hot": "2.9m",
-      "desc": "prog21.dadgum.com",
+      "title": "Turning Every Radio into a Radar",
+      "hot": "2.8m",
+      "desc": "tiaminetworks.com",
       "source": "tech",
-      "tag": "⬆️ 59 points",
-      "url": "https://prog21.dadgum.com/19.html"
-    },
-    {
-      "title": "The $8 Linux Computer (2022)",
-      "hot": "2.9m",
-      "desc": "thelittleengineerthatcould.blogspot.com",
-      "source": "tech",
-      "tag": "⬆️ 178 points",
-      "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html"
-    },
-    {
-      "title": "Retro Song Bird: Plug in any Game Boy cartridge to hear the soundtrack",
-      "hot": "2.9m",
-      "desc": "retrosongbird.com",
-      "source": "tech",
-      "tag": "⬆️ 8 points",
-      "url": "https://www.retrosongbird.com/"
+      "tag": "⬆️ 30 points",
+      "url": "https://tiaminetworks.com/turning-every-radio-into-a-radar/"
     },
     {
       "title": "Every Mac comes with an (undocumented) family member classifier",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "8rank.ai",
       "source": "tech",
-      "tag": "⬆️ 528 points",
+      "tag": "⬆️ 597 points",
       "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph"
+    },
+    {
+      "title": "Five memorable books about programming (2008)",
+      "hot": "2.8m",
+      "desc": "prog21.dadgum.com",
+      "source": "tech",
+      "tag": "⬆️ 83 points",
+      "url": "https://prog21.dadgum.com/19.html"
+    },
+    {
+      "title": "Study solved a 150-year-old mystery into the identity of the extinct giant crane",
+      "hot": "2.8m",
+      "desc": "bournemouth.ac.uk",
+      "source": "tech",
+      "tag": "⬆️ 11 points",
+      "url": "https://www.bournemouth.ac.uk/news/2026-10-28/study-has-solved-150-year-old-mystery-identity-extinct-giant-crane"
     },
     {
       "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
       "hot": "2.8m",
       "desc": "eyesrhythm.com",
       "source": "tech",
-      "tag": "⬆️ 3 points",
+      "tag": "⬆️ 24 points",
       "url": "https://eyesrhythm.com/"
     },
     {
-      "title": "Text.js: Build full-stack React apps that render inside console.log",
+      "title": "Show HN: Where Were We",
       "hot": "2.8m",
-      "desc": "textjs.org",
+      "desc": "wherewerewe.app",
       "source": "tech",
-      "tag": "⬆️ 72 points",
-      "url": "https://textjs.org/"
+      "tag": "⬆️ 23 points",
+      "url": "https://wherewerewe.app/"
     },
     {
-      "title": "GeoWorks, Microsoft Windows' Upstart '90s Competitor (2016)",
-      "hot": "2.8m",
-      "desc": "atlasobscura.com",
-      "source": "tech",
-      "tag": "⬆️ 27 points",
-      "url": "https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor"
-    },
-    {
-      "title": "How Long Can Life Wait?",
-      "hot": "2.8m",
-      "desc": "mceglowski.substack.com",
-      "source": "tech",
-      "tag": "⬆️ 99 points",
-      "url": "https://mceglowski.substack.com/p/how-long-can-life-wait"
-    },
-    {
-      "title": "Every processor die anyone has photographed and given away",
-      "hot": "2.8m",
-      "desc": "sheets.works",
-      "source": "tech",
-      "tag": "⬆️ 58 points",
-      "url": "https://sheets.works/data-viz/cpu-dies"
-    },
-    {
-      "title": "Libghostty 1.0",
-      "hot": "2.8m",
-      "desc": "mitchellh.com",
-      "source": "tech",
-      "tag": "⬆️ 989 points",
-      "url": "https://mitchellh.com/writing/libghostty-1-0"
-    },
-    {
-      "title": "Shadow of the Sun",
+      "title": "Retro Song Bird: Plug in any Game Boy cartridge to hear the soundtrack",
       "hot": "2.7m",
-      "desc": "mattlakeman.org",
+      "desc": "retrosongbird.com",
       "source": "tech",
-      "tag": "⬆️ 6 points",
-      "url": "https://mattlakeman.org/2021/07/27/shadow-of-the-sun/"
+      "tag": "⬆️ 33 points",
+      "url": "https://www.retrosongbird.com/"
     },
     {
       "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
       "hot": "2.7m",
       "desc": "windowslatest.com",
       "source": "tech",
-      "tag": "⬆️ 154 points",
+      "tag": "⬆️ 214 points",
       "url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/"
     },
     {
-      "title": "Terry Pratchett's Study",
+      "title": "IRA Velinsky – Commodore's Industrial Designer",
       "hot": "2.7m",
-      "desc": "sussi.dk",
+      "desc": "commodore.ca",
       "source": "tech",
-      "tag": "⬆️ 66 points",
-      "url": "https://www.sussi.dk/terry-pratchetts-study"
+      "tag": "⬆️ 10 points",
+      "url": "https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/"
     }
   ],
   "github": [
     {
-      "title": "deepseek-ai/dsh-superagent-prototype: Towards a More Autonomous Agent System",
-      "hot": "⭐ 20.8k",
-      "desc": "Towards a More Autonomous Agent System",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype"
-    },
-    {
-      "title": "storytold/craft-anything: Craft Anything: understand how any software works, and",
-      "hot": "⭐ 20.4k",
-      "desc": "Craft Anything: understand how any software works, and craft your own.",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/storytold/craft-anything"
-    },
-    {
-      "title": "zortos293/Lichii: VERY experimental Nintendo Switch 2 emulator",
-      "hot": "⭐ 5.4k",
-      "desc": "VERY experimental Nintendo Switch 2 emulator",
-      "source": "github",
-      "tag": "C++",
-      "url": "https://github.com/zortos293/Lichii"
-    },
-    {
       "title": "KKKKhazix/agent-autoloop: 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-      "hot": "⭐ 3.9k",
+      "hot": "⭐ 4.0k",
       "desc": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
       "source": "github",
       "tag": "TypeScript",
@@ -360,19 +336,19 @@
     },
     {
       "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto: Google_AI_Pro_2Year_ZeroCost_Auto",
-      "hot": "⭐ 3.0k",
+      "hot": "⭐ 3.1k",
       "desc": "Google_AI_Pro_2Year_ZeroCost_Auto",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto"
     },
     {
-      "title": "Verlintas/NOIR: 手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Androi",
-      "hot": "⭐ 2.9k",
-      "desc": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
+      "title": "Minireel/HGhub: YellowFruit third-party client",
+      "hot": "⭐ 2.3k",
+      "desc": "YellowFruit third-party client",
       "source": "github",
-      "tag": "Kotlin",
-      "url": "https://github.com/Verlintas/NOIR"
+      "tag": "TypeScript",
+      "url": "https://github.com/Minireel/HGhub"
     },
     {
       "title": "govijr/terminal-mac: Entire MacOS running in your terminal.",
@@ -381,14 +357,6 @@
       "source": "github",
       "tag": "Swift",
       "url": "https://github.com/govijr/terminal-mac"
-    },
-    {
-      "title": "Minireel/HGhub: YellowFruit third-party client",
-      "hot": "⭐ 2.2k",
-      "desc": "YellowFruit third-party client",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/Minireel/HGhub"
     },
     {
       "title": "mromidev/claude-animated-shorts: Free Claude skill: viral animated story shorts ",
@@ -408,7 +376,7 @@
     },
     {
       "title": "NotRexed/Hookshot: A Native Recompilation Of The Legend Of Zelda: Ocarina Of Tim",
-      "hot": "⭐ 1.7k",
+      "hot": "⭐ 1.9k",
       "desc": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
       "source": "github",
       "tag": "C++",
@@ -416,7 +384,7 @@
     },
     {
       "title": "JenkinWoo/sheeridVerify: ",
-      "hot": "⭐ 1.6k",
+      "hot": "⭐ 1.7k",
       "desc": "JenkinWoo/sheeridVerify",
       "source": "github",
       "tag": "JavaScript",
@@ -445,9 +413,49 @@
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/livliv-dev/player"
+    },
+    {
+      "title": "mmdoctor/google-pro-helper: ",
+      "hot": "⭐ 1.1k",
+      "desc": "mmdoctor/google-pro-helper",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/mmdoctor/google-pro-helper"
+    },
+    {
+      "title": "Sandflow-ai/sand3d: 3D modeling in Python, built for LLMs.",
+      "hot": "⭐ 1.1k",
+      "desc": "3D modeling in Python, built for LLMs.",
+      "source": "github",
+      "tag": "HTML",
+      "url": "https://github.com/Sandflow-ai/sand3d"
+    },
+    {
+      "title": "voyager-so/vork: Headless 3D and VFX engine for agents. Research preview.",
+      "hot": "⭐ 885",
+      "desc": "Headless 3D and VFX engine for agents. Research preview.",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/voyager-so/vork"
+    },
+    {
+      "title": "libracoder/kiri: A small, fast container runtime for macOS, Windows and Linux",
+      "hot": "⭐ 862",
+      "desc": "A small, fast container runtime for macOS, Windows and Linux",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/libracoder/kiri"
     }
   ],
   "space": [
+    {
+      "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
+      "hot": "11/7",
+      "desc": "NASA announced a suite of awards and mission updates on Saturday to expand the agency’s Moon Base exploration, science, and infrastructure capabilitie",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/"
+    },
     {
       "title": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
       "hot": "11/7",
@@ -559,14 +567,6 @@
       "source": "space",
       "tag": "NASASpaceflight",
       "url": "https://www.nasaspaceflight.com/2026/11/final-irosa-install-iss/"
-    },
-    {
-      "title": "Blue Origin announces rocket upgrades aimed at lower costs, more performance",
-      "hot": "11/6",
-      "desc": "\"This is going to be a game-changer.\"",
-      "source": "space",
-      "tag": "Arstechnica",
-      "url": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/"
     }
   ]
 }
