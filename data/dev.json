@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "Congrats to the Kaggle Benchmarking Challenge Winners!",
-      "hot": "❤️ 130 💬 26",
+      "hot": "❤️ 133 💬 26",
       "desc": "A few weeks ago we teamed up with Kaggle to ask a deceptively simple question: how do you actually...",
       "source": "dev",
       "tag": "devchallenge,  kagglechallenge",
@@ -10,7 +10,7 @@
     },
     {
       "title": "Mobile Data on Android 17 and a 4.9 Kernel: Google Fi on the Pixel 3a",
-      "hot": "❤️ 9 💬 0",
+      "hot": "❤️ 14 💬 0",
       "desc": "LineageOS 24.0 on the Pixel 3a gets mobile data from a Google Fi data-only SIM after four fixes: mobile data on by defau",
       "source": "dev",
       "tag": "android,  linux",
@@ -18,7 +18,7 @@
     },
     {
       "title": "Six Serving Engines, One 8 GB GPU: Gemma 4 E2B on an RTX 3050",
-      "hot": "❤️ 8 💬 1",
+      "hot": "❤️ 14 💬 1",
       "desc": "llama.cpp, vLLM, SGLang, mistral.rs, a plain PyTorch engine and LiteRT-LM serve the same 4-bit Gemma 4 E2B on one 8 GB R",
       "source": "dev",
       "tag": "gemma,  vllm",
@@ -26,35 +26,19 @@
     },
     {
       "title": "What was your win this week?",
-      "hot": "❤️ 96 💬 63",
+      "hot": "❤️ 97 💬 66",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "weeklyretro",
       "url": "https://dev.to/devteam/what-was-your-win-this-week-28dh"
     },
     {
-      "title": "Measuring Gemma & On-Device Latency on 16GB Apple Silicon for Agent Workflows",
-      "hot": "❤️ 10 💬 3",
-      "desc": "Before you wire up a multi-agent workflow, measure how fast your local models actually...",
-      "source": "dev",
-      "tag": "gemma",
-      "url": "https://dev.to/gde/measuring-real-world-response-latency-on-16gb-apple-silicon-for-agent-workflows-24e5"
-    },
-    {
       "title": "Stop Asking LLMs to Do Math: Client-Side Functions in Flutter GenUI with bloc_signals",
-      "hot": "❤️ 15 💬 15",
+      "hot": "❤️ 19 💬 16",
       "desc": "Why Andrew 'Red' Brogdon's insight on client-side functions is critical for Generative UI—and how bloc_signals_genui tur",
       "source": "dev",
       "tag": "flutter,  dart",
       "url": "https://dev.to/gde/stop-asking-llms-to-do-math-client-side-functions-in-flutter-genui-with-blocsignals-23bh"
-    },
-    {
-      "title": "Building RailPulse AI: Deploying an Open-Source Railway Dispatch Agent with Gemma and Google Cloud Run",
-      "hot": "❤️ 28 💬 23",
-      "desc": "Author: Robina Mirbahar AI/ML Google Developer Expert (GDE) | Google Cloud Champion Innovator GitHub...",
-      "source": "dev",
-      "tag": "ai,  googlecloud",
-      "url": "https://dev.to/gde/building-railpulse-ai-deploying-an-open-source-railway-dispatch-agent-with-gemma-and-google-cloud-2b9g"
     },
     {
       "title": "Prompt Pad: What Are Open-Weight Models?",
@@ -74,19 +58,11 @@
     },
     {
       "title": "How I Made a Voice Clone in Minutes, Using Google Antigravity, Gemini 3.8 Flash TTS and My Harness",
-      "hot": "❤️ 8 💬 0",
+      "hot": "❤️ 12 💬 0",
       "desc": "How I Made a Voice Clone in Minutes, Using Google Antigravity, Gemini 3.8 Flash TTS and My Harness",
       "source": "dev",
       "tag": "googlecloud,  agenticai",
       "url": "https://dev.to/gde/how-i-made-a-voice-clone-in-minutes-using-google-antigravity-gemini-38-flash-tts-and-my-harness-10j3"
-    },
-    {
-      "title": "Stop Passive AI Rewrites: Agentic Coaching in Google Docs with gdocumentor",
-      "hot": "❤️ 11 💬 1",
-      "desc": "A Go CLI and MCP server that turns Gemini and any AI agent into a Socratic writing and code...",
-      "source": "dev",
-      "tag": "ai,  gemini",
-      "url": "https://dev.to/gde/stop-passive-ai-rewrites-agentic-coaching-in-google-docs-with-gdocumentor-2448"
     },
     {
       "title": "What I Learned Managing a Full Project with Antigravity",
@@ -138,7 +114,7 @@
     },
     {
       "title": "Being, Doing, Having: Why 50 Years of Senior Craft Lives in Context, Not Code",
-      "hot": "❤️ 18 💬 17",
+      "hot": "❤️ 21 💬 17",
       "desc": "Why does standard AI code generation try to jump straight to 'Have' without the proper 'Be'? How ladder rungs, the 'Null",
       "source": "dev",
       "tag": "ai,  programming",
@@ -159,7 +135,31 @@
       "source": "dev",
       "tag": "ai,  gemini",
       "url": "https://blog.mlh.com/prompt-pad-lock-your-ais-output-schema-in-google-ai-studio-53io"
+    },
+    {
+      "title": "Let's see where you code!",
+      "hot": "❤️ 99 💬 47",
+      "desc": "I’ve been writing a lot about AWS lately, so let’s take a breather. This is my little corner of the...",
+      "source": "dev",
+      "tag": "watercooler,  discuss",
+      "url": "https://dev.to/maame-codes/lets-see-where-you-code-147"
+    },
+    {
+      "title": "That's a Wrap on Hacktoberfest 2026! 🎃👻",
+      "hot": "❤️ 65 💬 14",
+      "desc": "Hacktoberfest 2026 wrapped up on October 31st! Thank you to everyone who built, hosted, mentored,...",
+      "source": "dev",
+      "tag": "hacktoberfest,  hf26challenge",
+      "url": "https://dev.to/devteam/thats-a-wrap-on-hacktoberfest-2026-148k"
+    },
+    {
+      "title": "Gemma 4 in Rust on TorchTPU: Hands On With Colab",
+      "hot": "❤️ 8 💬 0",
+      "desc": "A Rust crate reads the checkpoint, runs all 35 layers of Gemma 4 E2B and drives the decode loop on one TPU v5e chip in C",
+      "source": "dev",
+      "tag": "rust,  pytorch",
+      "url": "https://dev.to/gde/gemma-4-in-rust-on-torchtpu-hands-on-with-colab-44hi"
     }
   ],
-  "updatedAt": "2026-11-09T02:45:51.027Z"
+  "updatedAt": "2026-11-09T10:27:29.175Z"
 }
