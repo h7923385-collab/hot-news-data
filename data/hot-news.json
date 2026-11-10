@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-10T18:19:14.385Z",
+  "updatedAt": "2026-11-10T23:34:23.312Z",
   "source": "live",
   "dev": [
     {
       "title": "How did you end up in tech, and are you staying?",
-      "hot": "❤️ 83 💬 28",
+      "hot": "❤️ 89 💬 34",
       "desc": "Last week you showed me where you code. This week I want to know how you ended up there in the first...",
       "source": "dev",
       "tag": "discuss,  career",
@@ -12,75 +12,19 @@
     },
     {
       "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 12 💬 3",
+      "hot": "❤️ 22 💬 6",
       "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
       "source": "dev",
       "tag": "top7,  discuss",
       "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-432g"
     },
     {
-      "title": "What was your win this week?",
-      "hot": "❤️ 115 💬 74",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "weeklyretro",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-28dh"
-    },
-    {
-      "title": "Take a Claude Agent SDK agent from install to deploy with Agents CLI",
-      "hot": "❤️ 8 💬 2",
-      "desc": "How the Claude extension in Agents CLI takes a Claude Agent SDK agent from install to a validated Cloud Run deploy, with",
-      "source": "dev",
-      "tag": "agents,  ai",
-      "url": "https://dev.to/googlecloud/take-a-claude-agent-sdk-agent-from-install-to-deploy-with-agents-cli-2680"
-    },
-    {
-      "title": "Six Serving Engines on One Cloud TPU v5e Chip: Gemma 4 E2B",
-      "hot": "❤️ 23 💬 5",
-      "desc": "vLLM, SGLang-JAX, a pure-JAX engine, a Rust model over PJRT, and TorchTPU in Python and Rust serve Gemma 4 E2B on one fl",
-      "source": "dev",
-      "tag": "googlecloud,  tpu",
-      "url": "https://dev.to/gde/six-serving-engines-on-one-cloud-tpu-v5e-chip-gemma-4-e2b-22hn"
-    },
-    {
-      "title": "Meme Monday",
-      "hot": "❤️ 62 💬 15",
-      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
-      "source": "dev",
-      "tag": "discuss,  watercooler",
-      "url": "https://dev.to/ben/meme-monday-22ig"
-    },
-    {
-      "title": "Why Developer Experience (DX) Isn't Enough in 2026: You Need Agent Experience (AX)",
-      "hot": "❤️ 22 💬 3",
-      "desc": "What happens when the hardest-working user on your 16GB Mac and multi-cloud Ubuntu Dev-Box is a fleet of 20+ AI coding a",
-      "source": "dev",
-      "tag": "gemini,  googlecloud",
-      "url": "https://dev.to/gde/why-developer-experience-dx-isnt-enough-in-2026-you-need-agent-experience-ax-3dcf"
-    },
-    {
-      "title": "Porting Gemma 4 E2B to SGLang-JAX on One Cloud TPU v5e",
-      "hot": "❤️ 19 💬 0",
-      "desc": "SGLang-JAX serves the Gemma 4 31B and 26B A4B on TPU and fails to load E2B. A two-file patch adds per-layer embeddings, ",
-      "source": "dev",
-      "tag": "googlecloud,  tpu",
-      "url": "https://dev.to/gde/porting-gemma-4-e2b-to-sglang-jax-on-one-cloud-tpu-v5e-5e9l"
-    },
-    {
       "title": "Stop Asking LLMs to Do Math: Client-Side Functions in Flutter GenUI with bloc_signals",
-      "hot": "❤️ 24 💬 32",
+      "hot": "❤️ 25 💬 38",
       "desc": "Why Andrew 'Red' Brogdon's insight on client-side functions is critical for Generative UI—and how bloc_signals_genui tur",
       "source": "dev",
       "tag": "flutter,  dart",
       "url": "https://dev.to/gde/stop-asking-llms-to-do-math-client-side-functions-in-flutter-genui-with-blocsignals-23bh"
-    },
-    {
-      "title": "Google AI Classroom Part 1: Solving the $25-Per-Exam Problem — Architecting a Sub-$0.02/Student Serverless AI Classroom with Gemini 4 & Firebase",
-      "hot": "❤️ 14 💬 0",
-      "desc": "Author: Cyrus Wong (黃俊彥) — Google Developer Expert - Cloud (AI), Senior Lecturer at HKIIT           ...",
-      "source": "dev",
-      "tag": "ai,  architecture",
-      "url": "https://dev.to/gde/google-ai-classroom-part-1-solving-the-25-per-exam-problem-architecting-a-sub-002student-fjc"
     },
     {
       "title": "Prompt Pad: What Are Open-Weight Models?",
@@ -91,20 +35,20 @@
       "url": "https://blog.mlh.com/prompt-pad-what-are-open-weight-models-1ghh"
     },
     {
+      "title": "Being, Doing, Having: Why 50 Years of Senior Craft Lives in Context, Not Code",
+      "hot": "❤️ 25 💬 22",
+      "desc": "Why does standard AI code generation try to jump straight to 'Have' without the proper 'Be'? How ladder rungs, the 'Null",
+      "source": "dev",
+      "tag": "ai,  programming",
+      "url": "https://dev.to/gde/being-doing-having-why-50-years-of-senior-craft-lives-in-context-not-code-29dl"
+    },
+    {
       "title": "What I Learned Managing a Full Project with Antigravity",
       "hot": "❤️ 9 💬 0",
       "desc": "How my workflow evolved from solo prompting in AI Studio to managing a multi-model AI team, running...",
       "source": "dev",
       "tag": "antigravity,  gemini",
       "url": "https://dev.to/gde/what-i-learned-managing-a-full-project-with-antigravity-1ppc"
-    },
-    {
-      "title": "Being, Doing, Having: Why 50 Years of Senior Craft Lives in Context, Not Code",
-      "hot": "❤️ 24 💬 22",
-      "desc": "Why does standard AI code generation try to jump straight to 'Have' without the proper 'Be'? How ladder rungs, the 'Null",
-      "source": "dev",
-      "tag": "ai,  programming",
-      "url": "https://dev.to/gde/being-doing-having-why-50-years-of-senior-craft-lives-in-context-not-code-29dl"
     },
     {
       "title": "Containing the Autonomous Mind: Sub-Second Zero-Trust Execution with GKE Agent Sandbox",
@@ -139,37 +83,109 @@
       "url": "https://dev.to/googlecloud/find-the-production-agent-failures-that-every-health-check-misses-39j8"
     },
     {
-      "title": "Congrats to the Kaggle Benchmarking Challenge Winners!",
-      "hot": "❤️ 142 💬 28",
-      "desc": "A few weeks ago we teamed up with Kaggle to ask a deceptively simple question: how do you actually...",
-      "source": "dev",
-      "tag": "devchallenge,  kagglechallenge",
-      "url": "https://dev.to/devteam/congrats-to-the-kaggle-benchmarking-challenge-winners-2moh"
-    },
-    {
       "title": "Take Claude Code Above Average: Let Antigravity Review It",
-      "hot": "❤️ 20 💬 8",
+      "hot": "❤️ 21 💬 9",
       "desc": "In November 2026, I spent a day building a small tool with Claude Code: a bridge that lets a second...",
       "source": "dev",
       "tag": "agents,  ai",
       "url": "https://dev.to/gde/take-claude-code-above-average-let-antigravity-review-it-1f3g"
     },
     {
-      "title": "Mobile Data on Android 17 and a 4.9 Kernel: Google Fi on the Pixel 3a",
-      "hot": "❤️ 20 💬 0",
-      "desc": "LineageOS 24.0 on the Pixel 3a gets mobile data from a Google Fi data-only SIM after four fixes: mobile data on by defau",
+      "title": "Congrats to the Kaggle Benchmarking Challenge Winners!",
+      "hot": "❤️ 143 💬 28",
+      "desc": "A few weeks ago we teamed up with Kaggle to ask a deceptively simple question: how do you actually...",
       "source": "dev",
-      "tag": "android,  linux",
-      "url": "https://dev.to/gde/mobile-data-on-android-17-and-a-49-kernel-google-fi-on-the-pixel-3a-4cdc"
+      "tag": "devchallenge,  kagglechallenge",
+      "url": "https://dev.to/devteam/congrats-to-the-kaggle-benchmarking-challenge-winners-2moh"
+    },
+    {
+      "title": "What was your win this week?",
+      "hot": "❤️ 114 💬 80",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-28dh"
+    },
+    {
+      "title": "Prompt Pad: Lock Your AI's Output Schema in Google AI Studio",
+      "hot": "❤️ 12 💬 1",
+      "desc": "If you've ever tried to parse an LLM response in code, you know the pain: the format changes slightly...",
+      "source": "dev",
+      "tag": "ai,  gemini",
+      "url": "https://blog.mlh.com/prompt-pad-lock-your-ais-output-schema-in-google-ai-studio-53io"
+    },
+    {
+      "title": "Take a Claude Agent SDK agent from install to deploy with Agents CLI",
+      "hot": "❤️ 9 💬 2",
+      "desc": "How the Claude extension in Agents CLI takes a Claude Agent SDK agent from install to a validated Cloud Run deploy, with",
+      "source": "dev",
+      "tag": "agents,  ai",
+      "url": "https://dev.to/googlecloud/take-a-claude-agent-sdk-agent-from-install-to-deploy-with-agents-cli-2680"
+    },
+    {
+      "title": "That's a Wrap on Hacktoberfest 2026! 🎃👻",
+      "hot": "❤️ 65 💬 14",
+      "desc": "Hacktoberfest 2026 wrapped up on October 31st! Thank you to everyone who built, hosted, mentored,...",
+      "source": "dev",
+      "tag": "hacktoberfest,  hf26challenge",
+      "url": "https://dev.to/devteam/thats-a-wrap-on-hacktoberfest-2026-148k"
+    },
+    {
+      "title": "Gemma 4 in Rust on TorchTPU: Hands On With Colab",
+      "hot": "❤️ 8 💬 0",
+      "desc": "A Rust crate reads the checkpoint, runs all 35 layers of Gemma 4 E2B and drives the decode loop on one TPU v5e chip in C",
+      "source": "dev",
+      "tag": "rust,  pytorch",
+      "url": "https://dev.to/gde/gemma-4-in-rust-on-torchtpu-hands-on-with-colab-44hi"
+    },
+    {
+      "title": "Let's see where you code!",
+      "hot": "❤️ 101 💬 55",
+      "desc": "I’ve been writing a lot about AWS lately, so let’s take a breather. This is my little corner of the...",
+      "source": "dev",
+      "tag": "watercooler,  discuss",
+      "url": "https://dev.to/maame-codes/lets-see-where-you-code-147"
+    },
+    {
+      "title": "Building RailPulse AI: Deploying an Open-Source Railway Dispatch Agent with Gemma and Google Cloud Run",
+      "hot": "❤️ 31 💬 31",
+      "desc": "Author: Robina Mirbahar AI/ML Google Developer Expert (GDE) | Google Cloud Champion Innovator GitHub...",
+      "source": "dev",
+      "tag": "ai,  googlecloud",
+      "url": "https://dev.to/gde/building-railpulse-ai-deploying-an-open-source-railway-dispatch-agent-with-gemma-and-google-cloud-2b9g"
+    },
+    {
+      "title": "[Agent Platform in Action (7)] When ADK Go Graph Workflow Meets Google Research Harness (Part 1): Two-Layer Recursive Agent Fram",
+      "hot": "❤️ 7 💬 0",
+      "desc": "Foreword: After the AI Agent Goes Online, What is the Next Bottleneck?   Welcome back to...",
+      "source": "dev",
+      "tag": "agents,  ai",
+      "url": "https://dev.to/gde/agent-platform-in-action-7-when-adk-go-graph-workflow-meets-google-research-harness-part-1-28c1"
     }
   ],
   "tech": [
+    {
+      "title": "Toyota brand Scion is back and it's going to sell a kei truck in America",
+      "hot": "3.0m",
+      "desc": "theautopian.com",
+      "source": "tech",
+      "tag": "⬆️ 233 points",
+      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/"
+    },
+    {
+      "title": "After 7 Months, Glasswing Overwelms Maintainers with Underwhelming Findings",
+      "hot": "3.0m",
+      "desc": "vulncheck.com",
+      "source": "tech",
+      "tag": "⬆️ 69 points",
+      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update"
+    },
     {
       "title": ".name Grandfathered",
       "hot": "3.0m",
       "desc": "neil.fraser.name",
       "source": "tech",
-      "tag": "⬆️ 263 points",
+      "tag": "⬆️ 625 points",
       "url": "https://neil.fraser.name/news/2026/11/10/"
     },
     {
@@ -177,277 +193,147 @@
       "hot": "3.0m",
       "desc": "docodethatmatters.com",
       "source": "tech",
-      "tag": "⬆️ 166 points",
+      "tag": "⬆️ 630 points",
       "url": "https://docodethatmatters.com/home-automation-overnight-success/"
     },
     {
-      "title": "AlphaProof Code",
-      "hot": "3.0m",
-      "desc": "deepmind.google",
-      "source": "tech",
-      "tag": "⬆️ 467 points",
-      "url": "https://deepmind.google/blog/introducing-alphaproof-code/"
-    },
-    {
-      "title": "Blender 5.3 released with Gaussian Splat support",
-      "hot": "3.0m",
-      "desc": "blender.org",
-      "source": "tech",
-      "tag": "⬆️ 241 points",
-      "url": "https://www.blender.org/download/releases/5-3/"
-    },
-    {
-      "title": "Ableton Live 13",
+      "title": "Six Math Essentials by Terence Tao",
       "hot": "2.9m",
-      "desc": "ableton.com",
+      "desc": "teorth.github.io",
       "source": "tech",
-      "tag": "⬆️ 171 points",
-      "url": "https://www.ableton.com/en/live/"
+      "tag": "⬆️ 86 points",
+      "url": "https://teorth.github.io/tao-web/six-math-essentials.html"
     },
     {
-      "title": "The Hardest Tarball?",
+      "title": "Synaptics patent claims stop work on DisplayLink drivers",
       "hot": "2.9m",
-      "desc": "stoppels.ch",
+      "desc": "lwn.net",
       "source": "tech",
-      "tag": "⬆️ 116 points",
-      "url": "https://stoppels.ch/2026/11/07/the-hardest-tarball.html"
-    },
-    {
-      "title": "AMD's Zen 6 Family: Feeding the Beast",
-      "hot": "2.9m",
-      "desc": "chipsandcheese.com",
-      "source": "tech",
-      "tag": "⬆️ 40 points",
-      "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast"
-    },
-    {
-      "title": "I deleted all my SSH keys",
-      "hot": "2.9m",
-      "desc": "blog.infected.systems",
-      "source": "tech",
-      "tag": "⬆️ 74 points",
-      "url": "https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/"
-    },
-    {
-      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
-      "hot": "2.9m",
-      "desc": "strandsagents.com",
-      "source": "tech",
-      "tag": "⬆️ 618 points",
-      "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/"
-    },
-    {
-      "title": "Show HN: Valencia, Spain in Sim City/Isometric View",
-      "hot": "2.9m",
-      "desc": "tinyvalencia.com",
-      "source": "tech",
-      "tag": "⬆️ 65 points",
-      "url": "https://tinyvalencia.com/"
+      "tag": "⬆️ 261 points",
+      "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/"
     },
     {
       "title": "Val Town is winding down",
       "hot": "2.9m",
       "desc": "blog.val.town",
       "source": "tech",
-      "tag": "⬆️ 33 points",
+      "tag": "⬆️ 272 points",
       "url": "https://blog.val.town/winding-down"
     },
     {
-      "title": "What's new in the .NET 11 runtime",
-      "hot": "2.8m",
-      "desc": "learn.microsoft.com",
+      "title": "rVPN – stealth VPN with end-to-end encryption",
+      "hot": "2.9m",
+      "desc": "rvpn.org",
       "source": "tech",
-      "tag": "⬆️ 136 points",
-      "url": "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime"
+      "tag": "⬆️ 40 points",
+      "url": "https://rvpn.org/"
     },
     {
-      "title": "NetBSD 11 desktop on a Raspberry Pi 4",
-      "hot": "2.8m",
-      "desc": "neongd.com",
+      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+      "hot": "2.9m",
+      "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 95 points",
-      "url": "https://neongd.com/articles/netbsd11-rpi4.gmi"
+      "tag": "⬆️ 222 points",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance"
     },
     {
-      "title": "Taking another shot at the cheap IP camera, part 2",
-      "hot": "2.8m",
-      "desc": "ericswpark.com",
+      "title": "AlphaProof Code",
+      "hot": "2.9m",
+      "desc": "deepmind.google",
       "source": "tech",
-      "tag": "⬆️ 80 points",
-      "url": "https://ericswpark.com/blog/2026/2026-11-09-ip-camera-pt2/"
+      "tag": "⬆️ 554 points",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/"
+    },
+    {
+      "title": "What objective is reasoning solving?",
+      "hot": "2.9m",
+      "desc": "alexwang.ai",
+      "source": "tech",
+      "tag": "⬆️ 79 points",
+      "url": "https://alexwang.ai/posts/reasoning-as-pathfinding/"
+    },
+    {
+      "title": "AMD's Zen 6 Family: Feeding the Beast",
+      "hot": "2.8m",
+      "desc": "chipsandcheese.com",
+      "source": "tech",
+      "tag": "⬆️ 166 points",
+      "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast"
+    },
+    {
+      "title": "Sherman Anti-Trust Act (1890)",
+      "hot": "2.8m",
+      "desc": "archives.gov",
+      "source": "tech",
+      "tag": "⬆️ 53 points",
+      "url": "https://www.archives.gov/milestone-documents/sherman-anti-trust-act"
+    },
+    {
+      "title": "A comprehensive study of how fingerprintable users are",
+      "hot": "2.8m",
+      "desc": "fingerprinting.study",
+      "source": "tech",
+      "tag": "⬆️ 55 points",
+      "url": "https://fingerprinting.study/"
+    },
+    {
+      "title": "Hacking the meta ray-ban smartglasses",
+      "hot": "2.8m",
+      "desc": "p0pcycle.com",
+      "source": "tech",
+      "tag": "⬆️ 10 points",
+      "url": "https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/"
+    },
+    {
+      "title": "Stable URLs for 42,000 Huts and Peaks",
+      "hot": "2.8m",
+      "desc": "peter-hoffmann.com",
+      "source": "tech",
+      "tag": "⬆️ 18 points",
+      "url": "https://peter-hoffmann.com/2026/stable-urls-for-huts-and-peaks.html"
+    },
+    {
+      "title": "Ableton Live 13",
+      "hot": "2.8m",
+      "desc": "ableton.com",
+      "source": "tech",
+      "tag": "⬆️ 258 points",
+      "url": "https://www.ableton.com/en/live/"
     },
     {
       "title": "Process Explorer for macOS",
-      "hot": "2.8m",
+      "hot": "2.7m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 11 points",
+      "tag": "⬆️ 111 points",
       "url": "https://github.com/microsoft/Procexp-Mac"
     },
     {
-      "title": "Claude Fable 5.2 and Mythos 5.2",
-      "hot": "2.8m",
-      "desc": "anthropic.com",
-      "source": "tech",
-      "tag": "⬆️ 833 points",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
-    },
-    {
-      "title": "Queens Public Library under ransomware attack",
-      "hot": "2.8m",
-      "desc": "connect.queenslibrary.org",
-      "source": "tech",
-      "tag": "⬆️ 160 points",
-      "url": "https://connect.queenslibrary.org/"
-    },
-    {
-      "title": "What constant surveillance is doing to children and parents",
+      "title": "Show HN: Valencia, Spain in Sim City/Isometric View",
       "hot": "2.7m",
-      "desc": "theatlantic.com",
+      "desc": "tinyvalencia.com",
       "source": "tech",
-      "tag": "⬆️ 118 points",
-      "url": "https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/"
+      "tag": "⬆️ 177 points",
+      "url": "https://tinyvalencia.com/"
     },
     {
-      "title": "Synaptics patent claims stop work on DisplayLink drivers",
+      "title": "Blender 5.3 released with Gaussian Splat support",
       "hot": "2.7m",
-      "desc": "lwn.net",
+      "desc": "blender.org",
       "source": "tech",
-      "tag": "⬆️ 3 points",
-      "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/"
-    },
-    {
-      "title": "Variable-width Bézier curves (2025)",
-      "hot": "2.7m",
-      "desc": "luthert.web.illinois.edu",
-      "source": "tech",
-      "tag": "⬆️ 5 points",
-      "url": "https://luthert.web.illinois.edu/blog/posts/775.html"
-    }
-  ],
-  "github": [
-    {
-      "title": "Minireel/HGhub: YellowFruit third-party client",
-      "hot": "⭐ 8.0k",
-      "desc": "YellowFruit third-party client",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/Minireel/HGhub"
-    },
-    {
-      "title": "NotRexed/Hookshot: A Native Recompilation Of The Legend Of Zelda: Ocarina Of Tim",
-      "hot": "⭐ 6.2k",
-      "desc": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
-      "source": "github",
-      "tag": "C++",
-      "url": "https://github.com/NotRexed/Hookshot"
-    },
-    {
-      "title": "huamidev/GestaltX: An MobileGestalt editor for iOS 27.x, featuring region-code t",
-      "hot": "⭐ 4.5k",
-      "desc": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
-      "source": "github",
-      "tag": "Swift",
-      "url": "https://github.com/huamidev/GestaltX"
-    },
-    {
-      "title": "KKKKhazix/agent-autoloop: 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-      "hot": "⭐ 4.4k",
-      "desc": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/KKKKhazix/agent-autoloop"
-    },
-    {
-      "title": "janestreet/agent_skills: Agent skills",
-      "hot": "⭐ 3.5k",
-      "desc": "Agent skills",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/janestreet/agent_skills"
-    },
-    {
-      "title": "tangerineturtle1/NX2navi: ",
-      "hot": "⭐ 2.8k",
-      "desc": "tangerineturtle1/NX2navi",
-      "source": "github",
-      "tag": "C",
-      "url": "https://github.com/tangerineturtle1/NX2navi"
-    },
-    {
-      "title": "govijr/terminal-mac: Entire MacOS running in your terminal.",
-      "hot": "⭐ 2.5k",
-      "desc": "Entire MacOS running in your terminal.",
-      "source": "github",
-      "tag": "Swift",
-      "url": "https://github.com/govijr/terminal-mac"
-    },
-    {
-      "title": "jhaizhou-ops/S2Arm: Run your own Switch games natively on iPhone, iPad and Mac: ",
-      "hot": "⭐ 2.3k",
-      "desc": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bri",
-      "source": "github",
-      "tag": "C#",
-      "url": "https://github.com/jhaizhou-ops/S2Arm"
-    },
-    {
-      "title": "sarpstar/cinecode: Films made with code. Short films, long YouTube videos, ads, ",
-      "hot": "⭐ 2.0k",
-      "desc": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in ",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/sarpstar/cinecode"
-    },
-    {
-      "title": "JenkinWoo/sheeridVerify: ",
-      "hot": "⭐ 2.0k",
-      "desc": "JenkinWoo/sheeridVerify",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/JenkinWoo/sheeridVerify"
-    },
-    {
-      "title": "IainKay/ram-altman: Monitors your RAM and reports any \"quite terrible\" unused ca",
-      "hot": "⭐ 1.8k",
-      "desc": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
-      "source": "github",
-      "tag": "Shell",
-      "url": "https://github.com/IainKay/ram-altman"
-    },
-    {
-      "title": "Sandflow-ai/sand3d: 3D modeling in Python, built for LLMs.",
-      "hot": "⭐ 1.7k",
-      "desc": "3D modeling in Python, built for LLMs.",
-      "source": "github",
-      "tag": "HTML",
-      "url": "https://github.com/Sandflow-ai/sand3d"
-    },
-    {
-      "title": "DIYgod/pinky: Let AI agents use your phone, with you in the loop.",
-      "hot": "⭐ 1.6k",
-      "desc": "Let AI agents use your phone, with you in the loop.",
-      "source": "github",
-      "tag": "Go",
-      "url": "https://github.com/DIYgod/pinky"
-    },
-    {
-      "title": "mmdoctor/google-pro-helper: ",
-      "hot": "⭐ 1.6k",
-      "desc": "mmdoctor/google-pro-helper",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/mmdoctor/google-pro-helper"
-    },
-    {
-      "title": "shanselman/gputaskman: A GPU task manager for Windows, Linux, and WSL: per-proce",
-      "hot": "⭐ 1.6k",
-      "desc": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/shanselman/gputaskman"
+      "tag": "⬆️ 409 points",
+      "url": "https://www.blender.org/download/releases/5-3/"
     }
   ],
   "space": [
+    {
+      "title": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
+      "hot": "11/10",
+      "desc": "Launched nearly 50 years ago in 1977, NASA’s Voyager 1 on Wednesday, Nov. 18 will have traveled one light-day from Earth, which is more than 16 billio",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/"
+    },
     {
       "title": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston",
       "hot": "11/10",
@@ -559,14 +445,128 @@
       "source": "space",
       "tag": "NASASpaceflight",
       "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/"
+    }
+  ],
+  "github": [
+    {
+      "title": "Minireel/HGhub: YellowFruit third-party client",
+      "hot": "⭐ 8.1k",
+      "desc": "YellowFruit third-party client",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/Minireel/HGhub"
     },
     {
-      "title": "Rubies on Mars?",
-      "hot": "11/9",
-      "desc": "Written by Roger C. Wiens, SuperCam Principal Investigator for NASA’s Perseverance rover at Purdue University Nov. 4, 2026 Exploration on Mars turns u",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/blog/rubies-on-mars/"
+      "title": "NotRexed/Hookshot: A Native Recompilation Of The Legend Of Zelda: Ocarina Of Tim",
+      "hot": "⭐ 6.5k",
+      "desc": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+      "source": "github",
+      "tag": "C++",
+      "url": "https://github.com/NotRexed/Hookshot"
+    },
+    {
+      "title": "huamidev/GestaltX: An MobileGestalt editor for iOS 27.x, featuring region-code t",
+      "hot": "⭐ 4.7k",
+      "desc": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
+      "source": "github",
+      "tag": "Swift",
+      "url": "https://github.com/huamidev/GestaltX"
+    },
+    {
+      "title": "KKKKhazix/agent-autoloop: 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "hot": "⭐ 4.4k",
+      "desc": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/KKKKhazix/agent-autoloop"
+    },
+    {
+      "title": "janestreet/agent_skills: Agent skills",
+      "hot": "⭐ 3.8k",
+      "desc": "Agent skills",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/janestreet/agent_skills"
+    },
+    {
+      "title": "tangerineturtle1/NX2navi: ",
+      "hot": "⭐ 2.9k",
+      "desc": "tangerineturtle1/NX2navi",
+      "source": "github",
+      "tag": "C",
+      "url": "https://github.com/tangerineturtle1/NX2navi"
+    },
+    {
+      "title": "govijr/terminal-mac: Entire MacOS running in your terminal.",
+      "hot": "⭐ 2.5k",
+      "desc": "Entire MacOS running in your terminal.",
+      "source": "github",
+      "tag": "Swift",
+      "url": "https://github.com/govijr/terminal-mac"
+    },
+    {
+      "title": "jhaizhou-ops/S2Arm: Run your own Switch games natively on iPhone, iPad and Mac: ",
+      "hot": "⭐ 2.4k",
+      "desc": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bri",
+      "source": "github",
+      "tag": "C#",
+      "url": "https://github.com/jhaizhou-ops/S2Arm"
+    },
+    {
+      "title": "sarpstar/cinecode: Films made with code. Short films, long YouTube videos, ads, ",
+      "hot": "⭐ 2.1k",
+      "desc": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in ",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/sarpstar/cinecode"
+    },
+    {
+      "title": "JenkinWoo/sheeridVerify: ",
+      "hot": "⭐ 2.0k",
+      "desc": "JenkinWoo/sheeridVerify",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/JenkinWoo/sheeridVerify"
+    },
+    {
+      "title": "IainKay/ram-altman: Monitors your RAM and reports any \"quite terrible\" unused ca",
+      "hot": "⭐ 1.8k",
+      "desc": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
+      "source": "github",
+      "tag": "Shell",
+      "url": "https://github.com/IainKay/ram-altman"
+    },
+    {
+      "title": "Sandflow-ai/sand3d: 3D modeling in Python, built for LLMs.",
+      "hot": "⭐ 1.8k",
+      "desc": "3D modeling in Python, built for LLMs.",
+      "source": "github",
+      "tag": "HTML",
+      "url": "https://github.com/Sandflow-ai/sand3d"
+    },
+    {
+      "title": "jamesondh/chimera-vocal-synth: the ultimate vocal synthesizer - sing, speak, bea",
+      "hot": "⭐ 1.7k",
+      "desc": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/jamesondh/chimera-vocal-synth"
+    },
+    {
+      "title": "DIYgod/pinky: Let AI agents use your phone, with you in the loop.",
+      "hot": "⭐ 1.7k",
+      "desc": "Let AI agents use your phone, with you in the loop.",
+      "source": "github",
+      "tag": "Go",
+      "url": "https://github.com/DIYgod/pinky"
+    },
+    {
+      "title": "shanselman/gputaskman: A GPU task manager for Windows, Linux, and WSL: per-proce",
+      "hot": "⭐ 1.7k",
+      "desc": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/shanselman/gputaskman"
     }
   ]
 }
