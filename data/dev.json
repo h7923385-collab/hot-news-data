@@ -1,8 +1,16 @@
 {
   "data": [
     {
+      "title": "How did you end up in tech, and are you staying?",
+      "hot": "❤️ 61 💬 14",
+      "desc": "Last week you showed me where you code. This week I want to know how you ended up there in the first...",
+      "source": "dev",
+      "tag": "discuss,  career",
+      "url": "https://dev.to/maame-codes/how-did-you-end-up-in-tech-and-are-you-staying-4l9b"
+    },
+    {
       "title": "What was your win this week?",
-      "hot": "❤️ 106 💬 70",
+      "hot": "❤️ 113 💬 72",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "weeklyretro",
@@ -17,16 +25,8 @@
       "url": "https://dev.to/googlecloud/take-a-claude-agent-sdk-agent-from-install-to-deploy-with-agents-cli-2680"
     },
     {
-      "title": "Take Claude Code Above Average: Let Antigravity Review It",
-      "hot": "❤️ 14 💬 8",
-      "desc": "In November 2026, I spent a day building a small tool with Claude Code: a bridge that lets a second...",
-      "source": "dev",
-      "tag": "agents,  ai",
-      "url": "https://dev.to/gde/take-claude-code-above-average-let-antigravity-review-it-1f3g"
-    },
-    {
       "title": "Six Serving Engines on One Cloud TPU v5e Chip: Gemma 4 E2B",
-      "hot": "❤️ 16 💬 4",
+      "hot": "❤️ 21 💬 5",
       "desc": "vLLM, SGLang-JAX, a pure-JAX engine, a Rust model over PJRT, and TorchTPU in Python and Rust serve Gemma 4 E2B on one fl",
       "source": "dev",
       "tag": "googlecloud,  tpu",
@@ -34,7 +34,7 @@
     },
     {
       "title": "Meme Monday",
-      "hot": "❤️ 48 💬 13",
+      "hot": "❤️ 61 💬 15",
       "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
       "source": "dev",
       "tag": "discuss,  watercooler",
@@ -42,7 +42,7 @@
     },
     {
       "title": "Why Developer Experience (DX) Isn't Enough in 2026: You Need Agent Experience (AX)",
-      "hot": "❤️ 14 💬 2",
+      "hot": "❤️ 19 💬 2",
       "desc": "What happens when the hardest-working user on your 16GB Mac and multi-cloud Ubuntu Dev-Box is a fleet of 20+ AI coding a",
       "source": "dev",
       "tag": "gemini,  googlecloud",
@@ -50,7 +50,7 @@
     },
     {
       "title": "Porting Gemma 4 E2B to SGLang-JAX on One Cloud TPU v5e",
-      "hot": "❤️ 11 💬 0",
+      "hot": "❤️ 16 💬 0",
       "desc": "SGLang-JAX serves the Gemma 4 31B and 26B A4B on TPU and fails to load E2B. A two-file patch adds per-layer embeddings, ",
       "source": "dev",
       "tag": "googlecloud,  tpu",
@@ -66,7 +66,7 @@
     },
     {
       "title": "Open-weights models: A case (and first step) for Gemma over Gemini for budget & privacy",
-      "hot": "❤️ 12 💬 0",
+      "hot": "❤️ 14 💬 0",
       "desc": "TL;DR:   Gemini is the premier frontier model (family) from Google DeepMind. In the current...",
       "source": "dev",
       "tag": "ai,  opensource",
@@ -74,7 +74,7 @@
     },
     {
       "title": "Google AI Classroom Part 1: Solving the $25-Per-Exam Problem — Architecting a Sub-$0.02/Student Serverless AI Classroom with Gemini 4 & Firebase",
-      "hot": "❤️ 12 💬 0",
+      "hot": "❤️ 13 💬 0",
       "desc": "Author: Cyrus Wong (黃俊彥) — Google Developer Expert - Cloud (AI), Senior Lecturer at HKIIT           ...",
       "source": "dev",
       "tag": "ai,  architecture",
@@ -87,14 +87,6 @@
       "source": "dev",
       "tag": "opensource,  ai",
       "url": "https://blog.mlh.com/prompt-pad-what-are-open-weight-models-1ghh"
-    },
-    {
-      "title": "Leveling the Playing Field: Building a 100% Offline Kubernetes Docs RAG Exam Assistant with Web AI, Gemma 4, and WebGPU",
-      "hot": "❤️ 9 💬 0",
-      "desc": "How to enable fair, zero-cost, air-gapped AI assistance in technical classrooms and...",
-      "source": "dev",
-      "tag": "webai,  gemma",
-      "url": "https://dev.to/gde/leveling-the-playing-field-building-a-100-offline-kubernetes-docs-rag-exam-assistant-with-web-ai-53bi"
     },
     {
       "title": "What I Learned Managing a Full Project with Antigravity",
@@ -146,20 +138,28 @@
     },
     {
       "title": "Congrats to the Kaggle Benchmarking Challenge Winners!",
-      "hot": "❤️ 138 💬 26",
+      "hot": "❤️ 140 💬 28",
       "desc": "A few weeks ago we teamed up with Kaggle to ask a deceptively simple question: how do you actually...",
       "source": "dev",
       "tag": "devchallenge,  kagglechallenge",
       "url": "https://dev.to/devteam/congrats-to-the-kaggle-benchmarking-challenge-winners-2moh"
     },
     {
+      "title": "Take Claude Code Above Average: Let Antigravity Review It",
+      "hot": "❤️ 18 💬 8",
+      "desc": "In November 2026, I spent a day building a small tool with Claude Code: a bridge that lets a second...",
+      "source": "dev",
+      "tag": "agents,  ai",
+      "url": "https://dev.to/gde/take-claude-code-above-average-let-antigravity-review-it-1f3g"
+    },
+    {
       "title": "Mobile Data on Android 17 and a 4.9 Kernel: Google Fi on the Pixel 3a",
-      "hot": "❤️ 17 💬 0",
+      "hot": "❤️ 18 💬 0",
       "desc": "LineageOS 24.0 on the Pixel 3a gets mobile data from a Google Fi data-only SIM after four fixes: mobile data on by defau",
       "source": "dev",
       "tag": "android,  linux",
       "url": "https://dev.to/gde/mobile-data-on-android-17-and-a-49-kernel-google-fi-on-the-pixel-3a-4cdc"
     }
   ],
-  "updatedAt": "2026-11-10T02:59:53.256Z"
+  "updatedAt": "2026-11-10T10:47:21.834Z"
 }
