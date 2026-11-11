@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-11T03:14:17.033Z",
+  "updatedAt": "2026-11-11T11:15:00.502Z",
   "source": "live",
   "dev": [
     {
       "title": "How did you end up in tech, and are you staying?",
-      "hot": "❤️ 97 💬 34",
+      "hot": "❤️ 101 💬 38",
       "desc": "Last week you showed me where you code. This week I want to know how you ended up there in the first...",
       "source": "dev",
       "tag": "discuss,  career",
@@ -12,7 +12,7 @@
     },
     {
       "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 29 💬 12",
+      "hot": "❤️ 34 💬 16",
       "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
       "source": "dev",
       "tag": "top7,  discuss",
@@ -20,7 +20,7 @@
     },
     {
       "title": "Stop Asking LLMs to Do Math: Client-Side Functions in Flutter GenUI with bloc_signals",
-      "hot": "❤️ 27 💬 42",
+      "hot": "❤️ 28 💬 42",
       "desc": "Why Andrew 'Red' Brogdon's insight on client-side functions is critical for Generative UI—and how bloc_signals_genui tur",
       "source": "dev",
       "tag": "flutter,  dart",
@@ -68,7 +68,7 @@
     },
     {
       "title": "Take Claude Code Above Average: Let Antigravity Review It",
-      "hot": "❤️ 22 💬 9",
+      "hot": "❤️ 23 💬 9",
       "desc": "In November 2026, I spent a day building a small tool with Claude Code: a bridge that lets a second...",
       "source": "dev",
       "tag": "agents,  ai",
@@ -84,7 +84,7 @@
     },
     {
       "title": "Congrats to the Kaggle Benchmarking Challenge Winners!",
-      "hot": "❤️ 142 💬 28",
+      "hot": "❤️ 143 💬 29",
       "desc": "A few weeks ago we teamed up with Kaggle to ask a deceptively simple question: how do you actually...",
       "source": "dev",
       "tag": "devchallenge,  kagglechallenge",
@@ -92,7 +92,7 @@
     },
     {
       "title": "What was your win this week?",
-      "hot": "❤️ 116 💬 83",
+      "hot": "❤️ 120 💬 87",
       "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
       "source": "dev",
       "tag": "weeklyretro",
@@ -132,19 +132,11 @@
     },
     {
       "title": "Let's see where you code!",
-      "hot": "❤️ 101 💬 55",
+      "hot": "❤️ 102 💬 56",
       "desc": "I’ve been writing a lot about AWS lately, so let’s take a breather. This is my little corner of the...",
       "source": "dev",
       "tag": "watercooler,  discuss",
       "url": "https://dev.to/maame-codes/lets-see-where-you-code-147"
-    },
-    {
-      "title": "Building RailPulse AI: Deploying an Open-Source Railway Dispatch Agent with Gemma and Google Cloud Run",
-      "hot": "❤️ 31 💬 31",
-      "desc": "Author: Robina Mirbahar AI/ML Google Developer Expert (GDE) | Google Cloud Champion Innovator GitHub...",
-      "source": "dev",
-      "tag": "ai,  googlecloud",
-      "url": "https://dev.to/gde/building-railpulse-ai-deploying-an-open-source-railway-dispatch-agent-with-gemma-and-google-cloud-2b9g"
     },
     {
       "title": "[Agent Platform in Action (7)] When ADK Go Graph Workflow Meets Google Research Harness (Part 1): Two-Layer Recursive Agent Fram",
@@ -161,174 +153,182 @@
       "source": "dev",
       "tag": "ai,  devtools",
       "url": "https://dev.to/gde/profile-sprawl-solving-a-problem-you-didnt-know-you-had-19k5"
+    },
+    {
+      "title": "From `main.js` Leaks to Hidden Tailwind CSS v4 Bloat — How I Built `angular-bundle-guard` with Antigravity `/learn` [GDE]",
+      "hot": "❤️ 6 💬 0",
+      "desc": "Day 33: From main.js Leaks to Hidden Tailwind CSS v4 Bloat — How I Built...",
+      "source": "dev",
+      "tag": "angular,  antigravity",
+      "url": "https://dev.to/gde/from-mainjs-leaks-to-hidden-tailwind-css-v4-bloat-how-i-built-angular-bundle-guard-with-geg"
     }
   ],
   "tech": [
     {
-      "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
+      "title": "Protecting SSH Keys with macOS Secure Enclave",
       "hot": "3.0m",
-      "desc": "vulncheck.com",
+      "desc": "gatezh.com",
       "source": "tech",
-      "tag": "⬆️ 299 points",
-      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update"
+      "tag": "⬆️ 220 points",
+      "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/"
     },
     {
-      "title": "A great old-timey game-programming hack (2013)",
+      "title": "Plane lifted into back garden as bunker takes shape",
       "hot": "3.0m",
-      "desc": "blog.moertel.com",
+      "desc": "bbc.co.uk",
       "source": "tech",
-      "tag": "⬆️ 32 points",
-      "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html"
+      "tag": "⬆️ 24 points",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgjv4pj023o"
+    },
+    {
+      "title": "Smart home devices should work without the internet",
+      "hot": "3.0m",
+      "desc": "docodethatmatters.com",
+      "source": "tech",
+      "tag": "⬆️ 980 points",
+      "url": "https://docodethatmatters.com/home-automation-overnight-success/"
     },
     {
       "title": ".name Grandfathered",
       "hot": "3.0m",
       "desc": "neil.fraser.name",
       "source": "tech",
-      "tag": "⬆️ 711 points",
+      "tag": "⬆️ 859 points",
       "url": "https://neil.fraser.name/news/2026/11/10/"
     },
     {
       "title": "Scion is back and is going to sell a kei truck in America",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "theautopian.com",
       "source": "tech",
-      "tag": "⬆️ 357 points",
+      "tag": "⬆️ 481 points",
       "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/"
     },
     {
-      "title": "Smart home devices should work without the internet",
+      "title": "Greg Kurtzer's Ginux is now a userspace kernel",
       "hot": "2.9m",
-      "desc": "docodethatmatters.com",
+      "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 747 points",
-      "url": "https://docodethatmatters.com/home-automation-overnight-success/"
+      "tag": "⬆️ 77 points",
+      "url": "https://github.com/gmkurtzer/ginux"
     },
     {
-      "title": "Six Math Essentials by Terence Tao",
+      "title": "A great old-timey game-programming hack (2013)",
+      "hot": "2.9m",
+      "desc": "blog.moertel.com",
+      "source": "tech",
+      "tag": "⬆️ 180 points",
+      "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html"
+    },
+    {
+      "title": "Apple has new Mac app coming to make running local AI models easy",
+      "hot": "2.9m",
+      "desc": "9to5mac.com",
+      "source": "tech",
+      "tag": "⬆️ 277 points",
+      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/"
+    },
+    {
+      "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
+      "hot": "2.9m",
+      "desc": "science.org",
+      "source": "tech",
+      "tag": "⬆️ 107 points",
+      "url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna"
+    },
+    {
+      "title": "Six Math Essentials",
       "hot": "2.9m",
       "desc": "teorth.github.io",
       "source": "tech",
-      "tag": "⬆️ 150 points",
+      "tag": "⬆️ 259 points",
       "url": "https://teorth.github.io/tao-web/six-math-essentials.html"
-    },
-    {
-      "title": "Starlink Mini 2",
-      "hot": "2.9m",
-      "desc": "starlink.com",
-      "source": "tech",
-      "tag": "⬆️ 285 points",
-      "url": "https://starlink.com/mini-2"
     },
     {
       "title": "Synaptics patent claims stop work on DisplayLink drivers",
       "hot": "2.9m",
       "desc": "lwn.net",
       "source": "tech",
-      "tag": "⬆️ 320 points",
+      "tag": "⬆️ 416 points",
       "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/"
     },
     {
-      "title": "Hacking the Meta Ray-Ban smartglasses",
-      "hot": "2.9m",
-      "desc": "p0pcycle.com",
+      "title": "Starlink Mini 2",
+      "hot": "2.8m",
+      "desc": "starlink.com",
       "source": "tech",
-      "tag": "⬆️ 60 points",
-      "url": "https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/"
+      "tag": "⬆️ 429 points",
+      "url": "https://starlink.com/mini-2"
     },
     {
-      "title": "Val Town is winding down",
-      "hot": "2.9m",
-      "desc": "blog.val.town",
+      "title": "Why Amstrad chose the 3\" drives",
+      "hot": "2.8m",
+      "desc": "cpcwiki.eu",
       "source": "tech",
-      "tag": "⬆️ 317 points",
-      "url": "https://blog.val.town/winding-down"
+      "tag": "⬆️ 49 points",
+      "url": "https://www.cpcwiki.eu/forum/amstrad-cpc-hardware/why-amstrad-chose-the-3-drives/"
     },
     {
       "title": "AlphaProof Code",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "deepmind.google",
       "source": "tech",
-      "tag": "⬆️ 585 points",
+      "tag": "⬆️ 643 points",
       "url": "https://deepmind.google/blog/introducing-alphaproof-code/"
     },
     {
-      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+      "title": "Why I wrote the BEAM book (2025)",
       "hot": "2.8m",
+      "desc": "happihacking.com",
+      "source": "tech",
+      "tag": "⬆️ 102 points",
+      "url": "https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/"
+    },
+    {
+      "title": "A Compendium of Abandoned Greenhouses",
+      "hot": "2.8m",
+      "desc": "messynessychic.com",
+      "source": "tech",
+      "tag": "⬆️ 49 points",
+      "url": "https://www.messynessychic.com/2015/01/15/a-compendium-of-abandoned-greenhouses/"
+    },
+    {
+      "title": "Val Town is winding down",
+      "hot": "2.8m",
+      "desc": "blog.val.town",
+      "source": "tech",
+      "tag": "⬆️ 388 points",
+      "url": "https://blog.val.town/winding-down"
+    },
+    {
+      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+      "hot": "2.7m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 278 points",
+      "tag": "⬆️ 377 points",
       "url": "https://github.com/GoogleChrome/modern-web-guidance"
     },
     {
-      "title": "LLMs Play Zachtronics' TIS-100",
-      "hot": "2.8m",
-      "desc": "tis-100.wincon.dev",
-      "source": "tech",
-      "tag": "⬆️ 16 points",
-      "url": "https://tis-100.wincon.dev/"
-    },
-    {
-      "title": "Hooked on Tuna",
-      "hot": "2.8m",
-      "desc": "blue-continuum.com",
-      "source": "tech",
-      "tag": "⬆️ 5 points",
-      "url": "https://blue-continuum.com/hooked-on-tuna"
-    },
-    {
-      "title": "Pinot Noir: inside the criminal gangs making fake wine",
-      "hot": "2.8m",
-      "desc": "economist.com",
-      "source": "tech",
-      "tag": "⬆️ 35 points",
-      "url": "https://www.economist.com/interactive/2026/11/06/pinot-noir-inside-the-criminal-gangs-making-fake-wine"
-    },
-    {
-      "title": "What objective is reasoning solving?",
-      "hot": "2.8m",
-      "desc": "alexwang.ai",
-      "source": "tech",
-      "tag": "⬆️ 113 points",
-      "url": "https://alexwang.ai/posts/reasoning-as-pathfinding/"
-    },
-    {
-      "title": "AMD's Zen 6 Family: Feeding the Beast",
-      "hot": "2.8m",
-      "desc": "chipsandcheese.com",
-      "source": "tech",
-      "tag": "⬆️ 192 points",
-      "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast"
-    },
-    {
-      "title": "AI is an information gateway. Audiences still don't want it making their news",
+      "title": "Tracking Anthropic-discovered vulnerabilities",
       "hot": "2.7m",
-      "desc": "niemanlab.org",
+      "desc": "vulncheck.com",
       "source": "tech",
-      "tag": "⬆️ 15 points",
-      "url": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/"
+      "tag": "⬆️ 407 points",
+      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update"
     },
     {
-      "title": "$30M Raised to Redo the CPU",
+      "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
       "hot": "2.7m",
-      "desc": "tendrils.co",
+      "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 40 points",
-      "url": "https://tendrils.co/blog/2026-11-10/30m-raised"
-    },
-    {
-      "title": "Research taste in history: the importance of learning Babylonian math",
-      "hot": "2.7m",
-      "desc": "resobscura.substack.com",
-      "source": "tech",
-      "tag": "⬆️ 18 points",
-      "url": "https://resobscura.substack.com/p/research-taste-in-history-the-importance"
+      "tag": "⬆️ 30 points",
+      "url": "https://github.com/adrbn/bo2-mac"
     }
   ],
   "github": [
     {
       "title": "NotRexed/Hookshot: A Native Recompilation Of The Legend Of Zelda: Ocarina Of Tim",
-      "hot": "⭐ 6.7k",
+      "hot": "⭐ 7.0k",
       "desc": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
       "source": "github",
       "tag": "C++",
@@ -336,7 +336,7 @@
     },
     {
       "title": "huamidev/GestaltX: An MobileGestalt editor for iOS 27.x, featuring region-code t",
-      "hot": "⭐ 5.1k",
+      "hot": "⭐ 5.7k",
       "desc": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
       "source": "github",
       "tag": "Swift",
@@ -344,7 +344,7 @@
     },
     {
       "title": "tangerineturtle1/NX2navi: ",
-      "hot": "⭐ 2.9k",
+      "hot": "⭐ 3.0k",
       "desc": "tangerineturtle1/NX2navi",
       "source": "github",
       "tag": "C",
@@ -352,7 +352,7 @@
     },
     {
       "title": "jhaizhou-ops/S2Arm: Run your own Switch games natively on iPhone, iPad and Mac: ",
-      "hot": "⭐ 2.4k",
+      "hot": "⭐ 2.5k",
       "desc": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bri",
       "source": "github",
       "tag": "C#",
@@ -368,7 +368,7 @@
     },
     {
       "title": "IainKay/ram-altman: Monitors your RAM and reports any \"quite terrible\" unused ca",
-      "hot": "⭐ 1.8k",
+      "hot": "⭐ 1.9k",
       "desc": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
       "source": "github",
       "tag": "Shell",
@@ -376,7 +376,7 @@
     },
     {
       "title": "jamesondh/chimera-vocal-synth: the ultimate vocal synthesizer - sing, speak, bea",
-      "hot": "⭐ 1.7k",
+      "hot": "⭐ 1.8k",
       "desc": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
       "source": "github",
       "tag": "Rust",
@@ -384,7 +384,7 @@
     },
     {
       "title": "DIYgod/pinky: Let AI agents use your phone, with you in the loop.",
-      "hot": "⭐ 1.7k",
+      "hot": "⭐ 1.8k",
       "desc": "Let AI agents use your phone, with you in the loop.",
       "source": "github",
       "tag": "Go",
@@ -415,6 +415,14 @@
       "url": "https://github.com/voyager-so/vork"
     },
     {
+      "title": "Kianuni/Erosion-CN: iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
+      "hot": "⭐ 1.4k",
+      "desc": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
+      "source": "github",
+      "tag": "Swift",
+      "url": "https://github.com/Kianuni/Erosion-CN"
+    },
+    {
       "title": "egoist/mygo-music: A native music player you extend with plugins",
       "hot": "⭐ 1.2k",
       "desc": "A native music player you extend with plugins",
@@ -423,12 +431,12 @@
       "url": "https://github.com/egoist/mygo-music"
     },
     {
-      "title": "Kianuni/Erosion-CN: iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
+      "title": "WoYun520/gif-factory: GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
       "hot": "⭐ 1.1k",
-      "desc": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
+      "desc": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
       "source": "github",
-      "tag": "Swift",
-      "url": "https://github.com/Kianuni/Erosion-CN"
+      "tag": "Python",
+      "url": "https://github.com/WoYun520/gif-factory"
     },
     {
       "title": "sostenesfreitas/ocarina-recomp: Ocarina of Time running natively on Windows, no ",
@@ -437,17 +445,41 @@
       "source": "github",
       "tag": "C",
       "url": "https://github.com/sostenesfreitas/ocarina-recomp"
-    },
-    {
-      "title": "WoYun520/gif-factory: GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
-      "hot": "⭐ 1.1k",
-      "desc": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/WoYun520/gif-factory"
     }
   ],
   "space": [
+    {
+      "title": "Fire Damage Delays Installation of Simulated Lunar Greenhouse in Germany",
+      "hot": "11/11",
+      "desc": "A fire at an external contractor’s facility has delayed the installation of a containerised greenhouse designed to simulate growing crops on the Moon.",
+      "source": "space",
+      "tag": "European Spaceflight",
+      "url": "https://europeanspaceflight.com/fire-damage-delays-installation-of-simulated-lunar-greenhouse-in-germany/"
+    },
+    {
+      "title": "APOD: 2026 November 11 – NGC 4449: Small Galaxy, Big Impact",
+      "hot": "11/11",
+      "desc": "APOD Science APOD APOD: 2026 November 11 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Pi",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact/"
+    },
+    {
+      "title": "Water Surges Into Navajo Reservoir",
+      "hot": "11/11",
+      "desc": "Rounds of heavy rain in the U.S. Southwest flooded rivers and rapidly raised New Mexico’s second-largest reservoir.",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir/"
+    },
+    {
+      "title": "Isaacman lays out SLS path to the 2030s",
+      "hot": "11/11",
+      "desc": "NASA Administrator Jared Isaacman has further explained the decision to standardize the Space Launch System…\nThe post Isaacman lays out SLS path to th",
+      "source": "space",
+      "tag": "NASASpaceflight",
+      "url": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/"
+    },
     {
       "title": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
       "hot": "11/10",
@@ -535,38 +567,6 @@
       "source": "space",
       "tag": "NASA",
       "url": "https://science.nasa.gov/earth/earth-observatory/autumn-mornings-bring-valley-fog/"
-    },
-    {
-      "title": "NASA Shares Moon Base Progress, Contract Awards",
-      "hot": "11/10",
-      "desc": "NASA provided another update on the Moon Base project this weekend in conjunction with the MAX POWER airshow at Kennedy Space Center. Billions of doll",
-      "source": "space",
-      "tag": "SpacePolicyOnline.com",
-      "url": "https://spacepolicyonline.com/news/nasa-shares-moon-base-progress-contract-awards/"
-    },
-    {
-      "title": "Curiosity Blog, Sols 5056-5062: Charging Back Up!",
-      "hot": "11/10",
-      "desc": "By Remington Free, Operations Systems Engineer, NASA-JPL Earth planning date: Friday, Oct. 30, 2026 Today’s plan covered 3 sols, 5060, 5061, and 5062,",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5056-5062-charging-back-up/"
-    },
-    {
-      "title": "Curiosity Blog, Sols 5050-5055: It’s Nazca, Our 49th Drill Hole",
-      "hot": "11/10",
-      "desc": "Written by Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, Oct. 23, 2026 As regular re",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5050-5055-its-nazca-our-49th-drill-hole/"
-    },
-    {
-      "title": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week",
-      "hot": "11/9",
-      "desc": "Seven rockets from four countries are set to launch this week. Starship is set to…\r\nThe post Launch Preview: Starship, Vulcan, and Electron launches s",
-      "source": "space",
-      "tag": "NASASpaceflight",
-      "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/"
     }
   ]
 }
