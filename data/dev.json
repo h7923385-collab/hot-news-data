@@ -2,23 +2,111 @@
   "data": [
     {
       "title": "How did you end up in tech, and are you staying?",
-      "hot": "❤️ 101 💬 38",
+      "hot": "❤️ 130 💬 51",
       "desc": "Last week you showed me where you code. This week I want to know how you ended up there in the first...",
       "source": "dev",
       "tag": "discuss,  career",
       "url": "https://dev.to/maame-codes/how-did-you-end-up-in-tech-and-are-you-staying-4l9b"
     },
     {
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 34 💬 16",
-      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+      "title": "Ask More of Your UI",
+      "hot": "❤️ 41 💬 3",
+      "desc": "In my last post, I wrote about moving Forem’s performance and maintenance work into autonomous loops...",
       "source": "dev",
-      "tag": "top7,  discuss",
-      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-432g"
+      "tag": "ai,  agents",
+      "url": "https://dev.to/dailycontext/ask-more-of-your-ui-2nf7"
+    },
+    {
+      "title": "Stop Calling getGenerativeModel() Everywhere! The Hidden Traps of Scaling Firebase AI to Multi-Model Angular Apps",
+      "hot": "❤️ 14 💬 0",
+      "desc": "Calling getGenerativeModel() directly inside VisionService and TextToSpeechService duplicates...",
+      "source": "dev",
+      "tag": "angular,  firebase",
+      "url": "https://dev.to/gde/stop-calling-getgenerativemodel-everywhere-the-hidden-traps-of-scaling-firebase-ai-to-lg1"
+    },
+    {
+      "title": "Google AI Classroom Part 9: Gamified \"Bingo\" Active Presence Verification & Zero-Trust Proctored Exam Mode on Google Cloud",
+      "hot": "❤️ 15 💬 1",
+      "desc": "Interactive Classroom Bingo comprehension checks and zero-trust proctored exam lockdown with forensic .docx dossiers on ",
+      "source": "dev",
+      "tag": "firebase,  gamification",
+      "url": "https://dev.to/gde/google-ai-classroom-part-9-gamified-bingo-active-presence-verification-zero-trust-proctored-52dg"
+    },
+    {
+      "title": "Detecting WasmPlugin version drift in Cloud Load Balancing Service Extensions",
+      "hot": "❤️ 5 💬 0",
+      "desc": "When you attach a WebAssembly (Wasm) plugin to an Application Load Balancer with Service Extensions,...",
+      "source": "dev",
+      "tag": "googlecloud,  networking",
+      "url": "https://dev.to/googlecloud/detecting-wasmplugin-version-drift-in-cloud-load-balancing-service-extensions-52p5"
+    },
+    {
+      "title": "Kent C. Dodds Hasn't Looked at His Code All Year",
+      "hot": "❤️ 5 💬 0",
+      "desc": "At the start of this year, Kent C. Dodds gave a coding agent a link to a GitHub issue he had been...",
+      "source": "dev",
+      "tag": "ai,  agents",
+      "url": "https://dev.to/dailycontext/kent-c-dodds-hasnt-looked-at-his-code-all-year-gd5"
+    },
+    {
+      "title": "The Fastest LLM Call Is The One You Never Make",
+      "hot": "❤️ 7 💬 1",
+      "desc": "At Glean, we tested a model that does not write text. It only makes decisions.  In our tests, it...",
+      "source": "dev",
+      "tag": "ai,  llm",
+      "url": "https://dev.to/dailycontext/the-fastest-llm-call-is-the-one-you-never-make-34lo"
+    },
+    {
+      "title": "Google AI Classroom Part 10: Green AI FinOps, Self-Cleaning Storage Lifecycles & 1-Command Terraform IaC for Multi-School Deployment",
+      "hot": "❤️ 11 💬 1",
+      "desc": "Green AI FinOps, automated storage lifecycle policies, and 1-command Terraform IaC for multi-school teaching, grading, a",
+      "source": "dev",
+      "tag": "finops,  terraform",
+      "url": "https://dev.to/gde/google-ai-classroom-part-10-green-ai-finops-self-cleaning-storage-lifecycles-1-command-1fn"
+    },
+    {
+      "title": "Google AI Classroom Part 8: AI Project Supervision — Streamlined Mobile 720p Demo, 2-Stage Diarization & Fake-Log Auditing with Gemini 4",
+      "hot": "❤️ 13 💬 0",
+      "desc": "Measuring authentic student performance in capstone projects with a mobile 720p demo studio, 2-stage diarization, and fa",
+      "source": "dev",
+      "tag": "ai,  firebase",
+      "url": "https://dev.to/gde/google-ai-classroom-part-8-ai-project-supervision-streamlined-mobile-720p-demo-2-stage-3h98"
+    },
+    {
+      "title": "How We Review 4x More AI Code Without Reading Every Line",
+      "hot": "❤️ 5 💬 2",
+      "desc": "Do you need to read every line of AI-generated code to trust it? Not necessarily. You need to check...",
+      "source": "dev",
+      "tag": "ai,  codereview",
+      "url": "https://dev.to/dailycontext/how-we-review-4x-more-ai-code-without-reading-every-line-d5j"
+    },
+    {
+      "title": "Software Engineering Is Becoming Factory Engineering",
+      "hot": "❤️ 9 💬 0",
+      "desc": "Most developers working with coding agents still interact with them directly. They open a terminal,...",
+      "source": "dev",
+      "tag": "ai,  agents",
+      "url": "https://dev.to/dailycontext/software-engineering-is-becoming-factory-engineering-22ll"
+    },
+    {
+      "title": "The AI Evals feedback loop runs both ways",
+      "hot": "❤️ 3 💬 1",
+      "desc": "We’re increasingly asking AI to help decide whether other AI systems are good enough to ship. LLM...",
+      "source": "dev",
+      "tag": "ai,  llm",
+      "url": "https://dev.to/quinnvention/the-ai-evals-feedback-loop-runs-both-ways-1pl3"
+    },
+    {
+      "title": "Google AI Classroom Part 6: Low-Bandwidth Classroom Screen Broadcasting & Single-Pass Whole-Lecture Subtitles with Gemini 4 Argon",
+      "hot": "❤️ 10 💬 0",
+      "desc": "Scaling classroom screen broadcasting without WebRTC CPU collapse and compiling single-pass whole-lecture study subtitle",
+      "source": "dev",
+      "tag": "googlecloud,  serverless",
+      "url": "https://dev.to/gde/google-ai-classroom-part-6-low-bandwidth-classroom-screen-broadcasting-single-pass-whole-lecture-1k0l"
     },
     {
       "title": "Stop Asking LLMs to Do Math: Client-Side Functions in Flutter GenUI with bloc_signals",
-      "hot": "❤️ 28 💬 42",
+      "hot": "❤️ 29 💬 45",
       "desc": "Why Andrew 'Red' Brogdon's insight on client-side functions is critical for Generative UI—and how bloc_signals_genui tur",
       "source": "dev",
       "tag": "flutter,  dart",
@@ -49,6 +137,14 @@
       "url": "https://dev.to/gde/containing-the-autonomous-mind-sub-second-zero-trust-execution-with-gke-agent-sandbox-5e6b"
     },
     {
+      "title": "Vue.js Is My Workhorse. Now It's an Agent Skill.",
+      "hot": "❤️ 11 💬 3",
+      "desc": "Overview   I've been using Vue.js since the early days, long enough that \"Evangelion\" sounds...",
+      "source": "dev",
+      "tag": "ai,  webdev",
+      "url": "https://dev.to/playfulprogramming/vuejs-is-my-workhorse-now-its-an-agent-skill-1pfk"
+    },
+    {
       "title": "Prompt Pad: Show Your AI How to Respond with Few-Shot Examples",
       "hot": "❤️ 15 💬 1",
       "desc": "Want AI to answer in a specific way? Don't just tell it. Show it.  In this episode of Prompt Pad,...",
@@ -63,103 +159,7 @@
       "source": "dev",
       "tag": "discuss",
       "url": "https://dev.to/missamarakay/who-is-building-solutions-for-documents-4d58"
-    },
-    {
-      "title": "Take Claude Code Above Average: Let Antigravity Review It",
-      "hot": "❤️ 23 💬 9",
-      "desc": "In November 2026, I spent a day building a small tool with Claude Code: a bridge that lets a second...",
-      "source": "dev",
-      "tag": "agents,  ai",
-      "url": "https://dev.to/gde/take-claude-code-above-average-let-antigravity-review-it-1f3g"
-    },
-    {
-      "title": "Find the production agent failures that every health check misses",
-      "hot": "❤️ 10 💬 4",
-      "desc": "AQuA is an open-source quality agent that surfaces the production failures your health checks miss and, when you ask, tr",
-      "source": "dev",
-      "tag": "agents,  ai",
-      "url": "https://dev.to/googlecloud/find-the-production-agent-failures-that-every-health-check-misses-39j8"
-    },
-    {
-      "title": "Congrats to the Kaggle Benchmarking Challenge Winners!",
-      "hot": "❤️ 143 💬 29",
-      "desc": "A few weeks ago we teamed up with Kaggle to ask a deceptively simple question: how do you actually...",
-      "source": "dev",
-      "tag": "devchallenge,  kagglechallenge",
-      "url": "https://dev.to/devteam/congrats-to-the-kaggle-benchmarking-challenge-winners-2moh"
-    },
-    {
-      "title": "What was your win this week?",
-      "hot": "❤️ 120 💬 87",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "weeklyretro",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-28dh"
-    },
-    {
-      "title": "Prompt Pad: Lock Your AI's Output Schema in Google AI Studio",
-      "hot": "❤️ 12 💬 1",
-      "desc": "If you've ever tried to parse an LLM response in code, you know the pain: the format changes slightly...",
-      "source": "dev",
-      "tag": "ai,  gemini",
-      "url": "https://blog.mlh.com/prompt-pad-lock-your-ais-output-schema-in-google-ai-studio-53io"
-    },
-    {
-      "title": "Take a Claude Agent SDK agent from install to deploy with Agents CLI",
-      "hot": "❤️ 9 💬 2",
-      "desc": "How the Claude extension in Agents CLI takes a Claude Agent SDK agent from install to a validated Cloud Run deploy, with",
-      "source": "dev",
-      "tag": "agents,  ai",
-      "url": "https://dev.to/googlecloud/take-a-claude-agent-sdk-agent-from-install-to-deploy-with-agents-cli-2680"
-    },
-    {
-      "title": "That's a Wrap on Hacktoberfest 2026! 🎃👻",
-      "hot": "❤️ 65 💬 14",
-      "desc": "Hacktoberfest 2026 wrapped up on October 31st! Thank you to everyone who built, hosted, mentored,...",
-      "source": "dev",
-      "tag": "hacktoberfest,  hf26challenge",
-      "url": "https://dev.to/devteam/thats-a-wrap-on-hacktoberfest-2026-148k"
-    },
-    {
-      "title": "Gemma 4 in Rust on TorchTPU: Hands On With Colab",
-      "hot": "❤️ 8 💬 0",
-      "desc": "A Rust crate reads the checkpoint, runs all 35 layers of Gemma 4 E2B and drives the decode loop on one TPU v5e chip in C",
-      "source": "dev",
-      "tag": "rust,  pytorch",
-      "url": "https://dev.to/gde/gemma-4-in-rust-on-torchtpu-hands-on-with-colab-44hi"
-    },
-    {
-      "title": "Let's see where you code!",
-      "hot": "❤️ 102 💬 56",
-      "desc": "I’ve been writing a lot about AWS lately, so let’s take a breather. This is my little corner of the...",
-      "source": "dev",
-      "tag": "watercooler,  discuss",
-      "url": "https://dev.to/maame-codes/lets-see-where-you-code-147"
-    },
-    {
-      "title": "[Agent Platform in Action (7)] When ADK Go Graph Workflow Meets Google Research Harness (Part 1): Two-Layer Recursive Agent Fram",
-      "hot": "❤️ 7 💬 0",
-      "desc": "Foreword: After the AI Agent Goes Online, What is the Next Bottleneck?   Welcome back to...",
-      "source": "dev",
-      "tag": "agents,  ai",
-      "url": "https://dev.to/gde/agent-platform-in-action-7-when-adk-go-graph-workflow-meets-google-research-harness-part-1-28c1"
-    },
-    {
-      "title": "Profile Sprawl: Solving a Problem You Didn't Know You Had",
-      "hot": "❤️ 9 💬 0",
-      "desc": "Every public profile you own says something slightly different about you. A step by step guide to treating your bio as s",
-      "source": "dev",
-      "tag": "ai,  devtools",
-      "url": "https://dev.to/gde/profile-sprawl-solving-a-problem-you-didnt-know-you-had-19k5"
-    },
-    {
-      "title": "From `main.js` Leaks to Hidden Tailwind CSS v4 Bloat — How I Built `angular-bundle-guard` with Antigravity `/learn` [GDE]",
-      "hot": "❤️ 6 💬 0",
-      "desc": "Day 33: From main.js Leaks to Hidden Tailwind CSS v4 Bloat — How I Built...",
-      "source": "dev",
-      "tag": "angular,  antigravity",
-      "url": "https://dev.to/gde/from-mainjs-leaks-to-hidden-tailwind-css-v4-bloat-how-i-built-angular-bundle-guard-with-geg"
     }
   ],
-  "updatedAt": "2026-11-11T11:15:00.502Z"
+  "updatedAt": "2026-11-11T18:46:08.067Z"
 }
