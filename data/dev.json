@@ -2,19 +2,51 @@
   "data": [
     {
       "title": "Long Live Rails",
-      "hot": "❤️ 54 💬 3",
+      "hot": "❤️ 76 💬 11",
       "desc": "When DHH took the stage at Rails World 2026 and talked openly about going \"pencils down\" on...",
       "source": "dev",
       "tag": "rails,  ruby",
       "url": "https://dev.to/ben/long-live-rails-3p21"
     },
     {
+      "title": "Can you merge at agent speed?",
+      "hot": "❤️ 26 💬 1",
+      "desc": "Major League Hacking and Entire are teaming up for a year of hackathons, DEV Challenges, and a new...",
+      "source": "dev",
+      "tag": "hackathon,  ai",
+      "url": "https://blog.mlh.com/can-you-merge-at-agent-speed-4m67"
+    },
+    {
       "title": "How did you end up in tech, and are you staying?",
-      "hot": "❤️ 139 💬 55",
+      "hot": "❤️ 143 💬 56",
       "desc": "Last week you showed me where you code. This week I want to know how you ended up there in the first...",
       "source": "dev",
       "tag": "discuss,  career",
       "url": "https://dev.to/maame-codes/how-did-you-end-up-in-tech-and-are-you-staying-4l9b"
+    },
+    {
+      "title": "Nvidia Says Its Roadmap Will Continue. AI Teams Should Verify the Dependencies",
+      "hot": "❤️ 3 💬 0",
+      "desc": "A company can announce that its operations and product roadmap will continue without interruption....",
+      "source": "dev",
+      "tag": "ai,  business",
+      "url": "https://dev.to/jamilxt/nvidia-says-its-roadmap-will-continue-ai-teams-should-verify-the-dependencies-3c8d"
+    },
+    {
+      "title": "Your Agent Needs a Schema, Not a Better Prompt",
+      "hot": "❤️ 19 💬 7",
+      "desc": "The failure nobody demos   The agent demo always works. The customer asks for a refund, the...",
+      "source": "dev",
+      "tag": "ai,  agents",
+      "url": "https://dev.to/dailycontext/your-agent-needs-a-schema-not-a-better-prompt-53bm"
+    },
+    {
+      "title": "What Changes With the A2UI 1.0 Release",
+      "hot": "❤️ 11 💬 2",
+      "desc": "The same currency agent built on A2UI 0.9 and on A2UI 1.0: what changed in the protocol, how an answer reaches the scree",
+      "source": "dev",
+      "tag": "a2ui,  agents",
+      "url": "https://dev.to/gde/what-changes-with-the-a2ui-10-release-31eo"
     },
     {
       "title": "AI Code Is Unmaintainable? So Is Ours.",
@@ -25,12 +57,28 @@
       "url": "https://dev.to/dannwaneri/ai-code-is-unmaintainable-so-is-ours-3mek"
     },
     {
-      "title": "Your Agent Needs a Schema, Not a Better Prompt",
-      "hot": "❤️ 18 💬 7",
-      "desc": "The failure nobody demos   The agent demo always works. The customer asks for a refund, the...",
+      "title": "The Case for Smart Software",
+      "hot": "❤️ 10 💬 2",
+      "desc": "At a typical AI conference, there's usually much discussion of \"the future of software\", but it...",
       "source": "dev",
-      "tag": "ai,  agents",
-      "url": "https://dev.to/dailycontext/your-agent-needs-a-schema-not-a-better-prompt-53bm"
+      "tag": "jev,  ai",
+      "url": "https://dev.to/swyx/the-case-for-smart-software-329f"
+    },
+    {
+      "title": "Prompt Pad: What Are Tokens?",
+      "hot": "❤️ 5 💬 0",
+      "desc": "Your AI doesn't read your prompt word for word. It reads tokens.  In this episode of Prompt Pad,...",
+      "source": "dev",
+      "tag": "ai,  beginners",
+      "url": "https://blog.mlh.com/prompt-pad-what-are-tokens-gec"
+    },
+    {
+      "title": "Muse Wonder, Muse Spark 1.3, and Muse Ember are now available on Google Cloud in public preview",
+      "hot": "❤️ 10 💬 0",
+      "desc": "Muse Wonder, Muse Spark 1.3 and Muse Ember are now publicly available on Google Cloud.   Deploy...",
+      "source": "dev",
+      "tag": "muse,  ai",
+      "url": "https://dev.to/googleai/muse-wonder-muse-spark-13-and-muse-ember-are-now-available-on-google-cloud-in-public-preview-5e6j"
     },
     {
       "title": "Ask More of Your UI",
@@ -41,20 +89,12 @@
       "url": "https://dev.to/dailycontext/ask-more-of-your-ui-2nf7"
     },
     {
-      "title": "The Case for Smart Software",
-      "hot": "❤️ 10 💬 2",
-      "desc": "At a typical AI conference, there's usually much discussion of \"the future of software\", but it...",
+      "title": "Fast multimodal control flow with the Gemini Decisions API",
+      "hot": "❤️ 0 💬 0",
+      "desc": "Generative models write text for people to read. When your app only needs to pick a tool or route a...",
       "source": "dev",
-      "tag": "jev,  ai",
-      "url": "https://dev.to/swyx/the-case-for-smart-software-329f"
-    },
-    {
-      "title": "What It Actually Takes to Roll Out AI Across Netflix",
-      "hot": "❤️ 8 💬 1",
-      "desc": "Most companies will never train a frontier model. Their AI work happens somewhere less visible: the...",
-      "source": "dev",
-      "tag": "ai,  agenticai",
-      "url": "https://dev.to/dailycontext/what-it-actually-takes-to-roll-out-ai-across-netflix-18h8"
+      "tag": "ai,  api",
+      "url": "https://dev.to/philschmid/fast-multimodal-control-flow-with-the-gemini-decisions-api-533b"
     },
     {
       "title": "Use your eval as a CI gate with Agents CLI",
@@ -63,6 +103,14 @@
       "source": "dev",
       "tag": "ai,  cicd",
       "url": "https://dev.to/googlecloud/use-your-eval-as-a-ci-gate-with-agents-cli-1ha1"
+    },
+    {
+      "title": "What It Actually Takes to Roll Out AI Across Netflix",
+      "hot": "❤️ 13 💬 1",
+      "desc": "Most companies will never train a frontier model. Their AI work happens somewhere less visible: the...",
+      "source": "dev",
+      "tag": "ai,  agenticai",
+      "url": "https://dev.to/dailycontext/what-it-actually-takes-to-roll-out-ai-across-netflix-18h8"
     },
     {
       "title": "Software Engineering Is Becoming Factory Engineering",
@@ -90,7 +138,7 @@
     },
     {
       "title": "The Fastest LLM Call Is The One You Never Make",
-      "hot": "❤️ 14 💬 3",
+      "hot": "❤️ 15 💬 3",
       "desc": "At Glean, we tested a model that does not write text. It only makes decisions.  In our tests, it...",
       "source": "dev",
       "tag": "ai,  llm",
@@ -106,60 +154,12 @@
     },
     {
       "title": "Kent C. Dodds Hasn't Looked at His Code All Year",
-      "hot": "❤️ 7 💬 3",
+      "hot": "❤️ 8 💬 3",
       "desc": "At the start of this year, Kent C. Dodds gave a coding agent a link to a GitHub issue he had been...",
       "source": "dev",
       "tag": "ai,  agents",
       "url": "https://dev.to/dailycontext/kent-c-dodds-hasnt-looked-at-his-code-all-year-gd5"
-    },
-    {
-      "title": "What I Learned Managing a Full Project with Antigravity",
-      "hot": "❤️ 9 💬 0",
-      "desc": "How my workflow evolved from solo prompting in AI Studio to managing a multi-model AI team, running...",
-      "source": "dev",
-      "tag": "antigravity,  gemini",
-      "url": "https://dev.to/gde/what-i-learned-managing-a-full-project-with-antigravity-1ppc"
-    },
-    {
-      "title": "Containing the Autonomous Mind: Sub-Second Zero-Trust Execution with GKE Agent Sandbox",
-      "hot": "❤️ 23 💬 1",
-      "desc": "Why standard Kubernetes pods fail when AI agents start writing code and how to build a sub-second,...",
-      "source": "dev",
-      "tag": "ai,  googlecloud",
-      "url": "https://dev.to/gde/containing-the-autonomous-mind-sub-second-zero-trust-execution-with-gke-agent-sandbox-5e6b"
-    },
-    {
-      "title": "Vue.js Is My Workhorse. Now It's an Agent Skill.",
-      "hot": "❤️ 11 💬 3",
-      "desc": "Overview   I've been using Vue.js since the early days, long enough that \"Evangelion\" sounds...",
-      "source": "dev",
-      "tag": "ai,  webdev",
-      "url": "https://dev.to/playfulprogramming/vuejs-is-my-workhorse-now-its-an-agent-skill-1pfk"
-    },
-    {
-      "title": "Prompt Pad: Show Your AI How to Respond with Few-Shot Examples",
-      "hot": "❤️ 15 💬 1",
-      "desc": "Want AI to answer in a specific way? Don't just tell it. Show it.  In this episode of Prompt Pad,...",
-      "source": "dev",
-      "tag": "ai,  beginners",
-      "url": "https://blog.mlh.com/prompt-pad-show-your-ai-how-to-respond-with-few-shot-examples-2869"
-    },
-    {
-      "title": "Google AI Classroom Part 9: Gamified \"Bingo\" Active Presence Verification & Zero-Trust Proctored Exam Mode on Google Cloud",
-      "hot": "❤️ 17 💬 1",
-      "desc": "Interactive Classroom Bingo comprehension checks and zero-trust proctored exam lockdown with forensic .docx dossiers on ",
-      "source": "dev",
-      "tag": "firebase,  gamification",
-      "url": "https://dev.to/gde/google-ai-classroom-part-9-gamified-bingo-active-presence-verification-zero-trust-proctored-52dg"
-    },
-    {
-      "title": "Who is building solutions with documents?",
-      "hot": "❤️ 6 💬 3",
-      "desc": "Digital transformation, anyone? ",
-      "source": "dev",
-      "tag": "discuss",
-      "url": "https://dev.to/missamarakay/who-is-building-solutions-for-documents-4d58"
     }
   ],
-  "updatedAt": "2026-11-12T16:56:01.829Z"
+  "updatedAt": "2026-11-12T22:28:52.159Z"
 }
