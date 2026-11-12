@@ -1,50 +1,66 @@
 {
-  "updatedAt": "2026-11-12T08:26:46.079Z",
+  "updatedAt": "2026-11-12T16:56:01.829Z",
   "source": "live",
   "dev": [
     {
+      "title": "Long Live Rails",
+      "hot": "❤️ 54 💬 3",
+      "desc": "When DHH took the stage at Rails World 2026 and talked openly about going \"pencils down\" on...",
+      "source": "dev",
+      "tag": "rails,  ruby",
+      "url": "https://dev.to/ben/long-live-rails-3p21"
+    },
+    {
       "title": "How did you end up in tech, and are you staying?",
-      "hot": "❤️ 136 💬 53",
+      "hot": "❤️ 139 💬 55",
       "desc": "Last week you showed me where you code. This week I want to know how you ended up there in the first...",
       "source": "dev",
       "tag": "discuss,  career",
       "url": "https://dev.to/maame-codes/how-did-you-end-up-in-tech-and-are-you-staying-4l9b"
     },
     {
-      "title": "The Case for Smart Software",
-      "hot": "❤️ 9 💬 1",
-      "desc": "At a typical AI conference, there's usually much discussion of \"the future of software\", but it...",
+      "title": "AI Code Is Unmaintainable? So Is Ours.",
+      "hot": "❤️ 29 💬 18",
+      "desc": "If you’ve been in the software industry for any length of time, you’ve probably heard people talking...",
       "source": "dev",
-      "tag": "jev,  ai",
-      "url": "https://dev.to/swyx/the-case-for-smart-software-329f"
+      "tag": "ai,  programming",
+      "url": "https://dev.to/dannwaneri/ai-code-is-unmaintainable-so-is-ours-3mek"
     },
     {
-      "title": "Google AI Classroom Part 9: Gamified \"Bingo\" Active Presence Verification & Zero-Trust Proctored Exam Mode on Google Cloud",
-      "hot": "❤️ 16 💬 1",
-      "desc": "Interactive Classroom Bingo comprehension checks and zero-trust proctored exam lockdown with forensic .docx dossiers on ",
+      "title": "Your Agent Needs a Schema, Not a Better Prompt",
+      "hot": "❤️ 18 💬 7",
+      "desc": "The failure nobody demos   The agent demo always works. The customer asks for a refund, the...",
       "source": "dev",
-      "tag": "firebase,  gamification",
-      "url": "https://dev.to/gde/google-ai-classroom-part-9-gamified-bingo-active-presence-verification-zero-trust-proctored-52dg"
+      "tag": "ai,  agents",
+      "url": "https://dev.to/dailycontext/your-agent-needs-a-schema-not-a-better-prompt-53bm"
     },
     {
       "title": "Ask More of Your UI",
-      "hot": "❤️ 49 💬 6",
+      "hot": "❤️ 55 💬 6",
       "desc": "In my last post, I wrote about moving Forem’s performance and maintenance work into autonomous loops...",
       "source": "dev",
       "tag": "ai,  agents",
       "url": "https://dev.to/dailycontext/ask-more-of-your-ui-2nf7"
     },
     {
-      "title": "Detecting WasmPlugin version drift in Cloud Load Balancing Service Extensions",
-      "hot": "❤️ 5 💬 1",
-      "desc": "When you attach a WebAssembly (Wasm) plugin to an Application Load Balancer with Service Extensions,...",
+      "title": "The Case for Smart Software",
+      "hot": "❤️ 10 💬 2",
+      "desc": "At a typical AI conference, there's usually much discussion of \"the future of software\", but it...",
       "source": "dev",
-      "tag": "googlecloud,  networking",
-      "url": "https://dev.to/googlecloud/detecting-wasmplugin-version-drift-in-cloud-load-balancing-service-extensions-52p5"
+      "tag": "jev,  ai",
+      "url": "https://dev.to/swyx/the-case-for-smart-software-329f"
+    },
+    {
+      "title": "What It Actually Takes to Roll Out AI Across Netflix",
+      "hot": "❤️ 8 💬 1",
+      "desc": "Most companies will never train a frontier model. Their AI work happens somewhere less visible: the...",
+      "source": "dev",
+      "tag": "ai,  agenticai",
+      "url": "https://dev.to/dailycontext/what-it-actually-takes-to-roll-out-ai-across-netflix-18h8"
     },
     {
       "title": "Use your eval as a CI gate with Agents CLI",
-      "hot": "❤️ 9 💬 3",
+      "hot": "❤️ 11 💬 4",
       "desc": "How to make a quality drop fail your build with agents-cli eval run and one threshold, for anyone who ships an agent fro",
       "source": "dev",
       "tag": "ai,  cicd",
@@ -59,36 +75,28 @@
       "url": "https://dev.to/dailycontext/software-engineering-is-becoming-factory-engineering-22ll"
     },
     {
-      "title": "The AI Evals feedback loop runs both ways",
-      "hot": "❤️ 4 💬 2",
-      "desc": "We’re increasingly asking AI to help decide whether other AI systems are good enough to ship. LLM...",
+      "title": "Six Serving Engines on One Tesla T4: Gemma 4 E2B on a Turing GPU",
+      "hot": "❤️ 19 💬 3",
+      "desc": "llama.cpp, vLLM, SGLang, mistral.rs, a plain PyTorch engine and LiteRT-LM serve the same 4-bit Gemma 4 E2B on one 16 GB ",
+      "source": "dev",
+      "tag": "gemma,  vllm",
+      "url": "https://dev.to/gde/six-serving-engines-on-one-tesla-t4-gemma-4-e2b-on-a-turing-gpu-3a6i"
+    },
+    {
+      "title": "Detecting WasmPlugin version drift in Cloud Load Balancing Service Extensions",
+      "hot": "❤️ 5 💬 1",
+      "desc": "When you attach a WebAssembly (Wasm) plugin to an Application Load Balancer with Service Extensions,...",
+      "source": "dev",
+      "tag": "googlecloud,  networking",
+      "url": "https://dev.to/googlecloud/detecting-wasmplugin-version-drift-in-cloud-load-balancing-service-extensions-52p5"
+    },
+    {
+      "title": "The Fastest LLM Call Is The One You Never Make",
+      "hot": "❤️ 14 💬 3",
+      "desc": "At Glean, we tested a model that does not write text. It only makes decisions.  In our tests, it...",
       "source": "dev",
       "tag": "ai,  llm",
-      "url": "https://dev.to/quinnvention/the-ai-evals-feedback-loop-runs-both-ways-1pl3"
-    },
-    {
-      "title": "Stop Calling getGenerativeModel() Everywhere! The Hidden Traps of Scaling Firebase AI to Multi-Model Angular Apps",
-      "hot": "❤️ 15 💬 0",
-      "desc": "Calling getGenerativeModel() directly inside VisionService and TextToSpeechService duplicates...",
-      "source": "dev",
-      "tag": "angular,  firebase",
-      "url": "https://dev.to/gde/stop-calling-getgenerativemodel-everywhere-the-hidden-traps-of-scaling-firebase-ai-to-lg1"
-    },
-    {
-      "title": "Google AI Classroom Part 10: Green AI FinOps, Self-Cleaning Storage Lifecycles & 1-Command Terraform IaC for Multi-School Deployment",
-      "hot": "❤️ 12 💬 1",
-      "desc": "Green AI FinOps, automated storage lifecycle policies, and 1-command Terraform IaC for multi-school teaching, grading, a",
-      "source": "dev",
-      "tag": "finops,  terraform",
-      "url": "https://dev.to/gde/google-ai-classroom-part-10-green-ai-finops-self-cleaning-storage-lifecycles-1-command-1fn"
-    },
-    {
-      "title": "Google AI Classroom Part 8: AI Project Supervision — Streamlined Mobile 720p Demo, 2-Stage Diarization & Fake-Log Auditing with Gemini 4",
-      "hot": "❤️ 14 💬 0",
-      "desc": "Measuring authentic student performance in capstone projects with a mobile 720p demo studio, 2-stage diarization, and fa",
-      "source": "dev",
-      "tag": "ai,  firebase",
-      "url": "https://dev.to/gde/google-ai-classroom-part-8-ai-project-supervision-streamlined-mobile-720p-demo-2-stage-3h98"
+      "url": "https://dev.to/dailycontext/the-fastest-llm-call-is-the-one-you-never-make-34lo"
     },
     {
       "title": "Prompt Pad: What Are Open-Weight Models?",
@@ -97,14 +105,6 @@
       "source": "dev",
       "tag": "opensource,  ai",
       "url": "https://blog.mlh.com/prompt-pad-what-are-open-weight-models-1ghh"
-    },
-    {
-      "title": "The Fastest LLM Call Is The One You Never Make",
-      "hot": "❤️ 9 💬 3",
-      "desc": "At Glean, we tested a model that does not write text. It only makes decisions.  In our tests, it...",
-      "source": "dev",
-      "tag": "ai,  llm",
-      "url": "https://dev.to/dailycontext/the-fastest-llm-call-is-the-one-you-never-make-34lo"
     },
     {
       "title": "Kent C. Dodds Hasn't Looked at His Code All Year",
@@ -147,307 +147,63 @@
       "url": "https://blog.mlh.com/prompt-pad-show-your-ai-how-to-respond-with-few-shot-examples-2869"
     },
     {
+      "title": "Google AI Classroom Part 9: Gamified \"Bingo\" Active Presence Verification & Zero-Trust Proctored Exam Mode on Google Cloud",
+      "hot": "❤️ 17 💬 1",
+      "desc": "Interactive Classroom Bingo comprehension checks and zero-trust proctored exam lockdown with forensic .docx dossiers on ",
+      "source": "dev",
+      "tag": "firebase,  gamification",
+      "url": "https://dev.to/gde/google-ai-classroom-part-9-gamified-bingo-active-presence-verification-zero-trust-proctored-52dg"
+    },
+    {
       "title": "Who is building solutions with documents?",
       "hot": "❤️ 6 💬 3",
       "desc": "Digital transformation, anyone? ",
       "source": "dev",
       "tag": "discuss",
       "url": "https://dev.to/missamarakay/who-is-building-solutions-for-documents-4d58"
-    },
-    {
-      "title": "Congrats to the Kaggle Benchmarking Challenge Winners!",
-      "hot": "❤️ 143 💬 32",
-      "desc": "A few weeks ago we teamed up with Kaggle to ask a deceptively simple question: how do you actually...",
-      "source": "dev",
-      "tag": "devchallenge,  kagglechallenge",
-      "url": "https://dev.to/devteam/congrats-to-the-kaggle-benchmarking-challenge-winners-2moh"
-    }
-  ],
-  "tech": [
-    {
-      "title": "Humble Bundle just killed most of their security through vibecoding",
-      "hot": "3.0m",
-      "desc": "forums.spacebattles.com",
-      "source": "tech",
-      "tag": "⬆️ 151 points",
-      "url": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/"
-    },
-    {
-      "title": "Jane Street: Socratic Tutor",
-      "hot": "3.0m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 72 points",
-      "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md"
-    },
-    {
-      "title": "93% of paint splatters are valid Perl programs (2019)",
-      "hot": "3.0m",
-      "desc": "mcmillen.dev",
-      "source": "tech",
-      "tag": "⬆️ 395 points",
-      "url": "https://www.mcmillen.dev/sigbovik/"
-    },
-    {
-      "title": "Tim Peters has died",
-      "hot": "3.0m",
-      "desc": "discuss.python.org",
-      "source": "tech",
-      "tag": "⬆️ 1139 points",
-      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028"
-    },
-    {
-      "title": "Critical RCE Vulnerability in Apache HTTP Server",
-      "hot": "2.9m",
-      "desc": "wiz.io",
-      "source": "tech",
-      "tag": "⬆️ 161 points",
-      "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability"
-    },
-    {
-      "title": "AWS emulator",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 817 points",
-      "url": "https://github.com/aws/aws-emulator"
-    },
-    {
-      "title": "I gave an agent a lakehouse and control of my garden",
-      "hot": "2.9m",
-      "desc": "jatorre.github.io",
-      "source": "tech",
-      "tag": "⬆️ 46 points",
-      "url": "https://jatorre.github.io/garden/"
-    },
-    {
-      "title": "Nvidia is preparing to oust Jensen Huang",
-      "hot": "2.9m",
-      "desc": "wsj.com",
-      "source": "tech",
-      "tag": "⬆️ 939 points",
-      "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad"
-    },
-    {
-      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-      "hot": "2.9m",
-      "desc": "michael.bacarella.com",
-      "source": "tech",
-      "tag": "⬆️ 477 points",
-      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/"
-    },
-    {
-      "title": "Gemini Decisions API",
-      "hot": "2.9m",
-      "desc": "blog.google",
-      "source": "tech",
-      "tag": "⬆️ 411 points",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
-    },
-    {
-      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "hot": "2.9m",
-      "desc": "cbsnews.com",
-      "source": "tech",
-      "tag": "⬆️ 531 points",
-      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/"
-    },
-    {
-      "title": "Lock Your GitHub Actions",
-      "hot": "2.8m",
-      "desc": "hugovk.dev",
-      "source": "tech",
-      "tag": "⬆️ 232 points",
-      "url": "https://hugovk.dev/blog/2026/lock-github-actions/"
-    },
-    {
-      "title": "I'm Working on a FOSS Linux Pinbal Simulation Engine",
-      "hot": "2.8m",
-      "desc": "getlazarus.org",
-      "source": "tech",
-      "tag": "⬆️ 26 points",
-      "url": "https://www.getlazarus.org/forums/topic/17/"
-    },
-    {
-      "title": "Darling Development Update – Q4 2026",
-      "hot": "2.8m",
-      "desc": "blog.darlinghq.org",
-      "source": "tech",
-      "tag": "⬆️ 20 points",
-      "url": "https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/"
-    },
-    {
-      "title": "Emacs in the Age of Magic",
-      "hot": "2.8m",
-      "desc": "commandlinesystems.com",
-      "source": "tech",
-      "tag": "⬆️ 216 points",
-      "url": "https://commandlinesystems.com/magic.txt"
-    },
-    {
-      "title": "Bad ideas that aren't bad anymore",
-      "hot": "2.8m",
-      "desc": "devonestes.com",
-      "source": "tech",
-      "tag": "⬆️ 35 points",
-      "url": "https://devonestes.com/bad-ideas-that-arent-bad-anymore"
-    },
-    {
-      "title": "Slavdom Unearthed: Marian Wawrzeniecki's Neopagan Paintings (1891–1923)",
-      "hot": "2.8m",
-      "desc": "publicdomainreview.org",
-      "source": "tech",
-      "tag": "⬆️ 22 points",
-      "url": "https://publicdomainreview.org/collection/marian-wawrzeniecki/"
-    },
-    {
-      "title": "The Utah Teapot",
-      "hot": "2.7m",
-      "desc": "graphics.cs.utah.edu",
-      "source": "tech",
-      "tag": "⬆️ 127 points",
-      "url": "https://graphics.cs.utah.edu/teapot/"
-    },
-    {
-      "title": "A general purpose Apple Silicon layer for x86-64 PCs",
-      "hot": "2.7m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 99 points",
-      "url": "https://github.com/tylertms/Stela"
-    },
-    {
-      "title": "The Lost World of Aquaterra",
-      "hot": "2.7m",
-      "desc": "theatlantic.com",
-      "source": "tech",
-      "tag": "⬆️ 6 points",
-      "url": "https://www.theatlantic.com/magazine/2026/12/aquaterra-ancient-human-migration/689029/"
-    }
-  ],
-  "github": [
-    {
-      "title": "NotRexed/Hookshot: A Native Recompilation Of The Legend Of Zelda: Ocarina Of Tim",
-      "hot": "⭐ 8.1k",
-      "desc": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
-      "source": "github",
-      "tag": "C++",
-      "url": "https://github.com/NotRexed/Hookshot"
-    },
-    {
-      "title": "huamidev/GestaltX: An MobileGestalt editor for iOS 27.x, featuring region-code t",
-      "hot": "⭐ 6.6k",
-      "desc": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
-      "source": "github",
-      "tag": "Swift",
-      "url": "https://github.com/huamidev/GestaltX"
-    },
-    {
-      "title": "tangerineturtle1/NX2navi: ",
-      "hot": "⭐ 3.3k",
-      "desc": "tangerineturtle1/NX2navi",
-      "source": "github",
-      "tag": "C",
-      "url": "https://github.com/tangerineturtle1/NX2navi"
-    },
-    {
-      "title": "jhaizhou-ops/S2Arm: Run your own Switch games natively on iPhone, iPad and Mac: ",
-      "hot": "⭐ 2.7k",
-      "desc": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bri",
-      "source": "github",
-      "tag": "C#",
-      "url": "https://github.com/jhaizhou-ops/S2Arm"
-    },
-    {
-      "title": "JenkinWoo/sheeridVerify: ",
-      "hot": "⭐ 2.0k",
-      "desc": "JenkinWoo/sheeridVerify",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/JenkinWoo/sheeridVerify"
-    },
-    {
-      "title": "jamesondh/chimera-vocal-synth: the ultimate vocal synthesizer - sing, speak, bea",
-      "hot": "⭐ 2.0k",
-      "desc": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/jamesondh/chimera-vocal-synth"
-    },
-    {
-      "title": "IainKay/ram-altman: Monitors your RAM and reports any \"quite terrible\" unused ca",
-      "hot": "⭐ 2.0k",
-      "desc": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
-      "source": "github",
-      "tag": "Shell",
-      "url": "https://github.com/IainKay/ram-altman"
-    },
-    {
-      "title": "DIYgod/pinky: Let AI agents use your phone, with you in the loop.",
-      "hot": "⭐ 1.9k",
-      "desc": "Let AI agents use your phone, with you in the loop.",
-      "source": "github",
-      "tag": "Go",
-      "url": "https://github.com/DIYgod/pinky"
-    },
-    {
-      "title": "mmdoctor/google-pro-helper: ",
-      "hot": "⭐ 1.8k",
-      "desc": "mmdoctor/google-pro-helper",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/mmdoctor/google-pro-helper"
-    },
-    {
-      "title": "Kianuni/Erosion-CN: iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
-      "hot": "⭐ 1.7k",
-      "desc": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
-      "source": "github",
-      "tag": "Swift",
-      "url": "https://github.com/Kianuni/Erosion-CN"
-    },
-    {
-      "title": "WoYun520/gif-factory: GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
-      "hot": "⭐ 1.5k",
-      "desc": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/WoYun520/gif-factory"
-    },
-    {
-      "title": "voyager-so/vork: Headless 3D and VFX engine for agents. Research preview.",
-      "hot": "⭐ 1.5k",
-      "desc": "Headless 3D and VFX engine for agents. Research preview.",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/voyager-so/vork"
-    },
-    {
-      "title": "mahmoudtawfik1998/secure-pdf-document-processor: Adobe Acrobat Pro 2026: Secure ",
-      "hot": "⭐ 1.3k",
-      "desc": "Adobe Acrobat Pro 2026: Secure Standalone PDF Document Processor for Desktop",
-      "source": "github",
-      "tag": "HTML",
-      "url": "https://github.com/mahmoudtawfik1998/secure-pdf-document-processor"
-    },
-    {
-      "title": "hembramneeraj3-create/aida-64-extreme: Aida 64 Extreme 2026: Complete Standalone",
-      "hot": "⭐ 1.3k",
-      "desc": "Aida 64 Extreme 2026: Complete Standalone Desktop Setup with Full Feature Configuration",
-      "source": "github",
-      "tag": "HTML",
-      "url": "https://github.com/hembramneeraj3-create/aida-64-extreme"
-    },
-    {
-      "title": "abdulmannanmalik13-wq/adobe-substance-3d-studio: Adobe Substance 3D Creative Stu",
-      "hot": "⭐ 1.3k",
-      "desc": "Adobe Substance 3D Creative Studio 2026 - Secure Asset Pipeline Desktop Installer",
-      "source": "github",
-      "tag": "HTML",
-      "url": "https://github.com/abdulmannanmalik13-wq/adobe-substance-3d-studio"
     }
   ],
   "space": [
+    {
+      "title": "How ESA astronauts return from space",
+      "hot": "11/12",
+      "desc": "From the ESA Blogs.",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/articles/about-us/directorates/human-and-robotic-exploration/astronauts/how-esa-astronauts-return-from-space"
+    },
+    {
+      "title": "ESA astronaut reserve celebrates completion of training",
+      "hot": "11/12",
+      "desc": "From the ESA Blogs.",
+      "source": "space",
+      "tag": "ESA",
+      "url": "https://www.esa.int/articles/about-us/directorates/human-and-robotic-exploration/astronauts/esa-astronaut-reserve-celebrates-completion-of-training"
+    },
+    {
+      "title": "NASA’s Hubble Offers Cosmic Sampler of Targets for Roman",
+      "hot": "11/12",
+      "desc": "A gallery of gravitational lenses captured by NASA’s Hubble Space Telescope showcases the diversity of this cosmic phenomenon and lays the groundwork ",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/"
+    },
+    {
+      "title": "Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA",
+      "hot": "11/12",
+      "desc": "As a new exhibit opens showcasing NASA’s space shuttle Endeavour, NASA photographers look back at the final mission. These photographers documented th",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/through-nasas-lens-capturing-space-shuttle-endeavours-move-to-la/"
+    },
+    {
+      "title": "ESA Explains Delay in Signing MaiaSpace Launcher Challenge Contract",
+      "hot": "11/12",
+      "desc": "The European Space Agency (ESA) has revealed that MaiaSpace’s decision to pursue a different funding arrangement from its competitors has complicated ",
+      "source": "space",
+      "tag": "European Spaceflight",
+      "url": "https://europeanspaceflight.com/esa-explains-delay-in-signing-maiaspace-launcher-challenge-contract/"
+    },
     {
       "title": "APOD: 2026 November 12 – Moon, Venus and Spica Meet",
       "hot": "11/12",
@@ -527,46 +283,290 @@
       "source": "space",
       "tag": "NASA",
       "url": "https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir/"
+    }
+  ],
+  "tech": [
+    {
+      "title": "NVIDIA Announces CEO Transition",
+      "hot": "3.0m",
+      "desc": "nvidianews.nvidia.com",
+      "source": "tech",
+      "tag": "⬆️ 1335 points",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"
     },
     {
-      "title": "Isaacman lays out SLS path to the 2030s",
-      "hot": "11/11",
-      "desc": "NASA Administrator Jared Isaacman has further explained the decision to standardize the Space Launch System…\r\nThe post Isaacman lays out SLS path to t",
-      "source": "space",
-      "tag": "NASASpaceflight",
-      "url": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/"
+      "title": "Anthropic IPO",
+      "hot": "3.0m",
+      "desc": "ipo.anthropic.com",
+      "source": "tech",
+      "tag": "⬆️ 482 points",
+      "url": "https://ipo.anthropic.com/us/"
     },
     {
-      "title": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
-      "hot": "11/10",
-      "desc": "Launched nearly 50 years ago in 1977, NASA’s Voyager 1 on Wednesday, Nov. 18 will have traveled one light-day from Earth, which is more than 16 billio",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/"
+      "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+      "hot": "3.0m",
+      "desc": "moddb.com",
+      "source": "tech",
+      "tag": "⬆️ 101 points",
+      "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64"
     },
     {
-      "title": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston",
-      "hot": "11/10",
-      "desc": "NASA will welcome home the Expedition 74 crew during a public event at Space Center Houston following their return from a long-duration mission aboard",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston/"
+      "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+      "hot": "3.0m",
+      "desc": "chipsandcheese.com",
+      "source": "tech",
+      "tag": "⬆️ 85 points",
+      "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at"
     },
     {
-      "title": "One space station company sues another for copying its work",
-      "hot": "11/10",
-      "desc": "\"NASA advised that Vast’s submission in some locations substituted 'the PAM Provider' for Axiom\"",
-      "source": "space",
-      "tag": "Arstechnica",
-      "url": "https://arstechnica.com/space/2026/11/one-space-station-company-sues-another-for-copying-its-work/"
+      "title": "I'm making LLMs work on small and old devices",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 36 points",
+      "url": "https://github.com/hyperionaidev/smolmaxxing/"
     },
     {
-      "title": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds",
-      "hot": "11/10",
-      "desc": "The LISA (Laser Interferometer Space Antenna) observatory, now in development, will detect gravitational waves, the tiny ripples in space-time caused ",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/"
+      "title": "Show HN: Fable52.games – Play and inspect Fable 5.2 single-file HTML games",
+      "hot": "2.9m",
+      "desc": "fable52.games",
+      "source": "tech",
+      "tag": "⬆️ 28 points",
+      "url": "https://fable52.games"
+    },
+    {
+      "title": "Why Writing Correct Software Is Hard",
+      "hot": "2.9m",
+      "desc": "pron.github.io",
+      "source": "tech",
+      "tag": "⬆️ 258 points",
+      "url": "https://pron.github.io/posts/correctness-and-complexity"
+    },
+    {
+      "title": "ExcalidrawZ: Local Native Excalidraw on macOS/iOS",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 25 points",
+      "url": "https://github.com/chocoford/ExcalidrawZ"
+    },
+    {
+      "title": "Libreagi – Save OSS Models",
+      "hot": "2.9m",
+      "desc": "libreagi.com",
+      "source": "tech",
+      "tag": "⬆️ 56 points",
+      "url": "https://libreagi.com/"
+    },
+    {
+      "title": "Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux",
+      "hot": "2.9m",
+      "desc": "doug.sh",
+      "source": "tech",
+      "tag": "⬆️ 20 points",
+      "url": "https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/"
+    },
+    {
+      "title": "Socratic Tutor",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 533 points",
+      "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md"
+    },
+    {
+      "title": "Electric Ship Batteries Promise Compact, Cooler Power",
+      "hot": "2.8m",
+      "desc": "spectrum.ieee.org",
+      "source": "tech",
+      "tag": "⬆️ 32 points",
+      "url": "https://spectrum.ieee.org/electric-ship-batteries"
+    },
+    {
+      "title": "A live tree of systemd jobs on the boot console",
+      "hot": "2.8m",
+      "desc": "codeberg.org",
+      "source": "tech",
+      "tag": "⬆️ 261 points",
+      "url": "https://codeberg.org/wvhulle/bootvine"
+    },
+    {
+      "title": "Researchers discover rare star system that emits radio signals every 8 minutes",
+      "hot": "2.8m",
+      "desc": "curtin.edu.au",
+      "source": "tech",
+      "tag": "⬆️ 75 points",
+      "url": "https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/"
+    },
+    {
+      "title": "Running web sites makes me not want to",
+      "hot": "2.8m",
+      "desc": "lowkey.party",
+      "source": "tech",
+      "tag": "⬆️ 23 points",
+      "url": "https://lowkey.party/running-web-sites-makes-me-not-want-to"
+    },
+    {
+      "title": "Tim Peters has died",
+      "hot": "2.8m",
+      "desc": "discuss.python.org",
+      "source": "tech",
+      "tag": "⬆️ 1363 points",
+      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028"
+    },
+    {
+      "title": "Decoding REXPaint Files in Odin",
+      "hot": "2.8m",
+      "desc": "tylerelton.com",
+      "source": "tech",
+      "tag": "⬆️ 6 points",
+      "url": "https://tylerelton.com/posts/decoding-rexpaint-files-in-odin/"
+    },
+    {
+      "title": "93% of paint splatters are valid Perl programs (2019)",
+      "hot": "2.7m",
+      "desc": "mcmillen.dev",
+      "source": "tech",
+      "tag": "⬆️ 538 points",
+      "url": "https://www.mcmillen.dev/sigbovik/"
+    },
+    {
+      "title": "Critical RCE Vulnerability in Apache HTTP Server",
+      "hot": "2.7m",
+      "desc": "wiz.io",
+      "source": "tech",
+      "tag": "⬆️ 323 points",
+      "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability"
+    },
+    {
+      "title": "AWS emulator",
+      "hot": "2.7m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 934 points",
+      "url": "https://github.com/aws/aws-emulator"
+    }
+  ],
+  "github": [
+    {
+      "title": "NotRexed/Hookshot: A Native Recompilation Of The Legend Of Zelda: Ocarina Of Tim",
+      "hot": "⭐ 8.5k",
+      "desc": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+      "source": "github",
+      "tag": "C++",
+      "url": "https://github.com/NotRexed/Hookshot"
+    },
+    {
+      "title": "huamidev/GestaltX: An MobileGestalt editor for iOS 27.x, featuring region-code t",
+      "hot": "⭐ 6.9k",
+      "desc": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
+      "source": "github",
+      "tag": "Swift",
+      "url": "https://github.com/huamidev/GestaltX"
+    },
+    {
+      "title": "tangerineturtle1/NX2navi: ",
+      "hot": "⭐ 3.5k",
+      "desc": "tangerineturtle1/NX2navi",
+      "source": "github",
+      "tag": "C",
+      "url": "https://github.com/tangerineturtle1/NX2navi"
+    },
+    {
+      "title": "jhaizhou-ops/S2Arm: Run your own Switch games natively on iPhone, iPad and Mac: ",
+      "hot": "⭐ 2.7k",
+      "desc": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bri",
+      "source": "github",
+      "tag": "C#",
+      "url": "https://github.com/jhaizhou-ops/S2Arm"
+    },
+    {
+      "title": "jamesondh/chimera-vocal-synth: the ultimate vocal synthesizer - sing, speak, bea",
+      "hot": "⭐ 2.1k",
+      "desc": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/jamesondh/chimera-vocal-synth"
+    },
+    {
+      "title": "JenkinWoo/sheeridVerify: ",
+      "hot": "⭐ 2.1k",
+      "desc": "JenkinWoo/sheeridVerify",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/JenkinWoo/sheeridVerify"
+    },
+    {
+      "title": "IainKay/ram-altman: Monitors your RAM and reports any \"quite terrible\" unused ca",
+      "hot": "⭐ 2.0k",
+      "desc": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
+      "source": "github",
+      "tag": "Shell",
+      "url": "https://github.com/IainKay/ram-altman"
+    },
+    {
+      "title": "DIYgod/pinky: Let AI agents use your phone, with you in the loop.",
+      "hot": "⭐ 2.0k",
+      "desc": "Let AI agents use your phone, with you in the loop.",
+      "source": "github",
+      "tag": "Go",
+      "url": "https://github.com/DIYgod/pinky"
+    },
+    {
+      "title": "mmdoctor/google-pro-helper: ",
+      "hot": "⭐ 1.8k",
+      "desc": "mmdoctor/google-pro-helper",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/mmdoctor/google-pro-helper"
+    },
+    {
+      "title": "Kianuni/Erosion-CN: iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
+      "hot": "⭐ 1.7k",
+      "desc": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
+      "source": "github",
+      "tag": "Swift",
+      "url": "https://github.com/Kianuni/Erosion-CN"
+    },
+    {
+      "title": "WoYun520/gif-factory: GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
+      "hot": "⭐ 1.6k",
+      "desc": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/WoYun520/gif-factory"
+    },
+    {
+      "title": "voyager-so/vork: Headless 3D and VFX engine for agents. Research preview.",
+      "hot": "⭐ 1.5k",
+      "desc": "Headless 3D and VFX engine for agents. Research preview.",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/voyager-so/vork"
+    },
+    {
+      "title": "HybridRobotics/supermimic: Humanoid whole-body motion tracking with one differen",
+      "hot": "⭐ 1.3k",
+      "desc": "Humanoid whole-body motion tracking with one differentiable world model.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/HybridRobotics/supermimic"
+    },
+    {
+      "title": "mahmoudtawfik1998/secure-pdf-document-processor: Adobe Acrobat Pro 2026: Secure ",
+      "hot": "⭐ 1.2k",
+      "desc": "Adobe Acrobat Pro 2026: Secure Standalone PDF Document Processor for Desktop",
+      "source": "github",
+      "tag": "HTML",
+      "url": "https://github.com/mahmoudtawfik1998/secure-pdf-document-processor"
+    },
+    {
+      "title": "hembramneeraj3-create/aida-64-extreme: Aida 64 Extreme 2026: Complete Standalone",
+      "hot": "⭐ 1.2k",
+      "desc": "Aida 64 Extreme 2026: Complete Standalone Desktop Setup with Full Feature Configuration",
+      "source": "github",
+      "tag": "HTML",
+      "url": "https://github.com/hembramneeraj3-create/aida-64-extreme"
     }
   ]
 }
