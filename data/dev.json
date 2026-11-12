@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "How did you end up in tech, and are you staying?",
-      "hot": "❤️ 130 💬 51",
+      "hot": "❤️ 134 💬 52",
       "desc": "Last week you showed me where you code. This week I want to know how you ended up there in the first...",
       "source": "dev",
       "tag": "discuss,  career",
@@ -10,19 +10,11 @@
     },
     {
       "title": "Ask More of Your UI",
-      "hot": "❤️ 41 💬 3",
+      "hot": "❤️ 42 💬 3",
       "desc": "In my last post, I wrote about moving Forem’s performance and maintenance work into autonomous loops...",
       "source": "dev",
       "tag": "ai,  agents",
       "url": "https://dev.to/dailycontext/ask-more-of-your-ui-2nf7"
-    },
-    {
-      "title": "Stop Calling getGenerativeModel() Everywhere! The Hidden Traps of Scaling Firebase AI to Multi-Model Angular Apps",
-      "hot": "❤️ 14 💬 0",
-      "desc": "Calling getGenerativeModel() directly inside VisionService and TextToSpeechService duplicates...",
-      "source": "dev",
-      "tag": "angular,  firebase",
-      "url": "https://dev.to/gde/stop-calling-getgenerativemodel-everywhere-the-hidden-traps-of-scaling-firebase-ai-to-lg1"
     },
     {
       "title": "Google AI Classroom Part 9: Gamified \"Bingo\" Active Presence Verification & Zero-Trust Proctored Exam Mode on Google Cloud",
@@ -33,28 +25,28 @@
       "url": "https://dev.to/gde/google-ai-classroom-part-9-gamified-bingo-active-presence-verification-zero-trust-proctored-52dg"
     },
     {
-      "title": "Detecting WasmPlugin version drift in Cloud Load Balancing Service Extensions",
-      "hot": "❤️ 5 💬 0",
-      "desc": "When you attach a WebAssembly (Wasm) plugin to an Application Load Balancer with Service Extensions,...",
+      "title": "Use your eval as a CI gate with Agents CLI",
+      "hot": "❤️ 7 💬 0",
+      "desc": "How to make a quality drop fail your build with agents-cli eval run and one threshold, for anyone who ships an agent fro",
       "source": "dev",
-      "tag": "googlecloud,  networking",
-      "url": "https://dev.to/googlecloud/detecting-wasmplugin-version-drift-in-cloud-load-balancing-service-extensions-52p5"
-    },
-    {
-      "title": "Kent C. Dodds Hasn't Looked at His Code All Year",
-      "hot": "❤️ 5 💬 0",
-      "desc": "At the start of this year, Kent C. Dodds gave a coding agent a link to a GitHub issue he had been...",
-      "source": "dev",
-      "tag": "ai,  agents",
-      "url": "https://dev.to/dailycontext/kent-c-dodds-hasnt-looked-at-his-code-all-year-gd5"
+      "tag": "ai,  cicd",
+      "url": "https://dev.to/googlecloud/use-your-eval-as-a-ci-gate-with-agents-cli-1ha1"
     },
     {
       "title": "The Fastest LLM Call Is The One You Never Make",
-      "hot": "❤️ 7 💬 1",
+      "hot": "❤️ 8 💬 1",
       "desc": "At Glean, we tested a model that does not write text. It only makes decisions.  In our tests, it...",
       "source": "dev",
       "tag": "ai,  llm",
       "url": "https://dev.to/dailycontext/the-fastest-llm-call-is-the-one-you-never-make-34lo"
+    },
+    {
+      "title": "Kent C. Dodds Hasn't Looked at His Code All Year",
+      "hot": "❤️ 6 💬 2",
+      "desc": "At the start of this year, Kent C. Dodds gave a coding agent a link to a GitHub issue he had been...",
+      "source": "dev",
+      "tag": "ai,  agents",
+      "url": "https://dev.to/dailycontext/kent-c-dodds-hasnt-looked-at-his-code-all-year-gd5"
     },
     {
       "title": "Google AI Classroom Part 10: Green AI FinOps, Self-Cleaning Storage Lifecycles & 1-Command Terraform IaC for Multi-School Deployment",
@@ -63,6 +55,22 @@
       "source": "dev",
       "tag": "finops,  terraform",
       "url": "https://dev.to/gde/google-ai-classroom-part-10-green-ai-finops-self-cleaning-storage-lifecycles-1-command-1fn"
+    },
+    {
+      "title": "Detecting WasmPlugin version drift in Cloud Load Balancing Service Extensions",
+      "hot": "❤️ 5 💬 1",
+      "desc": "When you attach a WebAssembly (Wasm) plugin to an Application Load Balancer with Service Extensions,...",
+      "source": "dev",
+      "tag": "googlecloud,  networking",
+      "url": "https://dev.to/googlecloud/detecting-wasmplugin-version-drift-in-cloud-load-balancing-service-extensions-52p5"
+    },
+    {
+      "title": "Stop Calling getGenerativeModel() Everywhere! The Hidden Traps of Scaling Firebase AI to Multi-Model Angular Apps",
+      "hot": "❤️ 14 💬 0",
+      "desc": "Calling getGenerativeModel() directly inside VisionService and TextToSpeechService duplicates...",
+      "source": "dev",
+      "tag": "angular,  firebase",
+      "url": "https://dev.to/gde/stop-calling-getgenerativemodel-everywhere-the-hidden-traps-of-scaling-firebase-ai-to-lg1"
     },
     {
       "title": "Google AI Classroom Part 8: AI Project Supervision — Streamlined Mobile 720p Demo, 2-Stage Diarization & Fake-Log Auditing with Gemini 4",
@@ -82,7 +90,7 @@
     },
     {
       "title": "Software Engineering Is Becoming Factory Engineering",
-      "hot": "❤️ 9 💬 0",
+      "hot": "❤️ 10 💬 1",
       "desc": "Most developers working with coding agents still interact with them directly. They open a terminal,...",
       "source": "dev",
       "tag": "ai,  agents",
@@ -90,7 +98,7 @@
     },
     {
       "title": "The AI Evals feedback loop runs both ways",
-      "hot": "❤️ 3 💬 1",
+      "hot": "❤️ 4 💬 2",
       "desc": "We’re increasingly asking AI to help decide whether other AI systems are good enough to ship. LLM...",
       "source": "dev",
       "tag": "ai,  llm",
@@ -106,7 +114,7 @@
     },
     {
       "title": "Stop Asking LLMs to Do Math: Client-Side Functions in Flutter GenUI with bloc_signals",
-      "hot": "❤️ 29 💬 45",
+      "hot": "❤️ 30 💬 45",
       "desc": "Why Andrew 'Red' Brogdon's insight on client-side functions is critical for Generative UI—and how bloc_signals_genui tur",
       "source": "dev",
       "tag": "flutter,  dart",
@@ -151,15 +159,7 @@
       "source": "dev",
       "tag": "ai,  beginners",
       "url": "https://blog.mlh.com/prompt-pad-show-your-ai-how-to-respond-with-few-shot-examples-2869"
-    },
-    {
-      "title": "Who is building solutions with documents?",
-      "hot": "❤️ 6 💬 3",
-      "desc": "Digital transformation, anyone? ",
-      "source": "dev",
-      "tag": "discuss",
-      "url": "https://dev.to/missamarakay/who-is-building-solutions-for-documents-4d58"
     }
   ],
-  "updatedAt": "2026-11-11T18:46:08.067Z"
+  "updatedAt": "2026-11-12T01:05:06.521Z"
 }
