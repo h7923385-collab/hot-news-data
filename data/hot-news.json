@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-15T06:53:20.107Z",
+  "updatedAt": "2026-11-15T14:22:31.106Z",
   "source": "live",
   "dev": [
     {
       "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine Winners!",
-      "hot": "❤️ 86 💬 36",
+      "hot": "❤️ 93 💬 39",
       "desc": "The results are in for the final week of our Hacktoberfest DEV Challenges! For Ghost in the Machine,...",
       "source": "dev",
       "tag": "devchallenge,  hf26challenge",
@@ -12,7 +12,7 @@
     },
     {
       "title": "Long Live Rails",
-      "hot": "❤️ 126 💬 22",
+      "hot": "❤️ 128 💬 22",
       "desc": "When DHH took the stage at Rails World 2026 and talked openly about going \"pencils down\" on...",
       "source": "dev",
       "tag": "rails,  ruby",
@@ -20,7 +20,7 @@
     },
     {
       "title": "Ultimate AI Roast! 😂😹",
-      "hot": "❤️ 70 💬 26",
+      "hot": "❤️ 77 💬 31",
       "desc": "I asked my favorite AI to Roast me. Thanks @trickell for this idea.   You need to try this with your...",
       "source": "dev",
       "tag": "ai,  webdev",
@@ -36,7 +36,7 @@
     },
     {
       "title": "Can't Beat Free: Gemma 4 31B on AMD Token Lab, with a Local Chat Page and an ADK Agent",
-      "hot": "❤️ 36 💬 13",
+      "hot": "❤️ 37 💬 13",
       "desc": "AMD Token Lab is a free OpenAI-compatible API on AMD GPUs that comes with the AMD AI Developer Program. How to sign up, ",
       "source": "dev",
       "tag": "gemma,  amd",
@@ -115,16 +115,8 @@
       "url": "https://dev.to/thisisryanswift/make-the-most-of-your-hackathon-3914"
     },
     {
-      "title": "Keeping a software factory stable at 1,000 PRs a week",
-      "hot": "❤️ 3 💬 2",
-      "desc": "By Zejiang (Joe) Guo, Bolin Chen, and Zezhen Xu. Originally published on Kiro on October 26,...",
-      "source": "dev",
-      "tag": "agents,  automation",
-      "url": "https://dev.to/dailycontext/keeping-a-software-factory-stable-at-1000-prs-a-week-363j"
-    },
-    {
       "title": "Six Serving Engines on Four Accelerators: Gemma 4 E2B on an RTX 3050, a T4, an L4 and a TPU v5e",
-      "hot": "❤️ 15 💬 1",
+      "hot": "❤️ 16 💬 1",
       "desc": "The same Gemma 4 E2B, prompts, load sweep and GSM8K and BFCL questions through the same serving engines on an 8 GB RTX 3",
       "source": "dev",
       "tag": "gemma,  vllm",
@@ -132,7 +124,7 @@
     },
     {
       "title": "Scope WebMCP Tools to the Open React Workflow",
-      "hot": "❤️ 21 💬 3",
+      "hot": "❤️ 22 💬 3",
       "desc": "On the Events list, the browser discovered zero WebMCP tools. Opening an event draft exposed four....",
       "source": "dev",
       "tag": "typescript,  webmcp",
@@ -161,168 +153,176 @@
       "source": "dev",
       "tag": "ai,  agents",
       "url": "https://dev.to/dailycontext/kent-c-dodds-hasnt-looked-at-his-code-all-year-gd5"
+    },
+    {
+      "title": "How much does it cost to run a text game with LLMs",
+      "hot": "❤️ 87 💬 92",
+      "desc": "AI costs are confusing. Providers give you a lot of numbers and nothing to actually know how much you are going to pay i",
+      "source": "dev",
+      "tag": "ai,  llm",
+      "url": "https://dev.to/hiper2d/how-much-does-it-cost-to-run-a-text-game-with-llms-57o7"
     }
   ],
   "tech": [
+    {
+      "title": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+      "hot": "3.0m",
+      "desc": "macanorak.com",
+      "source": "tech",
+      "tag": "⬆️ 41 points",
+      "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/"
+    },
     {
       "title": "SpaceX catches the Starship to end Flight 15",
       "hot": "3.0m",
       "desc": "spacex.com",
       "source": "tech",
-      "tag": "⬆️ 1041 points",
+      "tag": "⬆️ 1395 points",
       "url": "https://www.spacex.com/launches/starship-flight-15"
     },
     {
-      "title": "Lovable apps expose passport details and more than 200K private messages",
+      "title": "Why did some Apollo missions carry a grenade launcher?",
       "hot": "3.0m",
-      "desc": "crissyfield.de",
+      "desc": "space.stackexchange.com",
       "source": "tech",
-      "tag": "⬆️ 755 points",
-      "url": "https://www.crissyfield.de/research/lovable-en/"
+      "tag": "⬆️ 106 points",
+      "url": "https://space.stackexchange.com/questions/37775"
     },
     {
-      "title": "Memory Safety Bugs in Rust Standard Library",
+      "title": "Understanding Positional Embeddings in Modern LLMs",
       "hot": "3.0m",
-      "desc": "forge-blog.github.io",
+      "desc": "magazine.sebastianraschka.com",
       "source": "tech",
-      "tag": "⬆️ 50 points",
-      "url": "https://forge-blog.github.io/posts/rust-std-memory-safety/"
-    },
-    {
-      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
-      "hot": "3.0m",
-      "desc": "retrocomputing.stackexchange.com",
-      "source": "tech",
-      "tag": "⬆️ 177 points",
-      "url": "https://retrocomputing.stackexchange.com/questions/17957"
-    },
-    {
-      "title": "Show HN: Gawain – Require type hints on all Python variables",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 29 points",
-      "url": "https://github.com/matheuzgomes/gawain"
+      "tag": "⬆️ 27 points",
+      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings"
     },
     {
       "title": "Court denies motion to dismiss DRAM price fixing case",
       "hot": "2.9m",
       "desc": "litnews.ai",
       "source": "tech",
-      "tag": "⬆️ 50 points",
+      "tag": "⬆️ 300 points",
       "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal"
     },
     {
-      "title": "The Evolving Story of How Chemistry Became Biology",
+      "title": "Lovable apps expose passport details and more than 200K private messages",
       "hot": "2.9m",
-      "desc": "quantamagazine.org",
+      "desc": "crissyfield.de",
+      "source": "tech",
+      "tag": "⬆️ 903 points",
+      "url": "https://www.crissyfield.de/research/lovable-en/"
+    },
+    {
+      "title": "Things That Turbo Pascal Is Smaller Than (2011)",
+      "hot": "2.9m",
+      "desc": "prog21.dadgum.com",
+      "source": "tech",
+      "tag": "⬆️ 7 points",
+      "url": "https://prog21.dadgum.com/116.html"
+    },
+    {
+      "title": "What thousands of conversations look like inside a language model",
+      "hot": "2.9m",
+      "desc": "operator0x.com",
       "source": "tech",
       "tag": "⬆️ 32 points",
-      "url": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/"
+      "url": "https://operator0x.com/field-notes/qwen-conversation-state-space/"
     },
     {
-      "title": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+      "title": "A NES emulator written in Odin",
       "hot": "2.9m",
-      "desc": "github.com",
+      "desc": "lucypero.com",
       "source": "tech",
-      "tag": "⬆️ 20 points",
-      "url": "https://github.com/Tthanh2k6/turbo-browser-mcp"
+      "tag": "⬆️ 9 points",
+      "url": "https://lucypero.com/lucynes.html"
     },
     {
-      "title": "A family tree of software job titles",
+      "title": "Chasing an audio artifact on power loss",
       "hot": "2.9m",
-      "desc": "zwischenzugs.com",
+      "desc": "subalpinecircuits.com",
       "source": "tech",
-      "tag": "⬆️ 275 points",
-      "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/"
+      "tag": "⬆️ 13 points",
+      "url": "https://subalpinecircuits.com/chasing-an-audio-artifact-on-power-loss/"
     },
     {
-      "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
+      "title": "The Telephone Changed the World",
       "hot": "2.9m",
-      "desc": "eff.org",
+      "desc": "lithub.com",
       "source": "tech",
-      "tag": "⬆️ 181 points",
-      "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches"
+      "tag": "⬆️ 4 points",
+      "url": "https://lithub.com/how-the-telephone-changed-the-world/"
     },
     {
-      "title": "KDE: The documentary [video]",
-      "hot": "2.9m",
-      "desc": "tube.kockatoo.org",
-      "source": "tech",
-      "tag": "⬆️ 437 points",
-      "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c"
-    },
-    {
-      "title": "A rare glimpse inside the high-risk, high-reward Hormuz trade",
+      "title": "Handwritten 200-year-old dismissal notice found on roof tile",
       "hot": "2.8m",
-      "desc": "lloydslist.com",
+      "desc": "bbc.co.uk",
       "source": "tech",
-      "tag": "⬆️ 5 points",
-      "url": "https://www.lloydslist.com/LL1158922/A-rare-glimpse-inside-the-highrisk-highreward-Hormuz-trade"
+      "tag": "⬆️ 38 points",
+      "url": "https://www.bbc.co.uk/news/articles/c6jdmdzv25r9o"
+    },
+    {
+      "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
+      "hot": "2.8m",
+      "desc": "nytimes.com",
+      "source": "tech",
+      "tag": "⬆️ 71 points",
+      "url": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html"
+    },
+    {
+      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+      "hot": "2.8m",
+      "desc": "retrocomputing.stackexchange.com",
+      "source": "tech",
+      "tag": "⬆️ 255 points",
+      "url": "https://retrocomputing.stackexchange.com/questions/17957"
+    },
+    {
+      "title": "Disk encryption on NetBSD – achieving secrecy",
+      "hot": "2.8m",
+      "desc": "netbsd.org",
+      "source": "tech",
+      "tag": "⬆️ 61 points",
+      "url": "https://netbsd.org/~nia/disk-encrypt/"
     },
     {
       "title": "My favourite modern NES games",
       "hot": "2.8m",
       "desc": "jordi.inversethought.com",
       "source": "tech",
-      "tag": "⬆️ 23 points",
+      "tag": "⬆️ 143 points",
       "url": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/"
     },
     {
-      "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+      "title": "Strictly monotonic timestamps and gapless sequences in Rust",
       "hot": "2.8m",
-      "desc": "techspot.com",
+      "desc": "tsoracle.rs",
       "source": "tech",
-      "tag": "⬆️ 412 points",
-      "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html"
+      "tag": "⬆️ 20 points",
+      "url": "https://tsoracle.rs/"
     },
     {
-      "title": "One Man's Quest to Create the Perfect Whiskey Glass",
-      "hot": "2.8m",
-      "desc": "nytimes.com",
-      "source": "tech",
-      "tag": "⬆️ 23 points",
-      "url": "https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html"
-    },
-    {
-      "title": "500 Lines or Less A 3D Modeller",
-      "hot": "2.8m",
-      "desc": "aosabook.org",
-      "source": "tech",
-      "tag": "⬆️ 38 points",
-      "url": "https://aosabook.org/en/500L/a-3d-modeller.html"
-    },
-    {
-      "title": "PyPI's redesigned project pages with clearer security signals are now live",
-      "hot": "2.8m",
-      "desc": "blog.pypi.org",
-      "source": "tech",
-      "tag": "⬆️ 229 points",
-      "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/"
-    },
-    {
-      "title": "Why get an expensive Pi when I have an old phone?",
+      "title": "KDE: The documentary [video]",
       "hot": "2.7m",
-      "desc": "so.long.thanks.fish",
+      "desc": "tube.kockatoo.org",
       "source": "tech",
-      "tag": "⬆️ 538 points",
-      "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/"
+      "tag": "⬆️ 526 points",
+      "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c"
     },
     {
-      "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+      "title": "Open-Source HF Communications for Remote Communities and Experimenters",
       "hot": "2.7m",
-      "desc": "github.com",
+      "desc": "ardc.net",
       "source": "tech",
-      "tag": "⬆️ 218 points",
-      "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax"
+      "tag": "⬆️ 40 points",
+      "url": "https://www.ardc.net/rhizomaticas-hermes-and-mercury-expand-open-source-hf-communications-for-remote-communities-while-appealing-to-experimenters/"
     },
     {
-      "title": "Project Zero will disclose vulnerabilities 90 days after reporting",
+      "title": "A family tree of software job titles",
       "hot": "2.7m",
-      "desc": "projectzero.google",
+      "desc": "zwischenzugs.com",
       "source": "tech",
-      "tag": "⬆️ 225 points",
-      "url": "https://projectzero.google/2026/11/disclosure-policy.html"
+      "tag": "⬆️ 362 points",
+      "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/"
     }
   ],
   "space": [
@@ -450,7 +450,7 @@
   "github": [
     {
       "title": "huamidev/GestaltX: An MobileGestalt editor for iOS 27.x, featuring region-code t",
-      "hot": "⭐ 7.6k",
+      "hot": "⭐ 7.7k",
       "desc": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
       "source": "github",
       "tag": "Swift",
@@ -465,6 +465,14 @@
       "url": "https://github.com/jhaizhou-ops/S2Arm"
     },
     {
+      "title": "deepseek-ai/chat-demo: Chat Demo",
+      "hot": "⭐ 2.3k",
+      "desc": "Chat Demo",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/deepseek-ai/chat-demo"
+    },
+    {
       "title": "Kianuni/Erosion-CN: iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
       "hot": "⭐ 2.1k",
       "desc": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
@@ -473,16 +481,8 @@
       "url": "https://github.com/Kianuni/Erosion-CN"
     },
     {
-      "title": "deepseek-ai/chat-demo: Chat Demo",
-      "hot": "⭐ 1.9k",
-      "desc": "Chat Demo",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/deepseek-ai/chat-demo"
-    },
-    {
       "title": "apex-compute/ANR: Apex Neural Rendering (ANR) by Apex Compute",
-      "hot": "⭐ 1.9k",
+      "hot": "⭐ 2.0k",
       "desc": "Apex Neural Rendering (ANR) by Apex Compute",
       "source": "github",
       "tag": "C++",
@@ -490,11 +490,19 @@
     },
     {
       "title": "FrigadeHQ/yogurt: Private AI meeting notes that stay on your computer. A free, o",
-      "hot": "⭐ 1.5k",
+      "hot": "⭐ 1.6k",
       "desc": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/FrigadeHQ/yogurt"
+    },
+    {
+      "title": "DevedevT/FFmpeg-GUI-Editor-Windows: Lightweight portable FFmpeg GUI & lossless v",
+      "hot": "⭐ 1.5k",
+      "desc": "Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). Supports English, Russian, Chinese, German, French & Italian",
+      "source": "github",
+      "tag": "Visual Basic .NET",
+      "url": "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows"
     },
     {
       "title": "HybridRobotics/supermimic: Humanoid whole-body motion tracking with one differen",
@@ -506,7 +514,7 @@
     },
     {
       "title": "agentes-chat/agentes-chat: Open-source, self-hosted Slack alternative where your",
-      "hot": "⭐ 1.4k",
+      "hot": "⭐ 1.5k",
       "desc": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemin",
       "source": "github",
       "tag": "TypeScript",
@@ -521,16 +529,8 @@
       "url": "https://github.com/HolyArrs/HolyArrs"
     },
     {
-      "title": "DevedevT/FFmpeg-GUI-Editor-Windows: Lightweight portable FFmpeg GUI & lossless v",
-      "hot": "⭐ 1.1k",
-      "desc": "Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). Supports English, Russian, Chinese, German, French & Italian",
-      "source": "github",
-      "tag": "Visual Basic .NET",
-      "url": "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows"
-    },
-    {
       "title": "adriadam10/mkw-recomp: Static recompilation of Mario Kart World (Nintendo Switch",
-      "hot": "⭐ 983",
+      "hot": "⭐ 1.1k",
       "desc": "Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program",
       "source": "github",
       "tag": "C",
@@ -538,15 +538,23 @@
     },
     {
       "title": "kolbicz/WQFiles: File browser, app data manager and cache cleaner for iOS 26 and",
-      "hot": "⭐ 870",
+      "hot": "⭐ 895",
       "desc": "File browser, app data manager and cache cleaner for iOS 26 and 27 (worse_query, no jailbreak)",
       "source": "github",
       "tag": "Objective-C",
       "url": "https://github.com/kolbicz/WQFiles"
     },
     {
+      "title": "Eynnzerr/TelemetryCleaner: 基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预",
+      "hot": "⭐ 872",
+      "desc": "基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块",
+      "source": "github",
+      "tag": "Kotlin",
+      "url": "https://github.com/Eynnzerr/TelemetryCleaner"
+    },
+    {
       "title": "alexeyw/lot-map: A live map beside the chat that shows what Claude Code is doing",
-      "hot": "⭐ 840",
+      "hot": "⭐ 858",
       "desc": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local o",
       "source": "github",
       "tag": "TypeScript",
@@ -554,19 +562,11 @@
     },
     {
       "title": "serveroshq/panel: The open source ServerOS panel: one place to run the Linux ser",
-      "hot": "⭐ 817",
+      "hot": "⭐ 830",
       "desc": "The open source ServerOS panel: one place to run the Linux servers you already own.",
       "source": "github",
       "tag": "PHP",
       "url": "https://github.com/serveroshq/panel"
-    },
-    {
-      "title": "JDhruv14/line-art-animation: A Claude skill and TypeScript library for animated ",
-      "hot": "⭐ 784",
-      "desc": "A Claude skill and TypeScript library for animated line-art SVG components: ink figures that walk and react, scenes with a day/night cycle.",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/JDhruv14/line-art-animation"
     }
   ]
 }
