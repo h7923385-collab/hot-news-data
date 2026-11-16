@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T23:35:46.972Z",
+  "updatedAt": "2026-11-16T03:18:21.484Z",
   "source": "live",
   "dev": [
     {
@@ -12,7 +12,7 @@
     },
     {
       "title": "Ultimate AI Roast! 😂😹",
-      "hot": "❤️ 84 💬 40",
+      "hot": "❤️ 84 💬 41",
       "desc": "I asked my favorite AI to Roast me. Thanks @trickell for this idea.   You need to try this with your...",
       "source": "dev",
       "tag": "ai,  webdev",
@@ -20,7 +20,7 @@
     },
     {
       "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine Winners!",
-      "hot": "❤️ 93 💬 39",
+      "hot": "❤️ 94 💬 39",
       "desc": "The results are in for the final week of our Hacktoberfest DEV Challenges! For Ghost in the Machine,...",
       "source": "dev",
       "tag": "devchallenge,  hf26challenge",
@@ -83,14 +83,6 @@
       "url": "https://dev.to/philschmid/fast-multimodal-control-flow-with-the-gemini-decisions-api-533b"
     },
     {
-      "title": "From Prompt to Production: Building a Serverless Cloud Pipeline with Google Antigravity",
-      "hot": "❤️ 9 💬 0",
-      "desc": "If you've watched an AI coding agent build a to-do app in two minutes, you've probably asked yourself...",
-      "source": "dev",
-      "tag": "ai,  googlecloud",
-      "url": "https://dev.to/gdg/from-prompt-to-production-building-a-serverless-cloud-pipeline-with-google-antigravity-264l"
-    },
-    {
       "title": "Prompt Pad: What Are Tokens?",
       "hot": "❤️ 7 💬 0",
       "desc": "Your AI doesn't read your prompt word for word. It reads tokens.  In this episode of Prompt Pad,...",
@@ -147,69 +139,101 @@
       "url": "https://dev.to/dailycontext/kent-c-dodds-hasnt-looked-at-his-code-all-year-gd5"
     },
     {
-      "title": "How much does it cost to run a text game with LLMs",
-      "hot": "❤️ 87 💬 92",
-      "desc": "AI costs are confusing. Providers give you a lot of numbers and nothing to actually know how much you are going to pay i",
-      "source": "dev",
-      "tag": "ai,  llm",
-      "url": "https://dev.to/hiper2d/how-much-does-it-cost-to-run-a-text-game-with-llms-57o7"
-    },
-    {
       "title": "Prompt Pad: Show Your AI How to Respond with Few-Shot Examples",
       "hot": "❤️ 15 💬 1",
       "desc": "Want AI to answer in a specific way? Don't just tell it. Show it.  In this episode of Prompt Pad,...",
       "source": "dev",
       "tag": "ai,  beginners",
       "url": "https://blog.mlh.com/prompt-pad-show-your-ai-how-to-respond-with-few-shot-examples-2869"
+    },
+    {
+      "title": "AI Has Changed the Economics of Hacking: What Changes for Businesses After Black October",
+      "hot": "❤️ 17 💬 3",
+      "desc": "1. What has been happening?   October's wave of AI-enabled cybersecurity incidents have been...",
+      "source": "dev",
+      "tag": "ai,  security",
+      "url": "https://dev.to/dailycontext/ai-has-changed-the-economics-of-hacking-what-changes-for-businesses-after-black-october-5h4c"
+    },
+    {
+      "title": "AI Coding Agents Need to Keep Their Promises",
+      "hot": "❤️ 1 💬 1",
+      "desc": "At AIE CODE SUMMIT 2026, I introduced a notion of brownfield factories. I encourage you to watch the...",
+      "source": "dev",
+      "tag": "ai,  agents",
+      "url": "https://dev.to/jmccarthy/ai-coding-agents-need-to-keep-their-promises-2nhh"
     }
   ],
   "tech": [
     {
-      "title": "Old Bitly Links Are Being Hijacked",
+      "title": "Universal XSS in uBlock Origin from website-driven element picker",
+      "hot": "3.0m",
+      "desc": "iter.ca",
+      "source": "tech",
+      "tag": "⬆️ 69 points",
+      "url": "https://iter.ca/post/ubo-uxss/"
+    },
+    {
+      "title": "Old Bitly links are being hijacked",
       "hot": "3.0m",
       "desc": "ransomnews.com",
       "source": "tech",
-      "tag": "⬆️ 76 points",
+      "tag": "⬆️ 199 points",
       "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/"
     },
     {
-      "title": "Preserving 30 Years of Salon Journalism",
+      "title": "Coles hit by a cybersecurity incident",
       "hot": "3.0m",
+      "desc": "colesgroup.com.au",
+      "source": "tech",
+      "tag": "⬆️ 56 points",
+      "url": "https://www.colesgroup.com.au/updates/"
+    },
+    {
+      "title": "Qwen4-Max",
+      "hot": "3.0m",
+      "desc": "qwen.ai",
+      "source": "tech",
+      "tag": "⬆️ 77 points",
+      "url": "https://qwen.ai/blog?id=qwen4-max"
+    },
+    {
+      "title": "Preserving 30 years of Salon journalism",
+      "hot": "2.9m",
       "desc": "blog.archive.org",
       "source": "tech",
-      "tag": "⬆️ 15 points",
+      "tag": "⬆️ 87 points",
       "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/"
     },
     {
+      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+      "hot": "2.9m",
+      "desc": "forum.torproject.org",
+      "source": "tech",
+      "tag": "⬆️ 53 points",
+      "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454"
+    },
+    {
       "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "bruceroettgers.eu",
       "source": "tech",
-      "tag": "⬆️ 102 points",
+      "tag": "⬆️ 203 points",
       "url": "https://bruceroettgers.eu/blog/protomaps/"
     },
     {
       "title": "A short explainer on how El Niño works [video]",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "youtube.com",
       "source": "tech",
-      "tag": "⬆️ 144 points",
+      "tag": "⬆️ 187 points",
       "url": "https://www.youtube.com/watch?v=7_JF3etiAv8"
     },
     {
-      "title": "Chemical spills into drainage ditch at SpaceXAI in Southaven",
-      "hot": "2.9m",
-      "desc": "wreg.com",
-      "source": "tech",
-      "tag": "⬆️ 7 points",
-      "url": "https://wreg.com/news/chemical-spills-into-drainage-ditch-at-spacexai-in-southaven/"
-    },
-    {
-      "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
+      "title": "Crows make decisions faster than we can",
       "hot": "2.9m",
       "desc": "nytimes.com",
       "source": "tech",
-      "tag": "⬆️ 134 points",
+      "tag": "⬆️ 183 points",
       "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html"
     },
     {
@@ -217,111 +241,87 @@
       "hot": "2.9m",
       "desc": "macanorak.com",
       "source": "tech",
-      "tag": "⬆️ 393 points",
+      "tag": "⬆️ 430 points",
       "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/"
-    },
-    {
-      "title": "Your Agent Will Pick the Hackable One",
-      "hot": "2.9m",
-      "desc": "geoffstearns.com",
-      "source": "tech",
-      "tag": "⬆️ 64 points",
-      "url": "https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/"
-    },
-    {
-      "title": "WebGL Flight Simulator with seed generated terrain",
-      "hot": "2.9m",
-      "desc": "baron.by.dai.studio",
-      "source": "tech",
-      "tag": "⬆️ 52 points",
-      "url": "https://baron.by.dai.studio/"
     },
     {
       "title": "Handwriting, as a Font",
       "hot": "2.9m",
       "desc": "ductus.sorenblank.com",
       "source": "tech",
-      "tag": "⬆️ 75 points",
+      "tag": "⬆️ 150 points",
       "url": "https://ductus.sorenblank.com"
     },
     {
+      "title": "WebGL Flight Simulator with seed generated terrain",
+      "hot": "2.8m",
+      "desc": "baron.by.dai.studio",
+      "source": "tech",
+      "tag": "⬆️ 98 points",
+      "url": "https://baron.by.dai.studio/"
+    },
+    {
+      "title": "Mini.nvim Is Now on Tangled",
+      "hot": "2.8m",
+      "desc": "tangled.org",
+      "source": "tech",
+      "tag": "⬆️ 38 points",
+      "url": "https://tangled.org/nvim-mini.org/mini.nvim"
+    },
+    {
       "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "youtube.com",
       "source": "tech",
-      "tag": "⬆️ 299 points",
+      "tag": "⬆️ 363 points",
       "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI"
     },
     {
-      "title": "Eclipse Mosquitto – An open source MQTT broker",
+      "title": "Do we still have to denormalize? Have your schema and search it too",
       "hot": "2.8m",
-      "desc": "github.com",
+      "desc": "paradedb.com",
       "source": "tech",
-      "tag": "⬆️ 55 points",
-      "url": "https://github.com/eclipse-mosquitto/mosquitto"
+      "tag": "⬆️ 14 points",
+      "url": "https://www.paradedb.com/blog/joins"
     },
     {
-      "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+      "title": "1900s How do you Wash a Kimono?",
       "hot": "2.8m",
-      "desc": "www1.wdr.de",
+      "desc": "oldphotosjapan.com",
       "source": "tech",
-      "tag": "⬆️ 316 points",
-      "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html"
-    },
-    {
-      "title": "The Hofmann Wobble: Wikipedia and the problem of historical memory",
-      "hot": "2.8m",
-      "desc": "harpers.org",
-      "source": "tech",
-      "tag": "⬆️ 7 points",
-      "url": "https://harpers.org/archive/2023/12/the-hofmann-wobble-wikipedia-and-the-problem-of-historical-memory/"
-    },
-    {
-      "title": "Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game",
-      "hot": "2.8m",
-      "desc": "lastcomplication.com",
-      "source": "tech",
-      "tag": "⬆️ 4 points",
-      "url": "https://lastcomplication.com/"
+      "tag": "⬆️ 28 points",
+      "url": "https://www.oldphotosjapan.com/photos/877/laundry-washing-clothes-meiji-19th-century-vintage-albumen-prints"
     },
     {
       "title": "Things That Turbo Pascal Is Smaller Than (2011)",
       "hot": "2.8m",
       "desc": "prog21.dadgum.com",
       "source": "tech",
-      "tag": "⬆️ 185 points",
+      "tag": "⬆️ 209 points",
       "url": "https://prog21.dadgum.com/116.html"
     },
     {
-      "title": "Clice v1.0 Released: Welcome to Modern C++",
-      "hot": "2.8m",
-      "desc": "ykiko.me",
+      "title": "Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game",
+      "hot": "2.7m",
+      "desc": "lastcomplication.com",
       "source": "tech",
-      "tag": "⬆️ 78 points",
-      "url": "https://ykiko.me/en/articles/2105384023094834022/"
+      "tag": "⬆️ 55 points",
+      "url": "https://lastcomplication.com/"
     },
     {
-      "title": "Aspidistra: A British wartime radio transmitter used for MitM attacks",
+      "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
       "hot": "2.7m",
-      "desc": "en.wikipedia.org",
+      "desc": "www1.wdr.de",
       "source": "tech",
-      "tag": "⬆️ 16 points",
-      "url": "https://en.wikipedia.org/wiki/Aspidistra_(transmitter)"
-    },
-    {
-      "title": "Emacs Is My Browser",
-      "hot": "2.7m",
-      "desc": "joshblais.com",
-      "source": "tech",
-      "tag": "⬆️ 164 points",
-      "url": "https://joshblais.com/blog/emacs-as-my-browser/"
+      "tag": "⬆️ 424 points",
+      "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html"
     },
     {
       "title": "Understanding Positional Embeddings in Modern LLMs",
       "hot": "2.7m",
       "desc": "magazine.sebastianraschka.com",
       "source": "tech",
-      "tag": "⬆️ 190 points",
+      "tag": "⬆️ 214 points",
       "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings"
     }
   ],
@@ -450,23 +450,15 @@
   "github": [
     {
       "title": "huamidev/GestaltX: An MobileGestalt editor for iOS 27.x, featuring region-code t",
-      "hot": "⭐ 7.7k",
+      "hot": "⭐ 7.8k",
       "desc": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
       "source": "github",
       "tag": "Swift",
       "url": "https://github.com/huamidev/GestaltX"
     },
     {
-      "title": "jhaizhou-ops/S2Arm: Run your own Switch games natively on iPhone, iPad and Mac: ",
-      "hot": "⭐ 3.2k",
-      "desc": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bri",
-      "source": "github",
-      "tag": "C#",
-      "url": "https://github.com/jhaizhou-ops/S2Arm"
-    },
-    {
       "title": "deepseek-ai/chat-demo: Chat Demo",
-      "hot": "⭐ 2.9k",
+      "hot": "⭐ 3.2k",
       "desc": "Chat Demo",
       "source": "github",
       "tag": "TypeScript",
@@ -490,7 +482,7 @@
     },
     {
       "title": "FrigadeHQ/yogurt: Private AI meeting notes that stay on your computer. A free, o",
-      "hot": "⭐ 1.6k",
+      "hot": "⭐ 1.7k",
       "desc": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
       "source": "github",
       "tag": "TypeScript",
@@ -513,12 +505,28 @@
       "url": "https://github.com/agentes-chat/agentes-chat"
     },
     {
+      "title": "hitkeeen/blender-ai-mcp-addon: AI assistant and MCP server for Blender: visual c",
+      "hot": "⭐ 1.4k",
+      "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Bl",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/hitkeeen/blender-ai-mcp-addon"
+    },
+    {
       "title": "HolyArrs/HolyArrs: One self-hosted app for your shows, movies and music.",
       "hot": "⭐ 1.3k",
       "desc": "One self-hosted app for your shows, movies and music.",
       "source": "github",
       "tag": "Go",
       "url": "https://github.com/HolyArrs/HolyArrs"
+    },
+    {
+      "title": "adriadam10/mkw-recomp: Static recompilation of Mario Kart World (Nintendo Switch",
+      "hot": "⭐ 1.3k",
+      "desc": "Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program",
+      "source": "github",
+      "tag": "C",
+      "url": "https://github.com/adriadam10/mkw-recomp"
     },
     {
       "title": "DevedevT/FFmpeg-GUI-Editor-Windows: Lightweight portable FFmpeg GUI & lossless v",
@@ -529,14 +537,6 @@
       "url": "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows"
     },
     {
-      "title": "adriadam10/mkw-recomp: Static recompilation of Mario Kart World (Nintendo Switch",
-      "hot": "⭐ 1.2k",
-      "desc": "Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program",
-      "source": "github",
-      "tag": "C",
-      "url": "https://github.com/adriadam10/mkw-recomp"
-    },
-    {
       "title": "Noniv/abyssal-garden: A dreamy underwater world you can swim through in your bro",
       "hot": "⭐ 1.1k",
       "desc": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated ",
@@ -545,16 +545,8 @@
       "url": "https://github.com/Noniv/abyssal-garden"
     },
     {
-      "title": "hitkeeen/blender-ai-mcp-addon: AI assistant and MCP server for Blender: visual c",
-      "hot": "⭐ 1.0k",
-      "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Bl",
-      "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/hitkeeen/blender-ai-mcp-addon"
-    },
-    {
       "title": "duwqijlk/muse-protocol: muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
-      "hot": "⭐ 1.0k",
+      "hot": "⭐ 1.1k",
       "desc": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
       "source": "github",
       "tag": "Python",
@@ -562,11 +554,19 @@
     },
     {
       "title": "Eynnzerr/TelemetryCleaner: 基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预",
-      "hot": "⭐ 979",
+      "hot": "⭐ 1.1k",
       "desc": "基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块",
       "source": "github",
       "tag": "Kotlin",
       "url": "https://github.com/Eynnzerr/TelemetryCleaner"
+    },
+    {
+      "title": "kolbicz/WQFiles: File browser, app data manager and cache cleaner for iOS 26 and",
+      "hot": "⭐ 934",
+      "desc": "File browser, app data manager and cache cleaner for iOS 26 and 27 (worse_query, no jailbreak)",
+      "source": "github",
+      "tag": "Objective-C",
+      "url": "https://github.com/kolbicz/WQFiles"
     }
   ]
 }
