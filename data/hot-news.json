@@ -1,30 +1,38 @@
 {
-  "updatedAt": "2026-11-17T13:39:48.512Z",
+  "updatedAt": "2026-11-17T21:55:42.508Z",
   "source": "live",
   "dev": [
     {
-      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine Winners!",
-      "hot": "❤️ 110 💬 46",
-      "desc": "The results are in for the final week of our Hacktoberfest DEV Challenges! For Ghost in the Machine,...",
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "hot": "❤️ 71 💬 22",
+      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
       "source": "dev",
-      "tag": "devchallenge,  hf26challenge",
-      "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-4-ghost-in-the-machine-winners-nok"
+      "tag": "top7,  discuss",
+      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5hda"
     },
     {
-      "title": "An MCP Tool Call Can Resolve and Still Fail",
-      "hot": "❤️ 24 💬 18",
-      "desc": "An await finishes. The application returns a result. The trace contains a completed tool span. The...",
+      "title": "My AI agent kept quoting a number I had already corrected. What has yours remembered wrong?",
+      "hot": "❤️ 19 💬 12",
+      "desc": "In August my coding agent kept telling me that one kind of article on this site draws about four...",
       "source": "dev",
-      "tag": "ai,  typescript",
-      "url": "https://dev.to/gde/an-mcp-tool-call-can-resolve-and-still-fail-52kc"
+      "tag": "discuss,  ai",
+      "url": "https://dev.to/heinrichneb/my-ai-agent-kept-quoting-a-number-i-had-already-corrected-what-has-yours-remembered-wrong-34d0"
     },
     {
       "title": "High or Low Thinking? Gemini 4 and Gemma 4 on Hard Math, Cost First",
-      "hot": "❤️ 25 💬 6",
+      "hot": "❤️ 27 💬 6",
       "desc": "Seven models on the 15 problems of AIME 2025 I at their lowest and highest thinking settings, under a hard budget. The t",
       "source": "dev",
       "tag": "gemini,  gemma",
       "url": "https://dev.to/gde/high-or-low-thinking-gemini-4-and-gemma-4-on-hard-math-cost-first-3091"
+    },
+    {
+      "title": "An MCP Tool Call Can Resolve and Still Fail",
+      "hot": "❤️ 25 💬 22",
+      "desc": "An await finishes. The application returns a result. The trace contains a completed tool span. The...",
+      "source": "dev",
+      "tag": "ai,  typescript",
+      "url": "https://dev.to/gde/an-mcp-tool-call-can-resolve-and-still-fail-52kc"
     },
     {
       "title": "️🎞️ What is native multimodality?",
@@ -36,7 +44,7 @@
     },
     {
       "title": "Meme Monday",
-      "hot": "❤️ 65 💬 10",
+      "hot": "❤️ 65 💬 11",
       "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
       "source": "dev",
       "tag": "discuss,  watercooler",
@@ -75,12 +83,12 @@
       "url": "https://blog.mlh.com/prompt-pad-what-are-tokens-gec"
     },
     {
-      "title": "Recover a WebMCP Update After Its Response Disappears",
-      "hot": "❤️ 18 💬 11",
-      "desc": "The browser showed JFK. The database already contained BOS.  That was the state of a synthetic trip...",
+      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine Winners!",
+      "hot": "❤️ 113 💬 46",
+      "desc": "The results are in for the final week of our Hacktoberfest DEV Challenges! For Ghost in the Machine,...",
       "source": "dev",
-      "tag": "testing,  typescript",
-      "url": "https://dev.to/gde/recover-a-webmcp-update-after-its-response-disappears-2hp"
+      "tag": "devchallenge,  hf26challenge",
+      "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-4-ghost-in-the-machine-winners-nok"
     },
     {
       "title": "Detecting WasmPlugin version drift in Cloud Load Balancing Service Extensions",
@@ -92,7 +100,7 @@
     },
     {
       "title": "One model gateway across clouds: LiteLLM on Cloud Run and Azure with zero API keys",
-      "hot": "❤️ 22 💬 9",
+      "hot": "❤️ 24 💬 10",
       "desc": "One LiteLLM per cloud, on Cloud Run and Azure Container Apps. Agents reach Gemini and Azure OpenAI with their own identi",
       "source": "dev",
       "tag": "googlecloud,  azure",
@@ -113,14 +121,6 @@
       "source": "dev",
       "tag": "aie,  hackathon",
       "url": "https://dev.to/thisisryanswift/make-the-most-of-your-hackathon-3914"
-    },
-    {
-      "title": "MCP, A2A, UCP, AP2... Confused? A Simple Map of AI Agent Protocols (November 2026)",
-      "hot": "❤️ 21 💬 2",
-      "desc": "MCP. A2A. AG-UI. A2UI. UCP. AP2. ACP. x402. And as of this week, Poppy.  If your head spins every...",
-      "source": "dev",
-      "tag": "ai,  agents",
-      "url": "https://dev.to/gde/mcp-a2a-ucp-ap2-confused-a-simple-map-of-ai-agent-protocols-november-2026-3ph"
     },
     {
       "title": "Prompt Pad: What Are Open-Weight Models?",
@@ -156,179 +156,17 @@
     },
     {
       "title": "Can't Beat Free: Gemma 4 31B on AMD Token Lab, with a Local Chat Page and an ADK Agent",
-      "hot": "❤️ 40 💬 13",
+      "hot": "❤️ 41 💬 13",
       "desc": "AMD Token Lab is a free OpenAI-compatible API on AMD GPUs that comes with the AMD AI Developer Program. How to sign up, ",
       "source": "dev",
       "tag": "gemma,  amd",
       "url": "https://dev.to/gde/cant-beat-free-gemma-4-31b-on-amd-token-lab-with-a-local-chat-page-and-an-adk-agent-c5b"
     }
   ],
-  "tech": [
-    {
-      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
-      "hot": "3.0m",
-      "desc": "cs.cmu.edu",
-      "source": "tech",
-      "tag": "⬆️ 1793 points",
-      "url": "https://www.cs.cmu.edu/learn/"
-    },
-    {
-      "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
-      "hot": "3.0m",
-      "desc": "nytimes.com",
-      "source": "tech",
-      "tag": "⬆️ 173 points",
-      "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html"
-    },
-    {
-      "title": "VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012",
-      "hot": "3.0m",
-      "desc": "visualbasic.world",
-      "source": "tech",
-      "tag": "⬆️ 106 points",
-      "url": "https://visualbasic.world/"
-    },
-    {
-      "title": "My Empire of Dirt",
-      "hot": "3.0m",
-      "desc": "geohot.github.io",
-      "source": "tech",
-      "tag": "⬆️ 39 points",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/11/17/my-empire-of-dirt.html"
-    },
-    {
-      "title": "Why sending notifications is a nightmare for engineers",
-      "hot": "2.9m",
-      "desc": "notifkit.dev",
-      "source": "tech",
-      "tag": "⬆️ 14 points",
-      "url": "https://notifkit.dev/articles/why-notification-systems-are-a-nightmare"
-    },
-    {
-      "title": "Regulatory Capture by Anthropic Through METR",
-      "hot": "2.9m",
-      "desc": "nitter.cf",
-      "source": "tech",
-      "tag": "⬆️ 19 points",
-      "url": "https://nitter.cf/kevinnbass/status/2099621874279817638"
-    },
-    {
-      "title": "Rows vs. Columns: How different are they, really?",
-      "hot": "2.9m",
-      "desc": "spiraldb.com",
-      "source": "tech",
-      "tag": "⬆️ 40 points",
-      "url": "https://spiraldb.com/blog/rows-vs-columns"
-    },
-    {
-      "title": "BugMeNot has closed",
-      "hot": "2.9m",
-      "desc": "bugmenot.com",
-      "source": "tech",
-      "tag": "⬆️ 610 points",
-      "url": "https://www.bugmenot.com/"
-    },
-    {
-      "title": "Optimizely compromised, served malware on Zoom, GitLab",
-      "hot": "2.9m",
-      "desc": "blog.report-uri.com",
-      "source": "tech",
-      "tag": "⬆️ 449 points",
-      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/"
-    },
-    {
-      "title": "Turbo Pascal Compiler Written in Turbo Pascal",
-      "hot": "2.9m",
-      "desc": "turbo51.com",
-      "source": "tech",
-      "tag": "⬆️ 30 points",
-      "url": "https://turbo51.com/compiler-design/tpc16-turbo-pascal-compiler-written-in-turbo-pascal"
-    },
-    {
-      "title": "Nimony: A New Compiler for Nim",
-      "hot": "2.9m",
-      "desc": "nimony.org",
-      "source": "tech",
-      "tag": "⬆️ 102 points",
-      "url": "https://nimony.org/"
-    },
-    {
-      "title": "If an App Asks for Full Disk Access or System and App Protection Override",
-      "hot": "2.8m",
-      "desc": "support.apple.com",
-      "source": "tech",
-      "tag": "⬆️ 163 points",
-      "url": "https://support.apple.com/en-us/149699"
-    },
-    {
-      "title": "Why 3dfx 1 cards had such a washed out color output?",
-      "hot": "2.8m",
-      "desc": "twitter.com",
-      "source": "tech",
-      "tag": "⬆️ 192 points",
-      "url": "https://twitter.com/id_aa_carmack/status/2122478083319992513"
-    },
-    {
-      "title": "How the Claude Code team thinks about verification",
-      "hot": "2.8m",
-      "desc": "claude.dev",
-      "source": "tech",
-      "tag": "⬆️ 74 points",
-      "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/"
-    },
-    {
-      "title": "Chemistry is Actually Geometry",
-      "hot": "2.8m",
-      "desc": "chillphysicsenjoyer.substack.com",
-      "source": "tech",
-      "tag": "⬆️ 262 points",
-      "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry"
-    },
-    {
-      "title": "Frame – 31.5\" color ePaper display",
-      "hot": "2.8m",
-      "desc": "trmnl.com",
-      "source": "tech",
-      "tag": "⬆️ 465 points",
-      "url": "https://trmnl.com/blog/introducing-frame"
-    },
-    {
-      "title": "OpenCode Browse",
-      "hot": "2.8m",
-      "desc": "opencode.ai",
-      "source": "tech",
-      "tag": "⬆️ 301 points",
-      "url": "https://opencode.ai/product/browse"
-    },
-    {
-      "title": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case",
-      "hot": "2.7m",
-      "desc": "arstechnica.com",
-      "source": "tech",
-      "tag": "⬆️ 172 points",
-      "url": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/"
-    },
-    {
-      "title": "Jiff 1.0: A datetime library for Rust",
-      "hot": "2.7m",
-      "desc": "burntsushi.net",
-      "source": "tech",
-      "tag": "⬆️ 403 points",
-      "url": "https://burntsushi.net/jiff/"
-    },
-    {
-      "title": "What is w2rt6byl5nf1opmc-a.com?",
-      "hot": "2.7m",
-      "desc": "jack.cab",
-      "source": "tech",
-      "tag": "⬆️ 375 points",
-      "url": "https://jack.cab/blog/siterate"
-    }
-  ],
   "github": [
     {
       "title": "deepseek-ai/chat-demo: Chat Demo",
-      "hot": "⭐ 4.4k",
+      "hot": "⭐ 4.5k",
       "desc": "Chat Demo",
       "source": "github",
       "tag": "TypeScript",
@@ -336,19 +174,19 @@
     },
     {
       "title": "apex-compute/ANR: Apex Neural Rendering (ANR) by Apex Compute",
-      "hot": "⭐ 2.5k",
+      "hot": "⭐ 2.6k",
       "desc": "Apex Neural Rendering (ANR) by Apex Compute",
       "source": "github",
       "tag": "C++",
       "url": "https://github.com/apex-compute/ANR"
     },
     {
-      "title": "hitkeeen/blender-ai-mcp-addon: AI assistant and MCP server for Blender: visual c",
-      "hot": "⭐ 2.4k",
-      "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Bl",
+      "title": "krisgfx9/Wireless-Device-Battery-Monitor: Show the battery level of wireless mic",
+      "hot": "⭐ 2.5k",
+      "desc": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software ne",
       "source": "github",
-      "tag": "GitHub",
-      "url": "https://github.com/hitkeeen/blender-ai-mcp-addon"
+      "tag": "C++",
+      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor"
     },
     {
       "title": "Kianuni/Erosion-CN: iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（中英双语 · 防白苹果安全加固版） | B",
@@ -360,7 +198,7 @@
     },
     {
       "title": "Noniv/abyssal-garden: A dreamy underwater world you can swim through in your bro",
-      "hot": "⭐ 2.0k",
+      "hot": "⭐ 2.1k",
       "desc": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated ",
       "source": "github",
       "tag": "JavaScript",
@@ -383,6 +221,14 @@
       "url": "https://github.com/HybridRobotics/supermimic"
     },
     {
+      "title": "Immortal-Protocols/lastbook: Offline knowledge AI, maps and videos for survival ",
+      "hot": "⭐ 1.7k",
+      "desc": "Offline knowledge AI, maps and videos for survival and rebuilding",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/Immortal-Protocols/lastbook"
+    },
+    {
       "title": "duwqijlk/muse-protocol: muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
       "hot": "⭐ 1.6k",
       "desc": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
@@ -392,7 +238,7 @@
     },
     {
       "title": "Eynnzerr/TelemetryCleaner: 基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预",
-      "hot": "⭐ 1.4k",
+      "hot": "⭐ 1.5k",
       "desc": "基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块",
       "source": "github",
       "tag": "Kotlin",
@@ -407,166 +253,207 @@
       "url": "https://github.com/ZiChuanLan/freebie-radar"
     },
     {
-      "title": "krisgfx9/Wireless-Device-Battery-Monitor: Show the battery level of wireless mic",
-      "hot": "⭐ 1.3k",
-      "desc": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software ne",
-      "source": "github",
-      "tag": "C++",
-      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor"
-    },
-    {
-      "title": "Immortal-Protocols/lastbook: Offline knowledge AI, maps and videos for survival ",
-      "hot": "⭐ 1.2k",
-      "desc": "Offline knowledge AI, maps and videos for survival and rebuilding",
+      "title": "gylive/google-ultra: ",
+      "hot": "⭐ 1.4k",
+      "desc": "gylive/google-ultra",
       "source": "github",
       "tag": "Python",
-      "url": "https://github.com/Immortal-Protocols/lastbook"
+      "url": "https://github.com/gylive/google-ultra"
     },
     {
-      "title": "JDhruv14/line-art-animation: A Claude skill and TypeScript library for animated ",
-      "hot": "⭐ 962",
-      "desc": "A Claude skill and TypeScript library for animated line-art SVG components: ink figures that walk and react, scenes with a day/night cycle.",
+      "title": "erkamyaman/rust-anything: Rewrite your whole app in Rust, one piece at a time, c",
+      "hot": "⭐ 1.1k",
+      "desc": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries ",
       "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/JDhruv14/line-art-animation"
-    },
-    {
-      "title": "failsafe-security/artex: Source-built, locally bound FailSafe distribution of AR",
-      "hot": "⭐ 806",
-      "desc": "Source-built, locally bound FailSafe distribution of ARTEX (v0.3.15)",
-      "source": "github",
-      "tag": "Go",
-      "url": "https://github.com/failsafe-security/artex"
+      "tag": "Rust",
+      "url": "https://github.com/erkamyaman/rust-anything"
     },
     {
       "title": "CzzzzzzJ/mdldm-maitian: 麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大",
-      "hot": "⭐ 801",
+      "hot": "⭐ 984",
       "desc": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
       "source": "github",
       "tag": "JavaScript",
       "url": "https://github.com/CzzzzzzJ/mdldm-maitian"
+    },
+    {
+      "title": "JDhruv14/line-art-animation: A Claude skill and TypeScript library for animated ",
+      "hot": "⭐ 977",
+      "desc": "A Claude skill and TypeScript library for animated line-art SVG components: ink figures that walk and react, scenes with a day/night cycle.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/JDhruv14/line-art-animation"
+    }
+  ],
+  "tech": [
+    {
+      "title": "GPT‑6.2 Astra and Sol",
+      "hot": "3.0m",
+      "desc": "openai.com",
+      "source": "tech",
+      "tag": "⬆️ 899 points",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/"
+    },
+    {
+      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+      "hot": "3.0m",
+      "desc": "calif.io",
+      "source": "tech",
+      "tag": "⬆️ 78 points",
+      "url": "https://calif.io/java4shell/"
+    },
+    {
+      "title": "jQuery 4.1.0",
+      "hot": "3.0m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 161 points",
+      "url": "https://github.com/jquery/jquery/releases/tag/4.1.0"
+    },
+    {
+      "title": "MAI Code 2 and Code 2 Flash",
+      "hot": "3.0m",
+      "desc": "microsoft.ai",
+      "source": "tech",
+      "tag": "⬆️ 205 points",
+      "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/"
+    },
+    {
+      "title": "350 years ago, Ole Rømer discovered that light has a finite speed",
+      "hot": "2.9m",
+      "desc": "sciencenorway.no",
+      "source": "tech",
+      "tag": "⬆️ 148 points",
+      "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969"
+    },
+    {
+      "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+      "hot": "2.9m",
+      "desc": "ft.com",
+      "source": "tech",
+      "tag": "⬆️ 231 points",
+      "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf"
+    },
+    {
+      "title": "Web Browser Engineering (2021)",
+      "hot": "2.9m",
+      "desc": "browser.engineering",
+      "source": "tech",
+      "tag": "⬆️ 78 points",
+      "url": "https://browser.engineering/"
+    },
+    {
+      "title": "Phrack 73 Released",
+      "hot": "2.9m",
+      "desc": "phrack.org",
+      "source": "tech",
+      "tag": "⬆️ 173 points",
+      "url": "https://phrack.org/issues/73/introduction_md"
+    },
+    {
+      "title": "Highly classified US national security communications network goes down",
+      "hot": "2.9m",
+      "desc": "cnn.com",
+      "source": "tech",
+      "tag": "⬆️ 348 points",
+      "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down"
+    },
+    {
+      "title": "Java4Shell: pre-auth RCE flaw in Java 17 puts servers at risk (CVE-2026-114938)",
+      "hot": "2.9m",
+      "desc": "aikido.dev",
+      "source": "tech",
+      "tag": "⬆️ 74 points",
+      "url": "https://www.aikido.dev/blog/java-17-rce-vulnerability-cve-2026-114938"
+    },
+    {
+      "title": "Solid 2.0",
+      "hot": "2.9m",
+      "desc": "solidjs.com",
+      "source": "tech",
+      "tag": "⬆️ 142 points",
+      "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/"
+    },
+    {
+      "title": "Apple Services Down",
+      "hot": "2.8m",
+      "desc": "developer.apple.com",
+      "source": "tech",
+      "tag": "⬆️ 532 points",
+      "url": "https://developer.apple.com/system-status/"
+    },
+    {
+      "title": "What is the best harness for each model?",
+      "hot": "2.8m",
+      "desc": "runta.com",
+      "source": "tech",
+      "tag": "⬆️ 296 points",
+      "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/"
+    },
+    {
+      "title": "Effects of a Nuclear Detonation in Low Earth Orbit",
+      "hot": "2.8m",
+      "desc": "arxiv.org",
+      "source": "tech",
+      "tag": "⬆️ 35 points",
+      "url": "https://arxiv.org/abs/2611.09827"
+    },
+    {
+      "title": "Who Builds the Machines That Build the Machines?",
+      "hot": "2.8m",
+      "desc": "read.corematter.com",
+      "source": "tech",
+      "tag": "⬆️ 57 points",
+      "url": "https://read.corematter.com/p/section-232-us-machine-tools"
+    },
+    {
+      "title": "YC wrote software to run our internship expo – and an 8-bit SIM to show it off",
+      "hot": "2.8m",
+      "desc": "news.ycombinator.com",
+      "source": "tech",
+      "tag": "⬆️ 1 points",
+      "url": "https://news.ycombinator.com/item?id=50534429"
+    },
+    {
+      "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+      "hot": "2.8m",
+      "desc": "starsling.dev",
+      "source": "tech",
+      "tag": "⬆️ 31 points",
+      "url": "https://starsling.dev"
+    },
+    {
+      "title": "Mouse Party",
+      "hot": "2.7m",
+      "desc": "aboard.com",
+      "source": "tech",
+      "tag": "⬆️ 29 points",
+      "url": "https://aboard.com/lets-have-a-mouse-party/"
+    },
+    {
+      "title": "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
+      "hot": "2.7m",
+      "desc": "alloyhtml.com",
+      "source": "tech",
+      "tag": "⬆️ 158 points",
+      "url": "https://alloyhtml.com/example.html"
+    },
+    {
+      "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+      "hot": "2.7m",
+      "desc": "nytimes.com",
+      "source": "tech",
+      "tag": "⬆️ 1085 points",
+      "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html"
     }
   ],
   "space": [
     {
-      "title": "ICEYE Launches €2.05B Takeover Bid for Italian Rocket Builder Avio",
-      "hot": "11/17",
-      "desc": "Finnish satellite builder and operator ICEYE has launched a €2.05 billion takeover bid for Avio, with the aim of building a “true European sovereign s",
+      "title": "暂无 space 数据",
+      "hot": "",
+      "desc": "数据加载中，请稍后刷新",
       "source": "space",
-      "tag": "European Spaceflight",
-      "url": "https://europeanspaceflight.com/iceye-launches-e2-05b-takeover-bid-for-italian-rocket-builder-avio/"
-    },
-    {
-      "title": "Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027",
-      "hot": "11/17",
-      "desc": "\nDaejeon, Republic of Korea – October 14, 2026: South Korean space electric propulsion startup Cosmo Bee plans to conduct an in-orbit flight test of i",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/cosmo-bee-to-flight-test-honeybee-hall-thruster-with-d-orbit-in-2027/"
-    },
-    {
-      "title": "APOD: 2026 November 17 – Milky Way versus Aurora",
-      "hot": "11/17",
-      "desc": "APOD Science APOD APOD: 2026 November 17 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Pictur",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-17-milky-way-versus-aurora/"
-    },
-    {
-      "title": "Tossing Fireworks from Cloud to Cloud",
-      "hot": "11/17",
-      "desc": "For many astronauts, the spectacular sight of lightning stands out when looking back at Earth from the International Space Station.",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/earth/earth-observatory/tossing-fireworks-from-cloud-to-cloud/"
-    },
-    {
-      "title": "Perseverance Update: The Ghostly Rocks of ‘Idubi’ — Bright Remnants of Aqueous Systems from Long Ago",
-      "hot": "11/16",
-      "desc": "Written by Candice Bedford, Research Scientist at Purdue University Date: Nov. 16, 2026 During the Perseverance rover’s investigation of “Idubi” — an ",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago/"
-    },
-    {
-      "title": "A Collage Showing 49 Drill Holes Made by NASA’s Curiosity Mars Rover",
-      "hot": "11/16",
-      "desc": "Description This collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026. Each hole represents a sample collected fro",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/"
-    },
-    {
-      "title": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions",
-      "hot": "11/16",
-      "desc": "Following a week of busy launch activity, the worldwide launch manifest is set to see…\r\nThe post Launch Preview: Ariane 6 to launch Amazon satellites,",
-      "source": "space",
-      "tag": "NASASpaceflight",
-      "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/"
-    },
-    {
-      "title": "NASA Receives 16th Consecutive ‘Clean’ Financial Audit Opinion",
-      "hot": "11/16",
-      "desc": "For the 16th consecutive year, NASA has received an unmodified, or “clean,” opinion from an external auditor on its fiscal year 2026 financial stateme",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/news-release/nasa-receives-16th-consecutive-clean-financial-audit-opinion/"
-    },
-    {
-      "title": "SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor",
-      "hot": "11/16",
-      "desc": "\nLOS ALAMOS, N.M., Nov. 16, 2026 — Space Nuclear Power Corp. (SpaceNukes) opened its Manufacture and Materials Development Facility at 150 Central Par",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor/"
-    },
-    {
-      "title": "When will humans actually fly on Starship?",
-      "hot": "11/16",
-      "desc": "All estimates of human spaceflight on Starship should be taken with a gigantic grain of salt.",
-      "source": "space",
-      "tag": "Arstechnica",
-      "url": "https://arstechnica.com/space/2026/11/when-will-humans-actually-fly-on-starship/"
-    },
-    {
-      "title": "Sentinel-6B in Orbit Around Earth",
-      "hot": "11/16",
-      "desc": "Description This artist’s concept shows the Sentinel-6B satellite, which will become the reference satellite for other missions studying sea surface h",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/photojournal/sentinel-6b-in-orbit-around-earth/"
-    },
-    {
-      "title": "Thunderbirds in Formation",
-      "hot": "11/16",
-      "desc": "U.S. Air Force Thunderbirds fighter jets pass overhead during the agency’s MAX POWER expo and air show on Saturday, Nov. 7, 2026, at NASA’s Kennedy Sp",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/image-article/thunderbirds-in-formation/"
-    },
-    {
-      "title": "UK MOD Defends Satcom Resilience Amid SpaceX Starshield Concerns",
-      "hot": "11/16",
-      "desc": "The UK government has defended the resilience of its satellite-based military communications, saying that while it uses SpaceX’s Starshield service, i",
-      "source": "space",
-      "tag": "European Spaceflight",
-      "url": "https://europeanspaceflight.com/uk-mod-defends-satcom-resilience-amid-spacex-starshield-concerns/"
-    },
-    {
-      "title": "Contractor to Civil Servant: NASA Welcomes Jim Mirandy",
-      "hot": "11/16",
-      "desc": "The rumble of a rocket engine might be considered a soundtrack for Jim Mirandy’s life. Mirandy has grown up with NASA as a constant presence, and his ",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jim-mirandy/"
-    },
-    {
-      "title": "Analysis: Vulcan Failure Reflects an Industry in Disarray",
-      "hot": "11/16",
-      "desc": "The industry is in desperate need of new reliable launch options to maintain space access for The United States.",
-      "source": "space",
-      "tag": "Space Scout",
-      "url": "https://www.spacescout.info/2026/11/analysis-vulcan-failure-reflects-an-industry-in-disarray/"
+      "tag": "loading"
     }
   ]
 }
