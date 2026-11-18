@@ -1,20 +1,76 @@
 {
   "data": [
     {
-      "title": "An MCP Tool Call Can Resolve and Still Fail",
-      "hot": "❤️ 25 💬 30",
-      "desc": "An await finishes. The application returns a result. The trace contains a completed tool span. The...",
+      "title": "The CodeNewbie Podcast is Back for Season 28!",
+      "hot": "❤️ 11 💬 0",
+      "desc": "Hi friends! 👋 The CodeNewbie Podcast is back for season 28, and I’m so excited to be the one hosting...",
+      "source": "dev",
+      "tag": "codenewbie,  ai",
+      "url": "https://dev.to/codenewbie/the-codenewbie-podcast-is-back-for-season-28-2484"
+    },
+    {
+      "title": "Welcome Thread - v402",
+      "hot": "❤️ 24 💬 59",
+      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
+      "source": "dev",
+      "tag": "welcome",
+      "url": "https://dev.to/sloan/welcome-thread-v402-5d1a"
+    },
+    {
+      "title": "The Colab MCP Endpoint From Claude Code: Set It Up, Test It, Run a Notebook on a TPU",
+      "hot": "❤️ 12 💬 2",
+      "desc": "Google's hosted Colab MCP endpoint, step by step: a token with the colaboratory scope, a quota project, registration in ",
+      "source": "dev",
+      "tag": "colab,  mcp",
+      "url": "https://dev.to/gde/the-colab-mcp-endpoint-from-claude-code-set-it-up-test-it-run-a-notebook-on-a-tpu-4ck9"
+    },
+    {
+      "title": "Gemma 4 on a Hosted Colab TPU: The QAT Repack, Served in Two Minutes",
+      "hot": "❤️ 11 💬 0",
+      "desc": "One notebook loads the Gemma 4 E2B QAT repack onto a Colab v5e-1, serves it behind an OpenAI-compatible endpoint with a ",
+      "source": "dev",
+      "tag": "gemma,  tpu",
+      "url": "https://dev.to/gde/gemma-4-on-a-hosted-colab-tpu-the-qat-repack-served-in-two-minutes-360j"
+    },
+    {
+      "title": "Retrieval Ran First. Was Its Result Actually Ready?",
+      "hot": "❤️ 11 💬 0",
+      "desc": "The trace starts with retrieval. Generation appears underneath it. The ordering test passes.  But...",
       "source": "dev",
       "tag": "ai,  typescript",
-      "url": "https://dev.to/gde/an-mcp-tool-call-can-resolve-and-still-fail-52kc"
+      "url": "https://dev.to/gde/retrieval-ran-first-was-its-result-actually-ready-4oc2"
+    },
+    {
+      "title": "Thinking On or Off? Gemma 4 E2B on an 8 GB RTX 3050",
+      "hot": "❤️ 22 💬 6",
+      "desc": "Gemma 4 E2B on a local RTX 3050 with thinking off and on, two QAT 4-bit builds, with and without a drafter, on all 1,319",
+      "source": "dev",
+      "tag": "gemma,  llm",
+      "url": "https://dev.to/gde/thinking-on-or-off-gemma-4-e2b-on-an-8-gb-rtx-3050-30e0"
+    },
+    {
+      "title": "Gemini Prompt Maxxing: Show Us Your Best Prompt in AI Studio or Antigravity",
+      "hot": "❤️ 8 💬 0",
+      "desc": "Gemini Prompt Maxxing is a campaign that challenges developers to get creative with prompts in Google...",
+      "source": "dev",
+      "tag": "ai,  promptengineering",
+      "url": "https://dev.to/gdg/gemini-prompt-maxxing-show-us-your-best-prompt-in-ai-studio-or-antigravity-bbb"
     },
     {
       "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 80 💬 35",
+      "hot": "❤️ 85 💬 37",
       "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
       "source": "dev",
       "tag": "top7,  discuss",
       "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5hda"
+    },
+    {
+      "title": "RackDoc Now Includes a 100% Local AI Agent to Audit Your Infrastructure",
+      "hot": "❤️ 14 💬 1",
+      "desc": "Query your network topology, racks, and technical inventory in natural language without a single byte leaving your netwo",
+      "source": "dev",
+      "tag": "sysadmin,  devops",
+      "url": "https://dev.to/gde/rackdoc-now-includes-a-100-local-ai-agent-to-audit-your-infrastructure-1gg8"
     },
     {
       "title": "️🎞️ What is native multimodality?",
@@ -26,7 +82,7 @@
     },
     {
       "title": "My AI agent kept quoting a number I had already corrected. What has yours remembered wrong?",
-      "hot": "❤️ 25 💬 19",
+      "hot": "❤️ 28 💬 20",
       "desc": "In August my coding agent kept telling me that one kind of article on this site draws about four...",
       "source": "dev",
       "tag": "discuss,  ai",
@@ -49,14 +105,6 @@
       "url": "https://dev.to/philschmid/fast-multimodal-control-flow-with-the-gemini-decisions-api-533b"
     },
     {
-      "title": "High or Low Thinking? Gemini 4 and Gemma 4 on Hard Math, Cost First",
-      "hot": "❤️ 27 💬 8",
-      "desc": "Seven models on the 15 problems of AIME 2025 I at their lowest and highest thinking settings, under a hard budget. The t",
-      "source": "dev",
-      "tag": "gemini,  gemma",
-      "url": "https://dev.to/gde/high-or-low-thinking-gemini-4-and-gemma-4-on-hard-math-cost-first-3091"
-    },
-    {
       "title": "How did you end up in tech, and are you staying?",
       "hot": "❤️ 161 💬 77",
       "desc": "Last week you showed me where you code. This week I want to know how you ended up there in the first...",
@@ -74,11 +122,19 @@
     },
     {
       "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine Winners!",
-      "hot": "❤️ 116 💬 50",
+      "hot": "❤️ 117 💬 51",
       "desc": "The results are in for the final week of our Hacktoberfest DEV Challenges! For Ghost in the Machine,...",
       "source": "dev",
       "tag": "devchallenge,  hf26challenge",
       "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-4-ghost-in-the-machine-winners-nok"
+    },
+    {
+      "title": "Count Attempts, Not JSONL Rows",
+      "hot": "❤️ 22 💬 2",
+      "desc": "A trace contains six records with the same tool name. How many times did the agent try the...",
+      "source": "dev",
+      "tag": "ai,  typescript",
+      "url": "https://dev.to/gde/count-attempts-not-jsonl-rows-2pn2"
     },
     {
       "title": "Detecting WasmPlugin version drift in Cloud Load Balancing Service Extensions",
@@ -98,68 +154,12 @@
     },
     {
       "title": "Long Live Rails",
-      "hot": "❤️ 140 💬 24",
+      "hot": "❤️ 141 💬 24",
       "desc": "When DHH took the stage at Rails World 2026 and talked openly about going \"pencils down\" on...",
       "source": "dev",
       "tag": "rails,  ruby",
       "url": "https://dev.to/ben/long-live-rails-3p21"
-    },
-    {
-      "title": "Make the most of your hackathon",
-      "hot": "❤️ 9 💬 0",
-      "desc": "Every time I attend a conference like AI Engineer Code Summit, I wish I had a space to try what I...",
-      "source": "dev",
-      "tag": "aie,  hackathon",
-      "url": "https://dev.to/thisisryanswift/make-the-most-of-your-hackathon-3914"
-    },
-    {
-      "title": "How much does it cost to run a text game with LLMs",
-      "hot": "❤️ 98 💬 104",
-      "desc": "AI costs are confusing. Providers give you a lot of numbers and nothing to actually know how much you are going to pay i",
-      "source": "dev",
-      "tag": "ai,  llm",
-      "url": "https://dev.to/hiper2d/how-much-does-it-cost-to-run-a-text-game-with-llms-57o7"
-    },
-    {
-      "title": "Prompt Pad: What Are Open-Weight Models?",
-      "hot": "❤️ 12 💬 0",
-      "desc": "When people call an AI model \"open,\" they don't always mean the same thing.  On this week's Prompt...",
-      "source": "dev",
-      "tag": "opensource,  ai",
-      "url": "https://blog.mlh.com/prompt-pad-what-are-open-weight-models-1ghh"
-    },
-    {
-      "title": "Ultimate AI Roast! 😂😹",
-      "hot": "❤️ 97 💬 48",
-      "desc": "I asked my favorite AI to Roast me. Thanks @trickell for this idea.   You need to try this with your...",
-      "source": "dev",
-      "tag": "ai,  webdev",
-      "url": "https://dev.to/annavi11arrea1/ultimate-ai-roast-168b"
-    },
-    {
-      "title": "Prepare a WebMCP Review Without Submitting the Request",
-      "hot": "❤️ 16 💬 0",
-      "desc": "A business-class trip in my demo produced four facts at the same time:   the saved fields were...",
-      "source": "dev",
-      "tag": "react,  typescript",
-      "url": "https://dev.to/gde/prepare-a-webmcp-review-without-submitting-the-request-j4n"
-    },
-    {
-      "title": "Kent C. Dodds Hasn't Looked at His Code All Year",
-      "hot": "❤️ 8 💬 3",
-      "desc": "At the start of this year, Kent C. Dodds gave a coding agent a link to a GitHub issue he had been...",
-      "source": "dev",
-      "tag": "ai,  agents",
-      "url": "https://dev.to/dailycontext/kent-c-dodds-hasnt-looked-at-his-code-all-year-gd5"
-    },
-    {
-      "title": "Meme Monday",
-      "hot": "❤️ 66 💬 11",
-      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
-      "source": "dev",
-      "tag": "discuss,  watercooler",
-      "url": "https://dev.to/ben/meme-monday-p21"
     }
   ],
-  "updatedAt": "2026-11-18T11:57:43.052Z"
+  "updatedAt": "2026-11-18T19:49:39.148Z"
 }
