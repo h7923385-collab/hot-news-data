@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "The CodeNewbie Podcast is Back for Season 28!",
-      "hot": "❤️ 11 💬 0",
+      "hot": "❤️ 60 💬 3",
       "desc": "Hi friends! 👋 The CodeNewbie Podcast is back for season 28, and I’m so excited to be the one hosting...",
       "source": "dev",
       "tag": "codenewbie,  ai",
@@ -10,7 +10,7 @@
     },
     {
       "title": "Welcome Thread - v402",
-      "hot": "❤️ 24 💬 59",
+      "hot": "❤️ 32 💬 79",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
@@ -18,7 +18,7 @@
     },
     {
       "title": "The Colab MCP Endpoint From Claude Code: Set It Up, Test It, Run a Notebook on a TPU",
-      "hot": "❤️ 12 💬 2",
+      "hot": "❤️ 22 💬 2",
       "desc": "Google's hosted Colab MCP endpoint, step by step: a token with the colaboratory scope, a quota project, registration in ",
       "source": "dev",
       "tag": "colab,  mcp",
@@ -26,7 +26,7 @@
     },
     {
       "title": "Gemma 4 on a Hosted Colab TPU: The QAT Repack, Served in Two Minutes",
-      "hot": "❤️ 11 💬 0",
+      "hot": "❤️ 19 💬 0",
       "desc": "One notebook loads the Gemma 4 E2B QAT repack onto a Colab v5e-1, serves it behind an OpenAI-compatible endpoint with a ",
       "source": "dev",
       "tag": "gemma,  tpu",
@@ -34,19 +34,11 @@
     },
     {
       "title": "Retrieval Ran First. Was Its Result Actually Ready?",
-      "hot": "❤️ 11 💬 0",
+      "hot": "❤️ 17 💬 0",
       "desc": "The trace starts with retrieval. Generation appears underneath it. The ordering test passes.  But...",
       "source": "dev",
       "tag": "ai,  typescript",
       "url": "https://dev.to/gde/retrieval-ran-first-was-its-result-actually-ready-4oc2"
-    },
-    {
-      "title": "Thinking On or Off? Gemma 4 E2B on an 8 GB RTX 3050",
-      "hot": "❤️ 22 💬 6",
-      "desc": "Gemma 4 E2B on a local RTX 3050 with thinking off and on, two QAT 4-bit builds, with and without a drafter, on all 1,319",
-      "source": "dev",
-      "tag": "gemma,  llm",
-      "url": "https://dev.to/gde/thinking-on-or-off-gemma-4-e2b-on-an-8-gb-rtx-3050-30e0"
     },
     {
       "title": "Gemini Prompt Maxxing: Show Us Your Best Prompt in AI Studio or Antigravity",
@@ -55,14 +47,6 @@
       "source": "dev",
       "tag": "ai,  promptengineering",
       "url": "https://dev.to/gdg/gemini-prompt-maxxing-show-us-your-best-prompt-in-ai-studio-or-antigravity-bbb"
-    },
-    {
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "hot": "❤️ 85 💬 37",
-      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
-      "source": "dev",
-      "tag": "top7,  discuss",
-      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5hda"
     },
     {
       "title": "RackDoc Now Includes a 100% Local AI Agent to Audit Your Infrastructure",
@@ -81,12 +65,12 @@
       "url": "https://dev.to/googlecloud/what-is-native-multimodality-3091"
     },
     {
-      "title": "My AI agent kept quoting a number I had already corrected. What has yours remembered wrong?",
-      "hot": "❤️ 28 💬 20",
-      "desc": "In August my coding agent kept telling me that one kind of article on this site draws about four...",
+      "title": "Thinking On or Off? Gemma 4 E2B on an 8 GB RTX 3050",
+      "hot": "❤️ 23 💬 6",
+      "desc": "Gemma 4 E2B on a local RTX 3050 with thinking off and on, two QAT 4-bit builds, with and without a drafter, on all 1,319",
       "source": "dev",
-      "tag": "discuss,  ai",
-      "url": "https://dev.to/heinrichneb/my-ai-agent-kept-quoting-a-number-i-had-already-corrected-what-has-yours-remembered-wrong-34d0"
+      "tag": "gemma,  llm",
+      "url": "https://dev.to/gde/thinking-on-or-off-gemma-4-e2b-on-an-8-gb-rtx-3050-30e0"
     },
     {
       "title": "Why We Built an MCP Server for AI Founders’ Go to Market",
@@ -159,7 +143,23 @@
       "source": "dev",
       "tag": "rails,  ruby",
       "url": "https://dev.to/ben/long-live-rails-3p21"
+    },
+    {
+      "title": "An MCP Tool Call Can Resolve and Still Fail",
+      "hot": "❤️ 25 💬 33",
+      "desc": "An await finishes. The application returns a result. The trace contains a completed tool span. The...",
+      "source": "dev",
+      "tag": "ai,  typescript",
+      "url": "https://dev.to/gde/an-mcp-tool-call-can-resolve-and-still-fail-52kc"
+    },
+    {
+      "title": "Make the most of your hackathon",
+      "hot": "❤️ 9 💬 0",
+      "desc": "Every time I attend a conference like AI Engineer Code Summit, I wish I had a space to try what I...",
+      "source": "dev",
+      "tag": "aie,  hackathon",
+      "url": "https://dev.to/thisisryanswift/make-the-most-of-your-hackathon-3914"
     }
   ],
-  "updatedAt": "2026-11-18T19:49:39.148Z"
+  "updatedAt": "2026-11-19T01:31:34.605Z"
 }
