@@ -2,19 +2,11 @@
   "data": [
     {
       "title": "The CodeNewbie Podcast is Back for Season 28!",
-      "hot": "❤️ 60 💬 3",
+      "hot": "❤️ 65 💬 4",
       "desc": "Hi friends! 👋 The CodeNewbie Podcast is back for season 28, and I’m so excited to be the one hosting...",
       "source": "dev",
       "tag": "codenewbie,  ai",
       "url": "https://dev.to/codenewbie/the-codenewbie-podcast-is-back-for-season-28-2484"
-    },
-    {
-      "title": "Welcome Thread - v402",
-      "hot": "❤️ 32 💬 79",
-      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
-      "source": "dev",
-      "tag": "welcome",
-      "url": "https://dev.to/sloan/welcome-thread-v402-5d1a"
     },
     {
       "title": "The Colab MCP Endpoint From Claude Code: Set It Up, Test It, Run a Notebook on a TPU",
@@ -25,28 +17,36 @@
       "url": "https://dev.to/gde/the-colab-mcp-endpoint-from-claude-code-set-it-up-test-it-run-a-notebook-on-a-tpu-4ck9"
     },
     {
+      "title": "Welcome Thread - v402",
+      "hot": "❤️ 37 💬 108",
+      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
+      "source": "dev",
+      "tag": "welcome",
+      "url": "https://dev.to/sloan/welcome-thread-v402-5d1a"
+    },
+    {
       "title": "Gemma 4 on a Hosted Colab TPU: The QAT Repack, Served in Two Minutes",
-      "hot": "❤️ 19 💬 0",
+      "hot": "❤️ 20 💬 0",
       "desc": "One notebook loads the Gemma 4 E2B QAT repack onto a Colab v5e-1, serves it behind an OpenAI-compatible endpoint with a ",
       "source": "dev",
       "tag": "gemma,  tpu",
       "url": "https://dev.to/gde/gemma-4-on-a-hosted-colab-tpu-the-qat-repack-served-in-two-minutes-360j"
     },
     {
+      "title": "From Prototype to Production: Building AI Agents with the Claude Platform on Google Cloud",
+      "hot": "❤️ 12 💬 0",
+      "desc": "Getting an AI agent working on localhost is easy. Getting that same agent into production - where it...",
+      "source": "dev",
+      "tag": "ai,  googlecloud",
+      "url": "https://dev.to/googleai/from-prototype-to-production-building-ai-agents-with-the-claude-platform-on-google-cloud-ap7"
+    },
+    {
       "title": "Retrieval Ran First. Was Its Result Actually Ready?",
-      "hot": "❤️ 17 💬 0",
+      "hot": "❤️ 19 💬 1",
       "desc": "The trace starts with retrieval. Generation appears underneath it. The ordering test passes.  But...",
       "source": "dev",
       "tag": "ai,  typescript",
       "url": "https://dev.to/gde/retrieval-ran-first-was-its-result-actually-ready-4oc2"
-    },
-    {
-      "title": "Gemini Prompt Maxxing: Show Us Your Best Prompt in AI Studio or Antigravity",
-      "hot": "❤️ 8 💬 0",
-      "desc": "Gemini Prompt Maxxing is a campaign that challenges developers to get creative with prompts in Google...",
-      "source": "dev",
-      "tag": "ai,  promptengineering",
-      "url": "https://dev.to/gdg/gemini-prompt-maxxing-show-us-your-best-prompt-in-ai-studio-or-antigravity-bbb"
     },
     {
       "title": "RackDoc Now Includes a 100% Local AI Agent to Audit Your Infrastructure",
@@ -65,8 +65,16 @@
       "url": "https://dev.to/googlecloud/what-is-native-multimodality-3091"
     },
     {
+      "title": "Why Your AI Agent Keeps Forgetting (and Getting Slower): 4 Memory Options and 3 Context Fixes",
+      "hot": "❤️ 13 💬 2",
+      "desc": "Most AI agents have two memory problems. They forget what a user told them last week, and every turn...",
+      "source": "dev",
+      "tag": "ai,  agents",
+      "url": "https://dev.to/googleai/why-your-ai-agent-keeps-forgetting-and-getting-slower-4-memory-options-and-3-context-fixes-2e02"
+    },
+    {
       "title": "Thinking On or Off? Gemma 4 E2B on an 8 GB RTX 3050",
-      "hot": "❤️ 23 💬 6",
+      "hot": "❤️ 24 💬 7",
       "desc": "Gemma 4 E2B on a local RTX 3050 with thinking off and on, two QAT 4-bit builds, with and without a drafter, on all 1,319",
       "source": "dev",
       "tag": "gemma,  llm",
@@ -105,20 +113,20 @@
       "url": "https://blog.mlh.com/prompt-pad-what-are-tokens-gec"
     },
     {
-      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine Winners!",
-      "hot": "❤️ 117 💬 51",
-      "desc": "The results are in for the final week of our Hacktoberfest DEV Challenges! For Ghost in the Machine,...",
-      "source": "dev",
-      "tag": "devchallenge,  hf26challenge",
-      "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-4-ghost-in-the-machine-winners-nok"
-    },
-    {
       "title": "Count Attempts, Not JSONL Rows",
-      "hot": "❤️ 22 💬 2",
+      "hot": "❤️ 22 💬 3",
       "desc": "A trace contains six records with the same tool name. How many times did the agent try the...",
       "source": "dev",
       "tag": "ai,  typescript",
       "url": "https://dev.to/gde/count-attempts-not-jsonl-rows-2pn2"
+    },
+    {
+      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine Winners!",
+      "hot": "❤️ 117 💬 52",
+      "desc": "The results are in for the final week of our Hacktoberfest DEV Challenges! For Ghost in the Machine,...",
+      "source": "dev",
+      "tag": "devchallenge,  hf26challenge",
+      "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-4-ghost-in-the-machine-winners-nok"
     },
     {
       "title": "Detecting WasmPlugin version drift in Cloud Load Balancing Service Extensions",
@@ -151,15 +159,7 @@
       "source": "dev",
       "tag": "ai,  typescript",
       "url": "https://dev.to/gde/an-mcp-tool-call-can-resolve-and-still-fail-52kc"
-    },
-    {
-      "title": "Make the most of your hackathon",
-      "hot": "❤️ 9 💬 0",
-      "desc": "Every time I attend a conference like AI Engineer Code Summit, I wish I had a space to try what I...",
-      "source": "dev",
-      "tag": "aie,  hackathon",
-      "url": "https://dev.to/thisisryanswift/make-the-most-of-your-hackathon-3914"
     }
   ],
-  "updatedAt": "2026-11-19T01:31:34.605Z"
+  "updatedAt": "2026-11-19T09:32:47.487Z"
 }

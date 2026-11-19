@@ -1,22 +1,14 @@
 {
-  "updatedAt": "2026-11-19T01:31:34.605Z",
+  "updatedAt": "2026-11-19T09:32:47.487Z",
   "source": "live",
   "dev": [
     {
       "title": "The CodeNewbie Podcast is Back for Season 28!",
-      "hot": "❤️ 60 💬 3",
+      "hot": "❤️ 65 💬 4",
       "desc": "Hi friends! 👋 The CodeNewbie Podcast is back for season 28, and I’m so excited to be the one hosting...",
       "source": "dev",
       "tag": "codenewbie,  ai",
       "url": "https://dev.to/codenewbie/the-codenewbie-podcast-is-back-for-season-28-2484"
-    },
-    {
-      "title": "Welcome Thread - v402",
-      "hot": "❤️ 32 💬 79",
-      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
-      "source": "dev",
-      "tag": "welcome",
-      "url": "https://dev.to/sloan/welcome-thread-v402-5d1a"
     },
     {
       "title": "The Colab MCP Endpoint From Claude Code: Set It Up, Test It, Run a Notebook on a TPU",
@@ -27,28 +19,36 @@
       "url": "https://dev.to/gde/the-colab-mcp-endpoint-from-claude-code-set-it-up-test-it-run-a-notebook-on-a-tpu-4ck9"
     },
     {
+      "title": "Welcome Thread - v402",
+      "hot": "❤️ 37 💬 108",
+      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
+      "source": "dev",
+      "tag": "welcome",
+      "url": "https://dev.to/sloan/welcome-thread-v402-5d1a"
+    },
+    {
       "title": "Gemma 4 on a Hosted Colab TPU: The QAT Repack, Served in Two Minutes",
-      "hot": "❤️ 19 💬 0",
+      "hot": "❤️ 20 💬 0",
       "desc": "One notebook loads the Gemma 4 E2B QAT repack onto a Colab v5e-1, serves it behind an OpenAI-compatible endpoint with a ",
       "source": "dev",
       "tag": "gemma,  tpu",
       "url": "https://dev.to/gde/gemma-4-on-a-hosted-colab-tpu-the-qat-repack-served-in-two-minutes-360j"
     },
     {
+      "title": "From Prototype to Production: Building AI Agents with the Claude Platform on Google Cloud",
+      "hot": "❤️ 12 💬 0",
+      "desc": "Getting an AI agent working on localhost is easy. Getting that same agent into production - where it...",
+      "source": "dev",
+      "tag": "ai,  googlecloud",
+      "url": "https://dev.to/googleai/from-prototype-to-production-building-ai-agents-with-the-claude-platform-on-google-cloud-ap7"
+    },
+    {
       "title": "Retrieval Ran First. Was Its Result Actually Ready?",
-      "hot": "❤️ 17 💬 0",
+      "hot": "❤️ 19 💬 1",
       "desc": "The trace starts with retrieval. Generation appears underneath it. The ordering test passes.  But...",
       "source": "dev",
       "tag": "ai,  typescript",
       "url": "https://dev.to/gde/retrieval-ran-first-was-its-result-actually-ready-4oc2"
-    },
-    {
-      "title": "Gemini Prompt Maxxing: Show Us Your Best Prompt in AI Studio or Antigravity",
-      "hot": "❤️ 8 💬 0",
-      "desc": "Gemini Prompt Maxxing is a campaign that challenges developers to get creative with prompts in Google...",
-      "source": "dev",
-      "tag": "ai,  promptengineering",
-      "url": "https://dev.to/gdg/gemini-prompt-maxxing-show-us-your-best-prompt-in-ai-studio-or-antigravity-bbb"
     },
     {
       "title": "RackDoc Now Includes a 100% Local AI Agent to Audit Your Infrastructure",
@@ -67,8 +67,16 @@
       "url": "https://dev.to/googlecloud/what-is-native-multimodality-3091"
     },
     {
+      "title": "Why Your AI Agent Keeps Forgetting (and Getting Slower): 4 Memory Options and 3 Context Fixes",
+      "hot": "❤️ 13 💬 2",
+      "desc": "Most AI agents have two memory problems. They forget what a user told them last week, and every turn...",
+      "source": "dev",
+      "tag": "ai,  agents",
+      "url": "https://dev.to/googleai/why-your-ai-agent-keeps-forgetting-and-getting-slower-4-memory-options-and-3-context-fixes-2e02"
+    },
+    {
       "title": "Thinking On or Off? Gemma 4 E2B on an 8 GB RTX 3050",
-      "hot": "❤️ 23 💬 6",
+      "hot": "❤️ 24 💬 7",
       "desc": "Gemma 4 E2B on a local RTX 3050 with thinking off and on, two QAT 4-bit builds, with and without a drafter, on all 1,319",
       "source": "dev",
       "tag": "gemma,  llm",
@@ -107,20 +115,20 @@
       "url": "https://blog.mlh.com/prompt-pad-what-are-tokens-gec"
     },
     {
-      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine Winners!",
-      "hot": "❤️ 117 💬 51",
-      "desc": "The results are in for the final week of our Hacktoberfest DEV Challenges! For Ghost in the Machine,...",
-      "source": "dev",
-      "tag": "devchallenge,  hf26challenge",
-      "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-4-ghost-in-the-machine-winners-nok"
-    },
-    {
       "title": "Count Attempts, Not JSONL Rows",
-      "hot": "❤️ 22 💬 2",
+      "hot": "❤️ 22 💬 3",
       "desc": "A trace contains six records with the same tool name. How many times did the agent try the...",
       "source": "dev",
       "tag": "ai,  typescript",
       "url": "https://dev.to/gde/count-attempts-not-jsonl-rows-2pn2"
+    },
+    {
+      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine Winners!",
+      "hot": "❤️ 117 💬 52",
+      "desc": "The results are in for the final week of our Hacktoberfest DEV Challenges! For Ghost in the Machine,...",
+      "source": "dev",
+      "tag": "devchallenge,  hf26challenge",
+      "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-4-ghost-in-the-machine-winners-nok"
     },
     {
       "title": "Detecting WasmPlugin version drift in Cloud Load Balancing Service Extensions",
@@ -153,301 +161,41 @@
       "source": "dev",
       "tag": "ai,  typescript",
       "url": "https://dev.to/gde/an-mcp-tool-call-can-resolve-and-still-fail-52kc"
-    },
-    {
-      "title": "Make the most of your hackathon",
-      "hot": "❤️ 9 💬 0",
-      "desc": "Every time I attend a conference like AI Engineer Code Summit, I wish I had a space to try what I...",
-      "source": "dev",
-      "tag": "aie,  hackathon",
-      "url": "https://dev.to/thisisryanswift/make-the-most-of-your-hackathon-3914"
-    }
-  ],
-  "tech": [
-    {
-      "title": "Gemini 4 Neon",
-      "hot": "3.0m",
-      "desc": "blog.google",
-      "source": "tech",
-      "tag": "⬆️ 423 points",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
-    },
-    {
-      "title": "Unauthenticated remote code execution in Nginx",
-      "hot": "3.0m",
-      "desc": "wiz.io",
-      "source": "tech",
-      "tag": "⬆️ 1131 points",
-      "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities"
-    },
-    {
-      "title": "Multiple vulnerabilities in Regexp and String case conversion",
-      "hot": "3.0m",
-      "desc": "ruby-lang.org",
-      "source": "tech",
-      "tag": "⬆️ 56 points",
-      "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/"
-    },
-    {
-      "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
-      "hot": "3.0m",
-      "desc": "micjm.com",
-      "source": "tech",
-      "tag": "⬆️ 40 points",
-      "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/"
-    },
-    {
-      "title": "Seven new models at scalable price-performance",
-      "hot": "2.9m",
-      "desc": "microsoft.ai",
-      "source": "tech",
-      "tag": "⬆️ 447 points",
-      "url": "https://microsoft.ai/news/microsoft-ignite-2026/"
-    },
-    {
-      "title": "Inside Deutsche Bank",
-      "hot": "2.9m",
-      "desc": "inside-db.com",
-      "source": "tech",
-      "tag": "⬆️ 561 points",
-      "url": "https://www.inside-db.com/"
-    },
-    {
-      "title": "AI agents ask better questions than KPMG accountants in audit trial",
-      "hot": "2.9m",
-      "desc": "europeanbusinessmagazine.com",
-      "source": "tech",
-      "tag": "⬆️ 350 points",
-      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/"
-    },
-    {
-      "title": "LLM assisted reverse engineering",
-      "hot": "2.9m",
-      "desc": "slowchronicle.com",
-      "source": "tech",
-      "tag": "⬆️ 53 points",
-      "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering"
-    },
-    {
-      "title": "DNS resolvers are the wrong place to fight piracy",
-      "hot": "2.9m",
-      "desc": "techstackups.com",
-      "source": "tech",
-      "tag": "⬆️ 596 points",
-      "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/"
-    },
-    {
-      "title": "DaisyRose-27B",
-      "hot": "2.9m",
-      "desc": "radixark.com",
-      "source": "tech",
-      "tag": "⬆️ 136 points",
-      "url": "https://www.radixark.com/blog/daisyrose-27b"
-    },
-    {
-      "title": "Fable: Written, painted and directed by Claude Fable 5.2",
-      "hot": "2.9m",
-      "desc": "claudia.gallery",
-      "source": "tech",
-      "tag": "⬆️ 22 points",
-      "url": "https://claudia.gallery/fable/"
-    },
-    {
-      "title": "Anthropic prices initial public offering",
-      "hot": "2.8m",
-      "desc": "anthropic.com",
-      "source": "tech",
-      "tag": "⬆️ 36 points",
-      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
-    },
-    {
-      "title": "Advancing chip design with OpenAI models",
-      "hot": "2.8m",
-      "desc": "openai.com",
-      "source": "tech",
-      "tag": "⬆️ 159 points",
-      "url": "https://openai.com/index/advancing-chip-design-with-our-models/"
-    },
-    {
-      "title": "We need smart people who give a shit",
-      "hot": "2.8m",
-      "desc": "violetpixel.com",
-      "source": "tech",
-      "tag": "⬆️ 192 points",
-      "url": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/"
-    },
-    {
-      "title": "Cuttlefish on Mac: Android's Virtual Device Framework on Apple Silicon",
-      "hot": "2.8m",
-      "desc": "engineering.fb.com",
-      "source": "tech",
-      "tag": "⬆️ 41 points",
-      "url": "https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/"
-    },
-    {
-      "title": "Dumping an AES key from a MyQ garage opener to stop rebooting when offline",
-      "hot": "2.8m",
-      "desc": "kusha.me",
-      "source": "tech",
-      "tag": "⬆️ 31 points",
-      "url": "https://kusha.me/blog/stop_myq_homebridge_819lmb_rebooting/"
-    },
-    {
-      "title": "Software companies are trying to kill home computing?",
-      "hot": "2.8m",
-      "desc": "lateblt.livejournal.com",
-      "source": "tech",
-      "tag": "⬆️ 96 points",
-      "url": "https://lateblt.livejournal.com/526188.html"
-    },
-    {
-      "title": "The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026",
-      "hot": "2.7m",
-      "desc": "cam.ac.uk",
-      "source": "tech",
-      "tag": "⬆️ 235 points",
-      "url": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026"
-    },
-    {
-      "title": "Show HN: Open-source, real-time object tracking for live video feeds",
-      "hot": "2.7m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 43 points",
-      "url": "https://github.com/aryamandarda/tamserve"
-    },
-    {
-      "title": "A Collage Showing 49 Drill Holes Made by NASA's Curiosity Mars Rover",
-      "hot": "2.7m",
-      "desc": "science.nasa.gov",
-      "source": "tech",
-      "tag": "⬆️ 28 points",
-      "url": "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/"
-    }
-  ],
-  "github": [
-    {
-      "title": "deepseek-ai/chat-demo: Chat Demo",
-      "hot": "⭐ 4.8k",
-      "desc": "Chat Demo",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/deepseek-ai/chat-demo"
-    },
-    {
-      "title": "krisgfx9/Wireless-Device-Battery-Monitor: Show the battery level of wireless mic",
-      "hot": "⭐ 4.0k",
-      "desc": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software ne",
-      "source": "github",
-      "tag": "C++",
-      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor"
-    },
-    {
-      "title": "erkamyaman/rust-anything: Rewrite your whole app in Rust, one piece at a time, c",
-      "hot": "⭐ 3.4k",
-      "desc": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries ",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/erkamyaman/rust-anything"
-    },
-    {
-      "title": "Noniv/abyssal-garden: A dreamy underwater world you can swim through in your bro",
-      "hot": "⭐ 2.4k",
-      "desc": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated ",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/Noniv/abyssal-garden"
-    },
-    {
-      "title": "Immortal-Protocols/lastbook: Offline knowledge AI, maps and videos for survival ",
-      "hot": "⭐ 2.2k",
-      "desc": "Offline knowledge AI, maps and videos for survival and rebuilding",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/Immortal-Protocols/lastbook"
-    },
-    {
-      "title": "duwqijlk/muse-protocol: muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
-      "hot": "⭐ 1.6k",
-      "desc": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/duwqijlk/muse-protocol"
-    },
-    {
-      "title": "ZiChuanLan/freebie-radar: 白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广",
-      "hot": "⭐ 1.6k",
-      "desc": "白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/ZiChuanLan/freebie-radar"
-    },
-    {
-      "title": "CzzzzzzJ/mdldm-maitian: 麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大",
-      "hot": "⭐ 1.3k",
-      "desc": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/CzzzzzzJ/mdldm-maitian"
-    },
-    {
-      "title": "Hut-hzf/ung220z-tool: ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限",
-      "hot": "⭐ 1.2k",
-      "desc": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/Hut-hzf/ung220z-tool"
-    },
-    {
-      "title": "sybil-solutions/inference-optimisation-skill: Agent skill for hill-climbing loca",
-      "hot": "⭐ 1.1k",
-      "desc": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/sybil-solutions/inference-optimisation-skill"
-    },
-    {
-      "title": "haziqahmedqasmi/PeakCut: AI clipping for long videos and live streams. Self-host",
-      "hot": "⭐ 1.1k",
-      "desc": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/haziqahmedqasmi/PeakCut"
-    },
-    {
-      "title": "joshpuckett/allo: Allo is your friendly neighborhood typeface, free and open sou",
-      "hot": "⭐ 1.1k",
-      "desc": "Allo is your friendly neighborhood typeface, free and open source",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/joshpuckett/allo"
-    },
-    {
-      "title": "zephyr4123/snug: 为 UU远程 打造的 Mac 移动端工作区：独立竖屏、窗口自适应铺满、字号随屏放大、触控遵循 iOS 交互习惯，让 Mac 在",
-      "hot": "⭐ 928",
-      "desc": "为 UU远程 打造的 Mac 移动端工作区：独立竖屏、窗口自适应铺满、字号随屏放大、触控遵循 iOS 交互习惯，让 Mac 在手机上拥有原生级的操作体验。A native-grade iPhone workspace for controlling your Mac over UU Remote.",
-      "source": "github",
-      "tag": "Swift",
-      "url": "https://github.com/zephyr4123/snug"
-    },
-    {
-      "title": "chuanqisun/spaceship: Steer your ideas in realtime",
-      "hot": "⭐ 870",
-      "desc": "Steer your ideas in realtime",
-      "source": "github",
-      "tag": "HTML",
-      "url": "https://github.com/chuanqisun/spaceship"
-    },
-    {
-      "title": "huggingface/pybot: PyBot: a chatbot written in pure Python by a swarm of agents.",
-      "hot": "⭐ 842",
-      "desc": "PyBot: a chatbot written in pure Python by a swarm of agents. No weights, no training, just rules.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/huggingface/pybot"
     }
   ],
   "space": [
+    {
+      "title": "ESA Awards OHB €102M Contract for ClearSpace-1 Debris Removal Mission",
+      "hot": "11/19",
+      "desc": "The European Space Agency has awarded German satellite builder OHB a €102 million contract to build ClearSpace-1, a spacecraft designed to capture and",
+      "source": "space",
+      "tag": "European Spaceflight",
+      "url": "https://europeanspaceflight.com/esa-awards-ohb-e102m-contract-for-clearspace-1-debris-removal-mission/"
+    },
+    {
+      "title": "APOD: 2026 November 19 – The Horsehead and Flame Nebulas",
+      "hot": "11/19",
+      "desc": "APOD Science APOD APOD: 2026 November 19 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Pi",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/"
+    },
+    {
+      "title": "El Niño Rains Paint the Atacama",
+      "hot": "11/19",
+      "desc": "Winter precipitation helped wake dormant seeds in northern Chile, carpeting the desert with what may be the region’s most extensive flowering of the s",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama/"
+    },
+    {
+      "title": "Voyager 1 Reaches New Milestone: One Light-Day from Earth",
+      "hot": "11/19",
+      "desc": "NASA’s Voyager 1 spacecraft achieved another milestone this morning. Launched in 1977, it became the first human object to pass into interstellar spac",
+      "source": "space",
+      "tag": "SpacePolicyOnline.com",
+      "url": "https://spacepolicyonline.com/news/voyager-1-reaches-new-milestone-one-light-day-from-earth/"
+    },
     {
       "title": "NASA and FCC Nominations Advance Out of Committee Despite Democratic Boycott",
       "hot": "11/18",
@@ -535,38 +283,290 @@
       "source": "space",
       "tag": "Spaceflight Now",
       "url": "https://spaceflightnow.com/2026/11/18/nasas-voyager-1-is-one-light-day-from-earth/"
+    }
+  ],
+  "tech": [
+    {
+      "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+      "hot": "3.0m",
+      "desc": "verialabs.com",
+      "source": "tech",
+      "tag": "⬆️ 68 points",
+      "url": "https://verialabs.com/ruby2shell/"
     },
     {
-      "title": "What Is the Moon Base?",
-      "hot": "11/18",
-      "desc": "This article is for students. NASA is returning astronauts to the Moon – and this time they will spend more time on the lunar surface. The Moon Base i",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-moon-base/"
+      "title": "Gemini 4 Neon",
+      "hot": "3.0m",
+      "desc": "blog.google",
+      "source": "tech",
+      "tag": "⬆️ 810 points",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
     },
     {
-      "title": "Thank You for Doing NASA Science!",
-      "hot": "11/18",
-      "desc": "It’s Thanksgiving time, and we’re giving thanks to you for doing NASA Science with us! You and NASA’s other volunteers have enabled an incredible banq",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/get-involved/citizen-science/thank-you-for-doing-nasa-science/"
+      "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
+      "hot": "3.0m",
+      "desc": "kapteko.com",
+      "source": "tech",
+      "tag": "⬆️ 114 points",
+      "url": "https://kapteko.com/15-million-webservers/"
     },
     {
-      "title": "Vulcan failure caused by inadequate fuel supply to engines, ULA says",
-      "hot": "11/18",
-      "desc": "\"ULA is a valued partner, and we look forward to Vulcan's return to flight.\"",
-      "source": "space",
-      "tag": "Arstechnica",
-      "url": "https://arstechnica.com/space/2026/11/vulcan-failure-caused-by-inadequate-fuel-supply-to-engines-ula-says/"
+      "title": "Unauthenticated remote code execution in Nginx",
+      "hot": "3.0m",
+      "desc": "wiz.io",
+      "source": "tech",
+      "tag": "⬆️ 1363 points",
+      "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities"
     },
     {
-      "title": "Origami and solar arrays",
-      "hot": "11/18",
-      "desc": "\nIn this episode of SpaceMinds, SpaceNews’ Mike Gruss talks with Thomas Sinn, the CEO of Dcubed, at Space Tech Expo Europe. They discuss the company’s",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/origami-and-solar-arrays/"
+      "title": "SSD prices will start going down the second half of next year",
+      "hot": "2.9m",
+      "desc": "drivevault.io",
+      "source": "tech",
+      "tag": "⬆️ 5 points",
+      "url": "https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html"
+    },
+    {
+      "title": "The first ping from Tonga (1997)",
+      "hot": "2.9m",
+      "desc": "colo.to",
+      "source": "tech",
+      "tag": "⬆️ 17 points",
+      "url": "https://colo.to/firstping.html"
+    },
+    {
+      "title": "Multiple vulnerabilities in Regexp and String case conversion",
+      "hot": "2.9m",
+      "desc": "ruby-lang.org",
+      "source": "tech",
+      "tag": "⬆️ 251 points",
+      "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/"
+    },
+    {
+      "title": "Distributed, high-performance blob storage on SQLite",
+      "hot": "2.9m",
+      "desc": "zerodha.tech",
+      "source": "tech",
+      "tag": "⬆️ 9 points",
+      "url": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/"
+    },
+    {
+      "title": "Seven new models at scalable price-performance",
+      "hot": "2.9m",
+      "desc": "microsoft.ai",
+      "source": "tech",
+      "tag": "⬆️ 537 points",
+      "url": "https://microsoft.ai/news/microsoft-ignite-2026/"
+    },
+    {
+      "title": "Anthropic prices initial public offering",
+      "hot": "2.9m",
+      "desc": "anthropic.com",
+      "source": "tech",
+      "tag": "⬆️ 207 points",
+      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
+    },
+    {
+      "title": "Inside Deutsche Bank",
+      "hot": "2.9m",
+      "desc": "inside-db.com",
+      "source": "tech",
+      "tag": "⬆️ 686 points",
+      "url": "https://www.inside-db.com/"
+    },
+    {
+      "title": "LLM assisted reverse engineering",
+      "hot": "2.8m",
+      "desc": "slowchronicle.com",
+      "source": "tech",
+      "tag": "⬆️ 204 points",
+      "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering"
+    },
+    {
+      "title": "Axelera Titania Brings Native FP8 and FP4 to In-Memory Compute",
+      "hot": "2.8m",
+      "desc": "futurumgroup.com",
+      "source": "tech",
+      "tag": "⬆️ 30 points",
+      "url": "https://futurumgroup.com/insights/axelera-titania-brings-native-fp8-and-fp4-to-in-memory-compute/"
+    },
+    {
+      "title": "DaisyRose-27B",
+      "hot": "2.8m",
+      "desc": "radixark.com",
+      "source": "tech",
+      "tag": "⬆️ 210 points",
+      "url": "https://www.radixark.com/blog/daisyrose-27b"
+    },
+    {
+      "title": "Genie 4 is now available",
+      "hot": "2.8m",
+      "desc": "blog.google",
+      "source": "tech",
+      "tag": "⬆️ 251 points",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/"
+    },
+    {
+      "title": "Dumping an AES key from a MyQ garage opener to stop rebooting when offline",
+      "hot": "2.8m",
+      "desc": "kusha.me",
+      "source": "tech",
+      "tag": "⬆️ 125 points",
+      "url": "https://kusha.me/blog/stop_myq_homebridge_819lmb_rebooting/"
+    },
+    {
+      "title": "Show HN: An API for word timestamps from speech, 75% within 20ms",
+      "hot": "2.8m",
+      "desc": "quebec.yarn.so",
+      "source": "tech",
+      "tag": "⬆️ 22 points",
+      "url": "https://quebec.yarn.so"
+    },
+    {
+      "title": "Mosquitoes are Ladakh's latest tourists",
+      "hot": "2.7m",
+      "desc": "ruralindiaonline.org",
+      "source": "tech",
+      "tag": "⬆️ 48 points",
+      "url": "https://ruralindiaonline.org/article/mosquitoes-are-ladakh-s-latest-tourists"
+    },
+    {
+      "title": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
+      "hot": "2.7m",
+      "desc": "news.ycombinator.com",
+      "source": "tech",
+      "tag": "⬆️ 93 points",
+      "url": "https://news.ycombinator.com/item?id=50548660"
+    },
+    {
+      "title": "The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026",
+      "hot": "2.7m",
+      "desc": "cam.ac.uk",
+      "source": "tech",
+      "tag": "⬆️ 279 points",
+      "url": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026"
+    }
+  ],
+  "github": [
+    {
+      "title": "deepseek-ai/chat-demo: Chat Demo",
+      "hot": "⭐ 5.0k",
+      "desc": "Chat Demo",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/deepseek-ai/chat-demo"
+    },
+    {
+      "title": "krisgfx9/Wireless-Device-Battery-Monitor: Show the battery level of wireless mic",
+      "hot": "⭐ 4.2k",
+      "desc": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software ne",
+      "source": "github",
+      "tag": "C++",
+      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor"
+    },
+    {
+      "title": "erkamyaman/rust-anything: Rewrite your whole app in Rust, one piece at a time, c",
+      "hot": "⭐ 4.0k",
+      "desc": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries ",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/erkamyaman/rust-anything"
+    },
+    {
+      "title": "Noniv/abyssal-garden: A dreamy underwater world you can swim through in your bro",
+      "hot": "⭐ 2.4k",
+      "desc": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated ",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/Noniv/abyssal-garden"
+    },
+    {
+      "title": "Immortal-Protocols/lastbook: Offline knowledge AI, maps and videos for survival ",
+      "hot": "⭐ 2.2k",
+      "desc": "Offline knowledge AI, maps and videos for survival and rebuilding",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/Immortal-Protocols/lastbook"
+    },
+    {
+      "title": "ZiChuanLan/freebie-radar: 白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广",
+      "hot": "⭐ 1.7k",
+      "desc": "白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/ZiChuanLan/freebie-radar"
+    },
+    {
+      "title": "duwqijlk/muse-protocol: muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+      "hot": "⭐ 1.6k",
+      "desc": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/duwqijlk/muse-protocol"
+    },
+    {
+      "title": "Hut-hzf/ung220z-tool: ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限",
+      "hot": "⭐ 1.5k",
+      "desc": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/Hut-hzf/ung220z-tool"
+    },
+    {
+      "title": "CzzzzzzJ/mdldm-maitian: 麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大",
+      "hot": "⭐ 1.5k",
+      "desc": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/CzzzzzzJ/mdldm-maitian"
+    },
+    {
+      "title": "sybil-solutions/inference-optimisation-skill: Agent skill for hill-climbing loca",
+      "hot": "⭐ 1.2k",
+      "desc": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/sybil-solutions/inference-optimisation-skill"
+    },
+    {
+      "title": "haziqahmedqasmi/PeakCut: AI clipping for long videos and live streams. Self-host",
+      "hot": "⭐ 1.2k",
+      "desc": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/haziqahmedqasmi/PeakCut"
+    },
+    {
+      "title": "joshpuckett/allo: Allo is your friendly neighborhood typeface, free and open sou",
+      "hot": "⭐ 1.1k",
+      "desc": "Allo is your friendly neighborhood typeface, free and open source",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/joshpuckett/allo"
+    },
+    {
+      "title": "zephyr4123/snug: 让远程 Mac 在任意设备上获得原生级体验。专为 UU远程 打造的显示与触控增强：手机、平板、电脑各有专属屏幕，画面铺满、字号",
+      "hot": "⭐ 1.1k",
+      "desc": "让远程 Mac 在任意设备上获得原生级体验。专为 UU远程 打造的显示与触控增强：手机、平板、电脑各有专属屏幕，画面铺满、字号随屏，原生触屏手势，App 资源库。Make UU Remote native on any device: a dedicated screen for every pho",
+      "source": "github",
+      "tag": "Swift",
+      "url": "https://github.com/zephyr4123/snug"
+    },
+    {
+      "title": "chuanqisun/spaceship: Steer your ideas in realtime",
+      "hot": "⭐ 889",
+      "desc": "Steer your ideas in realtime",
+      "source": "github",
+      "tag": "HTML",
+      "url": "https://github.com/chuanqisun/spaceship"
+    },
+    {
+      "title": "huggingface/pybot: PyBot: a chatbot written in pure Python by a swarm of agents.",
+      "hot": "⭐ 879",
+      "desc": "PyBot: a chatbot written in pure Python by a swarm of agents. No weights, no training, just rules.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/huggingface/pybot"
     }
   ]
 }
