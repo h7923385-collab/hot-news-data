@@ -2,31 +2,79 @@
   "data": [
     {
       "title": "The CodeNewbie Podcast is Back for Season 28!",
-      "hot": "❤️ 65 💬 4",
+      "hot": "❤️ 68 💬 10",
       "desc": "Hi friends! 👋 The CodeNewbie Podcast is back for season 28, and I’m so excited to be the one hosting...",
       "source": "dev",
       "tag": "codenewbie,  ai",
       "url": "https://dev.to/codenewbie/the-codenewbie-podcast-is-back-for-season-28-2484"
     },
     {
+      "title": "Exploring Decision Models, Part 1: Putting Gemini Decision 1 to the Test",
+      "hot": "❤️ 14 💬 0",
+      "desc": "Most AI systems waste time and tokens calling a full LLM for a simple true or false. I tested Google's Gemini Decision 1",
+      "source": "dev",
+      "tag": "ai,  googlecloud",
+      "url": "https://dev.to/googleai/exploring-decision-models-part-1-putting-gemini-decision-1-to-the-test-50f0"
+    },
+    {
+      "title": "Thinking On or Off? Gemma 4 E4B on an 8 GB RTX 3050",
+      "hot": "❤️ 7 💬 0",
+      "desc": "Gemma 4 E4B on a local RTX 3050 with thinking off and on, two QAT 4-bit builds, with and without a drafter, on all 1,319",
+      "source": "dev",
+      "tag": "gemma,  llm",
+      "url": "https://dev.to/gde/thinking-on-or-off-gemma-4-e4b-on-an-8-gb-rtx-3050-5d5"
+    },
+    {
+      "title": "Tool Names Are Identifiers. Don't Autocorrect Them.",
+      "hot": "❤️ 7 💬 1",
+      "desc": "An agent contract requires retrieve_policy. The trace seems to contain retrieve_policy. The evaluator...",
+      "source": "dev",
+      "tag": "ai,  typescript",
+      "url": "https://dev.to/gde/tool-names-are-identifiers-dont-autocorrect-them-33g9"
+    },
+    {
+      "title": "Adopt Pre-Existing Docker Containers with Zero Downtime: Reverse-Engineering docker-compose.yml in Gubernator v4.0",
+      "hot": "❤️ 9 💬 0",
+      "desc": "How Gubernator v4.0 discovers pre-existing Docker containers on production hosts, reverse-engineers clean docker-compose",
+      "source": "dev",
+      "tag": "devops,  docker",
+      "url": "https://dev.to/gde/adopt-pre-existing-docker-containers-with-zero-downtime-reverse-engineering-docker-composeyml-in-3cic"
+    },
+    {
+      "title": "Major League Hacking and SpaceXSI Come Together to Support the Next Generation of Builders",
+      "hot": "❤️ 22 💬 0",
+      "desc": "This initiative  will give thousands of students in the Major League Hacking (MLH) community access...",
+      "source": "dev",
+      "tag": "ai,  hackathon",
+      "url": "https://blog.mlh.com/major-league-hacking-and-spacexsi-come-together-to-support-the-next-generation-of-builders-feh"
+    },
+    {
+      "title": "Maintaining open source projects up to date with Renovate and Antigravity",
+      "hot": "❤️ 9 💬 1",
+      "desc": "Renovate   Renovate is a tool I really appreciate. I wrote a blog post about it and gave a...",
+      "source": "dev",
+      "tag": "antigravity,  renovate",
+      "url": "https://dev.to/gde/maintaining-open-source-projects-up-to-date-with-renovate-and-antigravity-3haj"
+    },
+    {
+      "title": "Serverless Gemma 4: E2B on a Lambda GPU Function, with Google's QAT Weights and Drafter",
+      "hot": "❤️ 24 💬 1",
+      "desc": "Gemma 4 E2B with Google's QAT 4-bit weights and its assistant drafter, served by vLLM inside an AWS Lambda function on a",
+      "source": "dev",
+      "tag": "gemma,  ai",
+      "url": "https://dev.to/gde/serverless-gemma-4-e2b-on-a-lambda-gpu-function-with-googles-qat-weights-and-drafter-fh4"
+    },
+    {
       "title": "The Colab MCP Endpoint From Claude Code: Set It Up, Test It, Run a Notebook on a TPU",
-      "hot": "❤️ 22 💬 2",
+      "hot": "❤️ 24 💬 2",
       "desc": "Google's hosted Colab MCP endpoint, step by step: a token with the colaboratory scope, a quota project, registration in ",
       "source": "dev",
       "tag": "colab,  mcp",
       "url": "https://dev.to/gde/the-colab-mcp-endpoint-from-claude-code-set-it-up-test-it-run-a-notebook-on-a-tpu-4ck9"
     },
     {
-      "title": "Welcome Thread - v402",
-      "hot": "❤️ 37 💬 108",
-      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
-      "source": "dev",
-      "tag": "welcome",
-      "url": "https://dev.to/sloan/welcome-thread-v402-5d1a"
-    },
-    {
       "title": "Gemma 4 on a Hosted Colab TPU: The QAT Repack, Served in Two Minutes",
-      "hot": "❤️ 20 💬 0",
+      "hot": "❤️ 22 💬 0",
       "desc": "One notebook loads the Gemma 4 E2B QAT repack onto a Colab v5e-1, serves it behind an OpenAI-compatible endpoint with a ",
       "source": "dev",
       "tag": "gemma,  tpu",
@@ -34,19 +82,11 @@
     },
     {
       "title": "From Prototype to Production: Building AI Agents with the Claude Platform on Google Cloud",
-      "hot": "❤️ 12 💬 0",
+      "hot": "❤️ 21 💬 0",
       "desc": "Getting an AI agent working on localhost is easy. Getting that same agent into production - where it...",
       "source": "dev",
       "tag": "ai,  googlecloud",
       "url": "https://dev.to/googleai/from-prototype-to-production-building-ai-agents-with-the-claude-platform-on-google-cloud-ap7"
-    },
-    {
-      "title": "Retrieval Ran First. Was Its Result Actually Ready?",
-      "hot": "❤️ 19 💬 1",
-      "desc": "The trace starts with retrieval. Generation appears underneath it. The ordering test passes.  But...",
-      "source": "dev",
-      "tag": "ai,  typescript",
-      "url": "https://dev.to/gde/retrieval-ran-first-was-its-result-actually-ready-4oc2"
     },
     {
       "title": "RackDoc Now Includes a 100% Local AI Agent to Audit Your Infrastructure",
@@ -65,8 +105,16 @@
       "url": "https://dev.to/googlecloud/what-is-native-multimodality-3091"
     },
     {
+      "title": "Welcome Thread - v402",
+      "hot": "❤️ 41 💬 134",
+      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
+      "source": "dev",
+      "tag": "welcome",
+      "url": "https://dev.to/sloan/welcome-thread-v402-5d1a"
+    },
+    {
       "title": "Why Your AI Agent Keeps Forgetting (and Getting Slower): 4 Memory Options and 3 Context Fixes",
-      "hot": "❤️ 13 💬 2",
+      "hot": "❤️ 14 💬 4",
       "desc": "Most AI agents have two memory problems. They forget what a user told them last week, and every turn...",
       "source": "dev",
       "tag": "ai,  agents",
@@ -74,7 +122,7 @@
     },
     {
       "title": "Thinking On or Off? Gemma 4 E2B on an 8 GB RTX 3050",
-      "hot": "❤️ 24 💬 7",
+      "hot": "❤️ 25 💬 7",
       "desc": "Gemma 4 E2B on a local RTX 3050 with thinking off and on, two QAT 4-bit builds, with and without a drafter, on all 1,319",
       "source": "dev",
       "tag": "gemma,  llm",
@@ -97,69 +145,21 @@
       "url": "https://dev.to/philschmid/fast-multimodal-control-flow-with-the-gemini-decisions-api-533b"
     },
     {
+      "title": "Retrieval Ran First. Was Its Result Actually Ready?",
+      "hot": "❤️ 21 💬 6",
+      "desc": "The trace starts with retrieval. Generation appears underneath it. The ordering test passes.  But...",
+      "source": "dev",
+      "tag": "ai,  typescript",
+      "url": "https://dev.to/gde/retrieval-ran-first-was-its-result-actually-ready-4oc2"
+    },
+    {
       "title": "How did you end up in tech, and are you staying?",
-      "hot": "❤️ 161 💬 77",
+      "hot": "❤️ 162 💬 77",
       "desc": "Last week you showed me where you code. This week I want to know how you ended up there in the first...",
       "source": "dev",
       "tag": "discuss,  career",
       "url": "https://dev.to/maame-codes/how-did-you-end-up-in-tech-and-are-you-staying-4l9b"
-    },
-    {
-      "title": "Prompt Pad: What Are Tokens?",
-      "hot": "❤️ 7 💬 0",
-      "desc": "Your AI doesn't read your prompt word for word. It reads tokens.  In this episode of Prompt Pad,...",
-      "source": "dev",
-      "tag": "ai,  beginners",
-      "url": "https://blog.mlh.com/prompt-pad-what-are-tokens-gec"
-    },
-    {
-      "title": "Count Attempts, Not JSONL Rows",
-      "hot": "❤️ 22 💬 3",
-      "desc": "A trace contains six records with the same tool name. How many times did the agent try the...",
-      "source": "dev",
-      "tag": "ai,  typescript",
-      "url": "https://dev.to/gde/count-attempts-not-jsonl-rows-2pn2"
-    },
-    {
-      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine Winners!",
-      "hot": "❤️ 117 💬 52",
-      "desc": "The results are in for the final week of our Hacktoberfest DEV Challenges! For Ghost in the Machine,...",
-      "source": "dev",
-      "tag": "devchallenge,  hf26challenge",
-      "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-4-ghost-in-the-machine-winners-nok"
-    },
-    {
-      "title": "Detecting WasmPlugin version drift in Cloud Load Balancing Service Extensions",
-      "hot": "❤️ 5 💬 1",
-      "desc": "When you attach a WebAssembly (Wasm) plugin to an Application Load Balancer with Service Extensions,...",
-      "source": "dev",
-      "tag": "googlecloud,  networking",
-      "url": "https://dev.to/googlecloud/detecting-wasmplugin-version-drift-in-cloud-load-balancing-service-extensions-52p5"
-    },
-    {
-      "title": "One model gateway across clouds: LiteLLM on Cloud Run and Azure with zero API keys",
-      "hot": "❤️ 24 💬 10",
-      "desc": "One LiteLLM per cloud, on Cloud Run and Azure Container Apps. Agents reach Gemini and Azure OpenAI with their own identi",
-      "source": "dev",
-      "tag": "googlecloud,  azure",
-      "url": "https://dev.to/gde/one-model-gateway-across-clouds-litellm-on-cloud-run-and-azure-with-zero-api-keys-3ma7"
-    },
-    {
-      "title": "Long Live Rails",
-      "hot": "❤️ 141 💬 24",
-      "desc": "When DHH took the stage at Rails World 2026 and talked openly about going \"pencils down\" on...",
-      "source": "dev",
-      "tag": "rails,  ruby",
-      "url": "https://dev.to/ben/long-live-rails-3p21"
-    },
-    {
-      "title": "An MCP Tool Call Can Resolve and Still Fail",
-      "hot": "❤️ 25 💬 33",
-      "desc": "An await finishes. The application returns a result. The trace contains a completed tool span. The...",
-      "source": "dev",
-      "tag": "ai,  typescript",
-      "url": "https://dev.to/gde/an-mcp-tool-call-can-resolve-and-still-fail-52kc"
     }
   ],
-  "updatedAt": "2026-11-19T09:32:47.487Z"
+  "updatedAt": "2026-11-19T18:41:51.366Z"
 }

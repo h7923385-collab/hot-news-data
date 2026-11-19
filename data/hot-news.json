@@ -1,34 +1,82 @@
 {
-  "updatedAt": "2026-11-19T09:32:47.487Z",
+  "updatedAt": "2026-11-19T18:41:51.366Z",
   "source": "live",
   "dev": [
     {
       "title": "The CodeNewbie Podcast is Back for Season 28!",
-      "hot": "❤️ 65 💬 4",
+      "hot": "❤️ 68 💬 10",
       "desc": "Hi friends! 👋 The CodeNewbie Podcast is back for season 28, and I’m so excited to be the one hosting...",
       "source": "dev",
       "tag": "codenewbie,  ai",
       "url": "https://dev.to/codenewbie/the-codenewbie-podcast-is-back-for-season-28-2484"
     },
     {
+      "title": "Exploring Decision Models, Part 1: Putting Gemini Decision 1 to the Test",
+      "hot": "❤️ 14 💬 0",
+      "desc": "Most AI systems waste time and tokens calling a full LLM for a simple true or false. I tested Google's Gemini Decision 1",
+      "source": "dev",
+      "tag": "ai,  googlecloud",
+      "url": "https://dev.to/googleai/exploring-decision-models-part-1-putting-gemini-decision-1-to-the-test-50f0"
+    },
+    {
+      "title": "Thinking On or Off? Gemma 4 E4B on an 8 GB RTX 3050",
+      "hot": "❤️ 7 💬 0",
+      "desc": "Gemma 4 E4B on a local RTX 3050 with thinking off and on, two QAT 4-bit builds, with and without a drafter, on all 1,319",
+      "source": "dev",
+      "tag": "gemma,  llm",
+      "url": "https://dev.to/gde/thinking-on-or-off-gemma-4-e4b-on-an-8-gb-rtx-3050-5d5"
+    },
+    {
+      "title": "Tool Names Are Identifiers. Don't Autocorrect Them.",
+      "hot": "❤️ 7 💬 1",
+      "desc": "An agent contract requires retrieve_policy. The trace seems to contain retrieve_policy. The evaluator...",
+      "source": "dev",
+      "tag": "ai,  typescript",
+      "url": "https://dev.to/gde/tool-names-are-identifiers-dont-autocorrect-them-33g9"
+    },
+    {
+      "title": "Adopt Pre-Existing Docker Containers with Zero Downtime: Reverse-Engineering docker-compose.yml in Gubernator v4.0",
+      "hot": "❤️ 9 💬 0",
+      "desc": "How Gubernator v4.0 discovers pre-existing Docker containers on production hosts, reverse-engineers clean docker-compose",
+      "source": "dev",
+      "tag": "devops,  docker",
+      "url": "https://dev.to/gde/adopt-pre-existing-docker-containers-with-zero-downtime-reverse-engineering-docker-composeyml-in-3cic"
+    },
+    {
+      "title": "Major League Hacking and SpaceXSI Come Together to Support the Next Generation of Builders",
+      "hot": "❤️ 22 💬 0",
+      "desc": "This initiative  will give thousands of students in the Major League Hacking (MLH) community access...",
+      "source": "dev",
+      "tag": "ai,  hackathon",
+      "url": "https://blog.mlh.com/major-league-hacking-and-spacexsi-come-together-to-support-the-next-generation-of-builders-feh"
+    },
+    {
+      "title": "Maintaining open source projects up to date with Renovate and Antigravity",
+      "hot": "❤️ 9 💬 1",
+      "desc": "Renovate   Renovate is a tool I really appreciate. I wrote a blog post about it and gave a...",
+      "source": "dev",
+      "tag": "antigravity,  renovate",
+      "url": "https://dev.to/gde/maintaining-open-source-projects-up-to-date-with-renovate-and-antigravity-3haj"
+    },
+    {
+      "title": "Serverless Gemma 4: E2B on a Lambda GPU Function, with Google's QAT Weights and Drafter",
+      "hot": "❤️ 24 💬 1",
+      "desc": "Gemma 4 E2B with Google's QAT 4-bit weights and its assistant drafter, served by vLLM inside an AWS Lambda function on a",
+      "source": "dev",
+      "tag": "gemma,  ai",
+      "url": "https://dev.to/gde/serverless-gemma-4-e2b-on-a-lambda-gpu-function-with-googles-qat-weights-and-drafter-fh4"
+    },
+    {
       "title": "The Colab MCP Endpoint From Claude Code: Set It Up, Test It, Run a Notebook on a TPU",
-      "hot": "❤️ 22 💬 2",
+      "hot": "❤️ 24 💬 2",
       "desc": "Google's hosted Colab MCP endpoint, step by step: a token with the colaboratory scope, a quota project, registration in ",
       "source": "dev",
       "tag": "colab,  mcp",
       "url": "https://dev.to/gde/the-colab-mcp-endpoint-from-claude-code-set-it-up-test-it-run-a-notebook-on-a-tpu-4ck9"
     },
     {
-      "title": "Welcome Thread - v402",
-      "hot": "❤️ 37 💬 108",
-      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
-      "source": "dev",
-      "tag": "welcome",
-      "url": "https://dev.to/sloan/welcome-thread-v402-5d1a"
-    },
-    {
       "title": "Gemma 4 on a Hosted Colab TPU: The QAT Repack, Served in Two Minutes",
-      "hot": "❤️ 20 💬 0",
+      "hot": "❤️ 22 💬 0",
       "desc": "One notebook loads the Gemma 4 E2B QAT repack onto a Colab v5e-1, serves it behind an OpenAI-compatible endpoint with a ",
       "source": "dev",
       "tag": "gemma,  tpu",
@@ -36,19 +84,11 @@
     },
     {
       "title": "From Prototype to Production: Building AI Agents with the Claude Platform on Google Cloud",
-      "hot": "❤️ 12 💬 0",
+      "hot": "❤️ 21 💬 0",
       "desc": "Getting an AI agent working on localhost is easy. Getting that same agent into production - where it...",
       "source": "dev",
       "tag": "ai,  googlecloud",
       "url": "https://dev.to/googleai/from-prototype-to-production-building-ai-agents-with-the-claude-platform-on-google-cloud-ap7"
-    },
-    {
-      "title": "Retrieval Ran First. Was Its Result Actually Ready?",
-      "hot": "❤️ 19 💬 1",
-      "desc": "The trace starts with retrieval. Generation appears underneath it. The ordering test passes.  But...",
-      "source": "dev",
-      "tag": "ai,  typescript",
-      "url": "https://dev.to/gde/retrieval-ran-first-was-its-result-actually-ready-4oc2"
     },
     {
       "title": "RackDoc Now Includes a 100% Local AI Agent to Audit Your Infrastructure",
@@ -67,8 +107,16 @@
       "url": "https://dev.to/googlecloud/what-is-native-multimodality-3091"
     },
     {
+      "title": "Welcome Thread - v402",
+      "hot": "❤️ 41 💬 134",
+      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
+      "source": "dev",
+      "tag": "welcome",
+      "url": "https://dev.to/sloan/welcome-thread-v402-5d1a"
+    },
+    {
       "title": "Why Your AI Agent Keeps Forgetting (and Getting Slower): 4 Memory Options and 3 Context Fixes",
-      "hot": "❤️ 13 💬 2",
+      "hot": "❤️ 14 💬 4",
       "desc": "Most AI agents have two memory problems. They forget what a user told them last week, and every turn...",
       "source": "dev",
       "tag": "ai,  agents",
@@ -76,7 +124,7 @@
     },
     {
       "title": "Thinking On or Off? Gemma 4 E2B on an 8 GB RTX 3050",
-      "hot": "❤️ 24 💬 7",
+      "hot": "❤️ 25 💬 7",
       "desc": "Gemma 4 E2B on a local RTX 3050 with thinking off and on, two QAT 4-bit builds, with and without a drafter, on all 1,319",
       "source": "dev",
       "tag": "gemma,  llm",
@@ -99,71 +147,241 @@
       "url": "https://dev.to/philschmid/fast-multimodal-control-flow-with-the-gemini-decisions-api-533b"
     },
     {
+      "title": "Retrieval Ran First. Was Its Result Actually Ready?",
+      "hot": "❤️ 21 💬 6",
+      "desc": "The trace starts with retrieval. Generation appears underneath it. The ordering test passes.  But...",
+      "source": "dev",
+      "tag": "ai,  typescript",
+      "url": "https://dev.to/gde/retrieval-ran-first-was-its-result-actually-ready-4oc2"
+    },
+    {
       "title": "How did you end up in tech, and are you staying?",
-      "hot": "❤️ 161 💬 77",
+      "hot": "❤️ 162 💬 77",
       "desc": "Last week you showed me where you code. This week I want to know how you ended up there in the first...",
       "source": "dev",
       "tag": "discuss,  career",
       "url": "https://dev.to/maame-codes/how-did-you-end-up-in-tech-and-are-you-staying-4l9b"
+    }
+  ],
+  "tech": [
+    {
+      "title": "Anthropic hits $2T in Nasdaq debut",
+      "hot": "3.0m",
+      "desc": "reuters.com",
+      "source": "tech",
+      "tag": "⬆️ 226 points",
+      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/"
     },
     {
-      "title": "Prompt Pad: What Are Tokens?",
-      "hot": "❤️ 7 💬 0",
-      "desc": "Your AI doesn't read your prompt word for word. It reads tokens.  In this episode of Prompt Pad,...",
-      "source": "dev",
-      "tag": "ai,  beginners",
-      "url": "https://blog.mlh.com/prompt-pad-what-are-tokens-gec"
+      "title": "Claude Fable 5.2 solves two open problems in the physics of black holes",
+      "hot": "3.0m",
+      "desc": "anthropic.com",
+      "source": "tech",
+      "tag": "⬆️ 102 points",
+      "url": "https://www.anthropic.com/research/claude-black-hole-physics"
     },
     {
-      "title": "Count Attempts, Not JSONL Rows",
-      "hot": "❤️ 22 💬 3",
-      "desc": "A trace contains six records with the same tool name. How many times did the agent try the...",
-      "source": "dev",
-      "tag": "ai,  typescript",
-      "url": "https://dev.to/gde/count-attempts-not-jsonl-rows-2pn2"
+      "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+      "hot": "3.0m",
+      "desc": "thedataexchange.media",
+      "source": "tech",
+      "tag": "⬆️ 145 points",
+      "url": "https://thedataexchange.media/pete-warden-moonshine/"
     },
     {
-      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine Winners!",
-      "hot": "❤️ 117 💬 52",
-      "desc": "The results are in for the final week of our Hacktoberfest DEV Challenges! For Ghost in the Machine,...",
-      "source": "dev",
-      "tag": "devchallenge,  hf26challenge",
-      "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-4-ghost-in-the-machine-winners-nok"
+      "title": "Garage Door Spam",
+      "hot": "3.0m",
+      "desc": "blog.harrison.page",
+      "source": "tech",
+      "tag": "⬆️ 542 points",
+      "url": "https://blog.harrison.page/garage-door-spam/"
     },
     {
-      "title": "Detecting WasmPlugin version drift in Cloud Load Balancing Service Extensions",
-      "hot": "❤️ 5 💬 1",
-      "desc": "When you attach a WebAssembly (Wasm) plugin to an Application Load Balancer with Service Extensions,...",
-      "source": "dev",
-      "tag": "googlecloud,  networking",
-      "url": "https://dev.to/googlecloud/detecting-wasmplugin-version-drift-in-cloud-load-balancing-service-extensions-52p5"
+      "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 34 points",
+      "url": "https://github.com/onlook-dev/onlook/"
     },
     {
-      "title": "One model gateway across clouds: LiteLLM on Cloud Run and Azure with zero API keys",
-      "hot": "❤️ 24 💬 10",
-      "desc": "One LiteLLM per cloud, on Cloud Run and Azure Container Apps. Agents reach Gemini and Azure OpenAI with their own identi",
-      "source": "dev",
-      "tag": "googlecloud,  azure",
-      "url": "https://dev.to/gde/one-model-gateway-across-clouds-litellm-on-cloud-run-and-azure-with-zero-api-keys-3ma7"
+      "title": "I built Cornhole News. A Hacker News inspired site for news across the Midwest",
+      "hot": "2.9m",
+      "desc": "cornholenews.news",
+      "source": "tech",
+      "tag": "⬆️ 83 points",
+      "url": "https://cornholenews.news"
     },
     {
-      "title": "Long Live Rails",
-      "hot": "❤️ 141 💬 24",
-      "desc": "When DHH took the stage at Rails World 2026 and talked openly about going \"pencils down\" on...",
-      "source": "dev",
-      "tag": "rails,  ruby",
-      "url": "https://dev.to/ben/long-live-rails-3p21"
+      "title": "UK Government Forced to Admit It Issued Apple a Secret Encryption Order",
+      "hot": "2.9m",
+      "desc": "macanorak.com",
+      "source": "tech",
+      "tag": "⬆️ 168 points",
+      "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/"
     },
     {
-      "title": "An MCP Tool Call Can Resolve and Still Fail",
-      "hot": "❤️ 25 💬 33",
-      "desc": "An await finishes. The application returns a result. The trace contains a completed tool span. The...",
-      "source": "dev",
-      "tag": "ai,  typescript",
-      "url": "https://dev.to/gde/an-mcp-tool-call-can-resolve-and-still-fail-52kc"
+      "title": "Someone reported java4shell bug in September 2026",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 208 points",
+      "url": "https://github.com/openjdk/jdk/pull/32781"
+    },
+    {
+      "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
+      "hot": "2.9m",
+      "desc": "krthr.co",
+      "source": "tech",
+      "tag": "⬆️ 144 points",
+      "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/"
+    },
+    {
+      "title": "How the European Commission rolled out Matrix to more than 40k staff",
+      "hot": "2.9m",
+      "desc": "element.io",
+      "source": "tech",
+      "tag": "⬆️ 572 points",
+      "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/"
+    },
+    {
+      "title": "Nintendo takes Picofly firmware down from GitHub [video]",
+      "hot": "2.9m",
+      "desc": "youtube.com",
+      "source": "tech",
+      "tag": "⬆️ 189 points",
+      "url": "https://www.youtube.com/watch?v=-TLCGUpoD6c"
+    },
+    {
+      "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+      "hot": "2.8m",
+      "desc": "verialabs.com",
+      "source": "tech",
+      "tag": "⬆️ 326 points",
+      "url": "https://verialabs.com/ruby2shell/"
+    },
+    {
+      "title": "How to Make the Ink Used to Write Hamlet and the Declaration of Independence",
+      "hot": "2.8m",
+      "desc": "lithub.com",
+      "source": "tech",
+      "tag": "⬆️ 35 points",
+      "url": "https://lithub.com/how-to-make-the-ink-used-to-write-hamlet-the-declaration-of-independence-and-beethovens-fifth/"
+    },
+    {
+      "title": "What's New in PHP 8.6",
+      "hot": "2.8m",
+      "desc": "php.net",
+      "source": "tech",
+      "tag": "⬆️ 228 points",
+      "url": "https://www.php.net/releases/8.6/en.php"
+    },
+    {
+      "title": "Everything you need to survive and rebuild society",
+      "hot": "2.8m",
+      "desc": "lastbook.org",
+      "source": "tech",
+      "tag": "⬆️ 232 points",
+      "url": "https://lastbook.org/"
+    },
+    {
+      "title": "Cooling buildings is overtaking heating them as an energy need, IEA says",
+      "hot": "2.8m",
+      "desc": "maccus.fr",
+      "source": "tech",
+      "tag": "⬆️ 107 points",
+      "url": "https://maccus.fr/en/cooling-overtaking-heating/"
+    },
+    {
+      "title": "Chile: UFO Sightings by 18th Century Jesuits",
+      "hot": "2.8m",
+      "desc": "inexplicata.blogspot.com",
+      "source": "tech",
+      "tag": "⬆️ 4 points",
+      "url": "https://inexplicata.blogspot.com/2026/08/chile-ufo-sightings-by-18th-century.html"
+    },
+    {
+      "title": "Show HN: Neoma P-CAM – Sub-millisecond physical equilibrium and 64-spin Ising",
+      "hot": "2.7m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 8 points",
+      "url": "https://github.com/neoma-pcam/pcam-live"
+    },
+    {
+      "title": "An Oregon library ditched Dewey Decimal and got people excited about books again",
+      "hot": "2.7m",
+      "desc": "fastcompany.com",
+      "source": "tech",
+      "tag": "⬆️ 110 points",
+      "url": "https://www.fastcompany.com/91597520/oregon-library-ditched-dewey-decimal-wayfinding-system"
+    },
+    {
+      "title": "Unblockable communication with gravity",
+      "hot": "2.7m",
+      "desc": "science.org",
+      "source": "tech",
+      "tag": "⬆️ 73 points",
+      "url": "https://www.science.org/doi/10.1126/sciadv.aee0802"
     }
   ],
   "space": [
+    {
+      "title": "The sweet spot for constellation size",
+      "hot": "11/19",
+      "desc": "\nIn this episode of Space Minds, SpaceNews’ Mike Gruss speaks with Jan Smolders, the chief commercial officer at Space Inventor. During a conversation",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/the-sweet-spot-for-constellation-size/"
+    },
+    {
+      "title": "Making the case for optical",
+      "hot": "11/19",
+      "desc": "\nIn this episode of Space Minds, SpaceNews’ Mike Gruss speaks with Jean-François Morizur, the co-founder and CEO of Cailabs, at Space Tech Expo Europe",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/making-the-case-for-optical/"
+    },
+    {
+      "title": "NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars",
+      "hot": "11/19",
+      "desc": "Open data from NASA’s Fermi mission helped an international team of scientists develop a method for finding pulsars about a million times faster than ",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/"
+    },
+    {
+      "title": "Lake Pelku",
+      "hot": "11/19",
+      "desc": "An astronaut on the International Space Station captured this photograph of Lake Pelku (near center) as the station orbited above Asia. The Internatio",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/image-article/lake-pelku/"
+    },
+    {
+      "title": "NASA Conducts Latest RS-25 Engine Test in Support of Future Artemis Missions",
+      "hot": "11/19",
+      "desc": "NASA tested RS-25 engine No. 10001 on Nov. 18 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Test teams ",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/image-article/latest-rs-25-engine-test-in-support-of-future-artemis-missions/"
+    },
+    {
+      "title": "NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth",
+      "hot": "11/19",
+      "desc": "NASA’s Voyager 1 probe, humanity’s farthest-flying spacecraft, has reached one light-day from Earth, after more than 49 years of constant travel. A li",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/"
+    },
+    {
+      "title": "To make Moon landings easier, NASA is making life harder for Orion",
+      "hot": "11/19",
+      "desc": "\"We also have a responsibility to not go too fast and cut too many corners.\"",
+      "source": "space",
+      "tag": "Arstechnica",
+      "url": "https://arstechnica.com/space/2026/11/to-make-moon-landings-easier-nasa-is-making-life-harder-for-orion/"
+    },
     {
       "title": "ESA Awards OHB €102M Contract for ClearSpace-1 Debris Removal Mission",
       "hot": "11/19",
@@ -227,224 +445,6 @@
       "source": "space",
       "tag": "NASASpaceflight",
       "url": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/"
-    },
-    {
-      "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
-      "hot": "11/18",
-      "desc": "United Launch Alliance said Wednesday that a preliminary review of flight data points to an inadequate supply of fuel to the Blue Origin-manufactured ",
-      "source": "space",
-      "tag": "Spaceflight Now",
-      "url": "https://spaceflightnow.com/2026/11/18/vulcan-failure-investigation-focuses-on-inadequate-fuel-supply-to-booster-engines/"
-    },
-    {
-      "title": "All Points Logistics Announces Partnership with Expeditors for Space Prep Logistics Center at Kennedy Space Center",
-      "hot": "11/18",
-      "desc": "\nMERRITT ISLAND, FL, November 18, 2026 — All Points Logistics has announced a partnership with Expeditors International of Washington, Inc. (NYSE: EXP",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/all-points-logistics-announces-partnership-with-expeditors-for-space-prep-logistics-center-at-kennedy-space-center/"
-    },
-    {
-      "title": "Insufficient Fuel Flow May Have Doomed Vulcan",
-      "hot": "11/18",
-      "desc": "The United Launch Alliance said today that insufficient fuel flow from the launch vehicle to the BE-4 engines may have led to the failure of Vulcan Le",
-      "source": "space",
-      "tag": "SpacePolicyOnline.com",
-      "url": "https://spacepolicyonline.com/news/insufficient-fuel-flow-may-have-doomed-vulcan/"
-    },
-    {
-      "title": "MAF EAP – Holidays – How to manage the BAH HUMBUG that tries to sneak in",
-      "hot": "11/18",
-      "desc": "Holidays are often a fun break during a busy year – a long weekend here and there is an event many of us can get behind.  However, when a short holida",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/centers-and-facilities/michoud/maf-eap/maf-eap-holidays-how-to-manage-the-bah-humbug-that-tries-to-sneak-in/"
-    },
-    {
-      "title": "NASA Announces Mid-Power Electric Rocket Challenge for US Companies",
-      "hot": "11/18",
-      "desc": "NASA launched a new competition inviting U.S. companies to produce prototypes of mid-power Hall effect thrusters – a type of electric propulsion syste",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-announces-mid-power-electric-rocket-challenge-for-us-companies/"
-    },
-    {
-      "title": "Empire State Building Goes Gold for Voyager",
-      "hot": "11/18",
-      "desc": "The Empire State Building is seen illuminated in gold to celebrate NASA’s Voyager 1 spacecraft as it was about to pass one light-day away from Earth, ",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/image-article/empire-state-building-goes-gold-for-voyager/"
-    },
-    {
-      "title": "NASA’s Voyager 1 is one light-day from Earth",
-      "hot": "11/18",
-      "desc": "NASA's Voyager 1 spacecraft became the first human-made object to reach a distance of one light-day from Earth early Wednesday, crossing the threshold",
-      "source": "space",
-      "tag": "Spaceflight Now",
-      "url": "https://spaceflightnow.com/2026/11/18/nasas-voyager-1-is-one-light-day-from-earth/"
-    }
-  ],
-  "tech": [
-    {
-      "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
-      "hot": "3.0m",
-      "desc": "verialabs.com",
-      "source": "tech",
-      "tag": "⬆️ 68 points",
-      "url": "https://verialabs.com/ruby2shell/"
-    },
-    {
-      "title": "Gemini 4 Neon",
-      "hot": "3.0m",
-      "desc": "blog.google",
-      "source": "tech",
-      "tag": "⬆️ 810 points",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
-    },
-    {
-      "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
-      "hot": "3.0m",
-      "desc": "kapteko.com",
-      "source": "tech",
-      "tag": "⬆️ 114 points",
-      "url": "https://kapteko.com/15-million-webservers/"
-    },
-    {
-      "title": "Unauthenticated remote code execution in Nginx",
-      "hot": "3.0m",
-      "desc": "wiz.io",
-      "source": "tech",
-      "tag": "⬆️ 1363 points",
-      "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities"
-    },
-    {
-      "title": "SSD prices will start going down the second half of next year",
-      "hot": "2.9m",
-      "desc": "drivevault.io",
-      "source": "tech",
-      "tag": "⬆️ 5 points",
-      "url": "https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html"
-    },
-    {
-      "title": "The first ping from Tonga (1997)",
-      "hot": "2.9m",
-      "desc": "colo.to",
-      "source": "tech",
-      "tag": "⬆️ 17 points",
-      "url": "https://colo.to/firstping.html"
-    },
-    {
-      "title": "Multiple vulnerabilities in Regexp and String case conversion",
-      "hot": "2.9m",
-      "desc": "ruby-lang.org",
-      "source": "tech",
-      "tag": "⬆️ 251 points",
-      "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/"
-    },
-    {
-      "title": "Distributed, high-performance blob storage on SQLite",
-      "hot": "2.9m",
-      "desc": "zerodha.tech",
-      "source": "tech",
-      "tag": "⬆️ 9 points",
-      "url": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/"
-    },
-    {
-      "title": "Seven new models at scalable price-performance",
-      "hot": "2.9m",
-      "desc": "microsoft.ai",
-      "source": "tech",
-      "tag": "⬆️ 537 points",
-      "url": "https://microsoft.ai/news/microsoft-ignite-2026/"
-    },
-    {
-      "title": "Anthropic prices initial public offering",
-      "hot": "2.9m",
-      "desc": "anthropic.com",
-      "source": "tech",
-      "tag": "⬆️ 207 points",
-      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
-    },
-    {
-      "title": "Inside Deutsche Bank",
-      "hot": "2.9m",
-      "desc": "inside-db.com",
-      "source": "tech",
-      "tag": "⬆️ 686 points",
-      "url": "https://www.inside-db.com/"
-    },
-    {
-      "title": "LLM assisted reverse engineering",
-      "hot": "2.8m",
-      "desc": "slowchronicle.com",
-      "source": "tech",
-      "tag": "⬆️ 204 points",
-      "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering"
-    },
-    {
-      "title": "Axelera Titania Brings Native FP8 and FP4 to In-Memory Compute",
-      "hot": "2.8m",
-      "desc": "futurumgroup.com",
-      "source": "tech",
-      "tag": "⬆️ 30 points",
-      "url": "https://futurumgroup.com/insights/axelera-titania-brings-native-fp8-and-fp4-to-in-memory-compute/"
-    },
-    {
-      "title": "DaisyRose-27B",
-      "hot": "2.8m",
-      "desc": "radixark.com",
-      "source": "tech",
-      "tag": "⬆️ 210 points",
-      "url": "https://www.radixark.com/blog/daisyrose-27b"
-    },
-    {
-      "title": "Genie 4 is now available",
-      "hot": "2.8m",
-      "desc": "blog.google",
-      "source": "tech",
-      "tag": "⬆️ 251 points",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/"
-    },
-    {
-      "title": "Dumping an AES key from a MyQ garage opener to stop rebooting when offline",
-      "hot": "2.8m",
-      "desc": "kusha.me",
-      "source": "tech",
-      "tag": "⬆️ 125 points",
-      "url": "https://kusha.me/blog/stop_myq_homebridge_819lmb_rebooting/"
-    },
-    {
-      "title": "Show HN: An API for word timestamps from speech, 75% within 20ms",
-      "hot": "2.8m",
-      "desc": "quebec.yarn.so",
-      "source": "tech",
-      "tag": "⬆️ 22 points",
-      "url": "https://quebec.yarn.so"
-    },
-    {
-      "title": "Mosquitoes are Ladakh's latest tourists",
-      "hot": "2.7m",
-      "desc": "ruralindiaonline.org",
-      "source": "tech",
-      "tag": "⬆️ 48 points",
-      "url": "https://ruralindiaonline.org/article/mosquitoes-are-ladakh-s-latest-tourists"
-    },
-    {
-      "title": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
-      "hot": "2.7m",
-      "desc": "news.ycombinator.com",
-      "source": "tech",
-      "tag": "⬆️ 93 points",
-      "url": "https://news.ycombinator.com/item?id=50548660"
-    },
-    {
-      "title": "The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026",
-      "hot": "2.7m",
-      "desc": "cam.ac.uk",
-      "source": "tech",
-      "tag": "⬆️ 279 points",
-      "url": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026"
     }
   ],
   "github": [
@@ -457,24 +457,24 @@
       "url": "https://github.com/deepseek-ai/chat-demo"
     },
     {
-      "title": "krisgfx9/Wireless-Device-Battery-Monitor: Show the battery level of wireless mic",
-      "hot": "⭐ 4.2k",
-      "desc": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software ne",
-      "source": "github",
-      "tag": "C++",
-      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor"
-    },
-    {
       "title": "erkamyaman/rust-anything: Rewrite your whole app in Rust, one piece at a time, c",
-      "hot": "⭐ 4.0k",
+      "hot": "⭐ 4.9k",
       "desc": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries ",
       "source": "github",
       "tag": "Rust",
       "url": "https://github.com/erkamyaman/rust-anything"
     },
     {
+      "title": "krisgfx9/Wireless-Device-Battery-Monitor: Show the battery level of wireless mic",
+      "hot": "⭐ 4.5k",
+      "desc": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software ne",
+      "source": "github",
+      "tag": "C++",
+      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor"
+    },
+    {
       "title": "Noniv/abyssal-garden: A dreamy underwater world you can swim through in your bro",
-      "hot": "⭐ 2.4k",
+      "hot": "⭐ 2.5k",
       "desc": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated ",
       "source": "github",
       "tag": "JavaScript",
@@ -482,43 +482,59 @@
     },
     {
       "title": "Immortal-Protocols/lastbook: Offline knowledge AI, maps and videos for survival ",
-      "hot": "⭐ 2.2k",
+      "hot": "⭐ 2.5k",
       "desc": "Offline knowledge AI, maps and videos for survival and rebuilding",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/Immortal-Protocols/lastbook"
     },
     {
+      "title": "gylive/google-ultra: ",
+      "hot": "⭐ 2.4k",
+      "desc": "gylive/google-ultra",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/gylive/google-ultra"
+    },
+    {
       "title": "ZiChuanLan/freebie-radar: 白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广",
-      "hot": "⭐ 1.7k",
+      "hot": "⭐ 1.8k",
       "desc": "白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/ZiChuanLan/freebie-radar"
     },
     {
-      "title": "duwqijlk/muse-protocol: muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
-      "hot": "⭐ 1.6k",
-      "desc": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/duwqijlk/muse-protocol"
-    },
-    {
       "title": "Hut-hzf/ung220z-tool: ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限",
-      "hot": "⭐ 1.5k",
+      "hot": "⭐ 1.7k",
       "desc": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/Hut-hzf/ung220z-tool"
     },
     {
+      "title": "duwqijlk/muse-protocol: muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+      "hot": "⭐ 1.7k",
+      "desc": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/duwqijlk/muse-protocol"
+    },
+    {
       "title": "CzzzzzzJ/mdldm-maitian: 麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大",
-      "hot": "⭐ 1.5k",
+      "hot": "⭐ 1.6k",
       "desc": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
       "source": "github",
       "tag": "JavaScript",
       "url": "https://github.com/CzzzzzzJ/mdldm-maitian"
+    },
+    {
+      "title": "haziqahmedqasmi/PeakCut: AI clipping for long videos and live streams. Self-host",
+      "hot": "⭐ 1.3k",
+      "desc": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/haziqahmedqasmi/PeakCut"
     },
     {
       "title": "sybil-solutions/inference-optimisation-skill: Agent skill for hill-climbing loca",
@@ -529,14 +545,6 @@
       "url": "https://github.com/sybil-solutions/inference-optimisation-skill"
     },
     {
-      "title": "haziqahmedqasmi/PeakCut: AI clipping for long videos and live streams. Self-host",
-      "hot": "⭐ 1.2k",
-      "desc": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/haziqahmedqasmi/PeakCut"
-    },
-    {
       "title": "joshpuckett/allo: Allo is your friendly neighborhood typeface, free and open sou",
       "hot": "⭐ 1.1k",
       "desc": "Allo is your friendly neighborhood typeface, free and open source",
@@ -545,28 +553,20 @@
       "url": "https://github.com/joshpuckett/allo"
     },
     {
-      "title": "zephyr4123/snug: 让远程 Mac 在任意设备上获得原生级体验。专为 UU远程 打造的显示与触控增强：手机、平板、电脑各有专属屏幕，画面铺满、字号",
+      "title": "zephyr4123/snug: 让远程 Mac 在任意设备上获得原生级体验。专为 UU远程 打造的显示与触控增强：手机、平板、电脑各有专属屏幕，画��铺满、字",
       "hot": "⭐ 1.1k",
-      "desc": "让远程 Mac 在任意设备上获得原生级体验。专为 UU远程 打造的显示与触控增强：手机、平板、电脑各有专属屏幕，画面铺满、字号随屏，原生触屏手势，App 资源库。Make UU Remote native on any device: a dedicated screen for every pho",
+      "desc": "让远程 Mac 在任意设备上获得原生级体验。专为 UU远程 打造的显示与触控增强：手机、平板、电脑各有专属屏幕，画��铺满、字号随屏，原生触屏手势，App 资源库。Make UU Remote native on any device: a dedicated screen for every ph",
       "source": "github",
       "tag": "Swift",
       "url": "https://github.com/zephyr4123/snug"
     },
     {
       "title": "chuanqisun/spaceship: Steer your ideas in realtime",
-      "hot": "⭐ 889",
+      "hot": "⭐ 931",
       "desc": "Steer your ideas in realtime",
       "source": "github",
       "tag": "HTML",
       "url": "https://github.com/chuanqisun/spaceship"
-    },
-    {
-      "title": "huggingface/pybot: PyBot: a chatbot written in pure Python by a swarm of agents.",
-      "hot": "⭐ 879",
-      "desc": "PyBot: a chatbot written in pure Python by a swarm of agents. No weights, no training, just rules.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/huggingface/pybot"
     }
   ]
 }
