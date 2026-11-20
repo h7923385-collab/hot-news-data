@@ -2,67 +2,99 @@
   "data": [
     {
       "title": "The CodeNewbie Podcast is Back for Season 28!",
-      "hot": "❤️ 68 💬 10",
+      "hot": "❤️ 69 💬 10",
       "desc": "Hi friends! 👋 The CodeNewbie Podcast is back for season 28, and I’m so excited to be the one hosting...",
       "source": "dev",
       "tag": "codenewbie,  ai",
       "url": "https://dev.to/codenewbie/the-codenewbie-podcast-is-back-for-season-28-2484"
     },
     {
-      "title": "Exploring Decision Models, Part 1: Putting Gemini Decision 1 to the Test",
-      "hot": "❤️ 14 💬 0",
-      "desc": "Most AI systems waste time and tokens calling a full LLM for a simple true or false. I tested Google's Gemini Decision 1",
-      "source": "dev",
-      "tag": "ai,  googlecloud",
-      "url": "https://dev.to/googleai/exploring-decision-models-part-1-putting-gemini-decision-1-to-the-test-50f0"
-    },
-    {
       "title": "Thinking On or Off? Gemma 4 E4B on an 8 GB RTX 3050",
-      "hot": "❤️ 7 💬 0",
+      "hot": "❤️ 11 💬 1",
       "desc": "Gemma 4 E4B on a local RTX 3050 with thinking off and on, two QAT 4-bit builds, with and without a drafter, on all 1,319",
       "source": "dev",
       "tag": "gemma,  llm",
       "url": "https://dev.to/gde/thinking-on-or-off-gemma-4-e4b-on-an-8-gb-rtx-3050-5d5"
     },
     {
+      "title": "Publishing Markdown to a LinkedIn Article from an Agent Skill",
+      "hot": "❤️ 8 💬 1",
+      "desc": "LinkedIn's article editor saves two heading levels and no inline code, and its page cannot parse HTML. A step by step wa",
+      "source": "dev",
+      "tag": "linkedin,  writing",
+      "url": "https://dev.to/gde/publishing-markdown-to-a-linkedin-article-from-an-agent-skill-1hbj"
+    },
+    {
+      "title": "Which Gemini Model Should You Use? Neon, Argon, Hydrogen, Carbon, Flash or Gemma. It Depends.",
+      "hot": "❤️ 8 💬 0",
+      "desc": "Gemini 4 Neon joins seven other models on GSM8K, BFCL and 30 AIME 2025 problems through the Gemini API, with cost per ri",
+      "source": "dev",
+      "tag": "gemini,  gemma",
+      "url": "https://dev.to/gde/which-gemini-model-should-you-use-neon-argon-hydrogen-carbon-flash-or-gemma-it-depends-ano"
+    },
+    {
       "title": "Tool Names Are Identifiers. Don't Autocorrect Them.",
-      "hot": "❤️ 7 💬 1",
+      "hot": "❤️ 11 💬 4",
       "desc": "An agent contract requires retrieve_policy. The trace seems to contain retrieve_policy. The evaluator...",
       "source": "dev",
       "tag": "ai,  typescript",
       "url": "https://dev.to/gde/tool-names-are-identifiers-dont-autocorrect-them-33g9"
     },
     {
-      "title": "Adopt Pre-Existing Docker Containers with Zero Downtime: Reverse-Engineering docker-compose.yml in Gubernator v4.0",
-      "hot": "❤️ 9 💬 0",
-      "desc": "How Gubernator v4.0 discovers pre-existing Docker containers on production hosts, reverse-engineers clean docker-compose",
+      "title": "What team-wide AI adoption actually takes",
+      "hot": "❤️ 5 💬 0",
+      "desc": "I've tried nearly every way to make AI practical at work: new models, routers, agent frameworks,...",
       "source": "dev",
-      "tag": "devops,  docker",
-      "url": "https://dev.to/gde/adopt-pre-existing-docker-containers-with-zero-downtime-reverse-engineering-docker-composeyml-in-3cic"
-    },
-    {
-      "title": "Major League Hacking and SpaceXSI Come Together to Support the Next Generation of Builders",
-      "hot": "❤️ 22 💬 0",
-      "desc": "This initiative  will give thousands of students in the Major League Hacking (MLH) community access...",
-      "source": "dev",
-      "tag": "ai,  hackathon",
-      "url": "https://blog.mlh.com/major-league-hacking-and-spacexsi-come-together-to-support-the-next-generation-of-builders-feh"
+      "tag": "ai,  productivity",
+      "url": "https://dev.to/peter/what-team-wide-ai-adoption-actually-takes-1gbh"
     },
     {
       "title": "Maintaining open source projects up to date with Renovate and Antigravity",
-      "hot": "❤️ 9 💬 1",
+      "hot": "❤️ 14 💬 2",
       "desc": "Renovate   Renovate is a tool I really appreciate. I wrote a blog post about it and gave a...",
       "source": "dev",
       "tag": "antigravity,  renovate",
       "url": "https://dev.to/gde/maintaining-open-source-projects-up-to-date-with-renovate-and-antigravity-3haj"
     },
     {
-      "title": "Serverless Gemma 4: E2B on a Lambda GPU Function, with Google's QAT Weights and Drafter",
-      "hot": "❤️ 24 💬 1",
-      "desc": "Gemma 4 E2B with Google's QAT 4-bit weights and its assistant drafter, served by vLLM inside an AWS Lambda function on a",
+      "title": "NYC: Escape the IVR at Twilio Assemble (Dec 8, Brooklyn)",
+      "hot": "❤️ 8 💬 0",
+      "desc": "If you're building AI agents in New York, this one's worth a weeknight.  Twilio Assemble, Twilio's...",
       "source": "dev",
-      "tag": "gemma,  ai",
-      "url": "https://dev.to/gde/serverless-gemma-4-e2b-on-a-lambda-gpu-function-with-googles-qat-weights-and-drafter-fh4"
+      "tag": "ai,  events",
+      "url": "https://dev.to/twilio/nyc-escape-the-ivr-at-twilio-assemble-dec-8-brooklyn-2dmb"
+    },
+    {
+      "title": "Major League Hacking and SpaceXSI Come Together to Support the Next Generation of Builders",
+      "hot": "❤️ 31 💬 0",
+      "desc": "This initiative  will give thousands of students in the Major League Hacking (MLH) community access...",
+      "source": "dev",
+      "tag": "ai,  hackathon",
+      "url": "https://blog.mlh.com/major-league-hacking-and-spacexsi-come-together-to-support-the-next-generation-of-builders-feh"
+    },
+    {
+      "title": "5 agent orchestration patterns backed by research",
+      "hot": "❤️ 10 💬 0",
+      "desc": "A lot of developers run teams of agents and agent orchestration by vibe, but is it actually...",
+      "source": "dev",
+      "tag": "agents,  antigravity",
+      "url": "https://dev.to/googlecloud/5-agent-orchestration-patterns-backed-by-research-2l43"
+    },
+    {
+      "title": "Exploring Decision Models, Part 1: Putting Gemini Decision 1 to the Test",
+      "hot": "❤️ 22 💬 1",
+      "desc": "Most AI systems waste time and tokens calling a full LLM for a simple true or false. I tested Google's Gemini Decision 1",
+      "source": "dev",
+      "tag": "ai,  googlecloud",
+      "url": "https://dev.to/googleai/exploring-decision-models-part-1-putting-gemini-decision-1-to-the-test-50f0"
+    },
+    {
+      "title": "Adopt Pre-Existing Docker Containers with Zero Downtime: Reverse-Engineering docker-compose.yml in Gubernator v4.0",
+      "hot": "❤️ 12 💬 2",
+      "desc": "How Gubernator v4.0 discovers pre-existing Docker containers on production hosts, reverse-engineers clean docker-compose",
+      "source": "dev",
+      "tag": "devops,  docker",
+      "url": "https://dev.to/gde/adopt-pre-existing-docker-containers-with-zero-downtime-reverse-engineering-docker-composeyml-in-3cic"
     },
     {
       "title": "The Colab MCP Endpoint From Claude Code: Set It Up, Test It, Run a Notebook on a TPU",
@@ -81,20 +113,20 @@
       "url": "https://dev.to/gde/gemma-4-on-a-hosted-colab-tpu-the-qat-repack-served-in-two-minutes-360j"
     },
     {
+      "title": "Serverless Gemma 4: E2B on a Lambda GPU Function, with Google's QAT Weights and Drafter",
+      "hot": "❤️ 24 💬 2",
+      "desc": "Gemma 4 E2B with Google's QAT 4-bit weights and its assistant drafter, served by vLLM inside an AWS Lambda function on a",
+      "source": "dev",
+      "tag": "gemma,  ai",
+      "url": "https://dev.to/gde/serverless-gemma-4-e2b-on-a-lambda-gpu-function-with-googles-qat-weights-and-drafter-fh4"
+    },
+    {
       "title": "From Prototype to Production: Building AI Agents with the Claude Platform on Google Cloud",
-      "hot": "❤️ 21 💬 0",
+      "hot": "❤️ 22 💬 0",
       "desc": "Getting an AI agent working on localhost is easy. Getting that same agent into production - where it...",
       "source": "dev",
       "tag": "ai,  googlecloud",
       "url": "https://dev.to/googleai/from-prototype-to-production-building-ai-agents-with-the-claude-platform-on-google-cloud-ap7"
-    },
-    {
-      "title": "RackDoc Now Includes a 100% Local AI Agent to Audit Your Infrastructure",
-      "hot": "❤️ 14 💬 1",
-      "desc": "Query your network topology, racks, and technical inventory in natural language without a single byte leaving your netwo",
-      "source": "dev",
-      "tag": "sysadmin,  devops",
-      "url": "https://dev.to/gde/rackdoc-now-includes-a-100-local-ai-agent-to-audit-your-infrastructure-1gg8"
     },
     {
       "title": "️🎞️ What is native multimodality?",
@@ -106,7 +138,7 @@
     },
     {
       "title": "Welcome Thread - v402",
-      "hot": "❤️ 41 💬 134",
+      "hot": "❤️ 41 💬 144",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
@@ -127,39 +159,7 @@
       "source": "dev",
       "tag": "gemma,  llm",
       "url": "https://dev.to/gde/thinking-on-or-off-gemma-4-e2b-on-an-8-gb-rtx-3050-30e0"
-    },
-    {
-      "title": "Why We Built an MCP Server for AI Founders’ Go to Market",
-      "hot": "❤️ 2 💬 0",
-      "desc": "Launching a technical startup in the age of AI is challenging. So we built a full MCP server to put...",
-      "source": "dev",
-      "tag": "ai,  mcp",
-      "url": "https://dev.to/tedcarstensen/why-we-built-an-mcp-server-for-ai-founders-go-to-market-4hge"
-    },
-    {
-      "title": "Fast multimodal control flow with the Gemini Decisions API",
-      "hot": "❤️ 0 💬 0",
-      "desc": "Generative models write text for people to read. When your app only needs to pick a tool or route a...",
-      "source": "dev",
-      "tag": "ai,  api",
-      "url": "https://dev.to/philschmid/fast-multimodal-control-flow-with-the-gemini-decisions-api-533b"
-    },
-    {
-      "title": "Retrieval Ran First. Was Its Result Actually Ready?",
-      "hot": "❤️ 21 💬 6",
-      "desc": "The trace starts with retrieval. Generation appears underneath it. The ordering test passes.  But...",
-      "source": "dev",
-      "tag": "ai,  typescript",
-      "url": "https://dev.to/gde/retrieval-ran-first-was-its-result-actually-ready-4oc2"
-    },
-    {
-      "title": "How did you end up in tech, and are you staying?",
-      "hot": "❤️ 162 💬 77",
-      "desc": "Last week you showed me where you code. This week I want to know how you ended up there in the first...",
-      "source": "dev",
-      "tag": "discuss,  career",
-      "url": "https://dev.to/maame-codes/how-did-you-end-up-in-tech-and-are-you-staying-4l9b"
     }
   ],
-  "updatedAt": "2026-11-19T18:41:51.366Z"
+  "updatedAt": "2026-11-20T00:57:03.253Z"
 }

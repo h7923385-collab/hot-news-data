@@ -1,70 +1,102 @@
 {
-  "updatedAt": "2026-11-19T18:41:51.366Z",
+  "updatedAt": "2026-11-20T00:57:03.253Z",
   "source": "live",
   "dev": [
     {
       "title": "The CodeNewbie Podcast is Back for Season 28!",
-      "hot": "❤️ 68 💬 10",
+      "hot": "❤️ 69 💬 10",
       "desc": "Hi friends! 👋 The CodeNewbie Podcast is back for season 28, and I’m so excited to be the one hosting...",
       "source": "dev",
       "tag": "codenewbie,  ai",
       "url": "https://dev.to/codenewbie/the-codenewbie-podcast-is-back-for-season-28-2484"
     },
     {
-      "title": "Exploring Decision Models, Part 1: Putting Gemini Decision 1 to the Test",
-      "hot": "❤️ 14 💬 0",
-      "desc": "Most AI systems waste time and tokens calling a full LLM for a simple true or false. I tested Google's Gemini Decision 1",
-      "source": "dev",
-      "tag": "ai,  googlecloud",
-      "url": "https://dev.to/googleai/exploring-decision-models-part-1-putting-gemini-decision-1-to-the-test-50f0"
-    },
-    {
       "title": "Thinking On or Off? Gemma 4 E4B on an 8 GB RTX 3050",
-      "hot": "❤️ 7 💬 0",
+      "hot": "❤️ 11 💬 1",
       "desc": "Gemma 4 E4B on a local RTX 3050 with thinking off and on, two QAT 4-bit builds, with and without a drafter, on all 1,319",
       "source": "dev",
       "tag": "gemma,  llm",
       "url": "https://dev.to/gde/thinking-on-or-off-gemma-4-e4b-on-an-8-gb-rtx-3050-5d5"
     },
     {
+      "title": "Publishing Markdown to a LinkedIn Article from an Agent Skill",
+      "hot": "❤️ 8 💬 1",
+      "desc": "LinkedIn's article editor saves two heading levels and no inline code, and its page cannot parse HTML. A step by step wa",
+      "source": "dev",
+      "tag": "linkedin,  writing",
+      "url": "https://dev.to/gde/publishing-markdown-to-a-linkedin-article-from-an-agent-skill-1hbj"
+    },
+    {
+      "title": "Which Gemini Model Should You Use? Neon, Argon, Hydrogen, Carbon, Flash or Gemma. It Depends.",
+      "hot": "❤️ 8 💬 0",
+      "desc": "Gemini 4 Neon joins seven other models on GSM8K, BFCL and 30 AIME 2025 problems through the Gemini API, with cost per ri",
+      "source": "dev",
+      "tag": "gemini,  gemma",
+      "url": "https://dev.to/gde/which-gemini-model-should-you-use-neon-argon-hydrogen-carbon-flash-or-gemma-it-depends-ano"
+    },
+    {
       "title": "Tool Names Are Identifiers. Don't Autocorrect Them.",
-      "hot": "❤️ 7 💬 1",
+      "hot": "❤️ 11 💬 4",
       "desc": "An agent contract requires retrieve_policy. The trace seems to contain retrieve_policy. The evaluator...",
       "source": "dev",
       "tag": "ai,  typescript",
       "url": "https://dev.to/gde/tool-names-are-identifiers-dont-autocorrect-them-33g9"
     },
     {
-      "title": "Adopt Pre-Existing Docker Containers with Zero Downtime: Reverse-Engineering docker-compose.yml in Gubernator v4.0",
-      "hot": "❤️ 9 💬 0",
-      "desc": "How Gubernator v4.0 discovers pre-existing Docker containers on production hosts, reverse-engineers clean docker-compose",
+      "title": "What team-wide AI adoption actually takes",
+      "hot": "❤️ 5 💬 0",
+      "desc": "I've tried nearly every way to make AI practical at work: new models, routers, agent frameworks,...",
       "source": "dev",
-      "tag": "devops,  docker",
-      "url": "https://dev.to/gde/adopt-pre-existing-docker-containers-with-zero-downtime-reverse-engineering-docker-composeyml-in-3cic"
-    },
-    {
-      "title": "Major League Hacking and SpaceXSI Come Together to Support the Next Generation of Builders",
-      "hot": "❤️ 22 💬 0",
-      "desc": "This initiative  will give thousands of students in the Major League Hacking (MLH) community access...",
-      "source": "dev",
-      "tag": "ai,  hackathon",
-      "url": "https://blog.mlh.com/major-league-hacking-and-spacexsi-come-together-to-support-the-next-generation-of-builders-feh"
+      "tag": "ai,  productivity",
+      "url": "https://dev.to/peter/what-team-wide-ai-adoption-actually-takes-1gbh"
     },
     {
       "title": "Maintaining open source projects up to date with Renovate and Antigravity",
-      "hot": "❤️ 9 💬 1",
+      "hot": "❤️ 14 💬 2",
       "desc": "Renovate   Renovate is a tool I really appreciate. I wrote a blog post about it and gave a...",
       "source": "dev",
       "tag": "antigravity,  renovate",
       "url": "https://dev.to/gde/maintaining-open-source-projects-up-to-date-with-renovate-and-antigravity-3haj"
     },
     {
-      "title": "Serverless Gemma 4: E2B on a Lambda GPU Function, with Google's QAT Weights and Drafter",
-      "hot": "❤️ 24 💬 1",
-      "desc": "Gemma 4 E2B with Google's QAT 4-bit weights and its assistant drafter, served by vLLM inside an AWS Lambda function on a",
+      "title": "NYC: Escape the IVR at Twilio Assemble (Dec 8, Brooklyn)",
+      "hot": "❤️ 8 💬 0",
+      "desc": "If you're building AI agents in New York, this one's worth a weeknight.  Twilio Assemble, Twilio's...",
       "source": "dev",
-      "tag": "gemma,  ai",
-      "url": "https://dev.to/gde/serverless-gemma-4-e2b-on-a-lambda-gpu-function-with-googles-qat-weights-and-drafter-fh4"
+      "tag": "ai,  events",
+      "url": "https://dev.to/twilio/nyc-escape-the-ivr-at-twilio-assemble-dec-8-brooklyn-2dmb"
+    },
+    {
+      "title": "Major League Hacking and SpaceXSI Come Together to Support the Next Generation of Builders",
+      "hot": "❤️ 31 💬 0",
+      "desc": "This initiative  will give thousands of students in the Major League Hacking (MLH) community access...",
+      "source": "dev",
+      "tag": "ai,  hackathon",
+      "url": "https://blog.mlh.com/major-league-hacking-and-spacexsi-come-together-to-support-the-next-generation-of-builders-feh"
+    },
+    {
+      "title": "5 agent orchestration patterns backed by research",
+      "hot": "❤️ 10 💬 0",
+      "desc": "A lot of developers run teams of agents and agent orchestration by vibe, but is it actually...",
+      "source": "dev",
+      "tag": "agents,  antigravity",
+      "url": "https://dev.to/googlecloud/5-agent-orchestration-patterns-backed-by-research-2l43"
+    },
+    {
+      "title": "Exploring Decision Models, Part 1: Putting Gemini Decision 1 to the Test",
+      "hot": "❤️ 22 💬 1",
+      "desc": "Most AI systems waste time and tokens calling a full LLM for a simple true or false. I tested Google's Gemini Decision 1",
+      "source": "dev",
+      "tag": "ai,  googlecloud",
+      "url": "https://dev.to/googleai/exploring-decision-models-part-1-putting-gemini-decision-1-to-the-test-50f0"
+    },
+    {
+      "title": "Adopt Pre-Existing Docker Containers with Zero Downtime: Reverse-Engineering docker-compose.yml in Gubernator v4.0",
+      "hot": "❤️ 12 💬 2",
+      "desc": "How Gubernator v4.0 discovers pre-existing Docker containers on production hosts, reverse-engineers clean docker-compose",
+      "source": "dev",
+      "tag": "devops,  docker",
+      "url": "https://dev.to/gde/adopt-pre-existing-docker-containers-with-zero-downtime-reverse-engineering-docker-composeyml-in-3cic"
     },
     {
       "title": "The Colab MCP Endpoint From Claude Code: Set It Up, Test It, Run a Notebook on a TPU",
@@ -83,20 +115,20 @@
       "url": "https://dev.to/gde/gemma-4-on-a-hosted-colab-tpu-the-qat-repack-served-in-two-minutes-360j"
     },
     {
+      "title": "Serverless Gemma 4: E2B on a Lambda GPU Function, with Google's QAT Weights and Drafter",
+      "hot": "❤️ 24 💬 2",
+      "desc": "Gemma 4 E2B with Google's QAT 4-bit weights and its assistant drafter, served by vLLM inside an AWS Lambda function on a",
+      "source": "dev",
+      "tag": "gemma,  ai",
+      "url": "https://dev.to/gde/serverless-gemma-4-e2b-on-a-lambda-gpu-function-with-googles-qat-weights-and-drafter-fh4"
+    },
+    {
       "title": "From Prototype to Production: Building AI Agents with the Claude Platform on Google Cloud",
-      "hot": "❤️ 21 💬 0",
+      "hot": "❤️ 22 💬 0",
       "desc": "Getting an AI agent working on localhost is easy. Getting that same agent into production - where it...",
       "source": "dev",
       "tag": "ai,  googlecloud",
       "url": "https://dev.to/googleai/from-prototype-to-production-building-ai-agents-with-the-claude-platform-on-google-cloud-ap7"
-    },
-    {
-      "title": "RackDoc Now Includes a 100% Local AI Agent to Audit Your Infrastructure",
-      "hot": "❤️ 14 💬 1",
-      "desc": "Query your network topology, racks, and technical inventory in natural language without a single byte leaving your netwo",
-      "source": "dev",
-      "tag": "sysadmin,  devops",
-      "url": "https://dev.to/gde/rackdoc-now-includes-a-100-local-ai-agent-to-audit-your-infrastructure-1gg8"
     },
     {
       "title": "️🎞️ What is native multimodality?",
@@ -108,7 +140,7 @@
     },
     {
       "title": "Welcome Thread - v402",
-      "hot": "❤️ 41 💬 134",
+      "hot": "❤️ 41 💬 144",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
@@ -129,203 +161,325 @@
       "source": "dev",
       "tag": "gemma,  llm",
       "url": "https://dev.to/gde/thinking-on-or-off-gemma-4-e2b-on-an-8-gb-rtx-3050-30e0"
+    }
+  ],
+  "github": [
+    {
+      "title": "erkamyaman/rust-anything: Rewrite your whole app in Rust, one piece at a time, c",
+      "hot": "⭐ 5.2k",
+      "desc": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries ",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/erkamyaman/rust-anything"
     },
     {
-      "title": "Why We Built an MCP Server for AI Founders’ Go to Market",
-      "hot": "❤️ 2 💬 0",
-      "desc": "Launching a technical startup in the age of AI is challenging. So we built a full MCP server to put...",
-      "source": "dev",
-      "tag": "ai,  mcp",
-      "url": "https://dev.to/tedcarstensen/why-we-built-an-mcp-server-for-ai-founders-go-to-market-4hge"
+      "title": "krisgfx9/Wireless-Device-Battery-Monitor: Show the battery level of wireless mic",
+      "hot": "⭐ 4.7k",
+      "desc": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software ne",
+      "source": "github",
+      "tag": "C++",
+      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor"
     },
     {
-      "title": "Fast multimodal control flow with the Gemini Decisions API",
-      "hot": "❤️ 0 💬 0",
-      "desc": "Generative models write text for people to read. When your app only needs to pick a tool or route a...",
-      "source": "dev",
-      "tag": "ai,  api",
-      "url": "https://dev.to/philschmid/fast-multimodal-control-flow-with-the-gemini-decisions-api-533b"
+      "title": "gylive/google-ultra: ",
+      "hot": "⭐ 2.5k",
+      "desc": "gylive/google-ultra",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/gylive/google-ultra"
     },
     {
-      "title": "Retrieval Ran First. Was Its Result Actually Ready?",
-      "hot": "❤️ 21 💬 6",
-      "desc": "The trace starts with retrieval. Generation appears underneath it. The ordering test passes.  But...",
-      "source": "dev",
-      "tag": "ai,  typescript",
-      "url": "https://dev.to/gde/retrieval-ran-first-was-its-result-actually-ready-4oc2"
+      "title": "Hut-hzf/ung220z-tool: ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限",
+      "hot": "⭐ 1.7k",
+      "desc": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/Hut-hzf/ung220z-tool"
     },
     {
-      "title": "How did you end up in tech, and are you staying?",
-      "hot": "❤️ 162 💬 77",
-      "desc": "Last week you showed me where you code. This week I want to know how you ended up there in the first...",
-      "source": "dev",
-      "tag": "discuss,  career",
-      "url": "https://dev.to/maame-codes/how-did-you-end-up-in-tech-and-are-you-staying-4l9b"
+      "title": "duwqijlk/muse-protocol: muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+      "hot": "⭐ 1.7k",
+      "desc": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/duwqijlk/muse-protocol"
+    },
+    {
+      "title": "CzzzzzzJ/mdldm-maitian: 麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大",
+      "hot": "⭐ 1.6k",
+      "desc": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/CzzzzzzJ/mdldm-maitian"
+    },
+    {
+      "title": "haziqahmedqasmi/PeakCut: AI clipping for long videos and live streams. Self-host",
+      "hot": "⭐ 1.3k",
+      "desc": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/haziqahmedqasmi/PeakCut"
+    },
+    {
+      "title": "sybil-solutions/inference-optimisation-skill: Agent skill for hill-climbing loca",
+      "hot": "⭐ 1.3k",
+      "desc": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/sybil-solutions/inference-optimisation-skill"
+    },
+    {
+      "title": "joshpuckett/allo: Allo is your friendly neighborhood typeface, free and open sou",
+      "hot": "⭐ 1.1k",
+      "desc": "Allo is your friendly neighborhood typeface, free and open source",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/joshpuckett/allo"
+    },
+    {
+      "title": "zephyr4123/snug: 让远程 Mac 在任意设备上获得原生级体验。专为 UU远程 打造的显示与触控增强：手机、平板���电脑各有专属屏幕，画面铺满、",
+      "hot": "⭐ 1.1k",
+      "desc": "让远程 Mac 在任意设备上获得原生级体验。专为 UU远程 打造的显示与触控增强：手机、平板���电脑各有专属屏幕，画面铺满、字号随屏，原生触屏手势，App 资源库。Make UU Remote native on any device: a dedicated screen for every p",
+      "source": "github",
+      "tag": "Swift",
+      "url": "https://github.com/zephyr4123/snug"
+    },
+    {
+      "title": "chuanqisun/spaceship: Steer your ideas in realtime",
+      "hot": "⭐ 947",
+      "desc": "Steer your ideas in realtime",
+      "source": "github",
+      "tag": "HTML",
+      "url": "https://github.com/chuanqisun/spaceship"
+    },
+    {
+      "title": "Bodila51/gtavi-claudecode: Claude Code plugin that turns GTA 6 streams into paid",
+      "hot": "⭐ 885",
+      "desc": "Claude Code plugin that turns GTA 6 streams into paid vertical clips: live campaigns, trending videos, best moments, 9:16 cuts with hooks, captions an",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/Bodila51/gtavi-claudecode"
+    },
+    {
+      "title": "sourmitocand1987/VividFrame-GPU: Any source. One real-time GPU enhancement pipel",
+      "hot": "⭐ 857",
+      "desc": "Any source. One real-time GPU enhancement pipeline. · video enhancer · gpu video · real-time video enhancement · hdr · super-resolution · game-streami",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/sourmitocand1987/VividFrame-GPU"
+    },
+    {
+      "title": "opencoredev/islandcn: The open-source Dynamic Island for React, installed with s",
+      "hot": "⭐ 820",
+      "desc": "The open-source Dynamic Island for React, installed with shadcn.",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/opencoredev/islandcn"
+    },
+    {
+      "title": "bothaggsigym1988/frameglide: From a 30 fps console stream to 60–120 fps on your ",
+      "hot": "⭐ 804",
+      "desc": "From a 30 fps console stream to 60–120 fps on your PC. · frame-interpolation · frame-generation · nvidia · windows · dlss · super-resolution · vulkan ",
+      "source": "github",
+      "tag": "GitHub",
+      "url": "https://github.com/bothaggsigym1988/frameglide"
     }
   ],
   "tech": [
     {
-      "title": "Anthropic hits $2T in Nasdaq debut",
+      "title": "Anthropic’s Nasdaq debut",
       "hot": "3.0m",
       "desc": "reuters.com",
       "source": "tech",
-      "tag": "⬆️ 226 points",
+      "tag": "⬆️ 873 points",
       "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/"
     },
     {
-      "title": "Claude Fable 5.2 solves two open problems in the physics of black holes",
+      "title": "Pancreatic cancer halted by virus injection in three patients",
       "hot": "3.0m",
+      "desc": "newscientist.com",
+      "source": "tech",
+      "tag": "⬆️ 538 points",
+      "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/"
+    },
+    {
+      "title": "Synology Security Advisory",
+      "hot": "3.0m",
+      "desc": "synology.com",
+      "source": "tech",
+      "tag": "⬆️ 90 points",
+      "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21"
+    },
+    {
+      "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+      "hot": "3.0m",
+      "desc": "git-aarvin.github.io",
+      "source": "tech",
+      "tag": "⬆️ 45 points",
+      "url": "https://git-aarvin.github.io/mei/"
+    },
+    {
+      "title": "Claude solves two open problems in the physics of black holes",
+      "hot": "2.9m",
       "desc": "anthropic.com",
       "source": "tech",
-      "tag": "⬆️ 102 points",
+      "tag": "⬆️ 367 points",
       "url": "https://www.anthropic.com/research/claude-black-hole-physics"
     },
     {
-      "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
-      "hot": "3.0m",
-      "desc": "thedataexchange.media",
+      "title": "How to CAD Almost Anything",
+      "hot": "2.9m",
+      "desc": "ocw.mit.edu",
       "source": "tech",
-      "tag": "⬆️ 145 points",
-      "url": "https://thedataexchange.media/pete-warden-moonshine/"
+      "tag": "⬆️ 103 points",
+      "url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/"
+    },
+    {
+      "title": "RegExr: Temporarily Offline",
+      "hot": "2.9m",
+      "desc": "regexr.com",
+      "source": "tech",
+      "tag": "⬆️ 38 points",
+      "url": "https://regexr.com/"
     },
     {
       "title": "Garage Door Spam",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "blog.harrison.page",
       "source": "tech",
-      "tag": "⬆️ 542 points",
+      "tag": "⬆️ 744 points",
       "url": "https://blog.harrison.page/garage-door-spam/"
     },
     {
-      "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
       "hot": "2.9m",
-      "desc": "github.com",
+      "desc": "globalcommercegraph.com",
       "source": "tech",
-      "tag": "⬆️ 34 points",
-      "url": "https://github.com/onlook-dev/onlook/"
+      "tag": "⬆️ 190 points",
+      "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine"
     },
     {
-      "title": "I built Cornhole News. A Hacker News inspired site for news across the Midwest",
-      "hot": "2.9m",
-      "desc": "cornholenews.news",
-      "source": "tech",
-      "tag": "⬆️ 83 points",
-      "url": "https://cornholenews.news"
-    },
-    {
-      "title": "UK Government Forced to Admit It Issued Apple a Secret Encryption Order",
-      "hot": "2.9m",
-      "desc": "macanorak.com",
-      "source": "tech",
-      "tag": "⬆️ 168 points",
-      "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/"
-    },
-    {
-      "title": "Someone reported java4shell bug in September 2026",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 208 points",
-      "url": "https://github.com/openjdk/jdk/pull/32781"
-    },
-    {
-      "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
-      "hot": "2.9m",
-      "desc": "krthr.co",
-      "source": "tech",
-      "tag": "⬆️ 144 points",
-      "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/"
-    },
-    {
-      "title": "How the European Commission rolled out Matrix to more than 40k staff",
-      "hot": "2.9m",
-      "desc": "element.io",
-      "source": "tech",
-      "tag": "⬆️ 572 points",
-      "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/"
-    },
-    {
-      "title": "Nintendo takes Picofly firmware down from GitHub [video]",
+      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
       "hot": "2.9m",
       "desc": "youtube.com",
       "source": "tech",
-      "tag": "⬆️ 189 points",
-      "url": "https://www.youtube.com/watch?v=-TLCGUpoD6c"
+      "tag": "⬆️ 69 points",
+      "url": "https://www.youtube.com/watch?v=lwfewYL7X0o"
     },
     {
-      "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
-      "hot": "2.8m",
-      "desc": "verialabs.com",
+      "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
+      "hot": "2.9m",
+      "desc": "wsj.com",
       "source": "tech",
-      "tag": "⬆️ 326 points",
-      "url": "https://verialabs.com/ruby2shell/"
+      "tag": "⬆️ 57 points",
+      "url": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87"
     },
     {
-      "title": "How to Make the Ink Used to Write Hamlet and the Declaration of Independence",
+      "title": "Someone reported java4shell bug in September 2026",
       "hot": "2.8m",
-      "desc": "lithub.com",
-      "source": "tech",
-      "tag": "⬆️ 35 points",
-      "url": "https://lithub.com/how-to-make-the-ink-used-to-write-hamlet-the-declaration-of-independence-and-beethovens-fifth/"
-    },
-    {
-      "title": "What's New in PHP 8.6",
-      "hot": "2.8m",
-      "desc": "php.net",
-      "source": "tech",
-      "tag": "⬆️ 228 points",
-      "url": "https://www.php.net/releases/8.6/en.php"
-    },
-    {
-      "title": "Everything you need to survive and rebuild society",
-      "hot": "2.8m",
-      "desc": "lastbook.org",
-      "source": "tech",
-      "tag": "⬆️ 232 points",
-      "url": "https://lastbook.org/"
-    },
-    {
-      "title": "Cooling buildings is overtaking heating them as an energy need, IEA says",
-      "hot": "2.8m",
-      "desc": "maccus.fr",
-      "source": "tech",
-      "tag": "⬆️ 107 points",
-      "url": "https://maccus.fr/en/cooling-overtaking-heating/"
-    },
-    {
-      "title": "Chile: UFO Sightings by 18th Century Jesuits",
-      "hot": "2.8m",
-      "desc": "inexplicata.blogspot.com",
-      "source": "tech",
-      "tag": "⬆️ 4 points",
-      "url": "https://inexplicata.blogspot.com/2026/08/chile-ufo-sightings-by-18th-century.html"
-    },
-    {
-      "title": "Show HN: Neoma P-CAM – Sub-millisecond physical equilibrium and 64-spin Ising",
-      "hot": "2.7m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 8 points",
-      "url": "https://github.com/neoma-pcam/pcam-live"
+      "tag": "⬆️ 356 points",
+      "url": "https://github.com/openjdk/jdk/pull/32781"
     },
     {
-      "title": "An Oregon library ditched Dewey Decimal and got people excited about books again",
-      "hot": "2.7m",
-      "desc": "fastcompany.com",
+      "title": "Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest",
+      "hot": "2.8m",
+      "desc": "cornholenews.news",
       "source": "tech",
-      "tag": "⬆️ 110 points",
-      "url": "https://www.fastcompany.com/91597520/oregon-library-ditched-dewey-decimal-wayfinding-system"
+      "tag": "⬆️ 184 points",
+      "url": "https://cornholenews.news"
     },
     {
-      "title": "Unblockable communication with gravity",
-      "hot": "2.7m",
-      "desc": "science.org",
+      "title": "Talking Venice with Mahesh Subramony at AMD In-Depth",
+      "hot": "2.8m",
+      "desc": "chipsandcheese.com",
       "source": "tech",
-      "tag": "⬆️ 73 points",
-      "url": "https://www.science.org/doi/10.1126/sciadv.aee0802"
+      "tag": "⬆️ 6 points",
+      "url": "https://chipsandcheese.com/p/talking-venice-with-mahesh-subramony"
+    },
+    {
+      "title": "UK government forced to admit it issued Apple a secret encryption order",
+      "hot": "2.8m",
+      "desc": "macanorak.com",
+      "source": "tech",
+      "tag": "⬆️ 483 points",
+      "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/"
+    },
+    {
+      "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+      "hot": "2.8m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 84 points",
+      "url": "https://github.com/onlook-dev/onlook/"
+    },
+    {
+      "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
+      "hot": "2.8m",
+      "desc": "krthr.co",
+      "source": "tech",
+      "tag": "⬆️ 243 points",
+      "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/"
+    },
+    {
+      "title": "Rebuilding my local voice assistant pipeline",
+      "hot": "2.7m",
+      "desc": "blog.platypush.tech",
+      "source": "tech",
+      "tag": "⬆️ 51 points",
+      "url": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline"
+    },
+    {
+      "title": "Reverse-Engineering Kevin J. Lang's Lost OCaml Code in Apache DataSketches",
+      "hot": "2.7m",
+      "desc": "tisonkun.io",
+      "source": "tech",
+      "tag": "⬆️ 31 points",
+      "url": "https://www.tisonkun.io/posts/ai-repair-program/"
+    },
+    {
+      "title": "Computer Graphics from Scratch (2021)",
+      "hot": "2.7m",
+      "desc": "gabrielgambetta.com",
+      "source": "tech",
+      "tag": "⬆️ 48 points",
+      "url": "https://www.gabrielgambetta.com/computer-graphics-from-scratch/index.html"
     }
   ],
   "space": [
+    {
+      "title": "Live coverage: SpaceX to launch classified payload for the U.S. Space Force",
+      "hot": "11/19",
+      "desc": "The mission is the latest in the series of ‘R’ missions tasked by the U.S. Space Force. Liftoff from pad 4 East is scheduled for 8:32 p.m. PST (11:32 ",
+      "source": "space",
+      "tag": "Spaceflight Now",
+      "url": "https://spaceflightnow.com/2026/11/19/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-2/"
+    },
+    {
+      "title": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch",
+      "hot": "11/19",
+      "desc": "Relativity Space is advancing Terran R’s flight one hardware and ground infrastructure across NASA’s Stennis…\nThe post Relativity tests Terran R secon",
+      "source": "space",
+      "tag": "NASASpaceflight",
+      "url": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/"
+    },
+    {
+      "title": "Google turns to Blue Origin for a rocket, but its long-term problem remains",
+      "hot": "11/19",
+      "desc": "\"Project Suncatcher is a long-term moonshot.\"",
+      "source": "space",
+      "tag": "Arstechnica",
+      "url": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/"
+    },
+    {
+      "title": "Challenge: Public Input on Life and the World in 2075",
+      "hot": "11/19",
+      "desc": "NASA’s Transformational Tools and Technologies (TTT) is gathering public perspectives on life today and how the world may change by 2075. This challen",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/"
+    },
     {
       "title": "The sweet spot for constellation size",
       "hot": "11/19",
@@ -413,160 +567,6 @@
       "source": "space",
       "tag": "SpacePolicyOnline.com",
       "url": "https://spacepolicyonline.com/news/voyager-1-reaches-new-milestone-one-light-day-from-earth/"
-    },
-    {
-      "title": "NASA and FCC Nominations Advance Out of Committee Despite Democratic Boycott",
-      "hot": "11/18",
-      "desc": "Nominations for two positions at NASA and one at the FCC were reported from the Senate Commerce Committee today even though no Democrats were in atten",
-      "source": "space",
-      "tag": "SpacePolicyOnline.com",
-      "url": "https://spacepolicyonline.com/news/nasa-and-fcc-nominations-advance-out-of-committee-despite-democratic-boycott/"
-    },
-    {
-      "title": "NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch",
-      "hot": "11/18",
-      "desc": "NASA, Northrop Grumman, and SpaceX are targeting no earlier than 10:47 a.m. EST, Sunday, Nov. 29, for the next launch delivering science investigation",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/"
-    },
-    {
-      "title": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers",
-      "hot": "11/18",
-      "desc": "\n– Collaboration to assess next-generation ultralight solar cells for space-based computing infrastructure – Partnership brings together Korean space ",
-      "source": "space",
-      "tag": "SpaceNews",
-      "url": "https://spacenews.com/flexell-space-and-alatyr-sign-mou-to-explore-solar-power-solutions-for-orbital-data-centers/"
-    },
-    {
-      "title": "Voyager 1 reaches one light-day nearly 50 years after launch",
-      "hot": "11/18",
-      "desc": "At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26…\nThe post Voyager 1 reaches one light-day nearly 50 years after launch appeared firs",
-      "source": "space",
-      "tag": "NASASpaceflight",
-      "url": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/"
-    }
-  ],
-  "github": [
-    {
-      "title": "deepseek-ai/chat-demo: Chat Demo",
-      "hot": "⭐ 5.0k",
-      "desc": "Chat Demo",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/deepseek-ai/chat-demo"
-    },
-    {
-      "title": "erkamyaman/rust-anything: Rewrite your whole app in Rust, one piece at a time, c",
-      "hot": "⭐ 4.9k",
-      "desc": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries ",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/erkamyaman/rust-anything"
-    },
-    {
-      "title": "krisgfx9/Wireless-Device-Battery-Monitor: Show the battery level of wireless mic",
-      "hot": "⭐ 4.5k",
-      "desc": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software ne",
-      "source": "github",
-      "tag": "C++",
-      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor"
-    },
-    {
-      "title": "Noniv/abyssal-garden: A dreamy underwater world you can swim through in your bro",
-      "hot": "⭐ 2.5k",
-      "desc": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated ",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/Noniv/abyssal-garden"
-    },
-    {
-      "title": "Immortal-Protocols/lastbook: Offline knowledge AI, maps and videos for survival ",
-      "hot": "⭐ 2.5k",
-      "desc": "Offline knowledge AI, maps and videos for survival and rebuilding",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/Immortal-Protocols/lastbook"
-    },
-    {
-      "title": "gylive/google-ultra: ",
-      "hot": "⭐ 2.4k",
-      "desc": "gylive/google-ultra",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/gylive/google-ultra"
-    },
-    {
-      "title": "ZiChuanLan/freebie-radar: 白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广",
-      "hot": "⭐ 1.8k",
-      "desc": "白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/ZiChuanLan/freebie-radar"
-    },
-    {
-      "title": "Hut-hzf/ung220z-tool: ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限",
-      "hot": "⭐ 1.7k",
-      "desc": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/Hut-hzf/ung220z-tool"
-    },
-    {
-      "title": "duwqijlk/muse-protocol: muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
-      "hot": "⭐ 1.7k",
-      "desc": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/duwqijlk/muse-protocol"
-    },
-    {
-      "title": "CzzzzzzJ/mdldm-maitian: 麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大",
-      "hot": "⭐ 1.6k",
-      "desc": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/CzzzzzzJ/mdldm-maitian"
-    },
-    {
-      "title": "haziqahmedqasmi/PeakCut: AI clipping for long videos and live streams. Self-host",
-      "hot": "⭐ 1.3k",
-      "desc": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/haziqahmedqasmi/PeakCut"
-    },
-    {
-      "title": "sybil-solutions/inference-optimisation-skill: Agent skill for hill-climbing loca",
-      "hot": "⭐ 1.2k",
-      "desc": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/sybil-solutions/inference-optimisation-skill"
-    },
-    {
-      "title": "joshpuckett/allo: Allo is your friendly neighborhood typeface, free and open sou",
-      "hot": "⭐ 1.1k",
-      "desc": "Allo is your friendly neighborhood typeface, free and open source",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/joshpuckett/allo"
-    },
-    {
-      "title": "zephyr4123/snug: 让远程 Mac 在任意设备上获得原生级体验。专为 UU远程 打造的显示与触控增强：手机、平板、电脑各有专属屏幕，画��铺满、字",
-      "hot": "⭐ 1.1k",
-      "desc": "让远程 Mac 在任意设备上获得原生级体验。专为 UU远程 打造的显示与触控增强：手机、平板、电脑各有专属屏幕，画��铺满、字号随屏，原生触屏手势，App 资源库。Make UU Remote native on any device: a dedicated screen for every ph",
-      "source": "github",
-      "tag": "Swift",
-      "url": "https://github.com/zephyr4123/snug"
-    },
-    {
-      "title": "chuanqisun/spaceship: Steer your ideas in realtime",
-      "hot": "⭐ 931",
-      "desc": "Steer your ideas in realtime",
-      "source": "github",
-      "tag": "HTML",
-      "url": "https://github.com/chuanqisun/spaceship"
     }
   ]
 }
