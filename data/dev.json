@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "Tell us your story, and we might read it on the CodeNewbie Podcast 🎙️",
-      "hot": "❤️ 38 💬 5",
+      "hot": "❤️ 41 💬 7",
       "desc": "Hi! I’m Lauren 👩🏼‍💻, the new host of the CodeNewbie Podcast, and I’d love to hear your...",
       "source": "dev",
       "tag": "codenewbie,  ai",
@@ -15,14 +15,6 @@
       "source": "dev",
       "tag": "codenewbie,  ai",
       "url": "https://dev.to/codenewbie/the-codenewbie-podcast-is-back-for-season-28-2484"
-    },
-    {
-      "title": "I can't believe the podcast I learned to code with is back!",
-      "hot": "❤️ 31 💬 1",
-      "desc": "Hi friends! 👋   Okay, storytime 🎬 Felt the urge to share this here too, since DEV is where it all...",
-      "source": "dev",
-      "tag": "codenewbie,  podcast",
-      "url": "https://dev.to/codenewbie/i-cant-believe-the-podcast-i-learned-to-code-with-is-back-2gi5"
     },
     {
       "title": "NYC: Escape the IVR at Twilio Assemble (Dec 8, Brooklyn)",
@@ -81,14 +73,6 @@
       "url": "https://dev.to/peter/what-team-wide-ai-adoption-actually-takes-1gbh"
     },
     {
-      "title": "5 agent orchestration patterns backed by research",
-      "hot": "❤️ 11 💬 3",
-      "desc": "A lot of developers run teams of agents and agent orchestration by vibe, but is it actually...",
-      "source": "dev",
-      "tag": "agents,  antigravity",
-      "url": "https://dev.to/googlecloud/5-agent-orchestration-patterns-backed-by-research-2l43"
-    },
-    {
       "title": "Zombie Sweep on Google Cloud: A Daily Waste Report on AlloyDB Express, With a Database Bill You Can Predict",
       "hot": "❤️ 27 💬 5",
       "desc": "Cloud Scheduler, Workflows and Cloud Run sweep a project every day with zombiescan's 20 checks beside Google's idle-reso",
@@ -97,8 +81,16 @@
       "url": "https://dev.to/gde/zombie-sweep-on-google-cloud-a-daily-waste-report-on-alloydb-express-with-a-database-bill-you-can-305g"
     },
     {
+      "title": "I can't believe the podcast I learned to code with is back!",
+      "hot": "❤️ 32 💬 1",
+      "desc": "Hi friends! 👋   Okay, storytime 🎬 Felt the urge to share this here too, since DEV is where it all...",
+      "source": "dev",
+      "tag": "codenewbie,  podcast",
+      "url": "https://dev.to/codenewbie/i-cant-believe-the-podcast-i-learned-to-code-with-is-back-2gi5"
+    },
+    {
       "title": "Your Error Survived the Wrapper. Did Its Code Survive the Trace?",
-      "hot": "❤️ 29 💬 7",
+      "hot": "❤️ 29 💬 8",
       "desc": "Suppose an instrumented operation throws an error with code: \"ETIMEDOUT\". Your application catches...",
       "source": "dev",
       "tag": "typescript,  debugging",
@@ -111,22 +103,6 @@
       "source": "dev",
       "tag": "gemma,  llm",
       "url": "https://dev.to/gde/thinking-on-or-off-gemma-4-e4b-on-an-8-gb-rtx-3050-5d5"
-    },
-    {
-      "title": "Adopt Pre-Existing Docker Containers with Zero Downtime: Reverse-Engineering docker-compose.yml in Gubernator v4.0",
-      "hot": "❤️ 18 💬 3",
-      "desc": "How Gubernator v4.0 discovers pre-existing Docker containers on production hosts, reverse-engineers clean docker-compose",
-      "source": "dev",
-      "tag": "devops,  docker",
-      "url": "https://dev.to/gde/adopt-pre-existing-docker-containers-with-zero-downtime-reverse-engineering-docker-composeyml-in-3cic"
-    },
-    {
-      "title": "Why We Built an MCP Server for AI Founders’ Go to Market",
-      "hot": "❤️ 2 💬 0",
-      "desc": "Launching a technical startup in the age of AI is challenging. So we built a full MCP server to put...",
-      "source": "dev",
-      "tag": "ai,  mcp",
-      "url": "https://dev.to/tedcarstensen/why-we-built-an-mcp-server-for-ai-founders-go-to-market-4hge"
     },
     {
       "title": "Fast multimodal control flow with the Gemini Decisions API",
@@ -154,12 +130,36 @@
     },
     {
       "title": "Welcome Thread - v402",
-      "hot": "❤️ 55 💬 267",
+      "hot": "❤️ 62 💬 285",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
       "url": "https://dev.to/sloan/welcome-thread-v402-5d1a"
+    },
+    {
+      "title": "Gemma 4 on a Hosted Colab TPU: The QAT Repack, Served in Two Minutes",
+      "hot": "❤️ 23 💬 0",
+      "desc": "One notebook loads the Gemma 4 E2B QAT repack onto a Colab v5e-1, serves it behind an OpenAI-compatible endpoint with a ",
+      "source": "dev",
+      "tag": "gemma,  tpu",
+      "url": "https://dev.to/gde/gemma-4-on-a-hosted-colab-tpu-the-qat-repack-served-in-two-minutes-360j"
+    },
+    {
+      "title": "How did you end up in tech, and are you staying?",
+      "hot": "❤️ 162 💬 77",
+      "desc": "Last week you showed me where you code. This week I want to know how you ended up there in the first...",
+      "source": "dev",
+      "tag": "discuss,  career",
+      "url": "https://dev.to/maame-codes/how-did-you-end-up-in-tech-and-are-you-staying-4l9b"
+    },
+    {
+      "title": "Detecting WasmPlugin version drift in Cloud Load Balancing Service Extensions",
+      "hot": "❤️ 5 💬 1",
+      "desc": "When you attach a WebAssembly (Wasm) plugin to an Application Load Balancer with Service Extensions,...",
+      "source": "dev",
+      "tag": "googlecloud,  networking",
+      "url": "https://dev.to/googlecloud/detecting-wasmplugin-version-drift-in-cloud-load-balancing-service-extensions-52p5"
     }
   ],
-  "updatedAt": "2026-11-22T03:20:09.467Z"
+  "updatedAt": "2026-11-22T11:42:27.738Z"
 }

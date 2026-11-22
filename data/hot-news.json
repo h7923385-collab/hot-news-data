@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-22T03:20:09.467Z",
+  "updatedAt": "2026-11-22T11:42:27.738Z",
   "source": "live",
   "dev": [
     {
       "title": "Tell us your story, and we might read it on the CodeNewbie Podcast 🎙️",
-      "hot": "❤️ 38 💬 5",
+      "hot": "❤️ 41 💬 7",
       "desc": "Hi! I’m Lauren 👩🏼‍💻, the new host of the CodeNewbie Podcast, and I’d love to hear your...",
       "source": "dev",
       "tag": "codenewbie,  ai",
@@ -17,14 +17,6 @@
       "source": "dev",
       "tag": "codenewbie,  ai",
       "url": "https://dev.to/codenewbie/the-codenewbie-podcast-is-back-for-season-28-2484"
-    },
-    {
-      "title": "I can't believe the podcast I learned to code with is back!",
-      "hot": "❤️ 31 💬 1",
-      "desc": "Hi friends! 👋   Okay, storytime 🎬 Felt the urge to share this here too, since DEV is where it all...",
-      "source": "dev",
-      "tag": "codenewbie,  podcast",
-      "url": "https://dev.to/codenewbie/i-cant-believe-the-podcast-i-learned-to-code-with-is-back-2gi5"
     },
     {
       "title": "NYC: Escape the IVR at Twilio Assemble (Dec 8, Brooklyn)",
@@ -83,14 +75,6 @@
       "url": "https://dev.to/peter/what-team-wide-ai-adoption-actually-takes-1gbh"
     },
     {
-      "title": "5 agent orchestration patterns backed by research",
-      "hot": "❤️ 11 💬 3",
-      "desc": "A lot of developers run teams of agents and agent orchestration by vibe, but is it actually...",
-      "source": "dev",
-      "tag": "agents,  antigravity",
-      "url": "https://dev.to/googlecloud/5-agent-orchestration-patterns-backed-by-research-2l43"
-    },
-    {
       "title": "Zombie Sweep on Google Cloud: A Daily Waste Report on AlloyDB Express, With a Database Bill You Can Predict",
       "hot": "❤️ 27 💬 5",
       "desc": "Cloud Scheduler, Workflows and Cloud Run sweep a project every day with zombiescan's 20 checks beside Google's idle-reso",
@@ -99,8 +83,16 @@
       "url": "https://dev.to/gde/zombie-sweep-on-google-cloud-a-daily-waste-report-on-alloydb-express-with-a-database-bill-you-can-305g"
     },
     {
+      "title": "I can't believe the podcast I learned to code with is back!",
+      "hot": "❤️ 32 💬 1",
+      "desc": "Hi friends! 👋   Okay, storytime 🎬 Felt the urge to share this here too, since DEV is where it all...",
+      "source": "dev",
+      "tag": "codenewbie,  podcast",
+      "url": "https://dev.to/codenewbie/i-cant-believe-the-podcast-i-learned-to-code-with-is-back-2gi5"
+    },
+    {
       "title": "Your Error Survived the Wrapper. Did Its Code Survive the Trace?",
-      "hot": "❤️ 29 💬 7",
+      "hot": "❤️ 29 💬 8",
       "desc": "Suppose an instrumented operation throws an error with code: \"ETIMEDOUT\". Your application catches...",
       "source": "dev",
       "tag": "typescript,  debugging",
@@ -113,22 +105,6 @@
       "source": "dev",
       "tag": "gemma,  llm",
       "url": "https://dev.to/gde/thinking-on-or-off-gemma-4-e4b-on-an-8-gb-rtx-3050-5d5"
-    },
-    {
-      "title": "Adopt Pre-Existing Docker Containers with Zero Downtime: Reverse-Engineering docker-compose.yml in Gubernator v4.0",
-      "hot": "❤️ 18 💬 3",
-      "desc": "How Gubernator v4.0 discovers pre-existing Docker containers on production hosts, reverse-engineers clean docker-compose",
-      "source": "dev",
-      "tag": "devops,  docker",
-      "url": "https://dev.to/gde/adopt-pre-existing-docker-containers-with-zero-downtime-reverse-engineering-docker-composeyml-in-3cic"
-    },
-    {
-      "title": "Why We Built an MCP Server for AI Founders’ Go to Market",
-      "hot": "❤️ 2 💬 0",
-      "desc": "Launching a technical startup in the age of AI is challenging. So we built a full MCP server to put...",
-      "source": "dev",
-      "tag": "ai,  mcp",
-      "url": "https://dev.to/tedcarstensen/why-we-built-an-mcp-server-for-ai-founders-go-to-market-4hge"
     },
     {
       "title": "Fast multimodal control flow with the Gemini Decisions API",
@@ -156,227 +132,251 @@
     },
     {
       "title": "Welcome Thread - v402",
-      "hot": "❤️ 55 💬 267",
+      "hot": "❤️ 62 💬 285",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
       "url": "https://dev.to/sloan/welcome-thread-v402-5d1a"
+    },
+    {
+      "title": "Gemma 4 on a Hosted Colab TPU: The QAT Repack, Served in Two Minutes",
+      "hot": "❤️ 23 💬 0",
+      "desc": "One notebook loads the Gemma 4 E2B QAT repack onto a Colab v5e-1, serves it behind an OpenAI-compatible endpoint with a ",
+      "source": "dev",
+      "tag": "gemma,  tpu",
+      "url": "https://dev.to/gde/gemma-4-on-a-hosted-colab-tpu-the-qat-repack-served-in-two-minutes-360j"
+    },
+    {
+      "title": "How did you end up in tech, and are you staying?",
+      "hot": "❤️ 162 💬 77",
+      "desc": "Last week you showed me where you code. This week I want to know how you ended up there in the first...",
+      "source": "dev",
+      "tag": "discuss,  career",
+      "url": "https://dev.to/maame-codes/how-did-you-end-up-in-tech-and-are-you-staying-4l9b"
+    },
+    {
+      "title": "Detecting WasmPlugin version drift in Cloud Load Balancing Service Extensions",
+      "hot": "❤️ 5 💬 1",
+      "desc": "When you attach a WebAssembly (Wasm) plugin to an Application Load Balancer with Service Extensions,...",
+      "source": "dev",
+      "tag": "googlecloud,  networking",
+      "url": "https://dev.to/googlecloud/detecting-wasmplugin-version-drift-in-cloud-load-balancing-service-extensions-52p5"
     }
   ],
   "tech": [
+    {
+      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+      "hot": "3.0m",
+      "desc": "caranddriver.com",
+      "source": "tech",
+      "tag": "⬆️ 570 points",
+      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/"
+    },
     {
       "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
       "hot": "3.0m",
       "desc": "theguardian.com",
       "source": "tech",
-      "tag": "⬆️ 718 points",
+      "tag": "⬆️ 1056 points",
       "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib"
+    },
+    {
+      "title": "A real Linux kernel, compiled to WebAssembly",
+      "hot": "3.0m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 38 points",
+      "url": "https://github.com/pithings/unkernel"
     },
     {
       "title": "Lean verification of the Riemann Hypothesis",
       "hot": "3.0m",
       "desc": "leanprover-community.github.io",
       "source": "tech",
-      "tag": "⬆️ 885 points",
+      "tag": "⬆️ 1057 points",
       "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/"
-    },
-    {
-      "title": "Inkling-2-Mini in 5.4 GB Memory",
-      "hot": "3.0m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 379 points",
-      "url": "https://github.com/ShinMegamiBoson/lookatmyquant"
-    },
-    {
-      "title": "Data Processing Incidents on Inference Providers",
-      "hot": "3.0m",
-      "desc": "openrouter.ai",
-      "source": "tech",
-      "tag": "⬆️ 27 points",
-      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/"
-    },
-    {
-      "title": "Leonida – PC Recompilation of the Xbox Version of GTA 6",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 41 points",
-      "url": "https://github.com/ItsNotRexed/Leonida"
-    },
-    {
-      "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 78 points",
-      "url": "https://github.com/sebaandrada-cell/PcapAnalyzer"
     },
     {
       "title": "Sandwich Simulator",
       "hot": "2.9m",
       "desc": "stulle.app",
       "source": "tech",
-      "tag": "⬆️ 54 points",
+      "tag": "⬆️ 293 points",
       "url": "https://stulle.app/"
+    },
+    {
+      "title": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
+      "hot": "2.9m",
+      "desc": "arxiv.org",
+      "source": "tech",
+      "tag": "⬆️ 20 points",
+      "url": "https://arxiv.org/abs/2606.14068"
+    },
+    {
+      "title": "Inkling-2-Mini in 5.4 GB Memory",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 479 points",
+      "url": "https://github.com/ShinMegamiBoson/lookatmyquant"
+    },
+    {
+      "title": "Show HN: The Riemann Proof Handbook",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 55 points",
+      "url": "https://github.com/tamnd/riemann-handbook"
+    },
+    {
+      "title": "Data Processing Incidents on Inference Providers",
+      "hot": "2.9m",
+      "desc": "openrouter.ai",
+      "source": "tech",
+      "tag": "⬆️ 170 points",
+      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/"
     },
     {
       "title": "Detonating a pile of lead azide",
       "hot": "2.9m",
       "desc": "science.org",
       "source": "tech",
-      "tag": "⬆️ 547 points",
+      "tag": "⬆️ 624 points",
       "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really"
     },
     {
-      "title": "Getting the mind to steer the body to steer you",
+      "title": "Self-hosted library branch over public web OPDS",
       "hot": "2.9m",
+      "desc": "joinmayberry.com",
+      "source": "tech",
+      "tag": "⬆️ 8 points",
+      "url": "https://joinmayberry.com/"
+    },
+    {
+      "title": "Getting the mind to steer the body to steer you",
+      "hot": "2.8m",
       "desc": "notnottalmud.substack.com",
       "source": "tech",
-      "tag": "⬆️ 177 points",
+      "tag": "⬆️ 292 points",
       "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body"
     },
     {
+      "title": "Notes on the discrete Fourier transform (DFT)",
+      "hot": "2.8m",
+      "desc": "eli.thegreenplace.net",
+      "source": "tech",
+      "tag": "⬆️ 35 points",
+      "url": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/"
+    },
+    {
+      "title": "If tiny 'primordial' black holes exist",
+      "hot": "2.8m",
+      "desc": "phys.org",
+      "source": "tech",
+      "tag": "⬆️ 38 points",
+      "url": "https://phys.org/news/2026-11-tiny-primordial-black-holes.html"
+    },
+    {
+      "title": "Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow",
+      "hot": "2.8m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 46 points",
+      "url": "https://github.com/EL4CTEO/fast-anything"
+    },
+    {
       "title": "My monitor was cutting my download speed by 75%",
-      "hot": "2.9m",
+      "hot": "2.8m",
       "desc": "blog.tymscar.com",
       "source": "tech",
-      "tag": "⬆️ 513 points",
+      "tag": "⬆️ 597 points",
       "url": "https://blog.tymscar.com/posts/studiodisplayethernet/"
     },
     {
-      "title": "Upload2Shell (CVE-2026-125396)",
-      "hot": "2.9m",
-      "desc": "pwn.ai",
-      "source": "tech",
-      "tag": "⬆️ 84 points",
-      "url": "https://pwn.ai/upload2shell"
-    },
-    {
-      "title": "Pandex – Official European Law for AI Agents, over MCP",
+      "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
       "hot": "2.8m",
-      "desc": "pandex.io",
-      "source": "tech",
-      "tag": "⬆️ 45 points",
-      "url": "https://www.pandex.io"
-    },
-    {
-      "title": "PostgreSQL Extensions in Go",
-      "hot": "2.8m",
-      "desc": "jespino.github.io",
-      "source": "tech",
-      "tag": "⬆️ 124 points",
-      "url": "https://jespino.github.io/gopgext/"
-    },
-    {
-      "title": "Shaping the Loops, Closing the Loops",
-      "hot": "2.8m",
-      "desc": "revyl.com",
-      "source": "tech",
-      "tag": "⬆️ 10 points",
-      "url": "https://revyl.com/blog/pattern-engineering/"
-    },
-    {
-      "title": "The Mythology of Conscious AI",
-      "hot": "2.8m",
-      "desc": "noemamag.com",
-      "source": "tech",
-      "tag": "⬆️ 3 points",
-      "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/"
-    },
-    {
-      "title": "The Emergence of Inequality in the Czech Corded Ware Culture",
-      "hot": "2.8m",
-      "desc": "jna.uni-kiel.de",
-      "source": "tech",
-      "tag": "⬆️ 33 points",
-      "url": "https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746"
-    },
-    {
-      "title": "Show HN: Zero C# – C# without a runtime or GC",
-      "hot": "2.8m",
-      "desc": "onurgumus.github.io",
-      "source": "tech",
-      "tag": "⬆️ 137 points",
-      "url": "https://onurgumus.github.io/zero-csharp/index.html"
-    },
-    {
-      "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
-      "hot": "2.7m",
-      "desc": "tasklet.ai",
-      "source": "tech",
-      "tag": "⬆️ 1 points",
-      "url": "https://tasklet.ai/careers"
-    },
-    {
-      "title": "Maak v1.0.0 – infinitely extensible command runner, build sys in Lisp",
-      "hot": "2.7m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 3 points",
-      "url": "https://github.com/jjba23/maak"
+      "tag": "⬆️ 123 points",
+      "url": "https://github.com/sebaandrada-cell/PcapAnalyzer"
     },
     {
-      "title": "Tropical Rainforests Species may be surprisingly young",
+      "title": "Is 'fork' missing operation in sandboxes?",
       "hot": "2.7m",
-      "desc": "phys.org",
+      "desc": "avrea.com",
       "source": "tech",
-      "tag": "⬆️ 45 points",
-      "url": "https://phys.org/news/2026-11-species-tropical-rainforests-young-emergence.html"
+      "tag": "⬆️ 9 points",
+      "url": "https://avrea.com/blog/avrea-sandboxes-computers-should-be-forkable"
+    },
+    {
+      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+      "hot": "2.7m",
+      "desc": "betterdatacenterproject.com",
+      "source": "tech",
+      "tag": "⬆️ 172 points",
+      "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/"
+    },
+    {
+      "title": "Reversing the Next-Page Prefetcher in Skylake-X",
+      "hot": "2.7m",
+      "desc": "devsh0.github.io",
+      "source": "tech",
+      "tag": "⬆️ 13 points",
+      "url": "https://devsh0.github.io/microarchitecture,/intel,/computer-architecture/2026/11/17/reversing-the-next-page-prefetcher-in-skylake-x.html"
     }
   ],
   "github": [
     {
-      "title": "erkamyaman/rust-anything: Rewrite your whole app in Rust, one piece at a time, c",
-      "hot": "⭐ 7.5k",
-      "desc": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries ",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/erkamyaman/rust-anything"
-    },
-    {
       "title": "ItsNotRexed/Leonida: Leonida Is A Native PC Recompilation Of The Xbox Version Of",
-      "hot": "⭐ 6.5k",
+      "hot": "⭐ 9.4k",
       "desc": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/ItsNotRexed/Leonida"
     },
     {
+      "title": "erkamyaman/rust-anything: Rewrite your whole app in Rust, one piece at a time, c",
+      "hot": "⭐ 7.7k",
+      "desc": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries ",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/erkamyaman/rust-anything"
+    },
+    {
       "title": "krisgfx9/Wireless-Device-Battery-Monitor: Show the battery level of wireless mic",
-      "hot": "⭐ 5.9k",
+      "hot": "⭐ 6.0k",
       "desc": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software ne",
       "source": "github",
       "tag": "C++",
       "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor"
     },
     {
-      "title": "gylive/google-ultra: ",
-      "hot": "⭐ 2.6k",
-      "desc": "gylive/google-ultra",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/gylive/google-ultra"
-    },
-    {
       "title": "bookwjitchieni1986/blender-ai-mcp-addon: AI assistant and MCP server for Blender",
-      "hot": "⭐ 2.6k",
+      "hot": "⭐ 2.7k",
       "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Bl",
       "source": "github",
       "tag": "GitHub",
       "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon"
     },
     {
-      "title": "Hut-hzf/ung220z-tool: ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限",
-      "hot": "⭐ 2.2k",
-      "desc": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+      "title": "gylive/google-ultra: ",
+      "hot": "⭐ 2.7k",
+      "desc": "gylive/google-ultra",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/gylive/google-ultra"
+    },
+    {
+      "title": "Hut-hzf/ung220z-tool: ung220z-tool 是一个针对 UNG220Z，另含中兴/烽火/华为/九联多厂商适配、固件指纹识别与分家族排障",
+      "hot": "⭐ 2.3k",
+      "desc": "ung220z-tool 是一个针对 UNG220Z，另含中兴/烽火/华为/九联多厂商适配、固件指纹识别与分家族排障建议的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/Hut-hzf/ung220z-tool"
     },
     {
       "title": "iamajmeena/neonclipping: Paste a link, get captioned 9:16 clips in ~2 min. Free,",
-      "hot": "⭐ 1.8k",
+      "hot": "⭐ 1.9k",
       "desc": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
       "source": "github",
       "tag": "Python",
@@ -384,7 +384,7 @@
     },
     {
       "title": "sybil-solutions/inference-optimisation-skill: Agent skill for hill-climbing loca",
-      "hot": "⭐ 1.7k",
+      "hot": "⭐ 1.8k",
       "desc": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
       "source": "github",
       "tag": "Python",
@@ -400,11 +400,19 @@
     },
     {
       "title": "hatsunemiku-ai/google-one-tools: ",
-      "hot": "⭐ 1.1k",
+      "hot": "⭐ 1.2k",
       "desc": "hatsunemiku-ai/google-one-tools",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/hatsunemiku-ai/google-one-tools"
+    },
+    {
+      "title": "R0Y00/Xbox2Windows: GTA VI static recompilation research for x64 Windows. Source",
+      "hot": "⭐ 1.1k",
+      "desc": "GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders match reference outputs on ha",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/R0Y00/Xbox2Windows"
     },
     {
       "title": "chuanqisun/spaceship: Steer ideas like a space pilot!",
@@ -415,39 +423,39 @@
       "url": "https://github.com/chuanqisun/spaceship"
     },
     {
+      "title": "omonkeyz/xbox-emulator: Progress notes for running Xbox Series X|S builds on PC ",
+      "hot": "⭐ 1.0k",
+      "desc": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/omonkeyz/xbox-emulator"
+    },
+    {
       "title": "Lemxy/WinRust: Windows shell replacement in Rust: taskbar, file manager, NTFS se",
-      "hot": "⭐ 969",
+      "hot": "⭐ 1.0k",
       "desc": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
       "source": "github",
       "tag": "Rust",
       "url": "https://github.com/Lemxy/WinRust"
     },
     {
-      "title": "R0Y00/Xbox2Windows: Static recompilation research for Xbox Series X|S (Scarlett)",
-      "hot": "⭐ 969",
-      "desc": "Static recompilation research for Xbox Series X|S (Scarlett) on x64 Windows, including shader translation, BC7 textures, script-state replay and D3D12",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/R0Y00/Xbox2Windows"
-    },
-    {
       "title": "siliconjungle/shapeshift-labs-ink-studio: Sculpting, animation and simulation to",
-      "hot": "⭐ 966",
+      "hot": "⭐ 1.0k",
       "desc": "Sculpting, animation and simulation toolkit for pixel-art Gaussian splats",
       "source": "github",
       "tag": "JavaScript",
       "url": "https://github.com/siliconjungle/shapeshift-labs-ink-studio"
-    },
-    {
-      "title": "omonkeyz/xbox-emulator: Progress notes for running Xbox Series X|S builds on PC ",
-      "hot": "⭐ 846",
-      "desc": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/omonkeyz/xbox-emulator"
     }
   ],
   "space": [
+    {
+      "title": "APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno",
+      "hot": "11/22",
+      "desc": "APOD Science APOD APOD: 2026 November 22 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Pictur",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/"
+    },
     {
       "title": "Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office",
       "hot": "11/21",
@@ -559,14 +567,6 @@
       "source": "space",
       "tag": "NASASpaceflight",
       "url": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/"
-    },
-    {
-      "title": "Google turns to Blue Origin for a rocket, but its long-term problem remains",
-      "hot": "11/19",
-      "desc": "\"Project Suncatcher is a long-term moonshot.\"",
-      "source": "space",
-      "tag": "Arstechnica",
-      "url": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/"
     }
   ]
 }
