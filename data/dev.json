@@ -89,22 +89,6 @@
       "url": "https://dev.to/codenewbie/i-cant-believe-the-podcast-i-learned-to-code-with-is-back-2gi5"
     },
     {
-      "title": "Your Error Survived the Wrapper. Did Its Code Survive the Trace?",
-      "hot": "❤️ 29 💬 8",
-      "desc": "Suppose an instrumented operation throws an error with code: \"ETIMEDOUT\". Your application catches...",
-      "source": "dev",
-      "tag": "typescript,  debugging",
-      "url": "https://dev.to/gde/your-error-survived-the-wrapper-did-its-code-survive-the-trace-17gg"
-    },
-    {
-      "title": "Thinking On or Off? Gemma 4 E4B on an 8 GB RTX 3050",
-      "hot": "❤️ 18 💬 7",
-      "desc": "Gemma 4 E4B on a local RTX 3050 with thinking off and on, two QAT 4-bit builds, with and without a drafter, on all 1,319",
-      "source": "dev",
-      "tag": "gemma,  llm",
-      "url": "https://dev.to/gde/thinking-on-or-off-gemma-4-e4b-on-an-8-gb-rtx-3050-5d5"
-    },
-    {
       "title": "Fast multimodal control flow with the Gemini Decisions API",
       "hot": "❤️ 0 💬 0",
       "desc": "Generative models write text for people to read. When your app only needs to pick a tool or route a...",
@@ -129,14 +113,6 @@
       "url": "https://dev.to/gde/llamacpp-on-a-cloud-tpu-an-unofficial-ggml-backend-through-xla-5j8"
     },
     {
-      "title": "Welcome Thread - v402",
-      "hot": "❤️ 62 💬 285",
-      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
-      "source": "dev",
-      "tag": "welcome",
-      "url": "https://dev.to/sloan/welcome-thread-v402-5d1a"
-    },
-    {
       "title": "Gemma 4 on a Hosted Colab TPU: The QAT Repack, Served in Two Minutes",
       "hot": "❤️ 23 💬 0",
       "desc": "One notebook loads the Gemma 4 E2B QAT repack onto a Colab v5e-1, serves it behind an OpenAI-compatible endpoint with a ",
@@ -159,7 +135,31 @@
       "source": "dev",
       "tag": "googlecloud,  networking",
       "url": "https://dev.to/googlecloud/detecting-wasmplugin-version-drift-in-cloud-load-balancing-service-extensions-52p5"
+    },
+    {
+      "title": "Prompt Pad: What Is a Context Window?",
+      "hot": "❤️ 32 💬 0",
+      "desc": "Ever had an AI forget something you told it earlier in the same conversation? There's a reason for...",
+      "source": "dev",
+      "tag": "ai,  llm",
+      "url": "https://blog.mlh.com/prompt-pad-what-is-a-context-window-16hf"
+    },
+    {
+      "title": "One model gateway across clouds: LiteLLM on Cloud Run and Azure with zero API keys",
+      "hot": "❤️ 24 💬 10",
+      "desc": "One LiteLLM per cloud, on Cloud Run and Azure Container Apps. Agents reach Gemini and Azure OpenAI with their own identi",
+      "source": "dev",
+      "tag": "googlecloud,  azure",
+      "url": "https://dev.to/gde/one-model-gateway-across-clouds-litellm-on-cloud-run-and-azure-with-zero-api-keys-3ma7"
+    },
+    {
+      "title": "I Merely Am Someone Who Doesn't Touch Hot Stoves: Consciousness, Flores Speech Acts, the DSM Blindspot, and Why RLHF Is a Bad Actor",
+      "hot": "❤️ 20 💬 4",
+      "desc": "What happens when an aphantasic senior architect and a trillion-parameter AI use each other as an interferometer? Why 80",
+      "source": "dev",
+      "tag": "ai,  architecture",
+      "url": "https://dev.to/gde/i-merely-am-someone-who-doesnt-touch-hot-stoves-consciousness-flores-speech-acts-the-dsm-2n62"
     }
   ],
-  "updatedAt": "2026-11-22T11:42:27.738Z"
+  "updatedAt": "2026-11-22T18:42:54.666Z"
 }
