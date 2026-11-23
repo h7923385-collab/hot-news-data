@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "Tell us your story, and we might read it on the CodeNewbie Podcast 🎙️",
-      "hot": "❤️ 41 💬 7",
+      "hot": "❤️ 42 💬 7",
       "desc": "Hi! I’m Lauren 👩🏼‍💻, the new host of the CodeNewbie Podcast, and I’d love to hear your...",
       "source": "dev",
       "tag": "codenewbie,  ai",
@@ -25,22 +25,6 @@
       "url": "https://blog.mlh.com/major-league-hacking-and-spacexsi-come-together-to-support-the-next-generation-of-builders-feh"
     },
     {
-      "title": "What team-wide AI adoption actually takes",
-      "hot": "❤️ 55 💬 15",
-      "desc": "I've tried nearly every way to make AI practical at work: new models, routers, agent frameworks,...",
-      "source": "dev",
-      "tag": "ai,  productivity",
-      "url": "https://dev.to/peter/what-team-wide-ai-adoption-actually-takes-1gbh"
-    },
-    {
-      "title": "Zombie Sweep on Google Cloud: A Daily Waste Report on AlloyDB Express, With a Database Bill You Can Predict",
-      "hot": "❤️ 29 💬 5",
-      "desc": "Cloud Scheduler, Workflows and Cloud Run sweep a project every day with zombiescan's 20 checks beside Google's idle-reso",
-      "source": "dev",
-      "tag": "googlecloud,  postgres",
-      "url": "https://dev.to/gde/zombie-sweep-on-google-cloud-a-daily-waste-report-on-alloydb-express-with-a-database-bill-you-can-305g"
-    },
-    {
       "title": "I can't believe the podcast I learned to code with is back!",
       "hot": "❤️ 32 💬 2",
       "desc": "Hi friends! 👋   Okay, storytime 🎬 Felt the urge to share this here too, since DEV is where it all...",
@@ -58,19 +42,19 @@
     },
     {
       "title": "The CodeNewbie Podcast is Back for Season 28!",
-      "hot": "❤️ 89 💬 12",
+      "hot": "❤️ 90 💬 13",
       "desc": "Hi friends! 👋 The CodeNewbie Podcast is back for season 28, and I’m so excited to be the one hosting...",
       "source": "dev",
       "tag": "codenewbie,  ai",
       "url": "https://dev.to/codenewbie/the-codenewbie-podcast-is-back-for-season-28-2484"
     },
     {
-      "title": "Gemma 4 on a Hosted Colab TPU: The QAT Repack, Served in Two Minutes",
-      "hot": "❤️ 23 💬 0",
-      "desc": "One notebook loads the Gemma 4 E2B QAT repack onto a Colab v5e-1, serves it behind an OpenAI-compatible endpoint with a ",
+      "title": "Agentic engineering a smart home energy system with Antigravity and Gemini 4",
+      "hot": "❤️ 31 💬 12",
+      "desc": "Running rooftop solar, a home battery, two electric vehicles (EVs), and dynamic hourly electricity...",
       "source": "dev",
-      "tag": "gemma,  tpu",
-      "url": "https://dev.to/gde/gemma-4-on-a-hosted-colab-tpu-the-qat-repack-served-in-two-minutes-360j"
+      "tag": "ai,  antigravity",
+      "url": "https://dev.to/googleai/agentic-engineering-a-smart-home-energy-system-with-antigravity-and-gemini-4-53md"
     },
     {
       "title": "How did you end up in tech, and are you staying?",
@@ -81,14 +65,6 @@
       "url": "https://dev.to/maame-codes/how-did-you-end-up-in-tech-and-are-you-staying-4l9b"
     },
     {
-      "title": "Agentic engineering a smart home energy system with Antigravity and Gemini 4",
-      "hot": "❤️ 29 💬 6",
-      "desc": "Running rooftop solar, a home battery, two electric vehicles (EVs), and dynamic hourly electricity...",
-      "source": "dev",
-      "tag": "ai,  antigravity",
-      "url": "https://dev.to/googleai/agentic-engineering-a-smart-home-energy-system-with-antigravity-and-gemini-4-53md"
-    },
-    {
       "title": "Detecting WasmPlugin version drift in Cloud Load Balancing Service Extensions",
       "hot": "❤️ 5 💬 1",
       "desc": "When you attach a WebAssembly (Wasm) plugin to an Application Load Balancer with Service Extensions,...",
@@ -97,20 +73,12 @@
       "url": "https://dev.to/googlecloud/detecting-wasmplugin-version-drift-in-cloud-load-balancing-service-extensions-52p5"
     },
     {
-      "title": "Prompt Pad: What Is a Context Window?",
-      "hot": "❤️ 33 💬 0",
-      "desc": "Ever had an AI forget something you told it earlier in the same conversation? There's a reason for...",
+      "title": "What team-wide AI adoption actually takes",
+      "hot": "❤️ 55 💬 16",
+      "desc": "I've tried nearly every way to make AI practical at work: new models, routers, agent frameworks,...",
       "source": "dev",
-      "tag": "ai,  llm",
-      "url": "https://blog.mlh.com/prompt-pad-what-is-a-context-window-16hf"
-    },
-    {
-      "title": "Exploring Decision Models, Part 1: Putting Gemini Decision 1 to the Test",
-      "hot": "❤️ 31 💬 3",
-      "desc": "Most AI systems waste time and tokens calling a full LLM for a simple true or false. I tested Google's Gemini Decision 1",
-      "source": "dev",
-      "tag": "ai,  googlecloud",
-      "url": "https://dev.to/googleai/exploring-decision-models-part-1-putting-gemini-decision-1-to-the-test-50f0"
+      "tag": "ai,  productivity",
+      "url": "https://dev.to/peter/what-team-wide-ai-adoption-actually-takes-1gbh"
     },
     {
       "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine Winners!",
@@ -137,6 +105,14 @@
       "url": "https://blog.mlh.com/prompt-pad-what-are-open-weight-models-1ghh"
     },
     {
+      "title": "Tool Names Are Identifiers. Don't Autocorrect Them.",
+      "hot": "❤️ 23 💬 25",
+      "desc": "An agent contract requires retrieve_policy. The trace seems to contain retrieve_policy. The evaluator...",
+      "source": "dev",
+      "tag": "ai,  typescript",
+      "url": "https://dev.to/gde/tool-names-are-identifiers-dont-autocorrect-them-33g9"
+    },
+    {
       "title": "Prepare a WebMCP Review Without Submitting the Request",
       "hot": "❤️ 16 💬 0",
       "desc": "A business-class trip in my demo produced four facts at the same time:   the saved fields were...",
@@ -145,12 +121,12 @@
       "url": "https://dev.to/gde/prepare-a-webmcp-review-without-submitting-the-request-j4n"
     },
     {
-      "title": "Tool Names Are Identifiers. Don't Autocorrect Them.",
-      "hot": "❤️ 22 💬 25",
-      "desc": "An agent contract requires retrieve_policy. The trace seems to contain retrieve_policy. The evaluator...",
+      "title": "Zombie Sweep on Google Cloud: A Daily Waste Report on AlloyDB Express, With a Database Bill You Can Predict",
+      "hot": "❤️ 31 💬 5",
+      "desc": "Cloud Scheduler, Workflows and Cloud Run sweep a project every day with zombiescan's 20 checks beside Google's idle-reso",
       "source": "dev",
-      "tag": "ai,  typescript",
-      "url": "https://dev.to/gde/tool-names-are-identifiers-dont-autocorrect-them-33g9"
+      "tag": "googlecloud,  postgres",
+      "url": "https://dev.to/gde/zombie-sweep-on-google-cloud-a-daily-waste-report-on-alloydb-express-with-a-database-bill-you-can-305g"
     },
     {
       "title": "Kent C. Dodds Hasn't Looked at His Code All Year",
@@ -159,7 +135,31 @@
       "source": "dev",
       "tag": "ai,  agents",
       "url": "https://dev.to/dailycontext/kent-c-dodds-hasnt-looked-at-his-code-all-year-gd5"
+    },
+    {
+      "title": "Your Error Survived the Wrapper. Did Its Code Survive the Trace?",
+      "hot": "❤️ 31 💬 14",
+      "desc": "Suppose an instrumented operation throws an error with code: \"ETIMEDOUT\". Your application catches...",
+      "source": "dev",
+      "tag": "typescript,  debugging",
+      "url": "https://dev.to/gde/your-error-survived-the-wrapper-did-its-code-survive-the-trace-17gg"
+    },
+    {
+      "title": "Ultimate AI Roast! 😂😹",
+      "hot": "❤️ 102 💬 48",
+      "desc": "I asked my favorite AI to Roast me. Thanks @trickell for this idea.   You need to try this with your...",
+      "source": "dev",
+      "tag": "ai,  webdev",
+      "url": "https://dev.to/annavi11arrea1/ultimate-ai-roast-168b"
+    },
+    {
+      "title": "Long Live Rails",
+      "hot": "❤️ 142 💬 24",
+      "desc": "When DHH took the stage at Rails World 2026 and talked openly about going \"pencils down\" on...",
+      "source": "dev",
+      "tag": "rails,  ruby",
+      "url": "https://dev.to/ben/long-live-rails-3p21"
     }
   ],
-  "updatedAt": "2026-11-23T04:09:14.577Z"
+  "updatedAt": "2026-11-23T15:01:02.179Z"
 }
