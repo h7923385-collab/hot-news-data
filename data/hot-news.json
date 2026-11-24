@@ -1,46 +1,38 @@
 {
-  "updatedAt": "2026-11-24T12:41:04.074Z",
+  "updatedAt": "2026-11-24T22:48:02.539Z",
   "source": "live",
   "dev": [
     {
-      "title": "Proofreader vs. Rewriter vs. Prompt API: Test the Task, Not the Demo",
-      "hot": "❤️ 32 💬 18",
-      "desc": "“Make this message better” is not one task. It can mean correcting a spelling mistake, changing the...",
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "hot": "❤️ 60 💬 13",
+      "desc": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
       "source": "dev",
-      "tag": "webdev,  ai",
-      "url": "https://dev.to/gde/proofreader-vs-rewriter-vs-prompt-api-test-the-task-not-the-demo-pi9"
+      "tag": "top7,  discuss",
+      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5559"
     },
     {
       "title": "Why millions of agents don't need millions of VMs on Agent Substrate",
-      "hot": "❤️ 5 💬 2",
+      "hot": "❤️ 5 💬 3",
       "desc": "How stateful agent harnesses run, suspend, and wake in under a second on Agent Substrate 1.0, from one VM to millions of",
       "source": "dev",
       "tag": "agents,  ai",
       "url": "https://dev.to/googlecloud/why-millions-of-agents-dont-need-millions-of-vms-on-agent-substrate-2ech"
     },
     {
-      "title": "Tell us your story, and we might read it on the CodeNewbie Podcast 🎙️",
-      "hot": "❤️ 50 💬 7",
-      "desc": "Hi! I’m Lauren 👩🏼‍💻, the new host of the CodeNewbie Podcast, and I’d love to hear your...",
+      "title": "Proofreader vs. Rewriter vs. Prompt API: Test the Task, Not the Demo",
+      "hot": "❤️ 37 💬 30",
+      "desc": "“Make this message better” is not one task. It can mean correcting a spelling mistake, changing the...",
       "source": "dev",
-      "tag": "codenewbie,  ai",
-      "url": "https://dev.to/codenewbie/tell-us-your-story-and-we-might-read-it-on-the-codenewbie-podcast-2840"
+      "tag": "webdev,  ai",
+      "url": "https://dev.to/gde/proofreader-vs-rewriter-vs-prompt-api-test-the-task-not-the-demo-pi9"
     },
     {
       "title": "E2B, E4B or 12B? On an 8 GB RTX 3050, Serve Gemma 4 E4B",
-      "hot": "❤️ 26 💬 4",
+      "hot": "❤️ 27 💬 4",
       "desc": "The 12B is the largest Gemma 4 that fits on an 8 GB RTX 3050 and the most accurate with thinking off. E4B is the one to ",
       "source": "dev",
       "tag": "gemma,  llm",
       "url": "https://dev.to/gde/e2b-e4b-or-12b-on-an-8-gb-rtx-3050-serve-gemma-4-e4b-1eji"
-    },
-    {
-      "title": "Meme Monday",
-      "hot": "❤️ 56 💬 19",
-      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
-      "source": "dev",
-      "tag": "discuss,  jokes",
-      "url": "https://dev.to/ben/meme-monday-1505"
     },
     {
       "title": "NYC: Escape the IVR at Twilio Assemble (Dec 8, Brooklyn)",
@@ -75,6 +67,14 @@
       "url": "https://dev.to/gde/one-chat-three-clouds-an-a2ui-10-agent-mesh-over-a2a-on-google-cloud-aws-and-azure-2j83"
     },
     {
+      "title": "Tell us your story, and we might read it on the CodeNewbie Podcast 🎙️",
+      "hot": "❤️ 52 💬 14",
+      "desc": "Hi! I’m Lauren 👩🏼‍💻, the new host of the CodeNewbie Podcast, and I’d love to hear your...",
+      "source": "dev",
+      "tag": "codenewbie,  ai",
+      "url": "https://dev.to/codenewbie/tell-us-your-story-and-we-might-read-it-on-the-codenewbie-podcast-2840"
+    },
+    {
       "title": "Fast multimodal control flow with the Gemini Decisions API",
       "hot": "❤️ 0 💬 0",
       "desc": "Generative models write text for people to read. When your app only needs to pick a tool or route a...",
@@ -83,20 +83,20 @@
       "url": "https://dev.to/philschmid/fast-multimodal-control-flow-with-the-gemini-decisions-api-533b"
     },
     {
+      "title": "Meme Monday",
+      "hot": "❤️ 57 💬 20",
+      "desc": "Meme Monday!  Today's cover image comes from the last thread.  DEV is an inclusive space! Humor in...",
+      "source": "dev",
+      "tag": "discuss,  jokes",
+      "url": "https://dev.to/ben/meme-monday-1505"
+    },
+    {
       "title": "The CodeNewbie Podcast is Back for Season 28!",
-      "hot": "❤️ 90 💬 13",
+      "hot": "❤️ 91 💬 13",
       "desc": "Hi friends! 👋 The CodeNewbie Podcast is back for season 28, and I’m so excited to be the one hosting...",
       "source": "dev",
       "tag": "codenewbie,  ai",
       "url": "https://dev.to/codenewbie/the-codenewbie-podcast-is-back-for-season-28-2484"
-    },
-    {
-      "title": "Agentic engineering a smart home energy system with Antigravity and Gemini 4",
-      "hot": "❤️ 37 💬 14",
-      "desc": "Running rooftop solar, a home battery, two electric vehicles (EVs), and dynamic hourly electricity...",
-      "source": "dev",
-      "tag": "ai,  antigravity",
-      "url": "https://dev.to/googleai/agentic-engineering-a-smart-home-energy-system-with-antigravity-and-gemini-4-53md"
     },
     {
       "title": "Stop Using One Prompt for Every Photo! Local Image Classification Before Calling Firebase AI Logic GenerativeModel",
@@ -140,7 +140,7 @@
     },
     {
       "title": "How much does it cost to run a text game with LLMs",
-      "hot": "❤️ 98 💬 106",
+      "hot": "❤️ 99 💬 106",
       "desc": "AI costs are confusing. Providers give you a lot of numbers and nothing to actually know how much you are going to pay i",
       "source": "dev",
       "tag": "ai,  llm",
@@ -155,196 +155,196 @@
       "url": "https://blog.mlh.com/prompt-pad-what-are-open-weight-models-1ghh"
     },
     {
-      "title": "Prepare a WebMCP Review Without Submitting the Request",
-      "hot": "❤️ 16 💬 0",
-      "desc": "A business-class trip in my demo produced four facts at the same time:   the saved fields were...",
+      "title": "Zombie Sweep on Google Cloud: A Daily Waste Report on AlloyDB Express, With a Database Bill You Can Predict",
+      "hot": "❤️ 32 💬 5",
+      "desc": "Cloud Scheduler, Workflows and Cloud Run sweep a project every day with zombiescan's 20 checks beside Google's idle-reso",
       "source": "dev",
-      "tag": "react,  typescript",
-      "url": "https://dev.to/gde/prepare-a-webmcp-review-without-submitting-the-request-j4n"
+      "tag": "googlecloud,  postgres",
+      "url": "https://dev.to/gde/zombie-sweep-on-google-cloud-a-daily-waste-report-on-alloydb-express-with-a-database-bill-you-can-305g"
     }
   ],
   "tech": [
     {
-      "title": "Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang",
+      "title": "Ternary Bonsai 2.5 27B",
       "hot": "3.0m",
-      "desc": "deucalionn.vercel.app",
+      "desc": "prismml.com",
       "source": "tech",
-      "tag": "⬆️ 209 points",
-      "url": "https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/"
+      "tag": "⬆️ 214 points",
+      "url": "https://prismml.com/news/bonsai-2-5-27b"
     },
     {
-      "title": "2035 Came Early",
+      "title": "Heart attack and stroke risk detectable decades in advance",
       "hot": "3.0m",
+      "desc": "ed.ac.uk",
+      "source": "tech",
+      "tag": "⬆️ 40 points",
+      "url": "https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance"
+    },
+    {
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "hot": "3.0m",
+      "desc": "openai.com",
+      "source": "tech",
+      "tag": "⬆️ 68 points",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/"
+    },
+    {
+      "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
+      "hot": "3.0m",
+      "desc": "news.ycombinator.com",
+      "source": "tech",
+      "tag": "⬆️ 42 points",
+      "url": "https://news.ycombinator.com/item?id=50634426"
+    },
+    {
+      "title": "Active intrusion campaign against Check Point security management servers",
+      "hot": "2.9m",
+      "desc": "greynoise.io",
+      "source": "tech",
+      "tag": "⬆️ 237 points",
+      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign"
+    },
+    {
+      "title": "Gödel Enigma",
+      "hot": "2.9m",
+      "desc": "helsinki.fi",
+      "source": "tech",
+      "tag": "⬆️ 36 points",
+      "url": "https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description"
+    },
+    {
+      "title": "The Spray Bottle",
+      "hot": "2.9m",
+      "desc": "mechanical-pencil.com",
+      "source": "tech",
+      "tag": "⬆️ 300 points",
+      "url": "https://mechanical-pencil.com/products/spray-bottle"
+    },
+    {
+      "title": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
+      "hot": "2.9m",
+      "desc": "andlukyane.com",
+      "source": "tech",
+      "tag": "⬆️ 44 points",
+      "url": "https://andlukyane.com/blog/cayley-graphs-and-torchtpu"
+    },
+    {
+      "title": "Calculate how many mesh radio nodes your city needs",
+      "hot": "2.9m",
+      "desc": "meshcoveragecalculator.lalala.ing",
+      "source": "tech",
+      "tag": "⬆️ 49 points",
+      "url": "https://meshcoveragecalculator.lalala.ing/"
+    },
+    {
+      "title": "2035 came early",
+      "hot": "2.9m",
       "desc": "fzakaria.com",
       "source": "tech",
-      "tag": "⬆️ 387 points",
+      "tag": "⬆️ 930 points",
       "url": "https://fzakaria.com/2026/11/23/2035-came-early"
     },
     {
-      "title": "Worshipping at the Altar of Brendan Gregg",
-      "hot": "3.0m",
-      "desc": "fzakaria.com",
-      "source": "tech",
-      "tag": "⬆️ 40 points",
-      "url": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg"
-    },
-    {
-      "title": "Ladybird is now in alpha",
-      "hot": "3.0m",
-      "desc": "ladybird.org",
-      "source": "tech",
-      "tag": "⬆️ 2110 points",
-      "url": "https://ladybird.org/posts/alpha/"
-    },
-    {
-      "title": "Who in Washington owns and trades Nvidia stock",
+      "title": "Jetty Pro",
       "hot": "2.9m",
-      "desc": "kadoa.com",
+      "desc": "hypercritical.co",
       "source": "tech",
-      "tag": "⬆️ 10 points",
-      "url": "https://www.kadoa.com/congress/insights/trump-nvidia"
+      "tag": "⬆️ 235 points",
+      "url": "http://hypercritical.co/2026/11/23/jetty-pro"
     },
     {
-      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
-      "hot": "2.9m",
-      "desc": "stalw.art",
-      "source": "tech",
-      "tag": "⬆️ 527 points",
-      "url": "https://stalw.art/blog/microsoft-exchange-replacement/"
-    },
-    {
-      "title": "An anti-slavery sugar bowl (2024)",
-      "hot": "2.9m",
-      "desc": "vam.ac.uk",
-      "source": "tech",
-      "tag": "⬆️ 20 points",
-      "url": "https://www.vam.ac.uk/blog/museum-life/an-anti-slavery-sugar-bowl"
-    },
-    {
-      "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
-      "hot": "2.9m",
-      "desc": "phoronix.com",
-      "source": "tech",
-      "tag": "⬆️ 127 points",
-      "url": "https://www.phoronix.com/review/amd-epyc-9006-7601"
-    },
-    {
-      "title": "Nvidia Reinstates Jensen Huang as CEO",
-      "hot": "2.9m",
-      "desc": "cnbc.com",
-      "source": "tech",
-      "tag": "⬆️ 2649 points",
-      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html"
-    },
-    {
-      "title": "Drone Maps of Salvage Yards",
-      "hot": "2.9m",
-      "desc": "salvageyarddrone.wordpress.com",
-      "source": "tech",
-      "tag": "⬆️ 111 points",
-      "url": "https://salvageyarddrone.wordpress.com/"
-    },
-    {
-      "title": "Arctic: A Practical Lock-Free Adaptive Radix Tree",
-      "hot": "2.9m",
-      "desc": "usenix.org",
-      "source": "tech",
-      "tag": "⬆️ 58 points",
-      "url": "https://www.usenix.org/conference/osdi26/presentation/ni"
-    },
-    {
-      "title": "Just a Few Bugs",
+      "title": "Splitting USB-C: USB 3 and USB 2 on one port",
       "hot": "2.8m",
-      "desc": "justafewbugs.xyz",
+      "desc": "frankchiarulli.com",
       "source": "tech",
-      "tag": "⬆️ 21 points",
-      "url": "https://www.justafewbugs.xyz/"
+      "tag": "⬆️ 119 points",
+      "url": "https://www.frankchiarulli.com/blog/splitting-usb-c/"
     },
     {
-      "title": "Becoming a Magician",
-      "hot": "2.8m",
-      "desc": "autotranslucence.wordpress.com",
-      "source": "tech",
-      "tag": "⬆️ 35 points",
-      "url": "https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/"
-    },
-    {
-      "title": "GPUI is getting its own repository",
+      "title": "A training engine for your local model, using your idle compute",
       "hot": "2.8m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 310 points",
-      "url": "https://github.com/zed-industries/gpui"
+      "tag": "⬆️ 150 points",
+      "url": "https://github.com/sous-labs/songe"
     },
     {
-      "title": "Modernizing iperf/iperf3 and introducing fireperf",
+      "title": "GTA 6 Running on Windows",
       "hot": "2.8m",
-      "desc": "blog.daniel-baumann.ch",
+      "desc": "twitter.com",
       "source": "tech",
-      "tag": "⬆️ 125 points",
-      "url": "https://blog.daniel-baumann.ch/posts/20261122-1.html"
+      "tag": "⬆️ 227 points",
+      "url": "https://twitter.com/raul_bs3/status/2125213756238291075"
     },
     {
-      "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
+      "title": "An unclassified CIA system was breached in a cyberattack",
       "hot": "2.8m",
-      "desc": "governor.ny.gov",
+      "desc": "apnews.com",
       "source": "tech",
-      "tag": "⬆️ 460 points",
-      "url": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription"
+      "tag": "⬆️ 51 points",
+      "url": "https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77"
     },
     {
-      "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
+      "title": "Quad9 pulled their DNS service from France",
       "hot": "2.8m",
-      "desc": "bored.com",
+      "desc": "quad9.net",
       "source": "tech",
-      "tag": "⬆️ 276 points",
-      "url": "https://www.bored.com/"
+      "tag": "⬆️ 320 points",
+      "url": "https://quad9.net/news/blog/quad9-service-deactivation-in-france/"
     },
     {
-      "title": "Lowering Perplexity Without Scaling",
-      "hot": "2.7m",
-      "desc": "micjm.com",
+      "title": "An Italian folding bicycle design that fits into a suitcase",
+      "hot": "2.8m",
+      "desc": "core77.com",
       "source": "tech",
-      "tag": "⬆️ 66 points",
-      "url": "https://micjm.com/blog/lowering-perplexity-without-scaling/"
+      "tag": "⬆️ 84 points",
+      "url": "https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase"
     },
     {
-      "title": "Making a dumb TV just smart enough",
+      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
       "hot": "2.7m",
-      "desc": "qsantos.fr",
+      "desc": "jobs.ashbyhq.com",
       "source": "tech",
-      "tag": "⬆️ 108 points",
-      "url": "https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/"
+      "tag": "⬆️ 1 points",
+      "url": "https://jobs.ashbyhq.com/weave-os"
     },
     {
-      "title": "Del Casher–guitarist who was driving force behind the wah-wah pedal–dies at 88",
+      "title": "Cloudflare hides shortcomings of the underlying infrastructure",
       "hot": "2.7m",
-      "desc": "nytimes.com",
+      "desc": "charlie.fish",
       "source": "tech",
-      "tag": "⬆️ 17 points",
-      "url": "https://www.nytimes.com/2026/11/17/obituaries/del-casher-dead.html"
+      "tag": "⬆️ 132 points",
+      "url": "https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/"
+    },
+    {
+      "title": "Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)",
+      "hot": "2.7m",
+      "desc": "grafana.com",
+      "source": "tech",
+      "tag": "⬆️ 106 points",
+      "url": "https://grafana.com/grafana/download"
     }
   ],
   "github": [
     {
       "title": "Marvisak/VIctory: An attempt at running GTA VI on PC",
-      "hot": "⭐ 8.4k",
+      "hot": "⭐ 11.2k",
       "desc": "An attempt at running GTA VI on PC",
       "source": "github",
       "tag": "Rust",
       "url": "https://github.com/Marvisak/VIctory"
     },
     {
-      "title": "ivall/xcl: Xbox Series compatibility layer for Windows - runs console game code ",
-      "hot": "⭐ 6.5k",
+      "title": "xcl-dev/xcl: Xbox Series compatibility layer for Windows - runs console game cod",
+      "hot": "⭐ 7.8k",
       "desc": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders ",
       "source": "github",
       "tag": "Rust",
-      "url": "https://github.com/ivall/xcl"
+      "url": "https://github.com/xcl-dev/xcl"
     },
     {
       "title": "EL4CTEO/fast-anything: Don't rewrite it in Rust. Rewrite the 5% that's slow: pro",
-      "hot": "⭐ 3.4k",
+      "hot": "⭐ 3.6k",
       "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they beh",
       "source": "github",
       "tag": "Rust",
@@ -352,15 +352,23 @@
     },
     {
       "title": "AFK-surf/xnulinux: XNU as a loadable kernel module inside Linux (macOS personali",
-      "hot": "⭐ 2.9k",
+      "hot": "⭐ 3.3k",
       "desc": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
       "source": "github",
       "tag": "Objective-C++",
       "url": "https://github.com/AFK-surf/xnulinux"
     },
     {
+      "title": "4lwayz/portwatch-vi: Does GTA VI run on PC yet? A live tracker of community reco",
+      "hot": "⭐ 2.7k",
+      "desc": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/4lwayz/portwatch-vi"
+    },
+    {
       "title": "iamajmeena/neonclipping: Paste a link, get captioned 9:16 clips in ~2 min. Free,",
-      "hot": "⭐ 2.4k",
+      "hot": "⭐ 2.5k",
       "desc": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
       "source": "github",
       "tag": "Python",
@@ -368,86 +376,190 @@
     },
     {
       "title": "R0Y00/Xbox2Windows: Static recompilation research for Xbox Series X|S software o",
-      "hot": "⭐ 1.8k",
+      "hot": "⭐ 1.9k",
       "desc": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
       "source": "github",
       "tag": "Python",
       "url": "https://github.com/R0Y00/Xbox2Windows"
     },
     {
+      "title": "ubiquitarianism/leonida: A continuation of Leonida, the Xbox > PC port interface",
+      "hot": "⭐ 1.8k",
+      "desc": "A continuation of Leonida, the Xbox > PC port interface of GTA VI",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/ubiquitarianism/leonida"
+    },
+    {
       "title": "omonkeyz/xbox-emulator: Progress notes for running Xbox Series X|S builds on PC ",
-      "hot": "⭐ 1.7k",
+      "hot": "⭐ 1.8k",
       "desc": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
       "source": "github",
       "tag": "Rust",
       "url": "https://github.com/omonkeyz/xbox-emulator"
     },
     {
-      "title": "4lwayz/portwatch-vi: Does GTA VI run on PC yet? A live tracker of community reco",
-      "hot": "⭐ 1.7k",
-      "desc": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/4lwayz/portwatch-vi"
-    },
-    {
       "title": "os6/nospeaker: make your macbook's trackpad talk using its haptic motor",
-      "hot": "⭐ 1.6k",
+      "hot": "⭐ 1.7k",
       "desc": "make your macbook's trackpad talk using its haptic motor",
       "source": "github",
       "tag": "Swift",
       "url": "https://github.com/os6/nospeaker"
     },
     {
+      "title": "fxceless/victory-fork: Work-in-progress fork of VIctory: getting an Xbox Series ",
+      "hot": "⭐ 1.5k",
+      "desc": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/fxceless/victory-fork"
+    },
+    {
       "title": "Lemxy/WinRust: Windows shell replacement in Rust: taskbar, file manager, NTFS se",
-      "hot": "⭐ 1.4k",
+      "hot": "⭐ 1.5k",
       "desc": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
       "source": "github",
       "tag": "Rust",
       "url": "https://github.com/Lemxy/WinRust"
     },
     {
-      "title": "ubiquitarianism/leonida: A continuation of Leonida, the Xbox > PC port of GTA VI",
-      "hot": "⭐ 1.1k",
-      "desc": "A continuation of Leonida, the Xbox > PC port of GTA VI",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/ubiquitarianism/leonida"
-    },
-    {
-      "title": "leanprover-community/riemann-hypothesis: Independent Comparator setup for the Le",
-      "hot": "⭐ 961",
-      "desc": "Independent Comparator setup for the Lean formalization of the Riemann Hypothesis (Alpöge, 2026-11-20)",
-      "source": "github",
-      "tag": "Lean",
-      "url": "https://github.com/leanprover-community/riemann-hypothesis"
-    },
-    {
       "title": "INK-Q/agy-fast: Non-invasive MCP accelerator plugin for Google Antigravity (CLI/",
-      "hot": "⭐ 877",
+      "hot": "⭐ 1.2k",
       "desc": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) wit",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/INK-Q/agy-fast"
     },
     {
-      "title": "danielwh2/sprite-stacking: Agent skill: turn four pixel art views into fake-3D s",
-      "hot": "⭐ 730",
-      "desc": "Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi.",
+      "title": "leanprover-community/riemann-hypothesis: Lean formalization of the Riemann Hypot",
+      "hot": "⭐ 1.0k",
+      "desc": "Lean formalization of the Riemann Hypothesis (Alpöge, 2026-11-20) being cleaned up by members of the Lean community.",
       "source": "github",
-      "tag": "HTML",
-      "url": "https://github.com/danielwh2/sprite-stacking"
+      "tag": "Lean",
+      "url": "https://github.com/leanprover-community/riemann-hypothesis"
     },
     {
-      "title": "nataphong-lab/Open-Source-Face-Recognition-Ultimate: Face Recognition, Face Live",
-      "hot": "⭐ 721",
-      "desc": "Face Recognition, Face Liveness Detection, Face Anti-Spoofing, Face Detection, Face Landmarks, Face Compare, Face Matching, Face Pose, Face Expression",
+      "title": "Avaneesh-Inamdar/Stream-Tube-Desktop: Native YouTube client for Windows in Rust,",
+      "hot": "⭐ 849",
+      "desc": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in",
       "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/nataphong-lab/Open-Source-Face-Recognition-Ultimate"
+      "tag": "Rust",
+      "url": "https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop"
     }
   ],
   "space": [
+    {
+      "title": "White House Requests Billions for NASA, Golden Dome in Next CR",
+      "hot": "11/24",
+      "desc": "Last night the White House sent Congress a list of funding it wants included in a new Continuing Resolution (CR) that would keep the government open a",
+      "source": "space",
+      "tag": "SpacePolicyOnline.com",
+      "url": "https://spacepolicyonline.com/news/white-house-requests-billions-for-nasa-golden-dome-in-next-cr/"
+    },
+    {
+      "title": "NASA+ Content Coming to Big Screen at Greenbelt, Maryland Cinema",
+      "hot": "11/24",
+      "desc": "NASA announced Monday that NASA+ content has found its first theatrical home at The Greenbelt Cinema in Greenbelt, Maryland, expanding the agency’s re",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/nasa/nasa-content-coming-to-big-screen-at-greenbelt-maryland-cinema/"
+    },
+    {
+      "title": "Teams Lock in Mission Architecture for NASA’s SR-1 Freedom",
+      "hot": "11/24",
+      "desc": "NASA completed a major review for Space Reactor-1 (SR-1) Freedom and locked in key elements of the spacecraft, which is targeted to launch in 2028 and",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/general/nasa-locks-in-sr1-freedom-mission-architecture/"
+    },
+    {
+      "title": "BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch",
+      "hot": "11/24",
+      "desc": "At 18:24 UTC on Saturday, Nov. 21, the European Space Agency (ESA) and the Japanese…\nThe post BepiColombo successfully enters orbit of Mercury, suffer",
+      "source": "space",
+      "tag": "NASASpaceflight",
+      "url": "https://www.nasaspaceflight.com/2026/11/bepicolombo-moi/"
+    },
+    {
+      "title": "Arianespace Completes 10th Ariane 6 Flight With Next Expected on 17 December",
+      "hot": "11/24",
+      "desc": "Arianespace has successfully completed the tenth flight of its Ariane 6 rocket, deploying another 36 Amazon Leo satellites into orbit. The rocket’s si",
+      "source": "space",
+      "tag": "European Spaceflight",
+      "url": "https://europeanspaceflight.com/arianespace-completes-10th-ariane-6-flight-with-next-expected-on-17-december/"
+    },
+    {
+      "title": "Amateur Astronomer? Be a Kilonova Catcher!",
+      "hot": "11/24",
+      "desc": "Neutron stars are the ultra-dense, city-sized leftovers of dead stars. When they collide, they can release a brief flash of light called a kilonova. T",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/get-involved/citizen-science/amateur-astronomer-be-a-kilonova-catcher/"
+    },
+    {
+      "title": "NASA’s Northrop Grumman CRS-25 Mission Overview",
+      "hot": "11/24",
+      "desc": "NASA’s Northrop Grumman Commercial Resupply Services 25 mission, or Northrop Grumman CRS-25, will deliver about 11,000 pounds of science and supplies ",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/missions/station/nasas-northrop-grumman-crs-25-mission-overview/"
+    },
+    {
+      "title": "AGU Hyperwall Schedule",
+      "hot": "11/24",
+      "desc": "American Geophysical Union (AGU) 2026 Join NASA in the Exhibit Hall (Booth #525) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda bel",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/earth/agu-hyperwall-schedule/"
+    },
+    {
+      "title": "Webb Reveals New Details in Supernova Remnant",
+      "hot": "11/24",
+      "desc": "NASA’s James Webb Space Telescope reveals the hot dust that makes up Cassiopeia A (Cas A) in this high-resolution, mid-infrared image released on Nov.",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/image-article/webb-reveals-new-details-in-supernova-remnant/"
+    },
+    {
+      "title": "Tiangong Space Station to welcome first international visitor",
+      "hot": "11/24",
+      "desc": "China is preparing to launch the Shenzhou-24 crewed spacecraft to the Tiangong (“heavenly palace”) space…\nThe post Tiangong Space Station to welcome f",
+      "source": "space",
+      "tag": "NASASpaceflight",
+      "url": "https://www.nasaspaceflight.com/2026/11/shenzhou-24/"
+    },
+    {
+      "title": "NASA may get $2 billion boost as White House seeks to accelerate Artemis",
+      "hot": "11/24",
+      "desc": "\"Without this funding, activities would be delayed.\"",
+      "source": "space",
+      "tag": "Arstechnica",
+      "url": "https://arstechnica.com/space/2026/11/nasa-may-get-2-billion-boost-as-white-house-seeks-to-accelerate-artemis/"
+    },
+    {
+      "title": "NASA’s Titan-Bound Dragonfly Rotorcraft Gets Its Eyes",
+      "hot": "11/24",
+      "desc": "Science instruments for NASA’s Dragonfly are starting to arrive at the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland, where the c",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/missions/dragonfly/nasas-titan-bound-dragonfly-rotorcraft-gets-its-eyes/"
+    },
+    {
+      "title": "Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution",
+      "hot": "11/24",
+      "desc": "\nBremen, 18 November 2026 – Simera Sense, Spacemanic, Zaitra and World from Space have signed a Memorandum of Understanding in Bremen to cooperate on ",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/simera-sense-spacemanic-zaitra-and-world-from-space-join-forces-on-an-end-to-end-dual-use-mission-solution/"
+    },
+    {
+      "title": "NASA Hubble’s New View of NGC 4394 Raises the Bar",
+      "hot": "11/24",
+      "desc": "The brilliant galaxy NGC 4394 with its distinct galactic bar takes center stage in this Hubble Space Telescope image",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/missions/hubble/nasa-hubbles-new-view-of-ngc-4394-raises-the-bar/"
+    },
     {
       "title": "BepiColombo Enters Orbit Around Mercury Despite “Software Glitch”",
       "hot": "11/24",
@@ -455,118 +567,6 @@
       "source": "space",
       "tag": "European Spaceflight",
       "url": "https://europeanspaceflight.com/bepicolombo-enters-orbit-around-mercury-despite-software-glitch/"
-    },
-    {
-      "title": "APOD: 2026 November 24 – Galaxies Battle in the NGC 7771 Group",
-      "hot": "11/24",
-      "desc": "APOD Science APOD APOD: 2026 November 24 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Pictur",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-24-galaxies-battle-in-the-ngc-7771-group/"
-    },
-    {
-      "title": "Eruption Extends Iwo Jima’s Beach",
-      "hot": "11/24",
-      "desc": "A volcanic eruption just off the southeast shore of the Pacific island has reshaped the coast, but it’s unclear how long the new land will survive.",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/earth/earth-observatory/eruption-extends-iwo-jimas-beach/"
-    },
-    {
-      "title": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits",
-      "hot": "11/23",
-      "desc": "Northrop Grumman has contracted a sixth Falcon 9 launch for its Cygnus resupply spacecraft, extending…\r\nThe post Northrop books sixth Falcon 9 for Cyg",
-      "source": "space",
-      "tag": "NASASpaceflight",
-      "url": "https://www.nasaspaceflight.com/2026/11/northrop-sixth-f9-cygnus-antares-waits/"
-    },
-    {
-      "title": "Live coverage: SpaceX to launch classified payload for the U.S. Space Force",
-      "hot": "11/23",
-      "desc": "The mission is the third in a series of flights for the U.S. Space Force with a ‘TH’ designation in public filings. Liftoff from pad 4E at Vandenberg ",
-      "source": "space",
-      "tag": "Spaceflight Now",
-      "url": "https://spaceflightnow.com/2026/11/23/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-3/"
-    },
-    {
-      "title": "Live coverage: Arianespace to launch Amazon Leo sats amid rocket crunch",
-      "hot": "11/23",
-      "desc": "The Leo Europe 4 mission will the fourth flight of Amazon Leo satellites on an Ariane 6 rocket and the 16th launch for the constellation. Liftoff from",
-      "source": "space",
-      "tag": "Spaceflight Now",
-      "url": "https://spaceflightnow.com/2026/11/23/live-coverage-arianespaces-launches-amazon-leo-sats-amid-rocket-crunch/"
-    },
-    {
-      "title": "NASA seeks to begin ‘intergalactic freight network’ with $1.3 billion block purchase of rockets, orbital transfer vehicles",
-      "hot": "11/23",
-      "desc": "NASA announced the purchase of multiple modes of transportation to the Moon’s surface and cis-lunar space to help establish an understanding of what’s",
-      "source": "space",
-      "tag": "Spaceflight Now",
-      "url": "https://spaceflightnow.com/2026/11/23/nasa-seeks-to-begin-intergalactic-freight-network-with-1-3-billion-block-purchase-of-rockets-orbital-transfer-vehicles/"
-    },
-    {
-      "title": "Progress MS-36 set to launch to ISS from Baikonur",
-      "hot": "11/23",
-      "desc": "The fourth and final Progress cargo ship resupply mission to the International Space Station of…\r\nThe post Progress MS-36 set to launch to ISS from Ba",
-      "source": "space",
-      "tag": "NASASpaceflight",
-      "url": "https://www.nasaspaceflight.com/2026/11/progress-ms-36/"
-    },
-    {
-      "title": "NASA Awards Contract for NOAA’s Near Earth Orbit Network Program",
-      "hot": "11/23",
-      "desc": "NASA, on behalf of the National Oceanic and Atmospheric Administration (NOAA), has awarded a contract to Northrop Grumman Systems Corporation for the ",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-near-earth-orbit-network-program/"
-    },
-    {
-      "title": "Russia will launch a routine ISS supply mission tomorrow—apparently, it's a big secret",
-      "hot": "11/23",
-      "desc": "\"I would ask you to please reach out to Roscosmos directly.\"",
-      "source": "space",
-      "tag": "Arstechnica",
-      "url": "https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/"
-    },
-    {
-      "title": "As it happened: NG-25 preview news teleconference",
-      "hot": "11/23",
-      "desc": "Live launch coverage and running updates from the Spaceflight Now team. Between broadcasts, Launch Pad Live streams 24/7 from Cape Canaveral.",
-      "source": "space",
-      "tag": "Spaceflight Now",
-      "url": "https://spaceflightnow.com/2026/11/23/as-it-happened-ng-25-preview-news-teleconference/"
-    },
-    {
-      "title": "Studying Cancer Cells in Microgravity",
-      "hot": "11/23",
-      "desc": "This Nov. 19, 2026, image shows gastric microtumors grown within an Encapsulates biochip. The Encapsulate-1 investigation studies patient-derived tumo",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/image-article/studying-cancer-cells-in-microgravity/"
-    },
-    {
-      "title": "NASA Seeks Partners to Design First Nuclear Reactor for the Moon",
-      "hot": "11/23",
-      "desc": "NASA is seeking industry partners to develop and test the first nuclear reactor designed to provide electricity on the Moon, a major step toward estab",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/directorates/rtmd/nasa-seeks-partners-to-design-first-nuclear-reactor-for-the-moon/"
-    },
-    {
-      "title": "NASA+ Documentary Captures Europa Clipper’s Journey Into Deep Space",
-      "hot": "11/23",
-      "desc": "NASA invites the world behind the scenes to witness the story of Europa Clipper’s journey from a far-off vision to a cutting-edge deep space explorati",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/missions/europa-clipper/nasa-documentary-captures-europa-clippers-journey-into-deep-space/"
-    },
-    {
-      "title": "Eutelsat Wins $60 Million US Space Force Contract",
-      "hot": "11/23",
-      "desc": "The US arm of European satellite operator Eutelsat has secured a two-year contract worth more than $60 million to provide satellite communications ser",
-      "source": "space",
-      "tag": "European Spaceflight",
-      "url": "https://europeanspaceflight.com/eutelsat-wins-60-million-us-space-force-contract/"
     }
   ]
 }
