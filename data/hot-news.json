@@ -1,10 +1,18 @@
 {
-  "updatedAt": "2026-11-27T08:49:57.711Z",
+  "updatedAt": "2026-11-27T18:30:14.825Z",
   "source": "live",
   "dev": [
     {
+      "title": "What was your win this week!?",
+      "hot": "❤️ 52 💬 26",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-h3d"
+    },
+    {
       "title": "The mental toll of working in tech",
-      "hot": "❤️ 89 💬 26",
+      "hot": "❤️ 100 💬 32",
       "desc": "Hi folks! 👋 It's been a while since I last wrote here. As some of you may remember, some time ago I...",
       "source": "dev",
       "tag": "mentalhealth,  discuss",
@@ -12,7 +20,7 @@
     },
     {
       "title": "Home Office Nightmare",
-      "hot": "❤️ 55 💬 11",
+      "hot": "❤️ 56 💬 11",
       "desc": "I Constantly Try to Survive Reality  Maybe that's why I built an entire universe, including a...",
       "source": "dev",
       "tag": "discuss,  mentalhealth",
@@ -43,14 +51,6 @@
       "url": "https://blog.mlh.com/major-league-hacking-and-spacexsi-come-together-to-support-the-next-generation-of-builders-feh"
     },
     {
-      "title": "Welcome Thread - v403",
-      "hot": "❤️ 35 💬 169",
-      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
-      "source": "dev",
-      "tag": "welcome",
-      "url": "https://dev.to/sloan/welcome-thread-v403-1o39"
-    },
-    {
       "title": "Proofreader vs. Rewriter vs. Prompt API: Test the Task, Not the Demo",
       "hot": "❤️ 43 💬 45",
       "desc": "“Make this message better” is not one task. It can mean correcting a spelling mistake, changing the...",
@@ -60,7 +60,7 @@
     },
     {
       "title": "Tell us your story, and we might read it on the CodeNewbie Podcast 🎙️",
-      "hot": "❤️ 59 💬 44",
+      "hot": "❤️ 64 💬 44",
       "desc": "Hi! I’m Lauren 👩🏼‍💻, the new host of the CodeNewbie Podcast, and I’d love to hear your...",
       "source": "dev",
       "tag": "codenewbie,  ai",
@@ -89,6 +89,14 @@
       "source": "dev",
       "tag": "discuss,  career",
       "url": "https://dev.to/maame-codes/how-did-you-end-up-in-tech-and-are-you-staying-4l9b"
+    },
+    {
+      "title": "Welcome Thread - v403",
+      "hot": "❤️ 39 💬 203",
+      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
+      "source": "dev",
+      "tag": "welcome",
+      "url": "https://dev.to/sloan/welcome-thread-v403-1o39"
     },
     {
       "title": "Detecting WasmPlugin version drift in Cloud Load Balancing Service Extensions",
@@ -153,139 +161,49 @@
       "source": "dev",
       "tag": "webdev,  ai",
       "url": "https://dev.to/gde/build-a-multilingual-react-editor-with-chromes-built-in-ai-4863"
-    },
-    {
-      "title": "One Chat, Three Clouds: An A2UI 1.0 Agent Mesh Over A2A on Google Cloud, AWS and Azure",
-      "hot": "❤️ 19 💬 1",
-      "desc": "Three A2UI 1.0 currency agents, one per cloud, joined over A2A behind one AG-UI coordinator. Google ADK and Gemini, Stra",
-      "source": "dev",
-      "tag": "a2ui,  a2a",
-      "url": "https://dev.to/gde/one-chat-three-clouds-an-a2ui-10-agent-mesh-over-a2a-on-google-cloud-aws-and-azure-2j83"
-    }
-  ],
-  "github": [
-    {
-      "title": "Marvisak/VIctory: An attempt at running GTA VI on PC",
-      "hot": "⭐ 13.5k",
-      "desc": "An attempt at running GTA VI on PC",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/Marvisak/VIctory"
-    },
-    {
-      "title": "xcl-dev/xcl: Xbox Series compatibility layer for Windows - runs console game cod",
-      "hot": "⭐ 8.6k",
-      "desc": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders ",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/xcl-dev/xcl"
-    },
-    {
-      "title": "4lwayz/portwatch-vi: Does GTA VI run on PC yet? A live tracker of community reco",
-      "hot": "⭐ 6.1k",
-      "desc": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/4lwayz/portwatch-vi"
-    },
-    {
-      "title": "EL4CTEO/fast-anything: Don't rewrite it in Rust. Rewrite the 5% that's slow: pro",
-      "hot": "⭐ 4.3k",
-      "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they beh",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/EL4CTEO/fast-anything"
-    },
-    {
-      "title": "AFK-surf/xnulinux: XNU as a loadable kernel module inside Linux (macOS personali",
-      "hot": "⭐ 4.3k",
-      "desc": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
-      "source": "github",
-      "tag": "C",
-      "url": "https://github.com/AFK-surf/xnulinux"
-    },
-    {
-      "title": "Belobug/VIctory-Belobug-AMD: ",
-      "hot": "⭐ 3.6k",
-      "desc": "Belobug/VIctory-Belobug-AMD",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/Belobug/VIctory-Belobug-AMD"
-    },
-    {
-      "title": "fxceless/victory-fork: Work-in-progress fork of VIctory: getting an Xbox Series ",
-      "hot": "⭐ 3.3k",
-      "desc": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/fxceless/victory-fork"
-    },
-    {
-      "title": "ubiquitarianism/leonida: A continuation of Leonida, the Xbox > PC port interface",
-      "hot": "⭐ 2.6k",
-      "desc": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/ubiquitarianism/leonida"
-    },
-    {
-      "title": "R0Y00/Xbox2Windows: Static recompilation research for Xbox Series X|S software o",
-      "hot": "⭐ 2.0k",
-      "desc": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/R0Y00/Xbox2Windows"
-    },
-    {
-      "title": "os6/nospeaker: make your macbook's trackpad talk using its haptic motor",
-      "hot": "⭐ 2.0k",
-      "desc": "make your macbook's trackpad talk using its haptic motor",
-      "source": "github",
-      "tag": "Swift",
-      "url": "https://github.com/os6/nospeaker"
-    },
-    {
-      "title": "avatarmanz/VIctory-7900XTX: Goal: an Xbox Series title (your own dump) on PC as ",
-      "hot": "⭐ 1.9k",
-      "desc": "Goal: an Xbox Series title (your own dump) on PC as the Series X version at 4K with ray tracing, picture matching the Xbox first (textures, lighting),",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/avatarmanz/VIctory-7900XTX"
-    },
-    {
-      "title": "omonkeyz/xbox-emulator: Progress notes for running Xbox Series X|S builds on PC ",
-      "hot": "⭐ 1.9k",
-      "desc": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/omonkeyz/xbox-emulator"
-    },
-    {
-      "title": "alesha-pro/llm.asm: Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB)",
-      "hot": "⭐ 1.8k",
-      "desc": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM",
-      "source": "github",
-      "tag": "Assembly",
-      "url": "https://github.com/alesha-pro/llm.asm"
-    },
-    {
-      "title": "crhywun/g1-acq: ",
-      "hot": "⭐ 1.7k",
-      "desc": "crhywun/g1-acq",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/crhywun/g1-acq"
-    },
-    {
-      "title": "qianyiai/KuroCat: KuroCat — Free open-source 3D/2D desktop typing cat & AI codin",
-      "hot": "⭐ 1.6k",
-      "desc": "KuroCat — Free open-source 3D/2D desktop typing cat & AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS ·",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/qianyiai/KuroCat"
     }
   ],
   "space": [
+    {
+      "title": "Governments Invest $71.8B in Space Defense as Militarization of Space Accelerates",
+      "hot": "11/27",
+      "desc": "\nParis, France | November 2026 — Novaspace’s Space Defense & Security, 2nd Edition finds that governments invested approximately $71.8 billion in spac",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/governments-invest-71-8b-in-space-defense-as-militarization-of-space-accelerates/"
+    },
+    {
+      "title": "Artemis III Astronaut Andre Douglas Visits VAB",
+      "hot": "11/27",
+      "desc": "NASA astronaut Andre Douglas, Artemis III mission specialist, stands inside an RS-25 engine test article during a visit to the Vehicle Assembly Buildi",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://www.nasa.gov/image-article/artemis-iii-astronaut-andre-douglas-visits-vab/"
+    },
+    {
+      "title": "Stoke Space’s Nova Pathfinder booster arrives at SLC-14 ahead of 2027 debut",
+      "hot": "11/27",
+      "desc": "Stoke Space’s Nova Pathfinder is moving toward an early 2027 inaugural launch following the arrival…\nThe post Stoke Space’s Nova Pathfinder booster ar",
+      "source": "space",
+      "tag": "NASASpaceflight",
+      "url": "https://www.nasaspaceflight.com/2026/11/stoke-nova-booster-slc-14-2027-debut/"
+    },
+    {
+      "title": "Hundreds of ArianeGroup Workers Strike in Bremen",
+      "hot": "11/27",
+      "desc": "Nearly 650 employees at ArianeGroup’s facility in Bremen, Germany, participated in a 24-hour strike on 24 November. The facility is responsible for th",
+      "source": "space",
+      "tag": "European Spaceflight",
+      "url": "https://europeanspaceflight.com/hundreds-of-arianegroup-workers-strike-in-bremen/"
+    },
+    {
+      "title": "NASA’s NG-25 Mission to Launch Pioneering Space Crops Research",
+      "hot": "11/27",
+      "desc": "NASA experiments, including a first-of-its-kind space crop production system, will travel to the International Space Station aboard Northrop Grumman’s",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/science-research/biological-physical-sciences/nasas-ng-25-mission-to-launch-pioneering-space-crops-research/"
+    },
     {
       "title": "APOD: 2026 November 27 – The Moon Watchers",
       "hot": "11/27",
@@ -365,208 +283,290 @@
       "source": "space",
       "tag": "NASA",
       "url": "https://www.nasa.gov/organizations/osbp/nasa-enhances-supplier-program-announces-mentor-protege-agreement/"
-    },
-    {
-      "title": "MaiaSpace Ships Maia Mechanical Models to Launch Site",
-      "hot": "11/25",
-      "desc": "ArianeGroup subsidiary MaiaSpace has shipped full-scale mechanical models of the first and second stages of its Maia rocket to French Guiana. The stag",
-      "source": "space",
-      "tag": "European Spaceflight",
-      "url": "https://europeanspaceflight.com/maiaspace-ships-maia-mechanical-models-to-launch-site/"
-    },
-    {
-      "title": "The FCC has authorized SpaceX to deploy 1 million satellites",
-      "hot": "11/25",
-      "desc": "This constellation would increase the number of satellites in orbit by roughly 50-fold.",
-      "source": "space",
-      "tag": "Arstechnica",
-      "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/"
-    },
-    {
-      "title": "NASA Eyes Crop Candidates for Future Menus",
-      "hot": "11/25",
-      "desc": "As NASA prepares for future missions to the Moon and Mars, researchers are studying crops that could provide astronauts with fresh food, nutrition, an",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/directorates/smd/nasa-eyes-crop-candidates-for-future-menus/"
-    },
-    {
-      "title": "Childhood, Career Come Full Circle for Budget Analyst at NASA Goddard",
-      "hot": "11/25",
-      "desc": "Conversations about NASA were the norm around the dinner table during Ashley Knight’s childhood. Her parents worked at NASA’s Goddard Space Flight Cen",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/centers-and-facilities/goddard/childhood-career-come-full-circle-for-budget-analyst-at-nasa-goddard/"
-    },
-    {
-      "title": "Eye of the Sahara",
-      "hot": "11/25",
-      "desc": "The Richat Structure, also known as the “Eye of the Sahara,” is seen from the International Space Station as it orbited above on Nov. 14, 2026. It is ",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://www.nasa.gov/image-article/eye-of-the-sahara/"
     }
   ],
   "tech": [
     {
-      "title": "The group chat where your AI talks behind your back",
+      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
       "hot": "3.0m",
+      "desc": "infohawk.com",
+      "source": "tech",
+      "tag": "⬆️ 138 points",
+      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer"
+    },
+    {
+      "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+      "hot": "3.0m",
+      "desc": "bouncemarket.minhanhday.com",
+      "source": "tech",
+      "tag": "⬆️ 239 points",
+      "url": "https://bouncemarket.minhanhday.com/"
+    },
+    {
+      "title": "False computer-checked proofs",
+      "hot": "3.0m",
+      "desc": "cr.yp.to",
+      "source": "tech",
+      "tag": "⬆️ 89 points",
+      "url": "https://cr.yp.to/proofs/falseccp.html"
+    },
+    {
+      "title": "First images of the impact of DART asteroid deflection experiment",
+      "hot": "3.0m",
+      "desc": "arstechnica.com",
+      "source": "tech",
+      "tag": "⬆️ 121 points",
+      "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/"
+    },
+    {
+      "title": "I'm Scared of AI",
+      "hot": "2.9m",
+      "desc": "thesoapbox.email",
+      "source": "tech",
+      "tag": "⬆️ 86 points",
+      "url": "https://thesoapbox.email/archive/3"
+    },
+    {
+      "title": "Group chat where your AI talks behind your back",
+      "hot": "2.9m",
       "desc": "construct22.com",
       "source": "tech",
-      "tag": "⬆️ 148 points",
+      "tag": "⬆️ 591 points",
       "url": "https://construct22.com/"
     },
     {
       "title": "AI made self-hosting fun again",
-      "hot": "3.0m",
+      "hot": "2.9m",
       "desc": "janlukas.blog",
       "source": "tech",
-      "tag": "⬆️ 632 points",
+      "tag": "⬆️ 1003 points",
       "url": "https://janlukas.blog/posts/ai-self-hosting"
     },
     {
+      "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
+      "hot": "2.9m",
+      "desc": "eprint.iacr.org",
+      "source": "tech",
+      "tag": "⬆️ 184 points",
+      "url": "https://eprint.iacr.org/2026/3020.pdf"
+    },
+    {
+      "title": "Making a 3D fantasy map like a 16th-Century atlas",
+      "hot": "2.9m",
+      "desc": "spritefusion.com",
+      "source": "tech",
+      "tag": "⬆️ 43 points",
+      "url": "https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas"
+    },
+    {
+      "title": "Kimi for Science: More scientific ideas, made possible",
+      "hot": "2.9m",
+      "desc": "kimi.ai",
+      "source": "tech",
+      "tag": "⬆️ 158 points",
+      "url": "https://www.kimi.ai/news/kimi-for-science-program"
+    },
+    {
+      "title": "US Air Force's cloud computing platform hacked",
+      "hot": "2.9m",
+      "desc": "news.sky.com",
+      "source": "tech",
+      "tag": "⬆️ 230 points",
+      "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163"
+    },
+    {
       "title": "The need for a formally verifiable mainstream programming language",
-      "hot": "3.0m",
+      "hot": "2.8m",
       "desc": "blainehansen.me",
       "source": "tech",
-      "tag": "⬆️ 132 points",
+      "tag": "⬆️ 248 points",
       "url": "https://blainehansen.me/post/mainstream-verifiable-language/"
     },
     {
-      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
-      "hot": "3.0m",
-      "desc": "github.com",
+      "title": "Show HN: I restored Palm's last device, and brought its OS to other platforms",
+      "hot": "2.8m",
+      "desc": "webosarchive.org",
       "source": "tech",
-      "tag": "⬆️ 380 points",
-      "url": "https://github.com/antonpictures/youtube-punisher"
+      "tag": "⬆️ 21 points",
+      "url": "https://www.webosarchive.org/pivot/2026/11/27/the-story-so-far/"
+    },
+    {
+      "title": "Claude sabotaging ML research tasks?",
+      "hot": "2.8m",
+      "desc": "twitter.com",
+      "source": "tech",
+      "tag": "⬆️ 363 points",
+      "url": "https://twitter.com/RealAstropulse/status/2126119408997466389"
+    },
+    {
+      "title": "New York and California age gating rules go into effect in the new year",
+      "hot": "2.8m",
+      "desc": "eff.org",
+      "source": "tech",
+      "tag": "⬆️ 143 points",
+      "url": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year"
+    },
+    {
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "hot": "2.8m",
+      "desc": "generativehistory.substack.com",
+      "source": "tech",
+      "tag": "⬆️ 126 points",
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical"
+    },
+    {
+      "title": "\"What's Claude's fursona?\" and other questions",
+      "hot": "2.8m",
+      "desc": "herecomesthemoon.net",
+      "source": "tech",
+      "tag": "⬆️ 124 points",
+      "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/"
     },
     {
       "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
-      "hot": "2.9m",
+      "hot": "2.7m",
       "desc": "worksinprogress.co",
       "source": "tech",
-      "tag": "⬆️ 356 points",
+      "tag": "⬆️ 482 points",
       "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/"
     },
     {
-      "title": "Hard Drive pricing has gotten bad",
-      "hot": "2.9m",
-      "desc": "blog.ktz.me",
-      "source": "tech",
-      "tag": "⬆️ 322 points",
-      "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/"
-    },
-    {
-      "title": "AMD-specific fork of llama.cpp",
-      "hot": "2.9m",
-      "desc": "devnull.land",
-      "source": "tech",
-      "tag": "⬆️ 345 points",
-      "url": "https://devnull.land/amd-specific-llama-cpp"
-    },
-    {
-      "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
-      "hot": "2.9m",
-      "desc": "krebsonsecurity.com",
-      "source": "tech",
-      "tag": "⬆️ 259 points",
-      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/"
-    },
-    {
-      "title": "Company Culture = Slack Emoji ÷ √Headcount",
-      "hot": "2.9m",
-      "desc": "lia.mg",
-      "source": "tech",
-      "tag": "⬆️ 316 points",
-      "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/"
-    },
-    {
-      "title": "Intel One Mono font (2023)",
-      "hot": "2.9m",
+      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+      "hot": "2.7m",
       "desc": "github.com",
       "source": "tech",
-      "tag": "⬆️ 517 points",
-      "url": "https://github.com/intel/intel-one-mono"
+      "tag": "⬆️ 505 points",
+      "url": "https://github.com/antonpictures/youtube-punisher"
     },
     {
-      "title": "Ladybird browser's first downloadable alpha is surprisingly capable",
-      "hot": "2.9m",
-      "desc": "arstechnica.com",
-      "source": "tech",
-      "tag": "⬆️ 48 points",
-      "url": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/"
-    },
-    {
-      "title": "Buy Nothing Day – Friday November 27th 2026",
-      "hot": "2.8m",
-      "desc": "buynothingday.co.uk",
-      "source": "tech",
-      "tag": "⬆️ 52 points",
-      "url": "https://www.buynothingday.co.uk/"
-    },
-    {
-      "title": "An introduction to uncertainty in machine learning",
-      "hot": "2.8m",
-      "desc": "chrhenning.com",
-      "source": "tech",
-      "tag": "⬆️ 74 points",
-      "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/"
-    },
-    {
-      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-      "hot": "2.8m",
-      "desc": "techstackups.com",
-      "source": "tech",
-      "tag": "⬆️ 323 points",
-      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/"
-    },
-    {
-      "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
-      "hot": "2.8m",
-      "desc": "kendell.dev",
-      "source": "tech",
-      "tag": "⬆️ 95 points",
-      "url": "https://kendell.dev/blog/arkwrapper/"
-    },
-    {
-      "title": "Rvoip: VoIP stack in Rust",
-      "hot": "2.8m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 123 points",
-      "url": "https://github.com/eisenzopf/rvoip"
-    },
-    {
-      "title": "The Cutthroat Business of Shipwrecks",
-      "hot": "2.8m",
-      "desc": "daily.jstor.org",
-      "source": "tech",
-      "tag": "⬆️ 23 points",
-      "url": "https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/"
-    },
-    {
-      "title": "Show HN: I wrote an entire Vim manual over 4 years",
+      "title": "Mental Health Resources and Political Engagement",
       "hot": "2.7m",
-      "desc": "themouseless.dev",
-      "source": "tech",
-      "tag": "⬆️ 158 points",
-      "url": "http://themouseless.dev/vim/"
-    },
-    {
-      "title": "Show HN: Olumino, a Markdown notes and spaced repetition app",
-      "hot": "2.7m",
-      "desc": "olumino.app",
+      "desc": "onlinelibrary.wiley.com",
       "source": "tech",
       "tag": "⬆️ 104 points",
-      "url": "https://olumino.app"
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219"
+    }
+  ],
+  "github": [
+    {
+      "title": "Marvisak/VIctory: An attempt at running GTA VI on PC",
+      "hot": "⭐ 13.7k",
+      "desc": "An attempt at running GTA VI on PC",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/Marvisak/VIctory"
     },
     {
-      "title": "The USAID Files",
-      "hot": "2.7m",
-      "desc": "reclaimthenet.org",
-      "source": "tech",
-      "tag": "⬆️ 248 points",
-      "url": "https://reclaimthenet.org/usaid-files"
+      "title": "xcl-dev/xcl: Xbox Series compatibility layer for Windows - runs console game cod",
+      "hot": "⭐ 8.7k",
+      "desc": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders ",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/xcl-dev/xcl"
+    },
+    {
+      "title": "4lwayz/portwatch-vi: Does GTA VI run on PC yet? A live tracker of community reco",
+      "hot": "⭐ 6.5k",
+      "desc": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/4lwayz/portwatch-vi"
+    },
+    {
+      "title": "EL4CTEO/fast-anything: Don't rewrite it in Rust. Rewrite the 5% that's slow: pro",
+      "hot": "⭐ 4.4k",
+      "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they beh",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/EL4CTEO/fast-anything"
+    },
+    {
+      "title": "AFK-surf/xnulinux: XNU as a loadable kernel module inside Linux (macOS personali",
+      "hot": "⭐ 4.3k",
+      "desc": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+      "source": "github",
+      "tag": "C",
+      "url": "https://github.com/AFK-surf/xnulinux"
+    },
+    {
+      "title": "fxceless/victory-fork: Work-in-progress fork of VIctory: getting an Xbox Series ",
+      "hot": "⭐ 3.3k",
+      "desc": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/fxceless/victory-fork"
+    },
+    {
+      "title": "ubiquitarianism/leonida: A continuation of Leonida, the Xbox > PC port interface",
+      "hot": "⭐ 2.6k",
+      "desc": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/ubiquitarianism/leonida"
+    },
+    {
+      "title": "nexu-io/opengame: The Super Game Agent — the Unity & Unreal for AI agents, with ",
+      "hot": "⭐ 2.1k",
+      "desc": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) i",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/nexu-io/opengame"
+    },
+    {
+      "title": "R0Y00/Xbox2Windows: Static recompilation research for Xbox Series X|S software o",
+      "hot": "⭐ 2.0k",
+      "desc": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/R0Y00/Xbox2Windows"
+    },
+    {
+      "title": "alesha-pro/llm.asm: Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB)",
+      "hot": "⭐ 2.0k",
+      "desc": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM",
+      "source": "github",
+      "tag": "Assembly",
+      "url": "https://github.com/alesha-pro/llm.asm"
+    },
+    {
+      "title": "os6/nospeaker: make your macbook's trackpad talk using its haptic motor",
+      "hot": "⭐ 2.0k",
+      "desc": "make your macbook's trackpad talk using its haptic motor",
+      "source": "github",
+      "tag": "Swift",
+      "url": "https://github.com/os6/nospeaker"
+    },
+    {
+      "title": "omonkeyz/xbox-emulator: Progress notes for running Xbox Series X|S builds on PC ",
+      "hot": "⭐ 1.9k",
+      "desc": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/omonkeyz/xbox-emulator"
+    },
+    {
+      "title": "crhywun/g1-acq: ",
+      "hot": "⭐ 1.8k",
+      "desc": "crhywun/g1-acq",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/crhywun/g1-acq"
+    },
+    {
+      "title": "qianyiai/KuroCat: KuroCat — Free open-source 3D/2D desktop typing cat & AI codin",
+      "hot": "⭐ 1.8k",
+      "desc": "KuroCat — Free open-source 3D/2D desktop typing cat & AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS ·",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/qianyiai/KuroCat"
+    },
+    {
+      "title": "Avaneesh-Inamdar/Stream-Tube-Desktop: Native YouTube client for Windows in Rust,",
+      "hot": "⭐ 1.6k",
+      "desc": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop"
     }
   ]
 }
