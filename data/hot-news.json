@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-27T00:06:33.003Z",
+  "updatedAt": "2026-11-27T08:49:57.711Z",
   "source": "live",
   "dev": [
     {
       "title": "The mental toll of working in tech",
-      "hot": "❤️ 82 💬 25",
+      "hot": "❤️ 89 💬 26",
       "desc": "Hi folks! 👋 It's been a while since I last wrote here. As some of you may remember, some time ago I...",
       "source": "dev",
       "tag": "mentalhealth,  discuss",
@@ -43,6 +43,14 @@
       "url": "https://blog.mlh.com/major-league-hacking-and-spacexsi-come-together-to-support-the-next-generation-of-builders-feh"
     },
     {
+      "title": "Welcome Thread - v403",
+      "hot": "❤️ 35 💬 169",
+      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
+      "source": "dev",
+      "tag": "welcome",
+      "url": "https://dev.to/sloan/welcome-thread-v403-1o39"
+    },
+    {
       "title": "Proofreader vs. Rewriter vs. Prompt API: Test the Task, Not the Demo",
       "hot": "❤️ 43 💬 45",
       "desc": "“Make this message better” is not one task. It can mean correcting a spelling mistake, changing the...",
@@ -51,28 +59,12 @@
       "url": "https://dev.to/gde/proofreader-vs-rewriter-vs-prompt-api-test-the-task-not-the-demo-pi9"
     },
     {
-      "title": "Welcome Thread - v403",
-      "hot": "❤️ 29 💬 126",
-      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
-      "source": "dev",
-      "tag": "welcome",
-      "url": "https://dev.to/sloan/welcome-thread-v403-1o39"
-    },
-    {
       "title": "Tell us your story, and we might read it on the CodeNewbie Podcast 🎙️",
-      "hot": "❤️ 58 💬 44",
+      "hot": "❤️ 59 💬 44",
       "desc": "Hi! I’m Lauren 👩🏼‍💻, the new host of the CodeNewbie Podcast, and I’d love to hear your...",
       "source": "dev",
       "tag": "codenewbie,  ai",
       "url": "https://dev.to/codenewbie/tell-us-your-story-and-we-might-read-it-on-the-codenewbie-podcast-2840"
-    },
-    {
-      "title": "Why millions of agents don't need millions of VMs on Agent Substrate",
-      "hot": "❤️ 7 💬 3",
-      "desc": "How stateful agent harnesses run, suspend, and wake in under a second on Agent Substrate 1.0, from one VM to millions of",
-      "source": "dev",
-      "tag": "agents,  ai",
-      "url": "https://dev.to/googlecloud/why-millions-of-agents-dont-need-millions-of-vms-on-agent-substrate-2ech"
     },
     {
       "title": "Fast multimodal control flow with the Gemini Decisions API",
@@ -139,6 +131,14 @@
       "url": "https://blog.mlh.com/prompt-pad-what-are-open-weight-models-1ghh"
     },
     {
+      "title": "Why millions of agents don't need millions of VMs on Agent Substrate",
+      "hot": "❤️ 8 💬 3",
+      "desc": "How stateful agent harnesses run, suspend, and wake in under a second on Agent Substrate 1.0, from one VM to millions of",
+      "source": "dev",
+      "tag": "agents,  ai",
+      "url": "https://dev.to/googlecloud/why-millions-of-agents-dont-need-millions-of-vms-on-agent-substrate-2ech"
+    },
+    {
       "title": "Kent C. Dodds Hasn't Looked at His Code All Year",
       "hot": "❤️ 8 💬 3",
       "desc": "At the start of this year, Kent C. Dodds gave a coding agent a link to a GitHub issue he had been...",
@@ -163,169 +163,145 @@
       "url": "https://dev.to/gde/one-chat-three-clouds-an-a2ui-10-agent-mesh-over-a2a-on-google-cloud-aws-and-azure-2j83"
     }
   ],
-  "tech": [
+  "github": [
     {
-      "title": "AI made self-hosting fun again",
-      "hot": "3.0m",
-      "desc": "janlukas.blog",
-      "source": "tech",
-      "tag": "⬆️ 192 points",
-      "url": "https://janlukas.blog/posts/ai-self-hosting"
+      "title": "Marvisak/VIctory: An attempt at running GTA VI on PC",
+      "hot": "⭐ 13.5k",
+      "desc": "An attempt at running GTA VI on PC",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/Marvisak/VIctory"
     },
     {
-      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
-      "hot": "3.0m",
-      "desc": "worksinprogress.co",
-      "source": "tech",
-      "tag": "⬆️ 196 points",
-      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/"
+      "title": "xcl-dev/xcl: Xbox Series compatibility layer for Windows - runs console game cod",
+      "hot": "⭐ 8.6k",
+      "desc": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders ",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/xcl-dev/xcl"
     },
     {
-      "title": "AMD-specific fork of llama.cpp",
-      "hot": "3.0m",
-      "desc": "devnull.land",
-      "source": "tech",
-      "tag": "⬆️ 267 points",
-      "url": "https://devnull.land/amd-specific-llama-cpp"
+      "title": "4lwayz/portwatch-vi: Does GTA VI run on PC yet? A live tracker of community reco",
+      "hot": "⭐ 6.1k",
+      "desc": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/4lwayz/portwatch-vi"
     },
     {
-      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
-      "hot": "3.0m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 226 points",
-      "url": "https://github.com/antonpictures/youtube-punisher"
+      "title": "EL4CTEO/fast-anything: Don't rewrite it in Rust. Rewrite the 5% that's slow: pro",
+      "hot": "⭐ 4.3k",
+      "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they beh",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/EL4CTEO/fast-anything"
     },
     {
-      "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
-      "hot": "2.9m",
-      "desc": "krebsonsecurity.com",
-      "source": "tech",
-      "tag": "⬆️ 189 points",
-      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/"
+      "title": "AFK-surf/xnulinux: XNU as a loadable kernel module inside Linux (macOS personali",
+      "hot": "⭐ 4.3k",
+      "desc": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+      "source": "github",
+      "tag": "C",
+      "url": "https://github.com/AFK-surf/xnulinux"
     },
     {
-      "title": "Rvoip 0.5 the complete VoIP stack in Rust",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 64 points",
-      "url": "https://github.com/eisenzopf/rvoip"
+      "title": "Belobug/VIctory-Belobug-AMD: ",
+      "hot": "⭐ 3.6k",
+      "desc": "Belobug/VIctory-Belobug-AMD",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/Belobug/VIctory-Belobug-AMD"
     },
     {
-      "title": "Intel One Mono font (2023)",
-      "hot": "2.9m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 448 points",
-      "url": "https://github.com/intel/intel-one-mono"
+      "title": "fxceless/victory-fork: Work-in-progress fork of VIctory: getting an Xbox Series ",
+      "hot": "⭐ 3.3k",
+      "desc": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/fxceless/victory-fork"
     },
     {
-      "title": "Top-cited AI scientists at four US companies compared",
-      "hot": "2.9m",
-      "desc": "topcitedscientists.com",
-      "source": "tech",
-      "tag": "⬆️ 25 points",
-      "url": "https://topcitedscientists.com/figures/ai-at-four-us-companies/"
+      "title": "ubiquitarianism/leonida: A continuation of Leonida, the Xbox > PC port interface",
+      "hot": "⭐ 2.6k",
+      "desc": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/ubiquitarianism/leonida"
     },
     {
-      "title": "Show HN: Olumino, a Markdown notes and spaced repetition app",
-      "hot": "2.9m",
-      "desc": "olumino.app",
-      "source": "tech",
-      "tag": "⬆️ 60 points",
-      "url": "https://olumino.app"
+      "title": "R0Y00/Xbox2Windows: Static recompilation research for Xbox Series X|S software o",
+      "hot": "⭐ 2.0k",
+      "desc": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
+      "source": "github",
+      "tag": "Python",
+      "url": "https://github.com/R0Y00/Xbox2Windows"
     },
     {
-      "title": "George Whitesides, 1939-2026",
-      "hot": "2.9m",
-      "desc": "science.org",
-      "source": "tech",
-      "tag": "⬆️ 51 points",
-      "url": "https://www.science.org/content/blog-post/george-whitesides-1939-2026"
+      "title": "os6/nospeaker: make your macbook's trackpad talk using its haptic motor",
+      "hot": "⭐ 2.0k",
+      "desc": "make your macbook's trackpad talk using its haptic motor",
+      "source": "github",
+      "tag": "Swift",
+      "url": "https://github.com/os6/nospeaker"
     },
     {
-      "title": "OpenAI may be in cost control mode",
-      "hot": "2.9m",
-      "desc": "micjm.com",
-      "source": "tech",
-      "tag": "⬆️ 239 points",
-      "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/"
+      "title": "avatarmanz/VIctory-7900XTX: Goal: an Xbox Series title (your own dump) on PC as ",
+      "hot": "⭐ 1.9k",
+      "desc": "Goal: an Xbox Series title (your own dump) on PC as the Series X version at 4K with ray tracing, picture matching the Xbox first (textures, lighting),",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/avatarmanz/VIctory-7900XTX"
     },
     {
-      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-      "hot": "2.8m",
-      "desc": "techstackups.com",
-      "source": "tech",
-      "tag": "⬆️ 211 points",
-      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/"
+      "title": "omonkeyz/xbox-emulator: Progress notes for running Xbox Series X|S builds on PC ",
+      "hot": "⭐ 1.9k",
+      "desc": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/omonkeyz/xbox-emulator"
     },
     {
-      "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
-      "hot": "2.8m",
-      "desc": "bui.preetham.top",
-      "source": "tech",
-      "tag": "⬆️ 40 points",
-      "url": "https://bui.preetham.top/charts/"
+      "title": "alesha-pro/llm.asm: Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB)",
+      "hot": "⭐ 1.8k",
+      "desc": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM",
+      "source": "github",
+      "tag": "Assembly",
+      "url": "https://github.com/alesha-pro/llm.asm"
     },
     {
-      "title": "NormalScript: A perfectly normal scripting language",
-      "hot": "2.8m",
-      "desc": "psychoscript.com",
-      "source": "tech",
-      "tag": "⬆️ 72 points",
-      "url": "https://psychoscript.com/"
+      "title": "crhywun/g1-acq: ",
+      "hot": "⭐ 1.7k",
+      "desc": "crhywun/g1-acq",
+      "source": "github",
+      "tag": "JavaScript",
+      "url": "https://github.com/crhywun/g1-acq"
     },
     {
-      "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
-      "hot": "2.8m",
-      "desc": "michidk.github.io",
-      "source": "tech",
-      "tag": "⬆️ 110 points",
-      "url": "https://michidk.github.io/sidebyside/"
-    },
-    {
-      "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
-      "hot": "2.8m",
-      "desc": "kendell.dev",
-      "source": "tech",
-      "tag": "⬆️ 19 points",
-      "url": "https://kendell.dev/blog/arkwrapper/"
-    },
-    {
-      "title": "Curiosity Is No Solo Act",
-      "hot": "2.8m",
-      "desc": "thereader.mitpress.mit.edu",
-      "source": "tech",
-      "tag": "⬆️ 121 points",
-      "url": "https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/"
-    },
-    {
-      "title": "Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar",
-      "hot": "2.7m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 36 points",
-      "url": "https://github.com/rxliuli/sim-drop"
-    },
-    {
-      "title": "IBM gives H-1B, green card holders 3 weeks to relocate from US or leave company",
-      "hot": "2.7m",
-      "desc": "economictimes.indiatimes.com",
-      "source": "tech",
-      "tag": "⬆️ 118 points",
-      "url": "https://economictimes.indiatimes.com/nri/work/ibm-gives-h-1b-green-card-holders-3-weeks-to-relocate-from-us-or-leave-company-december-31-deadline-set/articleshow/136180168.cms?from=mdr"
-    },
-    {
-      "title": "Nextcloud Office Desktop app",
-      "hot": "2.7m",
-      "desc": "nextcloud.com",
-      "source": "tech",
-      "tag": "⬆️ 393 points",
-      "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/"
+      "title": "qianyiai/KuroCat: KuroCat — Free open-source 3D/2D desktop typing cat & AI codin",
+      "hot": "⭐ 1.6k",
+      "desc": "KuroCat — Free open-source 3D/2D desktop typing cat & AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS ·",
+      "source": "github",
+      "tag": "TypeScript",
+      "url": "https://github.com/qianyiai/KuroCat"
     }
   ],
   "space": [
+    {
+      "title": "APOD: 2026 November 27 – The Moon Watchers",
+      "hot": "11/27",
+      "desc": "APOD Science APOD APOD: 2026 November 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Pictur",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-27-the-moon-watchers/"
+    },
+    {
+      "title": "Shivelyuch Socked In",
+      "hot": "11/27",
+      "desc": "A cloud layer encircled the flanks of the volcano on the Kamchatka Peninsula but left its restless summit caldera in view.",
+      "source": "space",
+      "tag": "NASA",
+      "url": "https://science.nasa.gov/earth/earth-observatory/shivelyuch-socked-in/"
+    },
     {
       "title": "FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040",
       "hot": "11/26",
@@ -429,144 +405,168 @@
       "source": "space",
       "tag": "NASA",
       "url": "https://www.nasa.gov/image-article/eye-of-the-sahara/"
-    },
-    {
-      "title": "NASA’s Hubble Views Ocean of Stars in Groundwork for Roman",
-      "hot": "11/25",
-      "desc": "These Hubble observations are part of a survey that will help researchers better interpret upcoming Nancy Grace Roman Space Telescope observations as ",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-views-ocean-of-stars-in-groundwork-for-roman/"
-    },
-    {
-      "title": "APOD: 2026 November 25 – SPHEREx Seeing Through Dust",
-      "hot": "11/25",
-      "desc": "APOD Science APOD APOD: 2026 November 25 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Pictur",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-25-spherex-seeing-through-dust/"
     }
   ],
-  "github": [
+  "tech": [
     {
-      "title": "Marvisak/VIctory: An attempt at running GTA VI on PC",
-      "hot": "⭐ 13.3k",
-      "desc": "An attempt at running GTA VI on PC",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/Marvisak/VIctory"
+      "title": "The group chat where your AI talks behind your back",
+      "hot": "3.0m",
+      "desc": "construct22.com",
+      "source": "tech",
+      "tag": "⬆️ 148 points",
+      "url": "https://construct22.com/"
     },
     {
-      "title": "xcl-dev/xcl: Xbox Series compatibility layer for Windows - runs console game cod",
-      "hot": "⭐ 8.6k",
-      "desc": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders ",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/xcl-dev/xcl"
+      "title": "AI made self-hosting fun again",
+      "hot": "3.0m",
+      "desc": "janlukas.blog",
+      "source": "tech",
+      "tag": "⬆️ 632 points",
+      "url": "https://janlukas.blog/posts/ai-self-hosting"
     },
     {
-      "title": "4lwayz/portwatch-vi: Does GTA VI run on PC yet? A live tracker of community reco",
-      "hot": "⭐ 5.8k",
-      "desc": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/4lwayz/portwatch-vi"
+      "title": "The need for a formally verifiable mainstream programming language",
+      "hot": "3.0m",
+      "desc": "blainehansen.me",
+      "source": "tech",
+      "tag": "⬆️ 132 points",
+      "url": "https://blainehansen.me/post/mainstream-verifiable-language/"
     },
     {
-      "title": "AFK-surf/xnulinux: XNU as a loadable kernel module inside Linux (macOS personali",
-      "hot": "⭐ 4.2k",
-      "desc": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
-      "source": "github",
-      "tag": "C",
-      "url": "https://github.com/AFK-surf/xnulinux"
+      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+      "hot": "3.0m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 380 points",
+      "url": "https://github.com/antonpictures/youtube-punisher"
     },
     {
-      "title": "EL4CTEO/fast-anything: Don't rewrite it in Rust. Rewrite the 5% that's slow: pro",
-      "hot": "⭐ 4.2k",
-      "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they beh",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/EL4CTEO/fast-anything"
+      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+      "hot": "2.9m",
+      "desc": "worksinprogress.co",
+      "source": "tech",
+      "tag": "⬆️ 356 points",
+      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/"
     },
     {
-      "title": "fxceless/victory-fork: Work-in-progress fork of VIctory: getting an Xbox Series ",
-      "hot": "⭐ 3.3k",
-      "desc": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/fxceless/victory-fork"
+      "title": "Hard Drive pricing has gotten bad",
+      "hot": "2.9m",
+      "desc": "blog.ktz.me",
+      "source": "tech",
+      "tag": "⬆️ 322 points",
+      "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/"
     },
     {
-      "title": "Belobug/VIctory-Belobug-AMD: ",
-      "hot": "⭐ 2.8k",
-      "desc": "Belobug/VIctory-Belobug-AMD",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/Belobug/VIctory-Belobug-AMD"
+      "title": "AMD-specific fork of llama.cpp",
+      "hot": "2.9m",
+      "desc": "devnull.land",
+      "source": "tech",
+      "tag": "⬆️ 345 points",
+      "url": "https://devnull.land/amd-specific-llama-cpp"
     },
     {
-      "title": "ubiquitarianism/leonida: A continuation of Leonida, the Xbox > PC port interface",
-      "hot": "⭐ 2.5k",
-      "desc": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/ubiquitarianism/leonida"
+      "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
+      "hot": "2.9m",
+      "desc": "krebsonsecurity.com",
+      "source": "tech",
+      "tag": "⬆️ 259 points",
+      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/"
     },
     {
-      "title": "R0Y00/Xbox2Windows: Static recompilation research for Xbox Series X|S software o",
-      "hot": "⭐ 2.0k",
-      "desc": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/R0Y00/Xbox2Windows"
+      "title": "Company Culture = Slack Emoji ÷ √Headcount",
+      "hot": "2.9m",
+      "desc": "lia.mg",
+      "source": "tech",
+      "tag": "⬆️ 316 points",
+      "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/"
     },
     {
-      "title": "os6/nospeaker: make your macbook's trackpad talk using its haptic motor",
-      "hot": "⭐ 2.0k",
-      "desc": "make your macbook's trackpad talk using its haptic motor",
-      "source": "github",
-      "tag": "Swift",
-      "url": "https://github.com/os6/nospeaker"
+      "title": "Intel One Mono font (2023)",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 517 points",
+      "url": "https://github.com/intel/intel-one-mono"
     },
     {
-      "title": "omonkeyz/xbox-emulator: Progress notes for running Xbox Series X|S builds on PC ",
-      "hot": "⭐ 1.9k",
-      "desc": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/omonkeyz/xbox-emulator"
+      "title": "Ladybird browser's first downloadable alpha is surprisingly capable",
+      "hot": "2.9m",
+      "desc": "arstechnica.com",
+      "source": "tech",
+      "tag": "⬆️ 48 points",
+      "url": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/"
     },
     {
-      "title": "avatarmanz/VIctory-7900XTX: Goal: an Xbox Series title (your own dump) on PC as ",
-      "hot": "⭐ 1.8k",
-      "desc": "Goal: an Xbox Series title (your own dump) on PC as the Series X version at 4K with ray tracing, picture matching the Xbox first (textures, lighting),",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/avatarmanz/VIctory-7900XTX"
+      "title": "Buy Nothing Day – Friday November 27th 2026",
+      "hot": "2.8m",
+      "desc": "buynothingday.co.uk",
+      "source": "tech",
+      "tag": "⬆️ 52 points",
+      "url": "https://www.buynothingday.co.uk/"
     },
     {
-      "title": "crhywun/g1-acq: ",
-      "hot": "⭐ 1.6k",
-      "desc": "crhywun/g1-acq",
-      "source": "github",
-      "tag": "JavaScript",
-      "url": "https://github.com/crhywun/g1-acq"
+      "title": "An introduction to uncertainty in machine learning",
+      "hot": "2.8m",
+      "desc": "chrhenning.com",
+      "source": "tech",
+      "tag": "⬆️ 74 points",
+      "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/"
     },
     {
-      "title": "alesha-pro/llm.asm: Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB)",
-      "hot": "⭐ 1.5k",
-      "desc": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM",
-      "source": "github",
-      "tag": "Assembly",
-      "url": "https://github.com/alesha-pro/llm.asm"
+      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "hot": "2.8m",
+      "desc": "techstackups.com",
+      "source": "tech",
+      "tag": "⬆️ 323 points",
+      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/"
     },
     {
-      "title": "Avaneesh-Inamdar/Stream-Tube-Desktop: Native YouTube client for Windows in Rust,",
-      "hot": "⭐ 1.5k",
-      "desc": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop"
+      "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
+      "hot": "2.8m",
+      "desc": "kendell.dev",
+      "source": "tech",
+      "tag": "⬆️ 95 points",
+      "url": "https://kendell.dev/blog/arkwrapper/"
+    },
+    {
+      "title": "Rvoip: VoIP stack in Rust",
+      "hot": "2.8m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 123 points",
+      "url": "https://github.com/eisenzopf/rvoip"
+    },
+    {
+      "title": "The Cutthroat Business of Shipwrecks",
+      "hot": "2.8m",
+      "desc": "daily.jstor.org",
+      "source": "tech",
+      "tag": "⬆️ 23 points",
+      "url": "https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/"
+    },
+    {
+      "title": "Show HN: I wrote an entire Vim manual over 4 years",
+      "hot": "2.7m",
+      "desc": "themouseless.dev",
+      "source": "tech",
+      "tag": "⬆️ 158 points",
+      "url": "http://themouseless.dev/vim/"
+    },
+    {
+      "title": "Show HN: Olumino, a Markdown notes and spaced repetition app",
+      "hot": "2.7m",
+      "desc": "olumino.app",
+      "source": "tech",
+      "tag": "⬆️ 104 points",
+      "url": "https://olumino.app"
+    },
+    {
+      "title": "The USAID Files",
+      "hot": "2.7m",
+      "desc": "reclaimthenet.org",
+      "source": "tech",
+      "tag": "⬆️ 248 points",
+      "url": "https://reclaimthenet.org/usaid-files"
     }
   ]
 }
