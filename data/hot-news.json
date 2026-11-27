@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-26T15:51:19.901Z",
+  "updatedAt": "2026-11-27T00:06:33.003Z",
   "source": "live",
   "dev": [
     {
       "title": "The mental toll of working in tech",
-      "hot": "❤️ 67 💬 20",
+      "hot": "❤️ 82 💬 25",
       "desc": "Hi folks! 👋 It's been a while since I last wrote here. As some of you may remember, some time ago I...",
       "source": "dev",
       "tag": "mentalhealth,  discuss",
@@ -17,14 +17,6 @@
       "source": "dev",
       "tag": "discuss,  mentalhealth",
       "url": "https://dev.to/thethirdcup/home-office-nightmare-2ja0"
-    },
-    {
-      "title": "Welcome Thread - v403",
-      "hot": "❤️ 27 💬 106",
-      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
-      "source": "dev",
-      "tag": "welcome",
-      "url": "https://dev.to/sloan/welcome-thread-v403-1o39"
     },
     {
       "title": "Prompt Pad: The Brain and the Workshop Behind Your AI Agent",
@@ -59,8 +51,16 @@
       "url": "https://dev.to/gde/proofreader-vs-rewriter-vs-prompt-api-test-the-task-not-the-demo-pi9"
     },
     {
+      "title": "Welcome Thread - v403",
+      "hot": "❤️ 29 💬 126",
+      "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
+      "source": "dev",
+      "tag": "welcome",
+      "url": "https://dev.to/sloan/welcome-thread-v403-1o39"
+    },
+    {
       "title": "Tell us your story, and we might read it on the CodeNewbie Podcast 🎙️",
-      "hot": "❤️ 58 💬 42",
+      "hot": "❤️ 58 💬 44",
       "desc": "Hi! I’m Lauren 👩🏼‍💻, the new host of the CodeNewbie Podcast, and I’d love to hear your...",
       "source": "dev",
       "tag": "codenewbie,  ai",
@@ -124,7 +124,7 @@
     },
     {
       "title": "How much does it cost to run a text game with LLMs",
-      "hot": "❤️ 99 💬 106",
+      "hot": "❤️ 100 💬 106",
       "desc": "AI costs are confusing. Providers give you a lot of numbers and nothing to actually know how much you are going to pay i",
       "source": "dev",
       "tag": "ai,  llm",
@@ -163,7 +163,185 @@
       "url": "https://dev.to/gde/one-chat-three-clouds-an-a2ui-10-agent-mesh-over-a2a-on-google-cloud-aws-and-azure-2j83"
     }
   ],
+  "tech": [
+    {
+      "title": "AI made self-hosting fun again",
+      "hot": "3.0m",
+      "desc": "janlukas.blog",
+      "source": "tech",
+      "tag": "⬆️ 192 points",
+      "url": "https://janlukas.blog/posts/ai-self-hosting"
+    },
+    {
+      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+      "hot": "3.0m",
+      "desc": "worksinprogress.co",
+      "source": "tech",
+      "tag": "⬆️ 196 points",
+      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/"
+    },
+    {
+      "title": "AMD-specific fork of llama.cpp",
+      "hot": "3.0m",
+      "desc": "devnull.land",
+      "source": "tech",
+      "tag": "⬆️ 267 points",
+      "url": "https://devnull.land/amd-specific-llama-cpp"
+    },
+    {
+      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+      "hot": "3.0m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 226 points",
+      "url": "https://github.com/antonpictures/youtube-punisher"
+    },
+    {
+      "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
+      "hot": "2.9m",
+      "desc": "krebsonsecurity.com",
+      "source": "tech",
+      "tag": "⬆️ 189 points",
+      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/"
+    },
+    {
+      "title": "Rvoip 0.5 the complete VoIP stack in Rust",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 64 points",
+      "url": "https://github.com/eisenzopf/rvoip"
+    },
+    {
+      "title": "Intel One Mono font (2023)",
+      "hot": "2.9m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 448 points",
+      "url": "https://github.com/intel/intel-one-mono"
+    },
+    {
+      "title": "Top-cited AI scientists at four US companies compared",
+      "hot": "2.9m",
+      "desc": "topcitedscientists.com",
+      "source": "tech",
+      "tag": "⬆️ 25 points",
+      "url": "https://topcitedscientists.com/figures/ai-at-four-us-companies/"
+    },
+    {
+      "title": "Show HN: Olumino, a Markdown notes and spaced repetition app",
+      "hot": "2.9m",
+      "desc": "olumino.app",
+      "source": "tech",
+      "tag": "⬆️ 60 points",
+      "url": "https://olumino.app"
+    },
+    {
+      "title": "George Whitesides, 1939-2026",
+      "hot": "2.9m",
+      "desc": "science.org",
+      "source": "tech",
+      "tag": "⬆️ 51 points",
+      "url": "https://www.science.org/content/blog-post/george-whitesides-1939-2026"
+    },
+    {
+      "title": "OpenAI may be in cost control mode",
+      "hot": "2.9m",
+      "desc": "micjm.com",
+      "source": "tech",
+      "tag": "⬆️ 239 points",
+      "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/"
+    },
+    {
+      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "hot": "2.8m",
+      "desc": "techstackups.com",
+      "source": "tech",
+      "tag": "⬆️ 211 points",
+      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/"
+    },
+    {
+      "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
+      "hot": "2.8m",
+      "desc": "bui.preetham.top",
+      "source": "tech",
+      "tag": "⬆️ 40 points",
+      "url": "https://bui.preetham.top/charts/"
+    },
+    {
+      "title": "NormalScript: A perfectly normal scripting language",
+      "hot": "2.8m",
+      "desc": "psychoscript.com",
+      "source": "tech",
+      "tag": "⬆️ 72 points",
+      "url": "https://psychoscript.com/"
+    },
+    {
+      "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
+      "hot": "2.8m",
+      "desc": "michidk.github.io",
+      "source": "tech",
+      "tag": "⬆️ 110 points",
+      "url": "https://michidk.github.io/sidebyside/"
+    },
+    {
+      "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
+      "hot": "2.8m",
+      "desc": "kendell.dev",
+      "source": "tech",
+      "tag": "⬆️ 19 points",
+      "url": "https://kendell.dev/blog/arkwrapper/"
+    },
+    {
+      "title": "Curiosity Is No Solo Act",
+      "hot": "2.8m",
+      "desc": "thereader.mitpress.mit.edu",
+      "source": "tech",
+      "tag": "⬆️ 121 points",
+      "url": "https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/"
+    },
+    {
+      "title": "Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar",
+      "hot": "2.7m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 36 points",
+      "url": "https://github.com/rxliuli/sim-drop"
+    },
+    {
+      "title": "IBM gives H-1B, green card holders 3 weeks to relocate from US or leave company",
+      "hot": "2.7m",
+      "desc": "economictimes.indiatimes.com",
+      "source": "tech",
+      "tag": "⬆️ 118 points",
+      "url": "https://economictimes.indiatimes.com/nri/work/ibm-gives-h-1b-green-card-holders-3-weeks-to-relocate-from-us-or-leave-company-december-31-deadline-set/articleshow/136180168.cms?from=mdr"
+    },
+    {
+      "title": "Nextcloud Office Desktop app",
+      "hot": "2.7m",
+      "desc": "nextcloud.com",
+      "source": "tech",
+      "tag": "⬆️ 393 points",
+      "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/"
+    }
+  ],
   "space": [
+    {
+      "title": "FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040",
+      "hot": "11/26",
+      "desc": "The Federal Communications Commission has authorized SpaceX to deploy a constellation of up to 1…\nThe post FCC authorizes SpaceX to deploy up to 1 mil",
+      "source": "space",
+      "tag": "NASASpaceflight",
+      "url": "https://www.nasaspaceflight.com/2026/11/fcc-authorizes-spacex-1-million-starmind-2040/"
+    },
+    {
+      "title": "The ‘bare-knuckled’ future of life in space with Tim Marshall",
+      "hot": "11/26",
+      "desc": "\nIn this episode, Mike Gruss speaks with journalist and best-selling author Tim Marshall. They discuss how the war in Ukraine represented a wakeup cal",
+      "source": "space",
+      "tag": "SpaceNews",
+      "url": "https://spacenews.com/the-bare-knuckled-future-of-life-in-space-with-tim-marshall/"
+    },
     {
       "title": "Thales Alenia Space to Establish Dedicated Company for Cargo Return Services",
       "hot": "11/26",
@@ -267,28 +445,12 @@
       "source": "space",
       "tag": "NASA",
       "url": "https://science.nasa.gov/image-article/apod-2026-november-25-spherex-seeing-through-dust/"
-    },
-    {
-      "title": "Georgia’s Pecan Belt",
-      "hot": "11/25",
-      "desc": "Since an early-1900s planting boom, orchards along the Flint River in southwest Georgia have become a center of U.S. pecan production.",
-      "source": "space",
-      "tag": "NASA",
-      "url": "https://science.nasa.gov/earth/earth-observatory/georgias-pecan-belt/"
-    },
-    {
-      "title": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions",
-      "hot": "11/25",
-      "desc": "Ten rockets are set to launch over the next week, with three visiting two different…\r\nThe post Launch Preview: Russian, Chinese, and SpaceX rockets to",
-      "source": "space",
-      "tag": "NASASpaceflight",
-      "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-112426/"
     }
   ],
   "github": [
     {
       "title": "Marvisak/VIctory: An attempt at running GTA VI on PC",
-      "hot": "⭐ 13.1k",
+      "hot": "⭐ 13.3k",
       "desc": "An attempt at running GTA VI on PC",
       "source": "github",
       "tag": "Rust",
@@ -296,7 +458,7 @@
     },
     {
       "title": "xcl-dev/xcl: Xbox Series compatibility layer for Windows - runs console game cod",
-      "hot": "⭐ 8.5k",
+      "hot": "⭐ 8.6k",
       "desc": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders ",
       "source": "github",
       "tag": "Rust",
@@ -304,7 +466,7 @@
     },
     {
       "title": "4lwayz/portwatch-vi: Does GTA VI run on PC yet? A live tracker of community reco",
-      "hot": "⭐ 5.2k",
+      "hot": "⭐ 5.8k",
       "desc": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
       "source": "github",
       "tag": "JavaScript",
@@ -328,19 +490,19 @@
     },
     {
       "title": "fxceless/victory-fork: Work-in-progress fork of VIctory: getting an Xbox Series ",
-      "hot": "⭐ 3.2k",
+      "hot": "⭐ 3.3k",
       "desc": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
       "source": "github",
       "tag": "Rust",
       "url": "https://github.com/fxceless/victory-fork"
     },
     {
-      "title": "iamajmeena/neonclipping: Paste a link, get captioned 9:16 clips in ~2 min. Free,",
-      "hot": "⭐ 2.7k",
-      "desc": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+      "title": "Belobug/VIctory-Belobug-AMD: ",
+      "hot": "⭐ 2.8k",
+      "desc": "Belobug/VIctory-Belobug-AMD",
       "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/iamajmeena/neonclipping"
+      "tag": "Rust",
+      "url": "https://github.com/Belobug/VIctory-Belobug-AMD"
     },
     {
       "title": "ubiquitarianism/leonida: A continuation of Leonida, the Xbox > PC port interface",
@@ -360,7 +522,7 @@
     },
     {
       "title": "os6/nospeaker: make your macbook's trackpad talk using its haptic motor",
-      "hot": "⭐ 1.9k",
+      "hot": "⭐ 2.0k",
       "desc": "make your macbook's trackpad talk using its haptic motor",
       "source": "github",
       "tag": "Swift",
@@ -375,28 +537,12 @@
       "url": "https://github.com/omonkeyz/xbox-emulator"
     },
     {
-      "title": "Belobug/VIctory-Belobug-AMD: ",
-      "hot": "⭐ 1.7k",
-      "desc": "Belobug/VIctory-Belobug-AMD",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/Belobug/VIctory-Belobug-AMD"
-    },
-    {
-      "title": "avatarmanz/VIctory-7900XTX: Goal: an Xbox Series title (your own dump) at a stab",
-      "hot": "⭐ 1.7k",
-      "desc": "Goal: an Xbox Series title (your own dump) at a stable 30+ fps on PC without ray tracing, then higher. Porting, not emulating: renderer patches + ahea",
+      "title": "avatarmanz/VIctory-7900XTX: Goal: an Xbox Series title (your own dump) on PC as ",
+      "hot": "⭐ 1.8k",
+      "desc": "Goal: an Xbox Series title (your own dump) on PC as the Series X version at 4K with ray tracing, picture matching the Xbox first (textures, lighting),",
       "source": "github",
       "tag": "Rust",
       "url": "https://github.com/avatarmanz/VIctory-7900XTX"
-    },
-    {
-      "title": "INK-Q/agy-fast: Non-invasive MCP accelerator plugin for Google Antigravity (CLI/",
-      "hot": "⭐ 1.7k",
-      "desc": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) wit",
-      "source": "github",
-      "tag": "TypeScript",
-      "url": "https://github.com/INK-Q/agy-fast"
     },
     {
       "title": "crhywun/g1-acq: ",
@@ -405,168 +551,22 @@
       "source": "github",
       "tag": "JavaScript",
       "url": "https://github.com/crhywun/g1-acq"
-    }
-  ],
-  "tech": [
-    {
-      "title": "Euro-Office comes to your desktop with the Nextcloud Office Desktop app",
-      "hot": "3.0m",
-      "desc": "nextcloud.com",
-      "source": "tech",
-      "tag": "⬆️ 243 points",
-      "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/"
     },
     {
-      "title": "Tell HN: Happy Thanksgiving",
-      "hot": "3.0m",
-      "desc": "news.ycombinator.com",
-      "source": "tech",
-      "tag": "⬆️ 172 points",
-      "url": "https://news.ycombinator.com/item?id=50655664"
+      "title": "alesha-pro/llm.asm: Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB)",
+      "hot": "⭐ 1.5k",
+      "desc": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM",
+      "source": "github",
+      "tag": "Assembly",
+      "url": "https://github.com/alesha-pro/llm.asm"
     },
     {
-      "title": "Intel One Mono font",
-      "hot": "3.0m",
-      "desc": "github.com",
-      "source": "tech",
-      "tag": "⬆️ 280 points",
-      "url": "https://github.com/intel/intel-one-mono"
-    },
-    {
-      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
-      "hot": "3.0m",
-      "desc": "scottaaronson.blog",
-      "source": "tech",
-      "tag": "⬆️ 1795 points",
-      "url": "https://scottaaronson.blog/?p=10379"
-    },
-    {
-      "title": "1Password Security Incident",
-      "hot": "2.9m",
-      "desc": "1password.com",
-      "source": "tech",
-      "tag": "⬆️ 1564 points",
-      "url": "https://1password.com/blog/update-on-nov-2026-security-incident"
-    },
-    {
-      "title": "Discovery of curse ritual in trash dump surprises Egyptologist",
-      "hot": "2.9m",
-      "desc": "phys.org",
-      "source": "tech",
-      "tag": "⬆️ 45 points",
-      "url": "https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html"
-    },
-    {
-      "title": "Curiosity Is No Solo Act",
-      "hot": "2.9m",
-      "desc": "thereader.mitpress.mit.edu",
-      "source": "tech",
-      "tag": "⬆️ 30 points",
-      "url": "https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/"
-    },
-    {
-      "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
-      "hot": "2.9m",
-      "desc": "fosscomics.com",
-      "source": "tech",
-      "tag": "⬆️ 183 points",
-      "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/"
-    },
-    {
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "hot": "2.9m",
-      "desc": "theverge.com",
-      "source": "tech",
-      "tag": "⬆️ 514 points",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features"
-    },
-    {
-      "title": "45°C inlets just killed the chiller. Most people haven't noticed yet",
-      "hot": "2.9m",
-      "desc": "theregister.com",
-      "source": "tech",
-      "tag": "⬆️ 78 points",
-      "url": "https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831"
-    },
-    {
-      "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
-      "hot": "2.9m",
-      "desc": "michidk.github.io",
-      "source": "tech",
-      "tag": "⬆️ 3 points",
-      "url": "https://michidk.github.io/sidebyside/"
-    },
-    {
-      "title": "Minipg: PostgreSQL as a Single Executable",
-      "hot": "2.8m",
-      "desc": "progrium.github.io",
-      "source": "tech",
-      "tag": "⬆️ 218 points",
-      "url": "https://progrium.github.io/minipg/"
-    },
-    {
-      "title": "Collection of preserved UI style guides",
-      "hot": "2.8m",
-      "desc": "aresluna.org",
-      "source": "tech",
-      "tag": "⬆️ 318 points",
-      "url": "https://aresluna.org/ui-style-guides/"
-    },
-    {
-      "title": "Head of Software Engineering – NOX Metals",
-      "hot": "2.8m",
-      "desc": "news.ycombinator.com",
-      "source": "tech",
-      "tag": "⬆️ 1 points",
-      "url": "https://news.ycombinator.com/item?id=50654353"
-    },
-    {
-      "title": "Slow Ubuntu security response times",
-      "hot": "2.8m",
-      "desc": "openwall.com",
-      "source": "tech",
-      "tag": "⬆️ 364 points",
-      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9"
-    },
-    {
-      "title": "Tell HN: Lots of Ask HNs again",
-      "hot": "2.8m",
-      "desc": "news.ycombinator.com",
-      "source": "tech",
-      "tag": "⬆️ 345 points",
-      "url": "https://news.ycombinator.com/item?id=50649864"
-    },
-    {
-      "title": "Show HN: Synth Patch Hero",
-      "hot": "2.8m",
-      "desc": "swarkentin.github.io",
-      "source": "tech",
-      "tag": "⬆️ 107 points",
-      "url": "https://swarkentin.github.io/synth-patch-hero/"
-    },
-    {
-      "title": "Moat: Your OpenRouter Replacement",
-      "hot": "2.7m",
-      "desc": "commandcode.ai",
-      "source": "tech",
-      "tag": "⬆️ 147 points",
-      "url": "https://commandcode.ai/moat"
-    },
-    {
-      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
-      "hot": "2.7m",
-      "desc": "bjin.github.io",
-      "source": "tech",
-      "tag": "⬆️ 427 points",
-      "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard"
-    },
-    {
-      "title": "What VP ≠ VNP Means (In 3 Minutes)",
-      "hot": "2.7m",
-      "desc": "friedgil.com",
-      "source": "tech",
-      "tag": "⬆️ 190 points",
-      "url": "https://www.friedgil.com/vpvnp"
+      "title": "Avaneesh-Inamdar/Stream-Tube-Desktop: Native YouTube client for Windows in Rust,",
+      "hot": "⭐ 1.5k",
+      "desc": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in",
+      "source": "github",
+      "tag": "Rust",
+      "url": "https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop"
     }
   ]
 }
