@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-11-27T18:30:14.825Z",
+  "updatedAt": "2026-11-28T01:41:22.055Z",
   "source": "live",
   "dev": [
     {
-      "title": "What was your win this week!?",
-      "hot": "❤️ 52 💬 26",
-      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-      "source": "dev",
-      "tag": "weeklyretro",
-      "url": "https://dev.to/devteam/what-was-your-win-this-week-h3d"
-    },
-    {
       "title": "The mental toll of working in tech",
-      "hot": "❤️ 100 💬 32",
+      "hot": "❤️ 103 💬 42",
       "desc": "Hi folks! 👋 It's been a while since I last wrote here. As some of you may remember, some time ago I...",
       "source": "dev",
       "tag": "mentalhealth,  discuss",
       "url": "https://dev.to/klaudiagrz/the-mental-toll-of-working-in-tech-2m6k"
     },
     {
+      "title": "What was your win this week!?",
+      "hot": "❤️ 74 💬 35",
+      "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+      "source": "dev",
+      "tag": "weeklyretro",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-h3d"
+    },
+    {
       "title": "Home Office Nightmare",
-      "hot": "❤️ 56 💬 11",
+      "hot": "❤️ 57 💬 11",
       "desc": "I Constantly Try to Survive Reality  Maybe that's why I built an entire universe, including a...",
       "source": "dev",
       "tag": "discuss,  mentalhealth",
@@ -49,14 +49,6 @@
       "source": "dev",
       "tag": "ai,  hackathon",
       "url": "https://blog.mlh.com/major-league-hacking-and-spacexsi-come-together-to-support-the-next-generation-of-builders-feh"
-    },
-    {
-      "title": "Proofreader vs. Rewriter vs. Prompt API: Test the Task, Not the Demo",
-      "hot": "❤️ 43 💬 45",
-      "desc": "“Make this message better” is not one task. It can mean correcting a spelling mistake, changing the...",
-      "source": "dev",
-      "tag": "webdev,  ai",
-      "url": "https://dev.to/gde/proofreader-vs-rewriter-vs-prompt-api-test-the-task-not-the-demo-pi9"
     },
     {
       "title": "Tell us your story, and we might read it on the CodeNewbie Podcast 🎙️",
@@ -92,7 +84,7 @@
     },
     {
       "title": "Welcome Thread - v403",
-      "hot": "❤️ 39 💬 203",
+      "hot": "❤️ 40 💬 208",
       "desc": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're...",
       "source": "dev",
       "tag": "welcome",
@@ -113,6 +105,14 @@
       "source": "dev",
       "tag": "codenewbie,  ai",
       "url": "https://dev.to/codenewbie/the-codenewbie-podcast-is-back-for-season-28-2484"
+    },
+    {
+      "title": "Proofreader vs. Rewriter vs. Prompt API: Test the Task, Not the Demo",
+      "hot": "❤️ 43 💬 52",
+      "desc": "“Make this message better” is not one task. It can mean correcting a spelling mistake, changing the...",
+      "source": "dev",
+      "tag": "webdev,  ai",
+      "url": "https://dev.to/gde/proofreader-vs-rewriter-vs-prompt-api-test-the-task-not-the-demo-pi9"
     },
     {
       "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine Winners!",
@@ -155,12 +155,12 @@
       "url": "https://dev.to/dailycontext/kent-c-dodds-hasnt-looked-at-his-code-all-year-gd5"
     },
     {
-      "title": "Build a Multilingual React Editor with Chrome’s Built-In AI",
-      "hot": "❤️ 20 💬 3",
-      "desc": "A translation can look polished and still be dangerous to apply. The application may preserve the...",
+      "title": "One Chat, Three Clouds: An A2UI 1.0 Agent Mesh Over A2A on Google Cloud, AWS and Azure",
+      "hot": "❤️ 19 💬 1",
+      "desc": "Three A2UI 1.0 currency agents, one per cloud, joined over A2A behind one AG-UI coordinator. Google ADK and Gemini, Stra",
       "source": "dev",
-      "tag": "webdev,  ai",
-      "url": "https://dev.to/gde/build-a-multilingual-react-editor-with-chromes-built-in-ai-4863"
+      "tag": "a2ui,  a2a",
+      "url": "https://dev.to/gde/one-chat-three-clouds-an-a2ui-10-agent-mesh-over-a2a-on-google-cloud-aws-and-azure-2j83"
     }
   ],
   "space": [
@@ -287,186 +287,178 @@
   ],
   "tech": [
     {
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "hot": "3.0m",
+      "desc": "generativehistory.substack.com",
+      "source": "tech",
+      "tag": "⬆️ 313 points",
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical"
+    },
+    {
+      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "hot": "3.0m",
+      "desc": "research.google",
+      "source": "tech",
+      "tag": "⬆️ 76 points",
+      "url": "https://research.google/blog/supercharging-transformer-residual-connections/"
+    },
+    {
       "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
       "hot": "3.0m",
       "desc": "infohawk.com",
       "source": "tech",
-      "tag": "⬆️ 138 points",
+      "tag": "⬆️ 426 points",
       "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer"
     },
     {
-      "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+      "title": "Convex skills send the user's app idea to a remote server without telling them",
       "hot": "3.0m",
+      "desc": "github.com",
+      "source": "tech",
+      "tag": "⬆️ 230 points",
+      "url": "https://github.com/convex/convex-backend-skill/issues/64"
+    },
+    {
+      "title": "The Balatro Timeline",
+      "hot": "2.9m",
+      "desc": "localthunk.com",
+      "source": "tech",
+      "tag": "⬆️ 48 points",
+      "url": "https://localthunk.com/blog/balatro-timeline-3aarh"
+    },
+    {
+      "title": "9/UX: a Macintosh-inspired desktop for 9front",
+      "hot": "2.9m",
+      "desc": "progrium.github.io",
+      "source": "tech",
+      "tag": "⬆️ 73 points",
+      "url": "https://progrium.github.io/9ux/"
+    },
+    {
+      "title": "Citroën Hydraulic System",
+      "hot": "2.9m",
+      "desc": "citroenet.org.uk",
+      "source": "tech",
+      "tag": "⬆️ 135 points",
+      "url": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html"
+    },
+    {
+      "title": "Build your own amp modeler: $78 DIY pedal kit from TONE3000",
+      "hot": "2.9m",
+      "desc": "guitarworld.com",
+      "source": "tech",
+      "tag": "⬆️ 41 points",
+      "url": "https://www.guitarworld.com/gear/guitar-pedals/tone3000-daisy-audio-diy-pedal-kit"
+    },
+    {
+      "title": "Source Control from Hell",
+      "hot": "2.9m",
+      "desc": "frantic.im",
+      "source": "tech",
+      "tag": "⬆️ 56 points",
+      "url": "https://frantic.im/git/"
+    },
+    {
+      "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+      "hot": "2.9m",
       "desc": "bouncemarket.minhanhday.com",
       "source": "tech",
-      "tag": "⬆️ 239 points",
+      "tag": "⬆️ 326 points",
       "url": "https://bouncemarket.minhanhday.com/"
     },
     {
-      "title": "False computer-checked proofs",
-      "hot": "3.0m",
-      "desc": "cr.yp.to",
+      "title": "The AT&T Unix PC (3B1) VM",
+      "hot": "2.9m",
+      "desc": "virtuallyfun.com",
       "source": "tech",
-      "tag": "⬆️ 89 points",
-      "url": "https://cr.yp.to/proofs/falseccp.html"
+      "tag": "⬆️ 56 points",
+      "url": "https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/"
     },
     {
       "title": "First images of the impact of DART asteroid deflection experiment",
-      "hot": "3.0m",
+      "hot": "2.8m",
       "desc": "arstechnica.com",
       "source": "tech",
-      "tag": "⬆️ 121 points",
+      "tag": "⬆️ 184 points",
       "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/"
     },
     {
-      "title": "I'm Scared of AI",
-      "hot": "2.9m",
-      "desc": "thesoapbox.email",
-      "source": "tech",
-      "tag": "⬆️ 86 points",
-      "url": "https://thesoapbox.email/archive/3"
-    },
-    {
-      "title": "Group chat where your AI talks behind your back",
-      "hot": "2.9m",
-      "desc": "construct22.com",
-      "source": "tech",
-      "tag": "⬆️ 591 points",
-      "url": "https://construct22.com/"
-    },
-    {
-      "title": "AI made self-hosting fun again",
-      "hot": "2.9m",
-      "desc": "janlukas.blog",
-      "source": "tech",
-      "tag": "⬆️ 1003 points",
-      "url": "https://janlukas.blog/posts/ai-self-hosting"
-    },
-    {
-      "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
-      "hot": "2.9m",
-      "desc": "eprint.iacr.org",
-      "source": "tech",
-      "tag": "⬆️ 184 points",
-      "url": "https://eprint.iacr.org/2026/3020.pdf"
-    },
-    {
-      "title": "Making a 3D fantasy map like a 16th-Century atlas",
-      "hot": "2.9m",
-      "desc": "spritefusion.com",
-      "source": "tech",
-      "tag": "⬆️ 43 points",
-      "url": "https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas"
-    },
-    {
-      "title": "Kimi for Science: More scientific ideas, made possible",
-      "hot": "2.9m",
-      "desc": "kimi.ai",
-      "source": "tech",
-      "tag": "⬆️ 158 points",
-      "url": "https://www.kimi.ai/news/kimi-for-science-program"
-    },
-    {
-      "title": "US Air Force's cloud computing platform hacked",
-      "hot": "2.9m",
-      "desc": "news.sky.com",
-      "source": "tech",
-      "tag": "⬆️ 230 points",
-      "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163"
-    },
-    {
-      "title": "The need for a formally verifiable mainstream programming language",
+      "title": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs",
       "hot": "2.8m",
-      "desc": "blainehansen.me",
+      "desc": "tabernet.es",
       "source": "tech",
-      "tag": "⬆️ 248 points",
-      "url": "https://blainehansen.me/post/mainstream-verifiable-language/"
+      "tag": "⬆️ 32 points",
+      "url": "https://tabernet.es/"
     },
     {
-      "title": "Show HN: I restored Palm's last device, and brought its OS to other platforms",
+      "title": "Rayshader 1.0: Exit the Matrix",
       "hot": "2.8m",
-      "desc": "webosarchive.org",
+      "desc": "tylermw.com",
       "source": "tech",
-      "tag": "⬆️ 21 points",
-      "url": "https://www.webosarchive.org/pivot/2026/11/27/the-story-so-far/"
+      "tag": "⬆️ 76 points",
+      "url": "https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html"
     },
     {
-      "title": "Claude sabotaging ML research tasks?",
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
       "hot": "2.8m",
-      "desc": "twitter.com",
+      "desc": "oag.state.va.us",
       "source": "tech",
-      "tag": "⬆️ 363 points",
-      "url": "https://twitter.com/RealAstropulse/status/2126119408997466389"
+      "tag": "⬆️ 264 points",
+      "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform"
     },
     {
-      "title": "New York and California age gating rules go into effect in the new year",
+      "title": "Passkey blues",
       "hot": "2.8m",
-      "desc": "eff.org",
+      "desc": "ssg.dev",
       "source": "tech",
-      "tag": "⬆️ 143 points",
-      "url": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year"
+      "tag": "⬆️ 16 points",
+      "url": "https://ssg.dev/passkey-blues/"
     },
     {
-      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "title": "Painting 1990s anime scenes in Python",
       "hot": "2.8m",
-      "desc": "generativehistory.substack.com",
+      "desc": "fofr.ai",
       "source": "tech",
-      "tag": "⬆️ 126 points",
-      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical"
+      "tag": "⬆️ 11 points",
+      "url": "https://www.fofr.ai/greenhouse-after-the-typhoon"
     },
     {
-      "title": "\"What's Claude's fursona?\" and other questions",
-      "hot": "2.8m",
-      "desc": "herecomesthemoon.net",
-      "source": "tech",
-      "tag": "⬆️ 124 points",
-      "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/"
-    },
-    {
-      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+      "title": "Scrapheap America",
       "hot": "2.7m",
-      "desc": "worksinprogress.co",
+      "desc": "dansinker.com",
       "source": "tech",
-      "tag": "⬆️ 482 points",
-      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/"
+      "tag": "⬆️ 60 points",
+      "url": "https://dansinker.com/posts/2026-11-20-scrapheap/"
     },
     {
-      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+      "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
       "hot": "2.7m",
-      "desc": "github.com",
+      "desc": "sessiongraph.ai",
       "source": "tech",
-      "tag": "⬆️ 505 points",
-      "url": "https://github.com/antonpictures/youtube-punisher"
+      "tag": "⬆️ 25 points",
+      "url": "https://sessiongraph.ai/"
     },
     {
-      "title": "Mental Health Resources and Political Engagement",
+      "title": "Show HN: DragDropMath – Learn math by feel",
       "hot": "2.7m",
-      "desc": "onlinelibrary.wiley.com",
+      "desc": "dragdropmath.com",
       "source": "tech",
-      "tag": "⬆️ 104 points",
-      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219"
+      "tag": "⬆️ 100 points",
+      "url": "https://dragdropmath.com/"
     }
   ],
   "github": [
     {
       "title": "Marvisak/VIctory: An attempt at running GTA VI on PC",
-      "hot": "⭐ 13.7k",
+      "hot": "⭐ 13.8k",
       "desc": "An attempt at running GTA VI on PC",
       "source": "github",
       "tag": "Rust",
       "url": "https://github.com/Marvisak/VIctory"
     },
     {
-      "title": "xcl-dev/xcl: Xbox Series compatibility layer for Windows - runs console game cod",
-      "hot": "⭐ 8.7k",
-      "desc": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders ",
-      "source": "github",
-      "tag": "Rust",
-      "url": "https://github.com/xcl-dev/xcl"
-    },
-    {
       "title": "4lwayz/portwatch-vi: Does GTA VI run on PC yet? A live tracker of community reco",
-      "hot": "⭐ 6.5k",
+      "hot": "⭐ 6.8k",
       "desc": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
       "source": "github",
       "tag": "JavaScript",
@@ -474,55 +466,47 @@
     },
     {
       "title": "EL4CTEO/fast-anything: Don't rewrite it in Rust. Rewrite the 5% that's slow: pro",
-      "hot": "⭐ 4.4k",
-      "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they beh",
+      "hot": "⭐ 4.5k",
+      "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile your app, port the hot functions with your coding agent, prove they behave the same. Pyt",
       "source": "github",
       "tag": "Rust",
       "url": "https://github.com/EL4CTEO/fast-anything"
     },
     {
-      "title": "AFK-surf/xnulinux: XNU as a loadable kernel module inside Linux (macOS personali",
-      "hot": "⭐ 4.3k",
-      "desc": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+      "title": "trustno1-coder/VIctory-NVIDIA: VIctory (Xbox Series compatibility layer) tuned f",
+      "hot": "⭐ 3.4k",
+      "desc": "VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X at 2560x1440 with DLSS, about 26-30 fps on an RTX 5070, DLSS frame gene",
       "source": "github",
-      "tag": "C",
-      "url": "https://github.com/AFK-surf/xnulinux"
+      "tag": "Rust",
+      "url": "https://github.com/trustno1-coder/VIctory-NVIDIA"
     },
     {
       "title": "fxceless/victory-fork: Work-in-progress fork of VIctory: getting an Xbox Series ",
-      "hot": "⭐ 3.3k",
+      "hot": "⭐ 3.4k",
       "desc": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
       "source": "github",
       "tag": "Rust",
       "url": "https://github.com/fxceless/victory-fork"
     },
     {
-      "title": "ubiquitarianism/leonida: A continuation of Leonida, the Xbox > PC port interface",
-      "hot": "⭐ 2.6k",
+      "title": "ProjectLeonida/mandy: A continuation of Leonida, the Xbox > PC port interface fo",
+      "hot": "⭐ 2.9k",
       "desc": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
       "source": "github",
       "tag": "Python",
-      "url": "https://github.com/ubiquitarianism/leonida"
+      "url": "https://github.com/ProjectLeonida/mandy"
     },
     {
       "title": "nexu-io/opengame: The Super Game Agent — the Unity & Unreal for AI agents, with ",
-      "hot": "⭐ 2.1k",
+      "hot": "⭐ 2.3k",
       "desc": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) i",
       "source": "github",
       "tag": "TypeScript",
       "url": "https://github.com/nexu-io/opengame"
     },
     {
-      "title": "R0Y00/Xbox2Windows: Static recompilation research for Xbox Series X|S software o",
-      "hot": "⭐ 2.0k",
-      "desc": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
-      "source": "github",
-      "tag": "Python",
-      "url": "https://github.com/R0Y00/Xbox2Windows"
-    },
-    {
       "title": "alesha-pro/llm.asm: Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB)",
-      "hot": "⭐ 2.0k",
+      "hot": "⭐ 2.2k",
       "desc": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM",
       "source": "github",
       "tag": "Assembly",
@@ -538,7 +522,7 @@
     },
     {
       "title": "omonkeyz/xbox-emulator: Progress notes for running Xbox Series X|S builds on PC ",
-      "hot": "⭐ 1.9k",
+      "hot": "⭐ 1.8k",
       "desc": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
       "source": "github",
       "tag": "Rust",
@@ -561,12 +545,28 @@
       "url": "https://github.com/qianyiai/KuroCat"
     },
     {
+      "title": "Reukix/Reloc: iOS accessory-level location simulator over local loopback (iAP2 /",
+      "hot": "⭐ 1.7k",
+      "desc": "iOS accessory-level location simulator over local loopback (iAP2 / MFi-v3 / NMEA)",
+      "source": "github",
+      "tag": "Swift",
+      "url": "https://github.com/Reukix/Reloc"
+    },
+    {
       "title": "Avaneesh-Inamdar/Stream-Tube-Desktop: Native YouTube client for Windows in Rust,",
-      "hot": "⭐ 1.6k",
+      "hot": "⭐ 1.7k",
       "desc": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in",
       "source": "github",
       "tag": "Rust",
       "url": "https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop"
+    },
+    {
+      "title": "Pixel679-cmyk/windows-titlebar-blur-customizer: Customize Windows 10 and 11 titl",
+      "hot": "⭐ 1.5k",
+      "desc": "Customize Windows 10 and 11 title bar effects with Aero, Acrylic, Mica and advanced DWM blur effects.",
+      "source": "github",
+      "tag": "C++",
+      "url": "https://github.com/Pixel679-cmyk/windows-titlebar-blur-customizer"
     }
   ]
 }
